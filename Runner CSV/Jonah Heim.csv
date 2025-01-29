@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+210,1B,2B,Stolen Base 2B,641680,Jonah Heim,Yasmani Grandal,1,0,4,False,2021-09-18,Stolen,2B,2021
+1255,1B,2B,Stolen Base 2B,641680,Jonah Heim,Sean Murphy,3,3,8,False,2021-07-10,Stolen,2B,2021
+1851,2B,,Caught Stealing 3B,641680,Jonah Heim,Dom Nuñez,2,2,11,True,2021-06-01,Caught,3B,2021
+2800,1B,2B,Stolen Base 2B,641680,Jonah Heim,Salvador Perez,0,3,4,True,2021-04-04,Stolen,2B,2021
+2067,1B,2B,Stolen Base 2B,641680,Jonah Heim,Luke Maile,0,5,5,True,2022-06-07,Stolen,2B,2022
+2079,1B,2B,Stolen Base 2B,641680,Jonah Heim,Luke Maile,0,5,5,True,2022-06-06,Stolen,2B,2022
+2301,1B,2B,Stolen Base 2B,641680,Jonah Heim,Kurt Suzuki,1,4,4,True,2022-05-25,Stolen,2B,2022
+3004,1B,2B,Stolen Base 2B,641680,Jonah Heim,Jason Delay,0,3,1,True,2023-05-24,Stolen,2B,2023
+3423,1B,2B,Stolen Base 2B,641680,Jonah Heim,Chad Wallach,0,0,2,True,2023-05-05,Stolen,2B,2023

@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1334,1B,2B,Stolen Base 2B,595943,Phillip Evans,Austin Hedges,4,2,5,False,2018-07-25,Stolen,2B,2018
+1190,1B,,Caught Stealing 2B,595943,Phillip Evans,Yadier Molina,0,0,2,True,2020-07-26,Caught,2B,2020
+2538,1B,2B,Stolen Base 2B,595943,Phillip Evans,Wilson Ramos,2,3,7,True,2021-04-21,Stolen,2B,2021
+2543,1B,2B,Stolen Base 2B,595943,Phillip Evans,Wilson Ramos,2,3,7,True,2021-04-20,Stolen,2B,2021

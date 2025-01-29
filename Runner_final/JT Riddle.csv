@@ -1,0 +1,8 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,514,1B,2B,Stolen Base 2B,595375,JT Riddle,592094,Jason Adam,571974,John Ryan Murphy,R,Willson Contreras,575929,4,2,6,False,2020-09-03,Stolen,2B,2020,2021,26.0
+1,3357,1B,2B,Stolen Base 2B,595375,JT Riddle,592094,Jason Adam,571974,John Ryan Murphy,R,Willson Contreras,575929,4,2,6,False,2020-09-03,Stolen,2B,2020,2021,26.0
+2,5281,1B,2B,Stolen Base 2B,595375,JT Riddle,592094,Jason Adam,571974,John Ryan Murphy,R,Willson Contreras,575929,4,2,6,False,2020-09-03,Stolen,2B,2020,2021,26.0
+3,2531,3B,,Caught Stealing Home,595375,JT Riddle,592314,Mike Foltynewicz,519317,Giancarlo Stanton,R,Kurt Suzuki,435559,0,0,3,True,2017-06-18,Caught,Home,2017,2018,27.8
+4,3081,3B,,Caught Stealing Home,595375,JT Riddle,501593,Luis Avilán,573185,Dan Straily,L,Yasmani Grandal,518735,0,7,3,True,2017-05-20,Caught,Home,2017,2018,27.8
+5,1903,3B,,Caught Stealing Home,595375,JT Riddle,592314,Mike Foltynewicz,519317,Giancarlo Stanton,R,Kurt Suzuki,435559,0,0,3,True,2017-06-18,Caught,Home,2017,2018,27.8
+6,2453,3B,,Caught Stealing Home,595375,JT Riddle,501593,Luis Avilán,573185,Dan Straily,L,Yasmani Grandal,518735,0,7,3,True,2017-05-20,Caught,Home,2017,2018,27.8

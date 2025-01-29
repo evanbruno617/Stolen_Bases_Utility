@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+782,1B,,Caught Stealing 2B,407396,Ken Harvey,John Flaherty,0,2,2,True,2003-08-20,Caught,2B,2003
+1326,1B,2B,Stolen Base 2B,407396,Ken Harvey,Matt Walbeck,1,2,3,True,2003-07-25,Stolen,2B,2003
+1591,3B,,Caught Stealing Home,407396,Ken Harvey,Bengie Molina,2,3,6,True,2003-07-09,Caught,Home,2003
+1839,1B,2B,Stolen Base 2B,407396,Ken Harvey,Mike Matheny,6,3,8,False,2003-06-27,Stolen,2B,2003
+1874,1B,,Caught Stealing 2B,407396,Ken Harvey,Tim Laker,1,0,7,True,2003-06-25,Caught,2B,2003
+1474,1B,,Caught Stealing 2B,407396,Ken Harvey,Robert Machado,1,8,3,False,2004-07-20,Caught,2B,2004
+2022,1B,2B,Stolen Base 2B,407396,Ken Harvey,Mike Lieberthal,0,4,1,True,2004-06-18,Stolen,2B,2004

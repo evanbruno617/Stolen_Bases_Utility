@@ -1,0 +1,16 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1356,1B,2B,Stolen Base 2B,519390,Stephen Vogt,543532,Tim Melville,542436,Cristhian Adames,R,Tony Wolters,547172,0,0,2,False,2019-09-25,Stolen,2B,2019,2020,26.2
+1,1358,1B,2B,Stolen Base 2B,519390,Stephen Vogt,572021,James Pazos,542436,Cristhian Adames,L,Tony Wolters,547172,1,1,8,False,2019-09-25,Stolen,2B,2019,2020,26.2
+2,1640,1B,2B,Stolen Base 2B,519390,Stephen Vogt,520980,Pedro Báez,596103,Austin Slater,R,Will Smith,669257,0,1,8,True,2019-09-07,Stolen,2B,2019,2020,26.2
+3,3137,1B,,Caught Stealing 2B,519390,Stephen Vogt,607625,Seth Lugo,543063,Brandon Crawford,R,Wilson Ramos,467092,3,3,8,True,2019-06-04,Caught,2B,2019,2020,26.2
+4,4199,1B,2B,Stolen Base 2B,519390,Stephen Vogt,543532,Tim Melville,542436,Cristhian Adames,R,Tony Wolters,547172,0,0,2,False,2019-09-25,Stolen,2B,2019,2020,26.2
+5,4201,1B,2B,Stolen Base 2B,519390,Stephen Vogt,572021,James Pazos,542436,Cristhian Adames,L,Tony Wolters,547172,1,1,8,False,2019-09-25,Stolen,2B,2019,2020,26.2
+6,4483,1B,2B,Stolen Base 2B,519390,Stephen Vogt,520980,Pedro Báez,596103,Austin Slater,R,Will Smith,669257,0,1,8,True,2019-09-07,Stolen,2B,2019,2020,26.2
+7,5980,1B,,Caught Stealing 2B,519390,Stephen Vogt,607625,Seth Lugo,543063,Brandon Crawford,R,Wilson Ramos,467092,3,3,8,True,2019-06-04,Caught,2B,2019,2020,26.2
+8,6123,1B,2B,Stolen Base 2B,519390,Stephen Vogt,543532,Tim Melville,542436,Cristhian Adames,R,Tony Wolters,547172,0,0,2,False,2019-09-25,Stolen,2B,2019,2020,26.2
+9,6125,1B,2B,Stolen Base 2B,519390,Stephen Vogt,572021,James Pazos,542436,Cristhian Adames,L,Tony Wolters,547172,1,1,8,False,2019-09-25,Stolen,2B,2019,2020,26.2
+10,6407,1B,2B,Stolen Base 2B,519390,Stephen Vogt,520980,Pedro Báez,596103,Austin Slater,R,Will Smith,669257,0,1,8,True,2019-09-07,Stolen,2B,2019,2020,26.2
+11,7904,1B,,Caught Stealing 2B,519390,Stephen Vogt,607625,Seth Lugo,543063,Brandon Crawford,R,Wilson Ramos,467092,3,3,8,True,2019-06-04,Caught,2B,2019,2020,26.2
+12,3301,1B,,Caught Stealing 2B,519390,Stephen Vogt,433589,Yusmeiro Petit,489267,Adam Rosales,R,Juan Graterol,492802,2,1,7,False,2017-05-10,Caught,2B,2017,2019,26.5
+13,2673,1B,,Caught Stealing 2B,519390,Stephen Vogt,433589,Yusmeiro Petit,489267,Adam Rosales,R,Juan Graterol,492802,2,1,7,False,2017-05-10,Caught,2B,2017,2019,26.5
+14,311,3B,,Caught Stealing Home,519390,Stephen Vogt,433587,Félix Hernández,477195,Ike Davis,R,Jesús Sucre,491696,1,0,1,False,2015-07-04,Caught,Home,2015,2016,26.0

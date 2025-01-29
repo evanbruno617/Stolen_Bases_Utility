@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1610,1B,2B,Stolen Base 2B,663368,Blake Perkins,Tyler Stephenson,2,2,7,False,2023-07-24,Stolen,2B,2023
+1721,1B,2B,Stolen Base 2B,663368,Blake Perkins,J.T. Realmuto,3,3,7,True,2023-07-19,Stolen,2B,2023
+1800,1B,2B,Stolen Base 2B,663368,Blake Perkins,Luke Maile,0,3,7,True,2023-07-15,Stolen,2B,2023
+2205,1B,,Caught Stealing 2B,663368,Blake Perkins,Bo Naylor,1,4,4,True,2023-06-25,Caught,2B,2023
+2207,1B,2B,Stolen Base 2B,663368,Blake Perkins,Bo Naylor,4,4,9,True,2023-06-25,Stolen,2B,2023
+2597,1B,,Caught Stealing 2B,663368,Blake Perkins,Shea Langeliers,2,4,4,False,2023-06-09,Caught,2B,2023
+2669,1B,2B,Stolen Base 2B,663368,Blake Perkins,Adley Rutschman,3,3,8,False,2023-06-06,Stolen,2B,2023

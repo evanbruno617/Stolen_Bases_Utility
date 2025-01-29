@@ -1,0 +1,52 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,517,1B,2B,Stolen Base 2B,656185,Greg Allen,570240,Félix Peña,665487,Fernando Tatis Jr.,R,Anthony Bemboom,621532,3,3,7,True,2020-09-02,Stolen,2B,2020,2021,28.1
+1,738,1B,2B,Stolen Base 2B,656185,Greg Allen,608335,Kyle Funkhouser,514917,César Hernández,R,Austin Romine,519222,6,1,8,False,2020-08-22,Stolen,2B,2020,2021,28.1
+2,3360,1B,2B,Stolen Base 2B,656185,Greg Allen,570240,Félix Peña,665487,Fernando Tatis Jr.,R,Anthony Bemboom,621532,3,3,7,True,2020-09-02,Stolen,2B,2020,2021,28.1
+3,3581,1B,2B,Stolen Base 2B,656185,Greg Allen,608335,Kyle Funkhouser,514917,César Hernández,R,Austin Romine,519222,6,1,8,False,2020-08-22,Stolen,2B,2020,2021,28.1
+4,5284,1B,2B,Stolen Base 2B,656185,Greg Allen,570240,Félix Peña,665487,Fernando Tatis Jr.,R,Anthony Bemboom,621532,3,3,7,True,2020-09-02,Stolen,2B,2020,2021,28.1
+5,5505,1B,2B,Stolen Base 2B,656185,Greg Allen,608335,Kyle Funkhouser,514917,César Hernández,R,Austin Romine,519222,6,1,8,False,2020-08-22,Stolen,2B,2020,2021,28.1
+6,1510,1B,2B,Stolen Base 2B,656185,Greg Allen,607560,Ryne Harper,547379,Roberto Pérez,R,Willians Astudillo,553902,7,5,8,False,2019-09-15,Stolen,2B,2019,2020,27.2
+7,1591,1B,2B,Stolen Base 2B,656185,Greg Allen,472610,Luis García,614177,Franmil Reyes,R,Kevan Smith,607345,2,4,7,True,2019-09-11,Stolen,2B,2019,2020,27.2
+8,1651,1B,2B,Stolen Base 2B,656185,Greg Allen,641793,Zack Littell,596019,Francisco Lindor,R,Mitch Garver,641598,1,2,7,True,2019-09-07,Stolen,2B,2019,2020,27.2
+9,1801,1B,2B,Stolen Base 2B,656185,Greg Allen,572403,Drew VerHagen,596019,Francisco Lindor,R,Jake Rogers,668670,0,1,5,True,2019-08-29,Stolen,2B,2019,2020,27.2
+10,1870,1B,2B,Stolen Base 2B,656185,Greg Allen,607215,Eric Skoglund,596019,Francisco Lindor,L,Nick Dini,664926,2,3,3,False,2019-08-25,Stolen,2B,2019,2020,27.2
+11,2037,1B,2B,Stolen Base 2B,656185,Greg Allen,519443,Brandon Workman,571980,Tyler Naquin,R,Christian Vázquez,543877,5,6,9,False,2019-08-13,Stolen,2B,2019,2020,27.2
+12,2129,1B,,Caught Stealing 2B,656185,Greg Allen,458681,Lance Lynn,608700,Kevin Plawecki,R,Jeff Mathis,425772,1,0,3,False,2019-08-07,Caught,2B,2019,2020,27.2
+13,2131,1B,,Caught Stealing 2B,656185,Greg Allen,458681,Lance Lynn,608700,Kevin Plawecki,R,Jeff Mathis,425772,1,0,3,False,2019-08-06,Caught,2B,2019,2020,27.2
+14,2335,1B,,Caught Stealing 2B,656185,Greg Allen,573186,Marcus Stroman,608700,Kevin Plawecki,R,Danny Jansen,643376,0,0,3,True,2019-07-24,Caught,2B,2019,2020,27.2
+15,2357,1B,2B,Stolen Base 2B,656185,Greg Allen,592717,Aaron Sanchez,596019,Francisco Lindor,R,Danny Jansen,643376,0,1,3,True,2019-07-23,Stolen,2B,2019,2020,27.2
+16,2359,1B,2B,Stolen Base 2B,656185,Greg Allen,571704,Ken Giles,640458,Óscar Mercado,R,Danny Jansen,643376,1,1,10,True,2019-07-23,Stolen,2B,2019,2020,27.2
+17,4353,1B,2B,Stolen Base 2B,656185,Greg Allen,607560,Ryne Harper,547379,Roberto Pérez,R,Willians Astudillo,553902,7,5,8,False,2019-09-15,Stolen,2B,2019,2020,27.2
+18,4434,1B,2B,Stolen Base 2B,656185,Greg Allen,472610,Luis García,614177,Franmil Reyes,R,Kevan Smith,607345,2,4,7,True,2019-09-11,Stolen,2B,2019,2020,27.2
+19,4494,1B,2B,Stolen Base 2B,656185,Greg Allen,641793,Zack Littell,596019,Francisco Lindor,R,Mitch Garver,641598,1,2,7,True,2019-09-07,Stolen,2B,2019,2020,27.2
+20,4644,1B,2B,Stolen Base 2B,656185,Greg Allen,572403,Drew VerHagen,596019,Francisco Lindor,R,Jake Rogers,668670,0,1,5,True,2019-08-29,Stolen,2B,2019,2020,27.2
+21,4713,1B,2B,Stolen Base 2B,656185,Greg Allen,607215,Eric Skoglund,596019,Francisco Lindor,L,Nick Dini,664926,2,3,3,False,2019-08-25,Stolen,2B,2019,2020,27.2
+22,4880,1B,2B,Stolen Base 2B,656185,Greg Allen,519443,Brandon Workman,571980,Tyler Naquin,R,Christian Vázquez,543877,5,6,9,False,2019-08-13,Stolen,2B,2019,2020,27.2
+23,4972,1B,,Caught Stealing 2B,656185,Greg Allen,458681,Lance Lynn,608700,Kevin Plawecki,R,Jeff Mathis,425772,1,0,3,False,2019-08-07,Caught,2B,2019,2020,27.2
+24,4974,1B,,Caught Stealing 2B,656185,Greg Allen,458681,Lance Lynn,608700,Kevin Plawecki,R,Jeff Mathis,425772,1,0,3,False,2019-08-06,Caught,2B,2019,2020,27.2
+25,5178,1B,,Caught Stealing 2B,656185,Greg Allen,573186,Marcus Stroman,608700,Kevin Plawecki,R,Danny Jansen,643376,0,0,3,True,2019-07-24,Caught,2B,2019,2020,27.2
+26,5200,1B,2B,Stolen Base 2B,656185,Greg Allen,592717,Aaron Sanchez,596019,Francisco Lindor,R,Danny Jansen,643376,0,1,3,True,2019-07-23,Stolen,2B,2019,2020,27.2
+27,5202,1B,2B,Stolen Base 2B,656185,Greg Allen,571704,Ken Giles,640458,Óscar Mercado,R,Danny Jansen,643376,1,1,10,True,2019-07-23,Stolen,2B,2019,2020,27.2
+28,6277,1B,2B,Stolen Base 2B,656185,Greg Allen,607560,Ryne Harper,547379,Roberto Pérez,R,Willians Astudillo,553902,7,5,8,False,2019-09-15,Stolen,2B,2019,2020,27.2
+29,6358,1B,2B,Stolen Base 2B,656185,Greg Allen,472610,Luis García,614177,Franmil Reyes,R,Kevan Smith,607345,2,4,7,True,2019-09-11,Stolen,2B,2019,2020,27.2
+30,6418,1B,2B,Stolen Base 2B,656185,Greg Allen,641793,Zack Littell,596019,Francisco Lindor,R,Mitch Garver,641598,1,2,7,True,2019-09-07,Stolen,2B,2019,2020,27.2
+31,6568,1B,2B,Stolen Base 2B,656185,Greg Allen,572403,Drew VerHagen,596019,Francisco Lindor,R,Jake Rogers,668670,0,1,5,True,2019-08-29,Stolen,2B,2019,2020,27.2
+32,6637,1B,2B,Stolen Base 2B,656185,Greg Allen,607215,Eric Skoglund,596019,Francisco Lindor,L,Nick Dini,664926,2,3,3,False,2019-08-25,Stolen,2B,2019,2020,27.2
+33,6804,1B,2B,Stolen Base 2B,656185,Greg Allen,519443,Brandon Workman,571980,Tyler Naquin,R,Christian Vázquez,543877,5,6,9,False,2019-08-13,Stolen,2B,2019,2020,27.2
+34,6896,1B,,Caught Stealing 2B,656185,Greg Allen,458681,Lance Lynn,608700,Kevin Plawecki,R,Jeff Mathis,425772,1,0,3,False,2019-08-07,Caught,2B,2019,2020,27.2
+35,6898,1B,,Caught Stealing 2B,656185,Greg Allen,458681,Lance Lynn,608700,Kevin Plawecki,R,Jeff Mathis,425772,1,0,3,False,2019-08-06,Caught,2B,2019,2020,27.2
+36,7102,1B,,Caught Stealing 2B,656185,Greg Allen,573186,Marcus Stroman,608700,Kevin Plawecki,R,Danny Jansen,643376,0,0,3,True,2019-07-24,Caught,2B,2019,2020,27.2
+37,7124,1B,2B,Stolen Base 2B,656185,Greg Allen,592717,Aaron Sanchez,596019,Francisco Lindor,R,Danny Jansen,643376,0,1,3,True,2019-07-23,Stolen,2B,2019,2020,27.2
+38,7126,1B,2B,Stolen Base 2B,656185,Greg Allen,571704,Ken Giles,640458,Óscar Mercado,R,Danny Jansen,643376,1,1,10,True,2019-07-23,Stolen,2B,2019,2020,27.2
+39,1020,1B,2B,Stolen Base 2B,656185,Greg Allen,545343,Louis Head,518934,DJ LeMahieu,R,Mike Zunino,572287,2,4,8,True,2021-07-27,Stolen,2B,2021,2022,28.3
+40,1066,1B,2B,Stolen Base 2B,656185,Greg Allen,493603,Adam Ottavino,656467,Chris Gittens,R,Kevin Plawecki,608700,3,4,8,True,2021-07-24,Stolen,2B,2021,2022,28.3
+41,1109,2B,3B,Stolen Base 3B,656185,Greg Allen,650911,Cristopher Sánchez,664314,Estevan Florial,L,J.T. Realmuto,592663,2,2,4,False,2021-07-21,Stolen,3B,2021,2022,28.3
+42,1138,1B,2B,Stolen Base 2B,656185,Greg Allen,605400,Aaron Nola,664314,Estevan Florial,R,J.T. Realmuto,592663,1,2,5,False,2021-07-20,Stolen,2B,2021,2022,28.3
+43,1157,1B,2B,Stolen Base 2B,656185,Greg Allen,519443,Brandon Workman,596142,Gary Sánchez,R,Christian Vázquez,543877,5,0,7,False,2021-07-18,Stolen,2B,2021,2022,28.3
+44,2944,1B,2B,Stolen Base 2B,656185,Greg Allen,545343,Louis Head,518934,DJ LeMahieu,R,Mike Zunino,572287,2,4,8,True,2021-07-27,Stolen,2B,2021,2022,28.3
+45,2990,1B,2B,Stolen Base 2B,656185,Greg Allen,493603,Adam Ottavino,656467,Chris Gittens,R,Kevin Plawecki,608700,3,4,8,True,2021-07-24,Stolen,2B,2021,2022,28.3
+46,3033,2B,3B,Stolen Base 3B,656185,Greg Allen,650911,Cristopher Sánchez,664314,Estevan Florial,L,J.T. Realmuto,592663,2,2,4,False,2021-07-21,Stolen,3B,2021,2022,28.3
+47,3062,1B,2B,Stolen Base 2B,656185,Greg Allen,605400,Aaron Nola,664314,Estevan Florial,R,J.T. Realmuto,592663,1,2,5,False,2021-07-20,Stolen,2B,2021,2022,28.3
+48,3081,1B,2B,Stolen Base 2B,656185,Greg Allen,519443,Brandon Workman,596142,Gary Sánchez,R,Christian Vázquez,543877,5,0,7,False,2021-07-18,Stolen,2B,2021,2022,28.3
+49,846,1B,2B,Stolen Base 2B,656185,Greg Allen,502032,Bud Norris,547379,Roberto Pérez,R,Juan Graterol,492802,2,3,9,True,2017-09-19,Stolen,2B,2017,2018,28.9
+50,218,1B,2B,Stolen Base 2B,656185,Greg Allen,502032,Bud Norris,547379,Roberto Pérez,R,Juan Graterol,492802,2,3,9,True,2017-09-19,Stolen,2B,2017,2018,28.9

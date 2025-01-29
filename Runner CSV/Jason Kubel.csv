@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+4,1B,2B,Stolen Base 2B,430585,Jason Kubel,Jorge Posada,3,3,7,True,2004-09-30,Stolen,2B,2004
+154,1B,2B,Stolen Base 2B,430585,Jason Kubel,Donny Lucy,1,1,6,False,2007-09-23,Stolen,2B,2007
+483,1B,2B,Stolen Base 2B,430585,Jason Kubel,Jason LaRue,2,4,9,True,2007-09-10,Stolen,2B,2007
+1609,1B,2B,Stolen Base 2B,430585,Jason Kubel,Mike Napoli,7,5,5,False,2007-07-20,Stolen,2B,2007
+2839,1B,2B,Stolen Base 2B,430585,Jason Kubel,Gerald Laird,1,3,3,True,2007-05-23,Stolen,2B,2007
+3623,1B,2B,Stolen Base 2B,430585,Jason Kubel,Dioner Navarro,1,1,5,False,2007-04-15,Stolen,2B,2007
+3325,1B,,Caught Stealing 2B,430585,Jason Kubel,Victor Martinez,2,0,2,False,2008-04-19,Caught,2B,2008
+362,1B,2B,Stolen Base 2B,430585,Jason Kubel,Jarrod Saltalamacchia,1,3,7,True,2009-07-18,Stolen,2B,2009
+599,1B,,Caught Stealing 2B,430585,Jason Kubel,Gerald Laird,2,0,4,False,2009-07-05,Caught,2B,2009
+1280,1B,,Caught Stealing 2B,430585,Jason Kubel,Rob Johnson,4,0,8,False,2010-08-01,Caught,2B,2010
+631,1B,,Caught Stealing 2B,430585,Jason Kubel,Hank Conger,1,0,2,True,2011-09-04,Caught,2B,2011
+4030,1B,2B,Stolen Base 2B,430585,Jason Kubel,John Jaso,1,3,6,True,2011-04-16,Stolen,2B,2011
+3103,1B,,Caught Stealing 2B,430585,Jason Kubel,Humberto Quintero,3,4,6,True,2012-05-18,Caught,2B,2012
+3363,1B,2B,Stolen Base 2B,430585,Jason Kubel,Yadier Molina,0,3,1,False,2012-05-07,Stolen,2B,2012
+2526,1B,,Caught Stealing 2B,430585,Jason Kubel,Nick Hundley,4,1,3,False,2013-05-26,Caught,2B,2013
+2626,1B,2B,Stolen Base 2B,430585,Jason Kubel,René Rivera,0,0,2,True,2014-05-21,Stolen,2B,2014

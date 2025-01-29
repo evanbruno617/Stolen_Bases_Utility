@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+385,1B,,Caught Stealing 2B,133420,Charles Gipson,Gregg Zaun,1,1,11,False,2000-09-13,Caught,2B,2000
+2236,1B,,Caught Stealing 2B,133420,Charles Gipson,John Flaherty,4,3,8,False,2000-06-20,Caught,2B,2000
+2359,1B,2B,Stolen Base 2B,133420,Charles Gipson,Matthew LeCroy,5,8,9,True,2000-06-15,Stolen,2B,2000
+3382,1B,,Caught Stealing 2B,133420,Charles Gipson,Marcus Jensen,4,5,9,True,2000-05-02,Caught,2B,2000
+3952,2B,3B,Stolen Base 3B,133420,Charles Gipson,Jorge Posada,2,0,2,False,2000-04-07,Stolen,3B,2000
+1274,1B,,Caught Stealing 2B,133420,Charles Gipson,Jorge Fabregas,1,2,9,True,2001-04-14,Caught,2B,2001
+174,1B,2B,Stolen Base 2B,133420,Charles Gipson,Bengie Molina,6,4,8,False,2002-09-21,Stolen,2B,2002
+175,2B,3B,Stolen Base 3B,133420,Charles Gipson,Bengie Molina,6,4,8,False,2002-09-21,Stolen,3B,2002
+1934,1B,2B,Stolen Base 2B,133420,Charles Gipson,Ramon Hernandez,1,0,8,False,2002-06-26,Stolen,2B,2002
+3050,1B,2B,Stolen Base 2B,133420,Charles Gipson,Tom Wilson,7,7,10,False,2002-05-09,Stolen,2B,2002
+2542,1B,2B,Stolen Base 2B,133420,Charles Gipson,Tom Wilson,1,4,2,False,2003-05-22,Stolen,2B,2003
+2544,1B,2B,Stolen Base 2B,133420,Charles Gipson,Tom Wilson,2,7,7,False,2003-05-22,Stolen,2B,2003
+2494,1B,2B,Stolen Base 2B,133420,Charles Gipson,Henry Blanco,5,4,8,False,2004-05-27,Stolen,2B,2004
+500,1B,2B,Stolen Base 2B,133420,Charles Gipson,Todd Pratt,1,2,9,True,2005-09-06,Stolen,2B,2005
+501,2B,,Caught Stealing 3B,133420,Charles Gipson,Todd Pratt,1,2,9,True,2005-09-06,Caught,3B,2005

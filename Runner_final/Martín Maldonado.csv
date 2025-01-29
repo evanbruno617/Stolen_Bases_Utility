@@ -1,0 +1,12 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,842,1B,2B,Stolen Base 2B,455117,Martín Maldonado,656954,Justus Sheffield,543807,George Springer,L,Joseph Odom,641929,2,2,4,False,2020-08-16,Stolen,2B,2020,2021,23.8
+1,3685,1B,2B,Stolen Base 2B,455117,Martín Maldonado,656954,Justus Sheffield,543807,George Springer,L,Joseph Odom,641929,2,2,4,False,2020-08-16,Stolen,2B,2020,2021,23.8
+2,5609,1B,2B,Stolen Base 2B,455117,Martín Maldonado,656954,Justus Sheffield,543807,George Springer,L,Joseph Odom,641929,2,2,4,False,2020-08-16,Stolen,2B,2020,2021,23.8
+3,2469,2B,,Caught Stealing 3B,455117,Martín Maldonado,656756,Jordan Montgomery,543068,C.J. Cron,L,Austin Romine,519222,0,0,2,True,2017-06-21,Caught,3B,2017,2018,24.0
+4,2547,1B,,Caught Stealing 2B,455117,Martín Maldonado,432934,Chris Young,457727,Cameron Maybin,R,Drew Butera,460077,5,0,6,False,2017-06-17,Caught,2B,2017,2018,24.0
+5,1841,2B,,Caught Stealing 3B,455117,Martín Maldonado,656756,Jordan Montgomery,543068,C.J. Cron,L,Austin Romine,519222,0,0,2,True,2017-06-21,Caught,3B,2017,2018,24.0
+6,1919,1B,,Caught Stealing 2B,455117,Martín Maldonado,432934,Chris Young,457727,Cameron Maybin,R,Drew Butera,460077,5,0,6,False,2017-06-17,Caught,2B,2017,2018,24.0
+7,5143,1B,2B,Stolen Base 2B,455117,Martín Maldonado,640463,Braden Shipley,502624,Chase Anderson,R,Welington Castillo,456078,1,1,4,True,2016-08-05,Stolen,2B,2016,2017,24.8
+8,1108,1B,2B,Stolen Base 2B,455117,Martín Maldonado,640463,Braden Shipley,502624,Chase Anderson,R,Welington Castillo,456078,1,1,4,True,2016-08-05,Stolen,2B,2016,2017,24.8
+9,4515,1B,2B,Stolen Base 2B,455117,Martín Maldonado,640463,Braden Shipley,502624,Chase Anderson,R,Welington Castillo,456078,1,1,4,True,2016-08-05,Stolen,2B,2016,2017,24.8
+10,1596,1B,,Caught Stealing 2B,455117,Martín Maldonado,453562,Jake Arrieta,571666,Mike Fiers,R,Miguel Montero,471083,0,4,4,True,2015-05-02,Caught,2B,2015,2016,25.3

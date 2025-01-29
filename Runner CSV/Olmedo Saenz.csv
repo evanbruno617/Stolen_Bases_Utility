@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3384,1B,2B,Stolen Base 2B,121616,Olmedo Saenz,Brian Johnson,5,5,8,True,2000-05-02,Stolen,2B,2000
+0,1B,,Caught Stealing 2B,121616,Olmedo Saenz,Shawn Wooten,3,0,2,True,2001-06-05,Caught,2B,2001
+3738,1B,2B,Stolen Base 2B,121616,Olmedo Saenz,Ivan Rodriguez,2,2,4,True,2002-04-10,Stolen,2B,2002
+2855,1B,2B,Caught Stealing Home,121616,Olmedo Saenz,Jason Kendall,3,4,9,True,2004-05-08,Caught,Home,2004

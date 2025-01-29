@@ -1,0 +1,10 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1776,2B,3B,Stolen Base 3B,460060,Cliff Pennington,623454,Drew Anderson,453203,Shane Robinson,R,Andrew Knapp,595284,7,1,8,False,2017-08-01,Stolen,3B,2017,2018,26.5
+1,3505,1B,2B,Stolen Base 2B,460060,Cliff Pennington,456713,Matt Bush,488862,Yunel Escobar,R,Jonathan Lucroy,518960,6,3,9,True,2017-04-29,Stolen,2B,2017,2018,26.5
+2,3693,2B,3B,Stolen Base 3B,460060,Cliff Pennington,606965,Chris Devenski,457727,Cameron Maybin,R,Brian McCann,435263,2,1,9,True,2017-04-20,Stolen,3B,2017,2018,26.5
+3,1148,2B,3B,Stolen Base 3B,460060,Cliff Pennington,623454,Drew Anderson,453203,Shane Robinson,R,Andrew Knapp,595284,7,1,8,False,2017-08-01,Stolen,3B,2017,2018,26.5
+4,2877,1B,2B,Stolen Base 2B,460060,Cliff Pennington,456713,Matt Bush,488862,Yunel Escobar,R,Jonathan Lucroy,518960,6,3,9,True,2017-04-29,Stolen,2B,2017,2018,26.5
+5,3065,2B,3B,Stolen Base 3B,460060,Cliff Pennington,606965,Chris Devenski,457727,Cameron Maybin,R,Brian McCann,435263,2,1,9,True,2017-04-20,Stolen,3B,2017,2018,26.5
+6,17,1B,2B,Stolen Base 2B,460060,Cliff Pennington,608349,Corey Knebel,502671,Paul Goldschmidt,R,Jonathan Lucroy,518960,5,0,7,False,2015-07-23,Stolen,2B,2015,2016,26.7
+7,397,2B,3B,Stolen Base 3B,460060,Cliff Pennington,571893,Adam Liberatore,444482,David Peralta,L,Yasmani Grandal,518735,6,6,7,False,2015-06-29,Stolen,3B,2015,2016,26.7
+8,2079,2B,3B,Stolen Base 3B,460060,Cliff Pennington,434442,J.P. Howell,572041,AJ Pollock,L,Yasmani Grandal,518735,3,3,10,False,2015-04-10,Stolen,3B,2015,2016,26.7

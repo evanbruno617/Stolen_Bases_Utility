@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1758,1B,2B,Stolen Base 2B,607345,Kevan Smith,Bobby Wilson,1,2,13,False,2018-06-28,Stolen,2B,2018
+389,1B,2B,Stolen Base 2B,607345,Kevan Smith,Zack Collins,2,2,2,True,2019-09-07,Stolen,2B,2019
+2223,1B,2B,Stolen Base 2B,607345,Kevan Smith,Jason Castro,4,5,7,True,2019-05-13,Stolen,2B,2019

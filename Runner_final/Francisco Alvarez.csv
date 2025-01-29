@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,444,1B,2B,Stolen Base 2B,682626,Francisco Alvarez,573009,Joe Mantiply,607043,Brandon Nimmo,L,Seby Zavala,664874,6,2,6,False,2023-09-12,Stolen,2B,2023,2024,25.8
+1,650,1B,2B,Stolen Base 2B,682626,Francisco Alvarez,571578,Patrick Corbin,683146,Brett Baty,L,Keibert Ruiz,660688,1,7,3,True,2023-09-05,Stolen,2B,2023,2024,25.8
+2,4858,1B,2B,Stolen Base 2B,682626,Francisco Alvarez,573009,Joe Mantiply,607043,Brandon Nimmo,L,Seby Zavala,664874,6,2,6,False,2023-09-12,Stolen,2B,2023,2024,25.8
+3,5064,1B,2B,Stolen Base 2B,682626,Francisco Alvarez,571578,Patrick Corbin,683146,Brett Baty,L,Keibert Ruiz,660688,1,7,3,True,2023-09-05,Stolen,2B,2023,2024,25.8

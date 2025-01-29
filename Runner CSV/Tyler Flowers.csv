@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+659,1B,,Caught Stealing 2B,452095,Tyler Flowers,Gerald Laird,0,1,5,True,2012-09-02,Caught,2B,2012
+2195,1B,2B,Stolen Base 2B,452095,Tyler Flowers,Joe Mauer,0,3,7,True,2012-06-26,Stolen,2B,2012
+3925,1B,2B,Stolen Base 2B,452095,Tyler Flowers,Alex Avila,4,0,7,False,2012-04-14,Stolen,2B,2012
+3256,1B,,Caught Stealing 2B,452095,Tyler Flowers,Joe Mauer,1,1,5,False,2013-04-20,Caught,2B,2013
+2990,1B,,Caught Stealing 2B,452095,Tyler Flowers,Carlos Santana,1,0,3,True,2014-05-03,Caught,2B,2014
+1486,1B,,Caught Stealing 2B,452095,Tyler Flowers,Dioner Navarro,3,0,2,False,2015-07-08,Caught,2B,2015
+748,2B,,Caught Stealing 3B,452095,Tyler Flowers,Mike Zunino,0,0,2,False,2017-08-22,Caught,3B,2017

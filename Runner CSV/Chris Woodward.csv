@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2683,1B,2B,Stolen Base 2B,218595,Chris Woodward,Paul Bako,4,2,2,True,2000-06-02,Stolen,2B,2000
+382,1B,,Caught Stealing 2B,218595,Chris Woodward,Ivan Rodriguez,3,2,7,True,2001-05-20,Caught,2B,2001
+213,1B,2B,Stolen Base 2B,218595,Chris Woodward,Raul Casanova,2,4,4,True,2002-09-19,Stolen,2B,2002
+1520,1B,2B,Stolen Base 2B,218595,Chris Woodward,Geronimo Gil,0,0,2,False,2002-07-17,Stolen,2B,2002
+2155,1B,2B,Stolen Base 2B,218595,Chris Woodward,Michael Barrett,0,0,1,True,2002-06-15,Stolen,2B,2002
+647,1B,,Caught Stealing 2B,218595,Chris Woodward,Jason Varitek,3,3,6,True,2003-08-27,Caught,2B,2003
+745,3B,,Caught Stealing Home,218595,Chris Woodward,Ramon Hernandez,5,3,6,False,2003-08-22,Caught,Home,2003
+2075,1B,2B,Stolen Base 2B,218595,Chris Woodward,Paul Bako,4,4,6,False,2003-06-15,Stolen,2B,2003
+918,1B,2B,Stolen Base 2B,218595,Chris Woodward,Jason Varitek,5,3,7,True,2004-08-16,Stolen,2B,2004
+1900,1B,,Caught Stealing 2B,218595,Chris Woodward,Brian Schneider,2,0,6,False,2004-06-25,Caught,2B,2004
+3330,1B,,Caught Stealing 2B,218595,Chris Woodward,Brandon Inge,0,3,6,True,2004-04-15,Caught,2B,2004
+3141,1B,2B,Stolen Base 2B,218595,Chris Woodward,Josh Bard,0,1,3,False,2007-05-07,Stolen,2B,2007
+939,1B,2B,Stolen Base 2B,218595,Chris Woodward,Miguel Montero,4,3,8,False,2009-06-19,Stolen,2B,2009

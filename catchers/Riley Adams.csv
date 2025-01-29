@@ -1,0 +1,97 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,2B,3B,Stolen Base 3B,676914,Davis Schneider,571578,Patrick Corbin,672386,Alejandro Kirk,L,Riley Adams,656180,2,0,1,False,2023-08-30,Stolen,3B,2023,2024, 85.6, 0.68
+1,1B,2B,Stolen Base 2B,665489,Vladimir Guerrero Jr.,571578,Patrick Corbin,672386,Alejandro Kirk,L,Riley Adams,656180,2,0,1,False,2023-08-30,Stolen,2B,2023,2024, 85.6, 0.68
+2,1B,2B,Stolen Base 2B,593160,Whit Merrifield,600921,Andrés Machado,672386,Alejandro Kirk,R,Riley Adams,656180,7,0,7,False,2023-08-30,Stolen,2B,2023,2024, 85.6, 0.68
+3,1B,2B,Stolen Base 2B,650333,Luis Arraez,672851,Joan Adon,605137,Josh Bell,R,Riley Adams,656180,0,3,6,False,2023-08-25,Stolen,2B,2023,2024, 85.6, 0.68
+4,1B,,Caught Stealing 2B,683011,Anthony Volpe,680686,Josiah Gray,677592,Everson Pereira,R,Riley Adams,656180,1,1,4,False,2023-08-22,Caught,2B,2023,2024, 85.6, 0.68
+5,1B,2B,Stolen Base 2B,592206,Nick Castellanos,680686,Josiah Gray,607208,Trea Turner,R,Riley Adams,656180,1,0,3,False,2023-08-08,Stolen,2B,2023,2024, 85.6, 0.68
+6,1B,2B,Stolen Base 2B,607208,Trea Turner,678606,Jose A. Ferrer,681082,Bryson Stott,L,Riley Adams,656180,4,2,5,False,2023-08-08,Stolen,2B,2023,2024, 85.6, 0.68
+7,1B,2B,Stolen Base 2B,596117,Garrett Stubbs,678606,Jose A. Ferrer,656941,Kyle Schwarber,L,Riley Adams,656180,4,2,6,False,2023-08-08,Stolen,2B,2023,2024, 85.6, 0.68
+8,1B,2B,Stolen Base 2B,681082,Bryson Stott,600921,Andrés Machado,666801,Rodolfo Castro,R,Riley Adams,656180,4,4,7,False,2023-08-08,Stolen,2B,2023,2024, 85.6, 0.68
+9,1B,2B,Stolen Base 2B,592206,Nick Castellanos,680686,Josiah Gray,607208,Trea Turner,R,Riley Adams,656180,1,0,3,False,2023-08-07,Stolen,2B,2023,2024, 85.6, 0.68
+10,1B,2B,Stolen Base 2B,607208,Trea Turner,678606,Jose A. Ferrer,681082,Bryson Stott,L,Riley Adams,656180,4,2,5,False,2023-08-07,Stolen,2B,2023,2024, 85.6, 0.68
+11,1B,2B,Stolen Base 2B,596117,Garrett Stubbs,678606,Jose A. Ferrer,656941,Kyle Schwarber,L,Riley Adams,656180,4,2,6,False,2023-08-07,Stolen,2B,2023,2024, 85.6, 0.68
+12,1B,2B,Stolen Base 2B,681082,Bryson Stott,600921,Andrés Machado,666801,Rodolfo Castro,R,Riley Adams,656180,4,4,7,False,2023-08-07,Stolen,2B,2023,2024, 85.6, 0.68
+13,1B,2B,Stolen Base 2B,545341,Randal Grichuk,678606,Jose A. Ferrer,553869,Elias Díaz,L,Riley Adams,656180,2,5,8,True,2023-07-25,Stolen,2B,2023,2024, 85.6, 0.68
+14,1B,2B,Stolen Base 2B,608671,Travis Jankowski,672851,Joan Adon,677649,Ezequiel Duran,R,Riley Adams,656180,2,7,8,True,2023-07-07,Stolen,2B,2023,2024, 85.6, 0.68
+15,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,669022,MacKenzie Gore,668715,Spencer Steer,L,Riley Adams,656180,0,0,2,True,2023-07-06,Stolen,2B,2023,2024, 85.6, 0.68
+16,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,571578,Patrick Corbin,668715,Spencer Steer,L,Riley Adams,656180,0,2,3,True,2023-07-04,Stolen,2B,2023,2024, 85.6, 0.68
+17,1B,2B,Stolen Base 2B,621028,Kevin Newman,571578,Patrick Corbin,680574,Matt McLain,L,Riley Adams,656180,1,6,5,True,2023-07-04,Stolen,2B,2023,2024, 85.6, 0.68
+18,1B,,Caught Stealing 2B,682829,Elly De La Cruz,676265,Cory Abbott,668715,Spencer Steer,R,Riley Adams,656180,2,7,6,True,2023-07-04,Caught,2B,2023,2024, 85.6, 0.68
+19,1B,2B,Stolen Base 2B,670770,TJ Friedl,676265,Cory Abbott,641584,Jake Fraley,R,Riley Adams,656180,4,7,7,True,2023-07-04,Stolen,2B,2023,2024, 85.6, 0.68
+20,2B,3B,Stolen Base 3B,680574,Matt McLain,676265,Cory Abbott,682829,Elly De La Cruz,R,Riley Adams,656180,4,8,8,True,2023-07-04,Stolen,3B,2023,2024, 85.6, 0.68
+21,1B,2B,Stolen Base 2B,641584,Jake Fraley,678606,Jose A. Ferrer,571912,Luke Maile,L,Riley Adams,656180,4,8,9,True,2023-07-04,Stolen,2B,2023,2024, 85.6, 0.68
+22,2B,3B,Stolen Base 3B,641584,Jake Fraley,678606,Jose A. Ferrer,680574,Matt McLain,L,Riley Adams,656180,4,8,9,True,2023-07-04,Stolen,3B,2023,2024, 85.6, 0.68
+23,1B,2B,Stolen Base 2B,682998,Corbin Carroll,663623,Jake Irvin,666971,Lourdes Gurriel Jr.,R,Riley Adams,656180,1,1,4,True,2023-06-22,Stolen,2B,2023,2024, 85.6, 0.68
+24,2B,3B,Stolen Base 3B,669242,Tommy Edman,669022,MacKenzie Gore,571448,Nolan Arenado,L,Riley Adams,656180,1,3,5,True,2023-06-20,Stolen,3B,2023,2024, 85.6, 0.68
+25,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,669022,MacKenzie Gore,571448,Nolan Arenado,L,Riley Adams,656180,1,3,5,True,2023-06-20,Stolen,2B,2023,2024, 85.6, 0.68
+26,1B,2B,Stolen Base 2B,607680,Kevin Pillar,641771,Chad Kuhl,671739,Michael Harris II,R,Riley Adams,656180,5,3,7,False,2023-06-10,Stolen,2B,2023,2024, 85.6, 0.68
+27,1B,2B,Stolen Base 2B,682998,Corbin Carroll,663623,Jake Irvin,666971,Lourdes Gurriel Jr.,R,Riley Adams,656180,1,1,4,True,2023-06-08,Stolen,2B,2023,2024, 85.6, 0.68
+28,1B,2B,Stolen Base 2B,682998,Corbin Carroll,571578,Patrick Corbin,656896,Emmanuel Rivera,L,Riley Adams,656180,0,2,1,True,2023-06-07,Stolen,2B,2023,2024, 85.6, 0.68
+29,1B,2B,Stolen Base 2B,605113,Nick Ahmed,571578,Patrick Corbin,672515,Gabriel Moreno,L,Riley Adams,656180,2,3,6,True,2023-06-07,Stolen,2B,2023,2024, 85.6, 0.68
+30,1B,2B,Stolen Base 2B,681082,Bryson Stott,600921,Andrés Machado,592663,J.T. Realmuto,R,Riley Adams,656180,1,5,7,True,2023-06-04,Stolen,2B,2023,2024, 85.6, 0.68
+31,1B,2B,Stolen Base 2B,656716,Zach McKinstry,680686,Josiah Gray,682985,Riley Greene,R,Riley Adams,656180,0,0,1,True,2023-05-21,Stolen,2B,2023,2024, 85.6, 0.68
+32,1B,2B,Stolen Base 2B,516782,Starling Marte,666168,Mason Thompson,592192,Mark Canha,R,Riley Adams,656180,1,8,5,True,2023-05-14,Stolen,2B,2023,2024, 85.6, 0.68
+33,2B,3B,Stolen Base 2B,516782,Starling Marte,666168,Mason Thompson,592192,Mark Canha,R,Riley Adams,656180,1,8,5,True,2023-05-14,Stolen,2B,2023,2024, 85.6, 0.68
+34,1B,2B,Stolen Base 2B,641355,Cody Bellinger,571578,Patrick Corbin,621550,Patrick Wisdom,L,Riley Adams,656180,0,0,2,True,2023-05-04,Stolen,2B,2023,2024, 85.6, 0.68
+35,2B,,Caught Stealing 3B,666801,Rodolfo Castro,571578,Patrick Corbin,664029,Mark Mathias,L,Riley Adams,656180,0,1,2,True,2023-04-29,Caught,3B,2023,2024, 85.6, 0.68
+36,1B,,Caught Stealing 2B,663647,Ke'Bryan Hayes,571578,Patrick Corbin,668804,Bryan Reynolds,L,Riley Adams,656180,2,2,5,True,2023-04-29,Caught,2B,2023,2024, 85.6, 0.68
+37,1B,2B,Stolen Base 2B,669261,Jack Suwinski,607179,Jordan Weems,672779,Tucupita Marcano,R,Riley Adams,656180,3,6,9,True,2023-04-29,Stolen,2B,2023,2024, 85.6, 0.68
+38,1B,2B,Stolen Base 2B,622534,Manuel Margot,640448,Kyle Finnegan,670764,Taylor Walls,R,Riley Adams,656180,6,7,9,True,2023-04-04,Stolen,2B,2023,2024, 85.6, 0.68
+39,2B,3B,Stolen Base 3B,676914,Davis Schneider,571578,Patrick Corbin,672386,Alejandro Kirk,L,Riley Adams,656180,2,0,1,False,2023-08-30,Stolen,3B,2023,2024, 85.6, 0.68
+40,1B,2B,Stolen Base 2B,665489,Vladimir Guerrero Jr.,571578,Patrick Corbin,672386,Alejandro Kirk,L,Riley Adams,656180,2,0,1,False,2023-08-30,Stolen,2B,2023,2024, 85.6, 0.68
+41,1B,2B,Stolen Base 2B,593160,Whit Merrifield,600921,Andrés Machado,672386,Alejandro Kirk,R,Riley Adams,656180,7,0,7,False,2023-08-30,Stolen,2B,2023,2024, 85.6, 0.68
+42,1B,2B,Stolen Base 2B,650333,Luis Arraez,672851,Joan Adon,605137,Josh Bell,R,Riley Adams,656180,0,3,6,False,2023-08-25,Stolen,2B,2023,2024, 85.6, 0.68
+43,1B,,Caught Stealing 2B,683011,Anthony Volpe,680686,Josiah Gray,677592,Everson Pereira,R,Riley Adams,656180,1,1,4,False,2023-08-22,Caught,2B,2023,2024, 85.6, 0.68
+44,1B,2B,Stolen Base 2B,592206,Nick Castellanos,680686,Josiah Gray,607208,Trea Turner,R,Riley Adams,656180,1,0,3,False,2023-08-08,Stolen,2B,2023,2024, 85.6, 0.68
+45,1B,2B,Stolen Base 2B,607208,Trea Turner,678606,Jose A. Ferrer,681082,Bryson Stott,L,Riley Adams,656180,4,2,5,False,2023-08-08,Stolen,2B,2023,2024, 85.6, 0.68
+46,1B,2B,Stolen Base 2B,596117,Garrett Stubbs,678606,Jose A. Ferrer,656941,Kyle Schwarber,L,Riley Adams,656180,4,2,6,False,2023-08-08,Stolen,2B,2023,2024, 85.6, 0.68
+47,1B,2B,Stolen Base 2B,681082,Bryson Stott,600921,Andrés Machado,666801,Rodolfo Castro,R,Riley Adams,656180,4,4,7,False,2023-08-08,Stolen,2B,2023,2024, 85.6, 0.68
+48,1B,2B,Stolen Base 2B,592206,Nick Castellanos,680686,Josiah Gray,607208,Trea Turner,R,Riley Adams,656180,1,0,3,False,2023-08-07,Stolen,2B,2023,2024, 85.6, 0.68
+49,1B,2B,Stolen Base 2B,607208,Trea Turner,678606,Jose A. Ferrer,681082,Bryson Stott,L,Riley Adams,656180,4,2,5,False,2023-08-07,Stolen,2B,2023,2024, 85.6, 0.68
+50,1B,2B,Stolen Base 2B,596117,Garrett Stubbs,678606,Jose A. Ferrer,656941,Kyle Schwarber,L,Riley Adams,656180,4,2,6,False,2023-08-07,Stolen,2B,2023,2024, 85.6, 0.68
+51,1B,2B,Stolen Base 2B,681082,Bryson Stott,600921,Andrés Machado,666801,Rodolfo Castro,R,Riley Adams,656180,4,4,7,False,2023-08-07,Stolen,2B,2023,2024, 85.6, 0.68
+52,1B,2B,Stolen Base 2B,545341,Randal Grichuk,678606,Jose A. Ferrer,553869,Elias Díaz,L,Riley Adams,656180,2,5,8,True,2023-07-25,Stolen,2B,2023,2024, 85.6, 0.68
+53,1B,2B,Stolen Base 2B,608671,Travis Jankowski,672851,Joan Adon,677649,Ezequiel Duran,R,Riley Adams,656180,2,7,8,True,2023-07-07,Stolen,2B,2023,2024, 85.6, 0.68
+54,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,669022,MacKenzie Gore,668715,Spencer Steer,L,Riley Adams,656180,0,0,2,True,2023-07-06,Stolen,2B,2023,2024, 85.6, 0.68
+55,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,571578,Patrick Corbin,668715,Spencer Steer,L,Riley Adams,656180,0,2,3,True,2023-07-04,Stolen,2B,2023,2024, 85.6, 0.68
+56,1B,2B,Stolen Base 2B,621028,Kevin Newman,571578,Patrick Corbin,680574,Matt McLain,L,Riley Adams,656180,1,6,5,True,2023-07-04,Stolen,2B,2023,2024, 85.6, 0.68
+57,1B,,Caught Stealing 2B,682829,Elly De La Cruz,676265,Cory Abbott,668715,Spencer Steer,R,Riley Adams,656180,2,7,6,True,2023-07-04,Caught,2B,2023,2024, 85.6, 0.68
+58,1B,2B,Stolen Base 2B,670770,TJ Friedl,676265,Cory Abbott,641584,Jake Fraley,R,Riley Adams,656180,4,7,7,True,2023-07-04,Stolen,2B,2023,2024, 85.6, 0.68
+59,2B,3B,Stolen Base 3B,680574,Matt McLain,676265,Cory Abbott,682829,Elly De La Cruz,R,Riley Adams,656180,4,8,8,True,2023-07-04,Stolen,3B,2023,2024, 85.6, 0.68
+60,1B,2B,Stolen Base 2B,641584,Jake Fraley,678606,Jose A. Ferrer,571912,Luke Maile,L,Riley Adams,656180,4,8,9,True,2023-07-04,Stolen,2B,2023,2024, 85.6, 0.68
+61,2B,3B,Stolen Base 3B,641584,Jake Fraley,678606,Jose A. Ferrer,680574,Matt McLain,L,Riley Adams,656180,4,8,9,True,2023-07-04,Stolen,3B,2023,2024, 85.6, 0.68
+62,1B,2B,Stolen Base 2B,682998,Corbin Carroll,663623,Jake Irvin,666971,Lourdes Gurriel Jr.,R,Riley Adams,656180,1,1,4,True,2023-06-22,Stolen,2B,2023,2024, 85.6, 0.68
+63,2B,3B,Stolen Base 3B,669242,Tommy Edman,669022,MacKenzie Gore,571448,Nolan Arenado,L,Riley Adams,656180,1,3,5,True,2023-06-20,Stolen,3B,2023,2024, 85.6, 0.68
+64,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,669022,MacKenzie Gore,571448,Nolan Arenado,L,Riley Adams,656180,1,3,5,True,2023-06-20,Stolen,2B,2023,2024, 85.6, 0.68
+65,1B,2B,Stolen Base 2B,607680,Kevin Pillar,641771,Chad Kuhl,671739,Michael Harris II,R,Riley Adams,656180,5,3,7,False,2023-06-10,Stolen,2B,2023,2024, 85.6, 0.68
+66,1B,2B,Stolen Base 2B,682998,Corbin Carroll,663623,Jake Irvin,666971,Lourdes Gurriel Jr.,R,Riley Adams,656180,1,1,4,True,2023-06-08,Stolen,2B,2023,2024, 85.6, 0.68
+67,1B,2B,Stolen Base 2B,682998,Corbin Carroll,571578,Patrick Corbin,656896,Emmanuel Rivera,L,Riley Adams,656180,0,2,1,True,2023-06-07,Stolen,2B,2023,2024, 85.6, 0.68
+68,1B,2B,Stolen Base 2B,605113,Nick Ahmed,571578,Patrick Corbin,672515,Gabriel Moreno,L,Riley Adams,656180,2,3,6,True,2023-06-07,Stolen,2B,2023,2024, 85.6, 0.68
+69,1B,2B,Stolen Base 2B,681082,Bryson Stott,600921,Andrés Machado,592663,J.T. Realmuto,R,Riley Adams,656180,1,5,7,True,2023-06-04,Stolen,2B,2023,2024, 85.6, 0.68
+70,1B,2B,Stolen Base 2B,656716,Zach McKinstry,680686,Josiah Gray,682985,Riley Greene,R,Riley Adams,656180,0,0,1,True,2023-05-21,Stolen,2B,2023,2024, 85.6, 0.68
+71,1B,2B,Stolen Base 2B,516782,Starling Marte,666168,Mason Thompson,592192,Mark Canha,R,Riley Adams,656180,1,8,5,True,2023-05-14,Stolen,2B,2023,2024, 85.6, 0.68
+72,2B,3B,Stolen Base 2B,516782,Starling Marte,666168,Mason Thompson,592192,Mark Canha,R,Riley Adams,656180,1,8,5,True,2023-05-14,Stolen,2B,2023,2024, 85.6, 0.68
+73,1B,2B,Stolen Base 2B,641355,Cody Bellinger,571578,Patrick Corbin,621550,Patrick Wisdom,L,Riley Adams,656180,0,0,2,True,2023-05-04,Stolen,2B,2023,2024, 85.6, 0.68
+74,2B,,Caught Stealing 3B,666801,Rodolfo Castro,571578,Patrick Corbin,664029,Mark Mathias,L,Riley Adams,656180,0,1,2,True,2023-04-29,Caught,3B,2023,2024, 85.6, 0.68
+75,1B,,Caught Stealing 2B,663647,Ke'Bryan Hayes,571578,Patrick Corbin,668804,Bryan Reynolds,L,Riley Adams,656180,2,2,5,True,2023-04-29,Caught,2B,2023,2024, 85.6, 0.68
+76,1B,2B,Stolen Base 2B,669261,Jack Suwinski,607179,Jordan Weems,672779,Tucupita Marcano,R,Riley Adams,656180,3,6,9,True,2023-04-29,Stolen,2B,2023,2024, 85.6, 0.68
+77,1B,2B,Stolen Base 2B,622534,Manuel Margot,640448,Kyle Finnegan,670764,Taylor Walls,R,Riley Adams,656180,6,7,9,True,2023-04-04,Stolen,2B,2023,2024, 85.6, 0.68
+78,2B,3B,Stolen Base 3B,594777,Kole Calhoun,541640,Erasmo Ramírez,543543,Brad Miller,R,Riley Adams,656180,1,6,7,False,2022-06-26,Stolen,3B,2022,2023, 84.7, 0.65
+79,1B,2B,Stolen Base 2B,664029,Mark Mathias,571578,Patrick Corbin,457705,Andrew McCutchen,L,Riley Adams,656180,0,1,3,True,2022-06-11,Stolen,2B,2022,2023, 84.7, 0.65
+80,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,544931,Stephen Strasburg,643265,Garrett Cooper,R,Riley Adams,656180,0,0,1,False,2022-06-09,Stolen,2B,2022,2023, 84.7, 0.65
+81,1B,2B,Stolen Base 2B,545341,Randal Grichuk,592717,Aaron Sanchez,656582,Connor Joe,R,Riley Adams,656180,8,6,4,True,2022-05-28,Stolen,2B,2022,2023, 84.7, 0.65
+82,1B,2B,Stolen Base 2B,545341,Randal Grichuk,592717,Aaron Sanchez,656582,Connor Joe,R,Riley Adams,656180,8,6,4,True,2022-05-27,Stolen,2B,2022,2023, 84.7, 0.65
+83,1B,2B,Stolen Base 2B,607208,Trea Turner,607200,Erick Fedde,457759,Justin Turner,R,Riley Adams,656180,0,0,3,True,2022-05-25,Stolen,2B,2022,2023, 84.7, 0.65
+84,1B,2B,Stolen Base 2B,607208,Trea Turner,640448,Kyle Finnegan,518692,Freddie Freeman,R,Riley Adams,656180,1,0,8,True,2022-05-25,Stolen,2B,2022,2023, 84.7, 0.65
+85,1B,2B,Stolen Base 2B,676801,Chas McCormick,571578,Patrick Corbin,455117,Martín Maldonado,L,Riley Adams,656180,0,2,5,True,2022-05-15,Stolen,2B,2022,2023, 84.7, 0.65
+86,1B,2B,Stolen Base 2B,596019,Francisco Lindor,571578,Patrick Corbin,624413,Pete Alonso,L,Riley Adams,656180,0,0,4,True,2022-05-10,Stolen,2B,2022,2023, 84.7, 0.65
+87,1B,2B,Stolen Base 2B,543063,Brandon Crawford,640448,Kyle Finnegan,642731,Thairo Estrada,R,Riley Adams,656180,8,3,6,False,2022-04-30,Stolen,2B,2022,2023, 84.7, 0.65
+88,1B,2B,Stolen Base 2B,573131,Darin Ruf,660906,Francisco Pérez,543063,Brandon Crawford,L,Riley Adams,656180,9,3,8,False,2022-04-30,Stolen,2B,2022,2023, 84.7, 0.65
+89,2B,3B,Stolen Base 3B,621563,Joey Wendle,644364,Víctor Arano,542932,Jon Berti,R,Riley Adams,656180,1,3,7,True,2022-04-28,Stolen,3B,2022,2023, 84.7, 0.65
+90,1B,2B,Stolen Base 2B,542932,Jon Berti,644364,Víctor Arano,624585,Jorge Soler,R,Riley Adams,656180,1,3,7,True,2022-04-28,Stolen,2B,2022,2023, 84.7, 0.65
+91,1B,2B,Stolen Base 2B,642731,Thairo Estrada,592717,Aaron Sanchez,592200,Curt Casali,R,Riley Adams,656180,0,3,5,True,2022-04-23,Stolen,2B,2022,2023, 84.7, 0.65
+92,1B,2B,Stolen Base 2B,592325,Ben Gamel,571578,Patrick Corbin,657061,Cole Tucker,L,Riley Adams,656180,0,3,5,False,2022-04-17,Stolen,2B,2022,2023, 84.7, 0.65
+93,1B,,Caught Stealing 2B,645277,Ozzie Albies,680686,Josiah Gray,621566,Matt Olson,R,Riley Adams,656180,0,2,1,False,2022-04-13,Caught,2B,2022,2023, 84.7, 0.65
+94,1B,2B,Stolen Base 2B,608671,Travis Jankowski,608723,Austin Voth,641645,Luis Guillorme,R,Riley Adams,656180,0,4,5,True,2022-04-09,Stolen,2B,2022,2023, 84.7, 0.65
+95,1B,2B,Stolen Base 2B,608671,Travis Jankowski,600921,Andrés Machado,641645,Luis Guillorme,R,Riley Adams,656180,0,4,8,True,2022-04-09,Stolen,2B,2022,2023, 84.7, 0.65

@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,70,1B,2B,Stolen Base 2B,666149,Tyler Fitzgerald,663362,Matt Waldron,664774,LaMonte Wade Jr.,R,Brett Sullivan,664954,2,1,5,False,2023-09-27,Stolen,2B,2023,2024,30.0
+1,71,1B,2B,Stolen Base 2B,666149,Tyler Fitzgerald,605130,Scott Barlow,664774,LaMonte Wade Jr.,R,Brett Sullivan,664954,2,2,7,False,2023-09-27,Stolen,2B,2023,2024,30.0
+2,4484,1B,2B,Stolen Base 2B,666149,Tyler Fitzgerald,663362,Matt Waldron,664774,LaMonte Wade Jr.,R,Brett Sullivan,664954,2,1,5,False,2023-09-27,Stolen,2B,2023,2024,30.0
+3,4485,1B,2B,Stolen Base 2B,666149,Tyler Fitzgerald,605130,Scott Barlow,664774,LaMonte Wade Jr.,R,Brett Sullivan,664954,2,2,7,False,2023-09-27,Stolen,2B,2023,2024,30.0

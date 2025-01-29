@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+619,1B,2B,Stolen Base 2B,276510,Alex Escobar,Bobby Estalella,2,2,7,True,2001-05-11,Stolen,2B,2001
+335,1B,2B,Stolen Base 2B,276510,Alex Escobar,A.J. Pierzynski,3,2,6,False,2003-09-12,Stolen,2B,2003
+2489,1B,,Caught Stealing 2B,276510,Alex Escobar,Dan Wilson,6,1,3,False,2004-05-27,Caught,2B,2004
+2909,1B,2B,Stolen Base 2B,276510,Alex Escobar,Jason Varitek,3,1,2,False,2004-05-05,Stolen,2B,2004

@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+589,1B,,Caught Stealing 2B,400091,Jack Cust,Wiki Gonzalez,1,0,4,True,2002-08-31,Caught,2B,2002
+2579,1B,,Caught Stealing 2B,400091,Jack Cust,Jason Varitek,1,0,4,False,2007-06-05,Caught,2B,2007
+2714,2B,,Caught Stealing 3B,400091,Jack Cust,Gerald Laird,5,0,4,False,2007-05-28,Caught,3B,2007
+95,1B,2B,Stolen Base 2B,400091,Jack Cust,Jason Varitek,3,8,7,True,2009-07-29,Stolen,2B,2009
+879,1B,2B,Stolen Base 2B,400091,Jack Cust,Bengie Molina,0,1,4,False,2009-06-22,Stolen,2B,2009
+2082,1B,2B,Stolen Base 2B,400091,Jack Cust,Rob Johnson,1,0,5,True,2009-05-02,Stolen,2B,2009
+207,1B,2B,Stolen Base 2B,400091,Jack Cust,A.J. Pierzynski,5,2,7,False,2010-09-21,Stolen,2B,2010
+244,1B,,Caught Stealing 2B,400091,Jack Cust,Joe Mauer,2,5,8,True,2010-09-19,Caught,2B,2010
+1233,1B,,Caught Stealing 2B,400091,Jack Cust,Brayan Peña,0,2,4,False,2010-08-04,Caught,2B,2010
+1692,1B,2B,Stolen Base 2B,400091,Jack Cust,Jeff Mathis,3,1,6,False,2010-07-11,Stolen,2B,2010

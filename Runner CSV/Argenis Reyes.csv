@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+822,1B,2B,Stolen Base 2B,469040,Argenis Reyes,Brian McCann,0,0,1,False,2008-08-20,Stolen,2B,2008
+1496,1B,2B,Stolen Base 2B,469040,Argenis Reyes,Chris Iannetta,2,0,5,False,2008-07-12,Stolen,2B,2008
+663,1B,2B,Stolen Base 2B,469040,Argenis Reyes,Robinzon Diaz,5,8,7,True,2009-07-02,Stolen,2B,2009
+1295,1B,2B,Stolen Base 2B,469040,Argenis Reyes,Robinzon Diaz,5,8,7,True,2009-06-03,Stolen,2B,2009

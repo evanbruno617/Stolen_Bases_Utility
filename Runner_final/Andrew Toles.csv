@@ -1,0 +1,9 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3417,1B,,Caught Stealing 2B,592808,Andrew Toles,502188,Jeff Samardzija,608369,Corey Seager,R,Buster Posey,457763,0,0,1,False,2017-05-03,Caught,2B,2017,2018,28.6
+1,2789,1B,,Caught Stealing 2B,592808,Andrew Toles,502188,Jeff Samardzija,608369,Corey Seager,R,Buster Posey,457763,0,0,1,False,2017-05-03,Caught,2B,2017,2018,28.6
+2,4199,1B,,Caught Stealing 2B,592808,Andrew Toles,435400,Jason Motte,592626,Joc Pederson,R,Tom Murphy,608596,5,2,8,False,2016-09-23,Caught,2B,2016,2017,28.6
+3,5574,1B,2B,Stolen Base 2B,592808,Andrew Toles,605151,Archie Bradley,435221,Brandon McCarthy,R,Welington Castillo,456078,0,0,2,True,2016-07-16,Stolen,2B,2016,2017,28.6
+4,164,1B,,Caught Stealing 2B,592808,Andrew Toles,435400,Jason Motte,592626,Joc Pederson,R,Tom Murphy,608596,5,2,8,False,2016-09-23,Caught,2B,2016,2017,28.6
+5,1539,1B,2B,Stolen Base 2B,592808,Andrew Toles,605151,Archie Bradley,435221,Brandon McCarthy,R,Welington Castillo,456078,0,0,2,True,2016-07-16,Stolen,2B,2016,2017,28.6
+6,3571,1B,,Caught Stealing 2B,592808,Andrew Toles,435400,Jason Motte,592626,Joc Pederson,R,Tom Murphy,608596,5,2,8,False,2016-09-23,Caught,2B,2016,2017,28.6
+7,4946,1B,2B,Stolen Base 2B,592808,Andrew Toles,605151,Archie Bradley,435221,Brandon McCarthy,R,Welington Castillo,456078,0,0,2,True,2016-07-16,Stolen,2B,2016,2017,28.6

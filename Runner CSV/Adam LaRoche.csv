@@ -1,0 +1,23 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+679,1B,,Caught Stealing 2B,425560,Adam LaRoche,Damian Miller,0,0,2,True,2005-08-27,Caught,2B,2005
+1004,1B,,Caught Stealing 2B,425560,Adam LaRoche,Mike Matheny,3,0,6,False,2005-08-10,Caught,2B,2005
+1288,1B,2B,Stolen Base 2B,425560,Adam LaRoche,Javier Valentin,7,7,9,False,2007-08-04,Stolen,2B,2007
+3210,1B,,Caught Stealing 2B,425560,Adam LaRoche,Johnny Estrada,1,0,2,True,2007-05-04,Caught,2B,2007
+276,1B,,Caught Stealing 2B,425560,Adam LaRoche,A.J. Ellis,0,5,4,False,2008-09-15,Caught,2B,2008
+2867,1B,2B,Stolen Base 2B,425560,Adam LaRoche,Brian McCann,1,2,2,False,2008-05-10,Stolen,2B,2008
+762,1B,,Caught Stealing 2B,425560,Adam LaRoche,Brayan Peña,0,1,4,False,2009-06-28,Caught,2B,2009
+854,1B,2B,Stolen Base 2B,425560,Adam LaRoche,Kelly Shoppach,6,1,4,False,2009-06-24,Stolen,2B,2009
+1195,1B,2B,Stolen Base 2B,425560,Adam LaRoche,Brian McCann,6,6,10,True,2009-06-08,Stolen,2B,2009
+1233,1B,2B,Caught Stealing 2B,425560,Adam LaRoche,Ivan Rodriguez,4,6,7,True,2009-06-06,Caught,2B,2009
+1630,1B,,Caught Stealing 2B,425560,Adam LaRoche,Yorvit Torrealba,4,4,5,True,2010-07-17,Caught,2B,2010
+4182,2B,3B,Stolen Base 3B,425560,Adam LaRoche,Josh Thole,2,1,2,True,2011-04-10,Stolen,3B,2011
+3228,1B,2B,Stolen Base 2B,425560,Adam LaRoche,Nick Hundley,4,5,5,False,2012-05-14,Stolen,2B,2012
+3486,1B,,Caught Stealing 2B,425560,Adam LaRoche,Miguel Montero,3,4,6,False,2012-05-02,Caught,2B,2012
+446,1B,2B,Stolen Base 2B,425560,Adam LaRoche,Rob Brantly,3,6,6,True,2013-09-08,Stolen,2B,2013
+1714,1B,2B,Stolen Base 2B,425560,Adam LaRoche,Nick Hundley,5,4,8,False,2013-07-06,Stolen,2B,2013
+1809,1B,,Caught Stealing 2B,425560,Adam LaRoche,Martín Maldonado,0,0,6,False,2013-07-02,Caught,2B,2013
+2520,1B,2B,Stolen Base 2B,425560,Adam LaRoche,Matt Wieters,1,0,2,False,2013-05-27,Stolen,2B,2013
+2974,1B,2B,Stolen Base 2B,425560,Adam LaRoche,Russell Martin,4,5,9,True,2013-05-04,Stolen,2B,2013
+837,1B,2B,Stolen Base 2B,425560,Adam LaRoche,Buster Posey,1,0,1,False,2014-08-22,Stolen,2B,2014
+992,1B,2B,Stolen Base 2B,425560,Adam LaRoche,Travis d'Arnaud,1,3,8,True,2014-08-13,Stolen,2B,2014
+1275,1B,2B,Stolen Base 2B,425560,Adam LaRoche,Jeff Mathis,1,4,8,True,2014-07-30,Stolen,2B,2014

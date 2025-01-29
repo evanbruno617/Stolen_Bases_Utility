@@ -1,0 +1,19 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1306,1B,,Caught Stealing 2B,592273,Brandon Drury,664126,Pete Fairbanks,475253,Justin Smoak,R,Michael Pérez,605421,3,0,6,False,2019-09-28,Caught,2B,2019,2020,26.2
+1,4149,1B,,Caught Stealing 2B,592273,Brandon Drury,664126,Pete Fairbanks,475253,Justin Smoak,R,Michael Pérez,605421,3,0,6,False,2019-09-28,Caught,2B,2019,2020,26.2
+2,6073,1B,,Caught Stealing 2B,592273,Brandon Drury,664126,Pete Fairbanks,475253,Justin Smoak,R,Michael Pérez,605421,3,0,6,False,2019-09-28,Caught,2B,2019,2020,26.2
+3,2426,1B,,Caught Stealing 2B,592273,Brandon Drury,663903,Brady Singer,642136,Matt Thaiss,R,Freddy Fermin,666023,0,1,1,True,2023-06-16,Caught,2B,2023,2024,26.0
+4,3893,1B,,Caught Stealing 2B,592273,Brandon Drury,676477,Garrett Whitlock,681351,Logan O'Hoppe,R,Connor Wong,657136,0,1,2,True,2023-04-16,Caught,2B,2023,2024,26.0
+5,6840,1B,,Caught Stealing 2B,592273,Brandon Drury,663903,Brady Singer,642136,Matt Thaiss,R,Freddy Fermin,666023,0,1,1,True,2023-06-16,Caught,2B,2023,2024,26.0
+6,8307,1B,,Caught Stealing 2B,592273,Brandon Drury,676477,Garrett Whitlock,681351,Logan O'Hoppe,R,Connor Wong,657136,0,1,2,True,2023-04-16,Caught,2B,2023,2024,26.0
+7,187,1B,2B,Stolen Base 2B,592273,Brandon Drury,656849,David Peterson,502054,Tommy Pham,L,James McCann,543510,2,1,3,False,2022-07-06,Stolen,2B,2022,2023,26.9
+8,789,1B,2B,Stolen Base 2B,592273,Brandon Drury,607200,Erick Fedde,663886,Tyler Stephenson,R,Keibert Ruiz,660688,0,0,1,False,2022-06-04,Stolen,2B,2022,2023,26.9
+9,1256,1B,,Caught Stealing 2B,592273,Brandon Drury,642547,Freddy Peralta,502054,Tommy Pham,R,Victor Caratini,605170,1,0,3,False,2022-05-10,Caught,2B,2022,2023,26.9
+10,1674,1B,,Caught Stealing 2B,592273,Brandon Drury,628711,Julio Urías,641584,Jake Fraley,L,Austin Barnes,605131,0,0,3,True,2022-04-16,Caught,2B,2022,2023,26.9
+11,3614,1B,2B,Stolen Base 2B,592273,Brandon Drury,468504,Jhoulys Chacín,543302,Chris Herrmann,R,Austin Hedges,595978,1,0,2,False,2017-04-24,Stolen,2B,2017,2018,26.8
+12,3701,1B,,Caught Stealing 2B,592273,Brandon Drury,468504,Jhoulys Chacín,605113,Nick Ahmed,R,Austin Hedges,595978,0,0,2,True,2017-04-19,Caught,2B,2017,2018,26.8
+13,2986,1B,2B,Stolen Base 2B,592273,Brandon Drury,468504,Jhoulys Chacín,543302,Chris Herrmann,R,Austin Hedges,595978,1,0,2,False,2017-04-24,Stolen,2B,2017,2018,26.8
+14,3073,1B,,Caught Stealing 2B,592273,Brandon Drury,468504,Jhoulys Chacín,605113,Nick Ahmed,R,Austin Hedges,595978,0,0,2,True,2017-04-19,Caught,2B,2017,2018,26.8
+15,7269,2B,,Caught Stealing 3B,592273,Brandon Drury,622072,Alex Wood,523989,Rubby De La Rosa,L,Yasmani Grandal,518735,0,1,4,True,2016-04-13,Caught,3B,2016,2017,27.1
+16,3234,2B,,Caught Stealing 3B,592273,Brandon Drury,622072,Alex Wood,523989,Rubby De La Rosa,L,Yasmani Grandal,518735,0,1,4,True,2016-04-13,Caught,3B,2016,2017,27.1
+17,6641,2B,,Caught Stealing 3B,592273,Brandon Drury,622072,Alex Wood,523989,Rubby De La Rosa,L,Yasmani Grandal,518735,0,1,4,True,2016-04-13,Caught,3B,2016,2017,27.1

@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1387,1B,2B,Stolen Base 2B,276053,Brandon Larson,Jason Kendall,2,6,6,False,2002-07-22,Stolen,2B,2002
+971,1B,2B,Stolen Base 2B,276053,Brandon Larson,Gary Bennett,0,0,4,True,2003-08-10,Stolen,2B,2003
+1314,1B,,Caught Stealing 2B,276053,Brandon Larson,Vance Wilson,0,0,2,True,2003-07-25,Caught,2B,2003
+3391,1B,,Caught Stealing 2B,276053,Brandon Larson,Todd Pratt,0,1,2,False,2003-04-12,Caught,2B,2003
+3392,1B,2B,Stolen Base 2B,276053,Brandon Larson,Todd Pratt,3,1,4,False,2003-04-12,Stolen,2B,2003
+1952,1B,2B,Stolen Base 2B,276053,Brandon Larson,Jason Phillips,0,1,2,True,2004-06-22,Stolen,2B,2004

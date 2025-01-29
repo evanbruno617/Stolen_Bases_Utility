@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2491,1B,,Caught Stealing 2B,620446,Richard Urena,Sandy León,2,2,9,False,2016-04-01,Caught,2B,2016
+474,1B,2B,Stolen Base 2B,620446,Richard Urena,Christian Vázquez,2,2,17,True,2017-09-05,Stolen,2B,2017
+74,1B,2B,Stolen Base 2B,620446,Richard Urena,Adam Moore,3,1,2,True,2018-09-28,Stolen,2B,2018
+77,1B,2B,Stolen Base 2B,620446,Richard Urena,Adam Moore,3,1,5,True,2018-09-28,Stolen,2B,2018
+499,1B,,Caught Stealing 2B,620446,Richard Urena,Yan Gomes,0,0,3,False,2018-09-07,Caught,2B,2018

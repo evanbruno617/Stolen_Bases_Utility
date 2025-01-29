@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3489,1B,2B,Stolen Base 2B,112901,Jacob Cruz,Scott Hatteberg,4,3,7,False,2000-04-28,Stolen,2B,2000
+376,1B,,Caught Stealing 2B,112901,Jacob Cruz,José Molina,6,6,7,True,2001-05-20,Caught,2B,2001
+1435,1B,,Caught Stealing 2B,112901,Jacob Cruz,Fernando Lunar,0,0,1,False,2001-04-07,Caught,2B,2001
+2593,1B,,Caught Stealing 2B,112901,Jacob Cruz,Eddie Pérez,1,4,6,True,2002-05-27,Caught,2B,2002
+2826,1B,2B,Stolen Base 2B,112901,Jacob Cruz,Bill Haselman,7,7,8,False,2002-05-18,Stolen,2B,2002
+3427,1B,2B,Stolen Base 2B,112901,Jacob Cruz,Brent Mayne,0,3,9,True,2002-04-23,Stolen,2B,2002
+3518,1B,2B,Stolen Base 2B,112901,Jacob Cruz,Mark Johnson,0,1,3,True,2002-04-19,Stolen,2B,2002

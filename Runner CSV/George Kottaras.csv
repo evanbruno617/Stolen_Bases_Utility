@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2574,1B,2B,Stolen Base 2B,435459,George Kottaras,Ronny Paulino,2,0,5,True,2010-06-02,Stolen,2B,2010
+2911,1B,2B,Stolen Base 2B,435459,George Kottaras,Ryan Hanigan,2,4,9,True,2010-05-18,Stolen,2B,2010
+847,1B,,Caught Stealing 2B,435459,George Kottaras,Geovany Soto,4,2,6,False,2011-08-26,Caught,2B,2011
+2534,1B,2B,Stolen Base 2B,435459,George Kottaras,Chris Iannetta,1,0,5,False,2013-05-26,Stolen,2B,2013

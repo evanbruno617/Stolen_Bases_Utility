@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+32,1B,2B,Stolen Base 2B,621493,Taylor Ward,Josh Phegley,2,5,9,False,2018-09-29,Stolen,2B,2018
+166,1B,2B,Stolen Base 2B,621493,Taylor Ward,Brian McCann,1,5,8,True,2018-09-22,Stolen,2B,2018
+225,1B,2B,Stolen Base 2B,621493,Taylor Ward,Carson Kelly,6,0,3,False,2020-09-17,Stolen,2B,2020
+375,1B,2B,Stolen Base 2B,621493,Taylor Ward,Jeff Mathis,1,3,2,True,2020-09-10,Stolen,2B,2020
+1911,1B,2B,Stolen Base 2B,621493,Taylor Ward,Aramis Garcia,0,4,8,True,2021-05-29,Stolen,2B,2021
+2203,1B,,Caught Stealing 2B,621493,Taylor Ward,Martín Maldonado,0,0,3,True,2021-05-11,Caught,2B,2021
+61,1B,2B,Stolen Base 2B,621493,Taylor Ward,Sean Murphy,3,3,7,False,2022-09-27,Stolen,2B,2022
+217,1B,2B,Stolen Base 2B,621493,Taylor Ward,Curt Casali,5,1,8,False,2022-09-18,Stolen,2B,2022
+1024,2B,,Caught Stealing 3B,621493,Taylor Ward,Cal Raleigh,0,1,8,True,2022-08-05,Caught,3B,2022
+1195,1B,2B,Stolen Base 2B,621493,Taylor Ward,MJ Melendez,0,5,8,True,2022-07-26,Stolen,2B,2022
+1691,2B,3B,Stolen Base 3B,621493,Taylor Ward,Seby Zavala,4,3,7,False,2022-06-27,Stolen,3B,2022
+2938,1B,,Caught Stealing 2B,621493,Taylor Ward,Jason Castro,0,6,4,True,2022-04-20,Caught,2B,2022
+3011,1B,2B,Stolen Base 2B,621493,Taylor Ward,Jonah Heim,2,3,5,True,2022-04-16,Stolen,2B,2022
+1651,1B,2B,Stolen Base 2B,621493,Taylor Ward,Endy Rodríguez,0,0,2,False,2023-07-22,Stolen,2B,2023
+2392,1B,2B,Stolen Base 2B,621493,Taylor Ward,Salvador Perez,2,7,6,True,2023-06-17,Stolen,2B,2023
+2627,1B,2B,Stolen Base 2B,621493,Taylor Ward,Yan Gomes,3,1,6,False,2023-06-08,Stolen,2B,2023
+2836,2B,,Caught Stealing 3B,621493,Taylor Ward,Yasmani Grandal,0,2,1,True,2023-05-31,Caught,3B,2023
+3340,1B,,Caught Stealing 2B,621493,Taylor Ward,Yainer Diaz,0,0,1,False,2023-05-08,Caught,2B,2023

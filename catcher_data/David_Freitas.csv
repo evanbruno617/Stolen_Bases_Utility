@@ -1,0 +1,30 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2B,3B,Stolen Base 3B,666182,Bo Bichette,David Freitas,2,2,1,False,2022-04-03,Stolen,3B,2022
+1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,David Freitas,5,5,5,False,2022-04-03,Caught,2B,2022
+1B,,Caught Stealing 2B,660271,Shohei Ohtani,David Freitas,4,3,8,False,2018-09-16,Caught,2B,2018
+1B,2B,Stolen Base 2B,608671,Travis Jankowski,David Freitas,3,5,8,True,2018-09-12,Stolen,2B,2018
+1B,2B,Stolen Base 2B,457708,Justin Upton,David Freitas,4,1,3,False,2018-07-12,Stolen,2B,2018
+1B,2B,Stolen Base 2B,545361,Mike Trout,David Freitas,4,1,5,False,2018-07-12,Stolen,2B,2018
+1B,2B,Stolen Base 2B,435622,Ian Desmond,David Freitas,0,1,4,True,2018-07-07,Stolen,2B,2018
+1B,2B,Stolen Base 2B,643217,Andrew Benintendi,David Freitas,2,8,7,True,2018-06-17,Stolen,2B,2018
+1B,2B,Stolen Base 2B,435079,Ian Kinsler,David Freitas,4,3,7,True,2018-06-12,Stolen,2B,2018
+2B,,Caught Stealing 3B,605480,Mallex Smith,David Freitas,0,0,1,True,2018-06-01,Caught,3B,2018
+1B,2B,Stolen Base 2B,621563,Joey Wendle,David Freitas,3,2,9,True,2018-06-01,Stolen,2B,2018
+1B,2B,Stolen Base 2B,608654,Johnny Field,David Freitas,3,3,12,True,2018-06-01,Stolen,2B,2018
+1B,2B,Stolen Base 2B,641583,Dustin Fowler,David Freitas,4,2,4,False,2018-05-24,Stolen,2B,2018
+1B,2B,Stolen Base 2B,592444,JaCoby Jones,David Freitas,0,2,5,True,2018-05-20,Stolen,2B,2018
+1B,2B,Stolen Base 2B,608597,Ronald Guzmán,David Freitas,0,3,9,True,2018-05-16,Stolen,2B,2018
+1B,2B,Stolen Base 2B,455139,Robinson Chirinos,David Freitas,6,6,6,True,2018-05-15,Stolen,2B,2018
+1B,2B,Stolen Base 2B,543484,Mikie Mahtook,David Freitas,2,3,4,False,2018-05-12,Stolen,2B,2018
+1B,2B,Stolen Base 2B,543484,Mikie Mahtook,David Freitas,2,3,4,False,2018-05-11,Stolen,2B,2018
+1B,2B,Stolen Base 2B,594777,Kole Calhoun,David Freitas,0,3,6,True,2018-05-04,Stolen,2B,2018
+1B,2B,Stolen Base 2B,608324,Alex Bregman,David Freitas,0,0,2,True,2018-04-19,Stolen,2B,2018
+1B,2B,Stolen Base 2B,621043,Carlos Correa,David Freitas,2,1,9,True,2018-04-16,Stolen,2B,2018
+2B,,Caught Stealing 3B,445055,Jon Jay,David Freitas,0,2,1,False,2018-04-11,Caught,3B,2018
+1B,2B,Caught Stealing 3B,593160,Whit Merrifield,David Freitas,0,2,1,False,2018-04-11,Caught,3B,2018
+2B,3B,Stolen Base 3B,593160,Whit Merrifield,David Freitas,4,0,4,False,2018-04-09,Stolen,3B,2018
+1B,2B,Stolen Base 2B,596019,Francisco Lindor,David Freitas,0,0,1,True,2018-04-01,Stolen,2B,2018
+1B,2B,Stolen Base 2B,642708,Amed Rosario,David Freitas,1,2,9,True,2017-09-17,Stolen,2B,2017
+1B,2B,Stolen Base 2B,493114,Norichika Aoki,David Freitas,1,5,9,True,2017-09-17,Stolen,2B,2017
+1B,2B,Stolen Base 2B,514917,César Hernández,David Freitas,0,1,1,False,2017-08-30,Stolen,2B,2017
+1B,2B,Stolen Base 2B,514917,César Hernández,David Freitas,0,1,1,False,2017-08-29,Stolen,2B,2017

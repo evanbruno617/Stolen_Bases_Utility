@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+192,1B,,Caught Stealing 2B,434605,Wladimir Balentien,Kurt Suzuki,0,0,4,True,2008-09-19,Caught,2B,2008
+2314,1B,2B,Stolen Base 2B,434605,Wladimir Balentien,Dioner Navarro,1,0,7,False,2009-04-23,Stolen,2B,2009
+3968,1B,2B,Stolen Base 2B,434605,Wladimir Balentien,Matt Treanor,2,3,3,False,2010-04-01,Stolen,2B,2010

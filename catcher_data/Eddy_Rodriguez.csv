@@ -1,0 +1,4 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2B,3B,Stolen Base 3B,150093,Alfonso Soriano,Eddy Rodriguez,2,0,6,True,2012-08-06,Stolen,3B,2012
+1B,2B,Stolen Base 2B,516770,Starlin Castro,Eddy Rodriguez,2,0,6,True,2012-08-06,Stolen,2B,2012
+2B,3B,Stolen Base 3B,453211,Drew Stubbs,Eddy Rodriguez,6,4,4,False,2012-08-02,Stolen,3B,2012

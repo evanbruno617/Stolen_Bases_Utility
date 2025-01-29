@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2387,3B,score,Stolen Base Home,133741,Mendy López,Ramon Hernandez,4,0,4,False,2003-05-31,Stolen,Home,2003
+2628,1B,2B,Stolen Base 2B,133741,Mendy López,Greg Myers,1,1,2,False,2003-05-18,Stolen,2B,2003

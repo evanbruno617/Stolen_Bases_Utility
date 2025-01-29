@@ -1,0 +1,75 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1372,1B,2B,Stolen Base 2B,425877,Yadier Molina,542882,Matt Andriese,657557,Paul DeJong,R,Alex Avila,488671,1,1,11,True,2019-09-24,Stolen,2B,2019,2020,23.1
+1,1493,1B,2B,Stolen Base 2B,425877,Yadier Molina,544931,Stephen Strasburg,669242,Tommy Edman,R,Yan Gomes,543228,2,0,1,False,2019-09-16,Stolen,2B,2019,2020,23.1
+2,3347,1B,2B,Stolen Base 2B,425877,Yadier Molina,456701,Homer Bailey,451594,Dexter Fowler,R,Martín Maldonado,455117,3,0,1,False,2019-05-22,Stolen,2B,2019,2020,23.1
+3,3353,1B,2B,Stolen Base 2B,425877,Yadier Molina,456701,Homer Bailey,451594,Dexter Fowler,R,Martín Maldonado,455117,3,0,1,False,2019-05-21,Stolen,2B,2019,2020,23.1
+4,3386,1B,2B,Stolen Base 2B,425877,Yadier Molina,592767,Drew Smyly,451594,Dexter Fowler,L,Jeff Mathis,425772,0,2,1,True,2019-05-19,Stolen,2B,2019,2020,23.1
+5,3643,2B,3B,Stolen Base 3B,425877,Yadier Molina,518553,Steve Cishek,543939,Kolten Wong,R,Taylor Davis,543089,5,5,7,True,2019-05-04,Stolen,3B,2019,2020,23.1
+6,3794,2B,3B,Stolen Base 3B,425877,Yadier Molina,543935,Alex Wilson,451594,Dexter Fowler,R,Manny Piña,444489,4,2,8,False,2019-04-23,Stolen,3B,2019,2020,23.1
+7,4215,1B,2B,Stolen Base 2B,425877,Yadier Molina,542882,Matt Andriese,657557,Paul DeJong,R,Alex Avila,488671,1,1,11,True,2019-09-24,Stolen,2B,2019,2020,23.1
+8,4336,1B,2B,Stolen Base 2B,425877,Yadier Molina,544931,Stephen Strasburg,669242,Tommy Edman,R,Yan Gomes,543228,2,0,1,False,2019-09-16,Stolen,2B,2019,2020,23.1
+9,6190,1B,2B,Stolen Base 2B,425877,Yadier Molina,456701,Homer Bailey,451594,Dexter Fowler,R,Martín Maldonado,455117,3,0,1,False,2019-05-22,Stolen,2B,2019,2020,23.1
+10,6196,1B,2B,Stolen Base 2B,425877,Yadier Molina,456701,Homer Bailey,451594,Dexter Fowler,R,Martín Maldonado,455117,3,0,1,False,2019-05-21,Stolen,2B,2019,2020,23.1
+11,6229,1B,2B,Stolen Base 2B,425877,Yadier Molina,592767,Drew Smyly,451594,Dexter Fowler,L,Jeff Mathis,425772,0,2,1,True,2019-05-19,Stolen,2B,2019,2020,23.1
+12,6486,2B,3B,Stolen Base 3B,425877,Yadier Molina,518553,Steve Cishek,543939,Kolten Wong,R,Taylor Davis,543089,5,5,7,True,2019-05-04,Stolen,3B,2019,2020,23.1
+13,6637,2B,3B,Stolen Base 3B,425877,Yadier Molina,543935,Alex Wilson,451594,Dexter Fowler,R,Manny Piña,444489,4,2,8,False,2019-04-23,Stolen,3B,2019,2020,23.1
+14,6139,1B,2B,Stolen Base 2B,425877,Yadier Molina,542882,Matt Andriese,657557,Paul DeJong,R,Alex Avila,488671,1,1,11,True,2019-09-24,Stolen,2B,2019,2020,23.1
+15,6260,1B,2B,Stolen Base 2B,425877,Yadier Molina,544931,Stephen Strasburg,669242,Tommy Edman,R,Yan Gomes,543228,2,0,1,False,2019-09-16,Stolen,2B,2019,2020,23.1
+16,8114,1B,2B,Stolen Base 2B,425877,Yadier Molina,456701,Homer Bailey,451594,Dexter Fowler,R,Martín Maldonado,455117,3,0,1,False,2019-05-22,Stolen,2B,2019,2020,23.1
+17,8120,1B,2B,Stolen Base 2B,425877,Yadier Molina,456701,Homer Bailey,451594,Dexter Fowler,R,Martín Maldonado,455117,3,0,1,False,2019-05-21,Stolen,2B,2019,2020,23.1
+18,8153,1B,2B,Stolen Base 2B,425877,Yadier Molina,592767,Drew Smyly,451594,Dexter Fowler,L,Jeff Mathis,425772,0,2,1,True,2019-05-19,Stolen,2B,2019,2020,23.1
+19,8410,2B,3B,Stolen Base 3B,425877,Yadier Molina,518553,Steve Cishek,543939,Kolten Wong,R,Taylor Davis,543089,5,5,7,True,2019-05-04,Stolen,3B,2019,2020,23.1
+20,8561,2B,3B,Stolen Base 3B,425877,Yadier Molina,543935,Alex Wilson,451594,Dexter Fowler,R,Manny Piña,444489,4,2,8,False,2019-04-23,Stolen,3B,2019,2020,23.1
+21,943,1B,2B,Stolen Base 2B,425877,Yadier Molina,607231,John Gant,664056,Harrison Bader,R,Mitch Garver,641598,4,2,5,False,2021-08-01,Stolen,2B,2021,2022,21.8
+22,1379,2B,3B,Stolen Base 3B,425877,Yadier Molina,622075,Yency Almonte,657557,Paul DeJong,R,Elias Díaz,553869,3,5,10,True,2021-07-02,Stolen,3B,2021,2022,21.8
+23,1501,2B,3B,Stolen Base 3B,425877,Yadier Molina,640444,Wil Crowe,669242,Tommy Edman,R,Jacob Stallings,607732,2,4,3,False,2021-06-25,Stolen,3B,2021,2022,21.8
+24,2867,1B,2B,Stolen Base 2B,425877,Yadier Molina,607231,John Gant,664056,Harrison Bader,R,Mitch Garver,641598,4,2,5,False,2021-08-01,Stolen,2B,2021,2022,21.8
+25,3303,2B,3B,Stolen Base 3B,425877,Yadier Molina,622075,Yency Almonte,657557,Paul DeJong,R,Elias Díaz,553869,3,5,10,True,2021-07-02,Stolen,3B,2021,2022,21.8
+26,3425,2B,3B,Stolen Base 3B,425877,Yadier Molina,640444,Wil Crowe,669242,Tommy Edman,R,Jacob Stallings,607732,2,4,3,False,2021-06-25,Stolen,3B,2021,2022,21.8
+27,31,2B,,Caught Stealing 3B,425877,Yadier Molina,608337,Lucas Giolito,451594,Dexter Fowler,R,Omar Narváez,553882,0,0,2,False,2018-05-02,Caught,3B,2018,2019,22.7
+28,259,1B,2B,Stolen Base 2B,425877,Yadier Molina,456701,Homer Bailey,500874,José A. Martínez,R,Tucker Barnhart,571466,0,0,1,False,2018-04-21,Stolen,2B,2018,2019,22.7
+29,324,1B,2B,Stolen Base 2B,425877,Yadier Molina,543022,Tyler Chatwood,542303,Marcell Ozuna,R,Victor Caratini,605170,0,0,1,True,2018-04-16,Stolen,2B,2018,2019,22.7
+30,586,1B,2B,Stolen Base 2B,425877,Yadier Molina,458006,Matt Albers,657557,Paul DeJong,R,Manny Piña,444489,1,4,8,True,2018-04-03,Stolen,2B,2018,2019,22.7
+31,889,2B,3B,Stolen Base 3B,425877,Yadier Molina,605218,Carl Edwards Jr.,545341,Randal Grichuk,R,Alex Avila,488671,3,3,6,True,2017-09-17,Stolen,3B,2017,2018,22.9
+32,1576,1B,2B,Stolen Base 2B,425877,Yadier Molina,435400,Jason Motte,543939,Kolten Wong,R,Kurt Suzuki,435559,6,5,7,False,2017-08-11,Stolen,2B,2017,2018,22.9
+33,1899,1B,2B,Stolen Base 2B,425877,Yadier Molina,592351,Jon Gray,543939,Kolten Wong,R,Ryan Hanigan,452672,2,0,1,False,2017-07-25,Stolen,2B,2017,2018,22.9
+34,1917,2B,3B,Stolen Base 3B,425877,Yadier Molina,545064,Jairo Díaz,572228,Luke Voit,R,Tony Wolters,547172,6,2,8,False,2017-07-24,Stolen,3B,2017,2018,22.9
+35,1923,1B,,Caught Stealing 2B,425877,Yadier Molina,500779,Jose Quintana,657557,Paul DeJong,L,Willson Contreras,575929,2,3,4,True,2017-07-23,Caught,2B,2017,2018,22.9
+36,2146,2B,,Caught Stealing 3B,425877,Yadier Molina,554430,Zack Wheeler,545341,Randal Grichuk,R,Travis d'Arnaud,518595,1,0,4,False,2017-07-08,Caught,3B,2017,2018,22.9
+37,2795,1B,2B,Stolen Base 2B,425877,Yadier Molina,592879,Asher Wojciechowski,502054,Tommy Pham,R,Devin Mesoraco,519023,0,2,6,True,2017-06-05,Stolen,2B,2017,2018,22.9
+38,2798,1B,2B,Stolen Base 2B,425877,Yadier Molina,444468,Héctor Rondón,502054,Tommy Pham,R,Miguel Montero,471083,6,4,6,True,2017-06-04,Stolen,2B,2017,2018,22.9
+39,3026,1B,,Caught Stealing 2B,425877,Yadier Molina,477132,Clayton Kershaw,649557,Aledmys Díaz,L,Yasmani Grandal,518735,1,0,2,True,2017-05-23,Caught,2B,2017,2018,22.9
+40,3083,1B,,Caught Stealing 2B,425877,Yadier Molina,502188,Jeff Samardzija,543939,Kolten Wong,R,Buster Posey,457763,0,0,2,False,2017-05-20,Caught,2B,2017,2018,22.9
+41,3229,1B,2B,Stolen Base 2B,425877,Yadier Molina,452657,Jon Lester,594824,Greg Garcia,L,Willson Contreras,575929,2,1,4,False,2017-05-13,Stolen,2B,2017,2018,22.9
+42,3296,2B,3B,Stolen Base 3B,425877,Yadier Molina,547749,Junichi Tazawa,642423,Magneuris Sierra,R,J.T. Realmuto,592663,5,7,7,True,2017-05-10,Stolen,3B,2017,2018,22.9
+43,3549,2B,3B,Stolen Base 3B,425877,Yadier Molina,502009,Mat Latos,500874,José A. Martínez,R,Russell Martin,431145,0,1,2,False,2017-04-27,Stolen,3B,2017,2018,22.9
+44,261,2B,3B,Stolen Base 3B,425877,Yadier Molina,605218,Carl Edwards Jr.,545341,Randal Grichuk,R,Alex Avila,488671,3,3,6,True,2017-09-17,Stolen,3B,2017,2018,22.9
+45,948,1B,2B,Stolen Base 2B,425877,Yadier Molina,435400,Jason Motte,543939,Kolten Wong,R,Kurt Suzuki,435559,6,5,7,False,2017-08-11,Stolen,2B,2017,2018,22.9
+46,1271,1B,2B,Stolen Base 2B,425877,Yadier Molina,592351,Jon Gray,543939,Kolten Wong,R,Ryan Hanigan,452672,2,0,1,False,2017-07-25,Stolen,2B,2017,2018,22.9
+47,1289,2B,3B,Stolen Base 3B,425877,Yadier Molina,545064,Jairo Díaz,572228,Luke Voit,R,Tony Wolters,547172,6,2,8,False,2017-07-24,Stolen,3B,2017,2018,22.9
+48,1295,1B,,Caught Stealing 2B,425877,Yadier Molina,500779,Jose Quintana,657557,Paul DeJong,L,Willson Contreras,575929,2,3,4,True,2017-07-23,Caught,2B,2017,2018,22.9
+49,1518,2B,,Caught Stealing 3B,425877,Yadier Molina,554430,Zack Wheeler,545341,Randal Grichuk,R,Travis d'Arnaud,518595,1,0,4,False,2017-07-08,Caught,3B,2017,2018,22.9
+50,2167,1B,2B,Stolen Base 2B,425877,Yadier Molina,592879,Asher Wojciechowski,502054,Tommy Pham,R,Devin Mesoraco,519023,0,2,6,True,2017-06-05,Stolen,2B,2017,2018,22.9
+51,2170,1B,2B,Stolen Base 2B,425877,Yadier Molina,444468,Héctor Rondón,502054,Tommy Pham,R,Miguel Montero,471083,6,4,6,True,2017-06-04,Stolen,2B,2017,2018,22.9
+52,2398,1B,,Caught Stealing 2B,425877,Yadier Molina,477132,Clayton Kershaw,649557,Aledmys Díaz,L,Yasmani Grandal,518735,1,0,2,True,2017-05-23,Caught,2B,2017,2018,22.9
+53,2455,1B,,Caught Stealing 2B,425877,Yadier Molina,502188,Jeff Samardzija,543939,Kolten Wong,R,Buster Posey,457763,0,0,2,False,2017-05-20,Caught,2B,2017,2018,22.9
+54,2601,1B,2B,Stolen Base 2B,425877,Yadier Molina,452657,Jon Lester,594824,Greg Garcia,L,Willson Contreras,575929,2,1,4,False,2017-05-13,Stolen,2B,2017,2018,22.9
+55,2668,2B,3B,Stolen Base 3B,425877,Yadier Molina,547749,Junichi Tazawa,642423,Magneuris Sierra,R,J.T. Realmuto,592663,5,7,7,True,2017-05-10,Stolen,3B,2017,2018,22.9
+56,2921,2B,3B,Stolen Base 3B,425877,Yadier Molina,502009,Mat Latos,500874,José A. Martínez,R,Russell Martin,431145,0,1,2,False,2017-04-27,Stolen,3B,2017,2018,22.9
+57,4768,2B,,Caught Stealing 3B,425877,Yadier Molina,594798,Jacob deGrom,425509,Jhonny Peralta,R,Travis d'Arnaud,518595,1,1,2,False,2016-08-24,Caught,3B,2016,2017,23.8
+58,5467,1B,2B,Stolen Base 2B,425877,Yadier Molina,488768,Andrew Cashner,502054,Tommy Pham,R,Derek Norris,519083,0,2,5,False,2016-07-21,Stolen,2B,2016,2017,23.8
+59,6011,1B,,Caught Stealing 2B,425877,Yadier Molina,607259,Nick Martinez,649557,Aledmys Díaz,R,Bobby Wilson,435064,1,0,2,False,2016-06-18,Caught,2B,2016,2017,23.8
+60,6606,1B,2B,Stolen Base 2B,425877,Yadier Molina,459429,Jake McGee,543939,Kolten Wong,L,Dustin Garneau,572863,1,3,9,False,2016-05-17,Stolen,2B,2016,2017,23.8
+61,7318,1B,2B,Stolen Base 2B,425877,Yadier Molina,543380,Taylor Jungmann,543939,Kolten Wong,R,Martín Maldonado,455117,3,0,1,False,2016-04-11,Stolen,2B,2016,2017,23.8
+62,733,2B,,Caught Stealing 3B,425877,Yadier Molina,594798,Jacob deGrom,425509,Jhonny Peralta,R,Travis d'Arnaud,518595,1,1,2,False,2016-08-24,Caught,3B,2016,2017,23.8
+63,1432,1B,2B,Stolen Base 2B,425877,Yadier Molina,488768,Andrew Cashner,502054,Tommy Pham,R,Derek Norris,519083,0,2,5,False,2016-07-21,Stolen,2B,2016,2017,23.8
+64,1976,1B,,Caught Stealing 2B,425877,Yadier Molina,607259,Nick Martinez,649557,Aledmys Díaz,R,Bobby Wilson,435064,1,0,2,False,2016-06-18,Caught,2B,2016,2017,23.8
+65,2571,1B,2B,Stolen Base 2B,425877,Yadier Molina,459429,Jake McGee,543939,Kolten Wong,L,Dustin Garneau,572863,1,3,9,False,2016-05-17,Stolen,2B,2016,2017,23.8
+66,3283,1B,2B,Stolen Base 2B,425877,Yadier Molina,543380,Taylor Jungmann,543939,Kolten Wong,R,Martín Maldonado,455117,3,0,1,False,2016-04-11,Stolen,2B,2016,2017,23.8
+67,4140,2B,,Caught Stealing 3B,425877,Yadier Molina,594798,Jacob deGrom,425509,Jhonny Peralta,R,Travis d'Arnaud,518595,1,1,2,False,2016-08-24,Caught,3B,2016,2017,23.8
+68,4839,1B,2B,Stolen Base 2B,425877,Yadier Molina,488768,Andrew Cashner,502054,Tommy Pham,R,Derek Norris,519083,0,2,5,False,2016-07-21,Stolen,2B,2016,2017,23.8
+69,5383,1B,,Caught Stealing 2B,425877,Yadier Molina,607259,Nick Martinez,649557,Aledmys Díaz,R,Bobby Wilson,435064,1,0,2,False,2016-06-18,Caught,2B,2016,2017,23.8
+70,5978,1B,2B,Stolen Base 2B,425877,Yadier Molina,459429,Jake McGee,543939,Kolten Wong,L,Dustin Garneau,572863,1,3,9,False,2016-05-17,Stolen,2B,2016,2017,23.8
+71,6690,1B,2B,Stolen Base 2B,425877,Yadier Molina,543380,Taylor Jungmann,543939,Kolten Wong,R,Martín Maldonado,455117,3,0,1,False,2016-04-11,Stolen,2B,2016,2017,23.8
+72,222,1B,2B,Stolen Base 2B,425877,Yadier Molina,502046,Jeff Locke,448602,Mark Reynolds,L,Francisco Cervelli,465041,0,4,5,True,2015-07-09,Stolen,2B,2015,2016,23.8
+73,1640,2B,,Caught Stealing 3B,425877,Yadier Molina,571527,David Buchanan,518902,Pete Kozma,R,Cameron Rupp,519237,5,3,4,False,2015-04-30,Caught,3B,2015,2016,23.8

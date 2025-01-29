@@ -1,0 +1,23 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,65,1B,2B,Stolen Base 2B,657136,Connor Wong,672335,Cionel Pérez,646240,Rafael Devers,L,James McCann,543510,1,0,8,True,2023-09-28,Stolen,2B,2023,2024,28.4
+1,161,1B,2B,Stolen Base 2B,657136,Connor Wong,605182,Mike Clevinger,678882,Ceddanne Rafaela,R,Korey Lee,686676,1,0,3,False,2023-09-24,Stolen,2B,2023,2024,28.4
+2,901,1B,2B,Stolen Base 2B,657136,Connor Wong,681402,Gus Varland,657077,Alex Verdugo,R,Will Smith,669257,6,4,7,False,2023-08-26,Stolen,2B,2023,2024,28.4
+3,1223,1B,2B,Stolen Base 2B,657136,Connor Wong,669373,Tarik Skubal,608701,Rob Refsnyder,L,Jake Rogers,668670,1,0,3,False,2023-08-11,Stolen,2B,2023,2024,28.4
+4,1621,1B,2B,Stolen Base 2B,657136,Connor Wong,493603,Adam Ottavino,571771,Enrique Hernández,R,Omar Narváez,553882,6,1,8,False,2023-07-23,Stolen,2B,2023,2024,28.4
+5,1726,1B,,Caught Stealing 2B,657136,Connor Wong,686610,Ken Waldichuk,608701,Rob Refsnyder,L,Shea Langeliers,669127,2,2,2,True,2023-07-19,Caught,2B,2023,2024,28.4
+6,1727,1B,2B,Stolen Base 2B,657136,Connor Wong,543507,Trevor May,671213,Triston Casas,R,Shea Langeliers,669127,6,5,9,True,2023-07-19,Stolen,2B,2023,2024,28.4
+7,1974,1B,2B,Stolen Base 2B,657136,Connor Wong,592351,Jon Gray,680776,Jarren Duran,R,Jonah Heim,641680,2,0,4,False,2023-07-05,Stolen,2B,2023,2024,28.4
+8,3573,1B,2B,Stolen Base 2B,657136,Connor Wong,675540,Xzavion Curry,807799,Masataka Yoshida,R,Mike Zunino,572287,6,1,6,False,2023-04-29,Stolen,2B,2023,2024,28.4
+9,3574,2B,3B,Stolen Base 2B,657136,Connor Wong,675540,Xzavion Curry,807799,Masataka Yoshida,R,Mike Zunino,572287,6,1,6,False,2023-04-29,Stolen,2B,2023,2024,28.4
+10,3718,1B,,Caught Stealing 2B,657136,Connor Wong,641329,Bryan Baker,624414,Christian Arroyo,R,James McCann,543510,5,4,7,True,2023-04-24,Caught,2B,2023,2024,28.4
+11,4479,1B,2B,Stolen Base 2B,657136,Connor Wong,672335,Cionel Pérez,646240,Rafael Devers,L,James McCann,543510,1,0,8,True,2023-09-28,Stolen,2B,2023,2024,28.4
+12,4575,1B,2B,Stolen Base 2B,657136,Connor Wong,605182,Mike Clevinger,678882,Ceddanne Rafaela,R,Korey Lee,686676,1,0,3,False,2023-09-24,Stolen,2B,2023,2024,28.4
+13,5315,1B,2B,Stolen Base 2B,657136,Connor Wong,681402,Gus Varland,657077,Alex Verdugo,R,Will Smith,669257,6,4,7,False,2023-08-26,Stolen,2B,2023,2024,28.4
+14,5637,1B,2B,Stolen Base 2B,657136,Connor Wong,669373,Tarik Skubal,608701,Rob Refsnyder,L,Jake Rogers,668670,1,0,3,False,2023-08-11,Stolen,2B,2023,2024,28.4
+15,6035,1B,2B,Stolen Base 2B,657136,Connor Wong,493603,Adam Ottavino,571771,Enrique Hernández,R,Omar Narváez,553882,6,1,8,False,2023-07-23,Stolen,2B,2023,2024,28.4
+16,6140,1B,,Caught Stealing 2B,657136,Connor Wong,686610,Ken Waldichuk,608701,Rob Refsnyder,L,Shea Langeliers,669127,2,2,2,True,2023-07-19,Caught,2B,2023,2024,28.4
+17,6141,1B,2B,Stolen Base 2B,657136,Connor Wong,543507,Trevor May,671213,Triston Casas,R,Shea Langeliers,669127,6,5,9,True,2023-07-19,Stolen,2B,2023,2024,28.4
+18,6388,1B,2B,Stolen Base 2B,657136,Connor Wong,592351,Jon Gray,680776,Jarren Duran,R,Jonah Heim,641680,2,0,4,False,2023-07-05,Stolen,2B,2023,2024,28.4
+19,7987,1B,2B,Stolen Base 2B,657136,Connor Wong,675540,Xzavion Curry,807799,Masataka Yoshida,R,Mike Zunino,572287,6,1,6,False,2023-04-29,Stolen,2B,2023,2024,28.4
+20,7988,2B,3B,Stolen Base 2B,657136,Connor Wong,675540,Xzavion Curry,807799,Masataka Yoshida,R,Mike Zunino,572287,6,1,6,False,2023-04-29,Stolen,2B,2023,2024,28.4
+21,8132,1B,,Caught Stealing 2B,657136,Connor Wong,641329,Bryan Baker,624414,Christian Arroyo,R,James McCann,543510,5,4,7,True,2023-04-24,Caught,2B,2023,2024,28.4

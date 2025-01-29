@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+240,1B,,Caught Stealing 2B,670351,Jose Rojas,Zack Collins,0,2,2,True,2021-09-16,Caught,2B,2021
+1974,1B,2B,Stolen Base 2B,670351,Jose Rojas,Jose Trevino,5,0,1,False,2021-05-26,Stolen,2B,2021
+2219,1B,2B,Stolen Base 2B,670351,Jose Rojas,Jason Castro,3,1,4,True,2021-05-10,Stolen,2B,2021

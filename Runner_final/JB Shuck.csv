@@ -1,0 +1,25 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,166,1B,2B,Stolen Base 2B,543776,JB Shuck,445276,Kenley Jansen,518618,Derek Dietrich,R,Yasmani Grandal,518735,3,8,9,True,2018-04-25,Stolen,2B,2018,2019,28.9
+1,4455,1B,2B,Stolen Base 2B,543776,JB Shuck,451584,Wade Davis,408047,Justin Morneau,R,Salvador Perez,521692,5,6,9,False,2016-09-10,Stolen,2B,2016,2018,29.5
+2,5395,1B,2B,Stolen Base 2B,543776,JB Shuck,594986,Kyle Ryan,570560,Yolmer Sánchez,L,James McCann,543510,4,1,8,False,2016-07-24,Stolen,2B,2016,2018,29.5
+3,5681,1B,,Caught Stealing 2B,543776,JB Shuck,543135,Nathan Eovaldi,594809,Adam Eaton,R,Brian McCann,435263,5,0,7,False,2016-07-06,Caught,2B,2016,2018,29.5
+4,5793,1B,,Caught Stealing 2B,543776,JB Shuck,519166,Neil Ramírez,641313,Tim Anderson,R,Kurt Suzuki,435559,5,4,6,False,2016-06-30,Caught,2B,2016,2018,29.5
+5,5799,1B,2B,Stolen Base 2B,543776,JB Shuck,445060,Ricky Nolasco,541645,Avisaíl García,R,Kurt Suzuki,435559,2,1,2,False,2016-06-29,Stolen,2B,2016,2018,29.5
+6,420,1B,2B,Stolen Base 2B,543776,JB Shuck,451584,Wade Davis,408047,Justin Morneau,R,Salvador Perez,521692,5,6,9,False,2016-09-10,Stolen,2B,2016,2018,29.5
+7,1360,1B,2B,Stolen Base 2B,543776,JB Shuck,594986,Kyle Ryan,570560,Yolmer Sánchez,L,James McCann,543510,4,1,8,False,2016-07-24,Stolen,2B,2016,2018,29.5
+8,1646,1B,,Caught Stealing 2B,543776,JB Shuck,543135,Nathan Eovaldi,594809,Adam Eaton,R,Brian McCann,435263,5,0,7,False,2016-07-06,Caught,2B,2016,2018,29.5
+9,1758,1B,,Caught Stealing 2B,543776,JB Shuck,519166,Neil Ramírez,641313,Tim Anderson,R,Kurt Suzuki,435559,5,4,6,False,2016-06-30,Caught,2B,2016,2018,29.5
+10,1764,1B,2B,Stolen Base 2B,543776,JB Shuck,445060,Ricky Nolasco,541645,Avisaíl García,R,Kurt Suzuki,435559,2,1,2,False,2016-06-29,Stolen,2B,2016,2018,29.5
+11,3827,1B,2B,Stolen Base 2B,543776,JB Shuck,451584,Wade Davis,408047,Justin Morneau,R,Salvador Perez,521692,5,6,9,False,2016-09-10,Stolen,2B,2016,2018,29.5
+12,4767,1B,2B,Stolen Base 2B,543776,JB Shuck,594986,Kyle Ryan,570560,Yolmer Sánchez,L,James McCann,543510,4,1,8,False,2016-07-24,Stolen,2B,2016,2018,29.5
+13,5053,1B,,Caught Stealing 2B,543776,JB Shuck,543135,Nathan Eovaldi,594809,Adam Eaton,R,Brian McCann,435263,5,0,7,False,2016-07-06,Caught,2B,2016,2018,29.5
+14,5165,1B,,Caught Stealing 2B,543776,JB Shuck,519166,Neil Ramírez,641313,Tim Anderson,R,Kurt Suzuki,435559,5,4,6,False,2016-06-30,Caught,2B,2016,2018,29.5
+15,5171,1B,2B,Stolen Base 2B,543776,JB Shuck,445060,Ricky Nolasco,541645,Avisaíl García,R,Kurt Suzuki,435559,2,1,2,False,2016-06-29,Stolen,2B,2016,2018,29.5
+16,788,1B,,Caught Stealing 2B,543776,JB Shuck,448609,Tony Sipp,466988,Emilio Bonifácio,L,Jason Castro,488771,2,1,7,False,2015-06-10,Caught,2B,2015,2016,28.9
+17,1034,1B,,Caught Stealing 2B,543776,JB Shuck,451661,Josh Fields,452095,Tyler Flowers,R,Hank Conger,474233,3,3,10,True,2015-05-29,Caught,2B,2015,2016,28.9
+18,1047,1B,2B,Stolen Base 2B,543776,JB Shuck,592869,Tyler Wilson,493596,Gordon Beckham,R,Caleb Joseph,543376,0,0,5,True,2015-05-28,Stolen,2B,2015,2016,28.9
+19,1048,1B,2B,Stolen Base 2B,543776,JB Shuck,488984,Tommy Hunter,493596,Gordon Beckham,R,Caleb Joseph,543376,0,2,9,True,2015-05-28,Stolen,2B,2015,2016,28.9
+20,1062,1B,2B,Stolen Base 2B,543776,JB Shuck,462136,Marco Estrada,493596,Gordon Beckham,R,Josh Thole,489365,0,0,2,True,2015-05-27,Stolen,2B,2015,2016,28.9
+21,1418,1B,2B,Stolen Base 2B,543776,JB Shuck,571561,Tony Cingrani,466320,Melky Cabrera,L,Brayan Peña,430910,1,1,6,False,2015-05-10,Stolen,2B,2015,2016,28.9
+22,1692,1B,2B,Stolen Base 2B,543776,JB Shuck,592869,Tyler Wilson,493596,Gordon Beckham,R,Caleb Joseph,543376,0,0,5,True,2015-04-27,Stolen,2B,2015,2016,28.9
+23,1693,1B,2B,Stolen Base 2B,543776,JB Shuck,488984,Tommy Hunter,493596,Gordon Beckham,R,Caleb Joseph,543376,0,2,9,True,2015-04-27,Stolen,2B,2015,2016,28.9

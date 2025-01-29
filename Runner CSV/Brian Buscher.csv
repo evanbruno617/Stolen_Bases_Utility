@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+79,1B,2B,Stolen Base 2B,430927,Brian Buscher,Jason Varitek,2,2,2,True,2007-09-27,Stolen,2B,2007
+1391,1B,,Caught Stealing 2B,430927,Brian Buscher,Taylor Teagarden,0,0,5,False,2008-07-20,Caught,2B,2008
+1890,1B,,Caught Stealing 2B,430927,Brian Buscher,Chris Snyder,0,0,3,False,2008-06-22,Caught,2B,2008

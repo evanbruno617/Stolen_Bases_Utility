@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+127,1B,2B,Stolen Base 2B,407876,Chip Ambres,Victor Martinez,3,3,6,False,2005-09-25,Stolen,2B,2005
+778,1B,,Caught Stealing 2B,407876,Chip Ambres,Jason Kendall,4,4,11,True,2005-08-21,Caught,2B,2005
+1280,1B,2B,Stolen Base 2B,407876,Chip Ambres,A.J. Pierzynski,0,0,1,False,2005-07-26,Stolen,2B,2005
+1324,1B,2B,Stolen Base 2B,407876,Chip Ambres,Gregg Zaun,4,4,4,False,2005-07-24,Stolen,2B,2005
+347,1B,2B,Stolen Base 2B,407876,Chip Ambres,Bengie Molina,0,0,1,False,2008-09-12,Stolen,2B,2008

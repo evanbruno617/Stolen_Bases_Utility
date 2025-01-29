@@ -1,0 +1,8 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1045,1B,,Caught Stealing 2B,607776,Mac Williamson,608337,Lucas Giolito,624507,Ryder Jones,R,Kevan Smith,607345,0,0,2,True,2017-09-08,Caught,2B,2017,2018,28.2
+1,3100,1B,2B,Stolen Base 2B,607776,Mac Williamson,608379,Michael Wacha,519043,Matt Moore,R,Yadier Molina,425877,0,0,2,True,2017-05-19,Stolen,2B,2017,2018,28.2
+2,417,1B,,Caught Stealing 2B,607776,Mac Williamson,608337,Lucas Giolito,624507,Ryder Jones,R,Kevan Smith,607345,0,0,2,True,2017-09-08,Caught,2B,2017,2018,28.2
+3,2472,1B,2B,Stolen Base 2B,607776,Mac Williamson,608379,Michael Wacha,519043,Matt Moore,R,Yadier Molina,425877,0,0,2,True,2017-05-19,Stolen,2B,2017,2018,28.2
+4,5633,1B,,Caught Stealing 2B,607776,Mac Williamson,592662,Robbie Ray,502205,Grant Green,L,Welington Castillo,456078,0,0,2,False,2016-07-09,Caught,2B,2016,2017,27.9
+5,1598,1B,,Caught Stealing 2B,607776,Mac Williamson,592662,Robbie Ray,502205,Grant Green,L,Welington Castillo,456078,0,0,2,False,2016-07-09,Caught,2B,2016,2017,27.9
+6,5005,1B,,Caught Stealing 2B,607776,Mac Williamson,592662,Robbie Ray,502205,Grant Green,L,Welington Castillo,456078,0,0,2,False,2016-07-09,Caught,2B,2016,2017,27.9

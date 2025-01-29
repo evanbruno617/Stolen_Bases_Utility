@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2278,1B,,Caught Stealing 2B,656811,Ryan O'Hearn,J.T. Realmuto,4,1,6,False,2019-05-10,Caught,2B,2019
+2288,2B,3B,Caught Stealing 2B,656811,Ryan O'Hearn,Austin Hedges,2,0,4,False,2021-05-05,Caught,2B,2021
+186,1B,2B,Stolen Base 2B,656811,Ryan O'Hearn,David Fry,0,1,1,True,2023-09-23,Stolen,2B,2023
+1068,1B,2B,Stolen Base 2B,656811,Ryan O'Hearn,Shea Langeliers,2,7,5,True,2023-08-18,Stolen,2B,2023
+1193,1B,2B,Stolen Base 2B,656811,Ryan O'Hearn,Tom Murphy,0,1,10,True,2023-08-12,Stolen,2B,2023
+1409,1B,2B,Stolen Base 2B,656811,Ryan O'Hearn,Francisco Alvarez,0,0,4,False,2023-08-04,Stolen,2B,2023
+1974,1B,2B,Stolen Base 2B,656811,Ryan O'Hearn,Jose Trevino,0,0,1,True,2023-07-05,Stolen,2B,2023
+2185,1B,2B,Caught Stealing 2B,656811,Ryan O'Hearn,Luke Maile,1,3,9,False,2023-06-27,Caught,2B,2023

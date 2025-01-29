@@ -1,0 +1,3 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,,Caught Stealing 2B,474832,Brandon Belt,Ali Solis,0,0,2,False,2012-09-21,Caught,2B,2012
+1B,2B,Stolen Base 2B,434636,Ángel Pagán,Ali Solis,0,0,3,False,2012-09-21,Stolen,2B,2012

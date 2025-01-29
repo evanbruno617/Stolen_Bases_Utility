@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,5190,1B,2B,Stolen Base 2B,429719,Edwin Jackson,501697,Jhan Mariñez,608671,Travis Jankowski,R,Manny Piña,444489,4,0,6,False,2016-08-03,Stolen,2B,2016,2017,26.1
+1,1155,1B,2B,Stolen Base 2B,429719,Edwin Jackson,501697,Jhan Mariñez,608671,Travis Jankowski,R,Manny Piña,444489,4,0,6,False,2016-08-03,Stolen,2B,2016,2017,26.1
+2,4562,1B,2B,Stolen Base 2B,429719,Edwin Jackson,501697,Jhan Mariñez,608671,Travis Jankowski,R,Manny Piña,444489,4,0,6,False,2016-08-03,Stolen,2B,2016,2017,26.1

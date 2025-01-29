@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1907,1B,2B,Stolen Base 2B,608654,Johnny Field,Max Stassi,1,2,8,True,2018-06-19,Stolen,2B,2018
+2223,1B,2B,Stolen Base 2B,608654,Johnny Field,David Freitas,3,3,12,True,2018-06-01,Stolen,2B,2018
+2247,1B,2B,Stolen Base 2B,608654,Johnny Field,Jonathan Lucroy,0,4,6,True,2018-05-30,Stolen,2B,2018
+2698,1B,2B,Stolen Base 2B,608654,Johnny Field,Russell Martin,5,3,8,False,2018-05-05,Stolen,2B,2018

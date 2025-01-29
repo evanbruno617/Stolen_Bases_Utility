@@ -1,0 +1,37 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3844,1B,,Caught Stealing 2B,594988,Scott Schebler,622259,Trey Wingenter,571657,Kyle Farmer,R,Francisco Mejía,642336,1,4,8,True,2019-04-20,Caught,2B,2019,2021,27.3
+1,6687,1B,,Caught Stealing 2B,594988,Scott Schebler,622259,Trey Wingenter,571657,Kyle Farmer,R,Francisco Mejía,642336,1,4,8,True,2019-04-20,Caught,2B,2019,2021,27.3
+2,8611,1B,,Caught Stealing 2B,594988,Scott Schebler,622259,Trey Wingenter,571657,Kyle Farmer,R,Francisco Mejía,642336,1,4,8,True,2019-04-20,Caught,2B,2019,2021,27.3
+3,576,1B,2B,Stolen Base 2B,594988,Scott Schebler,605218,Carl Edwards Jr.,571466,Tucker Barnhart,R,Victor Caratini,605170,4,4,8,False,2018-04-03,Stolen,2B,2018,2019,27.4
+4,1096,1B,2B,Stolen Base 2B,594988,Scott Schebler,605200,Zach Davies,571466,Tucker Barnhart,R,Stephen Vogt,519390,0,0,2,False,2017-09-05,Stolen,2B,2017,2018,27.7
+5,1277,1B,,Caught Stealing 2B,594988,Scott Schebler,519263,A.J. Schugel,571740,Billy Hamilton,R,Elias Díaz,553869,2,3,6,False,2017-08-27,Caught,2B,2017,2018,27.7
+6,2037,1B,,Caught Stealing 2B,594988,Scott Schebler,592662,Robbie Ray,606299,José Peraza,L,Chris Herrmann,543302,1,1,2,False,2017-07-18,Caught,2B,2017,2018,27.7
+7,2108,1B,2B,Stolen Base 2B,594988,Scott Schebler,461829,Gio González,606299,José Peraza,L,Matt Wieters,446308,0,2,2,False,2017-07-14,Stolen,2B,2017,2018,27.7
+8,3245,1B,2B,Stolen Base 2B,594988,Scott Schebler,456501,Johnny Cueto,571697,Scooter Gennett,R,Buster Posey,457763,1,2,4,True,2017-05-12,Stolen,2B,2017,2018,27.7
+9,3314,1B,2B,Stolen Base 2B,594988,Scott Schebler,282332,CC Sabathia,606299,José Peraza,L,Gary Sánchez,596142,5,3,5,False,2017-05-09,Stolen,2B,2017,2018,27.7
+10,3711,1B,2B,Stolen Base 2B,594988,Scott Schebler,434622,Ubaldo Jiménez,446359,Zack Cozart,R,Welington Castillo,456078,0,1,4,False,2017-04-19,Stolen,2B,2017,2018,27.7
+11,468,1B,2B,Stolen Base 2B,594988,Scott Schebler,605200,Zach Davies,571466,Tucker Barnhart,R,Stephen Vogt,519390,0,0,2,False,2017-09-05,Stolen,2B,2017,2018,27.7
+12,649,1B,,Caught Stealing 2B,594988,Scott Schebler,519263,A.J. Schugel,571740,Billy Hamilton,R,Elias Díaz,553869,2,3,6,False,2017-08-27,Caught,2B,2017,2018,27.7
+13,1409,1B,,Caught Stealing 2B,594988,Scott Schebler,592662,Robbie Ray,606299,José Peraza,L,Chris Herrmann,543302,1,1,2,False,2017-07-18,Caught,2B,2017,2018,27.7
+14,1480,1B,2B,Stolen Base 2B,594988,Scott Schebler,461829,Gio González,606299,José Peraza,L,Matt Wieters,446308,0,2,2,False,2017-07-14,Stolen,2B,2017,2018,27.7
+15,2617,1B,2B,Stolen Base 2B,594988,Scott Schebler,456501,Johnny Cueto,571697,Scooter Gennett,R,Buster Posey,457763,1,2,4,True,2017-05-12,Stolen,2B,2017,2018,27.7
+16,2686,1B,2B,Stolen Base 2B,594988,Scott Schebler,282332,CC Sabathia,606299,José Peraza,L,Gary Sánchez,596142,5,3,5,False,2017-05-09,Stolen,2B,2017,2018,27.7
+17,3083,1B,2B,Stolen Base 2B,594988,Scott Schebler,434622,Ubaldo Jiménez,446359,Zack Cozart,R,Welington Castillo,456078,0,1,4,False,2017-04-19,Stolen,2B,2017,2018,27.7
+18,4150,1B,,Caught Stealing 2B,594988,Scott Schebler,503449,Wily Peralta,594807,Adam Duvall,R,Martín Maldonado,455117,0,3,3,True,2016-09-25,Caught,2B,2016,2017,28.3
+19,4518,1B,,Caught Stealing 2B,594988,Scott Schebler,592789,Noah Syndergaard,534627,Tyler Holt,R,René Rivera,425784,0,1,2,False,2016-09-07,Caught,2B,2016,2017,28.3
+20,4626,1B,,Caught Stealing 2B,594988,Scott Schebler,621052,Alex Reyes,553993,Eugenio Suárez,R,Yadier Molina,425877,0,1,4,False,2016-09-02,Caught,2B,2016,2017,28.3
+21,5056,1B,2B,Stolen Base 2B,594988,Scott Schebler,502190,Mike Leake,553993,Eugenio Suárez,R,Yadier Molina,425877,1,2,4,True,2016-08-09,Stolen,2B,2016,2017,28.3
+22,6881,1B,2B,Stolen Base 2B,594988,Scott Schebler,456501,Johnny Cueto,571466,Tucker Barnhart,R,Buster Posey,457763,6,3,3,False,2016-05-02,Stolen,2B,2016,2017,28.3
+23,7360,1B,,Caught Stealing 2B,594988,Scott Schebler,491708,Arquimedes Caminero,474443,Iván De Jesús Jr.,R,Francisco Cervelli,465041,3,1,6,False,2016-04-09,Caught,2B,2016,2017,28.3
+24,115,1B,,Caught Stealing 2B,594988,Scott Schebler,503449,Wily Peralta,594807,Adam Duvall,R,Martín Maldonado,455117,0,3,3,True,2016-09-25,Caught,2B,2016,2017,28.3
+25,483,1B,,Caught Stealing 2B,594988,Scott Schebler,592789,Noah Syndergaard,534627,Tyler Holt,R,René Rivera,425784,0,1,2,False,2016-09-07,Caught,2B,2016,2017,28.3
+26,591,1B,,Caught Stealing 2B,594988,Scott Schebler,621052,Alex Reyes,553993,Eugenio Suárez,R,Yadier Molina,425877,0,1,4,False,2016-09-02,Caught,2B,2016,2017,28.3
+27,1021,1B,2B,Stolen Base 2B,594988,Scott Schebler,502190,Mike Leake,553993,Eugenio Suárez,R,Yadier Molina,425877,1,2,4,True,2016-08-09,Stolen,2B,2016,2017,28.3
+28,2846,1B,2B,Stolen Base 2B,594988,Scott Schebler,456501,Johnny Cueto,571466,Tucker Barnhart,R,Buster Posey,457763,6,3,3,False,2016-05-02,Stolen,2B,2016,2017,28.3
+29,3325,1B,,Caught Stealing 2B,594988,Scott Schebler,491708,Arquimedes Caminero,474443,Iván De Jesús Jr.,R,Francisco Cervelli,465041,3,1,6,False,2016-04-09,Caught,2B,2016,2017,28.3
+30,3522,1B,,Caught Stealing 2B,594988,Scott Schebler,503449,Wily Peralta,594807,Adam Duvall,R,Martín Maldonado,455117,0,3,3,True,2016-09-25,Caught,2B,2016,2017,28.3
+31,3890,1B,,Caught Stealing 2B,594988,Scott Schebler,592789,Noah Syndergaard,534627,Tyler Holt,R,René Rivera,425784,0,1,2,False,2016-09-07,Caught,2B,2016,2017,28.3
+32,3998,1B,,Caught Stealing 2B,594988,Scott Schebler,621052,Alex Reyes,553993,Eugenio Suárez,R,Yadier Molina,425877,0,1,4,False,2016-09-02,Caught,2B,2016,2017,28.3
+33,4428,1B,2B,Stolen Base 2B,594988,Scott Schebler,502190,Mike Leake,553993,Eugenio Suárez,R,Yadier Molina,425877,1,2,4,True,2016-08-09,Stolen,2B,2016,2017,28.3
+34,6253,1B,2B,Stolen Base 2B,594988,Scott Schebler,456501,Johnny Cueto,571466,Tucker Barnhart,R,Buster Posey,457763,6,3,3,False,2016-05-02,Stolen,2B,2016,2017,28.3
+35,6732,1B,,Caught Stealing 2B,594988,Scott Schebler,491708,Arquimedes Caminero,474443,Iván De Jesús Jr.,R,Francisco Cervelli,465041,3,1,6,False,2016-04-09,Caught,2B,2016,2017,28.3

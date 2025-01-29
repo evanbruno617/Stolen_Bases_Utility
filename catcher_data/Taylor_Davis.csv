@@ -1,0 +1,19 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,663697,Jonathan India,Taylor Davis,4,0,2,False,2021-09-27,Stolen,2B,2021
+1B,2B,Stolen Base 2B,663697,Jonathan India,Taylor Davis,4,0,2,False,2021-09-22,Stolen,2B,2021
+1B,2B,Stolen Base 2B,669222,Nick Senzel,Taylor Davis,0,0,1,False,2019-05-15,Stolen,2B,2019
+1B,2B,Stolen Base 2B,669222,Nick Senzel,Taylor Davis,1,2,3,False,2019-05-15,Stolen,2B,2019
+1B,2B,Stolen Base 2B,435522,Neil Walker,Taylor Davis,2,0,2,True,2019-05-09,Stolen,2B,2019
+1B,2B,Stolen Base 2B,594011,Rosell Herrera,Taylor Davis,2,0,3,True,2019-05-09,Stolen,2B,2019
+1B,2B,Stolen Base 2B,500743,Miguel Rojas,Taylor Davis,2,0,3,True,2019-05-09,Stolen,2B,2019
+1B,2B,Stolen Base 2B,598284,Peter O'Brien,Taylor Davis,2,1,4,True,2019-05-09,Stolen,2B,2019
+1B,2B,Stolen Base 2B,657557,Paul DeJong,Taylor Davis,0,0,1,True,2019-05-04,Stolen,2B,2019
+2B,3B,Stolen Base 3B,572761,Matt Carpenter,Taylor Davis,1,2,3,True,2019-05-04,Stolen,3B,2019
+2B,3B,Stolen Base 3B,425877,Yadier Molina,Taylor Davis,5,5,7,True,2019-05-04,Stolen,3B,2019
+1B,2B,Stolen Base 2B,451594,Dexter Fowler,Taylor Davis,5,5,7,True,2019-05-04,Stolen,2B,2019
+1B,2B,Stolen Base 2B,606466,Ketel Marte,Taylor Davis,1,7,6,False,2019-04-27,Stolen,2B,2019
+1B,2B,Stolen Base 2B,607208,Trea Turner,Taylor Davis,0,0,1,False,2018-09-08,Stolen,2B,2018
+2B,3B,Stolen Base 3B,607208,Trea Turner,Taylor Davis,0,0,1,False,2018-09-08,Stolen,3B,2018
+1B,2B,Stolen Base 2B,547180,Bryce Harper,Taylor Davis,0,0,1,False,2018-09-08,Stolen,2B,2018
+1B,2B,Stolen Base 2B,456715,Lorenzo Cain,Taylor Davis,1,1,3,False,2018-09-04,Stolen,2B,2018
+2B,3B,Stolen Base 3B,541650,Hernán Pérez,Taylor Davis,2,1,4,False,2018-09-04,Stolen,3B,2018

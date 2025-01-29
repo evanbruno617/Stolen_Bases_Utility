@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1384,1B,2B,Stolen Base 2B,493574,Blake Tekotte,Dioner Navarro,0,0,2,False,2011-08-02,Stolen,2B,2011
+1386,1B,2B,Stolen Base 2B,493574,Blake Tekotte,Dioner Navarro,0,1,7,False,2011-08-02,Stolen,2B,2011
+2968,1B,,Caught Stealing 2B,493574,Blake Tekotte,Wilson Ramos,3,4,6,True,2011-05-29,Caught,2B,2011
+3429,1B,2B,Stolen Base 2B,493574,Blake Tekotte,Brett Hayes,8,9,12,False,2012-05-04,Stolen,2B,2012
+1327,1B,,Caught Stealing 2B,493574,Blake Tekotte,Salvador Perez,0,1,7,False,2013-07-27,Caught,2B,2013
+1532,1B,2B,Stolen Base 2B,493574,Blake Tekotte,Carlos Ruiz,3,2,9,True,2013-07-14,Stolen,2B,2013
+1683,1B,,Caught Stealing 2B,493574,Blake Tekotte,José Molina,1,0,3,True,2013-07-07,Caught,2B,2013
+1742,1B,,Caught Stealing 2B,493574,Blake Tekotte,José Molina,5,0,3,True,2013-07-05,Caught,2B,2013

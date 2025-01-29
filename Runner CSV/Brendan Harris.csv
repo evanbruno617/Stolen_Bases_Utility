@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+818,1B,2B,Stolen Base 2B,430593,Brendan Harris,Kurt Suzuki,3,0,4,False,2007-08-25,Stolen,2B,2007
+1056,1B,,Caught Stealing 2B,430593,Brendan Harris,Jason Varitek,0,1,2,True,2007-08-15,Caught,2B,2007
+1898,1B,2B,Stolen Base 2B,430593,Brendan Harris,John Buck,1,5,7,True,2007-07-06,Stolen,2B,2007
+2610,1B,2B,Stolen Base 2B,430593,Brendan Harris,Jason LaRue,4,1,6,False,2007-06-03,Stolen,2B,2007
+3449,1B,2B,Stolen Base 2B,430593,Brendan Harris,Jorge Posada,4,1,2,False,2007-04-23,Stolen,2B,2007
+2688,1B,,Caught Stealing 2B,430593,Brendan Harris,Yorvit Torrealba,1,2,7,True,2008-05-17,Caught,2B,2008
+2741,1B,2B,Stolen Base 2B,430593,Brendan Harris,Yorvit Torrealba,2,4,9,True,2008-05-16,Stolen,2B,2008
+426,1B,,Caught Stealing 2B,430593,Brendan Harris,A.J. Pierzynski,8,4,6,False,2009-07-12,Caught,2B,2009
+3184,1B,,Caught Stealing 2B,430593,Brendan Harris,A.J. Pierzynski,2,0,2,False,2013-04-23,Caught,2B,2013

@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+489,1B,2B,Stolen Base 2B,608700,Kevin Plawecki,Cameron Rupp,0,0,2,False,2017-09-04,Stolen,2B,2017
+1365,1B,,Caught Stealing 2B,608700,Kevin Plawecki,Cam Gallagher,0,1,2,True,2019-07-04,Caught,2B,2019
+569,1B,2B,Stolen Base 2B,608700,Kevin Plawecki,Yan Gomes,3,0,1,False,2020-08-30,Stolen,2B,2020

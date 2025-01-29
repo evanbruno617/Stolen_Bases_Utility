@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2005,2B,,Caught Stealing 3B,501896,David Freese,605200,Zach Davies,474568,Jordy Mercer,R,Jett Bandy,542908,1,1,4,False,2017-07-19,Caught,3B,2017,2018,26.5
+1,1377,2B,,Caught Stealing 3B,501896,David Freese,605200,Zach Davies,474568,Jordy Mercer,R,Jett Bandy,542908,1,1,4,False,2017-07-19,Caught,3B,2017,2018,26.5
+2,731,1B,,Caught Stealing 2B,501896,David Freese,608665,Kendall Graveman,543213,Johnny Giavotella,R,Josh Phegley,572033,1,0,2,False,2015-06-13,Caught,2B,2015,2016,26.9
+3,1636,2B,3B,Stolen Base 3B,501896,David Freese,445926,Jesse Chavez,460077,Drew Butera,R,Josh Phegley,572033,0,1,4,True,2015-04-30,Stolen,3B,2015,2016,26.9

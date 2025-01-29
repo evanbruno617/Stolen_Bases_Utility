@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2616,1B,2B,Stolen Base 2B,276347,Eric Munson,Tim Laker,7,9,7,True,2003-05-19,Stolen,2B,2003
+2763,1B,2B,Stolen Base 2B,276347,Eric Munson,Ramon Hernandez,1,1,3,False,2003-05-13,Stolen,2B,2003
+2913,1B,2B,Stolen Base 2B,276347,Eric Munson,Brook Fordyce,1,4,6,True,2003-05-05,Stolen,2B,2003
+1355,1B,,Caught Stealing 2B,276347,Eric Munson,Ben Davis,2,4,6,True,2004-07-25,Caught,2B,2004
+1870,1B,2B,Stolen Base 2B,276347,Eric Munson,Robby Hammock,1,0,2,False,2004-06-26,Stolen,2B,2004

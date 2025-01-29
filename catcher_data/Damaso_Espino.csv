@@ -1,0 +1,9 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,456422,Michael Bourn,Damaso Espino,0,0,1,False,2009-04-04,Stolen,2B,2009
+1B,2B,Stolen Base 2B,456422,Michael Bourn,Damaso Espino,2,1,6,False,2009-04-04,Stolen,2B,2009
+1B,2B,Stolen Base 2B,431157,Joey Gathright,Damaso Espino,7,3,4,False,2009-04-02,Stolen,2B,2009
+1B,,Caught Stealing 2B,429663,Chris Burke,Damaso Espino,14,12,8,False,2009-04-01,Caught,2B,2009
+1B,2B,Stolen Base 2B,458015,Joey Votto,Damaso Espino,2,2,3,False,2010-04-03,Stolen,2B,2010
+1B,2B,Stolen Base 2B,453211,Drew Stubbs,Damaso Espino,2,6,7,False,2010-04-03,Stolen,2B,2010
+1B,2B,Stolen Base 2B,111867,Miguel Cairo,Damaso Espino,3,6,7,False,2010-04-03,Stolen,2B,2010
+1B,2B,Stolen Base 2B,453211,Drew Stubbs,Damaso Espino,10,3,8,True,2010-04-02,Stolen,2B,2010

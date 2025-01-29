@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+104,1B,2B,Stolen Base 2B,120771,Tom Prince,Joe Girardi,1,2,5,True,2000-09-26,Stolen,2B,2000
+940,1B,2B,Stolen Base 2B,120771,Tom Prince,Brook Fordyce,1,2,5,False,2001-04-28,Stolen,2B,2001
+574,1B,2B,Stolen Base 2B,120771,Tom Prince,Ramon Hernandez,4,5,9,True,2002-09-01,Stolen,2B,2002
+3780,1B,,Caught Stealing 2B,120771,Tom Prince,Einar Díaz,5,0,5,True,2002-04-09,Caught,2B,2002
+3368,2B,3B,Stolen Base 3B,120771,Tom Prince,Tom Wilson,2,1,3,True,2003-04-13,Stolen,3B,2003

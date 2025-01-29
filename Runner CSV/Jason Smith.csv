@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1535,1B,2B,Stolen Base 2B,400136,Jason Smith,Greg Myers,1,2,9,False,2002-07-16,Stolen,2B,2002
+2552,1B,2B,Stolen Base 2B,400136,Jason Smith,Dan Wilson,0,0,3,False,2002-05-28,Stolen,2B,2002
+3634,1B,2B,Stolen Base 2B,400136,Jason Smith,Darrin Fletcher,2,1,5,False,2002-04-14,Stolen,2B,2002
+39,1B,2B,Stolen Base 2B,400136,Jason Smith,Ben Davis,0,5,5,False,2004-09-29,Stolen,2B,2004
+407,1B,,Caught Stealing 2B,400136,Jason Smith,Pat Borders,1,5,3,False,2004-09-12,Caught,2B,2004
+2415,1B,2B,Stolen Base 2B,400136,Jason Smith,Jorge Posada,4,3,9,True,2005-05-26,Stolen,2B,2005
+2934,1B,,Caught Stealing 2B,400136,Jason Smith,Chris Widger,1,0,3,True,2005-05-01,Caught,2B,2005
+3289,1B,2B,Stolen Base 2B,400136,Jason Smith,Joe Mauer,8,4,9,True,2005-04-13,Stolen,2B,2005

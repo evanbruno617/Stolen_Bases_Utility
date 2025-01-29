@@ -1,0 +1,35 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,605141,Mookie Betts,542947,Richard Bleier,643217,Andrew Benintendi,L,Francisco Peña,506747,3,7,9,True,2017-06-04,Stolen,2B,2017,2018, 81.3, 0.77
+1,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,542947,Richard Bleier,593428,Xander Bogaerts,L,Francisco Peña,506747,3,7,9,True,2017-06-04,Stolen,2B,2017,2018, 81.3, 0.77
+2,1B,2B,Stolen Base 2B,605141,Mookie Betts,542947,Richard Bleier,643217,Andrew Benintendi,L,Francisco Peña,506747,3,7,9,True,2017-06-04,Stolen,2B,2017,2018, 81.3, 0.77
+3,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,542947,Richard Bleier,593428,Xander Bogaerts,L,Francisco Peña,506747,3,7,9,True,2017-06-04,Stolen,2B,2017,2018, 81.3, 0.77
+4,3B,score,Stolen Base Home,544369,Didi Gregorius,605164,Dylan Bundy,435263,Brian McCann,R,Francisco Peña,506747,4,2,3,False,2016-08-27,Stolen,Home,2016,2017, --, 0.73
+5,1B,2B,Stolen Base 2B,516770,Starlin Castro,605164,Dylan Bundy,435263,Brian McCann,R,Francisco Peña,506747,4,2,3,False,2016-08-27,Stolen,2B,2016,2017, --, 0.73
+6,1B,2B,Stolen Base 2B,621043,Carlos Correa,451596,Yovani Gallardo,594828,Evan Gattis,R,Francisco Peña,506747,0,0,4,True,2016-08-21,Stolen,2B,2016,2017, --, 0.73
+7,1B,,Caught Stealing 2B,606192,Teoscar Hernández,592170,Parker Bridwell,608324,Alex Bregman,R,Francisco Peña,506747,2,5,9,True,2016-08-21,Caught,2B,2016,2017, --, 0.73
+8,1B,2B,Stolen Base 2B,608671,Travis Jankowski,592869,Tyler Wilson,461314,Matt Kemp,R,Francisco Peña,506747,0,1,1,True,2016-06-21,Stolen,2B,2016,2017, --, 0.73
+9,1B,2B,Stolen Base 2B,571976,Wil Myers,592869,Tyler Wilson,461314,Matt Kemp,R,Francisco Peña,506747,2,3,4,True,2016-06-21,Stolen,2B,2016,2017, --, 0.73
+10,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,605541,Mike Wright Jr.,518626,Josh Donaldson,R,Francisco Peña,506747,3,3,5,False,2016-06-11,Caught,2B,2016,2017, --, 0.73
+11,1B,2B,Stolen Base 2B,449181,Paulo Orlando,434622,Ubaldo Jiménez,596144,Cheslor Cuthbert,R,Francisco Peña,506747,4,0,2,True,2016-06-07,Stolen,2B,2016,2017, --, 0.73
+12,1B,,Caught Stealing 2B,593160,Whit Merrifield,434622,Ubaldo Jiménez,456715,Lorenzo Cain,R,Francisco Peña,506747,5,0,3,True,2016-06-07,Caught,2B,2016,2017, --, 0.73
+13,1B,,Caught Stealing 2B,434670,Hanley Ramirez,571710,Mychal Givens,596119,Blake Swihart,R,Francisco Peña,506747,4,5,6,True,2016-06-02,Caught,2B,2016,2017, --, 0.73
+14,3B,score,Stolen Base Home,544369,Didi Gregorius,605164,Dylan Bundy,435263,Brian McCann,R,Francisco Peña,506747,4,2,3,False,2016-08-27,Stolen,Home,2016,2017, --, 0.73
+15,1B,2B,Stolen Base 2B,516770,Starlin Castro,605164,Dylan Bundy,435263,Brian McCann,R,Francisco Peña,506747,4,2,3,False,2016-08-27,Stolen,2B,2016,2017, --, 0.73
+16,1B,2B,Stolen Base 2B,621043,Carlos Correa,451596,Yovani Gallardo,594828,Evan Gattis,R,Francisco Peña,506747,0,0,4,True,2016-08-21,Stolen,2B,2016,2017, --, 0.73
+17,1B,,Caught Stealing 2B,606192,Teoscar Hernández,592170,Parker Bridwell,608324,Alex Bregman,R,Francisco Peña,506747,2,5,9,True,2016-08-21,Caught,2B,2016,2017, --, 0.73
+18,1B,2B,Stolen Base 2B,608671,Travis Jankowski,592869,Tyler Wilson,461314,Matt Kemp,R,Francisco Peña,506747,0,1,1,True,2016-06-21,Stolen,2B,2016,2017, --, 0.73
+19,1B,2B,Stolen Base 2B,571976,Wil Myers,592869,Tyler Wilson,461314,Matt Kemp,R,Francisco Peña,506747,2,3,4,True,2016-06-21,Stolen,2B,2016,2017, --, 0.73
+20,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,605541,Mike Wright Jr.,518626,Josh Donaldson,R,Francisco Peña,506747,3,3,5,False,2016-06-11,Caught,2B,2016,2017, --, 0.73
+21,1B,2B,Stolen Base 2B,449181,Paulo Orlando,434622,Ubaldo Jiménez,596144,Cheslor Cuthbert,R,Francisco Peña,506747,4,0,2,True,2016-06-07,Stolen,2B,2016,2017, --, 0.73
+22,1B,,Caught Stealing 2B,593160,Whit Merrifield,434622,Ubaldo Jiménez,456715,Lorenzo Cain,R,Francisco Peña,506747,5,0,3,True,2016-06-07,Caught,2B,2016,2017, --, 0.73
+23,1B,,Caught Stealing 2B,434670,Hanley Ramirez,571710,Mychal Givens,596119,Blake Swihart,R,Francisco Peña,506747,4,5,6,True,2016-06-02,Caught,2B,2016,2017, --, 0.73
+24,3B,score,Stolen Base Home,544369,Didi Gregorius,605164,Dylan Bundy,435263,Brian McCann,R,Francisco Peña,506747,4,2,3,False,2016-08-27,Stolen,Home,2016,2017, --, 0.73
+25,1B,2B,Stolen Base 2B,516770,Starlin Castro,605164,Dylan Bundy,435263,Brian McCann,R,Francisco Peña,506747,4,2,3,False,2016-08-27,Stolen,2B,2016,2017, --, 0.73
+26,1B,2B,Stolen Base 2B,621043,Carlos Correa,451596,Yovani Gallardo,594828,Evan Gattis,R,Francisco Peña,506747,0,0,4,True,2016-08-21,Stolen,2B,2016,2017, --, 0.73
+27,1B,,Caught Stealing 2B,606192,Teoscar Hernández,592170,Parker Bridwell,608324,Alex Bregman,R,Francisco Peña,506747,2,5,9,True,2016-08-21,Caught,2B,2016,2017, --, 0.73
+28,1B,2B,Stolen Base 2B,608671,Travis Jankowski,592869,Tyler Wilson,461314,Matt Kemp,R,Francisco Peña,506747,0,1,1,True,2016-06-21,Stolen,2B,2016,2017, --, 0.73
+29,1B,2B,Stolen Base 2B,571976,Wil Myers,592869,Tyler Wilson,461314,Matt Kemp,R,Francisco Peña,506747,2,3,4,True,2016-06-21,Stolen,2B,2016,2017, --, 0.73
+30,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,605541,Mike Wright Jr.,518626,Josh Donaldson,R,Francisco Peña,506747,3,3,5,False,2016-06-11,Caught,2B,2016,2017, --, 0.73
+31,1B,2B,Stolen Base 2B,449181,Paulo Orlando,434622,Ubaldo Jiménez,596144,Cheslor Cuthbert,R,Francisco Peña,506747,4,0,2,True,2016-06-07,Stolen,2B,2016,2017, --, 0.73
+32,1B,,Caught Stealing 2B,593160,Whit Merrifield,434622,Ubaldo Jiménez,456715,Lorenzo Cain,R,Francisco Peña,506747,5,0,3,True,2016-06-07,Caught,2B,2016,2017, --, 0.73
+33,1B,,Caught Stealing 2B,434670,Hanley Ramirez,571710,Mychal Givens,596119,Blake Swihart,R,Francisco Peña,506747,4,5,6,True,2016-06-02,Caught,2B,2016,2017, --, 0.73

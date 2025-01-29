@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+588,1B,,Caught Stealing 2B,432928,Luke Scott,Javier Valentin,0,1,2,False,2005-09-01,Caught,2B,2005
+3277,1B,2B,Stolen Base 2B,432928,Luke Scott,Ramon Castro,1,2,5,True,2005-04-14,Stolen,2B,2005
+547,1B,2B,Stolen Base 2B,432928,Luke Scott,Mike DiFelice,0,1,2,True,2007-09-07,Stolen,2B,2007
+1104,1B,2B,Stolen Base 2B,432928,Luke Scott,Damian Miller,3,2,8,False,2007-08-12,Stolen,2B,2007
+3130,1B,2B,Stolen Base 2B,432928,Luke Scott,Javier Valentin,5,7,9,True,2007-05-08,Stolen,2B,2007
+787,1B,,Caught Stealing 2B,432928,Luke Scott,José Molina,4,3,6,False,2008-08-22,Caught,2B,2008
+2405,1B,2B,Stolen Base 2B,432928,Luke Scott,Jason Varitek,1,2,2,False,2008-05-30,Stolen,2B,2008
+3369,1B,2B,Stolen Base 2B,432928,Luke Scott,A.J. Pierzynski,0,2,5,False,2008-04-17,Stolen,2B,2008
+3544,1B,,Caught Stealing 2B,432928,Luke Scott,Gerald Laird,1,1,6,True,2008-04-10,Caught,2B,2008
+2250,1B,2B,Stolen Base 2B,432928,Luke Scott,Eli Whiteside,4,2,7,True,2010-06-16,Stolen,2B,2010
+2646,1B,2B,Stolen Base 2B,432928,Luke Scott,John Jaso,4,4,8,False,2011-06-11,Stolen,2B,2011
+4219,1B,,Caught Stealing 2B,432928,Luke Scott,Yorvit Torrealba,5,0,6,False,2011-04-09,Caught,2B,2011
+227,1B,2B,Stolen Base 2B,432928,Luke Scott,Ryan Lavarnway,0,0,2,False,2012-09-20,Stolen,2B,2012
+1811,1B,2B,Stolen Base 2B,432928,Luke Scott,Carlos Santana,2,3,8,False,2012-07-16,Stolen,2B,2012
+2619,1B,2B,Stolen Base 2B,432928,Luke Scott,John Buck,1,5,8,True,2012-06-08,Stolen,2B,2012
+2896,1B,2B,Stolen Base 2B,432928,Luke Scott,Jarrod Saltalamacchia,0,1,4,True,2012-05-27,Stolen,2B,2012
+2907,1B,2B,Stolen Base 2B,432928,Luke Scott,Kelly Shoppach,1,2,7,True,2012-05-26,Stolen,2B,2012
+70,1B,,Caught Stealing 2B,432928,Luke Scott,John Ryan Murphy,0,2,7,True,2013-09-26,Caught,2B,2013
+1483,1B,2B,Stolen Base 2B,432928,Luke Scott,Josh Thole,1,4,8,True,2013-07-21,Stolen,2B,2013

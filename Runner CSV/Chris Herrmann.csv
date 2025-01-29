@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+624,1B,,Caught Stealing 2B,543302,Chris Herrmann,A.J. Pierzynski,0,1,1,True,2013-08-31,Caught,2B,2013
+47,1B,2B,Stolen Base 2B,543302,Chris Herrmann,Alex Avila,1,0,3,True,2014-09-27,Stolen,2B,2014
+1214,1B,2B,Stolen Base 2B,543302,Chris Herrmann,Curt Casali,1,1,2,False,2016-06-08,Stolen,2B,2016
+1637,1B,2B,Stolen Base 2B,543302,Chris Herrmann,Austin Romine,1,0,2,False,2016-05-16,Stolen,2B,2016
+2131,1B,2B,Stolen Base 2B,543302,Chris Herrmann,Trevor Brown,2,4,9,True,2016-04-21,Stolen,2B,2016
+193,1B,2B,Stolen Base 2B,543302,Chris Herrmann,Héctor Sánchez,6,6,7,True,2017-09-20,Stolen,2B,2017
+514,1B,2B,Stolen Base 2B,543302,Chris Herrmann,Jonathan Lucroy,0,3,4,True,2017-09-02,Stolen,2B,2017
+635,1B,2B,Stolen Base 2B,543302,Chris Herrmann,Nick Hundley,6,0,8,False,2017-08-27,Stolen,2B,2017
+636,2B,3B,Stolen Base 2B,543302,Chris Herrmann,Nick Hundley,6,0,8,False,2017-08-27,Stolen,2B,2017
+1364,1B,2B,Stolen Base 2B,543302,Chris Herrmann,Devin Mesoraco,2,8,9,True,2017-07-20,Stolen,2B,2017
+2235,1B,2B,Stolen Base 2B,543302,Chris Herrmann,J.T. Realmuto,2,1,8,True,2017-06-01,Stolen,2B,2017

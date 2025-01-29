@@ -1,0 +1,102 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+24,1B,,Caught Stealing 2B,112736,Craig Counsell,Bobby Estalella,2,4,6,False,2000-09-29,Caught,2B,2000
+75,1B,2B,Stolen Base 2B,112736,Craig Counsell,Brent Mayne,6,4,9,True,2000-09-27,Stolen,2B,2000
+222,1B,,Caught Stealing 2B,112736,Craig Counsell,Paul Lo Duca,0,0,1,True,2000-09-20,Caught,2B,2000
+424,1B,2B,Stolen Base 2B,112736,Craig Counsell,Todd Hundley,0,0,1,False,2000-09-12,Stolen,2B,2000
+786,1B,,Caught Stealing 2B,112736,Craig Counsell,Michael Barrett,7,8,8,True,2000-08-29,Caught,2B,2000
+1878,1B,2B,Stolen Base 2B,112736,Craig Counsell,Ramon Hernandez,1,4,7,True,2000-07-07,Stolen,2B,2000
+581,1B,,Caught Stealing 2B,112736,Craig Counsell,Mike Lieberthal,5,5,7,False,2001-05-12,Caught,2B,2001
+873,1B,,Caught Stealing 2B,112736,Craig Counsell,Michael Barrett,0,0,3,True,2001-05-02,Caught,2B,2001
+1364,1B,,Caught Stealing 2B,112736,Craig Counsell,Gary Bennett,8,5,8,False,2002-07-23,Caught,2B,2002
+1687,1B,2B,Stolen Base 2B,112736,Craig Counsell,Benito Santiago,1,0,1,False,2002-07-07,Stolen,2B,2002
+1962,1B,2B,Stolen Base 2B,112736,Craig Counsell,Gregg Zaun,0,0,1,True,2002-06-25,Stolen,2B,2002
+2101,1B,2B,Stolen Base 2B,112736,Craig Counsell,Geronimo Gil,2,1,3,False,2002-06-18,Stolen,2B,2002
+2601,1B,,Caught Stealing 2B,112736,Craig Counsell,Chad Kreuter,9,7,8,False,2002-05-26,Caught,2B,2002
+3351,1B,2B,Stolen Base 2B,112736,Craig Counsell,Mike Redmond,0,0,1,True,2002-04-26,Stolen,2B,2002
+3355,1B,2B,Stolen Base 2B,112736,Craig Counsell,Mike Redmond,0,1,3,True,2002-04-26,Stolen,2B,2002
+3375,1B,2B,Stolen Base 2B,112736,Craig Counsell,Henry Blanco,1,3,5,True,2002-04-25,Stolen,2B,2002
+3830,1B,2B,Stolen Base 2B,112736,Craig Counsell,Raul Casanova,1,0,3,True,2002-04-06,Stolen,2B,2002
+97,1B,2B,Stolen Base 2B,112736,Craig Counsell,Gregg Zaun,0,3,4,True,2003-09-25,Stolen,2B,2003
+225,1B,2B,Stolen Base 2B,112736,Craig Counsell,Paul Lo Duca,0,2,9,True,2003-09-17,Stolen,2B,2003
+524,1B,2B,Stolen Base 2B,112736,Craig Counsell,Gary Bennett,0,0,1,True,2003-09-02,Stolen,2B,2003
+887,1B,2B,Stolen Base 2B,112736,Craig Counsell,Jason LaRue,0,0,1,True,2003-08-14,Stolen,2B,2003
+1249,1B,2B,Stolen Base 2B,112736,Craig Counsell,Paul Lo Duca,0,1,3,False,2003-07-27,Stolen,2B,2003
+1251,1B,,Caught Stealing 2B,112736,Craig Counsell,Paul Lo Duca,0,1,8,False,2003-07-27,Caught,2B,2003
+1420,1B,2B,Stolen Base 2B,112736,Craig Counsell,Miguel Ojeda,0,1,3,True,2003-07-20,Stolen,2B,2003
+2902,1B,2B,Stolen Base 2B,112736,Craig Counsell,Mike Lieberthal,8,1,6,False,2003-05-05,Stolen,2B,2003
+3022,1B,2B,Stolen Base 2B,112736,Craig Counsell,Ivan Rodriguez,0,0,1,False,2003-04-30,Stolen,2B,2003
+3081,1B,2B,Stolen Base 2B,112736,Craig Counsell,Mike Piazza,0,1,1,True,2003-04-27,Stolen,2B,2003
+3082,1B,,Caught Stealing 2B,112736,Craig Counsell,Mike Piazza,0,6,7,True,2003-04-27,Caught,2B,2003
+3117,1B,2B,Stolen Base 2B,112736,Craig Counsell,Mike Piazza,0,0,3,True,2003-04-25,Stolen,2B,2003
+3355,1B,2B,Stolen Base 2B,112736,Craig Counsell,Keith Osik,7,2,6,False,2003-04-13,Stolen,2B,2003
+3449,1B,,Caught Stealing 2B,112736,Craig Counsell,Paul Lo Duca,2,3,7,True,2003-04-08,Caught,2B,2003
+1,1B,2B,Stolen Base 2B,112736,Craig Counsell,Mike Matheny,0,4,4,True,2004-09-30,Stolen,2B,2004
+125,1B,2B,Stolen Base 2B,112736,Craig Counsell,Brad Ausmus,0,0,2,False,2004-09-24,Stolen,2B,2004
+182,1B,2B,Stolen Base 2B,112736,Craig Counsell,Mike Matheny,0,1,4,False,2004-09-22,Stolen,2B,2004
+546,1B,2B,Stolen Base 2B,112736,Craig Counsell,Javier Valentin,1,0,2,False,2004-09-04,Stolen,2B,2004
+931,1B,2B,Stolen Base 2B,112736,Craig Counsell,Paul Lo Duca,1,0,3,False,2004-08-15,Stolen,2B,2004
+1212,1B,2B,Stolen Base 2B,112736,Craig Counsell,Jason Kendall,6,5,8,False,2004-08-01,Stolen,2B,2004
+1281,1B,2B,Stolen Base 2B,112736,Craig Counsell,Michael Barrett,0,0,1,False,2004-07-29,Stolen,2B,2004
+1432,1B,2B,Stolen Base 2B,112736,Craig Counsell,Mike Matheny,0,0,3,True,2004-07-21,Stolen,2B,2004
+1778,1B,2B,Stolen Base 2B,112736,Craig Counsell,Charles Johnson,2,8,5,True,2004-07-01,Stolen,2B,2004
+1914,2B,3B,Stolen Base 3B,112736,Craig Counsell,Charles Johnson,0,2,7,False,2004-06-24,Stolen,3B,2004
+2253,1B,,Caught Stealing 2B,112736,Craig Counsell,Ramon Hernandez,0,2,3,True,2004-06-06,Caught,2B,2004
+2302,1B,,Caught Stealing 2B,112736,Craig Counsell,Ramon Hernandez,1,3,7,True,2004-06-04,Caught,2B,2004
+2350,1B,2B,Stolen Base 2B,112736,Craig Counsell,Paul Lo Duca,0,1,1,True,2004-06-02,Stolen,2B,2004
+2466,1B,2B,Stolen Base 2B,112736,Craig Counsell,Ramon Hernandez,0,0,1,False,2004-05-28,Stolen,2B,2004
+2507,1B,2B,Stolen Base 2B,112736,Craig Counsell,Paul Lo Duca,1,1,9,False,2004-05-26,Stolen,2B,2004
+2681,1B,2B,Stolen Base 2B,112736,Craig Counsell,Johnny Estrada,4,1,7,False,2004-05-16,Stolen,2B,2004
+2786,1B,2B,Stolen Base 2B,112736,Craig Counsell,Brian Schneider,0,0,1,False,2004-05-11,Stolen,2B,2004
+2924,1B,,Caught Stealing 2B,112736,Craig Counsell,Javier Valentin,0,0,1,True,2004-05-04,Caught,2B,2004
+3084,1B,2B,Stolen Base 2B,112736,Craig Counsell,Jason LaRue,6,7,8,False,2004-04-27,Stolen,2B,2004
+3379,1B,2B,Stolen Base 2B,112736,Craig Counsell,A.J. Pierzynski,0,0,1,True,2004-04-12,Stolen,2B,2004
+158,1B,2B,Stolen Base 2B,112736,Craig Counsell,Ramon Hernandez,2,5,8,False,2005-09-23,Stolen,2B,2005
+282,1B,2B,Stolen Base 2B,112736,Craig Counsell,Todd Greene,0,1,3,False,2005-09-17,Stolen,2B,2005
+476,1B,,Caught Stealing 2B,112736,Craig Counsell,Ryan Doumit,1,3,4,True,2005-09-07,Caught,2B,2005
+612,1B,2B,Stolen Base 2B,112736,Craig Counsell,Miguel Olivo,4,3,7,True,2005-08-30,Stolen,2B,2005
+719,1B,,Caught Stealing 2B,112736,Craig Counsell,Ramon Castro,0,0,1,False,2005-08-25,Caught,2B,2005
+720,1B,2B,Stolen Base 2B,112736,Craig Counsell,Ramon Castro,0,2,3,False,2005-08-25,Stolen,2B,2005
+796,1B,2B,Stolen Base 2B,112736,Craig Counsell,Javier Valentin,0,0,1,True,2005-08-20,Stolen,2B,2005
+797,1B,2B,Stolen Base 2B,112736,Craig Counsell,Javier Valentin,1,6,9,True,2005-08-20,Stolen,2B,2005
+798,2B,3B,Stolen Base 2B,112736,Craig Counsell,Javier Valentin,1,6,9,True,2005-08-20,Stolen,2B,2005
+961,1B,2B,Stolen Base 2B,112736,Craig Counsell,Brayan Peña,0,5,5,True,2005-08-12,Stolen,2B,2005
+976,1B,2B,Stolen Base 2B,112736,Craig Counsell,Matt Treanor,1,3,9,True,2005-08-11,Stolen,2B,2005
+1042,1B,2B,Stolen Base 2B,112736,Craig Counsell,JD Closser,0,0,1,False,2005-08-07,Stolen,2B,2005
+1043,1B,2B,Stolen Base 2B,112736,Craig Counsell,JD Closser,2,0,3,False,2005-08-07,Stolen,2B,2005
+1044,1B,2B,Stolen Base 2B,112736,Craig Counsell,JD Closser,6,0,6,False,2005-08-07,Stolen,2B,2005
+1270,1B,2B,Stolen Base 2B,112736,Craig Counsell,Chad Moeller,0,1,3,True,2005-07-27,Stolen,2B,2005
+1338,1B,2B,Stolen Base 2B,112736,Craig Counsell,Brian McCann,0,0,1,False,2005-07-23,Stolen,2B,2005
+1515,1B,2B,Stolen Base 2B,112736,Craig Counsell,Ramon Hernandez,0,6,7,True,2005-07-14,Stolen,2B,2005
+1693,1B,2B,Stolen Base 2B,112736,Craig Counsell,Jason Phillips,3,9,9,True,2005-07-03,Stolen,2B,2005
+1732,1B,2B,Stolen Base 2B,112736,Craig Counsell,Jason Phillips,1,5,3,True,2005-07-02,Stolen,2B,2005
+2512,1B,2B,Stolen Base 2B,112736,Craig Counsell,Vance Wilson,0,0,1,True,2005-05-22,Stolen,2B,2005
+2513,1B,,Caught Stealing 2B,112736,Craig Counsell,Vance Wilson,0,1,8,True,2005-05-22,Caught,2B,2005
+2976,1B,2B,Stolen Base 2B,112736,Craig Counsell,Ramon Hernandez,0,1,3,True,2005-04-29,Stolen,2B,2005
+2978,1B,2B,Stolen Base 2B,112736,Craig Counsell,Ramon Hernandez,4,4,10,True,2005-04-29,Stolen,2B,2005
+3015,1B,2B,Stolen Base 2B,112736,Craig Counsell,Jason Phillips,1,2,5,True,2005-04-27,Stolen,2B,2005
+3049,1B,2B,Stolen Base 2B,112736,Craig Counsell,Jason Phillips,1,3,7,True,2005-04-25,Stolen,2B,2005
+3133,1B,2B,Stolen Base 2B,112736,Craig Counsell,Mike Matheny,0,3,5,True,2005-04-21,Stolen,2B,2005
+3201,1B,2B,Stolen Base 2B,112736,Craig Counsell,JD Closser,3,5,8,True,2005-04-18,Stolen,2B,2005
+3301,2B,3B,Stolen Base 3B,112736,Craig Counsell,Todd Greene,3,1,7,False,2005-04-13,Stolen,3B,2005
+3461,1B,2B,Stolen Base 2B,112736,Craig Counsell,Michael Barrett,0,0,1,False,2005-04-05,Stolen,2B,2005
+2143,1B,2B,Stolen Base 2B,112736,Craig Counsell,Eric Munson,1,0,3,False,2007-06-25,Stolen,2B,2007
+2857,1B,,Caught Stealing 2B,112736,Craig Counsell,Russell Martin,4,8,8,True,2007-05-21,Caught,2B,2007
+2877,1B,2B,Stolen Base 2B,112736,Craig Counsell,Chris Heintz,0,0,2,False,2007-05-20,Stolen,2B,2007
+2999,1B,2B,Stolen Base 2B,112736,Craig Counsell,Carlos Ruiz,1,1,2,True,2007-05-15,Stolen,2B,2007
+3014,2B,,Caught Stealing 3B,112736,Craig Counsell,Carlos Ruiz,2,4,7,True,2007-05-14,Caught,3B,2007
+3702,1B,2B,Stolen Base 2B,112736,Craig Counsell,Miguel Olivo,0,3,4,True,2007-04-11,Stolen,2B,2007
+931,1B,2B,Stolen Base 2B,112736,Craig Counsell,Nick Hundley,0,3,4,True,2008-08-13,Stolen,2B,2008
+1916,1B,,Caught Stealing 2B,112736,Craig Counsell,Ramon Hernandez,3,0,5,False,2008-06-21,Caught,2B,2008
+2037,1B,2B,Stolen Base 2B,112736,Craig Counsell,Mike Redmond,4,2,8,False,2008-06-15,Stolen,2B,2008
+2702,1B,2B,Stolen Base 2B,112736,Craig Counsell,Kevin Cash,2,0,3,True,2008-05-17,Stolen,2B,2008
+2724,1B,2B,Stolen Base 2B,112736,Craig Counsell,Kevin Cash,2,0,3,True,2008-05-16,Stolen,2B,2008
+188,1B,,Caught Stealing 2B,112736,Craig Counsell,Brian McCann,0,0,3,False,2009-07-25,Caught,2B,2009
+347,1B,,Caught Stealing 2B,112736,Craig Counsell,Ryan Hanigan,0,0,1,True,2009-07-19,Caught,2B,2009
+557,1B,2B,Stolen Base 2B,112736,Craig Counsell,Yadier Molina,0,3,3,False,2009-07-07,Stolen,2B,2009
+689,1B,2B,Stolen Base 2B,112736,Craig Counsell,Brian Schneider,0,1,6,False,2009-07-01,Stolen,2B,2009
+1131,1B,2B,Stolen Base 2B,112736,Craig Counsell,Paul Phillips,1,5,9,False,2009-06-11,Stolen,2B,2009
+1500,1B,,Caught Stealing 2B,112736,Craig Counsell,Yadier Molina,0,0,7,False,2009-05-25,Caught,2B,2009
+2281,1B,2B,Stolen Base 2B,112736,Craig Counsell,Mike Napoli,2,6,6,True,2010-06-14,Stolen,2B,2010
+1050,1B,,Caught Stealing 2B,112736,Craig Counsell,Dioner Navarro,3,1,7,False,2011-08-17,Caught,2B,2011
+2703,1B,2B,Stolen Base 2B,112736,Craig Counsell,Ronny Paulino,6,6,9,False,2011-06-08,Stolen,2B,2011
+4318,1B,2B,Stolen Base 2B,112736,Craig Counsell,Brian McCann,1,0,4,False,2011-04-05,Stolen,2B,2011

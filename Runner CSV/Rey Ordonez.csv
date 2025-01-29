@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+524,1B,2B,Stolen Base 2B,120045,Rey Ordonez,Ben Davis,1,0,7,False,2001-05-15,Stolen,2B,2001
+1966,1B,,Caught Stealing 2B,120045,Rey Ordonez,Javy Lopez,5,0,4,False,2002-06-25,Caught,2B,2002
+3593,1B,2B,Stolen Base 2B,120045,Rey Ordonez,Javy Lopez,3,1,8,False,2002-04-16,Stolen,2B,2002
+3935,1B,2B,Stolen Base 2B,120045,Rey Ordonez,Jason Kendall,4,1,6,False,2002-04-01,Stolen,2B,2002
+2966,3B,,Caught Stealing Home,120045,Rey Ordonez,Matt Walbeck,1,1,3,True,2003-05-03,Caught,Home,2003
+3542,2B,,Caught Stealing 3B,120045,Rey Ordonez,Jason Varitek,1,5,3,False,2003-04-03,Caught,3B,2003

@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+30,1B,2B,Stolen Base 2B,681481,Kerry Carpenter,Bo Naylor,4,0,7,False,2023-09-30,Stolen,2B,2023
+536,1B,2B,Stolen Base 2B,681481,Kerry Carpenter,Korey Lee,0,0,1,False,2023-09-09,Stolen,2B,2023
+604,1B,2B,Stolen Base 2B,681481,Kerry Carpenter,Kyle Higashioka,1,5,4,True,2023-09-07,Stolen,2B,2023
+707,1B,2B,Stolen Base 2B,681481,Kerry Carpenter,Korey Lee,2,2,3,True,2023-09-03,Stolen,2B,2023
+783,1B,2B,Stolen Base 2B,681481,Kerry Carpenter,Kyle Higashioka,0,0,4,False,2023-08-31,Stolen,2B,2023
+892,1B,2B,Stolen Base 2B,681481,Kerry Carpenter,Yainer Diaz,0,1,4,False,2023-08-26,Stolen,2B,2023

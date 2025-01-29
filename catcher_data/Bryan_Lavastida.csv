@@ -1,0 +1,7 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,543305,Aaron Hicks,Bryan Lavastida,6,0,5,False,2022-04-24,Stolen,2B,2022
+1B,2B,Stolen Base 2B,592626,Joc Pederson,Bryan Lavastida,0,4,6,True,2022-04-17,Stolen,2B,2022
+1B,2B,Stolen Base 2B,621453,Steven Duggar,Bryan Lavastida,0,6,6,True,2022-04-17,Stolen,2B,2022
+1B,2B,Stolen Base 2B,621453,Steven Duggar,Bryan Lavastida,1,0,3,True,2022-04-16,Stolen,2B,2022
+1B,2B,Stolen Base 2B,663698,Joey Bart,Bryan Lavastida,2,4,9,True,2022-04-16,Stolen,2B,2022
+1B,2B,Stolen Base 2B,662139,Daulton Varsho,Bryan Lavastida,0,0,1,False,2022-04-05,Stolen,2B,2022

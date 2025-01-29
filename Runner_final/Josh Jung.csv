@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1686,1B,,Caught Stealing 2B,673962,Josh Jung,664062,Tony Gonsolin,677649,Ezequiel Duran,R,Will Smith,669257,4,3,4,False,2023-07-21,Caught,2B,2023,2024,27.3
+1,3233,1B,,Caught Stealing 2B,673962,Josh Jung,621076,James Kaprielian,677649,Ezequiel Duran,R,Shea Langeliers,669127,0,1,2,True,2023-05-13,Caught,2B,2023,2024,27.3
+2,3834,1B,2B,Stolen Base 2B,673962,Josh Jung,641745,Brad Keller,543257,Robbie Grossman,R,Salvador Perez,521692,1,1,4,True,2023-04-18,Stolen,2B,2023,2024,27.3
+3,6100,1B,,Caught Stealing 2B,673962,Josh Jung,664062,Tony Gonsolin,677649,Ezequiel Duran,R,Will Smith,669257,4,3,4,False,2023-07-21,Caught,2B,2023,2024,27.3
+4,7647,1B,,Caught Stealing 2B,673962,Josh Jung,621076,James Kaprielian,677649,Ezequiel Duran,R,Shea Langeliers,669127,0,1,2,True,2023-05-13,Caught,2B,2023,2024,27.3
+5,8248,1B,2B,Stolen Base 2B,673962,Josh Jung,641745,Brad Keller,543257,Robbie Grossman,R,Salvador Perez,521692,1,1,4,True,2023-04-18,Stolen,2B,2023,2024,27.3

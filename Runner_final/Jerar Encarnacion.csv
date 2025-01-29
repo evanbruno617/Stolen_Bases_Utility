@@ -1,0 +1,2 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,500,1B,2B,Stolen Base 2B,666464,Jerar Encarnacion,488984,Tommy Hunter,663897,Luke Williams,R,Tomás Nido,621512,2,5,9,True,2022-06-19,Stolen,2B,2022,2024,26.9

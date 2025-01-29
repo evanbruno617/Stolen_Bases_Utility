@@ -1,0 +1,26 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+106,1B,,Caught Stealing 2B,472528,Luis Valbuena,Mike Napoli,0,2,3,True,2009-07-28,Caught,2B,2009
+1164,1B,2B,Stolen Base 2B,472528,Luis Valbuena,Miguel Olivo,0,1,3,False,2009-06-10,Stolen,2B,2009
+1387,1B,,Caught Stealing 2B,472528,Luis Valbuena,Francisco Cervelli,4,2,6,False,2009-05-31,Caught,2B,2009
+2651,1B,2B,Stolen Base 2B,472528,Luis Valbuena,Chad Moeller,0,2,7,True,2010-05-30,Stolen,2B,2010
+3139,1B,,Caught Stealing 2B,472528,Luis Valbuena,Alex Avila,1,3,5,False,2010-05-08,Caught,2B,2010
+3630,1B,,Caught Stealing 2B,472528,Luis Valbuena,A.J. Pierzynski,1,2,7,False,2010-04-17,Caught,2B,2010
+257,1B,2B,Stolen Base 2B,472528,Luis Valbuena,Tyler Flowers,4,3,6,False,2011-09-20,Stolen,2B,2011
+781,1B,,Caught Stealing 2B,472528,Luis Valbuena,Martín Maldonado,0,0,1,False,2012-08-28,Caught,2B,2012
+1542,1B,,Caught Stealing 2B,472528,Luis Valbuena,Yadier Molina,6,7,4,False,2012-07-27,Caught,2B,2012
+274,2B,,Caught Stealing 3B,472528,Luis Valbuena,Martín Maldonado,0,0,1,True,2013-09-16,Caught,3B,2013
+1796,1B,,Caught Stealing 2B,472528,Luis Valbuena,Derek Norris,8,7,9,True,2013-07-02,Caught,2B,2013
+2039,1B,,Caught Stealing 2B,472528,Luis Valbuena,Yadier Molina,1,1,3,True,2013-06-19,Caught,2B,2013
+2744,1B,,Caught Stealing 2B,472528,Luis Valbuena,Yorvit Torrealba,1,1,2,False,2013-05-15,Caught,2B,2013
+3307,1B,2B,Stolen Base 2B,472528,Luis Valbuena,A.J. Pierzynski,1,0,2,False,2013-04-18,Stolen,2B,2013
+743,1B,2B,Stolen Base 2B,472528,Luis Valbuena,Devin Mesoraco,2,2,4,True,2014-08-27,Stolen,2B,2014
+1495,1B,,Caught Stealing 2B,472528,Luis Valbuena,Miguel Montero,0,0,2,True,2014-07-18,Caught,2B,2014
+2117,1B,,Caught Stealing 2B,472528,Luis Valbuena,Jeff Mathis,4,4,8,True,2014-06-16,Caught,2B,2014
+3153,1B,2B,Stolen Base 2B,472528,Luis Valbuena,Chris Iannetta,4,2,7,False,2015-04-19,Stolen,2B,2015
+380,1B,2B,Stolen Base 2B,472528,Luis Valbuena,Austin Romine,1,0,4,False,2016-07-25,Stolen,2B,2016
+997,1B,,Caught Stealing 2B,472528,Luis Valbuena,Tucker Barnhart,2,0,2,False,2016-06-19,Caught,2B,2016
+215,1B,,Caught Stealing 2B,472528,Luis Valbuena,Roberto Pérez,1,2,5,False,2017-09-19,Caught,2B,2017
+2680,1B,,Caught Stealing 2B,472528,Luis Valbuena,Stephen Vogt,3,7,8,True,2017-05-09,Caught,2B,2017
+1315,1B,2B,Stolen Base 2B,472528,Luis Valbuena,Omar Narváez,2,2,4,False,2018-07-25,Stolen,2B,2018
+1655,1B,2B,Stolen Base 2B,472528,Luis Valbuena,Chris Herrmann,2,4,5,True,2018-07-04,Stolen,2B,2018
+1937,1B,2B,Stolen Base 2B,472528,Luis Valbuena,Jonathan Lucroy,2,4,6,True,2018-06-17,Stolen,2B,2018

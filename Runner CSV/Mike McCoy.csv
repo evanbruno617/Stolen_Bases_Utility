@@ -1,0 +1,23 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+145,1B,2B,Stolen Base 2B,453454,Mike McCoy,Jake Fox,4,4,7,False,2010-09-25,Stolen,2B,2010
+3096,1B,2B,Stolen Base 2B,453454,Mike McCoy,Ramon Castro,4,5,7,True,2010-05-09,Stolen,2B,2010
+3576,1B,2B,Stolen Base 2B,453454,Mike McCoy,Brayan Peña,0,0,3,False,2010-04-19,Stolen,2B,2010
+3577,1B,2B,Stolen Base 2B,453454,Mike McCoy,Brayan Peña,5,1,6,False,2010-04-19,Stolen,2B,2010
+3639,1B,2B,Stolen Base 2B,453454,Mike McCoy,Mike Napoli,2,4,6,False,2010-04-17,Stolen,2B,2010
+75,1B,2B,Stolen Base 2B,453454,Mike McCoy,A.J. Pierzynski,4,0,8,True,2011-09-26,Stolen,2B,2011
+76,2B,3B,Stolen Base 3B,453454,Mike McCoy,A.J. Pierzynski,4,1,8,True,2011-09-26,Stolen,3B,2011
+179,1B,2B,Stolen Base 2B,453454,Mike McCoy,Kelly Shoppach,0,4,5,True,2011-09-23,Stolen,2B,2011
+618,2B,3B,Stolen Base 3B,453454,Mike McCoy,Jason Varitek,0,0,1,False,2011-09-05,Stolen,3B,2011
+622,1B,2B,Stolen Base 2B,453454,Mike McCoy,Jason Varitek,0,0,8,False,2011-09-05,Stolen,2B,2011
+752,1B,2B,Stolen Base 2B,453454,Mike McCoy,Matt Wieters,4,4,9,True,2011-08-30,Stolen,2B,2011
+753,1B,,Caught Stealing 2B,453454,Mike McCoy,Matt Wieters,4,5,10,True,2011-08-30,Caught,2B,2011
+800,1B,2B,Stolen Base 2B,453454,Mike McCoy,John Jaso,0,1,1,False,2011-08-28,Stolen,2B,2011
+927,1B,2B,Stolen Base 2B,453454,Mike McCoy,Salvador Perez,3,6,8,False,2011-08-23,Stolen,2B,2011
+1797,1B,2B,Stolen Base 2B,453454,Mike McCoy,Miguel Olivo,5,5,13,False,2011-07-19,Stolen,2B,2011
+1951,1B,2B,Stolen Base 2B,453454,Mike McCoy,Carlos Santana,3,4,8,True,2011-07-09,Stolen,2B,2011
+2802,1B,,Caught Stealing 2B,453454,Mike McCoy,Matt Wieters,1,3,4,True,2011-06-04,Caught,2B,2011
+3540,1B,2B,Stolen Base 2B,453454,Mike McCoy,John Jaso,0,0,3,True,2011-05-05,Stolen,2B,2011
+4229,1B,2B,Stolen Base 2B,453454,Mike McCoy,Hank Conger,2,3,9,True,2011-04-08,Stolen,2B,2011
+843,1B,,Caught Stealing 2B,453454,Mike McCoy,Matt Wieters,0,0,1,True,2012-08-25,Caught,2B,2012
+893,2B,3B,Stolen Base 3B,453454,Mike McCoy,Alex Avila,2,2,10,True,2012-08-23,Stolen,3B,2012
+907,1B,2B,Stolen Base 2B,453454,Mike McCoy,Alex Avila,3,2,7,True,2012-08-22,Stolen,2B,2012

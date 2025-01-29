@@ -1,0 +1,10 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2035,1B,2B,Stolen Base 2B,641513,Travis Demeritte,665093,Zac Grotz,668670,Jake Rogers,R,Tom Murphy,608596,5,3,5,False,2019-08-13,Stolen,2B,2019,2020,26.7
+1,2144,1B,2B,Stolen Base 2B,641513,Travis Demeritte,592229,Dylan Covey,493596,Gordon Beckham,R,James McCann,543510,5,1,5,False,2019-08-06,Stolen,2B,2019,2020,26.7
+2,2202,1B,2B,Stolen Base 2B,641513,Travis Demeritte,458681,Lance Lynn,592444,JaCoby Jones,R,Jeff Mathis,425772,3,1,5,True,2019-08-02,Stolen,2B,2019,2020,26.7
+3,4878,1B,2B,Stolen Base 2B,641513,Travis Demeritte,665093,Zac Grotz,668670,Jake Rogers,R,Tom Murphy,608596,5,3,5,False,2019-08-13,Stolen,2B,2019,2020,26.7
+4,4987,1B,2B,Stolen Base 2B,641513,Travis Demeritte,592229,Dylan Covey,493596,Gordon Beckham,R,James McCann,543510,5,1,5,False,2019-08-06,Stolen,2B,2019,2020,26.7
+5,5045,1B,2B,Stolen Base 2B,641513,Travis Demeritte,458681,Lance Lynn,592444,JaCoby Jones,R,Jeff Mathis,425772,3,1,5,True,2019-08-02,Stolen,2B,2019,2020,26.7
+6,6802,1B,2B,Stolen Base 2B,641513,Travis Demeritte,665093,Zac Grotz,668670,Jake Rogers,R,Tom Murphy,608596,5,3,5,False,2019-08-13,Stolen,2B,2019,2020,26.7
+7,6911,1B,2B,Stolen Base 2B,641513,Travis Demeritte,592229,Dylan Covey,493596,Gordon Beckham,R,James McCann,543510,5,1,5,False,2019-08-06,Stolen,2B,2019,2020,26.7
+8,6969,1B,2B,Stolen Base 2B,641513,Travis Demeritte,458681,Lance Lynn,592444,JaCoby Jones,R,Jeff Mathis,425772,3,1,5,True,2019-08-02,Stolen,2B,2019,2020,26.7

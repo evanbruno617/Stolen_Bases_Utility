@@ -1,0 +1,15 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,89,1B,2B,Stolen Base 2B,669707,Jared Triolo,622554,Seranthony Domínguez,668804,Bryan Reynolds,R,Garrett Stubbs,596117,6,6,6,True,2023-09-27,Stolen,2B,2023,2024,28.5
+1,122,1B,2B,Stolen Base 2B,669707,Jared Triolo,656546,Jeff Hoffman,680779,Henry Davis,R,J.T. Realmuto,592663,2,2,10,True,2023-09-26,Stolen,2B,2023,2024,28.5
+2,489,1B,2B,Stolen Base 2B,669707,Jared Triolo,571578,Patrick Corbin,663647,Ke'Bryan Hayes,L,Keibert Ruiz,660688,0,2,3,False,2023-09-11,Stolen,2B,2023,2024,28.5
+3,1140,1B,2B,Stolen Base 2B,669707,Jared Triolo,676130,José Buttó,663647,Ke'Bryan Hayes,R,Francisco Alvarez,682626,1,1,6,True,2023-08-15,Stolen,2B,2023,2024,28.5
+4,1141,2B,3B,Stolen Base 3B,669707,Jared Triolo,676130,José Buttó,663647,Ke'Bryan Hayes,R,Francisco Alvarez,682626,1,1,6,True,2023-08-15,Stolen,3B,2023,2024,28.5
+5,1397,1B,2B,Stolen Base 2B,669707,Jared Triolo,607067,Colin Rea,682848,Endy Rodríguez,R,William Contreras,661388,0,3,1,True,2023-08-04,Stolen,2B,2023,2024,28.5
+6,2138,1B,,Caught Stealing 2B,669707,Jared Triolo,605397,Joe Musgrove,669261,Jack Suwinski,R,Austin Nola,543592,0,3,3,False,2023-06-29,Caught,2B,2023,2024,28.5
+7,4503,1B,2B,Stolen Base 2B,669707,Jared Triolo,622554,Seranthony Domínguez,668804,Bryan Reynolds,R,Garrett Stubbs,596117,6,6,6,True,2023-09-27,Stolen,2B,2023,2024,28.5
+8,4536,1B,2B,Stolen Base 2B,669707,Jared Triolo,656546,Jeff Hoffman,680779,Henry Davis,R,J.T. Realmuto,592663,2,2,10,True,2023-09-26,Stolen,2B,2023,2024,28.5
+9,4903,1B,2B,Stolen Base 2B,669707,Jared Triolo,571578,Patrick Corbin,663647,Ke'Bryan Hayes,L,Keibert Ruiz,660688,0,2,3,False,2023-09-11,Stolen,2B,2023,2024,28.5
+10,5554,1B,2B,Stolen Base 2B,669707,Jared Triolo,676130,José Buttó,663647,Ke'Bryan Hayes,R,Francisco Alvarez,682626,1,1,6,True,2023-08-15,Stolen,2B,2023,2024,28.5
+11,5555,2B,3B,Stolen Base 3B,669707,Jared Triolo,676130,José Buttó,663647,Ke'Bryan Hayes,R,Francisco Alvarez,682626,1,1,6,True,2023-08-15,Stolen,3B,2023,2024,28.5
+12,5811,1B,2B,Stolen Base 2B,669707,Jared Triolo,607067,Colin Rea,682848,Endy Rodríguez,R,William Contreras,661388,0,3,1,True,2023-08-04,Stolen,2B,2023,2024,28.5
+13,6552,1B,,Caught Stealing 2B,669707,Jared Triolo,605397,Joe Musgrove,669261,Jack Suwinski,R,Austin Nola,543592,0,3,3,False,2023-06-29,Caught,2B,2023,2024,28.5

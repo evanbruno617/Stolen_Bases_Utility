@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+483,1B,,Caught Stealing 2B,122918,Chris Stynes,Jason Kendall,3,0,2,True,2000-09-09,Caught,2B,2000
+630,1B,2B,Stolen Base 2B,122918,Chris Stynes,Mike Piazza,4,1,7,False,2000-09-04,Stolen,2B,2000
+973,1B,2B,Stolen Base 2B,122918,Chris Stynes,Mike Lieberthal,7,2,4,False,2000-08-21,Stolen,2B,2000
+1025,1B,2B,Stolen Base 2B,122918,Chris Stynes,Jason Kendall,2,0,3,False,2000-08-19,Stolen,2B,2000
+1166,1B,2B,Stolen Base 2B,122918,Chris Stynes,Joe Girardi,0,0,1,True,2000-08-12,Stolen,2B,2000
+3013,1B,2B,Stolen Base 2B,122918,Chris Stynes,Jason Kendall,3,3,6,False,2000-05-18,Stolen,2B,2000
+734,1B,2B,Stolen Base 2B,122918,Chris Stynes,Ramon Hernandez,0,0,5,True,2001-05-06,Stolen,2B,2001
+994,1B,2B,Stolen Base 2B,122918,Chris Stynes,A.J. Hinch,0,1,5,False,2001-04-27,Stolen,2B,2001
+928,1B,,Caught Stealing 2B,122918,Chris Stynes,Damian Miller,0,0,3,False,2002-08-16,Caught,2B,2002
+3163,1B,2B,Stolen Base 2B,122918,Chris Stynes,Paul Lo Duca,2,1,4,True,2002-05-04,Stolen,2B,2002
+1622,1B,2B,Stolen Base 2B,122918,Chris Stynes,Chad Moeller,0,0,1,True,2003-07-08,Stolen,2B,2003
+2555,1B,,Caught Stealing 2B,122918,Chris Stynes,Paul Lo Duca,1,1,3,True,2003-05-21,Caught,2B,2003
+2582,1B,2B,Stolen Base 2B,122918,Chris Stynes,Paul Lo Duca,0,1,7,True,2003-05-20,Stolen,2B,2003
+3101,1B,2B,Stolen Base 2B,122918,Chris Stynes,Paul Bako,8,2,7,False,2003-04-26,Stolen,2B,2003

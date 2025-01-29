@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2288,1B,,Caught Stealing 2B,594953,Daniel Palka,Yan Gomes,1,4,4,True,2018-05-28,Caught,2B,2018
+2315,1B,2B,Stolen Base 2B,594953,Daniel Palka,Grayson Greiner,0,0,2,True,2018-05-27,Stolen,2B,2018
+2634,1B,2B,Stolen Base 2B,594953,Daniel Palka,Elias Díaz,4,2,6,False,2018-05-09,Stolen,2B,2018
+100,1B,,Caught Stealing 2B,594953,Daniel Palka,Roberto Pérez,3,0,2,False,2019-09-25,Caught,2B,2019

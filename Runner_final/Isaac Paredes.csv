@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2003,1B,2B,Stolen Base 2B,670623,Isaac Paredes,605400,Aaron Nola,664040,Brandon Lowe,R,J.T. Realmuto,592663,0,1,4,False,2023-07-04,Stolen,2B,2023,2024,25.9
+1,6417,1B,2B,Stolen Base 2B,670623,Isaac Paredes,605400,Aaron Nola,664040,Brandon Lowe,R,J.T. Realmuto,592663,0,1,4,False,2023-07-04,Stolen,2B,2023,2024,25.9
+2,263,1B,,Caught Stealing 2B,670623,Isaac Paredes,548389,Ross Stripling,668227,Randy Arozarena,R,Gabriel Moreno,672515,1,1,4,True,2022-07-03,Caught,2B,2022,2023,26.1

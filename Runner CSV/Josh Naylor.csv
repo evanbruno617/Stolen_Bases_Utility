@@ -1,0 +1,23 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1441,1B,,Caught Stealing 2B,647304,Josh Naylor,Yadier Molina,0,0,2,False,2019-06-28,Caught,2B,2019
+1801,1B,2B,Stolen Base 2B,647304,Josh Naylor,Yan Gomes,5,4,9,False,2019-06-07,Stolen,2B,2019
+1031,1B,2B,Stolen Base 2B,647304,Josh Naylor,Austin Barnes,2,4,8,False,2020-08-04,Stolen,2B,2020
+2290,2B,3B,Stolen Base 3B,647304,Josh Naylor,Salvador Perez,2,0,5,True,2021-05-05,Stolen,3B,2021
+123,1B,2B,Stolen Base 2B,647304,Josh Naylor,Kevin Plawecki,2,1,4,True,2022-09-23,Stolen,2B,2022
+680,1B,2B,Stolen Base 2B,647304,Josh Naylor,Jorge Alfaro,0,3,4,True,2022-08-24,Stolen,2B,2022
+771,2B,3B,Stolen Base 3B,647304,Josh Naylor,Seby Zavala,5,2,7,False,2022-08-19,Stolen,3B,2022
+1016,1B,2B,Stolen Base 2B,647304,Josh Naylor,Christian Vázquez,4,0,8,False,2022-08-06,Stolen,2B,2022
+1199,1B,2B,Stolen Base 2B,647304,Josh Naylor,Kevin Plawecki,2,7,4,True,2022-07-26,Stolen,2B,2022
+1862,1B,2B,Stolen Base 2B,647304,Josh Naylor,Will Smith,1,1,6,True,2022-06-17,Stolen,2B,2022
+97,1B,,Caught Stealing 2B,647304,Josh Naylor,Tyler Stephenson,3,0,3,False,2023-09-27,Caught,2B,2023
+236,1B,2B,Stolen Base 2B,647304,Josh Naylor,Adley Rutschman,2,2,8,False,2023-09-21,Stolen,2B,2023
+373,1B,2B,Stolen Base 2B,647304,Josh Naylor,Jonah Heim,0,1,7,False,2023-09-16,Stolen,2B,2023
+439,1B,2B,Stolen Base 2B,647304,Josh Naylor,Blake Sabol,0,0,1,True,2023-09-12,Stolen,2B,2023
+595,1B,2B,Stolen Base 2B,647304,Josh Naylor,Chad Wallach,0,0,1,True,2023-09-07,Stolen,2B,2023
+1810,2B,3B,Stolen Base 3B,647304,Josh Naylor,Jonah Heim,2,0,6,True,2023-07-15,Stolen,3B,2023
+2356,1B,2B,Stolen Base 2B,647304,Josh Naylor,Gabriel Moreno,1,5,3,True,2023-06-18,Stolen,2B,2023
+2556,1B,,Caught Stealing 2B,647304,Josh Naylor,César Salazar,2,0,3,False,2023-06-11,Caught,2B,2023
+2826,2B,3B,Stolen Base 3B,647304,Josh Naylor,Adley Rutschman,7,9,5,True,2023-05-31,Stolen,3B,2023
+3265,1B,2B,Stolen Base 2B,647304,Josh Naylor,Matt Thaiss,1,0,2,False,2023-05-12,Stolen,2B,2023
+3571,1B,2B,Stolen Base 2B,647304,Josh Naylor,Connor Wong,3,1,4,True,2023-04-29,Stolen,2B,2023
+3734,1B,2B,Stolen Base 2B,647304,Josh Naylor,Nick Fortes,3,1,3,False,2023-04-23,Stolen,2B,2023

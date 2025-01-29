@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+864,1B,,Caught Stealing 2B,119616,Greg Myers,Adam Melhuse,4,8,6,True,2003-08-15,Caught,2B,2003
+882,1B,,Caught Stealing 2B,119616,Greg Myers,Dan Wilson,0,2,4,True,2003-08-14,Caught,2B,2003
+2499,2B,,Caught Stealing 3B,119616,Greg Myers,Jorge Posada,1,5,6,True,2003-05-25,Caught,3B,2003

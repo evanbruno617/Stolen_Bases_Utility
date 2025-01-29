@@ -1,0 +1,9 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,121347,Alex Rodriguez,Tom Gregorio,0,0,1,True,2003-09-27,Stolen,2B,2003
+1B,,Caught Stealing 2B,400075,Jermaine Clark,Tom Gregorio,0,3,4,True,2003-09-26,Caught,2B,2003
+1B,,Caught Stealing 2B,111904,Mike Cameron,Tom Gregorio,1,0,5,False,2003-09-14,Caught,2B,2003
+1B,2B,Stolen Base 2B,150039,Chad Meyers,Tom Gregorio,1,2,9,False,2003-09-14,Stolen,2B,2003
+1B,2B,Stolen Base 2B,111214,Bret Boone,Tom Gregorio,4,0,3,False,2003-09-12,Stolen,2B,2003
+1B,2B,Stolen Base 2B,407556,Angel Berroa,Tom Gregorio,0,1,2,True,2003-09-05,Stolen,2B,2003
+1B,2B,Stolen Base 2B,407556,Angel Berroa,Tom Gregorio,0,4,8,True,2003-09-05,Stolen,2B,2003
+1B,2B,Stolen Base 2B,121058,Desi Relaford,Tom Gregorio,0,4,8,True,2003-09-05,Stolen,2B,2003

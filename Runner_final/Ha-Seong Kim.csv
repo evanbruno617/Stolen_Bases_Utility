@@ -1,0 +1,109 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,47,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,595014,Blake Treinen,502054,Tommy Pham,R,Will Smith,669257,2,1,9,True,2021-09-28,Stolen,2B,2021,2022,28.4
+1,1818,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,592836,Taijuan Walker,605170,Victor Caratini,R,James McCann,543510,4,0,5,False,2021-06-03,Stolen,2B,2021,2022,28.4
+2,1984,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,669203,Corbin Burnes,595777,Jurickson Profar,R,Omar Narváez,553882,0,2,3,True,2021-05-25,Stolen,2B,2021,2022,28.4
+3,2116,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,621052,Alex Reyes,607430,John Andreoli,R,Yadier Molina,425877,5,3,8,False,2021-05-16,Stolen,2B,2021,2022,28.4
+4,2194,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,592351,Jon Gray,657434,Brian O'Grady,R,Elias Díaz,553869,1,0,2,True,2021-05-12,Stolen,2B,2021,2022,28.4
+5,2607,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,595014,Blake Treinen,663757,Trent Grisham,R,Will Smith,669257,2,4,7,False,2021-04-16,Stolen,2B,2021,2022,28.4
+6,1971,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,595014,Blake Treinen,502054,Tommy Pham,R,Will Smith,669257,2,1,9,True,2021-09-28,Stolen,2B,2021,2022,28.4
+7,3742,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,592836,Taijuan Walker,605170,Victor Caratini,R,James McCann,543510,4,0,5,False,2021-06-03,Stolen,2B,2021,2022,28.4
+8,3908,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,669203,Corbin Burnes,595777,Jurickson Profar,R,Omar Narváez,553882,0,2,3,True,2021-05-25,Stolen,2B,2021,2022,28.4
+9,4040,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,621052,Alex Reyes,607430,John Andreoli,R,Yadier Molina,425877,5,3,8,False,2021-05-16,Stolen,2B,2021,2022,28.4
+10,4118,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,592351,Jon Gray,657434,Brian O'Grady,R,Elias Díaz,553869,1,0,2,True,2021-05-12,Stolen,2B,2021,2022,28.4
+11,4531,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,595014,Blake Treinen,663757,Trent Grisham,R,Will Smith,669257,2,4,7,False,2021-04-16,Stolen,2B,2021,2022,28.4
+12,21,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,605182,Mike Clevinger,665487,Fernando Tatis Jr.,R,Carlos Pérez,656024,0,0,1,True,2023-09-30,Stolen,3B,2023,2024,28.3
+13,23,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,671111,Sammy Peralta,665742,Juan Soto,L,Carlos Pérez,656024,0,6,6,True,2023-09-30,Stolen,3B,2023,2024,28.3
+14,388,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,661309,Adrián Martínez,665487,Fernando Tatis Jr.,R,Shea Langeliers,669127,2,5,6,True,2023-09-15,Stolen,2B,2023,2024,28.3
+15,471,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,694813,Gavin Stone,665487,Fernando Tatis Jr.,R,Will Smith,669257,0,0,1,True,2023-09-11,Stolen,2B,2023,2024,28.3
+16,568,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,686613,Hunter Brown,665487,Fernando Tatis Jr.,R,Martín Maldonado,455117,1,5,5,True,2023-09-08,Stolen,2B,2023,2024,28.3
+17,569,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,664353,José Urquidy,665742,Juan Soto,R,Martín Maldonado,455117,2,6,7,True,2023-09-08,Stolen,2B,2023,2024,28.3
+18,570,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,664353,José Urquidy,592518,Manny Machado,R,Martín Maldonado,455117,2,8,7,True,2023-09-08,Stolen,3B,2023,2024,28.3
+19,686,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,502171,Alex Cobb,665487,Fernando Tatis Jr.,R,Patrick Bailey,672275,0,0,1,False,2023-09-03,Stolen,2B,2023,2024,28.3
+20,687,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,676775,Keaton Winn,665487,Fernando Tatis Jr.,R,Patrick Bailey,672275,4,0,4,False,2023-09-03,Stolen,2B,2023,2024,28.3
+21,912,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,605540,Brandon Woodruff,665487,Fernando Tatis Jr.,R,William Contreras,661388,5,1,5,True,2023-08-25,Stolen,2B,2023,2024,28.3
+22,978,1B,,Caught Stealing 2B,673490,Ha-Seong Kim,666200,Jesús Luzardo,665487,Fernando Tatis Jr.,L,Nick Fortes,663743,0,3,6,False,2023-08-22,Caught,2B,2023,2024,28.3
+23,1013,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,677960,Ryan Weathers,592518,Manny Machado,L,Nick Fortes,663743,1,0,1,False,2023-08-21,Stolen,3B,2023,2024,28.3
+24,1066,1B,,Caught Stealing 2B,673490,Ha-Seong Kim,694297,Brandon Pfaadt,665487,Fernando Tatis Jr.,R,Gabriel Moreno,672515,0,0,1,False,2023-08-18,Caught,2B,2023,2024,28.3
+25,1249,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,676106,Emerson Hancock,665487,Fernando Tatis Jr.,R,Cal Raleigh,663728,0,0,1,True,2023-08-09,Stolen,2B,2023,2024,28.3
+26,1250,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,676106,Emerson Hancock,665742,Juan Soto,R,Cal Raleigh,663728,0,1,1,True,2023-08-09,Stolen,3B,2023,2024,28.3
+27,1251,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,676106,Emerson Hancock,665487,Fernando Tatis Jr.,R,Cal Raleigh,663728,0,1,3,True,2023-08-09,Stolen,2B,2023,2024,28.3
+28,1391,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,676272,Bobby Miller,665742,Juan Soto,R,Will Smith,669257,0,0,1,False,2023-08-04,Stolen,2B,2023,2024,28.3
+29,1392,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,676272,Bobby Miller,665742,Juan Soto,R,Will Smith,669257,0,1,3,False,2023-08-04,Stolen,2B,2023,2024,28.3
+30,1449,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,656234,Jake Bird,665487,Fernando Tatis Jr.,R,Elias Díaz,553869,4,8,9,True,2023-08-01,Stolen,2B,2023,2024,28.3
+31,1487,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,674003,Cody Bradford,665742,Juan Soto,L,Sam Huff,669087,0,0,1,False,2023-07-30,Stolen,2B,2023,2024,28.3
+32,1522,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,641540,Dane Dunning,665487,Fernando Tatis Jr.,R,Mitch Garver,641598,0,0,1,False,2023-07-28,Stolen,2B,2023,2024,28.3
+33,1573,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,448179,Rich Hill,592518,Manny Machado,L,Austin Hedges,595978,2,1,5,False,2023-07-25,Stolen,3B,2023,2024,28.3
+34,1575,1B,,Caught Stealing 2B,673490,Ha-Seong Kim,622780,Angel Perdomo,665742,Juan Soto,L,Austin Hedges,595978,3,1,7,False,2023-07-25,Caught,2B,2023,2024,28.3
+35,1606,1B,,Caught Stealing 2B,673490,Ha-Seong Kim,669387,Carmen Mlodzinski,665742,Juan Soto,R,Endy Rodríguez,682848,4,8,7,False,2023-07-24,Caught,2B,2023,2024,28.3
+36,1720,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,621244,José Berríos,665742,Juan Soto,R,Danny Jansen,643376,0,0,5,True,2023-07-19,Stolen,2B,2023,2024,28.3
+37,1825,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,592836,Taijuan Walker,665742,Juan Soto,R,Garrett Stubbs,596117,0,0,1,True,2023-07-15,Stolen,2B,2023,2024,28.3
+38,1913,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,434378,Justin Verlander,592518,Manny Machado,R,Francisco Alvarez,682626,1,1,1,False,2023-07-07,Stolen,2B,2023,2024,28.3
+39,1968,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,663776,Patrick Sandoval,665742,Juan Soto,L,Matt Thaiss,642136,1,2,3,False,2023-07-05,Stolen,2B,2023,2024,28.3
+40,1995,1B,,Caught Stealing 2B,673490,Ha-Seong Kim,660271,Shohei Ohtani,665487,Fernando Tatis Jr.,R,Chad Wallach,595453,2,1,5,False,2023-07-04,Caught,2B,2023,2024,28.3
+41,1996,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,622103,Gerardo Reyes,665742,Juan Soto,R,Chad Wallach,595453,5,1,7,False,2023-07-04,Stolen,2B,2023,2024,28.3
+42,2299,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,592426,Luke Jackson,663757,Trent Grisham,R,Patrick Bailey,672275,4,1,7,True,2023-06-21,Stolen,2B,2023,2024,28.3
+43,2342,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,573124,Taylor Rogers,663757,Trent Grisham,L,Patrick Bailey,672275,0,1,2,True,2023-06-19,Stolen,2B,2023,2024,28.3
+44,2728,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,592767,Drew Smyly,641525,Brandon Dixon,L,Tucker Barnhart,571466,3,0,6,False,2023-06-03,Stolen,2B,2023,2024,28.3
+45,2789,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,666200,Jesús Luzardo,665487,Fernando Tatis Jr.,L,Nick Fortes,663743,1,1,4,True,2023-06-01,Stolen,3B,2023,2024,28.3
+46,2809,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,666129,Braxton Garrett,665487,Fernando Tatis Jr.,L,Nick Fortes,663743,0,1,3,True,2023-05-31,Stolen,2B,2023,2024,28.3
+47,2850,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,645261,Sandy Alcantara,665742,Juan Soto,R,Nick Fortes,663743,3,2,5,True,2023-05-30,Stolen,2B,2023,2024,28.3
+48,2895,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,543037,Gerrit Cole,663757,Trent Grisham,R,Kyle Higashioka,543309,1,1,2,True,2023-05-28,Stolen,2B,2023,2024,28.3
+49,3322,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,643377,Griffin Jax,543592,Austin Nola,R,Christian Vázquez,543877,1,2,7,True,2023-05-09,Stolen,3B,2023,2024,28.3
+50,3419,1B,,Caught Stealing 2B,673490,Ha-Seong Kim,477132,Clayton Kershaw,543592,Austin Nola,L,Will Smith,669257,1,1,4,False,2023-05-05,Caught,2B,2023,2024,28.3
+51,3566,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,518397,Scott Alexander,543592,Austin Nola,L,Blake Sabol,666165,12,11,8,False,2023-04-29,Stolen,2B,2023,2024,28.3
+52,3629,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,669713,Hayden Wesneski,630105,Jake Cronenworth,R,Tucker Barnhart,571466,3,1,3,True,2023-04-27,Stolen,2B,2023,2024,28.3
+53,3649,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,592767,Drew Smyly,543592,Austin Nola,L,Yan Gomes,543228,0,2,4,True,2023-04-26,Stolen,2B,2023,2024,28.3
+54,3651,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,657240,Julian Merryweather,664954,Brett Sullivan,R,Yan Gomes,543228,3,4,9,True,2023-04-26,Stolen,2B,2023,2024,28.3
+55,3807,1B,,Caught Stealing 2B,673490,Ha-Seong Kim,450203,Charlie Morton,543592,Austin Nola,R,Sean Murphy,669221,0,0,2,False,2023-04-19,Caught,2B,2023,2024,28.3
+56,4006,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,660593,Denyi Reyes,669134,Luis Campusano,R,Francisco Alvarez,682626,1,2,6,True,2023-04-11,Stolen,2B,2023,2024,28.3
+57,4435,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,605182,Mike Clevinger,665487,Fernando Tatis Jr.,R,Carlos Pérez,656024,0,0,1,True,2023-09-30,Stolen,3B,2023,2024,28.3
+58,4437,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,671111,Sammy Peralta,665742,Juan Soto,L,Carlos Pérez,656024,0,6,6,True,2023-09-30,Stolen,3B,2023,2024,28.3
+59,4802,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,661309,Adrián Martínez,665487,Fernando Tatis Jr.,R,Shea Langeliers,669127,2,5,6,True,2023-09-15,Stolen,2B,2023,2024,28.3
+60,4885,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,694813,Gavin Stone,665487,Fernando Tatis Jr.,R,Will Smith,669257,0,0,1,True,2023-09-11,Stolen,2B,2023,2024,28.3
+61,4982,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,686613,Hunter Brown,665487,Fernando Tatis Jr.,R,Martín Maldonado,455117,1,5,5,True,2023-09-08,Stolen,2B,2023,2024,28.3
+62,4983,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,664353,José Urquidy,665742,Juan Soto,R,Martín Maldonado,455117,2,6,7,True,2023-09-08,Stolen,2B,2023,2024,28.3
+63,4984,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,664353,José Urquidy,592518,Manny Machado,R,Martín Maldonado,455117,2,8,7,True,2023-09-08,Stolen,3B,2023,2024,28.3
+64,5100,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,502171,Alex Cobb,665487,Fernando Tatis Jr.,R,Patrick Bailey,672275,0,0,1,False,2023-09-03,Stolen,2B,2023,2024,28.3
+65,5101,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,676775,Keaton Winn,665487,Fernando Tatis Jr.,R,Patrick Bailey,672275,4,0,4,False,2023-09-03,Stolen,2B,2023,2024,28.3
+66,5326,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,605540,Brandon Woodruff,665487,Fernando Tatis Jr.,R,William Contreras,661388,5,1,5,True,2023-08-25,Stolen,2B,2023,2024,28.3
+67,5392,1B,,Caught Stealing 2B,673490,Ha-Seong Kim,666200,Jesús Luzardo,665487,Fernando Tatis Jr.,L,Nick Fortes,663743,0,3,6,False,2023-08-22,Caught,2B,2023,2024,28.3
+68,5427,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,677960,Ryan Weathers,592518,Manny Machado,L,Nick Fortes,663743,1,0,1,False,2023-08-21,Stolen,3B,2023,2024,28.3
+69,5480,1B,,Caught Stealing 2B,673490,Ha-Seong Kim,694297,Brandon Pfaadt,665487,Fernando Tatis Jr.,R,Gabriel Moreno,672515,0,0,1,False,2023-08-18,Caught,2B,2023,2024,28.3
+70,5663,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,676106,Emerson Hancock,665487,Fernando Tatis Jr.,R,Cal Raleigh,663728,0,0,1,True,2023-08-09,Stolen,2B,2023,2024,28.3
+71,5664,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,676106,Emerson Hancock,665742,Juan Soto,R,Cal Raleigh,663728,0,1,1,True,2023-08-09,Stolen,3B,2023,2024,28.3
+72,5665,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,676106,Emerson Hancock,665487,Fernando Tatis Jr.,R,Cal Raleigh,663728,0,1,3,True,2023-08-09,Stolen,2B,2023,2024,28.3
+73,5805,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,676272,Bobby Miller,665742,Juan Soto,R,Will Smith,669257,0,0,1,False,2023-08-04,Stolen,2B,2023,2024,28.3
+74,5806,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,676272,Bobby Miller,665742,Juan Soto,R,Will Smith,669257,0,1,3,False,2023-08-04,Stolen,2B,2023,2024,28.3
+75,5863,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,656234,Jake Bird,665487,Fernando Tatis Jr.,R,Elias Díaz,553869,4,8,9,True,2023-08-01,Stolen,2B,2023,2024,28.3
+76,5901,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,674003,Cody Bradford,665742,Juan Soto,L,Sam Huff,669087,0,0,1,False,2023-07-30,Stolen,2B,2023,2024,28.3
+77,5936,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,641540,Dane Dunning,665487,Fernando Tatis Jr.,R,Mitch Garver,641598,0,0,1,False,2023-07-28,Stolen,2B,2023,2024,28.3
+78,5987,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,448179,Rich Hill,592518,Manny Machado,L,Austin Hedges,595978,2,1,5,False,2023-07-25,Stolen,3B,2023,2024,28.3
+79,5989,1B,,Caught Stealing 2B,673490,Ha-Seong Kim,622780,Angel Perdomo,665742,Juan Soto,L,Austin Hedges,595978,3,1,7,False,2023-07-25,Caught,2B,2023,2024,28.3
+80,6020,1B,,Caught Stealing 2B,673490,Ha-Seong Kim,669387,Carmen Mlodzinski,665742,Juan Soto,R,Endy Rodríguez,682848,4,8,7,False,2023-07-24,Caught,2B,2023,2024,28.3
+81,6134,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,621244,José Berríos,665742,Juan Soto,R,Danny Jansen,643376,0,0,5,True,2023-07-19,Stolen,2B,2023,2024,28.3
+82,6239,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,592836,Taijuan Walker,665742,Juan Soto,R,Garrett Stubbs,596117,0,0,1,True,2023-07-15,Stolen,2B,2023,2024,28.3
+83,6327,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,434378,Justin Verlander,592518,Manny Machado,R,Francisco Alvarez,682626,1,1,1,False,2023-07-07,Stolen,2B,2023,2024,28.3
+84,6382,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,663776,Patrick Sandoval,665742,Juan Soto,L,Matt Thaiss,642136,1,2,3,False,2023-07-05,Stolen,2B,2023,2024,28.3
+85,6409,1B,,Caught Stealing 2B,673490,Ha-Seong Kim,660271,Shohei Ohtani,665487,Fernando Tatis Jr.,R,Chad Wallach,595453,2,1,5,False,2023-07-04,Caught,2B,2023,2024,28.3
+86,6410,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,622103,Gerardo Reyes,665742,Juan Soto,R,Chad Wallach,595453,5,1,7,False,2023-07-04,Stolen,2B,2023,2024,28.3
+87,6713,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,592426,Luke Jackson,663757,Trent Grisham,R,Patrick Bailey,672275,4,1,7,True,2023-06-21,Stolen,2B,2023,2024,28.3
+88,6756,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,573124,Taylor Rogers,663757,Trent Grisham,L,Patrick Bailey,672275,0,1,2,True,2023-06-19,Stolen,2B,2023,2024,28.3
+89,7142,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,592767,Drew Smyly,641525,Brandon Dixon,L,Tucker Barnhart,571466,3,0,6,False,2023-06-03,Stolen,2B,2023,2024,28.3
+90,7203,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,666200,Jesús Luzardo,665487,Fernando Tatis Jr.,L,Nick Fortes,663743,1,1,4,True,2023-06-01,Stolen,3B,2023,2024,28.3
+91,7223,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,666129,Braxton Garrett,665487,Fernando Tatis Jr.,L,Nick Fortes,663743,0,1,3,True,2023-05-31,Stolen,2B,2023,2024,28.3
+92,7264,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,645261,Sandy Alcantara,665742,Juan Soto,R,Nick Fortes,663743,3,2,5,True,2023-05-30,Stolen,2B,2023,2024,28.3
+93,7309,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,543037,Gerrit Cole,663757,Trent Grisham,R,Kyle Higashioka,543309,1,1,2,True,2023-05-28,Stolen,2B,2023,2024,28.3
+94,7736,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,643377,Griffin Jax,543592,Austin Nola,R,Christian Vázquez,543877,1,2,7,True,2023-05-09,Stolen,3B,2023,2024,28.3
+95,7833,1B,,Caught Stealing 2B,673490,Ha-Seong Kim,477132,Clayton Kershaw,543592,Austin Nola,L,Will Smith,669257,1,1,4,False,2023-05-05,Caught,2B,2023,2024,28.3
+96,7980,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,518397,Scott Alexander,543592,Austin Nola,L,Blake Sabol,666165,12,11,8,False,2023-04-29,Stolen,2B,2023,2024,28.3
+97,8043,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,669713,Hayden Wesneski,630105,Jake Cronenworth,R,Tucker Barnhart,571466,3,1,3,True,2023-04-27,Stolen,2B,2023,2024,28.3
+98,8063,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,592767,Drew Smyly,543592,Austin Nola,L,Yan Gomes,543228,0,2,4,True,2023-04-26,Stolen,2B,2023,2024,28.3
+99,8065,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,657240,Julian Merryweather,664954,Brett Sullivan,R,Yan Gomes,543228,3,4,9,True,2023-04-26,Stolen,2B,2023,2024,28.3
+100,8221,1B,,Caught Stealing 2B,673490,Ha-Seong Kim,450203,Charlie Morton,543592,Austin Nola,R,Sean Murphy,669221,0,0,2,False,2023-04-19,Caught,2B,2023,2024,28.3
+101,8420,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,660593,Denyi Reyes,669134,Luis Campusano,R,Francisco Alvarez,682626,1,2,6,True,2023-04-11,Stolen,2B,2023,2024,28.3
+102,647,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,607536,Kyle Freeland,543592,Austin Nola,L,Elias Díaz,553869,0,1,2,False,2022-06-11,Stolen,2B,2022,2023,28.5
+103,1044,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,607074,Carlos Rodón,640492,José Azocar,L,Joey Bart,663698,0,1,4,True,2022-05-21,Stolen,2B,2022,2023,28.5
+104,1052,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,596001,Jakob Junis,663757,Trent Grisham,R,Curt Casali,592200,3,4,4,True,2022-05-20,Stolen,2B,2022,2023,28.5
+105,1161,2B,,Caught Stealing 3B,673490,Ha-Seong Kim,621345,A.J. Minter,543333,Eric Hosmer,L,William Contreras,661388,3,3,8,True,2022-05-15,Caught,3B,2022,2023,28.5
+106,1817,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,518516,Madison Bumgarner,543592,Austin Nola,L,Carson Kelly,608348,0,0,3,True,2022-04-07,Stolen,2B,2022,2023,28.5
+107,1894,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,656546,Jeff Hoffman,543592,Austin Nola,R,Tyler Stephenson,663886,5,3,5,True,2022-04-02,Stolen,2B,2022,2023,28.5

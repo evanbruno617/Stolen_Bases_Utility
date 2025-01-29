@@ -1,0 +1,5 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2B,3B,Stolen Base 3B,518792,Jason Heyward,Johnny Monell,6,0,5,False,2015-07-18,Stolen,3B,2015
+1B,2B,Stolen Base 2B,475100,Scott Van Slyke,Johnny Monell,0,1,2,False,2015-07-05,Stolen,2B,2015
+1B,2B,Stolen Base 2B,458085,Chris Coghlan,Johnny Monell,1,4,8,True,2015-07-02,Stolen,2B,2015
+1B,,Caught Stealing 2B,572039,Stephen Piscotty,Johnny Monell,0,0,8,False,2015-04-02,Caught,2B,2015

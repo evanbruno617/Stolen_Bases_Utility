@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+105,1B,2B,Stolen Base 2B,453531,Rob Johnson,Kelly Shoppach,3,3,9,False,2007-09-25,Stolen,2B,2007
+372,1B,2B,Stolen Base 2B,453531,Rob Johnson,Victor Martinez,1,3,9,True,2009-07-18,Stolen,2B,2009
+2287,1B,2B,Caught Stealing 3B,453531,Rob Johnson,Mike Napoli,0,1,2,True,2009-04-24,Caught,3B,2009
+2403,1B,,Caught Stealing 2B,453531,Rob Johnson,Gerald Laird,0,2,8,False,2009-04-18,Caught,2B,2009
+2422,2B,,Caught Stealing 3B,453531,Rob Johnson,Max Ramirez,2,0,3,True,2010-06-08,Caught,3B,2010
+3510,1B,2B,Stolen Base 2B,453531,Rob Johnson,Matt Wieters,0,1,3,False,2010-04-21,Stolen,2B,2010
+1312,2B,3B,Stolen Base 3B,453531,Rob Johnson,Michael McKenry,0,4,4,True,2011-08-06,Stolen,3B,2011
+2431,1B,2B,Stolen Base 2B,453531,Rob Johnson,Drew Butera,1,2,5,True,2011-06-19,Stolen,2B,2011
+2761,1B,2B,Stolen Base 2B,453531,Rob Johnson,Robinson Cancel,4,2,6,False,2011-06-05,Stolen,2B,2011

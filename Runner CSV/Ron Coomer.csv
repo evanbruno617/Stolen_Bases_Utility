@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2010,1B,2B,Stolen Base 2B,112641,Ron Coomer,Sandy Alomar Jr.,2,1,4,True,2000-07-01,Stolen,2B,2000
+3324,1B,2B,Stolen Base 2B,112641,Ron Coomer,Brad Ausmus,6,6,9,False,2000-05-04,Stolen,2B,2000

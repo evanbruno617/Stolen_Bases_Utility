@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+714,1B,,Caught Stealing 2B,117484,Ray Lankford,Mike Piazza,0,0,2,False,2000-09-01,Caught,2B,2000
+834,1B,2B,Stolen Base 2B,117484,Ray Lankford,Javy Lopez,2,1,7,True,2000-08-27,Stolen,2B,2000
+894,1B,2B,Stolen Base 2B,117484,Ray Lankford,Javy Lopez,1,3,4,True,2000-08-24,Stolen,2B,2000
+1161,1B,,Caught Stealing 2B,117484,Ray Lankford,Henry Blanco,0,0,4,True,2000-08-12,Caught,2B,2000
+1320,1B,,Caught Stealing 2B,117484,Ray Lankford,Javy Lopez,3,0,1,False,2000-08-05,Caught,2B,2000
+2758,1B,2B,Stolen Base 2B,117484,Ray Lankford,Damian Miller,0,1,7,True,2000-05-29,Stolen,2B,2000
+2877,1B,,Caught Stealing 2B,117484,Ray Lankford,Paul Bako,0,1,2,False,2000-05-24,Caught,2B,2000
+2921,1B,,Caught Stealing 2B,117484,Ray Lankford,Jason Kendall,3,7,8,True,2000-05-21,Caught,2B,2000
+3206,1B,2B,Stolen Base 2B,117484,Ray Lankford,Bobby Estalella,0,6,2,True,2000-05-09,Stolen,2B,2000
+3651,1B,,Caught Stealing 2B,117484,Ray Lankford,Wiki Gonzalez,6,0,3,False,2000-04-20,Caught,2B,2000
+3939,1B,2B,Stolen Base 2B,117484,Ray Lankford,Henry Blanco,9,7,7,False,2000-04-08,Stolen,2B,2000
+633,1B,2B,Stolen Base 2B,117484,Ray Lankford,Todd Hundley,7,2,5,False,2001-05-11,Stolen,2B,2001
+1227,1B,,Caught Stealing 2B,117484,Ray Lankford,Damian Miller,1,2,8,False,2001-04-16,Caught,2B,2001
+2310,1B,,Caught Stealing 2B,117484,Ray Lankford,John Flaherty,0,0,2,True,2002-06-08,Caught,2B,2002
+2540,1B,2B,Stolen Base 2B,117484,Ray Lankford,Bobby Estalella,2,2,8,False,2002-05-28,Stolen,2B,2002
+2894,1B,2B,Stolen Base 2B,117484,Ray Lankford,Michael Barrett,0,0,6,False,2002-05-15,Stolen,2B,2002
+2610,1B,2B,Stolen Base 2B,117484,Ray Lankford,Michael Barrett,2,6,5,True,2004-05-21,Stolen,2B,2004
+2635,1B,,Caught Stealing 2B,117484,Ray Lankford,Vance Wilson,0,1,9,True,2004-05-19,Caught,2B,2004
+2840,1B,,Caught Stealing 2B,117484,Ray Lankford,Brian Schneider,1,2,4,True,2004-05-09,Caught,2B,2004
+2897,1B,2B,Stolen Base 2B,117484,Ray Lankford,Mike Lieberthal,4,6,7,True,2004-05-06,Stolen,2B,2004

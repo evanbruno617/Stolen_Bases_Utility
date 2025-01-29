@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,8,1B,2B,Stolen Base 2B,641598,Mitch Garver,608335,Kyle Funkhouser,518626,Josh Donaldson,R,Dustin Garneau,572863,7,6,7,False,2021-09-30,Stolen,2B,2021,2022,26.4
+1,1029,1B,,Caught Stealing 2B,641598,Mitch Garver,641729,Joe Jiménez,593934,Miguel Sanó,R,Eric Haase,606992,5,3,8,False,2021-07-26,Caught,2B,2021,2022,26.4
+2,1932,1B,2B,Stolen Base 2B,641598,Mitch Garver,608335,Kyle Funkhouser,518626,Josh Donaldson,R,Dustin Garneau,572863,7,6,7,False,2021-09-30,Stolen,2B,2021,2022,26.4
+3,2953,1B,,Caught Stealing 2B,641598,Mitch Garver,641729,Joe Jiménez,593934,Miguel Sanó,R,Eric Haase,606992,5,3,8,False,2021-07-26,Caught,2B,2021,2022,26.4
+4,882,1B,2B,Stolen Base 2B,641598,Mitch Garver,605538,Matt Wisler,594777,Kole Calhoun,R,Francisco Mejía,642336,5,2,5,False,2022-05-30,Stolen,2B,2022,2023,25.7

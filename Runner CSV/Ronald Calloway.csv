@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+113,1B,2B,Stolen Base 2B,407827,Ronald Calloway,Henry Blanco,1,0,2,True,2003-09-24,Stolen,2B,2003
+368,1B,2B,Stolen Base 2B,407827,Ronald Calloway,Paul Bako,1,0,5,False,2003-09-11,Stolen,2B,2003
+699,1B,2B,Stolen Base 2B,407827,Ronald Calloway,Gary Bennett,0,0,7,True,2003-08-23,Stolen,2B,2003
+784,1B,2B,Stolen Base 2B,407827,Ronald Calloway,Paul Lo Duca,3,3,5,True,2003-08-19,Stolen,2B,2003
+1498,1B,2B,Stolen Base 2B,407827,Ronald Calloway,Mike Lieberthal,2,2,6,True,2003-07-17,Stolen,2B,2003
+1792,1B,2B,Stolen Base 2B,407827,Ronald Calloway,Tom Wilson,1,6,8,True,2003-06-29,Stolen,2B,2003
+1793,2B,score,Stolen Base 2B,407827,Ronald Calloway,Tom Wilson,1,6,8,True,2003-06-29,Stolen,2B,2003
+1924,1B,,Caught Stealing 2B,407827,Ronald Calloway,Greg Myers,1,4,7,False,2003-06-22,Caught,2B,2003
+2280,1B,2B,Stolen Base 2B,407827,Ronald Calloway,Bengie Molina,0,1,2,False,2003-06-05,Stolen,2B,2003
+2680,1B,2B,Stolen Base 2B,407827,Ronald Calloway,Bobby Estalella,1,3,9,True,2003-05-16,Stolen,2B,2003
+2818,1B,,Caught Stealing 2B,407827,Ronald Calloway,Paul Lo Duca,2,1,4,False,2003-05-10,Caught,2B,2003
+3569,1B,2B,Stolen Base 2B,407827,Ronald Calloway,Javy Lopez,0,2,8,True,2003-04-02,Stolen,2B,2003
+889,1B,2B,Stolen Base 2B,407827,Ronald Calloway,Yorvit Torrealba,4,2,8,True,2004-08-17,Stolen,2B,2004
+3449,1B,2B,Stolen Base 2B,407827,Ronald Calloway,Vance Wilson,2,3,11,False,2004-04-09,Stolen,2B,2004

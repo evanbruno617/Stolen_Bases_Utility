@@ -1,0 +1,22 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+58,1B,2B,Stolen Base 2B,501981,Khris Davis,Travis d'Arnaud,1,3,6,True,2013-09-27,Stolen,2B,2013
+1371,1B,2B,Stolen Base 2B,501981,Khris Davis,René Rivera,8,10,7,False,2013-07-25,Stolen,2B,2013
+3025,1B,2B,Stolen Base 2B,501981,Khris Davis,Michael McKenry,3,2,7,False,2013-05-01,Stolen,2B,2013
+762,1B,2B,Stolen Base 2B,501981,Khris Davis,Yasmani Grandal,1,2,3,True,2014-08-25,Stolen,2B,2014
+1779,1B,2B,Stolen Base 2B,501981,Khris Davis,Dioner Navarro,2,1,7,True,2014-07-01,Stolen,2B,2014
+2113,1B,,Caught Stealing 2B,501981,Khris Davis,Miguel Montero,3,6,8,True,2014-06-16,Caught,2B,2014
+2136,1B,2B,Stolen Base 2B,501981,Khris Davis,Devin Mesoraco,4,5,5,False,2014-06-15,Stolen,2B,2014
+2314,1B,2B,Stolen Base 2B,501981,Khris Davis,Russell Martin,5,3,6,True,2014-06-06,Stolen,2B,2014
+87,1B,2B,Stolen Base 2B,501981,Khris Davis,Tony Cruz,1,1,4,True,2015-09-25,Stolen,2B,2015
+382,1B,2B,Stolen Base 2B,501981,Khris Davis,Francisco Cervelli,1,3,6,True,2015-09-10,Stolen,2B,2015
+480,1B,2B,Stolen Base 2B,501981,Khris Davis,Tucker Barnhart,3,0,4,True,2015-09-05,Stolen,2B,2015
+532,1B,2B,Stolen Base 2B,501981,Khris Davis,Francisco Cervelli,7,2,8,False,2015-09-01,Stolen,2B,2015
+903,1B,2B,Stolen Base 2B,501981,Khris Davis,David Ross,1,1,3,True,2015-08-13,Stolen,2B,2015
+1123,1B,2B,Stolen Base 2B,501981,Khris Davis,Kyle Schwarber,1,3,6,False,2015-07-31,Stolen,2B,2015
+152,1B,,Caught Stealing 2B,501981,Khris Davis,David Ross,0,4,2,False,2016-08-05,Caught,2B,2016
+906,1B,,Caught Stealing 2B,501981,Khris Davis,Jett Bandy,3,2,4,True,2016-06-24,Caught,2B,2016
+1345,1B,2B,Stolen Base 2B,501981,Khris Davis,Kurt Suzuki,5,3,7,False,2016-05-31,Stolen,2B,2016
+1722,1B,2B,Stolen Base 2B,501981,Khris Davis,Brian McCann,0,0,2,True,2017-06-27,Stolen,2B,2017
+1794,1B,2B,Stolen Base 2B,501981,Khris Davis,Kevan Smith,0,3,5,True,2017-06-23,Stolen,2B,2017
+2043,1B,2B,Stolen Base 2B,501981,Khris Davis,Derek Norris,5,4,8,True,2017-06-11,Stolen,2B,2017
+3054,2B,3B,Stolen Base 3B,501981,Khris Davis,Mike Zunino,5,3,5,False,2017-04-20,Stolen,3B,2017

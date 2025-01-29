@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+340,1B,,Caught Stealing 2B,543742,Jerry Sands,Ryan Doumit,3,1,5,False,2011-09-16,Caught,2B,2011
+3108,1B,,Caught Stealing 2B,543742,Jerry Sands,Humberto Quintero,1,1,4,True,2011-05-23,Caught,2B,2011
+3137,1B,2B,Stolen Base 2B,543742,Jerry Sands,A.J. Pierzynski,6,1,5,True,2011-05-22,Stolen,2B,2011
+3794,1B,2B,Stolen Base 2B,543742,Jerry Sands,John Buck,1,1,4,True,2011-04-25,Stolen,2B,2011
+3856,1B,2B,Stolen Base 2B,543742,Jerry Sands,Geovany Soto,5,8,7,True,2011-04-23,Stolen,2B,2011

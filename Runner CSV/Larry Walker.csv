@@ -1,0 +1,49 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1058,1B,2B,Stolen Base 2B,123833,Larry Walker,Mike Piazza,1,4,6,True,2000-08-16,Stolen,2B,2000
+1189,2B,,Caught Stealing 3B,123833,Larry Walker,Brian Schneider,1,3,5,True,2000-08-11,Caught,3B,2000
+1196,1B,,Caught Stealing 2B,123833,Larry Walker,Mike Matheny,3,1,6,True,2000-08-10,Caught,2B,2000
+1792,1B,2B,Stolen Base 2B,123833,Larry Walker,Eddie Taubensee,0,1,1,False,2000-07-14,Stolen,2B,2000
+2022,1B,,Caught Stealing 2B,123833,Larry Walker,Carlos Hernandez,0,4,5,True,2000-06-30,Caught,2B,2000
+2074,1B,2B,Stolen Base 2B,123833,Larry Walker,Bobby Estalella,17,12,8,False,2000-06-28,Stolen,2B,2000
+2117,1B,,Caught Stealing 2B,123833,Larry Walker,Doug Mirabelli,9,5,5,False,2000-06-26,Caught,2B,2000
+3295,1B,2B,Stolen Base 2B,123833,Larry Walker,Bobby Estalella,1,0,7,True,2000-05-05,Stolen,2B,2000
+3857,1B,2B,Stolen Base 2B,123833,Larry Walker,Eddie Taubensee,0,3,1,False,2000-04-12,Stolen,2B,2000
+3890,3B,,Caught Stealing Home,123833,Larry Walker,Eddie Taubensee,5,1,5,False,2000-04-10,Caught,Home,2000
+164,1B,2B,Caught Stealing 3B,123833,Larry Walker,Chad Kreuter,1,5,7,True,2001-05-29,Caught,3B,2001
+199,1B,2B,Stolen Base 2B,123833,Larry Walker,Paul Lo Duca,3,8,5,True,2001-05-28,Stolen,2B,2001
+344,1B,2B,Stolen Base 2B,123833,Larry Walker,Chad Kreuter,6,6,6,False,2001-05-22,Stolen,2B,2001
+809,1B,2B,Stolen Base 2B,123833,Larry Walker,Jason Kendall,2,5,7,True,2001-05-04,Stolen,2B,2001
+915,2B,3B,Stolen Base 3B,123833,Larry Walker,Jason LaRue,12,7,8,False,2001-04-29,Stolen,3B,2001
+951,1B,2B,Stolen Base 2B,123833,Larry Walker,Jason LaRue,2,2,3,False,2001-04-28,Stolen,2B,2001
+1108,1B,2B,Stolen Base 2B,123833,Larry Walker,Rod Barajas,0,0,1,True,2001-04-21,Stolen,2B,2001
+867,1B,2B,Stolen Base 2B,123833,Larry Walker,Steve Torrealba,2,1,3,True,2002-08-18,Stolen,2B,2002
+975,1B,,Caught Stealing 2B,123833,Larry Walker,Mike Redmond,0,2,3,True,2002-08-13,Caught,2B,2002
+1277,2B,,Caught Stealing 3B,123833,Larry Walker,Paul Bako,3,5,5,True,2002-07-27,Caught,3B,2002
+1491,1B,2B,Stolen Base 2B,123833,Larry Walker,Chad Moeller,4,4,7,False,2002-07-18,Stolen,2B,2002
+1715,1B,,Caught Stealing 2B,123833,Larry Walker,Wiki Gonzalez,3,2,7,False,2002-07-06,Caught,2B,2002
+2215,1B,2B,Caught Stealing 3B,123833,Larry Walker,Doug Mirabelli,5,5,5,True,2002-06-12,Caught,3B,2002
+2747,1B,2B,Stolen Base 2B,123833,Larry Walker,Tom Lampkin,3,0,3,False,2002-05-21,Stolen,2B,2002
+2925,1B,2B,Stolen Base 2B,123833,Larry Walker,Mike Redmond,2,2,6,False,2002-05-14,Stolen,2B,2002
+3152,1B,2B,Stolen Base 2B,123833,Larry Walker,Mike Lieberthal,1,4,3,True,2002-05-05,Stolen,2B,2002
+3377,1B,,Caught Stealing 2B,123833,Larry Walker,Jason LaRue,1,2,5,True,2002-04-25,Caught,2B,2002
+3435,1B,2B,Stolen Base 2B,123833,Larry Walker,Jason LaRue,3,2,8,True,2002-04-23,Stolen,2B,2002
+3760,2B,,Caught Stealing 3B,123833,Larry Walker,Brad Ausmus,4,1,8,False,2002-04-10,Caught,3B,2002
+919,1B,,Caught Stealing 2B,123833,Larry Walker,Brian Schneider,6,5,8,True,2003-08-13,Caught,2B,2003
+1057,1B,2B,Stolen Base 2B,123833,Larry Walker,Mike Lieberthal,1,1,4,False,2003-08-06,Stolen,2B,2003
+1636,1B,2B,Stolen Base 2B,123833,Larry Walker,Chad Moeller,0,1,2,True,2003-07-07,Stolen,2B,2003
+2298,1B,,Caught Stealing 2B,123833,Larry Walker,Tim Laker,2,1,8,False,2003-06-04,Caught,2B,2003
+2375,1B,2B,Stolen Base 2B,123833,Larry Walker,Benito Santiago,2,0,7,True,2003-05-31,Stolen,2B,2003
+2432,1B,,Caught Stealing 2B,123833,Larry Walker,Paul Lo Duca,6,0,4,False,2003-05-28,Caught,2B,2003
+2553,1B,2B,Stolen Base 2B,123833,Larry Walker,David Ross,4,3,8,True,2003-05-22,Stolen,2B,2003
+2700,1B,2B,Stolen Base 2B,123833,Larry Walker,Michael Barrett,0,1,6,False,2003-05-15,Stolen,2B,2003
+3187,1B,2B,Stolen Base 2B,123833,Larry Walker,Mike Lieberthal,3,0,4,True,2003-04-22,Stolen,2B,2003
+3189,2B,3B,Stolen Base 3B,123833,Larry Walker,Mike Lieberthal,5,1,6,True,2003-04-22,Stolen,3B,2003
+970,1B,2B,Stolen Base 2B,123833,Larry Walker,Johnny Estrada,0,0,1,True,2004-08-13,Stolen,2B,2004
+973,1B,2B,Stolen Base 2B,123833,Larry Walker,Johnny Estrada,1,4,9,True,2004-08-13,Stolen,2B,2004
+1025,1B,2B,Stolen Base 2B,123833,Larry Walker,Paul Lo Duca,0,0,3,True,2004-08-11,Stolen,2B,2004
+1042,1B,2B,Stolen Base 2B,123833,Larry Walker,Paul Lo Duca,1,0,4,True,2004-08-10,Stolen,2B,2004
+1629,2B,3B,Stolen Base 3B,123833,Larry Walker,Humberto Quintero,3,3,6,True,2004-07-09,Stolen,3B,2004
+1753,1B,2B,Stolen Base 2B,123833,Larry Walker,Ivan Rodriguez,2,1,1,False,2004-07-02,Stolen,2B,2004
+289,1B,2B,Stolen Base 2B,123833,Larry Walker,Henry Blanco,0,1,1,True,2005-09-17,Stolen,2B,2005
+1498,2B,,Caught Stealing 3B,123833,Larry Walker,Brad Ausmus,1,1,7,False,2005-07-15,Caught,3B,2005
+2456,1B,2B,Stolen Base 2B,123833,Larry Walker,Humberto Cota,0,1,4,False,2005-05-24,Stolen,2B,2005

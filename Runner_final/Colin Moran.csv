@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1840,1B,,Caught Stealing 2B,592567,Colin Moran,450306,Jason Vargas,607732,Jacob Stallings,L,J.T. Realmuto,592663,0,0,2,True,2019-08-26,Caught,2B,2019,2020,24.2
+1,4683,1B,,Caught Stealing 2B,592567,Colin Moran,450306,Jason Vargas,607732,Jacob Stallings,L,J.T. Realmuto,592663,0,0,2,True,2019-08-26,Caught,2B,2019,2020,24.2
+2,6607,1B,,Caught Stealing 2B,592567,Colin Moran,450306,Jason Vargas,607732,Jacob Stallings,L,J.T. Realmuto,592663,0,0,2,True,2019-08-26,Caught,2B,2019,2020,24.2
+3,2291,1B,2B,Stolen Base 2B,592567,Colin Moran,506433,Yu Darvish,664789,Ka'ai Tom,R,Victor Caratini,605170,2,2,6,True,2021-05-05,Stolen,2B,2021,2022,24.2
+4,4215,1B,2B,Stolen Base 2B,592567,Colin Moran,506433,Yu Darvish,664789,Ka'ai Tom,R,Victor Caratini,605170,2,2,6,True,2021-05-05,Stolen,2B,2021,2022,24.2
+5,503,1B,,Caught Stealing 2B,592567,Colin Moran,628452,Raisel Iglesias,474568,Jordy Mercer,R,Tucker Barnhart,571466,4,7,9,False,2018-04-07,Caught,2B,2018,2019,25.3

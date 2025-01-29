@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+29,1B,2B,Stolen Base 2B,678009,Parker Meadows,Bo Naylor,3,0,7,False,2023-09-30,Stolen,2B,2023
+190,1B,2B,Stolen Base 2B,678009,Parker Meadows,Shea Langeliers,2,1,4,True,2023-09-23,Stolen,2B,2023
+228,1B,,Caught Stealing 2B,678009,Parker Meadows,Shea Langeliers,0,5,6,True,2023-09-21,Caught,2B,2023
+242,1B,2B,Stolen Base 2B,678009,Parker Meadows,Austin Barnes,1,3,7,True,2023-09-20,Stolen,2B,2023
+348,1B,2B,Stolen Base 2B,678009,Parker Meadows,Logan O'Hoppe,4,5,10,True,2023-09-16,Stolen,2B,2023
+426,1B,2B,Stolen Base 2B,678009,Parker Meadows,Luke Maile,2,4,4,False,2023-09-13,Stolen,2B,2023
+448,1B,2B,Stolen Base 2B,678009,Parker Meadows,Tyler Stephenson,5,5,9,False,2023-09-12,Stolen,2B,2023
+784,2B,3B,Stolen Base 3B,678009,Parker Meadows,Kyle Higashioka,3,0,8,False,2023-08-31,Stolen,3B,2023
+893,1B,2B,Stolen Base 2B,678009,Parker Meadows,Yainer Diaz,1,1,4,False,2023-08-26,Stolen,2B,2023

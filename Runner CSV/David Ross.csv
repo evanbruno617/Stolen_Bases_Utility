@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2136,3B,,Caught Stealing Home,424325,David Ross,Matt Wieters,0,0,3,False,2011-07-02,Caught,Home,2011
+1213,1B,2B,Stolen Base 2B,424325,David Ross,Erik Kratz,6,10,7,True,2012-08-08,Stolen,2B,2012
+2940,1B,2B,Stolen Base 2B,424325,David Ross,A.J. Pierzynski,3,3,7,True,2013-05-05,Stolen,2B,2013
+2834,1B,,Caught Stealing 2B,424325,David Ross,Robinson Chirinos,0,0,2,True,2014-05-10,Caught,2B,2014
+1626,1B,2B,Stolen Base 2B,424325,David Ross,Kevin Plawecki,0,0,2,True,2015-07-01,Stolen,2B,2015
+1374,1B,,Caught Stealing 2B,424325,David Ross,Yasmani Grandal,0,0,4,False,2016-05-30,Caught,2B,2016
+1898,1B,2B,Caught Stealing Home,424325,David Ross,Francisco Cervelli,1,6,5,True,2016-05-02,Caught,Home,2016

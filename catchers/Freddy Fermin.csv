@@ -1,0 +1,93 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,668942,Josh Rojas,679525,Alec Marsh,641487,J.P. Crawford,R,Freddy Fermin,666023,1,0,5,False,2023-08-27,Stolen,2B,2023,2024, 84.3, 0.64
+1,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,656353,Tucker Davidson,649557,Aledmys Díaz,L,Freddy Fermin,666023,0,0,1,False,2023-08-21,Stolen,3B,2023,2024, 84.3, 0.64
+2,1B,2B,Stolen Base 2B,663538,Nico Hoerner,663903,Brady Singer,664023,Ian Happ,R,Freddy Fermin,666023,0,0,1,False,2023-08-19,Stolen,2B,2023,2024, 84.3, 0.64
+3,2B,3B,Stolen Base 3B,663538,Nico Hoerner,663903,Brady Singer,621020,Dansby Swanson,R,Freddy Fermin,666023,6,1,4,False,2023-08-19,Stolen,3B,2023,2024, 84.3, 0.64
+4,1B,2B,Stolen Base 2B,664023,Ian Happ,663903,Brady Singer,621020,Dansby Swanson,R,Freddy Fermin,666023,6,1,4,False,2023-08-19,Stolen,2B,2023,2024, 84.3, 0.64
+5,3B,,Caught Stealing Home,666624,Christopher Morel,666142,Cole Ragans,664023,Ian Happ,L,Freddy Fermin,666023,3,2,4,False,2023-08-18,Caught,Home,2023,2024, 84.3, 0.64
+6,1B,2B,Stolen Base 2B,687799,Cade Marlowe,666721,Max Castillo,686527,Dominic Canzone,R,Freddy Fermin,666023,1,1,6,True,2023-08-17,Stolen,2B,2023,2024, 84.3, 0.64
+7,1B,,Caught Stealing 2B,677594,Julio Rodríguez,543475,Jordan Lyles,664034,Ty France,R,Freddy Fermin,666023,0,0,1,True,2023-08-15,Caught,2B,2023,2024, 84.3, 0.64
+8,2B,3B,Stolen Base 3B,676609,José Caballero,669395,Dylan Coleman,677594,Julio Rodríguez,R,Freddy Fermin,666023,5,8,8,True,2023-08-15,Stolen,3B,2023,2024, 84.3, 0.64
+9,1B,,Caught Stealing 2B,596115,Trevor Story,679525,Alec Marsh,680776,Jarren Duran,R,Freddy Fermin,666023,2,0,6,False,2023-08-10,Caught,2B,2023,2024, 84.3, 0.64
+10,1B,,Caught Stealing 2B,622569,Pablo Reyes,543475,Jordan Lyles,680776,Jarren Duran,R,Freddy Fermin,666023,1,1,3,False,2023-08-09,Caught,2B,2023,2024, 84.3, 0.64
+11,1B,2B,Stolen Base 2B,622569,Pablo Reyes,666142,Cole Ragans,657136,Connor Wong,L,Freddy Fermin,666023,0,0,3,False,2023-08-07,Stolen,2B,2023,2024, 84.3, 0.64
+12,1B,2B,Stolen Base 2B,665926,Andrés Giménez,679525,Alec Marsh,608070,José Ramírez,R,Freddy Fermin,666023,2,0,1,False,2023-07-26,Stolen,2B,2023,2024, 84.3, 0.64
+13,1B,2B,Stolen Base 2B,672356,Gabriel Arias,679525,Alec Marsh,664702,Myles Straw,R,Freddy Fermin,666023,2,0,2,False,2023-07-26,Stolen,2B,2023,2024, 84.3, 0.64
+14,1B,2B,Stolen Base 2B,608070,José Ramírez,679525,Alec Marsh,647304,Josh Naylor,R,Freddy Fermin,666023,3,0,2,False,2023-07-26,Stolen,2B,2023,2024, 84.3, 0.64
+15,1B,2B,Stolen Base 2B,686823,Will Brennan,669169,Jonathan Heasley,681807,David Fry,R,Freddy Fermin,666023,7,0,4,False,2023-07-26,Stolen,2B,2023,2024, 84.3, 0.64
+16,1B,,Caught Stealing 2B,656185,Greg Allen,664199,Taylor Clarke,519317,Giancarlo Stanton,R,Freddy Fermin,666023,5,3,7,False,2023-07-23,Caught,2B,2023,2024, 84.3, 0.64
+17,1B,2B,Stolen Base 2B,595879,Javier Báez,663738,Daniel Lynch IV,408234,Miguel Cabrera,L,Freddy Fermin,666023,0,2,2,True,2023-07-18,Stolen,2B,2023,2024, 84.3, 0.64
+18,1B,2B,Stolen Base 2B,595879,Javier Báez,663738,Daniel Lynch IV,408234,Miguel Cabrera,L,Freddy Fermin,666023,2,2,4,True,2023-07-18,Stolen,2B,2023,2024, 84.3, 0.64
+19,1B,,Caught Stealing 2B,677551,Wander Franco,666142,Cole Ragans,623912,Harold Ramírez,L,Freddy Fermin,666023,0,0,1,True,2023-07-15,Caught,2B,2023,2024, 84.3, 0.64
+20,1B,2B,Stolen Base 2B,671289,Tyler Freeman,642232,Ryan Yarbrough,664702,Myles Straw,L,Freddy Fermin,666023,0,0,2,False,2023-07-09,Stolen,2B,2023,2024, 84.3, 0.64
+21,1B,2B,Stolen Base 2B,665926,Andrés Giménez,676092,Collin Snider,605137,Josh Bell,R,Freddy Fermin,666023,7,3,6,False,2023-07-08,Stolen,2B,2023,2024, 84.3, 0.64
+22,1B,2B,Stolen Base 2B,650489,Willi Castro,680735,Austin Cox,572191,Michael A. Taylor,L,Freddy Fermin,666023,2,1,2,False,2023-07-03,Stolen,2B,2023,2024, 84.3, 0.64
+23,1B,2B,Stolen Base 2B,650489,Willi Castro,621016,Jose Cuas,608336,Joey Gallo,R,Freddy Fermin,666023,3,2,6,False,2023-07-03,Stolen,2B,2023,2024, 84.3, 0.64
+24,1B,2B,Stolen Base 2B,518692,Freddie Freeman,679525,Alec Marsh,571970,Max Muncy,R,Freddy Fermin,666023,0,2,3,True,2023-06-30,Stolen,2B,2023,2024, 84.3, 0.64
+25,1B,,Caught Stealing 2B,518792,Jason Heyward,621295,Nick Wittgren,681546,James Outman,R,Freddy Fermin,666023,3,6,7,True,2023-06-30,Caught,2B,2023,2024, 84.3, 0.64
+26,1B,2B,Stolen Base 2B,608070,José Ramírez,663903,Brady Singer,605137,Josh Bell,R,Freddy Fermin,666023,0,0,4,True,2023-06-27,Stolen,2B,2023,2024, 84.3, 0.64
+27,2B,3B,Stolen Base 3B,660644,Vidal Bruján,543475,Jordan Lyles,650490,Yandy Díaz,R,Freddy Fermin,666023,2,0,2,False,2023-06-24,Stolen,3B,2023,2024, 84.3, 0.64
+28,1B,2B,Stolen Base 2B,660644,Vidal Bruján,543475,Jordan Lyles,677551,Wander Franco,R,Freddy Fermin,666023,4,7,4,False,2023-06-24,Stolen,2B,2023,2024, 84.3, 0.64
+29,1B,,Caught Stealing 2B,650859,Luis Rengifo,621139,Brooks Kriske,623205,Andrew Velazquez,R,Freddy Fermin,666023,2,5,9,True,2023-06-18,Caught,2B,2023,2024, 84.3, 0.64
+30,1B,,Caught Stealing 2B,623205,Andrew Velazquez,621139,Brooks Kriske,621493,Taylor Ward,R,Freddy Fermin,666023,2,5,9,True,2023-06-18,Caught,2B,2023,2024, 84.3, 0.64
+31,1B,,Caught Stealing 2B,592273,Brandon Drury,663903,Brady Singer,642136,Matt Thaiss,R,Freddy Fermin,666023,0,1,1,True,2023-06-16,Caught,2B,2023,2024, 84.3, 0.64
+32,2B,,Caught Stealing 3B,666160,Mickey Moniak,663903,Brady Singer,545361,Mike Trout,R,Freddy Fermin,666023,0,1,3,True,2023-06-16,Caught,3B,2023,2024, 84.3, 0.64
+33,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,680735,Austin Cox,666160,Mickey Moniak,L,Freddy Fermin,666023,0,3,8,True,2023-06-16,Stolen,2B,2023,2024, 84.3, 0.64
+34,1B,2B,Stolen Base 2B,686759,TJ Hopkins,663738,Daniel Lynch IV,676480,Jose Barrero,L,Freddy Fermin,666023,1,3,5,True,2023-06-14,Stolen,2B,2023,2024, 84.3, 0.64
+35,1B,2B,Stolen Base 2B,656448,Stone Garrett,621016,Jose Cuas,642086,Dominic Smith,R,Freddy Fermin,666023,8,12,8,True,2023-05-26,Stolen,2B,2023,2024, 84.3, 0.64
+36,1B,2B,Stolen Base 2B,642715,Willy Adames,657031,Josh Taylor,592885,Christian Yelich,L,Freddy Fermin,666023,1,0,1,False,2023-05-12,Stolen,2B,2023,2024, 84.3, 0.64
+37,1B,2B,Stolen Base 2B,592885,Christian Yelich,657031,Josh Taylor,605119,Brian Anderson,L,Freddy Fermin,666023,1,0,1,False,2023-05-12,Stolen,2B,2023,2024, 84.3, 0.64
+38,1B,2B,Stolen Base 2B,572228,Luke Voit,666721,Max Castillo,642133,Rowdy Tellez,R,Freddy Fermin,666023,3,0,6,False,2023-05-12,Stolen,2B,2023,2024, 84.3, 0.64
+39,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,663903,Brady Singer,676116,Ryan Noda,R,Freddy Fermin,666023,1,2,2,True,2023-05-06,Stolen,2B,2023,2024, 84.3, 0.64
+40,2B,3B,Stolen Base 3B,624428,Adam Frazier,547973,Aroldis Chapman,622761,Jorge Mateo,L,Freddy Fermin,666023,9,8,8,True,2023-05-04,Stolen,3B,2023,2024, 84.3, 0.64
+41,1B,2B,Stolen Base 2B,622761,Jorge Mateo,547973,Aroldis Chapman,602104,Ramón Urías,L,Freddy Fermin,666023,9,10,8,True,2023-05-04,Stolen,2B,2023,2024, 84.3, 0.64
+42,1B,2B,Stolen Base 2B,602104,Ramón Urías,547973,Aroldis Chapman,656775,Cedric Mullins,L,Freddy Fermin,666023,9,10,8,True,2023-05-04,Stolen,2B,2023,2024, 84.3, 0.64
+43,2B,3B,Stolen Base 3B,602104,Ramón Urías,547973,Aroldis Chapman,656775,Cedric Mullins,L,Freddy Fermin,666023,9,10,8,True,2023-05-04,Stolen,3B,2023,2024, 84.3, 0.64
+44,1B,2B,Stolen Base 2B,543510,James McCann,622251,Josh Staumont,668939,Adley Rutschman,R,Freddy Fermin,666023,9,13,9,True,2023-05-04,Stolen,2B,2023,2024, 84.3, 0.64
+45,1B,,Caught Stealing 2B,682998,Corbin Carroll,642232,Ryan Yarbrough,605113,Nick Ahmed,L,Freddy Fermin,666023,0,0,2,False,2023-04-26,Caught,2B,2023,2024, 84.3, 0.64
+46,1B,2B,Stolen Base 2B,668942,Josh Rojas,679525,Alec Marsh,641487,J.P. Crawford,R,Freddy Fermin,666023,1,0,5,False,2023-08-27,Stolen,2B,2023,2024, 84.3, 0.64
+47,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,656353,Tucker Davidson,649557,Aledmys Díaz,L,Freddy Fermin,666023,0,0,1,False,2023-08-21,Stolen,3B,2023,2024, 84.3, 0.64
+48,1B,2B,Stolen Base 2B,663538,Nico Hoerner,663903,Brady Singer,664023,Ian Happ,R,Freddy Fermin,666023,0,0,1,False,2023-08-19,Stolen,2B,2023,2024, 84.3, 0.64
+49,2B,3B,Stolen Base 3B,663538,Nico Hoerner,663903,Brady Singer,621020,Dansby Swanson,R,Freddy Fermin,666023,6,1,4,False,2023-08-19,Stolen,3B,2023,2024, 84.3, 0.64
+50,1B,2B,Stolen Base 2B,664023,Ian Happ,663903,Brady Singer,621020,Dansby Swanson,R,Freddy Fermin,666023,6,1,4,False,2023-08-19,Stolen,2B,2023,2024, 84.3, 0.64
+51,3B,,Caught Stealing Home,666624,Christopher Morel,666142,Cole Ragans,664023,Ian Happ,L,Freddy Fermin,666023,3,2,4,False,2023-08-18,Caught,Home,2023,2024, 84.3, 0.64
+52,1B,2B,Stolen Base 2B,687799,Cade Marlowe,666721,Max Castillo,686527,Dominic Canzone,R,Freddy Fermin,666023,1,1,6,True,2023-08-17,Stolen,2B,2023,2024, 84.3, 0.64
+53,1B,,Caught Stealing 2B,677594,Julio Rodríguez,543475,Jordan Lyles,664034,Ty France,R,Freddy Fermin,666023,0,0,1,True,2023-08-15,Caught,2B,2023,2024, 84.3, 0.64
+54,2B,3B,Stolen Base 3B,676609,José Caballero,669395,Dylan Coleman,677594,Julio Rodríguez,R,Freddy Fermin,666023,5,8,8,True,2023-08-15,Stolen,3B,2023,2024, 84.3, 0.64
+55,1B,,Caught Stealing 2B,596115,Trevor Story,679525,Alec Marsh,680776,Jarren Duran,R,Freddy Fermin,666023,2,0,6,False,2023-08-10,Caught,2B,2023,2024, 84.3, 0.64
+56,1B,,Caught Stealing 2B,622569,Pablo Reyes,543475,Jordan Lyles,680776,Jarren Duran,R,Freddy Fermin,666023,1,1,3,False,2023-08-09,Caught,2B,2023,2024, 84.3, 0.64
+57,1B,2B,Stolen Base 2B,622569,Pablo Reyes,666142,Cole Ragans,657136,Connor Wong,L,Freddy Fermin,666023,0,0,3,False,2023-08-07,Stolen,2B,2023,2024, 84.3, 0.64
+58,1B,2B,Stolen Base 2B,665926,Andrés Giménez,679525,Alec Marsh,608070,José Ramírez,R,Freddy Fermin,666023,2,0,1,False,2023-07-26,Stolen,2B,2023,2024, 84.3, 0.64
+59,1B,2B,Stolen Base 2B,672356,Gabriel Arias,679525,Alec Marsh,664702,Myles Straw,R,Freddy Fermin,666023,2,0,2,False,2023-07-26,Stolen,2B,2023,2024, 84.3, 0.64
+60,1B,2B,Stolen Base 2B,608070,José Ramírez,679525,Alec Marsh,647304,Josh Naylor,R,Freddy Fermin,666023,3,0,2,False,2023-07-26,Stolen,2B,2023,2024, 84.3, 0.64
+61,1B,2B,Stolen Base 2B,686823,Will Brennan,669169,Jonathan Heasley,681807,David Fry,R,Freddy Fermin,666023,7,0,4,False,2023-07-26,Stolen,2B,2023,2024, 84.3, 0.64
+62,1B,,Caught Stealing 2B,656185,Greg Allen,664199,Taylor Clarke,519317,Giancarlo Stanton,R,Freddy Fermin,666023,5,3,7,False,2023-07-23,Caught,2B,2023,2024, 84.3, 0.64
+63,1B,2B,Stolen Base 2B,595879,Javier Báez,663738,Daniel Lynch IV,408234,Miguel Cabrera,L,Freddy Fermin,666023,0,2,2,True,2023-07-18,Stolen,2B,2023,2024, 84.3, 0.64
+64,1B,2B,Stolen Base 2B,595879,Javier Báez,663738,Daniel Lynch IV,408234,Miguel Cabrera,L,Freddy Fermin,666023,2,2,4,True,2023-07-18,Stolen,2B,2023,2024, 84.3, 0.64
+65,1B,,Caught Stealing 2B,677551,Wander Franco,666142,Cole Ragans,623912,Harold Ramírez,L,Freddy Fermin,666023,0,0,1,True,2023-07-15,Caught,2B,2023,2024, 84.3, 0.64
+66,1B,2B,Stolen Base 2B,671289,Tyler Freeman,642232,Ryan Yarbrough,664702,Myles Straw,L,Freddy Fermin,666023,0,0,2,False,2023-07-09,Stolen,2B,2023,2024, 84.3, 0.64
+67,1B,2B,Stolen Base 2B,665926,Andrés Giménez,676092,Collin Snider,605137,Josh Bell,R,Freddy Fermin,666023,7,3,6,False,2023-07-08,Stolen,2B,2023,2024, 84.3, 0.64
+68,1B,2B,Stolen Base 2B,650489,Willi Castro,680735,Austin Cox,572191,Michael A. Taylor,L,Freddy Fermin,666023,2,1,2,False,2023-07-03,Stolen,2B,2023,2024, 84.3, 0.64
+69,1B,2B,Stolen Base 2B,650489,Willi Castro,621016,Jose Cuas,608336,Joey Gallo,R,Freddy Fermin,666023,3,2,6,False,2023-07-03,Stolen,2B,2023,2024, 84.3, 0.64
+70,1B,2B,Stolen Base 2B,518692,Freddie Freeman,679525,Alec Marsh,571970,Max Muncy,R,Freddy Fermin,666023,0,2,3,True,2023-06-30,Stolen,2B,2023,2024, 84.3, 0.64
+71,1B,,Caught Stealing 2B,518792,Jason Heyward,621295,Nick Wittgren,681546,James Outman,R,Freddy Fermin,666023,3,6,7,True,2023-06-30,Caught,2B,2023,2024, 84.3, 0.64
+72,1B,2B,Stolen Base 2B,608070,José Ramírez,663903,Brady Singer,605137,Josh Bell,R,Freddy Fermin,666023,0,0,4,True,2023-06-27,Stolen,2B,2023,2024, 84.3, 0.64
+73,2B,3B,Stolen Base 3B,660644,Vidal Bruján,543475,Jordan Lyles,650490,Yandy Díaz,R,Freddy Fermin,666023,2,0,2,False,2023-06-24,Stolen,3B,2023,2024, 84.3, 0.64
+74,1B,2B,Stolen Base 2B,660644,Vidal Bruján,543475,Jordan Lyles,677551,Wander Franco,R,Freddy Fermin,666023,4,7,4,False,2023-06-24,Stolen,2B,2023,2024, 84.3, 0.64
+75,1B,,Caught Stealing 2B,650859,Luis Rengifo,621139,Brooks Kriske,623205,Andrew Velazquez,R,Freddy Fermin,666023,2,5,9,True,2023-06-18,Caught,2B,2023,2024, 84.3, 0.64
+76,1B,,Caught Stealing 2B,623205,Andrew Velazquez,621139,Brooks Kriske,621493,Taylor Ward,R,Freddy Fermin,666023,2,5,9,True,2023-06-18,Caught,2B,2023,2024, 84.3, 0.64
+77,1B,,Caught Stealing 2B,592273,Brandon Drury,663903,Brady Singer,642136,Matt Thaiss,R,Freddy Fermin,666023,0,1,1,True,2023-06-16,Caught,2B,2023,2024, 84.3, 0.64
+78,2B,,Caught Stealing 3B,666160,Mickey Moniak,663903,Brady Singer,545361,Mike Trout,R,Freddy Fermin,666023,0,1,3,True,2023-06-16,Caught,3B,2023,2024, 84.3, 0.64
+79,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,680735,Austin Cox,666160,Mickey Moniak,L,Freddy Fermin,666023,0,3,8,True,2023-06-16,Stolen,2B,2023,2024, 84.3, 0.64
+80,1B,2B,Stolen Base 2B,686759,TJ Hopkins,663738,Daniel Lynch IV,676480,Jose Barrero,L,Freddy Fermin,666023,1,3,5,True,2023-06-14,Stolen,2B,2023,2024, 84.3, 0.64
+81,1B,2B,Stolen Base 2B,656448,Stone Garrett,621016,Jose Cuas,642086,Dominic Smith,R,Freddy Fermin,666023,8,12,8,True,2023-05-26,Stolen,2B,2023,2024, 84.3, 0.64
+82,1B,2B,Stolen Base 2B,642715,Willy Adames,657031,Josh Taylor,592885,Christian Yelich,L,Freddy Fermin,666023,1,0,1,False,2023-05-12,Stolen,2B,2023,2024, 84.3, 0.64
+83,1B,2B,Stolen Base 2B,592885,Christian Yelich,657031,Josh Taylor,605119,Brian Anderson,L,Freddy Fermin,666023,1,0,1,False,2023-05-12,Stolen,2B,2023,2024, 84.3, 0.64
+84,1B,2B,Stolen Base 2B,572228,Luke Voit,666721,Max Castillo,642133,Rowdy Tellez,R,Freddy Fermin,666023,3,0,6,False,2023-05-12,Stolen,2B,2023,2024, 84.3, 0.64
+85,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,663903,Brady Singer,676116,Ryan Noda,R,Freddy Fermin,666023,1,2,2,True,2023-05-06,Stolen,2B,2023,2024, 84.3, 0.64
+86,2B,3B,Stolen Base 3B,624428,Adam Frazier,547973,Aroldis Chapman,622761,Jorge Mateo,L,Freddy Fermin,666023,9,8,8,True,2023-05-04,Stolen,3B,2023,2024, 84.3, 0.64
+87,1B,2B,Stolen Base 2B,622761,Jorge Mateo,547973,Aroldis Chapman,602104,Ramón Urías,L,Freddy Fermin,666023,9,10,8,True,2023-05-04,Stolen,2B,2023,2024, 84.3, 0.64
+88,1B,2B,Stolen Base 2B,602104,Ramón Urías,547973,Aroldis Chapman,656775,Cedric Mullins,L,Freddy Fermin,666023,9,10,8,True,2023-05-04,Stolen,2B,2023,2024, 84.3, 0.64
+89,2B,3B,Stolen Base 3B,602104,Ramón Urías,547973,Aroldis Chapman,656775,Cedric Mullins,L,Freddy Fermin,666023,9,10,8,True,2023-05-04,Stolen,3B,2023,2024, 84.3, 0.64
+90,1B,2B,Stolen Base 2B,543510,James McCann,622251,Josh Staumont,668939,Adley Rutschman,R,Freddy Fermin,666023,9,13,9,True,2023-05-04,Stolen,2B,2023,2024, 84.3, 0.64
+91,1B,,Caught Stealing 2B,682998,Corbin Carroll,642232,Ryan Yarbrough,605113,Nick Ahmed,L,Freddy Fermin,666023,0,0,2,False,2023-04-26,Caught,2B,2023,2024, 84.3, 0.64

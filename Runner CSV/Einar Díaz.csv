@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+407,1B,2B,Stolen Base 2B,113330,Einar Díaz,Jason Varitek,3,1,4,False,2000-09-13,Stolen,2B,2000
+634,1B,,Caught Stealing 2B,113330,Einar Díaz,John Flaherty,2,0,6,False,2000-09-04,Caught,2B,2000
+745,1B,2B,Stolen Base 2B,113330,Einar Díaz,Bill Haselman,1,5,8,True,2000-08-30,Stolen,2B,2000
+2582,1B,,Caught Stealing 2B,113330,Einar Díaz,Tyler Houston,0,1,2,True,2000-06-05,Caught,2B,2000
+3164,1B,2B,Stolen Base 2B,113330,Einar Díaz,Brian Johnson,1,0,3,False,2000-05-12,Stolen,2B,2000
+3355,1B,2B,Stolen Base 2B,113330,Einar Díaz,Jorge Posada,3,1,4,False,2000-05-03,Stolen,2B,2000
+945,3B,score,Caught Stealing 2B,113330,Einar Díaz,Doug Mirabelli,1,1,3,False,2001-04-28,Caught,2B,2001
+2361,1B,,Caught Stealing 2B,113330,Einar Díaz,Tom Prince,2,6,8,True,2002-06-05,Caught,2B,2002
+1455,2B,3B,Stolen Base 3B,113330,Einar Díaz,Javier Valentin,3,4,4,True,2003-07-19,Stolen,3B,2003
+2420,1B,2B,Stolen Base 2B,113330,Einar Díaz,Brook Fordyce,4,8,9,True,2003-05-29,Stolen,2B,2003
+2965,1B,,Caught Stealing 2B,113330,Einar Díaz,Tim Laker,5,6,9,True,2003-05-03,Caught,2B,2003
+3338,1B,2B,Stolen Base 2B,113330,Einar Díaz,Bengie Molina,4,0,7,False,2003-04-14,Stolen,2B,2003
+551,2B,3B,Stolen Base 3B,113330,Einar Díaz,Johnny Estrada,0,9,6,False,2004-09-04,Stolen,3B,2004
+903,1B,2B,Stolen Base 2B,113330,Einar Díaz,A.J. Pierzynski,5,4,6,True,2004-08-16,Stolen,2B,2004

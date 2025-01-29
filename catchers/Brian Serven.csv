@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,608701,Rob Refsnyder,596295,Austin Gomber,457759,Justin Turner,L,Brian Serven,661531,0,0,1,False,2023-06-14,Stolen,2B,2023,2024, 81.8, 0.67
+1,2B,,Caught Stealing 3B,665926,Andrés Giménez,608566,Germán Márquez,686823,Will Brennan,R,Brian Serven,661531,2,0,2,False,2023-04-26,Caught,3B,2023,2024, 81.8, 0.67
+2,2B,3B,Stolen Base 3B,680757,Steven Kwan,543272,Brad Hand,608070,José Ramírez,L,Brian Serven,661531,3,1,7,False,2023-04-26,Stolen,3B,2023,2024, 81.8, 0.67
+3,1B,2B,Stolen Base 2B,642708,Amed Rosario,543272,Brad Hand,608070,José Ramírez,L,Brian Serven,661531,3,1,7,False,2023-04-26,Stolen,2B,2023,2024, 81.8, 0.67
+4,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,570632,José Ureña,664761,Alec Bohm,R,Brian Serven,661531,1,0,2,False,2023-04-23,Stolen,2B,2023,2024, 81.8, 0.67
+5,2B,,Caught Stealing 3B,592663,J.T. Realmuto,570632,José Ureña,665019,Kody Clemens,R,Brian Serven,661531,1,0,2,False,2023-04-23,Caught,3B,2023,2024, 81.8, 0.67
+6,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,570632,José Ureña,664761,Alec Bohm,R,Brian Serven,661531,4,3,4,False,2023-04-23,Stolen,2B,2023,2024, 81.8, 0.67
+7,1B,2B,Stolen Base 2B,608701,Rob Refsnyder,596295,Austin Gomber,457759,Justin Turner,L,Brian Serven,661531,0,0,1,False,2023-06-14,Stolen,2B,2023,2024, 81.8, 0.67
+8,2B,,Caught Stealing 3B,665926,Andrés Giménez,608566,Germán Márquez,686823,Will Brennan,R,Brian Serven,661531,2,0,2,False,2023-04-26,Caught,3B,2023,2024, 81.8, 0.67
+9,2B,3B,Stolen Base 3B,680757,Steven Kwan,543272,Brad Hand,608070,José Ramírez,L,Brian Serven,661531,3,1,7,False,2023-04-26,Stolen,3B,2023,2024, 81.8, 0.67
+10,1B,2B,Stolen Base 2B,642708,Amed Rosario,543272,Brad Hand,608070,José Ramírez,L,Brian Serven,661531,3,1,7,False,2023-04-26,Stolen,2B,2023,2024, 81.8, 0.67
+11,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,570632,José Ureña,664761,Alec Bohm,R,Brian Serven,661531,1,0,2,False,2023-04-23,Stolen,2B,2023,2024, 81.8, 0.67
+12,2B,,Caught Stealing 3B,592663,J.T. Realmuto,570632,José Ureña,665019,Kody Clemens,R,Brian Serven,661531,1,0,2,False,2023-04-23,Caught,3B,2023,2024, 81.8, 0.67
+13,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,570632,José Ureña,664761,Alec Bohm,R,Brian Serven,661531,4,3,4,False,2023-04-23,Stolen,2B,2023,2024, 81.8, 0.67

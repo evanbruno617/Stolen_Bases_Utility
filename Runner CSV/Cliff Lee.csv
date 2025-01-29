@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3168,1B,2B,Stolen Base 2B,424324,Cliff Lee,Mike Napoli,1,0,5,False,2011-05-21,Stolen,2B,2011
+1429,1B,2B,Stolen Base 2B,424324,Cliff Lee,Jesus Flores,0,6,4,True,2012-07-31,Stolen,2B,2012
+3149,1B,,Caught Stealing 2B,424324,Cliff Lee,Michael McKenry,1,0,5,False,2013-04-25,Caught,2B,2013

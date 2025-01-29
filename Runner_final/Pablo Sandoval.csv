@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3613,2B,3B,Stolen Base 3B,467055,Pablo Sandoval,543101,Anthony DeSclafani,595222,Mike Gerber,R,Curt Casali,592200,5,1,2,True,2019-05-06,Stolen,3B,2019,2020,24.0
+1,6456,2B,3B,Stolen Base 3B,467055,Pablo Sandoval,543101,Anthony DeSclafani,595222,Mike Gerber,R,Curt Casali,592200,5,1,2,True,2019-05-06,Stolen,3B,2019,2020,24.0
+2,8380,2B,3B,Stolen Base 3B,467055,Pablo Sandoval,543101,Anthony DeSclafani,595222,Mike Gerber,R,Curt Casali,592200,5,1,2,True,2019-05-06,Stolen,3B,2019,2020,24.0
+3,3736,1B,,Caught Stealing 2B,467055,Pablo Sandoval,573186,Marcus Stroman,543877,Christian Vázquez,R,Russell Martin,431145,3,3,4,True,2017-04-18,Caught,2B,2017,2018,25.0
+4,3108,1B,,Caught Stealing 2B,467055,Pablo Sandoval,573186,Marcus Stroman,543877,Christian Vázquez,R,Russell Martin,431145,3,3,4,True,2017-04-18,Caught,2B,2017,2018,25.0

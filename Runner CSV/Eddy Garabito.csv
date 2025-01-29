@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1671,1B,,Caught Stealing 2B,408199,Eddy Garabito,Jason Phillips,3,0,6,False,2005-07-04,Caught,2B,2005
+2040,1B,2B,Stolen Base 2B,408199,Eddy Garabito,Victor Martinez,0,0,1,True,2005-06-16,Stolen,2B,2005
+2097,1B,2B,Stolen Base 2B,408199,Eddy Garabito,Vance Wilson,7,2,6,False,2005-06-12,Stolen,2B,2005
+2155,1B,2B,Stolen Base 2B,408199,Eddy Garabito,Chris Widger,4,11,8,False,2005-06-08,Stolen,2B,2005

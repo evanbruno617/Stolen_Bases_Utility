@@ -1,0 +1,2 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,119,1B,,Caught Stealing 2B,543309,Kyle Higashioka,676710,Kutter Crawford,592450,Aaron Judge,R,Christian Vázquez,543877,1,1,5,True,2022-07-09,Caught,2B,2022,2023,25.6

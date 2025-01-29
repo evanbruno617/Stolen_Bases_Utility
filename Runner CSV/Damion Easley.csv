@@ -1,0 +1,37 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+610,1B,2B,Stolen Base 2B,113702,Damion Easley,Bengie Molina,0,0,1,False,2000-09-04,Stolen,2B,2000
+684,2B,3B,Stolen Base 3B,113702,Damion Easley,Bill Haselman,2,1,5,False,2000-09-02,Stolen,3B,2000
+1120,2B,,Caught Stealing 3B,113702,Damion Easley,Sal Fasano,0,2,3,True,2000-08-13,Caught,3B,2000
+1202,1B,2B,Stolen Base 2B,113702,Damion Easley,Greg Myers,1,0,2,False,2000-08-10,Stolen,2B,2000
+1203,1B,2B,Stolen Base 2B,113702,Damion Easley,Greg Myers,6,2,5,False,2000-08-10,Stolen,2B,2000
+1383,1B,2B,Stolen Base 2B,113702,Damion Easley,Matt Walbeck,0,0,1,True,2000-08-02,Stolen,2B,2000
+1503,1B,2B,Stolen Base 2B,113702,Damion Easley,Bill Haselman,2,3,3,True,2000-07-28,Stolen,2B,2000
+1640,1B,2B,Stolen Base 2B,113702,Damion Easley,Gregg Zaun,0,0,3,False,2000-07-22,Stolen,2B,2000
+1661,1B,2B,Stolen Base 2B,113702,Damion Easley,Gregg Zaun,0,1,1,False,2000-07-21,Stolen,2B,2000
+1748,1B,2B,Stolen Base 2B,113702,Damion Easley,Eddie Taubensee,1,0,2,False,2000-07-17,Stolen,2B,2000
+1769,1B,2B,Stolen Base 2B,113702,Damion Easley,Eddie Taubensee,4,1,4,False,2000-07-16,Stolen,2B,2000
+1944,1B,2B,Stolen Base 2B,113702,Damion Easley,John Flaherty,0,3,1,True,2000-07-04,Stolen,2B,2000
+1992,1B,2B,Stolen Base 2B,113702,Damion Easley,Jorge Fabregas,0,1,2,True,2000-07-02,Stolen,2B,2000
+2382,1B,,Caught Stealing 2B,113702,Damion Easley,Alberto Castillo,0,0,1,False,2000-06-14,Caught,2B,2000
+3394,1B,2B,Stolen Base 2B,113702,Damion Easley,Jason Varitek,4,4,3,True,2000-05-02,Stolen,2B,2000
+3545,1B,,Caught Stealing 2B,113702,Damion Easley,Matt Walbeck,2,3,9,True,2000-04-25,Caught,2B,2000
+218,1B,2B,Stolen Base 2B,113702,Damion Easley,Einar Díaz,10,5,4,False,2001-05-28,Stolen,2B,2001
+720,1B,2B,Caught Stealing 3B,113702,Damion Easley,Doug Mirabelli,2,2,4,False,2001-05-08,Caught,3B,2001
+762,1B,,Caught Stealing 2B,113702,Damion Easley,Jorge Fabregas,2,4,4,True,2001-05-05,Caught,2B,2001
+971,1B,,Caught Stealing 2B,113702,Damion Easley,John Flaherty,1,1,2,False,2001-04-28,Caught,2B,2001
+992,1B,2B,Stolen Base 2B,113702,Damion Easley,John Flaherty,1,0,2,False,2001-04-27,Stolen,2B,2001
+1147,2B,,Caught Stealing 3B,113702,Damion Easley,Einar Díaz,1,1,3,True,2001-04-20,Caught,3B,2001
+1393,1B,2B,Stolen Base 2B,113702,Damion Easley,Sandy Alomar Jr.,0,4,8,True,2001-04-08,Stolen,2B,2001
+1394,2B,3B,Stolen Base 3B,113702,Damion Easley,Sandy Alomar Jr.,0,5,8,True,2001-04-08,Stolen,3B,2001
+687,1B,,Caught Stealing 2B,113702,Damion Easley,Josh Bard,0,2,3,True,2002-08-27,Caught,2B,2002
+1282,2B,,Caught Stealing 3B,113702,Damion Easley,Eddie Pérez,0,4,5,True,2002-07-27,Caught,3B,2002
+2437,1B,2B,Stolen Base 2B,113702,Damion Easley,Darrin Fletcher,5,5,6,False,2002-06-02,Stolen,2B,2002
+629,1B,2B,Stolen Base 2B,113702,Damion Easley,Jason Phillips,0,1,3,True,2004-08-31,Stolen,2B,2004
+1437,1B,2B,Stolen Base 2B,113702,Damion Easley,Mike Lieberthal,0,0,1,True,2004-07-21,Stolen,2B,2004
+2956,1B,2B,Stolen Base 2B,113702,Damion Easley,Yorvit Torrealba,5,3,4,True,2004-05-02,Stolen,2B,2004
+2995,1B,2B,Stolen Base 2B,113702,Damion Easley,A.J. Pierzynski,0,2,3,True,2004-05-01,Stolen,2B,2004
+421,1B,2B,Stolen Base 2B,113702,Damion Easley,Mike Lieberthal,6,7,9,True,2005-09-10,Stolen,2B,2005
+442,1B,2B,Stolen Base 2B,113702,Damion Easley,Mike Lieberthal,1,4,3,True,2005-09-09,Stolen,2B,2005
+454,1B,2B,Stolen Base 2B,113702,Damion Easley,Brian Schneider,1,2,4,True,2005-09-08,Stolen,2B,2005
+773,1B,,Caught Stealing 2B,113702,Damion Easley,Dioner Navarro,0,0,1,False,2005-08-22,Caught,2B,2005
+2994,1B,2B,Stolen Base 2B,113702,Damion Easley,Mike Lieberthal,1,5,7,True,2005-04-29,Stolen,2B,2005

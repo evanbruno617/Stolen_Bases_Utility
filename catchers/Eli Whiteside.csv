@@ -1,0 +1,11 @@
+Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1B,2B,Stolen Base 2B,457705,Andrew McCutchen,475243,Travis Wood,467798,Jose Tabata,L,Eli Whiteside,434630,0,1,4,True,2014-06-21,Stolen,2B
+1B,2B,Stolen Base 2B,519184,Ben Revere,475243,Travis Wood,400284,Chase Utley,L,Eli Whiteside,434630,0,1,1,False,2014-06-15,Stolen,2B
+1B,2B,Stolen Base 2B,276519,Jimmy Rollins,429719,Edwin Jackson,407781,Marlon Byrd,R,Eli Whiteside,434630,4,3,5,False,2014-06-14,Stolen,2B
+1B,2B,Stolen Base 2B,431145,Russell Martin,475243,Travis Wood,474568,Jordy Mercer,L,Eli Whiteside,434630,0,2,2,False,2014-06-10,Stolen,2B
+1B,2B,Stolen Base 2B,459991,Gaby Sanchez,475243,Travis Wood,431145,Russell Martin,L,Eli Whiteside,434630,2,2,3,False,2014-06-10,Stolen,2B
+1B,2B,Stolen Base 2B,457705,Andrew McCutchen,475243,Travis Wood,467798,Jose Tabata,L,Eli Whiteside,434630,0,1,4,True,2014-06-21,Stolen,2B
+1B,2B,Stolen Base 2B,519184,Ben Revere,475243,Travis Wood,400284,Chase Utley,L,Eli Whiteside,434630,0,1,1,False,2014-06-15,Stolen,2B
+1B,2B,Stolen Base 2B,276519,Jimmy Rollins,429719,Edwin Jackson,407781,Marlon Byrd,R,Eli Whiteside,434630,4,3,5,False,2014-06-14,Stolen,2B
+1B,2B,Stolen Base 2B,431145,Russell Martin,475243,Travis Wood,474568,Jordy Mercer,L,Eli Whiteside,434630,0,2,2,False,2014-06-10,Stolen,2B
+1B,2B,Stolen Base 2B,459991,Gaby Sanchez,475243,Travis Wood,431145,Russell Martin,L,Eli Whiteside,434630,2,2,3,False,2014-06-10,Stolen,2B

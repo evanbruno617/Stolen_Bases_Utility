@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2795,1B,2B,Stolen Base 2B,132787,Dave Berg,Eddie Taubensee,1,0,3,True,2000-05-28,Stolen,2B,2000
+2812,1B,2B,Stolen Base 2B,132787,Dave Berg,Benito Santiago,6,6,9,True,2000-05-27,Stolen,2B,2000
+3537,1B,2B,Stolen Base 2B,132787,Dave Berg,Bobby Estalella,7,7,9,False,2000-04-26,Stolen,2B,2000
+830,1B,,Caught Stealing 2B,132787,Dave Berg,Brent Mayne,3,2,4,False,2002-08-20,Caught,2B,2002
+1135,1B,,Caught Stealing 2B,132787,Dave Berg,Brook Fordyce,4,4,6,False,2002-08-04,Caught,2B,2002
+204,1B,,Caught Stealing 2B,132787,Dave Berg,Brook Fordyce,0,2,5,True,2003-09-19,Caught,2B,2003
+2457,1B,,Caught Stealing 2B,132787,Dave Berg,Ken Huckaby,3,2,7,False,2004-05-29,Caught,2B,2004

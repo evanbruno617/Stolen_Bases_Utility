@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3427,1B,2B,Caught Stealing 3B,429666,J.J. Hardy,Michael Barrett,2,1,2,True,2005-04-08,Caught,3B,2005
+49,1B,2B,Stolen Base 2B,429666,J.J. Hardy,Josh Bard,2,0,1,False,2007-09-28,Stolen,2B,2007
+317,1B,2B,Stolen Base 2B,429666,J.J. Hardy,Javier Valentin,0,0,2,False,2007-09-16,Stolen,2B,2007
+3222,3B,,Caught Stealing Home,429666,J.J. Hardy,Ronny Paulino,1,0,3,False,2007-05-03,Caught,Home,2007
+1669,1B,,Caught Stealing 2B,429666,J.J. Hardy,Ryan Doumit,2,1,3,False,2008-07-04,Caught,2B,2008
+1719,1B,2B,Stolen Base 2B,429666,J.J. Hardy,Miguel Montero,1,6,4,True,2008-07-01,Stolen,2B,2008
+2576,1B,2B,Stolen Base 2B,429666,J.J. Hardy,Jesus Flores,1,0,5,True,2008-05-23,Stolen,2B,2008
+2869,2B,3B,Caught Stealing Home,429666,J.J. Hardy,Yadier Molina,3,3,8,False,2008-05-10,Caught,Home,2008
+293,1B,,Caught Stealing 2B,429666,J.J. Hardy,Ryan Doumit,0,2,8,True,2009-07-21,Caught,2B,2009
+2679,1B,,Caught Stealing 2B,429666,J.J. Hardy,Brad Ausmus,2,0,2,True,2009-04-04,Caught,2B,2009
+763,1B,,Caught Stealing 2B,429666,J.J. Hardy,Bengie Molina,0,3,2,True,2010-08-26,Caught,2B,2010
+1457,1B,2B,Stolen Base 2B,429666,J.J. Hardy,Jake Fox,2,3,6,True,2010-07-24,Stolen,2B,2010
+3420,1B,2B,Caught Stealing 3B,429666,J.J. Hardy,Jarrod Saltalamacchia,0,2,3,True,2012-05-05,Caught,3B,2012
+316,1B,2B,Stolen Base 2B,429666,J.J. Hardy,J.P. Arencibia,2,3,6,True,2013-09-14,Stolen,2B,2013
+2059,1B,2B,Stolen Base 2B,429666,J.J. Hardy,Bryan Holaday,0,2,4,True,2013-06-19,Stolen,2B,2013
+3072,1B,,Caught Stealing 2B,429666,J.J. Hardy,John Jaso,0,0,3,True,2013-04-28,Caught,2B,2013
+2348,1B,,Caught Stealing 2B,429666,J.J. Hardy,Evan Gattis,1,0,6,True,2017-05-26,Caught,2B,2017

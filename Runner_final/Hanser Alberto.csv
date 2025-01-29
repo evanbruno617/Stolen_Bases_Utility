@@ -1,0 +1,42 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,79,1B,2B,Stolen Base 2B,593643,Hanser Alberto,527048,Martín Pérez,600474,Pedro Severino,L,Christian Vázquez,543877,0,0,1,True,2020-09-24,Stolen,2B,2020,2021,26.8
+1,501,1B,2B,Stolen Base 2B,593643,Hanser Alberto,547973,Aroldis Chapman,642162,Pat Valaika,L,Gary Sánchez,596142,4,4,7,False,2020-09-04,Stolen,2B,2020,2021,26.8
+2,1114,1B,2B,Stolen Base 2B,593643,Hanser Alberto,664126,Pete Fairbanks,600524,Renato Núñez,R,Mike Zunino,572287,3,3,5,False,2020-07-31,Stolen,2B,2020,2021,26.8
+3,2922,1B,2B,Stolen Base 2B,593643,Hanser Alberto,527048,Martín Pérez,600474,Pedro Severino,L,Christian Vázquez,543877,0,0,1,True,2020-09-24,Stolen,2B,2020,2021,26.8
+4,3344,1B,2B,Stolen Base 2B,593643,Hanser Alberto,547973,Aroldis Chapman,642162,Pat Valaika,L,Gary Sánchez,596142,4,4,7,False,2020-09-04,Stolen,2B,2020,2021,26.8
+5,3957,1B,2B,Stolen Base 2B,593643,Hanser Alberto,664126,Pete Fairbanks,600524,Renato Núñez,R,Mike Zunino,572287,3,3,5,False,2020-07-31,Stolen,2B,2020,2021,26.8
+6,4846,1B,2B,Stolen Base 2B,593643,Hanser Alberto,527048,Martín Pérez,600474,Pedro Severino,L,Christian Vázquez,543877,0,0,1,True,2020-09-24,Stolen,2B,2020,2021,26.8
+7,5268,1B,2B,Stolen Base 2B,593643,Hanser Alberto,547973,Aroldis Chapman,642162,Pat Valaika,L,Gary Sánchez,596142,4,4,7,False,2020-09-04,Stolen,2B,2020,2021,26.8
+8,5881,1B,2B,Stolen Base 2B,593643,Hanser Alberto,664126,Pete Fairbanks,600524,Renato Núñez,R,Mike Zunino,572287,3,3,5,False,2020-07-31,Stolen,2B,2020,2021,26.8
+9,1411,1B,,Caught Stealing 2B,593643,Hanser Alberto,592815,Sam Tuivailala,641820,Trey Mancini,R,Tom Murphy,608596,4,3,7,False,2019-09-21,Caught,2B,2019,2020,26.8
+10,3034,1B,,Caught Stealing 2B,593643,Hanser Alberto,489119,Wade Miley,641820,Trey Mancini,L,Robinson Chirinos,455139,0,0,1,True,2019-06-09,Caught,2B,2019,2020,26.8
+11,3107,1B,2B,Stolen Base 2B,593643,Hanser Alberto,501985,Mike Minor,641820,Trey Mancini,L,Jeff Mathis,425772,1,0,3,True,2019-06-05,Stolen,2B,2019,2020,26.8
+12,3316,1B,2B,Stolen Base 2B,593643,Hanser Alberto,543766,Bryan Shaw,600474,Pedro Severino,R,Tony Wolters,547172,6,6,8,True,2019-05-24,Stolen,2B,2019,2020,26.8
+13,3378,1B,2B,Stolen Base 2B,593643,Hanser Alberto,457918,J.A. Happ,596105,Dwight Smith Jr.,L,Gary Sánchez,596142,6,1,4,False,2019-05-20,Stolen,2B,2019,2020,26.8
+14,3777,1B,2B,Stolen Base 2B,593643,Hanser Alberto,518858,Nate Jones,600474,Pedro Severino,R,James McCann,543510,4,2,7,False,2019-04-24,Stolen,2B,2019,2020,26.8
+15,4254,1B,,Caught Stealing 2B,593643,Hanser Alberto,592815,Sam Tuivailala,641820,Trey Mancini,R,Tom Murphy,608596,4,3,7,False,2019-09-21,Caught,2B,2019,2020,26.8
+16,5877,1B,,Caught Stealing 2B,593643,Hanser Alberto,489119,Wade Miley,641820,Trey Mancini,L,Robinson Chirinos,455139,0,0,1,True,2019-06-09,Caught,2B,2019,2020,26.8
+17,5950,1B,2B,Stolen Base 2B,593643,Hanser Alberto,501985,Mike Minor,641820,Trey Mancini,L,Jeff Mathis,425772,1,0,3,True,2019-06-05,Stolen,2B,2019,2020,26.8
+18,6159,1B,2B,Stolen Base 2B,593643,Hanser Alberto,543766,Bryan Shaw,600474,Pedro Severino,R,Tony Wolters,547172,6,6,8,True,2019-05-24,Stolen,2B,2019,2020,26.8
+19,6221,1B,2B,Stolen Base 2B,593643,Hanser Alberto,457918,J.A. Happ,596105,Dwight Smith Jr.,L,Gary Sánchez,596142,6,1,4,False,2019-05-20,Stolen,2B,2019,2020,26.8
+20,6620,1B,2B,Stolen Base 2B,593643,Hanser Alberto,518858,Nate Jones,600474,Pedro Severino,R,James McCann,543510,4,2,7,False,2019-04-24,Stolen,2B,2019,2020,26.8
+21,6178,1B,,Caught Stealing 2B,593643,Hanser Alberto,592815,Sam Tuivailala,641820,Trey Mancini,R,Tom Murphy,608596,4,3,7,False,2019-09-21,Caught,2B,2019,2020,26.8
+22,7801,1B,,Caught Stealing 2B,593643,Hanser Alberto,489119,Wade Miley,641820,Trey Mancini,L,Robinson Chirinos,455139,0,0,1,True,2019-06-09,Caught,2B,2019,2020,26.8
+23,7874,1B,2B,Stolen Base 2B,593643,Hanser Alberto,501985,Mike Minor,641820,Trey Mancini,L,Jeff Mathis,425772,1,0,3,True,2019-06-05,Stolen,2B,2019,2020,26.8
+24,8083,1B,2B,Stolen Base 2B,593643,Hanser Alberto,543766,Bryan Shaw,600474,Pedro Severino,R,Tony Wolters,547172,6,6,8,True,2019-05-24,Stolen,2B,2019,2020,26.8
+25,8145,1B,2B,Stolen Base 2B,593643,Hanser Alberto,457918,J.A. Happ,596105,Dwight Smith Jr.,L,Gary Sánchez,596142,6,1,4,False,2019-05-20,Stolen,2B,2019,2020,26.8
+26,8544,1B,2B,Stolen Base 2B,593643,Hanser Alberto,518858,Nate Jones,600474,Pedro Severino,R,James McCann,543510,4,2,7,False,2019-04-24,Stolen,2B,2019,2020,26.8
+27,211,1B,2B,Stolen Base 2B,593643,Hanser Alberto,579328,Yusei Kikuchi,670032,Nicky Lopez,L,Tom Murphy,608596,2,0,2,False,2021-09-18,Stolen,2B,2021,2022,25.9
+28,462,1B,2B,Stolen Base 2B,593643,Hanser Alberto,663531,Logan Allen,670032,Nicky Lopez,L,Austin Hedges,595978,2,0,2,False,2021-09-01,Stolen,2B,2021,2022,25.9
+29,463,2B,3B,Stolen Base 2B,593643,Hanser Alberto,663531,Logan Allen,670032,Nicky Lopez,L,Austin Hedges,595978,2,0,2,False,2021-09-01,Stolen,2B,2021,2022,25.9
+30,1323,1B,2B,Stolen Base 2B,593643,Hanser Alberto,661269,Vladimir Gutierrez,641531,Hunter Dozier,R,Tyler Stephenson,663886,2,1,6,False,2021-07-05,Stolen,2B,2021,2022,25.9
+31,2789,1B,,Caught Stealing 2B,593643,Hanser Alberto,663531,Logan Allen,643436,Ryan McBroom,L,Roberto Pérez,547379,0,2,4,True,2021-04-05,Caught,2B,2021,2022,25.9
+32,2135,1B,2B,Stolen Base 2B,593643,Hanser Alberto,579328,Yusei Kikuchi,670032,Nicky Lopez,L,Tom Murphy,608596,2,0,2,False,2021-09-18,Stolen,2B,2021,2022,25.9
+33,2386,1B,2B,Stolen Base 2B,593643,Hanser Alberto,663531,Logan Allen,670032,Nicky Lopez,L,Austin Hedges,595978,2,0,2,False,2021-09-01,Stolen,2B,2021,2022,25.9
+34,2387,2B,3B,Stolen Base 2B,593643,Hanser Alberto,663531,Logan Allen,670032,Nicky Lopez,L,Austin Hedges,595978,2,0,2,False,2021-09-01,Stolen,2B,2021,2022,25.9
+35,3247,1B,2B,Stolen Base 2B,593643,Hanser Alberto,661269,Vladimir Gutierrez,641531,Hunter Dozier,R,Tyler Stephenson,663886,2,1,6,False,2021-07-05,Stolen,2B,2021,2022,25.9
+36,4713,1B,,Caught Stealing 2B,593643,Hanser Alberto,663531,Logan Allen,643436,Ryan McBroom,L,Roberto Pérez,547379,0,2,4,True,2021-04-05,Caught,2B,2021,2022,25.9
+37,6601,1B,2B,Stolen Base 2B,593643,Hanser Alberto,534910,Jesse Hahn,435622,Ian Desmond,R,Matt McBride,473724,3,3,7,True,2016-05-17,Stolen,2B,2016,2018,25.9
+38,2566,1B,2B,Stolen Base 2B,593643,Hanser Alberto,534910,Jesse Hahn,435622,Ian Desmond,R,Matt McBride,473724,3,3,7,True,2016-05-17,Stolen,2B,2016,2018,25.9
+39,5973,1B,2B,Stolen Base 2B,593643,Hanser Alberto,534910,Jesse Hahn,435622,Ian Desmond,R,Matt McBride,473724,3,3,7,True,2016-05-17,Stolen,2B,2016,2018,25.9
+40,908,1B,2B,Stolen Base 2B,593643,Hanser Alberto,607074,Carlos Rodón,425783,Shin-Soo Choo,L,Tyler Flowers,452095,1,0,2,False,2015-06-04,Stolen,2B,2015,2016,27.5

@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1567,1B,2B,Stolen Base 2B,666135,Alex Kirilloff,Tyler Stephenson,3,3,8,False,2021-06-21,Stolen,2B,2021
+2019,1B,,Caught Stealing 2B,666135,Alex Kirilloff,Austin Hedges,5,8,10,True,2021-05-23,Caught,2B,2021
+503,1B,2B,Stolen Base 2B,666135,Alex Kirilloff,Omar Narváez,0,0,3,False,2023-09-10,Stolen,2B,2023

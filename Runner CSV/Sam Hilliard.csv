@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1,1B,2B,Stolen Base 2B,656541,Sam Hilliard,Jacob Nottingham,0,2,1,False,2019-09-29,Stolen,2B,2019
+2,2B,3B,Stolen Base 3B,656541,Sam Hilliard,Jacob Nottingham,0,2,1,False,2019-09-29,Stolen,3B,2019
+646,1B,2B,Stolen Base 2B,656541,Sam Hilliard,Stephen Vogt,1,2,6,True,2020-08-26,Stolen,2B,2020
+729,1B,2B,Stolen Base 2B,656541,Sam Hilliard,Austin Barnes,2,1,5,True,2020-08-22,Stolen,2B,2020
+1018,1B,2B,Stolen Base 2B,656541,Sam Hilliard,Tyler Heineman,1,0,3,False,2020-08-05,Stolen,2B,2020
+40,1B,2B,Stolen Base 2B,656541,Sam Hilliard,Riley Adams,6,5,3,False,2021-09-29,Stolen,2B,2021
+235,1B,2B,Stolen Base 2B,656541,Sam Hilliard,Keibert Ruiz,8,8,9,True,2021-09-17,Stolen,2B,2021
+500,1B,2B,Stolen Base 2B,656541,Sam Hilliard,Austin Barnes,0,3,4,True,2021-08-29,Stolen,2B,2021
+950,1B,2B,Stolen Base 2B,656541,Sam Hilliard,Victor Caratini,0,0,3,True,2021-07-31,Stolen,2B,2021
+615,1B,2B,Stolen Base 2B,656541,Sam Hilliard,James McCann,0,0,5,True,2022-08-28,Stolen,2B,2022
+718,1B,2B,Stolen Base 2B,656541,Sam Hilliard,Austin Wynns,0,2,2,False,2022-08-21,Stolen,2B,2022
+1370,1B,2B,Stolen Base 2B,656541,Sam Hilliard,Austin Nola,3,6,6,False,2022-07-13,Stolen,2B,2022
+2519,1B,2B,Stolen Base 2B,656541,Sam Hilliard,Salvador Perez,3,2,2,False,2022-05-13,Stolen,2B,2022
+2674,1B,2B,Stolen Base 2B,656541,Sam Hilliard,Daulton Varsho,0,1,2,True,2022-05-06,Stolen,2B,2022
+2972,1B,,Caught Stealing 2B,656541,Sam Hilliard,J.T. Realmuto,0,0,5,False,2022-04-18,Caught,2B,2022
+3710,1B,2B,Stolen Base 2B,656541,Sam Hilliard,Jacob Stallings,0,0,2,False,2023-04-24,Stolen,2B,2023
+3807,1B,2B,Stolen Base 2B,656541,Sam Hilliard,Austin Nola,1,0,8,True,2023-04-19,Stolen,2B,2023
+3975,1B,2B,Stolen Base 2B,656541,Sam Hilliard,Luke Maile,4,4,7,False,2023-04-12,Stolen,2B,2023

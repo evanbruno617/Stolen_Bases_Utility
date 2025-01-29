@@ -1,0 +1,40 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,682998,Corbin Carroll,Korey Lee,0,0,1,True,2023-09-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,502054,Tommy Pham,Korey Lee,0,0,1,True,2023-09-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,607054,Jace Peterson,Korey Lee,4,9,5,True,2023-09-26,Stolen,2B,2023
+1B,2B,Stolen Base 2B,682998,Corbin Carroll,Korey Lee,0,0,1,True,2023-09-25,Stolen,2B,2023
+1B,2B,Stolen Base 2B,502054,Tommy Pham,Korey Lee,0,0,1,True,2023-09-25,Stolen,2B,2023
+1B,2B,Stolen Base 2B,657136,Connor Wong,Korey Lee,1,0,3,False,2023-09-24,Stolen,2B,2023
+1B,,Caught Stealing 2B,596115,Trevor Story,Korey Lee,0,0,2,False,2023-09-22,Caught,2B,2023
+1B,,Caught Stealing 2B,664057,Andrew Stevenson,Korey Lee,0,4,9,True,2023-09-17,Caught,2B,2023
+1B,2B,Stolen Base 2B,668904,Royce Lewis,Korey Lee,2,6,6,True,2023-09-15,Stolen,2B,2023
+1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,Korey Lee,0,0,1,True,2023-09-12,Stolen,2B,2023
+1B,2B,Stolen Base 2B,681481,Kerry Carpenter,Korey Lee,0,0,1,False,2023-09-09,Stolen,2B,2023
+1B,,Caught Stealing 2B,656716,Zach McKinstry,Korey Lee,1,0,2,False,2023-09-09,Caught,2B,2023
+1B,2B,Stolen Base 2B,671221,Drew Waters,Korey Lee,0,0,2,False,2023-09-06,Stolen,2B,2023
+1B,,Caught Stealing 2B,658668,Edward Olivares,Korey Lee,3,0,3,False,2023-09-04,Caught,2B,2023
+1B,2B,Stolen Base 2B,668731,Akil Baddoo,Korey Lee,0,0,1,True,2023-09-03,Stolen,2B,2023
+2B,3B,Caught Stealing 2B,668731,Akil Baddoo,Korey Lee,0,0,1,True,2023-09-03,Caught,2B,2023
+1B,,Caught Stealing 2B,656716,Zach McKinstry,Korey Lee,0,0,1,True,2023-09-03,Caught,2B,2023
+1B,2B,Stolen Base 2B,681481,Kerry Carpenter,Korey Lee,2,2,3,True,2023-09-03,Stolen,2B,2023
+1B,,Caught Stealing 2B,663527,Tyler Nevin,Korey Lee,2,2,4,True,2023-09-03,Caught,2B,2023
+1B,2B,Stolen Base 2B,668731,Akil Baddoo,Korey Lee,0,6,4,True,2023-09-02,Stolen,2B,2023
+1B,2B,Stolen Base 2B,682985,Riley Greene,Korey Lee,1,2,5,True,2023-09-01,Stolen,2B,2023
+1B,2B,Stolen Base 2B,656716,Zach McKinstry,Korey Lee,1,3,7,True,2023-09-01,Stolen,2B,2023
+1B,2B,Stolen Base 2B,668731,Akil Baddoo,Korey Lee,1,3,8,True,2023-09-01,Stolen,2B,2023
+1B,2B,Stolen Base 2B,663630,Ryan McKenna,Korey Lee,1,1,7,False,2023-08-29,Stolen,2B,2023
+2B,3B,Stolen Base 3B,663630,Ryan McKenna,Korey Lee,8,1,8,False,2023-08-29,Stolen,3B,2023
+1B,2B,Stolen Base 2B,683002,Gunnar Henderson,Korey Lee,0,0,1,False,2023-08-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,663630,Ryan McKenna,Korey Lee,2,0,4,False,2023-08-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,683002,Gunnar Henderson,Korey Lee,3,0,4,False,2023-08-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,669127,Shea Langeliers,Korey Lee,4,10,6,True,2023-08-25,Stolen,2B,2023
+1B,2B,Stolen Base 2B,676116,Ryan Noda,Korey Lee,5,7,7,True,2023-08-24,Stolen,2B,2023
+1B,,Caught Stealing 2B,681146,Jonah Bride,Korey Lee,5,8,9,True,2023-08-24,Caught,2B,2023
+1B,,Caught Stealing 2B,677594,Julio Rodríguez,Korey Lee,0,0,1,True,2022-07-29,Caught,2B,2022
+1B,2B,Stolen Base 2B,681146,Jonah Bride,Korey Lee,2,1,5,False,2022-07-27,Stolen,2B,2022
+1B,2B,Stolen Base 2B,621450,Skye Bolt,Korey Lee,6,4,7,False,2022-07-25,Stolen,2B,2022
+1B,2B,Stolen Base 2B,623205,Andrew Velazquez,Korey Lee,2,2,8,False,2022-07-14,Stolen,2B,2022
+1B,2B,Stolen Base 2B,666176,Jo Adell,Korey Lee,3,1,5,False,2022-07-13,Stolen,2B,2022
+1B,2B,Stolen Base 2B,621450,Skye Bolt,Korey Lee,0,2,5,False,2022-07-10,Stolen,2B,2022
+2B,3B,Stolen Base 3B,593160,Whit Merrifield,Korey Lee,0,5,4,True,2022-07-04,Stolen,3B,2022
+1B,,Caught Stealing 2B,677951,Bobby Witt Jr.,Korey Lee,6,6,9,True,2022-07-04,Caught,2B,2022

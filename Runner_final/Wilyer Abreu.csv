@@ -1,0 +1,11 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,380,1B,2B,Stolen Base 2B,677800,Wilyer Abreu,605135,Chris Bassitt,646240,Rafael Devers,R,Alejandro Kirk,672386,0,2,6,True,2023-09-16,Stolen,2B,2023,2024,27.5
+1,412,1B,2B,Stolen Base 2B,677800,Wilyer Abreu,669711,Greg Weissert,594807,Adam Duvall,R,Austin Wells,669224,1,0,6,False,2023-09-14,Stolen,2B,2023,2024,27.5
+2,417,1B,2B,Stolen Base 2B,677800,Wilyer Abreu,669711,Greg Weissert,594807,Adam Duvall,R,Austin Wells,669224,1,0,6,False,2023-09-13,Stolen,2B,2023,2024,27.5
+3,541,1B,2B,Stolen Base 2B,677800,Wilyer Abreu,660261,Shintaro Fujinami,657136,Connor Wong,R,James McCann,543510,6,7,5,False,2023-09-09,Stolen,2B,2023,2024,27.5
+4,943,1B,,Caught Stealing 2B,677800,Wilyer Abreu,608665,Kendall Graveman,622569,Pablo Reyes,R,Yainer Diaz,673237,4,7,10,True,2023-08-23,Caught,2B,2023,2024,27.5
+5,4794,1B,2B,Stolen Base 2B,677800,Wilyer Abreu,605135,Chris Bassitt,646240,Rafael Devers,R,Alejandro Kirk,672386,0,2,6,True,2023-09-16,Stolen,2B,2023,2024,27.5
+6,4826,1B,2B,Stolen Base 2B,677800,Wilyer Abreu,669711,Greg Weissert,594807,Adam Duvall,R,Austin Wells,669224,1,0,6,False,2023-09-14,Stolen,2B,2023,2024,27.5
+7,4831,1B,2B,Stolen Base 2B,677800,Wilyer Abreu,669711,Greg Weissert,594807,Adam Duvall,R,Austin Wells,669224,1,0,6,False,2023-09-13,Stolen,2B,2023,2024,27.5
+8,4955,1B,2B,Stolen Base 2B,677800,Wilyer Abreu,660261,Shintaro Fujinami,657136,Connor Wong,R,James McCann,543510,6,7,5,False,2023-09-09,Stolen,2B,2023,2024,27.5
+9,5357,1B,,Caught Stealing 2B,677800,Wilyer Abreu,608665,Kendall Graveman,622569,Pablo Reyes,R,Yainer Diaz,673237,4,7,10,True,2023-08-23,Caught,2B,2023,2024,27.5

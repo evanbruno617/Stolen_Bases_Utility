@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3113,1B,,Caught Stealing 2B,433217,Andrés Blanco,Henry Blanco,1,4,5,False,2004-04-25,Caught,2B,2004
+3257,1B,2B,Stolen Base 2B,433217,Andrés Blanco,Rob Bowen,1,1,3,True,2004-04-18,Stolen,2B,2004
+238,1B,,Caught Stealing 2B,433217,Andrés Blanco,Ivan Rodriguez,3,1,2,False,2005-09-19,Caught,2B,2005
+872,1B,,Caught Stealing 2B,433217,Andrés Blanco,Gerald Laird,1,1,5,True,2009-06-23,Caught,2B,2009
+1218,2B,,Caught Stealing 3B,433217,Andrés Blanco,Ryan Hanigan,3,3,11,True,2009-06-07,Caught,3B,2009
+3485,1B,,Caught Stealing 2B,433217,Andrés Blanco,Alex Avila,2,0,2,False,2010-04-23,Caught,2B,2010
+2953,1B,,Caught Stealing 2B,433217,Andrés Blanco,Brayan Peña,3,5,6,False,2011-05-29,Caught,2B,2011
+2101,1B,,Caught Stealing 2B,433217,Andrés Blanco,Buster Posey,6,3,8,False,2015-06-07,Caught,2B,2015
+1462,3B,score,Stolen Base Home,433217,Andrés Blanco,James McCann,0,2,2,True,2016-05-25,Stolen,Home,2016
+1465,1B,,Caught Stealing 2B,433217,Andrés Blanco,James McCann,4,5,6,True,2016-05-25,Caught,2B,2016
+1912,3B,,Caught Stealing Home,433217,Andrés Blanco,Yan Gomes,2,0,8,False,2016-05-01,Caught,Home,2016
+2013,1B,2B,Stolen Base 2B,433217,Andrés Blanco,Sandy León,4,5,5,True,2017-06-12,Stolen,2B,2017

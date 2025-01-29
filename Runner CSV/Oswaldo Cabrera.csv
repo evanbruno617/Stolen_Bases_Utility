@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+79,2B,3B,Stolen Base 3B,665828,Oswaldo Cabrera,Danny Jansen,2,2,7,True,2022-09-26,Stolen,3B,2022
+82,2B,3B,Stolen Base 3B,665828,Oswaldo Cabrera,Connor Wong,0,0,4,False,2022-09-25,Stolen,3B,2022
+293,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,Reese McGuire,0,0,4,True,2022-09-14,Stolen,2B,2022
+622,2B,,Caught Stealing 3B,665828,Oswaldo Cabrera,Sean Murphy,0,0,6,True,2022-08-27,Caught,3B,2022
+405,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,Endy Rodríguez,5,7,9,True,2023-09-15,Stolen,2B,2023
+1158,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,Travis d'Arnaud,1,2,2,True,2023-08-14,Stolen,2B,2023
+1786,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,Elias Díaz,5,6,11,True,2023-07-16,Stolen,2B,2023
+3373,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,Christian Bethancourt,7,7,9,True,2023-05-07,Stolen,2B,2023
+3770,2B,3B,Stolen Base 3B,665828,Oswaldo Cabrera,Alejandro Kirk,0,0,3,False,2023-04-22,Stolen,3B,2023
+3803,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,Logan O'Hoppe,2,2,9,False,2023-04-19,Stolen,2B,2023
+3946,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,Ryan Jeffers,2,0,4,False,2023-04-14,Stolen,2B,2023
+4115,2B,3B,Stolen Base 3B,665828,Oswaldo Cabrera,Adley Rutschman,7,6,8,True,2023-04-07,Stolen,3B,2023
+4125,2B,3B,Stolen Base 3B,665828,Oswaldo Cabrera,Adley Rutschman,7,6,8,True,2023-04-06,Stolen,3B,2023

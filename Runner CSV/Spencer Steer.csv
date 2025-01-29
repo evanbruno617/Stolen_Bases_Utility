@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+329,1B,,Caught Stealing 2B,668715,Spencer Steer,Jason Delay,0,1,7,False,2022-09-13,Caught,2B,2022
+301,2B,3B,Stolen Base 3B,668715,Spencer Steer,Ryan Jeffers,0,2,4,False,2023-09-19,Stolen,3B,2023
+447,1B,2B,Stolen Base 2B,668715,Spencer Steer,Jake Rogers,0,0,1,True,2023-09-12,Stolen,2B,2023
+587,1B,2B,Stolen Base 2B,668715,Spencer Steer,Willson Contreras,4,6,4,False,2023-09-08,Stolen,2B,2023
+804,3B,score,Stolen Base Home,668715,Spencer Steer,Patrick Bailey,0,2,6,True,2023-08-30,Stolen,Home,2023
+1111,1B,2B,Stolen Base 2B,668715,Spencer Steer,Bo Naylor,1,0,1,False,2023-08-16,Stolen,2B,2023
+1183,2B,3B,Stolen Base 3B,668715,Spencer Steer,Jason Delay,0,0,2,True,2023-08-13,Stolen,3B,2023
+2155,1B,2B,Stolen Base 2B,668715,Spencer Steer,Adley Rutschman,4,6,5,True,2023-06-28,Stolen,2B,2023
+2210,1B,2B,Stolen Base 2B,668715,Spencer Steer,Sean Murphy,4,6,7,False,2023-06-25,Stolen,2B,2023
+2343,1B,2B,Stolen Base 2B,668715,Spencer Steer,Elias Díaz,5,4,8,False,2023-06-19,Stolen,2B,2023
+2430,2B,3B,Stolen Base 3B,668715,Spencer Steer,Martín Maldonado,0,2,9,True,2023-06-16,Stolen,3B,2023
+2647,1B,2B,Stolen Base 2B,668715,Spencer Steer,Will Smith,2,2,1,False,2023-06-07,Stolen,2B,2023
+2649,1B,2B,Stolen Base 2B,668715,Spencer Steer,Will Smith,6,6,3,False,2023-06-07,Stolen,2B,2023
+2732,1B,2B,Stolen Base 2B,668715,Spencer Steer,William Contreras,1,1,1,False,2023-06-03,Stolen,2B,2023
+2736,1B,2B,Stolen Base 2B,668715,Spencer Steer,William Contreras,3,10,5,False,2023-06-03,Stolen,2B,2023
+3330,1B,,Caught Stealing 2B,668715,Spencer Steer,Francisco Alvarez,7,2,6,False,2023-05-09,Caught,2B,2023
+3575,2B,,Caught Stealing 3B,668715,Spencer Steer,Carlos Pérez,0,0,1,True,2023-04-29,Caught,3B,2023
+3956,1B,2B,Stolen Base 2B,668715,Spencer Steer,J.T. Realmuto,1,5,7,False,2023-04-14,Stolen,2B,2023

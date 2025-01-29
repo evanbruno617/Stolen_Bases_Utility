@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1590,3B,,Caught Stealing Home,502374,Michael McKenry,Brian McCann,3,3,9,True,2011-07-26,Caught,Home,2011
+1659,1B,,Caught Stealing 2B,502374,Michael McKenry,René Rivera,1,1,5,False,2014-07-07,Caught,2B,2014
+2162,2B,,Caught Stealing 3B,502374,Michael McKenry,Buster Posey,3,3,6,True,2014-06-14,Caught,3B,2014
+2824,1B,,Caught Stealing 2B,502374,Michael McKenry,Derek Norris,6,5,6,True,2015-05-03,Caught,2B,2015
+3085,1B,2B,Stolen Base 2B,502374,Michael McKenry,Derek Norris,3,4,7,False,2015-04-22,Stolen,2B,2015
+3218,1B,2B,Stolen Base 2B,502374,Michael McKenry,Héctor Sánchez,1,4,4,True,2015-04-15,Stolen,2B,2015

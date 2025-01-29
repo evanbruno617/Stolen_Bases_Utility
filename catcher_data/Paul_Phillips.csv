@@ -1,0 +1,33 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,334393,Juan Pierre,Paul Phillips,0,0,4,False,2009-07-01,Stolen,2B,2009
+1B,,Caught Stealing 2B,334393,Juan Pierre,Paul Phillips,0,0,6,False,2009-07-01,Caught,2B,2009
+1B,2B,Stolen Base 2B,150456,Adam Kennedy,Paul Phillips,2,5,3,False,2009-06-27,Stolen,2B,2009
+1B,2B,Stolen Base 2B,435559,Kurt Suzuki,Paul Phillips,2,5,3,False,2009-06-27,Stolen,2B,2009
+2B,3B,Stolen Base 3B,408212,Gabe Gross,Paul Phillips,4,1,6,True,2009-06-18,Stolen,3B,2009
+2B,3B,Stolen Base 3B,425834,B.J. Upton,Paul Phillips,4,1,9,True,2009-06-18,Stolen,3B,2009
+1B,2B,Stolen Base 2B,408307,Carl Crawford,Paul Phillips,4,1,9,True,2009-06-18,Stolen,2B,2009
+1B,2B,Stolen Base 2B,112736,Craig Counsell,Paul Phillips,1,5,9,False,2009-06-11,Stolen,2B,2009
+2B,3B,Stolen Base 3B,430611,Corey Hart,Paul Phillips,1,5,9,False,2009-06-11,Stolen,3B,2009
+1B,2B,Stolen Base 2B,453895,Brendan Ryan,Paul Phillips,2,4,7,False,2009-06-08,Stolen,2B,2009
+1B,2B,Stolen Base 2B,460022,Tyler Greene,Paul Phillips,0,1,3,False,2009-06-05,Stolen,2B,2009
+1B,2B,Stolen Base 2B,456422,Michael Bourn,Paul Phillips,5,4,8,False,2009-06-03,Stolen,2B,2009
+1B,2B,Stolen Base 2B,456422,Michael Bourn,Paul Phillips,0,0,1,False,2009-06-02,Stolen,2B,2009
+1B,2B,Stolen Base 2B,448242,Tony Gwynn Jr.,Paul Phillips,0,0,1,True,2009-05-30,Stolen,2B,2009
+1B,2B,Stolen Base 2B,444843,Andre Ethier,Paul Phillips,3,7,8,True,2009-05-27,Stolen,2B,2009
+1B,,Caught Stealing 2B,232694,Casey Blake,Paul Phillips,3,2,5,True,2007-09-29,Caught,2B,2007
+1B,2B,Stolen Base 2B,435539,Jerry Owens,Paul Phillips,2,3,5,True,2007-09-17,Stolen,2B,2007
+1B,2B,Stolen Base 2B,122784,Shannon Stewart,Paul Phillips,2,0,5,False,2007-05-15,Stolen,2B,2007
+1B,2B,Stolen Base 2B,340192,Marco Scutaro,Paul Phillips,2,0,7,False,2007-05-15,Stolen,2B,2007
+1B,,Caught Stealing 2B,276346,Brandon Inge,Paul Phillips,2,6,2,False,2004-09-09,Caught,2B,2004
+1B,2B,Stolen Base 2B,488811,Aaron Cunningham,Paul Phillips,0,2,3,True,2010-09-13,Stolen,2B,2010
+1B,2B,Stolen Base 2B,493120,Kosuke Fukudome,Paul Phillips,0,0,1,False,2010-05-18,Stolen,2B,2010
+1B,2B,Stolen Base 2B,502125,Tyler Colvin,Paul Phillips,3,2,8,False,2010-05-18,Stolen,2B,2010
+1B,,Caught Stealing 2B,150396,Milton Bradley,Paul Phillips,0,3,4,False,2010-04-03,Caught,2B,2010
+1B,2B,Stolen Base 2B,346857,Nick Punto,Paul Phillips,0,0,1,False,2005-09-27,Stolen,2B,2005
+1B,,Caught Stealing 2B,408050,Michael Ryan,Paul Phillips,0,0,7,True,2005-08-31,Caught,2B,2005
+1B,,Caught Stealing 2B,429664,Robinson Canó,Paul Phillips,2,0,2,False,2005-08-27,Caught,2B,2005
+1B,,Caught Stealing 2B,133321,Alex Cora,Paul Phillips,6,4,6,True,2005-08-25,Caught,2B,2005
+1B,,Caught Stealing 2B,117276,Mark Kotsay,Paul Phillips,0,0,1,False,2005-08-20,Caught,2B,2005
+2B,3B,Stolen Base 3B,136767,Eric Chavez,Paul Phillips,1,2,6,False,2005-08-20,Stolen,3B,2005
+2B,,Caught Stealing 3B,430598,Jeremy Reed,Paul Phillips,4,0,1,False,2005-08-17,Caught,3B,2005
+1B,,Caught Stealing 2B,425497,Nook Logan,Paul Phillips,5,6,6,True,2005-08-14,Caught,2B,2005

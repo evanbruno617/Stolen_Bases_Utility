@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+799,1B,,Caught Stealing 2B,641319,Carlos Asuaje,Jose Lobaton,2,1,6,False,2017-08-19,Caught,2B,2017
+1447,1B,2B,Stolen Base 2B,641319,Carlos Asuaje,Victor Caratini,0,0,1,False,2018-07-14,Stolen,2B,2018
+2947,1B,,Caught Stealing 2B,641319,Carlos Asuaje,John Ryan Murphy,3,2,4,True,2018-04-21,Caught,2B,2018

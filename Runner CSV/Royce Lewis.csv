@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+400,1B,2B,Stolen Base 2B,668904,Royce Lewis,Korey Lee,2,6,6,True,2023-09-15,Stolen,2B,2023
+504,1B,2B,Stolen Base 2B,668904,Royce Lewis,Omar Narváez,0,0,6,False,2023-09-10,Stolen,2B,2023
+697,1B,2B,Stolen Base 2B,668904,Royce Lewis,Jonah Heim,5,5,8,True,2023-09-03,Stolen,2B,2023
+765,1B,2B,Stolen Base 2B,668904,Royce Lewis,Jonah Heim,0,0,4,True,2023-09-01,Stolen,2B,2023
+930,1B,,Caught Stealing 2B,668904,Royce Lewis,Jonah Heim,0,1,2,False,2023-08-24,Caught,2B,2023
+1120,2B,3B,Stolen Base 3B,668904,Royce Lewis,Jake Rogers,4,3,3,False,2023-08-16,Stolen,3B,2023
+2287,1B,2B,Stolen Base 2B,668904,Royce Lewis,Connor Wong,5,0,3,False,2023-06-22,Stolen,2B,2023

@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+666,1B,2B,Stolen Base 2B,408108,Freddy Sanchez,Jason LaRue,1,1,5,False,2005-08-28,Stolen,2B,2005
+667,2B,,Caught Stealing 3B,408108,Freddy Sanchez,Jason LaRue,2,3,7,False,2005-08-28,Caught,3B,2005
+680,1B,2B,Stolen Base 2B,408108,Freddy Sanchez,Javier Valentin,0,0,3,False,2005-08-27,Stolen,2B,2005
+2899,1B,,Caught Stealing 2B,408108,Freddy Sanchez,Raul Chavez,4,7,9,True,2005-05-03,Caught,2B,2005
+1435,1B,,Caught Stealing 2B,408108,Freddy Sanchez,Chris Coste,0,0,1,True,2007-07-28,Caught,2B,2007
+2170,1B,,Caught Stealing 2B,408108,Freddy Sanchez,Jesus Flores,3,1,5,False,2008-06-10,Caught,2B,2008
+710,1B,2B,Stolen Base 2B,408108,Freddy Sanchez,Geovany Soto,2,0,5,False,2009-06-30,Stolen,2B,2009
+1482,1B,2B,Stolen Base 2B,408108,Freddy Sanchez,Geovany Soto,7,10,7,True,2009-05-25,Stolen,2B,2009
+1917,1B,2B,Stolen Base 2B,408108,Freddy Sanchez,Ramon Castro,0,0,1,True,2009-05-09,Stolen,2B,2009
+1919,1B,2B,Stolen Base 2B,408108,Freddy Sanchez,Ramon Castro,1,0,3,True,2009-05-09,Stolen,2B,2009
+2352,1B,2B,Stolen Base 2B,408108,Freddy Sanchez,Ronny Paulino,2,0,3,False,2009-04-22,Stolen,2B,2009
+460,1B,2B,Stolen Base 2B,408108,Freddy Sanchez,Yorvit Torrealba,0,3,3,True,2010-09-09,Stolen,2B,2010
+1423,1B,2B,Stolen Base 2B,408108,Freddy Sanchez,Miguel Montero,2,2,8,True,2010-07-25,Stolen,2B,2010
+1798,1B,2B,Stolen Base 2B,408108,Freddy Sanchez,George Kottaras,0,0,6,True,2010-07-06,Stolen,2B,2010
+2383,1B,2B,Caught Stealing Home,408108,Freddy Sanchez,Ramon Hernandez,4,6,7,True,2010-06-10,Caught,Home,2010
+2712,1B,,Caught Stealing 2B,408108,Freddy Sanchez,Carlos Maldonado,5,4,7,False,2010-05-27,Caught,2B,2010
+3950,2B,,Caught Stealing 3B,408108,Freddy Sanchez,Chris Iannetta,0,4,5,True,2011-04-19,Caught,3B,2011

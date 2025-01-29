@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+427,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,A.J. Ellis,0,5,5,True,2014-09-09,Stolen,2B,2014
+2811,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,Jarrod Saltalamacchia,5,0,7,False,2014-05-11,Stolen,2B,2014
+1523,1B,,Caught Stealing 2B,518735,Yasmani Grandal,Carlos Ruiz,10,7,8,False,2015-07-06,Caught,2B,2015
+301,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,Welington Castillo,8,7,7,False,2016-07-29,Stolen,2B,2016
+1470,1B,,Caught Stealing 2B,518735,Yasmani Grandal,Tucker Barnhart,3,2,4,False,2016-05-24,Caught,2B,2016
+2281,1B,,Caught Stealing 2B,518735,Yasmani Grandal,Welington Castillo,3,1,8,False,2016-04-13,Caught,2B,2016
+1477,1B,2B,Caught Stealing 2B,518735,Yasmani Grandal,J.T. Realmuto,0,1,2,True,2017-07-14,Caught,2B,2017
+1050,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,Jonathan Lucroy,2,1,6,True,2018-08-08,Stolen,2B,2018
+2278,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,Jorge Alfaro,5,4,8,False,2018-05-28,Stolen,2B,2018
+721,2B,,Caught Stealing 3B,518735,Yasmani Grandal,Kurt Suzuki,5,8,6,True,2019-08-17,Caught,3B,2019
+737,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,Yan Gomes,1,1,5,True,2019-08-16,Stolen,2B,2019
+982,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,Chris Herrmann,1,1,8,True,2019-07-30,Stolen,2B,2019
+2476,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,Wilson Ramos,1,5,5,True,2019-04-27,Stolen,2B,2019
+2566,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,Austin Barnes,5,5,8,False,2019-04-21,Stolen,2B,2019
+2932,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,Tucker Barnhart,1,1,6,True,2019-04-02,Stolen,2B,2019
+2634,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,Christian Vázquez,2,3,8,True,2022-05-08,Stolen,2B,2022

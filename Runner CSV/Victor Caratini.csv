@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+658,1B,2B,Stolen Base 2B,605170,Victor Caratini,Stephen Vogt,7,4,5,False,2019-08-21,Stolen,2B,2019
+509,1B,,Caught Stealing 2B,605170,Victor Caratini,John Ryan Murphy,0,1,2,True,2020-09-03,Caught,2B,2020
+1981,3B,score,Stolen Base Home,605170,Victor Caratini,Omar Narváez,0,2,3,True,2021-05-25,Stolen,Home,2021
+2460,1B,2B,Stolen Base 2B,605170,Victor Caratini,Austin Barnes,7,7,10,True,2021-04-25,Stolen,2B,2021
+2570,1B,2B,Stolen Base 2B,605170,Victor Caratini,Shea Langeliers,0,1,7,False,2023-06-10,Stolen,2B,2023

@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+470,1B,2B,Stolen Base 2B,686681,Michael Massey,Luke Maile,0,2,5,False,2022-09-05,Stolen,2B,2022
+629,1B,2B,Stolen Base 2B,686681,Michael Massey,Austin Nola,3,4,6,False,2022-08-27,Stolen,2B,2022
+1047,1B,2B,Stolen Base 2B,686681,Michael Massey,Kevin Plawecki,2,2,4,False,2022-08-04,Stolen,2B,2022
+1018,1B,,Caught Stealing 2B,686681,Michael Massey,Shea Langeliers,4,4,8,True,2023-08-21,Caught,2B,2023
+1025,1B,2B,Stolen Base 2B,686681,Michael Massey,Miguel Amaya,0,1,1,True,2023-08-20,Stolen,2B,2023
+1497,1B,2B,Stolen Base 2B,686681,Michael Massey,Christian Vázquez,2,1,4,False,2023-07-30,Stolen,2B,2023
+1594,1B,2B,Stolen Base 2B,686681,Michael Massey,Bo Naylor,1,0,5,True,2023-07-25,Stolen,2B,2023
+2919,1B,2B,Stolen Base 2B,686681,Michael Massey,Keibert Ruiz,2,0,4,False,2023-05-27,Stolen,2B,2023
+3396,1B,2B,Stolen Base 2B,686681,Michael Massey,Shea Langeliers,4,5,5,False,2023-05-06,Stolen,2B,2023
+3724,1B,2B,Stolen Base 2B,686681,Michael Massey,Chad Wallach,1,1,2,True,2023-04-23,Stolen,2B,2023

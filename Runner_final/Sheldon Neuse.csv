@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1070,1B,2B,Stolen Base 2B,641914,Sheldon Neuse,571710,Mychal Givens,572041,AJ Pollock,R,Elias Díaz,553869,5,5,8,False,2021-07-23,Stolen,2B,2021,2022,26.4
+1,2994,1B,2B,Stolen Base 2B,641914,Sheldon Neuse,571710,Mychal Givens,572041,AJ Pollock,R,Elias Díaz,553869,5,5,8,False,2021-07-23,Stolen,2B,2021,2022,26.4

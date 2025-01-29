@@ -1,0 +1,28 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1689,1B,2B,Stolen Base 2B,435522,Neil Walker,642607,Dario Agrazal,656371,Isan Díaz,R,Elias Díaz,553869,0,1,1,True,2019-09-05,Stolen,2B,2019,2020,24.9
+1,3558,1B,2B,Stolen Base 2B,435522,Neil Walker,506433,Yu Darvish,516770,Starlin Castro,R,Taylor Davis,543089,2,0,2,True,2019-05-09,Stolen,2B,2019,2020,24.9
+2,4532,1B,2B,Stolen Base 2B,435522,Neil Walker,642607,Dario Agrazal,656371,Isan Díaz,R,Elias Díaz,553869,0,1,1,True,2019-09-05,Stolen,2B,2019,2020,24.9
+3,6401,1B,2B,Stolen Base 2B,435522,Neil Walker,506433,Yu Darvish,516770,Starlin Castro,R,Taylor Davis,543089,2,0,2,True,2019-05-09,Stolen,2B,2019,2020,24.9
+4,6456,1B,2B,Stolen Base 2B,435522,Neil Walker,642607,Dario Agrazal,656371,Isan Díaz,R,Elias Díaz,553869,0,1,1,True,2019-09-05,Stolen,2B,2019,2020,24.9
+5,8325,1B,2B,Stolen Base 2B,435522,Neil Walker,506433,Yu Darvish,516770,Starlin Castro,R,Taylor Davis,543089,2,0,2,True,2019-05-09,Stolen,2B,2019,2020,24.9
+6,959,1B,2B,Caught Stealing 3B,435522,Neil Walker,607192,Tyler Glasnow,543768,Travis Shaw,R,Elias Díaz,553869,0,1,1,False,2017-09-13,Caught,3B,2017,2018,26.6
+7,1429,3B,,Caught Stealing Home,435522,Neil Walker,518452,Chad Bettis,543768,Travis Shaw,R,Jonathan Lucroy,518960,0,0,1,True,2017-08-19,Caught,Home,2017,2018,26.6
+8,2826,1B,,Caught Stealing 2B,435522,Neil Walker,607192,Tyler Glasnow,446263,Lucas Duda,R,Elias Díaz,553869,3,2,3,False,2017-06-03,Caught,2B,2017,2018,26.6
+9,331,1B,2B,Caught Stealing 3B,435522,Neil Walker,607192,Tyler Glasnow,543768,Travis Shaw,R,Elias Díaz,553869,0,1,1,False,2017-09-13,Caught,3B,2017,2018,26.6
+10,801,3B,,Caught Stealing Home,435522,Neil Walker,518452,Chad Bettis,543768,Travis Shaw,R,Jonathan Lucroy,518960,0,0,1,True,2017-08-19,Caught,Home,2017,2018,26.6
+11,2198,1B,,Caught Stealing 2B,435522,Neil Walker,607192,Tyler Glasnow,446263,Lucas Duda,R,Elias Díaz,553869,3,2,3,False,2017-06-03,Caught,2B,2017,2018,26.6
+12,5275,1B,2B,Stolen Base 2B,435522,Neil Walker,407822,Jorge De La Rosa,527038,Wilmer Flores,L,Nick Hundley,460026,1,0,1,False,2016-07-30,Stolen,2B,2016,2017,26.2
+13,5673,1B,2B,Stolen Base 2B,435522,Neil Walker,424144,Oliver Pérez,425766,James Loney,L,Wilson Ramos,467092,4,4,4,False,2016-07-07,Stolen,2B,2016,2017,26.2
+14,6292,1B,,Caught Stealing 2B,435522,Neil Walker,543408,Tom Koehler,624424,Michael Conforto,R,J.T. Realmuto,592663,1,2,6,True,2016-06-03,Caught,2B,2016,2017,26.2
+15,6880,1B,2B,Stolen Base 2B,435522,Neil Walker,468396,Alexi Ogando,452678,Asdrúbal Cabrera,R,A.J. Pierzynski,150229,4,0,8,False,2016-05-02,Stolen,2B,2016,2017,26.2
+16,1240,1B,2B,Stolen Base 2B,435522,Neil Walker,407822,Jorge De La Rosa,527038,Wilmer Flores,L,Nick Hundley,460026,1,0,1,False,2016-07-30,Stolen,2B,2016,2017,26.2
+17,1638,1B,2B,Stolen Base 2B,435522,Neil Walker,424144,Oliver Pérez,425766,James Loney,L,Wilson Ramos,467092,4,4,4,False,2016-07-07,Stolen,2B,2016,2017,26.2
+18,2257,1B,,Caught Stealing 2B,435522,Neil Walker,543408,Tom Koehler,624424,Michael Conforto,R,J.T. Realmuto,592663,1,2,6,True,2016-06-03,Caught,2B,2016,2017,26.2
+19,2845,1B,2B,Stolen Base 2B,435522,Neil Walker,468396,Alexi Ogando,452678,Asdrúbal Cabrera,R,A.J. Pierzynski,150229,4,0,8,False,2016-05-02,Stolen,2B,2016,2017,26.2
+20,4647,1B,2B,Stolen Base 2B,435522,Neil Walker,407822,Jorge De La Rosa,527038,Wilmer Flores,L,Nick Hundley,460026,1,0,1,False,2016-07-30,Stolen,2B,2016,2017,26.2
+21,5045,1B,2B,Stolen Base 2B,435522,Neil Walker,424144,Oliver Pérez,425766,James Loney,L,Wilson Ramos,467092,4,4,4,False,2016-07-07,Stolen,2B,2016,2017,26.2
+22,5664,1B,,Caught Stealing 2B,435522,Neil Walker,543408,Tom Koehler,624424,Michael Conforto,R,J.T. Realmuto,592663,1,2,6,True,2016-06-03,Caught,2B,2016,2017,26.2
+23,6252,1B,2B,Stolen Base 2B,435522,Neil Walker,468396,Alexi Ogando,452678,Asdrúbal Cabrera,R,A.J. Pierzynski,150229,4,0,8,False,2016-05-02,Stolen,2B,2016,2017,26.2
+24,371,1B,2B,Stolen Base 2B,435522,Neil Walker,430580,Alfredo Simon,516782,Starling Marte,R,James McCann,543510,1,5,6,True,2015-07-01,Stolen,2B,2015,2016,26.2
+25,1489,1B,2B,Stolen Base 2B,435522,Neil Walker,543101,Anthony DeSclafani,457705,Andrew McCutchen,R,Brayan Peña,430910,1,0,1,False,2015-05-07,Stolen,2B,2015,2016,26.2
+26,2080,1B,2B,Stolen Base 2B,435522,Neil Walker,571666,Mike Fiers,476883,Pedro Alvarez,R,Jonathan Lucroy,518960,2,5,5,True,2015-04-10,Stolen,2B,2015,2016,26.2

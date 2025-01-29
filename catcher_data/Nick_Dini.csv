@@ -1,0 +1,10 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,663656,Kyle Tucker,Nick Dini,1,3,2,True,2019-09-15,Stolen,2B,2019
+1B,,Caught Stealing 2B,650489,Willi Castro,Nick Dini,3,6,6,True,2019-09-05,Caught,2B,2019
+1B,2B,Stolen Base 2B,542340,Jonathan Villar,Nick Dini,1,1,2,True,2019-08-30,Stolen,2B,2019
+2B,3B,Stolen Base 3B,542340,Jonathan Villar,Nick Dini,1,5,3,True,2019-08-30,Stolen,3B,2019
+3B,score,Stolen Base Home,542340,Jonathan Villar,Nick Dini,2,9,7,True,2019-08-30,Stolen,Home,2019
+2B,3B,Stolen Base 3B,600474,Pedro Severino,Nick Dini,2,9,7,True,2019-08-30,Stolen,3B,2019
+1B,2B,Stolen Base 2B,656185,Greg Allen,Nick Dini,2,3,3,False,2019-08-25,Stolen,2B,2019
+1B,,Caught Stealing 2B,642708,Amed Rosario,Nick Dini,0,0,1,True,2019-08-18,Caught,2B,2019
+1B,,Caught Stealing 2B,592348,Niko Goodrum,Nick Dini,2,4,3,False,2019-08-11,Caught,2B,2019

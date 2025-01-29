@@ -1,0 +1,26 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+327,1B,,Caught Stealing 2B,425867,Khalil Greene,Paul Lo Duca,1,0,2,True,2003-09-12,Caught,2B,2003
+1447,1B,2B,Stolen Base 2B,425867,Khalil Greene,Todd Greene,4,9,7,True,2004-07-20,Stolen,2B,2004
+1586,1B,2B,Stolen Base 2B,425867,Khalil Greene,Charles Johnson,2,1,4,False,2004-07-11,Stolen,2B,2004
+1823,1B,2B,Stolen Base 2B,425867,Khalil Greene,Juan Brito,4,8,7,True,2004-06-28,Stolen,2B,2004
+2205,1B,2B,Stolen Base 2B,425867,Khalil Greene,Jason Varitek,0,4,6,True,2004-06-09,Stolen,2B,2004
+2817,2B,,Caught Stealing 3B,425867,Khalil Greene,Ramon Castro,6,1,5,True,2004-05-09,Caught,3B,2004
+60,1B,2B,Stolen Base 2B,425867,Khalil Greene,Mike Matheny,3,0,3,False,2005-09-28,Stolen,2B,2005
+1151,1B,2B,Caught Stealing Home,425867,Khalil Greene,Humberto Cota,0,2,2,True,2005-08-02,Caught,Home,2005
+1153,1B,2B,Stolen Base 2B,425867,Khalil Greene,Humberto Cota,3,6,8,True,2005-08-02,Stolen,2B,2005
+1273,1B,2B,Stolen Base 2B,425867,Khalil Greene,Einar Díaz,0,1,4,False,2005-07-26,Stolen,2B,2005
+1706,1B,2B,Stolen Base 2B,425867,Khalil Greene,Mike Matheny,6,1,3,False,2005-07-03,Stolen,2B,2005
+2338,1B,2B,Stolen Base 2B,425867,Khalil Greene,Mike Matheny,3,6,7,True,2005-05-29,Stolen,2B,2005
+895,1B,2B,Stolen Base 2B,425867,Khalil Greene,Mike DiFelice,2,7,7,True,2007-08-22,Stolen,2B,2007
+1158,1B,2B,Stolen Base 2B,425867,Khalil Greene,David Ross,6,7,7,True,2007-08-10,Stolen,2B,2007
+1728,1B,2B,Stolen Base 2B,425867,Khalil Greene,Chris Snyder,0,1,4,True,2007-07-15,Stolen,2B,2007
+2455,1B,2B,Stolen Base 2B,425867,Khalil Greene,Jamie Burke,0,0,2,False,2007-06-10,Stolen,2B,2007
+1911,1B,2B,Stolen Base 2B,425867,Khalil Greene,Brandon Inge,5,7,8,False,2008-06-21,Stolen,2B,2008
+2065,1B,2B,Stolen Base 2B,425867,Khalil Greene,Kelly Shoppach,3,3,9,True,2008-06-14,Stolen,2B,2008
+2567,1B,2B,Stolen Base 2B,425867,Khalil Greene,Paul Bako,2,2,7,False,2008-05-23,Stolen,2B,2008
+2622,1B,,Caught Stealing 2B,425867,Khalil Greene,Yadier Molina,0,2,2,False,2008-05-20,Caught,2B,2008
+2736,1B,2B,Stolen Base 2B,425867,Khalil Greene,Kenji Johjima,3,5,3,True,2008-05-16,Stolen,2B,2008
+2856,1B,2B,Stolen Base 2B,425867,Khalil Greene,Yorvit Torrealba,3,0,4,False,2008-05-10,Stolen,2B,2008
+1876,1B,2B,Stolen Base 2B,425867,Khalil Greene,Ramon Hernandez,5,7,9,True,2009-05-10,Stolen,2B,2009
+2332,1B,,Caught Stealing 2B,425867,Khalil Greene,Ramon Castro,1,0,2,False,2009-04-22,Caught,2B,2009
+2554,1B,2B,Stolen Base 2B,425867,Khalil Greene,Ivan Rodriguez,3,0,8,False,2009-04-12,Stolen,2B,2009

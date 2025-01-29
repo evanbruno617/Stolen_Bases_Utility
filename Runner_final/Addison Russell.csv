@@ -1,0 +1,28 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2270,1B,,Caught Stealing 2B,608365,Addison Russell,623451,Jackson Stephens,546991,Albert Almora Jr.,R,Tucker Barnhart,571466,0,0,2,True,2017-07-01,Caught,2B,2017,2018,27.5
+1,3718,1B,2B,Stolen Base 2B,608365,Addison Russell,608349,Corey Knebel,546991,Albert Almora Jr.,R,Jett Bandy,542908,3,4,8,False,2017-04-19,Stolen,2B,2017,2018,27.5
+2,3807,1B,2B,Stolen Base 2B,608365,Addison Russell,543037,Gerrit Cole,518792,Jason Heyward,R,Francisco Cervelli,465041,1,1,4,False,2017-04-14,Stolen,2B,2017,2018,27.5
+3,1642,1B,,Caught Stealing 2B,608365,Addison Russell,623451,Jackson Stephens,546991,Albert Almora Jr.,R,Tucker Barnhart,571466,0,0,2,True,2017-07-01,Caught,2B,2017,2018,27.5
+4,3090,1B,2B,Stolen Base 2B,608365,Addison Russell,608349,Corey Knebel,546991,Albert Almora Jr.,R,Jett Bandy,542908,3,4,8,False,2017-04-19,Stolen,2B,2017,2018,27.5
+5,3179,1B,2B,Stolen Base 2B,608365,Addison Russell,543037,Gerrit Cole,518792,Jason Heyward,R,Francisco Cervelli,465041,1,1,4,False,2017-04-14,Stolen,2B,2017,2018,27.5
+6,4673,1B,2B,Stolen Base 2B,608365,Addison Russell,641771,Chad Kuhl,471083,Miguel Montero,R,Francisco Cervelli,465041,3,0,2,False,2016-08-30,Stolen,2B,2016,2017,28.2
+7,5132,1B,2B,Stolen Base 2B,608365,Addison Russell,521230,Liam Hendriks,518792,Jason Heyward,R,Stephen Vogt,519390,0,3,6,True,2016-08-06,Stolen,2B,2016,2017,28.2
+8,5418,1B,2B,Stolen Base 2B,608365,Addison Russell,605200,Zach Davies,595879,Javier Báez,R,Jonathan Lucroy,518960,2,0,2,True,2016-07-23,Stolen,2B,2016,2017,28.2
+9,5619,1B,,Caught Stealing 2B,608365,Addison Russell,491703,Neftalí Feliz,595879,Javier Báez,R,Eric Fryer,518700,4,5,7,True,2016-07-10,Caught,2B,2016,2017,28.2
+10,6481,1B,2B,Stolen Base 2B,608365,Addison Russell,425794,Adam Wainwright,451594,Dexter Fowler,R,Yadier Molina,425877,1,3,6,True,2016-05-23,Stolen,2B,2016,2017,28.2
+11,6884,1B,2B,Stolen Base 2B,608365,Addison Russell,543037,Gerrit Cole,519333,Matt Szczur,R,Francisco Cervelli,465041,1,0,2,True,2016-05-02,Stolen,2B,2016,2017,28.2
+12,638,1B,2B,Stolen Base 2B,608365,Addison Russell,641771,Chad Kuhl,471083,Miguel Montero,R,Francisco Cervelli,465041,3,0,2,False,2016-08-30,Stolen,2B,2016,2017,28.2
+13,1097,1B,2B,Stolen Base 2B,608365,Addison Russell,521230,Liam Hendriks,518792,Jason Heyward,R,Stephen Vogt,519390,0,3,6,True,2016-08-06,Stolen,2B,2016,2017,28.2
+14,1383,1B,2B,Stolen Base 2B,608365,Addison Russell,605200,Zach Davies,595879,Javier Báez,R,Jonathan Lucroy,518960,2,0,2,True,2016-07-23,Stolen,2B,2016,2017,28.2
+15,1584,1B,,Caught Stealing 2B,608365,Addison Russell,491703,Neftalí Feliz,595879,Javier Báez,R,Eric Fryer,518700,4,5,7,True,2016-07-10,Caught,2B,2016,2017,28.2
+16,2446,1B,2B,Stolen Base 2B,608365,Addison Russell,425794,Adam Wainwright,451594,Dexter Fowler,R,Yadier Molina,425877,1,3,6,True,2016-05-23,Stolen,2B,2016,2017,28.2
+17,2849,1B,2B,Stolen Base 2B,608365,Addison Russell,543037,Gerrit Cole,519333,Matt Szczur,R,Francisco Cervelli,465041,1,0,2,True,2016-05-02,Stolen,2B,2016,2017,28.2
+18,4045,1B,2B,Stolen Base 2B,608365,Addison Russell,641771,Chad Kuhl,471083,Miguel Montero,R,Francisco Cervelli,465041,3,0,2,False,2016-08-30,Stolen,2B,2016,2017,28.2
+19,4504,1B,2B,Stolen Base 2B,608365,Addison Russell,521230,Liam Hendriks,518792,Jason Heyward,R,Stephen Vogt,519390,0,3,6,True,2016-08-06,Stolen,2B,2016,2017,28.2
+20,4790,1B,2B,Stolen Base 2B,608365,Addison Russell,605200,Zach Davies,595879,Javier Báez,R,Jonathan Lucroy,518960,2,0,2,True,2016-07-23,Stolen,2B,2016,2017,28.2
+21,4991,1B,,Caught Stealing 2B,608365,Addison Russell,491703,Neftalí Feliz,595879,Javier Báez,R,Eric Fryer,518700,4,5,7,True,2016-07-10,Caught,2B,2016,2017,28.2
+22,5853,1B,2B,Stolen Base 2B,608365,Addison Russell,425794,Adam Wainwright,451594,Dexter Fowler,R,Yadier Molina,425877,1,3,6,True,2016-05-23,Stolen,2B,2016,2017,28.2
+23,6256,1B,2B,Stolen Base 2B,608365,Addison Russell,543037,Gerrit Cole,519333,Matt Szczur,R,Francisco Cervelli,465041,1,0,2,True,2016-05-02,Stolen,2B,2016,2017,28.2
+24,917,3B,,Caught Stealing Home,608365,Addison Russell,461829,Gio González,516809,Junior Lake,L,Jose Lobaton,446653,0,2,5,True,2015-06-04,Caught,Home,2015,2016,28.5
+25,1305,1B,2B,Stolen Base 2B,608365,Addison Russell,491708,Arquimedes Caminero,451594,Dexter Fowler,R,Chris Stewart,455755,2,1,7,False,2015-05-16,Stolen,2B,2015,2016,28.5
+26,1815,2B,,Caught Stealing 3B,608365,Addison Russell,502046,Jeff Locke,468406,Jonathan Herrera,L,Chris Stewart,455755,1,3,4,True,2015-04-23,Caught,3B,2015,2016,28.5

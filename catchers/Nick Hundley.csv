@@ -1,0 +1,296 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,621035,Chris Taylor,596816,Roberto Gómez,400284,Chase Utley,R,Nick Hundley,460026,2,8,5,True,2018-04-28,Stolen,2B,2018,2019, 80.5, 0.71
+1,1B,2B,Stolen Base 2B,607208,Trea Turner,502188,Jeff Samardzija,594694,Wilmer Difo,R,Nick Hundley,460026,1,3,4,True,2018-04-25,Stolen,2B,2018,2019, 80.5, 0.71
+2,1B,2B,Stolen Base 2B,547180,Bryce Harper,502188,Jeff Samardzija,571431,Matt Adams,R,Nick Hundley,460026,1,6,4,True,2018-04-25,Stolen,2B,2018,2019, 80.5, 0.71
+3,2B,3B,Stolen Base 3B,545361,Mike Trout,473879,Sam Dyson,457708,Justin Upton,R,Nick Hundley,460026,4,3,8,False,2018-04-21,Stolen,3B,2018,2019, 80.5, 0.71
+4,1B,2B,Stolen Base 2B,592743,Andrelton Simmons,502188,Jeff Samardzija,594777,Kole Calhoun,R,Nick Hundley,460026,0,7,5,False,2018-04-20,Stolen,2B,2018,2019, 80.5, 0.71
+5,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,595881,Tyler Beede,595978,Austin Hedges,R,Nick Hundley,460026,0,1,2,False,2018-04-15,Stolen,2B,2018,2019, 80.5, 0.71
+6,1B,2B,Stolen Base 2B,517369,José Pirela,592612,Josh Osich,520471,Freddy Galvis,L,Nick Hundley,460026,6,1,6,False,2018-04-15,Stolen,2B,2018,2019, 80.5, 0.71
+7,1B,2B,Stolen Base 2B,614173,Franchy Cordero,571882,Derek Law,570799,Christian Villanueva,R,Nick Hundley,460026,7,1,6,False,2018-04-15,Stolen,2B,2018,2019, 80.5, 0.71
+8,1B,2B,Stolen Base 2B,571918,Deven Marrero,473879,Sam Dyson,571974,John Ryan Murphy,R,Nick Hundley,460026,3,5,7,True,2018-04-11,Stolen,2B,2018,2019, 80.5, 0.71
+9,1B,2B,Stolen Base 2B,400284,Chase Utley,518715,Cory Gearrin,477132,Clayton Kershaw,R,Nick Hundley,460026,0,1,7,True,2018-04-08,Stolen,2B,2018,2019, 80.5, 0.71
+10,1B,2B,Stolen Base 2B,621035,Chris Taylor,596816,Roberto Gómez,400284,Chase Utley,R,Nick Hundley,460026,2,8,5,True,2018-04-06,Stolen,2B,2018,2019, 80.5, 0.71
+11,1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,572955,Pierce Johnson,516416,Jean Segura,R,Nick Hundley,460026,1,6,6,True,2018-04-03,Stolen,2B,2018,2019, 80.5, 0.71
+12,1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,473879,Sam Dyson,516416,Jean Segura,R,Nick Hundley,460026,3,6,8,True,2018-04-03,Stolen,2B,2018,2019, 80.5, 0.71
+13,1B,2B,Stolen Base 2B,571875,Jake Lamb,518715,Cory Gearrin,518614,Daniel Descalso,R,Nick Hundley,460026,1,3,7,False,2017-09-27,Stolen,2B,2017,2018, 80.3, 0.74
+14,2B,3B,Stolen Base 3B,572041,AJ Pollock,473879,Sam Dyson,571757,Jeremy Hazelbaker,R,Nick Hundley,460026,2,3,9,False,2017-09-27,Stolen,3B,2017,2018, 80.3, 0.74
+15,1B,2B,Stolen Base 2B,518614,Daniel Descalso,473879,Sam Dyson,571757,Jeremy Hazelbaker,R,Nick Hundley,460026,2,3,9,False,2017-09-27,Stolen,2B,2017,2018, 80.3, 0.74
+16,1B,2B,Stolen Base 2B,592626,Joc Pederson,608717,Chris Stratton,477132,Clayton Kershaw,R,Nick Hundley,460026,1,0,2,False,2017-09-24,Stolen,2B,2017,2018, 80.3, 0.74
+17,1B,2B,Stolen Base 2B,621035,Chris Taylor,502188,Jeff Samardzija,608369,Corey Seager,R,Nick Hundley,460026,1,1,3,False,2017-09-22,Stolen,2B,2017,2018, 80.3, 0.74
+18,1B,2B,Stolen Base 2B,606466,Ketel Marte,518715,Cory Gearrin,571681,Rey Fuentes,R,Nick Hundley,460026,5,2,7,True,2017-09-17,Stolen,2B,2017,2018, 80.3, 0.74
+19,2B,3B,Stolen Base 3B,624577,Yasiel Puig,519043,Matt Moore,608369,Corey Seager,L,Nick Hundley,460026,0,2,2,True,2017-09-13,Stolen,3B,2017,2018, 80.3, 0.74
+20,1B,2B,Stolen Base 2B,621035,Chris Taylor,519043,Matt Moore,608369,Corey Seager,L,Nick Hundley,460026,0,2,2,True,2017-09-13,Stolen,2B,2017,2018, 80.3, 0.74
+21,3B,,Caught Stealing Home,608369,Corey Seager,519326,Hunter Strickland,523253,Logan Forsythe,R,Nick Hundley,460026,0,4,9,True,2017-09-13,Caught,Home,2017,2018, 80.3, 0.74
+22,1B,2B,Stolen Base 2B,608369,Corey Seager,605195,Kyle Crick,457759,Justin Turner,R,Nick Hundley,460026,4,4,4,True,2017-09-11,Stolen,2B,2017,2018, 80.3, 0.74
+23,1B,,Caught Stealing 2B,518466,Jabari Blash,621389,Ty Blach,605486,Cory Spangenberg,L,Nick Hundley,460026,1,0,4,False,2017-08-30,Caught,2B,2017,2018, 80.3, 0.74
+24,1B,,Caught Stealing 2B,571976,Wil Myers,502188,Jeff Samardzija,516949,Héctor Sánchez,R,Nick Hundley,460026,0,0,2,False,2017-08-28,Caught,2B,2017,2018, 80.3, 0.74
+25,1B,,Caught Stealing 2B,502671,Paul Goldschmidt,608717,Chris Stratton,502110,J.D. Martinez,R,Nick Hundley,460026,2,0,6,False,2017-08-27,Caught,2B,2017,2018, 80.3, 0.74
+26,1B,2B,Stolen Base 2B,543302,Chris Herrmann,430912,Matt Cain,592273,Brandon Drury,R,Nick Hundley,460026,6,0,8,False,2017-08-27,Stolen,2B,2017,2018, 80.3, 0.74
+27,2B,3B,Stolen Base 2B,543302,Chris Herrmann,430912,Matt Cain,592273,Brandon Drury,R,Nick Hundley,460026,6,0,8,False,2017-08-27,Stolen,2B,2017,2018, 80.3, 0.74
+28,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,430912,Matt Cain,592885,Christian Yelich,R,Nick Hundley,460026,0,0,1,False,2017-08-16,Stolen,2B,2017,2018, 80.3, 0.74
+29,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,544150,Albert Suárez,518618,Derek Dietrich,R,Nick Hundley,460026,5,1,5,False,2017-08-16,Stolen,2B,2017,2018, 80.3, 0.74
+30,1B,2B,Stolen Base 2B,571718,Brian Goodwin,519326,Hunter Strickland,543685,Anthony Rendon,R,Nick Hundley,460026,2,4,8,False,2017-08-13,Stolen,2B,2017,2018, 80.3, 0.74
+31,1B,,Caught Stealing 2B,605131,Austin Barnes,605195,Kyle Crick,571771,Enrique Hernández,R,Nick Hundley,460026,6,4,8,False,2017-07-28,Caught,2B,2017,2018, 80.3, 0.74
+32,1B,,Caught Stealing 2B,517369,José Pirela,519326,Hunter Strickland,571976,Wil Myers,R,Nick Hundley,460026,4,4,10,True,2017-07-22,Caught,2B,2017,2018, 80.3, 0.74
+33,1B,,Caught Stealing 2B,517369,José Pirela,502188,Jeff Samardzija,641319,Carlos Asuaje,R,Nick Hundley,460026,4,1,2,False,2017-07-16,Caught,2B,2017,2018, 80.3, 0.74
+34,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,519326,Hunter Strickland,595375,JT Riddle,R,Nick Hundley,460026,3,7,7,True,2017-07-09,Stolen,2B,2017,2018, 80.3, 0.74
+35,1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,592612,Josh Osich,519317,Giancarlo Stanton,L,Nick Hundley,460026,4,7,8,True,2017-07-09,Stolen,2B,2017,2018, 80.3, 0.74
+36,1B,2B,Stolen Base 2B,435622,Ian Desmond,621389,Ty Blach,571448,Nolan Arenado,L,Nick Hundley,460026,0,2,1,True,2017-06-28,Stolen,2B,2017,2018, 80.3, 0.74
+37,1B,2B,Stolen Base 2B,435622,Ian Desmond,430912,Matt Cain,471865,Carlos González,R,Nick Hundley,460026,1,1,5,False,2017-06-17,Stolen,2B,2017,2018, 80.3, 0.74
+38,1B,,Caught Stealing 2B,571448,Nolan Arenado,457768,Bryan Morris,448602,Mark Reynolds,R,Nick Hundley,460026,3,1,6,False,2017-06-17,Caught,2B,2017,2018, 80.3, 0.74
+39,1B,2B,Stolen Base 2B,518934,DJ LeMahieu,473879,Sam Dyson,571448,Nolan Arenado,R,Nick Hundley,460026,10,7,8,False,2017-06-16,Stolen,2B,2017,2018, 80.3, 0.74
+40,1B,2B,Stolen Base 2B,543257,Robbie Grossman,502004,George Kontos,488771,Jason Castro,R,Nick Hundley,460026,3,4,5,True,2017-06-11,Stolen,2B,2017,2018, 80.3, 0.74
+41,1B,2B,Stolen Base 2B,572821,Brian Dozier,502004,George Kontos,408045,Joe Mauer,R,Nick Hundley,460026,4,5,6,True,2017-06-11,Stolen,2B,2017,2018, 80.3, 0.74
+42,2B,3B,Stolen Base 3B,543768,Travis Shaw,456501,Johnny Cueto,542908,Jett Bandy,R,Nick Hundley,460026,3,3,5,False,2017-06-08,Stolen,3B,2017,2018, 80.3, 0.74
+43,1B,2B,Stolen Base 2B,570267,Domingo Santana,456501,Johnny Cueto,542908,Jett Bandy,R,Nick Hundley,460026,3,3,5,False,2017-06-08,Stolen,2B,2017,2018, 80.3, 0.74
+44,1B,2B,Stolen Base 2B,607208,Trea Turner,502188,Jeff Samardzija,547180,Bryce Harper,R,Nick Hundley,460026,0,0,1,True,2017-05-30,Stolen,2B,2017,2018, 80.3, 0.74
+45,1B,2B,Stolen Base 2B,624577,Yasiel Puig,456501,Johnny Cueto,477132,Clayton Kershaw,R,Nick Hundley,460026,0,5,6,True,2017-05-17,Stolen,2B,2017,2018, 80.3, 0.74
+46,1B,2B,Stolen Base 2B,519023,Devin Mesoraco,519043,Matt Moore,606299,José Peraza,L,Nick Hundley,460026,2,1,6,True,2017-05-13,Stolen,2B,2017,2018, 80.3, 0.74
+47,1B,2B,Stolen Base 2B,553993,Eugenio Suárez,621389,Ty Blach,594988,Scott Schebler,L,Nick Hundley,460026,1,1,4,True,2017-05-11,Stolen,2B,2017,2018, 80.3, 0.74
+48,1B,2B,Stolen Base 2B,571740,Billy Hamilton,430912,Matt Cain,446359,Zack Cozart,R,Nick Hundley,460026,3,1,2,False,2017-05-05,Stolen,2B,2017,2018, 80.3, 0.74
+49,2B,3B,Stolen Base 3B,571740,Billy Hamilton,430912,Matt Cain,446359,Zack Cozart,R,Nick Hundley,460026,3,1,2,False,2017-05-05,Stolen,3B,2017,2018, 80.3, 0.74
+50,1B,2B,Stolen Base 2B,446359,Zack Cozart,430912,Matt Cain,458015,Joey Votto,R,Nick Hundley,460026,3,1,2,False,2017-05-05,Stolen,2B,2017,2018, 80.3, 0.74
+51,1B,2B,Stolen Base 2B,606299,José Peraza,430912,Matt Cain,276520,Bronson Arroyo,R,Nick Hundley,460026,5,1,3,False,2017-05-05,Stolen,2B,2017,2018, 80.3, 0.74
+52,1B,2B,Stolen Base 2B,400284,Chase Utley,518715,Cory Gearrin,571771,Enrique Hernández,R,Nick Hundley,460026,10,5,5,False,2017-05-02,Stolen,2B,2017,2018, 80.3, 0.74
+53,1B,2B,Stolen Base 2B,430947,Erick Aybar,571882,Derek Law,571976,Wil Myers,R,Nick Hundley,460026,3,3,8,True,2017-04-28,Stolen,2B,2017,2018, 80.3, 0.74
+54,1B,2B,Stolen Base 2B,608369,Corey Seager,519326,Hunter Strickland,624577,Yasiel Puig,R,Nick Hundley,460026,1,2,8,True,2017-04-25,Stolen,2B,2017,2018, 80.3, 0.74
+55,1B,,Caught Stealing 2B,453568,Charlie Blackmon,502188,Jeff Samardzija,518934,DJ LeMahieu,R,Nick Hundley,460026,1,0,3,False,2017-04-23,Caught,2B,2017,2018, 80.3, 0.74
+56,1B,2B,Stolen Base 2B,456715,Lorenzo Cain,518516,Madison Bumgarner,543333,Eric Hosmer,L,Nick Hundley,460026,0,0,3,False,2017-04-19,Stolen,2B,2017,2018, 80.3, 0.74
+57,1B,2B,Stolen Base 2B,449181,Paulo Orlando,518516,Madison Bumgarner,460086,Alex Gordon,L,Nick Hundley,460026,0,0,5,False,2017-04-19,Stolen,2B,2017,2018, 80.3, 0.74
+58,1B,,Caught Stealing 2B,449181,Paulo Orlando,595345,Steven Okert,460086,Alex Gordon,L,Nick Hundley,460026,1,0,7,False,2017-04-19,Caught,2B,2017,2018, 80.3, 0.74
+59,1B,2B,Stolen Base 2B,461235,Brandon Moss,430912,Matt Cain,593160,Whit Merrifield,R,Nick Hundley,460026,0,0,2,False,2017-04-18,Stolen,2B,2017,2018, 80.3, 0.74
+60,1B,2B,Stolen Base 2B,571875,Jake Lamb,430912,Matt Cain,630111,Yasmany Tomás,R,Nick Hundley,460026,0,1,1,True,2017-04-12,Stolen,2B,2017,2018, 80.3, 0.74
+61,1B,2B,Stolen Base 2B,444482,David Peralta,502004,George Kontos,502671,Paul Goldschmidt,R,Nick Hundley,460026,3,1,7,True,2017-04-12,Stolen,2B,2017,2018, 80.3, 0.74
+62,1B,2B,Stolen Base 2B,608671,Travis Jankowski,430912,Matt Cain,571976,Wil Myers,R,Nick Hundley,460026,3,1,5,False,2017-04-07,Stolen,2B,2017,2018, 80.3, 0.74
+63,1B,2B,Stolen Base 2B,543094,Jaff Decker,607706,Michael Roth,572033,Josh Phegley,L,Nick Hundley,460026,3,4,6,False,2017-04-01,Stolen,2B,2017,2018, 80.3, 0.74
+64,1B,2B,Stolen Base 2B,571875,Jake Lamb,518715,Cory Gearrin,518614,Daniel Descalso,R,Nick Hundley,460026,1,3,7,False,2017-09-27,Stolen,2B,2017,2018, 80.3, 0.74
+65,2B,3B,Stolen Base 3B,572041,AJ Pollock,473879,Sam Dyson,571757,Jeremy Hazelbaker,R,Nick Hundley,460026,2,3,9,False,2017-09-27,Stolen,3B,2017,2018, 80.3, 0.74
+66,1B,2B,Stolen Base 2B,518614,Daniel Descalso,473879,Sam Dyson,571757,Jeremy Hazelbaker,R,Nick Hundley,460026,2,3,9,False,2017-09-27,Stolen,2B,2017,2018, 80.3, 0.74
+67,1B,2B,Stolen Base 2B,592626,Joc Pederson,608717,Chris Stratton,477132,Clayton Kershaw,R,Nick Hundley,460026,1,0,2,False,2017-09-24,Stolen,2B,2017,2018, 80.3, 0.74
+68,1B,2B,Stolen Base 2B,621035,Chris Taylor,502188,Jeff Samardzija,608369,Corey Seager,R,Nick Hundley,460026,1,1,3,False,2017-09-22,Stolen,2B,2017,2018, 80.3, 0.74
+69,1B,2B,Stolen Base 2B,606466,Ketel Marte,518715,Cory Gearrin,571681,Rey Fuentes,R,Nick Hundley,460026,5,2,7,True,2017-09-17,Stolen,2B,2017,2018, 80.3, 0.74
+70,2B,3B,Stolen Base 3B,624577,Yasiel Puig,519043,Matt Moore,608369,Corey Seager,L,Nick Hundley,460026,0,2,2,True,2017-09-13,Stolen,3B,2017,2018, 80.3, 0.74
+71,1B,2B,Stolen Base 2B,621035,Chris Taylor,519043,Matt Moore,608369,Corey Seager,L,Nick Hundley,460026,0,2,2,True,2017-09-13,Stolen,2B,2017,2018, 80.3, 0.74
+72,3B,,Caught Stealing Home,608369,Corey Seager,519326,Hunter Strickland,523253,Logan Forsythe,R,Nick Hundley,460026,0,4,9,True,2017-09-13,Caught,Home,2017,2018, 80.3, 0.74
+73,1B,2B,Stolen Base 2B,608369,Corey Seager,605195,Kyle Crick,457759,Justin Turner,R,Nick Hundley,460026,4,4,4,True,2017-09-11,Stolen,2B,2017,2018, 80.3, 0.74
+74,1B,,Caught Stealing 2B,518466,Jabari Blash,621389,Ty Blach,605486,Cory Spangenberg,L,Nick Hundley,460026,1,0,4,False,2017-08-30,Caught,2B,2017,2018, 80.3, 0.74
+75,1B,,Caught Stealing 2B,571976,Wil Myers,502188,Jeff Samardzija,516949,Héctor Sánchez,R,Nick Hundley,460026,0,0,2,False,2017-08-28,Caught,2B,2017,2018, 80.3, 0.74
+76,1B,,Caught Stealing 2B,502671,Paul Goldschmidt,608717,Chris Stratton,502110,J.D. Martinez,R,Nick Hundley,460026,2,0,6,False,2017-08-27,Caught,2B,2017,2018, 80.3, 0.74
+77,1B,2B,Stolen Base 2B,543302,Chris Herrmann,430912,Matt Cain,592273,Brandon Drury,R,Nick Hundley,460026,6,0,8,False,2017-08-27,Stolen,2B,2017,2018, 80.3, 0.74
+78,2B,3B,Stolen Base 2B,543302,Chris Herrmann,430912,Matt Cain,592273,Brandon Drury,R,Nick Hundley,460026,6,0,8,False,2017-08-27,Stolen,2B,2017,2018, 80.3, 0.74
+79,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,430912,Matt Cain,592885,Christian Yelich,R,Nick Hundley,460026,0,0,1,False,2017-08-16,Stolen,2B,2017,2018, 80.3, 0.74
+80,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,544150,Albert Suárez,518618,Derek Dietrich,R,Nick Hundley,460026,5,1,5,False,2017-08-16,Stolen,2B,2017,2018, 80.3, 0.74
+81,1B,2B,Stolen Base 2B,571718,Brian Goodwin,519326,Hunter Strickland,543685,Anthony Rendon,R,Nick Hundley,460026,2,4,8,False,2017-08-13,Stolen,2B,2017,2018, 80.3, 0.74
+82,1B,,Caught Stealing 2B,605131,Austin Barnes,605195,Kyle Crick,571771,Enrique Hernández,R,Nick Hundley,460026,6,4,8,False,2017-07-28,Caught,2B,2017,2018, 80.3, 0.74
+83,1B,,Caught Stealing 2B,517369,José Pirela,519326,Hunter Strickland,571976,Wil Myers,R,Nick Hundley,460026,4,4,10,True,2017-07-22,Caught,2B,2017,2018, 80.3, 0.74
+84,1B,,Caught Stealing 2B,517369,José Pirela,502188,Jeff Samardzija,641319,Carlos Asuaje,R,Nick Hundley,460026,4,1,2,False,2017-07-16,Caught,2B,2017,2018, 80.3, 0.74
+85,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,519326,Hunter Strickland,595375,JT Riddle,R,Nick Hundley,460026,3,7,7,True,2017-07-09,Stolen,2B,2017,2018, 80.3, 0.74
+86,1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,592612,Josh Osich,519317,Giancarlo Stanton,L,Nick Hundley,460026,4,7,8,True,2017-07-09,Stolen,2B,2017,2018, 80.3, 0.74
+87,1B,2B,Stolen Base 2B,435622,Ian Desmond,621389,Ty Blach,571448,Nolan Arenado,L,Nick Hundley,460026,0,2,1,True,2017-06-28,Stolen,2B,2017,2018, 80.3, 0.74
+88,1B,2B,Stolen Base 2B,435622,Ian Desmond,430912,Matt Cain,471865,Carlos González,R,Nick Hundley,460026,1,1,5,False,2017-06-17,Stolen,2B,2017,2018, 80.3, 0.74
+89,1B,,Caught Stealing 2B,571448,Nolan Arenado,457768,Bryan Morris,448602,Mark Reynolds,R,Nick Hundley,460026,3,1,6,False,2017-06-17,Caught,2B,2017,2018, 80.3, 0.74
+90,1B,2B,Stolen Base 2B,518934,DJ LeMahieu,473879,Sam Dyson,571448,Nolan Arenado,R,Nick Hundley,460026,10,7,8,False,2017-06-16,Stolen,2B,2017,2018, 80.3, 0.74
+91,1B,2B,Stolen Base 2B,543257,Robbie Grossman,502004,George Kontos,488771,Jason Castro,R,Nick Hundley,460026,3,4,5,True,2017-06-11,Stolen,2B,2017,2018, 80.3, 0.74
+92,1B,2B,Stolen Base 2B,572821,Brian Dozier,502004,George Kontos,408045,Joe Mauer,R,Nick Hundley,460026,4,5,6,True,2017-06-11,Stolen,2B,2017,2018, 80.3, 0.74
+93,2B,3B,Stolen Base 3B,543768,Travis Shaw,456501,Johnny Cueto,542908,Jett Bandy,R,Nick Hundley,460026,3,3,5,False,2017-06-08,Stolen,3B,2017,2018, 80.3, 0.74
+94,1B,2B,Stolen Base 2B,570267,Domingo Santana,456501,Johnny Cueto,542908,Jett Bandy,R,Nick Hundley,460026,3,3,5,False,2017-06-08,Stolen,2B,2017,2018, 80.3, 0.74
+95,1B,2B,Stolen Base 2B,607208,Trea Turner,502188,Jeff Samardzija,547180,Bryce Harper,R,Nick Hundley,460026,0,0,1,True,2017-05-30,Stolen,2B,2017,2018, 80.3, 0.74
+96,1B,2B,Stolen Base 2B,624577,Yasiel Puig,456501,Johnny Cueto,477132,Clayton Kershaw,R,Nick Hundley,460026,0,5,6,True,2017-05-17,Stolen,2B,2017,2018, 80.3, 0.74
+97,1B,2B,Stolen Base 2B,519023,Devin Mesoraco,519043,Matt Moore,606299,José Peraza,L,Nick Hundley,460026,2,1,6,True,2017-05-13,Stolen,2B,2017,2018, 80.3, 0.74
+98,1B,2B,Stolen Base 2B,553993,Eugenio Suárez,621389,Ty Blach,594988,Scott Schebler,L,Nick Hundley,460026,1,1,4,True,2017-05-11,Stolen,2B,2017,2018, 80.3, 0.74
+99,1B,2B,Stolen Base 2B,571740,Billy Hamilton,430912,Matt Cain,446359,Zack Cozart,R,Nick Hundley,460026,3,1,2,False,2017-05-05,Stolen,2B,2017,2018, 80.3, 0.74
+100,2B,3B,Stolen Base 3B,571740,Billy Hamilton,430912,Matt Cain,446359,Zack Cozart,R,Nick Hundley,460026,3,1,2,False,2017-05-05,Stolen,3B,2017,2018, 80.3, 0.74
+101,1B,2B,Stolen Base 2B,446359,Zack Cozart,430912,Matt Cain,458015,Joey Votto,R,Nick Hundley,460026,3,1,2,False,2017-05-05,Stolen,2B,2017,2018, 80.3, 0.74
+102,1B,2B,Stolen Base 2B,606299,José Peraza,430912,Matt Cain,276520,Bronson Arroyo,R,Nick Hundley,460026,5,1,3,False,2017-05-05,Stolen,2B,2017,2018, 80.3, 0.74
+103,1B,2B,Stolen Base 2B,400284,Chase Utley,518715,Cory Gearrin,571771,Enrique Hernández,R,Nick Hundley,460026,10,5,5,False,2017-05-02,Stolen,2B,2017,2018, 80.3, 0.74
+104,1B,2B,Stolen Base 2B,430947,Erick Aybar,571882,Derek Law,571976,Wil Myers,R,Nick Hundley,460026,3,3,8,True,2017-04-28,Stolen,2B,2017,2018, 80.3, 0.74
+105,1B,2B,Stolen Base 2B,608369,Corey Seager,519326,Hunter Strickland,624577,Yasiel Puig,R,Nick Hundley,460026,1,2,8,True,2017-04-25,Stolen,2B,2017,2018, 80.3, 0.74
+106,1B,,Caught Stealing 2B,453568,Charlie Blackmon,502188,Jeff Samardzija,518934,DJ LeMahieu,R,Nick Hundley,460026,1,0,3,False,2017-04-23,Caught,2B,2017,2018, 80.3, 0.74
+107,1B,2B,Stolen Base 2B,456715,Lorenzo Cain,518516,Madison Bumgarner,543333,Eric Hosmer,L,Nick Hundley,460026,0,0,3,False,2017-04-19,Stolen,2B,2017,2018, 80.3, 0.74
+108,1B,2B,Stolen Base 2B,449181,Paulo Orlando,518516,Madison Bumgarner,460086,Alex Gordon,L,Nick Hundley,460026,0,0,5,False,2017-04-19,Stolen,2B,2017,2018, 80.3, 0.74
+109,1B,,Caught Stealing 2B,449181,Paulo Orlando,595345,Steven Okert,460086,Alex Gordon,L,Nick Hundley,460026,1,0,7,False,2017-04-19,Caught,2B,2017,2018, 80.3, 0.74
+110,1B,2B,Stolen Base 2B,461235,Brandon Moss,430912,Matt Cain,593160,Whit Merrifield,R,Nick Hundley,460026,0,0,2,False,2017-04-18,Stolen,2B,2017,2018, 80.3, 0.74
+111,1B,2B,Stolen Base 2B,571875,Jake Lamb,430912,Matt Cain,630111,Yasmany Tomás,R,Nick Hundley,460026,0,1,1,True,2017-04-12,Stolen,2B,2017,2018, 80.3, 0.74
+112,1B,2B,Stolen Base 2B,444482,David Peralta,502004,George Kontos,502671,Paul Goldschmidt,R,Nick Hundley,460026,3,1,7,True,2017-04-12,Stolen,2B,2017,2018, 80.3, 0.74
+113,1B,2B,Stolen Base 2B,608671,Travis Jankowski,430912,Matt Cain,571976,Wil Myers,R,Nick Hundley,460026,3,1,5,False,2017-04-07,Stolen,2B,2017,2018, 80.3, 0.74
+114,1B,2B,Stolen Base 2B,543094,Jaff Decker,607706,Michael Roth,572033,Josh Phegley,L,Nick Hundley,460026,3,4,6,False,2017-04-01,Stolen,2B,2017,2018, 80.3, 0.74
+115,2B,3B,Stolen Base 3B,541650,Hernán Pérez,518452,Chad Bettis,455117,Martín Maldonado,R,Nick Hundley,460026,4,1,6,True,2016-09-30,Stolen,3B,2016,2017, 81.3, 0.73
+116,1B,2B,Stolen Base 2B,606115,Orlando Arcia,518452,Chad Bettis,455117,Martín Maldonado,R,Nick Hundley,460026,4,1,6,True,2016-09-30,Stolen,2B,2016,2017, 81.3, 0.73
+117,1B,,Caught Stealing 2B,502210,Josh Reddick,459429,Jake McGee,592626,Joc Pederson,L,Nick Hundley,460026,7,4,7,False,2016-09-22,Caught,2B,2016,2017, 81.3, 0.73
+118,1B,,Caught Stealing 2B,571976,Wil Myers,543022,Tyler Chatwood,596143,Luis Sardinas,R,Nick Hundley,460026,4,6,5,True,2016-09-16,Caught,2B,2016,2017, 81.3, 0.73
+119,1B,2B,Stolen Base 2B,506560,Alexi Amarista,543734,Chris Rusin,608671,Travis Jankowski,L,Nick Hundley,460026,4,7,6,True,2016-09-16,Stolen,2B,2016,2017, 81.3, 0.73
+120,1B,2B,Stolen Base 2B,519083,Derek Norris,459429,Jake McGee,506560,Alexi Amarista,L,Nick Hundley,460026,2,2,9,False,2016-09-11,Stolen,2B,2016,2017, 81.3, 0.73
+121,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,407822,Jorge De La Rosa,456078,Welington Castillo,L,Nick Hundley,460026,0,0,1,True,2016-09-02,Stolen,2B,2016,2017, 81.3, 0.73
+122,2B,3B,Stolen Base 3B,502671,Paul Goldschmidt,407822,Jorge De La Rosa,456078,Welington Castillo,L,Nick Hundley,460026,0,5,4,True,2016-09-02,Stolen,3B,2016,2017, 81.3, 0.73
+123,1B,2B,Stolen Base 2B,435062,Howie Kendrick,592351,Jon Gray,608369,Corey Seager,R,Nick Hundley,460026,0,0,3,True,2016-08-29,Stolen,2B,2016,2017, 81.3, 0.73
+124,1B,2B,Stolen Base 2B,607208,Trea Turner,407822,Jorge De La Rosa,547180,Bryce Harper,L,Nick Hundley,460026,0,0,1,False,2016-08-27,Stolen,2B,2016,2017, 81.3, 0.73
+125,1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,407822,Jorge De La Rosa,457787,Danny Espinosa,L,Nick Hundley,460026,0,0,2,False,2016-08-27,Stolen,2B,2016,2017, 81.3, 0.73
+126,1B,2B,Stolen Base 2B,519184,Ben Revere,493603,Adam Ottavino,607208,Trea Turner,R,Nick Hundley,460026,3,4,9,False,2016-08-27,Stolen,2B,2016,2017, 81.3, 0.73
+127,1B,2B,Stolen Base 2B,607208,Trea Turner,571539,Matt Carasiti,150029,Jayson Werth,R,Nick Hundley,460026,5,2,7,False,2016-08-26,Stolen,2B,2016,2017, 81.3, 0.73
+128,1B,2B,Stolen Base 2B,542340,Jonathan Villar,518452,Chad Bettis,542979,Keon Broxton,R,Nick Hundley,460026,0,1,1,False,2016-08-22,Stolen,2B,2016,2017, 81.3, 0.73
+129,1B,2B,Stolen Base 2B,542340,Jonathan Villar,518452,Chad Bettis,542979,Keon Broxton,R,Nick Hundley,460026,3,1,2,False,2016-08-22,Stolen,2B,2016,2017, 81.3, 0.73
+130,2B,3B,Stolen Base 3B,595879,Javier Báez,542881,Tyler Anderson,451594,Dexter Fowler,L,Nick Hundley,460026,1,2,5,True,2016-08-19,Stolen,3B,2016,2017, 81.3, 0.73
+131,1B,2B,Stolen Base 2B,607208,Trea Turner,543475,Jordan Lyles,150029,Jayson Werth,R,Nick Hundley,460026,4,4,7,True,2016-08-15,Stolen,2B,2016,2017, 81.3, 0.73
+132,1B,2B,Stolen Base 2B,607208,Trea Turner,623184,Scott Oberg,150029,Jayson Werth,R,Nick Hundley,460026,4,5,8,True,2016-08-15,Stolen,2B,2016,2017, 81.3, 0.73
+133,1B,2B,Stolen Base 2B,514917,César Hernández,543022,Tyler Chatwood,571437,Aaron Altherr,R,Nick Hundley,460026,3,2,4,False,2016-08-14,Stolen,2B,2016,2017, 81.3, 0.73
+134,1B,2B,Stolen Base 2B,596748,Maikel Franco,608032,Carlos Estévez,519237,Cameron Rupp,R,Nick Hundley,460026,7,4,8,False,2016-08-14,Stolen,2B,2016,2017, 81.3, 0.73
+135,1B,2B,Stolen Base 2B,546318,Odúbel Herrera,592351,Jon Gray,571437,Aaron Altherr,R,Nick Hundley,460026,1,0,1,False,2016-08-12,Stolen,2B,2016,2017, 81.3, 0.73
+136,1B,2B,Stolen Base 2B,514917,César Hernández,592351,Jon Gray,546318,Odúbel Herrera,R,Nick Hundley,460026,3,1,2,False,2016-08-12,Stolen,2B,2016,2017, 81.3, 0.73
+137,2B,3B,Stolen Base 3B,462101,Elvis Andrus,407822,Jorge De La Rosa,435622,Ian Desmond,L,Nick Hundley,460026,2,1,4,False,2016-08-10,Stolen,3B,2016,2017, 81.3, 0.73
+138,1B,2B,Stolen Base 2B,425783,Shin-Soo Choo,407822,Jorge De La Rosa,435622,Ian Desmond,L,Nick Hundley,460026,2,1,4,False,2016-08-10,Stolen,2B,2016,2017, 81.3, 0.73
+139,1B,2B,Stolen Base 2B,519048,Mitch Moreland,542674,Gonzalez Germen,425783,Shin-Soo Choo,R,Nick Hundley,460026,3,1,6,False,2016-08-10,Stolen,2B,2016,2017, 81.3, 0.73
+140,2B,3B,Stolen Base 3B,596059,Rougned Odor,608032,Carlos Estévez,462101,Elvis Andrus,R,Nick Hundley,460026,3,3,9,True,2016-08-08,Stolen,3B,2016,2017, 81.3, 0.73
+141,1B,2B,Stolen Base 2B,595777,Jurickson Profar,608032,Carlos Estévez,462101,Elvis Andrus,R,Nick Hundley,460026,3,3,9,True,2016-08-08,Stolen,2B,2016,2017, 81.3, 0.73
+142,1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,407822,Jorge De La Rosa,519317,Giancarlo Stanton,L,Nick Hundley,460026,0,1,1,True,2016-08-05,Stolen,2B,2016,2017, 81.3, 0.73
+143,1B,2B,Stolen Base 2B,435522,Neil Walker,407822,Jorge De La Rosa,527038,Wilmer Flores,L,Nick Hundley,460026,1,0,1,False,2016-07-30,Stolen,2B,2016,2017, 81.3, 0.73
+144,2B,,Caught Stealing 3B,448605,Justin Ruggiano,407822,Jorge De La Rosa,112526,Bartolo Colon,L,Nick Hundley,460026,2,3,4,False,2016-07-30,Caught,3B,2016,2017, 81.3, 0.73
+145,1B,,Caught Stealing 2B,607054,Jace Peterson,543022,Tyler Chatwood,488818,Chase d'Arnaud,R,Nick Hundley,460026,0,0,1,True,2016-07-24,Caught,2B,2016,2017, 81.3, 0.73
+146,1B,2B,Stolen Base 2B,542255,Ender Inciarte,543022,Tyler Chatwood,430947,Erick Aybar,R,Nick Hundley,460026,4,0,2,True,2016-07-24,Stolen,2B,2016,2017, 81.3, 0.73
+147,2B,3B,Stolen Base 3B,545338,Nick Franklin,493603,Adam Ottavino,523253,Logan Forsythe,R,Nick Hundley,460026,5,4,7,True,2016-07-18,Stolen,3B,2016,2017, 81.3, 0.73
+148,2B,3B,Stolen Base 3B,520471,Freddy Galvis,543022,Tyler Chatwood,571830,Tommy Joseph,R,Nick Hundley,460026,1,0,3,True,2016-07-10,Stolen,3B,2016,2017, 81.3, 0.73
+149,1B,2B,Stolen Base 2B,514917,César Hernández,543022,Tyler Chatwood,595963,Tyler Goeddel,R,Nick Hundley,460026,1,4,5,True,2016-07-10,Stolen,2B,2016,2017, 81.3, 0.73
+150,1B,,Caught Stealing 2B,546318,Odúbel Herrera,542674,Gonzalez Germen,520471,Freddy Galvis,R,Nick Hundley,460026,1,4,6,True,2016-07-10,Caught,2B,2016,2017, 81.3, 0.73
+151,1B,2B,Stolen Base 2B,520471,Freddy Galvis,592351,Jon Gray,592826,Vince Velasquez,R,Nick Hundley,460026,0,0,3,True,2016-07-08,Stolen,2B,2016,2017, 81.3, 0.73
+152,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,502522,Justin Miller,581527,Devon Travis,R,Nick Hundley,460026,5,11,7,True,2016-06-28,Stolen,2B,2016,2017, 81.3, 0.73
+153,1B,2B,Stolen Base 2B,456422,Michael Bourn,457429,Boone Logan,430001,Rickie Weeks Jr.,L,Nick Hundley,460026,7,7,8,True,2016-06-26,Stolen,2B,2016,2017, 81.3, 0.73
+154,2B,3B,Stolen Base 3B,516416,Jean Segura,542881,Tyler Anderson,502671,Paul Goldschmidt,L,Nick Hundley,460026,0,0,1,True,2016-06-24,Stolen,3B,2016,2017, 81.3, 0.73
+155,1B,2B,Stolen Base 2B,456422,Michael Bourn,542881,Tyler Anderson,502671,Paul Goldschmidt,L,Nick Hundley,460026,0,0,1,True,2016-06-24,Stolen,2B,2016,2017, 81.3, 0.73
+156,2B,3B,Stolen Base 3B,502671,Paul Goldschmidt,542881,Tyler Anderson,594838,Phil Gosselin,L,Nick Hundley,460026,0,2,3,True,2016-06-24,Stolen,3B,2016,2017, 81.3, 0.73
+157,2B,3B,Stolen Base 3B,630111,Yasmany Tomás,542881,Tyler Anderson,516416,Jean Segura,L,Nick Hundley,460026,1,2,4,True,2016-06-24,Stolen,3B,2016,2017, 81.3, 0.73
+158,1B,2B,Stolen Base 2B,516416,Jean Segura,435400,Jason Motte,456422,Michael Bourn,R,Nick Hundley,460026,3,8,7,True,2016-06-24,Stolen,2B,2016,2017, 81.3, 0.73
+159,1B,2B,Stolen Base 2B,456422,Michael Bourn,608032,Carlos Estévez,502671,Paul Goldschmidt,R,Nick Hundley,460026,9,10,9,True,2016-06-24,Stolen,2B,2016,2017, 81.3, 0.73
+160,1B,2B,Stolen Base 2B,425844,Zack Greinke,572750,Eddie Butler,516416,Jean Segura,R,Nick Hundley,460026,3,4,4,True,2016-06-23,Stolen,2B,2016,2017, 81.3, 0.73
+161,1B,2B,Stolen Base 2B,592885,Christian Yelich,435400,Jason Motte,592663,J.T. Realmuto,R,Nick Hundley,460026,3,4,8,False,2016-06-20,Stolen,2B,2016,2017, 81.3, 0.73
+162,2B,3B,Stolen Base 3B,493351,Alexei Ramirez,542881,Tyler Anderson,543184,Christian Friedrich,L,Nick Hundley,460026,0,0,5,True,2016-06-12,Stolen,3B,2016,2017, 81.3, 0.73
+163,1B,2B,Stolen Base 2B,506560,Alexi Amarista,608032,Carlos Estévez,445055,Jon Jay,R,Nick Hundley,460026,4,3,8,True,2016-06-10,Stolen,2B,2016,2017, 81.3, 0.73
+164,1B,2B,Stolen Base 2B,571976,Wil Myers,608032,Carlos Estévez,500208,Yangervis Solarte,R,Nick Hundley,460026,4,3,8,True,2016-06-10,Stolen,2B,2016,2017, 81.3, 0.73
+165,3B,score,Stolen Base Home,425834,B.J. Upton,543734,Chris Rusin,519141,Drew Pomeranz,L,Nick Hundley,460026,4,0,4,False,2016-06-03,Stolen,Home,2016,2017, 81.3, 0.73
+166,1B,2B,Stolen Base 2B,608671,Travis Jankowski,502522,Justin Miller,425834,B.J. Upton,R,Nick Hundley,460026,4,0,8,False,2016-06-03,Stolen,2B,2016,2017, 81.3, 0.73
+167,1B,,Caught Stealing 2B,630111,Yasmany Tomás,543022,Tyler Chatwood,572008,Chris Owings,R,Nick Hundley,460026,0,0,2,False,2016-04-29,Caught,2B,2016,2017, 81.3, 0.73
+168,1B,2B,Stolen Base 2B,516782,Starling Marte,592351,Jon Gray,465041,Francisco Cervelli,R,Nick Hundley,460026,0,2,3,True,2016-04-27,Stolen,2B,2016,2017, 81.3, 0.73
+169,1B,2B,Stolen Base 2B,516782,Starling Marte,518452,Chad Bettis,465041,Francisco Cervelli,R,Nick Hundley,460026,0,0,1,True,2016-04-25,Stolen,2B,2016,2017, 81.3, 0.73
+170,1B,2B,Stolen Base 2B,434636,Ángel Pagán,543261,Jason Gurka,623143,Trevor Brown,L,Nick Hundley,460026,2,7,8,True,2016-04-12,Stolen,2B,2016,2017, 81.3, 0.73
+171,1B,2B,Stolen Base 2B,425834,B.J. Upton,543475,Jordan Lyles,607067,Colin Rea,R,Nick Hundley,460026,2,0,4,True,2016-04-08,Stolen,2B,2016,2017, 81.3, 0.73
+172,1B,2B,Stolen Base 2B,445055,Jon Jay,543475,Jordan Lyles,605486,Cory Spangenberg,R,Nick Hundley,460026,2,3,4,True,2016-04-08,Stolen,2B,2016,2017, 81.3, 0.73
+173,1B,2B,Stolen Base 2B,571976,Wil Myers,502522,Justin Miller,500208,Yangervis Solarte,R,Nick Hundley,460026,5,9,5,True,2016-04-08,Stolen,2B,2016,2017, 81.3, 0.73
+174,1B,2B,Stolen Base 2B,516416,Jean Segura,612434,Miguel Castro,572008,Chris Owings,R,Nick Hundley,460026,2,4,7,False,2016-04-06,Stolen,2B,2016,2017, 81.3, 0.73
+175,2B,3B,Stolen Base 3B,541650,Hernán Pérez,518452,Chad Bettis,455117,Martín Maldonado,R,Nick Hundley,460026,4,1,6,True,2016-09-30,Stolen,3B,2016,2017, 81.3, 0.73
+176,1B,2B,Stolen Base 2B,606115,Orlando Arcia,518452,Chad Bettis,455117,Martín Maldonado,R,Nick Hundley,460026,4,1,6,True,2016-09-30,Stolen,2B,2016,2017, 81.3, 0.73
+177,1B,,Caught Stealing 2B,502210,Josh Reddick,459429,Jake McGee,592626,Joc Pederson,L,Nick Hundley,460026,7,4,7,False,2016-09-22,Caught,2B,2016,2017, 81.3, 0.73
+178,1B,,Caught Stealing 2B,571976,Wil Myers,543022,Tyler Chatwood,596143,Luis Sardinas,R,Nick Hundley,460026,4,6,5,True,2016-09-16,Caught,2B,2016,2017, 81.3, 0.73
+179,1B,2B,Stolen Base 2B,506560,Alexi Amarista,543734,Chris Rusin,608671,Travis Jankowski,L,Nick Hundley,460026,4,7,6,True,2016-09-16,Stolen,2B,2016,2017, 81.3, 0.73
+180,1B,2B,Stolen Base 2B,519083,Derek Norris,459429,Jake McGee,506560,Alexi Amarista,L,Nick Hundley,460026,2,2,9,False,2016-09-11,Stolen,2B,2016,2017, 81.3, 0.73
+181,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,407822,Jorge De La Rosa,456078,Welington Castillo,L,Nick Hundley,460026,0,0,1,True,2016-09-02,Stolen,2B,2016,2017, 81.3, 0.73
+182,2B,3B,Stolen Base 3B,502671,Paul Goldschmidt,407822,Jorge De La Rosa,456078,Welington Castillo,L,Nick Hundley,460026,0,5,4,True,2016-09-02,Stolen,3B,2016,2017, 81.3, 0.73
+183,1B,2B,Stolen Base 2B,435062,Howie Kendrick,592351,Jon Gray,608369,Corey Seager,R,Nick Hundley,460026,0,0,3,True,2016-08-29,Stolen,2B,2016,2017, 81.3, 0.73
+184,1B,2B,Stolen Base 2B,607208,Trea Turner,407822,Jorge De La Rosa,547180,Bryce Harper,L,Nick Hundley,460026,0,0,1,False,2016-08-27,Stolen,2B,2016,2017, 81.3, 0.73
+185,1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,407822,Jorge De La Rosa,457787,Danny Espinosa,L,Nick Hundley,460026,0,0,2,False,2016-08-27,Stolen,2B,2016,2017, 81.3, 0.73
+186,1B,2B,Stolen Base 2B,519184,Ben Revere,493603,Adam Ottavino,607208,Trea Turner,R,Nick Hundley,460026,3,4,9,False,2016-08-27,Stolen,2B,2016,2017, 81.3, 0.73
+187,1B,2B,Stolen Base 2B,607208,Trea Turner,571539,Matt Carasiti,150029,Jayson Werth,R,Nick Hundley,460026,5,2,7,False,2016-08-26,Stolen,2B,2016,2017, 81.3, 0.73
+188,1B,2B,Stolen Base 2B,542340,Jonathan Villar,518452,Chad Bettis,542979,Keon Broxton,R,Nick Hundley,460026,0,1,1,False,2016-08-22,Stolen,2B,2016,2017, 81.3, 0.73
+189,1B,2B,Stolen Base 2B,542340,Jonathan Villar,518452,Chad Bettis,542979,Keon Broxton,R,Nick Hundley,460026,3,1,2,False,2016-08-22,Stolen,2B,2016,2017, 81.3, 0.73
+190,2B,3B,Stolen Base 3B,595879,Javier Báez,542881,Tyler Anderson,451594,Dexter Fowler,L,Nick Hundley,460026,1,2,5,True,2016-08-19,Stolen,3B,2016,2017, 81.3, 0.73
+191,1B,2B,Stolen Base 2B,607208,Trea Turner,543475,Jordan Lyles,150029,Jayson Werth,R,Nick Hundley,460026,4,4,7,True,2016-08-15,Stolen,2B,2016,2017, 81.3, 0.73
+192,1B,2B,Stolen Base 2B,607208,Trea Turner,623184,Scott Oberg,150029,Jayson Werth,R,Nick Hundley,460026,4,5,8,True,2016-08-15,Stolen,2B,2016,2017, 81.3, 0.73
+193,1B,2B,Stolen Base 2B,514917,César Hernández,543022,Tyler Chatwood,571437,Aaron Altherr,R,Nick Hundley,460026,3,2,4,False,2016-08-14,Stolen,2B,2016,2017, 81.3, 0.73
+194,1B,2B,Stolen Base 2B,596748,Maikel Franco,608032,Carlos Estévez,519237,Cameron Rupp,R,Nick Hundley,460026,7,4,8,False,2016-08-14,Stolen,2B,2016,2017, 81.3, 0.73
+195,1B,2B,Stolen Base 2B,546318,Odúbel Herrera,592351,Jon Gray,571437,Aaron Altherr,R,Nick Hundley,460026,1,0,1,False,2016-08-12,Stolen,2B,2016,2017, 81.3, 0.73
+196,1B,2B,Stolen Base 2B,514917,César Hernández,592351,Jon Gray,546318,Odúbel Herrera,R,Nick Hundley,460026,3,1,2,False,2016-08-12,Stolen,2B,2016,2017, 81.3, 0.73
+197,2B,3B,Stolen Base 3B,462101,Elvis Andrus,407822,Jorge De La Rosa,435622,Ian Desmond,L,Nick Hundley,460026,2,1,4,False,2016-08-10,Stolen,3B,2016,2017, 81.3, 0.73
+198,1B,2B,Stolen Base 2B,425783,Shin-Soo Choo,407822,Jorge De La Rosa,435622,Ian Desmond,L,Nick Hundley,460026,2,1,4,False,2016-08-10,Stolen,2B,2016,2017, 81.3, 0.73
+199,1B,2B,Stolen Base 2B,519048,Mitch Moreland,542674,Gonzalez Germen,425783,Shin-Soo Choo,R,Nick Hundley,460026,3,1,6,False,2016-08-10,Stolen,2B,2016,2017, 81.3, 0.73
+200,2B,3B,Stolen Base 3B,596059,Rougned Odor,608032,Carlos Estévez,462101,Elvis Andrus,R,Nick Hundley,460026,3,3,9,True,2016-08-08,Stolen,3B,2016,2017, 81.3, 0.73
+201,1B,2B,Stolen Base 2B,595777,Jurickson Profar,608032,Carlos Estévez,462101,Elvis Andrus,R,Nick Hundley,460026,3,3,9,True,2016-08-08,Stolen,2B,2016,2017, 81.3, 0.73
+202,1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,407822,Jorge De La Rosa,519317,Giancarlo Stanton,L,Nick Hundley,460026,0,1,1,True,2016-08-05,Stolen,2B,2016,2017, 81.3, 0.73
+203,1B,2B,Stolen Base 2B,435522,Neil Walker,407822,Jorge De La Rosa,527038,Wilmer Flores,L,Nick Hundley,460026,1,0,1,False,2016-07-30,Stolen,2B,2016,2017, 81.3, 0.73
+204,2B,,Caught Stealing 3B,448605,Justin Ruggiano,407822,Jorge De La Rosa,112526,Bartolo Colon,L,Nick Hundley,460026,2,3,4,False,2016-07-30,Caught,3B,2016,2017, 81.3, 0.73
+205,1B,,Caught Stealing 2B,607054,Jace Peterson,543022,Tyler Chatwood,488818,Chase d'Arnaud,R,Nick Hundley,460026,0,0,1,True,2016-07-24,Caught,2B,2016,2017, 81.3, 0.73
+206,1B,2B,Stolen Base 2B,542255,Ender Inciarte,543022,Tyler Chatwood,430947,Erick Aybar,R,Nick Hundley,460026,4,0,2,True,2016-07-24,Stolen,2B,2016,2017, 81.3, 0.73
+207,2B,3B,Stolen Base 3B,545338,Nick Franklin,493603,Adam Ottavino,523253,Logan Forsythe,R,Nick Hundley,460026,5,4,7,True,2016-07-18,Stolen,3B,2016,2017, 81.3, 0.73
+208,2B,3B,Stolen Base 3B,520471,Freddy Galvis,543022,Tyler Chatwood,571830,Tommy Joseph,R,Nick Hundley,460026,1,0,3,True,2016-07-10,Stolen,3B,2016,2017, 81.3, 0.73
+209,1B,2B,Stolen Base 2B,514917,César Hernández,543022,Tyler Chatwood,595963,Tyler Goeddel,R,Nick Hundley,460026,1,4,5,True,2016-07-10,Stolen,2B,2016,2017, 81.3, 0.73
+210,1B,,Caught Stealing 2B,546318,Odúbel Herrera,542674,Gonzalez Germen,520471,Freddy Galvis,R,Nick Hundley,460026,1,4,6,True,2016-07-10,Caught,2B,2016,2017, 81.3, 0.73
+211,1B,2B,Stolen Base 2B,520471,Freddy Galvis,592351,Jon Gray,592826,Vince Velasquez,R,Nick Hundley,460026,0,0,3,True,2016-07-08,Stolen,2B,2016,2017, 81.3, 0.73
+212,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,502522,Justin Miller,581527,Devon Travis,R,Nick Hundley,460026,5,11,7,True,2016-06-28,Stolen,2B,2016,2017, 81.3, 0.73
+213,1B,2B,Stolen Base 2B,456422,Michael Bourn,457429,Boone Logan,430001,Rickie Weeks Jr.,L,Nick Hundley,460026,7,7,8,True,2016-06-26,Stolen,2B,2016,2017, 81.3, 0.73
+214,2B,3B,Stolen Base 3B,516416,Jean Segura,542881,Tyler Anderson,502671,Paul Goldschmidt,L,Nick Hundley,460026,0,0,1,True,2016-06-24,Stolen,3B,2016,2017, 81.3, 0.73
+215,1B,2B,Stolen Base 2B,456422,Michael Bourn,542881,Tyler Anderson,502671,Paul Goldschmidt,L,Nick Hundley,460026,0,0,1,True,2016-06-24,Stolen,2B,2016,2017, 81.3, 0.73
+216,2B,3B,Stolen Base 3B,502671,Paul Goldschmidt,542881,Tyler Anderson,594838,Phil Gosselin,L,Nick Hundley,460026,0,2,3,True,2016-06-24,Stolen,3B,2016,2017, 81.3, 0.73
+217,2B,3B,Stolen Base 3B,630111,Yasmany Tomás,542881,Tyler Anderson,516416,Jean Segura,L,Nick Hundley,460026,1,2,4,True,2016-06-24,Stolen,3B,2016,2017, 81.3, 0.73
+218,1B,2B,Stolen Base 2B,516416,Jean Segura,435400,Jason Motte,456422,Michael Bourn,R,Nick Hundley,460026,3,8,7,True,2016-06-24,Stolen,2B,2016,2017, 81.3, 0.73
+219,1B,2B,Stolen Base 2B,456422,Michael Bourn,608032,Carlos Estévez,502671,Paul Goldschmidt,R,Nick Hundley,460026,9,10,9,True,2016-06-24,Stolen,2B,2016,2017, 81.3, 0.73
+220,1B,2B,Stolen Base 2B,425844,Zack Greinke,572750,Eddie Butler,516416,Jean Segura,R,Nick Hundley,460026,3,4,4,True,2016-06-23,Stolen,2B,2016,2017, 81.3, 0.73
+221,1B,2B,Stolen Base 2B,592885,Christian Yelich,435400,Jason Motte,592663,J.T. Realmuto,R,Nick Hundley,460026,3,4,8,False,2016-06-20,Stolen,2B,2016,2017, 81.3, 0.73
+222,2B,3B,Stolen Base 3B,493351,Alexei Ramirez,542881,Tyler Anderson,543184,Christian Friedrich,L,Nick Hundley,460026,0,0,5,True,2016-06-12,Stolen,3B,2016,2017, 81.3, 0.73
+223,1B,2B,Stolen Base 2B,506560,Alexi Amarista,608032,Carlos Estévez,445055,Jon Jay,R,Nick Hundley,460026,4,3,8,True,2016-06-10,Stolen,2B,2016,2017, 81.3, 0.73
+224,1B,2B,Stolen Base 2B,571976,Wil Myers,608032,Carlos Estévez,500208,Yangervis Solarte,R,Nick Hundley,460026,4,3,8,True,2016-06-10,Stolen,2B,2016,2017, 81.3, 0.73
+225,3B,score,Stolen Base Home,425834,B.J. Upton,543734,Chris Rusin,519141,Drew Pomeranz,L,Nick Hundley,460026,4,0,4,False,2016-06-03,Stolen,Home,2016,2017, 81.3, 0.73
+226,1B,2B,Stolen Base 2B,608671,Travis Jankowski,502522,Justin Miller,425834,B.J. Upton,R,Nick Hundley,460026,4,0,8,False,2016-06-03,Stolen,2B,2016,2017, 81.3, 0.73
+227,1B,,Caught Stealing 2B,630111,Yasmany Tomás,543022,Tyler Chatwood,572008,Chris Owings,R,Nick Hundley,460026,0,0,2,False,2016-04-29,Caught,2B,2016,2017, 81.3, 0.73
+228,1B,2B,Stolen Base 2B,516782,Starling Marte,592351,Jon Gray,465041,Francisco Cervelli,R,Nick Hundley,460026,0,2,3,True,2016-04-27,Stolen,2B,2016,2017, 81.3, 0.73
+229,1B,2B,Stolen Base 2B,516782,Starling Marte,518452,Chad Bettis,465041,Francisco Cervelli,R,Nick Hundley,460026,0,0,1,True,2016-04-25,Stolen,2B,2016,2017, 81.3, 0.73
+230,1B,2B,Stolen Base 2B,434636,Ángel Pagán,543261,Jason Gurka,623143,Trevor Brown,L,Nick Hundley,460026,2,7,8,True,2016-04-12,Stolen,2B,2016,2017, 81.3, 0.73
+231,1B,2B,Stolen Base 2B,425834,B.J. Upton,543475,Jordan Lyles,607067,Colin Rea,R,Nick Hundley,460026,2,0,4,True,2016-04-08,Stolen,2B,2016,2017, 81.3, 0.73
+232,1B,2B,Stolen Base 2B,445055,Jon Jay,543475,Jordan Lyles,605486,Cory Spangenberg,R,Nick Hundley,460026,2,3,4,True,2016-04-08,Stolen,2B,2016,2017, 81.3, 0.73
+233,1B,2B,Stolen Base 2B,571976,Wil Myers,502522,Justin Miller,500208,Yangervis Solarte,R,Nick Hundley,460026,5,9,5,True,2016-04-08,Stolen,2B,2016,2017, 81.3, 0.73
+234,1B,2B,Stolen Base 2B,516416,Jean Segura,612434,Miguel Castro,572008,Chris Owings,R,Nick Hundley,460026,2,4,7,False,2016-04-06,Stolen,2B,2016,2017, 81.3, 0.73
+235,2B,3B,Stolen Base 3B,541650,Hernán Pérez,518452,Chad Bettis,455117,Martín Maldonado,R,Nick Hundley,460026,4,1,6,True,2016-09-30,Stolen,3B,2016,2017, 81.3, 0.73
+236,1B,2B,Stolen Base 2B,606115,Orlando Arcia,518452,Chad Bettis,455117,Martín Maldonado,R,Nick Hundley,460026,4,1,6,True,2016-09-30,Stolen,2B,2016,2017, 81.3, 0.73
+237,1B,,Caught Stealing 2B,502210,Josh Reddick,459429,Jake McGee,592626,Joc Pederson,L,Nick Hundley,460026,7,4,7,False,2016-09-22,Caught,2B,2016,2017, 81.3, 0.73
+238,1B,,Caught Stealing 2B,571976,Wil Myers,543022,Tyler Chatwood,596143,Luis Sardinas,R,Nick Hundley,460026,4,6,5,True,2016-09-16,Caught,2B,2016,2017, 81.3, 0.73
+239,1B,2B,Stolen Base 2B,506560,Alexi Amarista,543734,Chris Rusin,608671,Travis Jankowski,L,Nick Hundley,460026,4,7,6,True,2016-09-16,Stolen,2B,2016,2017, 81.3, 0.73
+240,1B,2B,Stolen Base 2B,519083,Derek Norris,459429,Jake McGee,506560,Alexi Amarista,L,Nick Hundley,460026,2,2,9,False,2016-09-11,Stolen,2B,2016,2017, 81.3, 0.73
+241,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,407822,Jorge De La Rosa,456078,Welington Castillo,L,Nick Hundley,460026,0,0,1,True,2016-09-02,Stolen,2B,2016,2017, 81.3, 0.73
+242,2B,3B,Stolen Base 3B,502671,Paul Goldschmidt,407822,Jorge De La Rosa,456078,Welington Castillo,L,Nick Hundley,460026,0,5,4,True,2016-09-02,Stolen,3B,2016,2017, 81.3, 0.73
+243,1B,2B,Stolen Base 2B,435062,Howie Kendrick,592351,Jon Gray,608369,Corey Seager,R,Nick Hundley,460026,0,0,3,True,2016-08-29,Stolen,2B,2016,2017, 81.3, 0.73
+244,1B,2B,Stolen Base 2B,607208,Trea Turner,407822,Jorge De La Rosa,547180,Bryce Harper,L,Nick Hundley,460026,0,0,1,False,2016-08-27,Stolen,2B,2016,2017, 81.3, 0.73
+245,1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,407822,Jorge De La Rosa,457787,Danny Espinosa,L,Nick Hundley,460026,0,0,2,False,2016-08-27,Stolen,2B,2016,2017, 81.3, 0.73
+246,1B,2B,Stolen Base 2B,519184,Ben Revere,493603,Adam Ottavino,607208,Trea Turner,R,Nick Hundley,460026,3,4,9,False,2016-08-27,Stolen,2B,2016,2017, 81.3, 0.73
+247,1B,2B,Stolen Base 2B,607208,Trea Turner,571539,Matt Carasiti,150029,Jayson Werth,R,Nick Hundley,460026,5,2,7,False,2016-08-26,Stolen,2B,2016,2017, 81.3, 0.73
+248,1B,2B,Stolen Base 2B,542340,Jonathan Villar,518452,Chad Bettis,542979,Keon Broxton,R,Nick Hundley,460026,0,1,1,False,2016-08-22,Stolen,2B,2016,2017, 81.3, 0.73
+249,1B,2B,Stolen Base 2B,542340,Jonathan Villar,518452,Chad Bettis,542979,Keon Broxton,R,Nick Hundley,460026,3,1,2,False,2016-08-22,Stolen,2B,2016,2017, 81.3, 0.73
+250,2B,3B,Stolen Base 3B,595879,Javier Báez,542881,Tyler Anderson,451594,Dexter Fowler,L,Nick Hundley,460026,1,2,5,True,2016-08-19,Stolen,3B,2016,2017, 81.3, 0.73
+251,1B,2B,Stolen Base 2B,607208,Trea Turner,543475,Jordan Lyles,150029,Jayson Werth,R,Nick Hundley,460026,4,4,7,True,2016-08-15,Stolen,2B,2016,2017, 81.3, 0.73
+252,1B,2B,Stolen Base 2B,607208,Trea Turner,623184,Scott Oberg,150029,Jayson Werth,R,Nick Hundley,460026,4,5,8,True,2016-08-15,Stolen,2B,2016,2017, 81.3, 0.73
+253,1B,2B,Stolen Base 2B,514917,César Hernández,543022,Tyler Chatwood,571437,Aaron Altherr,R,Nick Hundley,460026,3,2,4,False,2016-08-14,Stolen,2B,2016,2017, 81.3, 0.73
+254,1B,2B,Stolen Base 2B,596748,Maikel Franco,608032,Carlos Estévez,519237,Cameron Rupp,R,Nick Hundley,460026,7,4,8,False,2016-08-14,Stolen,2B,2016,2017, 81.3, 0.73
+255,1B,2B,Stolen Base 2B,546318,Odúbel Herrera,592351,Jon Gray,571437,Aaron Altherr,R,Nick Hundley,460026,1,0,1,False,2016-08-12,Stolen,2B,2016,2017, 81.3, 0.73
+256,1B,2B,Stolen Base 2B,514917,César Hernández,592351,Jon Gray,546318,Odúbel Herrera,R,Nick Hundley,460026,3,1,2,False,2016-08-12,Stolen,2B,2016,2017, 81.3, 0.73
+257,2B,3B,Stolen Base 3B,462101,Elvis Andrus,407822,Jorge De La Rosa,435622,Ian Desmond,L,Nick Hundley,460026,2,1,4,False,2016-08-10,Stolen,3B,2016,2017, 81.3, 0.73
+258,1B,2B,Stolen Base 2B,425783,Shin-Soo Choo,407822,Jorge De La Rosa,435622,Ian Desmond,L,Nick Hundley,460026,2,1,4,False,2016-08-10,Stolen,2B,2016,2017, 81.3, 0.73
+259,1B,2B,Stolen Base 2B,519048,Mitch Moreland,542674,Gonzalez Germen,425783,Shin-Soo Choo,R,Nick Hundley,460026,3,1,6,False,2016-08-10,Stolen,2B,2016,2017, 81.3, 0.73
+260,2B,3B,Stolen Base 3B,596059,Rougned Odor,608032,Carlos Estévez,462101,Elvis Andrus,R,Nick Hundley,460026,3,3,9,True,2016-08-08,Stolen,3B,2016,2017, 81.3, 0.73
+261,1B,2B,Stolen Base 2B,595777,Jurickson Profar,608032,Carlos Estévez,462101,Elvis Andrus,R,Nick Hundley,460026,3,3,9,True,2016-08-08,Stolen,2B,2016,2017, 81.3, 0.73
+262,1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,407822,Jorge De La Rosa,519317,Giancarlo Stanton,L,Nick Hundley,460026,0,1,1,True,2016-08-05,Stolen,2B,2016,2017, 81.3, 0.73
+263,1B,2B,Stolen Base 2B,435522,Neil Walker,407822,Jorge De La Rosa,527038,Wilmer Flores,L,Nick Hundley,460026,1,0,1,False,2016-07-30,Stolen,2B,2016,2017, 81.3, 0.73
+264,2B,,Caught Stealing 3B,448605,Justin Ruggiano,407822,Jorge De La Rosa,112526,Bartolo Colon,L,Nick Hundley,460026,2,3,4,False,2016-07-30,Caught,3B,2016,2017, 81.3, 0.73
+265,1B,,Caught Stealing 2B,607054,Jace Peterson,543022,Tyler Chatwood,488818,Chase d'Arnaud,R,Nick Hundley,460026,0,0,1,True,2016-07-24,Caught,2B,2016,2017, 81.3, 0.73
+266,1B,2B,Stolen Base 2B,542255,Ender Inciarte,543022,Tyler Chatwood,430947,Erick Aybar,R,Nick Hundley,460026,4,0,2,True,2016-07-24,Stolen,2B,2016,2017, 81.3, 0.73
+267,2B,3B,Stolen Base 3B,545338,Nick Franklin,493603,Adam Ottavino,523253,Logan Forsythe,R,Nick Hundley,460026,5,4,7,True,2016-07-18,Stolen,3B,2016,2017, 81.3, 0.73
+268,2B,3B,Stolen Base 3B,520471,Freddy Galvis,543022,Tyler Chatwood,571830,Tommy Joseph,R,Nick Hundley,460026,1,0,3,True,2016-07-10,Stolen,3B,2016,2017, 81.3, 0.73
+269,1B,2B,Stolen Base 2B,514917,César Hernández,543022,Tyler Chatwood,595963,Tyler Goeddel,R,Nick Hundley,460026,1,4,5,True,2016-07-10,Stolen,2B,2016,2017, 81.3, 0.73
+270,1B,,Caught Stealing 2B,546318,Odúbel Herrera,542674,Gonzalez Germen,520471,Freddy Galvis,R,Nick Hundley,460026,1,4,6,True,2016-07-10,Caught,2B,2016,2017, 81.3, 0.73
+271,1B,2B,Stolen Base 2B,520471,Freddy Galvis,592351,Jon Gray,592826,Vince Velasquez,R,Nick Hundley,460026,0,0,3,True,2016-07-08,Stolen,2B,2016,2017, 81.3, 0.73
+272,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,502522,Justin Miller,581527,Devon Travis,R,Nick Hundley,460026,5,11,7,True,2016-06-28,Stolen,2B,2016,2017, 81.3, 0.73
+273,1B,2B,Stolen Base 2B,456422,Michael Bourn,457429,Boone Logan,430001,Rickie Weeks Jr.,L,Nick Hundley,460026,7,7,8,True,2016-06-26,Stolen,2B,2016,2017, 81.3, 0.73
+274,2B,3B,Stolen Base 3B,516416,Jean Segura,542881,Tyler Anderson,502671,Paul Goldschmidt,L,Nick Hundley,460026,0,0,1,True,2016-06-24,Stolen,3B,2016,2017, 81.3, 0.73
+275,1B,2B,Stolen Base 2B,456422,Michael Bourn,542881,Tyler Anderson,502671,Paul Goldschmidt,L,Nick Hundley,460026,0,0,1,True,2016-06-24,Stolen,2B,2016,2017, 81.3, 0.73
+276,2B,3B,Stolen Base 3B,502671,Paul Goldschmidt,542881,Tyler Anderson,594838,Phil Gosselin,L,Nick Hundley,460026,0,2,3,True,2016-06-24,Stolen,3B,2016,2017, 81.3, 0.73
+277,2B,3B,Stolen Base 3B,630111,Yasmany Tomás,542881,Tyler Anderson,516416,Jean Segura,L,Nick Hundley,460026,1,2,4,True,2016-06-24,Stolen,3B,2016,2017, 81.3, 0.73
+278,1B,2B,Stolen Base 2B,516416,Jean Segura,435400,Jason Motte,456422,Michael Bourn,R,Nick Hundley,460026,3,8,7,True,2016-06-24,Stolen,2B,2016,2017, 81.3, 0.73
+279,1B,2B,Stolen Base 2B,456422,Michael Bourn,608032,Carlos Estévez,502671,Paul Goldschmidt,R,Nick Hundley,460026,9,10,9,True,2016-06-24,Stolen,2B,2016,2017, 81.3, 0.73
+280,1B,2B,Stolen Base 2B,425844,Zack Greinke,572750,Eddie Butler,516416,Jean Segura,R,Nick Hundley,460026,3,4,4,True,2016-06-23,Stolen,2B,2016,2017, 81.3, 0.73
+281,1B,2B,Stolen Base 2B,592885,Christian Yelich,435400,Jason Motte,592663,J.T. Realmuto,R,Nick Hundley,460026,3,4,8,False,2016-06-20,Stolen,2B,2016,2017, 81.3, 0.73
+282,2B,3B,Stolen Base 3B,493351,Alexei Ramirez,542881,Tyler Anderson,543184,Christian Friedrich,L,Nick Hundley,460026,0,0,5,True,2016-06-12,Stolen,3B,2016,2017, 81.3, 0.73
+283,1B,2B,Stolen Base 2B,506560,Alexi Amarista,608032,Carlos Estévez,445055,Jon Jay,R,Nick Hundley,460026,4,3,8,True,2016-06-10,Stolen,2B,2016,2017, 81.3, 0.73
+284,1B,2B,Stolen Base 2B,571976,Wil Myers,608032,Carlos Estévez,500208,Yangervis Solarte,R,Nick Hundley,460026,4,3,8,True,2016-06-10,Stolen,2B,2016,2017, 81.3, 0.73
+285,3B,score,Stolen Base Home,425834,B.J. Upton,543734,Chris Rusin,519141,Drew Pomeranz,L,Nick Hundley,460026,4,0,4,False,2016-06-03,Stolen,Home,2016,2017, 81.3, 0.73
+286,1B,2B,Stolen Base 2B,608671,Travis Jankowski,502522,Justin Miller,425834,B.J. Upton,R,Nick Hundley,460026,4,0,8,False,2016-06-03,Stolen,2B,2016,2017, 81.3, 0.73
+287,1B,,Caught Stealing 2B,630111,Yasmany Tomás,543022,Tyler Chatwood,572008,Chris Owings,R,Nick Hundley,460026,0,0,2,False,2016-04-29,Caught,2B,2016,2017, 81.3, 0.73
+288,1B,2B,Stolen Base 2B,516782,Starling Marte,592351,Jon Gray,465041,Francisco Cervelli,R,Nick Hundley,460026,0,2,3,True,2016-04-27,Stolen,2B,2016,2017, 81.3, 0.73
+289,1B,2B,Stolen Base 2B,516782,Starling Marte,518452,Chad Bettis,465041,Francisco Cervelli,R,Nick Hundley,460026,0,0,1,True,2016-04-25,Stolen,2B,2016,2017, 81.3, 0.73
+290,1B,2B,Stolen Base 2B,434636,Ángel Pagán,543261,Jason Gurka,623143,Trevor Brown,L,Nick Hundley,460026,2,7,8,True,2016-04-12,Stolen,2B,2016,2017, 81.3, 0.73
+291,1B,2B,Stolen Base 2B,425834,B.J. Upton,543475,Jordan Lyles,607067,Colin Rea,R,Nick Hundley,460026,2,0,4,True,2016-04-08,Stolen,2B,2016,2017, 81.3, 0.73
+292,1B,2B,Stolen Base 2B,445055,Jon Jay,543475,Jordan Lyles,605486,Cory Spangenberg,R,Nick Hundley,460026,2,3,4,True,2016-04-08,Stolen,2B,2016,2017, 81.3, 0.73
+293,1B,2B,Stolen Base 2B,571976,Wil Myers,502522,Justin Miller,500208,Yangervis Solarte,R,Nick Hundley,460026,5,9,5,True,2016-04-08,Stolen,2B,2016,2017, 81.3, 0.73
+294,1B,2B,Stolen Base 2B,516416,Jean Segura,612434,Miguel Castro,572008,Chris Owings,R,Nick Hundley,460026,2,4,7,False,2016-04-06,Stolen,2B,2016,2017, 81.3, 0.73

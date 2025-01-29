@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+434,1B,2B,Stolen Base 2B,666165,Blake Sabol,Bo Naylor,5,5,9,False,2023-09-13,Stolen,2B,2023
+476,1B,2B,Stolen Base 2B,666165,Blake Sabol,Bo Naylor,5,4,10,False,2023-09-11,Stolen,2B,2023
+1716,1B,,Caught Stealing 2B,666165,Blake Sabol,Tyler Stephenson,0,0,2,True,2023-07-19,Caught,2B,2023
+2127,1B,,Caught Stealing 2B,666165,Blake Sabol,Alejandro Kirk,2,1,9,True,2023-06-29,Caught,2B,2023
+3640,1B,2B,Stolen Base 2B,666165,Blake Sabol,Willson Contreras,2,2,4,False,2023-04-26,Stolen,2B,2023
+3995,1B,2B,Stolen Base 2B,666165,Blake Sabol,Will Smith,2,0,7,False,2023-04-11,Stolen,2B,2023

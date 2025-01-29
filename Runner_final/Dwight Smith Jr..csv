@@ -1,0 +1,15 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2323,1B,2B,Stolen Base 2B,596105,Dwight Smith Jr.,656288,Griffin Canning,607054,Jace Peterson,R,Kevan Smith,607345,5,7,15,True,2019-07-25,Stolen,2B,2019,2020,25.7
+1,3677,2B,3B,Stolen Base 3B,596105,Dwight Smith Jr.,607074,Carlos Rodón,600474,Pedro Severino,L,James McCann,543510,4,1,4,True,2019-05-01,Stolen,3B,2019,2020,25.7
+2,3927,1B,2B,Stolen Base 2B,596105,Dwight Smith Jr.,607192,Tyler Glasnow,600524,Renato Núñez,R,Michael Pérez,605421,0,2,3,True,2019-04-16,Stolen,2B,2019,2020,25.7
+3,4066,2B,3B,Stolen Base 3B,596105,Dwight Smith Jr.,474463,Brett Anderson,600474,Pedro Severino,L,Josh Phegley,572033,2,6,7,False,2019-04-09,Stolen,3B,2019,2020,25.7
+4,5166,1B,2B,Stolen Base 2B,596105,Dwight Smith Jr.,656288,Griffin Canning,607054,Jace Peterson,R,Kevan Smith,607345,5,7,15,True,2019-07-25,Stolen,2B,2019,2020,25.7
+5,6520,2B,3B,Stolen Base 3B,596105,Dwight Smith Jr.,607074,Carlos Rodón,600474,Pedro Severino,L,James McCann,543510,4,1,4,True,2019-05-01,Stolen,3B,2019,2020,25.7
+6,6770,1B,2B,Stolen Base 2B,596105,Dwight Smith Jr.,607192,Tyler Glasnow,600524,Renato Núñez,R,Michael Pérez,605421,0,2,3,True,2019-04-16,Stolen,2B,2019,2020,25.7
+7,6909,2B,3B,Stolen Base 3B,596105,Dwight Smith Jr.,474463,Brett Anderson,600474,Pedro Severino,L,Josh Phegley,572033,2,6,7,False,2019-04-09,Stolen,3B,2019,2020,25.7
+8,7090,1B,2B,Stolen Base 2B,596105,Dwight Smith Jr.,656288,Griffin Canning,607054,Jace Peterson,R,Kevan Smith,607345,5,7,15,True,2019-07-25,Stolen,2B,2019,2020,25.7
+9,8444,2B,3B,Stolen Base 3B,596105,Dwight Smith Jr.,607074,Carlos Rodón,600474,Pedro Severino,L,James McCann,543510,4,1,4,True,2019-05-01,Stolen,3B,2019,2020,25.7
+10,8694,1B,2B,Stolen Base 2B,596105,Dwight Smith Jr.,607192,Tyler Glasnow,600524,Renato Núñez,R,Michael Pérez,605421,0,2,3,True,2019-04-16,Stolen,2B,2019,2020,25.7
+11,8833,2B,3B,Stolen Base 3B,596105,Dwight Smith Jr.,474463,Brett Anderson,600474,Pedro Severino,L,Josh Phegley,572033,2,6,7,False,2019-04-09,Stolen,3B,2019,2020,25.7
+12,2602,2B,3B,Stolen Base 3B,596105,Dwight Smith Jr.,621237,José Alvarado,607680,Kevin Pillar,L,Derek Norris,519083,7,6,8,False,2017-06-14,Stolen,3B,2017,2018,26.4
+13,1974,2B,3B,Stolen Base 3B,596105,Dwight Smith Jr.,621237,José Alvarado,607680,Kevin Pillar,L,Derek Norris,519083,7,6,8,False,2017-06-14,Stolen,3B,2017,2018,26.4

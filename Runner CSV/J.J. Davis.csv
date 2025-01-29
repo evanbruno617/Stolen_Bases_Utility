@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1690,1B,2B,Stolen Base 2B,400051,J.J. Davis,Matt Treanor,0,1,4,True,2004-07-06,Stolen,2B,2004
+3509,1B,2B,Stolen Base 2B,400051,J.J. Davis,Mike Lieberthal,2,1,8,False,2004-04-05,Stolen,2B,2004
+3436,1B,2B,Stolen Base 2B,400051,J.J. Davis,Mike Lieberthal,0,3,6,True,2005-04-07,Stolen,2B,2005

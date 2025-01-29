@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,508,1B,,Caught Stealing 2B,621532,Anthony Bemboom,605182,Mike Clevinger,592743,Andrelton Simmons,R,Austin Nola,543592,2,0,5,False,2020-09-03,Caught,2B,2020,2021,27.1
+1,3351,1B,,Caught Stealing 2B,621532,Anthony Bemboom,605182,Mike Clevinger,592743,Andrelton Simmons,R,Austin Nola,543592,2,0,5,False,2020-09-03,Caught,2B,2020,2021,27.1
+2,5275,1B,,Caught Stealing 2B,621532,Anthony Bemboom,605182,Mike Clevinger,592743,Andrelton Simmons,R,Austin Nola,543592,2,0,5,False,2020-09-03,Caught,2B,2020,2021,27.1

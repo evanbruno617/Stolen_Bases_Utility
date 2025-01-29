@@ -1,0 +1,4 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2B,,Caught Stealing 3B,645277,Ozzie Albies,Raudy Read,1,0,4,True,2019-09-14,Caught,3B,2019
+1B,2B,Stolen Base 2B,542364,Rafael Ortega,Raudy Read,5,2,7,False,2019-09-07,Stolen,2B,2019
+1B,2B,Stolen Base 2B,656555,Rhys Hoskins,Raudy Read,4,5,7,True,2017-09-09,Stolen,2B,2017

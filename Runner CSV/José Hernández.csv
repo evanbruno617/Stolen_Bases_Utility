@@ -1,0 +1,31 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+462,1B,,Caught Stealing 2B,115825,José Hernández,Eli Marrero,2,3,7,False,2000-09-10,Caught,2B,2000
+1327,1B,2B,Stolen Base 2B,115825,José Hernández,Todd Hundley,1,0,5,True,2000-08-04,Stolen,2B,2000
+1804,1B,2B,Stolen Base 2B,115825,José Hernández,Jorge Fabregas,0,4,1,True,2000-07-13,Stolen,2B,2000
+2030,1B,,Caught Stealing 2B,115825,José Hernández,Joe Girardi,4,4,11,False,2000-06-30,Caught,2B,2000
+2275,1B,,Caught Stealing 2B,115825,José Hernández,Paul Bako,0,2,7,True,2000-06-19,Caught,2B,2000
+2277,1B,,Caught Stealing 2B,115825,José Hernández,Paul Bako,0,2,9,True,2000-06-19,Caught,2B,2000
+3288,3B,,Caught Stealing Home,115825,José Hernández,Chris Widger,2,0,4,False,2000-05-06,Caught,Home,2000
+3654,1B,2B,Stolen Base 2B,115825,José Hernández,Mike Piazza,1,3,4,True,2000-04-20,Stolen,2B,2000
+223,1B,,Caught Stealing 2B,115825,José Hernández,Joe Girardi,0,1,7,True,2001-05-27,Caught,2B,2001
+820,1B,2B,Caught Stealing Home,115825,José Hernández,Paul Bako,0,4,6,True,2001-05-03,Caught,Home,2001
+1456,3B,,Caught Stealing Home,115825,José Hernández,Brad Ausmus,0,1,2,True,2001-04-05,Caught,Home,2001
+328,1B,2B,Stolen Base 2B,115825,José Hernández,Damian Miller,0,1,2,True,2002-09-13,Stolen,2B,2002
+719,1B,,Caught Stealing 2B,115825,José Hernández,Jason Kendall,1,1,5,False,2002-08-25,Caught,2B,2002
+879,1B,,Caught Stealing 2B,115825,José Hernández,Jason Kendall,0,0,2,True,2002-08-17,Caught,2B,2002
+2377,1B,,Caught Stealing 2B,115825,José Hernández,Todd Hundley,0,0,3,False,2002-06-04,Caught,2B,2002
+2400,1B,,Caught Stealing 2B,115825,José Hernández,Todd Hundley,7,5,7,False,2002-06-03,Caught,2B,2002
+2539,1B,2B,Stolen Base 2B,115825,José Hernández,Paul Lo Duca,0,4,3,True,2002-05-28,Stolen,2B,2002
+2631,1B,2B,Stolen Base 2B,115825,José Hernández,Tom Lampkin,2,0,8,False,2002-05-25,Stolen,2B,2002
+3539,1B,,Caught Stealing 2B,115825,José Hernández,Mike Matheny,7,5,8,False,2002-04-18,Caught,2B,2002
+982,1B,2B,Stolen Base 2B,115825,José Hernández,Charles Johnson,2,2,7,True,2003-08-10,Stolen,2B,2003
+2452,1B,2B,Stolen Base 2B,115825,José Hernández,Paul Lo Duca,5,0,1,False,2003-05-27,Stolen,2B,2003
+3581,1B,,Caught Stealing 2B,115825,José Hernández,Brad Ausmus,0,1,2,True,2003-04-01,Caught,2B,2003
+615,1B,2B,Stolen Base 2B,115825,José Hernández,Chris Snyder,0,0,3,True,2004-08-31,Stolen,2B,2004
+2304,1B,2B,Stolen Base 2B,115825,José Hernández,Robby Hammock,3,5,8,True,2004-06-04,Stolen,2B,2004
+2826,1B,2B,Stolen Base 2B,115825,José Hernández,Jason Kendall,0,2,2,True,2004-05-09,Stolen,2B,2004
+2853,3B,,Caught Stealing Home,115825,José Hernández,Jason Kendall,3,4,9,True,2004-05-08,Caught,Home,2004
+1557,1B,2B,Stolen Base 2B,115825,José Hernández,John Flaherty,0,1,2,True,2005-07-10,Stolen,2B,2005
+1558,2B,,Caught Stealing 3B,115825,José Hernández,John Flaherty,1,2,4,True,2005-07-10,Caught,3B,2005
+2484,1B,,Caught Stealing 2B,115825,José Hernández,Joe Mauer,1,1,5,False,2005-05-24,Caught,2B,2005
+3435,1B,,Caught Stealing 2B,115825,José Hernández,A.J. Pierzynski,5,5,11,True,2005-04-07,Caught,2B,2005

@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2613,1B,2B,Stolen Base 2B,571912,Luke Maile,Carlos Ruiz,7,2,8,False,2017-05-13,Stolen,2B,2017
+1324,1B,2B,Stolen Base 2B,571912,Luke Maile,Mitch Garver,2,3,4,False,2018-07-25,Stolen,2B,2018
+1726,1B,2B,Stolen Base 2B,571912,Luke Maile,Pedro Severino,1,0,5,True,2019-06-12,Stolen,2B,2019
+130,1B,2B,Stolen Base 2B,571912,Luke Maile,Bo Naylor,7,8,5,True,2023-09-26,Stolen,2B,2023
+424,1B,,Caught Stealing 2B,571912,Luke Maile,Carson Kelly,2,4,4,True,2023-09-13,Caught,2B,2023
+3071,1B,2B,Stolen Base 2B,571912,Luke Maile,Kyle Higashioka,1,2,5,False,2023-05-21,Stolen,2B,2023

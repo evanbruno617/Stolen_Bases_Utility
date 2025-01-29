@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1113,1B,2B,Stolen Base 2B,425864,Miguel Ojeda,Mike Lieberthal,2,1,6,True,2003-08-03,Stolen,2B,2003
+1274,1B,,Caught Stealing 2B,425864,Miguel Ojeda,Yorvit Torrealba,0,2,5,True,2003-07-26,Caught,2B,2003
+478,1B,,Caught Stealing 2B,425864,Miguel Ojeda,Jason Kendall,0,2,2,True,2005-09-07,Caught,2B,2005
+1704,1B,,Caught Stealing 2B,425864,Miguel Ojeda,Mike Matheny,1,1,2,False,2005-07-03,Caught,2B,2005
+1790,1B,2B,Stolen Base 2B,425864,Miguel Ojeda,Mike Rose,1,0,3,True,2005-06-29,Stolen,2B,2005

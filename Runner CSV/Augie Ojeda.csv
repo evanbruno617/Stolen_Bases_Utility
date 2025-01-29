@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+348,1B,,Caught Stealing 2B,324432,Augie Ojeda,Eli Marrero,1,2,3,True,2000-09-15,Caught,2B,2000
+3041,1B,2B,Stolen Base 2B,324432,Augie Ojeda,Raul Casanova,4,1,5,False,2002-05-10,Stolen,2B,2002
+116,1B,2B,Stolen Base 2B,324432,Augie Ojeda,Josh Bard,2,1,8,True,2004-09-25,Stolen,2B,2004
+622,1B,,Caught Stealing 2B,324432,Augie Ojeda,Rod Barajas,5,5,9,False,2004-08-31,Caught,2B,2004
+2325,1B,2B,Stolen Base 2B,324432,Augie Ojeda,Alberto Castillo,0,2,2,True,2007-06-17,Stolen,2B,2007
+1126,1B,2B,Stolen Base 2B,324432,Augie Ojeda,Eli Whiteside,1,0,4,False,2009-06-11,Stolen,2B,2009
+1567,1B,2B,Stolen Base 2B,324432,Augie Ojeda,Kurt Suzuki,1,0,3,True,2009-05-22,Stolen,2B,2009
+2415,1B,,Caught Stealing 2B,324432,Augie Ojeda,Bengie Molina,0,0,1,True,2009-04-18,Caught,2B,2009
+357,1B,,Caught Stealing 2B,324432,Augie Ojeda,Ramon Hernandez,0,3,9,True,2010-09-14,Caught,2B,2010

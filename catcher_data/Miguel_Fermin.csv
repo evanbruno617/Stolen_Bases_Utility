@@ -1,0 +1,3 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,132788,Kevin Millar,Miguel Fermin,1,0,7,True,2009-04-04,Stolen,2B,2009
+1B,2B,Stolen Base 2B,407871,Joe Thurston,Miguel Fermin,1,1,5,True,2009-04-02,Stolen,2B,2009

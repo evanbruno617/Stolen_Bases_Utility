@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+5,1B,2B,Stolen Base 2B,592419,Jared Hoying,Bruce Maxwell,5,2,6,False,2017-09-30,Stolen,2B,2017
+2195,1B,2B,Stolen Base 2B,592419,Jared Hoying,Brian McCann,4,5,6,False,2017-06-03,Stolen,2B,2017
+2283,1B,2B,Stolen Base 2B,592419,Jared Hoying,Derek Norris,7,5,6,False,2017-05-29,Stolen,2B,2017

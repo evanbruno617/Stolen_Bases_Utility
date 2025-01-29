@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3576,1B,,Caught Stealing 2B,121977,David Segui,Jason Varitek,2,2,5,False,2000-04-24,Caught,2B,2000
+2750,1B,2B,Stolen Base 2B,121977,David Segui,Miguel Olivo,1,0,6,True,2003-05-13,Stolen,2B,2003
+560,1B,,Caught Stealing 2B,121977,David Segui,John Flaherty,0,1,3,True,2004-09-04,Caught,2B,2004

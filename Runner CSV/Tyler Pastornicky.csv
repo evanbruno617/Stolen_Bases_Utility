@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3109,1B,2B,Stolen Base 2B,543629,Tyler Pastornicky,Stephen Vogt,0,2,2,True,2012-05-18,Stolen,2B,2012
+3240,1B,2B,Stolen Base 2B,543629,Tyler Pastornicky,Tony Cruz,1,3,7,True,2012-05-13,Stolen,2B,2012
+4185,1B,2B,Stolen Base 2B,543629,Tyler Pastornicky,Josh Thole,0,4,5,False,2012-04-02,Stolen,2B,2012

@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+479,1B,2B,Stolen Base 2B,545338,Nick Franklin,Jose Lobaton,1,2,3,False,2013-09-06,Stolen,2B,2013
+1846,1B,2B,Stolen Base 2B,545338,Nick Franklin,Welington Castillo,2,3,7,False,2013-06-29,Stolen,2B,2013
+1923,1B,2B,Stolen Base 2B,545338,Nick Franklin,Russell Martin,0,1,1,False,2013-06-25,Stolen,2B,2013
+2067,1B,2B,Stolen Base 2B,545338,Nick Franklin,Hank Conger,0,0,1,True,2013-06-18,Stolen,2B,2013
+2326,1B,2B,Stolen Base 2B,545338,Nick Franklin,Hector Gimenez,0,0,2,False,2013-06-05,Stolen,2B,2013
+2328,1B,2B,Stolen Base 2B,545338,Nick Franklin,Hector Gimenez,5,5,15,False,2013-06-05,Stolen,2B,2013
+2338,1B,,Caught Stealing 2B,545338,Nick Franklin,Tyler Flowers,6,2,5,False,2013-06-04,Caught,2B,2013
+260,1B,2B,Stolen Base 2B,545338,Nick Franklin,Brian McCann,1,2,5,False,2014-09-17,Stolen,2B,2014
+2657,1B,2B,Stolen Base 2B,545338,Nick Franklin,Robinson Chirinos,2,5,5,True,2014-05-20,Stolen,2B,2014
+2049,1B,2B,Stolen Base 2B,545338,Nick Franklin,Carlos Pérez,3,2,4,False,2015-06-10,Stolen,2B,2015
+195,1B,2B,Stolen Base 2B,545338,Nick Franklin,Drew Butera,6,0,5,False,2016-08-03,Stolen,2B,2016
+227,1B,,Caught Stealing 2B,545338,Nick Franklin,Salvador Perez,0,1,3,False,2016-08-02,Caught,2B,2016
+538,2B,3B,Stolen Base 3B,545338,Nick Franklin,Nick Hundley,5,4,7,True,2016-07-18,Stolen,3B,2016
+670,1B,2B,Stolen Base 2B,545338,Nick Franklin,Sandy León,2,1,2,True,2016-07-08,Stolen,2B,2016
+672,1B,2B,Stolen Base 2B,545338,Nick Franklin,Sandy León,4,2,5,True,2016-07-08,Stolen,2B,2016
+902,1B,2B,Stolen Base 2B,545338,Nick Franklin,Matt Wieters,7,6,8,True,2016-06-25,Stolen,2B,2016
+2178,1B,2B,Stolen Base 2B,545338,Nick Franklin,Yasmani Grandal,3,0,8,False,2017-06-04,Stolen,2B,2017
+2975,1B,2B,Stolen Base 2B,545338,Nick Franklin,Tucker Barnhart,7,0,6,False,2017-04-25,Stolen,2B,2017

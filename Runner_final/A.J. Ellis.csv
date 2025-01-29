@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4192,2B,3B,Stolen Base 3B,454560,A.J. Ellis,519294,Josh Smoker,596451,Roman Quinn,L,Travis d'Arnaud,518595,6,10,7,True,2016-09-24,Stolen,3B,2016,2017,24.1
+1,5332,1B,2B,Stolen Base 2B,454560,A.J. Ellis,519043,Matt Moore,435221,Brandon McCarthy,L,Luke Maile,571912,1,0,2,False,2016-07-27,Stolen,2B,2016,2017,24.1
+2,157,2B,3B,Stolen Base 3B,454560,A.J. Ellis,519294,Josh Smoker,596451,Roman Quinn,L,Travis d'Arnaud,518595,6,10,7,True,2016-09-24,Stolen,3B,2016,2017,24.1
+3,1297,1B,2B,Stolen Base 2B,454560,A.J. Ellis,519043,Matt Moore,435221,Brandon McCarthy,L,Luke Maile,571912,1,0,2,False,2016-07-27,Stolen,2B,2016,2017,24.1
+4,3564,2B,3B,Stolen Base 3B,454560,A.J. Ellis,519294,Josh Smoker,596451,Roman Quinn,L,Travis d'Arnaud,518595,6,10,7,True,2016-09-24,Stolen,3B,2016,2017,24.1
+5,4704,1B,2B,Stolen Base 2B,454560,A.J. Ellis,519043,Matt Moore,435221,Brandon McCarthy,L,Luke Maile,571912,1,0,2,False,2016-07-27,Stolen,2B,2016,2017,24.1

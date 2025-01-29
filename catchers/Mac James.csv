@@ -1,0 +1,4 @@
+Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1B,2B,Stolen Base 2B,435079,Ian Kinsler,519043,Matt Moore,457708,Justin Upton,L,Mac James,657429,3,3,2,False,2016-04-01,Stolen,2B
+1B,2B,Stolen Base 2B,435079,Ian Kinsler,519043,Matt Moore,457708,Justin Upton,L,Mac James,657429,3,3,2,False,2016-04-01,Stolen,2B
+1B,2B,Stolen Base 2B,435079,Ian Kinsler,519043,Matt Moore,457708,Justin Upton,L,Mac James,657429,3,3,2,False,2016-04-01,Stolen,2B

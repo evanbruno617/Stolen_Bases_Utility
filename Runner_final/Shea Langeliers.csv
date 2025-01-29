@@ -1,0 +1,11 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,914,1B,2B,Stolen Base 2B,669127,Shea Langeliers,621383,Tanner Banks,671732,Lawrence Butler,L,Korey Lee,686676,4,10,6,True,2023-08-25,Stolen,2B,2023,2024,27.8
+1,1227,1B,2B,Stolen Base 2B,669127,Shea Langeliers,676265,Cory Abbott,671732,Lawrence Butler,R,Keibert Ruiz,660688,2,2,4,True,2023-08-11,Stolen,2B,2023,2024,27.8
+2,1743,1B,,Caught Stealing 2B,669127,Shea Langeliers,669684,Chris Murphy,669397,Nick Allen,L,Jorge Alfaro,595751,3,0,6,False,2023-07-18,Caught,2B,2023,2024,27.8
+3,2101,1B,2B,Stolen Base 2B,669127,Shea Langeliers,621383,Tanner Banks,643393,Tony Kemp,L,Yasmani Grandal,518735,3,1,2,False,2023-06-30,Stolen,2B,2023,2024,27.8
+4,3278,1B,,Caught Stealing 2B,669127,Shea Langeliers,543135,Nathan Eovaldi,672478,Jordan Diaz,R,Jonah Heim,641680,0,0,2,False,2023-05-11,Caught,2B,2023,2024,27.8
+5,5328,1B,2B,Stolen Base 2B,669127,Shea Langeliers,621383,Tanner Banks,671732,Lawrence Butler,L,Korey Lee,686676,4,10,6,True,2023-08-25,Stolen,2B,2023,2024,27.8
+6,5641,1B,2B,Stolen Base 2B,669127,Shea Langeliers,676265,Cory Abbott,671732,Lawrence Butler,R,Keibert Ruiz,660688,2,2,4,True,2023-08-11,Stolen,2B,2023,2024,27.8
+7,6157,1B,,Caught Stealing 2B,669127,Shea Langeliers,669684,Chris Murphy,669397,Nick Allen,L,Jorge Alfaro,595751,3,0,6,False,2023-07-18,Caught,2B,2023,2024,27.8
+8,6515,1B,2B,Stolen Base 2B,669127,Shea Langeliers,621383,Tanner Banks,643393,Tony Kemp,L,Yasmani Grandal,518735,3,1,2,False,2023-06-30,Stolen,2B,2023,2024,27.8
+9,7692,1B,,Caught Stealing 2B,669127,Shea Langeliers,543135,Nathan Eovaldi,672478,Jordan Diaz,R,Jonah Heim,641680,0,0,2,False,2023-05-11,Caught,2B,2023,2024,27.8

@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1452,1B,2B,Stolen Base 2B,407356,Brandon Berger,Einar Díaz,5,1,3,False,2002-07-20,Stolen,2B,2002
+2347,1B,,Caught Stealing 2B,407356,Brandon Berger,Brandon Inge,1,7,5,True,2004-06-03,Caught,2B,2004
+2590,1B,2B,Stolen Base 2B,407356,Brandon Berger,Adam Melhuse,2,2,5,True,2004-05-22,Stolen,2B,2004

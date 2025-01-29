@@ -1,0 +1,25 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2590,1B,,Caught Stealing 2B,474568,Jordy Mercer,Brayan Peña,5,3,8,False,2012-06-09,Caught,2B,2012
+1456,1B,,Caught Stealing 2B,474568,Jordy Mercer,Wilson Ramos,1,5,7,True,2013-07-22,Caught,2B,2013
+1911,1B,,Caught Stealing 2B,474568,Jordy Mercer,Henry Blanco,2,2,7,True,2013-06-26,Caught,2B,2013
+2001,1B,2B,Stolen Base 2B,474568,Jordy Mercer,Hank Conger,0,4,6,True,2013-06-21,Stolen,2B,2013
+2478,1B,2B,Stolen Base 2B,474568,Jordy Mercer,Alex Avila,5,3,7,False,2013-05-29,Stolen,2B,2013
+2530,1B,2B,Stolen Base 2B,474568,Jordy Mercer,Jonathan Lucroy,3,4,6,True,2013-05-26,Stolen,2B,2013
+201,1B,2B,Stolen Base 2B,474568,Jordy Mercer,Jonathan Lucroy,0,0,4,False,2014-09-20,Stolen,2B,2014
+519,1B,2B,Stolen Base 2B,474568,Jordy Mercer,John Baker,3,3,7,True,2014-09-06,Stolen,2B,2014
+553,1B,2B,Stolen Base 2B,474568,Jordy Mercer,John Baker,3,3,7,True,2014-09-05,Stolen,2B,2014
+1453,1B,2B,Stolen Base 2B,474568,Jordy Mercer,Michael McKenry,2,3,6,False,2014-07-20,Stolen,2B,2014
+1986,1B,,Caught Stealing 2B,474568,Jordy Mercer,John Baker,0,0,2,True,2014-06-22,Caught,2B,2014
+2098,1B,2B,Stolen Base 2B,474568,Jordy Mercer,Brayan Peña,1,1,2,False,2014-06-17,Stolen,2B,2014
+627,1B,,Caught Stealing 2B,474568,Jordy Mercer,Nick Hundley,2,0,4,False,2015-08-28,Caught,2B,2015
+1609,1B,2B,Stolen Base 2B,474568,Jordy Mercer,Bryan Holaday,3,5,9,True,2015-07-02,Stolen,2B,2015
+1684,1B,,Caught Stealing 2B,474568,Jordy Mercer,A.J. Pierzynski,0,1,5,False,2015-06-28,Caught,2B,2015
+2258,1B,2B,Stolen Base 2B,474568,Jordy Mercer,Derek Norris,1,2,2,True,2015-05-30,Stolen,2B,2015
+2384,1B,2B,Stolen Base 2B,474568,Jordy Mercer,Anthony Recker,0,0,2,False,2015-05-24,Stolen,2B,2015
+173,1B,,Caught Stealing 2B,474568,Jordy Mercer,A.J. Pierzynski,1,1,7,True,2016-08-04,Caught,2B,2016
+2115,1B,2B,Stolen Base 2B,474568,Jordy Mercer,Christian Bethancourt,0,3,4,True,2016-04-21,Stolen,2B,2016
+2293,1B,,Caught Stealing 2B,474568,Jordy Mercer,Jeff Mathis,0,1,1,False,2017-05-29,Caught,2B,2017
+2641,1B,,Caught Stealing 2B,474568,Jordy Mercer,Jeff Mathis,1,0,3,True,2017-05-11,Caught,2B,2017
+3128,1B,,Caught Stealing 2B,474568,Jordy Mercer,Willson Contreras,0,0,1,True,2017-04-16,Caught,2B,2017
+1494,1B,2B,Stolen Base 2B,474568,Jordy Mercer,Erik Kratz,2,1,4,False,2018-07-12,Stolen,2B,2018
+1571,1B,2B,Stolen Base 2B,474568,Jordy Mercer,Andrew Knapp,3,1,4,False,2018-07-08,Stolen,2B,2018

@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+575,1B,2B,Stolen Base 2B,120092,Keith Osik,Todd Hundley,0,6,5,True,2000-09-05,Stolen,2B,2000
+648,1B,2B,Stolen Base 2B,120092,Keith Osik,Ben Davis,4,6,3,True,2000-09-03,Stolen,2B,2000
+1416,1B,2B,Stolen Base 2B,120092,Keith Osik,Todd Hundley,2,2,4,False,2000-08-01,Stolen,2B,2000
+276,1B,2B,Stolen Base 2B,120092,Keith Osik,Javy Lopez,0,0,4,True,2001-05-25,Stolen,2B,2001
+65,2B,,Caught Stealing 3B,120092,Keith Osik,Raul Chavez,5,9,4,True,2003-09-26,Caught,3B,2003

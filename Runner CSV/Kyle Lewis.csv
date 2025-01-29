@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+19,1B,2B,Stolen Base 2B,641786,Kyle Lewis,Sean Murphy,1,2,5,True,2020-09-27,Stolen,2B,2020
+101,1B,2B,Stolen Base 2B,641786,Kyle Lewis,Martín Maldonado,3,0,7,False,2020-09-23,Stolen,2B,2020
+233,1B,,Caught Stealing 2B,641786,Kyle Lewis,Joey Bart,3,8,5,False,2020-09-16,Caught,2B,2020
+252,1B,,Caught Stealing 2B,641786,Kyle Lewis,Joey Bart,3,8,5,False,2020-09-15,Caught,2B,2020
+393,1B,2B,Stolen Base 2B,641786,Kyle Lewis,Joey Bart,5,5,5,True,2020-09-08,Stolen,2B,2020
+804,1B,2B,Stolen Base 2B,641786,Kyle Lewis,Austin Barnes,0,0,4,True,2020-08-18,Stolen,2B,2020
+1010,1B,2B,Stolen Base 2B,641786,Kyle Lewis,Max Stassi,4,1,5,False,2020-08-05,Stolen,2B,2020
+2013,1B,2B,Stolen Base 2B,641786,Kyle Lewis,Victor Caratini,0,0,2,True,2021-05-23,Stolen,2B,2021
+2066,1B,2B,Stolen Base 2B,641786,Kyle Lewis,Eric Haase,2,0,1,False,2021-05-19,Stolen,2B,2021

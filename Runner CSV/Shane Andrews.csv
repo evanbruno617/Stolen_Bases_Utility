@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3099,1B,2B,Stolen Base 2B,110262,Shane Andrews,Chris Widger,9,7,5,True,2000-05-14,Stolen,2B,2000
+3285,1B,,Caught Stealing 2B,110262,Shane Andrews,Jason Kendall,9,4,6,False,2000-05-06,Caught,2B,2000

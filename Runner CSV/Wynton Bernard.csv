@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+686,1B,,Caught Stealing 2B,592144,Wynton Bernard,Meibrys Viloria,3,3,2,False,2022-08-23,Caught,2B,2022
+743,1B,2B,Stolen Base 2B,592144,Wynton Bernard,Joey Bart,3,2,7,False,2022-08-20,Stolen,2B,2022
+813,1B,2B,Stolen Base 2B,592144,Wynton Bernard,Yadier Molina,3,2,7,True,2022-08-16,Stolen,2B,2022
+899,1B,2B,Stolen Base 2B,592144,Wynton Bernard,Cooper Hummel,3,3,7,False,2022-08-12,Stolen,2B,2022

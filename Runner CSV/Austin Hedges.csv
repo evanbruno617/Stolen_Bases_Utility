@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+140,1B,2B,Stolen Base 2B,595978,Austin Hedges,Jonathan Lucroy,2,0,8,False,2017-09-23,Stolen,2B,2017
+864,1B,2B,Stolen Base 2B,595978,Austin Hedges,Cameron Rupp,2,0,4,False,2017-08-16,Stolen,2B,2017
+894,1B,2B,Stolen Base 2B,595978,Austin Hedges,Cameron Rupp,2,2,4,False,2017-08-14,Stolen,2B,2017
+1776,1B,2B,Stolen Base 2B,595978,Austin Hedges,Alex Avila,7,3,8,False,2017-06-24,Stolen,2B,2017
+2873,3B,,Caught Stealing Home,595978,Austin Hedges,Buster Posey,0,1,4,True,2017-04-29,Caught,Home,2017
+991,1B,2B,Stolen Base 2B,595978,Austin Hedges,Jorge Alfaro,0,2,2,False,2018-08-11,Stolen,2B,2018
+1016,1B,2B,Stolen Base 2B,595978,Austin Hedges,Jorge Alfaro,0,0,2,False,2018-08-10,Stolen,2B,2018
+1356,1B,2B,Stolen Base 2B,595978,Austin Hedges,Devin Mesoraco,1,2,5,True,2018-07-23,Stolen,2B,2018
+1527,1B,2B,Stolen Base 2B,595978,Austin Hedges,Elias Díaz,7,10,11,True,2019-06-23,Stolen,2B,2019
+600,1B,,Caught Stealing 2B,595978,Austin Hedges,Elias Díaz,4,8,7,True,2020-08-28,Caught,2B,2020
+1048,1B,2B,Stolen Base 2B,595978,Austin Hedges,Will Smith,5,3,6,False,2020-08-03,Stolen,2B,2020
+556,1B,2B,Stolen Base 2B,595978,Austin Hedges,Jose Trevino,9,4,5,False,2021-08-26,Stolen,2B,2021
+602,1B,2B,Stolen Base 2B,595978,Austin Hedges,Cal Raleigh,3,0,6,True,2022-08-28,Stolen,2B,2022
+2796,1B,2B,Stolen Base 2B,595978,Austin Hedges,Kurt Suzuki,4,1,8,True,2022-04-28,Stolen,2B,2022
+3861,1B,2B,Stolen Base 2B,595978,Austin Hedges,Elias Díaz,0,5,2,True,2023-04-17,Stolen,2B,2023

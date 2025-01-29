@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1021,1B,2B,Stolen Base 2B,459941,Travis Buck,A.J. Pierzynski,5,5,9,False,2007-08-16,Stolen,2B,2007
+1371,1B,2B,Stolen Base 2B,459941,Travis Buck,Mike Rabelo,0,1,1,False,2007-07-31,Stolen,2B,2007
+1522,1B,2B,Stolen Base 2B,459941,Travis Buck,Mike Napoli,1,4,8,True,2007-07-24,Stolen,2B,2007
+2542,1B,2B,Stolen Base 2B,459941,Travis Buck,Doug Mirabelli,0,0,1,False,2007-06-06,Stolen,2B,2007
+3307,1B,,Caught Stealing 2B,459941,Travis Buck,Josh Paul,2,0,2,False,2007-04-29,Caught,2B,2007
+253,1B,2B,Stolen Base 2B,459941,Travis Buck,Mike Napoli,0,0,2,False,2008-09-16,Stolen,2B,2008
+2238,1B,,Caught Stealing 2B,459941,Travis Buck,Dioner Navarro,4,1,4,False,2009-04-26,Caught,2B,2009
+2279,1B,2B,Stolen Base 2B,459941,Travis Buck,Michel Hernandez,5,2,8,False,2009-04-25,Stolen,2B,2009
+2725,1B,,Caught Stealing 2B,459941,Travis Buck,Steve Holm,1,1,9,True,2009-04-03,Caught,2B,2009
+3674,1B,2B,Stolen Base 2B,459941,Travis Buck,Matt Wieters,6,1,8,False,2010-04-15,Stolen,2B,2010
+3097,1B,,Caught Stealing 2B,459941,Travis Buck,Jason Varitek,1,2,4,False,2011-05-24,Caught,2B,2011
+3151,1B,2B,Stolen Base 2B,459941,Travis Buck,Ramon Hernandez,4,1,1,False,2011-05-22,Stolen,2B,2011
+3152,2B,score,Stolen Base 2B,459941,Travis Buck,Ramon Hernandez,4,1,1,False,2011-05-22,Stolen,2B,2011

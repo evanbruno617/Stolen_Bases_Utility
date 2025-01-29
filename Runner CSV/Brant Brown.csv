@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1094,1B,2B,Stolen Base 2B,111533,Brant Brown,Carlos Hernandez,6,3,8,False,2000-08-14,Stolen,2B,2000
+1423,1B,2B,Stolen Base 2B,111533,Brant Brown,Brent Mayne,1,1,7,False,2000-08-01,Stolen,2B,2000
+2149,1B,,Caught Stealing 2B,111533,Brant Brown,Mike Redmond,0,0,1,True,2000-06-25,Caught,2B,2000
+4020,1B,2B,Stolen Base 2B,111533,Brant Brown,Doug Mirabelli,0,1,2,False,2000-04-04,Stolen,2B,2000

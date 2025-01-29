@@ -1,0 +1,5 @@
+Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1B,,Caught Stealing 2B,642719,Jonathan Piron,664641,Aríel Miranda,570557,Wilson Soriano,L,Tyler Marlette,596028,1,0,5,False,2017-04-01,Caught,2B
+1B,,Caught Stealing 2B,570557,Wilson Soriano,664641,Aríel Miranda,575249,Juan Ciriaco,L,Tyler Marlette,596028,1,0,6,False,2017-04-01,Caught,2B
+1B,,Caught Stealing 2B,642719,Jonathan Piron,664641,Aríel Miranda,570557,Wilson Soriano,L,Tyler Marlette,596028,1,0,5,False,2017-04-01,Caught,2B
+1B,,Caught Stealing 2B,570557,Wilson Soriano,664641,Aríel Miranda,575249,Juan Ciriaco,L,Tyler Marlette,596028,1,0,6,False,2017-04-01,Caught,2B

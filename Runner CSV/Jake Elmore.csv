@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+47,1B,,Caught Stealing 2B,518653,Jake Elmore,John Ryan Murphy,2,3,8,False,2013-09-27,Caught,2B,2013
+634,1B,2B,Stolen Base 2B,518653,Jake Elmore,Humberto Quintero,0,3,2,False,2013-08-31,Stolen,2B,2013
+635,1B,2B,Caught Stealing 2B,518653,Jake Elmore,Humberto Quintero,1,3,4,False,2013-08-31,Caught,2B,2013
+638,1B,,Caught Stealing 2B,518653,Jake Elmore,Humberto Quintero,1,3,8,False,2013-08-31,Caught,2B,2013
+1589,1B,,Caught Stealing 2B,518653,Jake Elmore,José Molina,0,2,8,True,2013-07-12,Caught,2B,2013
+1669,1B,,Caught Stealing 2B,518653,Jake Elmore,A.J. Pierzynski,4,4,5,True,2013-07-07,Caught,2B,2013
+2716,1B,2B,Caught Stealing 2B,518653,Jake Elmore,Russell Martin,1,4,5,True,2013-05-17,Caught,2B,2013
+1983,1B,2B,Stolen Base 2B,518653,Jake Elmore,Tyler Flowers,2,1,7,False,2015-06-14,Stolen,2B,2015
+2163,1B,,Caught Stealing 2B,518653,Jake Elmore,Mike Zunino,0,2,4,True,2015-06-04,Caught,2B,2015
+402,1B,,Caught Stealing 2B,518653,Jake Elmore,David Ross,2,0,4,False,2016-07-24,Caught,2B,2016
+462,1B,2B,Stolen Base 2B,518653,Jake Elmore,Miguel Montero,2,5,9,False,2016-07-22,Stolen,2B,2016
+493,1B,2B,Stolen Base 2B,518653,Jake Elmore,Francisco Cervelli,5,8,7,True,2016-07-20,Stolen,2B,2016
+653,1B,,Caught Stealing 2B,518653,Jake Elmore,Yadier Molina,1,2,4,False,2016-07-09,Caught,2B,2016
+3405,2B,3B,Stolen Base 3B,518653,Jake Elmore,Elias Díaz,4,4,6,False,2017-04-01,Stolen,3B,2017
+40,1B,,Caught Stealing 2B,518653,Jake Elmore,Tucker Barnhart,2,2,7,False,2019-09-28,Caught,2B,2019

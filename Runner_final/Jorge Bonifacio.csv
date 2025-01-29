@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,742,1B,,Caught Stealing 2B,593528,Jorge Bonifacio,282332,CC Sabathia,444876,Alcides Escobar,L,Gary Sánchez,596142,3,0,5,True,2017-09-25,Caught,2B,2017,2018,28.1
+1,2060,1B,2B,Stolen Base 2B,593528,Jorge Bonifacio,456713,Matt Bush,456715,Lorenzo Cain,R,Jonathan Lucroy,518960,3,2,7,False,2017-07-16,Stolen,2B,2017,2018,28.1
+2,2988,1B,,Caught Stealing 2B,593528,Jorge Bonifacio,282332,CC Sabathia,444876,Alcides Escobar,L,Gary Sánchez,596142,3,0,5,True,2017-05-25,Caught,2B,2017,2018,28.1
+3,114,1B,,Caught Stealing 2B,593528,Jorge Bonifacio,282332,CC Sabathia,444876,Alcides Escobar,L,Gary Sánchez,596142,3,0,5,True,2017-09-25,Caught,2B,2017,2018,28.1
+4,1432,1B,2B,Stolen Base 2B,593528,Jorge Bonifacio,456713,Matt Bush,456715,Lorenzo Cain,R,Jonathan Lucroy,518960,3,2,7,False,2017-07-16,Stolen,2B,2017,2018,28.1
+5,2360,1B,,Caught Stealing 2B,593528,Jorge Bonifacio,282332,CC Sabathia,444876,Alcides Escobar,L,Gary Sánchez,596142,3,0,5,True,2017-05-25,Caught,2B,2017,2018,28.1

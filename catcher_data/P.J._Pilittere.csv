@@ -1,0 +1,4 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,431094,Aaron Hill,P.J. Pilittere,2,3,3,False,2010-04-01,Stolen,2B,2010
+1B,2B,Stolen Base 2B,150484,Vernon Wells,P.J. Pilittere,2,3,3,False,2010-04-01,Stolen,2B,2010
+1B,2B,Stolen Base 2B,543932,Kenny Wilson,P.J. Pilittere,2,5,8,False,2010-04-01,Stolen,2B,2010

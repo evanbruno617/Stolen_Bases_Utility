@@ -1,0 +1,23 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4926,1B,2B,Stolen Base 2B,545338,Nick Franklin,606131,Luis Perdomo,572816,Corey Dickerson,R,Derek Norris,519083,3,1,6,False,2016-08-15,Stolen,2B,2016,2017,26.4
+1,5184,1B,2B,Stolen Base 2B,545338,Nick Franklin,450172,Edinson Volquez,542921,Tim Beckham,R,Drew Butera,460077,6,0,5,False,2016-08-03,Stolen,2B,2016,2017,26.4
+2,5216,1B,,Caught Stealing 2B,545338,Nick Franklin,570649,Yordano Ventura,571912,Luke Maile,R,Salvador Perez,521692,0,1,3,False,2016-08-02,Caught,2B,2016,2017,26.4
+3,5527,2B,3B,Stolen Base 3B,545338,Nick Franklin,493603,Adam Ottavino,523253,Logan Forsythe,R,Nick Hundley,460026,5,4,7,True,2016-07-18,Stolen,3B,2016,2017,26.4
+4,5659,1B,2B,Stolen Base 2B,545338,Nick Franklin,457711,Sean O'Sullivan,474233,Hank Conger,R,Sandy León,506702,2,1,2,True,2016-07-08,Stolen,2B,2016,2017,26.4
+5,5661,1B,2B,Stolen Base 2B,545338,Nick Franklin,457711,Sean O'Sullivan,474233,Hank Conger,R,Sandy León,506702,4,2,5,True,2016-07-08,Stolen,2B,2016,2017,26.4
+6,5891,1B,2B,Stolen Base 2B,545338,Nick Franklin,542960,Brad Brach,543094,Jaff Decker,R,Matt Wieters,446308,7,6,8,True,2016-06-25,Stolen,2B,2016,2017,26.4
+7,891,1B,2B,Stolen Base 2B,545338,Nick Franklin,606131,Luis Perdomo,572816,Corey Dickerson,R,Derek Norris,519083,3,1,6,False,2016-08-15,Stolen,2B,2016,2017,26.4
+8,1149,1B,2B,Stolen Base 2B,545338,Nick Franklin,450172,Edinson Volquez,542921,Tim Beckham,R,Drew Butera,460077,6,0,5,False,2016-08-03,Stolen,2B,2016,2017,26.4
+9,1181,1B,,Caught Stealing 2B,545338,Nick Franklin,570649,Yordano Ventura,571912,Luke Maile,R,Salvador Perez,521692,0,1,3,False,2016-08-02,Caught,2B,2016,2017,26.4
+10,1492,2B,3B,Stolen Base 3B,545338,Nick Franklin,493603,Adam Ottavino,523253,Logan Forsythe,R,Nick Hundley,460026,5,4,7,True,2016-07-18,Stolen,3B,2016,2017,26.4
+11,1624,1B,2B,Stolen Base 2B,545338,Nick Franklin,457711,Sean O'Sullivan,474233,Hank Conger,R,Sandy León,506702,2,1,2,True,2016-07-08,Stolen,2B,2016,2017,26.4
+12,1626,1B,2B,Stolen Base 2B,545338,Nick Franklin,457711,Sean O'Sullivan,474233,Hank Conger,R,Sandy León,506702,4,2,5,True,2016-07-08,Stolen,2B,2016,2017,26.4
+13,1856,1B,2B,Stolen Base 2B,545338,Nick Franklin,542960,Brad Brach,543094,Jaff Decker,R,Matt Wieters,446308,7,6,8,True,2016-06-25,Stolen,2B,2016,2017,26.4
+14,4298,1B,2B,Stolen Base 2B,545338,Nick Franklin,606131,Luis Perdomo,572816,Corey Dickerson,R,Derek Norris,519083,3,1,6,False,2016-08-15,Stolen,2B,2016,2017,26.4
+15,4556,1B,2B,Stolen Base 2B,545338,Nick Franklin,450172,Edinson Volquez,542921,Tim Beckham,R,Drew Butera,460077,6,0,5,False,2016-08-03,Stolen,2B,2016,2017,26.4
+16,4588,1B,,Caught Stealing 2B,545338,Nick Franklin,570649,Yordano Ventura,571912,Luke Maile,R,Salvador Perez,521692,0,1,3,False,2016-08-02,Caught,2B,2016,2017,26.4
+17,4899,2B,3B,Stolen Base 3B,545338,Nick Franklin,493603,Adam Ottavino,523253,Logan Forsythe,R,Nick Hundley,460026,5,4,7,True,2016-07-18,Stolen,3B,2016,2017,26.4
+18,5031,1B,2B,Stolen Base 2B,545338,Nick Franklin,457711,Sean O'Sullivan,474233,Hank Conger,R,Sandy León,506702,2,1,2,True,2016-07-08,Stolen,2B,2016,2017,26.4
+19,5033,1B,2B,Stolen Base 2B,545338,Nick Franklin,457711,Sean O'Sullivan,474233,Hank Conger,R,Sandy León,506702,4,2,5,True,2016-07-08,Stolen,2B,2016,2017,26.4
+20,5263,1B,2B,Stolen Base 2B,545338,Nick Franklin,542960,Brad Brach,543094,Jaff Decker,R,Matt Wieters,446308,7,6,8,True,2016-06-25,Stolen,2B,2016,2017,26.4
+21,790,1B,2B,Stolen Base 2B,545338,Nick Franklin,450308,Jered Weaver,425784,René Rivera,R,Carlos Pérez,542208,3,2,4,False,2015-06-10,Stolen,2B,2015,2016,27.0

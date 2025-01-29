@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1550,1B,,Caught Stealing 2B,119064,Damian Miller,Mike Matheny,3,1,2,True,2000-07-26,Caught,2B,2000
+1975,3B,,Caught Stealing Home,119064,Damian Miller,Benito Santiago,0,3,7,False,2000-07-03,Caught,Home,2000
+2969,1B,2B,Stolen Base 2B,119064,Damian Miller,Mike Piazza,0,2,2,True,2000-05-19,Stolen,2B,2000
+3930,1B,2B,Stolen Base 2B,119064,Damian Miller,Jason Kendall,2,3,4,False,2000-04-08,Stolen,2B,2000
+1408,1B,2B,Stolen Base 2B,119064,Damian Miller,Javy Lopez,5,7,5,True,2003-07-21,Stolen,2B,2003
+1862,1B,,Caught Stealing 2B,119064,Damian Miller,A.J. Pierzynski,2,0,2,False,2004-06-26,Caught,2B,2004
+3426,2B,,Caught Stealing 3B,119064,Damian Miller,Michael Barrett,2,1,2,True,2005-04-08,Caught,3B,2005
+3492,1B,2B,Stolen Base 2B,119064,Damian Miller,Brad Ausmus,3,1,4,False,2007-04-21,Stolen,2B,2007

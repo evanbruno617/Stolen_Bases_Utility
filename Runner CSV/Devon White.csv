@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+885,1B,2B,Stolen Base 2B,124164,Devon White,Joe Girardi,0,0,1,True,2000-08-25,Stolen,2B,2000
+1159,1B,,Caught Stealing 2B,124164,Devon White,Paul Bako,3,0,5,True,2000-08-12,Caught,2B,2000
+1545,1B,2B,Stolen Base 2B,124164,Devon White,Ben Petrick,6,4,4,True,2000-07-26,Stolen,2B,2000
+1587,1B,,Caught Stealing 2B,124164,Devon White,Brent Mayne,0,0,1,True,2000-07-24,Caught,2B,2000
+3466,1B,,Caught Stealing 2B,124164,Devon White,Mike Redmond,0,0,1,False,2000-04-28,Caught,2B,2000
+3877,2B,3B,Stolen Base 3B,124164,Devon White,Doug Mirabelli,3,5,7,True,2000-04-11,Stolen,3B,2000
+637,1B,2B,Stolen Base 2B,124164,Devon White,Jason Kendall,0,3,6,False,2001-05-11,Stolen,2B,2001
+708,1B,2B,Stolen Base 2B,124164,Devon White,Todd Hundley,0,0,5,False,2001-05-08,Stolen,2B,2001
+1012,2B,3B,Stolen Base 3B,124164,Devon White,Mike Piazza,9,1,3,False,2001-04-26,Stolen,3B,2001
+1337,1B,2B,Stolen Base 2B,124164,Devon White,Tony Eusebio,9,3,6,False,2001-04-12,Stolen,2B,2001
+1391,1B,2B,Stolen Base 2B,124164,Devon White,Jason LaRue,8,4,8,False,2001-04-08,Stolen,2B,2001

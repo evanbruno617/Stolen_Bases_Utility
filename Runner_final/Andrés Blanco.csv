@@ -1,0 +1,14 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4459,1B,2B,Stolen Base 2B,433217,Andrés Blanco,453286,Max Scherzer,571830,Tommy Joseph,R,Jose Lobaton,446653,0,0,3,True,2016-09-10,Stolen,2B,2016,2017,26.3
+1,6451,3B,score,Stolen Base Home,433217,Andrés Blanco,434671,Aníbal Sánchez,546318,Odúbel Herrera,R,James McCann,543510,0,2,2,True,2016-05-25,Stolen,Home,2016,2017,26.3
+2,6454,1B,,Caught Stealing 2B,433217,Andrés Blanco,434671,Aníbal Sánchez,595963,Tyler Goeddel,R,James McCann,543510,4,5,6,True,2016-05-25,Caught,2B,2016,2017,26.3
+3,6901,3B,,Caught Stealing Home,433217,Andrés Blanco,453249,Jeff Manship,488721,Peter Bourjos,R,Yan Gomes,543228,2,0,8,False,2016-05-01,Caught,Home,2016,2017,26.3
+4,424,1B,2B,Stolen Base 2B,433217,Andrés Blanco,453286,Max Scherzer,571830,Tommy Joseph,R,Jose Lobaton,446653,0,0,3,True,2016-09-10,Stolen,2B,2016,2017,26.3
+5,2416,3B,score,Stolen Base Home,433217,Andrés Blanco,434671,Aníbal Sánchez,546318,Odúbel Herrera,R,James McCann,543510,0,2,2,True,2016-05-25,Stolen,Home,2016,2017,26.3
+6,2419,1B,,Caught Stealing 2B,433217,Andrés Blanco,434671,Aníbal Sánchez,595963,Tyler Goeddel,R,James McCann,543510,4,5,6,True,2016-05-25,Caught,2B,2016,2017,26.3
+7,2866,3B,,Caught Stealing Home,433217,Andrés Blanco,453249,Jeff Manship,488721,Peter Bourjos,R,Yan Gomes,543228,2,0,8,False,2016-05-01,Caught,Home,2016,2017,26.3
+8,3831,1B,2B,Stolen Base 2B,433217,Andrés Blanco,453286,Max Scherzer,571830,Tommy Joseph,R,Jose Lobaton,446653,0,0,3,True,2016-09-10,Stolen,2B,2016,2017,26.3
+9,5823,3B,score,Stolen Base Home,433217,Andrés Blanco,434671,Aníbal Sánchez,546318,Odúbel Herrera,R,James McCann,543510,0,2,2,True,2016-05-25,Stolen,Home,2016,2017,26.3
+10,5826,1B,,Caught Stealing 2B,433217,Andrés Blanco,434671,Aníbal Sánchez,595963,Tyler Goeddel,R,James McCann,543510,4,5,6,True,2016-05-25,Caught,2B,2016,2017,26.3
+11,6273,3B,,Caught Stealing Home,433217,Andrés Blanco,453249,Jeff Manship,488721,Peter Bourjos,R,Yan Gomes,543228,2,0,8,False,2016-05-01,Caught,Home,2016,2017,26.3
+12,842,1B,,Caught Stealing 2B,433217,Andrés Blanco,502004,George Kontos,519237,Cameron Rupp,R,Buster Posey,457763,6,3,8,False,2015-06-07,Caught,2B,2015,2016,26.4

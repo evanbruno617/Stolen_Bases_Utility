@@ -1,0 +1,23 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2355,2B,3B,Stolen Base 3B,455759,Chris Young,279571,Matt Belisle,643217,Andrew Benintendi,R,Jason Castro,488771,6,1,5,False,2017-06-27,Stolen,3B,2017,2018,27.2
+1,2565,1B,2B,Stolen Base 2B,455759,Chris Young,593140,Michael Feliz,598265,Jackie Bradley Jr.,R,Brian McCann,435263,1,2,9,True,2017-06-16,Stolen,2B,2017,2018,27.2
+2,3658,1B,2B,Stolen Base 2B,455759,Chris Young,593969,Jayson Aquino,506702,Sandy León,L,Caleb Joseph,543376,0,2,4,True,2017-04-22,Stolen,2B,2017,2018,27.2
+3,1727,2B,3B,Stolen Base 3B,455759,Chris Young,279571,Matt Belisle,643217,Andrew Benintendi,R,Jason Castro,488771,6,1,5,False,2017-06-27,Stolen,3B,2017,2018,27.2
+4,1937,1B,2B,Stolen Base 2B,455759,Chris Young,593140,Michael Feliz,598265,Jackie Bradley Jr.,R,Brian McCann,435263,1,2,9,True,2017-06-16,Stolen,2B,2017,2018,27.2
+5,3030,1B,2B,Stolen Base 2B,455759,Chris Young,593969,Jayson Aquino,506702,Sandy León,L,Caleb Joseph,543376,0,2,4,True,2017-04-22,Stolen,2B,2017,2018,27.2
+6,4497,2B,3B,Stolen Base 3B,455759,Chris Young,453646,Carlos Villanueva,456030,Dustin Pedroia,R,Derek Norris,519083,2,5,4,True,2016-09-07,Stolen,3B,2016,2017,27.6
+7,4764,1B,,Caught Stealing 2B,455759,Chris Young,543606,Jake Odorizzi,431094,Aaron Hill,R,Luke Maile,571912,1,1,7,True,2016-08-25,Caught,2B,2016,2017,27.6
+8,6416,1B,2B,Stolen Base 2B,455759,Chris Young,573186,Marcus Stroman,543877,Christian Vázquez,R,Russell Martin,431145,3,7,6,True,2016-05-28,Stolen,2B,2016,2017,27.6
+9,6417,2B,3B,Stolen Base 3B,455759,Chris Young,519322,Drew Storen,543877,Christian Vázquez,R,Russell Martin,431145,4,8,8,True,2016-05-28,Stolen,3B,2016,2017,27.6
+10,462,2B,3B,Stolen Base 3B,455759,Chris Young,453646,Carlos Villanueva,456030,Dustin Pedroia,R,Derek Norris,519083,2,5,4,True,2016-09-07,Stolen,3B,2016,2017,27.6
+11,729,1B,,Caught Stealing 2B,455759,Chris Young,543606,Jake Odorizzi,431094,Aaron Hill,R,Luke Maile,571912,1,1,7,True,2016-08-25,Caught,2B,2016,2017,27.6
+12,2381,1B,2B,Stolen Base 2B,455759,Chris Young,573186,Marcus Stroman,543877,Christian Vázquez,R,Russell Martin,431145,3,7,6,True,2016-05-28,Stolen,2B,2016,2017,27.6
+13,2382,2B,3B,Stolen Base 3B,455759,Chris Young,519322,Drew Storen,543877,Christian Vázquez,R,Russell Martin,431145,4,8,8,True,2016-05-28,Stolen,3B,2016,2017,27.6
+14,3869,2B,3B,Stolen Base 3B,455759,Chris Young,453646,Carlos Villanueva,456030,Dustin Pedroia,R,Derek Norris,519083,2,5,4,True,2016-09-07,Stolen,3B,2016,2017,27.6
+15,4136,1B,,Caught Stealing 2B,455759,Chris Young,543606,Jake Odorizzi,431094,Aaron Hill,R,Luke Maile,571912,1,1,7,True,2016-08-25,Caught,2B,2016,2017,27.6
+16,5788,1B,2B,Stolen Base 2B,455759,Chris Young,573186,Marcus Stroman,543877,Christian Vázquez,R,Russell Martin,431145,3,7,6,True,2016-05-28,Stolen,2B,2016,2017,27.6
+17,5789,2B,3B,Stolen Base 3B,455759,Chris Young,519322,Drew Storen,543877,Christian Vázquez,R,Russell Martin,431145,4,8,8,True,2016-05-28,Stolen,3B,2016,2017,27.6
+18,166,1B,,Caught Stealing 2B,455759,Chris Young,593958,Eduardo Rodriguez,452104,Chase Headley,L,Ryan Hanigan,452672,0,1,2,True,2015-07-11,Caught,2B,2015,2016,27.7
+19,234,2B,3B,Stolen Base 3B,455759,Chris Young,519267,Evan Scribner,517369,José Pirela,R,Josh Phegley,572033,3,2,4,False,2015-07-08,Stolen,3B,2015,2016,27.7
+20,530,1B,2B,Stolen Base 2B,455759,Chris Young,457711,Sean O'Sullivan,458731,Brett Gardner,R,Cameron Rupp,519237,3,6,4,False,2015-06-23,Stolen,2B,2015,2016,27.7
+21,563,1B,2B,Stolen Base 2B,455759,Chris Young,434671,Aníbal Sánchez,452220,Stephen Drew,R,Bryan Holaday,592407,1,6,2,False,2015-06-21,Stolen,2B,2015,2016,27.7

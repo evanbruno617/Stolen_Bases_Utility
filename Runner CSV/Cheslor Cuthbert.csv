@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1034,1B,2B,Stolen Base 2B,596144,Cheslor Cuthbert,James McCann,1,0,7,False,2016-06-17,Stolen,2B,2016
+3028,1B,,Caught Stealing 2B,596144,Cheslor Cuthbert,Russell Martin,2,3,4,True,2018-04-17,Caught,2B,2018
+1737,1B,2B,Stolen Base 2B,596144,Cheslor Cuthbert,Grayson Greiner,0,2,4,False,2019-06-11,Stolen,2B,2019

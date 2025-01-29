@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1152,1B,2B,Stolen Base 2B,455369,Ramiro Pena,George Kottaras,6,5,9,True,2009-06-10,Stolen,2B,2009
+1285,1B,,Caught Stealing 2B,455369,Ramiro Pena,Taylor Teagarden,6,6,6,False,2009-06-04,Caught,2B,2009
+1530,1B,2B,Stolen Base 2B,455369,Ramiro Pena,Carlos Ruiz,3,3,9,False,2009-05-24,Stolen,2B,2009
+2128,1B,2B,Stolen Base 2B,455369,Ramiro Pena,Jeff Mathis,4,0,2,False,2009-05-01,Stolen,2B,2009
+2792,1B,,Caught Stealing 2B,455369,Ramiro Pena,Carlos Ruiz,5,2,4,False,2009-04-01,Caught,2B,2009
+580,1B,,Caught Stealing 2B,455369,Ramiro Pena,John Buck,7,5,8,False,2010-09-04,Caught,2B,2010
+738,1B,2B,Stolen Base 2B,455369,Ramiro Pena,A.J. Pierzynski,4,2,3,True,2010-08-27,Stolen,2B,2010
+1034,1B,2B,Stolen Base 2B,455369,Ramiro Pena,Jason Kendall,4,3,8,True,2010-08-13,Stolen,2B,2010
+1168,1B,2B,Stolen Base 2B,455369,Ramiro Pena,Victor Martinez,5,2,6,False,2010-08-07,Stolen,2B,2010
+1848,1B,2B,Stolen Base 2B,455369,Ramiro Pena,José Molina,3,1,4,False,2010-07-04,Stolen,2B,2010
+2519,1B,2B,Stolen Base 2B,455369,Ramiro Pena,John Buck,2,2,14,True,2010-06-05,Stolen,2B,2010
+2936,1B,2B,Stolen Base 2B,455369,Ramiro Pena,Victor Martinez,7,6,6,False,2010-05-17,Stolen,2B,2010
+3233,1B,,Caught Stealing 2B,455369,Ramiro Pena,Russell Martin,0,0,1,True,2013-04-21,Caught,2B,2013
+3236,1B,,Caught Stealing 2B,455369,Ramiro Pena,Russell Martin,3,2,7,True,2013-04-21,Caught,2B,2013
+1179,1B,2B,Stolen Base 2B,455369,Ramiro Pena,René Rivera,2,0,5,True,2014-08-03,Stolen,2B,2014

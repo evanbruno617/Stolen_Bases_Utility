@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+87,1B,2B,Stolen Base 2B,663743,Nick Fortes,Mike Zunino,0,1,4,True,2021-09-25,Stolen,2B,2021
+588,1B,,Caught Stealing 2B,663743,Nick Fortes,Francisco Mejía,0,0,2,False,2022-08-30,Caught,2B,2022
+866,1B,2B,Stolen Base 2B,663743,Nick Fortes,William Contreras,1,0,7,False,2022-08-14,Stolen,2B,2022
+1233,1B,2B,Stolen Base 2B,663743,Nick Fortes,Michael Papierski,0,1,1,True,2022-07-25,Stolen,2B,2022
+1266,1B,,Caught Stealing 2B,663743,Nick Fortes,Tyler Heineman,0,0,6,True,2022-07-23,Caught,2B,2022
+1453,1B,2B,Stolen Base 2B,663743,Nick Fortes,James McCann,1,0,5,True,2022-07-09,Stolen,2B,2022
+1802,1B,2B,Stolen Base 2B,663743,Nick Fortes,Brian Serven,5,4,4,False,2022-06-21,Stolen,2B,2022
+1969,1B,2B,Stolen Base 2B,663743,Nick Fortes,Martín Maldonado,0,0,2,True,2022-06-11,Stolen,2B,2022
+525,1B,2B,Stolen Base 2B,663743,Nick Fortes,J.T. Realmuto,3,3,7,True,2023-09-10,Stolen,2B,2023
+2032,1B,,Caught Stealing 2B,663743,Nick Fortes,Willson Contreras,2,1,2,False,2023-07-03,Caught,2B,2023
+2880,1B,2B,Stolen Base 2B,663743,Nick Fortes,Matt Thaiss,0,2,9,True,2023-05-28,Stolen,2B,2023
+3130,1B,2B,Stolen Base 2B,663743,Nick Fortes,Keibert Ruiz,5,3,8,False,2023-05-18,Stolen,2B,2023
+3448,1B,,Caught Stealing 2B,663743,Nick Fortes,Sean Murphy,3,4,6,False,2023-05-04,Caught,2B,2023
+3547,1B,2B,Stolen Base 2B,663743,Nick Fortes,Yan Gomes,2,2,4,False,2023-04-30,Stolen,2B,2023

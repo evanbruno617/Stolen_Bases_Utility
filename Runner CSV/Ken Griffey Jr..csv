@@ -1,0 +1,24 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1090,2B,,Caught Stealing 3B,115135,Ken Griffey Jr.,Henry Blanco,0,3,3,True,2000-08-14,Caught,3B,2000
+1635,1B,2B,Stolen Base 2B,115135,Ken Griffey Jr.,Damian Miller,3,1,3,False,2000-07-22,Stolen,2B,2000
+2322,1B,,Caught Stealing 2B,115135,Ken Griffey Jr.,Carlos Hernandez,1,1,8,True,2000-06-17,Caught,2B,2000
+2386,1B,2B,Stolen Base 2B,115135,Ken Griffey Jr.,Doug Mirabelli,0,1,1,True,2000-06-13,Stolen,2B,2000
+2511,1B,2B,Stolen Base 2B,115135,Ken Griffey Jr.,Sandy Alomar Jr.,6,4,5,True,2000-06-09,Stolen,2B,2000
+2946,1B,,Caught Stealing 2B,115135,Ken Griffey Jr.,Joe Girardi,0,5,2,True,2000-05-20,Caught,2B,2000
+3066,1B,2B,Stolen Base 2B,115135,Ken Griffey Jr.,Jason Kendall,4,1,6,False,2000-05-16,Stolen,2B,2000
+3131,2B,3B,Stolen Base 3B,115135,Ken Griffey Jr.,Mitch Meluskey,1,1,6,True,2000-05-13,Stolen,3B,2000
+3648,1B,2B,Stolen Base 2B,115135,Ken Griffey Jr.,Todd Hundley,0,0,1,False,2000-04-21,Stolen,2B,2000
+1112,1B,2B,Stolen Base 2B,115135,Ken Griffey Jr.,Wil Nieves,0,0,2,True,2002-08-04,Stolen,2B,2002
+2481,1B,,Caught Stealing 2B,115135,Ken Griffey Jr.,Henry Blanco,0,0,1,False,2002-05-31,Caught,2B,2002
+1929,1B,2B,Stolen Base 2B,115135,Ken Griffey Jr.,Chad Moeller,3,3,4,True,2003-06-21,Stolen,2B,2003
+3250,1B,2B,Stolen Base 2B,115135,Ken Griffey Jr.,Michael Barrett,3,5,5,True,2004-04-18,Stolen,2B,2004
+1588,2B,,Caught Stealing 3B,115135,Ken Griffey Jr.,Chris Snyder,3,0,4,True,2005-07-08,Caught,3B,2005
+1063,1B,,Caught Stealing 2B,115135,Ken Griffey Jr.,Jason Kendall,0,4,4,True,2007-08-14,Caught,2B,2007
+1686,1B,2B,Stolen Base 2B,115135,Ken Griffey Jr.,Brian McCann,0,6,7,True,2007-07-17,Stolen,2B,2007
+1688,1B,2B,Stolen Base 2B,115135,Ken Griffey Jr.,Brian McCann,4,6,9,True,2007-07-17,Stolen,2B,2007
+1823,1B,2B,Stolen Base 2B,115135,Ken Griffey Jr.,Paul Lo Duca,2,2,3,True,2007-07-12,Stolen,2B,2007
+1874,1B,2B,Stolen Base 2B,115135,Ken Griffey Jr.,Chris Snyder,1,1,4,False,2007-07-07,Stolen,2B,2007
+3025,1B,2B,Stolen Base 2B,115135,Ken Griffey Jr.,Russell Martin,4,5,6,True,2007-05-13,Stolen,2B,2007
+3224,1B,2B,Stolen Base 2B,115135,Ken Griffey Jr.,Brad Ausmus,4,5,8,True,2007-05-03,Stolen,2B,2007
+2959,1B,,Caught Stealing 2B,115135,Ken Griffey Jr.,Geovany Soto,0,1,1,False,2008-05-06,Caught,2B,2008
+2079,1B,2B,Caught Stealing 3B,115135,Ken Griffey Jr.,Kurt Suzuki,0,0,1,False,2009-05-02,Caught,3B,2009

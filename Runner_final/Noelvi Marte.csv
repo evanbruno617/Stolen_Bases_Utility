@@ -1,0 +1,19 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,13,3B,,Caught Stealing Home,682622,Noelvi Marte,680723,Drew Rom,656413,Stuart Fairchild,L,Iván Herrera,671056,5,0,2,True,2023-09-30,Caught,Home,2023,2024,28.8
+1,426,3B,score,Caught Stealing 2B,682622,Noelvi Marte,593958,Eduardo Rodriguez,663697,Jonathan India,L,Carson Kelly,608348,2,4,4,True,2023-09-13,Caught,2B,2023,2024,28.8
+2,587,3B,score,Stolen Base Home,682622,Noelvi Marte,572403,Drew VerHagen,592669,Hunter Renfroe,R,Willson Contreras,575929,4,6,4,False,2023-09-08,Stolen,Home,2023,2024,28.8
+3,657,1B,,Caught Stealing 2B,682622,Noelvi Marte,682243,Bryce Miller,571912,Luke Maile,R,Cal Raleigh,663728,0,2,3,False,2023-09-05,Caught,2B,2023,2024,28.8
+4,806,1B,2B,Stolen Base 2B,682622,Noelvi Marte,592426,Luke Jackson,668715,Spencer Steer,R,Patrick Bailey,672275,1,4,9,True,2023-08-30,Stolen,2B,2023,2024,28.8
+5,879,1B,2B,Stolen Base 2B,682622,Noelvi Marte,623149,Paul Sewald,666181,Will Benson,R,Jose Herrera,645444,4,2,9,True,2023-08-26,Stolen,2B,2023,2024,28.8
+6,928,1B,2B,Stolen Base 2B,682622,Noelvi Marte,612434,Miguel Castro,663886,Tyler Stephenson,R,Gabriel Moreno,672515,1,2,8,True,2023-08-24,Stolen,2B,2023,2024,28.8
+7,985,1B,2B,Stolen Base 2B,682622,Noelvi Marte,608337,Lucas Giolito,666181,Will Benson,R,Logan O'Hoppe,681351,3,4,6,True,2023-08-22,Stolen,2B,2023,2024,28.8
+8,1052,2B,3B,Stolen Base 3B,682622,Noelvi Marte,605447,Jordan Romano,592656,Henry Ramos,R,Alejandro Kirk,672386,3,4,9,False,2023-08-19,Stolen,3B,2023,2024,28.8
+9,4427,3B,,Caught Stealing Home,682622,Noelvi Marte,680723,Drew Rom,656413,Stuart Fairchild,L,Iván Herrera,671056,5,0,2,True,2023-09-30,Caught,Home,2023,2024,28.8
+10,4840,3B,score,Caught Stealing 2B,682622,Noelvi Marte,593958,Eduardo Rodriguez,663697,Jonathan India,L,Carson Kelly,608348,2,4,4,True,2023-09-13,Caught,2B,2023,2024,28.8
+11,5001,3B,score,Stolen Base Home,682622,Noelvi Marte,572403,Drew VerHagen,592669,Hunter Renfroe,R,Willson Contreras,575929,4,6,4,False,2023-09-08,Stolen,Home,2023,2024,28.8
+12,5071,1B,,Caught Stealing 2B,682622,Noelvi Marte,682243,Bryce Miller,571912,Luke Maile,R,Cal Raleigh,663728,0,2,3,False,2023-09-05,Caught,2B,2023,2024,28.8
+13,5220,1B,2B,Stolen Base 2B,682622,Noelvi Marte,592426,Luke Jackson,668715,Spencer Steer,R,Patrick Bailey,672275,1,4,9,True,2023-08-30,Stolen,2B,2023,2024,28.8
+14,5293,1B,2B,Stolen Base 2B,682622,Noelvi Marte,623149,Paul Sewald,666181,Will Benson,R,Jose Herrera,645444,4,2,9,True,2023-08-26,Stolen,2B,2023,2024,28.8
+15,5342,1B,2B,Stolen Base 2B,682622,Noelvi Marte,612434,Miguel Castro,663886,Tyler Stephenson,R,Gabriel Moreno,672515,1,2,8,True,2023-08-24,Stolen,2B,2023,2024,28.8
+16,5399,1B,2B,Stolen Base 2B,682622,Noelvi Marte,608337,Lucas Giolito,666181,Will Benson,R,Logan O'Hoppe,681351,3,4,6,True,2023-08-22,Stolen,2B,2023,2024,28.8
+17,5466,2B,3B,Stolen Base 3B,682622,Noelvi Marte,605447,Jordan Romano,592656,Henry Ramos,R,Alejandro Kirk,672386,3,4,9,False,2023-08-19,Stolen,3B,2023,2024,28.8

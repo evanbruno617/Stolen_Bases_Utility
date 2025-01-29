@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+245,1B,2B,Stolen Base 2B,622666,Johan Camargo,Francisco Peña,0,0,2,False,2018-09-18,Stolen,2B,2018
+2408,1B,,Caught Stealing 2B,622666,Johan Camargo,Jorge Alfaro,1,0,7,True,2018-05-21,Caught,2B,2018
+2472,1B,2B,Stolen Base 2B,622666,Johan Camargo,Tony Wolters,2,2,5,False,2019-04-27,Stolen,2B,2019

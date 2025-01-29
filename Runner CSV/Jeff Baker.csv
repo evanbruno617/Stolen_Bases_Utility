@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1305,1B,2B,Stolen Base 2B,425557,Jeff Baker,Paul Bako,1,5,4,True,2008-07-25,Stolen,2B,2008
+1435,1B,2B,Stolen Base 2B,425557,Jeff Baker,Ryan Doumit,3,1,5,False,2008-07-18,Stolen,2B,2008
+1594,1B,2B,Stolen Base 2B,425557,Jeff Baker,Jason Kendall,0,2,6,True,2008-07-07,Stolen,2B,2008
+1982,1B,2B,Stolen Base 2B,425557,Jeff Baker,Kelly Shoppach,3,1,6,False,2008-06-18,Stolen,2B,2008
+2347,1B,2B,Stolen Base 2B,425557,Jeff Baker,Chris Snyder,0,0,5,True,2009-04-22,Stolen,2B,2009
+1422,1B,2B,Stolen Base 2B,425557,Jeff Baker,Yadier Molina,3,4,11,False,2010-07-25,Stolen,2B,2010
+1393,1B,2B,Stolen Base 2B,425557,Jeff Baker,Michael McKenry,1,2,7,False,2012-08-01,Stolen,2B,2012
+1394,2B,3B,Stolen Base 3B,425557,Jeff Baker,Michael McKenry,1,2,7,False,2012-08-01,Stolen,3B,2012
+1418,1B,2B,Stolen Base 2B,425557,Jeff Baker,Rod Barajas,0,5,8,False,2012-07-31,Stolen,2B,2012
+3006,1B,,Caught Stealing 2B,425557,Jeff Baker,Chris Snyder,1,0,2,True,2012-05-22,Caught,2B,2012
+4009,1B,2B,Stolen Base 2B,425557,Jeff Baker,Jonathan Lucroy,0,5,2,False,2012-04-10,Stolen,2B,2012
+4151,1B,2B,Stolen Base 2B,425557,Jeff Baker,Jonathan Lucroy,4,1,3,False,2012-04-03,Stolen,2B,2012
+1516,2B,3B,Stolen Base 3B,425557,Jeff Baker,Matt Wieters,1,2,4,False,2013-07-19,Stolen,3B,2013
+1972,1B,2B,Stolen Base 2B,425557,Jeff Baker,Carlos Ruiz,0,2,9,True,2014-06-23,Stolen,2B,2014

@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1690,1B,2B,Stolen Base 2B,670541,Yordan Alvarez,Ryan Jeffers,0,4,5,True,2021-06-13,Stolen,2B,2021
+1218,3B,score,Stolen Base Home,670541,Yordan Alvarez,Sean Murphy,6,4,6,True,2022-07-25,Stolen,Home,2022
+1952,3B,,Caught Stealing Home,670541,Yordan Alvarez,Nick Fortes,5,4,7,False,2022-06-12,Caught,Home,2022

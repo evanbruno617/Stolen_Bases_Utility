@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+195,1B,2B,Stolen Base 2B,493472,Eric Campbell,Gerald Laird,0,3,2,True,2014-09-20,Stolen,2B,2014
+698,3B,score,Stolen Base Home,493472,Eric Campbell,Carlos Ruiz,4,1,7,False,2014-08-29,Stolen,Home,2014
+1850,1B,2B,Stolen Base 2B,493472,Eric Campbell,Chris Stewart,2,5,5,True,2014-06-28,Stolen,2B,2014
+469,1B,,Caught Stealing 2B,493472,Eric Campbell,J.T. Realmuto,0,4,1,True,2015-09-05,Caught,2B,2015
+1627,1B,2B,Stolen Base 2B,493472,Eric Campbell,David Ross,0,0,7,False,2015-07-01,Stolen,2B,2015
+2093,1B,2B,Stolen Base 2B,493472,Eric Campbell,Jarrod Saltalamacchia,3,5,9,True,2015-06-07,Stolen,2B,2015
+2094,2B,3B,Stolen Base 3B,493472,Eric Campbell,Jarrod Saltalamacchia,3,6,9,True,2015-06-07,Stolen,3B,2015
+2447,1B,,Caught Stealing 2B,493472,Eric Campbell,Chris Stewart,0,0,1,True,2015-05-22,Caught,2B,2015
+2971,2B,3B,Stolen Base 3B,493472,Eric Campbell,J.T. Realmuto,1,3,9,True,2015-04-27,Stolen,3B,2015
+3168,1B,2B,Stolen Base 2B,493472,Eric Campbell,Jarrod Saltalamacchia,1,0,2,False,2015-04-18,Stolen,2B,2015
+1721,1B,2B,Stolen Base 2B,493472,Eric Campbell,Yasmani Grandal,2,1,5,True,2016-05-11,Stolen,2B,2016

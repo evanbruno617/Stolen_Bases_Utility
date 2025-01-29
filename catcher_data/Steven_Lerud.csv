@@ -1,0 +1,4 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,451594,Dexter Fowler,Steven Lerud,7,8,8,False,2013-06-14,Stolen,2B,2013
+1B,2B,Stolen Base 2B,471865,Carlos González,Steven Lerud,7,8,9,False,2013-06-14,Stolen,2B,2013
+1B,2B,Stolen Base 2B,425206,Jamey Carroll,Steven Lerud,0,1,3,False,2013-06-11,Stolen,2B,2013

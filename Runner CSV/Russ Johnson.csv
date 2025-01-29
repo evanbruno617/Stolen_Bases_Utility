@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1246,1B,2B,Stolen Base 2B,116641,Russ Johnson,Danny Ardoin,0,0,1,False,2000-08-08,Stolen,2B,2000
+1308,1B,2B,Stolen Base 2B,116641,Russ Johnson,Brook Fordyce,1,2,3,False,2000-08-05,Stolen,2B,2000
+1460,1B,2B,Stolen Base 2B,116641,Russ Johnson,Héctor Ortiz,6,7,10,True,2000-07-30,Stolen,2B,2000
+2658,1B,2B,Stolen Base 2B,116641,Russ Johnson,Mike Piazza,0,0,2,True,2000-06-03,Stolen,2B,2000
+2939,1B,2B,Stolen Base 2B,116641,Russ Johnson,Lenny Webster,8,4,7,True,2000-05-20,Stolen,2B,2000
+3842,1B,,Caught Stealing 2B,116641,Russ Johnson,Mike Matheny,4,5,6,False,2000-04-12,Caught,2B,2000
+713,1B,,Caught Stealing 2B,116641,Russ Johnson,Brook Fordyce,3,3,7,False,2001-05-08,Caught,2B,2001
+1172,1B,2B,Stolen Base 2B,116641,Russ Johnson,Scott Hatteberg,1,0,6,False,2001-04-18,Stolen,2B,2001
+365,1B,,Caught Stealing 2B,116641,Russ Johnson,Jason Varitek,2,1,5,False,2002-09-12,Caught,2B,2002
+2465,2B,3B,Stolen Base 3B,116641,Russ Johnson,Ramon Hernandez,1,3,7,False,2002-06-01,Stolen,3B,2002
+3191,1B,,Caught Stealing 2B,116641,Russ Johnson,Jason Varitek,2,1,5,False,2002-05-03,Caught,2B,2002
+3272,1B,2B,Stolen Base 2B,116641,Russ Johnson,A.J. Pierzynski,2,2,5,True,2002-04-29,Stolen,2B,2002
+3395,1B,2B,Stolen Base 2B,116641,Russ Johnson,A.J. Pierzynski,2,1,7,False,2002-04-25,Stolen,2B,2002
+3429,1B,2B,Stolen Base 2B,116641,Russ Johnson,A.J. Pierzynski,6,3,6,False,2002-04-23,Stolen,2B,2002
+3497,1B,2B,Stolen Base 2B,116641,Russ Johnson,Geronimo Gil,1,1,2,False,2002-04-20,Stolen,2B,2002

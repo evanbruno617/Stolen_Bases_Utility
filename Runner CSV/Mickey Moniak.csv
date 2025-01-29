@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+380,1B,2B,Stolen Base 2B,666160,Mickey Moniak,Martín Maldonado,1,1,2,True,2022-09-10,Stolen,2B,2022
+3194,1B,2B,Stolen Base 2B,666160,Mickey Moniak,Jose Trevino,0,0,3,True,2022-04-04,Stolen,2B,2022
+986,1B,,Caught Stealing 2B,666160,Mickey Moniak,Tyler Stephenson,3,4,9,False,2023-08-22,Caught,2B,2023
+1053,1B,2B,Stolen Base 2B,666160,Mickey Moniak,René Pinto,2,2,2,False,2023-08-19,Stolen,2B,2023
+1356,1B,2B,Stolen Base 2B,666160,Mickey Moniak,Tom Murphy,1,2,5,False,2023-08-05,Stolen,2B,2023
+1505,1B,2B,Stolen Base 2B,666160,Mickey Moniak,Danny Jansen,0,0,1,True,2023-07-30,Stolen,2B,2023
+1538,1B,,Caught Stealing 2B,666160,Mickey Moniak,Danny Jansen,1,1,3,True,2023-07-28,Caught,2B,2023
+1743,1B,2B,Stolen Base 2B,666160,Mickey Moniak,Kyle Higashioka,5,1,5,False,2023-07-18,Stolen,2B,2023
+2426,2B,,Caught Stealing 3B,666160,Mickey Moniak,Freddy Fermin,0,1,3,True,2023-06-16,Caught,3B,2023
+3223,1B,2B,Stolen Base 2B,666160,Mickey Moniak,David Fry,0,1,3,True,2023-05-13,Stolen,2B,2023
+3225,1B,2B,Stolen Base 2B,666160,Mickey Moniak,David Fry,2,4,7,True,2023-05-13,Stolen,2B,2023

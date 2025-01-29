@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+428,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,Austin Romine,5,2,7,False,2020-09-07,Stolen,2B,2020
+124,1B,,Caught Stealing 2B,664774,LaMonte Wade Jr.,Victor Caratini,1,8,7,True,2021-09-22,Caught,2B,2021
+414,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,Will Smith,1,4,7,False,2021-09-04,Stolen,2B,2021
+502,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,Stephen Vogt,0,0,3,True,2021-08-29,Stolen,2B,2021
+519,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,Travis d'Arnaud,0,2,3,True,2021-08-28,Stolen,2B,2021
+1081,2B,3B,Stolen Base 3B,664774,LaMonte Wade Jr.,Will Smith,0,0,1,True,2021-07-22,Stolen,3B,2021
+1644,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,Stephen Vogt,0,2,1,False,2021-06-16,Stolen,2B,2021
+1905,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,Will Smith,4,7,7,True,2021-05-29,Stolen,2B,2021
+2955,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,Victor Caratini,0,1,5,True,2023-05-25,Stolen,2B,2023
+4242,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,Jose Trevino,0,0,1,True,2023-04-01,Stolen,2B,2023

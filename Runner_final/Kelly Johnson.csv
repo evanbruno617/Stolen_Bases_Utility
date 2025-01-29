@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,93,1B,2B,Stolen Base 2B,430637,Kelly Johnson,453562,Jake Arrieta,150229,A.J. Pierzynski,R,David Ross,424325,0,0,1,False,2015-07-19,Stolen,2B,2015,2016,26.9
+1,789,1B,,Caught Stealing 2B,430637,Kelly Johnson,475115,Tyson Ross,150229,A.J. Pierzynski,R,Austin Hedges,595978,1,0,2,False,2015-06-10,Caught,2B,2015,2016,26.9

@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,755,1B,,Caught Stealing 2B,519068,Efren Navarro,445926,Jesse Chavez,459964,Matt Joyce,R,Josh Phegley,572033,1,0,2,False,2015-06-12,Caught,2B,2015,2017,25.1
+1,2116,1B,,Caught Stealing 2B,519068,Efren Navarro,547874,Hisashi Iwakuma,543213,Johnny Giavotella,R,Mike Zunino,572287,1,5,4,True,2015-04-08,Caught,2B,2015,2017,25.1

@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+4175,1B,2B,Stolen Base 2B,451713,Carlos Peguero,Wilin Rosario,0,0,2,False,2012-04-02,Stolen,2B,2012
+3091,1B,2B,Stolen Base 2B,451713,Carlos Peguero,Chris Iannetta,2,2,6,False,2013-04-27,Stolen,2B,2013
+2636,1B,2B,Stolen Base 2B,451713,Carlos Peguero,Salvador Perez,2,1,4,False,2015-05-12,Stolen,2B,2015
+3266,1B,2B,Stolen Base 2B,451713,Carlos Peguero,Chris Iannetta,3,5,7,False,2015-04-13,Stolen,2B,2015

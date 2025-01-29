@@ -1,0 +1,11 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,290,2B,3B,Stolen Base 3B,676475,Alec Burleson,656730,Trevor Megill,571448,Nolan Arenado,R,William Contreras,661388,2,0,1,False,2023-09-19,Stolen,3B,2023,2024,25.5
+1,395,1B,2B,Stolen Base 2B,676475,Alec Burleson,605400,Aaron Nola,571448,Nolan Arenado,R,J.T. Realmuto,592663,2,4,3,False,2023-09-15,Stolen,2B,2023,2024,25.5
+2,619,1B,2B,Stolen Base 2B,676475,Alec Burleson,675911,Spencer Strider,669242,Tommy Edman,R,Sean Murphy,669221,0,6,3,True,2023-09-06,Stolen,2B,2023,2024,25.5
+3,621,1B,2B,Caught Stealing 3B,676475,Alec Burleson,670241,Darius Vines,669242,Tommy Edman,R,Sean Murphy,669221,2,6,5,True,2023-09-06,Caught,3B,2023,2024,25.5
+4,3021,1B,,Caught Stealing 2B,676475,Alec Burleson,668933,Graham Ashcraft,663457,Lars Nootbaar,R,Tyler Stephenson,663886,1,3,2,True,2023-05-23,Caught,2B,2023,2024,25.5
+5,4704,2B,3B,Stolen Base 3B,676475,Alec Burleson,656730,Trevor Megill,571448,Nolan Arenado,R,William Contreras,661388,2,0,1,False,2023-09-19,Stolen,3B,2023,2024,25.5
+6,4809,1B,2B,Stolen Base 2B,676475,Alec Burleson,605400,Aaron Nola,571448,Nolan Arenado,R,J.T. Realmuto,592663,2,4,3,False,2023-09-15,Stolen,2B,2023,2024,25.5
+7,5033,1B,2B,Stolen Base 2B,676475,Alec Burleson,675911,Spencer Strider,669242,Tommy Edman,R,Sean Murphy,669221,0,6,3,True,2023-09-06,Stolen,2B,2023,2024,25.5
+8,5035,1B,2B,Caught Stealing 3B,676475,Alec Burleson,670241,Darius Vines,669242,Tommy Edman,R,Sean Murphy,669221,2,6,5,True,2023-09-06,Caught,3B,2023,2024,25.5
+9,7435,1B,,Caught Stealing 2B,676475,Alec Burleson,668933,Graham Ashcraft,663457,Lars Nootbaar,R,Tyler Stephenson,663886,1,3,2,True,2023-05-23,Caught,2B,2023,2024,25.5

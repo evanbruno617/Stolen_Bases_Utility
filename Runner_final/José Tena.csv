@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,97,1B,2B,Caught Stealing 3B,677588,José Tena,671096,Andrew Abbott,595956,Cam Gallagher,L,Tyler Stephenson,663886,2,0,2,False,2023-09-27,Caught,3B,2023,2024,28.1
+1,4511,1B,2B,Caught Stealing 3B,677588,José Tena,671096,Andrew Abbott,595956,Cam Gallagher,L,Tyler Stephenson,663886,2,0,2,False,2023-09-27,Caught,3B,2023,2024,28.1

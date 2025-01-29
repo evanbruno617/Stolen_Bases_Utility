@@ -1,0 +1,79 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,444876,Alcides Escobar,592351,Jon Gray,605137,Josh Bell,R,Dom Nuñez,624513,0,0,1,False,2021-09-19,Stolen,2B,2021,2022, 76.4, 0.80
+1,1B,2B,Stolen Base 2B,546318,Odúbel Herrera,642759,Julian Fernández,543543,Brad Miller,R,Dom Nuñez,624513,6,1,8,False,2021-09-11,Stolen,2B,2021,2022, 76.4, 0.80
+2,2B,,Caught Stealing 3B,592696,Eddie Rosario,468504,Jhoulys Chacín,645277,Ozzie Albies,R,Dom Nuñez,624513,4,3,8,True,2021-09-03,Caught,3B,2021,2022, 76.4, 0.80
+3,1B,2B,Stolen Base 2B,542364,Rafael Ortega,468504,Jhoulys Chacín,575929,Willson Contreras,R,Dom Nuñez,624513,6,5,7,True,2021-08-05,Stolen,2B,2021,2022, 76.4, 0.80
+4,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,608566,Germán Márquez,665120,Jared Walsh,R,Dom Nuñez,624513,2,0,1,False,2021-07-26,Stolen,2B,2021,2022, 76.4, 0.80
+5,1B,,Caught Stealing 2B,502054,Tommy Pham,608566,Germán Márquez,665487,Fernando Tatis Jr.,R,Dom Nuñez,624513,0,2,6,False,2021-07-10,Caught,2B,2021,2022, 76.4, 0.80
+6,1B,2B,Stolen Base 2B,663647,Ke'Bryan Hayes,592351,Jon Gray,668804,Bryan Reynolds,R,Dom Nuñez,624513,0,2,3,True,2021-06-30,Stolen,2B,2021,2022, 76.4, 0.80
+7,1B,2B,Stolen Base 2B,621438,Tyrone Taylor,622608,Antonio Senzatela,669374,Keston Hiura,R,Dom Nuñez,624513,2,1,1,False,2021-06-26,Stolen,2B,2021,2022, 76.4, 0.80
+8,1B,2B,Stolen Base 2B,543939,Kolten Wong,468504,Jhoulys Chacín,649966,Luis Urías,R,Dom Nuñez,624513,3,4,6,False,2021-06-26,Stolen,2B,2021,2022, 76.4, 0.80
+9,1B,,Caught Stealing 2B,572122,Kyle Seager,607536,Kyle Freeland,664034,Ty France,L,Dom Nuñez,624513,0,0,4,False,2021-06-22,Caught,2B,2021,2022, 76.4, 0.80
+10,1B,2B,Stolen Base 2B,607054,Jace Peterson,453268,Daniel Bard,596129,Daniel Vogelbach,R,Dom Nuñez,624513,6,7,9,True,2021-06-20,Stolen,2B,2021,2022, 76.4, 0.80
+11,1B,2B,Stolen Base 2B,649966,Luis Urías,453268,Daniel Bard,607054,Jace Peterson,R,Dom Nuñez,624513,5,5,9,True,2021-06-18,Stolen,2B,2021,2022, 76.4, 0.80
+12,1B,,Caught Stealing 2B,543333,Eric Hosmer,592346,Chi Chi González,595777,Jurickson Profar,R,Dom Nuñez,624513,2,4,6,True,2021-06-15,Caught,2B,2021,2022, 76.4, 0.80
+13,1B,,Caught Stealing 2B,502054,Tommy Pham,571710,Mychal Givens,592518,Manny Machado,R,Dom Nuñez,624513,6,4,8,True,2021-06-15,Caught,2B,2021,2022, 76.4, 0.80
+14,1B,2B,Stolen Base 2B,516782,Starling Marte,608032,Carlos Estévez,542583,Jesús Aguilar,R,Dom Nuñez,624513,5,2,7,False,2021-06-08,Stolen,2B,2021,2022, 76.4, 0.80
+15,1B,2B,Stolen Base 2B,462101,Elvis Andrus,608566,Germán Márquez,592192,Mark Canha,R,Dom Nuñez,624513,0,0,3,True,2021-06-06,Stolen,2B,2021,2022, 76.4, 0.80
+16,1B,2B,Stolen Base 2B,666969,Adolis García,608032,Carlos Estévez,608336,Joey Gallo,R,Dom Nuñez,624513,4,3,8,True,2021-06-02,Stolen,2B,2021,2022, 76.4, 0.80
+17,2B,3B,Stolen Base 3B,608336,Joey Gallo,641755,Tyler Kinley,641680,Jonah Heim,R,Dom Nuñez,624513,2,2,10,True,2021-06-01,Stolen,3B,2021,2022, 76.4, 0.80
+18,2B,,Caught Stealing 3B,641680,Jonah Heim,571710,Mychal Givens,643396,Isiah Kiner-Falefa,R,Dom Nuñez,624513,2,2,11,True,2021-06-01,Caught,3B,2021,2022, 76.4, 0.80
+19,2B,3B,Stolen Base 3B,542340,Jonathan Villar,607536,Kyle Freeland,592273,Brandon Drury,L,Dom Nuñez,624513,0,0,1,False,2021-05-25,Stolen,3B,2021,2022, 76.4, 0.80
+20,1B,2B,Stolen Base 2B,596019,Francisco Lindor,607536,Kyle Freeland,592273,Brandon Drury,L,Dom Nuñez,624513,0,0,1,False,2021-05-25,Stolen,2B,2021,2022, 76.4, 0.80
+21,2B,,Caught Stealing 3B,542340,Jonathan Villar,607536,Kyle Freeland,592273,Brandon Drury,L,Dom Nuñez,624513,1,1,3,False,2021-05-25,Caught,3B,2021,2022, 76.4, 0.80
+22,1B,,Caught Stealing 2B,542340,Jonathan Villar,592346,Chi Chi González,596019,Francisco Lindor,R,Dom Nuñez,624513,1,1,5,False,2021-05-25,Caught,2B,2021,2022, 76.4, 0.80
+23,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,592346,Chi Chi González,543333,Eric Hosmer,R,Dom Nuñez,624513,0,0,2,False,2021-05-19,Stolen,2B,2021,2022, 76.4, 0.80
+24,1B,2B,Stolen Base 2B,595777,Jurickson Profar,596112,Robert Stephenson,657434,Brian O'Grady,R,Dom Nuñez,624513,2,0,7,False,2021-05-19,Stolen,2B,2021,2022, 76.4, 0.80
+25,1B,,Caught Stealing 2B,673451,Shogo Akiyama,622608,Antonio Senzatela,663697,Jonathan India,R,Dom Nuñez,624513,0,1,2,True,2021-05-16,Caught,2B,2021,2022, 76.4, 0.80
+26,1B,2B,Stolen Base 2B,657557,Paul DeJong,592346,Chi Chi González,425877,Yadier Molina,R,Dom Nuñez,624513,3,1,1,False,2021-05-08,Stolen,2B,2021,2022, 76.4, 0.80
+27,2B,3B,Stolen Base 3B,657557,Paul DeJong,664875,Justin Lawrence,641933,Tyler O'Neill,R,Dom Nuñez,624513,9,5,5,False,2021-05-08,Stolen,3B,2021,2022, 76.4, 0.80
+28,2B,3B,Stolen Base 3B,543063,Brandon Crawford,453268,Daniel Bard,573131,Darin Ruf,R,Dom Nuñez,624513,6,5,9,True,2021-05-05,Stolen,3B,2021,2022, 76.4, 0.80
+29,1B,2B,Stolen Base 2B,643289,Mauricio Dubón,453268,Daniel Bard,573131,Darin Ruf,R,Dom Nuñez,624513,6,5,9,True,2021-05-05,Stolen,2B,2021,2022, 76.4, 0.80
+30,2B,3B,Stolen Base 2B,643289,Mauricio Dubón,453268,Daniel Bard,573131,Darin Ruf,R,Dom Nuñez,624513,6,5,9,True,2021-05-05,Stolen,2B,2021,2022, 76.4, 0.80
+31,1B,2B,Stolen Base 2B,656976,Pavin Smith,571710,Mychal Givens,452678,Asdrúbal Cabrera,R,Dom Nuñez,624513,5,7,7,False,2021-05-01,Stolen,2B,2021,2022, 76.4, 0.80
+32,1B,2B,Stolen Base 2B,444482,David Peralta,596112,Robert Stephenson,519390,Stephen Vogt,R,Dom Nuñez,624513,5,3,7,False,2021-04-29,Stolen,2B,2021,2022, 76.4, 0.80
+33,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,608566,Germán Márquez,664761,Alec Bohm,R,Dom Nuñez,624513,0,2,4,True,2021-04-23,Stolen,2B,2021,2022, 76.4, 0.80
+34,2B,3B,Stolen Base 3B,596451,Roman Quinn,622075,Yency Almonte,457705,Andrew McCutchen,R,Dom Nuñez,624513,2,3,7,True,2021-04-23,Stolen,3B,2021,2022, 76.4, 0.80
+35,1B,2B,Stolen Base 2B,607043,Brandon Nimmo,571710,Mychal Givens,596019,Francisco Lindor,R,Dom Nuñez,624513,1,2,8,True,2021-04-18,Stolen,2B,2021,2022, 76.4, 0.80
+36,1B,2B,Stolen Base 2B,474832,Brandon Belt,608566,Germán Márquez,446334,Evan Longoria,R,Dom Nuñez,624513,2,0,1,False,2021-04-11,Stolen,2B,2021,2022, 76.4, 0.80
+37,1B,2B,Stolen Base 2B,500871,Eduardo Escobar,592351,Jon Gray,672695,Geraldo Perdomo,R,Dom Nuñez,624513,4,0,5,True,2021-04-08,Stolen,2B,2021,2022, 76.4, 0.80
+38,1B,2B,Stolen Base 2B,666158,Gavin Lux,571710,Mychal Givens,608369,Corey Seager,R,Dom Nuñez,624513,4,5,8,True,2021-04-03,Stolen,2B,2021,2022, 76.4, 0.80
+39,1B,2B,Stolen Base 2B,444876,Alcides Escobar,592351,Jon Gray,605137,Josh Bell,R,Dom Nuñez,624513,0,0,1,False,2021-09-19,Stolen,2B,2021,2022, 76.4, 0.80
+40,1B,2B,Stolen Base 2B,546318,Odúbel Herrera,642759,Julian Fernández,543543,Brad Miller,R,Dom Nuñez,624513,6,1,8,False,2021-09-11,Stolen,2B,2021,2022, 76.4, 0.80
+41,2B,,Caught Stealing 3B,592696,Eddie Rosario,468504,Jhoulys Chacín,645277,Ozzie Albies,R,Dom Nuñez,624513,4,3,8,True,2021-09-03,Caught,3B,2021,2022, 76.4, 0.80
+42,1B,2B,Stolen Base 2B,542364,Rafael Ortega,468504,Jhoulys Chacín,575929,Willson Contreras,R,Dom Nuñez,624513,6,5,7,True,2021-08-05,Stolen,2B,2021,2022, 76.4, 0.80
+43,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,608566,Germán Márquez,665120,Jared Walsh,R,Dom Nuñez,624513,2,0,1,False,2021-07-26,Stolen,2B,2021,2022, 76.4, 0.80
+44,1B,,Caught Stealing 2B,502054,Tommy Pham,608566,Germán Márquez,665487,Fernando Tatis Jr.,R,Dom Nuñez,624513,0,2,6,False,2021-07-10,Caught,2B,2021,2022, 76.4, 0.80
+45,1B,2B,Stolen Base 2B,663647,Ke'Bryan Hayes,592351,Jon Gray,668804,Bryan Reynolds,R,Dom Nuñez,624513,0,2,3,True,2021-06-30,Stolen,2B,2021,2022, 76.4, 0.80
+46,1B,2B,Stolen Base 2B,621438,Tyrone Taylor,622608,Antonio Senzatela,669374,Keston Hiura,R,Dom Nuñez,624513,2,1,1,False,2021-06-26,Stolen,2B,2021,2022, 76.4, 0.80
+47,1B,2B,Stolen Base 2B,543939,Kolten Wong,468504,Jhoulys Chacín,649966,Luis Urías,R,Dom Nuñez,624513,3,4,6,False,2021-06-26,Stolen,2B,2021,2022, 76.4, 0.80
+48,1B,,Caught Stealing 2B,572122,Kyle Seager,607536,Kyle Freeland,664034,Ty France,L,Dom Nuñez,624513,0,0,4,False,2021-06-22,Caught,2B,2021,2022, 76.4, 0.80
+49,1B,2B,Stolen Base 2B,607054,Jace Peterson,453268,Daniel Bard,596129,Daniel Vogelbach,R,Dom Nuñez,624513,6,7,9,True,2021-06-20,Stolen,2B,2021,2022, 76.4, 0.80
+50,1B,2B,Stolen Base 2B,649966,Luis Urías,453268,Daniel Bard,607054,Jace Peterson,R,Dom Nuñez,624513,5,5,9,True,2021-06-18,Stolen,2B,2021,2022, 76.4, 0.80
+51,1B,,Caught Stealing 2B,543333,Eric Hosmer,592346,Chi Chi González,595777,Jurickson Profar,R,Dom Nuñez,624513,2,4,6,True,2021-06-15,Caught,2B,2021,2022, 76.4, 0.80
+52,1B,,Caught Stealing 2B,502054,Tommy Pham,571710,Mychal Givens,592518,Manny Machado,R,Dom Nuñez,624513,6,4,8,True,2021-06-15,Caught,2B,2021,2022, 76.4, 0.80
+53,1B,2B,Stolen Base 2B,516782,Starling Marte,608032,Carlos Estévez,542583,Jesús Aguilar,R,Dom Nuñez,624513,5,2,7,False,2021-06-08,Stolen,2B,2021,2022, 76.4, 0.80
+54,1B,2B,Stolen Base 2B,462101,Elvis Andrus,608566,Germán Márquez,592192,Mark Canha,R,Dom Nuñez,624513,0,0,3,True,2021-06-06,Stolen,2B,2021,2022, 76.4, 0.80
+55,1B,2B,Stolen Base 2B,666969,Adolis García,608032,Carlos Estévez,608336,Joey Gallo,R,Dom Nuñez,624513,4,3,8,True,2021-06-02,Stolen,2B,2021,2022, 76.4, 0.80
+56,2B,3B,Stolen Base 3B,608336,Joey Gallo,641755,Tyler Kinley,641680,Jonah Heim,R,Dom Nuñez,624513,2,2,10,True,2021-06-01,Stolen,3B,2021,2022, 76.4, 0.80
+57,2B,,Caught Stealing 3B,641680,Jonah Heim,571710,Mychal Givens,643396,Isiah Kiner-Falefa,R,Dom Nuñez,624513,2,2,11,True,2021-06-01,Caught,3B,2021,2022, 76.4, 0.80
+58,2B,3B,Stolen Base 3B,542340,Jonathan Villar,607536,Kyle Freeland,592273,Brandon Drury,L,Dom Nuñez,624513,0,0,1,False,2021-05-25,Stolen,3B,2021,2022, 76.4, 0.80
+59,1B,2B,Stolen Base 2B,596019,Francisco Lindor,607536,Kyle Freeland,592273,Brandon Drury,L,Dom Nuñez,624513,0,0,1,False,2021-05-25,Stolen,2B,2021,2022, 76.4, 0.80
+60,2B,,Caught Stealing 3B,542340,Jonathan Villar,607536,Kyle Freeland,592273,Brandon Drury,L,Dom Nuñez,624513,1,1,3,False,2021-05-25,Caught,3B,2021,2022, 76.4, 0.80
+61,1B,,Caught Stealing 2B,542340,Jonathan Villar,592346,Chi Chi González,596019,Francisco Lindor,R,Dom Nuñez,624513,1,1,5,False,2021-05-25,Caught,2B,2021,2022, 76.4, 0.80
+62,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,592346,Chi Chi González,543333,Eric Hosmer,R,Dom Nuñez,624513,0,0,2,False,2021-05-19,Stolen,2B,2021,2022, 76.4, 0.80
+63,1B,2B,Stolen Base 2B,595777,Jurickson Profar,596112,Robert Stephenson,657434,Brian O'Grady,R,Dom Nuñez,624513,2,0,7,False,2021-05-19,Stolen,2B,2021,2022, 76.4, 0.80
+64,1B,,Caught Stealing 2B,673451,Shogo Akiyama,622608,Antonio Senzatela,663697,Jonathan India,R,Dom Nuñez,624513,0,1,2,True,2021-05-16,Caught,2B,2021,2022, 76.4, 0.80
+65,1B,2B,Stolen Base 2B,657557,Paul DeJong,592346,Chi Chi González,425877,Yadier Molina,R,Dom Nuñez,624513,3,1,1,False,2021-05-08,Stolen,2B,2021,2022, 76.4, 0.80
+66,2B,3B,Stolen Base 3B,657557,Paul DeJong,664875,Justin Lawrence,641933,Tyler O'Neill,R,Dom Nuñez,624513,9,5,5,False,2021-05-08,Stolen,3B,2021,2022, 76.4, 0.80
+67,2B,3B,Stolen Base 3B,543063,Brandon Crawford,453268,Daniel Bard,573131,Darin Ruf,R,Dom Nuñez,624513,6,5,9,True,2021-05-05,Stolen,3B,2021,2022, 76.4, 0.80
+68,1B,2B,Stolen Base 2B,643289,Mauricio Dubón,453268,Daniel Bard,573131,Darin Ruf,R,Dom Nuñez,624513,6,5,9,True,2021-05-05,Stolen,2B,2021,2022, 76.4, 0.80
+69,2B,3B,Stolen Base 2B,643289,Mauricio Dubón,453268,Daniel Bard,573131,Darin Ruf,R,Dom Nuñez,624513,6,5,9,True,2021-05-05,Stolen,2B,2021,2022, 76.4, 0.80
+70,1B,2B,Stolen Base 2B,656976,Pavin Smith,571710,Mychal Givens,452678,Asdrúbal Cabrera,R,Dom Nuñez,624513,5,7,7,False,2021-05-01,Stolen,2B,2021,2022, 76.4, 0.80
+71,1B,2B,Stolen Base 2B,444482,David Peralta,596112,Robert Stephenson,519390,Stephen Vogt,R,Dom Nuñez,624513,5,3,7,False,2021-04-29,Stolen,2B,2021,2022, 76.4, 0.80
+72,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,608566,Germán Márquez,664761,Alec Bohm,R,Dom Nuñez,624513,0,2,4,True,2021-04-23,Stolen,2B,2021,2022, 76.4, 0.80
+73,2B,3B,Stolen Base 3B,596451,Roman Quinn,622075,Yency Almonte,457705,Andrew McCutchen,R,Dom Nuñez,624513,2,3,7,True,2021-04-23,Stolen,3B,2021,2022, 76.4, 0.80
+74,1B,2B,Stolen Base 2B,607043,Brandon Nimmo,571710,Mychal Givens,596019,Francisco Lindor,R,Dom Nuñez,624513,1,2,8,True,2021-04-18,Stolen,2B,2021,2022, 76.4, 0.80
+75,1B,2B,Stolen Base 2B,474832,Brandon Belt,608566,Germán Márquez,446334,Evan Longoria,R,Dom Nuñez,624513,2,0,1,False,2021-04-11,Stolen,2B,2021,2022, 76.4, 0.80
+76,1B,2B,Stolen Base 2B,500871,Eduardo Escobar,592351,Jon Gray,672695,Geraldo Perdomo,R,Dom Nuñez,624513,4,0,5,True,2021-04-08,Stolen,2B,2021,2022, 76.4, 0.80
+77,1B,2B,Stolen Base 2B,666158,Gavin Lux,571710,Mychal Givens,608369,Corey Seager,R,Dom Nuñez,624513,4,5,8,True,2021-04-03,Stolen,2B,2021,2022, 76.4, 0.80

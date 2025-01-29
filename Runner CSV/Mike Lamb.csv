@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+875,1B,,Caught Stealing 2B,150286,Mike Lamb,Darrin Fletcher,0,0,7,False,2000-08-25,Caught,2B,2000
+1725,1B,,Caught Stealing 2B,150286,Mike Lamb,Bobby Estalella,0,2,2,True,2000-07-17,Caught,2B,2000
+2963,1B,2B,Stolen Base 2B,150286,Mike Lamb,Tim Laker,1,1,2,True,2003-05-03,Stolen,2B,2003
+866,3B,score,Stolen Base Home,150286,Mike Lamb,Todd Pratt,0,1,2,True,2004-08-19,Stolen,Home,2004
+3280,3B,score,Caught Stealing Home,150286,Mike Lamb,Gary Bennett,8,3,5,False,2004-04-17,Caught,Home,2004
+650,3B,,Caught Stealing Home,150286,Mike Lamb,Dioner Navarro,0,0,4,True,2005-08-28,Caught,Home,2005
+2089,1B,2B,Stolen Base 2B,150286,Mike Lamb,Sal Fasano,7,2,4,True,2005-06-13,Stolen,2B,2005
+2532,1B,,Caught Stealing 2B,150286,Mike Lamb,Brandon Inge,1,1,5,True,2008-05-25,Caught,2B,2008

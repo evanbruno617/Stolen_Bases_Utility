@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+302,1B,2B,Stolen Base 2B,120042,Luis Ordaz,Randy Knorr,3,0,3,True,2000-09-17,Stolen,2B,2000
+1322,1B,,Caught Stealing 2B,120042,Luis Ordaz,Jason Varitek,0,2,2,True,2000-08-05,Caught,2B,2000
+1642,1B,2B,Stolen Base 2B,120042,Luis Ordaz,Brad Ausmus,3,6,6,True,2000-07-22,Stolen,2B,2000
+2177,1B,,Caught Stealing 2B,120042,Luis Ordaz,Ramon Hernandez,1,0,3,True,2000-06-24,Caught,2B,2000
+2458,1B,2B,Stolen Base 2B,120042,Luis Ordaz,Jason Kendall,1,1,10,False,2000-06-10,Stolen,2B,2000
+3514,1B,2B,Stolen Base 2B,120042,Luis Ordaz,John Flaherty,6,6,8,False,2000-04-26,Stolen,2B,2000
+430,1B,2B,Stolen Base 2B,120042,Luis Ordaz,Josh Paul,4,7,6,False,2002-09-09,Stolen,2B,2002
+571,1B,,Caught Stealing 2B,120042,Luis Ordaz,Dan Wilson,3,3,2,True,2002-09-01,Caught,2B,2002
+831,1B,,Caught Stealing 2B,120042,Luis Ordaz,Tom Wilson,3,3,7,True,2002-08-20,Caught,2B,2002
+860,1B,,Caught Stealing 2B,120042,Luis Ordaz,Toby Hall,3,4,6,True,2002-08-18,Caught,2B,2002
+891,1B,2B,Stolen Base 2B,120042,Luis Ordaz,Toby Hall,3,2,7,True,2002-08-17,Stolen,2B,2002

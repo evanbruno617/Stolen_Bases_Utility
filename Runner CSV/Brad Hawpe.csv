@@ -1,0 +1,22 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+48,1B,,Caught Stealing 2B,425547,Brad Hawpe,David Ross,0,1,2,True,2004-09-28,Caught,2B,2004
+2821,1B,2B,Stolen Base 2B,425547,Brad Hawpe,Michael Barrett,4,4,11,True,2004-05-09,Stolen,2B,2004
+122,1B,,Caught Stealing 2B,425547,Brad Hawpe,Yamid Haad,1,2,4,False,2005-09-25,Caught,2B,2005
+1670,1B,2B,Stolen Base 2B,425547,Brad Hawpe,Jason Phillips,2,0,4,False,2005-07-04,Stolen,2B,2005
+2082,1B,,Caught Stealing 2B,425547,Brad Hawpe,Victor Martinez,2,0,2,True,2005-06-14,Caught,2B,2005
+2699,1B,2B,Stolen Base 2B,425547,Brad Hawpe,Johnny Estrada,2,2,6,False,2005-05-11,Stolen,2B,2005
+282,1B,,Caught Stealing 2B,425547,Brad Hawpe,Russell Martin,1,0,5,False,2007-09-18,Caught,2B,2007
+461,1B,,Caught Stealing 2B,425547,Brad Hawpe,Carlos Ruiz,0,1,2,True,2007-09-11,Caught,2B,2007
+1452,1B,,Caught Stealing 2B,425547,Brad Hawpe,Russell Martin,1,0,5,False,2007-07-27,Caught,2B,2007
+627,1B,2B,Stolen Base 2B,425547,Brad Hawpe,Nick Hundley,0,0,1,True,2008-08-29,Stolen,2B,2008
+819,1B,,Caught Stealing 2B,425547,Brad Hawpe,Danny Ardoin,3,4,9,True,2008-08-20,Caught,2B,2008
+1252,1B,,Caught Stealing 2B,425547,Brad Hawpe,Ryan Doumit,4,3,6,True,2008-07-28,Caught,2B,2008
+1723,1B,2B,Stolen Base 2B,425547,Brad Hawpe,Michael Barrett,4,0,5,False,2008-07-01,Stolen,2B,2008
+313,1B,2B,Stolen Base 2B,425547,Brad Hawpe,Luke Carlin,5,0,3,False,2009-07-20,Stolen,2B,2009
+336,1B,,Caught Stealing 2B,425547,Brad Hawpe,Jose Lobaton,0,6,7,True,2009-07-19,Caught,2B,2009
+943,1B,,Caught Stealing 2B,425547,Brad Hawpe,Robinzon Diaz,1,0,1,False,2009-06-19,Caught,2B,2009
+2673,1B,,Caught Stealing 2B,425547,Brad Hawpe,Chris Snyder,1,0,2,True,2009-04-06,Caught,2B,2009
+1238,1B,2B,Stolen Base 2B,425547,Brad Hawpe,Eli Whiteside,2,0,4,False,2010-08-04,Stolen,2B,2010
+2439,1B,,Caught Stealing 2B,425547,Brad Hawpe,Humberto Quintero,3,0,3,False,2010-06-07,Caught,2B,2010
+2441,1B,2B,Caught Stealing 3B,425547,Brad Hawpe,Humberto Quintero,3,0,5,False,2010-06-07,Caught,3B,2010
+2462,1B,2B,Stolen Base 2B,425547,Brad Hawpe,Chris Snyder,0,3,6,True,2010-06-06,Stolen,2B,2010

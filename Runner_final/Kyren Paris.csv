@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,597,1B,2B,Stolen Base 2B,677347,Kyren Paris,615698,Cal Quantrill,694384,Nolan Schanuel,R,David Fry,681807,0,0,3,False,2023-09-07,Stolen,2B,2023,2024,28.9
+1,598,1B,2B,Stolen Base 2B,677347,Kyren Paris,615698,Cal Quantrill,694384,Nolan Schanuel,R,David Fry,681807,0,0,5,False,2023-09-07,Stolen,2B,2023,2024,28.9
+2,750,1B,2B,Stolen Base 2B,677347,Kyren Paris,621112,Paul Blackburn,694384,Nolan Schanuel,R,Shea Langeliers,669127,2,1,5,True,2023-09-02,Stolen,2B,2023,2024,28.9
+3,5011,1B,2B,Stolen Base 2B,677347,Kyren Paris,615698,Cal Quantrill,694384,Nolan Schanuel,R,David Fry,681807,0,0,3,False,2023-09-07,Stolen,2B,2023,2024,28.9
+4,5012,1B,2B,Stolen Base 2B,677347,Kyren Paris,615698,Cal Quantrill,694384,Nolan Schanuel,R,David Fry,681807,0,0,5,False,2023-09-07,Stolen,2B,2023,2024,28.9
+5,5164,1B,2B,Stolen Base 2B,677347,Kyren Paris,621112,Paul Blackburn,694384,Nolan Schanuel,R,Shea Langeliers,669127,2,1,5,True,2023-09-02,Stolen,2B,2023,2024,28.9

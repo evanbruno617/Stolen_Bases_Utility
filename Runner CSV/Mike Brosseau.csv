@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+868,1B,2B,Stolen Base 2B,670712,Mike Brosseau,Reese McGuire,0,0,2,False,2019-08-07,Stolen,2B,2019
+221,1B,2B,Stolen Base 2B,670712,Mike Brosseau,Chance Sisco,6,6,5,False,2020-09-17,Stolen,2B,2020
+262,1B,2B,Stolen Base 2B,670712,Mike Brosseau,Kurt Suzuki,0,0,1,False,2020-09-15,Stolen,2B,2020
+626,1B,2B,Stolen Base 2B,670712,Mike Brosseau,Chance Sisco,6,6,5,False,2020-08-27,Stolen,2B,2020
+1417,1B,2B,Stolen Base 2B,670712,Mike Brosseau,Yan Gomes,6,4,4,True,2021-06-30,Stolen,2B,2021
+1778,1B,2B,Stolen Base 2B,670712,Mike Brosseau,Jonah Heim,1,5,9,True,2021-06-06,Stolen,2B,2021
+785,1B,2B,Stolen Base 2B,670712,Mike Brosseau,Will Smith,5,0,5,False,2022-08-18,Stolen,2B,2022
+2441,1B,2B,Stolen Base 2B,670712,Mike Brosseau,William Contreras,0,1,7,False,2022-05-17,Stolen,2B,2022

@@ -1,0 +1,3 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,642731,Thairo Estrada,Chris Okey,5,1,4,False,2022-06-25,Stolen,2B,2022
+2B,,Caught Stealing 3B,641933,Tyler O'Neill,Chris Okey,3,4,8,False,2022-06-11,Caught,3B,2022

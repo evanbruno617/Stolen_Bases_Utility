@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+33,1B,2B,Stolen Base 2B,407930,Bobby Hill,Humberto Cota,1,2,6,False,2002-09-28,Stolen,2B,2002
+82,1B,,Caught Stealing 2B,407930,Bobby Hill,Corky Miller,0,1,5,False,2002-09-26,Caught,2B,2002
+437,1B,2B,Stolen Base 2B,407930,Bobby Hill,Brian Schneider,0,0,1,False,2002-09-09,Stolen,2B,2002
+2428,1B,2B,Stolen Base 2B,407930,Bobby Hill,Brad Ausmus,1,0,2,False,2002-06-02,Stolen,2B,2002
+2430,1B,2B,Stolen Base 2B,407930,Bobby Hill,Brad Ausmus,4,1,6,False,2002-06-02,Stolen,2B,2002
+2597,1B,2B,Stolen Base 2B,407930,Bobby Hill,Brad Ausmus,0,2,6,True,2002-05-26,Stolen,2B,2002
+2711,1B,2B,Stolen Base 2B,407930,Bobby Hill,Jason Kendall,3,1,4,False,2002-05-22,Stolen,2B,2002
+1674,3B,,Caught Stealing Home,407930,Bobby Hill,Matt Treanor,2,4,5,True,2004-07-07,Caught,Home,2004
+2497,1B,,Caught Stealing 2B,407930,Bobby Hill,Cody McKay,6,3,7,True,2004-05-27,Caught,2B,2004
+3477,1B,,Caught Stealing 2B,407930,Bobby Hill,Mike Lieberthal,4,3,7,False,2004-04-07,Caught,2B,2004

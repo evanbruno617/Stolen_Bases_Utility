@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2470,1B,2B,Stolen Base 2B,622226,Dylan Cozens,Carlos Ruiz,3,4,5,True,2016-04-02,Stolen,2B,2016
+48,1B,2B,Caught Stealing 3B,622226,Dylan Cozens,Kurt Suzuki,0,0,2,False,2018-09-29,Caught,3B,2018
+97,1B,2B,Stolen Base 2B,622226,Dylan Cozens,Chris Iannetta,5,3,8,True,2018-09-27,Stolen,2B,2018

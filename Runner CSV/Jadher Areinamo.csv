@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3161,1B,2B,Stolen Base 2B,699130,Jadher Areinamo,Tyler Cropley,4,0,5,False,2022-04-05,Stolen,2B,2022
+3181,2B,3B,Stolen Base 3B,699130,Jadher Areinamo,Elias Díaz,6,8,8,True,2022-04-04,Stolen,3B,2022

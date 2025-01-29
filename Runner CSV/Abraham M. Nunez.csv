@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+543,1B,,Caught Stealing 2B,346863,Abraham M. Nunez,Vance Wilson,2,1,8,True,2002-09-03,Caught,2B,2002
+1015,3B,,Caught Stealing Home,346863,Abraham M. Nunez,Sandy Alomar Jr.,0,2,4,True,2004-08-11,Caught,Home,2004
+2905,1B,,Caught Stealing 2B,346863,Abraham M. Nunez,Paul Lo Duca,2,0,3,False,2004-05-05,Caught,2B,2004
+3100,1B,2B,Stolen Base 2B,346863,Abraham M. Nunez,Johnny Estrada,0,2,2,False,2004-04-25,Stolen,2B,2004
+3101,1B,,Caught Stealing 2B,346863,Abraham M. Nunez,Johnny Estrada,1,2,4,False,2004-04-25,Caught,2B,2004

@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2294,1B,2B,Stolen Base 2B,595284,Andrew Knapp,594798,Jacob deGrom,546318,Odúbel Herrera,R,Travis d'Arnaud,518595,1,0,3,True,2017-06-30,Stolen,2B,2017,2018,26.9
+1,1666,1B,2B,Stolen Base 2B,595284,Andrew Knapp,594798,Jacob deGrom,546318,Odúbel Herrera,R,Travis d'Arnaud,518595,1,0,3,True,2017-06-30,Stolen,2B,2017,2018,26.9

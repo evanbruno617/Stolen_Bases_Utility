@@ -1,0 +1,14 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,571740,Billy Hamilton,Alberto Rosario,3,0,5,False,2016-08-04,Stolen,2B,2016
+2B,3B,Stolen Base 3B,408252,Brandon Phillips,Alberto Rosario,4,0,6,False,2016-08-04,Stolen,3B,2016
+1B,2B,Stolen Base 2B,501571,Juan Lagares,Alberto Rosario,3,1,7,False,2016-07-26,Stolen,2B,2016
+2B,3B,Stolen Base 3B,501571,Juan Lagares,Alberto Rosario,3,1,7,False,2016-07-26,Stolen,3B,2016
+1B,2B,Stolen Base 2B,501571,Juan Lagares,Alberto Rosario,3,1,7,False,2016-07-25,Stolen,2B,2016
+2B,3B,Stolen Base 3B,501571,Juan Lagares,Alberto Rosario,3,1,7,False,2016-07-25,Stolen,3B,2016
+1B,,Caught Stealing 2B,435062,Howie Kendrick,Alberto Rosario,0,0,2,True,2016-07-23,Caught,2B,2016
+1B,2B,Stolen Base 2B,457759,Justin Turner,Alberto Rosario,2,7,7,True,2016-07-23,Stolen,2B,2016
+1B,2B,Stolen Base 2B,571976,Wil Myers,Alberto Rosario,0,0,3,True,2016-07-20,Stolen,2B,2016
+1B,2B,Stolen Base 2B,500208,Yangervis Solarte,Alberto Rosario,2,1,6,True,2016-07-18,Stolen,2B,2016
+1B,2B,Stolen Base 2B,570639,Yefri Pérez,Alberto Rosario,3,5,8,True,2016-07-17,Stolen,2B,2016
+2B,3B,Stolen Base 3B,400085,Ichiro Suzuki,Alberto Rosario,3,6,8,True,2016-07-17,Stolen,3B,2016
+1B,2B,Stolen Base 2B,445988,Martín Prado,Alberto Rosario,3,6,8,True,2016-07-17,Stolen,2B,2016

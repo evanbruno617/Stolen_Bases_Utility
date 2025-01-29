@@ -1,0 +1,50 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,406,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,657140,Kyle Wright,572816,Corey Dickerson,R,Tyler Flowers,452095,0,5,4,True,2020-09-08,Stolen,2B,2020,2021,28.3
+1,555,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,621242,Edwin Díaz,621446,Lewis Brinson,R,Wilson Ramos,467092,3,5,9,True,2020-08-31,Stolen,2B,2020,2021,28.3
+2,626,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,621242,Edwin Díaz,621446,Lewis Brinson,R,Wilson Ramos,467092,3,5,9,True,2020-08-27,Stolen,2B,2020,2021,28.3
+3,3249,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,657140,Kyle Wright,572816,Corey Dickerson,R,Tyler Flowers,452095,0,5,4,True,2020-09-08,Stolen,2B,2020,2021,28.3
+4,3398,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,621242,Edwin Díaz,621446,Lewis Brinson,R,Wilson Ramos,467092,3,5,9,True,2020-08-31,Stolen,2B,2020,2021,28.3
+5,3469,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,621242,Edwin Díaz,621446,Lewis Brinson,R,Wilson Ramos,467092,3,5,9,True,2020-08-27,Stolen,2B,2020,2021,28.3
+6,5173,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,657140,Kyle Wright,572816,Corey Dickerson,R,Tyler Flowers,452095,0,5,4,True,2020-09-08,Stolen,2B,2020,2021,28.3
+7,5322,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,621242,Edwin Díaz,621446,Lewis Brinson,R,Wilson Ramos,467092,3,5,9,True,2020-08-31,Stolen,2B,2020,2021,28.3
+8,5393,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,621242,Edwin Díaz,621446,Lewis Brinson,R,Wilson Ramos,467092,3,5,9,True,2020-08-27,Stolen,2B,2020,2021,28.3
+9,1380,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,592789,Noah Syndergaard,656371,Isan Díaz,R,Wilson Ramos,467092,0,4,5,True,2019-09-24,Stolen,2B,2019,2020,28.2
+10,1608,1B,,Caught Stealing 2B,595751,Jorge Alfaro,448855,Junior Guerra,656371,Isan Díaz,R,Yasmani Grandal,518735,3,3,8,False,2019-09-10,Caught,2B,2019,2020,28.2
+11,1787,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,434671,Aníbal Sánchez,656371,Isan Díaz,R,Kurt Suzuki,435559,2,1,2,True,2019-08-30,Stolen,2B,2019,2020,28.2
+12,2555,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,450306,Jason Vargas,592761,Caleb Smith,L,Wilson Ramos,467092,0,2,3,False,2019-07-12,Stolen,2B,2019,2020,28.2
+13,2846,1B,,Caught Stealing 2B,595751,Jorge Alfaro,605154,John Brebbia,527049,César Puello,R,Yadier Molina,425877,3,5,8,True,2019-06-20,Caught,2B,2019,2020,28.2
+14,3404,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,571927,Steven Matz,500743,Miguel Rojas,L,Wilson Ramos,467092,2,0,4,False,2019-05-18,Stolen,2B,2019,2020,28.2
+15,4067,1B,,Caught Stealing 2B,595751,Jorge Alfaro,622491,Luis Castillo,621446,Lewis Brinson,R,Tucker Barnhart,571466,1,0,2,True,2019-04-09,Caught,2B,2019,2020,28.2
+16,4223,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,592789,Noah Syndergaard,656371,Isan Díaz,R,Wilson Ramos,467092,0,4,5,True,2019-09-24,Stolen,2B,2019,2020,28.2
+17,4451,1B,,Caught Stealing 2B,595751,Jorge Alfaro,448855,Junior Guerra,656371,Isan Díaz,R,Yasmani Grandal,518735,3,3,8,False,2019-09-10,Caught,2B,2019,2020,28.2
+18,4630,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,434671,Aníbal Sánchez,656371,Isan Díaz,R,Kurt Suzuki,435559,2,1,2,True,2019-08-30,Stolen,2B,2019,2020,28.2
+19,5398,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,450306,Jason Vargas,592761,Caleb Smith,L,Wilson Ramos,467092,0,2,3,False,2019-07-12,Stolen,2B,2019,2020,28.2
+20,5689,1B,,Caught Stealing 2B,595751,Jorge Alfaro,605154,John Brebbia,527049,César Puello,R,Yadier Molina,425877,3,5,8,True,2019-06-20,Caught,2B,2019,2020,28.2
+21,6247,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,571927,Steven Matz,500743,Miguel Rojas,L,Wilson Ramos,467092,2,0,4,False,2019-05-18,Stolen,2B,2019,2020,28.2
+22,6910,1B,,Caught Stealing 2B,595751,Jorge Alfaro,622491,Luis Castillo,621446,Lewis Brinson,R,Tucker Barnhart,571466,1,0,2,True,2019-04-09,Caught,2B,2019,2020,28.2
+23,6147,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,592789,Noah Syndergaard,656371,Isan Díaz,R,Wilson Ramos,467092,0,4,5,True,2019-09-24,Stolen,2B,2019,2020,28.2
+24,6375,1B,,Caught Stealing 2B,595751,Jorge Alfaro,448855,Junior Guerra,656371,Isan Díaz,R,Yasmani Grandal,518735,3,3,8,False,2019-09-10,Caught,2B,2019,2020,28.2
+25,6554,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,434671,Aníbal Sánchez,656371,Isan Díaz,R,Kurt Suzuki,435559,2,1,2,True,2019-08-30,Stolen,2B,2019,2020,28.2
+26,7322,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,450306,Jason Vargas,592761,Caleb Smith,L,Wilson Ramos,467092,0,2,3,False,2019-07-12,Stolen,2B,2019,2020,28.2
+27,7613,1B,,Caught Stealing 2B,595751,Jorge Alfaro,605154,John Brebbia,527049,César Puello,R,Yadier Molina,425877,3,5,8,True,2019-06-20,Caught,2B,2019,2020,28.2
+28,8171,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,571927,Steven Matz,500743,Miguel Rojas,L,Wilson Ramos,467092,2,0,4,False,2019-05-18,Stolen,2B,2019,2020,28.2
+29,8834,1B,,Caught Stealing 2B,595751,Jorge Alfaro,622491,Luis Castillo,621446,Lewis Brinson,R,Tucker Barnhart,571466,1,0,2,True,2019-04-09,Caught,2B,2019,2020,28.2
+30,530,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,661269,Vladimir Gutierrez,605119,Brian Anderson,R,Tucker Barnhart,571466,2,0,1,False,2021-08-28,Stolen,2B,2021,2022,28.7
+31,732,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,621219,Alec Mills,650559,Bryan De La Cruz,R,Robinson Chirinos,455139,2,1,6,False,2021-08-15,Stolen,2B,2021,2022,28.7
+32,801,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,622766,Miguel Díaz,506702,Sandy León,R,Austin Nola,543592,3,4,4,True,2021-08-10,Stolen,2B,2021,2022,28.7
+33,968,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,593334,Domingo Germán,650559,Bryan De La Cruz,R,Gary Sánchez,596142,0,2,2,False,2021-07-31,Stolen,2B,2021,2022,28.7
+34,1614,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,453562,Jake Arrieta,542932,Jon Berti,R,Jose Lobaton,446653,0,4,2,True,2021-06-19,Stolen,2B,2021,2022,28.7
+35,1772,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,601713,Nick Pivetta,542932,Jon Berti,R,Kevin Plawecki,608700,1,0,2,True,2021-06-07,Stolen,2B,2021,2022,28.7
+36,1830,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,605280,Clay Holmes,656371,Isan Díaz,R,Jacob Stallings,607732,2,3,7,True,2021-06-03,Stolen,2B,2021,2022,28.7
+37,1889,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,601713,Nick Pivetta,542932,Jon Berti,R,Kevin Plawecki,608700,1,0,2,True,2021-05-30,Stolen,2B,2021,2022,28.7
+38,2832,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,664126,Pete Fairbanks,643265,Garrett Cooper,R,Mike Zunino,572287,0,1,8,False,2021-04-01,Stolen,2B,2021,2022,28.7
+39,2454,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,661269,Vladimir Gutierrez,605119,Brian Anderson,R,Tucker Barnhart,571466,2,0,1,False,2021-08-28,Stolen,2B,2021,2022,28.7
+40,2656,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,621219,Alec Mills,650559,Bryan De La Cruz,R,Robinson Chirinos,455139,2,1,6,False,2021-08-15,Stolen,2B,2021,2022,28.7
+41,2725,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,622766,Miguel Díaz,506702,Sandy León,R,Austin Nola,543592,3,4,4,True,2021-08-10,Stolen,2B,2021,2022,28.7
+42,2892,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,593334,Domingo Germán,650559,Bryan De La Cruz,R,Gary Sánchez,596142,0,2,2,False,2021-07-31,Stolen,2B,2021,2022,28.7
+43,3538,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,453562,Jake Arrieta,542932,Jon Berti,R,Jose Lobaton,446653,0,4,2,True,2021-06-19,Stolen,2B,2021,2022,28.7
+44,3696,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,601713,Nick Pivetta,542932,Jon Berti,R,Kevin Plawecki,608700,1,0,2,True,2021-06-07,Stolen,2B,2021,2022,28.7
+45,3754,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,605280,Clay Holmes,656371,Isan Díaz,R,Jacob Stallings,607732,2,3,7,True,2021-06-03,Stolen,2B,2021,2022,28.7
+46,3813,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,601713,Nick Pivetta,542932,Jon Berti,R,Kevin Plawecki,608700,1,0,2,True,2021-05-30,Stolen,2B,2021,2022,28.7
+47,4756,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,664126,Pete Fairbanks,643265,Garrett Cooper,R,Mike Zunino,572287,0,1,8,False,2021-04-01,Stolen,2B,2021,2022,28.7
+48,1611,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,661269,Vladimir Gutierrez,663757,Trent Grisham,R,Aramis Garcia,605244,3,0,5,False,2022-04-20,Stolen,2B,2022,2023,28.5

@@ -1,0 +1,30 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2221,1B,,Caught Stealing 2B,118609,Quinton McCracken,Tom Lampkin,0,0,1,True,2000-06-21,Caught,2B,2000
+14,1B,,Caught Stealing 2B,118609,Quinton McCracken,Einar Díaz,0,0,2,False,2001-06-05,Caught,2B,2001
+366,1B,2B,Stolen Base 2B,118609,Quinton McCracken,Wil Nieves,4,0,5,False,2002-09-11,Stolen,2B,2002
+710,1B,,Caught Stealing 2B,118609,Quinton McCracken,Joe Girardi,2,0,5,False,2002-08-25,Caught,2B,2002
+927,1B,,Caught Stealing 2B,118609,Quinton McCracken,Joe Girardi,0,0,1,True,2002-08-16,Caught,2B,2002
+1490,1B,2B,Stolen Base 2B,118609,Quinton McCracken,Gary Bennett,4,4,6,True,2002-07-18,Stolen,2B,2002
+2011,1B,,Caught Stealing 2B,118609,Quinton McCracken,Tom Wilson,0,1,1,False,2002-06-22,Caught,2B,2002
+2061,1B,2B,Stolen Base 2B,118609,Quinton McCracken,Brook Fordyce,5,1,7,False,2002-06-20,Stolen,2B,2002
+2351,1B,2B,Stolen Base 2B,118609,Quinton McCracken,Brad Ausmus,1,3,3,False,2002-06-05,Stolen,2B,2002
+2355,1B,2B,Stolen Base 2B,118609,Quinton McCracken,Brad Ausmus,3,3,9,False,2002-06-05,Stolen,2B,2002
+2808,1B,,Caught Stealing 2B,118609,Quinton McCracken,Mike Lieberthal,1,0,2,False,2002-05-18,Caught,2B,2002
+194,1B,2B,Stolen Base 2B,118609,Quinton McCracken,Eddie Pérez,0,1,5,True,2003-09-19,Stolen,2B,2003
+1204,1B,2B,Stolen Base 2B,118609,Quinton McCracken,Ivan Rodriguez,0,1,2,True,2003-07-30,Stolen,2B,2003
+1351,1B,,Caught Stealing 2B,118609,Quinton McCracken,Yorvit Torrealba,2,0,6,True,2003-07-23,Caught,2B,2003
+2870,1B,2B,Stolen Base 2B,118609,Quinton McCracken,Todd Pratt,0,0,1,False,2003-05-07,Stolen,2B,2003
+2920,1B,2B,Stolen Base 2B,118609,Quinton McCracken,Henry Blanco,4,4,10,False,2003-05-04,Stolen,2B,2003
+3118,1B,2B,Stolen Base 2B,118609,Quinton McCracken,Mike Piazza,0,2,4,True,2003-04-25,Stolen,2B,2003
+768,1B,,Caught Stealing 2B,118609,Quinton McCracken,Jason Kendall,0,0,1,True,2004-08-24,Caught,2B,2004
+783,1B,2B,Stolen Base 2B,118609,Quinton McCracken,Jason Kendall,0,0,1,True,2004-08-23,Stolen,2B,2004
+910,1B,2B,Stolen Base 2B,118609,Quinton McCracken,Jason Kendall,0,0,1,False,2004-08-16,Stolen,2B,2004
+995,1B,,Caught Stealing 2B,118609,Quinton McCracken,Brian Schneider,0,0,1,True,2004-08-12,Caught,2B,2004
+1056,1B,,Caught Stealing 2B,118609,Quinton McCracken,Eddie Pérez,0,2,1,False,2004-08-08,Caught,2B,2004
+1530,1B,,Caught Stealing 2B,118609,Quinton McCracken,Paul Lo Duca,4,3,7,False,2004-07-17,Caught,2B,2004
+2916,1B,,Caught Stealing 2B,118609,Quinton McCracken,Henry Blanco,3,3,13,False,2004-05-04,Caught,2B,2004
+3126,1B,2B,Stolen Base 2B,118609,Quinton McCracken,Gerald Laird,0,0,8,True,2004-04-24,Stolen,2B,2004
+1446,1B,2B,Stolen Base 2B,118609,Quinton McCracken,Paul Lo Duca,2,3,5,False,2005-07-18,Stolen,2B,2005
+2559,1B,2B,Stolen Base 2B,118609,Quinton McCracken,Brad Ausmus,1,3,8,True,2005-05-19,Stolen,2B,2005
+2932,1B,2B,Stolen Base 2B,118609,Quinton McCracken,Miguel Ojeda,0,3,5,True,2005-05-01,Stolen,2B,2005
+3302,1B,2B,Stolen Base 2B,118609,Quinton McCracken,Todd Greene,5,2,8,False,2005-04-13,Stolen,2B,2005

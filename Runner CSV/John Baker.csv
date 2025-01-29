@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3344,1B,2B,Stolen Base 2B,434633,John Baker,Ramon Hernandez,2,1,7,False,2012-05-08,Stolen,2B,2012
+3345,1B,2B,Stolen Base 2B,434633,John Baker,Ramon Hernandez,3,1,8,False,2012-05-08,Stolen,2B,2012

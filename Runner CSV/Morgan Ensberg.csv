@@ -1,0 +1,35 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3553,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Jason LaRue,0,2,6,True,2002-04-18,Stolen,2B,2002
+3802,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Mike Matheny,0,1,3,False,2002-04-07,Stolen,2B,2002
+226,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Charles Johnson,0,0,1,True,2003-09-17,Stolen,2B,2003
+660,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Paul Lo Duca,0,3,1,False,2003-08-26,Stolen,2B,2003
+1207,1B,,Caught Stealing 2B,348563,Morgan Ensberg,Javy Lopez,0,4,2,True,2003-07-30,Caught,2B,2003
+1542,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Jason Kendall,0,4,2,False,2003-07-12,Stolen,2B,2003
+1828,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Einar Díaz,2,0,6,False,2003-06-28,Stolen,2B,2003
+1960,3B,,Caught Stealing Home,348563,Morgan Ensberg,Einar Díaz,2,5,6,True,2003-06-20,Caught,Home,2003
+2153,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Jorge Posada,0,1,1,True,2003-06-12,Stolen,2B,2003
+2269,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Brook Fordyce,6,1,4,False,2003-06-05,Stolen,2B,2003
+2929,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Mike Redmond,2,1,4,False,2003-05-04,Stolen,2B,2003
+883,1B,,Caught Stealing 2B,348563,Morgan Ensberg,Mike Lieberthal,1,1,2,True,2004-08-18,Caught,2B,2004
+1023,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Vance Wilson,4,4,10,True,2004-08-11,Stolen,2B,2004
+1340,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Juan Brito,0,2,2,False,2004-07-26,Stolen,2B,2004
+1780,1B,,Caught Stealing 2B,348563,Morgan Ensberg,Michael Barrett,4,4,9,True,2004-07-01,Caught,2B,2004
+1904,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Jason Kendall,0,0,1,False,2004-06-24,Stolen,2B,2004
+2385,1B,,Caught Stealing 2B,348563,Morgan Ensberg,Michael Barrett,0,2,2,True,2004-06-01,Caught,2B,2004
+2719,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Vance Wilson,1,5,5,False,2004-05-14,Stolen,2B,2004
+2838,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Johnny Estrada,1,1,7,True,2004-05-09,Stolen,2B,2004
+2849,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Eddie Pérez,0,1,2,True,2004-05-08,Stolen,2B,2004
+126,1B,,Caught Stealing 2B,348563,Morgan Ensberg,Michael Barrett,3,2,8,True,2005-09-25,Caught,2B,2005
+1920,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,JD Closser,6,2,8,False,2005-06-22,Stolen,2B,2005
+1974,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Alberto Castillo,2,1,5,True,2005-06-19,Stolen,2B,2005
+2349,1B,,Caught Stealing 2B,348563,Morgan Ensberg,Damian Miller,0,2,6,True,2005-05-29,Caught,2B,2005
+2463,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Michael Barrett,0,2,4,True,2005-05-24,Stolen,2B,2005
+2575,1B,,Caught Stealing 2B,348563,Morgan Ensberg,Chris Snyder,0,0,2,False,2005-05-18,Caught,2B,2005
+2688,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Mike Matheny,3,2,5,False,2005-05-12,Stolen,2B,2005
+2760,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Paul Lo Duca,0,0,2,True,2005-05-09,Stolen,2B,2005
+3056,1B,,Caught Stealing 2B,348563,Morgan Ensberg,Humberto Cota,1,0,7,True,2005-04-25,Caught,2B,2005
+3345,1B,,Caught Stealing 2B,348563,Morgan Ensberg,Ramon Castro,0,1,4,True,2005-04-11,Caught,2B,2005
+3346,1B,2B,Stolen Base 2B,348563,Morgan Ensberg,Ramon Castro,0,1,6,True,2005-04-11,Stolen,2B,2005
+3452,1B,,Caught Stealing 2B,348563,Morgan Ensberg,Yadier Molina,0,0,2,False,2005-04-06,Caught,2B,2005
+2217,1B,,Caught Stealing 2B,348563,Morgan Ensberg,Gerald Laird,3,2,8,True,2007-06-23,Caught,2B,2007
+3042,1B,2B,Caught Stealing 2B,348563,Morgan Ensberg,Kenji Johjima,1,0,2,False,2008-05-02,Caught,2B,2008

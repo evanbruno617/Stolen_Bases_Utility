@@ -1,0 +1,26 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+280,1B,,Caught Stealing 2B,666624,Christopher Morel,Elias Díaz,1,0,4,False,2022-09-16,Caught,2B,2022
+296,1B,2B,Stolen Base 2B,666624,Christopher Morel,Tomás Nido,3,6,9,True,2022-09-14,Stolen,2B,2022
+1159,2B,,Caught Stealing 3B,666624,Christopher Morel,Joey Bart,0,0,1,True,2022-07-28,Caught,3B,2022
+1270,1B,2B,Stolen Base 2B,666624,Christopher Morel,J.T. Realmuto,1,5,10,True,2022-07-23,Stolen,2B,2022
+1323,2B,3B,Stolen Base 3B,666624,Christopher Morel,Patrick Mazeika,1,2,11,False,2022-07-16,Stolen,3B,2022
+1769,1B,,Caught Stealing 2B,666624,Christopher Morel,Tyler Heineman,0,0,1,True,2022-06-23,Caught,2B,2022
+1887,1B,2B,Stolen Base 2B,666624,Christopher Morel,Austin Nola,2,3,2,False,2022-06-16,Stolen,2B,2022
+2172,2B,3B,Stolen Base 3B,666624,Christopher Morel,Omar Narváez,1,0,1,False,2022-06-01,Stolen,3B,2022
+2221,2B,3B,Stolen Base 3B,666624,Christopher Morel,Victor Caratini,1,2,6,False,2022-05-30,Stolen,3B,2022
+2233,1B,2B,Stolen Base 2B,666624,Christopher Morel,Reese McGuire,1,3,10,True,2022-05-29,Stolen,2B,2022
+2246,1B,2B,Stolen Base 2B,666624,Christopher Morel,Yasmani Grandal,0,0,1,True,2022-05-28,Stolen,2B,2022
+2250,1B,,Caught Stealing 2B,666624,Christopher Morel,Yasmani Grandal,1,5,9,True,2022-05-28,Caught,2B,2022
+2296,1B,2B,Stolen Base 2B,666624,Christopher Morel,Tyler Stephenson,0,0,1,True,2022-05-26,Stolen,2B,2022
+2380,1B,,Caught Stealing 2B,666624,Christopher Morel,Daulton Varsho,4,4,9,False,2022-05-21,Caught,2B,2022
+2405,1B,2B,Stolen Base 2B,666624,Christopher Morel,Daulton Varsho,1,3,5,False,2022-05-19,Stolen,2B,2022
+3143,2B,3B,Stolen Base 3B,666624,Christopher Morel,Victor Caratini,1,2,6,False,2022-04-08,Stolen,3B,2022
+38,1B,2B,Stolen Base 2B,666624,Christopher Morel,Victor Caratini,3,3,10,True,2023-09-29,Stolen,2B,2023
+353,1B,2B,Stolen Base 2B,666624,Christopher Morel,Gabriel Moreno,3,4,10,True,2023-09-16,Stolen,2B,2023
+354,2B,3B,Stolen Base 2B,666624,Christopher Morel,Gabriel Moreno,3,4,10,True,2023-09-16,Stolen,2B,2023
+1087,3B,,Caught Stealing Home,666624,Christopher Morel,Freddy Fermin,3,2,4,False,2023-08-18,Caught,Home,2023
+1553,1B,2B,Stolen Base 2B,666624,Christopher Morel,Seby Zavala,7,6,5,True,2023-07-26,Stolen,2B,2023
+1696,1B,2B,Stolen Base 2B,666624,Christopher Morel,Iván Herrera,4,1,6,False,2023-07-21,Stolen,2B,2023
+1844,1B,2B,Stolen Base 2B,666624,Christopher Morel,Connor Wong,3,8,9,False,2023-07-14,Stolen,2B,2023
+3262,1B,,Caught Stealing 2B,666624,Christopher Morel,Christian Vázquez,2,1,5,True,2023-05-12,Caught,2B,2023
+3324,1B,2B,Stolen Base 2B,666624,Christopher Morel,Andrew Knizner,4,4,8,False,2023-05-09,Stolen,2B,2023

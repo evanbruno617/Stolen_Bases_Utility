@@ -1,0 +1,25 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1713,1B,,Caught Stealing 2B,489267,Adam Rosales,473879,Sam Dyson,571875,Jake Lamb,R,Buster Posey,457763,1,2,9,True,2017-08-04,Caught,2B,2017,2018,27.8
+1,2870,1B,,Caught Stealing 2B,489267,Adam Rosales,446372,Corey Kluber,459964,Matt Joyce,R,Roberto Pérez,547379,1,0,6,True,2017-06-01,Caught,2B,2017,2018,27.8
+2,3486,1B,2B,Stolen Base 2B,489267,Adam Rosales,502381,Luke Gregerson,475174,Yonder Alonso,R,Brian McCann,435263,4,0,8,True,2017-04-30,Stolen,2B,2017,2018,27.8
+3,1085,1B,,Caught Stealing 2B,489267,Adam Rosales,473879,Sam Dyson,571875,Jake Lamb,R,Buster Posey,457763,1,2,9,True,2017-08-04,Caught,2B,2017,2018,27.8
+4,2242,1B,,Caught Stealing 2B,489267,Adam Rosales,446372,Corey Kluber,459964,Matt Joyce,R,Roberto Pérez,547379,1,0,6,True,2017-06-01,Caught,2B,2017,2018,27.8
+5,2858,1B,2B,Stolen Base 2B,489267,Adam Rosales,502381,Luke Gregerson,475174,Yonder Alonso,R,Brian McCann,435263,4,0,8,True,2017-04-30,Stolen,2B,2017,2018,27.8
+6,4712,1B,2B,Stolen Base 2B,489267,Adam Rosales,592593,Justin Nicolino,596143,Luis Sardinas,L,J.T. Realmuto,592663,1,2,4,True,2016-08-28,Stolen,2B,2016,2017,28.2
+7,4927,1B,2B,Stolen Base 2B,489267,Adam Rosales,502202,Brad Boxberger,608671,Travis Jankowski,R,Bobby Wilson,435064,3,1,8,True,2016-08-15,Stolen,2B,2016,2017,28.2
+8,5360,1B,2B,Stolen Base 2B,489267,Adam Rosales,532077,Roberto Osuna,519083,Derek Norris,R,Russell Martin,431145,4,4,9,True,2016-07-26,Stolen,2B,2016,2017,28.2
+9,5908,1B,2B,Stolen Base 2B,489267,Adam Rosales,642003,Cody Reed,608671,Travis Jankowski,L,Tucker Barnhart,571466,4,3,4,True,2016-06-24,Stolen,2B,2016,2017,28.2
+10,677,1B,2B,Stolen Base 2B,489267,Adam Rosales,592593,Justin Nicolino,596143,Luis Sardinas,L,J.T. Realmuto,592663,1,2,4,True,2016-08-28,Stolen,2B,2016,2017,28.2
+11,892,1B,2B,Stolen Base 2B,489267,Adam Rosales,502202,Brad Boxberger,608671,Travis Jankowski,R,Bobby Wilson,435064,3,1,8,True,2016-08-15,Stolen,2B,2016,2017,28.2
+12,1325,1B,2B,Stolen Base 2B,489267,Adam Rosales,532077,Roberto Osuna,519083,Derek Norris,R,Russell Martin,431145,4,4,9,True,2016-07-26,Stolen,2B,2016,2017,28.2
+13,1873,1B,2B,Stolen Base 2B,489267,Adam Rosales,642003,Cody Reed,608671,Travis Jankowski,L,Tucker Barnhart,571466,4,3,4,True,2016-06-24,Stolen,2B,2016,2017,28.2
+14,4084,1B,2B,Stolen Base 2B,489267,Adam Rosales,592593,Justin Nicolino,596143,Luis Sardinas,L,J.T. Realmuto,592663,1,2,4,True,2016-08-28,Stolen,2B,2016,2017,28.2
+15,4299,1B,2B,Stolen Base 2B,489267,Adam Rosales,502202,Brad Boxberger,608671,Travis Jankowski,R,Bobby Wilson,435064,3,1,8,True,2016-08-15,Stolen,2B,2016,2017,28.2
+16,4732,1B,2B,Stolen Base 2B,489267,Adam Rosales,532077,Roberto Osuna,519083,Derek Norris,R,Russell Martin,431145,4,4,9,True,2016-07-26,Stolen,2B,2016,2017,28.2
+17,5280,1B,2B,Stolen Base 2B,489267,Adam Rosales,642003,Cody Reed,608671,Travis Jankowski,L,Tucker Barnhart,571466,4,3,4,True,2016-06-24,Stolen,2B,2016,2017,28.2
+18,631,1B,2B,Stolen Base 2B,489267,Adam Rosales,502051,Josh Ravin,547982,Leonys Martin,R,A.J. Ellis,454560,3,5,9,True,2015-06-17,Stolen,2B,2015,2016,28.1
+19,1007,1B,,Caught Stealing 2B,489267,Adam Rosales,489119,Wade Miley,547982,Leonys Martin,L,Sandy León,506702,1,0,2,False,2015-05-30,Caught,2B,2015,2016,28.1
+20,1120,1B,,Caught Stealing 2B,489267,Adam Rosales,458677,Justin Wilson,592261,Delino DeShields,L,Brian McCann,435263,2,3,6,True,2015-05-24,Caught,2B,2015,2016,28.1
+21,1196,1B,,Caught Stealing 2B,489267,Adam Rosales,453329,Clay Buchholz,425783,Shin-Soo Choo,R,Sandy León,506702,1,3,5,True,2015-05-21,Caught,2B,2015,2016,28.1
+22,1228,1B,2B,Stolen Base 2B,489267,Adam Rosales,547749,Junichi Tazawa,134181,Adrian Beltré,R,Blake Swihart,596119,1,2,8,True,2015-05-20,Stolen,2B,2015,2016,28.1
+23,1440,1B,2B,Stolen Base 2B,489267,Adam Rosales,460156,Brandon Gomes,425783,Shin-Soo Choo,R,René Rivera,425784,3,2,4,True,2015-05-09,Stolen,2B,2015,2016,28.1

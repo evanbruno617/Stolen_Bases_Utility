@@ -1,0 +1,25 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2420,1B,2B,Stolen Base 2B,596847,Ji Man Choi,625643,Reynaldo López,663993,Nathaniel Lowe,R,Welington Castillo,456078,1,1,1,False,2019-07-19,Stolen,2B,2019,2020,24.3
+1,3889,1B,,Caught Stealing 2B,596847,Ji Man Choi,488768,Andrew Cashner,650490,Yandy Díaz,R,Pedro Severino,600474,2,2,3,False,2019-04-18,Caught,2B,2019,2020,24.3
+2,3988,1B,,Caught Stealing 2B,596847,Ji Man Choi,453329,Clay Buchholz,650490,Yandy Díaz,R,Luke Maile,571912,0,0,1,True,2019-04-13,Caught,2B,2019,2020,24.3
+3,5263,1B,2B,Stolen Base 2B,596847,Ji Man Choi,625643,Reynaldo López,663993,Nathaniel Lowe,R,Welington Castillo,456078,1,1,1,False,2019-07-19,Stolen,2B,2019,2020,24.3
+4,6732,1B,,Caught Stealing 2B,596847,Ji Man Choi,488768,Andrew Cashner,650490,Yandy Díaz,R,Pedro Severino,600474,2,2,3,False,2019-04-18,Caught,2B,2019,2020,24.3
+5,6831,1B,,Caught Stealing 2B,596847,Ji Man Choi,453329,Clay Buchholz,650490,Yandy Díaz,R,Luke Maile,571912,0,0,1,True,2019-04-13,Caught,2B,2019,2020,24.3
+6,7187,1B,2B,Stolen Base 2B,596847,Ji Man Choi,625643,Reynaldo López,663993,Nathaniel Lowe,R,Welington Castillo,456078,1,1,1,False,2019-07-19,Stolen,2B,2019,2020,24.3
+7,8656,1B,,Caught Stealing 2B,596847,Ji Man Choi,488768,Andrew Cashner,650490,Yandy Díaz,R,Pedro Severino,600474,2,2,3,False,2019-04-18,Caught,2B,2019,2020,24.3
+8,8755,1B,,Caught Stealing 2B,596847,Ji Man Choi,453329,Clay Buchholz,650490,Yandy Díaz,R,Luke Maile,571912,0,0,1,True,2019-04-13,Caught,2B,2019,2020,24.3
+9,4041,1B,,Caught Stealing 2B,596847,Ji Man Choi,502748,Brad Peacock,543068,C.J. Cron,R,Jason Castro,488771,4,1,2,False,2016-09-30,Caught,2B,2016,2017,25.4
+10,4077,1B,2B,Stolen Base 2B,596847,Ji Man Choi,446099,John Axford,543068,C.J. Cron,R,Matt McBride,473724,8,6,8,False,2016-09-28,Stolen,2B,2016,2017,25.4
+11,4951,1B,,Caught Stealing 2B,596847,Ji Man Choi,545333,Trevor Bauer,460060,Cliff Pennington,R,Roberto Pérez,547379,3,4,6,True,2016-08-14,Caught,2B,2016,2017,25.4
+12,5166,1B,,Caught Stealing 2B,596847,Ji Man Choi,425492,Ryan Madson,527043,Jefry Marte,R,Stephen Vogt,519390,6,6,9,False,2016-08-04,Caught,2B,2016,2017,25.4
+13,5546,1B,2B,Stolen Base 2B,596847,Ji Man Choi,545363,Jacob Turner,592743,Andrelton Simmons,R,Omar Narváez,553882,4,1,4,False,2016-07-17,Stolen,2B,2016,2017,25.4
+14,6,1B,,Caught Stealing 2B,596847,Ji Man Choi,502748,Brad Peacock,543068,C.J. Cron,R,Jason Castro,488771,4,1,2,False,2016-09-30,Caught,2B,2016,2017,25.4
+15,42,1B,2B,Stolen Base 2B,596847,Ji Man Choi,446099,John Axford,543068,C.J. Cron,R,Matt McBride,473724,8,6,8,False,2016-09-28,Stolen,2B,2016,2017,25.4
+16,916,1B,,Caught Stealing 2B,596847,Ji Man Choi,545333,Trevor Bauer,460060,Cliff Pennington,R,Roberto Pérez,547379,3,4,6,True,2016-08-14,Caught,2B,2016,2017,25.4
+17,1131,1B,,Caught Stealing 2B,596847,Ji Man Choi,425492,Ryan Madson,527043,Jefry Marte,R,Stephen Vogt,519390,6,6,9,False,2016-08-04,Caught,2B,2016,2017,25.4
+18,1511,1B,2B,Stolen Base 2B,596847,Ji Man Choi,545363,Jacob Turner,592743,Andrelton Simmons,R,Omar Narváez,553882,4,1,4,False,2016-07-17,Stolen,2B,2016,2017,25.4
+19,3413,1B,,Caught Stealing 2B,596847,Ji Man Choi,502748,Brad Peacock,543068,C.J. Cron,R,Jason Castro,488771,4,1,2,False,2016-09-30,Caught,2B,2016,2017,25.4
+20,3449,1B,2B,Stolen Base 2B,596847,Ji Man Choi,446099,John Axford,543068,C.J. Cron,R,Matt McBride,473724,8,6,8,False,2016-09-28,Stolen,2B,2016,2017,25.4
+21,4323,1B,,Caught Stealing 2B,596847,Ji Man Choi,545333,Trevor Bauer,460060,Cliff Pennington,R,Roberto Pérez,547379,3,4,6,True,2016-08-14,Caught,2B,2016,2017,25.4
+22,4538,1B,,Caught Stealing 2B,596847,Ji Man Choi,425492,Ryan Madson,527043,Jefry Marte,R,Stephen Vogt,519390,6,6,9,False,2016-08-04,Caught,2B,2016,2017,25.4
+23,4918,1B,2B,Stolen Base 2B,596847,Ji Man Choi,545363,Jacob Turner,592743,Andrelton Simmons,R,Omar Narváez,553882,4,1,4,False,2016-07-17,Stolen,2B,2016,2017,25.4

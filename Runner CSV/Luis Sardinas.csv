@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+113,1B,2B,Stolen Base 2B,596143,Luis Sardinas,Jason Castro,1,0,6,False,2014-09-24,Stolen,2B,2014
+114,2B,3B,Stolen Base 3B,596143,Luis Sardinas,Jason Castro,1,0,6,False,2014-09-24,Stolen,3B,2014
+173,1B,2B,Stolen Base 2B,596143,Luis Sardinas,Chris Iannetta,1,1,7,True,2014-09-21,Stolen,2B,2014
+241,1B,2B,Stolen Base 2B,596143,Luis Sardinas,Derek Norris,2,4,4,True,2014-09-18,Stolen,2B,2014
+2243,1B,2B,Stolen Base 2B,596143,Luis Sardinas,George Kottaras,6,13,6,False,2014-06-09,Stolen,2B,2014
+2490,1B,,Caught Stealing 2B,596143,Luis Sardinas,Kurt Suzuki,0,0,5,True,2014-05-28,Caught,2B,2014
+2238,1B,2B,Stolen Base 2B,596143,Luis Sardinas,Brian McCann,0,0,3,True,2016-04-16,Stolen,2B,2016
+2424,1B,,Caught Stealing 2B,596143,Luis Sardinas,Bryan Holaday,2,3,4,True,2016-04-06,Caught,2B,2016
+3120,1B,2B,Stolen Base 2B,596143,Luis Sardinas,Kurt Suzuki,3,1,4,True,2017-04-17,Stolen,2B,2017

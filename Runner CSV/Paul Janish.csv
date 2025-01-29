@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+895,1B,,Caught Stealing 2B,457926,Paul Janish,John Hester,1,4,6,True,2010-08-19,Caught,2B,2010
+942,2B,3B,Stolen Base 3B,457926,Paul Janish,Miguel Montero,2,3,9,True,2010-08-17,Stolen,3B,2010
+1491,1B,,Caught Stealing 2B,457926,Paul Janish,Jason Castro,4,6,9,True,2010-07-23,Caught,2B,2010
+2649,1B,,Caught Stealing 2B,457926,Paul Janish,Humberto Quintero,0,0,3,False,2010-05-30,Caught,2B,2010
+1025,1B,2B,Stolen Base 2B,457926,Paul Janish,Ryan Doumit,6,7,8,True,2011-08-19,Stolen,2B,2011
+1206,1B,,Caught Stealing 2B,457926,Paul Janish,Chris Iannetta,3,2,7,False,2011-08-10,Caught,2B,2011
+2921,1B,2B,Stolen Base 2B,457926,Paul Janish,Jonathan Lucroy,5,0,4,False,2011-05-30,Stolen,2B,2011
+4207,1B,,Caught Stealing 2B,457926,Paul Janish,Miguel Montero,0,2,5,True,2011-04-09,Caught,2B,2011
+4296,1B,2B,Stolen Base 2B,457926,Paul Janish,J.R. Towles,6,4,6,False,2011-04-06,Stolen,2B,2011
+1039,1B,2B,Stolen Base 2B,457926,Paul Janish,Matt Treanor,4,3,11,False,2012-08-17,Stolen,2B,2012

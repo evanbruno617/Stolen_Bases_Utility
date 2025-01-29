@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1038,1B,2B,Stolen Base 2B,451143,Mat Gamel,Kelly Shoppach,4,3,4,True,2009-06-15,Stolen,2B,2009
+3850,1B,2B,Stolen Base 2B,451143,Mat Gamel,A.J. Ellis,2,2,7,False,2012-04-17,Stolen,2B,2012
+3937,1B,2B,Stolen Base 2B,451143,Mat Gamel,Brian McCann,2,3,4,True,2012-04-13,Stolen,2B,2012
+4033,1B,2B,Stolen Base 2B,451143,Mat Gamel,Geovany Soto,3,6,8,True,2012-04-09,Stolen,2B,2012

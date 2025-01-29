@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+197,2B,,Caught Stealing 3B,114429,Hanley Frias,Doug Mirabelli,4,6,6,True,2000-09-21,Caught,3B,2000
+227,1B,,Caught Stealing 2B,114429,Hanley Frias,Paul Lo Duca,0,0,8,True,2000-09-20,Caught,2B,2000
+2485,1B,2B,Stolen Base 2B,114429,Hanley Frias,Bengie Molina,4,1,6,False,2000-06-09,Stolen,2B,2000
+3725,1B,2B,Stolen Base 2B,114429,Hanley Frias,Scott Servais,0,5,1,False,2000-04-17,Stolen,2B,2000

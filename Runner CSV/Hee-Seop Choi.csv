@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1105,1B,,Caught Stealing 2B,400292,Hee-Seop Choi,Chad Moeller,0,1,4,False,2003-08-03,Caught,2B,2003
+2922,1B,2B,Stolen Base 2B,400292,Hee-Seop Choi,Charles Johnson,2,3,3,False,2003-05-04,Stolen,2B,2003
+3281,1B,2B,Stolen Base 2B,400292,Hee-Seop Choi,Johnny Estrada,2,0,5,True,2004-04-17,Stolen,2B,2004
+394,1B,,Caught Stealing 2B,400292,Hee-Seop Choi,Ramon Hernandez,3,3,4,False,2005-09-11,Caught,2B,2005
+736,1B,,Caught Stealing 2B,400292,Hee-Seop Choi,Danny Ardoin,0,0,3,False,2005-08-24,Caught,2B,2005
+807,1B,,Caught Stealing 2B,400292,Hee-Seop Choi,Matt Treanor,0,0,1,True,2005-08-20,Caught,2B,2005
+1854,1B,2B,Stolen Base 2B,400292,Hee-Seop Choi,Bengie Molina,0,1,2,True,2005-06-25,Stolen,2B,2005

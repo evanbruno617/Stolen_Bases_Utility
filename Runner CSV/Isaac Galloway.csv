@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+796,1B,,Caught Stealing 2B,543194,Isaac Galloway,Kyle Higashioka,1,2,12,False,2018-08-21,Caught,2B,2018
+835,1B,2B,Stolen Base 2B,543194,Isaac Galloway,Matt Wieters,0,0,2,True,2018-08-19,Stolen,2B,2018
+2540,1B,2B,Stolen Base 2B,543194,Isaac Galloway,Roberto Pérez,0,1,5,True,2019-04-23,Stolen,2B,2019
+2589,1B,2B,Stolen Base 2B,543194,Isaac Galloway,Yan Gomes,2,0,2,False,2019-04-20,Stolen,2B,2019

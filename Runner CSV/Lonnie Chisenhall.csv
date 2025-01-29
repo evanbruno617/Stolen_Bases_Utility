@@ -1,0 +1,24 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+942,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,Miguel Olivo,2,3,9,False,2011-08-22,Stolen,2B,2011
+2378,1B,,Caught Stealing 2B,502082,Lonnie Chisenhall,Ryan Hanigan,9,7,6,False,2012-06-18,Caught,2B,2012
+2727,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,Joe Mauer,3,4,4,False,2012-06-02,Stolen,2B,2012
+2786,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,Ryan Doumit,3,0,4,False,2012-06-01,Stolen,2B,2012
+1696,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,Alex Avila,9,6,8,False,2013-07-07,Stolen,2B,2013
+30,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,José Molina,3,1,5,False,2014-09-28,Stolen,2B,2014
+1484,1B,,Caught Stealing 2B,502082,Lonnie Chisenhall,Bryan Holaday,1,4,8,True,2014-07-19,Caught,2B,2014
+2978,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,Tyler Flowers,3,1,7,False,2014-05-04,Stolen,2B,2014
+3383,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,Alex Avila,1,3,5,True,2014-04-16,Stolen,2B,2014
+3402,1B,,Caught Stealing 2B,502082,Lonnie Chisenhall,Bryan Holaday,1,4,8,True,2014-04-15,Caught,2B,2014
+102,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,Kurt Suzuki,0,3,1,True,2015-09-24,Stolen,2B,2015
+381,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,James McCann,5,3,7,False,2015-09-10,Stolen,2B,2015
+876,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,Kurt Suzuki,0,2,2,True,2015-08-14,Stolen,2B,2015
+1120,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,Stephen Vogt,1,1,9,True,2015-07-31,Stolen,2B,2015
+2612,3B,,Caught Stealing Home,502082,Lonnie Chisenhall,Yadier Molina,1,0,6,False,2015-05-14,Caught,Home,2015
+564,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,Kurt Suzuki,0,1,4,True,2016-07-17,Stolen,2B,2016
+842,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,A.J. Pierzynski,0,2,3,True,2016-06-28,Stolen,2B,2016
+1418,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,Caleb Joseph,4,0,1,False,2016-05-28,Stolen,2B,2016
+1557,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,Christian Vázquez,2,4,8,True,2016-05-20,Stolen,2B,2016
+1939,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,Cameron Rupp,3,3,5,True,2016-04-30,Stolen,2B,2016
+1846,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,Caleb Joseph,0,3,8,True,2017-06-21,Stolen,2B,2017
+1900,1B,,Caught Stealing 2B,502082,Lonnie Chisenhall,Jason Castro,0,1,4,True,2017-06-18,Caught,2B,2017
+3022,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,Geovany Soto,0,2,2,True,2017-04-22,Stolen,2B,2017

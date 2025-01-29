@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1416,1B,2B,Stolen Base 2B,581527,Devon Travis,Salvador Perez,0,0,1,True,2015-07-12,Stolen,2B,2015
+1670,1B,,Caught Stealing 2B,581527,Devon Travis,Sandy León,0,2,3,False,2015-06-29,Caught,2B,2015
+2712,2B,3B,Stolen Base 3B,581527,Devon Travis,Blake Swihart,5,0,4,False,2015-05-09,Stolen,3B,2015
+3093,1B,2B,Stolen Base 2B,581527,Devon Travis,Caleb Joseph,0,0,1,False,2015-04-22,Stolen,2B,2015
+719,1B,,Caught Stealing 2B,581527,Devon Travis,Salvador Perez,7,2,6,False,2016-07-05,Caught,2B,2016
+771,2B,3B,Stolen Base 3B,581527,Devon Travis,Chris Gimenez,7,6,8,False,2016-07-02,Stolen,3B,2016
+794,1B,2B,Stolen Base 2B,581527,Devon Travis,Yan Gomes,1,1,11,False,2016-07-01,Stolen,2B,2016
+1289,2B,3B,Stolen Base 3B,581527,Devon Travis,Christian Vázquez,5,4,6,True,2016-06-04,Stolen,3B,2016
+2542,2B,3B,Stolen Base 3B,581527,Devon Travis,Tyler Flowers,2,3,4,False,2017-05-16,Stolen,3B,2017
+2612,3B,score,Stolen Base Home,581527,Devon Travis,Carlos Ruiz,7,2,8,False,2017-05-13,Stolen,Home,2017
+2750,1B,,Caught Stealing 2B,581527,Devon Travis,Derek Norris,0,1,2,True,2017-05-06,Caught,2B,2017
+2918,1B,2B,Stolen Base 2B,581527,Devon Travis,Eric Fryer,6,4,7,True,2017-04-27,Stolen,2B,2017
+2919,2B,3B,Stolen Base 3B,581527,Devon Travis,Eric Fryer,6,4,7,True,2017-04-27,Stolen,3B,2017
+2928,1B,2B,Stolen Base 2B,581527,Devon Travis,Eric Fryer,6,4,7,True,2017-04-26,Stolen,2B,2017
+2929,2B,3B,Stolen Base 3B,581527,Devon Travis,Eric Fryer,6,4,7,True,2017-04-26,Stolen,3B,2017
+398,3B,score,Stolen Base Home,581527,Devon Travis,Christian Vázquez,0,1,6,True,2018-09-11,Stolen,Home,2018
+988,1B,2B,Stolen Base 2B,581527,Devon Travis,Michael Pérez,0,1,4,False,2018-08-12,Stolen,2B,2018
+1138,2B,,Caught Stealing 3B,581527,Devon Travis,Mike Zunino,0,4,8,True,2018-08-04,Caught,3B,2018
+2136,1B,2B,Stolen Base 2B,581527,Devon Travis,Austin Romine,0,0,11,False,2018-06-06,Stolen,2B,2018
+2312,1B,,Caught Stealing 2B,581527,Devon Travis,Andrew Knapp,0,2,5,True,2018-05-27,Caught,2B,2018

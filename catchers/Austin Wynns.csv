@@ -1,0 +1,177 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,572008,Chris Owings,571710,Mychal Givens,571788,Brock Holt,R,Austin Wynns,642851,4,4,8,False,2019-09-29,Stolen,2B,2019,2021, 77.4, 0.69
+1,1B,,Caught Stealing 2B,462101,Elvis Andrus,542888,Shawn Armstrong,641432,Willie Calhoun,R,Austin Wynns,642851,6,7,7,True,2019-09-06,Caught,2B,2019,2021, 77.4, 0.69
+2,1B,,Caught Stealing 2B,595981,Scott Heineman,656945,Tanner Scott,624431,Jose Trevino,L,Austin Wynns,642851,6,7,8,True,2019-09-06,Caught,2B,2019,2021, 77.4, 0.69
+3,2B,3B,Stolen Base 3B,621563,Joey Wendle,612434,Miguel Castro,502054,Tommy Pham,R,Austin Wynns,642851,2,0,8,False,2019-09-03,Stolen,3B,2019,2021, 77.4, 0.69
+4,1B,2B,Stolen Base 2B,621002,Daniel Robertson,612434,Miguel Castro,502054,Tommy Pham,R,Austin Wynns,642851,2,0,8,False,2019-09-03,Stolen,2B,2019,2021, 77.4, 0.69
+5,1B,2B,Stolen Base 2B,642731,Thairo Estrada,643316,Paul Fry,519222,Austin Romine,L,Austin Wynns,642851,1,4,7,True,2019-05-23,Stolen,2B,2019,2021, 77.4, 0.69
+6,1B,,Caught Stealing 2B,640458,Óscar Mercado,606162,Yefry Ramírez,596019,Francisco Lindor,R,Austin Wynns,642851,5,0,4,False,2019-05-19,Caught,2B,2019,2021, 77.4, 0.69
+7,1B,2B,Stolen Base 2B,596019,Francisco Lindor,542947,Richard Bleier,467793,Carlos Santana,L,Austin Wynns,642851,5,0,4,False,2019-05-19,Stolen,2B,2019,2021, 77.4, 0.69
+8,1B,2B,Stolen Base 2B,608070,José Ramírez,605164,Dylan Bundy,641343,Jake Bauers,R,Austin Wynns,642851,1,0,2,False,2019-05-17,Stolen,2B,2019,2021, 77.4, 0.69
+9,1B,2B,Stolen Base 2B,594777,Kole Calhoun,642231,Jimmy Yacabonis,664058,David Fletcher,R,Austin Wynns,642851,2,6,8,True,2019-05-11,Stolen,2B,2019,2021, 77.4, 0.69
+10,1B,2B,Stolen Base 2B,592743,Andrelton Simmons,642231,Jimmy Yacabonis,545361,Mike Trout,R,Austin Wynns,642851,2,6,9,True,2019-05-11,Stolen,2B,2019,2021, 77.4, 0.69
+11,1B,,Caught Stealing 2B,605141,Mookie Betts,593679,Gabriel Ynoa,502110,J.D. Martinez,R,Austin Wynns,642851,3,6,7,True,2019-05-07,Caught,2B,2019,2021, 77.4, 0.69
+12,1B,2B,Stolen Base 2B,503556,Marwin Gonzalez,612434,Miguel Castro,641598,Mitch Garver,R,Austin Wynns,642851,4,1,8,False,2019-04-28,Stolen,2B,2019,2021, 77.4, 0.69
+13,1B,2B,Stolen Base 2B,572008,Chris Owings,571710,Mychal Givens,571788,Brock Holt,R,Austin Wynns,642851,4,4,8,False,2019-09-29,Stolen,2B,2019,2021, 77.4, 0.69
+14,1B,,Caught Stealing 2B,462101,Elvis Andrus,542888,Shawn Armstrong,641432,Willie Calhoun,R,Austin Wynns,642851,6,7,7,True,2019-09-06,Caught,2B,2019,2021, 77.4, 0.69
+15,1B,,Caught Stealing 2B,595981,Scott Heineman,656945,Tanner Scott,624431,Jose Trevino,L,Austin Wynns,642851,6,7,8,True,2019-09-06,Caught,2B,2019,2021, 77.4, 0.69
+16,2B,3B,Stolen Base 3B,621563,Joey Wendle,612434,Miguel Castro,502054,Tommy Pham,R,Austin Wynns,642851,2,0,8,False,2019-09-03,Stolen,3B,2019,2021, 77.4, 0.69
+17,1B,2B,Stolen Base 2B,621002,Daniel Robertson,612434,Miguel Castro,502054,Tommy Pham,R,Austin Wynns,642851,2,0,8,False,2019-09-03,Stolen,2B,2019,2021, 77.4, 0.69
+18,1B,2B,Stolen Base 2B,642731,Thairo Estrada,643316,Paul Fry,519222,Austin Romine,L,Austin Wynns,642851,1,4,7,True,2019-05-23,Stolen,2B,2019,2021, 77.4, 0.69
+19,1B,,Caught Stealing 2B,640458,Óscar Mercado,606162,Yefry Ramírez,596019,Francisco Lindor,R,Austin Wynns,642851,5,0,4,False,2019-05-19,Caught,2B,2019,2021, 77.4, 0.69
+20,1B,2B,Stolen Base 2B,596019,Francisco Lindor,542947,Richard Bleier,467793,Carlos Santana,L,Austin Wynns,642851,5,0,4,False,2019-05-19,Stolen,2B,2019,2021, 77.4, 0.69
+21,1B,2B,Stolen Base 2B,608070,José Ramírez,605164,Dylan Bundy,641343,Jake Bauers,R,Austin Wynns,642851,1,0,2,False,2019-05-17,Stolen,2B,2019,2021, 77.4, 0.69
+22,1B,2B,Stolen Base 2B,594777,Kole Calhoun,642231,Jimmy Yacabonis,664058,David Fletcher,R,Austin Wynns,642851,2,6,8,True,2019-05-11,Stolen,2B,2019,2021, 77.4, 0.69
+23,1B,2B,Stolen Base 2B,592743,Andrelton Simmons,642231,Jimmy Yacabonis,545361,Mike Trout,R,Austin Wynns,642851,2,6,9,True,2019-05-11,Stolen,2B,2019,2021, 77.4, 0.69
+24,1B,,Caught Stealing 2B,605141,Mookie Betts,593679,Gabriel Ynoa,502110,J.D. Martinez,R,Austin Wynns,642851,3,6,7,True,2019-05-07,Caught,2B,2019,2021, 77.4, 0.69
+25,1B,2B,Stolen Base 2B,503556,Marwin Gonzalez,612434,Miguel Castro,641598,Mitch Garver,R,Austin Wynns,642851,4,1,8,False,2019-04-28,Stolen,2B,2019,2021, 77.4, 0.69
+26,1B,2B,Stolen Base 2B,572008,Chris Owings,571710,Mychal Givens,571788,Brock Holt,R,Austin Wynns,642851,4,4,8,False,2019-09-29,Stolen,2B,2019,2021, 77.4, 0.69
+27,1B,,Caught Stealing 2B,462101,Elvis Andrus,542888,Shawn Armstrong,641432,Willie Calhoun,R,Austin Wynns,642851,6,7,7,True,2019-09-06,Caught,2B,2019,2021, 77.4, 0.69
+28,1B,,Caught Stealing 2B,595981,Scott Heineman,656945,Tanner Scott,624431,Jose Trevino,L,Austin Wynns,642851,6,7,8,True,2019-09-06,Caught,2B,2019,2021, 77.4, 0.69
+29,2B,3B,Stolen Base 3B,621563,Joey Wendle,612434,Miguel Castro,502054,Tommy Pham,R,Austin Wynns,642851,2,0,8,False,2019-09-03,Stolen,3B,2019,2021, 77.4, 0.69
+30,1B,2B,Stolen Base 2B,621002,Daniel Robertson,612434,Miguel Castro,502054,Tommy Pham,R,Austin Wynns,642851,2,0,8,False,2019-09-03,Stolen,2B,2019,2021, 77.4, 0.69
+31,1B,2B,Stolen Base 2B,642731,Thairo Estrada,643316,Paul Fry,519222,Austin Romine,L,Austin Wynns,642851,1,4,7,True,2019-05-23,Stolen,2B,2019,2021, 77.4, 0.69
+32,1B,,Caught Stealing 2B,640458,Óscar Mercado,606162,Yefry Ramírez,596019,Francisco Lindor,R,Austin Wynns,642851,5,0,4,False,2019-05-19,Caught,2B,2019,2021, 77.4, 0.69
+33,1B,2B,Stolen Base 2B,596019,Francisco Lindor,542947,Richard Bleier,467793,Carlos Santana,L,Austin Wynns,642851,5,0,4,False,2019-05-19,Stolen,2B,2019,2021, 77.4, 0.69
+34,1B,2B,Stolen Base 2B,608070,José Ramírez,605164,Dylan Bundy,641343,Jake Bauers,R,Austin Wynns,642851,1,0,2,False,2019-05-17,Stolen,2B,2019,2021, 77.4, 0.69
+35,1B,2B,Stolen Base 2B,594777,Kole Calhoun,642231,Jimmy Yacabonis,664058,David Fletcher,R,Austin Wynns,642851,2,6,8,True,2019-05-11,Stolen,2B,2019,2021, 77.4, 0.69
+36,1B,2B,Stolen Base 2B,592743,Andrelton Simmons,642231,Jimmy Yacabonis,545361,Mike Trout,R,Austin Wynns,642851,2,6,9,True,2019-05-11,Stolen,2B,2019,2021, 77.4, 0.69
+37,1B,,Caught Stealing 2B,605141,Mookie Betts,593679,Gabriel Ynoa,502110,J.D. Martinez,R,Austin Wynns,642851,3,6,7,True,2019-05-07,Caught,2B,2019,2021, 77.4, 0.69
+38,1B,2B,Stolen Base 2B,503556,Marwin Gonzalez,612434,Miguel Castro,641598,Mitch Garver,R,Austin Wynns,642851,4,1,8,False,2019-04-28,Stolen,2B,2019,2021, 77.4, 0.69
+39,1B,2B,Stolen Base 2B,660634,Yonny Hernández,642121,Cole Sulser,665750,Leody Taveras,R,Austin Wynns,642851,2,0,7,True,2021-09-23,Stolen,2B,2021,2022, 78.7, 0.76
+40,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,641632,Conner Greene,543543,Brad Miller,R,Austin Wynns,642851,0,0,1,False,2021-09-21,Stolen,2B,2021,2022, 78.7, 0.76
+41,1B,,Caught Stealing 2B,650402,Gleyber Torres,641632,Conner Greene,596142,Gary Sánchez,R,Austin Wynns,642851,1,2,8,True,2021-09-16,Caught,2B,2021,2022, 78.7, 0.76
+42,2B,3B,Stolen Base 3B,642180,Tyler Wade,669330,Tyler Wells,458731,Brett Gardner,R,Austin Wynns,642851,3,4,9,True,2021-09-15,Stolen,3B,2021,2022, 78.7, 0.76
+43,1B,2B,Stolen Base 2B,650402,Gleyber Torres,669330,Tyler Wells,458731,Brett Gardner,R,Austin Wynns,642851,3,4,9,True,2021-09-15,Stolen,2B,2021,2022, 78.7, 0.76
+44,1B,2B,Stolen Base 2B,650402,Gleyber Torres,649144,Alex Wells,570482,Gio Urshela,L,Austin Wynns,642851,0,5,3,True,2021-09-14,Stolen,2B,2021,2022, 78.7, 0.76
+45,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,641420,Zack Burdi,593160,Whit Merrifield,R,Austin Wynns,642851,2,3,9,True,2021-09-06,Stolen,2B,2021,2022, 78.7, 0.76
+46,2B,3B,Stolen Base 3B,609275,Adalberto Mondesi,641420,Zack Burdi,670032,Nicky Lopez,R,Austin Wynns,642851,2,3,9,True,2021-09-06,Stolen,3B,2021,2022, 78.7, 0.76
+47,1B,2B,Stolen Base 2B,666182,Bo Bichette,518774,Matt Harvey,606192,Teoscar Hernández,R,Austin Wynns,642851,2,2,4,False,2021-09-01,Stolen,2B,2021,2022, 78.7, 0.76
+48,1B,2B,Stolen Base 2B,572816,Corey Dickerson,518774,Matt Harvey,666971,Lourdes Gurriel Jr.,R,Austin Wynns,642851,4,2,4,False,2021-09-01,Stolen,2B,2021,2022, 78.7, 0.76
+49,1B,2B,Stolen Base 2B,543760,Marcus Semien,641632,Conner Greene,666182,Bo Bichette,R,Austin Wynns,642851,4,2,5,False,2021-09-01,Stolen,2B,2021,2022, 78.7, 0.76
+50,1B,2B,Stolen Base 2B,668227,Randy Arozarena,657093,Spenser Watkins,640457,Austin Meadows,R,Austin Wynns,642851,0,1,1,True,2021-08-29,Stolen,2B,2021,2022, 78.7, 0.76
+51,1B,2B,Stolen Base 2B,594838,Phil Gosselin,595939,Chris Ellis,665120,Jared Walsh,R,Austin Wynns,642851,0,0,1,True,2021-08-25,Stolen,2B,2021,2022, 78.7, 0.76
+52,1B,,Caught Stealing 2B,669016,Brandon Marsh,595939,Chris Ellis,666176,Jo Adell,R,Austin Wynns,642851,2,2,2,True,2021-08-25,Caught,2B,2021,2022, 78.7, 0.76
+53,1B,2B,Stolen Base 2B,664040,Brandon Lowe,657093,Spenser Watkins,677551,Wander Franco,R,Austin Wynns,642851,4,2,4,False,2021-08-18,Stolen,2B,2021,2022, 78.7, 0.76
+54,1B,2B,Stolen Base 2B,664040,Brandon Lowe,605347,Jorge López,443558,Nelson Cruz,R,Austin Wynns,642851,3,1,3,True,2021-08-08,Stolen,2B,2021,2022, 78.7, 0.76
+55,1B,,Caught Stealing 2B,656537,Derek Hill,592644,Adam Plutko,668731,Akil Baddoo,R,Austin Wynns,642851,4,0,6,False,2021-07-29,Caught,2B,2021,2022, 78.7, 0.76
+56,1B,,Caught Stealing 2B,640457,Austin Meadows,649144,Alex Wells,664040,Brandon Lowe,L,Austin Wynns,642851,3,3,5,False,2021-07-21,Caught,2B,2021,2022, 78.7, 0.76
+57,1B,,Caught Stealing 2B,683734,Andrew Vaughn,664045,Thomas Eshelman,544725,Leury García,R,Austin Wynns,642851,0,1,2,True,2021-07-10,Caught,2B,2021,2022, 78.7, 0.76
+58,1B,2B,Stolen Base 2B,664702,Myles Straw,664042,Travis Lakins Sr.,455117,Martín Maldonado,R,Austin Wynns,642851,1,1,2,False,2021-06-29,Stolen,2B,2021,2022, 78.7, 0.76
+59,1B,,Caught Stealing 2B,664702,Myles Straw,592644,Adam Plutko,455117,Martín Maldonado,R,Austin Wynns,642851,1,1,4,False,2021-06-29,Caught,2B,2021,2022, 78.7, 0.76
+60,1B,2B,Stolen Base 2B,514888,Jose Altuve,649144,Alex Wells,493329,Yuli Gurriel,L,Austin Wynns,642851,3,3,6,False,2021-06-29,Stolen,2B,2021,2022, 78.7, 0.76
+61,1B,,Caught Stealing 2B,669289,Santiago Espinal,665152,Dean Kremer,624512,Reese McGuire,R,Austin Wynns,642851,0,2,2,True,2021-06-19,Caught,2B,2021,2022, 78.7, 0.76
+62,1B,2B,Stolen Base 2B,642708,Amed Rosario,518774,Matt Harvey,656252,Bobby Bradley,R,Austin Wynns,642851,1,1,3,False,2021-06-15,Stolen,2B,2021,2022, 78.7, 0.76
+63,1B,2B,Stolen Base 2B,670764,Taylor Walls,669145,Bruce Zimmermann,621433,Brett Phillips,L,Austin Wynns,642851,0,1,3,False,2021-06-13,Stolen,2B,2021,2022, 78.7, 0.76
+64,1B,,Caught Stealing 2B,670764,Taylor Walls,669145,Bruce Zimmermann,621433,Brett Phillips,L,Austin Wynns,642851,3,1,4,False,2021-06-13,Caught,2B,2021,2022, 78.7, 0.76
+65,1B,,Caught Stealing 2B,621433,Brett Phillips,640451,Hunter Harvey,650490,Yandy Díaz,R,Austin Wynns,642851,5,4,6,False,2021-06-12,Caught,2B,2021,2022, 78.7, 0.76
+66,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,664042,Travis Lakins Sr.,621433,Brett Phillips,R,Austin Wynns,642851,5,4,8,False,2021-06-12,Stolen,2B,2021,2022, 78.7, 0.76
+67,1B,2B,Stolen Base 2B,664247,Kyle Garlick,605347,Jorge López,592743,Andrelton Simmons,R,Austin Wynns,642851,0,0,3,True,2021-05-31,Stolen,2B,2021,2022, 78.7, 0.76
+68,1B,2B,Stolen Base 2B,660634,Yonny Hernández,642121,Cole Sulser,665750,Leody Taveras,R,Austin Wynns,642851,2,0,7,True,2021-09-23,Stolen,2B,2021,2022, 78.7, 0.76
+69,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,641632,Conner Greene,543543,Brad Miller,R,Austin Wynns,642851,0,0,1,False,2021-09-21,Stolen,2B,2021,2022, 78.7, 0.76
+70,1B,,Caught Stealing 2B,650402,Gleyber Torres,641632,Conner Greene,596142,Gary Sánchez,R,Austin Wynns,642851,1,2,8,True,2021-09-16,Caught,2B,2021,2022, 78.7, 0.76
+71,2B,3B,Stolen Base 3B,642180,Tyler Wade,669330,Tyler Wells,458731,Brett Gardner,R,Austin Wynns,642851,3,4,9,True,2021-09-15,Stolen,3B,2021,2022, 78.7, 0.76
+72,1B,2B,Stolen Base 2B,650402,Gleyber Torres,669330,Tyler Wells,458731,Brett Gardner,R,Austin Wynns,642851,3,4,9,True,2021-09-15,Stolen,2B,2021,2022, 78.7, 0.76
+73,1B,2B,Stolen Base 2B,650402,Gleyber Torres,649144,Alex Wells,570482,Gio Urshela,L,Austin Wynns,642851,0,5,3,True,2021-09-14,Stolen,2B,2021,2022, 78.7, 0.76
+74,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,641420,Zack Burdi,593160,Whit Merrifield,R,Austin Wynns,642851,2,3,9,True,2021-09-06,Stolen,2B,2021,2022, 78.7, 0.76
+75,2B,3B,Stolen Base 3B,609275,Adalberto Mondesi,641420,Zack Burdi,670032,Nicky Lopez,R,Austin Wynns,642851,2,3,9,True,2021-09-06,Stolen,3B,2021,2022, 78.7, 0.76
+76,1B,2B,Stolen Base 2B,666182,Bo Bichette,518774,Matt Harvey,606192,Teoscar Hernández,R,Austin Wynns,642851,2,2,4,False,2021-09-01,Stolen,2B,2021,2022, 78.7, 0.76
+77,1B,2B,Stolen Base 2B,572816,Corey Dickerson,518774,Matt Harvey,666971,Lourdes Gurriel Jr.,R,Austin Wynns,642851,4,2,4,False,2021-09-01,Stolen,2B,2021,2022, 78.7, 0.76
+78,1B,2B,Stolen Base 2B,543760,Marcus Semien,641632,Conner Greene,666182,Bo Bichette,R,Austin Wynns,642851,4,2,5,False,2021-09-01,Stolen,2B,2021,2022, 78.7, 0.76
+79,1B,2B,Stolen Base 2B,668227,Randy Arozarena,657093,Spenser Watkins,640457,Austin Meadows,R,Austin Wynns,642851,0,1,1,True,2021-08-29,Stolen,2B,2021,2022, 78.7, 0.76
+80,1B,2B,Stolen Base 2B,594838,Phil Gosselin,595939,Chris Ellis,665120,Jared Walsh,R,Austin Wynns,642851,0,0,1,True,2021-08-25,Stolen,2B,2021,2022, 78.7, 0.76
+81,1B,,Caught Stealing 2B,669016,Brandon Marsh,595939,Chris Ellis,666176,Jo Adell,R,Austin Wynns,642851,2,2,2,True,2021-08-25,Caught,2B,2021,2022, 78.7, 0.76
+82,1B,2B,Stolen Base 2B,664040,Brandon Lowe,657093,Spenser Watkins,677551,Wander Franco,R,Austin Wynns,642851,4,2,4,False,2021-08-18,Stolen,2B,2021,2022, 78.7, 0.76
+83,1B,2B,Stolen Base 2B,664040,Brandon Lowe,605347,Jorge López,443558,Nelson Cruz,R,Austin Wynns,642851,3,1,3,True,2021-08-08,Stolen,2B,2021,2022, 78.7, 0.76
+84,1B,,Caught Stealing 2B,656537,Derek Hill,592644,Adam Plutko,668731,Akil Baddoo,R,Austin Wynns,642851,4,0,6,False,2021-07-29,Caught,2B,2021,2022, 78.7, 0.76
+85,1B,,Caught Stealing 2B,640457,Austin Meadows,649144,Alex Wells,664040,Brandon Lowe,L,Austin Wynns,642851,3,3,5,False,2021-07-21,Caught,2B,2021,2022, 78.7, 0.76
+86,1B,,Caught Stealing 2B,683734,Andrew Vaughn,664045,Thomas Eshelman,544725,Leury García,R,Austin Wynns,642851,0,1,2,True,2021-07-10,Caught,2B,2021,2022, 78.7, 0.76
+87,1B,2B,Stolen Base 2B,664702,Myles Straw,664042,Travis Lakins Sr.,455117,Martín Maldonado,R,Austin Wynns,642851,1,1,2,False,2021-06-29,Stolen,2B,2021,2022, 78.7, 0.76
+88,1B,,Caught Stealing 2B,664702,Myles Straw,592644,Adam Plutko,455117,Martín Maldonado,R,Austin Wynns,642851,1,1,4,False,2021-06-29,Caught,2B,2021,2022, 78.7, 0.76
+89,1B,2B,Stolen Base 2B,514888,Jose Altuve,649144,Alex Wells,493329,Yuli Gurriel,L,Austin Wynns,642851,3,3,6,False,2021-06-29,Stolen,2B,2021,2022, 78.7, 0.76
+90,1B,,Caught Stealing 2B,669289,Santiago Espinal,665152,Dean Kremer,624512,Reese McGuire,R,Austin Wynns,642851,0,2,2,True,2021-06-19,Caught,2B,2021,2022, 78.7, 0.76
+91,1B,2B,Stolen Base 2B,642708,Amed Rosario,518774,Matt Harvey,656252,Bobby Bradley,R,Austin Wynns,642851,1,1,3,False,2021-06-15,Stolen,2B,2021,2022, 78.7, 0.76
+92,1B,2B,Stolen Base 2B,670764,Taylor Walls,669145,Bruce Zimmermann,621433,Brett Phillips,L,Austin Wynns,642851,0,1,3,False,2021-06-13,Stolen,2B,2021,2022, 78.7, 0.76
+93,1B,,Caught Stealing 2B,670764,Taylor Walls,669145,Bruce Zimmermann,621433,Brett Phillips,L,Austin Wynns,642851,3,1,4,False,2021-06-13,Caught,2B,2021,2022, 78.7, 0.76
+94,1B,,Caught Stealing 2B,621433,Brett Phillips,640451,Hunter Harvey,650490,Yandy Díaz,R,Austin Wynns,642851,5,4,6,False,2021-06-12,Caught,2B,2021,2022, 78.7, 0.76
+95,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,664042,Travis Lakins Sr.,621433,Brett Phillips,R,Austin Wynns,642851,5,4,8,False,2021-06-12,Stolen,2B,2021,2022, 78.7, 0.76
+96,1B,2B,Stolen Base 2B,664247,Kyle Garlick,605347,Jorge López,592743,Andrelton Simmons,R,Austin Wynns,642851,0,0,3,True,2021-05-31,Stolen,2B,2021,2022, 78.7, 0.76
+97,1B,2B,Stolen Base 2B,605141,Mookie Betts,502624,Chase Anderson,518692,Freddie Freeman,R,Austin Wynns,642851,0,0,1,True,2023-09-26,Stolen,2B,2023,2024, 77.0, 0.57
+98,1B,2B,Stolen Base 2B,593428,Xander Bogaerts,502624,Chase Anderson,665487,Fernando Tatis Jr.,R,Austin Wynns,642851,0,2,1,False,2023-09-20,Stolen,2B,2023,2024, 77.0, 0.57
+99,1B,,Caught Stealing 2B,676946,Matthew Batten,502624,Chase Anderson,664954,Brett Sullivan,R,Austin Wynns,642851,1,2,2,False,2023-09-20,Caught,2B,2023,2024, 77.0, 0.57
+100,1B,2B,Stolen Base 2B,573262,Mike Yastrzemski,623167,Chris Flexen,624424,Michael Conforto,R,Austin Wynns,642851,0,0,4,True,2023-09-17,Stolen,2B,2023,2024, 77.0, 0.57
+101,1B,2B,Stolen Base 2B,642731,Thairo Estrada,623167,Chris Flexen,592626,Joc Pederson,R,Austin Wynns,642851,0,2,6,True,2023-09-17,Stolen,2B,2023,2024, 77.0, 0.57
+102,1B,,Caught Stealing 2B,663538,Nico Hoerner,621389,Ty Blach,673548,Seiya Suzuki,L,Austin Wynns,642851,0,1,1,True,2023-09-13,Caught,2B,2023,2024, 77.0, 0.57
+103,1B,2B,Stolen Base 2B,663538,Nico Hoerner,621389,Ty Blach,641355,Cody Bellinger,L,Austin Wynns,642851,0,3,4,True,2023-09-13,Stolen,2B,2023,2024, 77.0, 0.57
+104,1B,,Caught Stealing 2B,678545,Osleivis Basabe,663567,Peter Lambert,666018,Jonathan Aranda,R,Austin Wynns,642851,2,0,4,False,2023-08-24,Caught,2B,2023,2024, 77.0, 0.57
+105,2B,3B,Stolen Base 3B,643217,Andrew Benintendi,623167,Chris Flexen,660162,Yoán Moncada,R,Austin Wynns,642851,0,2,3,True,2023-08-20,Stolen,3B,2023,2024, 77.0, 0.57
+106,1B,2B,Stolen Base 2B,682998,Corbin Carroll,641755,Tyler Kinley,671083,Buddy Kennedy,R,Austin Wynns,642851,7,8,8,True,2023-08-16,Stolen,2B,2023,2024, 77.0, 0.57
+107,2B,,Caught Stealing 3B,682998,Corbin Carroll,641755,Tyler Kinley,671083,Buddy Kennedy,R,Austin Wynns,642851,7,8,8,True,2023-08-16,Caught,3B,2023,2024, 77.0, 0.57
+108,1B,2B,Stolen Base 2B,621035,Chris Taylor,677865,Justin Bruihl,681546,James Outman,L,Austin Wynns,642851,7,3,8,False,2023-08-13,Stolen,2B,2023,2024, 77.0, 0.57
+109,2B,3B,Stolen Base 3B,621035,Chris Taylor,677865,Justin Bruihl,500743,Miguel Rojas,L,Austin Wynns,642851,8,3,8,False,2023-08-13,Stolen,3B,2023,2024, 77.0, 0.57
+110,1B,2B,Stolen Base 2B,669242,Tommy Edman,596295,Austin Gomber,502671,Paul Goldschmidt,L,Austin Wynns,642851,0,0,1,False,2023-08-06,Stolen,2B,2023,2024, 77.0, 0.57
+111,1B,2B,Stolen Base 2B,593428,Xander Bogaerts,607536,Kyle Freeland,630105,Jake Cronenworth,L,Austin Wynns,642851,0,1,2,True,2023-08-02,Stolen,2B,2023,2024, 77.0, 0.57
+112,1B,,Caught Stealing 2B,643393,Tony Kemp,453268,Daniel Bard,664913,Seth Brown,R,Austin Wynns,642851,2,0,8,True,2023-07-30,Caught,2B,2023,2024, 77.0, 0.57
+113,1B,2B,Stolen Base 2B,542932,Jon Berti,656234,Jake Bird,650333,Luis Arraez,R,Austin Wynns,642851,3,3,7,False,2023-07-22,Stolen,2B,2023,2024, 77.0, 0.57
+114,1B,2B,Stolen Base 2B,656716,Zach McKinstry,663567,Peter Lambert,679529,Spencer Torkelson,R,Austin Wynns,642851,0,0,3,True,2023-07-01,Stolen,2B,2023,2024, 77.0, 0.57
+115,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,659275,Dinelson Lamet,592518,Manny Machado,R,Austin Wynns,642851,0,0,1,True,2023-06-11,Stolen,2B,2023,2024, 77.0, 0.57
+116,1B,2B,Stolen Base 2B,664983,Jake McCarthy,659275,Dinelson Lamet,672695,Geraldo Perdomo,R,Austin Wynns,642851,3,0,2,False,2023-05-31,Stolen,2B,2023,2024, 77.0, 0.57
+117,1B,2B,Stolen Base 2B,606466,Ketel Marte,663567,Peter Lambert,682998,Corbin Carroll,R,Austin Wynns,642851,6,0,6,False,2023-05-31,Stolen,2B,2023,2024, 77.0, 0.57
+118,1B,2B,Stolen Base 2B,502054,Tommy Pham,596295,Austin Gomber,592192,Mark Canha,L,Austin Wynns,642851,0,0,2,True,2023-05-28,Stolen,2B,2023,2024, 77.0, 0.57
+119,2B,3B,Stolen Base 3B,502054,Tommy Pham,596295,Austin Gomber,592192,Mark Canha,L,Austin Wynns,642851,2,2,4,True,2023-05-28,Stolen,3B,2023,2024, 77.0, 0.57
+120,1B,,Caught Stealing 2B,669222,Nick Senzel,453268,Daniel Bard,592656,Henry Ramos,R,Austin Wynns,642851,6,6,7,True,2023-05-15,Caught,2B,2023,2024, 77.0, 0.57
+121,2B,3B,Stolen Base 3B,592656,Henry Ramos,543272,Brad Hand,571976,Wil Myers,L,Austin Wynns,642851,8,7,8,True,2023-05-15,Stolen,3B,2023,2024, 77.0, 0.57
+122,1B,,Caught Stealing 2B,656582,Connor Joe,622608,Antonio Senzatela,672779,Tucupita Marcano,R,Austin Wynns,642851,1,0,2,False,2023-05-10,Caught,2B,2023,2024, 77.0, 0.57
+123,1B,,Caught Stealing 2B,656582,Connor Joe,663567,Peter Lambert,572008,Chris Owings,R,Austin Wynns,642851,3,3,4,False,2023-05-10,Caught,2B,2023,2024, 77.0, 0.57
+124,2B,3B,Stolen Base 3B,467793,Carlos Santana,641360,Phil Bickford,666801,Rodolfo Castro,R,Austin Wynns,642851,0,0,4,False,2023-04-26,Stolen,3B,2023,2024, 77.0, 0.57
+125,1B,2B,Stolen Base 2B,669261,Jack Suwinski,641360,Phil Bickford,666801,Rodolfo Castro,R,Austin Wynns,642851,0,0,4,False,2023-04-26,Stolen,2B,2023,2024, 77.0, 0.57
+126,1B,2B,Stolen Base 2B,678225,Ji Hwan Bae,641360,Phil Bickford,641511,Jason Delay,R,Austin Wynns,642851,0,0,5,False,2023-04-26,Stolen,2B,2023,2024, 77.0, 0.57
+127,2B,3B,Stolen Base 3B,678225,Ji Hwan Bae,622075,Yency Almonte,663647,Ke'Bryan Hayes,R,Austin Wynns,642851,3,0,6,False,2023-04-26,Stolen,3B,2023,2024, 77.0, 0.57
+128,2B,3B,Stolen Base 3B,666801,Rodolfo Castro,681911,Alex Vesia,641511,Jason Delay,L,Austin Wynns,642851,8,0,7,False,2023-04-26,Stolen,3B,2023,2024, 77.0, 0.57
+129,1B,2B,Stolen Base 2B,678225,Ji Hwan Bae,681911,Alex Vesia,641511,Jason Delay,L,Austin Wynns,642851,8,0,7,False,2023-04-26,Stolen,2B,2023,2024, 77.0, 0.57
+130,1B,,Caught Stealing 2B,663538,Nico Hoerner,596082,Jake Reed,664023,Ian Happ,R,Austin Wynns,642851,5,0,4,False,2023-04-21,Caught,2B,2023,2024, 77.0, 0.57
+131,2B,3B,Stolen Base 3B,592192,Mark Canha,571946,Shelby Miller,596019,Francisco Lindor,R,Austin Wynns,642851,2,5,9,True,2023-04-19,Stolen,3B,2023,2024, 77.0, 0.57
+132,1B,,Caught Stealing 2B,516782,Starling Marte,669160,Dustin May,596019,Francisco Lindor,R,Austin Wynns,642851,3,5,5,True,2023-04-17,Caught,2B,2023,2024, 77.0, 0.57
+133,1B,2B,Stolen Base 2B,605141,Mookie Betts,502624,Chase Anderson,518692,Freddie Freeman,R,Austin Wynns,642851,0,0,1,True,2023-09-26,Stolen,2B,2023,2024, 77.0, 0.57
+134,1B,2B,Stolen Base 2B,593428,Xander Bogaerts,502624,Chase Anderson,665487,Fernando Tatis Jr.,R,Austin Wynns,642851,0,2,1,False,2023-09-20,Stolen,2B,2023,2024, 77.0, 0.57
+135,1B,,Caught Stealing 2B,676946,Matthew Batten,502624,Chase Anderson,664954,Brett Sullivan,R,Austin Wynns,642851,1,2,2,False,2023-09-20,Caught,2B,2023,2024, 77.0, 0.57
+136,1B,2B,Stolen Base 2B,573262,Mike Yastrzemski,623167,Chris Flexen,624424,Michael Conforto,R,Austin Wynns,642851,0,0,4,True,2023-09-17,Stolen,2B,2023,2024, 77.0, 0.57
+137,1B,2B,Stolen Base 2B,642731,Thairo Estrada,623167,Chris Flexen,592626,Joc Pederson,R,Austin Wynns,642851,0,2,6,True,2023-09-17,Stolen,2B,2023,2024, 77.0, 0.57
+138,1B,,Caught Stealing 2B,663538,Nico Hoerner,621389,Ty Blach,673548,Seiya Suzuki,L,Austin Wynns,642851,0,1,1,True,2023-09-13,Caught,2B,2023,2024, 77.0, 0.57
+139,1B,2B,Stolen Base 2B,663538,Nico Hoerner,621389,Ty Blach,641355,Cody Bellinger,L,Austin Wynns,642851,0,3,4,True,2023-09-13,Stolen,2B,2023,2024, 77.0, 0.57
+140,1B,,Caught Stealing 2B,678545,Osleivis Basabe,663567,Peter Lambert,666018,Jonathan Aranda,R,Austin Wynns,642851,2,0,4,False,2023-08-24,Caught,2B,2023,2024, 77.0, 0.57
+141,2B,3B,Stolen Base 3B,643217,Andrew Benintendi,623167,Chris Flexen,660162,Yoán Moncada,R,Austin Wynns,642851,0,2,3,True,2023-08-20,Stolen,3B,2023,2024, 77.0, 0.57
+142,1B,2B,Stolen Base 2B,682998,Corbin Carroll,641755,Tyler Kinley,671083,Buddy Kennedy,R,Austin Wynns,642851,7,8,8,True,2023-08-16,Stolen,2B,2023,2024, 77.0, 0.57
+143,2B,,Caught Stealing 3B,682998,Corbin Carroll,641755,Tyler Kinley,671083,Buddy Kennedy,R,Austin Wynns,642851,7,8,8,True,2023-08-16,Caught,3B,2023,2024, 77.0, 0.57
+144,1B,2B,Stolen Base 2B,621035,Chris Taylor,677865,Justin Bruihl,681546,James Outman,L,Austin Wynns,642851,7,3,8,False,2023-08-13,Stolen,2B,2023,2024, 77.0, 0.57
+145,2B,3B,Stolen Base 3B,621035,Chris Taylor,677865,Justin Bruihl,500743,Miguel Rojas,L,Austin Wynns,642851,8,3,8,False,2023-08-13,Stolen,3B,2023,2024, 77.0, 0.57
+146,1B,2B,Stolen Base 2B,669242,Tommy Edman,596295,Austin Gomber,502671,Paul Goldschmidt,L,Austin Wynns,642851,0,0,1,False,2023-08-06,Stolen,2B,2023,2024, 77.0, 0.57
+147,1B,2B,Stolen Base 2B,593428,Xander Bogaerts,607536,Kyle Freeland,630105,Jake Cronenworth,L,Austin Wynns,642851,0,1,2,True,2023-08-02,Stolen,2B,2023,2024, 77.0, 0.57
+148,1B,,Caught Stealing 2B,643393,Tony Kemp,453268,Daniel Bard,664913,Seth Brown,R,Austin Wynns,642851,2,0,8,True,2023-07-30,Caught,2B,2023,2024, 77.0, 0.57
+149,1B,2B,Stolen Base 2B,542932,Jon Berti,656234,Jake Bird,650333,Luis Arraez,R,Austin Wynns,642851,3,3,7,False,2023-07-22,Stolen,2B,2023,2024, 77.0, 0.57
+150,1B,2B,Stolen Base 2B,656716,Zach McKinstry,663567,Peter Lambert,679529,Spencer Torkelson,R,Austin Wynns,642851,0,0,3,True,2023-07-01,Stolen,2B,2023,2024, 77.0, 0.57
+151,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,659275,Dinelson Lamet,592518,Manny Machado,R,Austin Wynns,642851,0,0,1,True,2023-06-11,Stolen,2B,2023,2024, 77.0, 0.57
+152,1B,2B,Stolen Base 2B,664983,Jake McCarthy,659275,Dinelson Lamet,672695,Geraldo Perdomo,R,Austin Wynns,642851,3,0,2,False,2023-05-31,Stolen,2B,2023,2024, 77.0, 0.57
+153,1B,2B,Stolen Base 2B,606466,Ketel Marte,663567,Peter Lambert,682998,Corbin Carroll,R,Austin Wynns,642851,6,0,6,False,2023-05-31,Stolen,2B,2023,2024, 77.0, 0.57
+154,1B,2B,Stolen Base 2B,502054,Tommy Pham,596295,Austin Gomber,592192,Mark Canha,L,Austin Wynns,642851,0,0,2,True,2023-05-28,Stolen,2B,2023,2024, 77.0, 0.57
+155,2B,3B,Stolen Base 3B,502054,Tommy Pham,596295,Austin Gomber,592192,Mark Canha,L,Austin Wynns,642851,2,2,4,True,2023-05-28,Stolen,3B,2023,2024, 77.0, 0.57
+156,1B,,Caught Stealing 2B,669222,Nick Senzel,453268,Daniel Bard,592656,Henry Ramos,R,Austin Wynns,642851,6,6,7,True,2023-05-15,Caught,2B,2023,2024, 77.0, 0.57
+157,2B,3B,Stolen Base 3B,592656,Henry Ramos,543272,Brad Hand,571976,Wil Myers,L,Austin Wynns,642851,8,7,8,True,2023-05-15,Stolen,3B,2023,2024, 77.0, 0.57
+158,1B,,Caught Stealing 2B,656582,Connor Joe,622608,Antonio Senzatela,672779,Tucupita Marcano,R,Austin Wynns,642851,1,0,2,False,2023-05-10,Caught,2B,2023,2024, 77.0, 0.57
+159,1B,,Caught Stealing 2B,656582,Connor Joe,663567,Peter Lambert,572008,Chris Owings,R,Austin Wynns,642851,3,3,4,False,2023-05-10,Caught,2B,2023,2024, 77.0, 0.57
+160,2B,3B,Stolen Base 3B,467793,Carlos Santana,641360,Phil Bickford,666801,Rodolfo Castro,R,Austin Wynns,642851,0,0,4,False,2023-04-26,Stolen,3B,2023,2024, 77.0, 0.57
+161,1B,2B,Stolen Base 2B,669261,Jack Suwinski,641360,Phil Bickford,666801,Rodolfo Castro,R,Austin Wynns,642851,0,0,4,False,2023-04-26,Stolen,2B,2023,2024, 77.0, 0.57
+162,1B,2B,Stolen Base 2B,678225,Ji Hwan Bae,641360,Phil Bickford,641511,Jason Delay,R,Austin Wynns,642851,0,0,5,False,2023-04-26,Stolen,2B,2023,2024, 77.0, 0.57
+163,2B,3B,Stolen Base 3B,678225,Ji Hwan Bae,622075,Yency Almonte,663647,Ke'Bryan Hayes,R,Austin Wynns,642851,3,0,6,False,2023-04-26,Stolen,3B,2023,2024, 77.0, 0.57
+164,2B,3B,Stolen Base 3B,666801,Rodolfo Castro,681911,Alex Vesia,641511,Jason Delay,L,Austin Wynns,642851,8,0,7,False,2023-04-26,Stolen,3B,2023,2024, 77.0, 0.57
+165,1B,2B,Stolen Base 2B,678225,Ji Hwan Bae,681911,Alex Vesia,641511,Jason Delay,L,Austin Wynns,642851,8,0,7,False,2023-04-26,Stolen,2B,2023,2024, 77.0, 0.57
+166,1B,,Caught Stealing 2B,663538,Nico Hoerner,596082,Jake Reed,664023,Ian Happ,R,Austin Wynns,642851,5,0,4,False,2023-04-21,Caught,2B,2023,2024, 77.0, 0.57
+167,2B,3B,Stolen Base 3B,592192,Mark Canha,571946,Shelby Miller,596019,Francisco Lindor,R,Austin Wynns,642851,2,5,9,True,2023-04-19,Stolen,3B,2023,2024, 77.0, 0.57
+168,1B,,Caught Stealing 2B,516782,Starling Marte,669160,Dustin May,596019,Francisco Lindor,R,Austin Wynns,642851,3,5,5,True,2023-04-17,Caught,2B,2023,2024, 77.0, 0.57
+169,2B,3B,Stolen Base 3B,642715,Willy Adames,607074,Carlos Rodón,605170,Victor Caratini,L,Austin Wynns,642851,0,0,1,True,2022-07-14,Stolen,3B,2022,2023, 78.5, 0.57
+170,1B,2B,Stolen Base 2B,592669,Hunter Renfroe,607074,Carlos Rodón,605170,Victor Caratini,L,Austin Wynns,642851,0,0,1,True,2022-07-14,Stolen,2B,2022,2023, 78.5, 0.57
+171,1B,,Caught Stealing 2B,606466,Ketel Marte,605154,John Brebbia,664983,Jake McCarthy,R,Austin Wynns,642851,0,0,1,True,2022-07-13,Caught,2B,2022,2023, 78.5, 0.57
+172,1B,2B,Stolen Base 2B,663757,Trent Grisham,657277,Logan Webb,682928,CJ Abrams,R,Austin Wynns,642851,0,0,3,False,2022-07-07,Stolen,2B,2022,2023, 78.5, 0.57
+173,1B,2B,Stolen Base 2B,669222,Nick Senzel,657277,Logan Webb,605244,Aramis Garcia,R,Austin Wynns,642851,0,1,2,True,2022-06-25,Stolen,2B,2022,2023, 78.5, 0.57
+174,1B,2B,Stolen Base 2B,661388,William Contreras,643511,Tyler Rogers,606115,Orlando Arcia,R,Austin Wynns,642851,3,3,9,False,2022-06-22,Stolen,2B,2022,2023, 78.5, 0.57
+175,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,657277,Logan Webb,670032,Nicky Lopez,R,Austin Wynns,642851,0,0,6,True,2022-06-14,Stolen,2B,2022,2023, 78.5, 0.57

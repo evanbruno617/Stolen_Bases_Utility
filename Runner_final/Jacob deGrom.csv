@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1725,1B,2B,Stolen Base 2B,594798,Jacob deGrom,506433,Yu Darvish,452678,Asdrúbal Cabrera,R,Yasmani Grandal,518735,0,2,3,False,2017-08-04,Stolen,2B,2017,2018,27.3
+1,1097,1B,2B,Stolen Base 2B,594798,Jacob deGrom,506433,Yu Darvish,452678,Asdrúbal Cabrera,R,Yasmani Grandal,518735,0,2,3,False,2017-08-04,Stolen,2B,2017,2018,27.3

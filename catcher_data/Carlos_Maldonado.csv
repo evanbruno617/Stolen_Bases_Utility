@@ -1,0 +1,8 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,435401,Skip Schumaker,Carlos Maldonado,0,1,3,True,2007-09-30,Stolen,2B,2007
+1B,2B,Stolen Base 2B,429663,Chris Burke,Carlos Maldonado,1,0,1,False,2007-09-16,Stolen,2B,2007
+1B,2B,Stolen Base 2B,434670,Hanley Ramirez,Carlos Maldonado,0,0,4,False,2012-05-29,Stolen,2B,2012
+1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,Carlos Maldonado,3,1,8,False,2012-05-29,Stolen,2B,2012
+1B,,Caught Stealing 2B,433898,Jeff Keppinger,Carlos Maldonado,1,1,1,False,2010-05-31,Caught,2B,2010
+2B,3B,Caught Stealing 2B,456422,Michael Bourn,Carlos Maldonado,1,1,1,False,2010-05-31,Caught,2B,2010
+1B,,Caught Stealing 2B,408108,Freddy Sanchez,Carlos Maldonado,5,4,7,False,2010-05-27,Caught,2B,2010

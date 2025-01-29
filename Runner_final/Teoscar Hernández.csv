@@ -1,0 +1,109 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,85,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,643338,Chad Green,545341,Randal Grichuk,R,Gary Sánchez,596142,4,0,7,False,2020-09-24,Stolen,2B,2020,2021,28.5
+1,588,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,491624,César Valdez,605233,Derek Fisher,R,Chance Sisco,642082,5,0,5,False,2020-08-29,Stolen,2B,2020,2021,28.5
+2,721,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,664126,Pete Fairbanks,643376,Danny Jansen,R,Michael Pérez,605421,3,2,6,True,2020-08-23,Stolen,2B,2020,2021,28.5
+3,722,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,664126,Pete Fairbanks,643376,Danny Jansen,R,Michael Pérez,605421,3,2,6,True,2020-08-23,Stolen,3B,2020,2021,28.5
+4,1137,1B,,Caught Stealing 2B,606192,Teoscar Hernández,607200,Erick Fedde,605233,Derek Fisher,R,Kurt Suzuki,435559,1,0,2,False,2020-07-30,Caught,2B,2020,2021,28.5
+5,1171,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,501789,Will Harris,665489,Vladimir Guerrero Jr.,R,Yan Gomes,543228,1,3,8,True,2020-07-28,Stolen,3B,2020,2021,28.5
+6,1197,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,552640,Andrew Kittredge,592273,Brandon Drury,R,Kevan Smith,607345,1,4,7,True,2020-07-26,Stolen,3B,2020,2021,28.5
+7,2928,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,643338,Chad Green,545341,Randal Grichuk,R,Gary Sánchez,596142,4,0,7,False,2020-09-24,Stolen,2B,2020,2021,28.5
+8,3431,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,491624,César Valdez,605233,Derek Fisher,R,Chance Sisco,642082,5,0,5,False,2020-08-29,Stolen,2B,2020,2021,28.5
+9,3564,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,664126,Pete Fairbanks,643376,Danny Jansen,R,Michael Pérez,605421,3,2,6,True,2020-08-23,Stolen,2B,2020,2021,28.5
+10,3565,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,664126,Pete Fairbanks,643376,Danny Jansen,R,Michael Pérez,605421,3,2,6,True,2020-08-23,Stolen,3B,2020,2021,28.5
+11,3980,1B,,Caught Stealing 2B,606192,Teoscar Hernández,607200,Erick Fedde,605233,Derek Fisher,R,Kurt Suzuki,435559,1,0,2,False,2020-07-30,Caught,2B,2020,2021,28.5
+12,4014,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,501789,Will Harris,665489,Vladimir Guerrero Jr.,R,Yan Gomes,543228,1,3,8,True,2020-07-28,Stolen,3B,2020,2021,28.5
+13,4040,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,552640,Andrew Kittredge,592273,Brandon Drury,R,Kevan Smith,607345,1,4,7,True,2020-07-26,Stolen,3B,2020,2021,28.5
+14,4852,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,643338,Chad Green,545341,Randal Grichuk,R,Gary Sánchez,596142,4,0,7,False,2020-09-24,Stolen,2B,2020,2021,28.5
+15,5355,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,491624,César Valdez,605233,Derek Fisher,R,Chance Sisco,642082,5,0,5,False,2020-08-29,Stolen,2B,2020,2021,28.5
+16,5488,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,664126,Pete Fairbanks,643376,Danny Jansen,R,Michael Pérez,605421,3,2,6,True,2020-08-23,Stolen,2B,2020,2021,28.5
+17,5489,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,664126,Pete Fairbanks,643376,Danny Jansen,R,Michael Pérez,605421,3,2,6,True,2020-08-23,Stolen,3B,2020,2021,28.5
+18,5904,1B,,Caught Stealing 2B,606192,Teoscar Hernández,607200,Erick Fedde,605233,Derek Fisher,R,Kurt Suzuki,435559,1,0,2,False,2020-07-30,Caught,2B,2020,2021,28.5
+19,5938,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,501789,Will Harris,665489,Vladimir Guerrero Jr.,R,Yan Gomes,543228,1,3,8,True,2020-07-28,Stolen,3B,2020,2021,28.5
+20,5964,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,552640,Andrew Kittredge,592273,Brandon Drury,R,Kevan Smith,607345,1,4,7,True,2020-07-26,Stolen,3B,2020,2021,28.5
+21,1268,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,605483,Blake Snell,475253,Justin Smoak,L,Mike Zunino,572287,2,0,1,False,2019-09-29,Stolen,3B,2019,2020,28.2
+22,1322,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,607192,Tyler Glasnow,620446,Richard Urena,R,Mike Zunino,572287,0,0,2,False,2019-09-27,Stolen,2B,2019,2020,28.2
+23,1872,1B,,Caught Stealing 2B,606192,Teoscar Hernández,433587,Félix Hernández,641856,Billy McKinney,R,Omar Narváez,553882,2,2,4,True,2019-08-24,Caught,2B,2019,2020,28.2
+24,2936,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,664285,Framber Valdez,520471,Freddy Galvis,L,Garrett Stubbs,596117,0,0,2,True,2019-06-15,Stolen,2B,2019,2020,28.2
+25,3117,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,493603,Adam Ottavino,624415,Cavan Biggio,R,Gary Sánchez,596142,4,7,6,False,2019-06-05,Stolen,2B,2019,2020,28.2
+26,3755,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,571666,Mike Fiers,592273,Brandon Drury,R,Josh Phegley,572033,2,0,7,False,2019-04-26,Stolen,2B,2019,2020,28.2
+27,4072,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,519443,Brandon Workman,592273,Brandon Drury,R,Christian Vázquez,543877,4,5,7,True,2019-04-09,Stolen,2B,2019,2020,28.2
+28,4111,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,605483,Blake Snell,475253,Justin Smoak,L,Mike Zunino,572287,2,0,1,False,2019-09-29,Stolen,3B,2019,2020,28.2
+29,4165,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,607192,Tyler Glasnow,620446,Richard Urena,R,Mike Zunino,572287,0,0,2,False,2019-09-27,Stolen,2B,2019,2020,28.2
+30,4715,1B,,Caught Stealing 2B,606192,Teoscar Hernández,433587,Félix Hernández,641856,Billy McKinney,R,Omar Narváez,553882,2,2,4,True,2019-08-24,Caught,2B,2019,2020,28.2
+31,5779,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,664285,Framber Valdez,520471,Freddy Galvis,L,Garrett Stubbs,596117,0,0,2,True,2019-06-15,Stolen,2B,2019,2020,28.2
+32,5960,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,493603,Adam Ottavino,624415,Cavan Biggio,R,Gary Sánchez,596142,4,7,6,False,2019-06-05,Stolen,2B,2019,2020,28.2
+33,6598,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,571666,Mike Fiers,592273,Brandon Drury,R,Josh Phegley,572033,2,0,7,False,2019-04-26,Stolen,2B,2019,2020,28.2
+34,6915,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,519443,Brandon Workman,592273,Brandon Drury,R,Christian Vázquez,543877,4,5,7,True,2019-04-09,Stolen,2B,2019,2020,28.2
+35,6035,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,605483,Blake Snell,475253,Justin Smoak,L,Mike Zunino,572287,2,0,1,False,2019-09-29,Stolen,3B,2019,2020,28.2
+36,6089,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,607192,Tyler Glasnow,620446,Richard Urena,R,Mike Zunino,572287,0,0,2,False,2019-09-27,Stolen,2B,2019,2020,28.2
+37,6639,1B,,Caught Stealing 2B,606192,Teoscar Hernández,433587,Félix Hernández,641856,Billy McKinney,R,Omar Narváez,553882,2,2,4,True,2019-08-24,Caught,2B,2019,2020,28.2
+38,7703,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,664285,Framber Valdez,520471,Freddy Galvis,L,Garrett Stubbs,596117,0,0,2,True,2019-06-15,Stolen,2B,2019,2020,28.2
+39,7884,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,493603,Adam Ottavino,624415,Cavan Biggio,R,Gary Sánchez,596142,4,7,6,False,2019-06-05,Stolen,2B,2019,2020,28.2
+40,8522,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,571666,Mike Fiers,592273,Brandon Drury,R,Josh Phegley,572033,2,0,7,False,2019-04-26,Stolen,2B,2019,2020,28.2
+41,8839,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,519443,Brandon Workman,592273,Brandon Drury,R,Christian Vázquez,543877,4,5,7,True,2019-04-09,Stolen,2B,2019,2020,28.2
+42,351,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,547973,Aroldis Chapman,502481,Jarrod Dyson,L,Gary Sánchez,596142,3,6,9,True,2021-09-08,Stolen,2B,2021,2022,28.6
+43,379,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,592791,Jameson Taillon,572816,Corey Dickerson,R,Gary Sánchez,596142,0,2,7,True,2021-09-06,Stolen,2B,2021,2022,28.6
+44,603,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,521230,Liam Hendriks,572816,Corey Dickerson,R,Zack Collins,641470,1,5,9,False,2021-08-24,Stolen,2B,2021,2022,28.6
+45,726,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,501925,Joe Smith,572816,Corey Dickerson,R,Cal Raleigh,663728,1,6,5,True,2021-08-15,Stolen,3B,2021,2022,28.6
+46,736,1B,,Caught Stealing 2B,606192,Teoscar Hernández,579328,Yusei Kikuchi,545341,Randal Grichuk,L,Tom Murphy,608596,2,2,3,True,2021-08-14,Caught,2B,2021,2022,28.6
+47,1181,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,663465,Kolby Allard,545341,Randal Grichuk,L,John Hicks,543308,4,0,6,False,2021-07-18,Stolen,2B,2021,2022,28.6
+48,1264,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,605538,Matt Wisler,545341,Randal Grichuk,R,Mike Zunino,572287,4,2,6,True,2021-07-10,Stolen,2B,2021,2022,28.6
+49,1348,1B,,Caught Stealing 2B,606192,Teoscar Hernández,642232,Ryan Yarbrough,624415,Cavan Biggio,L,Mike Zunino,572287,0,0,2,False,2021-07-04,Caught,2B,2021,2022,28.6
+50,1445,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,606160,Rafael Montero,543807,George Springer,R,Tom Murphy,608596,6,3,6,False,2021-06-29,Stolen,2B,2021,2022,28.6
+51,1813,1B,,Caught Stealing 2B,606192,Teoscar Hernández,425844,Zack Greinke,605412,Joe Panik,R,Martín Maldonado,455117,0,0,2,False,2021-06-04,Caught,2B,2021,2022,28.6
+52,1941,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,656756,Jordan Montgomery,666971,Lourdes Gurriel Jr.,L,Gary Sánchez,596142,3,3,4,True,2021-05-27,Stolen,2B,2021,2022,28.6
+53,1962,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,656756,Jordan Montgomery,666971,Lourdes Gurriel Jr.,L,Gary Sánchez,596142,3,3,4,True,2021-05-26,Stolen,2B,2021,2022,28.6
+54,2016,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,657044,Ryan Thompson,545341,Randal Grichuk,R,Mike Zunino,572287,5,5,8,False,2021-05-24,Stolen,2B,2021,2022,28.6
+55,2145,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,605400,Aaron Nola,545341,Randal Grichuk,R,Andrew Knapp,595284,1,0,1,False,2021-05-15,Stolen,2B,2021,2022,28.6
+56,2278,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,500610,Deolis Guerra,545341,Randal Grichuk,R,Sean Murphy,669221,4,5,4,True,2021-05-06,Stolen,2B,2021,2022,28.6
+57,2275,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,547973,Aroldis Chapman,502481,Jarrod Dyson,L,Gary Sánchez,596142,3,6,9,True,2021-09-08,Stolen,2B,2021,2022,28.6
+58,2303,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,592791,Jameson Taillon,572816,Corey Dickerson,R,Gary Sánchez,596142,0,2,7,True,2021-09-06,Stolen,2B,2021,2022,28.6
+59,2527,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,521230,Liam Hendriks,572816,Corey Dickerson,R,Zack Collins,641470,1,5,9,False,2021-08-24,Stolen,2B,2021,2022,28.6
+60,2650,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,501925,Joe Smith,572816,Corey Dickerson,R,Cal Raleigh,663728,1,6,5,True,2021-08-15,Stolen,3B,2021,2022,28.6
+61,2660,1B,,Caught Stealing 2B,606192,Teoscar Hernández,579328,Yusei Kikuchi,545341,Randal Grichuk,L,Tom Murphy,608596,2,2,3,True,2021-08-14,Caught,2B,2021,2022,28.6
+62,3105,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,663465,Kolby Allard,545341,Randal Grichuk,L,John Hicks,543308,4,0,6,False,2021-07-18,Stolen,2B,2021,2022,28.6
+63,3188,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,605538,Matt Wisler,545341,Randal Grichuk,R,Mike Zunino,572287,4,2,6,True,2021-07-10,Stolen,2B,2021,2022,28.6
+64,3272,1B,,Caught Stealing 2B,606192,Teoscar Hernández,642232,Ryan Yarbrough,624415,Cavan Biggio,L,Mike Zunino,572287,0,0,2,False,2021-07-04,Caught,2B,2021,2022,28.6
+65,3369,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,606160,Rafael Montero,543807,George Springer,R,Tom Murphy,608596,6,3,6,False,2021-06-29,Stolen,2B,2021,2022,28.6
+66,3737,1B,,Caught Stealing 2B,606192,Teoscar Hernández,425844,Zack Greinke,605412,Joe Panik,R,Martín Maldonado,455117,0,0,2,False,2021-06-04,Caught,2B,2021,2022,28.6
+67,3865,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,656756,Jordan Montgomery,666971,Lourdes Gurriel Jr.,L,Gary Sánchez,596142,3,3,4,True,2021-05-27,Stolen,2B,2021,2022,28.6
+68,3886,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,656756,Jordan Montgomery,666971,Lourdes Gurriel Jr.,L,Gary Sánchez,596142,3,3,4,True,2021-05-26,Stolen,2B,2021,2022,28.6
+69,3940,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,657044,Ryan Thompson,545341,Randal Grichuk,R,Mike Zunino,572287,5,5,8,False,2021-05-24,Stolen,2B,2021,2022,28.6
+70,4069,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,605400,Aaron Nola,545341,Randal Grichuk,R,Andrew Knapp,595284,1,0,1,False,2021-05-15,Stolen,2B,2021,2022,28.6
+71,4202,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,500610,Deolis Guerra,545341,Randal Grichuk,R,Sean Murphy,669221,4,5,4,True,2021-05-06,Stolen,2B,2021,2022,28.6
+72,279,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,621112,Paul Blackburn,553993,Eugenio Suárez,R,Shea Langeliers,669127,0,1,4,True,2023-09-19,Stolen,2B,2023,2024,28.6
+73,970,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,666619,Gregory Santos,645801,Mike Ford,R,Carlos Pérez,656024,3,1,8,True,2023-08-23,Stolen,2B,2023,2024,28.6
+74,1892,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,664285,Framber Valdez,676609,José Caballero,L,Martín Maldonado,455117,2,2,4,True,2023-07-08,Stolen,3B,2023,2024,28.6
+75,2389,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,607481,Aaron Bummer,663728,Cal Raleigh,L,Seby Zavala,664874,3,3,10,False,2023-06-17,Stolen,2B,2023,2024,28.6
+76,2877,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,672710,Roansy Contreras,608596,Tom Murphy,R,Jason Delay,641511,3,1,6,False,2023-05-28,Stolen,2B,2023,2024,28.6
+77,3206,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,669438,Mason Englert,676609,José Caballero,R,Jake Rogers,668670,2,3,5,True,2023-05-14,Stolen,2B,2023,2024,28.6
+78,4062,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,668676,Zach Plesac,672284,Jarred Kelenic,R,Cam Gallagher,595956,1,2,6,True,2023-04-09,Stolen,2B,2023,2024,28.6
+79,4234,1B,,Caught Stealing 2B,606192,Teoscar Hernández,650644,Aaron Civale,600303,Tommy La Stella,R,Cam Gallagher,595956,0,0,2,False,2023-04-01,Caught,2B,2023,2024,28.6
+80,4693,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,621112,Paul Blackburn,553993,Eugenio Suárez,R,Shea Langeliers,669127,0,1,4,True,2023-09-19,Stolen,2B,2023,2024,28.6
+81,5384,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,666619,Gregory Santos,645801,Mike Ford,R,Carlos Pérez,656024,3,1,8,True,2023-08-23,Stolen,2B,2023,2024,28.6
+82,6306,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,664285,Framber Valdez,676609,José Caballero,L,Martín Maldonado,455117,2,2,4,True,2023-07-08,Stolen,3B,2023,2024,28.6
+83,6803,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,607481,Aaron Bummer,663728,Cal Raleigh,L,Seby Zavala,664874,3,3,10,False,2023-06-17,Stolen,2B,2023,2024,28.6
+84,7291,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,672710,Roansy Contreras,608596,Tom Murphy,R,Jason Delay,641511,3,1,6,False,2023-05-28,Stolen,2B,2023,2024,28.6
+85,7620,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,669438,Mason Englert,676609,José Caballero,R,Jake Rogers,668670,2,3,5,True,2023-05-14,Stolen,2B,2023,2024,28.6
+86,8476,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,668676,Zach Plesac,672284,Jarred Kelenic,R,Cam Gallagher,595956,1,2,6,True,2023-04-09,Stolen,2B,2023,2024,28.6
+87,8648,1B,,Caught Stealing 2B,606192,Teoscar Hernández,650644,Aaron Civale,600303,Tommy La Stella,R,Cam Gallagher,595956,0,0,2,False,2023-04-01,Caught,2B,2023,2024,28.6
+88,132,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,669923,George Kirby,666971,Lourdes Gurriel Jr.,R,Andrew Knapp,595284,0,1,2,True,2022-07-08,Stolen,2B,2022,2023,28.6
+89,133,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,682171,Penn Murfee,656305,Matt Chapman,R,Andrew Knapp,595284,2,2,5,True,2022-07-08,Stolen,3B,2022,2023,28.6
+90,563,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,622253,Dillon Tate,656305,Matt Chapman,R,Adley Rutschman,668939,6,6,8,False,2022-06-15,Stolen,2B,2022,2023,28.6
+91,629,1B,,Caught Stealing 2B,606192,Teoscar Hernández,669373,Tarik Skubal,669289,Santiago Espinal,L,Tucker Barnhart,571466,0,0,2,True,2022-06-12,Caught,2B,2022,2023,28.6
+92,798,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,666974,Yennier Cano,672386,Alejandro Kirk,R,Ryan Jeffers,680777,8,2,6,False,2022-06-04,Stolen,2B,2022,2023,28.6
+93,1047,1B,,Caught Stealing 2B,606192,Teoscar Hernández,656546,Jeff Hoffman,672386,Alejandro Kirk,R,Tyler Stephenson,663886,3,1,8,False,2022-05-21,Caught,2B,2022,2023,28.6
+94,1235,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,592791,Jameson Taillon,666971,Lourdes Gurriel Jr.,R,Jose Trevino,624431,0,1,1,True,2022-05-11,Stolen,2B,2022,2023,28.6
+95,20,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,502083,Zach McAllister,607680,Kevin Pillar,R,Yan Gomes,543228,7,9,8,True,2018-05-03,Stolen,3B,2018,2019,29.1
+96,36,1B,,Caught Stealing 2B,606192,Teoscar Hernández,592665,Addison Reed,607680,Kevin Pillar,R,Jason Castro,488771,2,0,8,True,2018-05-02,Caught,2B,2018,2019,29.1
+97,50,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,407845,Fernando Rodney,475253,Justin Smoak,R,Mitch Garver,641598,4,4,9,True,2018-05-01,Stolen,2B,2018,2019,29.1
+98,372,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,502083,Zach McAllister,607680,Kevin Pillar,R,Yan Gomes,543228,7,9,8,True,2018-04-14,Stolen,3B,2018,2019,29.1
+99,397,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,453192,Andrew Miller,475253,Justin Smoak,L,Yan Gomes,543228,4,5,7,True,2018-04-13,Stolen,3B,2018,2019,29.1
+100,1029,1B,,Caught Stealing 2B,606192,Teoscar Hernández,518445,Chad Bell,572365,Ryan Goins,L,James McCann,543510,2,2,4,False,2017-09-09,Caught,2B,2017,2018,28.6
+101,401,1B,,Caught Stealing 2B,606192,Teoscar Hernández,518445,Chad Bell,572365,Ryan Goins,L,James McCann,543510,2,2,4,False,2017-09-09,Caught,2B,2017,2018,28.6
+102,4544,1B,,Caught Stealing 2B,606192,Teoscar Hernández,458708,Josh Tomlin,545350,Jake Marisnick,R,Roberto Pérez,547379,2,6,9,True,2016-09-05,Caught,2B,2016,2017,28.5
+103,4826,1B,,Caught Stealing 2B,606192,Teoscar Hernández,592170,Parker Bridwell,608324,Alex Bregman,R,Francisco Peña,506747,2,5,9,True,2016-08-21,Caught,2B,2016,2017,28.5
+104,509,1B,,Caught Stealing 2B,606192,Teoscar Hernández,458708,Josh Tomlin,545350,Jake Marisnick,R,Roberto Pérez,547379,2,6,9,True,2016-09-05,Caught,2B,2016,2017,28.5
+105,791,1B,,Caught Stealing 2B,606192,Teoscar Hernández,592170,Parker Bridwell,608324,Alex Bregman,R,Francisco Peña,506747,2,5,9,True,2016-08-21,Caught,2B,2016,2017,28.5
+106,3916,1B,,Caught Stealing 2B,606192,Teoscar Hernández,458708,Josh Tomlin,545350,Jake Marisnick,R,Roberto Pérez,547379,2,6,9,True,2016-09-05,Caught,2B,2016,2017,28.5
+107,4198,1B,,Caught Stealing 2B,606192,Teoscar Hernández,592170,Parker Bridwell,608324,Alex Bregman,R,Francisco Peña,506747,2,5,9,True,2016-08-21,Caught,2B,2016,2017,28.5

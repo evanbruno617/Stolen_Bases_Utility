@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+306,1B,2B,Stolen Base 2B,571681,Rey Fuentes,Brian McCann,2,1,9,True,2013-09-14,Stolen,2B,2013
+532,1B,2B,Stolen Base 2B,571681,Rey Fuentes,Héctor Sánchez,3,8,6,False,2013-09-04,Stolen,2B,2013
+593,2B,3B,Stolen Base 3B,571681,Rey Fuentes,A.J. Ellis,0,0,3,True,2013-09-01,Stolen,3B,2013
+1318,1B,,Caught Stealing 2B,571681,Rey Fuentes,Yan Gomes,0,0,2,True,2016-06-02,Caught,2B,2016
+2381,1B,,Caught Stealing 2B,571681,Rey Fuentes,Kurt Suzuki,2,1,2,False,2016-04-08,Caught,2B,2016
+7,1B,2B,Stolen Base 2B,571681,Rey Fuentes,Cam Gallagher,1,1,5,True,2017-09-30,Stolen,2B,2017
+720,1B,2B,Stolen Base 2B,571681,Rey Fuentes,Kevin Plawecki,1,3,6,True,2017-08-24,Stolen,2B,2017
+1753,2B,3B,Stolen Base 3B,571681,Rey Fuentes,Andrew Knapp,6,1,5,False,2017-06-26,Stolen,3B,2017
+1905,1B,,Caught Stealing 2B,571681,Rey Fuentes,Cameron Rupp,4,3,8,True,2017-06-18,Caught,2B,2017
+2400,1B,2B,Stolen Base 2B,571681,Rey Fuentes,Kevan Smith,1,0,1,False,2017-05-23,Stolen,2B,2017

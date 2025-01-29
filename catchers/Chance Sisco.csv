@@ -1,0 +1,184 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,542340,Jonathan Villar,542888,Shawn Armstrong,641505,Jonathan Davis,R,Chance Sisco,642082,5,7,8,False,2020-09-27,Stolen,2B,2020,2021, 76.0, 0.77
+1,1B,2B,Stolen Base 2B,668227,Randy Arozarena,623465,Evan Phillips,663993,Nathaniel Lowe,R,Chance Sisco,642082,1,3,8,True,2020-09-19,Stolen,2B,2020,2021, 76.0, 0.77
+2,1B,2B,Stolen Base 2B,621433,Brett Phillips,664042,Travis Lakins Sr.,605421,Michael Pérez,R,Chance Sisco,642082,1,3,9,True,2020-09-19,Stolen,2B,2020,2021, 76.0, 0.77
+3,1B,2B,Stolen Base 2B,670712,Mike Brosseau,642121,Cole Sulser,642715,Willy Adames,R,Chance Sisco,642082,6,6,5,False,2020-09-17,Stolen,2B,2020,2021, 76.0, 0.77
+4,1B,,Caught Stealing 2B,665926,Andrés Giménez,640451,Hunter Harvey,455139,Robinson Chirinos,R,Chance Sisco,642082,7,6,8,False,2020-09-09,Caught,2B,2020,2021, 76.0, 0.77
+5,1B,2B,Stolen Base 2B,642180,Tyler Wade,664045,Thomas Eshelman,518934,DJ LeMahieu,R,Chance Sisco,642082,1,1,3,True,2020-09-04,Stolen,2B,2020,2021, 76.0, 0.77
+6,1B,2B,Stolen Base 2B,641645,Luis Guillorme,592879,Asher Wojciechowski,665926,Andrés Giménez,R,Chance Sisco,642082,3,2,2,True,2020-09-01,Stolen,2B,2020,2021, 76.0, 0.77
+7,2B,3B,Stolen Base 3B,666971,Lourdes Gurriel Jr.,664042,Travis Lakins Sr.,596129,Daniel Vogelbach,R,Chance Sisco,642082,2,2,6,False,2020-08-31,Stolen,3B,2020,2021, 76.0, 0.77
+8,1B,,Caught Stealing 2B,605233,Derek Fisher,622253,Dillon Tate,543768,Travis Shaw,R,Chance Sisco,642082,2,2,9,False,2020-08-31,Caught,2B,2020,2021, 76.0, 0.77
+9,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,491624,César Valdez,605233,Derek Fisher,R,Chance Sisco,642082,5,0,5,False,2020-08-29,Stolen,2B,2020,2021, 76.0, 0.77
+10,1B,2B,Stolen Base 2B,670712,Mike Brosseau,642121,Cole Sulser,642715,Willy Adames,R,Chance Sisco,642082,6,6,5,False,2020-08-27,Stolen,2B,2020,2021, 76.0, 0.77
+11,1B,2B,Stolen Base 2B,622534,Manuel Margot,605347,Jorge López,605421,Michael Pérez,R,Chance Sisco,642082,4,2,8,False,2020-08-25,Stolen,2B,2020,2021, 76.0, 0.77
+12,1B,2B,Stolen Base 2B,665742,Juan Soto,543548,Tommy Milone,435062,Howie Kendrick,L,Chance Sisco,642082,1,4,3,True,2020-08-14,Stolen,2B,2020,2021, 76.0, 0.77
+13,1B,2B,Stolen Base 2B,596451,Roman Quinn,453281,Wade LeBlanc,457705,Andrew McCutchen,L,Chance Sisco,642082,1,0,2,False,2020-08-12,Stolen,2B,2020,2021, 76.0, 0.77
+14,1B,2B,Stolen Base 2B,547180,Bryce Harper,571710,Mychal Givens,592663,J.T. Realmuto,R,Chance Sisco,642082,3,5,7,False,2020-08-12,Stolen,2B,2020,2021, 76.0, 0.77
+15,1B,,Caught Stealing 2B,607208,Trea Turner,664045,Thomas Eshelman,665742,Juan Soto,R,Chance Sisco,642082,0,0,1,False,2020-08-08,Caught,2B,2020,2021, 76.0, 0.77
+16,1B,2B,Stolen Base 2B,656509,Monte Harrison,623465,Evan Phillips,542340,Jonathan Villar,R,Chance Sisco,642082,6,6,6,False,2020-08-06,Stolen,2B,2020,2021, 76.0, 0.77
+17,1B,2B,Stolen Base 2B,542340,Jonathan Villar,643316,Paul Fry,542932,Jon Berti,L,Chance Sisco,642082,8,6,8,False,2020-08-06,Stolen,2B,2020,2021, 76.0, 0.77
+18,1B,2B,Stolen Base 2B,656509,Monte Harrison,623465,Evan Phillips,542340,Jonathan Villar,R,Chance Sisco,642082,6,6,6,False,2020-07-28,Stolen,2B,2020,2021, 76.0, 0.77
+19,1B,2B,Stolen Base 2B,542340,Jonathan Villar,643316,Paul Fry,542932,Jon Berti,L,Chance Sisco,642082,8,6,8,False,2020-07-28,Stolen,2B,2020,2021, 76.0, 0.77
+20,1B,2B,Stolen Base 2B,542340,Jonathan Villar,542888,Shawn Armstrong,641505,Jonathan Davis,R,Chance Sisco,642082,5,7,8,False,2020-09-27,Stolen,2B,2020,2021, 76.0, 0.77
+21,1B,2B,Stolen Base 2B,668227,Randy Arozarena,623465,Evan Phillips,663993,Nathaniel Lowe,R,Chance Sisco,642082,1,3,8,True,2020-09-19,Stolen,2B,2020,2021, 76.0, 0.77
+22,1B,2B,Stolen Base 2B,621433,Brett Phillips,664042,Travis Lakins Sr.,605421,Michael Pérez,R,Chance Sisco,642082,1,3,9,True,2020-09-19,Stolen,2B,2020,2021, 76.0, 0.77
+23,1B,2B,Stolen Base 2B,670712,Mike Brosseau,642121,Cole Sulser,642715,Willy Adames,R,Chance Sisco,642082,6,6,5,False,2020-09-17,Stolen,2B,2020,2021, 76.0, 0.77
+24,1B,,Caught Stealing 2B,665926,Andrés Giménez,640451,Hunter Harvey,455139,Robinson Chirinos,R,Chance Sisco,642082,7,6,8,False,2020-09-09,Caught,2B,2020,2021, 76.0, 0.77
+25,1B,2B,Stolen Base 2B,642180,Tyler Wade,664045,Thomas Eshelman,518934,DJ LeMahieu,R,Chance Sisco,642082,1,1,3,True,2020-09-04,Stolen,2B,2020,2021, 76.0, 0.77
+26,1B,2B,Stolen Base 2B,641645,Luis Guillorme,592879,Asher Wojciechowski,665926,Andrés Giménez,R,Chance Sisco,642082,3,2,2,True,2020-09-01,Stolen,2B,2020,2021, 76.0, 0.77
+27,2B,3B,Stolen Base 3B,666971,Lourdes Gurriel Jr.,664042,Travis Lakins Sr.,596129,Daniel Vogelbach,R,Chance Sisco,642082,2,2,6,False,2020-08-31,Stolen,3B,2020,2021, 76.0, 0.77
+28,1B,,Caught Stealing 2B,605233,Derek Fisher,622253,Dillon Tate,543768,Travis Shaw,R,Chance Sisco,642082,2,2,9,False,2020-08-31,Caught,2B,2020,2021, 76.0, 0.77
+29,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,491624,César Valdez,605233,Derek Fisher,R,Chance Sisco,642082,5,0,5,False,2020-08-29,Stolen,2B,2020,2021, 76.0, 0.77
+30,1B,2B,Stolen Base 2B,670712,Mike Brosseau,642121,Cole Sulser,642715,Willy Adames,R,Chance Sisco,642082,6,6,5,False,2020-08-27,Stolen,2B,2020,2021, 76.0, 0.77
+31,1B,2B,Stolen Base 2B,622534,Manuel Margot,605347,Jorge López,605421,Michael Pérez,R,Chance Sisco,642082,4,2,8,False,2020-08-25,Stolen,2B,2020,2021, 76.0, 0.77
+32,1B,2B,Stolen Base 2B,665742,Juan Soto,543548,Tommy Milone,435062,Howie Kendrick,L,Chance Sisco,642082,1,4,3,True,2020-08-14,Stolen,2B,2020,2021, 76.0, 0.77
+33,1B,2B,Stolen Base 2B,596451,Roman Quinn,453281,Wade LeBlanc,457705,Andrew McCutchen,L,Chance Sisco,642082,1,0,2,False,2020-08-12,Stolen,2B,2020,2021, 76.0, 0.77
+34,1B,2B,Stolen Base 2B,547180,Bryce Harper,571710,Mychal Givens,592663,J.T. Realmuto,R,Chance Sisco,642082,3,5,7,False,2020-08-12,Stolen,2B,2020,2021, 76.0, 0.77
+35,1B,,Caught Stealing 2B,607208,Trea Turner,664045,Thomas Eshelman,665742,Juan Soto,R,Chance Sisco,642082,0,0,1,False,2020-08-08,Caught,2B,2020,2021, 76.0, 0.77
+36,1B,2B,Stolen Base 2B,656509,Monte Harrison,623465,Evan Phillips,542340,Jonathan Villar,R,Chance Sisco,642082,6,6,6,False,2020-08-06,Stolen,2B,2020,2021, 76.0, 0.77
+37,1B,2B,Stolen Base 2B,542340,Jonathan Villar,643316,Paul Fry,542932,Jon Berti,L,Chance Sisco,642082,8,6,8,False,2020-08-06,Stolen,2B,2020,2021, 76.0, 0.77
+38,1B,2B,Stolen Base 2B,656509,Monte Harrison,623465,Evan Phillips,542340,Jonathan Villar,R,Chance Sisco,642082,6,6,6,False,2020-07-28,Stolen,2B,2020,2021, 76.0, 0.77
+39,1B,2B,Stolen Base 2B,542340,Jonathan Villar,643316,Paul Fry,542932,Jon Berti,L,Chance Sisco,642082,8,6,8,False,2020-07-28,Stolen,2B,2020,2021, 76.0, 0.77
+40,1B,2B,Stolen Base 2B,542340,Jonathan Villar,542888,Shawn Armstrong,641505,Jonathan Davis,R,Chance Sisco,642082,5,7,8,False,2020-09-27,Stolen,2B,2020,2021, 76.0, 0.77
+41,1B,2B,Stolen Base 2B,668227,Randy Arozarena,623465,Evan Phillips,663993,Nathaniel Lowe,R,Chance Sisco,642082,1,3,8,True,2020-09-19,Stolen,2B,2020,2021, 76.0, 0.77
+42,1B,2B,Stolen Base 2B,621433,Brett Phillips,664042,Travis Lakins Sr.,605421,Michael Pérez,R,Chance Sisco,642082,1,3,9,True,2020-09-19,Stolen,2B,2020,2021, 76.0, 0.77
+43,1B,2B,Stolen Base 2B,670712,Mike Brosseau,642121,Cole Sulser,642715,Willy Adames,R,Chance Sisco,642082,6,6,5,False,2020-09-17,Stolen,2B,2020,2021, 76.0, 0.77
+44,1B,,Caught Stealing 2B,665926,Andrés Giménez,640451,Hunter Harvey,455139,Robinson Chirinos,R,Chance Sisco,642082,7,6,8,False,2020-09-09,Caught,2B,2020,2021, 76.0, 0.77
+45,1B,2B,Stolen Base 2B,642180,Tyler Wade,664045,Thomas Eshelman,518934,DJ LeMahieu,R,Chance Sisco,642082,1,1,3,True,2020-09-04,Stolen,2B,2020,2021, 76.0, 0.77
+46,1B,2B,Stolen Base 2B,641645,Luis Guillorme,592879,Asher Wojciechowski,665926,Andrés Giménez,R,Chance Sisco,642082,3,2,2,True,2020-09-01,Stolen,2B,2020,2021, 76.0, 0.77
+47,2B,3B,Stolen Base 3B,666971,Lourdes Gurriel Jr.,664042,Travis Lakins Sr.,596129,Daniel Vogelbach,R,Chance Sisco,642082,2,2,6,False,2020-08-31,Stolen,3B,2020,2021, 76.0, 0.77
+48,1B,,Caught Stealing 2B,605233,Derek Fisher,622253,Dillon Tate,543768,Travis Shaw,R,Chance Sisco,642082,2,2,9,False,2020-08-31,Caught,2B,2020,2021, 76.0, 0.77
+49,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,491624,César Valdez,605233,Derek Fisher,R,Chance Sisco,642082,5,0,5,False,2020-08-29,Stolen,2B,2020,2021, 76.0, 0.77
+50,1B,2B,Stolen Base 2B,670712,Mike Brosseau,642121,Cole Sulser,642715,Willy Adames,R,Chance Sisco,642082,6,6,5,False,2020-08-27,Stolen,2B,2020,2021, 76.0, 0.77
+51,1B,2B,Stolen Base 2B,622534,Manuel Margot,605347,Jorge López,605421,Michael Pérez,R,Chance Sisco,642082,4,2,8,False,2020-08-25,Stolen,2B,2020,2021, 76.0, 0.77
+52,1B,2B,Stolen Base 2B,665742,Juan Soto,543548,Tommy Milone,435062,Howie Kendrick,L,Chance Sisco,642082,1,4,3,True,2020-08-14,Stolen,2B,2020,2021, 76.0, 0.77
+53,1B,2B,Stolen Base 2B,596451,Roman Quinn,453281,Wade LeBlanc,457705,Andrew McCutchen,L,Chance Sisco,642082,1,0,2,False,2020-08-12,Stolen,2B,2020,2021, 76.0, 0.77
+54,1B,2B,Stolen Base 2B,547180,Bryce Harper,571710,Mychal Givens,592663,J.T. Realmuto,R,Chance Sisco,642082,3,5,7,False,2020-08-12,Stolen,2B,2020,2021, 76.0, 0.77
+55,1B,,Caught Stealing 2B,607208,Trea Turner,664045,Thomas Eshelman,665742,Juan Soto,R,Chance Sisco,642082,0,0,1,False,2020-08-08,Caught,2B,2020,2021, 76.0, 0.77
+56,1B,2B,Stolen Base 2B,656509,Monte Harrison,623465,Evan Phillips,542340,Jonathan Villar,R,Chance Sisco,642082,6,6,6,False,2020-08-06,Stolen,2B,2020,2021, 76.0, 0.77
+57,1B,2B,Stolen Base 2B,542340,Jonathan Villar,643316,Paul Fry,542932,Jon Berti,L,Chance Sisco,642082,8,6,8,False,2020-08-06,Stolen,2B,2020,2021, 76.0, 0.77
+58,1B,2B,Stolen Base 2B,656509,Monte Harrison,623465,Evan Phillips,542340,Jonathan Villar,R,Chance Sisco,642082,6,6,6,False,2020-07-28,Stolen,2B,2020,2021, 76.0, 0.77
+59,1B,2B,Stolen Base 2B,542340,Jonathan Villar,643316,Paul Fry,542932,Jon Berti,L,Chance Sisco,642082,8,6,8,False,2020-07-28,Stolen,2B,2020,2021, 76.0, 0.77
+60,1B,2B,Stolen Base 2B,546990,Anthony Alford,592280,Ryan Eades,624415,Cavan Biggio,R,Chance Sisco,642082,10,10,13,False,2019-09-23,Stolen,2B,2019,2020, 75.2, 0.87
+61,1B,2B,Stolen Base 2B,624415,Cavan Biggio,612434,Miguel Castro,665489,Vladimir Guerrero Jr.,R,Chance Sisco,642082,3,3,6,True,2019-09-17,Stolen,2B,2019,2020, 75.2, 0.87
+62,2B,3B,Stolen Base 3B,624415,Cavan Biggio,542888,Shawn Armstrong,666971,Lourdes Gurriel Jr.,R,Chance Sisco,642082,4,4,8,True,2019-09-17,Stolen,3B,2019,2020, 75.2, 0.87
+63,1B,,Caught Stealing 2B,543308,John Hicks,593679,Gabriel Ynoa,668670,Jake Rogers,R,Chance Sisco,642082,0,0,2,False,2019-09-14,Caught,2B,2019,2020, 75.2, 0.87
+64,1B,2B,Stolen Base 2B,622682,Victor Reyes,656945,Tanner Scott,605612,Harold Castro,L,Chance Sisco,642082,2,0,5,False,2019-09-14,Stolen,2B,2019,2020, 75.2, 0.87
+65,1B,2B,Stolen Base 2B,502054,Tommy Pham,542888,Shawn Armstrong,518595,Travis d'Arnaud,R,Chance Sisco,642082,2,3,6,False,2019-09-03,Stolen,2B,2019,2020, 75.2, 0.87
+66,1B,2B,Stolen Base 2B,621563,Joey Wendle,542888,Shawn Armstrong,572287,Mike Zunino,R,Chance Sisco,642082,2,3,7,False,2019-09-03,Stolen,2B,2019,2020, 75.2, 0.87
+67,1B,2B,Stolen Base 2B,640457,Austin Meadows,571710,Mychal Givens,502054,Tommy Pham,R,Chance Sisco,642082,2,3,8,False,2019-09-03,Stolen,2B,2019,2020, 75.2, 0.87
+68,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,605156,Aaron Brooks,624585,Jorge Soler,R,Chance Sisco,642082,0,1,1,False,2019-09-01,Stolen,2B,2019,2020, 75.2, 0.87
+69,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,605156,Aaron Brooks,624585,Jorge Soler,R,Chance Sisco,642082,3,1,2,False,2019-09-01,Stolen,2B,2019,2020, 75.2, 0.87
+70,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,612434,Miguel Castro,641531,Hunter Dozier,R,Chance Sisco,642082,3,4,7,False,2019-09-01,Stolen,2B,2019,2020, 75.2, 0.87
+71,1B,2B,Stolen Base 2B,621433,Brett Phillips,605164,Dylan Bundy,593160,Whit Merrifield,R,Chance Sisco,642082,1,0,2,False,2019-08-31,Stolen,2B,2019,2020, 75.2, 0.87
+72,1B,,Caught Stealing 2B,571976,Wil Myers,642231,Jimmy Yacabonis,649966,Luis Urías,R,Chance Sisco,642082,5,1,6,False,2019-07-29,Caught,2B,2019,2020, 75.2, 0.87
+73,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,605164,Dylan Bundy,572233,Christian Walker,R,Chance Sisco,642082,0,0,1,False,2019-07-23,Stolen,2B,2019,2020, 75.2, 0.87
+74,1B,2B,Stolen Base 2B,645302,Victor Robles,605156,Aaron Brooks,543228,Yan Gomes,R,Chance Sisco,642082,0,0,3,True,2019-07-17,Stolen,2B,2019,2020, 75.2, 0.87
+75,2B,3B,Stolen Base 3B,645302,Victor Robles,605156,Aaron Brooks,607208,Trea Turner,R,Chance Sisco,642082,0,0,3,True,2019-07-17,Stolen,3B,2019,2020, 75.2, 0.87
+76,1B,2B,Stolen Base 2B,543228,Yan Gomes,605156,Aaron Brooks,607208,Trea Turner,R,Chance Sisco,642082,0,0,3,True,2019-07-17,Stolen,2B,2019,2020, 75.2, 0.87
+77,1B,2B,Stolen Base 2B,607208,Trea Turner,592879,Asher Wojciechowski,543685,Anthony Rendon,R,Chance Sisco,642082,0,0,1,True,2019-07-16,Stolen,2B,2019,2020, 75.2, 0.87
+78,1B,2B,Stolen Base 2B,572821,Brian Dozier,542888,Shawn Armstrong,645302,Victor Robles,R,Chance Sisco,642082,1,4,6,True,2019-07-16,Stolen,2B,2019,2020, 75.2, 0.87
+79,1B,2B,Stolen Base 2B,594809,Adam Eaton,612434,Miguel Castro,543685,Anthony Rendon,R,Chance Sisco,642082,1,5,7,True,2019-07-16,Stolen,2B,2019,2020, 75.2, 0.87
+80,1B,2B,Stolen Base 2B,621563,Joey Wendle,605164,Dylan Bundy,518595,Travis d'Arnaud,R,Chance Sisco,642082,0,5,1,True,2019-07-12,Stolen,2B,2019,2020, 75.2, 0.87
+81,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,593679,Gabriel Ynoa,624415,Cavan Biggio,R,Chance Sisco,642082,6,1,7,False,2019-07-07,Stolen,2B,2019,2020, 75.2, 0.87
+82,1B,2B,Stolen Base 2B,520471,Freddy Galvis,612434,Miguel Castro,665489,Vladimir Guerrero Jr.,R,Chance Sisco,642082,1,2,8,False,2019-07-05,Stolen,2B,2019,2020, 75.2, 0.87
+83,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,571710,Mychal Givens,502054,Tommy Pham,R,Chance Sisco,642082,3,3,8,False,2019-07-03,Stolen,2B,2019,2020, 75.2, 0.87
+84,1B,,Caught Stealing 2B,650490,Yandy Díaz,571710,Mychal Givens,541645,Avisaíl García,R,Chance Sisco,642082,3,3,8,False,2019-07-03,Caught,2B,2019,2020, 75.2, 0.87
+85,1B,2B,Stolen Base 2B,621563,Joey Wendle,592879,Asher Wojciechowski,640457,Austin Meadows,R,Chance Sisco,642082,1,1,3,False,2019-07-02,Stolen,2B,2019,2020, 75.2, 0.87
+86,1B,2B,Stolen Base 2B,664040,Brandon Lowe,592879,Asher Wojciechowski,502054,Tommy Pham,R,Chance Sisco,642082,2,1,3,False,2019-07-02,Stolen,2B,2019,2020, 75.2, 0.87
+87,1B,2B,Stolen Base 2B,621563,Joey Wendle,571710,Mychal Givens,572287,Mike Zunino,R,Chance Sisco,642082,6,1,8,False,2019-07-02,Stolen,2B,2019,2020, 75.2, 0.87
+88,1B,2B,Stolen Base 2B,543401,Jason Kipnis,593679,Gabriel Ynoa,608070,José Ramírez,R,Chance Sisco,642082,0,1,3,True,2019-06-30,Stolen,2B,2019,2020, 75.2, 0.87
+89,1B,2B,Stolen Base 2B,605480,Mallex Smith,543219,Sean Gilmartin,641487,J.P. Crawford,L,Chance Sisco,642082,3,3,2,False,2019-06-21,Stolen,2B,2019,2020, 75.2, 0.87
+90,1B,2B,Stolen Base 2B,605480,Mallex Smith,656945,Tanner Scott,641487,J.P. Crawford,L,Chance Sisco,642082,9,3,5,False,2019-06-21,Stolen,2B,2019,2020, 75.2, 0.87
+91,1B,2B,Stolen Base 2B,502210,Josh Reddick,571710,Mychal Givens,643603,Tyler White,R,Chance Sisco,642082,3,3,9,False,2019-06-07,Stolen,2B,2019,2020, 75.2, 0.87
+92,1B,2B,Stolen Base 2B,605233,Derek Fisher,571710,Mychal Givens,608324,Alex Bregman,R,Chance Sisco,642082,3,3,10,False,2019-06-07,Stolen,2B,2019,2020, 75.2, 0.87
+93,1B,,Caught Stealing 2B,608597,Ronald Guzmán,612434,Miguel Castro,592261,Delino DeShields,R,Chance Sisco,642082,4,3,7,False,2019-06-06,Caught,2B,2019,2020, 75.2, 0.87
+94,1B,2B,Stolen Base 2B,592261,Delino DeShields,612434,Miguel Castro,542454,Danny Santana,R,Chance Sisco,642082,4,3,7,False,2019-06-06,Stolen,2B,2019,2020, 75.2, 0.87
+95,1B,2B,Stolen Base 2B,462101,Elvis Andrus,612434,Miguel Castro,452254,Hunter Pence,R,Chance Sisco,642082,1,0,8,False,2019-06-05,Stolen,2B,2019,2020, 75.2, 0.87
+96,1B,2B,Stolen Base 2B,546990,Anthony Alford,592280,Ryan Eades,624415,Cavan Biggio,R,Chance Sisco,642082,10,10,13,False,2019-09-23,Stolen,2B,2019,2020, 75.2, 0.87
+97,1B,2B,Stolen Base 2B,624415,Cavan Biggio,612434,Miguel Castro,665489,Vladimir Guerrero Jr.,R,Chance Sisco,642082,3,3,6,True,2019-09-17,Stolen,2B,2019,2020, 75.2, 0.87
+98,2B,3B,Stolen Base 3B,624415,Cavan Biggio,542888,Shawn Armstrong,666971,Lourdes Gurriel Jr.,R,Chance Sisco,642082,4,4,8,True,2019-09-17,Stolen,3B,2019,2020, 75.2, 0.87
+99,1B,,Caught Stealing 2B,543308,John Hicks,593679,Gabriel Ynoa,668670,Jake Rogers,R,Chance Sisco,642082,0,0,2,False,2019-09-14,Caught,2B,2019,2020, 75.2, 0.87
+100,1B,2B,Stolen Base 2B,622682,Victor Reyes,656945,Tanner Scott,605612,Harold Castro,L,Chance Sisco,642082,2,0,5,False,2019-09-14,Stolen,2B,2019,2020, 75.2, 0.87
+101,1B,2B,Stolen Base 2B,502054,Tommy Pham,542888,Shawn Armstrong,518595,Travis d'Arnaud,R,Chance Sisco,642082,2,3,6,False,2019-09-03,Stolen,2B,2019,2020, 75.2, 0.87
+102,1B,2B,Stolen Base 2B,621563,Joey Wendle,542888,Shawn Armstrong,572287,Mike Zunino,R,Chance Sisco,642082,2,3,7,False,2019-09-03,Stolen,2B,2019,2020, 75.2, 0.87
+103,1B,2B,Stolen Base 2B,640457,Austin Meadows,571710,Mychal Givens,502054,Tommy Pham,R,Chance Sisco,642082,2,3,8,False,2019-09-03,Stolen,2B,2019,2020, 75.2, 0.87
+104,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,605156,Aaron Brooks,624585,Jorge Soler,R,Chance Sisco,642082,0,1,1,False,2019-09-01,Stolen,2B,2019,2020, 75.2, 0.87
+105,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,605156,Aaron Brooks,624585,Jorge Soler,R,Chance Sisco,642082,3,1,2,False,2019-09-01,Stolen,2B,2019,2020, 75.2, 0.87
+106,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,612434,Miguel Castro,641531,Hunter Dozier,R,Chance Sisco,642082,3,4,7,False,2019-09-01,Stolen,2B,2019,2020, 75.2, 0.87
+107,1B,2B,Stolen Base 2B,621433,Brett Phillips,605164,Dylan Bundy,593160,Whit Merrifield,R,Chance Sisco,642082,1,0,2,False,2019-08-31,Stolen,2B,2019,2020, 75.2, 0.87
+108,1B,,Caught Stealing 2B,571976,Wil Myers,642231,Jimmy Yacabonis,649966,Luis Urías,R,Chance Sisco,642082,5,1,6,False,2019-07-29,Caught,2B,2019,2020, 75.2, 0.87
+109,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,605164,Dylan Bundy,572233,Christian Walker,R,Chance Sisco,642082,0,0,1,False,2019-07-23,Stolen,2B,2019,2020, 75.2, 0.87
+110,1B,2B,Stolen Base 2B,645302,Victor Robles,605156,Aaron Brooks,543228,Yan Gomes,R,Chance Sisco,642082,0,0,3,True,2019-07-17,Stolen,2B,2019,2020, 75.2, 0.87
+111,2B,3B,Stolen Base 3B,645302,Victor Robles,605156,Aaron Brooks,607208,Trea Turner,R,Chance Sisco,642082,0,0,3,True,2019-07-17,Stolen,3B,2019,2020, 75.2, 0.87
+112,1B,2B,Stolen Base 2B,543228,Yan Gomes,605156,Aaron Brooks,607208,Trea Turner,R,Chance Sisco,642082,0,0,3,True,2019-07-17,Stolen,2B,2019,2020, 75.2, 0.87
+113,1B,2B,Stolen Base 2B,607208,Trea Turner,592879,Asher Wojciechowski,543685,Anthony Rendon,R,Chance Sisco,642082,0,0,1,True,2019-07-16,Stolen,2B,2019,2020, 75.2, 0.87
+114,1B,2B,Stolen Base 2B,572821,Brian Dozier,542888,Shawn Armstrong,645302,Victor Robles,R,Chance Sisco,642082,1,4,6,True,2019-07-16,Stolen,2B,2019,2020, 75.2, 0.87
+115,1B,2B,Stolen Base 2B,594809,Adam Eaton,612434,Miguel Castro,543685,Anthony Rendon,R,Chance Sisco,642082,1,5,7,True,2019-07-16,Stolen,2B,2019,2020, 75.2, 0.87
+116,1B,2B,Stolen Base 2B,621563,Joey Wendle,605164,Dylan Bundy,518595,Travis d'Arnaud,R,Chance Sisco,642082,0,5,1,True,2019-07-12,Stolen,2B,2019,2020, 75.2, 0.87
+117,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,593679,Gabriel Ynoa,624415,Cavan Biggio,R,Chance Sisco,642082,6,1,7,False,2019-07-07,Stolen,2B,2019,2020, 75.2, 0.87
+118,1B,2B,Stolen Base 2B,520471,Freddy Galvis,612434,Miguel Castro,665489,Vladimir Guerrero Jr.,R,Chance Sisco,642082,1,2,8,False,2019-07-05,Stolen,2B,2019,2020, 75.2, 0.87
+119,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,571710,Mychal Givens,502054,Tommy Pham,R,Chance Sisco,642082,3,3,8,False,2019-07-03,Stolen,2B,2019,2020, 75.2, 0.87
+120,1B,,Caught Stealing 2B,650490,Yandy Díaz,571710,Mychal Givens,541645,Avisaíl García,R,Chance Sisco,642082,3,3,8,False,2019-07-03,Caught,2B,2019,2020, 75.2, 0.87
+121,1B,2B,Stolen Base 2B,621563,Joey Wendle,592879,Asher Wojciechowski,640457,Austin Meadows,R,Chance Sisco,642082,1,1,3,False,2019-07-02,Stolen,2B,2019,2020, 75.2, 0.87
+122,1B,2B,Stolen Base 2B,664040,Brandon Lowe,592879,Asher Wojciechowski,502054,Tommy Pham,R,Chance Sisco,642082,2,1,3,False,2019-07-02,Stolen,2B,2019,2020, 75.2, 0.87
+123,1B,2B,Stolen Base 2B,621563,Joey Wendle,571710,Mychal Givens,572287,Mike Zunino,R,Chance Sisco,642082,6,1,8,False,2019-07-02,Stolen,2B,2019,2020, 75.2, 0.87
+124,1B,2B,Stolen Base 2B,543401,Jason Kipnis,593679,Gabriel Ynoa,608070,José Ramírez,R,Chance Sisco,642082,0,1,3,True,2019-06-30,Stolen,2B,2019,2020, 75.2, 0.87
+125,1B,2B,Stolen Base 2B,605480,Mallex Smith,543219,Sean Gilmartin,641487,J.P. Crawford,L,Chance Sisco,642082,3,3,2,False,2019-06-21,Stolen,2B,2019,2020, 75.2, 0.87
+126,1B,2B,Stolen Base 2B,605480,Mallex Smith,656945,Tanner Scott,641487,J.P. Crawford,L,Chance Sisco,642082,9,3,5,False,2019-06-21,Stolen,2B,2019,2020, 75.2, 0.87
+127,1B,2B,Stolen Base 2B,502210,Josh Reddick,571710,Mychal Givens,643603,Tyler White,R,Chance Sisco,642082,3,3,9,False,2019-06-07,Stolen,2B,2019,2020, 75.2, 0.87
+128,1B,2B,Stolen Base 2B,605233,Derek Fisher,571710,Mychal Givens,608324,Alex Bregman,R,Chance Sisco,642082,3,3,10,False,2019-06-07,Stolen,2B,2019,2020, 75.2, 0.87
+129,1B,,Caught Stealing 2B,608597,Ronald Guzmán,612434,Miguel Castro,592261,Delino DeShields,R,Chance Sisco,642082,4,3,7,False,2019-06-06,Caught,2B,2019,2020, 75.2, 0.87
+130,1B,2B,Stolen Base 2B,592261,Delino DeShields,612434,Miguel Castro,542454,Danny Santana,R,Chance Sisco,642082,4,3,7,False,2019-06-06,Stolen,2B,2019,2020, 75.2, 0.87
+131,1B,2B,Stolen Base 2B,462101,Elvis Andrus,612434,Miguel Castro,452254,Hunter Pence,R,Chance Sisco,642082,1,0,8,False,2019-06-05,Stolen,2B,2019,2020, 75.2, 0.87
+132,1B,2B,Stolen Base 2B,546990,Anthony Alford,592280,Ryan Eades,624415,Cavan Biggio,R,Chance Sisco,642082,10,10,13,False,2019-09-23,Stolen,2B,2019,2020, 75.2, 0.87
+133,1B,2B,Stolen Base 2B,624415,Cavan Biggio,612434,Miguel Castro,665489,Vladimir Guerrero Jr.,R,Chance Sisco,642082,3,3,6,True,2019-09-17,Stolen,2B,2019,2020, 75.2, 0.87
+134,2B,3B,Stolen Base 3B,624415,Cavan Biggio,542888,Shawn Armstrong,666971,Lourdes Gurriel Jr.,R,Chance Sisco,642082,4,4,8,True,2019-09-17,Stolen,3B,2019,2020, 75.2, 0.87
+135,1B,,Caught Stealing 2B,543308,John Hicks,593679,Gabriel Ynoa,668670,Jake Rogers,R,Chance Sisco,642082,0,0,2,False,2019-09-14,Caught,2B,2019,2020, 75.2, 0.87
+136,1B,2B,Stolen Base 2B,622682,Victor Reyes,656945,Tanner Scott,605612,Harold Castro,L,Chance Sisco,642082,2,0,5,False,2019-09-14,Stolen,2B,2019,2020, 75.2, 0.87
+137,1B,2B,Stolen Base 2B,502054,Tommy Pham,542888,Shawn Armstrong,518595,Travis d'Arnaud,R,Chance Sisco,642082,2,3,6,False,2019-09-03,Stolen,2B,2019,2020, 75.2, 0.87
+138,1B,2B,Stolen Base 2B,621563,Joey Wendle,542888,Shawn Armstrong,572287,Mike Zunino,R,Chance Sisco,642082,2,3,7,False,2019-09-03,Stolen,2B,2019,2020, 75.2, 0.87
+139,1B,2B,Stolen Base 2B,640457,Austin Meadows,571710,Mychal Givens,502054,Tommy Pham,R,Chance Sisco,642082,2,3,8,False,2019-09-03,Stolen,2B,2019,2020, 75.2, 0.87
+140,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,605156,Aaron Brooks,624585,Jorge Soler,R,Chance Sisco,642082,0,1,1,False,2019-09-01,Stolen,2B,2019,2020, 75.2, 0.87
+141,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,605156,Aaron Brooks,624585,Jorge Soler,R,Chance Sisco,642082,3,1,2,False,2019-09-01,Stolen,2B,2019,2020, 75.2, 0.87
+142,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,612434,Miguel Castro,641531,Hunter Dozier,R,Chance Sisco,642082,3,4,7,False,2019-09-01,Stolen,2B,2019,2020, 75.2, 0.87
+143,1B,2B,Stolen Base 2B,621433,Brett Phillips,605164,Dylan Bundy,593160,Whit Merrifield,R,Chance Sisco,642082,1,0,2,False,2019-08-31,Stolen,2B,2019,2020, 75.2, 0.87
+144,1B,,Caught Stealing 2B,571976,Wil Myers,642231,Jimmy Yacabonis,649966,Luis Urías,R,Chance Sisco,642082,5,1,6,False,2019-07-29,Caught,2B,2019,2020, 75.2, 0.87
+145,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,605164,Dylan Bundy,572233,Christian Walker,R,Chance Sisco,642082,0,0,1,False,2019-07-23,Stolen,2B,2019,2020, 75.2, 0.87
+146,1B,2B,Stolen Base 2B,645302,Victor Robles,605156,Aaron Brooks,543228,Yan Gomes,R,Chance Sisco,642082,0,0,3,True,2019-07-17,Stolen,2B,2019,2020, 75.2, 0.87
+147,2B,3B,Stolen Base 3B,645302,Victor Robles,605156,Aaron Brooks,607208,Trea Turner,R,Chance Sisco,642082,0,0,3,True,2019-07-17,Stolen,3B,2019,2020, 75.2, 0.87
+148,1B,2B,Stolen Base 2B,543228,Yan Gomes,605156,Aaron Brooks,607208,Trea Turner,R,Chance Sisco,642082,0,0,3,True,2019-07-17,Stolen,2B,2019,2020, 75.2, 0.87
+149,1B,2B,Stolen Base 2B,607208,Trea Turner,592879,Asher Wojciechowski,543685,Anthony Rendon,R,Chance Sisco,642082,0,0,1,True,2019-07-16,Stolen,2B,2019,2020, 75.2, 0.87
+150,1B,2B,Stolen Base 2B,572821,Brian Dozier,542888,Shawn Armstrong,645302,Victor Robles,R,Chance Sisco,642082,1,4,6,True,2019-07-16,Stolen,2B,2019,2020, 75.2, 0.87
+151,1B,2B,Stolen Base 2B,594809,Adam Eaton,612434,Miguel Castro,543685,Anthony Rendon,R,Chance Sisco,642082,1,5,7,True,2019-07-16,Stolen,2B,2019,2020, 75.2, 0.87
+152,1B,2B,Stolen Base 2B,621563,Joey Wendle,605164,Dylan Bundy,518595,Travis d'Arnaud,R,Chance Sisco,642082,0,5,1,True,2019-07-12,Stolen,2B,2019,2020, 75.2, 0.87
+153,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,593679,Gabriel Ynoa,624415,Cavan Biggio,R,Chance Sisco,642082,6,1,7,False,2019-07-07,Stolen,2B,2019,2020, 75.2, 0.87
+154,1B,2B,Stolen Base 2B,520471,Freddy Galvis,612434,Miguel Castro,665489,Vladimir Guerrero Jr.,R,Chance Sisco,642082,1,2,8,False,2019-07-05,Stolen,2B,2019,2020, 75.2, 0.87
+155,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,571710,Mychal Givens,502054,Tommy Pham,R,Chance Sisco,642082,3,3,8,False,2019-07-03,Stolen,2B,2019,2020, 75.2, 0.87
+156,1B,,Caught Stealing 2B,650490,Yandy Díaz,571710,Mychal Givens,541645,Avisaíl García,R,Chance Sisco,642082,3,3,8,False,2019-07-03,Caught,2B,2019,2020, 75.2, 0.87
+157,1B,2B,Stolen Base 2B,621563,Joey Wendle,592879,Asher Wojciechowski,640457,Austin Meadows,R,Chance Sisco,642082,1,1,3,False,2019-07-02,Stolen,2B,2019,2020, 75.2, 0.87
+158,1B,2B,Stolen Base 2B,664040,Brandon Lowe,592879,Asher Wojciechowski,502054,Tommy Pham,R,Chance Sisco,642082,2,1,3,False,2019-07-02,Stolen,2B,2019,2020, 75.2, 0.87
+159,1B,2B,Stolen Base 2B,621563,Joey Wendle,571710,Mychal Givens,572287,Mike Zunino,R,Chance Sisco,642082,6,1,8,False,2019-07-02,Stolen,2B,2019,2020, 75.2, 0.87
+160,1B,2B,Stolen Base 2B,543401,Jason Kipnis,593679,Gabriel Ynoa,608070,José Ramírez,R,Chance Sisco,642082,0,1,3,True,2019-06-30,Stolen,2B,2019,2020, 75.2, 0.87
+161,1B,2B,Stolen Base 2B,605480,Mallex Smith,543219,Sean Gilmartin,641487,J.P. Crawford,L,Chance Sisco,642082,3,3,2,False,2019-06-21,Stolen,2B,2019,2020, 75.2, 0.87
+162,1B,2B,Stolen Base 2B,605480,Mallex Smith,656945,Tanner Scott,641487,J.P. Crawford,L,Chance Sisco,642082,9,3,5,False,2019-06-21,Stolen,2B,2019,2020, 75.2, 0.87
+163,1B,2B,Stolen Base 2B,502210,Josh Reddick,571710,Mychal Givens,643603,Tyler White,R,Chance Sisco,642082,3,3,9,False,2019-06-07,Stolen,2B,2019,2020, 75.2, 0.87
+164,1B,2B,Stolen Base 2B,605233,Derek Fisher,571710,Mychal Givens,608324,Alex Bregman,R,Chance Sisco,642082,3,3,10,False,2019-06-07,Stolen,2B,2019,2020, 75.2, 0.87
+165,1B,,Caught Stealing 2B,608597,Ronald Guzmán,612434,Miguel Castro,592261,Delino DeShields,R,Chance Sisco,642082,4,3,7,False,2019-06-06,Caught,2B,2019,2020, 75.2, 0.87
+166,1B,2B,Stolen Base 2B,592261,Delino DeShields,612434,Miguel Castro,542454,Danny Santana,R,Chance Sisco,642082,4,3,7,False,2019-06-06,Stolen,2B,2019,2020, 75.2, 0.87
+167,1B,2B,Stolen Base 2B,462101,Elvis Andrus,612434,Miguel Castro,452254,Hunter Pence,R,Chance Sisco,642082,1,0,8,False,2019-06-05,Stolen,2B,2019,2020, 75.2, 0.87
+168,1B,,Caught Stealing 2B,594777,Kole Calhoun,612434,Miguel Castro,435079,Ian Kinsler,R,Chance Sisco,642082,8,0,3,False,2018-05-03,Caught,2B,2018,2019, 79.1, 0.78
+169,1B,2B,Stolen Base 2B,605480,Mallex Smith,502171,Alex Cobb,452655,Denard Span,R,Chance Sisco,642082,1,1,2,True,2018-04-25,Stolen,2B,2018,2019, 79.1, 0.78
+170,1B,2B,Stolen Base 2B,621563,Joey Wendle,502171,Alex Cobb,467092,Wilson Ramos,R,Chance Sisco,642082,3,5,5,True,2018-04-25,Stolen,2B,2018,2019, 79.1, 0.78
+171,1B,,Caught Stealing 2B,488726,Michael Brantley,501957,Chris Tillman,475174,Yonder Alonso,R,Chance Sisco,642082,0,4,6,True,2018-04-21,Caught,2B,2018,2019, 79.1, 0.78
+172,1B,,Caught Stealing 2B,596019,Francisco Lindor,656945,Tanner Scott,543401,Jason Kipnis,L,Chance Sisco,642082,0,4,7,True,2018-04-21,Caught,2B,2018,2019, 79.1, 0.78
+173,2B,,Caught Stealing 3B,434658,Rajai Davis,571710,Mychal Givens,543228,Yan Gomes,R,Chance Sisco,642082,0,4,9,True,2018-04-21,Caught,3B,2018,2019, 79.1, 0.78
+174,1B,,Caught Stealing 2B,571980,Tyler Naquin,605164,Dylan Bundy,596019,Francisco Lindor,R,Chance Sisco,642082,0,1,2,True,2018-04-20,Caught,2B,2018,2019, 79.1, 0.78
+175,1B,2B,Stolen Base 2B,596019,Francisco Lindor,605164,Dylan Bundy,543401,Jason Kipnis,R,Chance Sisco,642082,1,1,5,True,2018-04-20,Stolen,2B,2018,2019, 79.1, 0.78
+176,1B,,Caught Stealing 2B,500208,Yangervis Solarte,488768,Andrew Cashner,456665,Steve Pearce,R,Chance Sisco,642082,0,0,6,True,2018-04-10,Caught,2B,2018,2019, 79.1, 0.78
+177,1B,2B,Stolen Base 2B,544369,Didi Gregorius,642231,Jimmy Yacabonis,592122,Tyler Austin,R,Chance Sisco,642082,8,3,7,False,2018-04-07,Stolen,2B,2018,2019, 79.1, 0.78
+178,3B,,Caught Stealing Home,607054,Jace Peterson,641482,Nestor Cortes,592450,Aaron Judge,L,Chance Sisco,642082,8,3,8,False,2018-04-07,Caught,Home,2018,2019, 79.1, 0.78
+179,1B,,Caught Stealing 2B,544369,Didi Gregorius,488768,Andrew Cashner,435522,Neil Walker,R,Chance Sisco,642082,0,0,4,False,2018-04-05,Caught,2B,2018,2019, 79.1, 0.78
+180,1B,2B,Stolen Base 2B,545350,Jake Marisnick,606478,Pedro Araújo,605233,Derek Fisher,R,Chance Sisco,642082,5,5,7,False,2018-04-03,Stolen,2B,2018,2019, 79.1, 0.78
+181,1B,2B,Stolen Base 2B,621439,Byron Buxton,606478,Pedro Araújo,596146,Max Kepler,R,Chance Sisco,642082,0,6,5,True,2018-04-01,Stolen,2B,2018,2019, 79.1, 0.78
+182,1B,2B,Stolen Base 2B,621439,Byron Buxton,606478,Pedro Araújo,596146,Max Kepler,R,Chance Sisco,642082,0,6,5,True,2018-04-01,Stolen,2B,2018,2019, 79.1, 0.78

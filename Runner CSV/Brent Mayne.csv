@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+495,1B,2B,Caught Stealing 3B,118490,Brent Mayne,Chad Kreuter,6,0,1,False,2000-09-09,Caught,3B,2000
+1470,1B,2B,Stolen Base 2B,118490,Brent Mayne,Raul Casanova,0,3,4,True,2000-07-29,Stolen,2B,2000
+1935,1B,,Caught Stealing 2B,118490,Brent Mayne,Bobby Estalella,0,0,3,True,2000-07-05,Caught,2B,2000
+3089,1B,,Caught Stealing 2B,118490,Brent Mayne,Bobby Estalella,1,0,2,False,2000-05-14,Caught,2B,2000
+1514,1B,2B,Stolen Base 2B,118490,Brent Mayne,Mark Johnson,8,6,8,False,2002-07-17,Stolen,2B,2002
+1574,1B,2B,Stolen Base 2B,118490,Brent Mayne,Bill Haselman,7,3,6,False,2002-07-15,Stolen,2B,2002
+1610,2B,,Caught Stealing 3B,118490,Brent Mayne,Jorge Fabregas,1,0,3,False,2002-07-13,Caught,3B,2002
+1633,1B,,Caught Stealing 2B,118490,Brent Mayne,Bengie Molina,1,2,3,False,2002-07-12,Caught,2B,2002
+2244,1B,,Caught Stealing 2B,118490,Brent Mayne,Charles Johnson,3,0,2,False,2002-06-10,Caught,2B,2002
+2246,1B,2B,Stolen Base 2B,118490,Brent Mayne,Charles Johnson,5,0,4,False,2002-06-10,Stolen,2B,2002
+2247,1B,,Caught Stealing 2B,118490,Brent Mayne,Charles Johnson,5,3,6,False,2002-06-10,Caught,2B,2002
+2379,1B,2B,Stolen Base 2B,118490,Brent Mayne,Mark Johnson,0,1,5,True,2002-06-04,Stolen,2B,2002
+110,1B,,Caught Stealing 2B,118490,Brent Mayne,Brandon Inge,1,4,3,False,2003-09-24,Caught,2B,2003
+1486,1B,,Caught Stealing 2B,118490,Brent Mayne,Dan Wilson,3,0,4,False,2003-07-17,Caught,2B,2003
+2335,1B,2B,Stolen Base 2B,118490,Brent Mayne,A.J. Pierzynski,9,5,7,False,2004-06-03,Stolen,2B,2004

@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+43,1B,2B,Stolen Base 2B,553988,Dixon Machado,Chris Gimenez,0,0,3,True,2015-09-28,Stolen,2B,2015
+445,1B,2B,Caught Stealing Home,553988,Dixon Machado,J.P. Arencibia,5,4,8,False,2015-09-07,Caught,Home,2015
+716,1B,2B,Stolen Base 2B,553988,Dixon Machado,Gary Sánchez,6,3,6,False,2017-08-24,Stolen,2B,2017
+2550,1B,2B,Stolen Base 2B,553988,Dixon Machado,Mike Zunino,3,2,5,False,2018-05-13,Stolen,2B,2018
+3190,1B,,Caught Stealing 2B,553988,Dixon Machado,Welington Castillo,0,1,5,True,2018-04-08,Caught,2B,2018

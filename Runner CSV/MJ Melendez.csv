@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+250,1B,2B,Stolen Base 2B,669004,MJ Melendez,Connor Wong,0,3,5,True,2022-09-17,Stolen,2B,2022
+307,1B,,Caught Stealing 2B,669004,MJ Melendez,Gary Sánchez,0,0,3,True,2022-09-13,Caught,2B,2022
+535,1B,2B,Stolen Base 2B,669004,MJ Melendez,Tucker Barnhart,1,4,3,True,2022-09-03,Stolen,2B,2022
+2051,1B,,Caught Stealing 2B,669004,MJ Melendez,Zack Collins,5,3,4,False,2022-06-08,Caught,2B,2022
+19,1B,2B,Caught Stealing 2B,669004,MJ Melendez,Kyle Higashioka,2,2,5,False,2023-09-30,Caught,2B,2023
+1085,2B,,Caught Stealing 3B,669004,MJ Melendez,Yan Gomes,0,0,2,True,2023-08-18,Caught,3B,2023
+1454,1B,2B,Stolen Base 2B,669004,MJ Melendez,Francisco Alvarez,3,4,8,False,2023-08-01,Stolen,2B,2023
+1821,1B,2B,Stolen Base 2B,669004,MJ Melendez,Francisco Mejía,0,1,4,False,2023-07-15,Stolen,2B,2023
+1832,1B,2B,Stolen Base 2B,669004,MJ Melendez,Francisco Mejía,0,1,4,False,2023-07-14,Stolen,2B,2023
+2281,1B,2B,Stolen Base 2B,669004,MJ Melendez,Francisco Mejía,0,0,1,True,2023-06-22,Stolen,2B,2023
+2286,1B,2B,Stolen Base 2B,669004,MJ Melendez,Francisco Mejía,5,6,9,True,2023-06-22,Stolen,2B,2023
+2659,1B,,Caught Stealing 2B,669004,MJ Melendez,Jacob Stallings,3,1,4,True,2023-06-07,Caught,2B,2023
+2693,1B,2B,Stolen Base 2B,669004,MJ Melendez,Nick Fortes,0,4,3,True,2023-06-05,Stolen,2B,2023
+2936,1B,2B,Stolen Base 2B,669004,MJ Melendez,Keibert Ruiz,1,1,4,False,2023-05-26,Stolen,2B,2023
+2937,2B,3B,Stolen Base 2B,669004,MJ Melendez,Keibert Ruiz,1,1,4,False,2023-05-26,Stolen,2B,2023

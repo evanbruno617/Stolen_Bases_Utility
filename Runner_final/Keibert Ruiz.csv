@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1789,1B,2B,Stolen Base 2B,660688,Keibert Ruiz,656427,Jack Flaherty,572816,Corey Dickerson,R,Andrew Knizner,668800,4,3,6,True,2023-07-16,Stolen,2B,2023,2024,25.0
+1,6203,1B,2B,Stolen Base 2B,660688,Keibert Ruiz,656427,Jack Flaherty,572816,Corey Dickerson,R,Andrew Knizner,668800,4,3,6,True,2023-07-16,Stolen,2B,2023,2024,25.0
+2,329,1B,2B,Stolen Base 2B,660688,Keibert Ruiz,656605,Mitch Keller,628450,Yadiel Hernandez,R,Michael Pérez,605421,2,2,1,False,2022-06-29,Stolen,2B,2022,2023,25.1
+3,773,1B,2B,Stolen Base 2B,660688,Keibert Ruiz,605521,Art Warren,596748,Maikel Franco,R,Tyler Stephenson,663886,3,5,8,True,2022-06-05,Stolen,2B,2022,2023,25.1
+4,999,2B,3B,Stolen Base 3B,660688,Keibert Ruiz,456034,David Price,605137,Josh Bell,L,Will Smith,669257,4,9,7,False,2022-05-24,Stolen,3B,2022,2023,25.1
+5,1221,1B,2B,Stolen Base 2B,660688,Keibert Ruiz,656731,Tylor Megill,596748,Maikel Franco,R,Tomás Nido,621512,4,3,1,False,2022-05-11,Stolen,2B,2022,2023,25.1

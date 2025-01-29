@@ -1,0 +1,33 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+251,1B,2B,Stolen Base 2B,150239,Terrence Long,Brook Fordyce,0,0,1,True,2000-09-20,Stolen,2B,2000
+278,1B,2B,Stolen Base 2B,150239,Terrence Long,Fernando Lunar,0,0,1,True,2000-09-19,Stolen,2B,2000
+631,2B,3B,Stolen Base 3B,150239,Terrence Long,Alberto Castillo,0,2,1,True,2000-09-04,Stolen,3B,2000
+2307,1B,2B,Stolen Base 2B,150239,Terrence Long,Gregg Zaun,0,0,1,True,2000-06-17,Stolen,2B,2000
+2341,1B,2B,Stolen Base 2B,150239,Terrence Long,Gregg Zaun,0,1,3,True,2000-06-16,Stolen,2B,2000
+2764,1B,2B,Stolen Base 2B,150239,Terrence Long,Brook Fordyce,0,0,1,True,2000-05-28,Stolen,2B,2000
+473,1B,2B,Stolen Base 2B,150239,Terrence Long,Joe Oliver,0,0,2,False,2001-05-16,Stolen,2B,2001
+1197,1B,2B,Stolen Base 2B,150239,Terrence Long,Bengie Molina,1,5,7,True,2001-04-17,Stolen,2B,2001
+1501,2B,3B,Stolen Base 3B,150239,Terrence Long,Dan Wilson,0,1,4,True,2001-04-02,Stolen,3B,2001
+16,2B,,Caught Stealing 3B,150239,Terrence Long,Todd Greene,7,9,7,True,2002-09-28,Caught,3B,2002
+1324,1B,,Caught Stealing 2B,150239,Terrence Long,José Molina,0,0,1,True,2002-07-25,Caught,2B,2002
+1651,1B,2B,Stolen Base 2B,150239,Terrence Long,Geronimo Gil,0,1,4,True,2002-07-12,Stolen,2B,2002
+1884,1B,,Caught Stealing 2B,150239,Terrence Long,Yorvit Torrealba,3,4,7,False,2002-06-29,Caught,2B,2002
+2085,1B,2B,Stolen Base 2B,150239,Terrence Long,Jason Kendall,2,3,10,True,2002-06-19,Stolen,2B,2002
+2443,1B,,Caught Stealing 2B,150239,Terrence Long,Paul Hoover,0,0,2,True,2002-06-02,Caught,2B,2002
+3511,1B,2B,Stolen Base 2B,150239,Terrence Long,Bengie Molina,1,6,5,False,2002-04-19,Stolen,2B,2002
+3625,1B,,Caught Stealing 2B,150239,Terrence Long,Bengie Molina,0,0,2,True,2002-04-14,Caught,2B,2002
+673,1B,2B,Stolen Base 2B,150239,Terrence Long,Greg Myers,6,8,9,True,2003-08-25,Stolen,2B,2003
+1050,1B,,Caught Stealing 2B,150239,Terrence Long,Brandon Inge,0,0,1,True,2003-08-07,Caught,2B,2003
+1304,1B,2B,Stolen Base 2B,150239,Terrence Long,Bengie Molina,0,0,2,True,2003-07-25,Stolen,2B,2003
+1459,1B,2B,Stolen Base 2B,150239,Terrence Long,Matthew LeCroy,3,4,5,True,2003-07-19,Stolen,2B,2003
+2517,1B,2B,Stolen Base 2B,150239,Terrence Long,Mike DiFelice,1,1,2,False,2003-05-24,Stolen,2B,2003
+672,1B,,Caught Stealing 2B,150239,Terrence Long,Brian Schneider,2,5,9,True,2004-08-28,Caught,2B,2004
+1351,1B,2B,Stolen Base 2B,150239,Terrence Long,Paul Lo Duca,0,3,9,True,2004-07-25,Stolen,2B,2004
+1808,2B,,Caught Stealing 3B,150239,Terrence Long,Robby Hammock,1,3,8,True,2004-06-29,Caught,3B,2004
+2871,1B,2B,Stolen Base 2B,150239,Terrence Long,Ramon Castro,2,1,7,True,2004-05-07,Stolen,2B,2004
+3125,2B,3B,Stolen Base 3B,150239,Terrence Long,Robby Hammock,0,0,2,True,2004-04-24,Stolen,3B,2004
+1393,1B,,Caught Stealing 2B,150239,Terrence Long,Victor Martinez,0,0,3,True,2005-07-21,Caught,2B,2005
+2233,1B,2B,Stolen Base 2B,150239,Terrence Long,Rod Barajas,9,13,7,False,2005-06-04,Stolen,2B,2005
+2428,1B,2B,Stolen Base 2B,150239,Terrence Long,Rod Barajas,4,2,5,True,2005-05-25,Stolen,2B,2005
+2685,1B,2B,Stolen Base 2B,150239,Terrence Long,Toby Hall,5,0,3,False,2005-05-12,Stolen,2B,2005
+3438,1B,,Caught Stealing 2B,150239,Terrence Long,Ivan Rodriguez,0,0,5,True,2005-04-07,Caught,2B,2005

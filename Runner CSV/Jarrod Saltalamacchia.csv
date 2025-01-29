@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1117,1B,,Caught Stealing 2B,457454,Jarrod Saltalamacchia,Ivan Rodriguez,0,1,3,False,2008-08-04,Caught,2B,2008
+1758,1B,,Caught Stealing 2B,457454,Jarrod Saltalamacchia,José Molina,1,2,7,True,2008-06-30,Caught,2B,2008
+1050,1B,,Caught Stealing 2B,457454,Jarrod Saltalamacchia,Brad Ausmus,3,6,8,False,2009-06-14,Caught,2B,2009
+1189,1B,2B,Caught Stealing Home,457454,Jarrod Saltalamacchia,Rod Barajas,3,4,6,False,2009-06-08,Caught,Home,2009
+1805,1B,,Caught Stealing 2B,457454,Jarrod Saltalamacchia,Kenji Johjima,0,1,3,False,2009-05-13,Caught,2B,2009
+669,1B,2B,Stolen Base 2B,457454,Jarrod Saltalamacchia,Matt Treanor,9,3,4,False,2011-09-03,Stolen,2B,2011
+1455,1B,,Caught Stealing 2B,457454,Jarrod Saltalamacchia,Alex Avila,2,1,2,False,2012-07-30,Caught,2B,2012
+260,2B,3B,Stolen Base 3B,457454,Jarrod Saltalamacchia,Matt Wieters,2,0,4,False,2013-09-17,Stolen,3B,2013
+283,3B,score,Stolen Base Home,457454,Jarrod Saltalamacchia,John Ryan Murphy,4,1,4,False,2013-09-15,Stolen,Home,2013
+359,1B,2B,Stolen Base 2B,457454,Jarrod Saltalamacchia,Jose Lobaton,3,3,6,True,2013-09-12,Stolen,2B,2013
+606,1B,2B,Stolen Base 2B,457454,Jarrod Saltalamacchia,Tyler Flowers,0,0,2,False,2013-09-01,Stolen,2B,2013
+3365,1B,,Caught Stealing 2B,457454,Jarrod Saltalamacchia,Jose Lobaton,2,1,7,False,2013-04-15,Caught,2B,2013
+2538,1B,,Caught Stealing 2B,457454,Jarrod Saltalamacchia,Wilson Ramos,0,1,2,True,2014-05-26,Caught,2B,2014

@@ -1,0 +1,18 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,91,1B,2B,Stolen Base 2B,663743,Nick Fortes,663556,Shane McClanahan,657193,Eddy Alvarez,L,Mike Zunino,572287,0,1,4,True,2021-09-25,Stolen,2B,2021,2022,27.8
+1,2015,1B,2B,Stolen Base 2B,663743,Nick Fortes,663556,Shane McClanahan,657193,Eddy Alvarez,L,Mike Zunino,572287,0,1,4,True,2021-09-25,Stolen,2B,2021,2022,27.8
+2,526,1B,2B,Stolen Base 2B,663743,Nick Fortes,621381,Matt Strahm,641658,Garrett Hampson,L,J.T. Realmuto,592663,3,3,7,True,2023-09-10,Stolen,2B,2023,2024,26.7
+3,2033,1B,,Caught Stealing 2B,663743,Nick Fortes,571945,Miles Mikolas,641505,Jonathan Davis,R,Willson Contreras,575929,2,1,2,False,2023-07-03,Caught,2B,2023,2024,26.7
+4,2881,1B,2B,Stolen Base 2B,663743,Nick Fortes,571901,Aaron Loup,641658,Garrett Hampson,L,Matt Thaiss,642136,0,2,9,True,2023-05-28,Stolen,2B,2023,2024,26.7
+5,3131,1B,2B,Stolen Base 2B,663743,Nick Fortes,541640,Erasmo Ramírez,641658,Garrett Hampson,R,Keibert Ruiz,660688,5,3,8,False,2023-05-18,Stolen,2B,2023,2024,26.7
+6,3449,1B,,Caught Stealing 2B,663743,Nick Fortes,689266,Dylan Dodd,680814,Peyton Burdick,L,Sean Murphy,669221,3,4,6,False,2023-05-04,Caught,2B,2023,2024,26.7
+7,3548,1B,2B,Stolen Base 2B,663743,Nick Fortes,657006,Justin Steele,650559,Bryan De La Cruz,L,Yan Gomes,543228,2,2,4,False,2023-04-30,Stolen,2B,2023,2024,26.7
+8,4940,1B,2B,Stolen Base 2B,663743,Nick Fortes,621381,Matt Strahm,641658,Garrett Hampson,L,J.T. Realmuto,592663,3,3,7,True,2023-09-10,Stolen,2B,2023,2024,26.7
+9,6447,1B,,Caught Stealing 2B,663743,Nick Fortes,571945,Miles Mikolas,641505,Jonathan Davis,R,Willson Contreras,575929,2,1,2,False,2023-07-03,Caught,2B,2023,2024,26.7
+10,7295,1B,2B,Stolen Base 2B,663743,Nick Fortes,571901,Aaron Loup,641658,Garrett Hampson,L,Matt Thaiss,642136,0,2,9,True,2023-05-28,Stolen,2B,2023,2024,26.7
+11,7545,1B,2B,Stolen Base 2B,663743,Nick Fortes,541640,Erasmo Ramírez,641658,Garrett Hampson,R,Keibert Ruiz,660688,5,3,8,False,2023-05-18,Stolen,2B,2023,2024,26.7
+12,7863,1B,,Caught Stealing 2B,663743,Nick Fortes,689266,Dylan Dodd,680814,Peyton Burdick,L,Sean Murphy,669221,3,4,6,False,2023-05-04,Caught,2B,2023,2024,26.7
+13,7962,1B,2B,Stolen Base 2B,663743,Nick Fortes,657006,Justin Steele,650559,Bryan De La Cruz,L,Yan Gomes,543228,2,2,4,False,2023-04-30,Stolen,2B,2023,2024,26.7
+14,122,1B,2B,Stolen Base 2B,663743,Nick Fortes,471911,Carlos Carrasco,542932,Jon Berti,R,James McCann,543510,1,0,5,True,2022-07-09,Stolen,2B,2022,2023,27.6
+15,471,1B,2B,Stolen Base 2B,663743,Nick Fortes,663372,Ryan Feltner,542932,Jon Berti,R,Brian Serven,661531,5,4,4,False,2022-06-21,Stolen,2B,2022,2023,27.6
+16,638,1B,2B,Stolen Base 2B,663743,Nick Fortes,664285,Framber Valdez,553902,Willians Astudillo,L,Martín Maldonado,455117,0,0,2,True,2022-06-11,Stolen,2B,2022,2023,27.6

@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+587,2B,,Caught Stealing 3B,676480,Jose Barrero,Willson Contreras,4,3,4,False,2020-08-29,Caught,3B,2020
+632,2B,3B,Stolen Base 3B,676480,Jose Barrero,Omar Narváez,0,1,2,True,2020-08-27,Stolen,3B,2020
+1118,2B,,Caught Stealing 3B,676480,Jose Barrero,Willson Contreras,4,3,4,False,2020-07-30,Caught,3B,2020
+22,1B,2B,Stolen Base 2B,676480,Jose Barrero,Yasmani Grandal,0,0,2,True,2021-09-29,Stolen,2B,2021
+377,2B,3B,Stolen Base 3B,676480,Jose Barrero,Omar Narváez,2,0,3,True,2022-09-10,Stolen,3B,2022
+423,1B,,Caught Stealing 2B,676480,Jose Barrero,Yan Gomes,1,1,3,True,2022-09-07,Caught,2B,2022
+503,1B,2B,Stolen Base 2B,676480,Jose Barrero,Elias Díaz,5,0,4,False,2022-09-04,Stolen,2B,2022
+513,1B,2B,Stolen Base 2B,676480,Jose Barrero,Elias Díaz,5,0,4,False,2022-09-03,Stolen,2B,2022
+989,1B,2B,Stolen Base 2B,676480,Jose Barrero,James McCann,3,1,5,True,2022-08-08,Stolen,2B,2022
+3532,1B,2B,Stolen Base 2B,676480,Jose Barrero,Shea Langeliers,3,1,5,True,2023-04-30,Stolen,2B,2023
+3757,1B,2B,Stolen Base 2B,676480,Jose Barrero,Austin Hedges,1,0,2,True,2023-04-22,Stolen,2B,2023
+3901,1B,2B,Stolen Base 2B,676480,Jose Barrero,Garrett Stubbs,4,0,4,False,2023-04-15,Stolen,2B,2023
+4118,1B,,Caught Stealing 2B,676480,Jose Barrero,J.T. Realmuto,1,0,3,True,2023-04-07,Caught,2B,2023
+4128,1B,,Caught Stealing 2B,676480,Jose Barrero,J.T. Realmuto,1,0,3,True,2023-04-06,Caught,2B,2023

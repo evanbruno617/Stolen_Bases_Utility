@@ -1,0 +1,37 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1932,1B,2B,Stolen Base 2B,650333,Luis Arraez,516969,Kelvin Herrera,641598,Mitch Garver,R,Welington Castillo,456078,8,4,8,False,2019-08-20,Stolen,2B,2019,2020,26.6
+1,2033,1B,,Caught Stealing 2B,650333,Luis Arraez,642547,Freddy Peralta,543068,C.J. Cron,R,Manny Piña,444489,1,3,6,True,2019-08-13,Caught,2B,2019,2020,26.6
+2,2725,1B,,Caught Stealing 2B,650333,Luis Arraez,450203,Charlie Morton,443558,Nelson Cruz,R,Mike Zunino,572287,3,2,5,False,2019-06-26,Caught,2B,2019,2020,26.6
+3,3255,2B,3B,Stolen Base 3B,650333,Luis Arraez,448855,Junior Guerra,570731,Jonathan Schoop,R,Yasmani Grandal,518735,4,3,6,False,2019-05-27,Stolen,3B,2019,2020,26.6
+4,4775,1B,2B,Stolen Base 2B,650333,Luis Arraez,516969,Kelvin Herrera,641598,Mitch Garver,R,Welington Castillo,456078,8,4,8,False,2019-08-20,Stolen,2B,2019,2020,26.6
+5,4876,1B,,Caught Stealing 2B,650333,Luis Arraez,642547,Freddy Peralta,543068,C.J. Cron,R,Manny Piña,444489,1,3,6,True,2019-08-13,Caught,2B,2019,2020,26.6
+6,5568,1B,,Caught Stealing 2B,650333,Luis Arraez,450203,Charlie Morton,443558,Nelson Cruz,R,Mike Zunino,572287,3,2,5,False,2019-06-26,Caught,2B,2019,2020,26.6
+7,6098,2B,3B,Stolen Base 3B,650333,Luis Arraez,448855,Junior Guerra,570731,Jonathan Schoop,R,Yasmani Grandal,518735,4,3,6,False,2019-05-27,Stolen,3B,2019,2020,26.6
+8,6699,1B,2B,Stolen Base 2B,650333,Luis Arraez,516969,Kelvin Herrera,641598,Mitch Garver,R,Welington Castillo,456078,8,4,8,False,2019-08-20,Stolen,2B,2019,2020,26.6
+9,6800,1B,,Caught Stealing 2B,650333,Luis Arraez,642547,Freddy Peralta,543068,C.J. Cron,R,Manny Piña,444489,1,3,6,True,2019-08-13,Caught,2B,2019,2020,26.6
+10,7492,1B,,Caught Stealing 2B,650333,Luis Arraez,450203,Charlie Morton,443558,Nelson Cruz,R,Mike Zunino,572287,3,2,5,False,2019-06-26,Caught,2B,2019,2020,26.6
+11,8022,2B,3B,Stolen Base 3B,650333,Luis Arraez,448855,Junior Guerra,570731,Jonathan Schoop,R,Yasmani Grandal,518735,4,3,6,False,2019-05-27,Stolen,3B,2019,2020,26.6
+12,651,1B,2B,Stolen Base 2B,650333,Luis Arraez,543037,Gerrit Cole,608701,Rob Refsnyder,R,Kyle Higashioka,543309,1,0,4,True,2021-08-21,Stolen,2B,2021,2022,26.9
+13,697,1B,,Caught Stealing 2B,650333,Luis Arraez,453284,Blake Parker,624503,Nick Gordon,R,Austin Hedges,595978,7,5,7,False,2021-08-18,Caught,2B,2021,2022,26.9
+14,1338,2B,3B,Stolen Base 3B,650333,Luis Arraez,641745,Brad Keller,663616,Trevor Larnach,R,Sebastián  Rivero,665861,0,1,3,True,2021-07-04,Stolen,3B,2021,2022,26.9
+15,2042,1B,,Caught Stealing 2B,650333,Luis Arraez,669456,Shane Bieber,518626,Josh Donaldson,R,Austin Hedges,595978,0,0,1,True,2021-05-22,Caught,2B,2021,2022,26.9
+16,2575,1B,2B,Stolen Base 2B,650333,Luis Arraez,543037,Gerrit Cole,608701,Rob Refsnyder,R,Kyle Higashioka,543309,1,0,4,True,2021-08-21,Stolen,2B,2021,2022,26.9
+17,2621,1B,,Caught Stealing 2B,650333,Luis Arraez,453284,Blake Parker,624503,Nick Gordon,R,Austin Hedges,595978,7,5,7,False,2021-08-18,Caught,2B,2021,2022,26.9
+18,3262,2B,3B,Stolen Base 3B,650333,Luis Arraez,641745,Brad Keller,663616,Trevor Larnach,R,Sebastián  Rivero,665861,0,1,3,True,2021-07-04,Stolen,3B,2021,2022,26.9
+19,3966,1B,,Caught Stealing 2B,650333,Luis Arraez,669456,Shane Bieber,518626,Josh Donaldson,R,Austin Hedges,595978,0,0,1,True,2021-05-22,Caught,2B,2021,2022,26.9
+20,375,2B,3B,Stolen Base 3B,650333,Luis Arraez,623451,Jackson Stephens,493329,Yuli Gurriel,R,Sean Murphy,669221,5,3,4,False,2023-09-16,Stolen,3B,2023,2024,26.7
+21,922,1B,2B,Stolen Base 2B,650333,Luis Arraez,672851,Joan Adon,605137,Josh Bell,R,Riley Adams,656180,0,3,6,False,2023-08-25,Stolen,2B,2023,2024,26.7
+22,1863,1B,,Caught Stealing 2B,650333,Luis Arraez,669923,George Kirby,682998,Corbin Carroll,R,Adley Rutschman,668939,1,1,4,True,2023-07-11,Caught,2B,2023,2024,26.7
+23,2934,1B,,Caught Stealing 2B,650333,Luis Arraez,672282,Reid Detmers,493329,Yuli Gurriel,L,Chad Wallach,595453,0,2,3,True,2023-05-26,Caught,2B,2023,2024,26.7
+24,3766,1B,,Caught Stealing 2B,650333,Luis Arraez,669456,Shane Bieber,650559,Bryan De La Cruz,R,Mike Zunino,572287,0,2,3,True,2023-04-22,Caught,2B,2023,2024,26.7
+25,3823,1B,2B,Stolen Base 2B,650333,Luis Arraez,666808,Camilo Doval,624585,Jorge Soler,R,Joey Bart,663698,1,1,10,False,2023-04-19,Stolen,2B,2023,2024,26.7
+26,4789,2B,3B,Stolen Base 3B,650333,Luis Arraez,623451,Jackson Stephens,493329,Yuli Gurriel,R,Sean Murphy,669221,5,3,4,False,2023-09-16,Stolen,3B,2023,2024,26.7
+27,5336,1B,2B,Stolen Base 2B,650333,Luis Arraez,672851,Joan Adon,605137,Josh Bell,R,Riley Adams,656180,0,3,6,False,2023-08-25,Stolen,2B,2023,2024,26.7
+28,6277,1B,,Caught Stealing 2B,650333,Luis Arraez,669923,George Kirby,682998,Corbin Carroll,R,Adley Rutschman,668939,1,1,4,True,2023-07-11,Caught,2B,2023,2024,26.7
+29,7348,1B,,Caught Stealing 2B,650333,Luis Arraez,672282,Reid Detmers,493329,Yuli Gurriel,L,Chad Wallach,595453,0,2,3,True,2023-05-26,Caught,2B,2023,2024,26.7
+30,8180,1B,,Caught Stealing 2B,650333,Luis Arraez,669456,Shane Bieber,650559,Bryan De La Cruz,R,Mike Zunino,572287,0,2,3,True,2023-04-22,Caught,2B,2023,2024,26.7
+31,8237,1B,2B,Stolen Base 2B,650333,Luis Arraez,666808,Camilo Doval,624585,Jorge Soler,R,Joey Bart,663698,1,1,10,False,2023-04-19,Stolen,2B,2023,2024,26.7
+32,315,1B,,Caught Stealing 2B,650333,Luis Arraez,669456,Shane Bieber,621043,Carlos Correa,R,Sandy León,506702,0,0,1,True,2022-06-30,Caught,2B,2022,2023,26.1
+33,1102,2B,3B,Stolen Base 3B,650333,Luis Arraez,641726,Daulton Jefferies,621043,Carlos Correa,R,Christian Bethancourt,542194,2,6,4,True,2022-05-18,Stolen,3B,2022,2023,26.1
+34,1151,1B,2B,Stolen Base 2B,650333,Luis Arraez,663474,Triston McKenzie,596146,Max Kepler,R,Luke Maile,571912,1,0,1,False,2022-05-15,Stolen,2B,2022,2023,26.1
+35,1717,1B,,Caught Stealing 2B,650333,Luis Arraez,617228,Hirokazu Sawamura,621043,Carlos Correa,R,Christian Vázquez,543877,1,6,6,True,2022-04-15,Caught,2B,2022,2023,26.1

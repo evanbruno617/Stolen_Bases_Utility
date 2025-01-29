@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+461,1B,2B,Stolen Base 2B,677592,Everson Pereira,Connor Wong,1,1,5,True,2023-09-12,Stolen,2B,2023
+464,1B,2B,Stolen Base 2B,677592,Everson Pereira,Connor Wong,1,2,9,True,2023-09-12,Stolen,2B,2023
+735,1B,2B,Stolen Base 2B,677592,Everson Pereira,Yainer Diaz,4,5,5,True,2023-09-02,Stolen,2B,2023
+791,1B,2B,Stolen Base 2B,677592,Everson Pereira,Jake Rogers,0,4,3,True,2023-08-30,Stolen,2B,2023

@@ -1,0 +1,39 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+375,1B,2B,Stolen Base 2B,340392,Timo Perez,Brian Schneider,3,10,8,True,2000-09-14,Stolen,2B,2000
+718,1B,,Caught Stealing 2B,340392,Timo Perez,Mike Matheny,5,5,9,True,2000-09-01,Caught,2B,2000
+151,1B,,Caught Stealing 2B,340392,Timo Perez,Johnny Estrada,3,2,6,False,2001-05-30,Caught,2B,2001
+664,1B,,Caught Stealing 2B,340392,Timo Perez,Ben Petrick,0,0,1,True,2001-05-10,Caught,2B,2001
+862,1B,,Caught Stealing 2B,340392,Timo Perez,Brad Ausmus,3,0,6,False,2001-05-02,Caught,2B,2001
+153,1B,2B,Stolen Base 2B,340392,Timo Perez,Michael Barrett,0,5,6,False,2002-09-22,Stolen,2B,2002
+343,1B,,Caught Stealing 2B,340392,Timo Perez,Brian Schneider,1,0,3,True,2002-09-13,Caught,2B,2002
+413,1B,2B,Stolen Base 2B,340392,Timo Perez,Henry Blanco,12,6,7,True,2002-09-10,Stolen,2B,2002
+541,1B,,Caught Stealing 2B,340392,Timo Perez,Charles Johnson,0,1,1,False,2002-09-03,Caught,2B,2002
+711,1B,2B,Stolen Base 2B,340392,Timo Perez,Sandy Alomar Jr.,0,0,1,True,2002-08-25,Stolen,2B,2002
+712,1B,2B,Stolen Base 2B,340392,Timo Perez,Sandy Alomar Jr.,2,3,5,True,2002-08-25,Stolen,2B,2002
+1020,1B,2B,Stolen Base 2B,340392,Timo Perez,Eli Marrero,4,1,5,True,2002-08-10,Stolen,2B,2002
+1472,1B,2B,Stolen Base 2B,340392,Timo Perez,Kelly Stinnett,2,4,7,True,2002-07-19,Stolen,2B,2002
+1627,2B,3B,Stolen Base 3B,340392,Timo Perez,Todd Pratt,2,6,6,False,2002-07-13,Stolen,3B,2002
+1845,2B,3B,Stolen Base 3B,340392,Timo Perez,Todd Pratt,6,3,8,True,2002-07-01,Stolen,3B,2002
+2055,1B,,Caught Stealing 2B,340392,Timo Perez,A.J. Pierzynski,1,0,7,False,2002-06-20,Caught,2B,2002
+2250,1B,,Caught Stealing 2B,340392,Timo Perez,Mark Johnson,0,2,3,True,2002-06-10,Caught,2B,2002
+2453,1B,,Caught Stealing 2B,340392,Timo Perez,Charles Johnson,3,1,3,True,2002-06-01,Caught,2B,2002
+2781,1B,2B,Stolen Base 2B,340392,Timo Perez,Tom Lampkin,2,0,4,True,2002-05-19,Stolen,2B,2002
+3143,1B,2B,Stolen Base 2B,340392,Timo Perez,Brad Ausmus,1,1,2,True,2002-05-05,Stolen,2B,2002
+907,1B,2B,Stolen Base 2B,340392,Timo Perez,Benito Santiago,4,1,3,False,2003-08-13,Stolen,2B,2003
+908,2B,3B,Stolen Base 3B,340392,Timo Perez,Benito Santiago,4,1,3,False,2003-08-13,Stolen,3B,2003
+1016,1B,2B,Stolen Base 2B,340392,Timo Perez,Rod Barajas,0,0,5,True,2003-08-08,Stolen,2B,2003
+1465,2B,3B,Stolen Base 3B,340392,Timo Perez,Javy Lopez,5,3,5,True,2003-07-19,Stolen,3B,2003
+1487,1B,2B,Stolen Base 2B,340392,Timo Perez,Henry Blanco,0,1,2,True,2003-07-17,Stolen,2B,2003
+2791,1B,,Caught Stealing 2B,340392,Timo Perez,Mike Rivera,2,2,5,False,2003-05-11,Caught,2B,2003
+2950,1B,,Caught Stealing 2B,340392,Timo Perez,Eddie Pérez,0,0,2,True,2003-05-03,Caught,2B,2003
+3152,1B,,Caught Stealing 2B,340392,Timo Perez,Brad Ausmus,3,0,4,False,2003-04-23,Caught,2B,2003
+38,1B,,Caught Stealing 2B,340392,Timo Perez,Brandon Inge,0,2,2,True,2004-09-29,Caught,2B,2004
+430,1B,2B,Stolen Base 2B,340392,Timo Perez,Bengie Molina,0,1,2,True,2004-09-10,Stolen,2B,2004
+1782,1B,2B,Stolen Base 2B,340392,Timo Perez,Joe Mauer,1,2,8,True,2004-07-01,Stolen,2B,2004
+3452,1B,2B,Stolen Base 2B,340392,Timo Perez,John Flaherty,1,0,5,True,2004-04-09,Stolen,2B,2004
+695,2B,,Caught Stealing 3B,340392,Timo Perez,Yorvit Torrealba,0,0,1,True,2005-08-26,Caught,3B,2005
+1382,1B,2B,Stolen Base 2B,340392,Timo Perez,Jason Varitek,2,1,2,False,2005-07-21,Stolen,2B,2005
+2705,2B,,Caught Stealing 3B,340392,Timo Perez,Charles Johnson,0,1,3,True,2005-05-11,Caught,3B,2005
+2830,1B,2B,Stolen Base 2B,340392,Timo Perez,Gregg Zaun,0,1,2,True,2005-05-06,Stolen,2B,2005
+512,1B,,Caught Stealing 2B,340392,Timo Perez,Kenji Johjima,5,10,3,False,2007-09-09,Caught,2B,2007
+683,1B,2B,Stolen Base 2B,340392,Timo Perez,Kurt Suzuki,1,6,8,True,2007-09-01,Stolen,2B,2007

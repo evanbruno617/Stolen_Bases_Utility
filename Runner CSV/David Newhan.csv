@@ -1,0 +1,27 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+97,1B,,Caught Stealing 2B,209315,David Newhan,Brandon Inge,3,0,7,False,2004-09-26,Caught,2B,2004
+282,1B,2B,Stolen Base 2B,209315,David Newhan,Henry Blanco,2,5,8,True,2004-09-18,Stolen,2B,2004
+318,1B,2B,Stolen Base 2B,209315,David Newhan,Gregg Zaun,0,0,1,True,2004-09-16,Stolen,2B,2004
+381,1B,2B,Stolen Base 2B,209315,David Newhan,Guillermo Quiroz,1,5,7,True,2004-09-13,Stolen,2B,2004
+591,2B,3B,Stolen Base 3B,209315,David Newhan,Toby Hall,0,3,5,True,2004-09-02,Stolen,3B,2004
+1011,1B,2B,Stolen Base 2B,209315,David Newhan,José Molina,0,0,3,True,2004-08-11,Stolen,2B,2004
+1035,1B,2B,Stolen Base 2B,209315,David Newhan,Josh Paul,3,6,7,True,2004-08-10,Stolen,2B,2004
+1091,1B,2B,Stolen Base 2B,209315,David Newhan,Rod Barajas,0,0,1,False,2004-08-07,Stolen,2B,2004
+1521,1B,2B,Stolen Base 2B,209315,David Newhan,Toby Hall,1,1,5,True,2004-07-18,Stolen,2B,2004
+1877,1B,2B,Stolen Base 2B,209315,David Newhan,Eddie Pérez,0,2,1,False,2004-06-26,Stolen,2B,2004
+85,1B,2B,Stolen Base 2B,209315,David Newhan,Jorge Posada,13,7,6,False,2005-09-27,Stolen,2B,2005
+382,1B,,Caught Stealing 2B,209315,David Newhan,Gerald Laird,2,3,7,True,2005-09-12,Caught,2B,2005
+384,1B,2B,Stolen Base 2B,209315,David Newhan,Gerald Laird,2,4,9,True,2005-09-12,Stolen,2B,2005
+977,1B,2B,Stolen Base 2B,209315,David Newhan,Toby Hall,4,2,6,False,2005-08-11,Stolen,2B,2005
+1160,1B,2B,Stolen Base 2B,209315,David Newhan,A.J. Pierzynski,1,3,7,False,2005-08-01,Stolen,2B,2005
+1738,1B,2B,Stolen Base 2B,209315,David Newhan,Victor Martinez,4,0,6,False,2005-07-02,Stolen,2B,2005
+2271,1B,2B,Stolen Base 2B,209315,David Newhan,Jason Varitek,3,3,9,True,2005-06-02,Stolen,2B,2005
+2595,1B,2B,Stolen Base 2B,209315,David Newhan,John Buck,8,11,8,True,2005-05-17,Stolen,2B,2005
+2801,1B,,Caught Stealing 2B,209315,David Newhan,John Buck,5,3,8,False,2005-05-07,Caught,2B,2005
+2943,1B,2B,Stolen Base 2B,209315,David Newhan,Toby Hall,4,1,2,False,2005-05-01,Stolen,2B,2005
+2944,2B,3B,Stolen Base 2B,209315,David Newhan,Toby Hall,4,1,2,False,2005-05-01,Stolen,2B,2005
+3013,1B,2B,Stolen Base 2B,209315,David Newhan,Jason Varitek,3,3,9,True,2005-04-27,Stolen,2B,2005
+3231,1B,2B,Stolen Base 2B,209315,David Newhan,Jorge Posada,2,0,2,False,2005-04-17,Stolen,2B,2005
+1314,1B,2B,Stolen Base 2B,209315,David Newhan,Jason Kendall,1,1,7,True,2007-08-03,Stolen,2B,2007
+2957,1B,2B,Stolen Base 2B,209315,David Newhan,Henry Blanco,0,1,4,False,2007-05-17,Stolen,2B,2007
+503,3B,score,Stolen Base Home,209315,David Newhan,Geovany Soto,0,4,9,True,2008-09-03,Stolen,Home,2008

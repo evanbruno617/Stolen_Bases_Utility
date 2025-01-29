@@ -1,0 +1,19 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,435539,Jerry Owens,Chris Heintz,0,0,1,True,2007-09-22,Stolen,2B,2007
+1B,2B,Stolen Base 2B,434158,Curtis Granderson,Chris Heintz,0,3,2,True,2007-09-16,Stolen,2B,2007
+1B,2B,Stolen Base 2B,276346,Brandon Inge,Chris Heintz,0,4,4,True,2007-09-16,Stolen,2B,2007
+1B,2B,Stolen Base 2B,435539,Jerry Owens,Chris Heintz,4,4,7,False,2007-09-07,Stolen,2B,2007
+1B,2B,Stolen Base 2B,325392,Scott Podsednik,Chris Heintz,9,10,9,False,2007-09-07,Stolen,2B,2007
+1B,,Caught Stealing 2B,407880,Luis Terrero,Chris Heintz,10,10,10,False,2007-09-07,Caught,2B,2007
+1B,2B,Stolen Base 2B,435065,Reggie Willits,Chris Heintz,1,0,3,False,2007-06-05,Stolen,2B,2007
+1B,2B,Stolen Base 2B,408210,Chone Figgins,Chris Heintz,2,1,5,False,2007-06-05,Stolen,2B,2007
+1B,2B,Stolen Base 2B,113679,Jermaine Dye,Chris Heintz,4,6,5,True,2007-05-30,Stolen,2B,2007
+1B,2B,Stolen Base 2B,117863,Kenny Lofton,Chris Heintz,1,3,3,False,2007-05-23,Stolen,2B,2007
+1B,2B,Stolen Base 2B,112736,Craig Counsell,Chris Heintz,0,0,2,False,2007-05-20,Stolen,2B,2007
+1B,2B,Stolen Base 2B,448242,Tony Gwynn Jr.,Chris Heintz,1,4,3,False,2007-05-20,Stolen,2B,2007
+1B,2B,Stolen Base 2B,429713,Grady Sizemore,Chris Heintz,2,1,3,False,2007-05-16,Stolen,2B,2007
+1B,2B,Stolen Base 2B,429713,Grady Sizemore,Chris Heintz,3,1,5,False,2007-05-16,Stolen,2B,2007
+1B,2B,Stolen Base 2B,116539,Derek Jeter,Chris Heintz,0,6,5,True,2007-04-10,Stolen,2B,2007
+1B,2B,Stolen Base 2B,400023,Aaron Rowand,Chris Heintz,0,0,1,False,2005-09-25,Stolen,2B,2005
+1B,2B,Stolen Base 2B,113679,Jermaine Dye,Chris Heintz,0,0,2,False,2005-09-25,Stolen,2B,2005
+1B,2B,Stolen Base 2B,346874,Juan Uribe,Chris Heintz,4,0,4,False,2005-09-25,Stolen,2B,2005

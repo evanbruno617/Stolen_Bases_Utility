@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+270,1B,2B,Stolen Base 2B,680700,Richie Palacios,Gary Sánchez,4,3,8,False,2022-09-16,Stolen,2B,2022
+2483,1B,2B,Stolen Base 2B,680700,Richie Palacios,Ryan Jeffers,1,0,3,True,2022-05-15,Stolen,2B,2022
+198,1B,2B,Stolen Base 2B,680700,Richie Palacios,Brett Sullivan,0,0,2,True,2023-09-22,Stolen,2B,2023
+621,1B,2B,Stolen Base 2B,680700,Richie Palacios,Sean Murphy,6,11,9,True,2023-09-06,Stolen,2B,2023

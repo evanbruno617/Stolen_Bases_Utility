@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1550,1B,2B,Stolen Base 2B,453181,Matt LaPorta,Ryan Hanigan,6,4,4,True,2009-05-23,Stolen,2B,2009
+1777,1B,2B,Stolen Base 2B,453181,Matt LaPorta,Michel Hernandez,0,6,6,True,2009-05-14,Stolen,2B,2009
+4336,1B,2B,Stolen Base 2B,453181,Matt LaPorta,Jason Varitek,3,1,6,False,2011-04-05,Stolen,2B,2011

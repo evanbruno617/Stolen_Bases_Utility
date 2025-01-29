@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+612,1B,,Caught Stealing 2B,451500,Kila Ka'aihue,Bengie Molina,2,3,4,False,2010-09-01,Caught,2B,2010
+3522,2B,3B,Stolen Base 3B,451500,Kila Ka'aihue,Jarrod Saltalamacchia,0,1,2,True,2012-05-01,Stolen,3B,2012

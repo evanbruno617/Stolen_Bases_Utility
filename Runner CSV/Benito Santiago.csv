@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+629,1B,2B,Stolen Base 2B,121693,Benito Santiago,Mike Piazza,3,1,6,False,2000-09-04,Stolen,2B,2000
+732,1B,2B,Stolen Base 2B,121693,Benito Santiago,Javy Lopez,2,4,6,True,2000-08-31,Stolen,2B,2000
+3014,1B,,Caught Stealing 2B,121693,Benito Santiago,Jason Kendall,3,3,8,False,2000-05-18,Caught,2B,2000
+3685,1B,,Caught Stealing 2B,121693,Benito Santiago,Doug Mirabelli,5,4,8,False,2000-04-19,Caught,2B,2000
+205,1B,2B,Stolen Base 2B,121693,Benito Santiago,Damian Miller,1,1,10,False,2001-05-28,Stolen,2B,2001
+362,1B,2B,Stolen Base 2B,121693,Benito Santiago,Damian Miller,1,1,4,True,2001-05-21,Stolen,2B,2001
+693,2B,3B,Stolen Base 3B,121693,Benito Santiago,Michael Barrett,4,1,5,False,2001-05-08,Stolen,3B,2001
+86,1B,2B,Stolen Base 2B,121693,Benito Santiago,Wil Nieves,6,0,8,False,2002-09-25,Stolen,2B,2002
+451,2B,3B,Stolen Base 3B,121693,Benito Santiago,Damian Miller,2,1,4,False,2002-09-08,Stolen,3B,2002
+1024,1B,2B,Stolen Base 2B,121693,Benito Santiago,Jason Kendall,2,2,4,False,2002-08-09,Stolen,2B,2002
+1544,1B,,Caught Stealing 2B,121693,Benito Santiago,Chad Moeller,2,3,6,False,2002-07-16,Caught,2B,2002
+2742,1B,2B,Stolen Base 2B,121693,Benito Santiago,Damian Miller,0,0,2,True,2002-05-21,Stolen,2B,2002
+2322,2B,3B,Stolen Base 3B,121693,Benito Santiago,Jason Varitek,5,2,8,False,2004-06-04,Stolen,3B,2004
+2464,3B,,Caught Stealing Home,121693,Benito Santiago,Henry Blanco,1,1,5,False,2004-05-28,Caught,Home,2004
+2561,1B,,Caught Stealing 2B,121693,Benito Santiago,Damian Miller,2,1,5,True,2004-05-23,Caught,2B,2004

@@ -1,0 +1,22 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+186,1B,2B,Stolen Base 2B,120922,Joe Randa,Sandy Alomar Jr.,2,2,6,False,2000-09-22,Stolen,2B,2000
+1775,3B,,Caught Stealing Home,120922,Joe Randa,Henry Blanco,5,1,3,False,2000-07-15,Caught,Home,2000
+2100,1B,2B,Stolen Base 2B,120922,Joe Randa,Sandy Alomar Jr.,0,1,2,False,2000-06-27,Stolen,2B,2000
+2245,1B,2B,Caught Stealing 3B,120922,Joe Randa,Bengie Molina,6,7,9,True,2000-06-20,Caught,3B,2000
+2553,1B,,Caught Stealing 2B,120922,Joe Randa,Eli Marrero,0,0,2,True,2000-06-06,Caught,2B,2000
+2699,3B,,Caught Stealing Home,120922,Joe Randa,Jason Varitek,0,0,2,True,2000-06-01,Caught,Home,2000
+3301,1B,2B,Stolen Base 2B,120922,Joe Randa,Josh Paul,1,1,2,False,2000-05-05,Stolen,2B,2000
+3303,1B,2B,Stolen Base 2B,120922,Joe Randa,Josh Paul,3,1,3,False,2000-05-05,Stolen,2B,2000
+3583,1B,2B,Stolen Base 2B,120922,Joe Randa,Tom Lampkin,5,1,6,True,2000-04-23,Stolen,2B,2000
+3870,1B,2B,Stolen Base 2B,120922,Joe Randa,Charles Johnson,1,3,4,False,2000-04-11,Stolen,2B,2000
+97,1B,,Caught Stealing 2B,120922,Joe Randa,Jorge Fabregas,2,0,4,True,2001-06-01,Caught,2B,2001
+588,1B,,Caught Stealing 2B,120922,Joe Randa,Tom Prince,0,0,2,True,2001-05-12,Caught,2B,2001
+690,1B,2B,Stolen Base 2B,120922,Joe Randa,Einar Díaz,0,0,2,True,2001-05-09,Stolen,2B,2001
+766,1B,2B,Stolen Base 2B,120922,Joe Randa,A.J. Pierzynski,4,4,6,False,2001-05-05,Stolen,2B,2001
+2617,1B,2B,Stolen Base 2B,120922,Joe Randa,Todd Greene,5,1,3,False,2002-05-26,Stolen,2B,2002
+2674,1B,2B,Stolen Base 2B,120922,Joe Randa,Todd Greene,5,1,3,False,2002-05-23,Stolen,2B,2002
+3587,1B,,Caught Stealing 2B,120922,Joe Randa,A.J. Pierzynski,4,5,5,True,2002-04-16,Caught,2B,2002
+3783,1B,2B,Stolen Base 2B,120922,Joe Randa,Jason Varitek,0,0,2,True,2002-04-09,Stolen,2B,2002
+2647,1B,2B,Stolen Base 2B,120922,Joe Randa,Tom Wilson,0,2,1,False,2003-05-17,Stolen,2B,2003
+1004,1B,,Caught Stealing 2B,120922,Joe Randa,Ben Davis,3,2,8,True,2004-08-12,Caught,2B,2004
+355,1B,,Caught Stealing 2B,120922,Joe Randa,Mike Matheny,4,3,7,True,2005-09-13,Caught,2B,2005

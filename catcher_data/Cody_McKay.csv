@@ -1,0 +1,10 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,425853,Bobby Crosby,Cody McKay,0,4,5,True,2004-06-17,Stolen,2B,2004
+1B,2B,Stolen Base 2B,407893,Mark Teixeira,Cody McKay,1,5,4,False,2004-06-11,Stolen,2B,2004
+1B,2B,Stolen Base 2B,110987,Craig Biggio,Cody McKay,2,3,9,True,2004-06-06,Stolen,2B,2004
+1B,2B,Stolen Base 2B,115902,Richard Hidalgo,Cody McKay,2,2,4,False,2004-05-29,Stolen,2B,2004
+1B,2B,Stolen Base 2B,346852,Craig Wilson,Cody McKay,5,0,4,True,2004-05-27,Stolen,2B,2004
+1B,,Caught Stealing 2B,407930,Bobby Hill,Cody McKay,6,3,7,True,2004-05-27,Caught,2B,2004
+1B,,Caught Stealing 2B,136770,J.D. Drew,Cody McKay,0,0,1,True,2004-05-13,Caught,2B,2004
+1B,2B,Stolen Base 2B,279578,Marcus Giles,Cody McKay,2,3,3,True,2004-05-13,Stolen,2B,2004
+1B,,Caught Stealing 2B,276547,Dewayne Wise,Cody McKay,5,6,9,True,2004-05-13,Caught,2B,2004

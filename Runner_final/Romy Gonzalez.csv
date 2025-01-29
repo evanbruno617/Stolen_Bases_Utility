@@ -1,0 +1,15 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2462,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,605463,Tayler Scott,669394,Jake Burger,R,Austin Barnes,605131,4,6,9,True,2023-06-14,Stolen,2B,2023,2024,28.9
+1,2633,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,622772,Jimmy Cordero,664874,Seby Zavala,R,Kyle Higashioka,543309,5,4,6,True,2023-06-08,Stolen,2B,2023,2024,28.9
+2,2634,2B,3B,Stolen Base 3B,663853,Romy Gonzalez,622772,Jimmy Cordero,641313,Tim Anderson,R,Kyle Higashioka,543309,5,4,6,True,2023-06-08,Stolen,3B,2023,2024,28.9
+3,2752,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,671345,Jason Foley,518735,Yasmani Grandal,R,Eric Haase,606992,1,1,8,False,2023-06-03,Stolen,2B,2023,2024,28.9
+4,2843,2B,3B,Stolen Base 3B,663853,Romy Gonzalez,542881,Tyler Anderson,664874,Seby Zavala,L,Chad Wallach,595453,6,3,4,False,2023-05-30,Stolen,3B,2023,2024,28.9
+5,3049,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,666721,Max Castillo,643217,Andrew Benintendi,R,Salvador Perez,521692,0,2,3,False,2023-05-21,Stolen,2B,2023,2024,28.9
+6,4068,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,670912,Johan Oviedo,664874,Seby Zavala,R,Tyler Heineman,623168,1,0,5,True,2023-04-09,Stolen,2B,2023,2024,28.9
+7,6876,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,605463,Tayler Scott,669394,Jake Burger,R,Austin Barnes,605131,4,6,9,True,2023-06-14,Stolen,2B,2023,2024,28.9
+8,7047,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,622772,Jimmy Cordero,664874,Seby Zavala,R,Kyle Higashioka,543309,5,4,6,True,2023-06-08,Stolen,2B,2023,2024,28.9
+9,7048,2B,3B,Stolen Base 3B,663853,Romy Gonzalez,622772,Jimmy Cordero,641313,Tim Anderson,R,Kyle Higashioka,543309,5,4,6,True,2023-06-08,Stolen,3B,2023,2024,28.9
+10,7166,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,671345,Jason Foley,518735,Yasmani Grandal,R,Eric Haase,606992,1,1,8,False,2023-06-03,Stolen,2B,2023,2024,28.9
+11,7257,2B,3B,Stolen Base 3B,663853,Romy Gonzalez,542881,Tyler Anderson,664874,Seby Zavala,L,Chad Wallach,595453,6,3,4,False,2023-05-30,Stolen,3B,2023,2024,28.9
+12,7463,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,666721,Max Castillo,643217,Andrew Benintendi,R,Salvador Perez,521692,0,2,3,False,2023-05-21,Stolen,2B,2023,2024,28.9
+13,8482,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,670912,Johan Oviedo,664874,Seby Zavala,R,Tyler Heineman,623168,1,0,5,True,2023-04-09,Stolen,2B,2023,2024,28.9

@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+132,1B,2B,Stolen Base 2B,519068,Efren Navarro,Mike Zunino,1,1,4,False,2013-09-22,Stolen,2B,2013
+134,1B,,Caught Stealing 2B,519068,Efren Navarro,Geovany Soto,0,1,2,True,2014-09-23,Caught,2B,2014
+1195,1B,2B,Stolen Base 2B,519068,Efren Navarro,Curt Casali,2,5,6,True,2014-08-03,Stolen,2B,2014
+1891,1B,,Caught Stealing 2B,519068,Efren Navarro,Kurt Suzuki,2,0,2,False,2014-06-26,Caught,2B,2014
+2014,1B,,Caught Stealing 2B,519068,Efren Navarro,Josh Phegley,1,0,2,False,2015-06-12,Caught,2B,2015
+3375,1B,,Caught Stealing 2B,519068,Efren Navarro,Mike Zunino,1,5,4,True,2015-04-08,Caught,2B,2015
+34,1B,,Caught Stealing 2B,519068,Efren Navarro,Chris Gimenez,5,3,3,True,2017-09-29,Caught,2B,2017

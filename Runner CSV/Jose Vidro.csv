@@ -1,0 +1,28 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+556,1B,,Caught Stealing 2B,123723,Jose Vidro,Mike Matheny,0,0,2,True,2000-09-06,Caught,2B,2000
+1033,1B,,Caught Stealing 2B,123723,Jose Vidro,Wiki Gonzalez,3,6,9,True,2000-08-18,Caught,2B,2000
+2451,1B,,Caught Stealing 2B,123723,Jose Vidro,Alberto Castillo,3,3,8,True,2000-06-11,Caught,2B,2000
+2986,1B,2B,Stolen Base 2B,123723,Jose Vidro,Mitch Meluskey,1,1,6,False,2000-05-19,Stolen,2B,2000
+3162,1B,2B,Stolen Base 2B,123723,Jose Vidro,Joe Girardi,0,0,1,False,2000-05-12,Stolen,2B,2000
+3970,1B,,Caught Stealing 2B,123723,Jose Vidro,Wiki Gonzalez,0,3,1,False,2000-04-07,Caught,2B,2000
+3979,1B,2B,Stolen Base 2B,123723,Jose Vidro,Todd Hundley,0,0,2,False,2000-04-06,Stolen,2B,2000
+4030,1B,2B,Stolen Base 2B,123723,Jose Vidro,Todd Hundley,0,0,1,False,2000-04-03,Stolen,2B,2000
+4031,1B,2B,Stolen Base 2B,123723,Jose Vidro,Todd Hundley,1,1,3,False,2000-04-03,Stolen,2B,2000
+1117,1B,,Caught Stealing 2B,123723,Jose Vidro,Charles Johnson,2,0,6,True,2001-04-21,Caught,2B,2001
+2621,1B,2B,Stolen Base 2B,123723,Jose Vidro,Todd Pratt,6,5,7,False,2002-05-26,Stolen,2B,2002
+2841,1B,2B,Stolen Base 2B,123723,Jose Vidro,Paul Lo Duca,2,1,5,True,2002-05-17,Stolen,2B,2002
+519,2B,3B,Stolen Base 3B,123723,Jose Vidro,Todd Pratt,0,3,1,True,2003-09-03,Stolen,3B,2003
+1448,1B,,Caught Stealing 2B,123723,Jose Vidro,Mike Lieberthal,0,1,3,True,2003-07-19,Caught,2B,2003
+1994,1B,2B,Stolen Base 2B,123723,Jose Vidro,Jason Kendall,1,1,5,True,2003-06-19,Stolen,2B,2003
+2183,1B,,Caught Stealing 2B,123723,Jose Vidro,Dan Wilson,3,4,8,True,2003-06-10,Caught,2B,2003
+2282,1B,2B,Stolen Base 2B,123723,Jose Vidro,Bengie Molina,6,7,14,False,2003-06-05,Stolen,2B,2003
+1423,1B,2B,Caught Stealing 3B,123723,Jose Vidro,Jason Phillips,0,0,4,True,2004-07-22,Caught,3B,2004
+1768,1B,2B,Stolen Base 2B,123723,Jose Vidro,Gregg Zaun,1,0,8,False,2004-07-02,Stolen,2B,2004
+2124,1B,,Caught Stealing 2B,123723,Jose Vidro,Dan Wilson,3,0,4,True,2004-06-12,Caught,2B,2004
+2363,2B,3B,Stolen Base 3B,123723,Jose Vidro,Johnny Estrada,4,8,9,True,2004-06-02,Stolen,3B,2004
+2934,1B,2B,Stolen Base 2B,123723,Jose Vidro,Charles Johnson,1,1,4,False,2004-05-04,Stolen,2B,2004
+601,1B,2B,Caught Stealing 3B,123723,Jose Vidro,Brian McCann,1,1,3,True,2005-08-31,Caught,3B,2005
+637,1B,2B,Caught Stealing 3B,123723,Jose Vidro,Brian McCann,1,1,3,True,2005-08-29,Caught,3B,2005
+1121,1B,2B,Stolen Base 2B,123723,Jose Vidro,Guillermo Quiroz,7,4,8,False,2008-08-03,Stolen,2B,2008
+1779,3B,,Caught Stealing Home,123723,Jose Vidro,Michael Barrett,0,0,2,True,2008-06-28,Caught,Home,2008
+3725,1B,2B,Stolen Base 2B,123723,Jose Vidro,Gerald Laird,1,0,2,False,2008-04-01,Stolen,2B,2008

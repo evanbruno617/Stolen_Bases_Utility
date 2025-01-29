@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+198,1B,2B,Stolen Base 2B,595963,Tyler Goeddel,Buster Posey,4,4,11,False,2016-08-03,Stolen,2B,2016
+494,1B,2B,Stolen Base 2B,595963,Tyler Goeddel,J.T. Realmuto,3,0,2,False,2016-07-20,Stolen,2B,2016
+1681,1B,2B,Stolen Base 2B,595963,Tyler Goeddel,Tucker Barnhart,0,1,3,False,2016-05-14,Stolen,2B,2016

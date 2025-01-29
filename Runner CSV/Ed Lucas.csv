@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+240,1B,,Caught Stealing 2B,448296,Ed Lucas,Carlos Ruiz,0,0,3,True,2013-09-18,Caught,2B,2013
+888,1B,2B,Caught Stealing 3B,448296,Ed Lucas,Héctor Sánchez,3,2,4,False,2013-08-18,Caught,3B,2013
+1651,1B,2B,Stolen Base 2B,448296,Ed Lucas,Brian McCann,1,1,7,False,2013-07-08,Stolen,2B,2013
+1746,2B,3B,Stolen Base 3B,448296,Ed Lucas,Koyie Hill,0,0,1,False,2014-07-02,Stolen,3B,2014

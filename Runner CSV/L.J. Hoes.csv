@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+746,1B,2B,Stolen Base 2B,543321,L.J. Hoes,Josh Thole,1,0,3,False,2013-08-25,Stolen,2B,2013
+773,1B,2B,Stolen Base 2B,543321,L.J. Hoes,J.P. Arencibia,3,0,3,False,2013-08-24,Stolen,2B,2013
+784,1B,2B,Stolen Base 2B,543321,L.J. Hoes,J.P. Arencibia,8,2,4,False,2013-08-23,Stolen,2B,2013
+957,1B,,Caught Stealing 2B,543321,L.J. Hoes,Stephen Vogt,0,0,3,True,2013-08-14,Caught,2B,2013
+978,1B,2B,Stolen Base 2B,543321,L.J. Hoes,Stephen Vogt,1,5,8,True,2013-08-13,Stolen,2B,2013
+1047,1B,2B,Stolen Base 2B,543321,L.J. Hoes,A.J. Pierzynski,4,3,7,False,2013-08-10,Stolen,2B,2013
+1156,1B,2B,Stolen Base 2B,543321,L.J. Hoes,Jarrod Saltalamacchia,0,0,5,False,2013-08-05,Stolen,2B,2013
+1190,1B,2B,Stolen Base 2B,543321,L.J. Hoes,Joe Mauer,3,4,3,True,2013-08-03,Stolen,2B,2013

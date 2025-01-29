@@ -1,0 +1,17 @@
+Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2B,3B,Stolen Base 3B,460576,Carlos Gómez,452718,Kyle Kendrick,518960,Jonathan Lucroy,R,Koyie Hill,425542,5,6,2,False,2014-07-08,Stolen,3B
+1B,2B,Stolen Base 2B,516782,Starling Marte,433584,Roberto Hernandez,457705,Andrew McCutchen,R,Koyie Hill,425542,0,0,1,False,2014-07-04,Stolen,2B
+1B,2B,Stolen Base 2B,457705,Andrew McCutchen,433584,Roberto Hernandez,435522,Neil Walker,R,Koyie Hill,425542,0,0,1,False,2014-07-04,Stolen,2B
+1B,2B,Stolen Base 2B,543281,Josh Harrison,433584,Roberto Hernandez,459991,Gaby Sanchez,R,Koyie Hill,425542,2,0,1,False,2014-07-04,Stolen,2B
+1B,,Caught Stealing 2B,570256,Gregory Polanco,433584,Roberto Hernandez,516782,Starling Marte,R,Koyie Hill,425542,4,0,2,False,2014-07-04,Caught,2B
+2B,3B,Stolen Base 3B,448296,Ed Lucas,430935,Cole Hamels,431171,Casey McGehee,L,Koyie Hill,425542,0,0,1,False,2014-07-02,Stolen,3B
+1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,430935,Cole Hamels,431171,Casey McGehee,L,Koyie Hill,425542,0,0,1,False,2014-07-02,Stolen,2B
+1B,2B,Stolen Base 2B,592743,Andrelton Simmons,433584,Roberto Hernandez,518692,Freddie Freeman,R,Koyie Hill,425542,2,2,6,True,2014-06-28,Stolen,2B
+2B,3B,Stolen Base 3B,460576,Carlos Gómez,452718,Kyle Kendrick,518960,Jonathan Lucroy,R,Koyie Hill,425542,5,6,2,False,2014-07-08,Stolen,3B
+1B,2B,Stolen Base 2B,516782,Starling Marte,433584,Roberto Hernandez,457705,Andrew McCutchen,R,Koyie Hill,425542,0,0,1,False,2014-07-04,Stolen,2B
+1B,2B,Stolen Base 2B,457705,Andrew McCutchen,433584,Roberto Hernandez,435522,Neil Walker,R,Koyie Hill,425542,0,0,1,False,2014-07-04,Stolen,2B
+1B,2B,Stolen Base 2B,543281,Josh Harrison,433584,Roberto Hernandez,459991,Gaby Sanchez,R,Koyie Hill,425542,2,0,1,False,2014-07-04,Stolen,2B
+1B,,Caught Stealing 2B,570256,Gregory Polanco,433584,Roberto Hernandez,516782,Starling Marte,R,Koyie Hill,425542,4,0,2,False,2014-07-04,Caught,2B
+2B,3B,Stolen Base 3B,448296,Ed Lucas,430935,Cole Hamels,431171,Casey McGehee,L,Koyie Hill,425542,0,0,1,False,2014-07-02,Stolen,3B
+1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,430935,Cole Hamels,431171,Casey McGehee,L,Koyie Hill,425542,0,0,1,False,2014-07-02,Stolen,2B
+1B,2B,Stolen Base 2B,592743,Andrelton Simmons,433584,Roberto Hernandez,518692,Freddie Freeman,R,Koyie Hill,425542,2,2,6,True,2014-06-28,Stolen,2B

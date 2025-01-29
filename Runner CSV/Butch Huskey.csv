@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+131,1B,2B,Stolen Base 2B,116357,Butch Huskey,Ramon Castro,4,1,3,False,2000-09-24,Stolen,2B,2000
+494,2B,,Caught Stealing 3B,116357,Butch Huskey,Chad Kreuter,6,0,1,False,2000-09-09,Caught,3B,2000
+3118,1B,,Caught Stealing 2B,116357,Butch Huskey,Josh Paul,1,3,7,True,2000-05-13,Caught,2B,2000
+3578,1B,,Caught Stealing 2B,116357,Butch Huskey,Jorge Posada,1,3,6,True,2000-04-24,Caught,2B,2000

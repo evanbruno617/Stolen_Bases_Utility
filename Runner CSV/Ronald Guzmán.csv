@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2497,1B,2B,Stolen Base 2B,608597,Ronald Guzmán,David Freitas,0,3,9,True,2018-05-16,Stolen,2B,2018
+1818,1B,,Caught Stealing 2B,608597,Ronald Guzmán,Chance Sisco,4,3,7,False,2019-06-06,Caught,2B,2019
+1900,1B,2B,Stolen Base 2B,608597,Ronald Guzmán,Cam Gallagher,5,1,8,False,2019-06-02,Stolen,2B,2019
+260,1B,2B,Stolen Base 2B,608597,Ronald Guzmán,Martín Maldonado,1,1,5,True,2020-09-15,Stolen,2B,2020

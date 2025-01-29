@@ -1,0 +1,43 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,180,1B,2B,Stolen Base 2B,605131,Austin Barnes,571710,Mychal Givens,605141,Mookie Betts,R,Drew Butera,460077,1,4,7,True,2020-09-19,Stolen,2B,2020,2021,26.9
+1,358,1B,2B,Caught Stealing Home,605131,Austin Barnes,642092,Riley Smith,605141,Mookie Betts,R,Carson Kelly,608348,2,2,6,True,2020-09-10,Caught,Home,2020,2021,26.9
+2,587,1B,2B,Stolen Base 2B,605131,Austin Barnes,621129,Kyle Cody,605141,Mookie Betts,R,Robinson Chirinos,455139,4,7,8,True,2020-08-29,Stolen,2B,2020,2021,26.9
+3,809,1B,2B,Stolen Base 2B,605131,Austin Barnes,656186,Dan Altavilla,608369,Corey Seager,R,Austin Nola,543592,2,1,8,False,2020-08-18,Stolen,2B,2020,2021,26.9
+4,3023,1B,2B,Stolen Base 2B,605131,Austin Barnes,571710,Mychal Givens,605141,Mookie Betts,R,Drew Butera,460077,1,4,7,True,2020-09-19,Stolen,2B,2020,2021,26.9
+5,3201,1B,2B,Caught Stealing Home,605131,Austin Barnes,642092,Riley Smith,605141,Mookie Betts,R,Carson Kelly,608348,2,2,6,True,2020-09-10,Caught,Home,2020,2021,26.9
+6,3430,1B,2B,Stolen Base 2B,605131,Austin Barnes,621129,Kyle Cody,605141,Mookie Betts,R,Robinson Chirinos,455139,4,7,8,True,2020-08-29,Stolen,2B,2020,2021,26.9
+7,3652,1B,2B,Stolen Base 2B,605131,Austin Barnes,656186,Dan Altavilla,608369,Corey Seager,R,Austin Nola,543592,2,1,8,False,2020-08-18,Stolen,2B,2020,2021,26.9
+8,4947,1B,2B,Stolen Base 2B,605131,Austin Barnes,571710,Mychal Givens,605141,Mookie Betts,R,Drew Butera,460077,1,4,7,True,2020-09-19,Stolen,2B,2020,2021,26.9
+9,5125,1B,2B,Caught Stealing Home,605131,Austin Barnes,642092,Riley Smith,605141,Mookie Betts,R,Carson Kelly,608348,2,2,6,True,2020-09-10,Caught,Home,2020,2021,26.9
+10,5354,1B,2B,Stolen Base 2B,605131,Austin Barnes,621129,Kyle Cody,605141,Mookie Betts,R,Robinson Chirinos,455139,4,7,8,True,2020-08-29,Stolen,2B,2020,2021,26.9
+11,5576,1B,2B,Stolen Base 2B,605131,Austin Barnes,656186,Dan Altavilla,608369,Corey Seager,R,Austin Nola,543592,2,1,8,False,2020-08-18,Stolen,2B,2020,2021,26.9
+12,2492,3B,score,Stolen Base Home,605131,Austin Barnes,621107,Zach Eflin,657077,Alex Verdugo,R,Andrew Knapp,595284,1,6,4,True,2019-07-15,Stolen,Home,2019,2020,26.6
+13,3527,1B,2B,Stolen Base 2B,605131,Austin Barnes,434671,Aníbal Sánchez,628317,Kenta Maeda,R,Kurt Suzuki,435559,2,0,4,False,2019-05-10,Stolen,2B,2019,2020,26.6
+14,3910,1B,2B,Stolen Base 2B,605131,Austin Barnes,543243,Sonny Gray,621111,Walker Buehler,R,Curt Casali,592200,0,0,6,False,2019-04-17,Stolen,2B,2019,2020,26.6
+15,5335,3B,score,Stolen Base Home,605131,Austin Barnes,621107,Zach Eflin,657077,Alex Verdugo,R,Andrew Knapp,595284,1,6,4,True,2019-07-15,Stolen,Home,2019,2020,26.6
+16,6370,1B,2B,Stolen Base 2B,605131,Austin Barnes,434671,Aníbal Sánchez,628317,Kenta Maeda,R,Kurt Suzuki,435559,2,0,4,False,2019-05-10,Stolen,2B,2019,2020,26.6
+17,6753,1B,2B,Stolen Base 2B,605131,Austin Barnes,543243,Sonny Gray,621111,Walker Buehler,R,Curt Casali,592200,0,0,6,False,2019-04-17,Stolen,2B,2019,2020,26.6
+18,7259,3B,score,Stolen Base Home,605131,Austin Barnes,621107,Zach Eflin,657077,Alex Verdugo,R,Andrew Knapp,595284,1,6,4,True,2019-07-15,Stolen,Home,2019,2020,26.6
+19,8294,1B,2B,Stolen Base 2B,605131,Austin Barnes,434671,Aníbal Sánchez,628317,Kenta Maeda,R,Kurt Suzuki,435559,2,0,4,False,2019-05-10,Stolen,2B,2019,2020,26.6
+20,8677,1B,2B,Stolen Base 2B,605131,Austin Barnes,543243,Sonny Gray,621111,Walker Buehler,R,Curt Casali,592200,0,0,6,False,2019-04-17,Stolen,2B,2019,2020,26.6
+21,121,2B,3B,Stolen Base 3B,605131,Austin Barnes,607536,Kyle Freeland,453286,Max Scherzer,L,Elias Díaz,553869,0,1,2,True,2021-09-23,Stolen,3B,2021,2022,26.7
+22,2045,2B,3B,Stolen Base 3B,605131,Austin Barnes,607536,Kyle Freeland,453286,Max Scherzer,L,Elias Díaz,553869,0,1,2,True,2021-09-23,Stolen,3B,2021,2022,26.7
+23,3488,1B,,Caught Stealing 2B,605131,Austin Barnes,621237,José Alvarado,621035,Chris Taylor,L,Garrett Stubbs,596117,6,5,8,False,2023-05-03,Caught,2B,2023,2024,25.8
+24,3636,1B,2B,Stolen Base 2B,605131,Austin Barnes,656605,Mitch Keller,518792,Jason Heyward,R,Austin Hedges,595978,3,2,5,True,2023-04-27,Stolen,2B,2023,2024,25.8
+25,3827,1B,2B,Stolen Base 2B,605131,Austin Barnes,595928,John Curtiss,681546,James Outman,R,Francisco Alvarez,682626,3,0,8,False,2023-04-18,Stolen,2B,2023,2024,25.8
+26,7902,1B,,Caught Stealing 2B,605131,Austin Barnes,621237,José Alvarado,621035,Chris Taylor,L,Garrett Stubbs,596117,6,5,8,False,2023-05-03,Caught,2B,2023,2024,25.8
+27,8050,1B,2B,Stolen Base 2B,605131,Austin Barnes,656605,Mitch Keller,518792,Jason Heyward,R,Austin Hedges,595978,3,2,5,True,2023-04-27,Stolen,2B,2023,2024,25.8
+28,8241,1B,2B,Stolen Base 2B,605131,Austin Barnes,595928,John Curtiss,681546,James Outman,R,Francisco Alvarez,682626,3,0,8,False,2023-04-18,Stolen,2B,2023,2024,25.8
+29,296,2B,3B,Stolen Base 3B,605131,Austin Barnes,605483,Blake Snell,607208,Trea Turner,L,Austin Nola,543592,1,0,3,False,2022-07-01,Stolen,3B,2022,2023,26.5
+30,338,1B,2B,Stolen Base 2B,605131,Austin Barnes,607536,Kyle Freeland,607208,Trea Turner,L,Elias Díaz,553869,1,2,2,True,2022-06-28,Stolen,2B,2022,2023,26.5
+31,135,1B,2B,Stolen Base 2B,605131,Austin Barnes,518715,Cory Gearrin,571771,Enrique Hernández,R,Buster Posey,457763,2,4,6,True,2018-04-27,Stolen,2B,2018,2019,27.2
+32,1851,1B,,Caught Stealing 2B,605131,Austin Barnes,605195,Kyle Crick,571771,Enrique Hernández,R,Nick Hundley,460026,6,4,8,False,2017-07-28,Caught,2B,2017,2018,27.4
+33,2434,1B,2B,Stolen Base 2B,605131,Austin Barnes,571927,Steven Matz,624577,Yasiel Puig,L,Travis d'Arnaud,518595,3,2,4,False,2017-06-22,Stolen,2B,2017,2018,27.4
+34,2435,2B,3B,Stolen Base 3B,605131,Austin Barnes,571927,Steven Matz,547943,Hyun Jin Ryu,L,Travis d'Arnaud,518595,3,2,4,False,2017-06-22,Stolen,3B,2017,2018,27.4
+35,3214,2B,3B,Stolen Base 3B,605131,Austin Barnes,542881,Tyler Anderson,518649,Brett Eibner,L,Ryan Hanigan,452672,0,1,2,True,2017-05-13,Stolen,3B,2017,2018,27.4
+36,3884,1B,2B,Stolen Base 2B,605131,Austin Barnes,543475,Jordan Lyles,501593,Luis Avilán,R,Tony Wolters,547172,4,9,7,True,2017-04-09,Stolen,2B,2017,2018,27.4
+37,1223,1B,,Caught Stealing 2B,605131,Austin Barnes,605195,Kyle Crick,571771,Enrique Hernández,R,Nick Hundley,460026,6,4,8,False,2017-07-28,Caught,2B,2017,2018,27.4
+38,1806,1B,2B,Stolen Base 2B,605131,Austin Barnes,571927,Steven Matz,624577,Yasiel Puig,L,Travis d'Arnaud,518595,3,2,4,False,2017-06-22,Stolen,2B,2017,2018,27.4
+39,1807,2B,3B,Stolen Base 3B,605131,Austin Barnes,571927,Steven Matz,547943,Hyun Jin Ryu,L,Travis d'Arnaud,518595,3,2,4,False,2017-06-22,Stolen,3B,2017,2018,27.4
+40,2586,2B,3B,Stolen Base 3B,605131,Austin Barnes,542881,Tyler Anderson,518649,Brett Eibner,L,Ryan Hanigan,452672,0,1,2,True,2017-05-13,Stolen,3B,2017,2018,27.4
+41,3256,1B,2B,Stolen Base 2B,605131,Austin Barnes,543475,Jordan Lyles,501593,Luis Avilán,R,Tony Wolters,547172,4,9,7,True,2017-04-09,Stolen,2B,2017,2018,27.4

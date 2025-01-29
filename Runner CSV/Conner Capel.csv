@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+5,1B,,Caught Stealing 2B,668843,Conner Capel,Luis Torrens,1,1,2,True,2022-09-30,Caught,2B,2022
+2134,1B,2B,Stolen Base 2B,668843,Conner Capel,Jose Trevino,1,1,2,False,2023-06-29,Stolen,2B,2023
+3577,1B,,Caught Stealing 2B,668843,Conner Capel,Curt Casali,2,1,5,False,2023-04-29,Caught,2B,2023
+3725,1B,2B,Stolen Base 2B,668843,Conner Capel,Jonah Heim,0,0,2,True,2023-04-23,Stolen,2B,2023
+3778,1B,,Caught Stealing 2B,668843,Conner Capel,Jonah Heim,4,0,2,True,2023-04-21,Caught,2B,2023
+3809,2B,,Caught Stealing 3B,668843,Conner Capel,Tucker Barnhart,0,0,3,False,2023-04-19,Caught,3B,2023
+4018,1B,2B,Stolen Base 2B,668843,Conner Capel,Adley Rutschman,2,2,4,True,2023-04-11,Stolen,2B,2023
+4142,1B,2B,Stolen Base 2B,668843,Conner Capel,Cam Gallagher,4,4,9,False,2023-04-05,Stolen,2B,2023
+4143,2B,3B,Stolen Base 3B,668843,Conner Capel,Cam Gallagher,4,4,9,False,2023-04-05,Stolen,3B,2023

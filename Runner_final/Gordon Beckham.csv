@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,711,1B,2B,Stolen Base 2B,493596,Gordon Beckham,501563,Simon Castro,571745,Mitch Haniger,R,Josh Phegley,572033,3,6,9,True,2017-09-26,Stolen,2B,2017,2018,26.2
+1,83,1B,2B,Stolen Base 2B,493596,Gordon Beckham,501563,Simon Castro,571745,Mitch Haniger,R,Josh Phegley,572033,3,6,9,True,2017-09-26,Stolen,2B,2017,2018,26.2
+2,6372,1B,2B,Stolen Base 2B,493596,Gordon Beckham,607457,Kyle Barraclough,518692,Freddie Freeman,R,Jeff Mathis,425772,2,6,8,False,2016-05-29,Stolen,2B,2016,2017,25.2
+3,2337,1B,2B,Stolen Base 2B,493596,Gordon Beckham,607457,Kyle Barraclough,518692,Freddie Freeman,R,Jeff Mathis,425772,2,6,8,False,2016-05-29,Stolen,2B,2016,2017,25.2
+4,5744,1B,2B,Stolen Base 2B,493596,Gordon Beckham,607457,Kyle Barraclough,518692,Freddie Freeman,R,Jeff Mathis,425772,2,6,8,False,2016-05-29,Stolen,2B,2016,2017,25.2
+5,1799,1B,,Caught Stealing 2B,493596,Gordon Beckham,425492,Ryan Madson,608672,Micah Johnson,R,Salvador Perez,521692,2,2,11,False,2015-04-23,Caught,2B,2015,2016,26.1

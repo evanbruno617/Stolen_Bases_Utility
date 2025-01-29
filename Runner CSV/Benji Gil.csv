@@ -1,0 +1,26 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+264,1B,,Caught Stealing 2B,114768,Benji Gil,Jorge Fabregas,3,1,5,True,2000-09-19,Caught,2B,2000
+810,2B,3B,Stolen Base 3B,114768,Benji Gil,Sandy Alomar Jr.,6,4,6,False,2000-08-27,Stolen,3B,2000
+1315,1B,,Caught Stealing 2B,114768,Benji Gil,Sandy Alomar Jr.,0,0,1,True,2000-08-05,Caught,2B,2000
+1433,1B,,Caught Stealing 2B,114768,Benji Gil,Brad Ausmus,1,2,5,False,2000-07-31,Caught,2B,2000
+1482,1B,2B,Stolen Base 2B,114768,Benji Gil,Mark Johnson,0,0,1,False,2000-07-29,Stolen,2B,2000
+1915,1B,2B,Stolen Base 2B,114768,Benji Gil,Joe Oliver,0,2,1,False,2000-07-05,Stolen,2B,2000
+2057,2B,3B,Stolen Base 3B,114768,Benji Gil,Joe Oliver,0,0,1,True,2000-06-28,Stolen,3B,2000
+2155,2B,,Caught Stealing 3B,114768,Benji Gil,Marcus Jensen,0,0,1,False,2000-06-24,Caught,3B,2000
+2663,2B,3B,Stolen Base 3B,114768,Benji Gil,Paul Lo Duca,8,4,5,False,2000-06-02,Stolen,3B,2000
+2763,1B,2B,Stolen Base 2B,114768,Benji Gil,Einar Díaz,0,2,8,True,2000-05-29,Stolen,2B,2000
+2809,1B,2B,Stolen Base 2B,114768,Benji Gil,Jorge Fabregas,3,2,7,True,2000-05-27,Stolen,2B,2000
+3614,1B,2B,Stolen Base 2B,114768,Benji Gil,John Flaherty,9,7,8,True,2000-04-22,Stolen,2B,2000
+3714,1B,2B,Stolen Base 2B,114768,Benji Gil,Darrin Fletcher,0,1,2,True,2000-04-18,Stolen,2B,2000
+3745,1B,,Caught Stealing 2B,114768,Benji Gil,Josh Paul,1,2,4,True,2000-04-16,Caught,2B,2000
+3902,1B,2B,Stolen Base 2B,114768,Benji Gil,Jason Varitek,0,5,8,False,2000-04-09,Stolen,2B,2000
+967,1B,,Caught Stealing 2B,114768,Benji Gil,Alberto Castillo,1,0,3,True,2001-04-28,Caught,2B,2001
+1304,1B,2B,Stolen Base 2B,114768,Benji Gil,Dan Wilson,2,3,5,False,2001-04-13,Stolen,2B,2001
+2062,1B,2B,Stolen Base 2B,114768,Benji Gil,Mike Matheny,1,2,4,True,2002-06-20,Stolen,2B,2002
+2230,1B,2B,Stolen Base 2B,114768,Benji Gil,Jason Kendall,3,4,7,False,2002-06-11,Stolen,2B,2002
+1479,1B,2B,Stolen Base 2B,114768,Benji Gil,Brook Fordyce,6,5,9,True,2003-07-18,Stolen,2B,2003
+1503,1B,,Caught Stealing 2B,114768,Benji Gil,A.J. Pierzynski,4,2,4,False,2003-07-13,Caught,2B,2003
+1641,1B,2B,Stolen Base 2B,114768,Benji Gil,Ramon Hernandez,5,3,9,True,2003-07-06,Stolen,2B,2003
+1674,1B,2B,Stolen Base 2B,114768,Benji Gil,Ramon Hernandez,0,1,8,True,2003-07-04,Stolen,2B,2003
+2238,1B,2B,Stolen Base 2B,114768,Benji Gil,Ivan Rodriguez,0,4,4,True,2003-06-07,Stolen,2B,2003
+3499,2B,3B,Stolen Base 3B,114768,Benji Gil,Ramon Hernandez,1,1,2,True,2003-04-05,Stolen,3B,2003

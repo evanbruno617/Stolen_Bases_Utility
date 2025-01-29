@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3232,1B,2B,Stolen Base 2B,519023,Devin Mesoraco,519043,Matt Moore,606299,José Peraza,L,Nick Hundley,460026,2,1,6,True,2017-05-13,Stolen,2B,2017,2018,25.5
+1,2604,1B,2B,Stolen Base 2B,519023,Devin Mesoraco,519043,Matt Moore,606299,José Peraza,L,Nick Hundley,460026,2,1,6,True,2017-05-13,Stolen,2B,2017,2018,25.5
+2,7220,1B,,Caught Stealing 2B,519023,Devin Mesoraco,493200,Seunghwan Oh,594988,Scott Schebler,R,Yadier Molina,425877,5,8,7,True,2016-04-16,Caught,2B,2016,2017,25.7
+3,3185,1B,,Caught Stealing 2B,519023,Devin Mesoraco,493200,Seunghwan Oh,594988,Scott Schebler,R,Yadier Molina,425877,5,8,7,True,2016-04-16,Caught,2B,2016,2017,25.7
+4,6592,1B,,Caught Stealing 2B,519023,Devin Mesoraco,493200,Seunghwan Oh,594988,Scott Schebler,R,Yadier Molina,425877,5,8,7,True,2016-04-16,Caught,2B,2016,2017,25.7
+5,2073,1B,2B,Stolen Base 2B,519023,Devin Mesoraco,608379,Michael Wacha,457803,Jay Bruce,R,Yadier Molina,425877,1,2,4,False,2015-04-11,Stolen,2B,2015,2016,26.6

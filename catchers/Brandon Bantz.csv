@@ -1,0 +1,3 @@
+Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1B,,Caught Stealing 2B,605119,Brian Anderson,605222,Jake Esch,400085,Ichiro Suzuki,R,Brandon Bantz,572702,3,5,3,True,2015-04-04,Caught,2B
+1B,2B,Stolen Base 2B,400085,Ichiro Suzuki,605222,Jake Esch,457454,Jarrod Saltalamacchia,R,Brandon Bantz,572702,3,6,4,True,2015-04-04,Stolen,2B

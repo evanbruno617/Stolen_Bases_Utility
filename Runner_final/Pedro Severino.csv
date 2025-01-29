@@ -1,0 +1,17 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,976,1B,2B,Stolen Base 2B,600474,Pedro Severino,607560,Ryne Harper,448801,Chris Davis,R,Kurt Suzuki,435559,3,5,9,True,2020-08-08,Stolen,2B,2020,2021,26.0
+1,3819,1B,2B,Stolen Base 2B,600474,Pedro Severino,607560,Ryne Harper,448801,Chris Davis,R,Kurt Suzuki,435559,3,5,9,True,2020-08-08,Stolen,2B,2020,2021,26.0
+2,5743,1B,2B,Stolen Base 2B,600474,Pedro Severino,607560,Ryne Harper,448801,Chris Davis,R,Kurt Suzuki,435559,3,5,9,True,2020-08-08,Stolen,2B,2020,2021,26.0
+3,1784,2B,3B,Stolen Base 3B,600474,Pedro Severino,622092,Kyle Zimmer,592859,Stevie Wilkerson,R,Nick Dini,664926,2,9,7,True,2019-08-30,Stolen,3B,2019,2020,26.7
+4,2278,1B,,Caught Stealing 2B,600474,Pedro Severino,570240,Félix Peña,592859,Stevie Wilkerson,R,Dustin Garneau,572863,2,0,3,True,2019-07-28,Caught,2B,2019,2020,26.7
+5,2284,1B,2B,Stolen Base 2B,600474,Pedro Severino,502239,Trevor Cahill,607054,Jace Peterson,R,Kevan Smith,607345,6,6,7,True,2019-07-27,Stolen,2B,2019,2020,26.7
+6,2836,1B,2B,Stolen Base 2B,600474,Pedro Severino,605463,Tayler Scott,600524,Renato Núñez,R,Omar Narváez,553882,0,0,1,True,2019-06-20,Stolen,2B,2019,2020,26.7
+7,4627,2B,3B,Stolen Base 3B,600474,Pedro Severino,622092,Kyle Zimmer,592859,Stevie Wilkerson,R,Nick Dini,664926,2,9,7,True,2019-08-30,Stolen,3B,2019,2020,26.7
+8,5121,1B,,Caught Stealing 2B,600474,Pedro Severino,570240,Félix Peña,592859,Stevie Wilkerson,R,Dustin Garneau,572863,2,0,3,True,2019-07-28,Caught,2B,2019,2020,26.7
+9,5127,1B,2B,Stolen Base 2B,600474,Pedro Severino,502239,Trevor Cahill,607054,Jace Peterson,R,Kevan Smith,607345,6,6,7,True,2019-07-27,Stolen,2B,2019,2020,26.7
+10,5679,1B,2B,Stolen Base 2B,600474,Pedro Severino,605463,Tayler Scott,600524,Renato Núñez,R,Omar Narváez,553882,0,0,1,True,2019-06-20,Stolen,2B,2019,2020,26.7
+11,6551,2B,3B,Stolen Base 3B,600474,Pedro Severino,622092,Kyle Zimmer,592859,Stevie Wilkerson,R,Nick Dini,664926,2,9,7,True,2019-08-30,Stolen,3B,2019,2020,26.7
+12,7045,1B,,Caught Stealing 2B,600474,Pedro Severino,570240,Félix Peña,592859,Stevie Wilkerson,R,Dustin Garneau,572863,2,0,3,True,2019-07-28,Caught,2B,2019,2020,26.7
+13,7051,1B,2B,Stolen Base 2B,600474,Pedro Severino,502239,Trevor Cahill,607054,Jace Peterson,R,Kevan Smith,607345,6,6,7,True,2019-07-27,Stolen,2B,2019,2020,26.7
+14,7603,1B,2B,Stolen Base 2B,600474,Pedro Severino,605463,Tayler Scott,600524,Renato Núñez,R,Omar Narváez,553882,0,0,1,True,2019-06-20,Stolen,2B,2019,2020,26.7
+15,523,1B,2B,Stolen Base 2B,600474,Pedro Severino,571927,Steven Matz,607208,Trea Turner,L,Travis d'Arnaud,518595,1,0,5,False,2018-04-07,Stolen,2B,2018,2019,27.0

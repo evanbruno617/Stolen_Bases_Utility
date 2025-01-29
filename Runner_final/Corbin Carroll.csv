@@ -1,0 +1,127 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,33,2B,3B,Stolen Base 3B,682998,Corbin Carroll,664353,José Urquidy,572233,Christian Walker,R,Martín Maldonado,455117,0,0,3,False,2023-09-29,Stolen,3B,2023,2024,29.6
+1,35,2B,3B,Stolen Base 3B,682998,Corbin Carroll,593576,Héctor Neris,502054,Tommy Pham,R,Martín Maldonado,455117,0,2,8,False,2023-09-29,Stolen,3B,2023,2024,29.6
+2,68,1B,2B,Stolen Base 2B,682998,Corbin Carroll,657053,Touki Toussaint,606466,Ketel Marte,R,Korey Lee,686676,0,0,1,True,2023-09-28,Stolen,2B,2023,2024,29.6
+3,136,1B,2B,Stolen Base 2B,682998,Corbin Carroll,657053,Touki Toussaint,606466,Ketel Marte,R,Korey Lee,686676,0,0,1,True,2023-09-25,Stolen,2B,2023,2024,29.6
+4,142,1B,2B,Stolen Base 2B,682998,Corbin Carroll,598286,Nick Ramirez,672515,Gabriel Moreno,L,Austin Wells,669224,2,3,7,True,2023-09-25,Stolen,2B,2023,2024,29.6
+5,169,1B,2B,Stolen Base 2B,682998,Corbin Carroll,598286,Nick Ramirez,672515,Gabriel Moreno,L,Austin Wells,669224,2,3,7,True,2023-09-23,Stolen,2B,2023,2024,29.6
+6,251,1B,2B,Stolen Base 2B,682998,Corbin Carroll,657277,Logan Webb,502054,Tommy Pham,R,Patrick Bailey,672275,0,1,1,False,2023-09-20,Stolen,2B,2023,2024,29.6
+7,253,1B,2B,Stolen Base 2B,682998,Corbin Carroll,657277,Logan Webb,606466,Ketel Marte,R,Patrick Bailey,672275,1,1,3,False,2023-09-20,Stolen,2B,2023,2024,29.6
+8,275,2B,3B,Stolen Base 3B,682998,Corbin Carroll,502171,Alex Cobb,502054,Tommy Pham,R,Patrick Bailey,672275,5,2,2,False,2023-09-19,Stolen,3B,2023,2024,29.6
+9,553,1B,2B,Stolen Base 2B,682998,Corbin Carroll,657006,Justin Steele,656896,Emmanuel Rivera,L,Yan Gomes,543228,1,0,5,True,2023-09-09,Stolen,2B,2023,2024,29.6
+10,554,1B,2B,Stolen Base 2B,682998,Corbin Carroll,640470,Adbert Alzolay,607054,Jace Peterson,R,Yan Gomes,543228,1,1,9,True,2023-09-09,Stolen,2B,2023,2024,29.6
+11,590,1B,2B,Stolen Base 2B,682998,Corbin Carroll,592791,Jameson Taillon,606466,Ketel Marte,R,Yan Gomes,543228,0,0,1,True,2023-09-08,Stolen,2B,2023,2024,29.6
+12,592,1B,2B,Stolen Base 2B,682998,Corbin Carroll,592791,Jameson Taillon,606466,Ketel Marte,R,Yan Gomes,543228,0,0,6,True,2023-09-08,Stolen,2B,2023,2024,29.6
+13,593,1B,2B,Stolen Base 2B,682998,Corbin Carroll,643410,Mark Leiter Jr.,606466,Ketel Marte,R,Yan Gomes,543228,0,1,8,True,2023-09-08,Stolen,2B,2023,2024,29.6
+14,603,1B,2B,Stolen Base 2B,682998,Corbin Carroll,669713,Hayden Wesneski,606466,Ketel Marte,R,Yan Gomes,543228,1,6,9,True,2023-09-07,Stolen,2B,2023,2024,29.6
+15,786,1B,2B,Stolen Base 2B,682998,Corbin Carroll,686752,Ryan Pepiot,606466,Ketel Marte,R,Austin Barnes,605131,0,0,3,True,2023-08-30,Stolen,2B,2023,2024,29.6
+16,857,1B,2B,Stolen Base 2B,682998,Corbin Carroll,664139,Ian Gibaut,606466,Ketel Marte,R,Tyler Stephenson,663886,2,2,8,False,2023-08-27,Stolen,2B,2023,2024,29.6
+17,910,1B,2B,Stolen Base 2B,682998,Corbin Carroll,668881,Hunter Greene,606466,Ketel Marte,R,Luke Maile,571912,3,1,4,False,2023-08-25,Stolen,2B,2023,2024,29.6
+18,979,1B,2B,Stolen Base 2B,682998,Corbin Carroll,592351,Jon Gray,606466,Ketel Marte,R,Jonah Heim,641680,3,0,2,False,2023-08-22,Stolen,2B,2023,2024,29.6
+19,1056,1B,,Caught Stealing 2B,682998,Corbin Carroll,506433,Yu Darvish,502054,Tommy Pham,R,Gary Sánchez,596142,0,0,1,True,2023-08-19,Caught,2B,2023,2024,29.6
+20,1068,1B,2B,Caught Stealing Home,682998,Corbin Carroll,607625,Seth Lugo,606466,Ketel Marte,R,Gary Sánchez,596142,0,0,5,True,2023-08-18,Caught,Home,2023,2024,29.6
+21,1119,1B,2B,Stolen Base 2B,682998,Corbin Carroll,641755,Tyler Kinley,671083,Buddy Kennedy,R,Austin Wynns,642851,7,8,8,True,2023-08-16,Stolen,2B,2023,2024,29.6
+22,1120,2B,,Caught Stealing 3B,682998,Corbin Carroll,641755,Tyler Kinley,671083,Buddy Kennedy,R,Austin Wynns,642851,7,8,8,True,2023-08-16,Caught,3B,2023,2024,29.6
+23,1335,2B,3B,Stolen Base 3B,682998,Corbin Carroll,572971,Dallas Keuchel,572233,Christian Walker,L,Christian Vázquez,543877,0,0,3,True,2023-08-06,Stolen,3B,2023,2024,29.6
+24,1373,1B,2B,Stolen Base 2B,682998,Corbin Carroll,628317,Kenta Maeda,572233,Christian Walker,R,Ryan Jeffers,680777,0,0,1,True,2023-08-05,Stolen,2B,2023,2024,29.6
+25,1424,1B,2B,Stolen Base 2B,682998,Corbin Carroll,592426,Luke Jackson,656896,Emmanuel Rivera,R,Patrick Bailey,672275,1,0,6,True,2023-08-03,Stolen,2B,2023,2024,29.6
+26,1466,1B,2B,Stolen Base 2B,682998,Corbin Carroll,592426,Luke Jackson,572233,Christian Walker,R,Patrick Bailey,672275,2,1,6,True,2023-07-31,Stolen,2B,2023,2024,29.6
+27,1510,2B,3B,Stolen Base 3B,682998,Corbin Carroll,662253,Andrés Muñoz,572233,Christian Walker,R,Tom Murphy,608596,3,3,8,False,2023-07-29,Stolen,3B,2023,2024,29.6
+28,1525,1B,2B,Stolen Base 2B,682998,Corbin Carroll,623149,Paul Sewald,572233,Christian Walker,R,Cal Raleigh,663728,2,5,9,False,2023-07-28,Stolen,2B,2023,2024,29.6
+29,1561,1B,2B,Stolen Base 2B,682998,Corbin Carroll,656427,Jack Flaherty,572233,Christian Walker,R,Andrew Knizner,668800,0,0,1,False,2023-07-26,Stolen,2B,2023,2024,29.6
+30,1710,1B,2B,Stolen Base 2B,682998,Corbin Carroll,675911,Spencer Strider,572233,Christian Walker,R,Travis d'Arnaud,518595,1,0,7,True,2023-07-20,Stolen,2B,2023,2024,29.6
+31,1753,1B,2B,Stolen Base 2B,682998,Corbin Carroll,489446,Kirby Yates,572233,Christian Walker,R,Sean Murphy,669221,13,12,8,True,2023-07-18,Stolen,2B,2023,2024,29.6
+32,1754,2B,3B,Stolen Base 3B,682998,Corbin Carroll,489446,Kirby Yates,666971,Lourdes Gurriel Jr.,R,Sean Murphy,669221,13,12,8,True,2023-07-18,Stolen,3B,2023,2024,29.6
+33,1849,2B,,Caught Stealing 3B,682998,Corbin Carroll,621244,José Berríos,572233,Christian Walker,R,Danny Jansen,643376,0,0,1,True,2023-07-14,Caught,3B,2023,2024,29.6
+34,1921,1B,2B,Stolen Base 2B,682998,Corbin Carroll,670990,Yohan Ramírez,666971,Lourdes Gurriel Jr.,R,Henry Davis,680779,5,1,6,False,2023-07-07,Stolen,2B,2023,2024,29.6
+35,1922,2B,3B,Stolen Base 3B,682998,Corbin Carroll,670990,Yohan Ramírez,572233,Christian Walker,R,Henry Davis,680779,7,1,6,False,2023-07-07,Stolen,3B,2023,2024,29.6
+36,2140,1B,2B,Stolen Base 2B,682998,Corbin Carroll,621363,Colin Poche,572233,Christian Walker,L,Christian Bethancourt,542194,2,0,8,False,2023-06-28,Stolen,2B,2023,2024,29.6
+37,2254,1B,2B,Stolen Base 2B,682998,Corbin Carroll,657277,Logan Webb,572233,Christian Walker,R,Patrick Bailey,672275,0,0,1,True,2023-06-23,Stolen,2B,2023,2024,29.6
+38,2295,1B,2B,Stolen Base 2B,682998,Corbin Carroll,663623,Jake Irvin,666971,Lourdes Gurriel Jr.,R,Riley Adams,656180,1,1,4,True,2023-06-22,Stolen,2B,2023,2024,29.6
+39,2309,1B,2B,Stolen Base 2B,682998,Corbin Carroll,657265,Peter Strzelecki,572233,Christian Walker,R,William Contreras,661388,1,2,7,True,2023-06-21,Stolen,2B,2023,2024,29.6
+40,2310,2B,3B,Stolen Base 3B,682998,Corbin Carroll,657265,Peter Strzelecki,656976,Pavin Smith,R,William Contreras,661388,1,2,7,True,2023-06-21,Stolen,3B,2023,2024,29.6
+41,2559,2B,3B,Stolen Base 3B,682998,Corbin Carroll,656638,Alex Lange,666971,Lourdes Gurriel Jr.,R,Eric Haase,606992,5,3,8,True,2023-06-11,Stolen,3B,2023,2024,29.6
+42,2625,1B,2B,Stolen Base 2B,682998,Corbin Carroll,663623,Jake Irvin,666971,Lourdes Gurriel Jr.,R,Riley Adams,656180,1,1,4,True,2023-06-08,Stolen,2B,2023,2024,29.6
+43,2656,1B,2B,Stolen Base 2B,682998,Corbin Carroll,571578,Patrick Corbin,656896,Emmanuel Rivera,L,Riley Adams,656180,0,2,1,True,2023-06-07,Stolen,2B,2023,2024,29.6
+44,2682,1B,2B,Stolen Base 2B,682998,Corbin Carroll,641771,Chad Kuhl,572233,Christian Walker,R,Keibert Ruiz,660688,5,10,7,True,2023-06-06,Stolen,2B,2023,2024,29.6
+45,2840,1B,2B,Stolen Base 2B,682998,Corbin Carroll,607536,Kyle Freeland,672515,Gabriel Moreno,L,Elias Díaz,553869,4,0,4,False,2023-05-30,Stolen,2B,2023,2024,29.6
+46,2841,2B,3B,Stolen Base 3B,682998,Corbin Carroll,607536,Kyle Freeland,672515,Gabriel Moreno,L,Elias Díaz,553869,4,0,4,False,2023-05-30,Stolen,3B,2023,2024,29.6
+47,3003,1B,2B,Stolen Base 2B,682998,Corbin Carroll,641401,Connor Brogdon,656896,Emmanuel Rivera,R,Garrett Stubbs,596117,3,5,7,True,2023-05-24,Stolen,2B,2023,2024,29.6
+48,3068,1B,2B,Stolen Base 2B,682998,Corbin Carroll,672710,Roansy Contreras,572233,Christian Walker,R,Jason Delay,641511,1,2,3,True,2023-05-21,Stolen,2B,2023,2024,29.6
+49,3069,1B,2B,Stolen Base 2B,682998,Corbin Carroll,670990,Yohan Ramírez,572233,Christian Walker,R,Jason Delay,641511,3,8,9,True,2023-05-21,Stolen,2B,2023,2024,29.6
+50,3095,1B,2B,Stolen Base 2B,682998,Corbin Carroll,664294,Dauri Moreta,572233,Christian Walker,R,Austin Hedges,595978,3,4,8,True,2023-05-20,Stolen,2B,2023,2024,29.6
+51,3556,1B,,Caught Stealing 2B,682998,Corbin Carroll,663562,Noah Davis,572233,Christian Walker,R,Elias Díaz,553869,0,1,1,True,2023-04-29,Caught,2B,2023,2024,29.6
+52,3663,1B,,Caught Stealing 2B,682998,Corbin Carroll,642232,Ryan Yarbrough,605113,Nick Ahmed,L,Freddy Fermin,666023,0,0,2,False,2023-04-26,Caught,2B,2023,2024,29.6
+53,3677,2B,3B,Stolen Base 3B,682998,Corbin Carroll,547973,Aroldis Chapman,656896,Emmanuel Rivera,L,Salvador Perez,521692,4,5,8,False,2023-04-25,Stolen,3B,2023,2024,29.6
+54,3679,1B,2B,Stolen Base 2B,682998,Corbin Carroll,605130,Scott Barlow,572233,Christian Walker,R,Salvador Perez,521692,4,5,9,False,2023-04-25,Stolen,2B,2023,2024,29.6
+55,3724,1B,2B,Stolen Base 2B,682998,Corbin Carroll,506433,Yu Darvish,446334,Evan Longoria,R,Austin Nola,543592,1,5,6,False,2023-04-23,Stolen,2B,2023,2024,29.6
+56,3820,1B,2B,Stolen Base 2B,682998,Corbin Carroll,572403,Drew VerHagen,666971,Lourdes Gurriel Jr.,R,Andrew Knizner,668800,14,4,7,True,2023-04-19,Stolen,2B,2023,2024,29.6
+57,3954,1B,2B,Stolen Base 2B,682998,Corbin Carroll,623211,Huascar Brazobán,656976,Pavin Smith,R,Jacob Stallings,607732,5,0,7,True,2023-04-14,Stolen,2B,2023,2024,29.6
+58,4078,1B,2B,Stolen Base 2B,682998,Corbin Carroll,592789,Noah Syndergaard,664983,Jake McCarthy,R,Will Smith,669257,5,4,3,False,2023-04-08,Stolen,2B,2023,2024,29.6
+59,4079,1B,2B,Stolen Base 2B,682998,Corbin Carroll,681911,Alex Vesia,672515,Gabriel Moreno,L,Will Smith,669257,6,5,5,False,2023-04-08,Stolen,2B,2023,2024,29.6
+60,4211,1B,2B,Stolen Base 2B,682998,Corbin Carroll,592789,Noah Syndergaard,672695,Geraldo Perdomo,R,Will Smith,669257,1,1,5,True,2023-04-02,Stolen,2B,2023,2024,29.6
+61,4212,2B,3B,Stolen Base 3B,682998,Corbin Carroll,592789,Noah Syndergaard,672695,Geraldo Perdomo,R,Will Smith,669257,1,1,5,True,2023-04-02,Stolen,3B,2023,2024,29.6
+62,4215,1B,2B,Stolen Base 2B,682998,Corbin Carroll,660813,Brusdar Graterol,664983,Jake McCarthy,R,Will Smith,669257,1,2,9,True,2023-04-02,Stolen,2B,2023,2024,29.6
+63,4447,2B,3B,Stolen Base 3B,682998,Corbin Carroll,664353,José Urquidy,572233,Christian Walker,R,Martín Maldonado,455117,0,0,3,False,2023-09-29,Stolen,3B,2023,2024,29.6
+64,4449,2B,3B,Stolen Base 3B,682998,Corbin Carroll,593576,Héctor Neris,502054,Tommy Pham,R,Martín Maldonado,455117,0,2,8,False,2023-09-29,Stolen,3B,2023,2024,29.6
+65,4482,1B,2B,Stolen Base 2B,682998,Corbin Carroll,657053,Touki Toussaint,606466,Ketel Marte,R,Korey Lee,686676,0,0,1,True,2023-09-28,Stolen,2B,2023,2024,29.6
+66,4550,1B,2B,Stolen Base 2B,682998,Corbin Carroll,657053,Touki Toussaint,606466,Ketel Marte,R,Korey Lee,686676,0,0,1,True,2023-09-25,Stolen,2B,2023,2024,29.6
+67,4556,1B,2B,Stolen Base 2B,682998,Corbin Carroll,598286,Nick Ramirez,672515,Gabriel Moreno,L,Austin Wells,669224,2,3,7,True,2023-09-25,Stolen,2B,2023,2024,29.6
+68,4583,1B,2B,Stolen Base 2B,682998,Corbin Carroll,598286,Nick Ramirez,672515,Gabriel Moreno,L,Austin Wells,669224,2,3,7,True,2023-09-23,Stolen,2B,2023,2024,29.6
+69,4665,1B,2B,Stolen Base 2B,682998,Corbin Carroll,657277,Logan Webb,502054,Tommy Pham,R,Patrick Bailey,672275,0,1,1,False,2023-09-20,Stolen,2B,2023,2024,29.6
+70,4667,1B,2B,Stolen Base 2B,682998,Corbin Carroll,657277,Logan Webb,606466,Ketel Marte,R,Patrick Bailey,672275,1,1,3,False,2023-09-20,Stolen,2B,2023,2024,29.6
+71,4689,2B,3B,Stolen Base 3B,682998,Corbin Carroll,502171,Alex Cobb,502054,Tommy Pham,R,Patrick Bailey,672275,5,2,2,False,2023-09-19,Stolen,3B,2023,2024,29.6
+72,4967,1B,2B,Stolen Base 2B,682998,Corbin Carroll,657006,Justin Steele,656896,Emmanuel Rivera,L,Yan Gomes,543228,1,0,5,True,2023-09-09,Stolen,2B,2023,2024,29.6
+73,4968,1B,2B,Stolen Base 2B,682998,Corbin Carroll,640470,Adbert Alzolay,607054,Jace Peterson,R,Yan Gomes,543228,1,1,9,True,2023-09-09,Stolen,2B,2023,2024,29.6
+74,5004,1B,2B,Stolen Base 2B,682998,Corbin Carroll,592791,Jameson Taillon,606466,Ketel Marte,R,Yan Gomes,543228,0,0,1,True,2023-09-08,Stolen,2B,2023,2024,29.6
+75,5006,1B,2B,Stolen Base 2B,682998,Corbin Carroll,592791,Jameson Taillon,606466,Ketel Marte,R,Yan Gomes,543228,0,0,6,True,2023-09-08,Stolen,2B,2023,2024,29.6
+76,5007,1B,2B,Stolen Base 2B,682998,Corbin Carroll,643410,Mark Leiter Jr.,606466,Ketel Marte,R,Yan Gomes,543228,0,1,8,True,2023-09-08,Stolen,2B,2023,2024,29.6
+77,5017,1B,2B,Stolen Base 2B,682998,Corbin Carroll,669713,Hayden Wesneski,606466,Ketel Marte,R,Yan Gomes,543228,1,6,9,True,2023-09-07,Stolen,2B,2023,2024,29.6
+78,5200,1B,2B,Stolen Base 2B,682998,Corbin Carroll,686752,Ryan Pepiot,606466,Ketel Marte,R,Austin Barnes,605131,0,0,3,True,2023-08-30,Stolen,2B,2023,2024,29.6
+79,5271,1B,2B,Stolen Base 2B,682998,Corbin Carroll,664139,Ian Gibaut,606466,Ketel Marte,R,Tyler Stephenson,663886,2,2,8,False,2023-08-27,Stolen,2B,2023,2024,29.6
+80,5324,1B,2B,Stolen Base 2B,682998,Corbin Carroll,668881,Hunter Greene,606466,Ketel Marte,R,Luke Maile,571912,3,1,4,False,2023-08-25,Stolen,2B,2023,2024,29.6
+81,5393,1B,2B,Stolen Base 2B,682998,Corbin Carroll,592351,Jon Gray,606466,Ketel Marte,R,Jonah Heim,641680,3,0,2,False,2023-08-22,Stolen,2B,2023,2024,29.6
+82,5470,1B,,Caught Stealing 2B,682998,Corbin Carroll,506433,Yu Darvish,502054,Tommy Pham,R,Gary Sánchez,596142,0,0,1,True,2023-08-19,Caught,2B,2023,2024,29.6
+83,5482,1B,2B,Caught Stealing Home,682998,Corbin Carroll,607625,Seth Lugo,606466,Ketel Marte,R,Gary Sánchez,596142,0,0,5,True,2023-08-18,Caught,Home,2023,2024,29.6
+84,5533,1B,2B,Stolen Base 2B,682998,Corbin Carroll,641755,Tyler Kinley,671083,Buddy Kennedy,R,Austin Wynns,642851,7,8,8,True,2023-08-16,Stolen,2B,2023,2024,29.6
+85,5534,2B,,Caught Stealing 3B,682998,Corbin Carroll,641755,Tyler Kinley,671083,Buddy Kennedy,R,Austin Wynns,642851,7,8,8,True,2023-08-16,Caught,3B,2023,2024,29.6
+86,5749,2B,3B,Stolen Base 3B,682998,Corbin Carroll,572971,Dallas Keuchel,572233,Christian Walker,L,Christian Vázquez,543877,0,0,3,True,2023-08-06,Stolen,3B,2023,2024,29.6
+87,5787,1B,2B,Stolen Base 2B,682998,Corbin Carroll,628317,Kenta Maeda,572233,Christian Walker,R,Ryan Jeffers,680777,0,0,1,True,2023-08-05,Stolen,2B,2023,2024,29.6
+88,5838,1B,2B,Stolen Base 2B,682998,Corbin Carroll,592426,Luke Jackson,656896,Emmanuel Rivera,R,Patrick Bailey,672275,1,0,6,True,2023-08-03,Stolen,2B,2023,2024,29.6
+89,5880,1B,2B,Stolen Base 2B,682998,Corbin Carroll,592426,Luke Jackson,572233,Christian Walker,R,Patrick Bailey,672275,2,1,6,True,2023-07-31,Stolen,2B,2023,2024,29.6
+90,5924,2B,3B,Stolen Base 3B,682998,Corbin Carroll,662253,Andrés Muñoz,572233,Christian Walker,R,Tom Murphy,608596,3,3,8,False,2023-07-29,Stolen,3B,2023,2024,29.6
+91,5939,1B,2B,Stolen Base 2B,682998,Corbin Carroll,623149,Paul Sewald,572233,Christian Walker,R,Cal Raleigh,663728,2,5,9,False,2023-07-28,Stolen,2B,2023,2024,29.6
+92,5975,1B,2B,Stolen Base 2B,682998,Corbin Carroll,656427,Jack Flaherty,572233,Christian Walker,R,Andrew Knizner,668800,0,0,1,False,2023-07-26,Stolen,2B,2023,2024,29.6
+93,6124,1B,2B,Stolen Base 2B,682998,Corbin Carroll,675911,Spencer Strider,572233,Christian Walker,R,Travis d'Arnaud,518595,1,0,7,True,2023-07-20,Stolen,2B,2023,2024,29.6
+94,6167,1B,2B,Stolen Base 2B,682998,Corbin Carroll,489446,Kirby Yates,572233,Christian Walker,R,Sean Murphy,669221,13,12,8,True,2023-07-18,Stolen,2B,2023,2024,29.6
+95,6168,2B,3B,Stolen Base 3B,682998,Corbin Carroll,489446,Kirby Yates,666971,Lourdes Gurriel Jr.,R,Sean Murphy,669221,13,12,8,True,2023-07-18,Stolen,3B,2023,2024,29.6
+96,6263,2B,,Caught Stealing 3B,682998,Corbin Carroll,621244,José Berríos,572233,Christian Walker,R,Danny Jansen,643376,0,0,1,True,2023-07-14,Caught,3B,2023,2024,29.6
+97,6335,1B,2B,Stolen Base 2B,682998,Corbin Carroll,670990,Yohan Ramírez,666971,Lourdes Gurriel Jr.,R,Henry Davis,680779,5,1,6,False,2023-07-07,Stolen,2B,2023,2024,29.6
+98,6336,2B,3B,Stolen Base 3B,682998,Corbin Carroll,670990,Yohan Ramírez,572233,Christian Walker,R,Henry Davis,680779,7,1,6,False,2023-07-07,Stolen,3B,2023,2024,29.6
+99,6554,1B,2B,Stolen Base 2B,682998,Corbin Carroll,621363,Colin Poche,572233,Christian Walker,L,Christian Bethancourt,542194,2,0,8,False,2023-06-28,Stolen,2B,2023,2024,29.6
+100,6668,1B,2B,Stolen Base 2B,682998,Corbin Carroll,657277,Logan Webb,572233,Christian Walker,R,Patrick Bailey,672275,0,0,1,True,2023-06-23,Stolen,2B,2023,2024,29.6
+101,6709,1B,2B,Stolen Base 2B,682998,Corbin Carroll,663623,Jake Irvin,666971,Lourdes Gurriel Jr.,R,Riley Adams,656180,1,1,4,True,2023-06-22,Stolen,2B,2023,2024,29.6
+102,6723,1B,2B,Stolen Base 2B,682998,Corbin Carroll,657265,Peter Strzelecki,572233,Christian Walker,R,William Contreras,661388,1,2,7,True,2023-06-21,Stolen,2B,2023,2024,29.6
+103,6724,2B,3B,Stolen Base 3B,682998,Corbin Carroll,657265,Peter Strzelecki,656976,Pavin Smith,R,William Contreras,661388,1,2,7,True,2023-06-21,Stolen,3B,2023,2024,29.6
+104,6973,2B,3B,Stolen Base 3B,682998,Corbin Carroll,656638,Alex Lange,666971,Lourdes Gurriel Jr.,R,Eric Haase,606992,5,3,8,True,2023-06-11,Stolen,3B,2023,2024,29.6
+105,7039,1B,2B,Stolen Base 2B,682998,Corbin Carroll,663623,Jake Irvin,666971,Lourdes Gurriel Jr.,R,Riley Adams,656180,1,1,4,True,2023-06-08,Stolen,2B,2023,2024,29.6
+106,7070,1B,2B,Stolen Base 2B,682998,Corbin Carroll,571578,Patrick Corbin,656896,Emmanuel Rivera,L,Riley Adams,656180,0,2,1,True,2023-06-07,Stolen,2B,2023,2024,29.6
+107,7096,1B,2B,Stolen Base 2B,682998,Corbin Carroll,641771,Chad Kuhl,572233,Christian Walker,R,Keibert Ruiz,660688,5,10,7,True,2023-06-06,Stolen,2B,2023,2024,29.6
+108,7254,1B,2B,Stolen Base 2B,682998,Corbin Carroll,607536,Kyle Freeland,672515,Gabriel Moreno,L,Elias Díaz,553869,4,0,4,False,2023-05-30,Stolen,2B,2023,2024,29.6
+109,7255,2B,3B,Stolen Base 3B,682998,Corbin Carroll,607536,Kyle Freeland,672515,Gabriel Moreno,L,Elias Díaz,553869,4,0,4,False,2023-05-30,Stolen,3B,2023,2024,29.6
+110,7417,1B,2B,Stolen Base 2B,682998,Corbin Carroll,641401,Connor Brogdon,656896,Emmanuel Rivera,R,Garrett Stubbs,596117,3,5,7,True,2023-05-24,Stolen,2B,2023,2024,29.6
+111,7482,1B,2B,Stolen Base 2B,682998,Corbin Carroll,672710,Roansy Contreras,572233,Christian Walker,R,Jason Delay,641511,1,2,3,True,2023-05-21,Stolen,2B,2023,2024,29.6
+112,7483,1B,2B,Stolen Base 2B,682998,Corbin Carroll,670990,Yohan Ramírez,572233,Christian Walker,R,Jason Delay,641511,3,8,9,True,2023-05-21,Stolen,2B,2023,2024,29.6
+113,7509,1B,2B,Stolen Base 2B,682998,Corbin Carroll,664294,Dauri Moreta,572233,Christian Walker,R,Austin Hedges,595978,3,4,8,True,2023-05-20,Stolen,2B,2023,2024,29.6
+114,7970,1B,,Caught Stealing 2B,682998,Corbin Carroll,663562,Noah Davis,572233,Christian Walker,R,Elias Díaz,553869,0,1,1,True,2023-04-29,Caught,2B,2023,2024,29.6
+115,8077,1B,,Caught Stealing 2B,682998,Corbin Carroll,642232,Ryan Yarbrough,605113,Nick Ahmed,L,Freddy Fermin,666023,0,0,2,False,2023-04-26,Caught,2B,2023,2024,29.6
+116,8091,2B,3B,Stolen Base 3B,682998,Corbin Carroll,547973,Aroldis Chapman,656896,Emmanuel Rivera,L,Salvador Perez,521692,4,5,8,False,2023-04-25,Stolen,3B,2023,2024,29.6
+117,8093,1B,2B,Stolen Base 2B,682998,Corbin Carroll,605130,Scott Barlow,572233,Christian Walker,R,Salvador Perez,521692,4,5,9,False,2023-04-25,Stolen,2B,2023,2024,29.6
+118,8138,1B,2B,Stolen Base 2B,682998,Corbin Carroll,506433,Yu Darvish,446334,Evan Longoria,R,Austin Nola,543592,1,5,6,False,2023-04-23,Stolen,2B,2023,2024,29.6
+119,8234,1B,2B,Stolen Base 2B,682998,Corbin Carroll,572403,Drew VerHagen,666971,Lourdes Gurriel Jr.,R,Andrew Knizner,668800,14,4,7,True,2023-04-19,Stolen,2B,2023,2024,29.6
+120,8368,1B,2B,Stolen Base 2B,682998,Corbin Carroll,623211,Huascar Brazobán,656976,Pavin Smith,R,Jacob Stallings,607732,5,0,7,True,2023-04-14,Stolen,2B,2023,2024,29.6
+121,8492,1B,2B,Stolen Base 2B,682998,Corbin Carroll,592789,Noah Syndergaard,664983,Jake McCarthy,R,Will Smith,669257,5,4,3,False,2023-04-08,Stolen,2B,2023,2024,29.6
+122,8493,1B,2B,Stolen Base 2B,682998,Corbin Carroll,681911,Alex Vesia,672515,Gabriel Moreno,L,Will Smith,669257,6,5,5,False,2023-04-08,Stolen,2B,2023,2024,29.6
+123,8625,1B,2B,Stolen Base 2B,682998,Corbin Carroll,592789,Noah Syndergaard,672695,Geraldo Perdomo,R,Will Smith,669257,1,1,5,True,2023-04-02,Stolen,2B,2023,2024,29.6
+124,8626,2B,3B,Stolen Base 3B,682998,Corbin Carroll,592789,Noah Syndergaard,672695,Geraldo Perdomo,R,Will Smith,669257,1,1,5,True,2023-04-02,Stolen,3B,2023,2024,29.6
+125,8629,1B,2B,Stolen Base 2B,682998,Corbin Carroll,660813,Brusdar Graterol,664983,Jake McCarthy,R,Will Smith,669257,1,2,9,True,2023-04-02,Stolen,2B,2023,2024,29.6

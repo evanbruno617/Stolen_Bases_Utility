@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,460075,Ryan Braun,456701,Homer Bailey,519346,Eric Thames,R,Beau Taylor,607333,0,1,1,True,2019-08-01,Stolen,2B,2019,2020, 79.5, 0.79
+1,1B,,Caught Stealing 2B,605480,Mallex Smith,642152,Lou Trivino,641487,J.P. Crawford,R,Beau Taylor,607333,3,2,8,True,2019-06-16,Caught,2B,2019,2020, 79.5, 0.79
+2,2B,,Caught Stealing 3B,650490,Yandy Díaz,474463,Brett Anderson,640457,Austin Meadows,L,Beau Taylor,607333,0,0,3,False,2019-06-12,Caught,3B,2019,2020, 79.5, 0.79
+3,1B,2B,Stolen Base 2B,460075,Ryan Braun,456701,Homer Bailey,519346,Eric Thames,R,Beau Taylor,607333,0,1,1,True,2019-08-01,Stolen,2B,2019,2020, 79.5, 0.79
+4,1B,,Caught Stealing 2B,605480,Mallex Smith,642152,Lou Trivino,641487,J.P. Crawford,R,Beau Taylor,607333,3,2,8,True,2019-06-16,Caught,2B,2019,2020, 79.5, 0.79
+5,2B,,Caught Stealing 3B,650490,Yandy Díaz,474463,Brett Anderson,640457,Austin Meadows,L,Beau Taylor,607333,0,0,3,False,2019-06-12,Caught,3B,2019,2020, 79.5, 0.79
+6,1B,2B,Stolen Base 2B,460075,Ryan Braun,456701,Homer Bailey,519346,Eric Thames,R,Beau Taylor,607333,0,1,1,True,2019-08-01,Stolen,2B,2019,2020, 79.5, 0.79
+7,1B,,Caught Stealing 2B,605480,Mallex Smith,642152,Lou Trivino,641487,J.P. Crawford,R,Beau Taylor,607333,3,2,8,True,2019-06-16,Caught,2B,2019,2020, 79.5, 0.79
+8,2B,,Caught Stealing 3B,650490,Yandy Díaz,474463,Brett Anderson,640457,Austin Meadows,L,Beau Taylor,607333,0,0,3,False,2019-06-12,Caught,3B,2019,2020, 79.5, 0.79

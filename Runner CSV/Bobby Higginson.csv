@@ -1,0 +1,70 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+143,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Jorge Posada,4,3,8,True,2000-09-24,Stolen,2B,2000
+316,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Jason Varitek,5,1,7,False,2000-09-17,Stolen,2B,2000
+337,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Jason Varitek,5,5,8,False,2000-09-16,Stolen,2B,2000
+529,2B,,Caught Stealing 3B,115915,Bobby Higginson,Darrin Fletcher,1,0,6,True,2000-09-08,Caught,3B,2000
+605,2B,3B,Stolen Base 3B,115915,Bobby Higginson,Matt Walbeck,4,1,3,False,2000-09-05,Stolen,3B,2000
+607,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Matt Walbeck,7,4,7,False,2000-09-05,Stolen,2B,2000
+901,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Joe Oliver,3,2,3,False,2000-08-24,Stolen,2B,2000
+1585,2B,3B,Stolen Base 3B,115915,Bobby Higginson,John Flaherty,4,2,5,False,2000-07-25,Stolen,3B,2000
+1638,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Héctor Ortiz,5,5,6,False,2000-07-22,Stolen,2B,2000
+1641,2B,3B,Stolen Base 3B,115915,Bobby Higginson,Gregg Zaun,3,2,5,False,2000-07-22,Stolen,3B,2000
+1855,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Raul Casanova,2,2,15,True,2000-07-08,Stolen,2B,2000
+2034,3B,,Caught Stealing Home,115915,Bobby Higginson,Gregg Zaun,0,3,6,True,2000-06-30,Caught,Home,2000
+2106,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Chris Turner,2,3,5,False,2000-06-27,Stolen,2B,2000
+2408,1B,,Caught Stealing 2B,115915,Bobby Higginson,Alberto Castillo,6,0,2,False,2000-06-13,Caught,2B,2000
+2616,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Joe Girardi,2,2,12,True,2000-06-04,Stolen,2B,2000
+2860,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Einar Díaz,0,1,4,False,2000-05-25,Stolen,2B,2000
+3307,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Marcus Jensen,4,2,6,True,2000-05-05,Stolen,2B,2000
+3760,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Mike DiFelice,6,4,8,False,2000-04-16,Stolen,2B,2000
+440,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Mike DiFelice,0,1,1,True,2001-05-18,Stolen,2B,2001
+441,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Mike DiFelice,0,5,5,True,2001-05-18,Stolen,2B,2001
+575,1B,2B,Stolen Base 2B,115915,Bobby Higginson,José Molina,0,0,1,False,2001-05-13,Stolen,2B,2001
+617,1B,,Caught Stealing 2B,115915,Bobby Higginson,Shawn Wooten,1,0,6,False,2001-05-12,Caught,2B,2001
+685,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Doug Mirabelli,3,1,7,False,2001-05-09,Stolen,2B,2001
+721,1B,,Caught Stealing 2B,115915,Bobby Higginson,Doug Mirabelli,3,4,7,False,2001-05-08,Caught,2B,2001
+840,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Doug Mirabelli,2,5,2,True,2001-05-03,Stolen,2B,2001
+858,2B,3B,Stolen Base 3B,115915,Bobby Higginson,Doug Mirabelli,0,1,1,True,2001-05-02,Stolen,3B,2001
+928,1B,2B,Stolen Base 2B,115915,Bobby Higginson,John Flaherty,0,0,1,False,2001-04-29,Stolen,2B,2001
+1104,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Eddie Taubensee,6,3,5,True,2001-04-22,Stolen,2B,2001
+1395,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Sandy Alomar Jr.,0,5,8,True,2001-04-08,Stolen,2B,2001
+1396,2B,,Caught Stealing 3B,115915,Bobby Higginson,Sandy Alomar Jr.,0,5,8,True,2001-04-08,Caught,3B,2001
+1423,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Josh Paul,0,2,1,True,2001-04-07,Stolen,2B,2001
+472,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Jorge Posada,0,0,1,True,2002-09-08,Stolen,2B,2002
+926,1B,,Caught Stealing 2B,115915,Bobby Higginson,Brook Fordyce,5,6,9,True,2002-08-16,Caught,2B,2002
+971,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Bengie Molina,5,5,10,True,2002-08-13,Stolen,2B,2002
+1085,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Ivan Rodriguez,2,0,3,False,2002-08-07,Stolen,2B,2002
+1273,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Einar Díaz,0,4,2,True,2002-07-28,Stolen,2B,2002
+1479,2B,,Caught Stealing 3B,115915,Bobby Higginson,A.J. Pierzynski,1,4,6,False,2002-07-19,Caught,3B,2002
+1517,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Jorge Posada,0,0,1,True,2002-07-17,Stolen,2B,2002
+2611,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Sandy Alomar Jr.,0,1,1,True,2002-05-26,Stolen,2B,2002
+2613,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Sandy Alomar Jr.,2,6,7,True,2002-05-26,Stolen,2B,2002
+2632,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Mark Johnson,0,0,1,True,2002-05-25,Stolen,2B,2002
+2721,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Einar Díaz,1,0,1,False,2002-05-22,Stolen,2B,2002
+2776,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Einar Díaz,1,0,1,False,2002-05-20,Stolen,2B,2002
+3149,1B,2B,Stolen Base 2B,115915,Bobby Higginson,A.J. Pierzynski,1,4,5,True,2002-05-05,Stolen,2B,2002
+3651,1B,,Caught Stealing 2B,115915,Bobby Higginson,A.J. Pierzynski,4,3,7,True,2002-04-13,Caught,2B,2002
+3871,1B,,Caught Stealing 2B,115915,Bobby Higginson,Eddie Pérez,0,1,1,False,2002-04-05,Caught,2B,2002
+3916,2B,3B,Stolen Base 3B,115915,Bobby Higginson,Toby Hall,3,5,6,True,2002-04-02,Stolen,3B,2002
+336,1B,,Caught Stealing 2B,115915,Bobby Higginson,Mike DiFelice,1,0,3,False,2003-09-12,Caught,2B,2003
+352,2B,3B,Stolen Base 3B,115915,Bobby Higginson,Jorge Posada,1,2,4,True,2003-09-11,Stolen,3B,2003
+447,1B,,Caught Stealing 2B,115915,Bobby Higginson,Kevin Cash,0,0,1,True,2003-09-07,Caught,2B,2003
+748,1B,,Caught Stealing 2B,115915,Bobby Higginson,Bengie Molina,3,5,5,False,2003-08-22,Caught,2B,2003
+2146,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Paul Lo Duca,1,0,1,False,2003-06-12,Stolen,2B,2003
+2174,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Paul Lo Duca,0,0,3,False,2003-06-11,Stolen,2B,2003
+2525,1B,,Caught Stealing 2B,115915,Bobby Higginson,Miguel Olivo,0,0,1,True,2003-05-23,Caught,2B,2003
+2606,1B,,Caught Stealing 2B,115915,Bobby Higginson,Josh Bard,0,0,1,True,2003-05-20,Caught,2B,2003
+2615,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Tim Laker,7,7,7,True,2003-05-19,Stolen,2B,2003
+2874,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Brook Fordyce,4,6,9,True,2003-05-07,Stolen,2B,2003
+2875,2B,3B,Stolen Base 3B,115915,Bobby Higginson,Brook Fordyce,4,6,9,True,2003-05-07,Stolen,3B,2003
+2912,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Brook Fordyce,1,4,5,True,2003-05-05,Stolen,2B,2003
+2969,1B,,Caught Stealing 2B,115915,Bobby Higginson,Toby Hall,6,6,9,False,2003-05-03,Caught,2B,2003
+3394,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Josh Paul,4,1,7,False,2003-04-12,Stolen,2B,2003
+3447,1B,,Caught Stealing 2B,115915,Bobby Higginson,Brent Mayne,0,1,1,False,2003-04-09,Caught,2B,2003
+67,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Sandy Alomar Jr.,6,4,8,False,2004-09-28,Stolen,2B,2004
+260,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Ben Davis,0,0,1,True,2004-09-18,Stolen,2B,2004
+262,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Ben Davis,4,4,7,True,2004-09-18,Stolen,2B,2004
+895,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Ben Davis,8,11,9,True,2004-08-17,Stolen,2B,2004
+1223,1B,2B,Stolen Base 2B,115915,Bobby Higginson,Ben Davis,4,5,8,False,2004-08-01,Stolen,2B,2004
+2432,1B,,Caught Stealing 2B,115915,Bobby Higginson,Robert Machado,2,1,7,False,2004-05-30,Caught,2B,2004
+3373,1B,,Caught Stealing 2B,115915,Bobby Higginson,Kevin Cash,5,3,6,False,2004-04-13,Caught,2B,2004

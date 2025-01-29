@@ -1,0 +1,18 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,522,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,660825,Eduard Bazardo,664040,Brandon Lowe,R,Cal Raleigh,663728,6,3,6,False,2023-09-10,Stolen,2B,2023,2024,27.5
+1,4936,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,660825,Eduard Bazardo,664040,Brandon Lowe,R,Cal Raleigh,663728,6,3,6,False,2023-09-10,Stolen,2B,2023,2024,27.5
+2,351,1B,,Caught Stealing 2B,542194,Christian Bethancourt,676664,JP Sears,572039,Stephen Piscotty,L,Jose Trevino,624431,2,0,4,True,2022-06-28,Caught,2B,2022,2023,27.4
+3,633,2B,3B,Stolen Base 3B,542194,Christian Bethancourt,615698,Cal Quantrill,669221,Sean Murphy,R,Austin Hedges,595978,3,1,6,True,2022-06-12,Stolen,3B,2022,2023,27.4
+4,959,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,527048,Martín Pérez,462101,Elvis Andrus,L,Sam Huff,669087,0,1,2,False,2022-05-26,Stolen,2B,2022,2023,27.4
+5,1181,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,646242,Jhonathan Díaz,675656,Kevin Smith,L,Austin Romine,519222,0,1,2,False,2022-05-14,Stolen,2B,2022,2023,27.4
+6,1619,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,595939,Chris Ellis,462101,Elvis Andrus,R,Robinson Chirinos,455139,0,1,2,False,2022-04-19,Stolen,2B,2022,2023,27.4
+7,6068,1B,,Caught Stealing 2B,542194,Christian Bethancourt,445197,Mike Dunn,445055,Jon Jay,L,J.T. Realmuto,592663,6,3,8,False,2016-06-15,Caught,2B,2016,2022,28.1
+8,6365,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,501992,Nate Karns,493351,Alexei Ramirez,R,Chris Iannetta,455104,0,1,2,True,2016-05-30,Stolen,2B,2016,2022,28.1
+9,6366,1B,,Caught Stealing 2B,542194,Christian Bethancourt,501992,Nate Karns,519083,Derek Norris,R,Chris Iannetta,455104,0,1,4,True,2016-05-30,Caught,2B,2016,2022,28.1
+10,2033,1B,,Caught Stealing 2B,542194,Christian Bethancourt,445197,Mike Dunn,445055,Jon Jay,L,J.T. Realmuto,592663,6,3,8,False,2016-06-15,Caught,2B,2016,2022,28.1
+11,2330,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,501992,Nate Karns,493351,Alexei Ramirez,R,Chris Iannetta,455104,0,1,2,True,2016-05-30,Stolen,2B,2016,2022,28.1
+12,2331,1B,,Caught Stealing 2B,542194,Christian Bethancourt,501992,Nate Karns,519083,Derek Norris,R,Chris Iannetta,455104,0,1,4,True,2016-05-30,Caught,2B,2016,2022,28.1
+13,5440,1B,,Caught Stealing 2B,542194,Christian Bethancourt,445197,Mike Dunn,445055,Jon Jay,L,J.T. Realmuto,592663,6,3,8,False,2016-06-15,Caught,2B,2016,2022,28.1
+14,5737,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,501992,Nate Karns,493351,Alexei Ramirez,R,Chris Iannetta,455104,0,1,2,True,2016-05-30,Stolen,2B,2016,2022,28.1
+15,5738,1B,,Caught Stealing 2B,542194,Christian Bethancourt,501992,Nate Karns,519083,Derek Norris,R,Chris Iannetta,455104,0,1,4,True,2016-05-30,Caught,2B,2016,2022,28.1
+16,2011,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,502009,Mat Latos,592743,Andrelton Simmons,R,Jarrod Saltalamacchia,457454,1,1,4,False,2015-04-13,Stolen,2B,2015,2016,28.3

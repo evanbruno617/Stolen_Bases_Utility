@@ -1,0 +1,26 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,Alex Jackson,0,1,3,False,2020-07-28,Stolen,2B,2020
+1B,2B,Stolen Base 2B,456488,Eduardo Núñez,Alex Jackson,2,1,8,False,2020-07-25,Stolen,2B,2020
+1B,2B,Stolen Base 2B,542932,Jon Berti,Alex Jackson,2,4,6,True,2020-07-22,Stolen,2B,2020
+1B,2B,Stolen Base 2B,672701,José Devers,Alex Jackson,2,4,8,True,2020-07-22,Stolen,2B,2020
+1B,2B,Stolen Base 2B,668227,Randy Arozarena,Alex Jackson,2,0,1,False,2021-09-26,Stolen,2B,2021
+1B,,Caught Stealing 2B,668227,Randy Arozarena,Alex Jackson,3,1,8,False,2021-09-26,Caught,2B,2021
+1B,2B,Stolen Base 2B,657061,Cole Tucker,Alex Jackson,0,1,2,True,2021-09-19,Stolen,2B,2021
+1B,,Caught Stealing 2B,621028,Kevin Newman,Alex Jackson,0,1,3,True,2021-09-19,Caught,2B,2021
+1B,2B,Stolen Base 2B,595879,Javier Báez,Alex Jackson,0,2,6,True,2021-09-09,Stolen,2B,2021
+2B,3B,Stolen Base 3B,595879,Javier Báez,Alex Jackson,0,2,6,True,2021-09-09,Stolen,3B,2021
+1B,,Caught Stealing 2B,596019,Francisco Lindor,Alex Jackson,1,0,3,True,2021-09-08,Caught,2B,2021
+1B,2B,Stolen Base 2B,542340,Jonathan Villar,Alex Jackson,1,1,9,True,2021-09-08,Stolen,2B,2021
+2B,3B,Stolen Base 3B,663697,Jonathan India,Alex Jackson,0,5,4,True,2021-08-27,Stolen,3B,2021
+1B,2B,Stolen Base 2B,645277,Ozzie Albies,Alex Jackson,3,7,8,True,2021-08-18,Stolen,2B,2021
+1B,2B,Stolen Base 2B,501659,Abraham Almonte,Alex Jackson,0,0,8,True,2021-08-17,Stolen,2B,2021
+1B,2B,Stolen Base 2B,624413,Pete Alonso,Alex Jackson,0,3,3,True,2021-08-04,Stolen,2B,2021
+2B,3B,Stolen Base 3B,543807,George Springer,Alex Jackson,0,0,1,False,2021-04-30,Stolen,3B,2021
+1B,,Caught Stealing 2B,605113,Nick Ahmed,Alex Jackson,0,3,4,True,2021-04-25,Caught,2B,2021
+1B,,Caught Stealing 2B,542932,Jon Berti,Alex Jackson,3,1,8,True,2021-04-12,Caught,2B,2021
+1B,2B,Stolen Base 2B,645302,Victor Robles,Alex Jackson,0,0,6,False,2021-04-07,Stolen,2B,2021
+1B,2B,Stolen Base 2B,665742,Juan Soto,Alex Jackson,0,0,6,False,2021-04-07,Stolen,2B,2021
+1B,2B,Stolen Base 2B,645302,Victor Robles,Alex Jackson,0,0,6,False,2021-04-05,Stolen,2B,2021
+1B,2B,Stolen Base 2B,665742,Juan Soto,Alex Jackson,0,0,6,False,2021-04-05,Stolen,2B,2021
+1B,2B,Stolen Base 2B,467092,Wilson Ramos,Alex Jackson,1,1,10,False,2019-08-23,Stolen,2B,2019
+1B,2B,Stolen Base 2B,605204,J.D. Davis,Alex Jackson,1,1,11,False,2019-08-23,Stolen,2B,2019

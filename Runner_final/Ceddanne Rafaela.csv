@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,50,1B,2B,Stolen Base 2B,678882,Ceddanne Rafaela,660261,Shintaro Fujinami,646240,Rafael Devers,R,James McCann,543510,0,3,9,True,2023-09-29,Stolen,2B,2023,2024,28.8
+1,521,1B,2B,Stolen Base 2B,678882,Ceddanne Rafaela,607216,Joey Krehbiel,457759,Justin Turner,R,Adley Rutschman,668939,7,3,8,False,2023-09-10,Stolen,2B,2023,2024,28.8
+2,653,1B,,Caught Stealing 2B,678882,Ceddanne Rafaela,621107,Zach Eflin,457759,Justin Turner,R,René Pinto,650907,0,0,1,True,2023-09-05,Caught,2B,2023,2024,28.8
+3,4464,1B,2B,Stolen Base 2B,678882,Ceddanne Rafaela,660261,Shintaro Fujinami,646240,Rafael Devers,R,James McCann,543510,0,3,9,True,2023-09-29,Stolen,2B,2023,2024,28.8
+4,4935,1B,2B,Stolen Base 2B,678882,Ceddanne Rafaela,607216,Joey Krehbiel,457759,Justin Turner,R,Adley Rutschman,668939,7,3,8,False,2023-09-10,Stolen,2B,2023,2024,28.8
+5,5067,1B,,Caught Stealing 2B,678882,Ceddanne Rafaela,621107,Zach Eflin,457759,Justin Turner,R,René Pinto,650907,0,0,1,True,2023-09-05,Caught,2B,2023,2024,28.8

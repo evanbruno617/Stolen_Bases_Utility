@@ -1,0 +1,15 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,398,1B,2B,Stolen Base 2B,686217,Sal Frelick,640451,Hunter Harvey,642715,Willy Adames,R,Keibert Ruiz,660688,5,3,8,False,2023-09-15,Stolen,2B,2023,2024,29.3
+1,811,1B,2B,Stolen Base 2B,686217,Sal Frelick,643410,Mark Leiter Jr.,642715,Willy Adames,R,Yan Gomes,543228,2,1,8,True,2023-08-30,Stolen,2B,2023,2024,29.3
+2,1091,1B,2B,Stolen Base 2B,686217,Sal Frelick,458681,Lance Lynn,642715,Willy Adames,R,Austin Barnes,605131,0,0,2,True,2023-08-17,Stolen,2B,2023,2024,29.3
+3,1092,1B,2B,Stolen Base 2B,686217,Sal Frelick,458681,Lance Lynn,642715,Willy Adames,R,Austin Barnes,605131,0,0,4,True,2023-08-17,Stolen,2B,2023,2024,29.3
+4,1093,1B,2B,Stolen Base 2B,686217,Sal Frelick,623465,Evan Phillips,642715,Willy Adames,R,Austin Barnes,605131,1,0,9,True,2023-08-17,Stolen,2B,2023,2024,29.3
+5,1216,1B,2B,Stolen Base 2B,686217,Sal Frelick,656629,Michael Kopech,655316,Andruw Monasterio,R,Yasmani Grandal,518735,2,2,3,True,2023-08-11,Stolen,2B,2023,2024,29.3
+6,1365,1B,2B,Stolen Base 2B,686217,Sal Frelick,670280,David Bednar,605170,Victor Caratini,R,Jason Delay,641511,2,2,9,False,2023-08-05,Stolen,2B,2023,2024,29.3
+7,4812,1B,2B,Stolen Base 2B,686217,Sal Frelick,640451,Hunter Harvey,642715,Willy Adames,R,Keibert Ruiz,660688,5,3,8,False,2023-09-15,Stolen,2B,2023,2024,29.3
+8,5225,1B,2B,Stolen Base 2B,686217,Sal Frelick,643410,Mark Leiter Jr.,642715,Willy Adames,R,Yan Gomes,543228,2,1,8,True,2023-08-30,Stolen,2B,2023,2024,29.3
+9,5505,1B,2B,Stolen Base 2B,686217,Sal Frelick,458681,Lance Lynn,642715,Willy Adames,R,Austin Barnes,605131,0,0,2,True,2023-08-17,Stolen,2B,2023,2024,29.3
+10,5506,1B,2B,Stolen Base 2B,686217,Sal Frelick,458681,Lance Lynn,642715,Willy Adames,R,Austin Barnes,605131,0,0,4,True,2023-08-17,Stolen,2B,2023,2024,29.3
+11,5507,1B,2B,Stolen Base 2B,686217,Sal Frelick,623465,Evan Phillips,642715,Willy Adames,R,Austin Barnes,605131,1,0,9,True,2023-08-17,Stolen,2B,2023,2024,29.3
+12,5630,1B,2B,Stolen Base 2B,686217,Sal Frelick,656629,Michael Kopech,655316,Andruw Monasterio,R,Yasmani Grandal,518735,2,2,3,True,2023-08-11,Stolen,2B,2023,2024,29.3
+13,5779,1B,2B,Stolen Base 2B,686217,Sal Frelick,670280,David Bednar,605170,Victor Caratini,R,Jason Delay,641511,2,2,9,False,2023-08-05,Stolen,2B,2023,2024,29.3

@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,347,1B,2B,Stolen Base 2B,628451,Andy Ibáñez,542881,Tyler Anderson,681481,Kerry Carpenter,L,Logan O'Hoppe,681351,0,0,1,True,2023-09-16,Stolen,2B,2023,2024,27.6
+1,4761,1B,2B,Stolen Base 2B,628451,Andy Ibáñez,542881,Tyler Anderson,681481,Kerry Carpenter,L,Logan O'Hoppe,681351,0,0,1,True,2023-09-16,Stolen,2B,2023,2024,27.6
+2,1412,1B,2B,Stolen Base 2B,628451,Andy Ibáñez,503285,Darren O'Day,543760,Marcus Semien,R,William Contreras,661388,7,2,7,False,2022-05-01,Stolen,2B,2022,2023,27.2
+3,1427,1B,2B,Stolen Base 2B,628451,Andy Ibáñez,693821,Bryce Elder,676646,Zach Reks,R,Travis d'Arnaud,518595,3,1,4,False,2022-04-30,Stolen,2B,2022,2023,27.2
+4,1678,1B,2B,Stolen Base 2B,628451,Andy Ibáñez,592789,Noah Syndergaard,543760,Marcus Semien,R,Max Stassi,545358,1,3,3,False,2022-04-16,Stolen,2B,2022,2023,27.2

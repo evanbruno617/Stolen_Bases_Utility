@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+981,1B,,Caught Stealing 2B,676632,Bligh Madris,Carson Kelly,0,0,5,True,2022-08-08,Caught,2B,2022
+1595,1B,2B,Stolen Base 2B,676632,Bligh Madris,Omar Narváez,0,0,2,False,2022-07-03,Stolen,2B,2022
+1818,1B,2B,Stolen Base 2B,676632,Bligh Madris,P.J. Higgins,2,0,2,False,2022-06-20,Stolen,2B,2022

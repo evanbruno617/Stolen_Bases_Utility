@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+69,1B,2B,Stolen Base 2B,434704,Delwyn Young,Yorvit Torrealba,3,4,6,False,2007-09-27,Stolen,2B,2007
+998,1B,2B,Stolen Base 2B,434704,Delwyn Young,Joe Mauer,2,4,6,True,2009-06-17,Stolen,2B,2009
+1708,1B,2B,Stolen Base 2B,434704,Delwyn Young,Chris Iannetta,4,3,2,False,2009-05-16,Stolen,2B,2009
+2939,1B,2B,Stolen Base 2B,434704,Delwyn Young,Carlos Ruiz,8,2,8,True,2010-05-17,Stolen,2B,2010

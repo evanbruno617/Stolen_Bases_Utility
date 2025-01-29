@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3330,1B,,Caught Stealing 2B,501605,Yamaico Navarro,Wilson Ramos,0,0,2,False,2012-05-09,Caught,2B,2012
+4145,1B,2B,Stolen Base 2B,501605,Yamaico Navarro,Brian Schneider,1,2,5,True,2012-04-03,Stolen,2B,2012

@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+69,1B,2B,Stolen Base 2B,516811,Eury Pérez,Erik Kratz,3,6,7,True,2012-09-27,Stolen,2B,2012
+367,1B,2B,Stolen Base 2B,516811,Eury Pérez,Brian McCann,5,4,9,True,2012-09-15,Stolen,2B,2012
+679,2B,3B,Stolen Base 3B,516811,Eury Pérez,Tony Cruz,3,2,7,False,2012-09-02,Stolen,3B,2012
+143,2B,3B,Stolen Base 3B,516811,Eury Pérez,Koyie Hill,5,4,9,False,2013-09-22,Stolen,3B,2013
+157,2B,3B,Stolen Base 3B,516811,Eury Pérez,Koyie Hill,5,4,9,False,2013-09-21,Stolen,3B,2013
+70,1B,2B,Stolen Base 2B,516811,Eury Pérez,Christian Vázquez,0,0,1,True,2014-09-26,Stolen,2B,2014
+1022,1B,2B,Stolen Base 2B,516811,Eury Pérez,Tomás Telis,8,5,6,False,2015-08-06,Stolen,2B,2015
+1069,1B,,Caught Stealing 2B,516811,Eury Pérez,Buster Posey,0,1,1,False,2015-08-04,Caught,2B,2015
+1111,1B,2B,Stolen Base 2B,516811,Eury Pérez,Cameron Rupp,1,2,2,True,2015-08-01,Stolen,2B,2015
+1215,1B,2B,Stolen Base 2B,516811,Eury Pérez,Matt Wieters,1,1,10,True,2015-07-27,Stolen,2B,2015

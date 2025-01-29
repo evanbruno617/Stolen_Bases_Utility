@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+77,2B,3B,Stolen Base 3B,474892,Chris Carter,Bobby Wilson,0,2,2,True,2010-09-27,Stolen,3B,2010
+617,1B,2B,Stolen Base 2B,452080,Chris Carter,Brian McCann,2,0,2,True,2010-09-01,Stolen,2B,2010
+1108,1B,,Caught Stealing 2B,452080,Chris Carter,Miguel Olivo,0,0,5,False,2010-08-10,Caught,2B,2010
+1248,1B,,Caught Stealing 2B,452080,Chris Carter,Brian McCann,2,2,7,True,2010-08-03,Caught,2B,2010
+537,1B,2B,Stolen Base 2B,474892,Chris Carter,Josmil Pinto,4,3,5,False,2013-09-04,Stolen,2B,2013
+713,1B,2B,Stolen Base 2B,474892,Chris Carter,Josh Phegley,1,3,8,True,2013-08-27,Stolen,2B,2013
+233,1B,,Caught Stealing 2B,474892,Chris Carter,Yan Gomes,1,0,6,False,2014-09-18,Caught,2B,2014
+404,1B,2B,Stolen Base 2B,474892,Chris Carter,Mike Zunino,2,5,8,True,2014-09-10,Stolen,2B,2014
+450,1B,2B,Stolen Base 2B,474892,Chris Carter,Jesús Sucre,1,1,8,True,2014-09-08,Stolen,2B,2014
+513,1B,2B,Stolen Base 2B,474892,Chris Carter,Derek Norris,1,2,6,True,2014-09-06,Stolen,2B,2014
+1217,1B,2B,Stolen Base 2B,474892,Chris Carter,Josh Thole,6,2,8,False,2014-08-02,Stolen,2B,2014
+1445,1B,2B,Stolen Base 2B,474892,Chris Carter,Adrian Nieto,7,11,8,True,2014-07-20,Stolen,2B,2014
+2334,2B,,Caught Stealing 3B,474892,Chris Carter,Chris Iannetta,3,1,4,False,2014-06-05,Caught,3B,2014
+922,1B,,Caught Stealing 2B,474892,Chris Carter,Buster Posey,0,2,9,True,2015-08-12,Caught,2B,2015
+1553,1B,,Caught Stealing 2B,474892,Chris Carter,Ryan Hanigan,1,1,6,True,2015-07-05,Caught,2B,2015
+2108,1B,2B,Stolen Base 2B,474892,Chris Carter,Russell Martin,4,6,9,True,2015-06-07,Stolen,2B,2015
+1987,1B,2B,Stolen Base 2B,474892,Chris Carter,Miguel Montero,3,0,7,True,2016-04-27,Stolen,2B,2016

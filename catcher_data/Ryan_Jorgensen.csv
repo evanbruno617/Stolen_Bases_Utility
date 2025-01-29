@@ -1,0 +1,11 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,434626,Ryan Shealy,Ryan Jorgensen,2,1,3,False,2005-08-08,Stolen,2B,2005
+1B,2B,Stolen Base 2B,430622,Cory Sullivan,Ryan Jorgensen,5,3,8,False,2005-08-08,Stolen,2B,2005
+1B,2B,Stolen Base 2B,407812,Matt Holliday,Ryan Jorgensen,3,3,9,False,2005-08-08,Stolen,2B,2005
+2B,,Caught Stealing 3B,407812,Matt Holliday,Ryan Jorgensen,3,3,9,False,2005-08-08,Caught,3B,2005
+1B,2B,Stolen Base 2B,434626,Ryan Shealy,Ryan Jorgensen,2,1,3,False,2005-04-28,Stolen,2B,2005
+1B,2B,Stolen Base 2B,430622,Cory Sullivan,Ryan Jorgensen,5,3,8,False,2005-04-28,Stolen,2B,2005
+1B,2B,Stolen Base 2B,407812,Matt Holliday,Ryan Jorgensen,3,3,9,False,2005-04-28,Stolen,2B,2005
+2B,,Caught Stealing 3B,407812,Matt Holliday,Ryan Jorgensen,3,3,9,False,2005-04-28,Caught,3B,2005
+1B,2B,Stolen Base 2B,434626,Ryan Shealy,Ryan Jorgensen,2,1,3,False,2005-04-27,Stolen,2B,2005
+1B,2B,Stolen Base 2B,430622,Cory Sullivan,Ryan Jorgensen,5,3,8,False,2005-04-27,Stolen,2B,2005

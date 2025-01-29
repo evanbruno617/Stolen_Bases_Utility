@@ -1,0 +1,50 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,833,1B,,Caught Stealing 2B,446334,Evan Longoria,571666,Mike Fiers,527038,Wilmer Flores,R,Sean Murphy,669221,1,1,2,False,2020-08-16,Caught,2B,2020,2021,26.1
+1,3676,1B,,Caught Stealing 2B,446334,Evan Longoria,571666,Mike Fiers,527038,Wilmer Flores,R,Sean Murphy,669221,1,1,2,False,2020-08-16,Caught,2B,2020,2021,26.1
+2,5600,1B,,Caught Stealing 2B,446334,Evan Longoria,571666,Mike Fiers,527038,Wilmer Flores,R,Sean Murphy,669221,1,1,2,False,2020-08-16,Caught,2B,2020,2021,26.1
+3,1370,1B,2B,Stolen Base 2B,446334,Evan Longoria,641149,Wes Parsons,607680,Kevin Pillar,R,Tony Wolters,547172,5,5,11,False,2019-09-24,Stolen,2B,2019,2020,26.6
+4,1851,1B,2B,Caught Stealing 3B,446334,Evan Longoria,595014,Blake Treinen,607680,Kevin Pillar,R,Chris Herrmann,543302,4,5,7,True,2019-08-25,Caught,3B,2019,2020,26.6
+5,2528,2B,,Caught Stealing 3B,446334,Evan Longoria,605200,Zach Davies,543063,Brandon Crawford,R,Manny Piña,444489,0,1,4,True,2019-07-13,Caught,3B,2019,2020,26.6
+6,3383,1B,2B,Stolen Base 2B,446334,Evan Longoria,592662,Robbie Ray,607680,Kevin Pillar,L,John Ryan Murphy,571974,0,0,1,True,2019-05-19,Stolen,2B,2019,2020,26.6
+7,3905,2B,3B,Stolen Base 3B,446334,Evan Longoria,476451,Jeremy Hellickson,502188,Jeff Samardzija,R,Kurt Suzuki,435559,4,2,4,True,2019-04-17,Stolen,3B,2019,2020,26.6
+8,4213,1B,2B,Stolen Base 2B,446334,Evan Longoria,641149,Wes Parsons,607680,Kevin Pillar,R,Tony Wolters,547172,5,5,11,False,2019-09-24,Stolen,2B,2019,2020,26.6
+9,4694,1B,2B,Caught Stealing 3B,446334,Evan Longoria,595014,Blake Treinen,607680,Kevin Pillar,R,Chris Herrmann,543302,4,5,7,True,2019-08-25,Caught,3B,2019,2020,26.6
+10,5371,2B,,Caught Stealing 3B,446334,Evan Longoria,605200,Zach Davies,543063,Brandon Crawford,R,Manny Piña,444489,0,1,4,True,2019-07-13,Caught,3B,2019,2020,26.6
+11,6226,1B,2B,Stolen Base 2B,446334,Evan Longoria,592662,Robbie Ray,607680,Kevin Pillar,L,John Ryan Murphy,571974,0,0,1,True,2019-05-19,Stolen,2B,2019,2020,26.6
+12,6748,2B,3B,Stolen Base 3B,446334,Evan Longoria,476451,Jeremy Hellickson,502188,Jeff Samardzija,R,Kurt Suzuki,435559,4,2,4,True,2019-04-17,Stolen,3B,2019,2020,26.6
+13,6137,1B,2B,Stolen Base 2B,446334,Evan Longoria,641149,Wes Parsons,607680,Kevin Pillar,R,Tony Wolters,547172,5,5,11,False,2019-09-24,Stolen,2B,2019,2020,26.6
+14,6618,1B,2B,Caught Stealing 3B,446334,Evan Longoria,595014,Blake Treinen,607680,Kevin Pillar,R,Chris Herrmann,543302,4,5,7,True,2019-08-25,Caught,3B,2019,2020,26.6
+15,7295,2B,,Caught Stealing 3B,446334,Evan Longoria,605200,Zach Davies,543063,Brandon Crawford,R,Manny Piña,444489,0,1,4,True,2019-07-13,Caught,3B,2019,2020,26.6
+16,8150,1B,2B,Stolen Base 2B,446334,Evan Longoria,592662,Robbie Ray,607680,Kevin Pillar,L,John Ryan Murphy,571974,0,0,1,True,2019-05-19,Stolen,2B,2019,2020,26.6
+17,8672,2B,3B,Stolen Base 3B,446334,Evan Longoria,476451,Jeremy Hellickson,502188,Jeff Samardzija,R,Kurt Suzuki,435559,4,2,4,True,2019-04-17,Stolen,3B,2019,2020,26.6
+18,2049,1B,2B,Stolen Base 2B,446334,Evan Longoria,545333,Trevor Bauer,543105,Alex Dickerson,R,Will Smith,669257,0,2,4,False,2021-05-21,Stolen,2B,2021,2022,25.4
+19,3973,1B,2B,Stolen Base 2B,446334,Evan Longoria,545333,Trevor Bauer,543105,Alex Dickerson,R,Will Smith,669257,0,2,4,False,2021-05-21,Stolen,2B,2021,2022,25.4
+20,505,1B,2B,Stolen Base 2B,446334,Evan Longoria,448179,Rich Hill,474832,Brandon Belt,L,Austin Barnes,605131,3,1,4,False,2018-04-07,Stolen,2B,2018,2019,26.4
+21,914,2B,3B,Stolen Base 3B,446334,Evan Longoria,519144,Rick Porcello,446263,Lucas Duda,R,Christian Vázquez,543877,0,1,4,False,2017-09-16,Stolen,3B,2017,2018,27.0
+22,929,1B,,Caught Stealing 2B,446334,Evan Longoria,519242,Chris Sale,461858,Trevor Plouffe,L,Sandy León,506702,3,2,5,False,2017-09-15,Caught,2B,2017,2018,27.0
+23,1156,1B,2B,Stolen Base 2B,446334,Evan Longoria,573668,Juan Minaya,489149,Logan Morrison,R,Omar Narváez,553882,5,4,9,True,2017-09-02,Stolen,2B,2017,2018,27.0
+24,1362,1B,2B,Stolen Base 2B,446334,Evan Longoria,572193,Ryan Tepera,572816,Corey Dickerson,R,Raffy Lopez,607257,6,6,7,False,2017-08-23,Stolen,2B,2017,2018,27.0
+25,2144,2B,3B,Stolen Base 3B,446334,Evan Longoria,519144,Rick Porcello,489149,Logan Morrison,R,Christian Vázquez,543877,1,0,5,False,2017-07-08,Stolen,3B,2017,2018,27.0
+26,2751,1B,2B,Stolen Base 2B,446334,Evan Longoria,460059,Mike Pelfrey,489149,Logan Morrison,R,Kevan Smith,607345,0,1,1,False,2017-06-07,Stolen,2B,2017,2018,27.0
+27,3111,1B,2B,Stolen Base 2B,446334,Evan Longoria,461325,Tyler Clippard,489149,Logan Morrison,R,Austin Romine,519222,5,4,8,False,2017-05-19,Stolen,2B,2017,2018,27.0
+28,286,2B,3B,Stolen Base 3B,446334,Evan Longoria,519144,Rick Porcello,446263,Lucas Duda,R,Christian Vázquez,543877,0,1,4,False,2017-09-16,Stolen,3B,2017,2018,27.0
+29,301,1B,,Caught Stealing 2B,446334,Evan Longoria,519242,Chris Sale,461858,Trevor Plouffe,L,Sandy León,506702,3,2,5,False,2017-09-15,Caught,2B,2017,2018,27.0
+30,528,1B,2B,Stolen Base 2B,446334,Evan Longoria,573668,Juan Minaya,489149,Logan Morrison,R,Omar Narváez,553882,5,4,9,True,2017-09-02,Stolen,2B,2017,2018,27.0
+31,734,1B,2B,Stolen Base 2B,446334,Evan Longoria,572193,Ryan Tepera,572816,Corey Dickerson,R,Raffy Lopez,607257,6,6,7,False,2017-08-23,Stolen,2B,2017,2018,27.0
+32,1516,2B,3B,Stolen Base 3B,446334,Evan Longoria,519144,Rick Porcello,489149,Logan Morrison,R,Christian Vázquez,543877,1,0,5,False,2017-07-08,Stolen,3B,2017,2018,27.0
+33,2123,1B,2B,Stolen Base 2B,446334,Evan Longoria,460059,Mike Pelfrey,489149,Logan Morrison,R,Kevan Smith,607345,0,1,1,False,2017-06-07,Stolen,2B,2017,2018,27.0
+34,2483,1B,2B,Stolen Base 2B,446334,Evan Longoria,461325,Tyler Clippard,489149,Logan Morrison,R,Austin Romine,519222,5,4,8,False,2017-05-19,Stolen,2B,2017,2018,27.0
+35,4361,1B,,Caught Stealing 2B,446334,Evan Longoria,434622,Ubaldo Jiménez,543543,Brad Miller,R,Matt Wieters,446308,2,4,6,True,2016-09-16,Caught,2B,2016,2017,27.1
+36,6442,1B,,Caught Stealing 2B,446334,Evan Longoria,592593,Justin Nicolino,456665,Steve Pearce,L,J.T. Realmuto,592663,0,0,1,False,2016-05-25,Caught,2B,2016,2017,27.1
+37,7296,1B,,Caught Stealing 2B,446334,Evan Longoria,446372,Corey Kluber,572816,Corey Dickerson,R,Yan Gomes,543228,0,1,4,False,2016-04-12,Caught,2B,2016,2017,27.1
+38,326,1B,,Caught Stealing 2B,446334,Evan Longoria,434622,Ubaldo Jiménez,543543,Brad Miller,R,Matt Wieters,446308,2,4,6,True,2016-09-16,Caught,2B,2016,2017,27.1
+39,2407,1B,,Caught Stealing 2B,446334,Evan Longoria,592593,Justin Nicolino,456665,Steve Pearce,L,J.T. Realmuto,592663,0,0,1,False,2016-05-25,Caught,2B,2016,2017,27.1
+40,3261,1B,,Caught Stealing 2B,446334,Evan Longoria,446372,Corey Kluber,572816,Corey Dickerson,R,Yan Gomes,543228,0,1,4,False,2016-04-12,Caught,2B,2016,2017,27.1
+41,3733,1B,,Caught Stealing 2B,446334,Evan Longoria,434622,Ubaldo Jiménez,543543,Brad Miller,R,Matt Wieters,446308,2,4,6,True,2016-09-16,Caught,2B,2016,2017,27.1
+42,5814,1B,,Caught Stealing 2B,446334,Evan Longoria,592593,Justin Nicolino,456665,Steve Pearce,L,J.T. Realmuto,592663,0,0,1,False,2016-05-25,Caught,2B,2016,2017,27.1
+43,6668,1B,,Caught Stealing 2B,446334,Evan Longoria,446372,Corey Kluber,572816,Corey Dickerson,R,Yan Gomes,543228,0,1,4,False,2016-04-12,Caught,2B,2016,2017,27.1
+44,178,1B,2B,Stolen Base 2B,446334,Evan Longoria,501789,Will Harris,523253,Logan Forsythe,R,Hank Conger,474233,3,0,8,False,2015-07-11,Stolen,2B,2015,2016,27.4
+45,354,2B,3B,Stolen Base 3B,446334,Evan Longoria,446372,Corey Kluber,523253,Logan Forsythe,R,Yan Gomes,543228,2,0,1,False,2015-07-02,Stolen,3B,2015,2016,27.4
+46,877,1B,2B,Caught Stealing 3B,446334,Evan Longoria,457918,J.A. Happ,523253,Logan Forsythe,L,Mike Zunino,572287,0,0,1,True,2015-06-05,Caught,3B,2015,2016,27.4
+47,878,1B,,Caught Stealing 2B,446334,Evan Longoria,457918,J.A. Happ,519306,Steven Souza Jr.,L,Mike Zunino,572287,0,0,4,True,2015-06-05,Caught,2B,2015,2016,27.4
+48,1171,1B,2B,Stolen Base 2B,446334,Evan Longoria,431148,Scott Kazmir,523253,Logan Forsythe,L,Stephen Vogt,519390,0,0,3,False,2015-05-22,Stolen,2B,2015,2016,27.4

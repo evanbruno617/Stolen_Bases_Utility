@@ -1,0 +1,11 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,95,1B,2B,Stolen Base 2B,671289,Tyler Freeman,671096,Andrew Abbott,677587,Brayan Rocchio,L,Tyler Stephenson,663886,2,0,2,False,2023-09-27,Stolen,2B,2023,2024,28.2
+1,476,1B,2B,Stolen Base 2B,671289,Tyler Freeman,592426,Luke Jackson,665926,Andrés Giménez,R,Joey Bart,663698,3,4,10,True,2023-09-11,Stolen,2B,2023,2024,28.2
+2,1877,1B,2B,Stolen Base 2B,671289,Tyler Freeman,642232,Ryan Yarbrough,664702,Myles Straw,L,Freddy Fermin,666023,0,0,2,False,2023-07-09,Stolen,2B,2023,2024,28.2
+3,1991,1B,2B,Stolen Base 2B,671289,Tyler Freeman,489446,Kirby Yates,664702,Myles Straw,R,Sean Murphy,669221,3,4,7,False,2023-07-04,Stolen,2B,2023,2024,28.2
+4,2730,1B,2B,Stolen Base 2B,671289,Tyler Freeman,605347,Jorge López,608070,José Ramírez,R,Christian Vázquez,543877,2,4,9,True,2023-06-03,Stolen,2B,2023,2024,28.2
+5,4509,1B,2B,Stolen Base 2B,671289,Tyler Freeman,671096,Andrew Abbott,677587,Brayan Rocchio,L,Tyler Stephenson,663886,2,0,2,False,2023-09-27,Stolen,2B,2023,2024,28.2
+6,4890,1B,2B,Stolen Base 2B,671289,Tyler Freeman,592426,Luke Jackson,665926,Andrés Giménez,R,Joey Bart,663698,3,4,10,True,2023-09-11,Stolen,2B,2023,2024,28.2
+7,6291,1B,2B,Stolen Base 2B,671289,Tyler Freeman,642232,Ryan Yarbrough,664702,Myles Straw,L,Freddy Fermin,666023,0,0,2,False,2023-07-09,Stolen,2B,2023,2024,28.2
+8,6405,1B,2B,Stolen Base 2B,671289,Tyler Freeman,489446,Kirby Yates,664702,Myles Straw,R,Sean Murphy,669221,3,4,7,False,2023-07-04,Stolen,2B,2023,2024,28.2
+9,7144,1B,2B,Stolen Base 2B,671289,Tyler Freeman,605347,Jorge López,608070,José Ramírez,R,Christian Vázquez,543877,2,4,9,True,2023-06-03,Stolen,2B,2023,2024,28.2

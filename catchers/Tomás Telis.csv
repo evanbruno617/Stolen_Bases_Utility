@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,2B,3B,Stolen Base 3B,493114,Norichika Aoki,573185,Dan Straily,518595,Travis d'Arnaud,R,Tomás Telis,542513,0,0,1,True,2017-09-18,Stolen,3B,2017,2018, 81.9, 0.89
+1,1B,2B,Stolen Base 2B,408314,José Reyes,573185,Dan Straily,518595,Travis d'Arnaud,R,Tomás Telis,542513,0,0,1,True,2017-09-18,Stolen,2B,2017,2018, 81.9, 0.89
+2,1B,2B,Stolen Base 2B,501571,Juan Lagares,573185,Dan Straily,608325,Gavin Cecchini,R,Tomás Telis,542513,2,1,4,True,2017-09-18,Stolen,2B,2017,2018, 81.9, 0.89
+3,1B,,Caught Stealing 2B,457763,Buster Posey,573185,Dan Straily,543063,Brandon Crawford,R,Tomás Telis,542513,3,2,4,True,2017-08-15,Caught,2B,2017,2018, 81.9, 0.89
+4,2B,3B,Stolen Base 3B,452655,Denard Span,623395,Brian Ellington,592620,Jarrett Parker,R,Tomás Telis,542513,4,9,9,True,2017-08-15,Stolen,3B,2017,2018, 81.9, 0.89
+5,2B,3B,Stolen Base 3B,493114,Norichika Aoki,573185,Dan Straily,518595,Travis d'Arnaud,R,Tomás Telis,542513,0,0,1,True,2017-09-18,Stolen,3B,2017,2018, 81.9, 0.89
+6,1B,2B,Stolen Base 2B,408314,José Reyes,573185,Dan Straily,518595,Travis d'Arnaud,R,Tomás Telis,542513,0,0,1,True,2017-09-18,Stolen,2B,2017,2018, 81.9, 0.89
+7,1B,2B,Stolen Base 2B,501571,Juan Lagares,573185,Dan Straily,608325,Gavin Cecchini,R,Tomás Telis,542513,2,1,4,True,2017-09-18,Stolen,2B,2017,2018, 81.9, 0.89
+8,1B,,Caught Stealing 2B,457763,Buster Posey,573185,Dan Straily,543063,Brandon Crawford,R,Tomás Telis,542513,3,2,4,True,2017-08-15,Caught,2B,2017,2018, 81.9, 0.89
+9,2B,3B,Stolen Base 3B,452655,Denard Span,623395,Brian Ellington,592620,Jarrett Parker,R,Tomás Telis,542513,4,9,9,True,2017-08-15,Stolen,3B,2017,2018, 81.9, 0.89
+10,1B,2B,Stolen Base 2B,546318,Odúbel Herrera,592593,Justin Nicolino,571830,Tommy Joseph,L,Tomás Telis,542513,7,0,4,False,2016-09-17,Stolen,2B,2016,2017, 81.5, 0.78
+11,1B,2B,Stolen Base 2B,546318,Odúbel Herrera,592593,Justin Nicolino,571830,Tommy Joseph,L,Tomás Telis,542513,7,0,4,False,2016-09-17,Stolen,2B,2016,2017, 81.5, 0.78
+12,1B,2B,Stolen Base 2B,546318,Odúbel Herrera,592593,Justin Nicolino,571830,Tommy Joseph,L,Tomás Telis,542513,7,0,4,False,2016-09-17,Stolen,2B,2016,2017, 81.5, 0.78

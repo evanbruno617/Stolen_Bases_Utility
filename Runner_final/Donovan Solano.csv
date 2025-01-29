@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1145,1B,2B,Stolen Base 2B,456781,Donovan Solano,518397,Scott Alexander,621453,Steven Duggar,L,Will Smith,669257,2,3,5,True,2021-07-19,Stolen,2B,2021,2022,25.9
+1,2784,1B,2B,Stolen Base 2B,456781,Donovan Solano,622503,Nabil Crismatt,527038,Wilmer Flores,R,Victor Caratini,605170,1,2,5,True,2021-04-05,Stolen,2B,2021,2022,25.9
+2,3069,1B,2B,Stolen Base 2B,456781,Donovan Solano,518397,Scott Alexander,621453,Steven Duggar,L,Will Smith,669257,2,3,5,True,2021-07-19,Stolen,2B,2021,2022,25.9
+3,4708,1B,2B,Stolen Base 2B,456781,Donovan Solano,622503,Nabil Crismatt,527038,Wilmer Flores,R,Victor Caratini,605170,1,2,5,True,2021-04-05,Stolen,2B,2021,2022,25.9

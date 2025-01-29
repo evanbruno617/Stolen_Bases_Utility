@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,116,3B,,Caught Stealing Home,691718,Pete Crow-Armstrong,623451,Jackson Stephens,673548,Seiya Suzuki,R,Sean Murphy,669221,0,5,4,True,2023-09-26,Caught,Home,2023,2024,30.0
+1,227,1B,2B,Stolen Base 2B,691718,Pete Crow-Armstrong,608718,Brent Suter,664023,Ian Happ,L,Elias Díaz,553869,5,0,7,False,2023-09-22,Stolen,2B,2023,2024,30.0
+2,478,2B,,Caught Stealing 3B,691718,Pete Crow-Armstrong,571863,Matt Koch,666624,Christopher Morel,R,Elias Díaz,553869,1,3,7,True,2023-09-11,Caught,3B,2023,2024,30.0
+3,4530,3B,,Caught Stealing Home,691718,Pete Crow-Armstrong,623451,Jackson Stephens,673548,Seiya Suzuki,R,Sean Murphy,669221,0,5,4,True,2023-09-26,Caught,Home,2023,2024,30.0
+4,4641,1B,2B,Stolen Base 2B,691718,Pete Crow-Armstrong,608718,Brent Suter,664023,Ian Happ,L,Elias Díaz,553869,5,0,7,False,2023-09-22,Stolen,2B,2023,2024,30.0
+5,4892,2B,,Caught Stealing 3B,691718,Pete Crow-Armstrong,571863,Matt Koch,666624,Christopher Morel,R,Elias Díaz,553869,1,3,7,True,2023-09-11,Caught,3B,2023,2024,30.0

@@ -1,0 +1,8 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3522,1B,2B,Stolen Base 2B,542908,Jett Bandy,112526,Bartolo Colon,542979,Keon Broxton,R,Tyler Flowers,452095,4,4,3,False,2017-04-28,Stolen,2B,2017,2018,23.8
+1,4026,1B,2B,Stolen Base 2B,542908,Jett Bandy,573589,Michael Ynoa,519299,Eric Sogard,R,Omar Narváez,553882,4,4,9,False,2017-04-01,Stolen,2B,2017,2018,23.8
+2,2894,1B,2B,Stolen Base 2B,542908,Jett Bandy,112526,Bartolo Colon,542979,Keon Broxton,R,Tyler Flowers,452095,4,4,3,False,2017-04-28,Stolen,2B,2017,2018,23.8
+3,3398,1B,2B,Stolen Base 2B,542908,Jett Bandy,573589,Michael Ynoa,519299,Eric Sogard,R,Omar Narváez,553882,4,4,9,False,2017-04-01,Stolen,2B,2017,2018,23.8
+4,4774,1B,2B,Stolen Base 2B,542908,Jett Bandy,462136,Marco Estrada,592230,Kaleb Cowart,R,Josh Thole,489365,0,6,5,True,2016-08-24,Stolen,2B,2016,2017,23.9
+5,739,1B,2B,Stolen Base 2B,542908,Jett Bandy,462136,Marco Estrada,592230,Kaleb Cowart,R,Josh Thole,489365,0,6,5,True,2016-08-24,Stolen,2B,2016,2017,23.9
+6,4146,1B,2B,Stolen Base 2B,542908,Jett Bandy,462136,Marco Estrada,592230,Kaleb Cowart,R,Josh Thole,489365,0,6,5,True,2016-08-24,Stolen,2B,2016,2017,23.9

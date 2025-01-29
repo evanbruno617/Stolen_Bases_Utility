@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+194,1B,2B,Stolen Base 2B,518545,Adron Chambers,Welington Castillo,4,4,9,True,2012-09-22,Stolen,2B,2012
+3003,1B,,Caught Stealing 2B,518545,Adron Chambers,John Baker,1,0,5,False,2012-05-22,Caught,2B,2012
+28,1B,,Caught Stealing 2B,518545,Adron Chambers,Dioner Navarro,2,0,2,False,2013-09-28,Caught,2B,2013

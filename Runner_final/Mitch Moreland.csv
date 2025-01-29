@@ -1,0 +1,11 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3625,1B,2B,Stolen Base 2B,519048,Mitch Moreland,516969,Kelvin Herrera,598265,Jackie Bradley Jr.,R,Welington Castillo,456078,2,3,8,True,2019-05-05,Stolen,2B,2019,2020,24.2
+1,6468,1B,2B,Stolen Base 2B,519048,Mitch Moreland,516969,Kelvin Herrera,598265,Jackie Bradley Jr.,R,Welington Castillo,456078,2,3,8,True,2019-05-05,Stolen,2B,2019,2020,24.2
+2,8392,1B,2B,Stolen Base 2B,519048,Mitch Moreland,516969,Kelvin Herrera,598265,Jackie Bradley Jr.,R,Welington Castillo,456078,2,3,8,True,2019-05-05,Stolen,2B,2019,2020,24.2
+3,108,1B,2B,Stolen Base 2B,519048,Mitch Moreland,489265,Sergio Romo,506702,Sandy León,R,Jesús Sucre,491696,3,3,6,False,2018-04-29,Stolen,2B,2018,2019,25.0
+4,2938,1B,,Caught Stealing 2B,519048,Mitch Moreland,548357,Christian Bergman,598265,Jackie Bradley Jr.,R,Carlos Ruiz,434563,0,1,5,False,2017-05-28,Caught,2B,2017,2018,25.3
+5,2310,1B,,Caught Stealing 2B,519048,Mitch Moreland,548357,Christian Bergman,598265,Jackie Bradley Jr.,R,Carlos Ruiz,434563,0,1,5,False,2017-05-28,Caught,2B,2017,2018,25.3
+6,5030,1B,2B,Stolen Base 2B,519048,Mitch Moreland,542674,Gonzalez Germen,425783,Shin-Soo Choo,R,Nick Hundley,460026,3,1,6,False,2016-08-10,Stolen,2B,2016,2017,25.7
+7,995,1B,2B,Stolen Base 2B,519048,Mitch Moreland,542674,Gonzalez Germen,425783,Shin-Soo Choo,R,Nick Hundley,460026,3,1,6,False,2016-08-10,Stolen,2B,2016,2017,25.7
+8,4402,1B,2B,Stolen Base 2B,519048,Mitch Moreland,542674,Gonzalez Germen,425783,Shin-Soo Choo,R,Nick Hundley,460026,3,1,6,False,2016-08-10,Stolen,2B,2016,2017,25.7
+9,1104,1B,2B,Stolen Base 2B,519048,Mitch Moreland,444436,Ryan Webb,462101,Elvis Andrus,R,Roberto Pérez,547379,5,7,3,True,2015-05-25,Stolen,2B,2015,2016,25.6

@@ -1,0 +1,5 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,457727,Cameron Maybin,A.J. Jimenez,1,4,4,True,2017-09-26,Stolen,2B,2017
+2B,3B,Stolen Base 3B,475174,Yonder Alonso,A.J. Jimenez,1,5,5,True,2017-09-14,Stolen,3B,2017
+1B,2B,Stolen Base 2B,572287,Mike Zunino,A.J. Jimenez,1,5,5,True,2017-09-14,Stolen,2B,2017
+1B,2B,Stolen Base 2B,516416,Jean Segura,A.J. Jimenez,1,5,6,True,2017-09-14,Stolen,2B,2017

@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2044,1B,,Caught Stealing 2B,592407,Bryan Holaday,Yan Gomes,0,2,7,True,2014-06-20,Caught,2B,2014
+3076,1B,2B,Stolen Base 2B,592407,Bryan Holaday,Tyler Flowers,3,4,9,True,2014-04-29,Stolen,2B,2014
+874,1B,,Caught Stealing 2B,592407,Bryan Holaday,Sandy León,3,0,4,False,2016-06-26,Caught,2B,2016
+1572,1B,,Caught Stealing 2B,592407,Bryan Holaday,J.T. Realmuto,1,2,9,True,2019-06-21,Caught,2B,2019

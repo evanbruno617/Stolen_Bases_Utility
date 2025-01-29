@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+972,1B,,Caught Stealing 2B,124693,Dmitri Young,Mike Lieberthal,1,1,2,False,2000-08-21,Caught,2B,2000
+3182,2B,,Caught Stealing 3B,124693,Dmitri Young,Carlos Hernandez,4,5,2,False,2000-05-11,Caught,3B,2000
+3428,1B,,Caught Stealing 2B,124693,Dmitri Young,Jason Kendall,0,0,2,True,2000-04-30,Caught,2B,2000
+952,1B,2B,Stolen Base 2B,124693,Dmitri Young,Ben Petrick,4,3,5,True,2001-04-28,Stolen,2B,2001
+1011,1B,2B,Stolen Base 2B,124693,Dmitri Young,Benito Santiago,3,3,7,True,2001-04-26,Stolen,2B,2001
+1049,1B,,Caught Stealing 2B,124693,Dmitri Young,Bobby Estalella,5,9,8,True,2001-04-24,Caught,2B,2001
+1481,2B,3B,Stolen Base 3B,124693,Dmitri Young,Jason Kendall,5,6,10,False,2001-04-04,Stolen,3B,2001
+2240,1B,2B,Stolen Base 2B,124693,Dmitri Young,Michael Barrett,2,1,7,False,2002-06-11,Stolen,2B,2002
+3884,1B,2B,Stolen Base 2B,124693,Dmitri Young,Toby Hall,1,0,2,True,2002-04-04,Stolen,2B,2002
+353,1B,2B,Stolen Base 2B,124693,Dmitri Young,Jorge Posada,1,2,4,True,2003-09-11,Stolen,2B,2003
+810,1B,,Caught Stealing 2B,124693,Dmitri Young,Einar Díaz,2,2,11,False,2003-08-18,Caught,2B,2003
+2242,1B,2B,Stolen Base 2B,124693,Dmitri Young,Benito Santiago,7,5,9,True,2003-06-07,Stolen,2B,2003
+225,2B,3B,Caught Stealing 2B,124693,Dmitri Young,Victor Martinez,3,0,7,False,2004-09-20,Caught,2B,2004
+1088,1B,,Caught Stealing 2B,124693,Dmitri Young,Jason Varitek,1,3,4,False,2004-08-07,Caught,2B,2004
+2984,1B,2B,Stolen Base 2B,124693,Dmitri Young,A.J. Pierzynski,1,2,8,True,2005-04-29,Stolen,2B,2005

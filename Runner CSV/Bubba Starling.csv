@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+287,1B,2B,Stolen Base 2B,605490,Bubba Starling,Garrett Stubbs,1,1,8,False,2019-09-13,Stolen,2B,2019
+1183,2B,3B,Stolen Base 3B,605490,Bubba Starling,Welington Castillo,6,4,7,False,2019-07-18,Stolen,3B,2019

@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+140,1B,2B,Stolen Base 2B,621573,Austin Dean,Matt Wieters,2,1,4,True,2018-09-24,Stolen,2B,2018
+66,1B,,Caught Stealing 2B,621573,Austin Dean,Andrew Knapp,4,4,12,True,2019-09-27,Caught,2B,2019
+257,1B,,Caught Stealing 2B,621573,Austin Dean,Buster Posey,0,0,3,True,2019-09-14,Caught,2B,2019
+3247,1B,2B,Stolen Base 2B,621573,Austin Dean,Jose Trevino,6,7,7,False,2022-04-01,Stolen,2B,2022

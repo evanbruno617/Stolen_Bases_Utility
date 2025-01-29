@@ -1,0 +1,8 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,5205,1B,,Caught Stealing 2B,607385,Tyler Collins,448306,James Shields,461865,Andrew Romine,R,Dioner Navarro,425900,0,0,2,False,2016-08-02,Caught,2B,2016,2017,27.5
+1,5357,1B,2B,Stolen Base 2B,607385,Tyler Collins,453214,Steven Wright,435079,Ian Kinsler,R,Sandy León,506702,0,3,2,True,2016-07-26,Stolen,2B,2016,2017,27.5
+2,1170,1B,,Caught Stealing 2B,607385,Tyler Collins,448306,James Shields,461865,Andrew Romine,R,Dioner Navarro,425900,0,0,2,False,2016-08-02,Caught,2B,2016,2017,27.5
+3,1322,1B,2B,Stolen Base 2B,607385,Tyler Collins,453214,Steven Wright,435079,Ian Kinsler,R,Sandy León,506702,0,3,2,True,2016-07-26,Stolen,2B,2016,2017,27.5
+4,4577,1B,,Caught Stealing 2B,607385,Tyler Collins,448306,James Shields,461865,Andrew Romine,R,Dioner Navarro,425900,0,0,2,False,2016-08-02,Caught,2B,2016,2017,27.5
+5,4729,1B,2B,Stolen Base 2B,607385,Tyler Collins,453214,Steven Wright,435079,Ian Kinsler,R,Sandy León,506702,0,3,2,True,2016-07-26,Stolen,2B,2016,2017,27.5
+6,1006,1B,2B,Stolen Base 2B,607385,Tyler Collins,450308,Jered Weaver,578428,Jose Iglesias,R,Carlos Pérez,542208,7,3,4,True,2015-05-30,Stolen,2B,2015,2016,27.8

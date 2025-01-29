@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1663,1B,2B,Stolen Base 2B,807799,Masataka Yoshida,Francisco Alvarez,8,3,7,False,2023-07-22,Stolen,2B,2023
+1768,1B,2B,Stolen Base 2B,807799,Masataka Yoshida,Shea Langeliers,0,3,6,True,2023-07-17,Stolen,2B,2023
+1885,1B,2B,Stolen Base 2B,807799,Masataka Yoshida,Shea Langeliers,3,3,6,False,2023-07-09,Stolen,2B,2023
+1904,1B,2B,Stolen Base 2B,807799,Masataka Yoshida,Shea Langeliers,5,0,2,False,2023-07-08,Stolen,2B,2023
+2114,1B,2B,Stolen Base 2B,807799,Masataka Yoshida,Danny Jansen,0,4,8,True,2023-06-30,Stolen,2B,2023
+3077,1B,2B,Stolen Base 2B,807799,Masataka Yoshida,Austin Nola,1,4,4,True,2023-05-20,Stolen,2B,2023
+4135,1B,2B,Stolen Base 2B,807799,Masataka Yoshida,Jake Rogers,3,6,6,True,2023-04-06,Stolen,2B,2023
+4228,1B,2B,Stolen Base 2B,807799,Masataka Yoshida,Adley Rutschman,8,5,8,False,2023-04-02,Stolen,2B,2023

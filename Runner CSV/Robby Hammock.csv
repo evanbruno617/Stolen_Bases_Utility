@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+44,1B,2B,Stolen Base 2B,425631,Robby Hammock,Chris Widger,2,3,9,False,2003-09-27,Stolen,2B,2003
+1702,1B,2B,Stolen Base 2B,425631,Robby Hammock,Charles Johnson,0,7,3,True,2003-07-03,Stolen,2B,2003
+1796,1B,,Caught Stealing 2B,425631,Robby Hammock,A.J. Hinch,2,1,6,True,2003-06-29,Caught,2B,2003
+1910,1B,,Caught Stealing 2B,425631,Robby Hammock,Brad Ausmus,1,2,4,False,2003-06-23,Caught,2B,2003
+1930,1B,2B,Stolen Base 2B,425631,Robby Hammock,Jason LaRue,5,3,8,False,2003-06-21,Stolen,2B,2003
+122,1B,,Caught Stealing 2B,425631,Robby Hammock,Ramon Hernandez,4,5,9,True,2004-09-24,Caught,2B,2004
+2258,2B,,Caught Stealing 3B,425631,Robby Hammock,Paul Lo Duca,6,4,8,False,2004-06-06,Caught,3B,2004
+2805,1B,,Caught Stealing 2B,425631,Robby Hammock,Mike Piazza,3,4,2,False,2004-05-10,Caught,2B,2004
+2922,1B,2B,Stolen Base 2B,425631,Robby Hammock,Michael Barrett,0,3,4,True,2004-05-04,Stolen,2B,2004
+3043,1B,2B,Stolen Base 2B,425631,Robby Hammock,Paul Bako,1,2,2,False,2004-04-28,Stolen,2B,2004

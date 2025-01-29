@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+425,1B,2B,Stolen Base 2B,547172,Tony Wolters,Anthony Recker,7,3,6,False,2016-07-23,Stolen,2B,2016
+2258,1B,2B,Stolen Base 2B,547172,Tony Wolters,Miguel Montero,1,5,8,True,2016-04-15,Stolen,2B,2016
+2265,1B,2B,Stolen Base 2B,547172,Tony Wolters,Trevor Brown,3,1,5,False,2016-04-14,Stolen,2B,2016
+2266,1B,2B,Stolen Base 2B,547172,Tony Wolters,Trevor Brown,9,6,8,False,2016-04-14,Stolen,2B,2016
+2221,2B,,Caught Stealing 3B,547172,Tony Wolters,Austin Hedges,1,4,4,True,2017-06-02,Caught,3B,2017
+2399,1B,2B,Stolen Base 2B,547172,Tony Wolters,Yasmani Grandal,1,1,8,True,2018-05-21,Stolen,2B,2018
+2680,1B,2B,Stolen Base 2B,547172,Tony Wolters,Jose Lobaton,2,2,6,True,2018-05-06,Stolen,2B,2018
+2355,3B,,Caught Stealing Home,547172,Tony Wolters,Tucker Barnhart,2,2,2,True,2021-05-02,Caught,Home,2021

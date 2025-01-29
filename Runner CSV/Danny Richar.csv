@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+454,1B,,Caught Stealing 2B,462950,Danny Richar,Kelly Shoppach,1,1,2,False,2007-09-11,Caught,2B,2007
+612,1B,2B,Caught Stealing 3B,462950,Danny Richar,Ivan Rodriguez,0,3,6,True,2007-09-04,Caught,3B,2007
+1020,1B,2B,Stolen Base 2B,462950,Danny Richar,Kurt Suzuki,4,3,6,True,2007-08-16,Stolen,2B,2007
+1060,1B,,Caught Stealing 2B,462950,Danny Richar,Kurt Suzuki,1,0,3,True,2007-08-14,Caught,2B,2007
+1282,1B,,Caught Stealing 2B,462950,Danny Richar,Ivan Rodriguez,5,7,9,True,2007-08-04,Caught,2B,2007
+57,1B,2B,Stolen Base 2B,462950,Danny Richar,Jason LaRue,6,4,9,True,2008-09-26,Stolen,2B,2008

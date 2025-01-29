@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+14,1B,2B,Stolen Base 2B,624585,Jorge Soler,Martín Maldonado,2,4,6,True,2014-09-28,Stolen,2B,2014
+1042,1B,2B,Stolen Base 2B,624585,Jorge Soler,Francisco Cervelli,4,4,6,True,2015-08-05,Stolen,2B,2015
+1354,1B,2B,Stolen Base 2B,624585,Jorge Soler,A.J. Pierzynski,0,3,7,True,2015-07-19,Stolen,2B,2015
+1489,1B,2B,Stolen Base 2B,624585,Jorge Soler,Tony Cruz,5,4,8,False,2015-07-08,Stolen,2B,2015
+2365,1B,,Caught Stealing 2B,624585,Jorge Soler,Wilson Ramos,1,1,4,False,2015-05-25,Caught,2B,2015
+2308,1B,2B,Stolen Base 2B,624585,Jorge Soler,Robinson Chirinos,0,2,1,True,2018-05-27,Stolen,2B,2018
+2498,2B,3B,Stolen Base 3B,624585,Jorge Soler,Wilson Ramos,3,5,5,False,2018-05-16,Stolen,3B,2018
+2669,1B,2B,Stolen Base 2B,624585,Jorge Soler,Grayson Greiner,3,0,3,False,2018-05-06,Stolen,2B,2018
+3194,1B,,Caught Stealing 2B,624585,Jorge Soler,Yan Gomes,0,0,4,True,2018-04-08,Caught,2B,2018
+168,1B,2B,Stolen Base 2B,624585,Jorge Soler,Mitch Garver,2,0,3,True,2019-09-20,Stolen,2B,2019
+455,1B,2B,Stolen Base 2B,624585,Jorge Soler,Grayson Greiner,4,4,8,False,2019-09-03,Stolen,2B,2019
+827,1B,2B,Stolen Base 2B,624585,Jorge Soler,Jake Rogers,0,2,7,True,2019-08-10,Stolen,2B,2019
+2906,3B,,Caught Stealing Home,624585,Jorge Soler,Mitch Garver,1,3,4,False,2019-04-03,Caught,Home,2019
+2784,3B,,Caught Stealing Home,624585,Jorge Soler,Luis Torrens,6,3,2,False,2022-04-29,Caught,Home,2022
+3085,1B,,Caught Stealing 2B,624585,Jorge Soler,Max Stassi,1,1,5,True,2022-04-12,Caught,2B,2022
+2585,1B,2B,Stolen Base 2B,624585,Jorge Soler,Yasmani Grandal,0,0,3,True,2023-06-10,Stolen,2B,2023

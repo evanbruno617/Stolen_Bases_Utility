@@ -1,0 +1,53 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,608701,Rob Refsnyder,Brian Serven,0,0,1,False,2023-06-14,Stolen,2B,2023
+2B,,Caught Stealing 3B,665926,Andrés Giménez,Brian Serven,2,0,2,False,2023-04-26,Caught,3B,2023
+2B,3B,Stolen Base 3B,680757,Steven Kwan,Brian Serven,3,1,7,False,2023-04-26,Stolen,3B,2023
+1B,2B,Stolen Base 2B,642708,Amed Rosario,Brian Serven,3,1,7,False,2023-04-26,Stolen,2B,2023
+1B,2B,Stolen Base 2B,592663,J.T. Realmuto,Brian Serven,1,0,2,False,2023-04-23,Stolen,2B,2023
+2B,,Caught Stealing 3B,592663,J.T. Realmuto,Brian Serven,1,0,2,False,2023-04-23,Caught,3B,2023
+1B,2B,Stolen Base 2B,592663,J.T. Realmuto,Brian Serven,4,3,4,False,2023-04-23,Stolen,2B,2023
+1B,,Caught Stealing 2B,663757,Trent Grisham,Brian Serven,2,9,7,True,2022-09-24,Caught,2B,2022
+1B,2B,Stolen Base 2B,462101,Elvis Andrus,Brian Serven,0,3,5,False,2022-09-14,Stolen,2B,2022
+1B,2B,Stolen Base 2B,656448,Stone Garrett,Brian Serven,0,4,3,True,2022-09-11,Stolen,2B,2022
+3B,score,Stolen Base Home,572233,Christian Walker,Brian Serven,0,4,3,True,2022-09-11,Stolen,Home,2022
+2B,3B,Stolen Base 3B,656448,Stone Garrett,Brian Serven,3,5,7,True,2022-09-11,Stolen,3B,2022
+1B,2B,Stolen Base 2B,656896,Emmanuel Rivera,Brian Serven,3,5,7,True,2022-09-11,Stolen,2B,2022
+1B,2B,Stolen Base 2B,664983,Jake McCarthy,Brian Serven,3,10,7,True,2022-09-11,Stolen,2B,2022
+1B,2B,Stolen Base 2B,662139,Daulton Varsho,Brian Serven,6,11,9,True,2022-09-11,Stolen,2B,2022
+1B,,Caught Stealing 2B,621020,Dansby Swanson,Brian Serven,2,0,3,False,2022-08-31,Caught,2B,2022
+2B,3B,Stolen Base 3B,516782,Starling Marte,Brian Serven,3,1,7,False,2022-08-25,Stolen,3B,2022
+1B,2B,Stolen Base 2B,596019,Francisco Lindor,Brian Serven,3,1,7,False,2022-08-25,Stolen,2B,2022
+1B,2B,Stolen Base 2B,573262,Mike Yastrzemski,Brian Serven,0,2,4,True,2022-08-21,Stolen,2B,2022
+1B,2B,Stolen Base 2B,596103,Austin Slater,Brian Serven,3,3,9,True,2022-08-20,Stolen,2B,2022
+1B,2B,Stolen Base 2B,596103,Austin Slater,Brian Serven,7,4,7,True,2022-08-19,Stolen,2B,2022
+1B,,Caught Stealing 2B,657557,Paul DeJong,Brian Serven,1,0,4,False,2022-08-16,Caught,2B,2022
+1B,2B,Stolen Base 2B,664983,Jake McCarthy,Brian Serven,0,1,2,True,2022-08-14,Stolen,2B,2022
+1B,2B,Stolen Base 2B,668942,Josh Rojas,Brian Serven,0,1,3,True,2022-08-14,Stolen,2B,2022
+2B,3B,Stolen Base 3B,664983,Jake McCarthy,Brian Serven,0,5,4,True,2022-08-14,Stolen,3B,2022
+2B,3B,Stolen Base 3B,666158,Gavin Lux,Brian Serven,3,6,8,True,2022-07-31,Stolen,3B,2022
+1B,2B,Stolen Base 2B,518692,Freddie Freeman,Brian Serven,2,4,3,True,2022-07-29,Stolen,2B,2022
+1B,2B,Stolen Base 2B,641553,Adam Engel,Brian Serven,0,1,7,True,2022-07-26,Stolen,2B,2022
+1B,2B,Stolen Base 2B,665833,Oneil Cruz,Brian Serven,0,0,4,True,2022-07-16,Stolen,2B,2022
+2B,3B,Stolen Base 3B,665923,Esteury Ruiz,Brian Serven,3,0,3,True,2022-07-14,Stolen,3B,2022
+1B,2B,Stolen Base 2B,663757,Trent Grisham,Brian Serven,3,1,3,True,2022-07-14,Stolen,2B,2022
+2B,,Caught Stealing 3B,665923,Esteury Ruiz,Brian Serven,5,3,8,True,2022-07-12,Caught,3B,2022
+1B,,Caught Stealing 2B,677950,Alek Thomas,Brian Serven,1,1,1,False,2022-07-08,Caught,2B,2022
+1B,2B,Stolen Base 2B,668942,Josh Rojas,Brian Serven,5,6,9,False,2022-07-08,Stolen,2B,2022
+1B,2B,Stolen Base 2B,641355,Cody Bellinger,Brian Serven,0,0,5,False,2022-07-06,Stolen,2B,2022
+1B,2B,Stolen Base 2B,542932,Jon Berti,Brian Serven,0,3,3,False,2022-06-21,Stolen,2B,2022
+1B,2B,Stolen Base 2B,663743,Nick Fortes,Brian Serven,5,4,4,False,2022-06-21,Stolen,2B,2022
+1B,2B,Stolen Base 2B,642708,Amed Rosario,Brian Serven,0,3,2,True,2022-06-16,Stolen,2B,2022
+1B,2B,Stolen Base 2B,608070,José Ramírez,Brian Serven,1,2,6,True,2022-06-14,Stolen,2B,2022
+2B,,Caught Stealing 3B,608070,José Ramírez,Brian Serven,3,4,10,True,2022-06-14,Caught,3B,2022
+1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,Brian Serven,3,6,4,True,2022-06-05,Stolen,2B,2022
+1B,2B,Stolen Base 2B,621020,Dansby Swanson,Brian Serven,0,0,1,True,2022-06-02,Stolen,2B,2022
+1B,2B,Stolen Base 2B,542932,Jon Berti,Brian Serven,10,7,6,True,2022-06-01,Stolen,2B,2022
+2B,3B,Stolen Base 3B,542932,Jon Berti,Brian Serven,11,11,10,True,2022-06-01,Stolen,3B,2022
+1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,Brian Serven,11,12,10,True,2022-06-01,Stolen,2B,2022
+1B,2B,Stolen Base 2B,542932,Jon Berti,Brian Serven,10,7,6,True,2022-05-31,Stolen,2B,2022
+2B,3B,Stolen Base 3B,542932,Jon Berti,Brian Serven,11,11,10,True,2022-05-31,Stolen,3B,2022
+1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,Brian Serven,11,12,10,True,2022-05-31,Stolen,2B,2022
+1B,2B,Stolen Base 2B,645302,Victor Robles,Brian Serven,1,2,5,False,2022-05-28,Stolen,2B,2022
+2B,3B,Stolen Base 3B,543829,Dee Strange-Gordon,Brian Serven,2,3,7,False,2022-05-28,Stolen,3B,2022
+1B,2B,Stolen Base 2B,669261,Jack Suwinski,Brian Serven,10,5,8,False,2022-05-25,Stolen,2B,2022
+1B,,Caught Stealing 2B,605204,J.D. Davis,Brian Serven,4,3,6,True,2022-05-21,Caught,2B,2022

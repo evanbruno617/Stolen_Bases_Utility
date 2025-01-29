@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1892,1B,,Caught Stealing 2B,605508,Charles Tilson,Yan Gomes,3,0,3,True,2018-06-20,Caught,2B,2018
+1973,1B,2B,Caught Stealing 2B,605508,Charles Tilson,Grayson Greiner,3,5,5,False,2018-06-16,Caught,2B,2018
+2034,1B,,Caught Stealing 2B,605508,Charles Tilson,Yan Gomes,3,0,2,False,2018-06-12,Caught,2B,2018
+2225,1B,2B,Stolen Base 2B,605508,Charles Tilson,Manny Piña,2,3,3,False,2018-06-01,Stolen,2B,2018
+2339,1B,2B,Stolen Base 2B,605508,Charles Tilson,James McCann,0,3,4,True,2018-05-25,Stolen,2B,2018
+1326,1B,2B,Stolen Base 2B,605508,Charles Tilson,Willson Contreras,3,6,9,False,2019-07-06,Stolen,2B,2019
+2263,1B,2B,Stolen Base 2B,605508,Charles Tilson,Luke Maile,0,2,4,True,2019-05-11,Stolen,2B,2019
+2314,1B,2B,Stolen Base 2B,605508,Charles Tilson,Kevin Plawecki,0,0,2,True,2019-05-08,Stolen,2B,2019
+2342,1B,2B,Stolen Base 2B,605508,Charles Tilson,Roberto Pérez,0,0,2,True,2019-05-07,Stolen,2B,2019

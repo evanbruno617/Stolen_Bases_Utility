@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1197,1B,,Caught Stealing 2B,643335,Zack Granite,Ryan Lavarnway,2,4,6,True,2017-07-29,Caught,2B,2017
+1298,1B,,Caught Stealing 2B,643335,Zack Granite,James McCann,0,2,3,False,2017-07-23,Caught,2B,2017
+1327,1B,2B,Stolen Base 2B,643335,Zack Granite,Alex Avila,5,0,5,False,2017-07-22,Stolen,2B,2017
+1341,1B,2B,Stolen Base 2B,643335,Zack Granite,Alex Avila,0,5,4,False,2017-07-21,Stolen,2B,2017

@@ -1,0 +1,13 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,666149,Tyler Fitzgerald,Brett Sullivan,2,1,5,False,2023-09-27,Stolen,2B,2023
+1B,2B,Stolen Base 2B,666149,Tyler Fitzgerald,Brett Sullivan,2,2,7,False,2023-09-27,Stolen,2B,2023
+1B,2B,Stolen Base 2B,642731,Thairo Estrada,Brett Sullivan,2,2,8,False,2023-09-27,Stolen,2B,2023
+1B,2B,Stolen Base 2B,680700,Richie Palacios,Brett Sullivan,0,0,2,True,2023-09-22,Stolen,2B,2023
+1B,2B,Stolen Base 2B,669242,Tommy Edman,Brett Sullivan,1,1,6,True,2023-09-22,Stolen,2B,2023
+2B,3B,Stolen Base 3B,453568,Charlie Blackmon,Brett Sullivan,1,2,7,True,2023-09-20,Stolen,3B,2023
+1B,2B,Stolen Base 2B,666134,Nolan Jones,Brett Sullivan,1,2,7,True,2023-09-20,Stolen,2B,2023
+1B,3B,Stolen Base 2B,643393,Tony Kemp,Brett Sullivan,2,5,7,False,2023-09-16,Stolen,2B,2023
+1B,2B,Stolen Base 2B,682928,CJ Abrams,Brett Sullivan,5,3,7,False,2023-05-24,Stolen,2B,2023
+1B,2B,Stolen Base 2B,671277,Luis García Jr.,Brett Sullivan,5,3,7,False,2023-05-24,Stolen,2B,2023
+1B,2B,Stolen Base 2B,669257,Will Smith,Brett Sullivan,0,2,6,True,2023-05-06,Stolen,2B,2023
+2B,,Caught Stealing 3B,673548,Seiya Suzuki,Brett Sullivan,5,2,8,False,2023-04-27,Caught,3B,2023

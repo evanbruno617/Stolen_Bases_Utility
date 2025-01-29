@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+484,1B,2B,Stolen Base 2B,118136,Wendell Magee,Darrin Fletcher,2,1,5,True,2000-09-09,Stolen,2B,2000
+700,1B,2B,Stolen Base 2B,118136,Wendell Magee,Josh Bard,8,0,6,True,2002-08-26,Stolen,2B,2002
+2124,1B,,Caught Stealing 2B,118136,Wendell Magee,Damian Miller,3,1,4,True,2002-06-16,Caught,2B,2002
+2591,1B,,Caught Stealing 2B,118136,Wendell Magee,Eddie Pérez,1,2,4,True,2002-05-27,Caught,2B,2002
+2799,1B,,Caught Stealing 2B,118136,Wendell Magee,Bill Haselman,2,1,7,False,2002-05-19,Caught,2B,2002
+3363,1B,2B,Stolen Base 2B,118136,Wendell Magee,A.J. Pierzynski,1,2,5,False,2002-04-26,Stolen,2B,2002

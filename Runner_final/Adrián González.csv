@@ -1,0 +1,10 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2760,1B,,Caught Stealing 2B,408236,Adrián González,544836,Enny Romero,518735,Yasmani Grandal,L,Jose Lobaton,446653,2,1,8,False,2017-06-07,Caught,2B,2017,2018,24.4
+1,2132,1B,,Caught Stealing 2B,408236,Adrián González,544836,Enny Romero,518735,Yasmani Grandal,L,Jose Lobaton,446653,2,1,8,False,2017-06-07,Caught,2B,2017,2018,24.4
+2,4453,1B,,Caught Stealing 2B,408236,Adrián González,543408,Tom Koehler,502210,Josh Reddick,R,Jeff Mathis,425772,0,0,2,True,2016-09-10,Caught,2B,2016,2017,23.7
+3,4765,1B,,Caught Stealing 2B,408236,Adrián González,456501,Johnny Cueto,518735,Yasmani Grandal,R,Buster Posey,457763,1,0,4,False,2016-08-24,Caught,2B,2016,2017,23.7
+4,418,1B,,Caught Stealing 2B,408236,Adrián González,543408,Tom Koehler,502210,Josh Reddick,R,Jeff Mathis,425772,0,0,2,True,2016-09-10,Caught,2B,2016,2017,23.7
+5,730,1B,,Caught Stealing 2B,408236,Adrián González,456501,Johnny Cueto,518735,Yasmani Grandal,R,Buster Posey,457763,1,0,4,False,2016-08-24,Caught,2B,2016,2017,23.7
+6,3825,1B,,Caught Stealing 2B,408236,Adrián González,543408,Tom Koehler,502210,Josh Reddick,R,Jeff Mathis,425772,0,0,2,True,2016-09-10,Caught,2B,2016,2017,23.7
+7,4137,1B,,Caught Stealing 2B,408236,Adrián González,456501,Johnny Cueto,518735,Yasmani Grandal,R,Buster Posey,457763,1,0,4,False,2016-08-24,Caught,2B,2016,2017,23.7
+8,1333,2B,,Caught Stealing 3B,408236,Adrián González,594977,Ken Roberts,518735,Yasmani Grandal,L,Nick Hundley,460026,4,2,7,False,2015-05-14,Caught,3B,2015,2016,24.1

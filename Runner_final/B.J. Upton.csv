@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,235,2B,3B,Stolen Base 3B,425834,B.J. Upton,450203,Charlie Morton,519083,Derek Norris,R,Francisco Cervelli,465041,0,2,2,True,2015-07-08,Stolen,3B,2015,2016,28.2
+1,313,1B,,Caught Stealing 2B,425834,B.J. Upton,593372,Carlos Martinez,475174,Yonder Alonso,R,Yadier Molina,425877,0,0,3,True,2015-07-04,Caught,2B,2015,2016,28.2
+2,375,1B,2B,Stolen Base 2B,425834,B.J. Upton,407845,Fernando Rodney,461314,Matt Kemp,R,Mike Zunino,572287,0,3,8,False,2015-07-01,Stolen,2B,2015,2016,28.2
+3,663,1B,2B,Stolen Base 2B,425834,B.J. Upton,431148,Scott Kazmir,475174,Yonder Alonso,L,Josh Phegley,572033,2,3,5,False,2015-06-16,Stolen,2B,2015,2016,28.2
+4,678,1B,2B,Stolen Base 2B,425834,B.J. Upton,519141,Drew Pomeranz,461416,Will Venable,L,Stephen Vogt,519390,1,4,7,False,2015-06-15,Stolen,2B,2015,2016,28.2
+5,809,1B,2B,Stolen Base 2B,425834,B.J. Upton,462382,Jim Johnson,519083,Derek Norris,R,Christian Bethancourt,542194,5,5,8,True,2015-06-09,Stolen,2B,2015,2016,28.2

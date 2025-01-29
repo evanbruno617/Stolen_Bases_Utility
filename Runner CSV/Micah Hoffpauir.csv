@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2420,1B,2B,Stolen Base 2B,451687,Micah Hoffpauir,Yorvit Torrealba,8,4,8,False,2008-05-29,Stolen,2B,2008
+145,2B,3B,Caught Stealing Home,451687,Micah Hoffpauir,Humberto Quintero,1,1,9,False,2009-07-27,Caught,Home,2009

@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+84,1B,2B,Stolen Base 2B,137140,Russell Branyan,Mike Mahoney,0,1,9,True,2002-09-26,Stolen,2B,2002
+1581,1B,2B,Stolen Base 2B,137140,Russell Branyan,Gregg Zaun,0,5,6,True,2002-07-14,Stolen,2B,2002
+1763,1B,,Caught Stealing 2B,137140,Russell Branyan,Robert Machado,3,0,4,False,2002-07-04,Caught,2B,2002
+2182,1B,2B,Stolen Base 2B,137140,Russell Branyan,Jason Kendall,0,2,4,False,2002-06-14,Stolen,2B,2002
+3413,1B,2B,Stolen Base 2B,137140,Russell Branyan,Sandy Alomar Jr.,1,2,2,False,2002-04-24,Stolen,2B,2002
+3464,1B,,Caught Stealing 2B,137140,Russell Branyan,Tom Prince,3,2,5,True,2002-04-21,Caught,2B,2002
+1160,1B,2B,Stolen Base 2B,137140,Russell Branyan,Vance Wilson,0,0,3,False,2004-08-04,Stolen,2B,2004
+2296,1B,2B,Stolen Base 2B,137140,Russell Branyan,Ramon Hernandez,0,0,2,True,2005-05-31,Stolen,2B,2005
+2577,1B,2B,Stolen Base 2B,137140,Russell Branyan,Russell Martin,1,0,8,False,2007-06-05,Stolen,2B,2007
+1687,1B,2B,Stolen Base 2B,137140,Russell Branyan,Robby Hammock,0,5,6,True,2008-07-03,Stolen,2B,2008
+1587,1B,2B,Stolen Base 2B,137140,Russell Branyan,Mike Napoli,0,2,4,False,2009-05-21,Stolen,2B,2009
+2544,1B,2B,Stolen Base 2B,137140,Russell Branyan,Kurt Suzuki,0,0,2,True,2009-04-12,Stolen,2B,2009
+1351,1B,2B,Stolen Base 2B,137140,Russell Branyan,A.J. Pierzynski,0,3,1,True,2010-07-28,Stolen,2B,2010
+2631,1B,2B,Stolen Base 2B,137140,Russell Branyan,Matt Treanor,7,5,8,False,2011-06-11,Stolen,2B,2011
+2958,1B,2B,Stolen Base 2B,137140,Russell Branyan,Drew Butera,2,3,4,True,2011-05-29,Stolen,2B,2011

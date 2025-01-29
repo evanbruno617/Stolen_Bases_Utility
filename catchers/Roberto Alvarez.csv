@@ -1,0 +1,4 @@
+Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1B,,Caught Stealing 2B,691910,Randy Vasquez,605538,Matt Wisler,680858,Albert Jerez,R,Roberto Alvarez,666712,1,8,7,True,2022-04-06,Caught,2B
+1B,2B,Stolen Base 2B,645277,Ozzie Albies,446372,Corey Kluber,594807,Adam Duvall,R,Roberto Alvarez,666712,0,0,2,False,2022-04-05,Stolen,2B
+1B,,Caught Stealing 2B,592696,Eddie Rosario,446372,Corey Kluber,621566,Matt Olson,R,Roberto Alvarez,666712,0,0,3,False,2022-04-05,Caught,2B

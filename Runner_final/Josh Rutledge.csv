@@ -1,0 +1,10 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,6592,1B,2B,Stolen Base 2B,592710,Josh Rutledge,450172,Edinson Volquez,598265,Jackie Bradley Jr.,R,Salvador Perez,521692,0,2,4,True,2016-05-18,Stolen,2B,2016,2017,28.9
+1,6621,1B,2B,Stolen Base 2B,592710,Josh Rutledge,450172,Edinson Volquez,598265,Jackie Bradley Jr.,R,Salvador Perez,521692,0,2,4,True,2016-05-16,Stolen,2B,2016,2017,28.9
+2,6646,1B,2B,Stolen Base 2B,592710,Josh Rutledge,571666,Mike Fiers,571788,Brock Holt,R,Jason Castro,488771,6,4,3,False,2016-05-15,Stolen,2B,2016,2017,28.9
+3,2557,1B,2B,Stolen Base 2B,592710,Josh Rutledge,450172,Edinson Volquez,598265,Jackie Bradley Jr.,R,Salvador Perez,521692,0,2,4,True,2016-05-18,Stolen,2B,2016,2017,28.9
+4,2586,1B,2B,Stolen Base 2B,592710,Josh Rutledge,450172,Edinson Volquez,598265,Jackie Bradley Jr.,R,Salvador Perez,521692,0,2,4,True,2016-05-16,Stolen,2B,2016,2017,28.9
+5,2611,1B,2B,Stolen Base 2B,592710,Josh Rutledge,571666,Mike Fiers,571788,Brock Holt,R,Jason Castro,488771,6,4,3,False,2016-05-15,Stolen,2B,2016,2017,28.9
+6,5964,1B,2B,Stolen Base 2B,592710,Josh Rutledge,450172,Edinson Volquez,598265,Jackie Bradley Jr.,R,Salvador Perez,521692,0,2,4,True,2016-05-18,Stolen,2B,2016,2017,28.9
+7,5993,1B,2B,Stolen Base 2B,592710,Josh Rutledge,450172,Edinson Volquez,598265,Jackie Bradley Jr.,R,Salvador Perez,521692,0,2,4,True,2016-05-16,Stolen,2B,2016,2017,28.9
+8,6018,1B,2B,Stolen Base 2B,592710,Josh Rutledge,571666,Mike Fiers,571788,Brock Holt,R,Jason Castro,488771,6,4,3,False,2016-05-15,Stolen,2B,2016,2017,28.9

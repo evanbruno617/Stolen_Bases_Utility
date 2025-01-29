@@ -1,0 +1,23 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1769,1B,2B,Stolen Base 2B,431145,Russell Martin,502593,Jake Petricka,446381,Darwin Barney,R,Kevan Smith,607345,1,4,8,True,2017-08-02,Stolen,2B,2017,2018,25.6
+1,1770,2B,3B,Stolen Base 2B,431145,Russell Martin,502593,Jake Petricka,446381,Darwin Barney,R,Kevan Smith,607345,1,4,8,True,2017-08-02,Stolen,2B,2017,2018,25.6
+2,2223,1B,,Caught Stealing 2B,431145,Russell Martin,570666,Luis Cessa,518626,Josh Donaldson,R,Gary Sánchez,596142,1,4,5,True,2017-07-04,Caught,2B,2017,2018,25.6
+3,3667,1B,,Caught Stealing 2B,431145,Russell Martin,500610,Deolis Guerra,458085,Chris Coghlan,R,Juan Graterol,492802,5,5,12,True,2017-04-21,Caught,2B,2017,2018,25.6
+4,1141,1B,2B,Stolen Base 2B,431145,Russell Martin,502593,Jake Petricka,446381,Darwin Barney,R,Kevan Smith,607345,1,4,8,True,2017-08-02,Stolen,2B,2017,2018,25.6
+5,1142,2B,3B,Stolen Base 2B,431145,Russell Martin,502593,Jake Petricka,446381,Darwin Barney,R,Kevan Smith,607345,1,4,8,True,2017-08-02,Stolen,2B,2017,2018,25.6
+6,1595,1B,,Caught Stealing 2B,431145,Russell Martin,570666,Luis Cessa,518626,Josh Donaldson,R,Gary Sánchez,596142,1,4,5,True,2017-07-04,Caught,2B,2017,2018,25.6
+7,3039,1B,,Caught Stealing 2B,431145,Russell Martin,500610,Deolis Guerra,458085,Chris Coghlan,R,Juan Graterol,492802,5,5,12,True,2017-04-21,Caught,2B,2017,2018,25.6
+8,4312,1B,2B,Stolen Base 2B,431145,Russell Martin,445060,Ricky Nolasco,453064,Troy Tulowitzki,R,Jett Bandy,542908,0,0,2,True,2016-09-17,Stolen,2B,2016,2017,25.6
+9,6094,1B,2B,Stolen Base 2B,431145,Russell Martin,621107,Zach Eflin,485567,Ezequiel Carrera,R,Cameron Rupp,519237,1,0,1,False,2016-06-14,Stolen,2B,2016,2017,25.6
+10,277,1B,2B,Stolen Base 2B,431145,Russell Martin,445060,Ricky Nolasco,453064,Troy Tulowitzki,R,Jett Bandy,542908,0,0,2,True,2016-09-17,Stolen,2B,2016,2017,25.6
+11,2059,1B,2B,Stolen Base 2B,431145,Russell Martin,621107,Zach Eflin,485567,Ezequiel Carrera,R,Cameron Rupp,519237,1,0,1,False,2016-06-14,Stolen,2B,2016,2017,25.6
+12,3684,1B,2B,Stolen Base 2B,431145,Russell Martin,445060,Ricky Nolasco,453064,Troy Tulowitzki,R,Jett Bandy,542908,0,0,2,True,2016-09-17,Stolen,2B,2016,2017,25.6
+13,5466,1B,2B,Stolen Base 2B,431145,Russell Martin,621107,Zach Eflin,485567,Ezequiel Carrera,R,Cameron Rupp,519237,1,0,1,False,2016-06-14,Stolen,2B,2016,2017,25.6
+14,187,1B,,Caught Stealing 2B,431145,Russell Martin,432934,Chris Young,607680,Kevin Pillar,R,Drew Butera,460077,1,2,6,True,2015-07-11,Caught,2B,2015,2016,25.4
+15,515,1B,2B,Stolen Base 2B,431145,Russell Martin,502202,Brad Boxberger,607680,Kevin Pillar,R,Curt Casali,592200,0,0,9,True,2015-06-24,Stolen,2B,2015,2016,25.4
+16,894,1B,,Caught Stealing 2B,431145,Russell Martin,433584,Roberto Hernandez,475253,Justin Smoak,R,Jason Castro,488771,5,0,3,False,2015-06-05,Caught,2B,2015,2016,25.4
+17,958,3B,score,Stolen Base Home,431145,Russell Martin,553878,Felipe Vázquez,572365,Ryan Goins,L,Jose Lobaton,446653,3,7,7,True,2015-06-02,Stolen,Home,2015,2016,25.4
+18,1254,2B,,Caught Stealing 3B,431145,Russell Martin,502327,Héctor Santiago,499624,Chris Colabello,L,Chris Iannetta,455104,1,1,4,False,2015-05-19,Caught,3B,2015,2016,25.4
+19,1560,1B,2B,Stolen Base 2B,431145,Russell Martin,476454,Dellin Betances,502143,Danny Valencia,R,John Ryan Murphy,571974,3,1,8,False,2015-05-04,Stolen,2B,2015,2016,25.4
+20,1836,1B,,Caught Stealing 2B,431145,Russell Martin,592332,Kevin Gausman,592647,Dalton Pompey,R,Caleb Joseph,543376,4,2,6,False,2015-04-22,Caught,2B,2015,2016,25.4
+21,2046,1B,2B,Stolen Base 2B,431145,Russell Martin,592332,Kevin Gausman,607680,Kevin Pillar,R,Ryan Lavarnway,543432,4,8,4,True,2015-04-12,Stolen,2B,2015,2016,25.4

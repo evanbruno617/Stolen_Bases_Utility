@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3433,1B,2B,Stolen Base 2B,607287,Ruben Sosa,J.C. Boscan,1,1,7,False,2015-04-04,Stolen,2B,2015
+3476,1B,2B,Stolen Base 2B,607287,Ruben Sosa,Tyler Heineman,2,7,8,True,2015-04-02,Stolen,2B,2015
+3504,1B,2B,Stolen Base 2B,607287,Ruben Sosa,James McCann,3,2,8,False,2015-04-01,Stolen,2B,2015

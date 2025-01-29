@@ -1,0 +1,153 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,,Caught Stealing 2B,593871,Jorge Polanco,503449,Wily Peralta,596146,Max Kepler,R,Jake Rogers,668670,3,0,4,True,2021-07-18,Caught,2B,2021,2023, 79.4, 0.61
+1,1B,2B,Stolen Base 2B,593871,Jorge Polanco,503449,Wily Peralta,596146,Max Kepler,R,Jake Rogers,668670,0,0,2,False,2021-07-11,Stolen,2B,2021,2023, 79.4, 0.61
+2,1B,,Caught Stealing 2B,666969,Adolis García,570632,José Ureña,608336,Joey Gallo,R,Jake Rogers,668670,0,1,4,False,2021-07-06,Caught,2B,2021,2023, 79.4, 0.61
+3,1B,2B,Stolen Base 2B,664702,Myles Straw,542585,José Cisnero,493329,Yuli Gurriel,R,Jake Rogers,668670,1,1,8,True,2021-06-27,Stolen,2B,2021,2023, 79.4, 0.61
+4,1B,2B,Stolen Base 2B,457708,Justin Upton,641729,Joe Jiménez,660271,Shohei Ohtani,R,Jake Rogers,668670,8,3,8,False,2021-06-19,Stolen,2B,2021,2023, 79.4, 0.61
+5,1B,2B,Stolen Base 2B,641584,Jake Fraley,650530,Bryan Garcia,608596,Tom Murphy,R,Jake Rogers,668670,3,1,4,True,2021-06-10,Stolen,2B,2021,2023, 79.4, 0.61
+6,1B,,Caught Stealing 2B,666211,Taylor Trammell,663554,Casey Mize,643418,Shed Long Jr.,R,Jake Rogers,668670,3,3,6,True,2021-06-09,Caught,2B,2021,2023, 79.4, 0.61
+7,1B,2B,Stolen Base 2B,641584,Jake Fraley,642397,Gregory Soto,666211,Taylor Trammell,L,Jake Rogers,668670,3,3,8,True,2021-06-09,Stolen,2B,2021,2023, 79.4, 0.61
+8,1B,,Caught Stealing 2B,660162,Yoán Moncada,608335,Kyle Funkhouser,518735,Yasmani Grandal,R,Jake Rogers,668670,3,4,7,False,2021-06-05,Caught,2B,2021,2023, 79.4, 0.61
+9,1B,,Caught Stealing 2B,592885,Christian Yelich,665621,Rony García,456715,Lorenzo Cain,R,Jake Rogers,668670,0,0,4,False,2021-05-31,Caught,2B,2021,2023, 79.4, 0.61
+10,1B,,Caught Stealing 2B,608070,José Ramírez,570632,José Ureña,592696,Eddie Rosario,R,Jake Rogers,668670,0,0,1,True,2021-05-26,Caught,2B,2021,2023, 79.4, 0.61
+11,1B,,Caught Stealing 2B,593871,Jorge Polanco,503449,Wily Peralta,596146,Max Kepler,R,Jake Rogers,668670,3,0,4,True,2021-07-18,Caught,2B,2021,2023, 79.4, 0.61
+12,1B,2B,Stolen Base 2B,593871,Jorge Polanco,503449,Wily Peralta,596146,Max Kepler,R,Jake Rogers,668670,0,0,2,False,2021-07-11,Stolen,2B,2021,2023, 79.4, 0.61
+13,1B,,Caught Stealing 2B,666969,Adolis García,570632,José Ureña,608336,Joey Gallo,R,Jake Rogers,668670,0,1,4,False,2021-07-06,Caught,2B,2021,2023, 79.4, 0.61
+14,1B,2B,Stolen Base 2B,664702,Myles Straw,542585,José Cisnero,493329,Yuli Gurriel,R,Jake Rogers,668670,1,1,8,True,2021-06-27,Stolen,2B,2021,2023, 79.4, 0.61
+15,1B,2B,Stolen Base 2B,457708,Justin Upton,641729,Joe Jiménez,660271,Shohei Ohtani,R,Jake Rogers,668670,8,3,8,False,2021-06-19,Stolen,2B,2021,2023, 79.4, 0.61
+16,1B,2B,Stolen Base 2B,641584,Jake Fraley,650530,Bryan Garcia,608596,Tom Murphy,R,Jake Rogers,668670,3,1,4,True,2021-06-10,Stolen,2B,2021,2023, 79.4, 0.61
+17,1B,,Caught Stealing 2B,666211,Taylor Trammell,663554,Casey Mize,643418,Shed Long Jr.,R,Jake Rogers,668670,3,3,6,True,2021-06-09,Caught,2B,2021,2023, 79.4, 0.61
+18,1B,2B,Stolen Base 2B,641584,Jake Fraley,642397,Gregory Soto,666211,Taylor Trammell,L,Jake Rogers,668670,3,3,8,True,2021-06-09,Stolen,2B,2021,2023, 79.4, 0.61
+19,1B,,Caught Stealing 2B,660162,Yoán Moncada,608335,Kyle Funkhouser,518735,Yasmani Grandal,R,Jake Rogers,668670,3,4,7,False,2021-06-05,Caught,2B,2021,2023, 79.4, 0.61
+20,1B,,Caught Stealing 2B,592885,Christian Yelich,665621,Rony García,456715,Lorenzo Cain,R,Jake Rogers,668670,0,0,4,False,2021-05-31,Caught,2B,2021,2023, 79.4, 0.61
+21,1B,,Caught Stealing 2B,608070,José Ramírez,570632,José Ureña,592696,Eddie Rosario,R,Jake Rogers,668670,0,0,1,True,2021-05-26,Caught,2B,2021,2023, 79.4, 0.61
+22,1B,2B,Stolen Base 2B,657656,Ramón Laureano,666214,Joey Wentz,665926,Andrés Giménez,L,Jake Rogers,668670,0,0,2,True,2023-09-29,Stolen,2B,2023,2024, 80.3, 0.59
+23,2B,3B,Stolen Base 3B,664702,Myles Straw,666214,Joey Wentz,608070,José Ramírez,L,Jake Rogers,668670,0,3,2,True,2023-09-29,Stolen,3B,2023,2024, 80.3, 0.59
+24,1B,2B,Stolen Base 2B,680757,Steven Kwan,666214,Joey Wentz,608070,José Ramírez,L,Jake Rogers,668670,0,3,2,True,2023-09-29,Stolen,2B,2023,2024, 80.3, 0.59
+25,1B,,Caught Stealing 2B,657656,Ramón Laureano,607755,Andrew Vasquez,665926,Andrés Giménez,L,Jake Rogers,668670,2,7,4,True,2023-09-29,Caught,2B,2023,2024, 80.3, 0.59
+26,2B,,Caught Stealing 3B,672580,Maikel Garcia,681857,Reese Olson,521692,Salvador Perez,R,Jake Rogers,668670,0,0,1,True,2023-09-26,Caught,3B,2023,2024, 80.3, 0.59
+27,1B,2B,Caught Stealing 3B,677951,Bobby Witt Jr.,681857,Reese Olson,521692,Salvador Perez,R,Jake Rogers,668670,0,0,1,True,2023-09-26,Caught,3B,2023,2024, 80.3, 0.59
+28,1B,,Caught Stealing 2B,677951,Bobby Witt Jr.,681857,Reese Olson,669004,MJ Melendez,R,Jake Rogers,668670,0,1,3,True,2023-09-26,Caught,2B,2023,2024, 80.3, 0.59
+29,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,593958,Eduardo Rodriguez,680869,Zack Gelof,L,Jake Rogers,668670,0,0,1,False,2023-09-24,Stolen,2B,2023,2024, 80.3, 0.59
+30,2B,,Caught Stealing 3B,665923,Esteury Ruiz,593958,Eduardo Rodriguez,680869,Zack Gelof,L,Jake Rogers,668670,0,0,1,False,2023-09-24,Caught,3B,2023,2024, 80.3, 0.59
+31,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,593958,Eduardo Rodriguez,667670,Brent Rooker,L,Jake Rogers,668670,0,2,4,False,2023-09-24,Stolen,3B,2023,2024, 80.3, 0.59
+32,1B,2B,Stolen Base 2B,680869,Zack Gelof,593958,Eduardo Rodriguez,667670,Brent Rooker,L,Jake Rogers,668670,0,2,4,False,2023-09-24,Stolen,2B,2023,2024, 80.3, 0.59
+33,1B,2B,Stolen Base 2B,621035,Chris Taylor,656638,Alex Lange,444482,David Peralta,R,Jake Rogers,668670,2,2,8,False,2023-09-19,Stolen,2B,2023,2024, 80.3, 0.59
+34,1B,2B,Stolen Base 2B,518692,Freddie Freeman,542585,José Cisnero,502110,J.D. Martinez,R,Jake Rogers,668670,8,3,7,False,2023-09-18,Stolen,2B,2023,2024, 80.3, 0.59
+35,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,681857,Reese Olson,666181,Will Benson,R,Jake Rogers,668670,1,0,3,True,2023-09-14,Stolen,2B,2023,2024, 80.3, 0.59
+36,1B,2B,Stolen Base 2B,668715,Spencer Steer,666214,Joey Wentz,592669,Hunter Renfroe,L,Jake Rogers,668670,0,0,1,True,2023-09-12,Stolen,2B,2023,2024, 80.3, 0.59
+37,1B,,Caught Stealing 2B,673357,Luis Robert Jr.,593958,Eduardo Rodriguez,650391,Eloy Jiménez,L,Jake Rogers,668670,1,3,6,False,2023-09-01,Caught,2B,2023,2024, 80.3, 0.59
+38,1B,2B,Stolen Base 2B,650402,Gleyber Torres,686839,Brendan White,519317,Giancarlo Stanton,R,Jake Rogers,668670,0,1,1,True,2023-08-30,Stolen,2B,2023,2024, 80.3, 0.59
+39,2B,3B,Stolen Base 3B,683011,Anthony Volpe,666214,Joey Wentz,664056,Harrison Bader,L,Jake Rogers,668670,0,3,3,True,2023-08-30,Stolen,3B,2023,2024, 80.3, 0.59
+40,1B,2B,Stolen Base 2B,677592,Everson Pereira,666214,Joey Wentz,672724,Oswald Peraza,L,Jake Rogers,668670,0,4,3,True,2023-08-30,Stolen,2B,2023,2024, 80.3, 0.59
+41,1B,2B,Stolen Base 2B,664056,Harrison Bader,666214,Joey Wentz,672724,Oswald Peraza,L,Jake Rogers,668670,1,6,5,True,2023-08-30,Stolen,2B,2023,2024, 80.3, 0.59
+42,1B,2B,Stolen Base 2B,665161,Jeremy Peña,686839,Brendan White,455117,Martín Maldonado,R,Jake Rogers,668670,0,1,8,True,2023-08-25,Stolen,2B,2023,2024, 80.3, 0.59
+43,1B,2B,Stolen Base 2B,663656,Kyle Tucker,656638,Alex Lange,670541,Yordan Alvarez,R,Jake Rogers,668670,0,1,9,True,2023-08-25,Stolen,2B,2023,2024, 80.3, 0.59
+44,2B,3B,Stolen Base 3B,663538,Nico Hoerner,669373,Tarik Skubal,664023,Ian Happ,L,Jake Rogers,668670,0,1,3,True,2023-08-23,Stolen,3B,2023,2024, 80.3, 0.59
+45,1B,2B,Stolen Base 2B,621020,Dansby Swanson,669373,Tarik Skubal,664023,Ian Happ,L,Jake Rogers,668670,0,1,3,True,2023-08-23,Stolen,2B,2023,2024, 80.3, 0.59
+46,1B,2B,Stolen Base 2B,664023,Ian Happ,689225,Beau Brieske,673548,Seiya Suzuki,R,Jake Rogers,668670,4,4,8,True,2023-08-23,Stolen,2B,2023,2024, 80.3, 0.59
+47,1B,2B,Stolen Base 2B,663611,Nick Madrigal,656638,Alex Lange,664023,Ian Happ,R,Jake Rogers,668670,8,6,9,True,2023-08-22,Stolen,2B,2023,2024, 80.3, 0.59
+48,2B,3B,Stolen Base 3B,668904,Royce Lewis,681857,Reese Olson,543877,Christian Vázquez,R,Jake Rogers,668670,4,3,3,False,2023-08-16,Stolen,3B,2023,2024, 80.3, 0.59
+49,1B,2B,Stolen Base 2B,670242,Matt Wallner,681857,Reese Olson,543877,Christian Vázquez,R,Jake Rogers,668670,4,3,3,False,2023-08-16,Stolen,2B,2023,2024, 80.3, 0.59
+50,1B,2B,Stolen Base 2B,596115,Trevor Story,593958,Eduardo Rodriguez,807799,Masataka Yoshida,L,Jake Rogers,668670,2,1,3,False,2023-08-13,Stolen,2B,2023,2024, 80.3, 0.59
+51,2B,3B,Stolen Base 3B,596115,Trevor Story,593958,Eduardo Rodriguez,807799,Masataka Yoshida,L,Jake Rogers,668670,2,1,3,False,2023-08-13,Stolen,3B,2023,2024, 80.3, 0.59
+52,1B,2B,Stolen Base 2B,657136,Connor Wong,669373,Tarik Skubal,608701,Rob Refsnyder,L,Jake Rogers,668670,1,0,3,False,2023-08-11,Stolen,2B,2023,2024, 80.3, 0.59
+53,1B,2B,Stolen Base 2B,596115,Trevor Story,669373,Tarik Skubal,657077,Alex Verdugo,L,Jake Rogers,668670,4,2,6,False,2023-08-11,Stolen,2B,2023,2024, 80.3, 0.59
+54,1B,2B,Stolen Base 2B,542932,Jon Berti,686839,Brendan White,541645,Avisaíl García,R,Jake Rogers,668670,5,4,6,False,2023-07-30,Stolen,2B,2023,2024, 80.3, 0.59
+55,2B,3B,Stolen Base 3B,660271,Shohei Ohtani,593958,Eduardo Rodriguez,500871,Eduardo Escobar,L,Jake Rogers,668670,1,4,5,True,2023-07-25,Stolen,3B,2023,2024, 80.3, 0.59
+56,2B,3B,Stolen Base 3B,680118,Dairon Blanco,686839,Brendan White,672580,Maikel Garcia,R,Jake Rogers,668670,11,6,8,False,2023-07-18,Stolen,3B,2023,2024, 80.3, 0.59
+57,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,593958,Eduardo Rodriguez,672478,Jordan Diaz,L,Jake Rogers,668670,0,0,1,True,2023-07-05,Stolen,2B,2023,2024, 80.3, 0.59
+58,1B,2B,Stolen Base 2B,643393,Tony Kemp,656657,Zach Logue,665923,Esteury Ruiz,L,Jake Rogers,668670,0,9,6,True,2023-07-05,Stolen,2B,2023,2024, 80.3, 0.59
+59,1B,2B,Stolen Base 2B,650489,Willi Castro,686839,Brendan White,666135,Alex Kirilloff,R,Jake Rogers,668670,3,5,10,True,2023-06-25,Stolen,2B,2023,2024, 80.3, 0.59
+60,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,681857,Reese Olson,521692,Salvador Perez,R,Jake Rogers,668670,0,4,5,True,2023-06-19,Stolen,2B,2023,2024, 80.3, 0.59
+61,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,671345,Jason Foley,621566,Matt Olson,R,Jake Rogers,668670,5,6,7,True,2023-06-14,Caught,2B,2023,2024, 80.3, 0.59
+62,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,671345,Jason Foley,621566,Matt Olson,R,Jake Rogers,668670,5,6,7,True,2023-06-13,Caught,2B,2023,2024, 80.3, 0.59
+63,1B,2B,Stolen Base 2B,671739,Michael Harris II,682051,Garrett Hill,660670,Ronald Acuña Jr.,R,Jake Rogers,668670,0,3,5,True,2023-06-12,Stolen,2B,2023,2024, 80.3, 0.59
+64,1B,2B,Stolen Base 2B,645277,Ozzie Albies,641302,Tyler Alexander,671739,Michael Harris II,L,Jake Rogers,668670,0,3,6,True,2023-06-12,Stolen,2B,2023,2024, 80.3, 0.59
+65,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,656638,Alex Lange,657757,Gavin Sheets,R,Jake Rogers,668670,2,2,9,False,2023-06-04,Stolen,2B,2023,2024, 80.3, 0.59
+66,1B,2B,Stolen Base 2B,666969,Adolis García,542585,José Cisnero,673962,Josh Jung,R,Jake Rogers,668670,4,5,5,True,2023-05-30,Stolen,2B,2023,2024, 80.3, 0.59
+67,1B,2B,Stolen Base 2B,672580,Maikel Garcia,593958,Eduardo Rodriguez,598265,Jackie Bradley Jr.,L,Jake Rogers,668670,0,0,2,False,2023-05-23,Stolen,2B,2023,2024, 80.3, 0.59
+68,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,593958,Eduardo Rodriguez,658668,Edward Olivares,L,Jake Rogers,668670,4,1,5,False,2023-05-23,Stolen,2B,2023,2024, 80.3, 0.59
+69,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,669438,Mason Englert,676609,José Caballero,R,Jake Rogers,668670,2,3,5,True,2023-05-14,Stolen,2B,2023,2024, 80.3, 0.59
+70,1B,2B,Stolen Base 2B,686823,Will Brennan,542585,José Cisnero,595956,Cam Gallagher,R,Jake Rogers,668670,1,0,8,False,2023-05-09,Stolen,2B,2023,2024, 80.3, 0.59
+71,2B,3B,Stolen Base 3B,502671,Paul Goldschmidt,669438,Mason Englert,571448,Nolan Arenado,R,Jake Rogers,668670,4,6,6,False,2023-05-07,Stolen,3B,2023,2024, 80.3, 0.59
+72,1B,2B,Stolen Base 2B,669357,Nolan Gorman,669438,Mason Englert,571448,Nolan Arenado,R,Jake Rogers,668670,4,6,6,False,2023-05-07,Stolen,2B,2023,2024, 80.3, 0.59
+73,1B,,Caught Stealing 2B,502054,Tommy Pham,593958,Eduardo Rodriguez,592192,Mark Canha,L,Jake Rogers,668670,2,0,2,True,2023-05-04,Caught,2B,2023,2024, 80.3, 0.59
+74,1B,,Caught Stealing 2B,607043,Brandon Nimmo,656638,Alex Lange,516782,Starling Marte,R,Jake Rogers,668670,2,0,9,True,2023-05-04,Caught,2B,2023,2024, 80.3, 0.59
+75,1B,2B,Stolen Base 2B,656775,Cedric Mullins,605513,Spencer Turnbull,663624,Ryan Mountcastle,R,Jake Rogers,668670,0,0,1,True,2023-04-30,Stolen,2B,2023,2024, 80.3, 0.59
+76,1B,2B,Stolen Base 2B,622761,Jorge Mateo,666214,Joey Wentz,624428,Adam Frazier,L,Jake Rogers,668670,0,0,2,True,2023-04-27,Stolen,2B,2023,2024, 80.3, 0.59
+77,2B,3B,Stolen Base 3B,622761,Jorge Mateo,666214,Joey Wentz,663630,Ryan McKenna,L,Jake Rogers,668670,3,0,5,True,2023-04-27,Stolen,3B,2023,2024, 80.3, 0.59
+78,1B,2B,Stolen Base 2B,624428,Adam Frazier,666214,Joey Wentz,663630,Ryan McKenna,L,Jake Rogers,668670,3,0,5,True,2023-04-27,Stolen,2B,2023,2024, 80.3, 0.59
+79,1B,,Caught Stealing 2B,672356,Gabriel Arias,593958,Eduardo Rodriguez,595956,Cam Gallagher,L,Jake Rogers,668670,0,0,3,True,2023-04-18,Caught,2B,2023,2024, 80.3, 0.59
+80,1B,,Caught Stealing 2B,672356,Gabriel Arias,593958,Eduardo Rodriguez,595956,Cam Gallagher,L,Jake Rogers,668670,0,0,3,True,2023-04-17,Caught,2B,2023,2024, 80.3, 0.59
+81,1B,2B,Stolen Base 2B,624415,Cavan Biggio,605513,Spencer Turnbull,543807,George Springer,R,Jake Rogers,668670,0,1,3,False,2023-04-13,Stolen,2B,2023,2024, 80.3, 0.59
+82,1B,2B,Stolen Base 2B,593160,Whit Merrifield,592741,Chasen Shreve,669289,Santiago Espinal,L,Jake Rogers,668670,1,2,6,False,2023-04-13,Stolen,2B,2023,2024, 80.3, 0.59
+83,1B,2B,Stolen Base 2B,662139,Daulton Varsho,669438,Mason Englert,656305,Matt Chapman,R,Jake Rogers,668670,5,3,8,False,2023-04-11,Stolen,2B,2023,2024, 80.3, 0.59
+84,1B,2B,Stolen Base 2B,807799,Masataka Yoshida,542585,José Cisnero,594807,Adam Duvall,R,Jake Rogers,668670,3,6,6,True,2023-04-06,Stolen,2B,2023,2024, 80.3, 0.59
+85,1B,2B,Stolen Base 2B,677551,Wander Franco,666214,Joey Wentz,670623,Isaac Paredes,L,Jake Rogers,668670,0,0,1,False,2023-04-02,Stolen,2B,2023,2024, 80.3, 0.59
+86,1B,2B,Stolen Base 2B,642350,Jose Siri,671345,Jason Foley,542194,Christian Bethancourt,R,Jake Rogers,668670,4,0,6,False,2023-04-02,Stolen,2B,2023,2024, 80.3, 0.59
+87,1B,2B,Stolen Base 2B,657656,Ramón Laureano,666214,Joey Wentz,665926,Andrés Giménez,L,Jake Rogers,668670,0,0,2,True,2023-09-29,Stolen,2B,2023,2024, 80.3, 0.59
+88,2B,3B,Stolen Base 3B,664702,Myles Straw,666214,Joey Wentz,608070,José Ramírez,L,Jake Rogers,668670,0,3,2,True,2023-09-29,Stolen,3B,2023,2024, 80.3, 0.59
+89,1B,2B,Stolen Base 2B,680757,Steven Kwan,666214,Joey Wentz,608070,José Ramírez,L,Jake Rogers,668670,0,3,2,True,2023-09-29,Stolen,2B,2023,2024, 80.3, 0.59
+90,1B,,Caught Stealing 2B,657656,Ramón Laureano,607755,Andrew Vasquez,665926,Andrés Giménez,L,Jake Rogers,668670,2,7,4,True,2023-09-29,Caught,2B,2023,2024, 80.3, 0.59
+91,2B,,Caught Stealing 3B,672580,Maikel Garcia,681857,Reese Olson,521692,Salvador Perez,R,Jake Rogers,668670,0,0,1,True,2023-09-26,Caught,3B,2023,2024, 80.3, 0.59
+92,1B,2B,Caught Stealing 3B,677951,Bobby Witt Jr.,681857,Reese Olson,521692,Salvador Perez,R,Jake Rogers,668670,0,0,1,True,2023-09-26,Caught,3B,2023,2024, 80.3, 0.59
+93,1B,,Caught Stealing 2B,677951,Bobby Witt Jr.,681857,Reese Olson,669004,MJ Melendez,R,Jake Rogers,668670,0,1,3,True,2023-09-26,Caught,2B,2023,2024, 80.3, 0.59
+94,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,593958,Eduardo Rodriguez,680869,Zack Gelof,L,Jake Rogers,668670,0,0,1,False,2023-09-24,Stolen,2B,2023,2024, 80.3, 0.59
+95,2B,,Caught Stealing 3B,665923,Esteury Ruiz,593958,Eduardo Rodriguez,680869,Zack Gelof,L,Jake Rogers,668670,0,0,1,False,2023-09-24,Caught,3B,2023,2024, 80.3, 0.59
+96,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,593958,Eduardo Rodriguez,667670,Brent Rooker,L,Jake Rogers,668670,0,2,4,False,2023-09-24,Stolen,3B,2023,2024, 80.3, 0.59
+97,1B,2B,Stolen Base 2B,680869,Zack Gelof,593958,Eduardo Rodriguez,667670,Brent Rooker,L,Jake Rogers,668670,0,2,4,False,2023-09-24,Stolen,2B,2023,2024, 80.3, 0.59
+98,1B,2B,Stolen Base 2B,621035,Chris Taylor,656638,Alex Lange,444482,David Peralta,R,Jake Rogers,668670,2,2,8,False,2023-09-19,Stolen,2B,2023,2024, 80.3, 0.59
+99,1B,2B,Stolen Base 2B,518692,Freddie Freeman,542585,José Cisnero,502110,J.D. Martinez,R,Jake Rogers,668670,8,3,7,False,2023-09-18,Stolen,2B,2023,2024, 80.3, 0.59
+100,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,681857,Reese Olson,666181,Will Benson,R,Jake Rogers,668670,1,0,3,True,2023-09-14,Stolen,2B,2023,2024, 80.3, 0.59
+101,1B,2B,Stolen Base 2B,668715,Spencer Steer,666214,Joey Wentz,592669,Hunter Renfroe,L,Jake Rogers,668670,0,0,1,True,2023-09-12,Stolen,2B,2023,2024, 80.3, 0.59
+102,1B,,Caught Stealing 2B,673357,Luis Robert Jr.,593958,Eduardo Rodriguez,650391,Eloy Jiménez,L,Jake Rogers,668670,1,3,6,False,2023-09-01,Caught,2B,2023,2024, 80.3, 0.59
+103,1B,2B,Stolen Base 2B,650402,Gleyber Torres,686839,Brendan White,519317,Giancarlo Stanton,R,Jake Rogers,668670,0,1,1,True,2023-08-30,Stolen,2B,2023,2024, 80.3, 0.59
+104,2B,3B,Stolen Base 3B,683011,Anthony Volpe,666214,Joey Wentz,664056,Harrison Bader,L,Jake Rogers,668670,0,3,3,True,2023-08-30,Stolen,3B,2023,2024, 80.3, 0.59
+105,1B,2B,Stolen Base 2B,677592,Everson Pereira,666214,Joey Wentz,672724,Oswald Peraza,L,Jake Rogers,668670,0,4,3,True,2023-08-30,Stolen,2B,2023,2024, 80.3, 0.59
+106,1B,2B,Stolen Base 2B,664056,Harrison Bader,666214,Joey Wentz,672724,Oswald Peraza,L,Jake Rogers,668670,1,6,5,True,2023-08-30,Stolen,2B,2023,2024, 80.3, 0.59
+107,1B,2B,Stolen Base 2B,665161,Jeremy Peña,686839,Brendan White,455117,Martín Maldonado,R,Jake Rogers,668670,0,1,8,True,2023-08-25,Stolen,2B,2023,2024, 80.3, 0.59
+108,1B,2B,Stolen Base 2B,663656,Kyle Tucker,656638,Alex Lange,670541,Yordan Alvarez,R,Jake Rogers,668670,0,1,9,True,2023-08-25,Stolen,2B,2023,2024, 80.3, 0.59
+109,2B,3B,Stolen Base 3B,663538,Nico Hoerner,669373,Tarik Skubal,664023,Ian Happ,L,Jake Rogers,668670,0,1,3,True,2023-08-23,Stolen,3B,2023,2024, 80.3, 0.59
+110,1B,2B,Stolen Base 2B,621020,Dansby Swanson,669373,Tarik Skubal,664023,Ian Happ,L,Jake Rogers,668670,0,1,3,True,2023-08-23,Stolen,2B,2023,2024, 80.3, 0.59
+111,1B,2B,Stolen Base 2B,664023,Ian Happ,689225,Beau Brieske,673548,Seiya Suzuki,R,Jake Rogers,668670,4,4,8,True,2023-08-23,Stolen,2B,2023,2024, 80.3, 0.59
+112,1B,2B,Stolen Base 2B,663611,Nick Madrigal,656638,Alex Lange,664023,Ian Happ,R,Jake Rogers,668670,8,6,9,True,2023-08-22,Stolen,2B,2023,2024, 80.3, 0.59
+113,2B,3B,Stolen Base 3B,668904,Royce Lewis,681857,Reese Olson,543877,Christian Vázquez,R,Jake Rogers,668670,4,3,3,False,2023-08-16,Stolen,3B,2023,2024, 80.3, 0.59
+114,1B,2B,Stolen Base 2B,670242,Matt Wallner,681857,Reese Olson,543877,Christian Vázquez,R,Jake Rogers,668670,4,3,3,False,2023-08-16,Stolen,2B,2023,2024, 80.3, 0.59
+115,1B,2B,Stolen Base 2B,596115,Trevor Story,593958,Eduardo Rodriguez,807799,Masataka Yoshida,L,Jake Rogers,668670,2,1,3,False,2023-08-13,Stolen,2B,2023,2024, 80.3, 0.59
+116,2B,3B,Stolen Base 3B,596115,Trevor Story,593958,Eduardo Rodriguez,807799,Masataka Yoshida,L,Jake Rogers,668670,2,1,3,False,2023-08-13,Stolen,3B,2023,2024, 80.3, 0.59
+117,1B,2B,Stolen Base 2B,657136,Connor Wong,669373,Tarik Skubal,608701,Rob Refsnyder,L,Jake Rogers,668670,1,0,3,False,2023-08-11,Stolen,2B,2023,2024, 80.3, 0.59
+118,1B,2B,Stolen Base 2B,596115,Trevor Story,669373,Tarik Skubal,657077,Alex Verdugo,L,Jake Rogers,668670,4,2,6,False,2023-08-11,Stolen,2B,2023,2024, 80.3, 0.59
+119,1B,2B,Stolen Base 2B,542932,Jon Berti,686839,Brendan White,541645,Avisaíl García,R,Jake Rogers,668670,5,4,6,False,2023-07-30,Stolen,2B,2023,2024, 80.3, 0.59
+120,2B,3B,Stolen Base 3B,660271,Shohei Ohtani,593958,Eduardo Rodriguez,500871,Eduardo Escobar,L,Jake Rogers,668670,1,4,5,True,2023-07-25,Stolen,3B,2023,2024, 80.3, 0.59
+121,2B,3B,Stolen Base 3B,680118,Dairon Blanco,686839,Brendan White,672580,Maikel Garcia,R,Jake Rogers,668670,11,6,8,False,2023-07-18,Stolen,3B,2023,2024, 80.3, 0.59
+122,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,593958,Eduardo Rodriguez,672478,Jordan Diaz,L,Jake Rogers,668670,0,0,1,True,2023-07-05,Stolen,2B,2023,2024, 80.3, 0.59
+123,1B,2B,Stolen Base 2B,643393,Tony Kemp,656657,Zach Logue,665923,Esteury Ruiz,L,Jake Rogers,668670,0,9,6,True,2023-07-05,Stolen,2B,2023,2024, 80.3, 0.59
+124,1B,2B,Stolen Base 2B,650489,Willi Castro,686839,Brendan White,666135,Alex Kirilloff,R,Jake Rogers,668670,3,5,10,True,2023-06-25,Stolen,2B,2023,2024, 80.3, 0.59
+125,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,681857,Reese Olson,521692,Salvador Perez,R,Jake Rogers,668670,0,4,5,True,2023-06-19,Stolen,2B,2023,2024, 80.3, 0.59
+126,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,671345,Jason Foley,621566,Matt Olson,R,Jake Rogers,668670,5,6,7,True,2023-06-14,Caught,2B,2023,2024, 80.3, 0.59
+127,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,671345,Jason Foley,621566,Matt Olson,R,Jake Rogers,668670,5,6,7,True,2023-06-13,Caught,2B,2023,2024, 80.3, 0.59
+128,1B,2B,Stolen Base 2B,671739,Michael Harris II,682051,Garrett Hill,660670,Ronald Acuña Jr.,R,Jake Rogers,668670,0,3,5,True,2023-06-12,Stolen,2B,2023,2024, 80.3, 0.59
+129,1B,2B,Stolen Base 2B,645277,Ozzie Albies,641302,Tyler Alexander,671739,Michael Harris II,L,Jake Rogers,668670,0,3,6,True,2023-06-12,Stolen,2B,2023,2024, 80.3, 0.59
+130,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,656638,Alex Lange,657757,Gavin Sheets,R,Jake Rogers,668670,2,2,9,False,2023-06-04,Stolen,2B,2023,2024, 80.3, 0.59
+131,1B,2B,Stolen Base 2B,666969,Adolis García,542585,José Cisnero,673962,Josh Jung,R,Jake Rogers,668670,4,5,5,True,2023-05-30,Stolen,2B,2023,2024, 80.3, 0.59
+132,1B,2B,Stolen Base 2B,672580,Maikel Garcia,593958,Eduardo Rodriguez,598265,Jackie Bradley Jr.,L,Jake Rogers,668670,0,0,2,False,2023-05-23,Stolen,2B,2023,2024, 80.3, 0.59
+133,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,593958,Eduardo Rodriguez,658668,Edward Olivares,L,Jake Rogers,668670,4,1,5,False,2023-05-23,Stolen,2B,2023,2024, 80.3, 0.59
+134,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,669438,Mason Englert,676609,José Caballero,R,Jake Rogers,668670,2,3,5,True,2023-05-14,Stolen,2B,2023,2024, 80.3, 0.59
+135,1B,2B,Stolen Base 2B,686823,Will Brennan,542585,José Cisnero,595956,Cam Gallagher,R,Jake Rogers,668670,1,0,8,False,2023-05-09,Stolen,2B,2023,2024, 80.3, 0.59
+136,2B,3B,Stolen Base 3B,502671,Paul Goldschmidt,669438,Mason Englert,571448,Nolan Arenado,R,Jake Rogers,668670,4,6,6,False,2023-05-07,Stolen,3B,2023,2024, 80.3, 0.59
+137,1B,2B,Stolen Base 2B,669357,Nolan Gorman,669438,Mason Englert,571448,Nolan Arenado,R,Jake Rogers,668670,4,6,6,False,2023-05-07,Stolen,2B,2023,2024, 80.3, 0.59
+138,1B,,Caught Stealing 2B,502054,Tommy Pham,593958,Eduardo Rodriguez,592192,Mark Canha,L,Jake Rogers,668670,2,0,2,True,2023-05-04,Caught,2B,2023,2024, 80.3, 0.59
+139,1B,,Caught Stealing 2B,607043,Brandon Nimmo,656638,Alex Lange,516782,Starling Marte,R,Jake Rogers,668670,2,0,9,True,2023-05-04,Caught,2B,2023,2024, 80.3, 0.59
+140,1B,2B,Stolen Base 2B,656775,Cedric Mullins,605513,Spencer Turnbull,663624,Ryan Mountcastle,R,Jake Rogers,668670,0,0,1,True,2023-04-30,Stolen,2B,2023,2024, 80.3, 0.59
+141,1B,2B,Stolen Base 2B,622761,Jorge Mateo,666214,Joey Wentz,624428,Adam Frazier,L,Jake Rogers,668670,0,0,2,True,2023-04-27,Stolen,2B,2023,2024, 80.3, 0.59
+142,2B,3B,Stolen Base 3B,622761,Jorge Mateo,666214,Joey Wentz,663630,Ryan McKenna,L,Jake Rogers,668670,3,0,5,True,2023-04-27,Stolen,3B,2023,2024, 80.3, 0.59
+143,1B,2B,Stolen Base 2B,624428,Adam Frazier,666214,Joey Wentz,663630,Ryan McKenna,L,Jake Rogers,668670,3,0,5,True,2023-04-27,Stolen,2B,2023,2024, 80.3, 0.59
+144,1B,,Caught Stealing 2B,672356,Gabriel Arias,593958,Eduardo Rodriguez,595956,Cam Gallagher,L,Jake Rogers,668670,0,0,3,True,2023-04-18,Caught,2B,2023,2024, 80.3, 0.59
+145,1B,,Caught Stealing 2B,672356,Gabriel Arias,593958,Eduardo Rodriguez,595956,Cam Gallagher,L,Jake Rogers,668670,0,0,3,True,2023-04-17,Caught,2B,2023,2024, 80.3, 0.59
+146,1B,2B,Stolen Base 2B,624415,Cavan Biggio,605513,Spencer Turnbull,543807,George Springer,R,Jake Rogers,668670,0,1,3,False,2023-04-13,Stolen,2B,2023,2024, 80.3, 0.59
+147,1B,2B,Stolen Base 2B,593160,Whit Merrifield,592741,Chasen Shreve,669289,Santiago Espinal,L,Jake Rogers,668670,1,2,6,False,2023-04-13,Stolen,2B,2023,2024, 80.3, 0.59
+148,1B,2B,Stolen Base 2B,662139,Daulton Varsho,669438,Mason Englert,656305,Matt Chapman,R,Jake Rogers,668670,5,3,8,False,2023-04-11,Stolen,2B,2023,2024, 80.3, 0.59
+149,1B,2B,Stolen Base 2B,807799,Masataka Yoshida,542585,José Cisnero,594807,Adam Duvall,R,Jake Rogers,668670,3,6,6,True,2023-04-06,Stolen,2B,2023,2024, 80.3, 0.59
+150,1B,2B,Stolen Base 2B,677551,Wander Franco,666214,Joey Wentz,670623,Isaac Paredes,L,Jake Rogers,668670,0,0,1,False,2023-04-02,Stolen,2B,2023,2024, 80.3, 0.59
+151,1B,2B,Stolen Base 2B,642350,Jose Siri,671345,Jason Foley,542194,Christian Bethancourt,R,Jake Rogers,668670,4,0,6,False,2023-04-02,Stolen,2B,2023,2024, 80.3, 0.59

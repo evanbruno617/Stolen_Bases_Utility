@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1731,1B,,Caught Stealing 2B,150210,Chad Allen,Mike Matheny,0,1,2,False,2000-07-17,Caught,2B,2000
+118,1B,,Caught Stealing 2B,150210,Chad Allen,Shawn Wooten,4,4,12,True,2001-05-31,Caught,2B,2001
+470,1B,2B,Stolen Base 2B,150210,Chad Allen,Scott Hatteberg,2,3,4,False,2001-05-17,Stolen,2B,2001
+2247,1B,,Caught Stealing 2B,150210,Chad Allen,Jason Kendall,5,5,7,False,2004-06-07,Caught,2B,2004
+2911,1B,,Caught Stealing 2B,150210,Chad Allen,Jason Kendall,0,2,5,True,2005-05-02,Caught,2B,2005

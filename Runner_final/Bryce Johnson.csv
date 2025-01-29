@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2043,2B,3B,Stolen Base 3B,669369,Bryce Johnson,656849,David Peterson,642731,Thairo Estrada,L,Francisco Alvarez,682626,0,1,3,True,2023-07-02,Stolen,3B,2023,2024,28.1
+1,2113,1B,2B,Stolen Base 2B,669369,Bryce Johnson,502085,David Robertson,682641,Luis Matos,R,Omar Narváez,553882,4,5,8,True,2023-06-30,Stolen,2B,2023,2024,28.1
+2,2862,1B,2B,Stolen Base 2B,669369,Bryce Johnson,448179,Rich Hill,605204,J.D. Davis,L,Austin Hedges,595978,6,1,4,False,2023-05-29,Stolen,2B,2023,2024,28.1
+3,6457,2B,3B,Stolen Base 3B,669369,Bryce Johnson,656849,David Peterson,642731,Thairo Estrada,L,Francisco Alvarez,682626,0,1,3,True,2023-07-02,Stolen,3B,2023,2024,28.1
+4,6527,1B,2B,Stolen Base 2B,669369,Bryce Johnson,502085,David Robertson,682641,Luis Matos,R,Omar Narváez,553882,4,5,8,True,2023-06-30,Stolen,2B,2023,2024,28.1
+5,7276,1B,2B,Stolen Base 2B,669369,Bryce Johnson,448179,Rich Hill,605204,J.D. Davis,L,Austin Hedges,595978,6,1,4,False,2023-05-29,Stolen,2B,2023,2024,28.1

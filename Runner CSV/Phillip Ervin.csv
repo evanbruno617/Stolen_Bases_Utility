@@ -1,0 +1,23 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+94,1B,2B,Stolen Base 2B,640447,Phillip Ervin,Stephen Vogt,7,6,9,True,2017-09-26,Stolen,2B,2017
+317,1B,,Caught Stealing 2B,640447,Phillip Ervin,Yadier Molina,0,1,2,True,2017-09-14,Caught,2B,2017
+396,1B,2B,Stolen Base 2B,640447,Phillip Ervin,Kevin Plawecki,2,1,4,True,2017-09-09,Stolen,2B,2017
+432,1B,2B,Stolen Base 2B,640447,Phillip Ervin,Kevin Plawecki,3,2,5,True,2017-09-07,Stolen,2B,2017
+456,1B,2B,Stolen Base 2B,640447,Phillip Ervin,Stephen Vogt,5,1,4,False,2017-09-06,Stolen,2B,2017
+3402,1B,2B,Stolen Base 2B,640447,Phillip Ervin,Stuart Turner,4,1,8,True,2017-04-01,Stolen,2B,2017
+134,1B,2B,Stolen Base 2B,640447,Phillip Ervin,Salvador Perez,3,3,7,False,2018-09-25,Stolen,2B,2018
+218,1B,2B,Stolen Base 2B,640447,Phillip Ervin,Manny Piña,1,0,2,True,2018-09-19,Stolen,2B,2018
+751,1B,2B,Stolen Base 2B,640447,Phillip Ervin,Victor Caratini,0,1,1,True,2018-08-23,Stolen,2B,2018
+858,1B,2B,Stolen Base 2B,640447,Phillip Ervin,Buster Posey,0,0,2,False,2018-08-18,Stolen,2B,2018
+961,1B,2B,Stolen Base 2B,640447,Phillip Ervin,Yan Gomes,1,2,4,False,2018-08-13,Stolen,2B,2018
+3125,1B,,Caught Stealing 2B,640447,Phillip Ervin,Jorge Alfaro,3,3,11,True,2018-04-11,Caught,2B,2018
+3166,1B,2B,Stolen Base 2B,640447,Phillip Ervin,Jorge Alfaro,5,4,6,True,2018-04-09,Stolen,2B,2018
+233,1B,2B,Stolen Base 2B,640447,Phillip Ervin,Willson Contreras,0,0,1,True,2019-09-16,Stolen,2B,2019
+241,1B,,Caught Stealing 2B,640447,Phillip Ervin,Alex Avila,1,3,7,True,2019-09-15,Caught,2B,2019
+1081,1B,2B,Stolen Base 2B,640447,Phillip Ervin,Yasmani Grandal,0,0,1,True,2019-07-24,Stolen,2B,2019
+1109,1B,2B,Stolen Base 2B,640447,Phillip Ervin,Yasmani Grandal,1,4,8,True,2019-07-22,Stolen,2B,2019
+1266,1B,2B,Stolen Base 2B,640447,Phillip Ervin,Chris Iannetta,9,15,7,True,2019-07-13,Stolen,2B,2019
+1394,1B,,Caught Stealing 2B,640447,Phillip Ervin,Yasmani Grandal,2,2,5,False,2019-07-02,Caught,2B,2019
+2439,1B,,Caught Stealing 2B,640447,Phillip Ervin,Wilson Ramos,0,0,2,True,2019-04-30,Caught,2B,2019
+983,1B,2B,Stolen Base 2B,640447,Phillip Ervin,Omar Narváez,1,6,6,True,2020-08-07,Stolen,2B,2020
+1231,1B,2B,Stolen Base 2B,640447,Phillip Ervin,Eric Haase,1,0,5,False,2020-07-22,Stolen,2B,2020

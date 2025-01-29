@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+511,1B,2B,Caught Stealing 3B,599096,Dilson Herrera,Brayan Peña,2,1,9,True,2014-09-06,Caught,3B,2014
+1902,1B,2B,Stolen Base 2B,599096,Dilson Herrera,Russell Martin,3,0,8,True,2015-06-17,Stolen,2B,2015
+1985,1B,2B,Stolen Base 2B,599096,Dilson Herrera,Christian Bethancourt,10,8,7,False,2015-06-14,Stolen,2B,2015

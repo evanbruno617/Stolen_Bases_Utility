@@ -1,0 +1,11 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1626,1B,2B,Stolen Base 2B,668709,JJ Bleday,686613,Hunter Brown,664913,Seth Brown,R,Yainer Diaz,673237,1,1,6,False,2023-07-23,Stolen,2B,2023,2024,27.6
+1,2080,1B,2B,Stolen Base 2B,668709,JJ Bleday,656302,Dylan Cease,542208,Carlos Pérez,R,Carlos Pérez,656024,2,3,5,False,2023-07-01,Stolen,2B,2023,2024,27.6
+2,2358,1B,2B,Stolen Base 2B,668709,JJ Bleday,554430,Zack Wheeler,643393,Tony Kemp,R,J.T. Realmuto,592663,0,1,4,False,2023-06-18,Stolen,2B,2023,2024,27.6
+3,2407,1B,2B,Stolen Base 2B,668709,JJ Bleday,650911,Cristopher Sánchez,681146,Jonah Bride,L,J.T. Realmuto,592663,0,0,4,False,2023-06-17,Stolen,2B,2023,2024,27.6
+4,2664,1B,2B,Stolen Base 2B,668709,JJ Bleday,682847,Luis L. Ortiz,669127,Shea Langeliers,R,Jason Delay,641511,3,7,6,True,2023-06-07,Stolen,2B,2023,2024,27.6
+5,6040,1B,2B,Stolen Base 2B,668709,JJ Bleday,686613,Hunter Brown,664913,Seth Brown,R,Yainer Diaz,673237,1,1,6,False,2023-07-23,Stolen,2B,2023,2024,27.6
+6,6494,1B,2B,Stolen Base 2B,668709,JJ Bleday,656302,Dylan Cease,542208,Carlos Pérez,R,Carlos Pérez,656024,2,3,5,False,2023-07-01,Stolen,2B,2023,2024,27.6
+7,6772,1B,2B,Stolen Base 2B,668709,JJ Bleday,554430,Zack Wheeler,643393,Tony Kemp,R,J.T. Realmuto,592663,0,1,4,False,2023-06-18,Stolen,2B,2023,2024,27.6
+8,6821,1B,2B,Stolen Base 2B,668709,JJ Bleday,650911,Cristopher Sánchez,681146,Jonah Bride,L,J.T. Realmuto,592663,0,0,4,False,2023-06-17,Stolen,2B,2023,2024,27.6
+9,7078,1B,2B,Stolen Base 2B,668709,JJ Bleday,682847,Luis L. Ortiz,669127,Shea Langeliers,R,Jason Delay,641511,3,7,6,True,2023-06-07,Stolen,2B,2023,2024,27.6

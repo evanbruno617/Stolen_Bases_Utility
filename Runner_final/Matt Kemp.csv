@@ -1,0 +1,17 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2705,1B,,Caught Stealing 2B,461314,Matt Kemp,477569,Fernando Salas,571431,Matt Adams,R,Travis d'Arnaud,518595,2,2,8,False,2017-06-09,Caught,2B,2017,2018,26.2
+1,3260,1B,,Caught Stealing 2B,461314,Matt Kemp,570632,José Ureña,455976,Nick Markakis,R,J.T. Realmuto,592663,1,2,6,True,2017-05-12,Caught,2B,2017,2018,26.2
+2,2077,1B,,Caught Stealing 2B,461314,Matt Kemp,477569,Fernando Salas,571431,Matt Adams,R,Travis d'Arnaud,518595,2,2,8,False,2017-06-09,Caught,2B,2017,2018,26.2
+3,2632,1B,,Caught Stealing 2B,461314,Matt Kemp,570632,José Ureña,455976,Nick Markakis,R,J.T. Realmuto,592663,1,2,6,True,2017-05-12,Caught,2B,2017,2018,26.2
+4,4481,1B,2B,Stolen Base 2B,461314,Matt Kemp,570663,Hansel Robles,455976,Nick Markakis,R,Travis d'Arnaud,518595,4,2,7,False,2016-09-09,Stolen,2B,2016,2017,24.9
+5,446,1B,2B,Stolen Base 2B,461314,Matt Kemp,570663,Hansel Robles,455976,Nick Markakis,R,Travis d'Arnaud,518595,4,2,7,False,2016-09-09,Stolen,2B,2016,2017,24.9
+6,3853,1B,2B,Stolen Base 2B,461314,Matt Kemp,570663,Hansel Robles,455976,Nick Markakis,R,Travis d'Arnaud,518595,4,2,7,False,2016-09-09,Stolen,2B,2016,2017,24.9
+7,203,2B,3B,Stolen Base 3B,461314,Matt Kemp,489294,Tanner Scheppers,576397,Jedd Gyorko,R,Carlos Corporán,449786,4,3,8,True,2015-07-10,Stolen,3B,2015,2016,25.3
+8,341,1B,,Caught Stealing 2B,461314,Matt Kemp,608641,Tim Cooney,457708,Justin Upton,L,Yadier Molina,425877,3,3,6,True,2015-07-02,Caught,2B,2015,2016,25.3
+9,780,1B,2B,Stolen Base 2B,461314,Matt Kemp,527054,Julio Teheran,475174,Yonder Alonso,R,Christian Bethancourt,542194,0,0,1,True,2015-06-11,Stolen,2B,2015,2016,25.3
+10,820,2B,3B,Stolen Base 3B,461314,Matt Kemp,501593,Luis Avilán,506560,Alexi Amarista,L,A.J. Pierzynski,150229,3,5,11,True,2015-06-08,Stolen,3B,2015,2016,25.3
+11,1564,1B,2B,Stolen Base 2B,461314,Matt Kemp,452718,Kyle Kendrick,457708,Justin Upton,R,Michael McKenry,502374,2,3,4,False,2015-05-03,Stolen,2B,2015,2016,25.3
+12,1725,1B,2B,Stolen Base 2B,461314,Matt Kemp,435044,Scott Baker,475174,Yonder Alonso,R,Yasmani Grandal,518735,1,0,4,False,2015-04-26,Stolen,2B,2015,2016,25.3
+13,1755,1B,2B,Stolen Base 2B,461314,Matt Kemp,435221,Brandon McCarthy,457708,Justin Upton,R,Yasmani Grandal,518735,3,3,1,False,2015-04-25,Stolen,2B,2015,2016,25.3
+14,1886,1B,2B,Stolen Base 2B,461314,Matt Kemp,452657,Jon Lester,519083,Derek Norris,L,David Ross,424325,2,2,3,True,2015-04-19,Stolen,2B,2015,2016,25.3
+15,2137,1B,2B,Stolen Base 2B,461314,Matt Kemp,425844,Zack Greinke,457708,Justin Upton,R,Yasmani Grandal,518735,0,1,6,True,2015-04-07,Stolen,2B,2015,2016,25.3

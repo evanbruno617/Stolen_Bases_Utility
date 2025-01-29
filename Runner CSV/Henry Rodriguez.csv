@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2324,1B,,Caught Stealing 2B,121357,Henry Rodriguez,Chris Widger,1,0,4,False,2000-06-17,Caught,2B,2000
+2615,1B,,Caught Stealing 2B,121357,Henry Rodriguez,Brad Ausmus,2,2,6,False,2000-06-04,Caught,2B,2000
+3389,1B,2B,Stolen Base 2B,121357,Henry Rodriguez,Mitch Meluskey,5,0,3,False,2000-05-02,Stolen,2B,2000

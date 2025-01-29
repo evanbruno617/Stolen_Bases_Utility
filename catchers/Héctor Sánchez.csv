@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,606132,Raimel Tapia,534812,Kevin Quackenbush,453568,Charlie Blackmon,R,Héctor Sánchez,516949,6,3,7,False,2016-09-18,Stolen,2B,2016,2017, 82.5, 0.68
+1,1B,2B,Stolen Base 2B,518614,Daniel Descalso,429719,Edwin Jackson,592351,Jon Gray,R,Héctor Sánchez,516949,4,0,4,False,2016-09-17,Stolen,2B,2016,2017, 82.5, 0.68
+2,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,523848,José Domínguez,598265,Jackie Bradley Jr.,R,Héctor Sánchez,516949,1,4,5,True,2016-09-06,Stolen,2B,2016,2017, 82.5, 0.68
+3,1B,2B,Stolen Base 2B,571697,Scooter Gennett,606131,Luis Perdomo,518960,Jonathan Lucroy,R,Héctor Sánchez,516949,0,2,1,False,2016-05-14,Stolen,2B,2016,2017, 82.5, 0.68
+4,1B,2B,Stolen Base 2B,543590,Kirk Nieuwenhuis,543272,Brad Hand,455117,Martín Maldonado,L,Héctor Sánchez,516949,2,4,3,False,2016-05-14,Stolen,2B,2016,2017, 82.5, 0.68
+5,2B,,Caught Stealing 3B,542340,Jonathan Villar,407845,Fernando Rodney,571697,Scooter Gennett,R,Héctor Sánchez,516949,6,6,9,False,2016-05-14,Caught,3B,2016,2017, 82.5, 0.68
+6,1B,2B,Stolen Base 2B,606132,Raimel Tapia,534812,Kevin Quackenbush,453568,Charlie Blackmon,R,Héctor Sánchez,516949,6,3,7,False,2016-09-18,Stolen,2B,2016,2017, 82.5, 0.68
+7,1B,2B,Stolen Base 2B,518614,Daniel Descalso,429719,Edwin Jackson,592351,Jon Gray,R,Héctor Sánchez,516949,4,0,4,False,2016-09-17,Stolen,2B,2016,2017, 82.5, 0.68
+8,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,523848,José Domínguez,598265,Jackie Bradley Jr.,R,Héctor Sánchez,516949,1,4,5,True,2016-09-06,Stolen,2B,2016,2017, 82.5, 0.68
+9,1B,2B,Stolen Base 2B,571697,Scooter Gennett,606131,Luis Perdomo,518960,Jonathan Lucroy,R,Héctor Sánchez,516949,0,2,1,False,2016-05-14,Stolen,2B,2016,2017, 82.5, 0.68
+10,1B,2B,Stolen Base 2B,543590,Kirk Nieuwenhuis,543272,Brad Hand,455117,Martín Maldonado,L,Héctor Sánchez,516949,2,4,3,False,2016-05-14,Stolen,2B,2016,2017, 82.5, 0.68
+11,2B,,Caught Stealing 3B,542340,Jonathan Villar,407845,Fernando Rodney,571697,Scooter Gennett,R,Héctor Sánchez,516949,6,6,9,False,2016-05-14,Caught,3B,2016,2017, 82.5, 0.68
+12,1B,2B,Stolen Base 2B,606132,Raimel Tapia,534812,Kevin Quackenbush,453568,Charlie Blackmon,R,Héctor Sánchez,516949,6,3,7,False,2016-09-18,Stolen,2B,2016,2017, 82.5, 0.68
+13,1B,2B,Stolen Base 2B,518614,Daniel Descalso,429719,Edwin Jackson,592351,Jon Gray,R,Héctor Sánchez,516949,4,0,4,False,2016-09-17,Stolen,2B,2016,2017, 82.5, 0.68
+14,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,523848,José Domínguez,598265,Jackie Bradley Jr.,R,Héctor Sánchez,516949,1,4,5,True,2016-09-06,Stolen,2B,2016,2017, 82.5, 0.68
+15,1B,2B,Stolen Base 2B,571697,Scooter Gennett,606131,Luis Perdomo,518960,Jonathan Lucroy,R,Héctor Sánchez,516949,0,2,1,False,2016-05-14,Stolen,2B,2016,2017, 82.5, 0.68
+16,1B,2B,Stolen Base 2B,543590,Kirk Nieuwenhuis,543272,Brad Hand,455117,Martín Maldonado,L,Héctor Sánchez,516949,2,4,3,False,2016-05-14,Stolen,2B,2016,2017, 82.5, 0.68
+17,2B,,Caught Stealing 3B,542340,Jonathan Villar,407845,Fernando Rodney,571697,Scooter Gennett,R,Héctor Sánchez,516949,6,6,9,False,2016-05-14,Caught,3B,2016,2017, 82.5, 0.68

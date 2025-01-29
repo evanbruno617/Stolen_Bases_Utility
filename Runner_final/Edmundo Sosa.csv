@@ -1,0 +1,28 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,396,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,519326,Hunter Strickland,452657,Jon Lester,R,Luke Maile,571912,1,3,6,True,2021-09-05,Stolen,2B,2021,2022,29.4
+1,1658,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,645261,Sandy Alcantara,657557,Paul DeJong,R,Jorge Alfaro,595751,0,0,2,False,2021-06-16,Stolen,2B,2021,2022,29.4
+2,1906,1B,,Caught Stealing 2B,624641,Edmundo Sosa,571676,Seth Frankoff,642211,Justin Williams,R,Stephen Vogt,519390,0,1,2,True,2021-05-29,Caught,2B,2021,2022,29.4
+3,1981,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,614179,José Ruiz,668800,Andrew Knizner,R,Zack Collins,641470,0,4,9,True,2021-05-26,Stolen,2B,2021,2022,29.4
+4,2003,1B,,Caught Stealing 2B,624641,Edmundo Sosa,458681,Lance Lynn,669242,Tommy Edman,R,Yasmani Grandal,518735,4,1,7,True,2021-05-24,Caught,2B,2021,2022,29.4
+5,2084,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,621249,Duane Underwood Jr.,669242,Tommy Edman,R,Michael Pérez,605421,4,0,2,False,2021-05-19,Stolen,2B,2021,2022,29.4
+6,2414,1B,,Caught Stealing 2B,624641,Edmundo Sosa,605400,Aaron Nola,669242,Tommy Edman,R,J.T. Realmuto,592663,0,1,3,False,2021-04-29,Caught,2B,2021,2022,29.4
+7,2320,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,519326,Hunter Strickland,452657,Jon Lester,R,Luke Maile,571912,1,3,6,True,2021-09-05,Stolen,2B,2021,2022,29.4
+8,3582,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,645261,Sandy Alcantara,657557,Paul DeJong,R,Jorge Alfaro,595751,0,0,2,False,2021-06-16,Stolen,2B,2021,2022,29.4
+9,3830,1B,,Caught Stealing 2B,624641,Edmundo Sosa,571676,Seth Frankoff,642211,Justin Williams,R,Stephen Vogt,519390,0,1,2,True,2021-05-29,Caught,2B,2021,2022,29.4
+10,3905,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,614179,José Ruiz,668800,Andrew Knizner,R,Zack Collins,641470,0,4,9,True,2021-05-26,Stolen,2B,2021,2022,29.4
+11,3927,1B,,Caught Stealing 2B,624641,Edmundo Sosa,458681,Lance Lynn,669242,Tommy Edman,R,Yasmani Grandal,518735,4,1,7,True,2021-05-24,Caught,2B,2021,2022,29.4
+12,4008,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,621249,Duane Underwood Jr.,669242,Tommy Edman,R,Michael Pérez,605421,4,0,2,False,2021-05-19,Stolen,2B,2021,2022,29.4
+13,4338,1B,,Caught Stealing 2B,624641,Edmundo Sosa,605400,Aaron Nola,669242,Tommy Edman,R,J.T. Realmuto,592663,0,1,3,False,2021-04-29,Caught,2B,2021,2022,29.4
+14,397,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,572403,Drew VerHagen,592663,J.T. Realmuto,R,Willson Contreras,575929,3,5,8,True,2023-09-15,Stolen,2B,2023,2024,29.2
+15,665,2B,3B,Stolen Base 3B,624641,Edmundo Sosa,663362,Matt Waldron,656941,Kyle Schwarber,R,Gary Sánchez,596142,1,8,3,True,2023-09-04,Stolen,3B,2023,2024,29.2
+16,2464,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,518876,Merrill Kelly,669016,Brandon Marsh,R,Carson Kelly,608348,0,1,2,True,2023-06-14,Stolen,2B,2023,2024,29.2
+17,3379,1B,,Caught Stealing 2B,624641,Edmundo Sosa,518489,Ryan Brasier,681082,Bryson Stott,R,Connor Wong,657136,4,1,7,False,2023-05-07,Caught,2B,2023,2024,29.2
+18,3654,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,682171,Penn Murfee,681082,Bryson Stott,R,Cal Raleigh,663728,6,5,8,False,2023-04-26,Stolen,2B,2023,2024,29.2
+19,4811,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,572403,Drew VerHagen,592663,J.T. Realmuto,R,Willson Contreras,575929,3,5,8,True,2023-09-15,Stolen,2B,2023,2024,29.2
+20,5079,2B,3B,Stolen Base 3B,624641,Edmundo Sosa,663362,Matt Waldron,656941,Kyle Schwarber,R,Gary Sánchez,596142,1,8,3,True,2023-09-04,Stolen,3B,2023,2024,29.2
+21,6878,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,518876,Merrill Kelly,669016,Brandon Marsh,R,Carson Kelly,608348,0,1,2,True,2023-06-14,Stolen,2B,2023,2024,29.2
+22,7793,1B,,Caught Stealing 2B,624641,Edmundo Sosa,518489,Ryan Brasier,681082,Bryson Stott,R,Connor Wong,657136,4,1,7,False,2023-05-07,Caught,2B,2023,2024,29.2
+23,8068,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,682171,Penn Murfee,681082,Bryson Stott,R,Cal Raleigh,663728,6,5,8,False,2023-04-26,Stolen,2B,2023,2024,29.2
+24,319,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,645261,Sandy Alcantara,680977,Brendan Donovan,R,Jacob Stallings,607732,0,0,3,False,2022-06-29,Stolen,2B,2022,2023,29.2
+25,1097,1B,,Caught Stealing 2B,624641,Edmundo Sosa,453286,Max Scherzer,502671,Paul Goldschmidt,R,Patrick Mazeika,664850,2,2,5,True,2022-05-18,Caught,2B,2022,2023,29.2
+26,1439,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,518876,Merrill Kelly,669242,Tommy Edman,R,Carson Kelly,608348,0,0,6,False,2022-04-30,Stolen,2B,2022,2023,29.2

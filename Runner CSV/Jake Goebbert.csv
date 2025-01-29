@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+269,1B,2B,Stolen Base 2B,572876,Jake Goebbert,Cameron Rupp,4,3,6,False,2014-09-16,Stolen,2B,2014
+1490,1B,2B,Stolen Base 2B,572876,Jake Goebbert,Travis d'Arnaud,1,4,5,False,2014-07-18,Stolen,2B,2014
+1763,1B,,Caught Stealing 2B,572876,Jake Goebbert,Devin Mesoraco,3,1,6,False,2014-07-01,Caught,2B,2014

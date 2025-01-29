@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+180,1B,2B,Stolen Base 2B,453400,Chris Johnson,Wilson Ramos,1,1,4,True,2010-09-23,Stolen,2B,2010
+1409,1B,2B,Stolen Base 2B,453400,Chris Johnson,Geovany Soto,1,2,2,False,2010-07-26,Stolen,2B,2010
+2105,1B,2B,Stolen Base 2B,453400,Chris Johnson,Eli Whiteside,4,0,4,False,2010-06-23,Stolen,2B,2010
+2612,1B,2B,Stolen Base 2B,453400,Chris Johnson,Brian McCann,0,2,5,False,2011-06-12,Stolen,2B,2011
+3149,1B,,Caught Stealing 2B,453400,Chris Johnson,J.P. Arencibia,1,3,6,True,2011-05-22,Caught,2B,2011
+3194,1B,2B,Stolen Base 2B,453400,Chris Johnson,J.P. Arencibia,1,0,5,True,2011-05-20,Stolen,2B,2011
+3995,1B,,Caught Stealing 2B,453400,Chris Johnson,Nick Hundley,6,3,6,False,2011-04-17,Caught,2B,2011
+2216,1B,2B,Stolen Base 2B,453400,Chris Johnson,Nick Hundley,4,5,4,False,2012-06-25,Stolen,2B,2012
+2505,1B,2B,Stolen Base 2B,453400,Chris Johnson,Buster Posey,0,0,2,True,2012-06-12,Stolen,2B,2012
+3876,1B,2B,Stolen Base 2B,453400,Chris Johnson,Wilson Ramos,2,2,6,True,2012-04-16,Stolen,2B,2012
+4080,1B,2B,Stolen Base 2B,453400,Chris Johnson,Ramon Hernandez,3,0,4,False,2012-04-07,Stolen,2B,2012
+485,1B,2B,Stolen Base 2B,453400,Chris Johnson,Jarrod Saltalamacchia,0,0,5,True,2014-09-07,Stolen,2B,2014
+787,1B,2B,Stolen Base 2B,453400,Chris Johnson,Devin Mesoraco,0,0,2,True,2014-08-24,Stolen,2B,2014
+831,1B,2B,Stolen Base 2B,453400,Chris Johnson,Devin Mesoraco,1,1,10,True,2014-08-22,Stolen,2B,2014
+1501,1B,2B,Stolen Base 2B,453400,Chris Johnson,Cameron Rupp,4,2,3,False,2014-07-18,Stolen,2B,2014
+1767,1B,2B,Stolen Base 2B,453400,Chris Johnson,Travis d'Arnaud,0,0,2,False,2014-07-01,Stolen,2B,2014
+2869,1B,2B,Stolen Base 2B,453400,Chris Johnson,John Baker,2,1,8,False,2014-05-09,Stolen,2B,2014
+1548,1B,2B,Stolen Base 2B,453400,Chris Johnson,Carlos Ruiz,0,0,6,False,2015-07-05,Stolen,2B,2015
+2894,1B,,Caught Stealing 2B,453400,Chris Johnson,Tucker Barnhart,0,0,4,False,2015-04-30,Caught,2B,2015
+2972,1B,2B,Stolen Base 2B,453400,Chris Johnson,Wilson Ramos,6,2,7,False,2015-04-27,Stolen,2B,2015

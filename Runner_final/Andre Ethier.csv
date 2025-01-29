@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,829,1B,2B,Stolen Base 2B,444843,Andre Ethier,518771,Mitch Harris,571771,Enrique Hernández,R,Tony Cruz,488810,2,1,6,False,2015-06-07,Stolen,2B,2015,2016,25.8
+1,1580,1B,,Caught Stealing 2B,444843,Andre Ethier,446899,Brad Ziegler,518735,Yasmani Grandal,R,Jordan Pacheco,457574,5,4,8,False,2015-05-02,Caught,2B,2015,2016,25.8

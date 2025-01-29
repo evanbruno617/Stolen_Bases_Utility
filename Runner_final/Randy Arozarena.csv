@@ -1,0 +1,162 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,6,1B,,Caught Stealing 2B,668227,Randy Arozarena,542914,Anthony Bass,664040,Brandon Lowe,R,Danny Jansen,643376,8,2,6,False,2020-09-30,Caught,2B,2020,2021,28.7
+1,71,1B,2B,Stolen Base 2B,668227,Randy Arozarena,592826,Vince Velasquez,642715,Willy Adames,R,Andrew Knapp,595284,1,3,3,False,2020-09-25,Stolen,2B,2020,2021,28.7
+2,144,1B,2B,Stolen Base 2B,668227,Randy Arozarena,612434,Miguel Castro,664040,Brandon Lowe,R,Wilson Ramos,467092,1,2,8,True,2020-09-21,Stolen,2B,2020,2021,28.7
+3,182,1B,2B,Stolen Base 2B,668227,Randy Arozarena,623465,Evan Phillips,663993,Nathaniel Lowe,R,Chance Sisco,642082,1,3,8,True,2020-09-19,Stolen,2B,2020,2021,28.7
+4,543,1B,2B,Stolen Base 2B,668227,Randy Arozarena,656793,Nick Nelson,596847,Ji Man Choi,R,Gary Sánchez,596142,0,5,6,True,2020-08-31,Stolen,2B,2020,2021,28.7
+5,2849,1B,,Caught Stealing 2B,668227,Randy Arozarena,542914,Anthony Bass,664040,Brandon Lowe,R,Danny Jansen,643376,8,2,6,False,2020-09-30,Caught,2B,2020,2021,28.7
+6,2914,1B,2B,Stolen Base 2B,668227,Randy Arozarena,592826,Vince Velasquez,642715,Willy Adames,R,Andrew Knapp,595284,1,3,3,False,2020-09-25,Stolen,2B,2020,2021,28.7
+7,2987,1B,2B,Stolen Base 2B,668227,Randy Arozarena,612434,Miguel Castro,664040,Brandon Lowe,R,Wilson Ramos,467092,1,2,8,True,2020-09-21,Stolen,2B,2020,2021,28.7
+8,3025,1B,2B,Stolen Base 2B,668227,Randy Arozarena,623465,Evan Phillips,663993,Nathaniel Lowe,R,Chance Sisco,642082,1,3,8,True,2020-09-19,Stolen,2B,2020,2021,28.7
+9,3386,1B,2B,Stolen Base 2B,668227,Randy Arozarena,656793,Nick Nelson,596847,Ji Man Choi,R,Gary Sánchez,596142,0,5,6,True,2020-08-31,Stolen,2B,2020,2021,28.7
+10,4773,1B,,Caught Stealing 2B,668227,Randy Arozarena,542914,Anthony Bass,664040,Brandon Lowe,R,Danny Jansen,643376,8,2,6,False,2020-09-30,Caught,2B,2020,2021,28.7
+11,4838,1B,2B,Stolen Base 2B,668227,Randy Arozarena,592826,Vince Velasquez,642715,Willy Adames,R,Andrew Knapp,595284,1,3,3,False,2020-09-25,Stolen,2B,2020,2021,28.7
+12,4911,1B,2B,Stolen Base 2B,668227,Randy Arozarena,612434,Miguel Castro,664040,Brandon Lowe,R,Wilson Ramos,467092,1,2,8,True,2020-09-21,Stolen,2B,2020,2021,28.7
+13,4949,1B,2B,Stolen Base 2B,668227,Randy Arozarena,623465,Evan Phillips,663993,Nathaniel Lowe,R,Chance Sisco,642082,1,3,8,True,2020-09-19,Stolen,2B,2020,2021,28.7
+14,5310,1B,2B,Stolen Base 2B,668227,Randy Arozarena,656793,Nick Nelson,596847,Ji Man Choi,R,Gary Sánchez,596142,0,5,6,True,2020-08-31,Stolen,2B,2020,2021,28.7
+15,1368,1B,2B,Stolen Base 2B,668227,Randy Arozarena,518876,Merrill Kelly,622168,Yairo Muñoz,R,Alex Avila,488671,2,2,4,True,2019-09-25,Stolen,2B,2019,2020,28.7
+16,1417,1B,,Caught Stealing 2B,668227,Randy Arozarena,518886,Craig Kimbrel,622168,Yairo Muñoz,R,Victor Caratini,605170,8,9,9,True,2019-09-21,Caught,2B,2019,2020,28.7
+17,1693,1B,2B,Stolen Base 2B,668227,Randy Arozarena,657277,Logan Webb,669242,Tommy Edman,R,Stephen Vogt,519390,3,0,2,False,2019-09-05,Stolen,2B,2019,2020,28.7
+18,4211,1B,2B,Stolen Base 2B,668227,Randy Arozarena,518876,Merrill Kelly,622168,Yairo Muñoz,R,Alex Avila,488671,2,2,4,True,2019-09-25,Stolen,2B,2019,2020,28.7
+19,4260,1B,,Caught Stealing 2B,668227,Randy Arozarena,518886,Craig Kimbrel,622168,Yairo Muñoz,R,Victor Caratini,605170,8,9,9,True,2019-09-21,Caught,2B,2019,2020,28.7
+20,4536,1B,2B,Stolen Base 2B,668227,Randy Arozarena,657277,Logan Webb,669242,Tommy Edman,R,Stephen Vogt,519390,3,0,2,False,2019-09-05,Stolen,2B,2019,2020,28.7
+21,6135,1B,2B,Stolen Base 2B,668227,Randy Arozarena,518876,Merrill Kelly,622168,Yairo Muñoz,R,Alex Avila,488671,2,2,4,True,2019-09-25,Stolen,2B,2019,2020,28.7
+22,6184,1B,,Caught Stealing 2B,668227,Randy Arozarena,518886,Craig Kimbrel,622168,Yairo Muñoz,R,Victor Caratini,605170,8,9,9,True,2019-09-21,Caught,2B,2019,2020,28.7
+23,6460,1B,2B,Stolen Base 2B,668227,Randy Arozarena,657277,Logan Webb,669242,Tommy Edman,R,Stephen Vogt,519390,3,0,2,False,2019-09-05,Stolen,2B,2019,2020,28.7
+24,71,1B,2B,Stolen Base 2B,668227,Randy Arozarena,666200,Jesús Luzardo,656669,Jordan Luplow,L,Alex Jackson,656577,2,0,1,False,2021-09-26,Stolen,2B,2021,2022,28.8
+25,72,1B,,Caught Stealing 2B,668227,Randy Arozarena,571670,Dylan Floro,650490,Yandy Díaz,R,Alex Jackson,656577,3,1,8,False,2021-09-26,Caught,2B,2021,2022,28.8
+26,171,1B,2B,Stolen Base 2B,668227,Randy Arozarena,592662,Robbie Ray,622534,Manuel Margot,L,Alejandro Kirk,672386,0,1,4,False,2021-09-20,Stolen,2B,2021,2022,28.8
+27,172,2B,3B,Caught Stealing 2B,668227,Randy Arozarena,592662,Robbie Ray,656669,Jordan Luplow,L,Alejandro Kirk,672386,0,1,4,False,2021-09-20,Caught,2B,2021,2022,28.8
+28,198,1B,,Caught Stealing 2B,668227,Randy Arozarena,503449,Wily Peralta,621563,Joey Wendle,R,Dustin Garneau,572863,0,1,4,False,2021-09-19,Caught,2B,2021,2022,28.8
+29,280,1B,2B,Stolen Base 2B,668227,Randy Arozarena,621244,José Berríos,621563,Joey Wendle,R,Reese McGuire,624512,0,1,2,True,2021-09-14,Stolen,2B,2021,2022,28.8
+30,400,1B,2B,Stolen Base 2B,668227,Randy Arozarena,573204,Caleb Thielbar,621563,Joey Wendle,L,Ryan Jeffers,680777,5,4,5,False,2021-09-05,Stolen,2B,2021,2022,28.8
+31,518,1B,2B,Stolen Base 2B,668227,Randy Arozarena,657093,Spenser Watkins,640457,Austin Meadows,R,Austin Wynns,642851,0,1,1,True,2021-08-29,Stolen,2B,2021,2022,28.8
+32,572,1B,,Caught Stealing 2B,668227,Randy Arozarena,554430,Zack Wheeler,621433,Brett Phillips,R,J.T. Realmuto,592663,3,3,6,True,2021-08-25,Caught,2B,2021,2022,28.8
+33,1151,1B,,Caught Stealing 2B,668227,Randy Arozarena,657093,Spenser Watkins,642336,Francisco Mejía,R,Pedro Severino,600474,0,2,4,False,2021-07-19,Caught,2B,2021,2022,28.8
+34,1266,1B,,Caught Stealing 2B,668227,Randy Arozarena,605447,Jordan Romano,596847,Ji Man Choi,R,Danny Jansen,643376,5,2,8,False,2021-07-10,Caught,2B,2021,2022,28.8
+35,1349,1B,,Caught Stealing 2B,668227,Randy Arozarena,592662,Robbie Ray,677551,Wander Franco,L,Danny Jansen,643376,1,1,6,True,2021-07-04,Caught,2B,2021,2022,28.8
+36,1473,1B,,Caught Stealing 2B,668227,Randy Arozarena,663776,Patrick Sandoval,596847,Ji Man Choi,L,Kurt Suzuki,435559,0,1,4,False,2021-06-27,Caught,2B,2021,2022,28.8
+37,1558,1B,,Caught Stealing 2B,668227,Randy Arozarena,593958,Eduardo Rodriguez,622534,Manuel Margot,L,Christian Vázquez,543877,5,5,5,False,2021-06-22,Caught,2B,2021,2022,28.8
+38,1636,1B,2B,Stolen Base 2B,668227,Randy Arozarena,643290,Justin Dunn,640457,Austin Meadows,R,Tom Murphy,608596,0,0,1,True,2021-06-17,Stolen,2B,2021,2022,28.8
+39,1747,1B,2B,Stolen Base 2B,668227,Randy Arozarena,571578,Patrick Corbin,642336,Francisco Mejía,L,Yan Gomes,543228,3,2,1,False,2021-06-09,Stolen,2B,2021,2022,28.8
+40,1834,1B,2B,Stolen Base 2B,668227,Randy Arozarena,656793,Nick Nelson,664040,Brandon Lowe,R,Kyle Higashioka,543309,1,5,7,True,2021-06-03,Stolen,2B,2021,2022,28.8
+41,1887,1B,2B,Stolen Base 2B,668227,Randy Arozarena,592791,Jameson Taillon,596847,Ji Man Choi,R,Gary Sánchez,596142,0,3,5,True,2021-05-31,Stolen,2B,2021,2022,28.8
+42,1900,1B,2B,Stolen Base 2B,668227,Randy Arozarena,641401,Connor Brogdon,596847,Ji Man Choi,R,Andrew Knapp,595284,4,2,7,False,2021-05-30,Stolen,2B,2021,2022,28.8
+43,1970,1B,,Caught Stealing 2B,668227,Randy Arozarena,501985,Mike Minor,622534,Manuel Margot,L,Salvador Perez,521692,1,0,5,False,2021-05-26,Caught,2B,2021,2022,28.8
+44,2013,1B,2B,Stolen Base 2B,668227,Randy Arozarena,663423,Trent Thornton,664040,Brandon Lowe,R,Danny Jansen,643376,0,0,1,True,2021-05-24,Stolen,2B,2021,2022,28.8
+45,2036,1B,2B,Stolen Base 2B,668227,Randy Arozarena,592662,Robbie Ray,650490,Yandy Díaz,L,Danny Jansen,643376,1,0,3,True,2021-05-22,Stolen,2B,2021,2022,28.8
+46,2317,1B,2B,Stolen Base 2B,668227,Randy Arozarena,502171,Alex Cobb,640457,Austin Meadows,R,Max Stassi,545358,0,2,5,True,2021-05-04,Stolen,2B,2021,2022,28.8
+47,2358,1B,2B,Stolen Base 2B,668227,Randy Arozarena,664299,Cristian Javier,640457,Austin Meadows,R,Martín Maldonado,455117,0,0,3,False,2021-05-02,Stolen,2B,2021,2022,28.8
+48,2455,2B,3B,Stolen Base 3B,668227,Randy Arozarena,640455,Sean Manaea,640457,Austin Meadows,L,Sean Murphy,669221,1,0,1,False,2021-04-26,Stolen,3B,2021,2022,28.8
+49,2724,1B,2B,Stolen Base 2B,668227,Randy Arozarena,446372,Corey Kluber,664040,Brandon Lowe,R,Gary Sánchez,596142,3,4,3,False,2021-04-09,Stolen,2B,2021,2022,28.8
+50,1995,1B,2B,Stolen Base 2B,668227,Randy Arozarena,666200,Jesús Luzardo,656669,Jordan Luplow,L,Alex Jackson,656577,2,0,1,False,2021-09-26,Stolen,2B,2021,2022,28.8
+51,1996,1B,,Caught Stealing 2B,668227,Randy Arozarena,571670,Dylan Floro,650490,Yandy Díaz,R,Alex Jackson,656577,3,1,8,False,2021-09-26,Caught,2B,2021,2022,28.8
+52,2095,1B,2B,Stolen Base 2B,668227,Randy Arozarena,592662,Robbie Ray,622534,Manuel Margot,L,Alejandro Kirk,672386,0,1,4,False,2021-09-20,Stolen,2B,2021,2022,28.8
+53,2096,2B,3B,Caught Stealing 2B,668227,Randy Arozarena,592662,Robbie Ray,656669,Jordan Luplow,L,Alejandro Kirk,672386,0,1,4,False,2021-09-20,Caught,2B,2021,2022,28.8
+54,2122,1B,,Caught Stealing 2B,668227,Randy Arozarena,503449,Wily Peralta,621563,Joey Wendle,R,Dustin Garneau,572863,0,1,4,False,2021-09-19,Caught,2B,2021,2022,28.8
+55,2204,1B,2B,Stolen Base 2B,668227,Randy Arozarena,621244,José Berríos,621563,Joey Wendle,R,Reese McGuire,624512,0,1,2,True,2021-09-14,Stolen,2B,2021,2022,28.8
+56,2324,1B,2B,Stolen Base 2B,668227,Randy Arozarena,573204,Caleb Thielbar,621563,Joey Wendle,L,Ryan Jeffers,680777,5,4,5,False,2021-09-05,Stolen,2B,2021,2022,28.8
+57,2442,1B,2B,Stolen Base 2B,668227,Randy Arozarena,657093,Spenser Watkins,640457,Austin Meadows,R,Austin Wynns,642851,0,1,1,True,2021-08-29,Stolen,2B,2021,2022,28.8
+58,2496,1B,,Caught Stealing 2B,668227,Randy Arozarena,554430,Zack Wheeler,621433,Brett Phillips,R,J.T. Realmuto,592663,3,3,6,True,2021-08-25,Caught,2B,2021,2022,28.8
+59,3075,1B,,Caught Stealing 2B,668227,Randy Arozarena,657093,Spenser Watkins,642336,Francisco Mejía,R,Pedro Severino,600474,0,2,4,False,2021-07-19,Caught,2B,2021,2022,28.8
+60,3190,1B,,Caught Stealing 2B,668227,Randy Arozarena,605447,Jordan Romano,596847,Ji Man Choi,R,Danny Jansen,643376,5,2,8,False,2021-07-10,Caught,2B,2021,2022,28.8
+61,3273,1B,,Caught Stealing 2B,668227,Randy Arozarena,592662,Robbie Ray,677551,Wander Franco,L,Danny Jansen,643376,1,1,6,True,2021-07-04,Caught,2B,2021,2022,28.8
+62,3397,1B,,Caught Stealing 2B,668227,Randy Arozarena,663776,Patrick Sandoval,596847,Ji Man Choi,L,Kurt Suzuki,435559,0,1,4,False,2021-06-27,Caught,2B,2021,2022,28.8
+63,3482,1B,,Caught Stealing 2B,668227,Randy Arozarena,593958,Eduardo Rodriguez,622534,Manuel Margot,L,Christian Vázquez,543877,5,5,5,False,2021-06-22,Caught,2B,2021,2022,28.8
+64,3560,1B,2B,Stolen Base 2B,668227,Randy Arozarena,643290,Justin Dunn,640457,Austin Meadows,R,Tom Murphy,608596,0,0,1,True,2021-06-17,Stolen,2B,2021,2022,28.8
+65,3671,1B,2B,Stolen Base 2B,668227,Randy Arozarena,571578,Patrick Corbin,642336,Francisco Mejía,L,Yan Gomes,543228,3,2,1,False,2021-06-09,Stolen,2B,2021,2022,28.8
+66,3758,1B,2B,Stolen Base 2B,668227,Randy Arozarena,656793,Nick Nelson,664040,Brandon Lowe,R,Kyle Higashioka,543309,1,5,7,True,2021-06-03,Stolen,2B,2021,2022,28.8
+67,3811,1B,2B,Stolen Base 2B,668227,Randy Arozarena,592791,Jameson Taillon,596847,Ji Man Choi,R,Gary Sánchez,596142,0,3,5,True,2021-05-31,Stolen,2B,2021,2022,28.8
+68,3824,1B,2B,Stolen Base 2B,668227,Randy Arozarena,641401,Connor Brogdon,596847,Ji Man Choi,R,Andrew Knapp,595284,4,2,7,False,2021-05-30,Stolen,2B,2021,2022,28.8
+69,3894,1B,,Caught Stealing 2B,668227,Randy Arozarena,501985,Mike Minor,622534,Manuel Margot,L,Salvador Perez,521692,1,0,5,False,2021-05-26,Caught,2B,2021,2022,28.8
+70,3937,1B,2B,Stolen Base 2B,668227,Randy Arozarena,663423,Trent Thornton,664040,Brandon Lowe,R,Danny Jansen,643376,0,0,1,True,2021-05-24,Stolen,2B,2021,2022,28.8
+71,3960,1B,2B,Stolen Base 2B,668227,Randy Arozarena,592662,Robbie Ray,650490,Yandy Díaz,L,Danny Jansen,643376,1,0,3,True,2021-05-22,Stolen,2B,2021,2022,28.8
+72,4241,1B,2B,Stolen Base 2B,668227,Randy Arozarena,502171,Alex Cobb,640457,Austin Meadows,R,Max Stassi,545358,0,2,5,True,2021-05-04,Stolen,2B,2021,2022,28.8
+73,4282,1B,2B,Stolen Base 2B,668227,Randy Arozarena,664299,Cristian Javier,640457,Austin Meadows,R,Martín Maldonado,455117,0,0,3,False,2021-05-02,Stolen,2B,2021,2022,28.8
+74,4379,2B,3B,Stolen Base 3B,668227,Randy Arozarena,640455,Sean Manaea,640457,Austin Meadows,L,Sean Murphy,669221,1,0,1,False,2021-04-26,Stolen,3B,2021,2022,28.8
+75,4648,1B,2B,Stolen Base 2B,668227,Randy Arozarena,446372,Corey Kluber,664040,Brandon Lowe,R,Gary Sánchez,596142,3,4,3,False,2021-04-09,Stolen,2B,2021,2022,28.8
+76,608,1B,2B,Stolen Base 2B,668227,Randy Arozarena,622491,Luis Castillo,666139,Josh Lowe,R,Cal Raleigh,663728,0,1,3,False,2023-09-07,Stolen,2B,2023,2024,28.1
+77,671,1B,2B,Stolen Base 2B,668227,Randy Arozarena,678394,Brayan Bello,664040,Brandon Lowe,R,Reese McGuire,624512,2,0,1,False,2023-09-04,Stolen,2B,2023,2024,28.1
+78,795,1B,2B,Stolen Base 2B,668227,Randy Arozarena,502085,David Robertson,623912,Harold Ramírez,R,Nick Fortes,663743,0,3,10,True,2023-08-30,Stolen,2B,2023,2024,28.1
+79,796,2B,3B,Stolen Base 3B,668227,Randy Arozarena,502085,David Robertson,670623,Isaac Paredes,R,Nick Fortes,663743,0,3,10,True,2023-08-30,Stolen,3B,2023,2024,28.1
+80,833,1B,,Caught Stealing 2B,668227,Randy Arozarena,645261,Sandy Alcantara,670623,Isaac Paredes,R,Jacob Stallings,607732,1,1,3,True,2023-08-29,Caught,2B,2023,2024,28.1
+81,862,1B,2B,Stolen Base 2B,668227,Randy Arozarena,607074,Carlos Rodón,664040,Brandon Lowe,L,Kyle Higashioka,543309,2,0,1,False,2023-08-27,Stolen,2B,2023,2024,28.1
+82,864,1B,2B,Stolen Base 2B,668227,Randy Arozarena,656061,Albert Abreu,623912,Harold Ramírez,R,Kyle Higashioka,543309,6,4,8,False,2023-08-27,Stolen,2B,2023,2024,28.1
+83,865,2B,3B,Stolen Base 3B,668227,Randy Arozarena,656061,Albert Abreu,623912,Harold Ramírez,R,Kyle Higashioka,543309,6,4,8,False,2023-08-27,Stolen,3B,2023,2024,28.1
+84,1117,2B,,Caught Stealing 3B,668227,Randy Arozarena,676254,Ryan Walker,666139,Josh Lowe,R,Blake Sabol,666165,0,1,1,True,2023-08-16,Caught,3B,2023,2024,28.1
+85,1199,1B,2B,Stolen Base 2B,668227,Randy Arozarena,663986,Trevor Stephan,670623,Isaac Paredes,R,Cam Gallagher,595956,2,5,8,False,2023-08-12,Stolen,2B,2023,2024,28.1
+86,1238,1B,2B,Stolen Base 2B,668227,Randy Arozarena,669461,Matthew Liberatore,623912,Harold Ramírez,L,Andrew Knizner,668800,0,0,1,False,2023-08-10,Stolen,2B,2023,2024,28.1
+87,1239,2B,3B,Stolen Base 3B,668227,Randy Arozarena,669461,Matthew Liberatore,623912,Harold Ramírez,L,Andrew Knizner,668800,0,0,1,False,2023-08-10,Stolen,3B,2023,2024,28.1
+88,1535,1B,2B,Stolen Base 2B,668227,Randy Arozarena,664299,Cristian Javier,664040,Brandon Lowe,R,Martín Maldonado,455117,1,3,4,True,2023-07-28,Stolen,2B,2023,2024,28.1
+89,1670,1B,2B,Stolen Base 2B,668227,Randy Arozarena,672335,Cionel Pérez,664040,Brandon Lowe,L,James McCann,543510,5,5,8,False,2023-07-22,Stolen,2B,2023,2024,28.1
+90,1862,1B,,Caught Stealing 2B,668227,Randy Arozarena,668678,Zac Gallen,608369,Corey Seager,R,Sean Murphy,669221,0,0,1,False,2023-07-11,Caught,2B,2023,2024,28.1
+91,1876,1B,2B,Stolen Base 2B,668227,Randy Arozarena,543859,Michael Tonkin,666018,Jonathan Aranda,R,Travis d'Arnaud,518595,7,2,5,False,2023-07-09,Stolen,2B,2023,2024,28.1
+92,2418,1B,,Caught Stealing 2B,668227,Randy Arozarena,506433,Yu Darvish,670623,Isaac Paredes,R,Gary Sánchez,596142,0,2,4,True,2023-06-16,Caught,2B,2023,2024,28.1
+93,2469,1B,,Caught Stealing 2B,668227,Randy Arozarena,665622,Luis Medina,670623,Isaac Paredes,R,Shea Langeliers,669127,3,1,4,True,2023-06-14,Caught,2B,2023,2024,28.1
+94,2507,1B,,Caught Stealing 2B,668227,Randy Arozarena,543507,Trevor May,670623,Isaac Paredes,R,Shea Langeliers,669127,2,1,9,True,2023-06-13,Caught,2B,2023,2024,28.1
+95,2622,1B,2B,Stolen Base 2B,668227,Randy Arozarena,571760,Andrew Heaney,670623,Isaac Paredes,L,Sandy León,506702,4,1,3,False,2023-06-09,Stolen,2B,2023,2024,28.1
+96,2624,1B,2B,Stolen Base 2B,668227,Randy Arozarena,675921,Spencer Howard,670623,Isaac Paredes,R,Sandy León,506702,6,1,6,False,2023-06-09,Stolen,2B,2023,2024,28.1
+97,2753,1B,2B,Stolen Base 2B,668227,Randy Arozarena,676710,Kutter Crawford,670623,Isaac Paredes,R,Connor Wong,657136,0,0,2,True,2023-06-03,Stolen,2B,2023,2024,28.1
+98,2974,1B,2B,Stolen Base 2B,668227,Randy Arozarena,666201,Alek Manoah,664040,Brandon Lowe,R,Alejandro Kirk,672386,1,1,1,False,2023-05-25,Stolen,2B,2023,2024,28.1
+99,3053,1B,2B,Stolen Base 2B,668227,Randy Arozarena,657265,Peter Strzelecki,666139,Josh Lowe,R,William Contreras,661388,4,6,8,False,2023-05-21,Stolen,2B,2023,2024,28.1
+100,3143,1B,2B,Stolen Base 2B,668227,Randy Arozarena,493603,Adam Ottavino,664040,Brandon Lowe,R,Francisco Alvarez,682626,2,4,8,True,2023-05-17,Stolen,2B,2023,2024,28.1
+101,3461,1B,,Caught Stealing 2B,668227,Randy Arozarena,596112,Robert Stephenson,666139,Josh Lowe,R,Jason Delay,641511,3,0,8,False,2023-05-04,Caught,2B,2023,2024,28.1
+102,3739,1B,,Caught Stealing 2B,668227,Randy Arozarena,608337,Lucas Giolito,664040,Brandon Lowe,R,Seby Zavala,664874,3,0,3,False,2023-04-23,Caught,2B,2023,2024,28.1
+103,3825,1B,2B,Stolen Base 2B,668227,Randy Arozarena,686651,Levi Stoudt,670042,Luke Raley,R,Luke Maile,571912,0,6,2,True,2023-04-19,Stolen,2B,2023,2024,28.1
+104,4014,1B,,Caught Stealing 2B,668227,Randy Arozarena,676477,Garrett Whitlock,677551,Wander Franco,R,Reese McGuire,624512,2,0,3,False,2023-04-11,Caught,2B,2023,2024,28.1
+105,4037,1B,2B,Stolen Base 2B,668227,Randy Arozarena,601713,Nick Pivetta,677551,Wander Franco,R,Connor Wong,657136,0,0,1,False,2023-04-10,Stolen,2B,2023,2024,28.1
+106,4070,1B,2B,Stolen Base 2B,668227,Randy Arozarena,621076,James Kaprielian,670042,Luke Raley,R,Shea Langeliers,669127,1,0,1,False,2023-04-09,Stolen,2B,2023,2024,28.1
+107,5022,1B,2B,Stolen Base 2B,668227,Randy Arozarena,622491,Luis Castillo,666139,Josh Lowe,R,Cal Raleigh,663728,0,1,3,False,2023-09-07,Stolen,2B,2023,2024,28.1
+108,5085,1B,2B,Stolen Base 2B,668227,Randy Arozarena,678394,Brayan Bello,664040,Brandon Lowe,R,Reese McGuire,624512,2,0,1,False,2023-09-04,Stolen,2B,2023,2024,28.1
+109,5209,1B,2B,Stolen Base 2B,668227,Randy Arozarena,502085,David Robertson,623912,Harold Ramírez,R,Nick Fortes,663743,0,3,10,True,2023-08-30,Stolen,2B,2023,2024,28.1
+110,5210,2B,3B,Stolen Base 3B,668227,Randy Arozarena,502085,David Robertson,670623,Isaac Paredes,R,Nick Fortes,663743,0,3,10,True,2023-08-30,Stolen,3B,2023,2024,28.1
+111,5247,1B,,Caught Stealing 2B,668227,Randy Arozarena,645261,Sandy Alcantara,670623,Isaac Paredes,R,Jacob Stallings,607732,1,1,3,True,2023-08-29,Caught,2B,2023,2024,28.1
+112,5276,1B,2B,Stolen Base 2B,668227,Randy Arozarena,607074,Carlos Rodón,664040,Brandon Lowe,L,Kyle Higashioka,543309,2,0,1,False,2023-08-27,Stolen,2B,2023,2024,28.1
+113,5278,1B,2B,Stolen Base 2B,668227,Randy Arozarena,656061,Albert Abreu,623912,Harold Ramírez,R,Kyle Higashioka,543309,6,4,8,False,2023-08-27,Stolen,2B,2023,2024,28.1
+114,5279,2B,3B,Stolen Base 3B,668227,Randy Arozarena,656061,Albert Abreu,623912,Harold Ramírez,R,Kyle Higashioka,543309,6,4,8,False,2023-08-27,Stolen,3B,2023,2024,28.1
+115,5531,2B,,Caught Stealing 3B,668227,Randy Arozarena,676254,Ryan Walker,666139,Josh Lowe,R,Blake Sabol,666165,0,1,1,True,2023-08-16,Caught,3B,2023,2024,28.1
+116,5613,1B,2B,Stolen Base 2B,668227,Randy Arozarena,663986,Trevor Stephan,670623,Isaac Paredes,R,Cam Gallagher,595956,2,5,8,False,2023-08-12,Stolen,2B,2023,2024,28.1
+117,5652,1B,2B,Stolen Base 2B,668227,Randy Arozarena,669461,Matthew Liberatore,623912,Harold Ramírez,L,Andrew Knizner,668800,0,0,1,False,2023-08-10,Stolen,2B,2023,2024,28.1
+118,5653,2B,3B,Stolen Base 3B,668227,Randy Arozarena,669461,Matthew Liberatore,623912,Harold Ramírez,L,Andrew Knizner,668800,0,0,1,False,2023-08-10,Stolen,3B,2023,2024,28.1
+119,5949,1B,2B,Stolen Base 2B,668227,Randy Arozarena,664299,Cristian Javier,664040,Brandon Lowe,R,Martín Maldonado,455117,1,3,4,True,2023-07-28,Stolen,2B,2023,2024,28.1
+120,6084,1B,2B,Stolen Base 2B,668227,Randy Arozarena,672335,Cionel Pérez,664040,Brandon Lowe,L,James McCann,543510,5,5,8,False,2023-07-22,Stolen,2B,2023,2024,28.1
+121,6276,1B,,Caught Stealing 2B,668227,Randy Arozarena,668678,Zac Gallen,608369,Corey Seager,R,Sean Murphy,669221,0,0,1,False,2023-07-11,Caught,2B,2023,2024,28.1
+122,6290,1B,2B,Stolen Base 2B,668227,Randy Arozarena,543859,Michael Tonkin,666018,Jonathan Aranda,R,Travis d'Arnaud,518595,7,2,5,False,2023-07-09,Stolen,2B,2023,2024,28.1
+123,6832,1B,,Caught Stealing 2B,668227,Randy Arozarena,506433,Yu Darvish,670623,Isaac Paredes,R,Gary Sánchez,596142,0,2,4,True,2023-06-16,Caught,2B,2023,2024,28.1
+124,6883,1B,,Caught Stealing 2B,668227,Randy Arozarena,665622,Luis Medina,670623,Isaac Paredes,R,Shea Langeliers,669127,3,1,4,True,2023-06-14,Caught,2B,2023,2024,28.1
+125,6921,1B,,Caught Stealing 2B,668227,Randy Arozarena,543507,Trevor May,670623,Isaac Paredes,R,Shea Langeliers,669127,2,1,9,True,2023-06-13,Caught,2B,2023,2024,28.1
+126,7036,1B,2B,Stolen Base 2B,668227,Randy Arozarena,571760,Andrew Heaney,670623,Isaac Paredes,L,Sandy León,506702,4,1,3,False,2023-06-09,Stolen,2B,2023,2024,28.1
+127,7038,1B,2B,Stolen Base 2B,668227,Randy Arozarena,675921,Spencer Howard,670623,Isaac Paredes,R,Sandy León,506702,6,1,6,False,2023-06-09,Stolen,2B,2023,2024,28.1
+128,7167,1B,2B,Stolen Base 2B,668227,Randy Arozarena,676710,Kutter Crawford,670623,Isaac Paredes,R,Connor Wong,657136,0,0,2,True,2023-06-03,Stolen,2B,2023,2024,28.1
+129,7388,1B,2B,Stolen Base 2B,668227,Randy Arozarena,666201,Alek Manoah,664040,Brandon Lowe,R,Alejandro Kirk,672386,1,1,1,False,2023-05-25,Stolen,2B,2023,2024,28.1
+130,7467,1B,2B,Stolen Base 2B,668227,Randy Arozarena,657265,Peter Strzelecki,666139,Josh Lowe,R,William Contreras,661388,4,6,8,False,2023-05-21,Stolen,2B,2023,2024,28.1
+131,7557,1B,2B,Stolen Base 2B,668227,Randy Arozarena,493603,Adam Ottavino,664040,Brandon Lowe,R,Francisco Alvarez,682626,2,4,8,True,2023-05-17,Stolen,2B,2023,2024,28.1
+132,7875,1B,,Caught Stealing 2B,668227,Randy Arozarena,596112,Robert Stephenson,666139,Josh Lowe,R,Jason Delay,641511,3,0,8,False,2023-05-04,Caught,2B,2023,2024,28.1
+133,8153,1B,,Caught Stealing 2B,668227,Randy Arozarena,608337,Lucas Giolito,664040,Brandon Lowe,R,Seby Zavala,664874,3,0,3,False,2023-04-23,Caught,2B,2023,2024,28.1
+134,8239,1B,2B,Stolen Base 2B,668227,Randy Arozarena,686651,Levi Stoudt,670042,Luke Raley,R,Luke Maile,571912,0,6,2,True,2023-04-19,Stolen,2B,2023,2024,28.1
+135,8428,1B,,Caught Stealing 2B,668227,Randy Arozarena,676477,Garrett Whitlock,677551,Wander Franco,R,Reese McGuire,624512,2,0,3,False,2023-04-11,Caught,2B,2023,2024,28.1
+136,8451,1B,2B,Stolen Base 2B,668227,Randy Arozarena,601713,Nick Pivetta,677551,Wander Franco,R,Connor Wong,657136,0,0,1,False,2023-04-10,Stolen,2B,2023,2024,28.1
+137,8484,1B,2B,Stolen Base 2B,668227,Randy Arozarena,621076,James Kaprielian,670042,Luke Raley,R,Shea Langeliers,669127,1,0,1,False,2023-04-09,Stolen,2B,2023,2024,28.1
+138,208,1B,,Caught Stealing 2B,668227,Randy Arozarena,570663,Hansel Robles,670764,Taylor Walls,R,Christian Vázquez,543877,3,8,7,True,2022-07-05,Caught,2B,2022,2023,28.4
+139,290,1B,2B,Stolen Base 2B,668227,Randy Arozarena,666721,Max Castillo,670623,Isaac Paredes,R,Gabriel Moreno,672515,1,6,9,True,2022-07-02,Stolen,2B,2022,2023,28.4
+140,331,2B,3B,Stolen Base 3B,668227,Randy Arozarena,641778,Eric Lauer,596847,Ji Man Choi,L,Victor Caratini,605170,0,1,4,False,2022-06-29,Stolen,3B,2022,2023,28.4
+141,333,1B,2B,Stolen Base 2B,668227,Randy Arozarena,642207,Devin Williams,623912,Harold Ramírez,R,Victor Caratini,605170,3,4,8,False,2022-06-29,Stolen,2B,2022,2023,28.4
+142,344,1B,2B,Stolen Base 2B,668227,Randy Arozarena,605540,Brandon Woodruff,670623,Isaac Paredes,R,Omar Narváez,553882,1,0,4,False,2022-06-28,Stolen,2B,2022,2023,28.4
+143,346,1B,2B,Stolen Base 2B,668227,Randy Arozarena,642207,Devin Williams,670623,Isaac Paredes,R,Omar Narváez,553882,3,5,8,False,2022-06-28,Stolen,2B,2022,2023,28.4
+144,389,1B,2B,Stolen Base 2B,668227,Randy Arozarena,607455,Anthony Banda,596847,Ji Man Choi,L,Michael Pérez,605421,2,1,7,False,2022-06-26,Stolen,2B,2022,2023,28.4
+145,626,1B,2B,Stolen Base 2B,668227,Randy Arozarena,663485,Cole Sands,595281,Kevin Kiermaier,R,Ryan Jeffers,680777,0,1,4,True,2022-06-12,Stolen,2B,2022,2023,28.4
+146,628,2B,3B,Stolen Base 3B,668227,Randy Arozarena,663485,Cole Sands,595281,Kevin Kiermaier,R,Ryan Jeffers,680777,0,5,5,True,2022-06-12,Stolen,3B,2022,2023,28.4
+147,786,1B,2B,Stolen Base 2B,668227,Randy Arozarena,656302,Dylan Cease,621433,Brett Phillips,R,Reese McGuire,624512,0,0,2,False,2022-06-04,Stolen,2B,2022,2023,28.4
+148,788,1B,2B,Stolen Base 2B,668227,Randy Arozarena,608665,Kendall Graveman,621433,Brett Phillips,R,Reese McGuire,624512,2,3,8,False,2022-06-04,Stolen,2B,2022,2023,28.4
+149,815,1B,,Caught Stealing 2B,668227,Randy Arozarena,621383,Tanner Banks,642336,Francisco Mejía,L,Yasmani Grandal,518735,6,2,8,False,2022-06-03,Caught,2B,2022,2023,28.4
+150,832,1B,2B,Stolen Base 2B,668227,Randy Arozarena,656271,Brock Burke,622534,Manuel Margot,L,Jonah Heim,641680,1,3,8,True,2022-06-02,Stolen,2B,2022,2023,28.4
+151,955,1B,,Caught Stealing 2B,668227,Randy Arozarena,592791,Jameson Taillon,596847,Ji Man Choi,R,Kyle Higashioka,543309,0,2,5,False,2022-05-27,Caught,2B,2022,2023,28.4
+152,1028,1B,2B,Stolen Base 2B,668227,Randy Arozarena,622253,Dillon Tate,596847,Ji Man Choi,R,Adley Rutschman,668939,3,6,7,True,2022-05-22,Stolen,2B,2022,2023,28.4
+153,1156,1B,,Caught Stealing 2B,668227,Randy Arozarena,666201,Alek Manoah,660644,Vidal Bruján,R,Alejandro Kirk,672386,0,0,2,False,2022-05-15,Caught,2B,2022,2023,28.4
+154,1193,1B,2B,Stolen Base 2B,668227,Randy Arozarena,475479,David Phelps,596847,Ji Man Choi,R,Tyler Heineman,623168,5,2,8,False,2022-05-13,Stolen,2B,2022,2023,28.4
+155,1219,1B,2B,Stolen Base 2B,668227,Randy Arozarena,628452,Raisel Iglesias,595281,Kevin Kiermaier,R,Chad Wallach,595453,2,2,9,True,2022-05-11,Stolen,2B,2022,2023,28.4
+156,1287,1B,,Caught Stealing 2B,668227,Randy Arozarena,608716,Drew Steckenrider,596847,Ji Man Choi,R,Luis Torrens,620443,0,1,9,True,2022-05-08,Caught,2B,2022,2023,28.4
+157,1372,2B,3B,Stolen Base 3B,668227,Randy Arozarena,593423,Frankie Montas,622534,Manuel Margot,R,Sean Murphy,669221,0,0,6,True,2022-05-04,Stolen,3B,2022,2023,28.4
+158,1449,1B,2B,Stolen Base 2B,668227,Randy Arozarena,605164,Dylan Bundy,595281,Kevin Kiermaier,R,Gary Sánchez,596142,4,0,1,False,2022-04-29,Stolen,2B,2022,2023,28.4
+159,1491,1B,2B,Stolen Base 2B,668227,Randy Arozarena,594835,Marco Gonzales,623912,Harold Ramírez,L,Cal Raleigh,663728,1,0,1,False,2022-04-27,Stolen,2B,2022,2023,28.4
+160,1608,2B,3B,Stolen Base 3B,668227,Randy Arozarena,573186,Marcus Stroman,596847,Ji Man Choi,R,Yan Gomes,543228,0,2,1,True,2022-04-20,Stolen,3B,2022,2023,28.4

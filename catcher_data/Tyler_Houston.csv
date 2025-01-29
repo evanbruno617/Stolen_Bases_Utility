@@ -1,0 +1,22 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,117566,Matt Lawton,Tyler Houston,0,0,1,False,2000-06-09,Stolen,2B,2000
+1B,2B,Stolen Base 2B,117566,Matt Lawton,Tyler Houston,3,3,4,False,2000-06-09,Stolen,2B,2000
+1B,,Caught Stealing 2B,113330,Einar Díaz,Tyler Houston,0,1,2,True,2000-06-05,Caught,2B,2000
+1B,,Caught Stealing 2B,123744,Omar Vizquel,Tyler Houston,1,6,4,True,2000-06-05,Caught,2B,2000
+1B,2B,Stolen Base 2B,114961,Tom Goodwin,Tyler Houston,0,0,3,True,2000-06-04,Stolen,2B,2000
+2B,3B,Stolen Base 3B,122205,Terry Shumpert,Tyler Houston,1,5,7,True,2000-06-04,Stolen,3B,2000
+1B,2B,Stolen Base 2B,117491,Mike Lansing,Tyler Houston,1,6,9,True,2000-06-04,Stolen,2B,2000
+1B,2B,Stolen Base 2B,114961,Tom Goodwin,Tyler Houston,0,0,1,True,2000-06-02,Stolen,2B,2000
+1B,,Caught Stealing 2B,114961,Tom Goodwin,Tyler Houston,6,8,7,True,2000-06-02,Caught,2B,2000
+1B,2B,Stolen Base 2B,114961,Tom Goodwin,Tyler Houston,6,8,9,True,2000-06-02,Stolen,2B,2000
+1B,2B,Stolen Base 2B,112155,Roger Cedeno,Tyler Houston,3,3,7,True,2000-04-30,Stolen,2B,2000
+2B,3B,Stolen Base 3B,112155,Roger Cedeno,Tyler Houston,3,3,9,True,2000-04-30,Stolen,3B,2000
+1B,2B,Stolen Base 2B,111908,Ken Caminiti,Tyler Houston,3,3,9,True,2000-04-30,Stolen,2B,2000
+3B,,Caught Stealing Home,136770,J.D. Drew,Tyler Houston,2,1,2,False,2000-04-25,Caught,Home,2000
+1B,2B,Caught Stealing Home,118414,Mike Matheny,Tyler Houston,2,1,2,False,2000-04-25,Caught,Home,2000
+1B,,Caught Stealing 2B,115223,Vladimir Guerrero,Tyler Houston,1,0,4,False,2000-04-21,Caught,2B,2000
+1B,,Caught Stealing 2B,134341,Jay Payton,Tyler Houston,3,0,3,False,2000-04-19,Caught,2B,2000
+1B,2B,Stolen Base 2B,124755,Todd Zeile,Tyler Houston,3,1,8,False,2000-04-19,Stolen,2B,2000
+1B,,Caught Stealing 2B,133343,Preston Wilson,Tyler Houston,0,0,2,True,2000-04-13,Caught,2B,2000
+2B,3B,Stolen Base 3B,117501,Barry Larkin,Tyler Houston,5,7,6,False,2000-04-05,Stolen,3B,2000
+2B,3B,Stolen Base 3B,121009,Pokey Reese,Tyler Houston,5,8,8,False,2000-04-05,Stolen,3B,2000

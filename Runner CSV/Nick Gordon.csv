@@ -1,0 +1,24 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+129,2B,3B,Stolen Base 3B,624503,Nick Gordon,Austin Romine,2,5,9,True,2021-09-22,Stolen,3B,2021
+153,2B,3B,Stolen Base 3B,624503,Nick Gordon,Willson Contreras,5,9,9,True,2021-09-21,Stolen,3B,2021
+279,1B,2B,Stolen Base 2B,624503,Nick Gordon,Roberto Pérez,4,3,4,False,2021-09-14,Stolen,2B,2021
+303,1B,2B,Stolen Base 2B,624503,Nick Gordon,Sebastián  Rivero,4,1,4,False,2021-09-11,Stolen,2B,2021
+397,1B,2B,Stolen Base 2B,624503,Nick Gordon,Mike Zunino,5,5,7,True,2021-09-05,Stolen,2B,2021
+1149,1B,,Caught Stealing 2B,624503,Nick Gordon,Zack Collins,1,2,2,True,2021-07-19,Caught,2B,2021
+1444,1B,,Caught Stealing 2B,624503,Nick Gordon,Zack Collins,1,2,2,True,2021-06-28,Caught,2B,2021
+1702,1B,2B,Stolen Base 2B,624503,Nick Gordon,Martín Maldonado,0,0,3,False,2021-06-12,Stolen,2B,2021
+1703,1B,2B,Stolen Base 2B,624503,Nick Gordon,Martín Maldonado,2,0,5,False,2021-06-12,Stolen,2B,2021
+1783,1B,2B,Stolen Base 2B,624503,Nick Gordon,Salvador Perez,1,2,8,True,2021-06-06,Stolen,2B,2021
+2277,1B,2B,Stolen Base 2B,624503,Nick Gordon,Jonah Heim,1,2,2,False,2021-05-06,Stolen,2B,2021
+2279,1B,2B,Stolen Base 2B,624503,Nick Gordon,Jonah Heim,3,2,4,False,2021-05-06,Stolen,2B,2021
+700,2B,,Caught Stealing 3B,624503,Nick Gordon,Jonah Heim,1,0,4,False,2022-08-22,Caught,3B,2022
+876,1B,2B,Stolen Base 2B,624503,Nick Gordon,Max Stassi,3,3,10,True,2022-08-13,Stolen,2B,2022
+1012,1B,2B,Stolen Base 2B,624503,Nick Gordon,Danny Jansen,4,2,6,False,2022-08-06,Stolen,2B,2022
+1103,1B,2B,Stolen Base 2B,624503,Nick Gordon,Eric Haase,0,2,5,False,2022-08-01,Stolen,2B,2022
+1798,1B,,Caught Stealing 2B,624503,Nick Gordon,Luke Maile,5,5,9,False,2022-06-21,Caught,2B,2022
+2147,2B,3B,Stolen Base 3B,624503,Nick Gordon,Danny Jansen,3,7,8,True,2022-06-03,Stolen,3B,2022
+2164,1B,2B,Stolen Base 2B,624503,Nick Gordon,Eric Haase,1,2,6,True,2022-06-02,Stolen,2B,2022
+2502,1B,2B,Stolen Base 2B,624503,Nick Gordon,Austin Hedges,1,1,8,False,2022-05-14,Stolen,2B,2022
+2731,1B,,Caught Stealing 2B,624503,Nick Gordon,Robinson Chirinos,1,2,7,True,2022-05-02,Caught,2B,2022
+2815,1B,,Caught Stealing 2B,624503,Nick Gordon,Eric Haase,4,0,5,False,2022-04-27,Caught,2B,2022
+3217,1B,2B,Stolen Base 2B,624503,Nick Gordon,Robinson Chirinos,3,0,2,False,2022-04-03,Stolen,2B,2022

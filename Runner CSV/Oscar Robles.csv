@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+508,1B,,Caught Stealing 2B,425854,Oscar Robles,Mike Matheny,0,0,1,False,2005-09-05,Caught,2B,2005
+753,1B,,Caught Stealing 2B,425854,Oscar Robles,Danny Ardoin,6,2,6,False,2005-08-23,Caught,2B,2005
+952,1B,,Caught Stealing 2B,425854,Oscar Robles,Mike Piazza,6,6,7,False,2005-08-12,Caught,2B,2005
+1491,1B,,Caught Stealing 2B,425854,Oscar Robles,Mike Matheny,0,1,1,False,2005-07-15,Caught,2B,2005
+1548,1B,,Caught Stealing 2B,425854,Oscar Robles,Brad Ausmus,0,0,1,True,2005-07-10,Caught,2B,2005
+1990,1B,,Caught Stealing 2B,425854,Oscar Robles,A.J. Pierzynski,0,2,2,True,2005-06-18,Caught,2B,2005
+1991,1B,,Caught Stealing 2B,425854,Oscar Robles,A.J. Pierzynski,1,3,9,True,2005-06-18,Caught,2B,2005
+2220,1B,,Caught Stealing 2B,425854,Oscar Robles,Damian Miller,2,1,7,False,2005-06-04,Caught,2B,2005

@@ -1,0 +1,21 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4861,1B,2B,Stolen Base 2B,628356,Jung Ho Kang,430661,Dustin McGowan,465041,Francisco Cervelli,R,J.T. Realmuto,592663,2,3,7,False,2016-08-19,Stolen,2B,2016,2019,26.0
+1,5585,1B,,Caught Stealing 2B,628356,Jung Ho Kang,543699,Tanner Roark,446481,Sean Rodríguez,R,Wilson Ramos,467092,2,0,4,True,2016-07-16,Caught,2B,2016,2019,26.0
+2,5934,2B,3B,Stolen Base 3B,628356,Jung Ho Kang,592612,Josh Osich,459964,Matt Joyce,L,Buster Posey,457763,6,7,7,False,2016-06-22,Stolen,3B,2016,2019,26.0
+3,6197,1B,2B,Stolen Base 2B,628356,Jung Ho Kang,592789,Noah Syndergaard,459964,Matt Joyce,R,Kevin Plawecki,608700,2,0,1,False,2016-06-08,Stolen,2B,2016,2019,26.0
+4,826,1B,2B,Stolen Base 2B,628356,Jung Ho Kang,430661,Dustin McGowan,465041,Francisco Cervelli,R,J.T. Realmuto,592663,2,3,7,False,2016-08-19,Stolen,2B,2016,2019,26.0
+5,1550,1B,,Caught Stealing 2B,628356,Jung Ho Kang,543699,Tanner Roark,446481,Sean Rodríguez,R,Wilson Ramos,467092,2,0,4,True,2016-07-16,Caught,2B,2016,2019,26.0
+6,1899,2B,3B,Stolen Base 3B,628356,Jung Ho Kang,592612,Josh Osich,459964,Matt Joyce,L,Buster Posey,457763,6,7,7,False,2016-06-22,Stolen,3B,2016,2019,26.0
+7,2162,1B,2B,Stolen Base 2B,628356,Jung Ho Kang,592789,Noah Syndergaard,459964,Matt Joyce,R,Kevin Plawecki,608700,2,0,1,False,2016-06-08,Stolen,2B,2016,2019,26.0
+8,4233,1B,2B,Stolen Base 2B,628356,Jung Ho Kang,430661,Dustin McGowan,465041,Francisco Cervelli,R,J.T. Realmuto,592663,2,3,7,False,2016-08-19,Stolen,2B,2016,2019,26.0
+9,4957,1B,,Caught Stealing 2B,628356,Jung Ho Kang,543699,Tanner Roark,446481,Sean Rodríguez,R,Wilson Ramos,467092,2,0,4,True,2016-07-16,Caught,2B,2016,2019,26.0
+10,5306,2B,3B,Stolen Base 3B,628356,Jung Ho Kang,592612,Josh Osich,459964,Matt Joyce,L,Buster Posey,457763,6,7,7,False,2016-06-22,Stolen,3B,2016,2019,26.0
+11,5569,1B,2B,Stolen Base 2B,628356,Jung Ho Kang,592789,Noah Syndergaard,459964,Matt Joyce,R,Kevin Plawecki,608700,2,0,1,False,2016-06-08,Stolen,2B,2016,2019,26.0
+12,65,1B,,Caught Stealing 2B,628356,Jung Ho Kang,430599,Joe Blanton,543569,Brent Morel,R,Salvador Perez,521692,0,0,4,True,2015-07-21,Caught,2B,2015,2016,25.7
+13,151,1B,,Caught Stealing 2B,628356,Jung Ho Kang,608641,Tim Cooney,465041,Francisco Cervelli,L,Yadier Molina,425877,2,2,3,False,2015-07-12,Caught,2B,2015,2016,25.7
+14,208,1B,,Caught Stealing 2B,628356,Jung Ho Kang,453646,Carlos Villanueva,474568,Jordy Mercer,R,Yadier Molina,425877,5,2,5,False,2015-07-10,Caught,2B,2015,2016,25.7
+15,424,1B,2B,Stolen Base 2B,628356,Jung Ho Kang,622072,Alex Wood,516782,Starling Marte,L,A.J. Pierzynski,150229,0,0,1,False,2015-06-28,Stolen,2B,2015,2016,25.7
+16,1023,2B,3B,Stolen Base 3B,628356,Jung Ho Kang,448306,James Shields,465041,Francisco Cervelli,R,Derek Norris,519083,0,2,3,True,2015-05-29,Stolen,3B,2015,2016,25.7
+17,1191,2B,3B,Stolen Base 3B,628356,Jung Ho Kang,592789,Noah Syndergaard,476883,Pedro Alvarez,R,Kevin Plawecki,608700,4,1,6,False,2015-05-22,Stolen,3B,2015,2016,25.7
+18,1304,1B,2B,Stolen Base 2B,628356,Jung Ho Kang,452657,Jon Lester,430611,Corey Hart,L,David Ross,424325,2,1,4,True,2015-05-16,Stolen,2B,2015,2016,25.7
+19,1652,1B,2B,Stolen Base 2B,628356,Jung Ho Kang,429719,Edwin Jackson,455755,Chris Stewart,R,Miguel Montero,471083,1,6,7,True,2015-04-29,Stolen,2B,2015,2016,25.7

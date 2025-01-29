@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+374,2B,3B,Stolen Base 3B,115378,Darryl Hamilton,Brian Schneider,3,10,8,True,2000-09-14,Stolen,3B,2000
+716,1B,2B,Stolen Base 2B,115378,Darryl Hamilton,Mike Matheny,1,0,3,True,2000-09-01,Stolen,2B,2000
+72,1B,,Caught Stealing 2B,115378,Darryl Hamilton,Charles Johnson,0,2,2,True,2001-06-02,Caught,2B,2001
+1127,1B,2B,Stolen Base 2B,115378,Darryl Hamilton,Kelly Stinnett,2,0,3,True,2001-04-21,Stolen,2B,2001

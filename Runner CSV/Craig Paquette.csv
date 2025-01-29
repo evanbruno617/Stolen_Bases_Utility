@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1573,1B,2B,Stolen Base 2B,120214,Craig Paquette,Kelly Stinnett,7,3,7,False,2000-07-25,Stolen,2B,2000
+1883,1B,2B,Stolen Base 2B,120214,Craig Paquette,Doug Mirabelli,2,4,9,False,2000-07-07,Stolen,2B,2000
+3059,1B,,Caught Stealing 2B,120214,Craig Paquette,Mike Lieberthal,1,2,5,True,2000-05-16,Caught,2B,2000
+3091,1B,2B,Stolen Base 2B,120214,Craig Paquette,Todd Hundley,4,0,1,False,2000-05-14,Stolen,2B,2000
+3092,2B,,Caught Stealing 3B,120214,Craig Paquette,Todd Hundley,12,10,8,False,2000-05-14,Caught,3B,2000
+3673,1B,,Caught Stealing 2B,120214,Craig Paquette,Wiki Gonzalez,4,1,7,False,2000-04-19,Caught,2B,2000
+3963,1B,2B,Stolen Base 2B,120214,Craig Paquette,Henry Blanco,1,6,8,False,2000-04-07,Stolen,2B,2000
+90,1B,2B,Stolen Base 2B,120214,Craig Paquette,Jason LaRue,1,0,1,False,2001-06-02,Stolen,2B,2001
+1409,1B,,Caught Stealing 2B,120214,Craig Paquette,Damian Miller,0,2,2,True,2001-04-07,Caught,2B,2001
+3845,1B,2B,Stolen Base 2B,120214,Craig Paquette,Einar Díaz,3,5,9,False,2002-04-06,Stolen,2B,2002

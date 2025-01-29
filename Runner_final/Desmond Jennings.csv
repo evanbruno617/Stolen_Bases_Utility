@@ -1,0 +1,9 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1896,1B,,Caught Stealing 2B,457775,Desmond Jennings,501381,Michael Pineda,488852,Allan Dykstra,R,John Ryan Murphy,571974,2,1,1,False,2015-04-19,Caught,2B,2015,2016,27.6
+1,1898,1B,2B,Stolen Base 2B,457775,Desmond Jennings,501381,Michael Pineda,542921,Tim Beckham,R,John Ryan Murphy,571974,2,4,4,False,2015-04-19,Stolen,2B,2015,2016,27.6
+2,1954,1B,2B,Caught Stealing 3B,457775,Desmond Jennings,462136,Marco Estrada,542921,Tim Beckham,R,Russell Martin,431145,0,4,8,True,2015-04-16,Caught,3B,2015,2016,27.6
+3,1995,2B,3B,Stolen Base 3B,457775,Desmond Jennings,596057,Daniel Norris,425784,René Rivera,L,Russell Martin,431145,0,1,2,True,2015-04-14,Stolen,3B,2015,2016,27.6
+4,1998,1B,,Caught Stealing 2B,457775,Desmond Jennings,521230,Liam Hendriks,425784,René Rivera,R,Russell Martin,431145,2,2,6,True,2015-04-14,Caught,2B,2015,2016,27.6
+5,2014,2B,3B,Stolen Base 3B,457775,Desmond Jennings,285079,R.A. Dickey,595281,Kevin Kiermaier,R,Russell Martin,431145,0,0,2,True,2015-04-13,Stolen,3B,2015,2016,27.6
+6,2015,2B,3B,Stolen Base 3B,457775,Desmond Jennings,285079,R.A. Dickey,542921,Tim Beckham,R,Russell Martin,431145,0,0,4,True,2015-04-13,Stolen,3B,2015,2016,27.6
+7,2087,1B,2B,Stolen Base 2B,457775,Desmond Jennings,573109,AJ Ramos,523253,Logan Forsythe,R,Jeff Mathis,425772,8,8,8,True,2015-04-10,Stolen,2B,2015,2016,27.6

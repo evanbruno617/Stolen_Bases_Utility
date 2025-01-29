@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1142,1B,,Caught Stealing 2B,570482,Gio Urshela,Stephen Vogt,1,3,5,True,2015-07-30,Caught,2B,2015
+1345,2B,,Caught Stealing 3B,570482,Gio Urshela,Mike Zunino,2,3,7,True,2019-07-05,Caught,3B,2019
+2549,1B,2B,Stolen Base 2B,570482,Gio Urshela,Jonathan Lucroy,3,4,14,True,2019-04-22,Stolen,2B,2019
+1093,1B,2B,Stolen Base 2B,570482,Gio Urshela,Christian Vázquez,5,2,4,False,2020-08-01,Stolen,2B,2020
+2670,1B,2B,Stolen Base 2B,570482,Gio Urshela,Alejandro Kirk,1,3,9,True,2021-04-12,Stolen,2B,2021
+482,1B,2B,Stolen Base 2B,570482,Gio Urshela,Jose Trevino,2,2,6,True,2022-09-05,Stolen,2B,2022
+2934,1B,2B,Stolen Base 2B,570482,Gio Urshela,Nick Fortes,2,3,6,False,2023-05-26,Stolen,2B,2023
+3043,1B,2B,Stolen Base 2B,570482,Gio Urshela,Ryan Jeffers,3,2,8,False,2023-05-21,Stolen,2B,2023
+3384,1B,,Caught Stealing 2B,570482,Gio Urshela,Sandy León,0,0,2,False,2023-05-06,Caught,2B,2023
+4097,1B,2B,Stolen Base 2B,570482,Gio Urshela,Alejandro Kirk,2,1,4,False,2023-04-07,Stolen,2B,2023

@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+45,1B,2B,Stolen Base 2B,571862,Jeff Kobernus,Miguel Montero,0,0,3,True,2013-09-27,Stolen,2B,2013
+527,2B,3B,Stolen Base 3B,571862,Jeff Kobernus,Carlos Ruiz,2,3,8,True,2013-09-04,Stolen,3B,2013
+1889,1B,2B,Stolen Base 2B,571862,Jeff Kobernus,Wil Nieves,2,2,7,False,2013-06-27,Stolen,2B,2013
+2191,1B,,Caught Stealing 2B,571862,Jeff Kobernus,Yorvit Torrealba,0,0,1,True,2013-06-12,Caught,2B,2013

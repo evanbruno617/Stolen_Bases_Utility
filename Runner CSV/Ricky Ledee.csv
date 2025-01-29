@@ -1,0 +1,26 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+95,1B,,Caught Stealing 2B,133342,Ricky Ledee,Joe Oliver,3,0,4,True,2000-09-26,Caught,2B,2000
+364,1B,2B,Stolen Base 2B,133342,Ricky Ledee,Héctor Ortiz,2,1,5,False,2000-09-14,Stolen,2B,2000
+474,1B,2B,Stolen Base 2B,133342,Ricky Ledee,Gregg Zaun,4,6,9,True,2000-09-09,Stolen,2B,2000
+729,1B,,Caught Stealing 2B,133342,Ricky Ledee,Einar Díaz,2,0,1,False,2000-08-31,Caught,2B,2000
+806,1B,2B,Stolen Base 2B,133342,Ricky Ledee,Darrin Fletcher,1,4,4,False,2000-08-27,Stolen,2B,2000
+808,1B,2B,Stolen Base 2B,133342,Ricky Ledee,Darrin Fletcher,4,6,8,False,2000-08-27,Stolen,2B,2000
+943,1B,2B,Stolen Base 2B,133342,Ricky Ledee,Jorge Posada,0,4,1,True,2000-08-22,Stolen,2B,2000
+1112,1B,,Caught Stealing 2B,133342,Ricky Ledee,Jason Varitek,0,0,2,False,2000-08-13,Caught,2B,2000
+1381,1B,2B,Stolen Base 2B,133342,Ricky Ledee,Charles Johnson,4,2,5,False,2000-08-02,Stolen,2B,2000
+2217,1B,2B,Stolen Base 2B,133342,Ricky Ledee,Jason Varitek,0,2,2,True,2000-06-22,Stolen,2B,2000
+2539,1B,2B,Stolen Base 2B,133342,Ricky Ledee,Brian Schneider,2,1,3,True,2000-06-07,Stolen,2B,2000
+2561,1B,2B,Stolen Base 2B,133342,Ricky Ledee,Brian Schneider,0,1,3,True,2000-06-06,Stolen,2B,2000
+2765,1B,2B,Stolen Base 2B,133342,Ricky Ledee,Jason Varitek,0,0,5,False,2000-05-28,Stolen,2B,2000
+3213,1B,,Caught Stealing 2B,133342,Ricky Ledee,John Flaherty,3,3,7,False,2000-05-09,Caught,2B,2000
+3234,1B,2B,Stolen Base 2B,133342,Ricky Ledee,Mike DiFelice,0,0,1,False,2000-05-08,Stolen,2B,2000
+3392,1B,,Caught Stealing 2B,133342,Ricky Ledee,Einar Díaz,0,0,3,True,2000-05-02,Caught,2B,2000
+3432,1B,,Caught Stealing 2B,133342,Ricky Ledee,Darrin Fletcher,3,1,6,False,2000-04-30,Caught,2B,2000
+3481,1B,2B,Stolen Base 2B,133342,Ricky Ledee,Darrin Fletcher,0,0,2,False,2000-04-28,Stolen,2B,2000
+3989,1B,2B,Stolen Base 2B,133342,Ricky Ledee,Matt Walbeck,12,6,8,True,2000-04-05,Stolen,2B,2000
+615,1B,2B,Stolen Base 2B,133342,Ricky Ledee,Mike Piazza,4,5,7,True,2002-08-30,Stolen,2B,2002
+1540,1B,,Caught Stealing 2B,133342,Ricky Ledee,Michael Barrett,1,0,3,True,2002-07-16,Caught,2B,2002
+3744,1B,,Caught Stealing 2B,133342,Ricky Ledee,Henry Blanco,5,5,10,False,2002-04-10,Caught,2B,2002
+936,1B,2B,Stolen Base 2B,133342,Ricky Ledee,Mike Lieberthal,1,2,9,True,2004-08-15,Stolen,2B,2004
+2294,1B,2B,Stolen Base 2B,133342,Ricky Ledee,Johnny Estrada,2,5,2,True,2004-06-05,Stolen,2B,2004
+1917,1B,2B,Stolen Base 2B,133342,Ricky Ledee,Eric Munson,0,5,6,True,2007-07-05,Stolen,2B,2007

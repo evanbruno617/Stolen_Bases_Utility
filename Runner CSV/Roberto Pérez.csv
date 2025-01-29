@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2392,1B,2B,Caught Stealing 3B,547379,Roberto Pérez,Devin Mesoraco,3,2,6,False,2017-05-24,Caught,3B,2017
+2759,1B,,Caught Stealing 2B,547379,Roberto Pérez,Salvador Perez,0,0,3,True,2017-05-05,Caught,2B,2017
+995,1B,2B,Stolen Base 2B,547379,Roberto Pérez,Omar Narváez,1,1,5,True,2018-08-11,Stolen,2B,2018
+2454,1B,2B,Stolen Base 2B,547379,Roberto Pérez,Ryan Jeffers,2,2,7,False,2021-04-26,Stolen,2B,2021

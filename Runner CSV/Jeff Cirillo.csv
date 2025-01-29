@@ -1,0 +1,29 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+206,2B,3B,Stolen Base 3B,112297,Jeff Cirillo,Ben Davis,7,2,7,False,2000-09-21,Stolen,3B,2000
+340,1B,,Caught Stealing 2B,112297,Jeff Cirillo,Chad Kreuter,0,1,1,True,2000-09-15,Caught,2B,2000
+361,1B,2B,Caught Stealing 3B,112297,Jeff Cirillo,Chad Kreuter,3,5,6,True,2000-09-14,Caught,3B,2000
+691,1B,,Caught Stealing 2B,112297,Jeff Cirillo,Henry Blanco,3,2,6,False,2000-09-02,Caught,2B,2000
+860,1B,2B,Stolen Base 2B,112297,Jeff Cirillo,Jason Kendall,3,7,7,True,2000-08-26,Stolen,2B,2000
+1282,1B,2B,Stolen Base 2B,112297,Jeff Cirillo,Mike Lieberthal,0,0,2,False,2000-08-06,Stolen,2B,2000
+364,1B,,Caught Stealing 2B,112297,Jeff Cirillo,Paul Lo Duca,3,0,1,False,2001-05-21,Caught,2B,2001
+1036,1B,,Caught Stealing 2B,112297,Jeff Cirillo,Mark Johnson,0,0,4,True,2002-08-09,Caught,2B,2002
+1915,1B,2B,Stolen Base 2B,112297,Jeff Cirillo,Greg Myers,5,4,4,False,2002-06-27,Stolen,2B,2002
+1935,1B,2B,Stolen Base 2B,112297,Jeff Cirillo,Ramon Hernandez,1,0,8,False,2002-06-26,Stolen,2B,2002
+2491,1B,,Caught Stealing 2B,112297,Jeff Cirillo,Geronimo Gil,0,5,4,True,2002-05-31,Caught,2B,2002
+2858,1B,,Caught Stealing 2B,112297,Jeff Cirillo,Doug Mirabelli,3,6,9,True,2002-05-17,Caught,2B,2002
+3234,1B,2B,Stolen Base 2B,112297,Jeff Cirillo,Sandy Alomar Jr.,3,2,7,True,2002-05-01,Stolen,2B,2002
+3321,1B,2B,Stolen Base 2B,112297,Jeff Cirillo,Alberto Castillo,0,0,1,False,2002-04-27,Stolen,2B,2002
+3322,1B,2B,Stolen Base 2B,112297,Jeff Cirillo,Alberto Castillo,0,0,7,False,2002-04-27,Stolen,2B,2002
+3401,1B,2B,Stolen Base 2B,112297,Jeff Cirillo,Bengie Molina,3,8,7,False,2002-04-24,Stolen,2B,2002
+3490,1B,2B,Stolen Base 2B,112297,Jeff Cirillo,Bill Haselman,2,2,10,False,2002-04-20,Stolen,2B,2002
+3684,1B,2B,Stolen Base 2B,112297,Jeff Cirillo,Ivan Rodriguez,1,6,4,True,2002-04-12,Stolen,2B,2002
+1883,1B,,Caught Stealing 2B,112297,Jeff Cirillo,Bengie Molina,0,2,5,True,2003-06-24,Caught,2B,2003
+2446,1B,2B,Stolen Base 2B,112297,Jeff Cirillo,Mike DiFelice,0,4,2,True,2003-05-28,Stolen,2B,2003
+2137,2B,,Caught Stealing 3B,112297,Jeff Cirillo,Mike Lieberthal,0,1,3,True,2005-06-10,Caught,3B,2005
+2318,1B,2B,Stolen Base 2B,112297,Jeff Cirillo,Ramon Hernandez,1,1,9,True,2005-05-30,Stolen,2B,2005
+2445,1B,2B,Stolen Base 2B,112297,Jeff Cirillo,Todd Greene,5,0,2,False,2005-05-25,Stolen,2B,2005
+2448,1B,2B,Stolen Base 2B,112297,Jeff Cirillo,Todd Greene,6,1,4,False,2005-05-25,Stolen,2B,2005
+2459,1B,2B,Stolen Base 2B,112297,Jeff Cirillo,JD Closser,6,1,5,False,2005-05-24,Stolen,2B,2005
+3040,1B,,Caught Stealing 2B,112297,Jeff Cirillo,Yadier Molina,2,2,3,True,2005-04-26,Caught,2B,2005
+2025,1B,2B,Stolen Base 2B,112297,Jeff Cirillo,Ivan Rodriguez,1,1,2,True,2007-06-30,Stolen,2B,2007
+2744,1B,2B,Stolen Base 2B,112297,Jeff Cirillo,Jason Phillips,0,1,3,False,2007-05-27,Stolen,2B,2007

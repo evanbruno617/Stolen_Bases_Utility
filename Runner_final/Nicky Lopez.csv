@@ -1,0 +1,89 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,393,1B,,Caught Stealing 2B,670032,Nicky Lopez,471911,Carlos Carrasco,595956,Cam Gallagher,R,Roberto Pérez,547379,0,0,3,True,2020-09-09,Caught,2B,2020,2021,28.2
+1,614,1B,,Caught Stealing 2B,670032,Nicky Lopez,625643,Reynaldo López,595956,Cam Gallagher,R,Yasmani Grandal,518735,1,2,4,True,2020-08-28,Caught,2B,2020,2021,28.2
+2,956,1B,,Caught Stealing 2B,670032,Nicky Lopez,518715,Cory Gearrin,595956,Cam Gallagher,R,Alex Avila,488671,4,2,8,False,2020-08-09,Caught,2B,2020,2021,28.2
+3,969,1B,,Caught Stealing 2B,670032,Nicky Lopez,543606,Jake Odorizzi,621433,Brett Phillips,R,Mitch Garver,641598,1,0,2,False,2020-08-08,Caught,2B,2020,2021,28.2
+4,1207,1B,,Caught Stealing 2B,670032,Nicky Lopez,675916,James Karinchak,605490,Bubba Starling,R,Roberto Pérez,547379,2,3,10,True,2020-07-25,Caught,2B,2020,2021,28.2
+5,3236,1B,,Caught Stealing 2B,670032,Nicky Lopez,471911,Carlos Carrasco,595956,Cam Gallagher,R,Roberto Pérez,547379,0,0,3,True,2020-09-09,Caught,2B,2020,2021,28.2
+6,3457,1B,,Caught Stealing 2B,670032,Nicky Lopez,625643,Reynaldo López,595956,Cam Gallagher,R,Yasmani Grandal,518735,1,2,4,True,2020-08-28,Caught,2B,2020,2021,28.2
+7,3799,1B,,Caught Stealing 2B,670032,Nicky Lopez,518715,Cory Gearrin,595956,Cam Gallagher,R,Alex Avila,488671,4,2,8,False,2020-08-09,Caught,2B,2020,2021,28.2
+8,3812,1B,,Caught Stealing 2B,670032,Nicky Lopez,543606,Jake Odorizzi,621433,Brett Phillips,R,Mitch Garver,641598,1,0,2,False,2020-08-08,Caught,2B,2020,2021,28.2
+9,4050,1B,,Caught Stealing 2B,670032,Nicky Lopez,675916,James Karinchak,605490,Bubba Starling,R,Roberto Pérez,547379,2,3,10,True,2020-07-25,Caught,2B,2020,2021,28.2
+10,5160,1B,,Caught Stealing 2B,670032,Nicky Lopez,471911,Carlos Carrasco,595956,Cam Gallagher,R,Roberto Pérez,547379,0,0,3,True,2020-09-09,Caught,2B,2020,2021,28.2
+11,5381,1B,,Caught Stealing 2B,670032,Nicky Lopez,625643,Reynaldo López,595956,Cam Gallagher,R,Yasmani Grandal,518735,1,2,4,True,2020-08-28,Caught,2B,2020,2021,28.2
+12,5723,1B,,Caught Stealing 2B,670032,Nicky Lopez,518715,Cory Gearrin,595956,Cam Gallagher,R,Alex Avila,488671,4,2,8,False,2020-08-09,Caught,2B,2020,2021,28.2
+13,5736,1B,,Caught Stealing 2B,670032,Nicky Lopez,543606,Jake Odorizzi,621433,Brett Phillips,R,Mitch Garver,641598,1,0,2,False,2020-08-08,Caught,2B,2020,2021,28.2
+14,5974,1B,,Caught Stealing 2B,670032,Nicky Lopez,675916,James Karinchak,605490,Bubba Starling,R,Roberto Pérez,547379,2,3,10,True,2020-07-25,Caught,2B,2020,2021,28.2
+15,3093,2B,3B,Stolen Base 3B,670032,Nicky Lopez,592390,Heath Hembree,595956,Cam Gallagher,R,Christian Vázquez,543877,4,7,8,False,2019-06-06,Stolen,3B,2019,2020,27.7
+16,5936,2B,3B,Stolen Base 3B,670032,Nicky Lopez,592390,Heath Hembree,595956,Cam Gallagher,R,Christian Vázquez,543877,4,7,8,False,2019-06-06,Stolen,3B,2019,2020,27.7
+17,7860,2B,3B,Stolen Base 3B,670032,Nicky Lopez,592390,Heath Hembree,595956,Cam Gallagher,R,Christian Vázquez,543877,4,7,8,False,2019-06-06,Stolen,3B,2019,2020,27.7
+18,93,1B,2B,Stolen Base 2B,670032,Nicky Lopez,571800,Drew Hutchison,521692,Salvador Perez,R,Dustin Garneau,572863,0,1,6,True,2021-09-25,Stolen,2B,2021,2022,27.7
+19,274,1B,2B,Stolen Base 2B,670032,Nicky Lopez,433589,Yusmeiro Petit,521692,Salvador Perez,R,Sean Murphy,669221,8,7,6,False,2021-09-14,Stolen,2B,2021,2022,27.7
+20,397,2B,3B,Stolen Base 3B,670032,Nicky Lopez,656302,Dylan Cease,643217,Andrew Benintendi,R,Seby Zavala,664874,4,0,5,False,2021-09-05,Stolen,3B,2021,2022,27.7
+21,622,1B,2B,Stolen Base 2B,670032,Nicky Lopez,621219,Alec Mills,521692,Salvador Perez,R,Austin Romine,519222,0,1,3,True,2021-08-22,Stolen,2B,2021,2022,27.7
+22,646,1B,2B,Stolen Base 2B,670032,Nicky Lopez,621074,Michael Rucker,643217,Andrew Benintendi,R,Robinson Chirinos,455139,0,4,7,True,2021-08-21,Stolen,2B,2021,2022,27.7
+23,648,2B,3B,Stolen Base 3B,670032,Nicky Lopez,621074,Michael Rucker,572191,Michael A. Taylor,R,Robinson Chirinos,455139,0,4,7,True,2021-08-21,Stolen,3B,2021,2022,27.7
+24,682,1B,2B,Stolen Base 2B,670032,Nicky Lopez,425844,Zack Greinke,467793,Carlos Santana,R,Jason Castro,488771,1,0,6,False,2021-08-18,Stolen,2B,2021,2022,27.7
+25,683,2B,3B,Stolen Base 3B,670032,Nicky Lopez,608665,Kendall Graveman,467793,Carlos Santana,R,Jason Castro,488771,3,2,8,False,2021-08-18,Stolen,3B,2021,2022,27.7
+26,718,1B,2B,Stolen Base 2B,670032,Nicky Lopez,592773,Ryne Stanek,521692,Salvador Perez,R,Jason Castro,488771,4,4,7,False,2021-08-16,Stolen,2B,2021,2022,27.7
+27,719,2B,3B,Stolen Base 3B,670032,Nicky Lopez,592773,Ryne Stanek,467793,Carlos Santana,R,Jason Castro,488771,5,4,7,False,2021-08-16,Stolen,3B,2021,2022,27.7
+28,720,1B,2B,Stolen Base 2B,670032,Nicky Lopez,554340,Yimi García,521692,Salvador Perez,R,Jason Castro,488771,7,5,8,False,2021-08-16,Stolen,2B,2021,2022,27.7
+29,823,1B,2B,Stolen Base 2B,670032,Nicky Lopez,502154,Zack Britton,641531,Hunter Dozier,L,Kyle Higashioka,543309,3,3,9,False,2021-08-09,Stolen,2B,2021,2022,27.7
+30,837,1B,2B,Stolen Base 2B,670032,Nicky Lopez,621052,Alex Reyes,643217,Andrew Benintendi,R,Andrew Knizner,668800,5,6,9,True,2021-08-08,Stolen,2B,2021,2022,27.7
+31,1364,1B,2B,Stolen Base 2B,670032,Nicky Lopez,643377,Griffin Jax,593160,Whit Merrifield,R,Ryan Jeffers,680777,4,2,4,False,2021-07-03,Stolen,2B,2021,2022,27.7
+32,1378,1B,2B,Caught Stealing 3B,670032,Nicky Lopez,457918,J.A. Happ,593160,Whit Merrifield,L,Ben Rortvedt,666163,3,3,2,False,2021-07-02,Caught,3B,2021,2022,27.7
+33,1589,1B,2B,Stolen Base 2B,670032,Nicky Lopez,543135,Nathan Eovaldi,467793,Carlos Santana,R,Christian Vázquez,543877,4,2,4,False,2021-06-20,Stolen,2B,2021,2022,27.7
+34,1724,1B,2B,Stolen Base 2B,670032,Nicky Lopez,621076,James Kaprielian,467793,Carlos Santana,R,Sean Murphy,669221,4,0,3,True,2021-06-12,Stolen,2B,2021,2022,27.7
+35,2076,1B,2B,Stolen Base 2B,670032,Nicky Lopez,656420,J.P. Feyereisen,593160,Whit Merrifield,R,Omar Narváez,553882,4,3,7,False,2021-05-19,Stolen,2B,2021,2022,27.7
+36,2152,2B,3B,Stolen Base 3B,670032,Nicky Lopez,607074,Carlos Rodón,521692,Salvador Perez,L,Zack Collins,641470,0,4,4,True,2021-05-15,Stolen,3B,2021,2022,27.7
+37,2171,1B,2B,Stolen Base 2B,670032,Nicky Lopez,656725,Alex McRae,467793,Carlos Santana,R,Zack Collins,641470,2,6,7,True,2021-05-14,Stolen,2B,2021,2022,27.7
+38,2581,2B,3B,Stolen Base 3B,670032,Nicky Lopez,592662,Robbie Ray,467793,Carlos Santana,L,Alejandro Kirk,672386,0,0,2,False,2021-04-18,Stolen,3B,2021,2022,27.7
+39,2690,1B,2B,Stolen Base 2B,670032,Nicky Lopez,607481,Aaron Bummer,643217,Andrew Benintendi,L,Zack Collins,641470,1,2,8,True,2021-04-11,Stolen,2B,2021,2022,27.7
+40,2701,1B,2B,Stolen Base 2B,670032,Nicky Lopez,656725,Alex McRae,467793,Carlos Santana,R,Zack Collins,641470,2,6,7,True,2021-04-10,Stolen,2B,2021,2022,27.7
+41,2017,1B,2B,Stolen Base 2B,670032,Nicky Lopez,571800,Drew Hutchison,521692,Salvador Perez,R,Dustin Garneau,572863,0,1,6,True,2021-09-25,Stolen,2B,2021,2022,27.7
+42,2198,1B,2B,Stolen Base 2B,670032,Nicky Lopez,433589,Yusmeiro Petit,521692,Salvador Perez,R,Sean Murphy,669221,8,7,6,False,2021-09-14,Stolen,2B,2021,2022,27.7
+43,2321,2B,3B,Stolen Base 3B,670032,Nicky Lopez,656302,Dylan Cease,643217,Andrew Benintendi,R,Seby Zavala,664874,4,0,5,False,2021-09-05,Stolen,3B,2021,2022,27.7
+44,2546,1B,2B,Stolen Base 2B,670032,Nicky Lopez,621219,Alec Mills,521692,Salvador Perez,R,Austin Romine,519222,0,1,3,True,2021-08-22,Stolen,2B,2021,2022,27.7
+45,2570,1B,2B,Stolen Base 2B,670032,Nicky Lopez,621074,Michael Rucker,643217,Andrew Benintendi,R,Robinson Chirinos,455139,0,4,7,True,2021-08-21,Stolen,2B,2021,2022,27.7
+46,2572,2B,3B,Stolen Base 3B,670032,Nicky Lopez,621074,Michael Rucker,572191,Michael A. Taylor,R,Robinson Chirinos,455139,0,4,7,True,2021-08-21,Stolen,3B,2021,2022,27.7
+47,2606,1B,2B,Stolen Base 2B,670032,Nicky Lopez,425844,Zack Greinke,467793,Carlos Santana,R,Jason Castro,488771,1,0,6,False,2021-08-18,Stolen,2B,2021,2022,27.7
+48,2607,2B,3B,Stolen Base 3B,670032,Nicky Lopez,608665,Kendall Graveman,467793,Carlos Santana,R,Jason Castro,488771,3,2,8,False,2021-08-18,Stolen,3B,2021,2022,27.7
+49,2642,1B,2B,Stolen Base 2B,670032,Nicky Lopez,592773,Ryne Stanek,521692,Salvador Perez,R,Jason Castro,488771,4,4,7,False,2021-08-16,Stolen,2B,2021,2022,27.7
+50,2643,2B,3B,Stolen Base 3B,670032,Nicky Lopez,592773,Ryne Stanek,467793,Carlos Santana,R,Jason Castro,488771,5,4,7,False,2021-08-16,Stolen,3B,2021,2022,27.7
+51,2644,1B,2B,Stolen Base 2B,670032,Nicky Lopez,554340,Yimi García,521692,Salvador Perez,R,Jason Castro,488771,7,5,8,False,2021-08-16,Stolen,2B,2021,2022,27.7
+52,2747,1B,2B,Stolen Base 2B,670032,Nicky Lopez,502154,Zack Britton,641531,Hunter Dozier,L,Kyle Higashioka,543309,3,3,9,False,2021-08-09,Stolen,2B,2021,2022,27.7
+53,2761,1B,2B,Stolen Base 2B,670032,Nicky Lopez,621052,Alex Reyes,643217,Andrew Benintendi,R,Andrew Knizner,668800,5,6,9,True,2021-08-08,Stolen,2B,2021,2022,27.7
+54,3288,1B,2B,Stolen Base 2B,670032,Nicky Lopez,643377,Griffin Jax,593160,Whit Merrifield,R,Ryan Jeffers,680777,4,2,4,False,2021-07-03,Stolen,2B,2021,2022,27.7
+55,3302,1B,2B,Caught Stealing 3B,670032,Nicky Lopez,457918,J.A. Happ,593160,Whit Merrifield,L,Ben Rortvedt,666163,3,3,2,False,2021-07-02,Caught,3B,2021,2022,27.7
+56,3513,1B,2B,Stolen Base 2B,670032,Nicky Lopez,543135,Nathan Eovaldi,467793,Carlos Santana,R,Christian Vázquez,543877,4,2,4,False,2021-06-20,Stolen,2B,2021,2022,27.7
+57,3648,1B,2B,Stolen Base 2B,670032,Nicky Lopez,621076,James Kaprielian,467793,Carlos Santana,R,Sean Murphy,669221,4,0,3,True,2021-06-12,Stolen,2B,2021,2022,27.7
+58,4000,1B,2B,Stolen Base 2B,670032,Nicky Lopez,656420,J.P. Feyereisen,593160,Whit Merrifield,R,Omar Narváez,553882,4,3,7,False,2021-05-19,Stolen,2B,2021,2022,27.7
+59,4076,2B,3B,Stolen Base 3B,670032,Nicky Lopez,607074,Carlos Rodón,521692,Salvador Perez,L,Zack Collins,641470,0,4,4,True,2021-05-15,Stolen,3B,2021,2022,27.7
+60,4095,1B,2B,Stolen Base 2B,670032,Nicky Lopez,656725,Alex McRae,467793,Carlos Santana,R,Zack Collins,641470,2,6,7,True,2021-05-14,Stolen,2B,2021,2022,27.7
+61,4505,2B,3B,Stolen Base 3B,670032,Nicky Lopez,592662,Robbie Ray,467793,Carlos Santana,L,Alejandro Kirk,672386,0,0,2,False,2021-04-18,Stolen,3B,2021,2022,27.7
+62,4614,1B,2B,Stolen Base 2B,670032,Nicky Lopez,607481,Aaron Bummer,643217,Andrew Benintendi,L,Zack Collins,641470,1,2,8,True,2021-04-11,Stolen,2B,2021,2022,27.7
+63,4625,1B,2B,Stolen Base 2B,670032,Nicky Lopez,656725,Alex McRae,467793,Carlos Santana,R,Zack Collins,641470,2,6,7,True,2021-04-10,Stolen,2B,2021,2022,27.7
+64,268,1B,2B,Stolen Base 2B,670032,Nicky Lopez,605400,Aaron Nola,660670,Ronald Acuña Jr.,R,Garrett Stubbs,596117,2,4,5,False,2023-09-20,Stolen,2B,2023,2024,27.1
+65,1160,1B,2B,Stolen Base 2B,670032,Nicky Lopez,657376,Clarke Schmidt,660670,Ronald Acuña Jr.,R,Kyle Higashioka,543309,3,2,2,False,2023-08-14,Stolen,2B,2023,2024,27.1
+66,1533,1B,2B,Stolen Base 2B,670032,Nicky Lopez,661395,Jhoan Duran,672580,Maikel Garcia,R,Ryan Jeffers,680777,4,5,10,False,2023-07-28,Stolen,2B,2023,2024,27.1
+67,2174,1B,,Caught Stealing 2B,670032,Nicky Lopez,668909,Gavin Williams,666023,Freddy Fermin,R,Bo Naylor,666310,0,0,3,False,2023-06-27,Caught,2B,2023,2024,27.1
+68,2177,1B,,Caught Stealing 2B,670032,Nicky Lopez,663986,Trevor Stephan,666023,Freddy Fermin,R,Bo Naylor,666310,1,0,8,False,2023-06-27,Caught,2B,2023,2024,27.1
+69,2872,1B,2B,Stolen Base 2B,670032,Nicky Lopez,571927,Steven Matz,671221,Drew Waters,L,Willson Contreras,575929,0,3,8,True,2023-05-29,Stolen,2B,2023,2024,27.1
+70,3580,1B,2B,Stolen Base 2B,670032,Nicky Lopez,641927,Bailey Ober,677951,Bobby Witt Jr.,R,Ryan Jeffers,680777,1,1,5,True,2023-04-29,Stolen,2B,2023,2024,27.1
+71,4199,1B,2B,Stolen Base 2B,670032,Nicky Lopez,621244,José Berríos,681987,Nate Eaton,R,Alejandro Kirk,672386,7,1,6,False,2023-04-03,Stolen,2B,2023,2024,27.1
+72,4682,1B,2B,Stolen Base 2B,670032,Nicky Lopez,605400,Aaron Nola,660670,Ronald Acuña Jr.,R,Garrett Stubbs,596117,2,4,5,False,2023-09-20,Stolen,2B,2023,2024,27.1
+73,5574,1B,2B,Stolen Base 2B,670032,Nicky Lopez,657376,Clarke Schmidt,660670,Ronald Acuña Jr.,R,Kyle Higashioka,543309,3,2,2,False,2023-08-14,Stolen,2B,2023,2024,27.1
+74,5947,1B,2B,Stolen Base 2B,670032,Nicky Lopez,661395,Jhoan Duran,672580,Maikel Garcia,R,Ryan Jeffers,680777,4,5,10,False,2023-07-28,Stolen,2B,2023,2024,27.1
+75,6588,1B,,Caught Stealing 2B,670032,Nicky Lopez,668909,Gavin Williams,666023,Freddy Fermin,R,Bo Naylor,666310,0,0,3,False,2023-06-27,Caught,2B,2023,2024,27.1
+76,6591,1B,,Caught Stealing 2B,670032,Nicky Lopez,663986,Trevor Stephan,666023,Freddy Fermin,R,Bo Naylor,666310,1,0,8,False,2023-06-27,Caught,2B,2023,2024,27.1
+77,7286,1B,2B,Stolen Base 2B,670032,Nicky Lopez,571927,Steven Matz,671221,Drew Waters,L,Willson Contreras,575929,0,3,8,True,2023-05-29,Stolen,2B,2023,2024,27.1
+78,7994,1B,2B,Stolen Base 2B,670032,Nicky Lopez,641927,Bailey Ober,677951,Bobby Witt Jr.,R,Ryan Jeffers,680777,1,1,5,True,2023-04-29,Stolen,2B,2023,2024,27.1
+79,8613,1B,2B,Stolen Base 2B,670032,Nicky Lopez,621244,José Berríos,681987,Nate Eaton,R,Alejandro Kirk,672386,7,1,6,False,2023-04-03,Stolen,2B,2023,2024,27.1
+80,2,1B,2B,Stolen Base 2B,670032,Nicky Lopez,666201,Alek Manoah,686681,Michael Massey,R,Alejandro Kirk,672386,4,1,5,True,2022-07-15,Stolen,2B,2022,2023,27.7
+81,18,1B,,Caught Stealing 2B,670032,Nicky Lopez,475479,David Phelps,665861,Sebastián  Rivero,R,Danny Jansen,643376,1,2,7,True,2022-07-14,Caught,2B,2022,2023,27.7
+82,267,1B,,Caught Stealing 2B,670032,Nicky Lopez,669373,Tarik Skubal,595956,Cam Gallagher,L,Tucker Barnhart,571466,0,3,2,True,2022-07-03,Caught,2B,2022,2023,27.7
+83,475,1B,2B,Stolen Base 2B,670032,Nicky Lopez,592789,Noah Syndergaard,593160,Whit Merrifield,R,Kurt Suzuki,435559,1,2,5,True,2022-06-20,Stolen,2B,2022,2023,27.7
+84,953,1B,2B,Stolen Base 2B,670032,Nicky Lopez,543056,Danny Coulombe,643217,Andrew Benintendi,L,Ryan Jeffers,680777,4,4,4,True,2022-05-27,Stolen,2B,2022,2023,27.7
+85,1090,1B,2B,Stolen Base 2B,670032,Nicky Lopez,608337,Lucas Giolito,593160,Whit Merrifield,R,Yasmani Grandal,518735,1,1,2,False,2022-05-18,Stolen,2B,2022,2023,27.7
+86,1126,1B,2B,Stolen Base 2B,670032,Nicky Lopez,656302,Dylan Cease,643217,Andrew Benintendi,R,Reese McGuire,624512,0,0,3,False,2022-05-17,Stolen,2B,2022,2023,27.7
+87,1212,1B,2B,Stolen Base 2B,670032,Nicky Lopez,519043,Matt Moore,643217,Andrew Benintendi,L,Sam Huff,669087,1,4,9,True,2022-05-11,Stolen,2B,2022,2023,27.7

@@ -1,0 +1,11 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,919,1B,2B,Stolen Base 2B,676059,Jordan Westburg,608718,Brent Suter,656775,Cedric Mullins,L,Elias Díaz,553869,5,4,8,False,2023-08-25,Stolen,2B,2023,2024,29.0
+1,1191,1B,2B,Stolen Base 2B,676059,Jordan Westburg,669923,George Kirby,683002,Gunnar Henderson,R,Tom Murphy,608596,0,0,9,True,2023-08-12,Stolen,2B,2023,2024,29.0
+2,1485,1B,2B,Stolen Base 2B,676059,Jordan Westburg,622663,Luis Severino,543510,James McCann,R,Kyle Higashioka,543309,6,0,1,False,2023-07-30,Stolen,2B,2023,2024,29.0
+3,1671,1B,2B,Stolen Base 2B,676059,Jordan Westburg,664126,Pete Fairbanks,669720,Austin Hays,R,René Pinto,650907,5,6,9,True,2023-07-22,Stolen,2B,2023,2024,29.0
+4,2193,1B,,Caught Stealing 2B,676059,Jordan Westburg,673858,Jake Wong,663630,Ryan McKenna,R,Curt Casali,592200,7,3,7,False,2023-06-26,Caught,2B,2023,2024,29.0
+5,5333,1B,2B,Stolen Base 2B,676059,Jordan Westburg,608718,Brent Suter,656775,Cedric Mullins,L,Elias Díaz,553869,5,4,8,False,2023-08-25,Stolen,2B,2023,2024,29.0
+6,5605,1B,2B,Stolen Base 2B,676059,Jordan Westburg,669923,George Kirby,683002,Gunnar Henderson,R,Tom Murphy,608596,0,0,9,True,2023-08-12,Stolen,2B,2023,2024,29.0
+7,5899,1B,2B,Stolen Base 2B,676059,Jordan Westburg,622663,Luis Severino,543510,James McCann,R,Kyle Higashioka,543309,6,0,1,False,2023-07-30,Stolen,2B,2023,2024,29.0
+8,6085,1B,2B,Stolen Base 2B,676059,Jordan Westburg,664126,Pete Fairbanks,669720,Austin Hays,R,René Pinto,650907,5,6,9,True,2023-07-22,Stolen,2B,2023,2024,29.0
+9,6607,1B,,Caught Stealing 2B,676059,Jordan Westburg,673858,Jake Wong,663630,Ryan McKenna,R,Curt Casali,592200,7,3,7,False,2023-06-26,Caught,2B,2023,2024,29.0

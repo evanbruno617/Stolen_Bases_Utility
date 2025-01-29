@@ -1,0 +1,5 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,,Caught Stealing 2B,605119,Brian Anderson,Brandon Bantz,3,5,3,True,2015-04-04,Caught,2B,2015
+1B,2B,Stolen Base 2B,400085,Ichiro Suzuki,Brandon Bantz,3,6,4,True,2015-04-04,Stolen,2B,2015
+1B,2B,Stolen Base 2B,429664,Robinson Canó,Brandon Bantz,0,1,1,True,2013-06-08,Stolen,2B,2013
+1B,2B,Stolen Base 2B,434624,Jayson Nix,Brandon Bantz,1,3,7,True,2013-06-08,Stolen,2B,2013

@@ -1,0 +1,23 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1053,1B,2B,Stolen Base 2B,614173,Franchy Cordero,592858,Rowan Wick,460086,Alex Gordon,R,Willson Contreras,575929,2,0,9,True,2020-08-03,Stolen,2B,2020,2021,28.6
+1,3896,1B,2B,Stolen Base 2B,614173,Franchy Cordero,592858,Rowan Wick,460086,Alex Gordon,R,Willson Contreras,575929,2,0,9,True,2020-08-03,Stolen,2B,2020,2021,28.6
+2,5820,1B,2B,Stolen Base 2B,614173,Franchy Cordero,592858,Rowan Wick,460086,Alex Gordon,R,Willson Contreras,575929,2,0,9,True,2020-08-03,Stolen,2B,2020,2021,28.6
+3,4176,1B,2B,Stolen Base 2B,614173,Franchy Cordero,425844,Zack Greinke,665487,Fernando Tatis Jr.,R,John Ryan Murphy,571974,2,0,1,False,2019-04-02,Stolen,2B,2019,2020,27.4
+4,7019,1B,2B,Stolen Base 2B,614173,Franchy Cordero,425844,Zack Greinke,665487,Fernando Tatis Jr.,R,John Ryan Murphy,571974,2,0,1,False,2019-04-02,Stolen,2B,2019,2020,27.4
+5,8943,1B,2B,Stolen Base 2B,614173,Franchy Cordero,425844,Zack Greinke,665487,Fernando Tatis Jr.,R,John Ryan Murphy,571974,2,0,1,False,2019-04-02,Stolen,2B,2019,2020,27.4
+6,1063,1B,,Caught Stealing 2B,614173,Franchy Cordero,592791,Jameson Taillon,656308,Michael Chavis,R,Rob Brantly,542963,3,0,7,False,2021-07-24,Caught,2B,2021,2022,28.6
+7,2572,1B,2B,Stolen Base 2B,614173,Franchy Cordero,606213,Yermín Mercedes,666915,Bobby Dalbec,R,Zack Collins,641470,10,4,7,False,2021-04-19,Stolen,2B,2021,2022,28.6
+8,2987,1B,,Caught Stealing 2B,614173,Franchy Cordero,592791,Jameson Taillon,656308,Michael Chavis,R,Rob Brantly,542963,3,0,7,False,2021-07-24,Caught,2B,2021,2022,28.6
+9,4496,1B,2B,Stolen Base 2B,614173,Franchy Cordero,606213,Yermín Mercedes,666915,Bobby Dalbec,R,Zack Collins,641470,10,4,7,False,2021-04-19,Stolen,2B,2021,2022,28.6
+10,271,1B,,Caught Stealing 2B,614173,Franchy Cordero,643410,Mark Leiter Jr.,608700,Kevin Plawecki,R,Yan Gomes,543228,0,0,2,True,2022-07-02,Caught,2B,2022,2023,27.4
+11,322,1B,2B,Stolen Base 2B,614173,Franchy Cordero,666201,Alek Manoah,570560,Yolmer Sánchez,R,Alejandro Kirk,672386,1,0,3,True,2022-06-29,Stolen,2B,2022,2023,27.4
+12,323,1B,2B,Stolen Base 2B,614173,Franchy Cordero,605447,Jordan Romano,598265,Jackie Bradley Jr.,R,Alejandro Kirk,672386,3,3,9,True,2022-06-29,Stolen,2B,2022,2023,27.4
+13,669,1B,2B,Stolen Base 2B,614173,Franchy Cordero,594835,Marco Gonzales,543877,Christian Vázquez,L,Cal Raleigh,663728,0,2,3,True,2022-06-10,Stolen,2B,2022,2023,27.4
+14,68,1B,2B,Stolen Base 2B,614173,Franchy Cordero,606625,Reyes Moronta,517369,José Pirela,R,Buster Posey,457763,3,5,7,True,2018-04-30,Stolen,2B,2018,2019,28.8
+15,137,1B,,Caught Stealing 2B,614173,Franchy Cordero,594798,Jacob deGrom,517369,José Pirela,R,Jose Lobaton,446653,0,1,2,False,2018-04-27,Caught,2B,2018,2019,28.8
+16,311,1B,2B,Stolen Base 2B,614173,Franchy Cordero,445276,Kenley Jansen,452104,Chase Headley,R,Yasmani Grandal,518735,3,3,9,False,2018-04-17,Stolen,2B,2018,2019,28.8
+17,354,1B,2B,Stolen Base 2B,614173,Franchy Cordero,571882,Derek Law,570799,Christian Villanueva,R,Nick Hundley,460026,7,1,6,False,2018-04-15,Stolen,2B,2018,2019,28.8
+18,2844,1B,,Caught Stealing 2B,614173,Franchy Cordero,543022,Tyler Chatwood,605486,Cory Spangenberg,R,Tony Wolters,547172,0,0,2,False,2017-06-03,Caught,2B,2017,2018,29.1
+19,2852,1B,2B,Stolen Base 2B,614173,Franchy Cordero,445197,Mike Dunn,595978,Austin Hedges,L,Tony Wolters,547172,8,5,7,False,2017-06-02,Stolen,2B,2017,2018,29.1
+20,2216,1B,,Caught Stealing 2B,614173,Franchy Cordero,543022,Tyler Chatwood,605486,Cory Spangenberg,R,Tony Wolters,547172,0,0,2,False,2017-06-03,Caught,2B,2017,2018,29.1
+21,2224,1B,2B,Stolen Base 2B,614173,Franchy Cordero,445197,Mike Dunn,595978,Austin Hedges,L,Tony Wolters,547172,8,5,7,False,2017-06-02,Stolen,2B,2017,2018,29.1

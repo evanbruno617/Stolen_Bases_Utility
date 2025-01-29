@@ -1,0 +1,9 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,6630,2B,3B,Stolen Base 3B,461858,Trevor Plouffe,519455,Jordan Zimmermann,592696,Eddie Rosario,R,Jarrod Saltalamacchia,457454,8,4,4,True,2016-05-16,Stolen,3B,2016,2017,26.9
+1,7463,1B,,Caught Stealing 2B,461858,Trevor Plouffe,605452,Joe Ross,592696,Eddie Rosario,R,Jose Lobaton,446653,0,1,1,True,2016-04-02,Caught,2B,2016,2017,26.9
+2,2595,2B,3B,Stolen Base 3B,461858,Trevor Plouffe,519455,Jordan Zimmermann,592696,Eddie Rosario,R,Jarrod Saltalamacchia,457454,8,4,4,True,2016-05-16,Stolen,3B,2016,2017,26.9
+3,3428,1B,,Caught Stealing 2B,461858,Trevor Plouffe,605452,Joe Ross,592696,Eddie Rosario,R,Jose Lobaton,446653,0,1,1,True,2016-04-02,Caught,2B,2016,2017,26.9
+4,6002,2B,3B,Stolen Base 3B,461858,Trevor Plouffe,519455,Jordan Zimmermann,592696,Eddie Rosario,R,Jarrod Saltalamacchia,457454,8,4,4,True,2016-05-16,Stolen,3B,2016,2017,26.9
+5,6835,1B,,Caught Stealing 2B,461858,Trevor Plouffe,605452,Joe Ross,592696,Eddie Rosario,R,Jose Lobaton,446653,0,1,1,True,2016-04-02,Caught,2B,2016,2017,26.9
+6,182,2B,3B,Stolen Base 3B,461858,Trevor Plouffe,430580,Alfredo Simon,543305,Aaron Hicks,R,James McCann,543510,6,0,3,False,2015-07-11,Stolen,3B,2015,2016,26.2
+7,420,1B,2B,Stolen Base 2B,461858,Trevor Plouffe,571666,Mike Fiers,435559,Kurt Suzuki,R,Jonathan Lucroy,518960,0,0,7,True,2015-06-28,Stolen,2B,2015,2016,26.2

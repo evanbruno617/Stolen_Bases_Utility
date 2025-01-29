@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1340,3B,,Caught Stealing Home,592200,Curt Casali,Yadier Molina,0,0,3,False,2018-07-24,Caught,Home,2018
+1949,1B,,Caught Stealing 2B,592200,Curt Casali,Francisco Cervelli,4,6,8,True,2018-06-17,Caught,2B,2018
+17,1B,2B,Stolen Base 2B,592200,Curt Casali,Alex Avila,2,3,10,True,2020-09-27,Stolen,2B,2020
+245,1B,2B,Stolen Base 2B,592200,Curt Casali,John Ryan Murphy,1,0,5,False,2020-09-16,Stolen,2B,2020

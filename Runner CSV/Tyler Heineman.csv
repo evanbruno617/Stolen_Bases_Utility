@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1180,1B,2B,Stolen Base 2B,623168,Tyler Heineman,Will Smith,0,0,2,True,2020-07-26,Stolen,2B,2020
+1974,1B,2B,Stolen Base 2B,623168,Tyler Heineman,William Contreras,2,2,5,True,2022-06-11,Stolen,2B,2022
+4175,1B,2B,Stolen Base 2B,623168,Tyler Heineman,Reese McGuire,1,4,7,True,2023-04-04,Stolen,2B,2023

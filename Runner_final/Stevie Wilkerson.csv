@@ -1,0 +1,19 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1309,1B,2B,Stolen Base 2B,592859,Stevie Wilkerson,605155,Colten Brewer,642851,Austin Wynns,R,Sandy León,506702,4,8,7,True,2019-09-28,Stolen,2B,2019,2021,27.2
+1,2459,1B,,Caught Stealing 2B,592859,Stevie Wilkerson,607200,Erick Fedde,547004,Rio Ruiz,R,Yan Gomes,543228,0,1,3,False,2019-07-17,Caught,2B,2019,2021,27.2
+2,2869,1B,2B,Stolen Base 2B,592859,Stevie Wilkerson,433589,Yusmeiro Petit,542979,Keon Broxton,R,Josh Phegley,572033,4,2,7,True,2019-06-19,Stolen,2B,2019,2021,27.2
+3,3294,1B,,Caught Stealing 2B,592859,Stevie Wilkerson,608032,Carlos Estévez,621006,Richie Martin,R,Chris Iannetta,455104,6,9,9,True,2019-05-25,Caught,2B,2019,2021,27.2
+4,3315,1B,,Caught Stealing 2B,592859,Stevie Wilkerson,445197,Mike Dunn,596105,Dwight Smith Jr.,L,Tony Wolters,547172,3,6,7,True,2019-05-24,Caught,2B,2019,2021,27.2
+5,3742,1B,2B,Stolen Base 2B,592859,Stevie Wilkerson,621244,José Berríos,600474,Pedro Severino,R,Jason Castro,488771,1,1,5,True,2019-04-27,Stolen,2B,2019,2021,27.2
+6,4152,1B,2B,Stolen Base 2B,592859,Stevie Wilkerson,605155,Colten Brewer,642851,Austin Wynns,R,Sandy León,506702,4,8,7,True,2019-09-28,Stolen,2B,2019,2021,27.2
+7,5302,1B,,Caught Stealing 2B,592859,Stevie Wilkerson,607200,Erick Fedde,547004,Rio Ruiz,R,Yan Gomes,543228,0,1,3,False,2019-07-17,Caught,2B,2019,2021,27.2
+8,5712,1B,2B,Stolen Base 2B,592859,Stevie Wilkerson,433589,Yusmeiro Petit,542979,Keon Broxton,R,Josh Phegley,572033,4,2,7,True,2019-06-19,Stolen,2B,2019,2021,27.2
+9,6137,1B,,Caught Stealing 2B,592859,Stevie Wilkerson,608032,Carlos Estévez,621006,Richie Martin,R,Chris Iannetta,455104,6,9,9,True,2019-05-25,Caught,2B,2019,2021,27.2
+10,6158,1B,,Caught Stealing 2B,592859,Stevie Wilkerson,445197,Mike Dunn,596105,Dwight Smith Jr.,L,Tony Wolters,547172,3,6,7,True,2019-05-24,Caught,2B,2019,2021,27.2
+11,6585,1B,2B,Stolen Base 2B,592859,Stevie Wilkerson,621244,José Berríos,600474,Pedro Severino,R,Jason Castro,488771,1,1,5,True,2019-04-27,Stolen,2B,2019,2021,27.2
+12,6076,1B,2B,Stolen Base 2B,592859,Stevie Wilkerson,605155,Colten Brewer,642851,Austin Wynns,R,Sandy León,506702,4,8,7,True,2019-09-28,Stolen,2B,2019,2021,27.2
+13,7226,1B,,Caught Stealing 2B,592859,Stevie Wilkerson,607200,Erick Fedde,547004,Rio Ruiz,R,Yan Gomes,543228,0,1,3,False,2019-07-17,Caught,2B,2019,2021,27.2
+14,7636,1B,2B,Stolen Base 2B,592859,Stevie Wilkerson,433589,Yusmeiro Petit,542979,Keon Broxton,R,Josh Phegley,572033,4,2,7,True,2019-06-19,Stolen,2B,2019,2021,27.2
+15,8061,1B,,Caught Stealing 2B,592859,Stevie Wilkerson,608032,Carlos Estévez,621006,Richie Martin,R,Chris Iannetta,455104,6,9,9,True,2019-05-25,Caught,2B,2019,2021,27.2
+16,8082,1B,,Caught Stealing 2B,592859,Stevie Wilkerson,445197,Mike Dunn,596105,Dwight Smith Jr.,L,Tony Wolters,547172,3,6,7,True,2019-05-24,Caught,2B,2019,2021,27.2
+17,8509,1B,2B,Stolen Base 2B,592859,Stevie Wilkerson,621244,José Berríos,600474,Pedro Severino,R,Jason Castro,488771,1,1,5,True,2019-04-27,Stolen,2B,2019,2021,27.2

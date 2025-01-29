@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+322,1B,2B,Stolen Base 2B,120747,Todd Pratt,Michael Barrett,0,0,2,True,2001-05-23,Stolen,2B,2001
+1843,1B,2B,Stolen Base 2B,120747,Todd Pratt,Mike Piazza,6,1,5,False,2002-07-01,Stolen,2B,2002
+3632,1B,2B,Stolen Base 2B,120747,Todd Pratt,Corky Miller,3,0,6,False,2002-04-14,Stolen,2B,2002

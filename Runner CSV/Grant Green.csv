@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+122,1B,,Caught Stealing 2B,502205,Grant Green,Derek Norris,0,4,5,True,2014-09-24,Caught,2B,2014
+1744,1B,,Caught Stealing 2B,502205,Grant Green,Tyler Flowers,2,2,9,True,2014-07-02,Caught,2B,2014
+2688,1B,,Caught Stealing 2B,502205,Grant Green,José Molina,6,2,8,False,2014-05-18,Caught,2B,2014
+2782,1B,2B,Stolen Base 2B,502205,Grant Green,Carlos Ruiz,3,4,8,True,2014-05-13,Stolen,2B,2014
+2858,1B,,Caught Stealing 2B,502205,Grant Green,Erik Kratz,1,4,6,True,2014-05-10,Caught,2B,2014
+566,1B,,Caught Stealing 2B,502205,Grant Green,Josh Phegley,5,3,4,True,2015-08-31,Caught,2B,2015

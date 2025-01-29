@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+268,1B,,Caught Stealing 2B,435078,Joaquin Arias,Brandon Inge,7,5,6,False,2008-09-15,Caught,2B,2008
+386,1B,2B,Stolen Base 2B,435078,Joaquin Arias,Jamie Burke,0,0,1,True,2008-09-09,Stolen,2B,2008
+625,1B,2B,Stolen Base 2B,435078,Joaquin Arias,Jeff Mathis,0,1,6,True,2008-08-29,Stolen,2B,2008
+731,1B,2B,Stolen Base 2B,435078,Joaquin Arias,Kelly Shoppach,0,0,3,False,2008-08-24,Stolen,2B,2008
+753,1B,2B,Stolen Base 2B,435078,Joaquin Arias,Sal Fasano,7,1,4,False,2008-08-23,Stolen,2B,2008
+3745,1B,2B,Stolen Base 2B,435078,Joaquin Arias,Mike Redmond,1,0,5,True,2010-04-12,Stolen,2B,2010
+53,1B,2B,Stolen Base 2B,435078,Joaquin Arias,John Baker,1,3,9,True,2012-09-28,Stolen,2B,2012
+2370,1B,2B,Stolen Base 2B,435078,Joaquin Arias,Bobby Wilson,2,3,4,True,2012-06-18,Stolen,2B,2012
+2830,1B,2B,Stolen Base 2B,435078,Joaquin Arias,Miguel Montero,3,1,8,False,2012-05-29,Stolen,2B,2012
+2962,1B,2B,Stolen Base 2B,435078,Joaquin Arias,Brett Hayes,1,5,6,True,2012-05-24,Stolen,2B,2012
+2991,1B,2B,Stolen Base 2B,435078,Joaquin Arias,Jonathan Lucroy,8,5,8,True,2012-05-23,Stolen,2B,2012
+2458,1B,2B,Stolen Base 2B,435078,Joaquin Arias,Derek Norris,5,2,8,False,2013-05-30,Stolen,2B,2013
+1655,1B,2B,Stolen Base 2B,435078,Joaquin Arias,Stephen Vogt,0,0,3,True,2014-07-07,Stolen,2B,2014
+2923,1B,2B,Stolen Base 2B,435078,Joaquin Arias,A.J. Ellis,1,2,5,True,2015-04-28,Stolen,2B,2015

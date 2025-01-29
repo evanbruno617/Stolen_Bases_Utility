@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1176,1B,2B,Stolen Base 2B,112107,Alberto Castillo,Jorge Posada,3,0,2,False,2001-04-18,Stolen,2B,2001
+681,1B,,Caught Stealing 2B,112107,Alberto Castillo,Miguel Olivo,2,3,7,True,2004-08-28,Caught,2B,2004
+852,1B,,Caught Stealing 2B,112107,Alberto Castillo,Miguel Olivo,2,3,7,True,2004-08-19,Caught,2B,2004
+3192,1B,2B,Stolen Base 2B,112107,Alberto Castillo,Victor Martinez,3,1,2,False,2005-04-19,Stolen,2B,2005

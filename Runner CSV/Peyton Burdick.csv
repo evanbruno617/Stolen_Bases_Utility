@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+681,1B,2B,Stolen Base 2B,680814,Peyton Burdick,Shea Langeliers,2,0,8,True,2022-08-24,Stolen,2B,2022
+3244,2B,3B,Stolen Base 3B,680814,Peyton Burdick,Curt Casali,0,0,2,False,2023-05-13,Stolen,3B,2023

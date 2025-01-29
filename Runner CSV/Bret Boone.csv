@@ -1,0 +1,71 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1479,1B,,Caught Stealing 2B,111214,Bret Boone,Jason Kendall,3,1,4,True,2000-07-29,Caught,2B,2000
+1722,1B,,Caught Stealing 2B,111214,Bret Boone,Bengie Molina,0,0,2,False,2000-07-18,Caught,2B,2000
+1826,1B,2B,Stolen Base 2B,111214,Bret Boone,Joe Oliver,0,1,5,False,2000-07-13,Stolen,2B,2000
+1920,1B,2B,Stolen Base 2B,111214,Bret Boone,Todd Hundley,5,5,7,False,2000-07-05,Stolen,2B,2000
+2239,1B,2B,Stolen Base 2B,111214,Bret Boone,Kelly Stinnett,0,2,5,True,2000-06-20,Stolen,2B,2000
+2734,1B,,Caught Stealing 2B,111214,Bret Boone,Henry Blanco,0,2,4,False,2000-05-30,Caught,2B,2000
+2777,1B,2B,Stolen Base 2B,111214,Bret Boone,Brian Schneider,3,3,6,False,2000-05-28,Stolen,2B,2000
+2870,1B,2B,Stolen Base 2B,111214,Bret Boone,Mike Piazza,4,2,5,False,2000-05-24,Stolen,2B,2000
+3003,1B,,Caught Stealing 2B,111214,Bret Boone,Mike Redmond,2,6,9,True,2000-05-18,Caught,2B,2000
+3056,1B,2B,Stolen Base 2B,111214,Bret Boone,Mike Redmond,1,2,2,True,2000-05-16,Stolen,2B,2000
+3223,1B,2B,Stolen Base 2B,111214,Bret Boone,Eddie Taubensee,1,0,4,True,2000-05-09,Stolen,2B,2000
+3277,1B,2B,Stolen Base 2B,111214,Bret Boone,Kelly Stinnett,0,1,2,True,2000-05-06,Stolen,2B,2000
+1249,1B,2B,Stolen Base 2B,111214,Bret Boone,Bengie Molina,0,0,2,True,2001-04-15,Stolen,2B,2001
+374,3B,,Caught Stealing Home,111214,Bret Boone,Todd Greene,3,3,9,True,2002-09-11,Caught,Home,2002
+463,1B,2B,Stolen Base 2B,111214,Bret Boone,A.J. Hinch,8,11,11,True,2002-09-08,Stolen,2B,2002
+464,2B,3B,Stolen Base 3B,111214,Bret Boone,A.J. Hinch,8,11,11,True,2002-09-08,Stolen,3B,2002
+1156,2B,3B,Stolen Base 3B,111214,Bret Boone,Eddie Pérez,3,0,1,False,2002-08-03,Stolen,3B,2002
+1204,1B,2B,Stolen Base 2B,111214,Bret Boone,Brandon Inge,4,2,7,False,2002-07-31,Stolen,2B,2002
+1465,1B,2B,Stolen Base 2B,111214,Bret Boone,José Molina,2,0,2,True,2002-07-19,Stolen,2B,2002
+1637,1B,2B,Stolen Base 2B,111214,Bret Boone,John Flaherty,1,0,4,True,2002-07-12,Stolen,2B,2002
+2039,1B,2B,Stolen Base 2B,111214,Bret Boone,Brad Ausmus,0,6,7,True,2002-06-21,Stolen,2B,2002
+2996,1B,,Caught Stealing 2B,111214,Bret Boone,Doug Mirabelli,2,0,5,False,2002-05-11,Caught,2B,2002
+3044,1B,,Caught Stealing 2B,111214,Bret Boone,Tom Wilson,0,0,2,False,2002-05-09,Caught,2B,2002
+3073,1B,2B,Stolen Base 2B,111214,Bret Boone,Tom Wilson,5,4,10,False,2002-05-08,Stolen,2B,2002
+3157,1B,,Caught Stealing 2B,111214,Bret Boone,Jorge Posada,1,4,5,True,2002-05-05,Caught,2B,2002
+3333,1B,,Caught Stealing 2B,111214,Bret Boone,Jorge Posada,0,0,1,False,2002-04-26,Caught,2B,2002
+3421,1B,2B,Stolen Base 2B,111214,Bret Boone,Bengie Molina,1,0,6,False,2002-04-23,Stolen,2B,2002
+3487,1B,2B,Stolen Base 2B,111214,Bret Boone,Bill Haselman,0,0,1,False,2002-04-20,Stolen,2B,2002
+3798,1B,2B,Stolen Base 2B,111214,Bret Boone,Ramon Hernandez,2,3,7,False,2002-04-07,Stolen,2B,2002
+3908,1B,2B,Stolen Base 2B,111214,Bret Boone,Sandy Alomar Jr.,3,1,3,False,2002-04-02,Stolen,2B,2002
+3909,2B,3B,Stolen Base 2B,111214,Bret Boone,Sandy Alomar Jr.,3,1,3,False,2002-04-02,Stolen,2B,2002
+182,1B,2B,Stolen Base 2B,111214,Bret Boone,Adam Melhuse,2,1,3,True,2003-09-20,Stolen,2B,2003
+232,1B,2B,Stolen Base 2B,111214,Bret Boone,Gerald Laird,0,3,3,True,2003-09-17,Stolen,2B,2003
+329,1B,2B,Stolen Base 2B,111214,Bret Boone,Tom Gregorio,4,0,3,False,2003-09-12,Stolen,2B,2003
+402,1B,2B,Stolen Base 2B,111214,Bret Boone,Gerald Laird,4,0,4,False,2003-09-09,Stolen,2B,2003
+490,1B,2B,Stolen Base 2B,111214,Bret Boone,Brook Fordyce,1,2,5,True,2003-09-05,Stolen,2B,2003
+492,1B,2B,Stolen Base 2B,111214,Bret Boone,Brook Fordyce,4,6,13,True,2003-09-05,Stolen,2B,2003
+633,1B,2B,Stolen Base 2B,111214,Bret Boone,Toby Hall,3,5,7,False,2003-08-27,Stolen,2B,2003
+798,1B,2B,Stolen Base 2B,111214,Bret Boone,Greg Myers,0,1,1,True,2003-08-19,Stolen,2B,2003
+931,1B,,Caught Stealing 2B,111214,Bret Boone,Tom Wilson,0,1,1,False,2003-08-12,Caught,2B,2003
+1124,1B,2B,Stolen Base 2B,111214,Bret Boone,Sandy Alomar Jr.,0,0,1,False,2003-08-02,Stolen,2B,2003
+1617,1B,,Caught Stealing 2B,111214,Bret Boone,Brook Fordyce,3,1,4,False,2003-07-08,Caught,2B,2003
+1714,1B,2B,Stolen Base 2B,111214,Bret Boone,Ramon Hernandez,0,0,1,True,2003-07-03,Stolen,2B,2003
+2330,1B,2B,Stolen Base 2B,111214,Bret Boone,Mike Lieberthal,0,3,5,True,2003-06-03,Stolen,2B,2003
+2552,1B,2B,Stolen Base 2B,111214,Bret Boone,Brent Mayne,4,1,8,False,2003-05-22,Stolen,2B,2003
+2704,1B,2B,Stolen Base 2B,111214,Bret Boone,Tim Laker,0,3,3,True,2003-05-15,Stolen,2B,2003
+2778,1B,2B,Stolen Base 2B,111214,Bret Boone,Sandy Alomar Jr.,5,2,6,False,2003-05-11,Stolen,2B,2003
+3145,1B,,Caught Stealing 2B,111214,Bret Boone,Josh Bard,4,0,6,False,2003-04-23,Caught,2B,2003
+3215,1B,2B,Stolen Base 2B,111214,Bret Boone,Bengie Molina,4,6,8,True,2003-04-19,Stolen,2B,2003
+3320,1B,2B,Stolen Base 2B,111214,Bret Boone,Mark Johnson,1,0,1,False,2003-04-15,Stolen,2B,2003
+73,1B,,Caught Stealing 2B,111214,Bret Boone,Damian Miller,5,5,8,True,2004-09-27,Caught,2B,2004
+682,2B,,Caught Stealing 3B,111214,Bret Boone,John Buck,0,4,2,False,2004-08-28,Caught,3B,2004
+719,1B,,Caught Stealing 2B,111214,Bret Boone,John Buck,1,6,6,False,2004-08-26,Caught,2B,2004
+924,1B,2B,Stolen Base 2B,111214,Bret Boone,John Flaherty,1,1,4,False,2004-08-15,Stolen,2B,2004
+1309,1B,2B,Stolen Base 2B,111214,Bret Boone,Adam Melhuse,4,3,8,True,2004-07-27,Stolen,2B,2004
+1526,1B,2B,Stolen Base 2B,111214,Bret Boone,Victor Martinez,2,0,5,False,2004-07-17,Stolen,2B,2004
+1820,1B,,Caught Stealing 2B,111214,Bret Boone,Rod Barajas,3,2,3,False,2004-06-28,Caught,2B,2004
+2241,2B,3B,Stolen Base 3B,111214,Bret Boone,Raul Chavez,3,0,1,False,2004-06-07,Stolen,3B,2004
+2252,1B,2B,Stolen Base 2B,111214,Bret Boone,Sandy Alomar Jr.,4,4,9,False,2004-06-06,Stolen,2B,2004
+2462,1B,2B,Stolen Base 2B,111214,Bret Boone,Jason Varitek,4,5,7,True,2004-05-29,Stolen,2B,2004
+2628,1B,2B,Stolen Base 2B,111214,Bret Boone,Javy Lopez,0,0,1,False,2004-05-19,Stolen,2B,2004
+2649,1B,2B,Stolen Base 2B,111214,Bret Boone,Javy Lopez,2,5,8,False,2004-05-18,Stolen,2B,2004
+3157,1B,2B,Stolen Base 2B,111214,Bret Boone,Gerald Laird,10,8,8,True,2004-04-23,Stolen,2B,2004
+3317,1B,2B,Stolen Base 2B,111214,Bret Boone,Bengie Molina,2,1,4,True,2004-04-15,Stolen,2B,2004
+2032,1B,2B,Stolen Base 2B,111214,Bret Boone,Mike Lieberthal,2,2,8,False,2005-06-16,Stolen,2B,2005
+2064,1B,,Caught Stealing 2B,111214,Bret Boone,Mike Lieberthal,2,1,4,False,2005-06-14,Caught,2B,2005
+2275,1B,,Caught Stealing 2B,111214,Bret Boone,Gregg Zaun,1,0,4,False,2005-06-01,Caught,2B,2005
+2641,1B,2B,Stolen Base 2B,111214,Bret Boone,Jason Varitek,3,1,6,False,2005-05-14,Stolen,2B,2005
+2970,3B,score,Stolen Base Home,111214,Bret Boone,Jason Kendall,4,2,4,True,2005-04-30,Stolen,Home,2005
+3148,1B,2B,Stolen Base 2B,111214,Bret Boone,Jason Kendall,4,3,3,False,2005-04-20,Stolen,2B,2005

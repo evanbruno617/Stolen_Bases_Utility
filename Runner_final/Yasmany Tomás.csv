@@ -1,0 +1,26 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4397,2B,,Caught Stealing 3B,630111,Yasmany Tomás,407822,Jorge De La Rosa,571745,Mitch Haniger,L,Dustin Garneau,572863,4,3,3,False,2016-09-13,Caught,3B,2016,2017,26.8
+1,5259,2B,,Caught Stealing 3B,630111,Yasmany Tomás,431148,Scott Kazmir,572008,Chris Owings,L,Yasmani Grandal,518735,0,3,4,True,2016-07-30,Caught,3B,2016,2017,26.8
+2,5899,2B,3B,Stolen Base 3B,630111,Yasmany Tomás,542881,Tyler Anderson,516416,Jean Segura,L,Nick Hundley,460026,1,2,4,True,2016-06-24,Stolen,3B,2016,2017,26.8
+3,6323,1B,,Caught Stealing 2B,630111,Yasmany Tomás,571666,Mike Fiers,592273,Brandon Drury,R,Evan Gattis,594828,0,1,5,True,2016-06-01,Caught,2B,2016,2017,26.8
+4,6625,1B,2B,Stolen Base 2B,630111,Yasmany Tomás,643338,Chad Green,592273,Brandon Drury,R,Austin Romine,519222,1,0,1,False,2016-05-16,Stolen,2B,2016,2017,26.8
+5,6946,1B,,Caught Stealing 2B,630111,Yasmany Tomás,543022,Tyler Chatwood,572008,Chris Owings,R,Nick Hundley,460026,0,0,2,False,2016-04-29,Caught,2B,2016,2017,26.8
+6,362,2B,,Caught Stealing 3B,630111,Yasmany Tomás,407822,Jorge De La Rosa,571745,Mitch Haniger,L,Dustin Garneau,572863,4,3,3,False,2016-09-13,Caught,3B,2016,2017,26.8
+7,1224,2B,,Caught Stealing 3B,630111,Yasmany Tomás,431148,Scott Kazmir,572008,Chris Owings,L,Yasmani Grandal,518735,0,3,4,True,2016-07-30,Caught,3B,2016,2017,26.8
+8,1864,2B,3B,Stolen Base 3B,630111,Yasmany Tomás,542881,Tyler Anderson,516416,Jean Segura,L,Nick Hundley,460026,1,2,4,True,2016-06-24,Stolen,3B,2016,2017,26.8
+9,2288,1B,,Caught Stealing 2B,630111,Yasmany Tomás,571666,Mike Fiers,592273,Brandon Drury,R,Evan Gattis,594828,0,1,5,True,2016-06-01,Caught,2B,2016,2017,26.8
+10,2590,1B,2B,Stolen Base 2B,630111,Yasmany Tomás,643338,Chad Green,592273,Brandon Drury,R,Austin Romine,519222,1,0,1,False,2016-05-16,Stolen,2B,2016,2017,26.8
+11,2911,1B,,Caught Stealing 2B,630111,Yasmany Tomás,543022,Tyler Chatwood,572008,Chris Owings,R,Nick Hundley,460026,0,0,2,False,2016-04-29,Caught,2B,2016,2017,26.8
+12,3769,2B,,Caught Stealing 3B,630111,Yasmany Tomás,407822,Jorge De La Rosa,571745,Mitch Haniger,L,Dustin Garneau,572863,4,3,3,False,2016-09-13,Caught,3B,2016,2017,26.8
+13,4631,2B,,Caught Stealing 3B,630111,Yasmany Tomás,431148,Scott Kazmir,572008,Chris Owings,L,Yasmani Grandal,518735,0,3,4,True,2016-07-30,Caught,3B,2016,2017,26.8
+14,5271,2B,3B,Stolen Base 3B,630111,Yasmany Tomás,542881,Tyler Anderson,516416,Jean Segura,L,Nick Hundley,460026,1,2,4,True,2016-06-24,Stolen,3B,2016,2017,26.8
+15,5695,1B,,Caught Stealing 2B,630111,Yasmany Tomás,571666,Mike Fiers,592273,Brandon Drury,R,Evan Gattis,594828,0,1,5,True,2016-06-01,Caught,2B,2016,2017,26.8
+16,5997,1B,2B,Stolen Base 2B,630111,Yasmany Tomás,643338,Chad Green,592273,Brandon Drury,R,Austin Romine,519222,1,0,1,False,2016-05-16,Stolen,2B,2016,2017,26.8
+17,6318,1B,,Caught Stealing 2B,630111,Yasmany Tomás,543022,Tyler Chatwood,572008,Chris Owings,R,Nick Hundley,460026,0,0,2,False,2016-04-29,Caught,2B,2016,2017,26.8
+18,253,2B,3B,Stolen Base 3B,630111,Yasmany Tomás,605309,Keone Kela,457454,Jarrod Saltalamacchia,R,Robinson Chirinos,455139,0,3,7,True,2015-07-07,Stolen,3B,2015,2016,27.0
+19,458,1B,,Caught Stealing 2B,630111,Yasmany Tomás,475115,Tyson Ross,571875,Jake Lamb,R,Derek Norris,519083,1,0,2,True,2015-06-26,Caught,2B,2015,2016,27.0
+20,633,2B,3B,Stolen Base 3B,630111,Yasmany Tomás,502327,Héctor Santiago,572008,Chris Owings,L,Chris Iannetta,455104,1,0,1,False,2015-06-17,Stolen,3B,2015,2016,27.0
+21,734,1B,,Caught Stealing 2B,630111,Yasmany Tomás,458678,Mike Broadway,444482,David Peralta,R,Buster Posey,457763,2,4,7,True,2015-06-13,Caught,2B,2015,2016,27.0
+22,988,1B,2B,Stolen Base 2B,630111,Yasmany Tomás,519293,Will Smith,572008,Chris Owings,L,Martín Maldonado,455117,6,6,10,True,2015-05-31,Stolen,2B,2015,2016,27.0
+23,1464,1B,2B,Stolen Base 2B,630111,Yasmany Tomás,448306,James Shields,431094,Aaron Hill,R,Derek Norris,519083,5,5,6,False,2015-05-08,Stolen,2B,2015,2016,27.0
+24,1783,1B,2B,Stolen Base 2B,630111,Yasmany Tomás,453172,Jared Hughes,572008,Chris Owings,R,Francisco Cervelli,465041,1,4,8,False,2015-04-24,Stolen,2B,2015,2016,27.0

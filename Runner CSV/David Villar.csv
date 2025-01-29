@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+200,3B,,Caught Stealing Home,681584,David Villar,Elias Díaz,6,5,5,True,2022-09-19,Caught,Home,2022
+3762,1B,,Caught Stealing 2B,681584,David Villar,Tomás Nido,7,2,7,False,2023-04-22,Caught,2B,2023
+4019,1B,2B,Stolen Base 2B,681584,David Villar,Will Smith,0,1,2,False,2023-04-10,Stolen,2B,2023

@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1183,1B,2B,Stolen Base 2B,643603,Tyler White,Hank Conger,2,0,2,True,2016-06-10,Stolen,2B,2016
+153,1B,,Caught Stealing 2B,643603,Tyler White,Juan Graterol,1,0,4,False,2017-09-23,Caught,2B,2017
+867,1B,,Caught Stealing 2B,643603,Tyler White,Josh Phegley,0,0,3,True,2018-08-17,Caught,2B,2018

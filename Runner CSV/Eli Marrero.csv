@@ -1,0 +1,33 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+694,1B,2B,Stolen Base 2B,118305,Eli Marrero,Todd Pratt,1,1,9,False,2000-09-02,Stolen,2B,2000
+2014,1B,2B,Stolen Base 2B,118305,Eli Marrero,Mitch Meluskey,4,7,4,False,2000-07-01,Stolen,2B,2000
+3200,1B,2B,Stolen Base 2B,118305,Eli Marrero,Doug Mirabelli,4,3,9,True,2000-05-10,Stolen,2B,2000
+3604,1B,2B,Stolen Base 2B,118305,Eli Marrero,Brent Mayne,6,7,8,False,2000-04-22,Stolen,2B,2000
+3962,1B,2B,Stolen Base 2B,118305,Eli Marrero,Henry Blanco,1,2,7,False,2000-04-07,Stolen,2B,2000
+207,1B,2B,Stolen Base 2B,118305,Eli Marrero,Raul Casanova,4,0,8,False,2001-05-28,Stolen,2B,2001
+976,1B,,Caught Stealing 2B,118305,Eli Marrero,Mike Piazza,1,0,2,False,2001-04-27,Caught,2B,2001
+1245,1B,2B,Stolen Base 2B,118305,Eli Marrero,Brad Ausmus,1,2,2,False,2001-04-15,Stolen,2B,2001
+1339,1B,,Caught Stealing 2B,118305,Eli Marrero,Brent Mayne,1,0,4,False,2001-04-12,Caught,2B,2001
+190,1B,2B,Stolen Base 2B,118305,Eli Marrero,Brad Ausmus,4,1,4,False,2002-09-20,Stolen,2B,2002
+556,2B,,Caught Stealing 3B,118305,Eli Marrero,Jason LaRue,3,3,4,False,2002-09-02,Caught,3B,2002
+604,1B,2B,Stolen Base 2B,118305,Eli Marrero,Joe Girardi,0,3,6,True,2002-08-31,Stolen,2B,2002
+977,2B,3B,Stolen Base 3B,118305,Eli Marrero,Jason Kendall,0,5,3,True,2002-08-13,Stolen,3B,2002
+1448,1B,,Caught Stealing 2B,118305,Eli Marrero,Jason Kendall,5,0,3,True,2002-07-20,Caught,2B,2002
+1543,1B,2B,Stolen Base 2B,118305,Eli Marrero,Chad Kreuter,2,2,5,True,2002-07-16,Stolen,2B,2002
+1917,1B,2B,Stolen Base 2B,118305,Eli Marrero,Robert Machado,2,0,4,False,2002-06-27,Stolen,2B,2002
+2133,1B,2B,Stolen Base 2B,118305,Eli Marrero,Brent Mayne,4,1,6,False,2002-06-16,Stolen,2B,2002
+2134,1B,2B,Stolen Base 2B,118305,Eli Marrero,Brent Mayne,5,1,8,False,2002-06-16,Stolen,2B,2002
+2642,2B,3B,Stolen Base 3B,118305,Eli Marrero,Jason Kendall,1,5,6,True,2002-05-25,Stolen,3B,2002
+3367,1B,2B,Stolen Base 2B,118305,Eli Marrero,Michael Barrett,5,4,8,True,2002-04-26,Stolen,2B,2002
+3433,1B,2B,Stolen Base 2B,118305,Eli Marrero,Vance Wilson,4,3,9,True,2002-04-23,Stolen,2B,2002
+3627,1B,2B,Stolen Base 2B,118305,Eli Marrero,Brad Ausmus,1,1,2,False,2002-04-14,Stolen,2B,2002
+3628,1B,2B,Stolen Base 2B,118305,Eli Marrero,Brad Ausmus,1,2,4,False,2002-04-14,Stolen,2B,2002
+3805,1B,2B,Stolen Base 2B,118305,Eli Marrero,Gregg Zaun,3,6,9,True,2002-04-07,Stolen,2B,2002
+3807,2B,3B,Stolen Base 3B,118305,Eli Marrero,Gregg Zaun,6,6,12,True,2002-04-07,Stolen,3B,2002
+3522,1B,,Caught Stealing 2B,118305,Eli Marrero,Brad Ausmus,5,5,11,False,2003-04-04,Caught,2B,2003
+487,1B,2B,Stolen Base 2B,118305,Eli Marrero,Todd Pratt,1,0,4,False,2004-09-08,Stolen,2B,2004
+497,1B,2B,Stolen Base 2B,118305,Eli Marrero,Todd Pratt,1,0,4,False,2004-09-07,Stolen,2B,2004
+645,1B,,Caught Stealing 2B,118305,Eli Marrero,A.J. Pierzynski,0,0,2,False,2004-08-30,Caught,2B,2004
+648,1B,2B,Stolen Base 2B,118305,Eli Marrero,A.J. Pierzynski,7,6,9,False,2004-08-30,Stolen,2B,2004
+2165,1B,2B,Stolen Base 2B,118305,Eli Marrero,Sandy Alomar Jr.,0,5,6,True,2004-06-11,Stolen,2B,2004
+3156,1B,2B,Stolen Base 2B,118305,Eli Marrero,Joe Mauer,3,4,6,True,2005-04-20,Stolen,2B,2005

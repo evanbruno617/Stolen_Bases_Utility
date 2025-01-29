@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+163,1B,,Caught Stealing 2B,502582,Logan Schafer,Kurt Suzuki,0,0,2,True,2012-09-23,Caught,2B,2012
+437,2B,3B,Stolen Base 3B,502582,Logan Schafer,Welington Castillo,1,3,7,True,2013-09-08,Stolen,3B,2013
+574,1B,2B,Stolen Base 2B,502582,Logan Schafer,Russell Martin,1,0,2,False,2013-09-02,Stolen,2B,2013
+1169,1B,2B,Stolen Base 2B,502582,Logan Schafer,Kurt Suzuki,6,5,7,False,2013-08-04,Stolen,2B,2013
+1276,2B,,Caught Stealing 3B,502582,Logan Schafer,Dioner Navarro,0,0,1,True,2013-07-30,Caught,3B,2013
+1439,1B,2B,Stolen Base 2B,502582,Logan Schafer,Nick Hundley,2,1,2,False,2013-07-22,Stolen,2B,2013
+1644,2B,3B,Stolen Base 3B,502582,Logan Schafer,Devin Mesoraco,4,3,8,False,2013-07-08,Stolen,3B,2013
+1810,1B,2B,Stolen Base 2B,502582,Logan Schafer,Kurt Suzuki,0,0,8,True,2013-07-02,Stolen,2B,2013
+2135,1B,2B,Stolen Base 2B,502582,Logan Schafer,Ryan Hanigan,0,2,2,True,2013-06-15,Stolen,2B,2013
+2136,2B,3B,Stolen Base 2B,502582,Logan Schafer,Ryan Hanigan,0,2,2,True,2013-06-15,Stolen,2B,2013
+15,1B,2B,Stolen Base 2B,502582,Logan Schafer,John Baker,2,4,7,False,2014-09-28,Stolen,2B,2014
+2775,2B,3B,Stolen Base 3B,502582,Logan Schafer,Chris Stewart,0,1,3,False,2014-05-13,Stolen,3B,2014
+2863,1B,,Caught Stealing 2B,502582,Logan Schafer,Brian McCann,2,4,7,False,2014-05-09,Caught,2B,2014
+187,1B,2B,Stolen Base 2B,502582,Logan Schafer,Tucker Barnhart,6,4,8,False,2015-09-20,Stolen,2B,2015
+3488,1B,,Caught Stealing 2B,502582,Logan Schafer,Miguel Montero,10,6,7,True,2015-04-01,Caught,2B,2015

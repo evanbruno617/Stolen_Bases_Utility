@@ -1,0 +1,23 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3231,1B,2B,Stolen Base 2B,120074,David Ortiz,Sandy Alomar Jr.,2,2,8,False,2000-05-08,Stolen,2B,2000
+1110,1B,,Caught Stealing 2B,120074,David Ortiz,Brent Mayne,1,2,4,False,2002-08-05,Caught,2B,2002
+1305,1B,,Caught Stealing 2B,120074,David Ortiz,Tom Wilson,8,5,6,False,2002-07-26,Caught,2B,2002
+1385,1B,2B,Stolen Base 2B,120074,David Ortiz,Mark Johnson,0,3,3,True,2002-07-22,Stolen,2B,2002
+1555,1B,2B,Stolen Base 2B,120074,David Ortiz,Sal Fasano,4,1,9,True,2005-07-10,Stolen,2B,2005
+181,2B,,Caught Stealing 3B,120074,David Ortiz,Dioner Navarro,0,0,1,True,2007-09-22,Caught,3B,2007
+658,1B,2B,Stolen Base 2B,120074,David Ortiz,Ramon Hernandez,3,0,5,False,2007-09-02,Stolen,2B,2007
+1257,1B,2B,Stolen Base 2B,120074,David Ortiz,Jamie Burke,1,3,7,True,2007-08-05,Stolen,2B,2007
+2133,1B,2B,Stolen Base 2B,120074,David Ortiz,Kenji Johjima,1,2,3,True,2007-06-25,Stolen,2B,2007
+1132,1B,2B,Stolen Base 2B,120074,David Ortiz,Kurt Suzuki,4,2,5,False,2008-08-03,Stolen,2B,2008
+1213,1B,,Caught Stealing 2B,120074,David Ortiz,Taylor Teagarden,3,5,6,False,2009-06-07,Caught,2B,2009
+2547,1B,,Caught Stealing 2B,120074,David Ortiz,Mike Napoli,3,2,4,True,2009-04-12,Caught,2B,2009
+3716,1B,,Caught Stealing 2B,120074,David Ortiz,Joe Mauer,0,2,3,True,2010-04-14,Caught,2B,2010
+1614,1B,,Caught Stealing 2B,120074,David Ortiz,Brayan Peña,1,0,4,False,2011-07-25,Caught,2B,2011
+2398,1B,2B,Stolen Base 2B,120074,David Ortiz,Nick Hundley,3,4,5,False,2011-06-21,Stolen,2B,2011
+4030,1B,,Caught Stealing 2B,120074,David Ortiz,J.P. Arencibia,2,1,7,True,2012-04-09,Caught,2B,2012
+1463,1B,2B,Stolen Base 2B,120074,David Ortiz,Chris Stewart,7,5,6,False,2013-07-21,Stolen,2B,2013
+1630,1B,2B,Stolen Base 2B,120074,David Ortiz,Mike Zunino,7,9,8,True,2013-07-09,Stolen,2B,2013
+2543,2B,3B,Stolen Base 3B,120074,David Ortiz,Carlos Santana,4,5,9,False,2013-05-26,Stolen,3B,2013
+2598,2B,3B,Stolen Base 3B,120074,David Ortiz,Tyler Flowers,0,2,1,True,2013-05-22,Stolen,3B,2013
+1003,1B,2B,Stolen Base 2B,120074,David Ortiz,Chris Iannetta,2,1,7,False,2016-06-19,Stolen,2B,2016
+2246,1B,2B,Stolen Base 2B,120074,David Ortiz,Josh Thole,5,3,7,False,2016-04-15,Stolen,2B,2016

@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+46,1B,2B,Stolen Base 2B,110184,Sandy Alomar Jr.,Darrin Fletcher,8,4,6,False,2000-09-29,Stolen,2B,2000
+602,1B,2B,Stolen Base 2B,110184,Sandy Alomar Jr.,Mike DiFelice,2,4,5,False,2000-09-05,Stolen,2B,2000
+2750,1B,,Caught Stealing 2B,110184,Sandy Alomar Jr.,Bengie Molina,3,0,2,False,2000-05-30,Caught,2B,2000
+3931,2B,,Caught Stealing 3B,110184,Sandy Alomar Jr.,John Flaherty,4,6,8,True,2000-04-08,Caught,3B,2000
+108,1B,,Caught Stealing 2B,110184,Sandy Alomar Jr.,Brandon Inge,3,0,6,False,2001-06-01,Caught,2B,2001
+146,1B,2B,Stolen Base 2B,110184,Sandy Alomar Jr.,Alberto Castillo,0,0,3,False,2001-05-30,Stolen,2B,2001
+1516,1B,,Caught Stealing 2B,110184,Sandy Alomar Jr.,Einar Díaz,4,7,9,True,2001-04-02,Caught,2B,2001

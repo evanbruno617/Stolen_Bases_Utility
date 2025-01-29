@@ -1,0 +1,4 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,121009,Pokey Reese,Kevin Brown,2,3,5,False,2000-09-17,Stolen,2B,2000
+1B,2B,Stolen Base 2B,150055,Chris Sexton,Kevin Brown,6,4,6,False,2000-09-17,Stolen,2B,2000
+1B,2B,Stolen Base 2B,150055,Chris Sexton,Kevin Brown,6,2,7,False,2000-09-16,Stolen,2B,2000

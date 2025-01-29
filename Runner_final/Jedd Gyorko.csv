@@ -1,0 +1,23 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3160,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,430935,Cole Hamels,543939,Kolten Wong,L,Willson Contreras,575929,1,0,5,False,2019-06-02,Stolen,2B,2019,2020,24.0
+1,3662,2B,3B,Stolen Base 3B,576397,Jedd Gyorko,544931,Stephen Strasburg,641933,Tyler O'Neill,R,Yan Gomes,543228,2,1,6,True,2019-05-02,Stolen,3B,2019,2020,24.0
+2,6003,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,430935,Cole Hamels,543939,Kolten Wong,L,Willson Contreras,575929,1,0,5,False,2019-06-02,Stolen,2B,2019,2020,24.0
+3,6505,2B,3B,Stolen Base 3B,576397,Jedd Gyorko,544931,Stephen Strasburg,641933,Tyler O'Neill,R,Yan Gomes,543228,2,1,6,True,2019-05-02,Stolen,3B,2019,2020,24.0
+4,7927,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,430935,Cole Hamels,543939,Kolten Wong,L,Willson Contreras,575929,1,0,5,False,2019-06-02,Stolen,2B,2019,2020,24.0
+5,8429,2B,3B,Stolen Base 3B,576397,Jedd Gyorko,544931,Stephen Strasburg,641933,Tyler O'Neill,R,Yan Gomes,543228,2,1,6,True,2019-05-02,Stolen,3B,2019,2020,24.0
+6,623,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,460283,Jerry Blevins,451594,Dexter Fowler,L,Kevin Plawecki,608700,1,5,8,True,2018-04-01,Stolen,2B,2018,2019,23.8
+7,681,1B,,Caught Stealing 2B,576397,Jedd Gyorko,543294,Kyle Hendricks,572039,Stephen Piscotty,R,Alex Avila,488671,0,1,4,False,2017-09-28,Caught,2B,2017,2018,25.2
+8,2036,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,606160,Rafael Montero,543939,Kolten Wong,R,René Rivera,425784,0,4,3,True,2017-07-18,Stolen,2B,2017,2018,25.2
+9,2229,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,502046,Jeff Locke,545341,Randal Grichuk,L,J.T. Realmuto,592663,3,0,1,False,2017-07-03,Stolen,2B,2017,2018,25.2
+10,2349,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,592836,Taijuan Walker,425877,Yadier Molina,R,Chris Iannetta,455104,0,1,6,True,2017-06-27,Stolen,2B,2017,2018,25.2
+11,2797,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,543294,Kyle Hendricks,425877,Yadier Molina,R,Miguel Montero,471083,1,3,4,True,2017-06-04,Stolen,2B,2017,2018,25.2
+12,3294,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,543408,Tom Koehler,425877,Yadier Molina,R,J.T. Realmuto,592663,4,3,5,True,2017-05-10,Stolen,2B,2017,2018,25.2
+13,3839,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,518875,Shawn Kelley,518700,Eric Fryer,R,Matt Wieters,446308,0,3,8,True,2017-04-12,Stolen,2B,2017,2018,25.2
+14,53,1B,,Caught Stealing 2B,576397,Jedd Gyorko,543294,Kyle Hendricks,572039,Stephen Piscotty,R,Alex Avila,488671,0,1,4,False,2017-09-28,Caught,2B,2017,2018,25.2
+15,1408,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,606160,Rafael Montero,543939,Kolten Wong,R,René Rivera,425784,0,4,3,True,2017-07-18,Stolen,2B,2017,2018,25.2
+16,1601,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,502046,Jeff Locke,545341,Randal Grichuk,L,J.T. Realmuto,592663,3,0,1,False,2017-07-03,Stolen,2B,2017,2018,25.2
+17,1721,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,592836,Taijuan Walker,425877,Yadier Molina,R,Chris Iannetta,455104,0,1,6,True,2017-06-27,Stolen,2B,2017,2018,25.2
+18,2169,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,543294,Kyle Hendricks,425877,Yadier Molina,R,Miguel Montero,471083,1,3,4,True,2017-06-04,Stolen,2B,2017,2018,25.2
+19,2666,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,543408,Tom Koehler,425877,Yadier Molina,R,J.T. Realmuto,592663,4,3,5,True,2017-05-10,Stolen,2B,2017,2018,25.2
+20,3211,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,518875,Shawn Kelley,518700,Eric Fryer,R,Matt Wieters,446308,0,3,8,True,2017-04-12,Stolen,2B,2017,2018,25.2
+21,155,1B,,Caught Stealing 2B,576397,Jedd Gyorko,605309,Keone Kela,461416,Will Venable,R,Carlos Corporán,449786,0,2,7,True,2015-07-12,Caught,2B,2015,2016,25.1

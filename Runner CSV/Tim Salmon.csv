@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3661,1B,,Caught Stealing 2B,121640,Tim Salmon,Darrin Fletcher,0,1,1,True,2000-04-20,Caught,2B,2000
+3775,1B,,Caught Stealing 2B,121640,Tim Salmon,Mark Johnson,0,3,8,True,2000-04-15,Caught,2B,2000
+304,1B,2B,Stolen Base 2B,121640,Tim Salmon,Brook Fordyce,0,1,2,True,2001-05-24,Stolen,2B,2001
+374,1B,2B,Stolen Base 2B,121640,Tim Salmon,Einar Díaz,6,2,5,False,2001-05-20,Stolen,2B,2001
+878,1B,2B,Stolen Base 2B,121640,Tim Salmon,Josh Paul,4,3,7,False,2001-05-01,Stolen,2B,2001
+966,1B,2B,Stolen Base 2B,121640,Tim Salmon,Alberto Castillo,0,0,1,True,2001-04-28,Stolen,2B,2001
+1124,1B,2B,Stolen Base 2B,121640,Tim Salmon,Dan Wilson,4,1,6,True,2001-04-21,Stolen,2B,2001
+397,1B,2B,Stolen Base 2B,121640,Tim Salmon,Ramon Hernandez,3,2,7,False,2002-09-10,Stolen,2B,2002
+1938,2B,3B,Stolen Base 3B,121640,Tim Salmon,Ivan Rodriguez,3,2,6,True,2002-06-26,Stolen,3B,2002
+2166,1B,,Caught Stealing 2B,121640,Tim Salmon,Paul Lo Duca,1,3,3,True,2002-06-14,Caught,2B,2002
+2516,2B,3B,Stolen Base 3B,121640,Tim Salmon,A.J. Hinch,1,0,2,True,2002-05-29,Stolen,3B,2002
+2519,1B,2B,Stolen Base 2B,121640,Tim Salmon,A.J. Hinch,1,6,5,True,2002-05-29,Stolen,2B,2002
+2606,1B,,Caught Stealing 2B,121640,Tim Salmon,A.J. Pierzynski,2,4,8,False,2002-05-26,Caught,2B,2002
+2738,1B,2B,Stolen Base 2B,121640,Tim Salmon,A.J. Hinch,0,1,2,False,2002-05-21,Stolen,2B,2002
+2766,1B,2B,Stolen Base 2B,121640,Tim Salmon,A.J. Hinch,4,1,6,False,2002-05-20,Stolen,2B,2002
+1433,1B,2B,Stolen Base 2B,121640,Tim Salmon,Brook Fordyce,2,0,6,True,2003-07-20,Stolen,2B,2003
+2756,1B,2B,Stolen Base 2B,121640,Tim Salmon,Jorge Posada,2,5,7,True,2003-05-13,Stolen,2B,2003
+2802,1B,,Caught Stealing 2B,121640,Tim Salmon,Greg Myers,2,1,3,False,2003-05-10,Caught,2B,2003
+3218,1B,2B,Stolen Base 2B,121640,Tim Salmon,Ben Davis,7,6,9,False,2003-04-19,Stolen,2B,2003
+773,1B,2B,Stolen Base 2B,121640,Tim Salmon,John Buck,5,0,5,False,2004-08-23,Stolen,2B,2004

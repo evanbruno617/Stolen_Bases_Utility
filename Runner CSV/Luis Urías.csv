@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+624,1B,2B,Stolen Base 2B,649966,Luis Urías,Tony Wolters,2,2,9,False,2018-08-30,Stolen,2B,2018
+391,2B,,Caught Stealing 3B,649966,Luis Urías,Grayson Greiner,0,1,2,True,2020-09-09,Caught,3B,2020
+520,1B,2B,Stolen Base 2B,649966,Luis Urías,Austin Romine,6,5,7,False,2020-09-02,Stolen,2B,2020
+631,1B,2B,Stolen Base 2B,649966,Luis Urías,Tucker Barnhart,0,2,3,False,2020-08-27,Stolen,2B,2020
+643,1B,2B,Stolen Base 2B,649966,Luis Urías,Tucker Barnhart,0,2,3,False,2020-08-26,Stolen,2B,2020
+1242,1B,2B,Stolen Base 2B,649966,Luis Urías,Tucker Barnhart,0,0,1,False,2021-07-10,Stolen,2B,2021
+1275,1B,2B,Stolen Base 2B,649966,Luis Urías,Tucker Barnhart,3,3,7,False,2021-07-08,Stolen,2B,2021
+1623,1B,2B,Stolen Base 2B,649966,Luis Urías,Dom Nuñez,5,5,9,True,2021-06-18,Stolen,2B,2021
+1918,1B,2B,Stolen Base 2B,649966,Luis Urías,Yan Gomes,1,1,4,True,2021-05-29,Stolen,2B,2021
+2683,1B,2B,Stolen Base 2B,649966,Luis Urías,Yadier Molina,3,7,8,True,2021-04-11,Stolen,2B,2021
+1221,1B,,Caught Stealing 2B,649966,Luis Urías,Elias Díaz,0,2,5,False,2022-07-25,Caught,2B,2022
+1848,1B,2B,Stolen Base 2B,649966,Luis Urías,Aramis Garcia,3,7,9,True,2022-06-18,Stolen,2B,2022
+2719,1B,,Caught Stealing 2B,649966,Luis Urías,Tyler Stephenson,5,3,7,False,2022-05-03,Caught,2B,2022

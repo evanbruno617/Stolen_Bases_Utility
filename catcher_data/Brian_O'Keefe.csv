@@ -1,0 +1,6 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,680869,Zack Gelof,Brian O'Keefe,0,0,1,True,2023-08-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,462101,Elvis Andrus,Brian O'Keefe,1,0,3,False,2023-08-23,Stolen,2B,2023
+2B,3B,Stolen Base 3B,641313,Tim Anderson,Brian O'Keefe,5,4,10,False,2023-08-23,Stolen,3B,2023
+1B,2B,Stolen Base 2B,514888,Jose Altuve,Brian O'Keefe,0,2,1,False,2023-08-20,Stolen,2B,2023
+1B,,Caught Stealing 2B,676801,Chas McCormick,Brian O'Keefe,6,7,7,False,2023-08-20,Caught,2B,2023

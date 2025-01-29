@@ -1,0 +1,19 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,30,1B,2B,Stolen Base 2B,678009,Parker Meadows,675916,James Karinchak,679529,Spencer Torkelson,R,Bo Naylor,666310,3,0,7,False,2023-09-30,Stolen,2B,2023,2024,29.3
+1,191,1B,2B,Stolen Base 2B,678009,Parker Meadows,671212,Joe Boyle,608348,Carson Kelly,R,Shea Langeliers,669127,2,1,4,True,2023-09-23,Stolen,2B,2023,2024,29.3
+2,229,1B,,Caught Stealing 2B,678009,Parker Meadows,695243,Mason Miller,668670,Jake Rogers,R,Shea Langeliers,669127,0,5,6,True,2023-09-21,Caught,2B,2023,2024,29.3
+3,243,1B,2B,Stolen Base 2B,678009,Parker Meadows,518489,Ryan Brasier,608348,Carson Kelly,R,Austin Barnes,605131,1,3,7,True,2023-09-20,Stolen,2B,2023,2024,29.3
+4,349,1B,2B,Stolen Base 2B,678009,Parker Meadows,667755,José Soriano,608348,Carson Kelly,R,Logan O'Hoppe,681351,4,5,10,True,2023-09-16,Stolen,2B,2023,2024,29.3
+5,427,1B,2B,Stolen Base 2B,678009,Parker Meadows,683175,Connor Phillips,608348,Carson Kelly,R,Luke Maile,571912,2,4,4,False,2023-09-13,Stolen,2B,2023,2024,29.3
+6,449,1B,2B,Stolen Base 2B,678009,Parker Meadows,664747,Alexis Díaz,663837,Matt Vierling,R,Tyler Stephenson,663886,5,5,9,False,2023-09-12,Stolen,2B,2023,2024,29.3
+7,785,2B,3B,Stolen Base 3B,678009,Parker Meadows,656061,Albert Abreu,670097,Zack Short,R,Kyle Higashioka,543309,3,0,8,False,2023-08-31,Stolen,3B,2023,2024,29.3
+8,894,1B,2B,Stolen Base 2B,678009,Parker Meadows,686613,Hunter Brown,595879,Javier Báez,R,Yainer Diaz,673237,1,1,4,False,2023-08-26,Stolen,2B,2023,2024,29.3
+9,4444,1B,2B,Stolen Base 2B,678009,Parker Meadows,675916,James Karinchak,679529,Spencer Torkelson,R,Bo Naylor,666310,3,0,7,False,2023-09-30,Stolen,2B,2023,2024,29.3
+10,4605,1B,2B,Stolen Base 2B,678009,Parker Meadows,671212,Joe Boyle,608348,Carson Kelly,R,Shea Langeliers,669127,2,1,4,True,2023-09-23,Stolen,2B,2023,2024,29.3
+11,4643,1B,,Caught Stealing 2B,678009,Parker Meadows,695243,Mason Miller,668670,Jake Rogers,R,Shea Langeliers,669127,0,5,6,True,2023-09-21,Caught,2B,2023,2024,29.3
+12,4657,1B,2B,Stolen Base 2B,678009,Parker Meadows,518489,Ryan Brasier,608348,Carson Kelly,R,Austin Barnes,605131,1,3,7,True,2023-09-20,Stolen,2B,2023,2024,29.3
+13,4763,1B,2B,Stolen Base 2B,678009,Parker Meadows,667755,José Soriano,608348,Carson Kelly,R,Logan O'Hoppe,681351,4,5,10,True,2023-09-16,Stolen,2B,2023,2024,29.3
+14,4841,1B,2B,Stolen Base 2B,678009,Parker Meadows,683175,Connor Phillips,608348,Carson Kelly,R,Luke Maile,571912,2,4,4,False,2023-09-13,Stolen,2B,2023,2024,29.3
+15,4863,1B,2B,Stolen Base 2B,678009,Parker Meadows,664747,Alexis Díaz,663837,Matt Vierling,R,Tyler Stephenson,663886,5,5,9,False,2023-09-12,Stolen,2B,2023,2024,29.3
+16,5199,2B,3B,Stolen Base 3B,678009,Parker Meadows,656061,Albert Abreu,670097,Zack Short,R,Kyle Higashioka,543309,3,0,8,False,2023-08-31,Stolen,3B,2023,2024,29.3
+17,5308,1B,2B,Stolen Base 2B,678009,Parker Meadows,686613,Hunter Brown,595879,Javier Báez,R,Yainer Diaz,673237,1,1,4,False,2023-08-26,Stolen,2B,2023,2024,29.3

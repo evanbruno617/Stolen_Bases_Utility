@@ -1,0 +1,23 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1195,2B,3B,Stolen Base 3B,669289,Santiago Espinal,Kevan Smith,4,5,10,True,2020-07-26,Stolen,3B,2020
+9,1B,2B,Stolen Base 2B,669289,Santiago Espinal,Kyle Higashioka,2,6,9,False,2021-09-30,Stolen,2B,2021
+606,1B,2B,Stolen Base 2B,669289,Santiago Espinal,Seby Zavala,0,0,3,False,2021-08-23,Stolen,2B,2021
+721,1B,2B,Stolen Base 2B,669289,Santiago Espinal,Cal Raleigh,1,5,4,True,2021-08-15,Stolen,2B,2021
+1004,1B,2B,Stolen Base 2B,669289,Santiago Espinal,Kevin Plawecki,2,0,3,True,2021-07-28,Stolen,2B,2021
+1607,1B,,Caught Stealing 2B,669289,Santiago Espinal,Austin Wynns,0,2,2,True,2021-06-19,Caught,2B,2021
+1757,1B,2B,Stolen Base 2B,669289,Santiago Espinal,Yasmani Grandal,0,1,2,True,2021-06-08,Stolen,2B,2021
+2127,1B,2B,Stolen Base 2B,669289,Santiago Espinal,Rafael Marchán,8,3,5,False,2021-05-16,Stolen,2B,2021
+297,1B,,Caught Stealing 2B,669289,Santiago Espinal,Christian Bethancourt,5,0,6,False,2022-09-14,Caught,2B,2022
+424,1B,2B,Stolen Base 2B,669289,Santiago Espinal,Adley Rutschman,1,4,6,True,2022-09-07,Stolen,2B,2022
+551,1B,,Caught Stealing 2B,669289,Santiago Espinal,Tyler Heineman,0,2,6,True,2022-09-02,Caught,2B,2022
+821,1B,,Caught Stealing 2B,669289,Santiago Espinal,Adley Rutschman,2,4,7,False,2022-08-16,Caught,2B,2022
+895,1B,,Caught Stealing 2B,669289,Santiago Espinal,Luke Maile,1,1,5,False,2022-08-13,Caught,2B,2022
+1466,1B,2B,Stolen Base 2B,669289,Santiago Espinal,Andrew Knapp,2,2,8,True,2022-07-08,Stolen,2B,2022
+1519,1B,2B,Stolen Base 2B,669289,Santiago Espinal,Stephen Vogt,1,2,9,True,2022-07-06,Stolen,2B,2022
+2395,1B,,Caught Stealing 2B,669289,Santiago Espinal,Tyler Stephenson,2,1,8,False,2022-05-20,Caught,2B,2022
+2797,1B,2B,Stolen Base 2B,669289,Santiago Espinal,Christian Vázquez,0,0,2,False,2022-04-28,Stolen,2B,2022
+3001,1B,2B,Stolen Base 2B,669289,Santiago Espinal,Stephen Vogt,2,0,2,False,2022-04-17,Stolen,2B,2022
+3104,1B,2B,Stolen Base 2B,669289,Santiago Espinal,Kyle Higashioka,0,2,5,True,2022-04-11,Stolen,2B,2022
+3095,1B,2B,Stolen Base 2B,669289,Santiago Espinal,Adley Rutschman,3,2,7,False,2023-05-20,Stolen,2B,2023
+3668,1B,2B,Stolen Base 2B,669289,Santiago Espinal,Seby Zavala,4,0,4,False,2023-04-26,Stolen,2B,2023
+3945,1B,,Caught Stealing 2B,669289,Santiago Espinal,Christian Bethancourt,2,1,4,False,2023-04-14,Caught,2B,2023

@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1022,1B,,Caught Stealing 2B,400098,Travis Hafner,Eddie Pérez,0,0,3,True,2002-08-10,Caught,2B,2002
+777,1B,,Caught Stealing 2B,400098,Travis Hafner,A.J. Pierzynski,3,0,1,False,2003-08-20,Caught,2B,2003
+1334,1B,2B,Stolen Base 2B,400098,Travis Hafner,Matt Walbeck,1,0,2,False,2003-07-24,Stolen,2B,2003
+1230,1B,,Caught Stealing 2B,400098,Travis Hafner,John Buck,2,2,4,True,2004-07-31,Caught,2B,2004
+1706,1B,2B,Stolen Base 2B,400098,Travis Hafner,Rod Barajas,2,8,4,False,2004-07-05,Stolen,2B,2004
+2283,1B,2B,Stolen Base 2B,400098,Travis Hafner,Josh Paul,2,3,6,True,2004-06-05,Stolen,2B,2004
+2311,1B,,Caught Stealing 2B,400098,Travis Hafner,José Molina,5,4,5,True,2004-06-04,Caught,2B,2004
+2831,1B,2B,Stolen Base 2B,400098,Travis Hafner,Javy Lopez,4,2,4,True,2004-05-09,Stolen,2B,2004
+2000,1B,,Caught Stealing 2B,400098,Travis Hafner,Dioner Navarro,2,1,6,False,2007-07-01,Caught,2B,2007
+2430,1B,2B,Stolen Base 2B,400098,Travis Hafner,Miguel Olivo,0,0,4,True,2007-06-12,Stolen,2B,2007
+2767,1B,2B,Stolen Base 2B,400098,Travis Hafner,Rob Bowen,3,1,5,False,2008-05-15,Stolen,2B,2008
+3594,1B,,Caught Stealing 2B,400098,Travis Hafner,Mike Napoli,0,1,6,True,2008-04-07,Caught,2B,2008
+166,1B,2B,Stolen Base 2B,400098,Travis Hafner,Brayan Peña,4,1,5,False,2010-09-24,Stolen,2B,2010
+1821,1B,2B,Stolen Base 2B,400098,Travis Hafner,Bengie Molina,2,7,6,True,2010-07-05,Stolen,2B,2010
+3021,1B,,Caught Stealing 2B,400098,Travis Hafner,Jason Kendall,0,4,8,True,2010-05-12,Caught,2B,2010
+2644,1B,2B,Stolen Base 2B,400098,Travis Hafner,Matt Wieters,4,6,10,True,2013-05-20,Stolen,2B,2013
+3246,1B,2B,Stolen Base 2B,400098,Travis Hafner,J.P. Arencibia,2,1,3,True,2013-04-21,Stolen,2B,2013

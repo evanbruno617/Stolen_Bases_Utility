@@ -1,0 +1,29 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,575,1B,2B,Stolen Base 2B,623520,David Bote,622491,Luis Castillo,663538,Nico Hoerner,R,Tucker Barnhart,571466,0,0,2,True,2020-08-30,Stolen,2B,2020,2021,27.2
+1,577,1B,2B,Stolen Base 2B,623520,David Bote,592254,José De León,663538,Nico Hoerner,R,Tucker Barnhart,571466,1,6,9,True,2020-08-30,Stolen,2B,2020,2021,27.2
+2,3418,1B,2B,Stolen Base 2B,623520,David Bote,622491,Luis Castillo,663538,Nico Hoerner,R,Tucker Barnhart,571466,0,0,2,True,2020-08-30,Stolen,2B,2020,2021,27.2
+3,3420,1B,2B,Stolen Base 2B,623520,David Bote,592254,José De León,663538,Nico Hoerner,R,Tucker Barnhart,571466,1,6,9,True,2020-08-30,Stolen,2B,2020,2021,27.2
+4,5342,1B,2B,Stolen Base 2B,623520,David Bote,622491,Luis Castillo,663538,Nico Hoerner,R,Tucker Barnhart,571466,0,0,2,True,2020-08-30,Stolen,2B,2020,2021,27.2
+5,5344,1B,2B,Stolen Base 2B,623520,David Bote,592254,José De León,663538,Nico Hoerner,R,Tucker Barnhart,571466,1,6,9,True,2020-08-30,Stolen,2B,2020,2021,27.2
+6,1298,1B,2B,Stolen Base 2B,623520,David Bote,425794,Adam Wainwright,430935,Cole Hamels,R,Yadier Molina,425877,0,3,4,True,2019-09-28,Stolen,2B,2019,2020,27.6
+7,2774,1B,2B,Stolen Base 2B,623520,David Bote,594798,Jacob deGrom,430935,Cole Hamels,R,Tomás Nido,621512,1,0,2,False,2019-06-23,Stolen,2B,2019,2020,27.6
+8,2777,1B,2B,Stolen Base 2B,623520,David Bote,607229,Robert Gsellman,605170,Victor Caratini,R,Tomás Nido,621512,5,3,8,False,2019-06-23,Stolen,2B,2019,2020,27.6
+9,2833,1B,2B,Stolen Base 2B,623520,David Bote,450306,Jason Vargas,546991,Albert Almora Jr.,L,Tomás Nido,621512,1,1,2,False,2019-06-21,Stolen,2B,2019,2020,27.6
+10,3075,1B,2B,Stolen Base 2B,623520,David Bote,664854,Ryan Helsley,546991,Albert Almora Jr.,R,Matt Wieters,446308,3,0,7,False,2019-06-07,Stolen,2B,2019,2020,27.6
+11,3111,1B,,Caught Stealing 2B,623520,David Bote,608566,Germán Márquez,506433,Yu Darvish,R,Tony Wolters,547172,0,0,3,False,2019-06-05,Caught,2B,2019,2020,27.6
+12,4141,1B,2B,Stolen Base 2B,623520,David Bote,425794,Adam Wainwright,430935,Cole Hamels,R,Yadier Molina,425877,0,3,4,True,2019-09-28,Stolen,2B,2019,2020,27.6
+13,5617,1B,2B,Stolen Base 2B,623520,David Bote,594798,Jacob deGrom,430935,Cole Hamels,R,Tomás Nido,621512,1,0,2,False,2019-06-23,Stolen,2B,2019,2020,27.6
+14,5620,1B,2B,Stolen Base 2B,623520,David Bote,607229,Robert Gsellman,605170,Victor Caratini,R,Tomás Nido,621512,5,3,8,False,2019-06-23,Stolen,2B,2019,2020,27.6
+15,5676,1B,2B,Stolen Base 2B,623520,David Bote,450306,Jason Vargas,546991,Albert Almora Jr.,L,Tomás Nido,621512,1,1,2,False,2019-06-21,Stolen,2B,2019,2020,27.6
+16,5918,1B,2B,Stolen Base 2B,623520,David Bote,664854,Ryan Helsley,546991,Albert Almora Jr.,R,Matt Wieters,446308,3,0,7,False,2019-06-07,Stolen,2B,2019,2020,27.6
+17,5954,1B,,Caught Stealing 2B,623520,David Bote,608566,Germán Márquez,506433,Yu Darvish,R,Tony Wolters,547172,0,0,3,False,2019-06-05,Caught,2B,2019,2020,27.6
+18,6065,1B,2B,Stolen Base 2B,623520,David Bote,425794,Adam Wainwright,430935,Cole Hamels,R,Yadier Molina,425877,0,3,4,True,2019-09-28,Stolen,2B,2019,2020,27.6
+19,7541,1B,2B,Stolen Base 2B,623520,David Bote,594798,Jacob deGrom,430935,Cole Hamels,R,Tomás Nido,621512,1,0,2,False,2019-06-23,Stolen,2B,2019,2020,27.6
+20,7544,1B,2B,Stolen Base 2B,623520,David Bote,607229,Robert Gsellman,605170,Victor Caratini,R,Tomás Nido,621512,5,3,8,False,2019-06-23,Stolen,2B,2019,2020,27.6
+21,7600,1B,2B,Stolen Base 2B,623520,David Bote,450306,Jason Vargas,546991,Albert Almora Jr.,L,Tomás Nido,621512,1,1,2,False,2019-06-21,Stolen,2B,2019,2020,27.6
+22,7842,1B,2B,Stolen Base 2B,623520,David Bote,664854,Ryan Helsley,546991,Albert Almora Jr.,R,Matt Wieters,446308,3,0,7,False,2019-06-07,Stolen,2B,2019,2020,27.6
+23,7878,1B,,Caught Stealing 2B,623520,David Bote,608566,Germán Márquez,506433,Yu Darvish,R,Tony Wolters,547172,0,0,3,False,2019-06-05,Caught,2B,2019,2020,27.6
+24,2617,1B,,Caught Stealing 2B,623520,David Bote,656794,Sean Newcomb,664023,Ian Happ,L,Travis d'Arnaud,518595,2,4,6,False,2021-04-16,Caught,2B,2021,2022,26.6
+25,4541,1B,,Caught Stealing 2B,623520,David Bote,656794,Sean Newcomb,664023,Ian Happ,L,Travis d'Arnaud,518595,2,4,6,False,2021-04-16,Caught,2B,2021,2022,26.6
+26,100,1B,2B,Stolen Base 2B,623520,David Bote,628711,Julio Urías,592743,Andrelton Simmons,L,Will Smith,669257,0,5,1,True,2022-07-10,Stolen,2B,2022,2024,26.9
+27,245,2B,,Caught Stealing 3B,623520,David Bote,542881,Tyler Anderson,506433,Yu Darvish,L,Tony Wolters,547172,0,2,2,True,2018-04-21,Caught,3B,2018,2019,27.6

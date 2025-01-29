@@ -1,0 +1,41 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,38,1B,2B,Stolen Base 2B,663611,Nick Madrigal,592094,Jason Adam,641313,Tim Anderson,R,Willson Contreras,575929,7,5,6,False,2020-09-26,Stolen,2B,2020,2021,28.0
+1,173,1B,,Caught Stealing 2B,663611,Nick Madrigal,547179,Michael Lorenzen,547989,José Abreu,R,Tucker Barnhart,571466,0,0,3,True,2020-09-20,Caught,2B,2020,2021,28.0
+2,570,1B,2B,Stolen Base 2B,663611,Nick Madrigal,518813,Greg Holland,518735,Yasmani Grandal,R,Cam Gallagher,595956,2,2,9,False,2020-08-30,Stolen,2B,2020,2021,28.0
+3,2881,1B,2B,Stolen Base 2B,663611,Nick Madrigal,592094,Jason Adam,641313,Tim Anderson,R,Willson Contreras,575929,7,5,6,False,2020-09-26,Stolen,2B,2020,2021,28.0
+4,3016,1B,,Caught Stealing 2B,663611,Nick Madrigal,547179,Michael Lorenzen,547989,José Abreu,R,Tucker Barnhart,571466,0,0,3,True,2020-09-20,Caught,2B,2020,2021,28.0
+5,3413,1B,2B,Stolen Base 2B,663611,Nick Madrigal,518813,Greg Holland,518735,Yasmani Grandal,R,Cam Gallagher,595956,2,2,9,False,2020-08-30,Stolen,2B,2020,2021,28.0
+6,4805,1B,2B,Stolen Base 2B,663611,Nick Madrigal,592094,Jason Adam,641313,Tim Anderson,R,Willson Contreras,575929,7,5,6,False,2020-09-26,Stolen,2B,2020,2021,28.0
+7,4940,1B,,Caught Stealing 2B,663611,Nick Madrigal,547179,Michael Lorenzen,547989,José Abreu,R,Tucker Barnhart,571466,0,0,3,True,2020-09-20,Caught,2B,2020,2021,28.0
+8,5337,1B,2B,Stolen Base 2B,663611,Nick Madrigal,518813,Greg Holland,518735,Yasmani Grandal,R,Cam Gallagher,595956,2,2,9,False,2020-08-30,Stolen,2B,2020,2021,28.0
+9,1983,1B,,Caught Stealing 2B,663611,Nick Madrigal,643778,Tyler Webb,594809,Adam Eaton,L,Yadier Molina,425877,7,2,5,False,2021-05-25,Caught,2B,2021,2022,27.4
+10,2757,1B,2B,Stolen Base 2B,663611,Nick Madrigal,641871,Keynan Middleton,594809,Adam Eaton,R,Luis Torrens,620443,3,6,8,True,2021-04-06,Stolen,2B,2021,2022,27.4
+11,2831,1B,,Caught Stealing 2B,663611,Nick Madrigal,642083,Aaron Slegers,641313,Tim Anderson,R,Max Stassi,545358,2,3,7,True,2021-04-01,Caught,2B,2021,2022,27.4
+12,3907,1B,,Caught Stealing 2B,663611,Nick Madrigal,643778,Tyler Webb,594809,Adam Eaton,L,Yadier Molina,425877,7,2,5,False,2021-05-25,Caught,2B,2021,2022,27.4
+13,4681,1B,2B,Stolen Base 2B,663611,Nick Madrigal,641871,Keynan Middleton,594809,Adam Eaton,R,Luis Torrens,620443,3,6,8,True,2021-04-06,Stolen,2B,2021,2022,27.4
+14,4755,1B,,Caught Stealing 2B,663611,Nick Madrigal,642083,Aaron Slegers,641313,Tim Anderson,R,Max Stassi,545358,2,3,7,True,2021-04-01,Caught,2B,2021,2022,27.4
+15,500,1B,2B,Stolen Base 2B,663611,Nick Madrigal,694297,Brandon Pfaadt,666624,Christopher Morel,R,Seby Zavala,664874,4,0,4,False,2023-09-10,Stolen,2B,2023,2024,27.5
+16,1008,1B,2B,Stolen Base 2B,663611,Nick Madrigal,656638,Alex Lange,664023,Ian Happ,R,Jake Rogers,668670,8,6,9,True,2023-08-22,Stolen,2B,2023,2024,27.5
+17,1475,1B,2B,Stolen Base 2B,663611,Nick Madrigal,608371,Lucas Sims,663538,Nico Hoerner,R,Luke Maile,571912,4,6,7,False,2023-07-31,Stolen,2B,2023,2024,27.5
+18,2178,1B,2B,Stolen Base 2B,663611,Nick Madrigal,624133,Ranger Suárez,663538,Nico Hoerner,L,Garrett Stubbs,596117,0,2,3,False,2023-06-27,Stolen,2B,2023,2024,27.5
+19,2325,1B,2B,Stolen Base 2B,663611,Nick Madrigal,660787,Yerry De Los Santos,663538,Nico Hoerner,R,Jason Delay,641511,3,8,8,True,2023-06-21,Stolen,2B,2023,2024,27.5
+20,2346,1B,2B,Stolen Base 2B,663611,Nick Madrigal,621366,Ryan Borucki,643565,Mike Tauchman,L,Jason Delay,641511,0,4,7,True,2023-06-19,Stolen,2B,2023,2024,27.5
+21,2380,1B,2B,Stolen Base 2B,663611,Nick Madrigal,666974,Yennier Cano,663538,Nico Hoerner,R,Adley Rutschman,668939,3,5,7,False,2023-06-18,Stolen,2B,2023,2024,27.5
+22,2448,1B,2B,Stolen Base 2B,663611,Nick Madrigal,670912,Johan Oviedo,643565,Mike Tauchman,R,Jason Delay,641511,1,2,4,False,2023-06-15,Stolen,2B,2023,2024,27.5
+23,3811,1B,,Caught Stealing 2B,663611,Nick Madrigal,663385,Chad Smith,663538,Nico Hoerner,R,Shea Langeliers,669127,1,2,5,True,2023-04-19,Caught,2B,2023,2024,27.5
+24,3898,1B,2B,Stolen Base 2B,663611,Nick Madrigal,571946,Shelby Miller,621550,Patrick Wisdom,R,Austin Barnes,605131,0,1,9,True,2023-04-15,Stolen,2B,2023,2024,27.5
+25,4002,1B,,Caught Stealing 2B,663611,Nick Madrigal,642578,José Rodríguez,641820,Trey Mancini,R,Cal Raleigh,663728,14,8,6,False,2023-04-11,Caught,2B,2023,2024,27.5
+26,4032,2B,3B,Stolen Base 3B,663611,Nick Madrigal,666374,Matt Brash,571466,Tucker Barnhart,R,Tom Murphy,608596,2,2,10,False,2023-04-10,Stolen,3B,2023,2024,27.5
+27,4914,1B,2B,Stolen Base 2B,663611,Nick Madrigal,694297,Brandon Pfaadt,666624,Christopher Morel,R,Seby Zavala,664874,4,0,4,False,2023-09-10,Stolen,2B,2023,2024,27.5
+28,5422,1B,2B,Stolen Base 2B,663611,Nick Madrigal,656638,Alex Lange,664023,Ian Happ,R,Jake Rogers,668670,8,6,9,True,2023-08-22,Stolen,2B,2023,2024,27.5
+29,5889,1B,2B,Stolen Base 2B,663611,Nick Madrigal,608371,Lucas Sims,663538,Nico Hoerner,R,Luke Maile,571912,4,6,7,False,2023-07-31,Stolen,2B,2023,2024,27.5
+30,6592,1B,2B,Stolen Base 2B,663611,Nick Madrigal,624133,Ranger Suárez,663538,Nico Hoerner,L,Garrett Stubbs,596117,0,2,3,False,2023-06-27,Stolen,2B,2023,2024,27.5
+31,6739,1B,2B,Stolen Base 2B,663611,Nick Madrigal,660787,Yerry De Los Santos,663538,Nico Hoerner,R,Jason Delay,641511,3,8,8,True,2023-06-21,Stolen,2B,2023,2024,27.5
+32,6760,1B,2B,Stolen Base 2B,663611,Nick Madrigal,621366,Ryan Borucki,643565,Mike Tauchman,L,Jason Delay,641511,0,4,7,True,2023-06-19,Stolen,2B,2023,2024,27.5
+33,6794,1B,2B,Stolen Base 2B,663611,Nick Madrigal,666974,Yennier Cano,663538,Nico Hoerner,R,Adley Rutschman,668939,3,5,7,False,2023-06-18,Stolen,2B,2023,2024,27.5
+34,6862,1B,2B,Stolen Base 2B,663611,Nick Madrigal,670912,Johan Oviedo,643565,Mike Tauchman,R,Jason Delay,641511,1,2,4,False,2023-06-15,Stolen,2B,2023,2024,27.5
+35,8225,1B,,Caught Stealing 2B,663611,Nick Madrigal,663385,Chad Smith,663538,Nico Hoerner,R,Shea Langeliers,669127,1,2,5,True,2023-04-19,Caught,2B,2023,2024,27.5
+36,8312,1B,2B,Stolen Base 2B,663611,Nick Madrigal,571946,Shelby Miller,621550,Patrick Wisdom,R,Austin Barnes,605131,0,1,9,True,2023-04-15,Stolen,2B,2023,2024,27.5
+37,8416,1B,,Caught Stealing 2B,663611,Nick Madrigal,642578,José Rodríguez,641820,Trey Mancini,R,Cal Raleigh,663728,14,8,6,False,2023-04-11,Caught,2B,2023,2024,27.5
+38,8446,2B,3B,Stolen Base 3B,663611,Nick Madrigal,666374,Matt Brash,571466,Tucker Barnhart,R,Tom Murphy,608596,2,2,10,False,2023-04-10,Stolen,3B,2023,2024,27.5
+39,1366,1B,2B,Stolen Base 2B,663611,Nick Madrigal,641582,Matt Foster,664023,Ian Happ,R,Yasmani Grandal,518735,3,4,8,False,2022-05-04,Stolen,2B,2022,2023,28.0

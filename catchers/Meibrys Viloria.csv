@@ -1,0 +1,84 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,664056,Harrison Bader,518813,Greg Holland,669242,Tommy Edman,R,Meibrys Viloria,650619,6,0,5,False,2020-08-24,Stolen,2B,2020,2022, 83.2, 0.71
+1,1B,2B,Stolen Base 2B,608671,Travis Jankowski,534910,Jesse Hahn,458015,Joey Votto,R,Meibrys Viloria,650619,0,3,4,True,2020-08-19,Stolen,2B,2020,2022, 83.2, 0.71
+2,1B,2B,Stolen Base 2B,553993,Eugenio Suárez,642100,Gabe Speier,673451,Shogo Akiyama,L,Meibrys Viloria,650619,0,4,5,True,2020-08-19,Stolen,2B,2020,2022, 83.2, 0.71
+3,1B,2B,Stolen Base 2B,608671,Travis Jankowski,534910,Jesse Hahn,458015,Joey Votto,R,Meibrys Viloria,650619,0,3,4,True,2020-08-18,Stolen,2B,2020,2022, 83.2, 0.71
+4,1B,2B,Stolen Base 2B,553993,Eugenio Suárez,642100,Gabe Speier,673451,Shogo Akiyama,L,Meibrys Viloria,650619,0,4,5,True,2020-08-18,Stolen,2B,2020,2022, 83.2, 0.71
+5,1B,2B,Stolen Base 2B,664056,Harrison Bader,518813,Greg Holland,669242,Tommy Edman,R,Meibrys Viloria,650619,6,0,5,False,2020-08-24,Stolen,2B,2020,2022, 83.2, 0.71
+6,1B,2B,Stolen Base 2B,608671,Travis Jankowski,534910,Jesse Hahn,458015,Joey Votto,R,Meibrys Viloria,650619,0,3,4,True,2020-08-19,Stolen,2B,2020,2022, 83.2, 0.71
+7,1B,2B,Stolen Base 2B,553993,Eugenio Suárez,642100,Gabe Speier,673451,Shogo Akiyama,L,Meibrys Viloria,650619,0,4,5,True,2020-08-19,Stolen,2B,2020,2022, 83.2, 0.71
+8,1B,2B,Stolen Base 2B,608671,Travis Jankowski,534910,Jesse Hahn,458015,Joey Votto,R,Meibrys Viloria,650619,0,3,4,True,2020-08-18,Stolen,2B,2020,2022, 83.2, 0.71
+9,1B,2B,Stolen Base 2B,553993,Eugenio Suárez,642100,Gabe Speier,673451,Shogo Akiyama,L,Meibrys Viloria,650619,0,4,5,True,2020-08-18,Stolen,2B,2020,2022, 83.2, 0.71
+10,1B,2B,Stolen Base 2B,664056,Harrison Bader,518813,Greg Holland,669242,Tommy Edman,R,Meibrys Viloria,650619,6,0,5,False,2020-08-24,Stolen,2B,2020,2022, 83.2, 0.71
+11,1B,2B,Stolen Base 2B,608671,Travis Jankowski,534910,Jesse Hahn,458015,Joey Votto,R,Meibrys Viloria,650619,0,3,4,True,2020-08-19,Stolen,2B,2020,2022, 83.2, 0.71
+12,1B,2B,Stolen Base 2B,553993,Eugenio Suárez,642100,Gabe Speier,673451,Shogo Akiyama,L,Meibrys Viloria,650619,0,4,5,True,2020-08-19,Stolen,2B,2020,2022, 83.2, 0.71
+13,1B,2B,Stolen Base 2B,608671,Travis Jankowski,534910,Jesse Hahn,458015,Joey Votto,R,Meibrys Viloria,650619,0,3,4,True,2020-08-18,Stolen,2B,2020,2022, 83.2, 0.71
+14,1B,2B,Stolen Base 2B,553993,Eugenio Suárez,642100,Gabe Speier,673451,Shogo Akiyama,L,Meibrys Viloria,650619,0,4,5,True,2020-08-18,Stolen,2B,2020,2022, 83.2, 0.71
+15,1B,2B,Stolen Base 2B,534606,Ryan LaMarre,623470,Jake Newberry,595909,Jake Cave,R,Meibrys Viloria,650619,2,6,6,True,2019-09-27,Stolen,2B,2019,2020, 80.6, 0.88
+16,1B,,Caught Stealing 2B,534606,Ryan LaMarre,543557,Mike Montgomery,641598,Mitch Garver,L,Meibrys Viloria,650619,4,4,4,False,2019-09-19,Caught,2B,2019,2020, 80.6, 0.88
+17,1B,2B,Stolen Base 2B,595777,Jurickson Profar,534910,Jesse Hahn,543760,Marcus Semien,R,Meibrys Viloria,650619,0,0,11,False,2019-09-18,Stolen,2B,2019,2020, 80.6, 0.88
+18,1B,2B,Stolen Base 2B,657656,Ramón Laureano,657612,Tim Hill,592192,Mark Canha,L,Meibrys Viloria,650619,4,4,5,False,2019-09-16,Stolen,2B,2019,2020, 80.6, 0.88
+19,1B,2B,Stolen Base 2B,663656,Kyle Tucker,543557,Mike Montgomery,455139,Robinson Chirinos,L,Meibrys Viloria,650619,1,1,4,True,2019-09-14,Stolen,2B,2019,2020, 80.6, 0.88
+20,2B,3B,Stolen Base 3B,663656,Kyle Tucker,543557,Mike Montgomery,647351,Abraham Toro,L,Meibrys Viloria,650619,1,1,4,True,2019-09-14,Stolen,3B,2019,2020, 80.6, 0.88
+21,1B,2B,Stolen Base 2B,455139,Robinson Chirinos,543557,Mike Montgomery,647351,Abraham Toro,L,Meibrys Viloria,650619,1,1,4,True,2019-09-14,Stolen,2B,2019,2020, 80.6, 0.88
+22,1B,2B,Stolen Base 2B,542340,Jonathan Villar,518633,Danny Duffy,600474,Pedro Severino,L,Meibrys Viloria,650619,3,4,6,True,2019-09-01,Stolen,2B,2019,2020, 80.6, 0.88
+23,1B,2B,Stolen Base 2B,621006,Richie Martin,641838,Kevin McCarthy,593643,Hanser Alberto,R,Meibrys Viloria,650619,3,4,7,True,2019-09-01,Stolen,2B,2019,2020, 80.6, 0.88
+24,2B,,Caught Stealing 3B,543760,Marcus Semien,543557,Mike Montgomery,656305,Matt Chapman,L,Meibrys Viloria,650619,0,2,2,True,2019-08-27,Caught,3B,2019,2020, 80.6, 0.88
+25,1B,,Caught Stealing 2B,595777,Jurickson Profar,453178,Ian Kennedy,664913,Seth Brown,R,Meibrys Viloria,650619,1,2,9,True,2019-08-27,Caught,2B,2019,2020, 80.6, 0.88
+26,1B,2B,Stolen Base 2B,543401,Jason Kipnis,596001,Jakob Junis,571980,Tyler Naquin,R,Meibrys Viloria,650619,4,0,3,False,2019-08-23,Stolen,2B,2019,2020, 80.6, 0.88
+27,2B,,Caught Stealing 3B,542340,Jonathan Villar,543557,Mike Montgomery,621466,DJ Stewart,L,Meibrys Viloria,650619,5,1,5,False,2019-08-21,Caught,3B,2019,2020, 80.6, 0.88
+28,1B,2B,Stolen Base 2B,642708,Amed Rosario,596001,Jakob Junis,605412,Joe Panik,R,Meibrys Viloria,650619,0,0,3,True,2019-08-17,Stolen,2B,2019,2020, 80.6, 0.88
+29,1B,,Caught Stealing 2B,657557,Paul DeJong,642098,Glenn Sparkman,425877,Yadier Molina,R,Meibrys Viloria,650619,0,1,2,True,2019-08-13,Caught,2B,2019,2020, 80.6, 0.88
+30,1B,2B,Stolen Base 2B,542303,Marcell Ozuna,605130,Scott Barlow,572761,Matt Carpenter,R,Meibrys Viloria,650619,0,2,9,True,2019-08-13,Stolen,2B,2019,2020, 80.6, 0.88
+31,1B,,Caught Stealing 2B,641525,Brandon Dixon,543557,Mike Montgomery,608475,Dawel Lugo,L,Meibrys Viloria,650619,0,2,5,False,2019-08-10,Caught,2B,2019,2020, 80.6, 0.88
+32,2B,,Caught Stealing 3B,666971,Lourdes Gurriel Jr.,543557,Mike Montgomery,665489,Vladimir Guerrero Jr.,L,Meibrys Viloria,650619,0,2,1,True,2019-07-30,Caught,3B,2019,2020, 80.6, 0.88
+33,1B,2B,Caught Stealing 3B,545341,Randal Grichuk,543557,Mike Montgomery,665489,Vladimir Guerrero Jr.,L,Meibrys Viloria,650619,0,2,1,True,2019-07-30,Caught,3B,2019,2020, 80.6, 0.88
+34,1B,,Caught Stealing 2B,656669,Jordan Luplow,543557,Mike Montgomery,608070,José Ramírez,L,Meibrys Viloria,650619,1,1,1,False,2019-07-19,Caught,2B,2019,2020, 80.6, 0.88
+35,2B,3B,Stolen Base 3B,596019,Francisco Lindor,543557,Mike Montgomery,640458,Óscar Mercado,L,Meibrys Viloria,650619,4,2,3,False,2019-07-19,Stolen,3B,2019,2020, 80.6, 0.88
+36,1B,2B,Stolen Base 2B,640458,Óscar Mercado,503449,Wily Peralta,467793,Carlos Santana,R,Meibrys Viloria,650619,7,5,8,False,2019-07-19,Stolen,2B,2019,2020, 80.6, 0.88
+37,1B,2B,Stolen Base 2B,534606,Ryan LaMarre,623470,Jake Newberry,595909,Jake Cave,R,Meibrys Viloria,650619,2,6,6,True,2019-09-27,Stolen,2B,2019,2020, 80.6, 0.88
+38,1B,,Caught Stealing 2B,534606,Ryan LaMarre,543557,Mike Montgomery,641598,Mitch Garver,L,Meibrys Viloria,650619,4,4,4,False,2019-09-19,Caught,2B,2019,2020, 80.6, 0.88
+39,1B,2B,Stolen Base 2B,595777,Jurickson Profar,534910,Jesse Hahn,543760,Marcus Semien,R,Meibrys Viloria,650619,0,0,11,False,2019-09-18,Stolen,2B,2019,2020, 80.6, 0.88
+40,1B,2B,Stolen Base 2B,657656,Ramón Laureano,657612,Tim Hill,592192,Mark Canha,L,Meibrys Viloria,650619,4,4,5,False,2019-09-16,Stolen,2B,2019,2020, 80.6, 0.88
+41,1B,2B,Stolen Base 2B,663656,Kyle Tucker,543557,Mike Montgomery,455139,Robinson Chirinos,L,Meibrys Viloria,650619,1,1,4,True,2019-09-14,Stolen,2B,2019,2020, 80.6, 0.88
+42,2B,3B,Stolen Base 3B,663656,Kyle Tucker,543557,Mike Montgomery,647351,Abraham Toro,L,Meibrys Viloria,650619,1,1,4,True,2019-09-14,Stolen,3B,2019,2020, 80.6, 0.88
+43,1B,2B,Stolen Base 2B,455139,Robinson Chirinos,543557,Mike Montgomery,647351,Abraham Toro,L,Meibrys Viloria,650619,1,1,4,True,2019-09-14,Stolen,2B,2019,2020, 80.6, 0.88
+44,1B,2B,Stolen Base 2B,542340,Jonathan Villar,518633,Danny Duffy,600474,Pedro Severino,L,Meibrys Viloria,650619,3,4,6,True,2019-09-01,Stolen,2B,2019,2020, 80.6, 0.88
+45,1B,2B,Stolen Base 2B,621006,Richie Martin,641838,Kevin McCarthy,593643,Hanser Alberto,R,Meibrys Viloria,650619,3,4,7,True,2019-09-01,Stolen,2B,2019,2020, 80.6, 0.88
+46,2B,,Caught Stealing 3B,543760,Marcus Semien,543557,Mike Montgomery,656305,Matt Chapman,L,Meibrys Viloria,650619,0,2,2,True,2019-08-27,Caught,3B,2019,2020, 80.6, 0.88
+47,1B,,Caught Stealing 2B,595777,Jurickson Profar,453178,Ian Kennedy,664913,Seth Brown,R,Meibrys Viloria,650619,1,2,9,True,2019-08-27,Caught,2B,2019,2020, 80.6, 0.88
+48,1B,2B,Stolen Base 2B,543401,Jason Kipnis,596001,Jakob Junis,571980,Tyler Naquin,R,Meibrys Viloria,650619,4,0,3,False,2019-08-23,Stolen,2B,2019,2020, 80.6, 0.88
+49,2B,,Caught Stealing 3B,542340,Jonathan Villar,543557,Mike Montgomery,621466,DJ Stewart,L,Meibrys Viloria,650619,5,1,5,False,2019-08-21,Caught,3B,2019,2020, 80.6, 0.88
+50,1B,2B,Stolen Base 2B,642708,Amed Rosario,596001,Jakob Junis,605412,Joe Panik,R,Meibrys Viloria,650619,0,0,3,True,2019-08-17,Stolen,2B,2019,2020, 80.6, 0.88
+51,1B,,Caught Stealing 2B,657557,Paul DeJong,642098,Glenn Sparkman,425877,Yadier Molina,R,Meibrys Viloria,650619,0,1,2,True,2019-08-13,Caught,2B,2019,2020, 80.6, 0.88
+52,1B,2B,Stolen Base 2B,542303,Marcell Ozuna,605130,Scott Barlow,572761,Matt Carpenter,R,Meibrys Viloria,650619,0,2,9,True,2019-08-13,Stolen,2B,2019,2020, 80.6, 0.88
+53,1B,,Caught Stealing 2B,641525,Brandon Dixon,543557,Mike Montgomery,608475,Dawel Lugo,L,Meibrys Viloria,650619,0,2,5,False,2019-08-10,Caught,2B,2019,2020, 80.6, 0.88
+54,2B,,Caught Stealing 3B,666971,Lourdes Gurriel Jr.,543557,Mike Montgomery,665489,Vladimir Guerrero Jr.,L,Meibrys Viloria,650619,0,2,1,True,2019-07-30,Caught,3B,2019,2020, 80.6, 0.88
+55,1B,2B,Caught Stealing 3B,545341,Randal Grichuk,543557,Mike Montgomery,665489,Vladimir Guerrero Jr.,L,Meibrys Viloria,650619,0,2,1,True,2019-07-30,Caught,3B,2019,2020, 80.6, 0.88
+56,1B,,Caught Stealing 2B,656669,Jordan Luplow,543557,Mike Montgomery,608070,José Ramírez,L,Meibrys Viloria,650619,1,1,1,False,2019-07-19,Caught,2B,2019,2020, 80.6, 0.88
+57,2B,3B,Stolen Base 3B,596019,Francisco Lindor,543557,Mike Montgomery,640458,Óscar Mercado,L,Meibrys Viloria,650619,4,2,3,False,2019-07-19,Stolen,3B,2019,2020, 80.6, 0.88
+58,1B,2B,Stolen Base 2B,640458,Óscar Mercado,503449,Wily Peralta,467793,Carlos Santana,R,Meibrys Viloria,650619,7,5,8,False,2019-07-19,Stolen,2B,2019,2020, 80.6, 0.88
+59,1B,2B,Stolen Base 2B,534606,Ryan LaMarre,623470,Jake Newberry,595909,Jake Cave,R,Meibrys Viloria,650619,2,6,6,True,2019-09-27,Stolen,2B,2019,2020, 80.6, 0.88
+60,1B,,Caught Stealing 2B,534606,Ryan LaMarre,543557,Mike Montgomery,641598,Mitch Garver,L,Meibrys Viloria,650619,4,4,4,False,2019-09-19,Caught,2B,2019,2020, 80.6, 0.88
+61,1B,2B,Stolen Base 2B,595777,Jurickson Profar,534910,Jesse Hahn,543760,Marcus Semien,R,Meibrys Viloria,650619,0,0,11,False,2019-09-18,Stolen,2B,2019,2020, 80.6, 0.88
+62,1B,2B,Stolen Base 2B,657656,Ramón Laureano,657612,Tim Hill,592192,Mark Canha,L,Meibrys Viloria,650619,4,4,5,False,2019-09-16,Stolen,2B,2019,2020, 80.6, 0.88
+63,1B,2B,Stolen Base 2B,663656,Kyle Tucker,543557,Mike Montgomery,455139,Robinson Chirinos,L,Meibrys Viloria,650619,1,1,4,True,2019-09-14,Stolen,2B,2019,2020, 80.6, 0.88
+64,2B,3B,Stolen Base 3B,663656,Kyle Tucker,543557,Mike Montgomery,647351,Abraham Toro,L,Meibrys Viloria,650619,1,1,4,True,2019-09-14,Stolen,3B,2019,2020, 80.6, 0.88
+65,1B,2B,Stolen Base 2B,455139,Robinson Chirinos,543557,Mike Montgomery,647351,Abraham Toro,L,Meibrys Viloria,650619,1,1,4,True,2019-09-14,Stolen,2B,2019,2020, 80.6, 0.88
+66,1B,2B,Stolen Base 2B,542340,Jonathan Villar,518633,Danny Duffy,600474,Pedro Severino,L,Meibrys Viloria,650619,3,4,6,True,2019-09-01,Stolen,2B,2019,2020, 80.6, 0.88
+67,1B,2B,Stolen Base 2B,621006,Richie Martin,641838,Kevin McCarthy,593643,Hanser Alberto,R,Meibrys Viloria,650619,3,4,7,True,2019-09-01,Stolen,2B,2019,2020, 80.6, 0.88
+68,2B,,Caught Stealing 3B,543760,Marcus Semien,543557,Mike Montgomery,656305,Matt Chapman,L,Meibrys Viloria,650619,0,2,2,True,2019-08-27,Caught,3B,2019,2020, 80.6, 0.88
+69,1B,,Caught Stealing 2B,595777,Jurickson Profar,453178,Ian Kennedy,664913,Seth Brown,R,Meibrys Viloria,650619,1,2,9,True,2019-08-27,Caught,2B,2019,2020, 80.6, 0.88
+70,1B,2B,Stolen Base 2B,543401,Jason Kipnis,596001,Jakob Junis,571980,Tyler Naquin,R,Meibrys Viloria,650619,4,0,3,False,2019-08-23,Stolen,2B,2019,2020, 80.6, 0.88
+71,2B,,Caught Stealing 3B,542340,Jonathan Villar,543557,Mike Montgomery,621466,DJ Stewart,L,Meibrys Viloria,650619,5,1,5,False,2019-08-21,Caught,3B,2019,2020, 80.6, 0.88
+72,1B,2B,Stolen Base 2B,642708,Amed Rosario,596001,Jakob Junis,605412,Joe Panik,R,Meibrys Viloria,650619,0,0,3,True,2019-08-17,Stolen,2B,2019,2020, 80.6, 0.88
+73,1B,,Caught Stealing 2B,657557,Paul DeJong,642098,Glenn Sparkman,425877,Yadier Molina,R,Meibrys Viloria,650619,0,1,2,True,2019-08-13,Caught,2B,2019,2020, 80.6, 0.88
+74,1B,2B,Stolen Base 2B,542303,Marcell Ozuna,605130,Scott Barlow,572761,Matt Carpenter,R,Meibrys Viloria,650619,0,2,9,True,2019-08-13,Stolen,2B,2019,2020, 80.6, 0.88
+75,1B,,Caught Stealing 2B,641525,Brandon Dixon,543557,Mike Montgomery,608475,Dawel Lugo,L,Meibrys Viloria,650619,0,2,5,False,2019-08-10,Caught,2B,2019,2020, 80.6, 0.88
+76,2B,,Caught Stealing 3B,666971,Lourdes Gurriel Jr.,543557,Mike Montgomery,665489,Vladimir Guerrero Jr.,L,Meibrys Viloria,650619,0,2,1,True,2019-07-30,Caught,3B,2019,2020, 80.6, 0.88
+77,1B,2B,Caught Stealing 3B,545341,Randal Grichuk,543557,Mike Montgomery,665489,Vladimir Guerrero Jr.,L,Meibrys Viloria,650619,0,2,1,True,2019-07-30,Caught,3B,2019,2020, 80.6, 0.88
+78,1B,,Caught Stealing 2B,656669,Jordan Luplow,543557,Mike Montgomery,608070,José Ramírez,L,Meibrys Viloria,650619,1,1,1,False,2019-07-19,Caught,2B,2019,2020, 80.6, 0.88
+79,2B,3B,Stolen Base 3B,596019,Francisco Lindor,543557,Mike Montgomery,640458,Óscar Mercado,L,Meibrys Viloria,650619,4,2,3,False,2019-07-19,Stolen,3B,2019,2020, 80.6, 0.88
+80,1B,2B,Stolen Base 2B,640458,Óscar Mercado,503449,Wily Peralta,467793,Carlos Santana,R,Meibrys Viloria,650619,7,5,8,False,2019-07-19,Stolen,2B,2019,2020, 80.6, 0.88
+81,1B,,Caught Stealing 2B,596146,Max Kepler,572070,Garrett Richards,593871,Jorge Polanco,R,Meibrys Viloria,650619,5,6,9,True,2022-07-10,Caught,2B,2022,2023, 80.0, 0.72
+82,1B,,Caught Stealing 2B,643217,Andrew Benintendi,641540,Dane Dunning,677951,Bobby Witt Jr.,R,Meibrys Viloria,650619,2,1,5,False,2022-06-29,Caught,2B,2022,2023, 80.0, 0.72

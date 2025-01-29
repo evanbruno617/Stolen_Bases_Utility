@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1247,1B,2B,Stolen Base 2B,489365,Josh Thole,Brian McCann,1,1,4,True,2010-08-03,Stolen,2B,2010
+4006,1B,,Caught Stealing 2B,489365,Josh Thole,Brian McCann,1,3,5,True,2011-04-17,Caught,2B,2011
+2893,1B,,Caught Stealing 2B,489365,Josh Thole,Wil Nieves,4,1,4,False,2014-05-08,Caught,2B,2014
+3353,1B,,Caught Stealing 2B,489365,Josh Thole,Kurt Suzuki,0,0,5,True,2014-04-17,Caught,2B,2014
+3632,1B,,Caught Stealing 2B,489365,Josh Thole,Francisco Cervelli,1,0,2,False,2014-04-05,Caught,2B,2014

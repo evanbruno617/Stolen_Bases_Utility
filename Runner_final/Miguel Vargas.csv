@@ -1,0 +1,11 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2672,1B,2B,Stolen Base 2B,678246,Miguel Vargas,622065,Alex Young,605141,Mookie Betts,L,Curt Casali,592200,4,8,6,True,2023-06-06,Stolen,2B,2023,2024,28.6
+1,2700,1B,,Caught Stealing 2B,678246,Miguel Vargas,593334,Domingo Germán,621035,Chris Taylor,R,Kyle Higashioka,543309,0,0,5,False,2023-06-04,Caught,2B,2023,2024,28.6
+2,3156,1B,,Caught Stealing 2B,678246,Miguel Vargas,663558,Jovani Moran,681546,James Outman,L,Christian Vázquez,543877,2,1,5,False,2023-05-17,Caught,2B,2023,2024,28.6
+3,3487,1B,2B,Stolen Base 2B,678246,Miguel Vargas,621237,José Alvarado,605131,Austin Barnes,L,Garrett Stubbs,596117,6,5,8,False,2023-05-03,Stolen,2B,2023,2024,28.6
+4,3658,1B,2B,Stolen Base 2B,678246,Miguel Vargas,672710,Roansy Contreras,621035,Chris Taylor,R,Jason Delay,641511,0,0,5,True,2023-04-26,Stolen,2B,2023,2024,28.6
+5,7086,1B,2B,Stolen Base 2B,678246,Miguel Vargas,622065,Alex Young,605141,Mookie Betts,L,Curt Casali,592200,4,8,6,True,2023-06-06,Stolen,2B,2023,2024,28.6
+6,7114,1B,,Caught Stealing 2B,678246,Miguel Vargas,593334,Domingo Germán,621035,Chris Taylor,R,Kyle Higashioka,543309,0,0,5,False,2023-06-04,Caught,2B,2023,2024,28.6
+7,7570,1B,,Caught Stealing 2B,678246,Miguel Vargas,663558,Jovani Moran,681546,James Outman,L,Christian Vázquez,543877,2,1,5,False,2023-05-17,Caught,2B,2023,2024,28.6
+8,7901,1B,2B,Stolen Base 2B,678246,Miguel Vargas,621237,José Alvarado,605131,Austin Barnes,L,Garrett Stubbs,596117,6,5,8,False,2023-05-03,Stolen,2B,2023,2024,28.6
+9,8072,1B,2B,Stolen Base 2B,678246,Miguel Vargas,672710,Roansy Contreras,621035,Chris Taylor,R,Jason Delay,641511,0,0,5,True,2023-04-26,Stolen,2B,2023,2024,28.6

@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3996,1B,,Caught Stealing 2B,446653,Jose Lobaton,Alex Avila,1,0,3,True,2012-04-11,Caught,2B,2012
+1634,1B,,Caught Stealing 2B,446653,Jose Lobaton,Joe Mauer,0,0,3,False,2013-07-09,Caught,2B,2013
+442,1B,2B,Caught Stealing 3B,446653,Jose Lobaton,J.T. Realmuto,0,2,2,True,2017-09-06,Caught,3B,2017

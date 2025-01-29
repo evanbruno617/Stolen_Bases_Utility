@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2019,1B,,Caught Stealing 2B,543094,Jaff Decker,A.J. Ellis,6,2,8,False,2013-06-20,Caught,2B,2013
+2966,1B,,Caught Stealing 2B,543094,Jaff Decker,Martín Maldonado,0,0,4,True,2017-04-25,Caught,2B,2017
+3148,1B,2B,Stolen Base 2B,543094,Jaff Decker,Brian McCann,5,2,6,False,2017-04-15,Stolen,2B,2017
+3396,1B,2B,Stolen Base 2B,543094,Jaff Decker,Nick Hundley,3,4,6,False,2017-04-01,Stolen,2B,2017

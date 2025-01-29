@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1462,1B,2B,Stolen Base 2B,546991,Albert Almora Jr.,Caleb Joseph,0,3,4,True,2017-07-15,Stolen,2B,2017
+623,1B,,Caught Stealing 2B,546991,Albert Almora Jr.,Wilson Ramos,0,1,6,True,2018-08-31,Caught,2B,2018
+1890,1B,,Caught Stealing 2B,546991,Albert Almora Jr.,Yasmani Grandal,4,0,8,False,2018-06-20,Caught,2B,2018
+2130,1B,2B,Stolen Base 2B,546991,Albert Almora Jr.,Jorge Alfaro,3,0,4,False,2018-06-06,Stolen,2B,2018
+2859,1B,,Caught Stealing 2B,546991,Albert Almora Jr.,Jett Bandy,0,0,1,False,2018-04-26,Caught,2B,2018
+2755,1B,2B,Stolen Base 2B,546991,Albert Almora Jr.,Jonathan Lucroy,5,1,7,False,2019-04-12,Stolen,2B,2019
+2853,1B,2B,Stolen Base 2B,546991,Albert Almora Jr.,Yasmani Grandal,2,6,6,True,2019-04-06,Stolen,2B,2019
+1110,1B,2B,Stolen Base 2B,546991,Albert Almora Jr.,Jacob Stallings,0,3,9,True,2022-08-01,Stolen,2B,2022
+2100,1B,2B,Stolen Base 2B,546991,Albert Almora Jr.,Keibert Ruiz,3,2,1,False,2022-06-05,Stolen,2B,2022
+2160,1B,,Caught Stealing 2B,546991,Albert Almora Jr.,Keibert Ruiz,3,0,4,False,2022-06-02,Caught,2B,2022
+2621,1B,2B,Stolen Base 2B,546991,Albert Almora Jr.,Michael Pérez,0,2,5,False,2022-05-08,Stolen,2B,2022

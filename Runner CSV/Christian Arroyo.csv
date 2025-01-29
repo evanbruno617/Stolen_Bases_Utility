@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2523,1B,,Caught Stealing 2B,624414,Christian Arroyo,Austin Barnes,2,1,7,False,2017-05-16,Caught,2B,2017
+2546,1B,2B,Stolen Base 2B,624414,Christian Arroyo,Yasmani Grandal,6,1,6,False,2017-05-15,Stolen,2B,2017
+2617,1B,,Caught Stealing 2B,624414,Christian Arroyo,Tucker Barnhart,1,2,4,False,2017-05-12,Caught,2B,2017
+2622,1B,2B,Stolen Base 2B,624414,Christian Arroyo,Ryan Jeffers,3,0,8,True,2021-04-15,Stolen,2B,2021
+662,1B,2B,Stolen Base 2B,624414,Christian Arroyo,Danny Jansen,0,2,2,False,2022-08-25,Stolen,2B,2022
+664,1B,2B,Stolen Base 2B,624414,Christian Arroyo,Danny Jansen,5,5,7,False,2022-08-25,Stolen,2B,2022
+2020,1B,2B,Stolen Base 2B,624414,Christian Arroyo,Max Stassi,5,1,8,True,2022-06-09,Stolen,2B,2022
+2085,1B,2B,Stolen Base 2B,624414,Christian Arroyo,Max Stassi,0,1,5,True,2022-06-06,Stolen,2B,2022
+2798,1B,2B,Stolen Base 2B,624414,Christian Arroyo,Alejandro Kirk,1,0,5,True,2022-04-28,Stolen,2B,2022
+1557,1B,,Caught Stealing 2B,624414,Christian Arroyo,Sean Murphy,5,3,8,False,2023-07-26,Caught,2B,2023
+1972,1B,,Caught Stealing 2B,624414,Christian Arroyo,Jonah Heim,2,0,4,False,2023-07-05,Caught,2B,2023
+2301,1B,,Caught Stealing 2B,624414,Christian Arroyo,Christian Vázquez,3,3,6,True,2023-06-21,Caught,2B,2023
+4152,1B,2B,Stolen Base 2B,624414,Christian Arroyo,Jason Delay,1,4,7,False,2023-04-05,Stolen,2B,2023

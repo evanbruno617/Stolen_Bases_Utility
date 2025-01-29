@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1072,1B,2B,Stolen Base 2B,458628,Joe Mather,Russell Martin,8,4,7,False,2008-08-06,Stolen,2B,2008
+2698,1B,2B,Stolen Base 2B,458628,Joe Mather,Yadier Molina,2,2,1,False,2009-04-04,Stolen,2B,2009
+3163,1B,2B,Stolen Base 2B,458628,Joe Mather,Ryan Doumit,3,4,9,True,2010-05-07,Stolen,2B,2010
+374,2B,3B,Stolen Base 3B,458628,Joe Mather,Rod Barajas,1,3,3,False,2012-09-15,Stolen,3B,2012
+500,2B,3B,Stolen Base 3B,458628,Joe Mather,Michael McKenry,1,0,3,True,2012-09-09,Stolen,3B,2012
+731,1B,2B,Stolen Base 2B,458628,Joe Mather,Buster Posey,1,0,1,False,2012-08-31,Stolen,2B,2012
+857,1B,,Caught Stealing 2B,458628,Joe Mather,Wilin Rosario,3,4,7,False,2012-08-25,Caught,2B,2012
+2980,1B,2B,Stolen Base 2B,458628,Joe Mather,Jason Castro,2,1,8,True,2012-05-23,Stolen,2B,2012
+3558,1B,2B,Stolen Base 2B,458628,Joe Mather,Brian Schneider,0,1,2,True,2012-04-29,Stolen,2B,2012

@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1727,1B,2B,Stolen Base 2B,542455,Oswaldo Arcia,Josh Thole,0,3,6,True,2013-07-06,Stolen,2B,2013
+2031,1B,,Caught Stealing 2B,542455,Oswaldo Arcia,Hector Gimenez,8,4,7,False,2013-06-20,Caught,2B,2013
+2957,1B,,Caught Stealing 2B,542455,Oswaldo Arcia,Carlos Santana,1,2,5,True,2013-05-05,Caught,2B,2013
+1731,1B,2B,Stolen Base 2B,542455,Oswaldo Arcia,Francisco Cervelli,5,6,8,False,2014-07-04,Stolen,2B,2014
+3652,1B,,Caught Stealing 2B,542455,Oswaldo Arcia,Yan Gomes,0,2,6,True,2014-04-04,Caught,2B,2014
+737,1B,,Caught Stealing 2B,542455,Oswaldo Arcia,Jett Bandy,2,1,5,False,2016-07-04,Caught,2B,2016
+800,1B,2B,Stolen Base 2B,542455,Oswaldo Arcia,James McCann,6,2,8,False,2016-06-30,Stolen,2B,2016

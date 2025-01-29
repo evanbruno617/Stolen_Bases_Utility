@@ -1,0 +1,26 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,446928,Joe Inglett,Shawn Riggans,1,0,3,False,2008-09-07,Stolen,2B,2008
+1B,2B,Stolen Base 2B,406878,Brian Roberts,Shawn Riggans,0,0,1,True,2008-08-29,Stolen,2B,2008
+2B,3B,Stolen Base 3B,406878,Brian Roberts,Shawn Riggans,0,0,1,True,2008-08-29,Stolen,3B,2008
+1B,,Caught Stealing 2B,446928,Joe Inglett,Shawn Riggans,1,0,3,True,2008-08-28,Caught,2B,2008
+1B,2B,Stolen Base 2B,460051,Chris Getz,Shawn Riggans,5,5,9,False,2008-08-24,Stolen,2B,2008
+2B,3B,Stolen Base 3B,408210,Chone Figgins,Shawn Riggans,4,4,9,True,2008-08-20,Stolen,3B,2008
+1B,2B,Stolen Base 2B,407893,Mark Teixeira,Shawn Riggans,4,4,9,True,2008-08-20,Stolen,2B,2008
+1B,2B,Stolen Base 2B,430598,Jeremy Reed,Shawn Riggans,0,0,1,False,2008-08-10,Stolen,2B,2008
+1B,2B,Stolen Base 2B,400085,Ichiro Suzuki,Shawn Riggans,1,8,5,False,2008-08-10,Stolen,2B,2008
+2B,3B,Stolen Base 3B,407397,Esteban German,Shawn Riggans,6,1,7,False,2008-07-27,Stolen,3B,2008
+1B,2B,Stolen Base 2B,446928,Joe Inglett,Shawn Riggans,1,1,3,True,2008-07-20,Stolen,2B,2008
+2B,3B,Stolen Base 3B,425567,Alex Rios,Shawn Riggans,4,6,5,True,2008-07-20,Stolen,3B,2008
+1B,2B,Stolen Base 2B,429713,Grady Sizemore,Shawn Riggans,0,0,1,False,2008-07-13,Stolen,2B,2008
+2B,3B,Stolen Base 3B,204020,Lance Berkman,Shawn Riggans,2,3,8,True,2008-06-21,Stolen,3B,2008
+1B,2B,Stolen Base 2B,460576,Carlos Gómez,Shawn Riggans,0,1,3,False,2008-04-16,Stolen,2B,2008
+1B,2B,Stolen Base 2B,460576,Carlos Gómez,Shawn Riggans,2,3,5,False,2008-04-16,Stolen,2B,2008
+2B,3B,Stolen Base 3B,430321,Delmon Young,Shawn Riggans,5,3,5,False,2008-04-16,Stolen,3B,2008
+1B,2B,Stolen Base 2B,466320,Melky Cabrera,Shawn Riggans,2,7,5,True,2008-04-14,Stolen,2B,2008
+2B,3B,Stolen Base 3B,406878,Brian Roberts,Shawn Riggans,0,0,1,True,2008-04-12,Stolen,3B,2008
+1B,2B,Stolen Base 2B,455976,Nick Markakis,Shawn Riggans,0,2,6,True,2008-04-12,Stolen,2B,2008
+1B,2B,Stolen Base 2B,430946,Jose Lopez,Shawn Riggans,1,4,7,True,2008-04-09,Stolen,2B,2008
+1B,2B,Stolen Base 2B,453056,Jacoby Ellsbury,Shawn Riggans,0,0,1,False,2009-04-09,Stolen,2B,2009
+1B,2B,Stolen Base 2B,111548,Emil Brown,Shawn Riggans,0,1,2,True,2007-06-01,Stolen,2B,2007
+1B,2B,Stolen Base 2B,122111,Gary Sheffield,Shawn Riggans,2,5,7,True,2007-05-28,Stolen,2B,2007
+1B,2B,Stolen Base 2B,122111,Gary Sheffield,Shawn Riggans,4,5,9,True,2007-05-28,Stolen,2B,2007

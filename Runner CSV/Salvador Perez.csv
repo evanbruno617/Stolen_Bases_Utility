@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3645,1B,2B,Stolen Base 2B,521692,Salvador Perez,Tyler Flowers,7,5,8,False,2014-04-04,Stolen,2B,2014
+3381,1B,2B,Stolen Base 2B,521692,Salvador Perez,Tyler Flowers,5,4,5,False,2015-04-08,Stolen,2B,2015
+1356,1B,2B,Stolen Base 2B,521692,Salvador Perez,James McCann,5,0,3,False,2017-07-20,Stolen,2B,2017
+2217,2B,,Caught Stealing 3B,521692,Salvador Perez,Bruce Maxwell,2,0,1,False,2018-06-02,Caught,3B,2018
+2767,2B,3B,Stolen Base 3B,521692,Salvador Perez,Christian Vázquez,3,2,8,True,2018-05-01,Stolen,3B,2018
+197,1B,2B,Stolen Base 2B,521692,Salvador Perez,Jacob Nottingham,0,4,3,True,2020-09-18,Stolen,2B,2020
+1118,1B,2B,Stolen Base 2B,521692,Salvador Perez,Omar Narváez,3,5,7,True,2021-07-21,Stolen,2B,2021

@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3343,1B,,Caught Stealing 2B,471863,Luke Hughes,Gerald Laird,1,0,3,True,2010-04-29,Caught,2B,2010
+275,1B,2B,Stolen Base 2B,471863,Luke Hughes,Russell Martin,2,0,2,True,2011-09-19,Stolen,2B,2011
+557,1B,2B,Stolen Base 2B,471863,Luke Hughes,A.J. Pierzynski,5,3,6,False,2011-09-07,Stolen,2B,2011
+2132,2B,,Caught Stealing 3B,471863,Luke Hughes,Jonathan Lucroy,3,0,3,False,2011-07-02,Caught,3B,2011
+2757,1B,,Caught Stealing 2B,471863,Luke Hughes,Carlos Santana,4,6,9,True,2011-06-06,Caught,2B,2011
+3459,1B,2B,Stolen Base 2B,471863,Luke Hughes,Jason Varitek,0,0,5,True,2011-05-09,Stolen,2B,2011
+4285,1B,2B,Stolen Base 2B,471863,Luke Hughes,Russell Martin,2,0,2,True,2011-04-06,Stolen,2B,2011
+3972,1B,2B,Stolen Base 2B,471863,Luke Hughes,Bobby Wilson,10,7,8,False,2012-04-12,Stolen,2B,2012

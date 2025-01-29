@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+176,1B,2B,Stolen Base 2B,642165,Josh VanMeter,Wilson Ramos,0,5,8,False,2019-09-20,Stolen,2B,2019
+292,1B,2B,Stolen Base 2B,642165,Josh VanMeter,Omar Narváez,0,0,1,True,2019-09-12,Stolen,2B,2019
+293,2B,3B,Stolen Base 3B,642165,Josh VanMeter,Omar Narváez,0,0,1,True,2019-09-12,Stolen,3B,2019
+604,1B,2B,Stolen Base 2B,642165,Josh VanMeter,Elias Díaz,0,0,1,True,2019-08-25,Stolen,2B,2019
+680,1B,2B,Stolen Base 2B,642165,Josh VanMeter,Austin Hedges,0,0,1,False,2019-08-20,Stolen,2B,2019
+823,2B,,Caught Stealing 3B,642165,Josh VanMeter,Jonathan Lucroy,1,0,1,False,2019-08-10,Caught,3B,2019
+915,1B,2B,Stolen Base 2B,642165,Josh VanMeter,Tyler Flowers,0,3,5,True,2019-08-04,Stolen,2B,2019
+944,1B,2B,Stolen Base 2B,642165,Josh VanMeter,Tyler Flowers,0,3,3,True,2019-08-02,Stolen,2B,2019
+977,1B,2B,Stolen Base 2B,642165,Josh VanMeter,Elias Díaz,4,0,7,False,2019-07-31,Stolen,2B,2019
+1034,1B,,Caught Stealing 2B,642165,Josh VanMeter,Tony Wolters,3,1,6,False,2019-07-27,Caught,2B,2019
+1630,1B,,Caught Stealing 2B,642165,Josh VanMeter,Robinson Chirinos,4,3,8,False,2019-06-18,Caught,2B,2019
+2359,1B,2B,Stolen Base 2B,642165,Josh VanMeter,Buster Posey,4,4,7,False,2019-05-05,Stolen,2B,2019
+1179,1B,2B,Stolen Base 2B,642165,Josh VanMeter,Willson Contreras,5,8,9,False,2020-07-27,Stolen,2B,2020
+920,1B,2B,Stolen Base 2B,642165,Josh VanMeter,Buster Posey,0,0,2,False,2021-08-02,Stolen,2B,2021
+996,2B,3B,Stolen Base 3B,642165,Josh VanMeter,Jose Trevino,2,1,7,True,2021-07-28,Stolen,3B,2021
+922,1B,2B,Stolen Base 2B,642165,Josh VanMeter,Carson Kelly,0,0,3,True,2022-08-11,Stolen,2B,2022
+1095,1B,2B,Stolen Base 2B,642165,Josh VanMeter,Victor Caratini,4,3,6,False,2022-08-02,Stolen,2B,2022
+2244,1B,2B,Stolen Base 2B,642165,Josh VanMeter,Austin Nola,1,1,6,True,2022-05-28,Stolen,2B,2022
+2912,1B,2B,Stolen Base 2B,642165,Josh VanMeter,Yan Gomes,0,2,2,True,2022-04-22,Stolen,2B,2022

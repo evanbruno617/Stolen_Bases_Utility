@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+607,1B,,Caught Stealing 2B,408312,Mike Jacobs,Jesus Flores,2,2,4,True,2007-09-04,Caught,2B,2007
+1041,1B,2B,Stolen Base 2B,408312,Mike Jacobs,Chris Snyder,1,1,4,False,2007-08-15,Stolen,2B,2007
+3404,1B,2B,Stolen Base 2B,408312,Mike Jacobs,Brian McCann,2,0,6,False,2008-04-15,Stolen,2B,2008

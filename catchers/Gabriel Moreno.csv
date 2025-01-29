@@ -1,0 +1,135 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,663656,Kyle Tucker,518876,Merrill Kelly,547989,José Abreu,R,Gabriel Moreno,672515,0,1,4,True,2023-09-30,Stolen,2B,2023,2024, 83.5, 0.62
+1,1B,2B,Stolen Base 2B,514888,Jose Altuve,657044,Ryan Thompson,608324,Alex Bregman,R,Gabriel Moreno,672515,0,2,8,True,2023-09-29,Stolen,2B,2023,2024, 83.5, 0.62
+2,1B,2B,Stolen Base 2B,664314,Estevan Florial,518876,Merrill Kelly,518934,DJ LeMahieu,R,Gabriel Moreno,672515,0,2,3,False,2023-09-25,Stolen,2B,2023,2024, 83.5, 0.62
+3,1B,2B,Stolen Base 2B,664314,Estevan Florial,518876,Merrill Kelly,518934,DJ LeMahieu,R,Gabriel Moreno,672515,0,2,3,False,2023-09-23,Stolen,2B,2023,2024, 83.5, 0.62
+4,1B,,Caught Stealing 2B,664023,Ian Happ,657044,Ryan Thompson,663538,Nico Hoerner,R,Gabriel Moreno,672515,3,3,7,True,2023-09-16,Caught,2B,2023,2024, 83.5, 0.62
+5,2B,3B,Stolen Base 3B,663538,Nico Hoerner,685314,Andrew Saalfrank,641355,Cody Bellinger,L,Gabriel Moreno,672515,3,4,10,True,2023-09-16,Stolen,3B,2023,2024, 83.5, 0.62
+6,1B,2B,Stolen Base 2B,666624,Christopher Morel,685314,Andrew Saalfrank,641355,Cody Bellinger,L,Gabriel Moreno,672515,3,4,10,True,2023-09-16,Stolen,2B,2023,2024, 83.5, 0.62
+7,2B,3B,Stolen Base 2B,666624,Christopher Morel,685314,Andrew Saalfrank,641355,Cody Bellinger,L,Gabriel Moreno,672515,3,4,10,True,2023-09-16,Stolen,2B,2023,2024, 83.5, 0.62
+8,1B,2B,Stolen Base 2B,673548,Seiya Suzuki,518876,Merrill Kelly,600869,Jeimer Candelario,R,Gabriel Moreno,672515,0,0,2,False,2023-09-09,Stolen,2B,2023,2024, 83.5, 0.62
+9,1B,2B,Stolen Base 2B,641355,Cody Bellinger,518876,Merrill Kelly,621020,Dansby Swanson,R,Gabriel Moreno,672515,1,0,3,False,2023-09-09,Stolen,2B,2023,2024, 83.5, 0.62
+10,1B,,Caught Stealing 2B,673548,Seiya Suzuki,668678,Zac Gallen,600869,Jeimer Candelario,R,Gabriel Moreno,672515,0,0,5,False,2023-09-08,Caught,2B,2023,2024, 83.5, 0.62
+11,1B,,Caught Stealing 2B,670156,Miles Mastrobuoni,668678,Zac Gallen,543228,Yan Gomes,R,Gabriel Moreno,672515,0,1,8,False,2023-09-08,Caught,2B,2023,2024, 83.5, 0.62
+12,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,694297,Brandon Pfaadt,553869,Elias Díaz,R,Gabriel Moreno,672515,1,1,3,True,2023-09-05,Stolen,2B,2023,2024, 83.5, 0.62
+13,2B,3B,Stolen Base 3B,678662,Ezequiel Tovar,694297,Brandon Pfaadt,666134,Nolan Jones,R,Gabriel Moreno,672515,1,2,3,True,2023-09-05,Stolen,3B,2023,2024, 83.5, 0.62
+14,1B,2B,Stolen Base 2B,666134,Nolan Jones,694297,Brandon Pfaadt,663898,Brendan Rodgers,R,Gabriel Moreno,672515,1,2,3,True,2023-09-05,Stolen,2B,2023,2024, 83.5, 0.62
+15,1B,2B,Stolen Base 2B,656775,Cedric Mullins,623149,Paul Sewald,676059,Jordan Westburg,R,Gabriel Moreno,672515,4,2,9,True,2023-09-01,Stolen,2B,2023,2024, 83.5, 0.62
+16,1B,2B,Stolen Base 2B,621035,Chris Taylor,573009,Joe Mantiply,571970,Max Muncy,L,Gabriel Moreno,672515,7,0,6,False,2023-08-30,Stolen,2B,2023,2024, 83.5, 0.62
+17,1B,2B,Stolen Base 2B,621035,Chris Taylor,518876,Merrill Kelly,500743,Miguel Rojas,R,Gabriel Moreno,672515,4,0,2,False,2023-08-29,Stolen,2B,2023,2024, 83.5, 0.62
+18,1B,,Caught Stealing 2B,500743,Miguel Rojas,518876,Merrill Kelly,605141,Mookie Betts,R,Gabriel Moreno,672515,4,0,2,False,2023-08-29,Caught,2B,2023,2024, 83.5, 0.62
+19,1B,2B,Stolen Base 2B,682622,Noelvi Marte,612434,Miguel Castro,663886,Tyler Stephenson,R,Gabriel Moreno,672515,1,2,8,True,2023-08-24,Stolen,2B,2023,2024, 83.5, 0.62
+20,1B,2B,Stolen Base 2B,543760,Marcus Semien,677944,Slade Cecconi,663993,Nathaniel Lowe,R,Gabriel Moreno,672515,0,0,3,True,2023-08-21,Stolen,2B,2023,2024, 83.5, 0.62
+21,1B,2B,Stolen Base 2B,608369,Corey Seager,656464,Kevin Ginkel,663993,Nathaniel Lowe,R,Gabriel Moreno,672515,1,3,11,True,2023-08-21,Stolen,2B,2023,2024, 83.5, 0.62
+22,1B,,Caught Stealing 2B,673490,Ha-Seong Kim,694297,Brandon Pfaadt,665487,Fernando Tatis Jr.,R,Gabriel Moreno,672515,0,0,1,False,2023-08-18,Caught,2B,2023,2024, 83.5, 0.62
+23,2B,3B,Stolen Base 3B,669911,Michael Toglia,666818,Luis Frías,660707,Elehuris Montero,R,Gabriel Moreno,672515,3,3,7,False,2023-08-15,Stolen,3B,2023,2024, 83.5, 0.62
+24,2B,3B,Stolen Base 3B,665487,Fernando Tatis Jr.,694297,Brandon Pfaadt,592518,Manny Machado,R,Gabriel Moreno,672515,0,2,1,True,2023-08-13,Stolen,3B,2023,2024, 83.5, 0.62
+25,2B,3B,Stolen Base 3B,669222,Nick Senzel,674072,Tommy Henry,668715,Spencer Steer,L,Gabriel Moreno,672515,1,1,1,False,2023-07-21,Stolen,3B,2023,2024, 83.5, 0.62
+26,1B,2B,Stolen Base 2B,680574,Matt McLain,674072,Tommy Henry,668715,Spencer Steer,L,Gabriel Moreno,672515,1,1,1,False,2023-07-21,Stolen,2B,2023,2024, 83.5, 0.62
+27,2B,,Caught Stealing 3B,666181,Will Benson,656457,Tyler Gilbert,670770,TJ Friedl,L,Gabriel Moreno,672515,9,6,7,False,2023-07-21,Caught,3B,2023,2024, 83.5, 0.62
+28,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,613534,Austin Adams,645277,Ozzie Albies,R,Gabriel Moreno,672515,11,12,6,False,2023-07-18,Stolen,2B,2023,2024, 83.5, 0.62
+29,1B,,Caught Stealing 2B,543807,George Springer,669194,Ryne Nelson,666182,Bo Bichette,R,Gabriel Moreno,672515,0,0,1,False,2023-07-14,Caught,2B,2023,2024, 83.5, 0.62
+30,1B,2B,Stolen Base 2B,672779,Tucupita Marcano,668678,Zac Gallen,680779,Henry Davis,R,Gabriel Moreno,672515,5,1,5,True,2023-07-07,Stolen,2B,2023,2024, 83.5, 0.62
+31,1B,,Caught Stealing 2B,677551,Wander Franco,694297,Brandon Pfaadt,670042,Luke Raley,R,Gabriel Moreno,672515,0,1,1,True,2023-06-29,Caught,2B,2023,2024, 83.5, 0.62
+32,1B,2B,Stolen Base 2B,647304,Josh Naylor,605200,Zach Davies,671289,Tyler Freeman,R,Gabriel Moreno,672515,1,5,3,True,2023-06-18,Stolen,2B,2023,2024, 83.5, 0.62
+33,1B,2B,Stolen Base 2B,607208,Trea Turner,612434,Miguel Castro,592206,Nick Castellanos,R,Gabriel Moreno,672515,4,5,8,True,2023-06-15,Stolen,2B,2023,2024, 83.5, 0.62
+34,2B,3B,Stolen Base 3B,657041,Lane Thomas,674072,Tommy Henry,600869,Jeimer Candelario,L,Gabriel Moreno,672515,0,1,1,False,2023-06-06,Stolen,3B,2023,2024, 83.5, 0.62
+35,1B,2B,Stolen Base 2B,645277,Ozzie Albies,668678,Zac Gallen,542303,Marcell Ozuna,R,Gabriel Moreno,672515,0,0,2,True,2023-06-04,Stolen,2B,2023,2024, 83.5, 0.62
+36,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,605177,Andrew Chafin,621566,Matt Olson,L,Gabriel Moreno,672515,5,4,7,True,2023-06-04,Stolen,2B,2023,2024, 83.5, 0.62
+37,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,612434,Miguel Castro,621566,Matt Olson,R,Gabriel Moreno,672515,5,4,9,True,2023-06-04,Stolen,2B,2023,2024, 83.5, 0.62
+38,2B,3B,Stolen Base 3B,660670,Ronald Acuña Jr.,669194,Ryne Nelson,621566,Matt Olson,R,Gabriel Moreno,672515,0,0,3,True,2023-06-03,Stolen,3B,2023,2024, 83.5, 0.62
+39,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,518876,Merrill Kelly,621566,Matt Olson,R,Gabriel Moreno,672515,0,0,1,True,2023-06-02,Caught,2B,2023,2024, 83.5, 0.62
+40,1B,2B,Stolen Base 2B,686668,Brenton Doyle,605200,Zach Davies,678662,Ezequiel Tovar,R,Gabriel Moreno,672515,0,1,5,True,2023-06-01,Stolen,2B,2023,2024, 83.5, 0.62
+41,3B,,Caught Stealing Home,657077,Alex Verdugo,605200,Zach Davies,680776,Jarren Duran,R,Gabriel Moreno,672515,0,0,1,True,2023-05-27,Caught,Home,2023,2024, 83.5, 0.62
+42,1B,,Caught Stealing 2B,547180,Bryce Harper,669194,Ryne Nelson,656941,Kyle Schwarber,R,Gabriel Moreno,672515,1,3,4,False,2023-05-23,Caught,2B,2023,2024, 83.5, 0.62
+43,1B,2B,Stolen Base 2B,607208,Trea Turner,612434,Miguel Castro,592206,Nick Castellanos,R,Gabriel Moreno,672515,3,4,7,False,2023-05-22,Stolen,2B,2023,2024, 83.5, 0.62
+44,1B,,Caught Stealing 2B,678225,Ji Hwan Bae,694297,Brandon Pfaadt,641943,Joshua Palacios,R,Gabriel Moreno,672515,3,1,4,False,2023-05-20,Caught,2B,2023,2024, 83.5, 0.62
+45,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,674072,Tommy Henry,667670,Brent Rooker,L,Gabriel Moreno,672515,1,2,1,False,2023-05-16,Stolen,3B,2023,2024, 83.5, 0.62
+46,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,518876,Merrill Kelly,676116,Ryan Noda,R,Gabriel Moreno,672515,1,4,3,False,2023-05-15,Stolen,2B,2023,2024, 83.5, 0.62
+47,1B,2B,Stolen Base 2B,642731,Thairo Estrada,674072,Tommy Henry,571745,Mitch Haniger,L,Gabriel Moreno,672515,0,2,3,True,2023-05-11,Stolen,2B,2023,2024, 83.5, 0.62
+48,2B,,Caught Stealing 3B,642731,Thairo Estrada,674072,Tommy Henry,605204,J.D. Davis,L,Gabriel Moreno,672515,0,2,3,True,2023-05-11,Caught,3B,2023,2024, 83.5, 0.62
+49,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,694297,Brandon Pfaadt,624585,Jorge Soler,R,Gabriel Moreno,672515,0,0,1,True,2023-05-09,Stolen,2B,2023,2024, 83.5, 0.62
+50,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,694297,Brandon Pfaadt,624585,Jorge Soler,R,Gabriel Moreno,672515,1,6,5,True,2023-05-09,Stolen,2B,2023,2024, 83.5, 0.62
+51,1B,,Caught Stealing 2B,542932,Jon Berti,543518,Scott McGough,665862,Jazz Chisholm Jr.,R,Gabriel Moreno,672515,2,6,9,True,2023-05-09,Caught,2B,2023,2024, 83.5, 0.62
+52,1B,,Caught Stealing 2B,645302,Victor Robles,674072,Tommy Henry,656308,Michael Chavis,L,Gabriel Moreno,672515,1,0,3,True,2023-05-06,Caught,2B,2023,2024, 83.5, 0.62
+53,1B,2B,Stolen Base 2B,656448,Stone Garrett,674072,Tommy Henry,642086,Dominic Smith,L,Gabriel Moreno,672515,1,2,4,True,2023-05-06,Stolen,2B,2023,2024, 83.5, 0.62
+54,1B,2B,Stolen Base 2B,682928,CJ Abrams,518876,Merrill Kelly,645302,Victor Robles,R,Gabriel Moreno,672515,0,1,2,True,2023-05-05,Stolen,2B,2023,2024, 83.5, 0.62
+55,1B,,Caught Stealing 2B,665750,Leody Taveras,694297,Brandon Pfaadt,506702,Sandy León,R,Gabriel Moreno,672515,1,0,2,False,2023-05-03,Caught,2B,2023,2024, 83.5, 0.62
+56,2B,,Caught Stealing 3B,664728,Kyle Isbel,669194,Ryne Nelson,670032,Nicky Lopez,R,Gabriel Moreno,672515,0,1,2,True,2023-04-25,Caught,3B,2023,2024, 83.5, 0.62
+57,1B,,Caught Stealing 2B,663757,Trent Grisham,614179,José Ruiz,543592,Austin Nola,R,Gabriel Moreno,672515,5,7,9,True,2023-04-20,Caught,2B,2023,2024, 83.5, 0.62
+58,2B,3B,Stolen Base 3B,666185,Dylan Carlson,518516,Madison Bumgarner,575929,Willson Contreras,L,Gabriel Moreno,672515,3,0,1,False,2023-04-19,Stolen,3B,2023,2024, 83.5, 0.62
+59,1B,2B,Stolen Base 2B,571448,Nolan Arenado,518516,Madison Bumgarner,575929,Willson Contreras,L,Gabriel Moreno,672515,3,0,1,False,2023-04-19,Stolen,2B,2023,2024, 83.5, 0.62
+60,1B,2B,Stolen Base 2B,691023,Jordan Walker,656981,Peter Solomon,669357,Nolan Gorman,R,Gabriel Moreno,672515,7,4,5,False,2023-04-19,Stolen,2B,2023,2024, 83.5, 0.62
+61,2B,3B,Stolen Base 3B,575929,Willson Contreras,518876,Merrill Kelly,571448,Nolan Arenado,R,Gabriel Moreno,672515,1,1,6,False,2023-04-17,Stolen,3B,2023,2024, 83.5, 0.62
+62,2B,3B,Stolen Base 3B,542932,Jon Berti,518516,Madison Bumgarner,643265,Garrett Cooper,L,Gabriel Moreno,672515,5,0,4,False,2023-04-14,Stolen,3B,2023,2024, 83.5, 0.62
+63,1B,2B,Stolen Base 2B,686894,Joey Wiemer,518876,Merrill Kelly,670712,Mike Brosseau,R,Gabriel Moreno,672515,0,0,3,True,2023-04-11,Stolen,2B,2023,2024, 83.5, 0.62
+64,2B,,Caught Stealing 3B,686894,Joey Wiemer,518876,Merrill Kelly,670712,Mike Brosseau,R,Gabriel Moreno,672515,0,0,3,True,2023-04-11,Caught,3B,2023,2024, 83.5, 0.62
+65,1B,,Caught Stealing 2B,668930,Brice Turang,668678,Zac Gallen,686894,Joey Wiemer,R,Gabriel Moreno,672515,1,0,5,True,2023-04-10,Caught,2B,2023,2024, 83.5, 0.62
+66,1B,,Caught Stealing 2B,518692,Freddie Freeman,518516,Madison Bumgarner,502110,J.D. Martinez,L,Gabriel Moreno,672515,5,1,4,False,2023-04-01,Caught,2B,2023,2024, 83.5, 0.62
+67,1B,2B,Stolen Base 2B,663656,Kyle Tucker,518876,Merrill Kelly,547989,José Abreu,R,Gabriel Moreno,672515,0,1,4,True,2023-09-30,Stolen,2B,2023,2024, 83.5, 0.62
+68,1B,2B,Stolen Base 2B,514888,Jose Altuve,657044,Ryan Thompson,608324,Alex Bregman,R,Gabriel Moreno,672515,0,2,8,True,2023-09-29,Stolen,2B,2023,2024, 83.5, 0.62
+69,1B,2B,Stolen Base 2B,664314,Estevan Florial,518876,Merrill Kelly,518934,DJ LeMahieu,R,Gabriel Moreno,672515,0,2,3,False,2023-09-25,Stolen,2B,2023,2024, 83.5, 0.62
+70,1B,2B,Stolen Base 2B,664314,Estevan Florial,518876,Merrill Kelly,518934,DJ LeMahieu,R,Gabriel Moreno,672515,0,2,3,False,2023-09-23,Stolen,2B,2023,2024, 83.5, 0.62
+71,1B,,Caught Stealing 2B,664023,Ian Happ,657044,Ryan Thompson,663538,Nico Hoerner,R,Gabriel Moreno,672515,3,3,7,True,2023-09-16,Caught,2B,2023,2024, 83.5, 0.62
+72,2B,3B,Stolen Base 3B,663538,Nico Hoerner,685314,Andrew Saalfrank,641355,Cody Bellinger,L,Gabriel Moreno,672515,3,4,10,True,2023-09-16,Stolen,3B,2023,2024, 83.5, 0.62
+73,1B,2B,Stolen Base 2B,666624,Christopher Morel,685314,Andrew Saalfrank,641355,Cody Bellinger,L,Gabriel Moreno,672515,3,4,10,True,2023-09-16,Stolen,2B,2023,2024, 83.5, 0.62
+74,2B,3B,Stolen Base 2B,666624,Christopher Morel,685314,Andrew Saalfrank,641355,Cody Bellinger,L,Gabriel Moreno,672515,3,4,10,True,2023-09-16,Stolen,2B,2023,2024, 83.5, 0.62
+75,1B,2B,Stolen Base 2B,673548,Seiya Suzuki,518876,Merrill Kelly,600869,Jeimer Candelario,R,Gabriel Moreno,672515,0,0,2,False,2023-09-09,Stolen,2B,2023,2024, 83.5, 0.62
+76,1B,2B,Stolen Base 2B,641355,Cody Bellinger,518876,Merrill Kelly,621020,Dansby Swanson,R,Gabriel Moreno,672515,1,0,3,False,2023-09-09,Stolen,2B,2023,2024, 83.5, 0.62
+77,1B,,Caught Stealing 2B,673548,Seiya Suzuki,668678,Zac Gallen,600869,Jeimer Candelario,R,Gabriel Moreno,672515,0,0,5,False,2023-09-08,Caught,2B,2023,2024, 83.5, 0.62
+78,1B,,Caught Stealing 2B,670156,Miles Mastrobuoni,668678,Zac Gallen,543228,Yan Gomes,R,Gabriel Moreno,672515,0,1,8,False,2023-09-08,Caught,2B,2023,2024, 83.5, 0.62
+79,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,694297,Brandon Pfaadt,553869,Elias Díaz,R,Gabriel Moreno,672515,1,1,3,True,2023-09-05,Stolen,2B,2023,2024, 83.5, 0.62
+80,2B,3B,Stolen Base 3B,678662,Ezequiel Tovar,694297,Brandon Pfaadt,666134,Nolan Jones,R,Gabriel Moreno,672515,1,2,3,True,2023-09-05,Stolen,3B,2023,2024, 83.5, 0.62
+81,1B,2B,Stolen Base 2B,666134,Nolan Jones,694297,Brandon Pfaadt,663898,Brendan Rodgers,R,Gabriel Moreno,672515,1,2,3,True,2023-09-05,Stolen,2B,2023,2024, 83.5, 0.62
+82,1B,2B,Stolen Base 2B,656775,Cedric Mullins,623149,Paul Sewald,676059,Jordan Westburg,R,Gabriel Moreno,672515,4,2,9,True,2023-09-01,Stolen,2B,2023,2024, 83.5, 0.62
+83,1B,2B,Stolen Base 2B,621035,Chris Taylor,573009,Joe Mantiply,571970,Max Muncy,L,Gabriel Moreno,672515,7,0,6,False,2023-08-30,Stolen,2B,2023,2024, 83.5, 0.62
+84,1B,2B,Stolen Base 2B,621035,Chris Taylor,518876,Merrill Kelly,500743,Miguel Rojas,R,Gabriel Moreno,672515,4,0,2,False,2023-08-29,Stolen,2B,2023,2024, 83.5, 0.62
+85,1B,,Caught Stealing 2B,500743,Miguel Rojas,518876,Merrill Kelly,605141,Mookie Betts,R,Gabriel Moreno,672515,4,0,2,False,2023-08-29,Caught,2B,2023,2024, 83.5, 0.62
+86,1B,2B,Stolen Base 2B,682622,Noelvi Marte,612434,Miguel Castro,663886,Tyler Stephenson,R,Gabriel Moreno,672515,1,2,8,True,2023-08-24,Stolen,2B,2023,2024, 83.5, 0.62
+87,1B,2B,Stolen Base 2B,543760,Marcus Semien,677944,Slade Cecconi,663993,Nathaniel Lowe,R,Gabriel Moreno,672515,0,0,3,True,2023-08-21,Stolen,2B,2023,2024, 83.5, 0.62
+88,1B,2B,Stolen Base 2B,608369,Corey Seager,656464,Kevin Ginkel,663993,Nathaniel Lowe,R,Gabriel Moreno,672515,1,3,11,True,2023-08-21,Stolen,2B,2023,2024, 83.5, 0.62
+89,1B,,Caught Stealing 2B,673490,Ha-Seong Kim,694297,Brandon Pfaadt,665487,Fernando Tatis Jr.,R,Gabriel Moreno,672515,0,0,1,False,2023-08-18,Caught,2B,2023,2024, 83.5, 0.62
+90,2B,3B,Stolen Base 3B,669911,Michael Toglia,666818,Luis Frías,660707,Elehuris Montero,R,Gabriel Moreno,672515,3,3,7,False,2023-08-15,Stolen,3B,2023,2024, 83.5, 0.62
+91,2B,3B,Stolen Base 3B,665487,Fernando Tatis Jr.,694297,Brandon Pfaadt,592518,Manny Machado,R,Gabriel Moreno,672515,0,2,1,True,2023-08-13,Stolen,3B,2023,2024, 83.5, 0.62
+92,2B,3B,Stolen Base 3B,669222,Nick Senzel,674072,Tommy Henry,668715,Spencer Steer,L,Gabriel Moreno,672515,1,1,1,False,2023-07-21,Stolen,3B,2023,2024, 83.5, 0.62
+93,1B,2B,Stolen Base 2B,680574,Matt McLain,674072,Tommy Henry,668715,Spencer Steer,L,Gabriel Moreno,672515,1,1,1,False,2023-07-21,Stolen,2B,2023,2024, 83.5, 0.62
+94,2B,,Caught Stealing 3B,666181,Will Benson,656457,Tyler Gilbert,670770,TJ Friedl,L,Gabriel Moreno,672515,9,6,7,False,2023-07-21,Caught,3B,2023,2024, 83.5, 0.62
+95,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,613534,Austin Adams,645277,Ozzie Albies,R,Gabriel Moreno,672515,11,12,6,False,2023-07-18,Stolen,2B,2023,2024, 83.5, 0.62
+96,1B,,Caught Stealing 2B,543807,George Springer,669194,Ryne Nelson,666182,Bo Bichette,R,Gabriel Moreno,672515,0,0,1,False,2023-07-14,Caught,2B,2023,2024, 83.5, 0.62
+97,1B,2B,Stolen Base 2B,672779,Tucupita Marcano,668678,Zac Gallen,680779,Henry Davis,R,Gabriel Moreno,672515,5,1,5,True,2023-07-07,Stolen,2B,2023,2024, 83.5, 0.62
+98,1B,,Caught Stealing 2B,677551,Wander Franco,694297,Brandon Pfaadt,670042,Luke Raley,R,Gabriel Moreno,672515,0,1,1,True,2023-06-29,Caught,2B,2023,2024, 83.5, 0.62
+99,1B,2B,Stolen Base 2B,647304,Josh Naylor,605200,Zach Davies,671289,Tyler Freeman,R,Gabriel Moreno,672515,1,5,3,True,2023-06-18,Stolen,2B,2023,2024, 83.5, 0.62
+100,1B,2B,Stolen Base 2B,607208,Trea Turner,612434,Miguel Castro,592206,Nick Castellanos,R,Gabriel Moreno,672515,4,5,8,True,2023-06-15,Stolen,2B,2023,2024, 83.5, 0.62
+101,2B,3B,Stolen Base 3B,657041,Lane Thomas,674072,Tommy Henry,600869,Jeimer Candelario,L,Gabriel Moreno,672515,0,1,1,False,2023-06-06,Stolen,3B,2023,2024, 83.5, 0.62
+102,1B,2B,Stolen Base 2B,645277,Ozzie Albies,668678,Zac Gallen,542303,Marcell Ozuna,R,Gabriel Moreno,672515,0,0,2,True,2023-06-04,Stolen,2B,2023,2024, 83.5, 0.62
+103,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,605177,Andrew Chafin,621566,Matt Olson,L,Gabriel Moreno,672515,5,4,7,True,2023-06-04,Stolen,2B,2023,2024, 83.5, 0.62
+104,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,612434,Miguel Castro,621566,Matt Olson,R,Gabriel Moreno,672515,5,4,9,True,2023-06-04,Stolen,2B,2023,2024, 83.5, 0.62
+105,2B,3B,Stolen Base 3B,660670,Ronald Acuña Jr.,669194,Ryne Nelson,621566,Matt Olson,R,Gabriel Moreno,672515,0,0,3,True,2023-06-03,Stolen,3B,2023,2024, 83.5, 0.62
+106,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,518876,Merrill Kelly,621566,Matt Olson,R,Gabriel Moreno,672515,0,0,1,True,2023-06-02,Caught,2B,2023,2024, 83.5, 0.62
+107,1B,2B,Stolen Base 2B,686668,Brenton Doyle,605200,Zach Davies,678662,Ezequiel Tovar,R,Gabriel Moreno,672515,0,1,5,True,2023-06-01,Stolen,2B,2023,2024, 83.5, 0.62
+108,3B,,Caught Stealing Home,657077,Alex Verdugo,605200,Zach Davies,680776,Jarren Duran,R,Gabriel Moreno,672515,0,0,1,True,2023-05-27,Caught,Home,2023,2024, 83.5, 0.62
+109,1B,,Caught Stealing 2B,547180,Bryce Harper,669194,Ryne Nelson,656941,Kyle Schwarber,R,Gabriel Moreno,672515,1,3,4,False,2023-05-23,Caught,2B,2023,2024, 83.5, 0.62
+110,1B,2B,Stolen Base 2B,607208,Trea Turner,612434,Miguel Castro,592206,Nick Castellanos,R,Gabriel Moreno,672515,3,4,7,False,2023-05-22,Stolen,2B,2023,2024, 83.5, 0.62
+111,1B,,Caught Stealing 2B,678225,Ji Hwan Bae,694297,Brandon Pfaadt,641943,Joshua Palacios,R,Gabriel Moreno,672515,3,1,4,False,2023-05-20,Caught,2B,2023,2024, 83.5, 0.62
+112,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,674072,Tommy Henry,667670,Brent Rooker,L,Gabriel Moreno,672515,1,2,1,False,2023-05-16,Stolen,3B,2023,2024, 83.5, 0.62
+113,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,518876,Merrill Kelly,676116,Ryan Noda,R,Gabriel Moreno,672515,1,4,3,False,2023-05-15,Stolen,2B,2023,2024, 83.5, 0.62
+114,1B,2B,Stolen Base 2B,642731,Thairo Estrada,674072,Tommy Henry,571745,Mitch Haniger,L,Gabriel Moreno,672515,0,2,3,True,2023-05-11,Stolen,2B,2023,2024, 83.5, 0.62
+115,2B,,Caught Stealing 3B,642731,Thairo Estrada,674072,Tommy Henry,605204,J.D. Davis,L,Gabriel Moreno,672515,0,2,3,True,2023-05-11,Caught,3B,2023,2024, 83.5, 0.62
+116,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,694297,Brandon Pfaadt,624585,Jorge Soler,R,Gabriel Moreno,672515,0,0,1,True,2023-05-09,Stolen,2B,2023,2024, 83.5, 0.62
+117,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,694297,Brandon Pfaadt,624585,Jorge Soler,R,Gabriel Moreno,672515,1,6,5,True,2023-05-09,Stolen,2B,2023,2024, 83.5, 0.62
+118,1B,,Caught Stealing 2B,542932,Jon Berti,543518,Scott McGough,665862,Jazz Chisholm Jr.,R,Gabriel Moreno,672515,2,6,9,True,2023-05-09,Caught,2B,2023,2024, 83.5, 0.62
+119,1B,,Caught Stealing 2B,645302,Victor Robles,674072,Tommy Henry,656308,Michael Chavis,L,Gabriel Moreno,672515,1,0,3,True,2023-05-06,Caught,2B,2023,2024, 83.5, 0.62
+120,1B,2B,Stolen Base 2B,656448,Stone Garrett,674072,Tommy Henry,642086,Dominic Smith,L,Gabriel Moreno,672515,1,2,4,True,2023-05-06,Stolen,2B,2023,2024, 83.5, 0.62
+121,1B,2B,Stolen Base 2B,682928,CJ Abrams,518876,Merrill Kelly,645302,Victor Robles,R,Gabriel Moreno,672515,0,1,2,True,2023-05-05,Stolen,2B,2023,2024, 83.5, 0.62
+122,1B,,Caught Stealing 2B,665750,Leody Taveras,694297,Brandon Pfaadt,506702,Sandy León,R,Gabriel Moreno,672515,1,0,2,False,2023-05-03,Caught,2B,2023,2024, 83.5, 0.62
+123,2B,,Caught Stealing 3B,664728,Kyle Isbel,669194,Ryne Nelson,670032,Nicky Lopez,R,Gabriel Moreno,672515,0,1,2,True,2023-04-25,Caught,3B,2023,2024, 83.5, 0.62
+124,1B,,Caught Stealing 2B,663757,Trent Grisham,614179,José Ruiz,543592,Austin Nola,R,Gabriel Moreno,672515,5,7,9,True,2023-04-20,Caught,2B,2023,2024, 83.5, 0.62
+125,2B,3B,Stolen Base 3B,666185,Dylan Carlson,518516,Madison Bumgarner,575929,Willson Contreras,L,Gabriel Moreno,672515,3,0,1,False,2023-04-19,Stolen,3B,2023,2024, 83.5, 0.62
+126,1B,2B,Stolen Base 2B,571448,Nolan Arenado,518516,Madison Bumgarner,575929,Willson Contreras,L,Gabriel Moreno,672515,3,0,1,False,2023-04-19,Stolen,2B,2023,2024, 83.5, 0.62
+127,1B,2B,Stolen Base 2B,691023,Jordan Walker,656981,Peter Solomon,669357,Nolan Gorman,R,Gabriel Moreno,672515,7,4,5,False,2023-04-19,Stolen,2B,2023,2024, 83.5, 0.62
+128,2B,3B,Stolen Base 3B,575929,Willson Contreras,518876,Merrill Kelly,571448,Nolan Arenado,R,Gabriel Moreno,672515,1,1,6,False,2023-04-17,Stolen,3B,2023,2024, 83.5, 0.62
+129,2B,3B,Stolen Base 3B,542932,Jon Berti,518516,Madison Bumgarner,643265,Garrett Cooper,L,Gabriel Moreno,672515,5,0,4,False,2023-04-14,Stolen,3B,2023,2024, 83.5, 0.62
+130,1B,2B,Stolen Base 2B,686894,Joey Wiemer,518876,Merrill Kelly,670712,Mike Brosseau,R,Gabriel Moreno,672515,0,0,3,True,2023-04-11,Stolen,2B,2023,2024, 83.5, 0.62
+131,2B,,Caught Stealing 3B,686894,Joey Wiemer,518876,Merrill Kelly,670712,Mike Brosseau,R,Gabriel Moreno,672515,0,0,3,True,2023-04-11,Caught,3B,2023,2024, 83.5, 0.62
+132,1B,,Caught Stealing 2B,668930,Brice Turang,668678,Zac Gallen,686894,Joey Wiemer,R,Gabriel Moreno,672515,1,0,5,True,2023-04-10,Caught,2B,2023,2024, 83.5, 0.62
+133,1B,,Caught Stealing 2B,518692,Freddie Freeman,518516,Madison Bumgarner,502110,J.D. Martinez,L,Gabriel Moreno,672515,5,1,4,False,2023-04-01,Caught,2B,2023,2024, 83.5, 0.62

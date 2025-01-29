@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+129,1B,2B,Stolen Base 2B,605612,Harold Castro,Willians Astudillo,1,0,8,True,2018-09-25,Stolen,2B,2018
+620,1B,2B,Stolen Base 2B,605612,Harold Castro,Mitch Garver,1,2,3,True,2019-08-24,Stolen,2B,2019
+707,1B,,Caught Stealing 2B,605612,Harold Castro,Mike Zunino,1,2,3,True,2019-08-18,Caught,2B,2019
+942,1B,2B,Stolen Base 2B,605612,Harold Castro,Jeff Mathis,0,1,1,True,2019-08-02,Stolen,2B,2019
+1567,1B,2B,Stolen Base 2B,605612,Harold Castro,Roberto Pérez,2,3,4,True,2019-06-21,Stolen,2B,2019
+1632,1B,,Caught Stealing 2B,605612,Harold Castro,Elias Díaz,0,0,2,True,2019-06-18,Caught,2B,2019
+1857,1B,2B,Stolen Base 2B,605612,Harold Castro,Mike Zunino,0,1,4,False,2019-06-05,Stolen,2B,2019
+1071,1B,,Caught Stealing 2B,605612,Harold Castro,Sandy León,2,1,6,True,2022-08-03,Caught,2B,2022
+1022,1B,2B,Stolen Base 2B,605612,Harold Castro,Carlos Pérez,5,2,5,False,2023-08-20,Stolen,2B,2023

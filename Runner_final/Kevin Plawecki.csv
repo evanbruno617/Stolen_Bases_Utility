@@ -1,0 +1,9 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,572,1B,2B,Stolen Base 2B,608700,Kevin Plawecki,608723,Austin Voth,598265,Jackie Bradley Jr.,R,Yan Gomes,543228,3,0,1,False,2020-08-30,Stolen,2B,2020,2021,25.5
+1,3415,1B,2B,Stolen Base 2B,608700,Kevin Plawecki,608723,Austin Voth,598265,Jackie Bradley Jr.,R,Yan Gomes,543228,3,0,1,False,2020-08-30,Stolen,2B,2020,2021,25.5
+2,5339,1B,2B,Stolen Base 2B,608700,Kevin Plawecki,608723,Austin Voth,598265,Jackie Bradley Jr.,R,Yan Gomes,543228,3,0,1,False,2020-08-30,Stolen,2B,2020,2021,25.5
+3,2624,1B,,Caught Stealing 2B,608700,Kevin Plawecki,456701,Homer Bailey,656252,Bobby Bradley,R,Cam Gallagher,595956,0,1,2,True,2019-07-04,Caught,2B,2019,2020,25.5
+4,5467,1B,,Caught Stealing 2B,608700,Kevin Plawecki,456701,Homer Bailey,656252,Bobby Bradley,R,Cam Gallagher,595956,0,1,2,True,2019-07-04,Caught,2B,2019,2020,25.5
+5,7391,1B,,Caught Stealing 2B,608700,Kevin Plawecki,456701,Homer Bailey,656252,Bobby Bradley,R,Cam Gallagher,595956,0,1,2,True,2019-07-04,Caught,2B,2019,2020,25.5
+6,1118,1B,2B,Stolen Base 2B,608700,Kevin Plawecki,643410,Mark Leiter Jr.,607043,Brandon Nimmo,R,Cameron Rupp,519237,0,0,2,False,2017-09-04,Stolen,2B,2017,2018,26.0
+7,490,1B,2B,Stolen Base 2B,608700,Kevin Plawecki,643410,Mark Leiter Jr.,607043,Brandon Nimmo,R,Cameron Rupp,519237,0,0,2,False,2017-09-04,Stolen,2B,2017,2018,26.0

@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2534,1B,2B,Stolen Base 2B,112106,Vinny Castilla,Mike Lieberthal,0,0,2,True,2000-06-07,Stolen,2B,2000
+3495,1B,,Caught Stealing 2B,112106,Vinny Castilla,Bengie Molina,1,3,6,True,2000-04-27,Caught,2B,2000
+3781,1B,,Caught Stealing 2B,112106,Vinny Castilla,Robert Fick,0,7,8,True,2000-04-15,Caught,2B,2000
+130,1B,,Caught Stealing 2B,112106,Vinny Castilla,Ben Davis,0,4,1,True,2001-05-31,Caught,2B,2001
+131,3B,,Caught Stealing Home,112106,Vinny Castilla,Ben Davis,1,5,4,True,2001-05-31,Caught,Home,2001
+328,1B,,Caught Stealing 2B,112106,Vinny Castilla,Ben Davis,1,1,2,False,2001-05-23,Caught,2B,2001
+156,2B,3B,Caught Stealing Home,112106,Vinny Castilla,Ramon Castro,4,1,6,False,2002-09-22,Caught,Home,2002
+1555,1B,2B,Stolen Base 2B,112106,Vinny Castilla,Todd Hundley,1,1,4,True,2002-07-15,Stolen,2B,2002
+1835,1B,2B,Stolen Base 2B,112106,Vinny Castilla,Brian Schneider,6,4,8,False,2002-07-01,Stolen,2B,2002
+2404,1B,2B,Stolen Base 2B,112106,Vinny Castilla,Mike Piazza,5,4,8,False,2002-06-03,Stolen,2B,2002
+2482,1B,2B,Stolen Base 2B,112106,Vinny Castilla,Corky Miller,0,0,2,True,2002-05-31,Stolen,2B,2002
+1488,3B,,Caught Stealing Home,112106,Vinny Castilla,Vance Wilson,1,1,4,False,2003-07-17,Caught,Home,2003
+1654,1B,2B,Stolen Base 2B,112106,Vinny Castilla,Brian Schneider,1,2,7,False,2003-07-05,Stolen,2B,2003
+3159,1B,,Caught Stealing 2B,112106,Vinny Castilla,Mike Matheny,2,0,5,False,2003-04-23,Caught,2B,2003
+765,2B,,Caught Stealing 3B,112106,Vinny Castilla,Jason LaRue,2,4,5,False,2005-08-23,Caught,3B,2005
+2110,1B,2B,Stolen Base 2B,112106,Vinny Castilla,René Rivera,2,0,4,False,2005-06-12,Stolen,2B,2005
+2634,1B,2B,Stolen Base 2B,112106,Vinny Castilla,Michael Barrett,2,3,4,False,2005-05-15,Stolen,2B,2005
+3074,1B,2B,Stolen Base 2B,112106,Vinny Castilla,Mike Piazza,3,4,3,True,2005-04-24,Stolen,2B,2005
+3077,1B,2B,Stolen Base 2B,112106,Vinny Castilla,Mike Piazza,3,8,7,True,2005-04-24,Stolen,2B,2005

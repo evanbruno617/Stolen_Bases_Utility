@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+890,1B,2B,Stolen Base 2B,115104,Willie Greene,Todd Hundley,2,2,5,False,2000-08-25,Stolen,2B,2000
+1422,1B,2B,Stolen Base 2B,115104,Willie Greene,Brent Mayne,1,1,1,False,2000-08-01,Stolen,2B,2000
+1871,1B,2B,Stolen Base 2B,115104,Willie Greene,Brook Fordyce,4,0,1,False,2000-07-08,Stolen,2B,2000
+2705,1B,2B,Stolen Base 2B,115104,Willie Greene,Javy Lopez,4,0,4,False,2000-06-01,Stolen,2B,2000

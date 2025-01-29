@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+707,1B,,Caught Stealing 2B,124326,Matt Williams,Ramon Castro,6,6,8,False,2000-09-01,Caught,2B,2000
+2412,1B,2B,Stolen Base 2B,124326,Matt Williams,Chad Kreuter,1,2,4,True,2000-06-12,Stolen,2B,2000
+2633,2B,,Caught Stealing 3B,124326,Matt Williams,Ivan Rodriguez,3,1,7,True,2000-06-03,Caught,3B,2000
+216,1B,2B,Stolen Base 2B,124326,Matt Williams,Wil Nieves,1,1,4,True,2002-09-19,Stolen,2B,2002
+689,1B,2B,Stolen Base 2B,124326,Matt Williams,Paul Lo Duca,3,2,6,True,2002-08-26,Stolen,2B,2002
+1134,1B,,Caught Stealing 2B,124326,Matt Williams,Mike Piazza,2,5,3,True,2002-08-04,Caught,2B,2002
+1631,1B,2B,Stolen Base 2B,124326,Matt Williams,Paul Lo Duca,0,0,4,True,2002-07-12,Stolen,2B,2002

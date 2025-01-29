@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2849,1B,,Caught Stealing 2B,474233,Hank Conger,Tyler Flowers,1,5,4,True,2013-05-10,Caught,2B,2013
+330,1B,,Caught Stealing 2B,474233,Hank Conger,Jason Castro,1,0,2,False,2014-09-13,Caught,2B,2014
+558,1B,,Caught Stealing 2B,474233,Hank Conger,Kurt Suzuki,0,0,3,True,2014-09-04,Caught,2B,2014
+830,1B,,Caught Stealing 2B,474233,Hank Conger,Alex Avila,5,2,3,False,2015-08-16,Caught,2B,2015
+3475,1B,2B,Stolen Base 2B,474233,Hank Conger,Tyler Heineman,2,5,6,True,2015-04-02,Stolen,2B,2015

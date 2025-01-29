@@ -1,0 +1,2 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,109,1B,2B,Stolen Base 2B,506702,Sandy León,517008,Alex Colomé,624407,Tzu-Wei Lin,R,Jesús Sucre,491696,4,3,8,False,2018-04-29,Stolen,2B,2018,2019,23.5

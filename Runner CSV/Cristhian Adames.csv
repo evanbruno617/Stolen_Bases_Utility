@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+115,1B,,Caught Stealing 2B,542436,Cristhian Adames,Chris Stewart,4,2,7,False,2015-09-24,Caught,2B,2015
+84,1B,2B,Stolen Base 2B,542436,Cristhian Adames,Jonathan Lucroy,0,0,3,False,2016-08-08,Stolen,2B,2016
+426,1B,2B,Stolen Base 2B,542436,Cristhian Adames,Anthony Recker,8,4,8,False,2016-07-23,Stolen,2B,2016
+2188,1B,,Caught Stealing 2B,542436,Cristhian Adames,Tucker Barnhart,0,1,5,True,2016-04-18,Caught,2B,2016

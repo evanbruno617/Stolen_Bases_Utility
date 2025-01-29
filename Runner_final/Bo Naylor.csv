@@ -1,0 +1,11 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,321,1B,2B,Stolen Base 2B,666310,Bo Naylor,656353,Tucker Davidson,664702,Myles Straw,L,Logan Porter,682515,2,4,7,True,2023-09-18,Stolen,2B,2023,2024,26.6
+1,372,1B,2B,Stolen Base 2B,666310,Bo Naylor,641540,Dane Dunning,664702,Myles Straw,R,Jonah Heim,641680,0,0,2,False,2023-09-16,Stolen,2B,2023,2024,26.6
+2,474,1B,2B,Stolen Base 2B,666310,Bo Naylor,605154,John Brebbia,664702,Myles Straw,R,Joey Bart,663698,3,2,7,True,2023-09-11,Stolen,2B,2023,2024,26.6
+3,662,1B,2B,Stolen Base 2B,666310,Bo Naylor,543243,Sonny Gray,664702,Myles Straw,R,Christian Vázquez,543877,3,2,5,False,2023-09-05,Stolen,2B,2023,2024,26.6
+4,1544,1B,2B,Stolen Base 2B,666310,Bo Naylor,656302,Dylan Cease,664702,Myles Straw,R,Seby Zavala,664874,3,4,6,True,2023-07-27,Stolen,2B,2023,2024,26.6
+5,4735,1B,2B,Stolen Base 2B,666310,Bo Naylor,656353,Tucker Davidson,664702,Myles Straw,L,Logan Porter,682515,2,4,7,True,2023-09-18,Stolen,2B,2023,2024,26.6
+6,4786,1B,2B,Stolen Base 2B,666310,Bo Naylor,641540,Dane Dunning,664702,Myles Straw,R,Jonah Heim,641680,0,0,2,False,2023-09-16,Stolen,2B,2023,2024,26.6
+7,4888,1B,2B,Stolen Base 2B,666310,Bo Naylor,605154,John Brebbia,664702,Myles Straw,R,Joey Bart,663698,3,2,7,True,2023-09-11,Stolen,2B,2023,2024,26.6
+8,5076,1B,2B,Stolen Base 2B,666310,Bo Naylor,543243,Sonny Gray,664702,Myles Straw,R,Christian Vázquez,543877,3,2,5,False,2023-09-05,Stolen,2B,2023,2024,26.6
+9,5958,1B,2B,Stolen Base 2B,666310,Bo Naylor,656302,Dylan Cease,664702,Myles Straw,R,Seby Zavala,664874,3,4,6,True,2023-07-27,Stolen,2B,2023,2024,26.6

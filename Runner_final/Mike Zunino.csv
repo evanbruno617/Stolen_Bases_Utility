@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,939,1B,2B,Stolen Base 2B,572287,Mike Zunino,622795,Yohander Méndez,592325,Ben Gamel,L,A.J. Jimenez,543362,1,5,5,True,2017-09-14,Stolen,2B,2017,2018,26.0
+1,311,1B,2B,Stolen Base 2B,572287,Mike Zunino,622795,Yohander Méndez,592325,Ben Gamel,L,A.J. Jimenez,543362,1,5,5,True,2017-09-14,Stolen,2B,2017,2018,26.0
+2,1184,1B,,Caught Stealing 2B,572287,Mike Zunino,447755,Steve Delabar,621035,Chris Taylor,R,Russell Martin,431145,1,4,9,True,2015-05-22,Caught,2B,2015,2016,26.4

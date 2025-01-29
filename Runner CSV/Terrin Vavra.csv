@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1084,1B,,Caught Stealing 2B,679631,Terrin Vavra,Meibrys Viloria,1,6,6,True,2022-08-02,Caught,2B,2022
+3148,1B,2B,Stolen Base 2B,679631,Terrin Vavra,Chad Wallach,1,1,4,False,2023-05-17,Stolen,2B,2023

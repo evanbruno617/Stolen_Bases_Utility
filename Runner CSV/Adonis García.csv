@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+174,2B,score,Caught Stealing 3B,611177,Adonis García,Eric Fryer,2,1,7,False,2016-08-04,Caught,3B,2016
+542,1B,,Caught Stealing 2B,611177,Adonis García,Tucker Barnhart,0,0,1,True,2016-07-18,Caught,2B,2016
+1097,1B,2B,Stolen Base 2B,611177,Adonis García,Tucker Barnhart,0,3,4,False,2016-06-14,Stolen,2B,2016
+1271,1B,2B,Stolen Base 2B,611177,Adonis García,A.J. Ellis,1,0,7,True,2016-06-04,Stolen,2B,2016
+2212,1B,2B,Stolen Base 2B,611177,Adonis García,Devin Mesoraco,5,5,7,True,2017-06-03,Stolen,2B,2017
+2214,1B,2B,Stolen Base 2B,611177,Adonis García,Devin Mesoraco,5,6,12,True,2017-06-03,Stolen,2B,2017
+2551,1B,2B,Stolen Base 2B,611177,Adonis García,Mike Ohlman,0,2,2,True,2017-05-15,Stolen,2B,2017
+2729,1B,2B,Stolen Base 2B,611177,Adonis García,Yadier Molina,0,1,1,False,2017-05-07,Stolen,2B,2017

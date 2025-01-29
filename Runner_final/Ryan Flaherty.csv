@@ -1,0 +1,12 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,273,1B,2B,Stolen Base 2B,475247,Ryan Flaherty,592789,Noah Syndergaard,656794,Sean Newcomb,R,Tomás Nido,621512,1,0,2,False,2018-04-20,Stolen,2B,2018,2019,26.5
+1,276,1B,,Caught Stealing 2B,475247,Ryan Flaherty,607625,Seth Lugo,622666,Johan Camargo,R,Tomás Nido,621512,3,3,7,False,2018-04-20,Caught,2B,2018,2019,26.5
+2,403,1B,,Caught Stealing 2B,475247,Ryan Flaherty,543557,Mike Montgomery,572669,Lane Adams,L,Willson Contreras,575929,0,4,7,True,2018-04-13,Caught,2B,2018,2019,26.5
+3,498,1B,2B,Stolen Base 2B,475247,Ryan Flaherty,451584,Wade Davis,572669,Lane Adams,R,Tony Wolters,547172,2,2,9,True,2018-04-07,Stolen,2B,2018,2019,26.5
+4,537,1B,2B,Stolen Base 2B,475247,Ryan Flaherty,608566,Germán Márquez,435221,Brandon McCarthy,R,Chris Iannetta,455104,3,7,5,True,2018-04-06,Stolen,2B,2018,2019,26.5
+5,5538,1B,2B,Stolen Base 2B,475247,Ryan Flaherty,476454,Dellin Betances,570731,Jonathan Schoop,R,Brian McCann,435263,2,1,7,True,2016-07-18,Stolen,2B,2016,2017,26.3
+6,7298,1B,2B,Stolen Base 2B,475247,Ryan Flaherty,598287,Noé Ramirez,572073,Joey Rickard,R,Blake Swihart,596119,4,5,6,True,2016-04-12,Stolen,2B,2016,2017,26.3
+7,1503,1B,2B,Stolen Base 2B,475247,Ryan Flaherty,476454,Dellin Betances,570731,Jonathan Schoop,R,Brian McCann,435263,2,1,7,True,2016-07-18,Stolen,2B,2016,2017,26.3
+8,3263,1B,2B,Stolen Base 2B,475247,Ryan Flaherty,598287,Noé Ramirez,572073,Joey Rickard,R,Blake Swihart,596119,4,5,6,True,2016-04-12,Stolen,2B,2016,2017,26.3
+9,4910,1B,2B,Stolen Base 2B,475247,Ryan Flaherty,476454,Dellin Betances,570731,Jonathan Schoop,R,Brian McCann,435263,2,1,7,True,2016-07-18,Stolen,2B,2016,2017,26.3
+10,6670,1B,2B,Stolen Base 2B,475247,Ryan Flaherty,598287,Noé Ramirez,572073,Joey Rickard,R,Blake Swihart,596119,4,5,6,True,2016-04-12,Stolen,2B,2016,2017,26.3

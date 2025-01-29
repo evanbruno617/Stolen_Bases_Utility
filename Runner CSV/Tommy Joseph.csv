@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1321,1B,,Caught Stealing 2B,571830,Tommy Joseph,Jonathan Lucroy,1,2,4,False,2016-06-02,Caught,2B,2016
+1464,1B,2B,Stolen Base 2B,571830,Tommy Joseph,James McCann,0,2,3,True,2016-05-25,Stolen,2B,2016
+3267,1B,2B,Stolen Base 2B,571830,Tommy Joseph,Jose Lobaton,0,0,2,False,2017-04-09,Stolen,2B,2017

@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4106,1B,2B,Stolen Base 2B,136860,Carlos Beltrán,519076,Jimmy Nelson,134181,Adrian Beltré,R,Manny Piña,444489,3,4,6,False,2016-09-27,Stolen,2B,2016,2017,25.3
+1,71,1B,2B,Stolen Base 2B,136860,Carlos Beltrán,519076,Jimmy Nelson,134181,Adrian Beltré,R,Manny Piña,444489,3,4,6,False,2016-09-27,Stolen,2B,2016,2017,25.3
+2,3478,1B,2B,Stolen Base 2B,136860,Carlos Beltrán,519076,Jimmy Nelson,134181,Adrian Beltré,R,Manny Piña,444489,3,4,6,False,2016-09-27,Stolen,2B,2016,2017,25.3

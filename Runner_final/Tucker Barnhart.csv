@@ -1,0 +1,18 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1930,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,621381,Matt Strahm,642165,Josh VanMeter,L,Francisco Mejía,642336,0,0,2,False,2019-08-21,Stolen,2B,2019,2020,24.3
+1,4773,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,621381,Matt Strahm,642165,Josh VanMeter,L,Francisco Mejía,642336,0,0,2,False,2019-08-21,Stolen,2B,2019,2020,24.3
+2,6697,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,621381,Matt Strahm,642165,Josh VanMeter,L,Francisco Mejía,642336,0,0,2,False,2019-08-21,Stolen,2B,2019,2020,24.3
+3,2449,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,669796,Jose E. Hernandez,643565,Mike Tauchman,L,Jason Delay,641511,5,2,5,False,2023-06-15,Stolen,2B,2023,2024,24.4
+4,6863,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,669796,Jose E. Hernandez,643565,Mike Tauchman,L,Jason Delay,641511,5,2,5,False,2023-06-15,Stolen,2B,2023,2024,24.4
+5,75,1B,,Caught Stealing 2B,571466,Tucker Barnhart,468504,Jhoulys Chacín,607468,Alex Blandino,R,Manny Piña,444489,0,0,2,False,2018-04-30,Caught,2B,2018,2019,24.1
+6,1292,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,543037,Gerrit Cole,622491,Luis Castillo,R,Chris Stewart,455755,0,0,5,False,2017-08-26,Stolen,2B,2017,2018,25.0
+7,1340,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,467008,Pedro Strop,594988,Scott Schebler,R,René Rivera,425784,4,2,8,False,2017-08-24,Stolen,2B,2017,2018,25.0
+8,2002,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,425844,Zack Greinke,534947,Tim Adleman,R,Jeff Mathis,425772,1,0,2,False,2017-07-19,Stolen,2B,2017,2018,25.0
+9,3464,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,543037,Gerrit Cole,607237,Amir Garrett,R,Chris Stewart,455755,0,1,2,False,2017-05-01,Stolen,2B,2017,2018,25.0
+10,664,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,543037,Gerrit Cole,622491,Luis Castillo,R,Chris Stewart,455755,0,0,5,False,2017-08-26,Stolen,2B,2017,2018,25.0
+11,712,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,467008,Pedro Strop,594988,Scott Schebler,R,René Rivera,425784,4,2,8,False,2017-08-24,Stolen,2B,2017,2018,25.0
+12,1374,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,425844,Zack Greinke,534947,Tim Adleman,R,Jeff Mathis,425772,1,0,2,False,2017-07-19,Stolen,2B,2017,2018,25.0
+13,2836,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,543037,Gerrit Cole,607237,Amir Garrett,R,Chris Stewart,455755,0,1,2,False,2017-05-01,Stolen,2B,2017,2018,25.0
+14,5749,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,605452,Joe Ross,573185,Dan Straily,R,Wilson Ramos,467092,0,4,3,True,2016-07-02,Stolen,2B,2016,2017,25.3
+15,1714,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,605452,Joe Ross,573185,Dan Straily,R,Wilson Ramos,467092,0,4,3,True,2016-07-02,Stolen,2B,2016,2017,25.3
+16,5121,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,605452,Joe Ross,573185,Dan Straily,R,Wilson Ramos,467092,0,4,3,True,2016-07-02,Stolen,2B,2016,2017,25.3

@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+558,2B,,Caught Stealing 3B,408036,Josh Bard,Brandon Inge,4,5,8,True,2003-09-01,Caught,3B,2003
+878,2B,,Caught Stealing 3B,408036,Josh Bard,Toby Hall,0,0,2,False,2003-08-15,Caught,3B,2003
+2002,1B,,Caught Stealing 2B,408036,Josh Bard,Russell Martin,0,1,4,True,2007-06-30,Caught,2B,2007

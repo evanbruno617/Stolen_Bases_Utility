@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+760,1B,2B,Stolen Base 2B,534606,Ryan LaMarre,Grayson Greiner,0,0,1,True,2018-08-23,Stolen,2B,2018
+2181,1B,2B,Stolen Base 2B,534606,Ryan LaMarre,Yan Gomes,3,0,4,False,2018-06-03,Stolen,2B,2018
+2691,1B,,Caught Stealing 2B,534606,Ryan LaMarre,Welington Castillo,3,8,8,True,2018-05-05,Caught,2B,2018
+55,1B,2B,Stolen Base 2B,534606,Ryan LaMarre,Meibrys Viloria,2,6,6,True,2019-09-27,Stolen,2B,2019
+179,1B,,Caught Stealing 2B,534606,Ryan LaMarre,Meibrys Viloria,4,4,4,False,2019-09-19,Caught,2B,2019
+1152,1B,2B,Stolen Base 2B,534606,Ryan LaMarre,Christian Vázquez,5,0,7,False,2021-07-18,Stolen,2B,2021

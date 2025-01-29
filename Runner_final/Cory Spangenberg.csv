@@ -1,0 +1,41 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,352,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,595881,Tyler Beede,595978,Austin Hedges,R,Nick Hundley,460026,0,1,2,False,2018-04-15,Stolen,2B,2018,2019,29.1
+1,746,2B,,Caught Stealing 3B,605486,Cory Spangenberg,608566,Germán Márquez,502570,Rocky Gale,R,Tony Wolters,547172,2,2,2,False,2017-09-24,Caught,3B,2017,2018,28.9
+2,1088,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,608379,Michael Wacha,519333,Matt Szczur,R,Yadier Molina,425877,4,7,6,False,2017-09-05,Stolen,2B,2017,2018,28.9
+3,1162,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,502051,Josh Ravin,595978,Austin Hedges,R,Austin Barnes,605131,5,3,7,False,2017-09-02,Stolen,2B,2017,2018,28.9
+4,1285,3B,score,Stolen Base Home,605486,Cory Spangenberg,628333,Odrisamer Despaigne,659275,Dinelson Lamet,R,J.T. Realmuto,592663,0,1,2,True,2017-08-26,Stolen,Home,2017,2018,28.9
+5,1505,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,643410,Mark Leiter Jr.,516949,Héctor Sánchez,R,Jorge Alfaro,595751,8,2,5,False,2017-08-15,Stolen,2B,2017,2018,28.9
+6,1522,2B,3B,Stolen Base 3B,605486,Cory Spangenberg,595191,Jerad Eickhoff,622534,Manuel Margot,R,Cameron Rupp,519237,2,2,4,False,2017-08-14,Stolen,3B,2017,2018,28.9
+7,1828,1B,,Caught Stealing 2B,605486,Cory Spangenberg,467100,Iván Nova,592669,Hunter Renfroe,R,Francisco Cervelli,465041,2,0,1,False,2017-07-29,Caught,2B,2017,2018,28.9
+8,2210,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,446372,Corey Kluber,595978,Austin Hedges,R,Yan Gomes,543228,0,0,3,True,2017-07-04,Stolen,2B,2017,2018,28.9
+9,2301,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,448802,Jaime García,595978,Austin Hedges,L,Kurt Suzuki,435559,3,0,3,False,2017-06-29,Stolen,2B,2017,2018,28.9
+10,2420,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,605242,Michael Fulmer,430947,Erick Aybar,R,Alex Avila,488671,1,0,4,False,2017-06-23,Stolen,2B,2017,2018,28.9
+11,3176,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,608349,Corey Knebel,571976,Wil Myers,R,Jett Bandy,542908,4,4,9,False,2017-05-15,Stolen,2B,2017,2018,28.9
+12,3177,2B,3B,Stolen Base 3B,605486,Cory Spangenberg,608349,Corey Knebel,595978,Austin Hedges,R,Jett Bandy,542908,4,4,9,False,2017-05-15,Stolen,3B,2017,2018,28.9
+13,3337,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,502051,Josh Ravin,595978,Austin Hedges,R,Austin Barnes,605131,5,3,7,False,2017-05-07,Stolen,2B,2017,2018,28.9
+14,3566,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,407845,Fernando Rodney,571976,Wil Myers,R,Jeff Mathis,425772,5,6,9,True,2017-04-26,Stolen,2B,2017,2018,28.9
+15,118,2B,,Caught Stealing 3B,605486,Cory Spangenberg,608566,Germán Márquez,502570,Rocky Gale,R,Tony Wolters,547172,2,2,2,False,2017-09-24,Caught,3B,2017,2018,28.9
+16,460,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,608379,Michael Wacha,519333,Matt Szczur,R,Yadier Molina,425877,4,7,6,False,2017-09-05,Stolen,2B,2017,2018,28.9
+17,534,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,502051,Josh Ravin,595978,Austin Hedges,R,Austin Barnes,605131,5,3,7,False,2017-09-02,Stolen,2B,2017,2018,28.9
+18,657,3B,score,Stolen Base Home,605486,Cory Spangenberg,628333,Odrisamer Despaigne,659275,Dinelson Lamet,R,J.T. Realmuto,592663,0,1,2,True,2017-08-26,Stolen,Home,2017,2018,28.9
+19,877,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,643410,Mark Leiter Jr.,516949,Héctor Sánchez,R,Jorge Alfaro,595751,8,2,5,False,2017-08-15,Stolen,2B,2017,2018,28.9
+20,894,2B,3B,Stolen Base 3B,605486,Cory Spangenberg,595191,Jerad Eickhoff,622534,Manuel Margot,R,Cameron Rupp,519237,2,2,4,False,2017-08-14,Stolen,3B,2017,2018,28.9
+21,1200,1B,,Caught Stealing 2B,605486,Cory Spangenberg,467100,Iván Nova,592669,Hunter Renfroe,R,Francisco Cervelli,465041,2,0,1,False,2017-07-29,Caught,2B,2017,2018,28.9
+22,1582,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,446372,Corey Kluber,595978,Austin Hedges,R,Yan Gomes,543228,0,0,3,True,2017-07-04,Stolen,2B,2017,2018,28.9
+23,1673,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,448802,Jaime García,595978,Austin Hedges,L,Kurt Suzuki,435559,3,0,3,False,2017-06-29,Stolen,2B,2017,2018,28.9
+24,1792,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,605242,Michael Fulmer,430947,Erick Aybar,R,Alex Avila,488671,1,0,4,False,2017-06-23,Stolen,2B,2017,2018,28.9
+25,2548,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,608349,Corey Knebel,571976,Wil Myers,R,Jett Bandy,542908,4,4,9,False,2017-05-15,Stolen,2B,2017,2018,28.9
+26,2549,2B,3B,Stolen Base 3B,605486,Cory Spangenberg,608349,Corey Knebel,595978,Austin Hedges,R,Jett Bandy,542908,4,4,9,False,2017-05-15,Stolen,3B,2017,2018,28.9
+27,2709,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,502051,Josh Ravin,595978,Austin Hedges,R,Austin Barnes,605131,5,3,7,False,2017-05-07,Stolen,2B,2017,2018,28.9
+28,2938,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,407845,Fernando Rodney,571976,Wil Myers,R,Jeff Mathis,425772,5,6,9,True,2017-04-26,Stolen,2B,2017,2018,28.9
+29,7326,2B,3B,Stolen Base 3B,605486,Cory Spangenberg,612434,Miguel Castro,571976,Wil Myers,R,Tony Wolters,547172,4,3,8,True,2016-04-10,Stolen,3B,2016,2017,28.6
+30,3291,2B,3B,Stolen Base 3B,605486,Cory Spangenberg,612434,Miguel Castro,571976,Wil Myers,R,Tony Wolters,547172,4,3,8,True,2016-04-10,Stolen,3B,2016,2017,28.6
+31,6698,2B,3B,Stolen Base 3B,605486,Cory Spangenberg,612434,Miguel Castro,571976,Wil Myers,R,Tony Wolters,547172,4,3,8,True,2016-04-10,Stolen,3B,2016,2017,28.6
+32,461,2B,3B,Stolen Base 3B,605486,Cory Spangenberg,592662,Robbie Ray,461314,Matt Kemp,L,Welington Castillo,456078,2,2,3,False,2015-06-26,Stolen,3B,2015,2016,29.3
+33,462,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,592662,Robbie Ray,475115,Tyson Ross,L,Welington Castillo,456078,2,2,5,False,2015-06-26,Stolen,2B,2015,2016,29.3
+34,946,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,605333,Jack Leathersich,506560,Alexi Amarista,L,Kevin Plawecki,608700,7,1,5,False,2015-06-02,Stolen,2B,2015,2016,29.3
+35,1098,1B,,Caught Stealing 2B,605486,Cory Spangenberg,501925,Joe Smith,519025,Will Middlebrooks,R,Carlos Pérez,542208,3,3,8,True,2015-05-25,Caught,2B,2015,2016,29.3
+36,1356,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,605476,Carson Smith,461314,Matt Kemp,R,Mike Zunino,572287,1,3,8,True,2015-05-13,Stolen,2B,2015,2016,29.3
+37,1432,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,502624,Chase Anderson,500208,Yangervis Solarte,R,Jordan Pacheco,457574,0,1,1,True,2015-05-09,Stolen,2B,2015,2016,29.3
+38,1461,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,476451,Jeremy Hellickson,461314,Matt Kemp,R,Tuffy Gosewisch,488912,2,2,3,True,2015-05-08,Stolen,2B,2015,2016,29.3
+39,1518,1B,2B,Stolen Base 2B,605486,Cory Spangenberg,502004,George Kontos,461314,Matt Kemp,R,Andrew Susac,572180,1,5,6,True,2015-05-06,Stolen,2B,2015,2016,29.3

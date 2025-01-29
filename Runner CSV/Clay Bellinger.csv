@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+817,1B,2B,Stolen Base 2B,150083,Clay Bellinger,Sal Fasano,5,3,7,True,2000-08-27,Stolen,2B,2000
+916,1B,2B,Stolen Base 2B,150083,Clay Bellinger,Bill Haselman,6,4,7,False,2000-08-23,Stolen,2B,2000
+1000,1B,2B,Stolen Base 2B,150083,Clay Bellinger,Bengie Molina,1,0,3,False,2000-08-20,Stolen,2B,2000
+2538,1B,2B,Stolen Base 2B,150083,Clay Bellinger,Brian Schneider,2,0,3,True,2000-06-07,Stolen,2B,2000
+2826,1B,2B,Stolen Base 2B,150083,Clay Bellinger,Jason Varitek,4,3,6,False,2000-05-27,Stolen,2B,2000
+1240,1B,2B,Stolen Base 2B,150083,Clay Bellinger,Jason Varitek,2,0,6,True,2001-04-16,Stolen,2B,2001

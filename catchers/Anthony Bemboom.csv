@@ -1,0 +1,62 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,,Caught Stealing 2B,518618,Derek Dietrich,592135,Cam Bedrosian,669087,Sam Huff,R,Anthony Bemboom,621532,0,3,2,True,2020-09-20,Caught,2B,2020,2021, 80.3, 0.69
+1,1B,,Caught Stealing 2B,662139,Daulton Varsho,656288,Griffin Canning,642165,Josh VanMeter,R,Anthony Bemboom,621532,0,0,1,True,2020-09-17,Caught,2B,2020,2021, 80.3, 0.69
+2,1B,2B,Stolen Base 2B,606132,Raimel Tapia,656288,Griffin Canning,596115,Trevor Story,R,Anthony Bemboom,621532,0,2,1,False,2020-09-11,Stolen,2B,2020,2021, 80.3, 0.69
+3,1B,2B,Stolen Base 2B,607680,Kevin Pillar,656288,Griffin Canning,461314,Matt Kemp,R,Anthony Bemboom,621532,3,2,6,False,2020-09-11,Stolen,2B,2020,2021, 80.3, 0.69
+4,1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,592135,Cam Bedrosian,669256,Nick Solak,R,Anthony Bemboom,621532,7,2,6,False,2020-09-09,Stolen,2B,2020,2021, 80.3, 0.69
+5,3B,score,Stolen Base Home,665750,Leody Taveras,592135,Cam Bedrosian,669256,Nick Solak,R,Anthony Bemboom,621532,7,2,6,False,2020-09-09,Stolen,Home,2020,2021, 80.3, 0.69
+6,1B,,Caught Stealing 2B,647351,Abraham Toro,594577,Mike Mayers,608686,Jack Mayfield,R,Anthony Bemboom,621532,6,6,6,True,2020-09-05,Caught,2B,2020,2021, 80.3, 0.69
+7,1B,2B,Stolen Base 2B,656185,Greg Allen,570240,Félix Peña,665487,Fernando Tatis Jr.,R,Anthony Bemboom,621532,3,3,7,True,2020-09-02,Stolen,2B,2020,2021, 80.3, 0.69
+8,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,621142,Ty Buttrey,595777,Jurickson Profar,R,Anthony Bemboom,621532,3,3,8,True,2020-09-02,Stolen,2B,2020,2021, 80.3, 0.69
+9,1B,,Caught Stealing 2B,592530,José Marmolejos,642545,Jaime Barria,622268,Donovan Walton,R,Anthony Bemboom,621532,0,0,2,True,2020-08-31,Caught,2B,2020,2021, 80.3, 0.69
+10,1B,,Caught Stealing 2B,641584,Jake Fraley,621142,Ty Buttrey,641929,Joseph Odom,R,Anthony Bemboom,621532,1,2,9,True,2020-08-31,Caught,2B,2020,2021, 80.3, 0.69
+11,1B,,Caught Stealing 2B,543829,Dee Strange-Gordon,656288,Griffin Canning,643418,Shed Long Jr.,R,Anthony Bemboom,621532,1,1,8,True,2020-08-30,Caught,2B,2020,2021, 80.3, 0.69
+12,1B,2B,Stolen Base 2B,641584,Jake Fraley,605164,Dylan Bundy,641487,J.P. Crawford,R,Anthony Bemboom,621532,1,1,2,True,2020-08-29,Stolen,2B,2020,2021, 80.3, 0.69
+13,1B,,Caught Stealing 2B,641487,J.P. Crawford,605164,Dylan Bundy,664059,Sam Haggerty,R,Anthony Bemboom,621532,3,1,5,True,2020-08-29,Caught,2B,2020,2021, 80.3, 0.69
+14,1B,2B,Stolen Base 2B,592192,Mark Canha,571760,Andrew Heaney,572039,Stephen Piscotty,L,Anthony Bemboom,621532,3,0,3,False,2020-08-21,Stolen,2B,2020,2021, 80.3, 0.69
+15,1B,,Caught Stealing 2B,518618,Derek Dietrich,592135,Cam Bedrosian,669087,Sam Huff,R,Anthony Bemboom,621532,0,3,2,True,2020-09-20,Caught,2B,2020,2021, 80.3, 0.69
+16,1B,,Caught Stealing 2B,662139,Daulton Varsho,656288,Griffin Canning,642165,Josh VanMeter,R,Anthony Bemboom,621532,0,0,1,True,2020-09-17,Caught,2B,2020,2021, 80.3, 0.69
+17,1B,2B,Stolen Base 2B,606132,Raimel Tapia,656288,Griffin Canning,596115,Trevor Story,R,Anthony Bemboom,621532,0,2,1,False,2020-09-11,Stolen,2B,2020,2021, 80.3, 0.69
+18,1B,2B,Stolen Base 2B,607680,Kevin Pillar,656288,Griffin Canning,461314,Matt Kemp,R,Anthony Bemboom,621532,3,2,6,False,2020-09-11,Stolen,2B,2020,2021, 80.3, 0.69
+19,1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,592135,Cam Bedrosian,669256,Nick Solak,R,Anthony Bemboom,621532,7,2,6,False,2020-09-09,Stolen,2B,2020,2021, 80.3, 0.69
+20,3B,score,Stolen Base Home,665750,Leody Taveras,592135,Cam Bedrosian,669256,Nick Solak,R,Anthony Bemboom,621532,7,2,6,False,2020-09-09,Stolen,Home,2020,2021, 80.3, 0.69
+21,1B,,Caught Stealing 2B,647351,Abraham Toro,594577,Mike Mayers,608686,Jack Mayfield,R,Anthony Bemboom,621532,6,6,6,True,2020-09-05,Caught,2B,2020,2021, 80.3, 0.69
+22,1B,2B,Stolen Base 2B,656185,Greg Allen,570240,Félix Peña,665487,Fernando Tatis Jr.,R,Anthony Bemboom,621532,3,3,7,True,2020-09-02,Stolen,2B,2020,2021, 80.3, 0.69
+23,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,621142,Ty Buttrey,595777,Jurickson Profar,R,Anthony Bemboom,621532,3,3,8,True,2020-09-02,Stolen,2B,2020,2021, 80.3, 0.69
+24,1B,,Caught Stealing 2B,592530,José Marmolejos,642545,Jaime Barria,622268,Donovan Walton,R,Anthony Bemboom,621532,0,0,2,True,2020-08-31,Caught,2B,2020,2021, 80.3, 0.69
+25,1B,,Caught Stealing 2B,641584,Jake Fraley,621142,Ty Buttrey,641929,Joseph Odom,R,Anthony Bemboom,621532,1,2,9,True,2020-08-31,Caught,2B,2020,2021, 80.3, 0.69
+26,1B,,Caught Stealing 2B,543829,Dee Strange-Gordon,656288,Griffin Canning,643418,Shed Long Jr.,R,Anthony Bemboom,621532,1,1,8,True,2020-08-30,Caught,2B,2020,2021, 80.3, 0.69
+27,1B,2B,Stolen Base 2B,641584,Jake Fraley,605164,Dylan Bundy,641487,J.P. Crawford,R,Anthony Bemboom,621532,1,1,2,True,2020-08-29,Stolen,2B,2020,2021, 80.3, 0.69
+28,1B,,Caught Stealing 2B,641487,J.P. Crawford,605164,Dylan Bundy,664059,Sam Haggerty,R,Anthony Bemboom,621532,3,1,5,True,2020-08-29,Caught,2B,2020,2021, 80.3, 0.69
+29,1B,2B,Stolen Base 2B,592192,Mark Canha,571760,Andrew Heaney,572039,Stephen Piscotty,L,Anthony Bemboom,621532,3,0,3,False,2020-08-21,Stolen,2B,2020,2021, 80.3, 0.69
+30,1B,,Caught Stealing 2B,518618,Derek Dietrich,592135,Cam Bedrosian,669087,Sam Huff,R,Anthony Bemboom,621532,0,3,2,True,2020-09-20,Caught,2B,2020,2021, 80.3, 0.69
+31,1B,,Caught Stealing 2B,662139,Daulton Varsho,656288,Griffin Canning,642165,Josh VanMeter,R,Anthony Bemboom,621532,0,0,1,True,2020-09-17,Caught,2B,2020,2021, 80.3, 0.69
+32,1B,2B,Stolen Base 2B,606132,Raimel Tapia,656288,Griffin Canning,596115,Trevor Story,R,Anthony Bemboom,621532,0,2,1,False,2020-09-11,Stolen,2B,2020,2021, 80.3, 0.69
+33,1B,2B,Stolen Base 2B,607680,Kevin Pillar,656288,Griffin Canning,461314,Matt Kemp,R,Anthony Bemboom,621532,3,2,6,False,2020-09-11,Stolen,2B,2020,2021, 80.3, 0.69
+34,1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,592135,Cam Bedrosian,669256,Nick Solak,R,Anthony Bemboom,621532,7,2,6,False,2020-09-09,Stolen,2B,2020,2021, 80.3, 0.69
+35,3B,score,Stolen Base Home,665750,Leody Taveras,592135,Cam Bedrosian,669256,Nick Solak,R,Anthony Bemboom,621532,7,2,6,False,2020-09-09,Stolen,Home,2020,2021, 80.3, 0.69
+36,1B,,Caught Stealing 2B,647351,Abraham Toro,594577,Mike Mayers,608686,Jack Mayfield,R,Anthony Bemboom,621532,6,6,6,True,2020-09-05,Caught,2B,2020,2021, 80.3, 0.69
+37,1B,2B,Stolen Base 2B,656185,Greg Allen,570240,Félix Peña,665487,Fernando Tatis Jr.,R,Anthony Bemboom,621532,3,3,7,True,2020-09-02,Stolen,2B,2020,2021, 80.3, 0.69
+38,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,621142,Ty Buttrey,595777,Jurickson Profar,R,Anthony Bemboom,621532,3,3,8,True,2020-09-02,Stolen,2B,2020,2021, 80.3, 0.69
+39,1B,,Caught Stealing 2B,592530,José Marmolejos,642545,Jaime Barria,622268,Donovan Walton,R,Anthony Bemboom,621532,0,0,2,True,2020-08-31,Caught,2B,2020,2021, 80.3, 0.69
+40,1B,,Caught Stealing 2B,641584,Jake Fraley,621142,Ty Buttrey,641929,Joseph Odom,R,Anthony Bemboom,621532,1,2,9,True,2020-08-31,Caught,2B,2020,2021, 80.3, 0.69
+41,1B,,Caught Stealing 2B,543829,Dee Strange-Gordon,656288,Griffin Canning,643418,Shed Long Jr.,R,Anthony Bemboom,621532,1,1,8,True,2020-08-30,Caught,2B,2020,2021, 80.3, 0.69
+42,1B,2B,Stolen Base 2B,641584,Jake Fraley,605164,Dylan Bundy,641487,J.P. Crawford,R,Anthony Bemboom,621532,1,1,2,True,2020-08-29,Stolen,2B,2020,2021, 80.3, 0.69
+43,1B,,Caught Stealing 2B,641487,J.P. Crawford,605164,Dylan Bundy,664059,Sam Haggerty,R,Anthony Bemboom,621532,3,1,5,True,2020-08-29,Caught,2B,2020,2021, 80.3, 0.69
+44,1B,2B,Stolen Base 2B,592192,Mark Canha,571760,Andrew Heaney,572039,Stephen Piscotty,L,Anthony Bemboom,621532,3,0,3,False,2020-08-21,Stolen,2B,2020,2021, 80.3, 0.69
+45,1B,2B,Stolen Base 2B,642201,Eli White,518553,Steve Cishek,643396,Isiah Kiner-Falefa,R,Anthony Bemboom,621532,5,1,4,False,2021-04-27,Stolen,2B,2021,2022, 82.5, 0.74
+46,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,656288,Griffin Canning,521692,Salvador Perez,R,Anthony Bemboom,621532,0,0,1,False,2021-04-14,Stolen,2B,2021,2022, 82.5, 0.74
+47,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,656288,Griffin Canning,641531,Hunter Dozier,R,Anthony Bemboom,621532,1,0,4,False,2021-04-14,Stolen,2B,2021,2022, 82.5, 0.74
+48,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,453265,Tony Watson,572191,Michael A. Taylor,L,Anthony Bemboom,621532,5,1,7,False,2021-04-14,Stolen,2B,2021,2022, 82.5, 0.74
+49,1B,2B,Stolen Base 2B,642201,Eli White,518553,Steve Cishek,643396,Isiah Kiner-Falefa,R,Anthony Bemboom,621532,5,1,4,False,2021-04-27,Stolen,2B,2021,2022, 82.5, 0.74
+50,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,656288,Griffin Canning,521692,Salvador Perez,R,Anthony Bemboom,621532,0,0,1,False,2021-04-14,Stolen,2B,2021,2022, 82.5, 0.74
+51,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,656288,Griffin Canning,641531,Hunter Dozier,R,Anthony Bemboom,621532,1,0,4,False,2021-04-14,Stolen,2B,2021,2022, 82.5, 0.74
+52,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,453265,Tony Watson,572191,Michael A. Taylor,L,Anthony Bemboom,621532,5,1,7,False,2021-04-14,Stolen,2B,2021,2022, 82.5, 0.74
+53,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,642585,Félix Bautista,660766,Juan Yepez,R,Anthony Bemboom,621532,2,3,8,False,2022-05-12,Stolen,2B,2022,2023, --, 0.63
+54,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,669330,Tyler Wells,656811,Ryan O'Hearn,R,Anthony Bemboom,621532,0,1,1,True,2022-05-09,Stolen,2B,2022,2023, --, 0.63
+55,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,669330,Tyler Wells,656811,Ryan O'Hearn,R,Anthony Bemboom,621532,0,1,1,True,2022-05-07,Stolen,2B,2022,2023, --, 0.63
+56,1B,,Caught Stealing 2B,641796,Tim Locastro,657508,Mike Baumann,518934,DJ LeMahieu,R,Anthony Bemboom,621532,5,2,6,False,2022-04-28,Caught,2B,2022,2023, --, 0.63
+57,1B,2B,Stolen Base 2B,641796,Tim Locastro,643316,Paul Fry,503556,Marwin Gonzalez,L,Anthony Bemboom,621532,6,2,8,False,2022-04-28,Stolen,2B,2022,2023, --, 0.63
+58,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,622253,Dillon Tate,545361,Mike Trout,R,Anthony Bemboom,621532,4,5,7,False,2022-04-23,Stolen,2B,2022,2023, --, 0.63
+59,2B,,Caught Stealing 3B,543305,Aaron Hicks,669330,Tyler Wells,519203,Anthony Rizzo,R,Anthony Bemboom,621532,0,0,1,True,2022-04-16,Caught,3B,2022,2023, --, 0.63
+60,1B,2B,Caught Stealing 3B,592450,Aaron Judge,669330,Tyler Wells,519203,Anthony Rizzo,R,Anthony Bemboom,621532,0,0,1,True,2022-04-16,Caught,3B,2022,2023, --, 0.63

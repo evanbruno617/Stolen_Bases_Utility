@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+42,1B,2B,Stolen Base 2B,430632,Willy Aybar,Chris Snyder,0,0,3,False,2005-09-29,Stolen,2B,2005
+97,1B,2B,Stolen Base 2B,430632,Willy Aybar,Humberto Cota,3,2,4,False,2005-09-26,Stolen,2B,2005
+137,2B,,Caught Stealing 3B,430632,Willy Aybar,Ryan Doumit,0,1,1,False,2005-09-24,Caught,3B,2005
+374,2B,3B,Stolen Base 3B,430632,Willy Aybar,JD Closser,6,0,4,False,2005-09-12,Stolen,3B,2005
+476,1B,,Caught Stealing 2B,430632,Willy Aybar,Gregg Zaun,1,0,2,True,2008-09-06,Caught,2B,2008
+1614,2B,3B,Stolen Base 3B,430632,Willy Aybar,John Buck,5,2,3,False,2008-07-06,Stolen,3B,2008
+2072,1B,2B,Stolen Base 2B,430632,Willy Aybar,Matt Treanor,1,1,4,False,2008-06-14,Stolen,2B,2008
+3631,3B,,Caught Stealing Home,430632,Willy Aybar,Jorge Posada,2,0,5,True,2008-04-06,Caught,Home,2008

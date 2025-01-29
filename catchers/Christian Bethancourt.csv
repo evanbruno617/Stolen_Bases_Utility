@@ -1,0 +1,203 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,596115,Trevor Story,607192,Tyler Glasnow,666915,Bobby Dalbec,R,Christian Bethancourt,542194,0,1,2,False,2023-09-27,Stolen,2B,2023,2024, 88.2, 0.69
+1,1B,,Caught Stealing 2B,571657,Kyle Farmer,687330,Kevin Kelly,666397,Edouard Julien,R,Christian Bethancourt,542194,4,4,7,False,2023-09-13,Caught,2B,2023,2024, 88.2, 0.69
+2,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,621363,Colin Poche,571657,Kyle Farmer,L,Christian Bethancourt,542194,4,5,9,False,2023-09-13,Stolen,2B,2023,2024, 88.2, 0.69
+3,1B,2B,Stolen Base 2B,646240,Rafael Devers,552640,Andrew Kittredge,457759,Justin Turner,R,Christian Bethancourt,542194,3,4,8,True,2023-09-04,Stolen,2B,2023,2024, 88.2, 0.69
+4,1B,2B,Stolen Base 2B,665926,Andrés Giménez,621107,Zach Eflin,657656,Ramón Laureano,R,Christian Bethancourt,542194,0,4,2,True,2023-08-13,Stolen,2B,2023,2024, 88.2, 0.69
+5,1B,2B,Stolen Base 2B,608070,José Ramírez,518617,Jake Diekman,594777,Kole Calhoun,L,Christian Bethancourt,542194,3,4,6,True,2023-08-11,Stolen,2B,2023,2024, 88.2, 0.69
+6,1B,,Caught Stealing 2B,660821,Jesús Sánchez,607192,Tyler Glasnow,516416,Jean Segura,R,Christian Bethancourt,542194,0,0,2,True,2023-07-25,Caught,2B,2023,2024, 88.2, 0.69
+7,1B,2B,Stolen Base 2B,608671,Travis Jankowski,676534,Calvin Faucher,543257,Robbie Grossman,R,Christian Bethancourt,542194,1,0,7,False,2023-07-19,Stolen,2B,2023,2024, 88.2, 0.69
+8,1B,2B,Stolen Base 2B,665750,Leody Taveras,676534,Calvin Faucher,543760,Marcus Semien,R,Christian Bethancourt,542194,2,0,7,False,2023-07-19,Stolen,2B,2023,2024, 88.2, 0.69
+9,1B,,Caught Stealing 2B,680118,Dairon Blanco,681867,Cooper Criswell,677951,Bobby Witt Jr.,R,Christian Bethancourt,542194,1,1,3,False,2023-07-15,Caught,2B,2023,2024, 88.2, 0.69
+10,1B,2B,Stolen Base 2B,680118,Dairon Blanco,681867,Cooper Criswell,672580,Maikel Garcia,R,Christian Bethancourt,542194,2,1,5,False,2023-07-15,Stolen,2B,2023,2024, 88.2, 0.69
+11,1B,2B,Stolen Base 2B,607208,Trea Turner,687330,Kevin Kelly,547180,Bryce Harper,R,Christian Bethancourt,542194,1,1,6,True,2023-07-06,Stolen,2B,2023,2024, 88.2, 0.69
+12,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,607192,Tyler Glasnow,664034,Ty France,R,Christian Bethancourt,542194,2,0,3,False,2023-07-01,Stolen,2B,2023,2024, 88.2, 0.69
+13,1B,2B,Stolen Base 2B,672284,Jarred Kelenic,687330,Kevin Kelly,676609,José Caballero,R,Christian Bethancourt,542194,4,4,6,False,2023-06-30,Stolen,2B,2023,2024, 88.2, 0.69
+14,1B,2B,Stolen Base 2B,682998,Corbin Carroll,621363,Colin Poche,572233,Christian Walker,L,Christian Bethancourt,542194,2,0,8,False,2023-06-28,Stolen,2B,2023,2024, 88.2, 0.69
+15,1B,2B,Stolen Base 2B,664983,Jake McCarthy,542888,Shawn Armstrong,682998,Corbin Carroll,R,Christian Bethancourt,542194,8,4,6,False,2023-06-27,Stolen,2B,2023,2024, 88.2, 0.69
+16,2B,3B,Stolen Base 3B,672580,Maikel Garcia,607192,Tyler Glasnow,671221,Drew Waters,R,Christian Bethancourt,542194,0,0,2,True,2023-06-25,Stolen,3B,2023,2024, 88.2, 0.69
+17,1B,2B,Stolen Base 2B,658668,Edward Olivares,607192,Tyler Glasnow,671221,Drew Waters,R,Christian Bethancourt,542194,0,0,2,True,2023-06-25,Stolen,2B,2023,2024, 88.2, 0.69
+18,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,607192,Tyler Glasnow,521692,Salvador Perez,R,Christian Bethancourt,542194,1,0,4,True,2023-06-25,Stolen,2B,2023,2024, 88.2, 0.69
+19,1B,,Caught Stealing 2B,671221,Drew Waters,621107,Zach Eflin,680118,Dairon Blanco,R,Christian Bethancourt,542194,3,3,4,True,2023-06-23,Caught,2B,2023,2024, 88.2, 0.69
+20,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,630023,Yonny Chirinos,665742,Juan Soto,R,Christian Bethancourt,542194,0,0,1,False,2023-06-18,Stolen,2B,2023,2024, 88.2, 0.69
+21,1B,2B,Stolen Base 2B,663757,Trent Grisham,630023,Yonny Chirinos,665487,Fernando Tatis Jr.,R,Christian Bethancourt,542194,4,2,5,False,2023-06-18,Stolen,2B,2023,2024, 88.2, 0.69
+22,1B,2B,Stolen Base 2B,593428,Xander Bogaerts,518617,Jake Diekman,596059,Rougned Odor,L,Christian Bethancourt,542194,5,4,8,False,2023-06-18,Stolen,2B,2023,2024, 88.2, 0.69
+23,1B,2B,Stolen Base 2B,593428,Xander Bogaerts,663556,Shane McClanahan,630105,Jake Cronenworth,L,Christian Bethancourt,542194,0,2,4,False,2023-06-16,Stolen,2B,2023,2024, 88.2, 0.69
+24,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,607192,Tyler Glasnow,676116,Ryan Noda,R,Christian Bethancourt,542194,3,1,3,False,2023-06-14,Stolen,2B,2023,2024, 88.2, 0.69
+25,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,607192,Tyler Glasnow,664913,Seth Brown,R,Christian Bethancourt,542194,3,1,3,False,2023-06-14,Stolen,3B,2023,2024, 88.2, 0.69
+26,1B,2B,Stolen Base 2B,607054,Jace Peterson,607192,Tyler Glasnow,681146,Jonah Bride,R,Christian Bethancourt,542194,3,1,4,False,2023-06-14,Stolen,2B,2023,2024, 88.2, 0.69
+27,1B,2B,Stolen Base 2B,666969,Adolis García,607192,Tyler Glasnow,641680,Jonah Heim,R,Christian Bethancourt,542194,4,1,4,True,2023-06-09,Stolen,2B,2023,2024, 88.2, 0.69
+28,1B,2B,Stolen Base 2B,622569,Pablo Reyes,681867,Cooper Criswell,657077,Alex Verdugo,R,Christian Bethancourt,542194,8,5,7,False,2023-06-03,Stolen,2B,2023,2024, 88.2, 0.69
+29,1B,2B,Stolen Base 2B,663538,Nico Hoerner,621107,Zach Eflin,621020,Dansby Swanson,R,Christian Bethancourt,542194,0,0,1,False,2023-05-31,Stolen,2B,2023,2024, 88.2, 0.69
+30,1B,2B,Stolen Base 2B,664023,Ian Happ,621107,Zach Eflin,673548,Seiya Suzuki,R,Christian Bethancourt,542194,1,0,1,False,2023-05-31,Stolen,2B,2023,2024, 88.2, 0.69
+31,1B,,Caught Stealing 2B,643565,Mike Tauchman,621107,Zach Eflin,670223,Matt Mervis,R,Christian Bethancourt,542194,2,0,1,False,2023-05-31,Caught,2B,2023,2024, 88.2, 0.69
+32,1B,,Caught Stealing 2B,621550,Patrick Wisdom,621107,Zach Eflin,670156,Miles Mastrobuoni,R,Christian Bethancourt,542194,2,0,2,False,2023-05-31,Caught,2B,2023,2024, 88.2, 0.69
+33,1B,2B,Stolen Base 2B,670156,Miles Mastrobuoni,592094,Jason Adam,666624,Christopher Morel,R,Christian Bethancourt,542194,3,4,8,False,2023-05-31,Stolen,2B,2023,2024, 88.2, 0.69
+34,1B,2B,Stolen Base 2B,663538,Nico Hoerner,592094,Jason Adam,664023,Ian Happ,R,Christian Bethancourt,542194,3,4,8,False,2023-05-31,Stolen,2B,2023,2024, 88.2, 0.69
+35,1B,2B,Stolen Base 2B,670156,Miles Mastrobuoni,686747,Joe La Sorsa,663538,Nico Hoerner,L,Christian Bethancourt,542194,1,0,8,False,2023-05-29,Stolen,2B,2023,2024, 88.2, 0.69
+36,1B,2B,Stolen Base 2B,605141,Mookie Betts,621363,Colin Poche,518692,Freddie Freeman,L,Christian Bethancourt,542194,4,5,7,True,2023-05-27,Stolen,2B,2023,2024, 88.2, 0.69
+37,1B,2B,Stolen Base 2B,666182,Bo Bichette,592094,Jason Adam,665489,Vladimir Guerrero Jr.,R,Christian Bethancourt,542194,5,3,8,True,2023-05-24,Stolen,2B,2023,2024, 88.2, 0.69
+38,1B,2B,Stolen Base 2B,592885,Christian Yelich,518617,Jake Diekman,642133,Rowdy Tellez,L,Christian Bethancourt,542194,3,6,7,True,2023-05-21,Stolen,2B,2023,2024, 88.2, 0.69
+39,1B,,Caught Stealing 2B,668930,Brice Turang,621107,Zach Eflin,621438,Tyrone Taylor,R,Christian Bethancourt,542194,4,1,3,True,2023-05-20,Caught,2B,2023,2024, 88.2, 0.69
+40,1B,,Caught Stealing 2B,518934,DJ LeMahieu,621107,Zach Eflin,641432,Willie Calhoun,R,Christian Bethancourt,542194,0,1,2,False,2023-05-14,Caught,2B,2023,2024, 88.2, 0.69
+41,1B,2B,Stolen Base 2B,664056,Harrison Bader,621107,Zach Eflin,641432,Willie Calhoun,R,Christian Bethancourt,542194,4,8,6,False,2023-05-14,Stolen,2B,2023,2024, 88.2, 0.69
+42,1B,2B,Stolen Base 2B,656775,Cedric Mullins,630023,Yonny Chirinos,668939,Adley Rutschman,R,Christian Bethancourt,542194,0,0,3,False,2023-05-10,Stolen,2B,2023,2024, 88.2, 0.69
+43,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,621363,Colin Poche,624431,Jose Trevino,L,Christian Bethancourt,542194,7,7,9,True,2023-05-07,Stolen,2B,2023,2024, 88.2, 0.69
+44,1B,,Caught Stealing 2B,643396,Isiah Kiner-Falefa,656876,Drew Rasmussen,543309,Kyle Higashioka,R,Christian Bethancourt,542194,2,0,5,True,2023-05-06,Caught,2B,2023,2024, 88.2, 0.69
+45,2B,3B,Stolen Base 3B,656582,Connor Joe,676596,Josh Fleming,664029,Mark Mathias,L,Christian Bethancourt,542194,0,0,4,True,2023-05-02,Stolen,3B,2023,2024, 88.2, 0.69
+46,1B,2B,Stolen Base 2B,462101,Elvis Andrus,657044,Ryan Thompson,672820,Lenyn Sosa,R,Christian Bethancourt,542194,2,2,6,False,2023-04-28,Stolen,2B,2023,2024, 88.2, 0.69
+47,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,592094,Jason Adam,673357,Luis Robert Jr.,R,Christian Bethancourt,542194,2,2,7,False,2023-04-28,Stolen,2B,2023,2024, 88.2, 0.69
+48,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,664126,Pete Fairbanks,683734,Andrew Vaughn,R,Christian Bethancourt,542194,2,3,9,False,2023-04-28,Stolen,2B,2023,2024, 88.2, 0.69
+49,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,621107,Zach Eflin,683734,Andrew Vaughn,R,Christian Bethancourt,542194,0,0,1,True,2023-04-23,Stolen,2B,2023,2024, 88.2, 0.69
+50,1B,2B,Stolen Base 2B,662139,Daulton Varsho,656876,Drew Rasmussen,656305,Matt Chapman,R,Christian Bethancourt,542194,1,0,1,False,2023-04-14,Stolen,2B,2023,2024, 88.2, 0.69
+51,1B,,Caught Stealing 2B,669289,Santiago Espinal,656876,Drew Rasmussen,643376,Danny Jansen,R,Christian Bethancourt,542194,2,1,4,False,2023-04-14,Caught,2B,2023,2024, 88.2, 0.69
+52,2B,3B,Stolen Base 3B,657656,Ramón Laureano,656876,Drew Rasmussen,669127,Shea Langeliers,R,Christian Bethancourt,542194,1,0,2,True,2023-04-09,Stolen,3B,2023,2024, 88.2, 0.69
+53,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,621107,Zach Eflin,676116,Ryan Noda,R,Christian Bethancourt,542194,8,2,5,True,2023-04-07,Stolen,2B,2023,2024, 88.2, 0.69
+54,1B,2B,Stolen Base 2B,596115,Trevor Story,607192,Tyler Glasnow,666915,Bobby Dalbec,R,Christian Bethancourt,542194,0,1,2,False,2023-09-27,Stolen,2B,2023,2024, 88.2, 0.69
+55,1B,,Caught Stealing 2B,571657,Kyle Farmer,687330,Kevin Kelly,666397,Edouard Julien,R,Christian Bethancourt,542194,4,4,7,False,2023-09-13,Caught,2B,2023,2024, 88.2, 0.69
+56,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,621363,Colin Poche,571657,Kyle Farmer,L,Christian Bethancourt,542194,4,5,9,False,2023-09-13,Stolen,2B,2023,2024, 88.2, 0.69
+57,1B,2B,Stolen Base 2B,646240,Rafael Devers,552640,Andrew Kittredge,457759,Justin Turner,R,Christian Bethancourt,542194,3,4,8,True,2023-09-04,Stolen,2B,2023,2024, 88.2, 0.69
+58,1B,2B,Stolen Base 2B,665926,Andrés Giménez,621107,Zach Eflin,657656,Ramón Laureano,R,Christian Bethancourt,542194,0,4,2,True,2023-08-13,Stolen,2B,2023,2024, 88.2, 0.69
+59,1B,2B,Stolen Base 2B,608070,José Ramírez,518617,Jake Diekman,594777,Kole Calhoun,L,Christian Bethancourt,542194,3,4,6,True,2023-08-11,Stolen,2B,2023,2024, 88.2, 0.69
+60,1B,,Caught Stealing 2B,660821,Jesús Sánchez,607192,Tyler Glasnow,516416,Jean Segura,R,Christian Bethancourt,542194,0,0,2,True,2023-07-25,Caught,2B,2023,2024, 88.2, 0.69
+61,1B,2B,Stolen Base 2B,608671,Travis Jankowski,676534,Calvin Faucher,543257,Robbie Grossman,R,Christian Bethancourt,542194,1,0,7,False,2023-07-19,Stolen,2B,2023,2024, 88.2, 0.69
+62,1B,2B,Stolen Base 2B,665750,Leody Taveras,676534,Calvin Faucher,543760,Marcus Semien,R,Christian Bethancourt,542194,2,0,7,False,2023-07-19,Stolen,2B,2023,2024, 88.2, 0.69
+63,1B,,Caught Stealing 2B,680118,Dairon Blanco,681867,Cooper Criswell,677951,Bobby Witt Jr.,R,Christian Bethancourt,542194,1,1,3,False,2023-07-15,Caught,2B,2023,2024, 88.2, 0.69
+64,1B,2B,Stolen Base 2B,680118,Dairon Blanco,681867,Cooper Criswell,672580,Maikel Garcia,R,Christian Bethancourt,542194,2,1,5,False,2023-07-15,Stolen,2B,2023,2024, 88.2, 0.69
+65,1B,2B,Stolen Base 2B,607208,Trea Turner,687330,Kevin Kelly,547180,Bryce Harper,R,Christian Bethancourt,542194,1,1,6,True,2023-07-06,Stolen,2B,2023,2024, 88.2, 0.69
+66,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,607192,Tyler Glasnow,664034,Ty France,R,Christian Bethancourt,542194,2,0,3,False,2023-07-01,Stolen,2B,2023,2024, 88.2, 0.69
+67,1B,2B,Stolen Base 2B,672284,Jarred Kelenic,687330,Kevin Kelly,676609,José Caballero,R,Christian Bethancourt,542194,4,4,6,False,2023-06-30,Stolen,2B,2023,2024, 88.2, 0.69
+68,1B,2B,Stolen Base 2B,682998,Corbin Carroll,621363,Colin Poche,572233,Christian Walker,L,Christian Bethancourt,542194,2,0,8,False,2023-06-28,Stolen,2B,2023,2024, 88.2, 0.69
+69,1B,2B,Stolen Base 2B,664983,Jake McCarthy,542888,Shawn Armstrong,682998,Corbin Carroll,R,Christian Bethancourt,542194,8,4,6,False,2023-06-27,Stolen,2B,2023,2024, 88.2, 0.69
+70,2B,3B,Stolen Base 3B,672580,Maikel Garcia,607192,Tyler Glasnow,671221,Drew Waters,R,Christian Bethancourt,542194,0,0,2,True,2023-06-25,Stolen,3B,2023,2024, 88.2, 0.69
+71,1B,2B,Stolen Base 2B,658668,Edward Olivares,607192,Tyler Glasnow,671221,Drew Waters,R,Christian Bethancourt,542194,0,0,2,True,2023-06-25,Stolen,2B,2023,2024, 88.2, 0.69
+72,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,607192,Tyler Glasnow,521692,Salvador Perez,R,Christian Bethancourt,542194,1,0,4,True,2023-06-25,Stolen,2B,2023,2024, 88.2, 0.69
+73,1B,,Caught Stealing 2B,671221,Drew Waters,621107,Zach Eflin,680118,Dairon Blanco,R,Christian Bethancourt,542194,3,3,4,True,2023-06-23,Caught,2B,2023,2024, 88.2, 0.69
+74,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,630023,Yonny Chirinos,665742,Juan Soto,R,Christian Bethancourt,542194,0,0,1,False,2023-06-18,Stolen,2B,2023,2024, 88.2, 0.69
+75,1B,2B,Stolen Base 2B,663757,Trent Grisham,630023,Yonny Chirinos,665487,Fernando Tatis Jr.,R,Christian Bethancourt,542194,4,2,5,False,2023-06-18,Stolen,2B,2023,2024, 88.2, 0.69
+76,1B,2B,Stolen Base 2B,593428,Xander Bogaerts,518617,Jake Diekman,596059,Rougned Odor,L,Christian Bethancourt,542194,5,4,8,False,2023-06-18,Stolen,2B,2023,2024, 88.2, 0.69
+77,1B,2B,Stolen Base 2B,593428,Xander Bogaerts,663556,Shane McClanahan,630105,Jake Cronenworth,L,Christian Bethancourt,542194,0,2,4,False,2023-06-16,Stolen,2B,2023,2024, 88.2, 0.69
+78,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,607192,Tyler Glasnow,676116,Ryan Noda,R,Christian Bethancourt,542194,3,1,3,False,2023-06-14,Stolen,2B,2023,2024, 88.2, 0.69
+79,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,607192,Tyler Glasnow,664913,Seth Brown,R,Christian Bethancourt,542194,3,1,3,False,2023-06-14,Stolen,3B,2023,2024, 88.2, 0.69
+80,1B,2B,Stolen Base 2B,607054,Jace Peterson,607192,Tyler Glasnow,681146,Jonah Bride,R,Christian Bethancourt,542194,3,1,4,False,2023-06-14,Stolen,2B,2023,2024, 88.2, 0.69
+81,1B,2B,Stolen Base 2B,666969,Adolis García,607192,Tyler Glasnow,641680,Jonah Heim,R,Christian Bethancourt,542194,4,1,4,True,2023-06-09,Stolen,2B,2023,2024, 88.2, 0.69
+82,1B,2B,Stolen Base 2B,622569,Pablo Reyes,681867,Cooper Criswell,657077,Alex Verdugo,R,Christian Bethancourt,542194,8,5,7,False,2023-06-03,Stolen,2B,2023,2024, 88.2, 0.69
+83,1B,2B,Stolen Base 2B,663538,Nico Hoerner,621107,Zach Eflin,621020,Dansby Swanson,R,Christian Bethancourt,542194,0,0,1,False,2023-05-31,Stolen,2B,2023,2024, 88.2, 0.69
+84,1B,2B,Stolen Base 2B,664023,Ian Happ,621107,Zach Eflin,673548,Seiya Suzuki,R,Christian Bethancourt,542194,1,0,1,False,2023-05-31,Stolen,2B,2023,2024, 88.2, 0.69
+85,1B,,Caught Stealing 2B,643565,Mike Tauchman,621107,Zach Eflin,670223,Matt Mervis,R,Christian Bethancourt,542194,2,0,1,False,2023-05-31,Caught,2B,2023,2024, 88.2, 0.69
+86,1B,,Caught Stealing 2B,621550,Patrick Wisdom,621107,Zach Eflin,670156,Miles Mastrobuoni,R,Christian Bethancourt,542194,2,0,2,False,2023-05-31,Caught,2B,2023,2024, 88.2, 0.69
+87,1B,2B,Stolen Base 2B,670156,Miles Mastrobuoni,592094,Jason Adam,666624,Christopher Morel,R,Christian Bethancourt,542194,3,4,8,False,2023-05-31,Stolen,2B,2023,2024, 88.2, 0.69
+88,1B,2B,Stolen Base 2B,663538,Nico Hoerner,592094,Jason Adam,664023,Ian Happ,R,Christian Bethancourt,542194,3,4,8,False,2023-05-31,Stolen,2B,2023,2024, 88.2, 0.69
+89,1B,2B,Stolen Base 2B,670156,Miles Mastrobuoni,686747,Joe La Sorsa,663538,Nico Hoerner,L,Christian Bethancourt,542194,1,0,8,False,2023-05-29,Stolen,2B,2023,2024, 88.2, 0.69
+90,1B,2B,Stolen Base 2B,605141,Mookie Betts,621363,Colin Poche,518692,Freddie Freeman,L,Christian Bethancourt,542194,4,5,7,True,2023-05-27,Stolen,2B,2023,2024, 88.2, 0.69
+91,1B,2B,Stolen Base 2B,666182,Bo Bichette,592094,Jason Adam,665489,Vladimir Guerrero Jr.,R,Christian Bethancourt,542194,5,3,8,True,2023-05-24,Stolen,2B,2023,2024, 88.2, 0.69
+92,1B,2B,Stolen Base 2B,592885,Christian Yelich,518617,Jake Diekman,642133,Rowdy Tellez,L,Christian Bethancourt,542194,3,6,7,True,2023-05-21,Stolen,2B,2023,2024, 88.2, 0.69
+93,1B,,Caught Stealing 2B,668930,Brice Turang,621107,Zach Eflin,621438,Tyrone Taylor,R,Christian Bethancourt,542194,4,1,3,True,2023-05-20,Caught,2B,2023,2024, 88.2, 0.69
+94,1B,,Caught Stealing 2B,518934,DJ LeMahieu,621107,Zach Eflin,641432,Willie Calhoun,R,Christian Bethancourt,542194,0,1,2,False,2023-05-14,Caught,2B,2023,2024, 88.2, 0.69
+95,1B,2B,Stolen Base 2B,664056,Harrison Bader,621107,Zach Eflin,641432,Willie Calhoun,R,Christian Bethancourt,542194,4,8,6,False,2023-05-14,Stolen,2B,2023,2024, 88.2, 0.69
+96,1B,2B,Stolen Base 2B,656775,Cedric Mullins,630023,Yonny Chirinos,668939,Adley Rutschman,R,Christian Bethancourt,542194,0,0,3,False,2023-05-10,Stolen,2B,2023,2024, 88.2, 0.69
+97,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,621363,Colin Poche,624431,Jose Trevino,L,Christian Bethancourt,542194,7,7,9,True,2023-05-07,Stolen,2B,2023,2024, 88.2, 0.69
+98,1B,,Caught Stealing 2B,643396,Isiah Kiner-Falefa,656876,Drew Rasmussen,543309,Kyle Higashioka,R,Christian Bethancourt,542194,2,0,5,True,2023-05-06,Caught,2B,2023,2024, 88.2, 0.69
+99,2B,3B,Stolen Base 3B,656582,Connor Joe,676596,Josh Fleming,664029,Mark Mathias,L,Christian Bethancourt,542194,0,0,4,True,2023-05-02,Stolen,3B,2023,2024, 88.2, 0.69
+100,1B,2B,Stolen Base 2B,462101,Elvis Andrus,657044,Ryan Thompson,672820,Lenyn Sosa,R,Christian Bethancourt,542194,2,2,6,False,2023-04-28,Stolen,2B,2023,2024, 88.2, 0.69
+101,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,592094,Jason Adam,673357,Luis Robert Jr.,R,Christian Bethancourt,542194,2,2,7,False,2023-04-28,Stolen,2B,2023,2024, 88.2, 0.69
+102,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,664126,Pete Fairbanks,683734,Andrew Vaughn,R,Christian Bethancourt,542194,2,3,9,False,2023-04-28,Stolen,2B,2023,2024, 88.2, 0.69
+103,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,621107,Zach Eflin,683734,Andrew Vaughn,R,Christian Bethancourt,542194,0,0,1,True,2023-04-23,Stolen,2B,2023,2024, 88.2, 0.69
+104,1B,2B,Stolen Base 2B,662139,Daulton Varsho,656876,Drew Rasmussen,656305,Matt Chapman,R,Christian Bethancourt,542194,1,0,1,False,2023-04-14,Stolen,2B,2023,2024, 88.2, 0.69
+105,1B,,Caught Stealing 2B,669289,Santiago Espinal,656876,Drew Rasmussen,643376,Danny Jansen,R,Christian Bethancourt,542194,2,1,4,False,2023-04-14,Caught,2B,2023,2024, 88.2, 0.69
+106,2B,3B,Stolen Base 3B,657656,Ramón Laureano,656876,Drew Rasmussen,669127,Shea Langeliers,R,Christian Bethancourt,542194,1,0,2,True,2023-04-09,Stolen,3B,2023,2024, 88.2, 0.69
+107,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,621107,Zach Eflin,676116,Ryan Noda,R,Christian Bethancourt,542194,8,2,5,True,2023-04-07,Stolen,2B,2023,2024, 88.2, 0.69
+108,1B,2B,Stolen Base 2B,680776,Jarren Duran,656876,Drew Rasmussen,646240,Rafael Devers,R,Christian Bethancourt,542194,0,1,6,True,2022-07-14,Stolen,2B,2022,2023, 88.0, 0.67
+109,1B,2B,Stolen Base 2B,647351,Abraham Toro,640462,A.J. Puk,624428,Adam Frazier,L,Christian Bethancourt,542194,1,2,9,True,2022-06-23,Stolen,2B,2022,2023, 88.0, 0.67
+110,1B,,Caught Stealing 2B,649557,Aledmys Díaz,572125,Sam Selman,676801,Chas McCormick,L,Christian Bethancourt,542194,3,5,9,True,2022-06-01,Caught,2B,2022,2023, 88.0, 0.67
+111,2B,3B,Stolen Base 3B,608369,Corey Seager,592473,Adam Kolarek,594777,Kole Calhoun,L,Christian Bethancourt,542194,1,10,5,True,2022-05-28,Stolen,3B,2022,2023, 88.0, 0.67
+112,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,621112,Paul Blackburn,553993,Eugenio Suárez,R,Christian Bethancourt,542194,0,1,4,False,2022-05-25,Stolen,2B,2022,2023, 88.0, 0.67
+113,2B,3B,Stolen Base 3B,650333,Luis Arraez,641726,Daulton Jefferies,621043,Carlos Correa,R,Christian Bethancourt,542194,2,6,4,True,2022-05-18,Stolen,3B,2022,2023, 88.0, 0.67
+114,1B,2B,Stolen Base 2B,593871,Jorge Polanco,669912,Kirby Snead,570482,Gio Urshela,L,Christian Bethancourt,542194,2,8,6,True,2022-05-18,Stolen,2B,2022,2023, 88.0, 0.67
+115,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,621112,Paul Blackburn,664334,Aaron Whitefield,R,Christian Bethancourt,542194,0,1,4,True,2022-05-14,Stolen,2B,2022,2023, 88.0, 0.67
+116,1B,,Caught Stealing 2B,669256,Nick Solak,592473,Adam Kolarek,641680,Jonah Heim,L,Christian Bethancourt,542194,1,6,9,True,2022-04-22,Caught,2B,2022,2023, 88.0, 0.67
+117,1B,,Caught Stealing 2B,656775,Cedric Mullins,641726,Daulton Jefferies,623993,Anthony Santander,R,Christian Bethancourt,542194,0,0,1,True,2022-04-20,Caught,2B,2022,2023, 88.0, 0.67
+118,1B,2B,Stolen Base 2B,595879,Javier Báez,429719,Edwin Jackson,424325,David Ross,R,Christian Bethancourt,542194,0,1,2,True,2016-08-22,Stolen,2B,2016,2017, --, --
+119,2B,3B,Stolen Base 3B,542921,Tim Beckham,523848,José Domínguez,571912,Luke Maile,R,Christian Bethancourt,542194,2,0,7,False,2016-08-17,Stolen,3B,2016,2017, --, --
+120,2B,,Caught Stealing 3B,514917,César Hernández,543272,Brad Hand,571437,Aaron Altherr,L,Christian Bethancourt,542194,8,4,7,True,2016-08-06,Caught,3B,2016,2017, --, --
+121,1B,2B,Stolen Base 2B,446359,Zack Cozart,518560,Paul Clemens,594807,Adam Duvall,R,Christian Bethancourt,542194,0,0,1,True,2016-07-31,Stolen,2B,2016,2017, --, --
+122,1B,,Caught Stealing 2B,543685,Anthony Rendon,429719,Edwin Jackson,457787,Danny Espinosa,R,Christian Bethancourt,542194,1,2,4,False,2016-07-23,Caught,2B,2016,2017, --, --
+123,1B,,Caught Stealing 2B,649557,Aledmys Díaz,523848,José Domínguez,572039,Stephen Piscotty,R,Christian Bethancourt,542194,4,2,7,False,2016-07-20,Caught,2B,2016,2017, --, --
+124,1B,,Caught Stealing 2B,649557,Aledmys Díaz,523848,José Domínguez,572039,Stephen Piscotty,R,Christian Bethancourt,542194,4,2,7,False,2016-07-19,Caught,2B,2016,2017, --, --
+125,1B,2B,Stolen Base 2B,452655,Denard Span,429719,Edwin Jackson,434636,Ángel Pagán,R,Christian Bethancourt,542194,0,0,1,True,2016-07-17,Stolen,2B,2016,2017, --, --
+126,1B,2B,Stolen Base 2B,516416,Jean Segura,606131,Luis Perdomo,456422,Michael Bourn,R,Christian Bethancourt,542194,2,0,2,False,2016-07-04,Stolen,2B,2016,2017, --, --
+127,2B,3B,Stolen Base 3B,516416,Jean Segura,543272,Brad Hand,571875,Jake Lamb,L,Christian Bethancourt,542194,3,5,7,False,2016-07-04,Stolen,3B,2016,2017, --, --
+128,1B,2B,Stolen Base 2B,456422,Michael Bourn,543272,Brad Hand,571875,Jake Lamb,L,Christian Bethancourt,542194,3,5,7,False,2016-07-04,Stolen,2B,2016,2017, --, --
+129,1B,2B,Stolen Base 2B,519184,Ben Revere,543272,Brad Hand,150029,Jayson Werth,L,Christian Bethancourt,542194,4,5,7,True,2016-06-16,Stolen,2B,2016,2017, --, --
+130,1B,2B,Stolen Base 2B,605113,Nick Ahmed,453646,Carlos Villanueva,605151,Archie Bradley,R,Christian Bethancourt,542194,6,2,6,False,2016-05-29,Stolen,2B,2016,2017, --, --
+131,1B,,Caught Stealing 2B,624577,Yasiel Puig,607067,Colin Rea,454560,A.J. Ellis,R,Christian Bethancourt,542194,0,0,5,True,2016-05-22,Caught,2B,2016,2017, --, --
+132,1B,2B,Stolen Base 2B,624577,Yasiel Puig,606131,Luis Perdomo,454560,A.J. Ellis,R,Christian Bethancourt,542194,5,8,17,True,2016-05-22,Stolen,2B,2016,2017, --, --
+133,2B,3B,Stolen Base 2B,624577,Yasiel Puig,606131,Luis Perdomo,454560,A.J. Ellis,R,Christian Bethancourt,542194,5,8,17,True,2016-05-22,Stolen,2B,2016,2017, --, --
+134,1B,2B,Stolen Base 2B,605412,Joe Panik,448306,James Shields,457763,Buster Posey,R,Christian Bethancourt,542194,1,2,6,True,2016-05-19,Stolen,2B,2016,2017, --, --
+135,1B,2B,Stolen Base 2B,605509,Kelby Tomlinson,543272,Brad Hand,452655,Denard Span,L,Christian Bethancourt,542194,1,3,9,True,2016-05-19,Stolen,2B,2016,2017, --, --
+136,1B,,Caught Stealing 2B,542340,Jonathan Villar,453646,Carlos Villanueva,460075,Ryan Braun,R,Christian Bethancourt,542194,1,0,7,False,2016-05-13,Caught,2B,2016,2017, --, --
+137,1B,,Caught Stealing 2B,460075,Ryan Braun,448306,James Shields,474892,Chris Carter,R,Christian Bethancourt,542194,0,1,4,False,2016-05-12,Caught,2B,2016,2017, --, --
+138,1B,2B,Stolen Base 2B,545341,Randal Grichuk,607067,Colin Rea,425877,Yadier Molina,R,Christian Bethancourt,542194,0,2,1,True,2016-04-24,Stolen,2B,2016,2017, --, --
+139,1B,2B,Stolen Base 2B,649557,Aledmys Díaz,607067,Colin Rea,572761,Matt Carpenter,R,Christian Bethancourt,542194,0,2,2,True,2016-04-24,Stolen,2B,2016,2017, --, --
+140,1B,2B,Stolen Base 2B,543281,Josh Harrison,448306,James Shields,474568,Jordy Mercer,R,Christian Bethancourt,542194,0,2,4,True,2016-04-21,Stolen,2B,2016,2017, --, --
+141,1B,2B,Stolen Base 2B,474568,Jordy Mercer,448306,James Shields,543037,Gerrit Cole,R,Christian Bethancourt,542194,0,3,4,True,2016-04-21,Stolen,2B,2016,2017, --, --
+142,1B,2B,Stolen Base 2B,430001,Rickie Weeks Jr.,572362,Robbie Erlin,594838,Phil Gosselin,L,Christian Bethancourt,542194,2,2,3,True,2016-04-17,Stolen,2B,2016,2017, --, --
+143,1B,2B,Stolen Base 2B,502034,Emmanuel Burriss,607067,Colin Rea,514917,César Hernández,R,Christian Bethancourt,542194,2,0,7,False,2016-04-13,Stolen,2B,2016,2017, --, --
+144,1B,2B,Stolen Base 2B,453568,Charlie Blackmon,448306,James Shields,596115,Trevor Story,R,Christian Bethancourt,542194,3,2,5,False,2016-04-10,Stolen,2B,2016,2017, --, --
+145,1B,,Caught Stealing 2B,573135,Tyler Saladino,425386,Jeremy Guthrie,448170,Travis Ishikawa,R,Christian Bethancourt,542194,2,3,7,True,2016-04-02,Caught,2B,2016,2017, --, --
+146,1B,2B,Stolen Base 2B,595879,Javier Báez,429719,Edwin Jackson,424325,David Ross,R,Christian Bethancourt,542194,0,1,2,True,2016-08-22,Stolen,2B,2016,2017, --, --
+147,2B,3B,Stolen Base 3B,542921,Tim Beckham,523848,José Domínguez,571912,Luke Maile,R,Christian Bethancourt,542194,2,0,7,False,2016-08-17,Stolen,3B,2016,2017, --, --
+148,2B,,Caught Stealing 3B,514917,César Hernández,543272,Brad Hand,571437,Aaron Altherr,L,Christian Bethancourt,542194,8,4,7,True,2016-08-06,Caught,3B,2016,2017, --, --
+149,1B,2B,Stolen Base 2B,446359,Zack Cozart,518560,Paul Clemens,594807,Adam Duvall,R,Christian Bethancourt,542194,0,0,1,True,2016-07-31,Stolen,2B,2016,2017, --, --
+150,1B,,Caught Stealing 2B,543685,Anthony Rendon,429719,Edwin Jackson,457787,Danny Espinosa,R,Christian Bethancourt,542194,1,2,4,False,2016-07-23,Caught,2B,2016,2017, --, --
+151,1B,,Caught Stealing 2B,649557,Aledmys Díaz,523848,José Domínguez,572039,Stephen Piscotty,R,Christian Bethancourt,542194,4,2,7,False,2016-07-20,Caught,2B,2016,2017, --, --
+152,1B,,Caught Stealing 2B,649557,Aledmys Díaz,523848,José Domínguez,572039,Stephen Piscotty,R,Christian Bethancourt,542194,4,2,7,False,2016-07-19,Caught,2B,2016,2017, --, --
+153,1B,2B,Stolen Base 2B,452655,Denard Span,429719,Edwin Jackson,434636,Ángel Pagán,R,Christian Bethancourt,542194,0,0,1,True,2016-07-17,Stolen,2B,2016,2017, --, --
+154,1B,2B,Stolen Base 2B,516416,Jean Segura,606131,Luis Perdomo,456422,Michael Bourn,R,Christian Bethancourt,542194,2,0,2,False,2016-07-04,Stolen,2B,2016,2017, --, --
+155,2B,3B,Stolen Base 3B,516416,Jean Segura,543272,Brad Hand,571875,Jake Lamb,L,Christian Bethancourt,542194,3,5,7,False,2016-07-04,Stolen,3B,2016,2017, --, --
+156,1B,2B,Stolen Base 2B,456422,Michael Bourn,543272,Brad Hand,571875,Jake Lamb,L,Christian Bethancourt,542194,3,5,7,False,2016-07-04,Stolen,2B,2016,2017, --, --
+157,1B,2B,Stolen Base 2B,519184,Ben Revere,543272,Brad Hand,150029,Jayson Werth,L,Christian Bethancourt,542194,4,5,7,True,2016-06-16,Stolen,2B,2016,2017, --, --
+158,1B,2B,Stolen Base 2B,605113,Nick Ahmed,453646,Carlos Villanueva,605151,Archie Bradley,R,Christian Bethancourt,542194,6,2,6,False,2016-05-29,Stolen,2B,2016,2017, --, --
+159,1B,,Caught Stealing 2B,624577,Yasiel Puig,607067,Colin Rea,454560,A.J. Ellis,R,Christian Bethancourt,542194,0,0,5,True,2016-05-22,Caught,2B,2016,2017, --, --
+160,1B,2B,Stolen Base 2B,624577,Yasiel Puig,606131,Luis Perdomo,454560,A.J. Ellis,R,Christian Bethancourt,542194,5,8,17,True,2016-05-22,Stolen,2B,2016,2017, --, --
+161,2B,3B,Stolen Base 2B,624577,Yasiel Puig,606131,Luis Perdomo,454560,A.J. Ellis,R,Christian Bethancourt,542194,5,8,17,True,2016-05-22,Stolen,2B,2016,2017, --, --
+162,1B,2B,Stolen Base 2B,605412,Joe Panik,448306,James Shields,457763,Buster Posey,R,Christian Bethancourt,542194,1,2,6,True,2016-05-19,Stolen,2B,2016,2017, --, --
+163,1B,2B,Stolen Base 2B,605509,Kelby Tomlinson,543272,Brad Hand,452655,Denard Span,L,Christian Bethancourt,542194,1,3,9,True,2016-05-19,Stolen,2B,2016,2017, --, --
+164,1B,,Caught Stealing 2B,542340,Jonathan Villar,453646,Carlos Villanueva,460075,Ryan Braun,R,Christian Bethancourt,542194,1,0,7,False,2016-05-13,Caught,2B,2016,2017, --, --
+165,1B,,Caught Stealing 2B,460075,Ryan Braun,448306,James Shields,474892,Chris Carter,R,Christian Bethancourt,542194,0,1,4,False,2016-05-12,Caught,2B,2016,2017, --, --
+166,1B,2B,Stolen Base 2B,545341,Randal Grichuk,607067,Colin Rea,425877,Yadier Molina,R,Christian Bethancourt,542194,0,2,1,True,2016-04-24,Stolen,2B,2016,2017, --, --
+167,1B,2B,Stolen Base 2B,649557,Aledmys Díaz,607067,Colin Rea,572761,Matt Carpenter,R,Christian Bethancourt,542194,0,2,2,True,2016-04-24,Stolen,2B,2016,2017, --, --
+168,1B,2B,Stolen Base 2B,543281,Josh Harrison,448306,James Shields,474568,Jordy Mercer,R,Christian Bethancourt,542194,0,2,4,True,2016-04-21,Stolen,2B,2016,2017, --, --
+169,1B,2B,Stolen Base 2B,474568,Jordy Mercer,448306,James Shields,543037,Gerrit Cole,R,Christian Bethancourt,542194,0,3,4,True,2016-04-21,Stolen,2B,2016,2017, --, --
+170,1B,2B,Stolen Base 2B,430001,Rickie Weeks Jr.,572362,Robbie Erlin,594838,Phil Gosselin,L,Christian Bethancourt,542194,2,2,3,True,2016-04-17,Stolen,2B,2016,2017, --, --
+171,1B,2B,Stolen Base 2B,502034,Emmanuel Burriss,607067,Colin Rea,514917,César Hernández,R,Christian Bethancourt,542194,2,0,7,False,2016-04-13,Stolen,2B,2016,2017, --, --
+172,1B,2B,Stolen Base 2B,453568,Charlie Blackmon,448306,James Shields,596115,Trevor Story,R,Christian Bethancourt,542194,3,2,5,False,2016-04-10,Stolen,2B,2016,2017, --, --
+173,1B,,Caught Stealing 2B,573135,Tyler Saladino,425386,Jeremy Guthrie,448170,Travis Ishikawa,R,Christian Bethancourt,542194,2,3,7,True,2016-04-02,Caught,2B,2016,2017, --, --
+174,1B,2B,Stolen Base 2B,595879,Javier Báez,429719,Edwin Jackson,424325,David Ross,R,Christian Bethancourt,542194,0,1,2,True,2016-08-22,Stolen,2B,2016,2017, --, --
+175,2B,3B,Stolen Base 3B,542921,Tim Beckham,523848,José Domínguez,571912,Luke Maile,R,Christian Bethancourt,542194,2,0,7,False,2016-08-17,Stolen,3B,2016,2017, --, --
+176,2B,,Caught Stealing 3B,514917,César Hernández,543272,Brad Hand,571437,Aaron Altherr,L,Christian Bethancourt,542194,8,4,7,True,2016-08-06,Caught,3B,2016,2017, --, --
+177,1B,2B,Stolen Base 2B,446359,Zack Cozart,518560,Paul Clemens,594807,Adam Duvall,R,Christian Bethancourt,542194,0,0,1,True,2016-07-31,Stolen,2B,2016,2017, --, --
+178,1B,,Caught Stealing 2B,543685,Anthony Rendon,429719,Edwin Jackson,457787,Danny Espinosa,R,Christian Bethancourt,542194,1,2,4,False,2016-07-23,Caught,2B,2016,2017, --, --
+179,1B,,Caught Stealing 2B,649557,Aledmys Díaz,523848,José Domínguez,572039,Stephen Piscotty,R,Christian Bethancourt,542194,4,2,7,False,2016-07-20,Caught,2B,2016,2017, --, --
+180,1B,,Caught Stealing 2B,649557,Aledmys Díaz,523848,José Domínguez,572039,Stephen Piscotty,R,Christian Bethancourt,542194,4,2,7,False,2016-07-19,Caught,2B,2016,2017, --, --
+181,1B,2B,Stolen Base 2B,452655,Denard Span,429719,Edwin Jackson,434636,Ángel Pagán,R,Christian Bethancourt,542194,0,0,1,True,2016-07-17,Stolen,2B,2016,2017, --, --
+182,1B,2B,Stolen Base 2B,516416,Jean Segura,606131,Luis Perdomo,456422,Michael Bourn,R,Christian Bethancourt,542194,2,0,2,False,2016-07-04,Stolen,2B,2016,2017, --, --
+183,2B,3B,Stolen Base 3B,516416,Jean Segura,543272,Brad Hand,571875,Jake Lamb,L,Christian Bethancourt,542194,3,5,7,False,2016-07-04,Stolen,3B,2016,2017, --, --
+184,1B,2B,Stolen Base 2B,456422,Michael Bourn,543272,Brad Hand,571875,Jake Lamb,L,Christian Bethancourt,542194,3,5,7,False,2016-07-04,Stolen,2B,2016,2017, --, --
+185,1B,2B,Stolen Base 2B,519184,Ben Revere,543272,Brad Hand,150029,Jayson Werth,L,Christian Bethancourt,542194,4,5,7,True,2016-06-16,Stolen,2B,2016,2017, --, --
+186,1B,2B,Stolen Base 2B,605113,Nick Ahmed,453646,Carlos Villanueva,605151,Archie Bradley,R,Christian Bethancourt,542194,6,2,6,False,2016-05-29,Stolen,2B,2016,2017, --, --
+187,1B,,Caught Stealing 2B,624577,Yasiel Puig,607067,Colin Rea,454560,A.J. Ellis,R,Christian Bethancourt,542194,0,0,5,True,2016-05-22,Caught,2B,2016,2017, --, --
+188,1B,2B,Stolen Base 2B,624577,Yasiel Puig,606131,Luis Perdomo,454560,A.J. Ellis,R,Christian Bethancourt,542194,5,8,17,True,2016-05-22,Stolen,2B,2016,2017, --, --
+189,2B,3B,Stolen Base 2B,624577,Yasiel Puig,606131,Luis Perdomo,454560,A.J. Ellis,R,Christian Bethancourt,542194,5,8,17,True,2016-05-22,Stolen,2B,2016,2017, --, --
+190,1B,2B,Stolen Base 2B,605412,Joe Panik,448306,James Shields,457763,Buster Posey,R,Christian Bethancourt,542194,1,2,6,True,2016-05-19,Stolen,2B,2016,2017, --, --
+191,1B,2B,Stolen Base 2B,605509,Kelby Tomlinson,543272,Brad Hand,452655,Denard Span,L,Christian Bethancourt,542194,1,3,9,True,2016-05-19,Stolen,2B,2016,2017, --, --
+192,1B,,Caught Stealing 2B,542340,Jonathan Villar,453646,Carlos Villanueva,460075,Ryan Braun,R,Christian Bethancourt,542194,1,0,7,False,2016-05-13,Caught,2B,2016,2017, --, --
+193,1B,,Caught Stealing 2B,460075,Ryan Braun,448306,James Shields,474892,Chris Carter,R,Christian Bethancourt,542194,0,1,4,False,2016-05-12,Caught,2B,2016,2017, --, --
+194,1B,2B,Stolen Base 2B,545341,Randal Grichuk,607067,Colin Rea,425877,Yadier Molina,R,Christian Bethancourt,542194,0,2,1,True,2016-04-24,Stolen,2B,2016,2017, --, --
+195,1B,2B,Stolen Base 2B,649557,Aledmys Díaz,607067,Colin Rea,572761,Matt Carpenter,R,Christian Bethancourt,542194,0,2,2,True,2016-04-24,Stolen,2B,2016,2017, --, --
+196,1B,2B,Stolen Base 2B,543281,Josh Harrison,448306,James Shields,474568,Jordy Mercer,R,Christian Bethancourt,542194,0,2,4,True,2016-04-21,Stolen,2B,2016,2017, --, --
+197,1B,2B,Stolen Base 2B,474568,Jordy Mercer,448306,James Shields,543037,Gerrit Cole,R,Christian Bethancourt,542194,0,3,4,True,2016-04-21,Stolen,2B,2016,2017, --, --
+198,1B,2B,Stolen Base 2B,430001,Rickie Weeks Jr.,572362,Robbie Erlin,594838,Phil Gosselin,L,Christian Bethancourt,542194,2,2,3,True,2016-04-17,Stolen,2B,2016,2017, --, --
+199,1B,2B,Stolen Base 2B,502034,Emmanuel Burriss,607067,Colin Rea,514917,César Hernández,R,Christian Bethancourt,542194,2,0,7,False,2016-04-13,Stolen,2B,2016,2017, --, --
+200,1B,2B,Stolen Base 2B,453568,Charlie Blackmon,448306,James Shields,596115,Trevor Story,R,Christian Bethancourt,542194,3,2,5,False,2016-04-10,Stolen,2B,2016,2017, --, --
+201,1B,,Caught Stealing 2B,573135,Tyler Saladino,425386,Jeremy Guthrie,448170,Travis Ishikawa,R,Christian Bethancourt,542194,2,3,7,True,2016-04-02,Caught,2B,2016,2017, --, --

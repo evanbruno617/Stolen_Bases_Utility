@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2434,1B,2B,Stolen Base 2B,489138,Tyler Moore,Russell Martin,3,3,8,False,2012-06-16,Stolen,2B,2012
+2570,1B,2B,Stolen Base 2B,489138,Tyler Moore,Jarrod Saltalamacchia,2,1,7,True,2012-06-10,Stolen,2B,2012
+2621,1B,2B,Stolen Base 2B,489138,Tyler Moore,Jarrod Saltalamacchia,2,6,6,True,2012-06-08,Stolen,2B,2012

@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1435,1B,2B,Stolen Base 2B,434604,Michael Morse,Gregg Zaun,0,1,2,True,2005-07-19,Stolen,2B,2005
+1870,1B,2B,Stolen Base 2B,434604,Michael Morse,Robert Fick,3,0,3,True,2005-06-24,Stolen,2B,2005
+2046,1B,,Caught Stealing 2B,434604,Michael Morse,Mike Lieberthal,2,1,2,False,2005-06-15,Caught,2B,2005
+2125,1B,2B,Stolen Base 2B,434604,Michael Morse,Brian Schneider,1,1,7,True,2005-06-11,Stolen,2B,2005
+1218,1B,,Caught Stealing 2B,434604,Michael Morse,Miguel Montero,1,2,2,True,2010-08-04,Caught,2B,2010
+2723,1B,2B,Stolen Base 2B,434604,Michael Morse,Eli Whiteside,1,0,7,True,2011-06-08,Stolen,2B,2011
+3003,1B,,Caught Stealing 2B,434604,Michael Morse,Kyle Phillips,1,2,7,False,2011-05-28,Caught,2B,2011
+3143,1B,,Caught Stealing 2B,434604,Michael Morse,Matt Wieters,0,0,2,True,2011-05-22,Caught,2B,2011
+3817,1B,,Caught Stealing 2B,434604,Michael Morse,Chris Snyder,3,5,5,True,2011-04-24,Caught,2B,2011
+4183,1B,2B,Stolen Base 2B,434604,Michael Morse,Josh Thole,2,1,2,True,2011-04-10,Stolen,2B,2011
+1824,3B,,Caught Stealing Home,434604,Michael Morse,John Buck,0,4,6,True,2012-07-15,Caught,Home,2012

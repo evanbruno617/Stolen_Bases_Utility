@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1171,1B,,Caught Stealing 2B,457292,Tsuyoshi Nishioka,Carlos Santana,0,1,3,True,2011-08-12,Caught,2B,2011
+1996,1B,2B,Stolen Base 2B,457292,Tsuyoshi Nishioka,A.J. Pierzynski,0,2,2,True,2011-07-07,Stolen,2B,2011
+2135,1B,,Caught Stealing 2B,457292,Tsuyoshi Nishioka,Jonathan Lucroy,7,3,7,False,2011-07-02,Caught,2B,2011
+2158,1B,,Caught Stealing 2B,457292,Tsuyoshi Nishioka,Jonathan Lucroy,3,2,4,False,2011-07-01,Caught,2B,2011
+2457,1B,,Caught Stealing 2B,457292,Tsuyoshi Nishioka,Nick Hundley,1,0,7,False,2011-06-18,Caught,2B,2011
+4394,1B,2B,Stolen Base 2B,457292,Tsuyoshi Nishioka,José Molina,1,0,4,True,2011-04-02,Stolen,2B,2011

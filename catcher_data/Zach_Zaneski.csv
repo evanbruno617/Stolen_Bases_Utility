@@ -1,0 +1,5 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,435063,Mike Napoli,Zach Zaneski,0,3,4,True,2012-04-04,Stolen,2B,2012
+1B,2B,Stolen Base 2B,546318,Odúbel Herrera,Zach Zaneski,0,4,5,True,2012-04-04,Stolen,2B,2012
+1B,2B,Stolen Base 2B,570799,Christian Villanueva,Zach Zaneski,0,5,5,True,2012-04-04,Stolen,2B,2012
+1B,2B,Stolen Base 2B,502226,Craig Gentry,Zach Zaneski,0,5,6,True,2012-04-04,Stolen,2B,2012

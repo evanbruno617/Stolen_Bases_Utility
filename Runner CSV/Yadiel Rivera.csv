@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1568,1B,2B,Stolen Base 2B,592680,Yadiel Rivera,Pedro Severino,2,5,7,True,2018-07-08,Stolen,2B,2018
+2050,1B,2B,Stolen Base 2B,592680,Yadiel Rivera,Nick Hundley,4,5,7,False,2018-06-11,Stolen,2B,2018
+1185,1B,2B,Stolen Base 2B,592680,Yadiel Rivera,Austin Hedges,4,3,9,False,2019-07-18,Stolen,2B,2019
+1222,1B,2B,Stolen Base 2B,592680,Yadiel Rivera,Francisco Mejía,8,3,6,False,2019-07-16,Stolen,2B,2019
+704,1B,2B,Stolen Base 2B,592680,Yadiel Rivera,Austin Nola,4,0,6,True,2020-08-23,Stolen,2B,2020

@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,954,1B,2B,Stolen Base 2B,664029,Mark Mathias,543243,Sonny Gray,444489,Manny Piña,R,Tucker Barnhart,571466,2,2,6,False,2020-08-09,Stolen,2B,2020,2022,27.6
+1,3797,1B,2B,Stolen Base 2B,664029,Mark Mathias,543243,Sonny Gray,444489,Manny Piña,R,Tucker Barnhart,571466,2,2,6,False,2020-08-09,Stolen,2B,2020,2022,27.6
+2,5721,1B,2B,Stolen Base 2B,664029,Mark Mathias,543243,Sonny Gray,444489,Manny Piña,R,Tucker Barnhart,571466,2,2,6,False,2020-08-09,Stolen,2B,2020,2022,27.6
+3,653,1B,2B,Stolen Base 2B,664029,Mark Mathias,571578,Patrick Corbin,457705,Andrew McCutchen,L,Riley Adams,656180,0,1,3,True,2022-06-11,Stolen,2B,2022,2023,27.6

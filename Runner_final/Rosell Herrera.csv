@@ -1,0 +1,2 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,346,1B,,Caught Stealing 2B,594011,Rosell Herrera,572140,Tyler Skaggs,641531,Hunter Dozier,L,Martín Maldonado,455117,1,0,6,False,2018-04-15,Caught,2B,2018,2019,28.3

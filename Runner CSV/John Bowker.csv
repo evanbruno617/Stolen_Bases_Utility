@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1146,1B,,Caught Stealing 2B,435624,John Bowker,Josh Bard,0,0,5,True,2008-08-02,Caught,2B,2008
+2247,1B,2B,Stolen Base 2B,435624,John Bowker,Jesus Flores,0,1,2,True,2008-06-06,Stolen,2B,2008
+4251,1B,,Caught Stealing 2B,435624,John Bowker,Chris Iannetta,3,3,7,False,2011-04-08,Caught,2B,2011

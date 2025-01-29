@@ -1,0 +1,62 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,664,1B,2B,Stolen Base 2B,461865,Andrew Romine,519151,Ryan Pressly,435079,Ian Kinsler,R,Chris Gimenez,460269,5,3,4,True,2017-09-29,Stolen,2B,2017,2018,27.5
+1,1996,1B,2B,Stolen Base 2B,461865,Andrew Romine,516969,Kelvin Herrera,543484,Mikie Mahtook,R,Salvador Perez,521692,2,3,9,True,2017-07-19,Stolen,2B,2017,2018,27.5
+2,2070,1B,2B,Stolen Base 2B,461865,Andrew Romine,592130,Danny Barnes,488671,Alex Avila,R,Miguel Montero,471083,5,5,8,False,2017-07-16,Stolen,2B,2017,2018,27.5
+3,2485,1B,,Caught Stealing 2B,461865,Andrew Romine,621242,Edwin Díaz,488671,Alex Avila,R,Carlos Ruiz,434563,4,4,9,True,2017-06-20,Caught,2B,2017,2018,27.5
+4,2817,2B,3B,Stolen Base 3B,461865,Andrew Romine,592454,Tommy Kahnle,578428,Jose Iglesias,R,Kevan Smith,607345,4,4,8,False,2017-06-04,Stolen,3B,2017,2018,27.5
+5,2993,1B,2B,Stolen Base 2B,461865,Andrew Romine,502381,Luke Gregerson,578428,Jose Iglesias,R,Juan Centeno,518542,6,6,8,True,2017-05-25,Stolen,2B,2017,2018,27.5
+6,3387,1B,2B,Stolen Base 2B,461865,Andrew Romine,592811,Andrew Triggs,400121,Victor Martinez,R,Bruce Maxwell,622194,0,2,3,True,2017-05-05,Stolen,2B,2017,2018,27.5
+7,3509,1B,,Caught Stealing 2B,461865,Andrew Romine,502706,Derek Holland,435079,Ian Kinsler,L,Omar Narváez,553882,1,2,2,False,2017-04-29,Caught,2B,2017,2018,27.5
+8,3769,1B,,Caught Stealing 2B,461865,Andrew Romine,471911,Carlos Carrasco,578428,Jose Iglesias,R,Yan Gomes,543228,1,2,7,True,2017-04-16,Caught,2B,2017,2018,27.5
+9,3771,1B,,Caught Stealing 2B,461865,Andrew Romine,502083,Zach McAllister,578428,Jose Iglesias,R,Yan Gomes,543228,1,4,9,True,2017-04-16,Caught,2B,2017,2018,27.5
+10,4036,1B,2B,Stolen Base 2B,461865,Andrew Romine,517629,Kelvin Marte,453895,Brendan Ryan,L,A.J. Ellis,454560,3,2,7,True,2017-04-01,Stolen,2B,2017,2018,27.5
+11,1,1B,2B,Stolen Base 2B,461865,Andrew Romine,517629,Kelvin Marte,453895,Brendan Ryan,L,A.J. Ellis,454560,3,2,7,True,2017-04-01,Stolen,2B,2017,2018,27.5
+12,36,1B,2B,Stolen Base 2B,461865,Andrew Romine,519151,Ryan Pressly,435079,Ian Kinsler,R,Chris Gimenez,460269,5,3,4,True,2017-09-29,Stolen,2B,2017,2018,27.5
+13,1368,1B,2B,Stolen Base 2B,461865,Andrew Romine,516969,Kelvin Herrera,543484,Mikie Mahtook,R,Salvador Perez,521692,2,3,9,True,2017-07-19,Stolen,2B,2017,2018,27.5
+14,1442,1B,2B,Stolen Base 2B,461865,Andrew Romine,592130,Danny Barnes,488671,Alex Avila,R,Miguel Montero,471083,5,5,8,False,2017-07-16,Stolen,2B,2017,2018,27.5
+15,1857,1B,,Caught Stealing 2B,461865,Andrew Romine,621242,Edwin Díaz,488671,Alex Avila,R,Carlos Ruiz,434563,4,4,9,True,2017-06-20,Caught,2B,2017,2018,27.5
+16,2189,2B,3B,Stolen Base 3B,461865,Andrew Romine,592454,Tommy Kahnle,578428,Jose Iglesias,R,Kevan Smith,607345,4,4,8,False,2017-06-04,Stolen,3B,2017,2018,27.5
+17,2365,1B,2B,Stolen Base 2B,461865,Andrew Romine,502381,Luke Gregerson,578428,Jose Iglesias,R,Juan Centeno,518542,6,6,8,True,2017-05-25,Stolen,2B,2017,2018,27.5
+18,2759,1B,2B,Stolen Base 2B,461865,Andrew Romine,592811,Andrew Triggs,400121,Victor Martinez,R,Bruce Maxwell,622194,0,2,3,True,2017-05-05,Stolen,2B,2017,2018,27.5
+19,2881,1B,,Caught Stealing 2B,461865,Andrew Romine,502706,Derek Holland,435079,Ian Kinsler,L,Omar Narváez,553882,1,2,2,False,2017-04-29,Caught,2B,2017,2018,27.5
+20,3141,1B,,Caught Stealing 2B,461865,Andrew Romine,471911,Carlos Carrasco,578428,Jose Iglesias,R,Yan Gomes,543228,1,2,7,True,2017-04-16,Caught,2B,2017,2018,27.5
+21,3143,1B,,Caught Stealing 2B,461865,Andrew Romine,502083,Zach McAllister,578428,Jose Iglesias,R,Yan Gomes,543228,1,4,9,True,2017-04-16,Caught,2B,2017,2018,27.5
+22,3408,1B,2B,Stolen Base 2B,461865,Andrew Romine,517629,Kelvin Marte,453895,Brendan Ryan,L,A.J. Ellis,454560,3,2,7,True,2017-04-01,Stolen,2B,2017,2018,27.5
+23,4229,1B,2B,Stolen Base 2B,461865,Andrew Romine,542953,Buddy Boshers,457727,Cameron Maybin,L,John Ryan Murphy,571974,1,2,8,True,2016-09-22,Stolen,2B,2016,2017,27.4
+24,4232,1B,2B,Stolen Base 2B,461865,Andrew Romine,542953,Buddy Boshers,457727,Cameron Maybin,L,John Ryan Murphy,571974,1,2,8,True,2016-09-21,Stolen,2B,2016,2017,27.4
+25,4582,1B,2B,Stolen Base 2B,461865,Andrew Romine,450172,Edinson Volquez,435079,Ian Kinsler,R,Drew Butera,460077,1,2,5,True,2016-09-04,Stolen,2B,2016,2017,27.4
+26,4661,1B,2B,Stolen Base 2B,461865,Andrew Romine,519242,Chris Sale,578428,Jose Iglesias,L,Alex Avila,488671,1,2,5,False,2016-08-31,Stolen,2B,2016,2017,27.4
+27,5643,1B,2B,Stolen Base 2B,461865,Andrew Romine,592717,Aaron Sanchez,435079,Ian Kinsler,R,Russell Martin,431145,0,2,4,True,2016-07-09,Stolen,2B,2016,2017,27.4
+28,5790,1B,2B,Stolen Base 2B,461865,Andrew Romine,541640,Erasmo Ramírez,578428,Jose Iglesias,R,Hank Conger,474233,7,6,9,True,2016-06-30,Stolen,2B,2016,2017,27.4
+29,5922,1B,2B,Stolen Base 2B,461865,Andrew Romine,452666,Tom Wilhelmsen,435079,Ian Kinsler,R,Chris Iannetta,455104,4,4,6,False,2016-06-23,Stolen,2B,2016,2017,27.4
+30,6084,1B,2B,Stolen Base 2B,461865,Andrew Romine,545357,Matt Purke,435079,Ian Kinsler,L,Alex Avila,488671,5,10,5,True,2016-06-14,Stolen,2B,2016,2017,27.4
+31,6933,1B,2B,Stolen Base 2B,461865,Andrew Romine,543859,Michael Tonkin,457454,Jarrod Saltalamacchia,R,John Ryan Murphy,571974,1,4,9,True,2016-04-30,Stolen,2B,2016,2017,27.4
+32,194,1B,2B,Stolen Base 2B,461865,Andrew Romine,542953,Buddy Boshers,457727,Cameron Maybin,L,John Ryan Murphy,571974,1,2,8,True,2016-09-22,Stolen,2B,2016,2017,27.4
+33,197,1B,2B,Stolen Base 2B,461865,Andrew Romine,542953,Buddy Boshers,457727,Cameron Maybin,L,John Ryan Murphy,571974,1,2,8,True,2016-09-21,Stolen,2B,2016,2017,27.4
+34,547,1B,2B,Stolen Base 2B,461865,Andrew Romine,450172,Edinson Volquez,435079,Ian Kinsler,R,Drew Butera,460077,1,2,5,True,2016-09-04,Stolen,2B,2016,2017,27.4
+35,626,1B,2B,Stolen Base 2B,461865,Andrew Romine,519242,Chris Sale,578428,Jose Iglesias,L,Alex Avila,488671,1,2,5,False,2016-08-31,Stolen,2B,2016,2017,27.4
+36,1608,1B,2B,Stolen Base 2B,461865,Andrew Romine,592717,Aaron Sanchez,435079,Ian Kinsler,R,Russell Martin,431145,0,2,4,True,2016-07-09,Stolen,2B,2016,2017,27.4
+37,1755,1B,2B,Stolen Base 2B,461865,Andrew Romine,541640,Erasmo Ramírez,578428,Jose Iglesias,R,Hank Conger,474233,7,6,9,True,2016-06-30,Stolen,2B,2016,2017,27.4
+38,1887,1B,2B,Stolen Base 2B,461865,Andrew Romine,452666,Tom Wilhelmsen,435079,Ian Kinsler,R,Chris Iannetta,455104,4,4,6,False,2016-06-23,Stolen,2B,2016,2017,27.4
+39,2049,1B,2B,Stolen Base 2B,461865,Andrew Romine,545357,Matt Purke,435079,Ian Kinsler,L,Alex Avila,488671,5,10,5,True,2016-06-14,Stolen,2B,2016,2017,27.4
+40,2898,1B,2B,Stolen Base 2B,461865,Andrew Romine,543859,Michael Tonkin,457454,Jarrod Saltalamacchia,R,John Ryan Murphy,571974,1,4,9,True,2016-04-30,Stolen,2B,2016,2017,27.4
+41,3601,1B,2B,Stolen Base 2B,461865,Andrew Romine,542953,Buddy Boshers,457727,Cameron Maybin,L,John Ryan Murphy,571974,1,2,8,True,2016-09-22,Stolen,2B,2016,2017,27.4
+42,3604,1B,2B,Stolen Base 2B,461865,Andrew Romine,542953,Buddy Boshers,457727,Cameron Maybin,L,John Ryan Murphy,571974,1,2,8,True,2016-09-21,Stolen,2B,2016,2017,27.4
+43,3954,1B,2B,Stolen Base 2B,461865,Andrew Romine,450172,Edinson Volquez,435079,Ian Kinsler,R,Drew Butera,460077,1,2,5,True,2016-09-04,Stolen,2B,2016,2017,27.4
+44,4033,1B,2B,Stolen Base 2B,461865,Andrew Romine,519242,Chris Sale,578428,Jose Iglesias,L,Alex Avila,488671,1,2,5,False,2016-08-31,Stolen,2B,2016,2017,27.4
+45,5015,1B,2B,Stolen Base 2B,461865,Andrew Romine,592717,Aaron Sanchez,435079,Ian Kinsler,R,Russell Martin,431145,0,2,4,True,2016-07-09,Stolen,2B,2016,2017,27.4
+46,5162,1B,2B,Stolen Base 2B,461865,Andrew Romine,541640,Erasmo Ramírez,578428,Jose Iglesias,R,Hank Conger,474233,7,6,9,True,2016-06-30,Stolen,2B,2016,2017,27.4
+47,5294,1B,2B,Stolen Base 2B,461865,Andrew Romine,452666,Tom Wilhelmsen,435079,Ian Kinsler,R,Chris Iannetta,455104,4,4,6,False,2016-06-23,Stolen,2B,2016,2017,27.4
+48,5456,1B,2B,Stolen Base 2B,461865,Andrew Romine,545357,Matt Purke,435079,Ian Kinsler,L,Alex Avila,488671,5,10,5,True,2016-06-14,Stolen,2B,2016,2017,27.4
+49,6305,1B,2B,Stolen Base 2B,461865,Andrew Romine,543859,Michael Tonkin,457454,Jarrod Saltalamacchia,R,John Ryan Murphy,571974,1,4,9,True,2016-04-30,Stolen,2B,2016,2017,27.4
+50,246,2B,3B,Stolen Base 3B,461865,Andrew Romine,518703,Charlie Furbush,592206,Nick Castellanos,L,Mike Zunino,572287,6,6,11,True,2015-07-07,Stolen,3B,2015,2016,28.0
+51,517,2B,3B,Stolen Base 3B,461865,Andrew Romine,471911,Carlos Carrasco,592407,Bryan Holaday,R,Yan Gomes,543228,0,0,3,True,2015-06-24,Stolen,3B,2015,2016,28.0
+52,977,1B,,Caught Stealing 2B,461865,Andrew Romine,533167,Matt Shoemaker,543238,Anthony Gose,R,Chris Iannetta,455104,0,1,5,True,2015-05-31,Caught,2B,2015,2016,28.0
+53,1074,1B,,Caught Stealing 2B,461865,Andrew Romine,445926,Jesse Chavez,541650,Hernán Pérez,R,Josh Phegley,572033,0,1,8,True,2015-05-26,Caught,2B,2015,2016,28.0
+54,1406,1B,2B,Stolen Base 2B,461865,Andrew Romine,432934,Chris Young,543238,Anthony Gose,R,Salvador Perez,521692,1,1,5,False,2015-05-10,Stolen,2B,2015,2016,28.0
+55,1659,1B,,Caught Stealing 2B,461865,Andrew Romine,461833,Phil Hughes,434658,Rajai Davis,R,Chris Herrmann,543302,0,0,3,True,2015-04-29,Caught,2B,2015,2016,28.0
+56,1660,2B,,Caught Stealing 3B,461865,Andrew Romine,461833,Phil Hughes,435079,Ian Kinsler,R,Chris Herrmann,543302,3,3,5,True,2015-04-29,Caught,3B,2015,2016,28.0
+57,1661,1B,2B,Stolen Base 2B,461865,Andrew Romine,457744,Aaron Thompson,434658,Rajai Davis,L,Chris Herrmann,543302,7,7,6,True,2015-04-29,Stolen,2B,2015,2016,28.0
+58,2066,1B,2B,Stolen Base 2B,461865,Andrew Romine,446372,Corey Kluber,543238,Anthony Gose,R,Roberto Pérez,547379,0,2,2,True,2015-04-11,Stolen,2B,2015,2016,28.0
+59,2067,1B,,Caught Stealing 2B,461865,Andrew Romine,446372,Corey Kluber,435079,Ian Kinsler,R,Roberto Pérez,547379,0,2,5,True,2015-04-11,Caught,2B,2015,2016,28.0
+60,2068,1B,2B,Stolen Base 2B,461865,Andrew Romine,592102,Cody Allen,434658,Rajai Davis,R,Roberto Pérez,547379,5,5,9,True,2015-04-11,Stolen,2B,2015,2016,28.0

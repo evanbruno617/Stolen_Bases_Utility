@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3390,1B,2B,Stolen Base 2B,656847,DJ Peters,Martín Maldonado,4,3,6,False,2017-04-01,Stolen,2B,2017
+212,1B,2B,Stolen Base 2B,656847,DJ Peters,Yasmani Grandal,2,1,8,False,2021-09-18,Stolen,2B,2021
+896,1B,2B,Stolen Base 2B,656847,DJ Peters,Kurt Suzuki,1,2,7,False,2021-08-04,Stolen,2B,2021

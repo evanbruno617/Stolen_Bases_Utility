@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+617,1B,,Caught Stealing 2B,663624,Ryan Mountcastle,Danny Jansen,3,3,9,True,2020-08-28,Caught,2B,2020
+875,1B,,Caught Stealing 2B,663624,Ryan Mountcastle,Mike Zunino,1,0,1,False,2021-08-06,Caught,2B,2021
+1146,1B,2B,Stolen Base 2B,663624,Ryan Mountcastle,Mike Zunino,0,2,3,True,2021-07-19,Stolen,2B,2021
+1647,1B,,Caught Stealing 2B,663624,Ryan Mountcastle,René Rivera,1,3,3,True,2021-06-16,Caught,2B,2021
+2479,1B,2B,Stolen Base 2B,663624,Ryan Mountcastle,Aramis Garcia,4,1,8,False,2021-04-25,Stolen,2B,2021
+2540,1B,2B,Stolen Base 2B,663624,Ryan Mountcastle,Sandy León,0,0,4,True,2021-04-21,Stolen,2B,2021
+2654,1B,2B,Stolen Base 2B,663624,Ryan Mountcastle,Luis Torrens,4,4,3,False,2021-04-13,Stolen,2B,2021
+2659,1B,2B,Stolen Base 2B,663624,Ryan Mountcastle,Luis Torrens,4,4,3,False,2021-04-12,Stolen,2B,2021
+1486,1B,2B,Stolen Base 2B,663624,Ryan Mountcastle,Max Stassi,2,3,8,False,2022-07-08,Stolen,2B,2022
+1665,2B,3B,Stolen Base 3B,663624,Ryan Mountcastle,Cal Raleigh,0,0,4,True,2022-06-28,Stolen,3B,2022
+1743,1B,,Caught Stealing 2B,663624,Ryan Mountcastle,Seby Zavala,1,1,4,True,2022-06-25,Caught,2B,2022
+2629,1B,2B,Stolen Base 2B,663624,Ryan Mountcastle,MJ Melendez,3,0,1,False,2022-05-08,Stolen,2B,2022
+2669,1B,2B,Stolen Base 2B,663624,Ryan Mountcastle,MJ Melendez,3,0,1,False,2022-05-06,Stolen,2B,2022
+2873,1B,2B,Stolen Base 2B,663624,Ryan Mountcastle,Max Stassi,0,2,1,True,2022-04-23,Stolen,2B,2022
+1431,1B,2B,Stolen Base 2B,663624,Ryan Mountcastle,Danny Jansen,0,0,1,True,2023-08-02,Stolen,2B,2023
+3941,1B,2B,Stolen Base 2B,663624,Ryan Mountcastle,Yasmani Grandal,3,6,9,True,2023-04-14,Stolen,2B,2023
+4114,1B,2B,Stolen Base 2B,663624,Ryan Mountcastle,Jose Trevino,5,5,7,False,2023-04-07,Stolen,2B,2023
+4124,1B,2B,Stolen Base 2B,663624,Ryan Mountcastle,Jose Trevino,5,5,7,False,2023-04-06,Stolen,2B,2023

@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+698,1B,2B,Caught Stealing 3B,110839,Albert Belle,Einar Díaz,3,6,7,True,2000-09-02,Caught,3B,2000
+2690,1B,,Caught Stealing 2B,110839,Albert Belle,Brian Schneider,2,0,4,True,2000-06-02,Caught,2B,2000
+3914,2B,,Caught Stealing 3B,110839,Albert Belle,Brad Ausmus,11,6,8,False,2000-04-09,Caught,3B,2000
+3943,2B,,Caught Stealing 3B,110839,Albert Belle,Brad Ausmus,0,0,2,False,2000-04-08,Caught,3B,2000

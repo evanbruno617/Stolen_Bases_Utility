@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,337,1B,2B,Stolen Base 2B,543434,Brett Lawrie,452666,Tom Wilhelmsen,592192,Mark Canha,R,Mike Zunino,572287,4,0,7,False,2015-07-02,Stolen,2B,2015,2016,28.9
+1,555,2B,,Caught Stealing 3B,543434,Brett Lawrie,572070,Garrett Richards,477195,Ike Davis,R,Carlos Pérez,542208,0,0,2,False,2015-06-21,Caught,3B,2015,2016,28.9
+2,710,1B,2B,Stolen Base 2B,543434,Brett Lawrie,533167,Matt Shoemaker,453539,Sam Fuld,R,Chris Iannetta,455104,0,2,4,True,2015-06-14,Stolen,2B,2015,2016,28.9
+3,1173,1B,2B,Stolen Base 2B,543434,Brett Lawrie,448178,Kevin Jepsen,543760,Marcus Semien,R,René Rivera,425784,4,1,8,True,2015-05-22,Stolen,2B,2015,2016,28.9
+4,1981,1B,2B,Stolen Base 2B,543434,Brett Lawrie,465679,Samuel Deduno,502210,Josh Reddick,R,Jason Castro,488771,0,4,9,True,2015-04-14,Stolen,2B,2015,2016,28.9

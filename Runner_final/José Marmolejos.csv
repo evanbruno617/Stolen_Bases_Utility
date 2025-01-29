@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,547,1B,,Caught Stealing 2B,592530,José Marmolejos,642545,Jaime Barria,622268,Donovan Walton,R,Anthony Bemboom,621532,0,0,2,True,2020-08-31,Caught,2B,2020,2021,25.7
+1,3390,1B,,Caught Stealing 2B,592530,José Marmolejos,642545,Jaime Barria,622268,Donovan Walton,R,Anthony Bemboom,621532,0,0,2,True,2020-08-31,Caught,2B,2020,2021,25.7
+2,5314,1B,,Caught Stealing 2B,592530,José Marmolejos,642545,Jaime Barria,622268,Donovan Walton,R,Anthony Bemboom,621532,0,0,2,True,2020-08-31,Caught,2B,2020,2021,25.7

@@ -1,0 +1,24 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1206,1B,2B,Stolen Base 2B,443558,Nelson Cruz,641729,Joe Jiménez,680777,Ryan Jeffers,R,Eric Haase,606992,3,4,8,True,2021-07-17,Stolen,2B,2021,2022,25.5
+1,1263,1B,2B,Stolen Base 2B,443558,Nelson Cruz,596057,Daniel Norris,666135,Alex Kirilloff,L,Eric Haase,606992,0,2,3,False,2021-07-10,Stolen,2B,2021,2022,25.5
+2,1800,1B,2B,Stolen Base 2B,443558,Nelson Cruz,501985,Mike Minor,666135,Alex Kirilloff,L,Salvador Perez,521692,2,3,3,True,2021-06-05,Stolen,2B,2021,2022,25.5
+3,3130,1B,2B,Stolen Base 2B,443558,Nelson Cruz,641729,Joe Jiménez,680777,Ryan Jeffers,R,Eric Haase,606992,3,4,8,True,2021-07-17,Stolen,2B,2021,2022,25.5
+4,3187,1B,2B,Stolen Base 2B,443558,Nelson Cruz,596057,Daniel Norris,666135,Alex Kirilloff,L,Eric Haase,606992,0,2,3,False,2021-07-10,Stolen,2B,2021,2022,25.5
+5,3724,1B,2B,Stolen Base 2B,443558,Nelson Cruz,501985,Mike Minor,666135,Alex Kirilloff,L,Salvador Perez,521692,2,3,3,True,2021-06-05,Stolen,2B,2021,2022,25.5
+6,24,1B,2B,Stolen Base 2B,443558,Nelson Cruz,621345,A.J. Minter,660688,Keibert Ruiz,L,Travis d'Arnaud,518595,3,5,8,False,2022-07-14,Stolen,2B,2022,2023,24.7
+7,631,1B,2B,Stolen Base 2B,443558,Nelson Cruz,669920,Jason Alexander,605137,Josh Bell,R,Omar Narváez,553882,0,1,3,False,2022-06-12,Stolen,2B,2022,2023,24.7
+8,1000,1B,2B,Stolen Base 2B,443558,Nelson Cruz,456034,David Price,605137,Josh Bell,L,Will Smith,669257,4,9,7,False,2022-05-24,Stolen,2B,2022,2023,24.7
+9,785,1B,,Caught Stealing 2B,443558,Nelson Cruz,545333,Trevor Bauer,572122,Kyle Seager,R,Roberto Pérez,547379,0,1,4,False,2017-09-22,Caught,2B,2017,2018,24.9
+10,3670,1B,2B,Stolen Base 2B,443558,Nelson Cruz,640455,Sean Manaea,572122,Kyle Seager,L,Stephen Vogt,519390,1,1,6,True,2017-04-21,Stolen,2B,2017,2018,24.9
+11,157,1B,,Caught Stealing 2B,443558,Nelson Cruz,545333,Trevor Bauer,572122,Kyle Seager,R,Roberto Pérez,547379,0,1,4,False,2017-09-22,Caught,2B,2017,2018,24.9
+12,3042,1B,2B,Stolen Base 2B,443558,Nelson Cruz,640455,Sean Manaea,572122,Kyle Seager,L,Stephen Vogt,519390,1,1,6,True,2017-04-21,Stolen,2B,2017,2018,24.9
+13,4056,1B,2B,Stolen Base 2B,443558,Nelson Cruz,608665,Kendall Graveman,547982,Leonys Martin,R,Stephen Vogt,519390,0,0,2,False,2016-09-29,Stolen,2B,2016,2017,25.5
+14,4133,1B,2B,Stolen Base 2B,443558,Nelson Cruz,502381,Luke Gregerson,572122,Kyle Seager,R,Jason Castro,488771,3,4,11,True,2016-09-26,Stolen,2B,2016,2017,25.5
+15,21,1B,2B,Stolen Base 2B,443558,Nelson Cruz,608665,Kendall Graveman,547982,Leonys Martin,R,Stephen Vogt,519390,0,0,2,False,2016-09-29,Stolen,2B,2016,2017,25.5
+16,98,1B,2B,Stolen Base 2B,443558,Nelson Cruz,502381,Luke Gregerson,572122,Kyle Seager,R,Jason Castro,488771,3,4,11,True,2016-09-26,Stolen,2B,2016,2017,25.5
+17,3428,1B,2B,Stolen Base 2B,443558,Nelson Cruz,608665,Kendall Graveman,547982,Leonys Martin,R,Stephen Vogt,519390,0,0,2,False,2016-09-29,Stolen,2B,2016,2017,25.5
+18,3505,1B,2B,Stolen Base 2B,443558,Nelson Cruz,502381,Luke Gregerson,572122,Kyle Seager,R,Jason Castro,488771,3,4,11,True,2016-09-26,Stolen,2B,2016,2017,25.5
+19,236,1B,2B,Stolen Base 2B,443558,Nelson Cruz,434671,Aníbal Sánchez,452234,Seth Smith,R,James McCann,543510,4,4,5,False,2015-07-08,Stolen,2B,2015,2016,26.1
+20,832,1B,,Caught Stealing 2B,443558,Nelson Cruz,502042,Chris Archer,489149,Logan Morrison,R,Bobby Wilson,435064,0,1,4,False,2015-06-07,Caught,2B,2015,2016,26.1
+21,1086,1B,,Caught Stealing 2B,443558,Nelson Cruz,502202,Brad Boxberger,572122,Kyle Seager,R,Bobby Wilson,435064,6,7,10,True,2015-05-26,Caught,2B,2015,2016,26.1
+22,1723,1B,2B,Stolen Base 2B,443558,Nelson Cruz,457744,Aaron Thompson,489149,Logan Morrison,L,Chris Herrmann,543302,2,2,8,False,2015-04-26,Stolen,2B,2015,2016,26.1

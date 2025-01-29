@@ -1,0 +1,17 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,279577,Rafael Furcal,Craig Wilson,0,1,3,True,2001-06-03,Stolen,2B,2001
+2B,3B,Stolen Base 3B,279577,Rafael Furcal,Craig Wilson,0,4,3,True,2001-06-03,Stolen,3B,2001
+1B,2B,Stolen Base 2B,116662,Andruw Jones,Craig Wilson,0,4,3,True,2001-06-03,Stolen,2B,2001
+1B,2B,Stolen Base 2B,115210,Mark Grudzielanek,Craig Wilson,6,0,2,False,2003-09-27,Stolen,2B,2003
+2B,3B,Stolen Base 2B,115210,Mark Grudzielanek,Craig Wilson,6,0,2,False,2003-09-27,Stolen,2B,2003
+1B,2B,Stolen Base 2B,115210,Mark Grudzielanek,Craig Wilson,6,0,2,False,2003-09-26,Stolen,2B,2003
+2B,3B,Stolen Base 2B,115210,Mark Grudzielanek,Craig Wilson,6,0,2,False,2003-09-26,Stolen,2B,2003
+1B,2B,Stolen Base 2B,279577,Rafael Furcal,Craig Wilson,3,4,6,False,2003-09-05,Stolen,2B,2003
+1B,,Caught Stealing 2B,121358,Ivan Rodriguez,Craig Wilson,1,0,4,False,2003-09-04,Caught,2B,2003
+1B,2B,Stolen Base 2B,407496,Ramón Vázquez,Craig Wilson,3,2,4,True,2003-07-31,Stolen,2B,2003
+1B,2B,Stolen Base 2B,279577,Rafael Furcal,Craig Wilson,3,4,6,False,2003-06-06,Stolen,2B,2003
+1B,2B,Stolen Base 2B,124523,Tony Womack,Craig Wilson,7,4,8,False,2003-05-18,Stolen,2B,2003
+1B,,Caught Stealing 2B,115902,Richard Hidalgo,Craig Wilson,0,2,2,False,2003-05-08,Caught,2B,2003
+2B,3B,Stolen Base 3B,110987,Craig Biggio,Craig Wilson,4,2,7,False,2003-05-08,Stolen,3B,2003
+1B,2B,Stolen Base 2B,407489,Lyle Overbay,Craig Wilson,6,1,7,True,2004-07-02,Stolen,2B,2004
+1B,2B,Stolen Base 2B,407489,Lyle Overbay,Craig Wilson,6,1,7,True,2004-05-21,Stolen,2B,2004

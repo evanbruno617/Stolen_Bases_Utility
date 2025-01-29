@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1614,1B,2B,Stolen Base 2B,119732,Phil Nevin,Brent Mayne,8,4,5,True,2000-07-22,Stolen,2B,2000
+2193,1B,2B,Stolen Base 2B,119732,Phil Nevin,Eddie Taubensee,0,1,4,True,2000-06-23,Stolen,2B,2000
+492,1B,2B,Stolen Base 2B,119732,Phil Nevin,Mike Piazza,2,4,4,True,2001-05-16,Stolen,2B,2001
+1008,1B,2B,Stolen Base 2B,119732,Phil Nevin,Mike Lieberthal,3,0,5,False,2001-04-26,Stolen,2B,2001
+1241,2B,,Caught Stealing 3B,119732,Phil Nevin,Paul Lo Duca,0,1,2,False,2001-04-15,Caught,3B,2001
+217,1B,2B,Stolen Base 2B,119732,Phil Nevin,Chad Moeller,1,1,4,False,2002-09-19,Stolen,2B,2002
+455,3B,score,Stolen Base Home,119732,Phil Nevin,Sandy Alomar Jr.,2,5,6,True,2002-09-08,Stolen,Home,2002
+3483,1B,2B,Stolen Base 2B,119732,Phil Nevin,Paul Lo Duca,0,0,4,True,2002-04-20,Stolen,2B,2002
+3620,1B,2B,Stolen Base 2B,119732,Phil Nevin,Paul Lo Duca,0,0,6,False,2002-04-14,Stolen,2B,2002
+83,1B,2B,Stolen Base 2B,119732,Phil Nevin,Paul Lo Duca,1,0,6,False,2003-09-25,Stolen,2B,2003
+768,1B,2B,Stolen Base 2B,119732,Phil Nevin,Vance Wilson,1,1,9,False,2003-08-20,Stolen,2B,2003
+761,1B,2B,Stolen Base 2B,119732,Phil Nevin,Miguel Ojeda,5,4,8,False,2005-08-23,Stolen,2B,2005
+964,1B,2B,Stolen Base 2B,119732,Phil Nevin,Jorge Posada,6,5,7,True,2005-08-12,Stolen,2B,2005
+2884,1B,2B,Stolen Base 2B,119732,Phil Nevin,Todd Greene,0,0,1,False,2005-05-03,Stolen,2B,2005

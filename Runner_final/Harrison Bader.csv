@@ -1,0 +1,158 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,164,1B,2B,Stolen Base 2B,664056,Harrison Bader,593144,Richard Rodríguez,669242,Tommy Edman,R,John Ryan Murphy,571974,1,2,9,True,2020-09-20,Stolen,2B,2020,2021,29.5
+1,274,1B,,Caught Stealing 2B,664056,Harrison Bader,458676,Josh Lindblom,502671,Paul Goldschmidt,R,Omar Narváez,553882,0,0,3,True,2020-09-14,Caught,2B,2020,2021,29.5
+2,694,1B,2B,Stolen Base 2B,664056,Harrison Bader,518813,Greg Holland,669242,Tommy Edman,R,Meibrys Viloria,650619,6,0,5,False,2020-08-24,Stolen,2B,2020,2021,29.5
+3,1218,1B,2B,Stolen Base 2B,664056,Harrison Bader,605195,Kyle Crick,543939,Kolten Wong,R,John Ryan Murphy,571974,3,1,7,False,2020-07-25,Stolen,2B,2020,2021,29.5
+4,3007,1B,2B,Stolen Base 2B,664056,Harrison Bader,593144,Richard Rodríguez,669242,Tommy Edman,R,John Ryan Murphy,571974,1,2,9,True,2020-09-20,Stolen,2B,2020,2021,29.5
+5,3117,1B,,Caught Stealing 2B,664056,Harrison Bader,458676,Josh Lindblom,502671,Paul Goldschmidt,R,Omar Narváez,553882,0,0,3,True,2020-09-14,Caught,2B,2020,2021,29.5
+6,3537,1B,2B,Stolen Base 2B,664056,Harrison Bader,518813,Greg Holland,669242,Tommy Edman,R,Meibrys Viloria,650619,6,0,5,False,2020-08-24,Stolen,2B,2020,2021,29.5
+7,4061,1B,2B,Stolen Base 2B,664056,Harrison Bader,605195,Kyle Crick,543939,Kolten Wong,R,John Ryan Murphy,571974,3,1,7,False,2020-07-25,Stolen,2B,2020,2021,29.5
+8,4931,1B,2B,Stolen Base 2B,664056,Harrison Bader,593144,Richard Rodríguez,669242,Tommy Edman,R,John Ryan Murphy,571974,1,2,9,True,2020-09-20,Stolen,2B,2020,2021,29.5
+9,5041,1B,,Caught Stealing 2B,664056,Harrison Bader,458676,Josh Lindblom,502671,Paul Goldschmidt,R,Omar Narváez,553882,0,0,3,True,2020-09-14,Caught,2B,2020,2021,29.5
+10,5461,1B,2B,Stolen Base 2B,664056,Harrison Bader,518813,Greg Holland,669242,Tommy Edman,R,Meibrys Viloria,650619,6,0,5,False,2020-08-24,Stolen,2B,2020,2021,29.5
+11,5985,1B,2B,Stolen Base 2B,664056,Harrison Bader,605195,Kyle Crick,543939,Kolten Wong,R,John Ryan Murphy,571974,3,1,7,False,2020-07-25,Stolen,2B,2020,2021,29.5
+12,1477,1B,2B,Stolen Base 2B,664056,Harrison Bader,571578,Patrick Corbin,500874,José A. Martínez,L,Yan Gomes,543228,2,3,6,False,2019-09-17,Stolen,2B,2019,2020,29.4
+13,1478,2B,3B,Stolen Base 2B,664056,Harrison Bader,571578,Patrick Corbin,500874,José A. Martínez,L,Yan Gomes,543228,2,3,6,False,2019-09-17,Stolen,2B,2019,2020,29.4
+14,1521,2B,3B,Stolen Base 3B,664056,Harrison Bader,543475,Jordan Lyles,451594,Dexter Fowler,R,Yasmani Grandal,518735,2,0,2,False,2019-09-14,Stolen,3B,2019,2020,29.4
+15,1545,1B,2B,Stolen Base 2B,664056,Harrison Bader,607188,Jake Faria,451594,Dexter Fowler,R,Jacob Nottingham,641924,5,0,6,False,2019-09-13,Stolen,2B,2019,2020,29.4
+16,1656,1B,2B,Stolen Base 2B,664056,Harrison Bader,605280,Clay Holmes,425794,Adam Wainwright,R,Elias Díaz,553869,1,6,6,True,2019-09-07,Stolen,2B,2019,2020,29.4
+17,1857,1B,2B,Stolen Base 2B,664056,Harrison Bader,451584,Wade Davis,664854,Ryan Helsley,R,Tony Wolters,547172,7,3,5,False,2019-08-25,Stolen,2B,2019,2020,29.4
+18,2385,1B,2B,Stolen Base 2B,664056,Harrison Bader,543101,Anthony DeSclafani,656427,Jack Flaherty,R,Ryan Lavarnway,543432,0,2,2,True,2019-07-21,Stolen,2B,2019,2020,29.4
+19,2472,2B,3B,Stolen Base 3B,664056,Harrison Bader,642607,Dario Agrazal,656427,Jack Flaherty,R,Elias Díaz,553869,1,1,5,False,2019-07-16,Stolen,3B,2019,2020,29.4
+20,2701,1B,2B,Stolen Base 2B,664056,Harrison Bader,615698,Cal Quantrill,543939,Kolten Wong,R,Austin Hedges,595978,0,1,6,True,2019-06-28,Stolen,2B,2019,2020,29.4
+21,2960,2B,3B,Stolen Base 3B,664056,Harrison Bader,594798,Jacob deGrom,656427,Jack Flaherty,R,Wilson Ramos,467092,0,0,3,True,2019-06-14,Stolen,3B,2019,2020,29.4
+22,2961,1B,2B,Stolen Base 2B,664056,Harrison Bader,594798,Jacob deGrom,656427,Jack Flaherty,R,Wilson Ramos,467092,2,1,5,True,2019-06-14,Stolen,2B,2019,2020,29.4
+23,2971,2B,3B,Stolen Base 3B,664056,Harrison Bader,594798,Jacob deGrom,656427,Jack Flaherty,R,Wilson Ramos,467092,0,0,3,True,2019-06-13,Stolen,3B,2019,2020,29.4
+24,2972,1B,2B,Stolen Base 2B,664056,Harrison Bader,594798,Jacob deGrom,656427,Jack Flaherty,R,Wilson Ramos,467092,2,1,5,True,2019-06-13,Stolen,2B,2019,2020,29.4
+25,3269,2B,3B,Stolen Base 3B,664056,Harrison Bader,527054,Julio Teheran,656427,Jack Flaherty,R,Brian McCann,435263,2,0,4,False,2019-05-26,Stolen,3B,2019,2020,29.4
+26,3711,1B,,Caught Stealing 2B,664056,Harrison Bader,502522,Justin Miller,451594,Dexter Fowler,R,Yan Gomes,543228,3,6,6,True,2019-04-29,Caught,2B,2019,2020,29.4
+27,4095,2B,,Caught Stealing 3B,664056,Harrison Bader,621381,Matt Strahm,425794,Adam Wainwright,L,Austin Hedges,595978,0,1,3,False,2019-04-07,Caught,3B,2019,2020,29.4
+28,4320,1B,2B,Stolen Base 2B,664056,Harrison Bader,571578,Patrick Corbin,500874,José A. Martínez,L,Yan Gomes,543228,2,3,6,False,2019-09-17,Stolen,2B,2019,2020,29.4
+29,4321,2B,3B,Stolen Base 2B,664056,Harrison Bader,571578,Patrick Corbin,500874,José A. Martínez,L,Yan Gomes,543228,2,3,6,False,2019-09-17,Stolen,2B,2019,2020,29.4
+30,4364,2B,3B,Stolen Base 3B,664056,Harrison Bader,543475,Jordan Lyles,451594,Dexter Fowler,R,Yasmani Grandal,518735,2,0,2,False,2019-09-14,Stolen,3B,2019,2020,29.4
+31,4388,1B,2B,Stolen Base 2B,664056,Harrison Bader,607188,Jake Faria,451594,Dexter Fowler,R,Jacob Nottingham,641924,5,0,6,False,2019-09-13,Stolen,2B,2019,2020,29.4
+32,4499,1B,2B,Stolen Base 2B,664056,Harrison Bader,605280,Clay Holmes,425794,Adam Wainwright,R,Elias Díaz,553869,1,6,6,True,2019-09-07,Stolen,2B,2019,2020,29.4
+33,4700,1B,2B,Stolen Base 2B,664056,Harrison Bader,451584,Wade Davis,664854,Ryan Helsley,R,Tony Wolters,547172,7,3,5,False,2019-08-25,Stolen,2B,2019,2020,29.4
+34,5228,1B,2B,Stolen Base 2B,664056,Harrison Bader,543101,Anthony DeSclafani,656427,Jack Flaherty,R,Ryan Lavarnway,543432,0,2,2,True,2019-07-21,Stolen,2B,2019,2020,29.4
+35,5315,2B,3B,Stolen Base 3B,664056,Harrison Bader,642607,Dario Agrazal,656427,Jack Flaherty,R,Elias Díaz,553869,1,1,5,False,2019-07-16,Stolen,3B,2019,2020,29.4
+36,5544,1B,2B,Stolen Base 2B,664056,Harrison Bader,615698,Cal Quantrill,543939,Kolten Wong,R,Austin Hedges,595978,0,1,6,True,2019-06-28,Stolen,2B,2019,2020,29.4
+37,5803,2B,3B,Stolen Base 3B,664056,Harrison Bader,594798,Jacob deGrom,656427,Jack Flaherty,R,Wilson Ramos,467092,0,0,3,True,2019-06-14,Stolen,3B,2019,2020,29.4
+38,5804,1B,2B,Stolen Base 2B,664056,Harrison Bader,594798,Jacob deGrom,656427,Jack Flaherty,R,Wilson Ramos,467092,2,1,5,True,2019-06-14,Stolen,2B,2019,2020,29.4
+39,5814,2B,3B,Stolen Base 3B,664056,Harrison Bader,594798,Jacob deGrom,656427,Jack Flaherty,R,Wilson Ramos,467092,0,0,3,True,2019-06-13,Stolen,3B,2019,2020,29.4
+40,5815,1B,2B,Stolen Base 2B,664056,Harrison Bader,594798,Jacob deGrom,656427,Jack Flaherty,R,Wilson Ramos,467092,2,1,5,True,2019-06-13,Stolen,2B,2019,2020,29.4
+41,6112,2B,3B,Stolen Base 3B,664056,Harrison Bader,527054,Julio Teheran,656427,Jack Flaherty,R,Brian McCann,435263,2,0,4,False,2019-05-26,Stolen,3B,2019,2020,29.4
+42,6554,1B,,Caught Stealing 2B,664056,Harrison Bader,502522,Justin Miller,451594,Dexter Fowler,R,Yan Gomes,543228,3,6,6,True,2019-04-29,Caught,2B,2019,2020,29.4
+43,6938,2B,,Caught Stealing 3B,664056,Harrison Bader,621381,Matt Strahm,425794,Adam Wainwright,L,Austin Hedges,595978,0,1,3,False,2019-04-07,Caught,3B,2019,2020,29.4
+44,6244,1B,2B,Stolen Base 2B,664056,Harrison Bader,571578,Patrick Corbin,500874,José A. Martínez,L,Yan Gomes,543228,2,3,6,False,2019-09-17,Stolen,2B,2019,2020,29.4
+45,6245,2B,3B,Stolen Base 2B,664056,Harrison Bader,571578,Patrick Corbin,500874,José A. Martínez,L,Yan Gomes,543228,2,3,6,False,2019-09-17,Stolen,2B,2019,2020,29.4
+46,6288,2B,3B,Stolen Base 3B,664056,Harrison Bader,543475,Jordan Lyles,451594,Dexter Fowler,R,Yasmani Grandal,518735,2,0,2,False,2019-09-14,Stolen,3B,2019,2020,29.4
+47,6312,1B,2B,Stolen Base 2B,664056,Harrison Bader,607188,Jake Faria,451594,Dexter Fowler,R,Jacob Nottingham,641924,5,0,6,False,2019-09-13,Stolen,2B,2019,2020,29.4
+48,6423,1B,2B,Stolen Base 2B,664056,Harrison Bader,605280,Clay Holmes,425794,Adam Wainwright,R,Elias Díaz,553869,1,6,6,True,2019-09-07,Stolen,2B,2019,2020,29.4
+49,6624,1B,2B,Stolen Base 2B,664056,Harrison Bader,451584,Wade Davis,664854,Ryan Helsley,R,Tony Wolters,547172,7,3,5,False,2019-08-25,Stolen,2B,2019,2020,29.4
+50,7152,1B,2B,Stolen Base 2B,664056,Harrison Bader,543101,Anthony DeSclafani,656427,Jack Flaherty,R,Ryan Lavarnway,543432,0,2,2,True,2019-07-21,Stolen,2B,2019,2020,29.4
+51,7239,2B,3B,Stolen Base 3B,664056,Harrison Bader,642607,Dario Agrazal,656427,Jack Flaherty,R,Elias Díaz,553869,1,1,5,False,2019-07-16,Stolen,3B,2019,2020,29.4
+52,7468,1B,2B,Stolen Base 2B,664056,Harrison Bader,615698,Cal Quantrill,543939,Kolten Wong,R,Austin Hedges,595978,0,1,6,True,2019-06-28,Stolen,2B,2019,2020,29.4
+53,7727,2B,3B,Stolen Base 3B,664056,Harrison Bader,594798,Jacob deGrom,656427,Jack Flaherty,R,Wilson Ramos,467092,0,0,3,True,2019-06-14,Stolen,3B,2019,2020,29.4
+54,7728,1B,2B,Stolen Base 2B,664056,Harrison Bader,594798,Jacob deGrom,656427,Jack Flaherty,R,Wilson Ramos,467092,2,1,5,True,2019-06-14,Stolen,2B,2019,2020,29.4
+55,7738,2B,3B,Stolen Base 3B,664056,Harrison Bader,594798,Jacob deGrom,656427,Jack Flaherty,R,Wilson Ramos,467092,0,0,3,True,2019-06-13,Stolen,3B,2019,2020,29.4
+56,7739,1B,2B,Stolen Base 2B,664056,Harrison Bader,594798,Jacob deGrom,656427,Jack Flaherty,R,Wilson Ramos,467092,2,1,5,True,2019-06-13,Stolen,2B,2019,2020,29.4
+57,8036,2B,3B,Stolen Base 3B,664056,Harrison Bader,527054,Julio Teheran,656427,Jack Flaherty,R,Brian McCann,435263,2,0,4,False,2019-05-26,Stolen,3B,2019,2020,29.4
+58,8478,1B,,Caught Stealing 2B,664056,Harrison Bader,502522,Justin Miller,451594,Dexter Fowler,R,Yan Gomes,543228,3,6,6,True,2019-04-29,Caught,2B,2019,2020,29.4
+59,8862,2B,,Caught Stealing 3B,664056,Harrison Bader,621381,Matt Strahm,425794,Adam Wainwright,L,Austin Hedges,595978,0,1,3,False,2019-04-07,Caught,3B,2019,2020,29.4
+60,96,1B,2B,Stolen Base 2B,664056,Harrison Bader,592716,Adrian Sampson,663457,Lars Nootbaar,R,Willson Contreras,575929,4,2,5,True,2021-09-25,Stolen,2B,2021,2022,29.1
+61,97,2B,3B,Stolen Base 3B,664056,Harrison Bader,667297,Tommy Nance,663457,Lars Nootbaar,R,Willson Contreras,575929,4,6,9,True,2021-09-25,Stolen,3B,2021,2022,29.1
+62,344,1B,,Caught Stealing 2B,664056,Harrison Bader,669952,Mitch White,425794,Adam Wainwright,R,Will Smith,669257,3,1,2,False,2021-09-08,Caught,2B,2021,2022,29.1
+63,745,1B,,Caught Stealing 2B,664056,Harrison Bader,641745,Brad Keller,624641,Edmundo Sosa,R,Salvador Perez,521692,1,2,7,True,2021-08-14,Caught,2B,2021,2022,29.1
+64,1022,2B,3B,Stolen Base 3B,664056,Harrison Bader,664208,Phil Maton,657557,Paul DeJong,R,Roberto Pérez,547379,2,3,9,True,2021-07-27,Stolen,3B,2021,2022,29.1
+65,1250,1B,2B,Stolen Base 2B,664056,Harrison Bader,605200,Zach Davies,657557,Paul DeJong,R,Willson Contreras,575929,0,1,4,True,2021-07-10,Stolen,2B,2021,2022,29.1
+66,1335,2B,3B,Stolen Base 3B,664056,Harrison Bader,608566,Germán Márquez,668800,Andrew Knizner,R,Elias Díaz,553869,1,2,4,True,2021-07-04,Stolen,3B,2021,2022,29.1
+67,2083,1B,2B,Stolen Base 2B,664056,Harrison Bader,502239,Trevor Cahill,642211,Justin Williams,R,Michael Pérez,605421,1,0,2,False,2021-05-19,Stolen,2B,2021,2022,29.1
+68,2185,1B,,Caught Stealing 2B,664056,Harrison Bader,605540,Brandon Woodruff,572761,Matt Carpenter,R,Manny Piña,444489,1,1,8,True,2021-05-12,Caught,2B,2021,2022,29.1
+69,2303,1B,2B,Stolen Base 2B,664056,Harrison Bader,573186,Marcus Stroman,572761,Matt Carpenter,R,James McCann,543510,2,1,4,False,2021-05-05,Stolen,2B,2021,2022,29.1
+70,2380,1B,2B,Stolen Base 2B,664056,Harrison Bader,607572,Sam Howard,656427,Jack Flaherty,L,Michael Pérez,605421,3,5,6,True,2021-05-01,Stolen,2B,2021,2022,29.1
+71,2020,1B,2B,Stolen Base 2B,664056,Harrison Bader,592716,Adrian Sampson,663457,Lars Nootbaar,R,Willson Contreras,575929,4,2,5,True,2021-09-25,Stolen,2B,2021,2022,29.1
+72,2021,2B,3B,Stolen Base 3B,664056,Harrison Bader,667297,Tommy Nance,663457,Lars Nootbaar,R,Willson Contreras,575929,4,6,9,True,2021-09-25,Stolen,3B,2021,2022,29.1
+73,2268,1B,,Caught Stealing 2B,664056,Harrison Bader,669952,Mitch White,425794,Adam Wainwright,R,Will Smith,669257,3,1,2,False,2021-09-08,Caught,2B,2021,2022,29.1
+74,2669,1B,,Caught Stealing 2B,664056,Harrison Bader,641745,Brad Keller,624641,Edmundo Sosa,R,Salvador Perez,521692,1,2,7,True,2021-08-14,Caught,2B,2021,2022,29.1
+75,2946,2B,3B,Stolen Base 3B,664056,Harrison Bader,664208,Phil Maton,657557,Paul DeJong,R,Roberto Pérez,547379,2,3,9,True,2021-07-27,Stolen,3B,2021,2022,29.1
+76,3174,1B,2B,Stolen Base 2B,664056,Harrison Bader,605200,Zach Davies,657557,Paul DeJong,R,Willson Contreras,575929,0,1,4,True,2021-07-10,Stolen,2B,2021,2022,29.1
+77,3259,2B,3B,Stolen Base 3B,664056,Harrison Bader,608566,Germán Márquez,668800,Andrew Knizner,R,Elias Díaz,553869,1,2,4,True,2021-07-04,Stolen,3B,2021,2022,29.1
+78,4007,1B,2B,Stolen Base 2B,664056,Harrison Bader,502239,Trevor Cahill,642211,Justin Williams,R,Michael Pérez,605421,1,0,2,False,2021-05-19,Stolen,2B,2021,2022,29.1
+79,4109,1B,,Caught Stealing 2B,664056,Harrison Bader,605540,Brandon Woodruff,572761,Matt Carpenter,R,Manny Piña,444489,1,1,8,True,2021-05-12,Caught,2B,2021,2022,29.1
+80,4227,1B,2B,Stolen Base 2B,664056,Harrison Bader,573186,Marcus Stroman,572761,Matt Carpenter,R,James McCann,543510,2,1,4,False,2021-05-05,Stolen,2B,2021,2022,29.1
+81,4304,1B,2B,Stolen Base 2B,664056,Harrison Bader,607572,Sam Howard,656427,Jack Flaherty,L,Michael Pérez,605421,3,5,6,True,2021-05-01,Stolen,2B,2021,2022,29.1
+82,364,1B,2B,Stolen Base 2B,664056,Harrison Bader,641627,Trevor Gott,668715,Spencer Steer,R,Francisco Alvarez,682626,2,3,8,True,2023-09-16,Stolen,2B,2023,2024,28.2
+83,535,1B,2B,Stolen Base 2B,664056,Harrison Bader,668868,Zack Thompson,668715,Spencer Steer,L,Willson Contreras,575929,3,1,2,False,2023-09-09,Stolen,2B,2023,2024,28.2
+84,720,1B,,Caught Stealing 2B,664056,Harrison Bader,592791,Jameson Taillon,605361,Nick Martini,R,Yan Gomes,543228,4,3,5,False,2023-09-03,Caught,2B,2023,2024,28.2
+85,744,2B,3B,Stolen Base 3B,664056,Harrison Bader,643410,Mark Leiter Jr.,670770,TJ Friedl,R,Yan Gomes,543228,0,1,9,False,2023-09-02,Stolen,3B,2023,2024,28.2
+86,793,1B,2B,Stolen Base 2B,664056,Harrison Bader,666214,Joey Wentz,672724,Oswald Peraza,L,Jake Rogers,668670,1,6,5,True,2023-08-30,Stolen,2B,2023,2024,28.2
+87,947,1B,2B,Stolen Base 2B,664056,Harrison Bader,669022,MacKenzie Gore,683011,Anthony Volpe,L,Keibert Ruiz,660688,1,0,2,False,2023-08-23,Stolen,2B,2023,2024,28.2
+88,948,1B,2B,Stolen Base 2B,664056,Harrison Bader,676395,Robert Garcia,683011,Anthony Volpe,L,Keibert Ruiz,660688,6,0,5,False,2023-08-23,Stolen,2B,2023,2024,28.2
+89,1174,1B,2B,Stolen Base 2B,664056,Harrison Bader,691587,Eury Pérez,641856,Billy McKinney,R,Nick Fortes,663743,0,0,2,True,2023-08-13,Stolen,2B,2023,2024,28.2
+90,1230,1B,2B,Stolen Base 2B,664056,Harrison Bader,595345,Steven Okert,683011,Anthony Volpe,L,Nick Fortes,663743,4,7,9,True,2023-08-11,Stolen,2B,2023,2024,28.2
+91,1286,1B,2B,Stolen Base 2B,664056,Harrison Bader,657053,Touki Toussaint,683011,Anthony Volpe,R,Carlos Pérez,656024,0,0,2,True,2023-08-08,Stolen,2B,2023,2024,28.2
+92,1423,1B,2B,Stolen Base 2B,664056,Harrison Bader,608665,Kendall Graveman,683011,Anthony Volpe,R,Martín Maldonado,455117,4,3,6,False,2023-08-03,Stolen,2B,2023,2024,28.2
+93,1514,1B,2B,Stolen Base 2B,664056,Harrison Bader,669330,Tyler Wells,683011,Anthony Volpe,R,Adley Rutschman,668939,0,1,2,True,2023-07-29,Stolen,2B,2023,2024,28.2
+94,1680,1B,2B,Stolen Base 2B,664056,Harrison Bader,669395,Dylan Coleman,518934,DJ LeMahieu,R,Salvador Perez,521692,5,2,8,False,2023-07-22,Stolen,2B,2023,2024,28.2
+95,1880,1B,2B,Stolen Base 2B,664056,Harrison Bader,543294,Kyle Hendricks,518626,Josh Donaldson,R,Tucker Barnhart,571466,1,0,3,False,2023-07-09,Stolen,2B,2023,2024,28.2
+96,2334,1B,2B,Stolen Base 2B,664056,Harrison Bader,669923,George Kirby,641856,Billy McKinney,R,Cal Raleigh,663728,3,0,2,False,2023-06-20,Stolen,2B,2023,2024,28.2
+97,2858,1B,2B,Stolen Base 2B,664056,Harrison Bader,682243,Bryce Miller,641343,Jake Bauers,R,Cal Raleigh,663728,0,1,2,True,2023-05-29,Stolen,2B,2023,2024,28.2
+98,2896,1B,2B,Stolen Base 2B,664056,Harrison Bader,506433,Yu Darvish,641432,Willie Calhoun,R,Austin Nola,543592,6,3,3,False,2023-05-28,Stolen,2B,2023,2024,28.2
+99,2927,1B,,Caught Stealing 2B,664056,Harrison Bader,608379,Michael Wacha,643396,Isiah Kiner-Falefa,R,Austin Nola,543592,1,1,4,False,2023-05-27,Caught,2B,2023,2024,28.2
+100,2964,1B,2B,Stolen Base 2B,664056,Harrison Bader,502043,Kyle Gibson,641432,Willie Calhoun,R,Adley Rutschman,668939,0,0,4,False,2023-05-25,Stolen,2B,2023,2024,28.2
+101,3085,1B,2B,Stolen Base 2B,664056,Harrison Bader,664139,Ian Gibaut,665828,Oswaldo Cabrera,R,Curt Casali,592200,4,7,10,True,2023-05-20,Stolen,2B,2023,2024,28.2
+102,3147,1B,2B,Stolen Base 2B,664056,Harrison Bader,605135,Chris Bassitt,641432,Willie Calhoun,R,Alejandro Kirk,672386,0,0,2,True,2023-05-17,Stolen,2B,2023,2024,28.2
+103,3210,1B,2B,Stolen Base 2B,664056,Harrison Bader,621107,Zach Eflin,641432,Willie Calhoun,R,Christian Bethancourt,542194,4,8,6,False,2023-05-14,Stolen,2B,2023,2024,28.2
+104,3327,1B,,Caught Stealing 2B,664056,Harrison Bader,607968,Drew Rucinski,641343,Jake Bauers,R,Shea Langeliers,669127,7,2,5,False,2023-05-09,Caught,2B,2023,2024,28.2
+105,4778,1B,2B,Stolen Base 2B,664056,Harrison Bader,641627,Trevor Gott,668715,Spencer Steer,R,Francisco Alvarez,682626,2,3,8,True,2023-09-16,Stolen,2B,2023,2024,28.2
+106,4949,1B,2B,Stolen Base 2B,664056,Harrison Bader,668868,Zack Thompson,668715,Spencer Steer,L,Willson Contreras,575929,3,1,2,False,2023-09-09,Stolen,2B,2023,2024,28.2
+107,5134,1B,,Caught Stealing 2B,664056,Harrison Bader,592791,Jameson Taillon,605361,Nick Martini,R,Yan Gomes,543228,4,3,5,False,2023-09-03,Caught,2B,2023,2024,28.2
+108,5158,2B,3B,Stolen Base 3B,664056,Harrison Bader,643410,Mark Leiter Jr.,670770,TJ Friedl,R,Yan Gomes,543228,0,1,9,False,2023-09-02,Stolen,3B,2023,2024,28.2
+109,5207,1B,2B,Stolen Base 2B,664056,Harrison Bader,666214,Joey Wentz,672724,Oswald Peraza,L,Jake Rogers,668670,1,6,5,True,2023-08-30,Stolen,2B,2023,2024,28.2
+110,5361,1B,2B,Stolen Base 2B,664056,Harrison Bader,669022,MacKenzie Gore,683011,Anthony Volpe,L,Keibert Ruiz,660688,1,0,2,False,2023-08-23,Stolen,2B,2023,2024,28.2
+111,5362,1B,2B,Stolen Base 2B,664056,Harrison Bader,676395,Robert Garcia,683011,Anthony Volpe,L,Keibert Ruiz,660688,6,0,5,False,2023-08-23,Stolen,2B,2023,2024,28.2
+112,5588,1B,2B,Stolen Base 2B,664056,Harrison Bader,691587,Eury Pérez,641856,Billy McKinney,R,Nick Fortes,663743,0,0,2,True,2023-08-13,Stolen,2B,2023,2024,28.2
+113,5644,1B,2B,Stolen Base 2B,664056,Harrison Bader,595345,Steven Okert,683011,Anthony Volpe,L,Nick Fortes,663743,4,7,9,True,2023-08-11,Stolen,2B,2023,2024,28.2
+114,5700,1B,2B,Stolen Base 2B,664056,Harrison Bader,657053,Touki Toussaint,683011,Anthony Volpe,R,Carlos Pérez,656024,0,0,2,True,2023-08-08,Stolen,2B,2023,2024,28.2
+115,5837,1B,2B,Stolen Base 2B,664056,Harrison Bader,608665,Kendall Graveman,683011,Anthony Volpe,R,Martín Maldonado,455117,4,3,6,False,2023-08-03,Stolen,2B,2023,2024,28.2
+116,5928,1B,2B,Stolen Base 2B,664056,Harrison Bader,669330,Tyler Wells,683011,Anthony Volpe,R,Adley Rutschman,668939,0,1,2,True,2023-07-29,Stolen,2B,2023,2024,28.2
+117,6094,1B,2B,Stolen Base 2B,664056,Harrison Bader,669395,Dylan Coleman,518934,DJ LeMahieu,R,Salvador Perez,521692,5,2,8,False,2023-07-22,Stolen,2B,2023,2024,28.2
+118,6294,1B,2B,Stolen Base 2B,664056,Harrison Bader,543294,Kyle Hendricks,518626,Josh Donaldson,R,Tucker Barnhart,571466,1,0,3,False,2023-07-09,Stolen,2B,2023,2024,28.2
+119,6748,1B,2B,Stolen Base 2B,664056,Harrison Bader,669923,George Kirby,641856,Billy McKinney,R,Cal Raleigh,663728,3,0,2,False,2023-06-20,Stolen,2B,2023,2024,28.2
+120,7272,1B,2B,Stolen Base 2B,664056,Harrison Bader,682243,Bryce Miller,641343,Jake Bauers,R,Cal Raleigh,663728,0,1,2,True,2023-05-29,Stolen,2B,2023,2024,28.2
+121,7310,1B,2B,Stolen Base 2B,664056,Harrison Bader,506433,Yu Darvish,641432,Willie Calhoun,R,Austin Nola,543592,6,3,3,False,2023-05-28,Stolen,2B,2023,2024,28.2
+122,7341,1B,,Caught Stealing 2B,664056,Harrison Bader,608379,Michael Wacha,643396,Isiah Kiner-Falefa,R,Austin Nola,543592,1,1,4,False,2023-05-27,Caught,2B,2023,2024,28.2
+123,7378,1B,2B,Stolen Base 2B,664056,Harrison Bader,502043,Kyle Gibson,641432,Willie Calhoun,R,Adley Rutschman,668939,0,0,4,False,2023-05-25,Stolen,2B,2023,2024,28.2
+124,7499,1B,2B,Stolen Base 2B,664056,Harrison Bader,664139,Ian Gibaut,665828,Oswaldo Cabrera,R,Curt Casali,592200,4,7,10,True,2023-05-20,Stolen,2B,2023,2024,28.2
+125,7561,1B,2B,Stolen Base 2B,664056,Harrison Bader,605135,Chris Bassitt,641432,Willie Calhoun,R,Alejandro Kirk,672386,0,0,2,True,2023-05-17,Stolen,2B,2023,2024,28.2
+126,7624,1B,2B,Stolen Base 2B,664056,Harrison Bader,621107,Zach Eflin,641432,Willie Calhoun,R,Christian Bethancourt,542194,4,8,6,False,2023-05-14,Stolen,2B,2023,2024,28.2
+127,7741,1B,,Caught Stealing 2B,664056,Harrison Bader,607968,Drew Rucinski,641343,Jake Bauers,R,Shea Langeliers,669127,7,2,5,False,2023-05-09,Caught,2B,2023,2024,28.2
+128,511,2B,3B,Stolen Base 3B,664056,Harrison Bader,601713,Nick Pivetta,671056,Iván Herrera,R,Christian Vázquez,543877,1,1,4,True,2022-06-19,Stolen,3B,2022,2023,28.8
+129,597,1B,,Caught Stealing 2B,664056,Harrison Bader,669060,Bryse Wilson,668800,Andrew Knizner,R,Michael Pérez,605421,7,0,3,False,2022-06-14,Caught,2B,2022,2023,28.8
+130,800,1B,,Caught Stealing 2B,664056,Harrison Bader,668873,Caleb Kilian,425877,Yadier Molina,R,P.J. Higgins,664731,1,3,4,True,2022-06-04,Caught,2B,2022,2023,28.8
+131,818,1B,2B,Stolen Base 2B,664056,Harrison Bader,573186,Marcus Stroman,668800,Andrew Knizner,R,P.J. Higgins,664731,4,6,4,True,2022-06-03,Stolen,2B,2022,2023,28.8
+132,950,1B,2B,Stolen Base 2B,664056,Harrison Bader,605540,Brandon Woodruff,669242,Tommy Edman,R,Omar Narváez,553882,0,0,3,False,2022-05-27,Stolen,2B,2022,2023,28.8
+133,951,1B,2B,Stolen Base 2B,664056,Harrison Bader,608718,Brent Suter,669242,Tommy Edman,L,Omar Narváez,553882,4,0,7,False,2022-05-27,Stolen,2B,2022,2023,28.8
+134,1083,1B,2B,Stolen Base 2B,664056,Harrison Bader,605135,Chris Bassitt,668800,Andrew Knizner,R,Tomás Nido,621512,2,1,2,True,2022-05-19,Stolen,2B,2022,2023,28.8
+135,1085,1B,2B,Stolen Base 2B,664056,Harrison Bader,621242,Edwin Díaz,425877,Yadier Molina,R,Tomás Nido,621512,5,4,9,True,2022-05-19,Stolen,2B,2022,2023,28.8
+136,1123,1B,2B,Stolen Base 2B,664056,Harrison Bader,658431,Adonis Medina,668800,Andrew Knizner,R,Tomás Nido,621512,2,3,6,True,2022-05-17,Stolen,2B,2022,2023,28.8
+137,1127,1B,2B,Stolen Base 2B,664056,Harrison Bader,658431,Adonis Medina,668800,Andrew Knizner,R,Tomás Nido,621512,2,3,6,True,2022-05-16,Stolen,2B,2022,2023,28.8
+138,1137,1B,2B,Stolen Base 2B,664056,Harrison Bader,607074,Carlos Rodón,624641,Edmundo Sosa,L,Joey Bart,663698,6,0,4,False,2022-05-15,Stolen,2B,2022,2023,28.8
+139,1321,1B,2B,Stolen Base 2B,664056,Harrison Bader,657277,Logan Webb,657557,Paul DeJong,R,Joey Bart,663698,8,4,4,True,2022-05-07,Stolen,2B,2022,2023,28.8
+140,1437,1B,2B,Stolen Base 2B,664056,Harrison Bader,518876,Merrill Kelly,666185,Dylan Carlson,R,Carson Kelly,608348,0,0,2,False,2022-04-30,Stolen,2B,2022,2023,28.8
+141,1458,1B,2B,Stolen Base 2B,664056,Harrison Bader,656686,Corbin Martin,425877,Yadier Molina,R,Carson Kelly,608348,5,0,6,False,2022-04-28,Stolen,2B,2022,2023,28.8
+142,1554,1B,2B,Stolen Base 2B,664056,Harrison Bader,641816,Tyler Mahle,657557,Paul DeJong,R,Aramis Garcia,605244,0,0,2,True,2022-04-23,Stolen,2B,2022,2023,28.8
+143,1557,1B,2B,Stolen Base 2B,664056,Harrison Bader,519326,Hunter Strickland,657557,Paul DeJong,R,Aramis Garcia,605244,0,4,8,True,2022-04-23,Stolen,2B,2022,2023,28.8
+144,1558,2B,3B,Stolen Base 3B,664056,Harrison Bader,519326,Hunter Strickland,668800,Andrew Knizner,R,Aramis Garcia,605244,0,4,8,True,2022-04-23,Stolen,3B,2022,2023,28.8
+145,1705,1B,2B,Stolen Base 2B,664056,Harrison Bader,642547,Freddy Peralta,668800,Andrew Knizner,R,Omar Narváez,553882,0,4,1,True,2022-04-15,Stolen,2B,2022,2023,28.8
+146,264,1B,2B,Stolen Base 2B,664056,Harrison Bader,605232,Brandon Finnegan,657557,Paul DeJong,L,Tucker Barnhart,571466,4,1,3,False,2018-04-20,Stolen,2B,2018,2019,29.5
+147,293,1B,2B,Stolen Base 2B,664056,Harrison Bader,452657,Jon Lester,572761,Matt Carpenter,L,Willson Contreras,575929,0,0,1,True,2018-04-19,Stolen,2B,2018,2019,29.5
+148,294,1B,2B,Stolen Base 2B,664056,Harrison Bader,452657,Jon Lester,572761,Matt Carpenter,L,Willson Contreras,575929,0,0,1,True,2018-04-18,Stolen,2B,2018,2019,29.5
+149,362,1B,,Caught Stealing 2B,664056,Harrison Bader,456701,Homer Bailey,543939,Kolten Wong,R,Tucker Barnhart,571466,0,2,5,True,2018-04-15,Caught,2B,2018,2019,29.5
+150,381,1B,2B,Stolen Base 2B,664056,Harrison Bader,605232,Brandon Finnegan,594824,Greg Garcia,L,Tucker Barnhart,571466,0,4,4,True,2018-04-14,Stolen,2B,2018,2019,29.5
+151,683,1B,,Caught Stealing 2B,664056,Harrison Bader,627500,Jen-Ho Tseng,502054,Tommy Pham,R,Alex Avila,488671,1,1,10,False,2017-09-28,Caught,2B,2017,2018,30.0
+152,950,1B,2B,Stolen Base 2B,664056,Harrison Bader,623451,Jackson Stephens,545341,Randal Grichuk,R,Tucker Barnhart,571466,4,1,5,False,2017-09-14,Stolen,2B,2017,2018,30.0
+153,1112,1B,2B,Stolen Base 2B,664056,Harrison Bader,606131,Luis Perdomo,594824,Greg Garcia,R,Héctor Sánchez,516949,0,0,2,True,2017-09-04,Stolen,2B,2017,2018,30.0
+154,55,1B,,Caught Stealing 2B,664056,Harrison Bader,627500,Jen-Ho Tseng,502054,Tommy Pham,R,Alex Avila,488671,1,1,10,False,2017-09-28,Caught,2B,2017,2018,30.0
+155,322,1B,2B,Stolen Base 2B,664056,Harrison Bader,623451,Jackson Stephens,545341,Randal Grichuk,R,Tucker Barnhart,571466,4,1,5,False,2017-09-14,Stolen,2B,2017,2018,30.0
+156,484,1B,2B,Stolen Base 2B,664056,Harrison Bader,606131,Luis Perdomo,594824,Greg Garcia,R,Héctor Sánchez,516949,0,0,2,True,2017-09-04,Stolen,2B,2017,2018,30.0

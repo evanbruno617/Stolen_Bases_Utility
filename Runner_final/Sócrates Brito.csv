@@ -1,0 +1,10 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,5018,2B,3B,Stolen Base 3B,593647,Sócrates Brito,592789,Noah Syndergaard,488912,Tuffy Gosewisch,R,René Rivera,425784,0,2,4,True,2016-08-11,Stolen,3B,2016,2018,29.9
+1,7249,1B,2B,Stolen Base 2B,593647,Sócrates Brito,548389,Ross Stripling,502671,Paul Goldschmidt,R,A.J. Ellis,454560,0,1,6,True,2016-04-14,Stolen,2B,2016,2018,29.9
+2,7475,1B,2B,Stolen Base 2B,593647,Sócrates Brito,518633,Danny Duffy,502671,Paul Goldschmidt,L,Salvador Perez,521692,5,2,4,False,2016-04-01,Stolen,2B,2016,2018,29.9
+3,983,2B,3B,Stolen Base 3B,593647,Sócrates Brito,592789,Noah Syndergaard,488912,Tuffy Gosewisch,R,René Rivera,425784,0,2,4,True,2016-08-11,Stolen,3B,2016,2018,29.9
+4,3214,1B,2B,Stolen Base 2B,593647,Sócrates Brito,548389,Ross Stripling,502671,Paul Goldschmidt,R,A.J. Ellis,454560,0,1,6,True,2016-04-14,Stolen,2B,2016,2018,29.9
+5,3440,1B,2B,Stolen Base 2B,593647,Sócrates Brito,518633,Danny Duffy,502671,Paul Goldschmidt,L,Salvador Perez,521692,5,2,4,False,2016-04-01,Stolen,2B,2016,2018,29.9
+6,4390,2B,3B,Stolen Base 3B,593647,Sócrates Brito,592789,Noah Syndergaard,488912,Tuffy Gosewisch,R,René Rivera,425784,0,2,4,True,2016-08-11,Stolen,3B,2016,2018,29.9
+7,6621,1B,2B,Stolen Base 2B,593647,Sócrates Brito,548389,Ross Stripling,502671,Paul Goldschmidt,R,A.J. Ellis,454560,0,1,6,True,2016-04-14,Stolen,2B,2016,2018,29.9
+8,6847,1B,2B,Stolen Base 2B,593647,Sócrates Brito,518633,Danny Duffy,502671,Paul Goldschmidt,L,Salvador Perez,521692,5,2,4,False,2016-04-01,Stolen,2B,2016,2018,29.9

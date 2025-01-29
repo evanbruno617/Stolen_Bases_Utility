@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1126,2B,3B,Stolen Base 3B,669911,Michael Toglia,666818,Luis Frías,660707,Elehuris Montero,R,Gabriel Moreno,672515,3,3,7,False,2023-08-15,Stolen,3B,2023,2024,27.4
+1,1728,1B,,Caught Stealing 2B,669911,Michael Toglia,656232,Brandon Bielak,605612,Harold Castro,R,Martín Maldonado,455117,0,1,5,False,2023-07-19,Caught,2B,2023,2024,27.4
+2,5540,2B,3B,Stolen Base 3B,669911,Michael Toglia,666818,Luis Frías,660707,Elehuris Montero,R,Gabriel Moreno,672515,3,3,7,False,2023-08-15,Stolen,3B,2023,2024,27.4
+3,6142,1B,,Caught Stealing 2B,669911,Michael Toglia,656232,Brandon Bielak,605612,Harold Castro,R,Martín Maldonado,455117,0,1,5,False,2023-07-19,Caught,2B,2023,2024,27.4

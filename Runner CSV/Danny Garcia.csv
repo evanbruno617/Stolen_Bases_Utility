@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1022,1B,2B,Stolen Base 2B,430162,Danny Garcia,Brad Ausmus,4,4,9,False,2004-08-11,Stolen,2B,2004
+2448,1B,2B,Stolen Base 2B,430162,Danny Garcia,Ramon Castro,1,1,4,True,2004-05-29,Stolen,2B,2004
+2892,1B,2B,Stolen Base 2B,430162,Danny Garcia,Yorvit Torrealba,0,0,5,False,2004-05-06,Stolen,2B,2004

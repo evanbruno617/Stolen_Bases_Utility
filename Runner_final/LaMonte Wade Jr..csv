@@ -1,0 +1,22 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,431,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,641729,Joe Jiménez,518626,Josh Donaldson,R,Austin Romine,519222,5,2,7,False,2020-09-07,Stolen,2B,2020,2021,26.5
+1,3274,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,641729,Joe Jiménez,518626,Josh Donaldson,R,Austin Romine,519222,5,2,7,False,2020-09-07,Stolen,2B,2020,2021,26.5
+2,5198,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,641729,Joe Jiménez,518626,Josh Donaldson,R,Austin Romine,519222,5,2,7,False,2020-09-07,Stolen,2B,2020,2021,26.5
+3,128,1B,,Caught Stealing 2B,664774,LaMonte Wade Jr.,622503,Nabil Crismatt,592178,Kris Bryant,R,Victor Caratini,605170,1,8,7,True,2021-09-22,Caught,2B,2021,2022,25.9
+4,418,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,595014,Blake Treinen,573262,Mike Yastrzemski,R,Will Smith,669257,1,4,7,False,2021-09-04,Stolen,2B,2021,2022,25.9
+5,506,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,666120,Ian Anderson,600303,Tommy La Stella,R,Stephen Vogt,519390,0,0,3,True,2021-08-29,Stolen,2B,2021,2022,25.9
+6,523,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,660623,Huascar Ynoa,457763,Buster Posey,R,Travis d'Arnaud,518595,0,2,3,True,2021-08-28,Stolen,2B,2021,2022,25.9
+7,1085,2B,3B,Stolen Base 3B,664774,LaMonte Wade Jr.,621111,Walker Buehler,457763,Buster Posey,R,Will Smith,669257,0,0,1,True,2021-07-22,Stolen,3B,2021,2022,25.9
+8,1648,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,518876,Merrill Kelly,573262,Mike Yastrzemski,R,Stephen Vogt,519390,0,2,1,False,2021-06-16,Stolen,2B,2021,2022,25.9
+9,1909,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,669952,Mitch White,543063,Brandon Crawford,R,Will Smith,669257,4,7,7,True,2021-05-29,Stolen,2B,2021,2022,25.9
+10,2052,1B,,Caught Stealing 2B,664774,LaMonte Wade Jr.,622503,Nabil Crismatt,592178,Kris Bryant,R,Victor Caratini,605170,1,8,7,True,2021-09-22,Caught,2B,2021,2022,25.9
+11,2342,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,595014,Blake Treinen,573262,Mike Yastrzemski,R,Will Smith,669257,1,4,7,False,2021-09-04,Stolen,2B,2021,2022,25.9
+12,2430,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,666120,Ian Anderson,600303,Tommy La Stella,R,Stephen Vogt,519390,0,0,3,True,2021-08-29,Stolen,2B,2021,2022,25.9
+13,2447,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,660623,Huascar Ynoa,457763,Buster Posey,R,Travis d'Arnaud,518595,0,2,3,True,2021-08-28,Stolen,2B,2021,2022,25.9
+14,3009,2B,3B,Stolen Base 3B,664774,LaMonte Wade Jr.,621111,Walker Buehler,457763,Buster Posey,R,Will Smith,669257,0,0,1,True,2021-07-22,Stolen,3B,2021,2022,25.9
+15,3572,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,518876,Merrill Kelly,573262,Mike Yastrzemski,R,Stephen Vogt,519390,0,2,1,False,2021-06-16,Stolen,2B,2021,2022,25.9
+16,3833,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,669952,Mitch White,543063,Brandon Crawford,R,Will Smith,669257,4,7,7,True,2021-05-29,Stolen,2B,2021,2022,25.9
+17,2956,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,527054,Julio Teheran,642731,Thairo Estrada,R,Victor Caratini,605170,0,1,5,True,2023-05-25,Stolen,2B,2023,2024,25.2
+18,4243,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,657376,Clarke Schmidt,642731,Thairo Estrada,R,Jose Trevino,624431,0,0,1,True,2023-04-01,Stolen,2B,2023,2024,25.2
+19,7370,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,527054,Julio Teheran,642731,Thairo Estrada,R,Victor Caratini,605170,0,1,5,True,2023-05-25,Stolen,2B,2023,2024,25.2
+20,8657,1B,2B,Stolen Base 2B,664774,LaMonte Wade Jr.,657376,Clarke Schmidt,642731,Thairo Estrada,R,Jose Trevino,624431,0,0,1,True,2023-04-01,Stolen,2B,2023,2024,25.2

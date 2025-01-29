@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3360,1B,2B,Stolen Base 2B,669701,Josh Smith,606965,Chris Devenski,543760,Marcus Semien,R,Matt Thaiss,642136,7,12,7,True,2023-05-07,Stolen,2B,2023,2024,27.6
+1,7774,1B,2B,Stolen Base 2B,669701,Josh Smith,606965,Chris Devenski,543760,Marcus Semien,R,Matt Thaiss,642136,7,12,7,True,2023-05-07,Stolen,2B,2023,2024,27.6
+2,275,1B,,Caught Stealing 2B,669701,Josh Smith,658431,Adonis Medina,543760,Marcus Semien,R,Tomás Nido,621512,3,5,5,True,2022-07-02,Caught,2B,2022,2023,28.5
+3,410,1B,2B,Stolen Base 2B,669701,Josh Smith,680686,Josiah Gray,665750,Leody Taveras,R,Keibert Ruiz,660688,2,2,7,False,2022-06-25,Stolen,2B,2022,2023,28.5
+4,863,1B,2B,Stolen Base 2B,669701,Josh Smith,642232,Ryan Yarbrough,642201,Eli White,L,Mike Zunino,572287,0,0,3,False,2022-05-31,Stolen,2B,2022,2023,28.5

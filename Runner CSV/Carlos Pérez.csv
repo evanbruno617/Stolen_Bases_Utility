@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+455,3B,score,Caught Stealing 2B,542208,Carlos Pérez,Chris Gimenez,5,0,4,False,2015-09-06,Caught,2B,2015
+766,1B,2B,Stolen Base 2B,542208,Carlos Pérez,Tyler Flowers,0,0,4,False,2015-08-19,Stolen,2B,2015
+1169,1B,2B,Stolen Base 2B,542208,Carlos Pérez,Hank Conger,0,1,3,True,2015-07-29,Stolen,2B,2015
+1633,1B,2B,Stolen Base 2B,542208,Carlos Pérez,Yasmani Grandal,2,4,4,True,2016-05-16,Stolen,2B,2016
+2065,1B,2B,Stolen Base 2B,542208,Carlos Pérez,Max Stassi,4,6,3,False,2018-06-10,Stolen,2B,2018

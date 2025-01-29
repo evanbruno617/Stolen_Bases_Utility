@@ -1,0 +1,3 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,,Caught Stealing 2B,581680,Chantz Mack,Wilkyns Jimenez,2,1,4,True,2016-04-02,Caught,2B,2016
+1B,2B,Stolen Base 2B,572846,Arby Fields,Wilkyns Jimenez,3,6,7,True,2016-04-02,Stolen,2B,2016

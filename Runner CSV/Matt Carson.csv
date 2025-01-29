@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+45,1B,2B,Stolen Base 2B,454998,Matt Carson,Jeff Mathis,1,1,8,True,2010-09-29,Stolen,2B,2010
+469,1B,2B,Stolen Base 2B,454998,Matt Carson,Adam Moore,2,3,6,False,2010-09-08,Stolen,2B,2010
+587,1B,2B,Stolen Base 2B,454998,Matt Carson,Mike Napoli,1,0,6,False,2010-09-03,Stolen,2B,2010
+1430,1B,2B,Stolen Base 2B,454998,Matt Carson,A.J. Pierzynski,6,4,8,False,2010-07-25,Stolen,2B,2010
+83,1B,2B,Stolen Base 2B,454998,Matt Carson,Josh Phegley,5,2,7,False,2013-09-25,Stolen,2B,2013
+295,1B,2B,Stolen Base 2B,454998,Matt Carson,Josh Phegley,1,6,8,True,2013-09-15,Stolen,2B,2013
+469,1B,2B,Stolen Base 2B,454998,Matt Carson,Travis d'Arnaud,9,4,7,False,2013-09-07,Stolen,2B,2013

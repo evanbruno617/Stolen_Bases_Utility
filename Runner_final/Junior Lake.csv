@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,812,1B,2B,Stolen Base 2B,516809,Junior Lake,434671,Aníbal Sánchez,424325,David Ross,R,James McCann,543510,3,0,5,True,2015-06-09,Stolen,2B,2015,2016,29.1
+1,915,2B,3B,Stolen Base 3B,516809,Junior Lake,461829,Gio González,453562,Jake Arrieta,L,Jose Lobaton,446653,0,2,4,True,2015-06-04,Stolen,3B,2015,2016,29.1
+2,1054,2B,3B,Stolen Base 3B,516809,Junior Lake,453286,Max Scherzer,452657,Jon Lester,R,Wilson Ramos,467092,0,1,4,False,2015-05-27,Stolen,3B,2015,2016,29.1
+3,1557,1B,2B,Stolen Base 2B,516809,Junior Lake,462515,Miguel Socolovich,456078,Welington Castillo,R,Tony Cruz,488810,6,8,7,True,2015-05-04,Stolen,2B,2015,2016,29.1

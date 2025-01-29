@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+381,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,Patrick Bailey,1,0,1,False,2023-09-16,Stolen,2B,2023
+643,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,Gabriel Moreno,1,1,3,True,2023-09-05,Stolen,2B,2023
+644,2B,3B,Stolen Base 3B,678662,Ezequiel Tovar,Gabriel Moreno,1,2,3,True,2023-09-05,Stolen,3B,2023
+874,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,James McCann,0,1,4,True,2023-08-27,Stolen,2B,2023
+1117,1B,,Caught Stealing 2B,678662,Ezequiel Tovar,Jose Herrera,1,2,1,False,2023-08-16,Caught,2B,2023
+1194,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,Austin Barnes,3,1,6,True,2023-08-12,Stolen,2B,2023
+1282,2B,3B,Stolen Base 3B,678662,Ezequiel Tovar,Victor Caratini,0,0,1,True,2023-08-08,Stolen,3B,2023
+1615,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,Keibert Ruiz,0,2,6,True,2023-07-24,Stolen,2B,2023
+2122,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,Austin Barnes,1,2,3,False,2023-06-29,Stolen,2B,2023
+2203,1B,,Caught Stealing 2B,678662,Ezequiel Tovar,Chad Wallach,4,2,7,False,2023-06-25,Caught,2B,2023
+2433,1B,,Caught Stealing 2B,678662,Ezequiel Tovar,Travis d'Arnaud,0,0,1,True,2023-06-16,Caught,2B,2023
+2745,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,Salvador Perez,1,5,2,True,2023-06-03,Stolen,2B,2023
+2905,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,Francisco Alvarez,6,6,6,False,2023-05-27,Stolen,2B,2023
+3307,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,Austin Hedges,3,0,4,True,2023-05-10,Stolen,2B,2023
+3469,1B,,Caught Stealing 2B,678662,Ezequiel Tovar,William Contreras,0,0,3,False,2023-05-03,Caught,2B,2023
+4025,3B,score,Caught Stealing 2B,678662,Ezequiel Tovar,Willson Contreras,2,0,3,False,2023-04-10,Caught,2B,2023

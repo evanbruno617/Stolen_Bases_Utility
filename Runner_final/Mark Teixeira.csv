@@ -1,0 +1,2 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1002,1B,2B,Stolen Base 2B,407893,Mark Teixeira,504186,Arnold Leon,435263,Brian McCann,R,Stephen Vogt,519390,3,4,8,True,2015-05-30,Stolen,2B,2015,2016,24.5

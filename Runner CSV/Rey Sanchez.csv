@@ -1,0 +1,25 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+185,2B,,Caught Stealing 3B,121663,Rey Sanchez,Sandy Alomar Jr.,1,2,3,False,2000-09-22,Caught,3B,2000
+263,1B,2B,Stolen Base 2B,121663,Rey Sanchez,Matt Walbeck,1,0,3,False,2000-09-19,Stolen,2B,2000
+828,1B,2B,Stolen Base 2B,121663,Rey Sanchez,Scott Hatteberg,6,1,5,False,2000-08-27,Stolen,2B,2000
+945,1B,2B,Stolen Base 2B,121663,Rey Sanchez,Darrin Fletcher,0,2,3,True,2000-08-22,Stolen,2B,2000
+1146,1B,2B,Stolen Base 2B,121663,Rey Sanchez,Brook Fordyce,8,8,8,False,2000-08-12,Stolen,2B,2000
+1350,1B,2B,Stolen Base 2B,121663,Rey Sanchez,Jason Varitek,0,1,5,True,2000-08-04,Stolen,2B,2000
+1407,1B,,Caught Stealing 2B,121663,Rey Sanchez,Jorge Posada,0,0,1,True,2000-08-01,Caught,2B,2000
+3245,1B,,Caught Stealing 2B,121663,Rey Sanchez,Brad Ausmus,1,1,8,True,2000-05-08,Caught,2B,2000
+3383,1B,2B,Stolen Base 2B,121663,Rey Sanchez,Ramon Hernandez,5,5,4,False,2000-05-02,Stolen,2B,2000
+3385,1B,2B,Stolen Base 2B,121663,Rey Sanchez,Ramon Hernandez,7,7,10,False,2000-05-02,Stolen,2B,2000
+401,2B,3B,Stolen Base 3B,121663,Rey Sanchez,Jason Varitek,4,1,5,False,2001-05-19,Stolen,3B,2001
+487,2B,3B,Stolen Base 3B,121663,Rey Sanchez,Mike DiFelice,4,5,7,False,2001-05-16,Stolen,3B,2001
+542,1B,2B,Stolen Base 2B,121663,Rey Sanchez,A.J. Pierzynski,0,0,3,True,2001-05-14,Stolen,2B,2001
+1270,1B,2B,Stolen Base 2B,121663,Rey Sanchez,Darrin Fletcher,0,0,1,True,2001-04-15,Stolen,2B,2001
+1359,1B,2B,Stolen Base 2B,121663,Rey Sanchez,Joe Oliver,4,5,5,False,2001-04-11,Stolen,2B,2001
+1429,1B,2B,Stolen Base 2B,121663,Rey Sanchez,A.J. Pierzynski,5,3,8,False,2001-04-07,Stolen,2B,2001
+680,1B,,Caught Stealing 2B,121663,Rey Sanchez,Jorge Posada,0,0,3,False,2002-08-27,Caught,2B,2002
+1678,2B,3B,Stolen Base 3B,121663,Rey Sanchez,Ken Huckaby,0,3,3,True,2002-07-11,Stolen,3B,2002
+2967,1B,,Caught Stealing 2B,121663,Rey Sanchez,Ben Davis,1,5,6,True,2002-05-12,Caught,2B,2002
+3723,2B,3B,Stolen Base 3B,121663,Rey Sanchez,A.J. Hinch,4,1,4,False,2002-04-11,Stolen,3B,2002
+1125,1B,2B,Stolen Base 2B,121663,Rey Sanchez,Sandy Alomar Jr.,2,0,5,False,2003-08-02,Stolen,2B,2003
+2338,1B,2B,Stolen Base 2B,121663,Rey Sanchez,Henry Blanco,7,4,6,False,2003-06-01,Stolen,2B,2003
+3529,1B,,Caught Stealing 2B,121663,Rey Sanchez,Brian Schneider,2,0,4,False,2003-04-04,Caught,2B,2003
+3155,1B,,Caught Stealing 2B,121663,Rey Sanchez,Miguel Olivo,1,2,5,True,2004-04-23,Caught,2B,2004

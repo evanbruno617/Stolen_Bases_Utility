@@ -1,0 +1,24 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+39,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,Erik Kratz,5,5,6,True,2018-09-29,Stolen,2B,2018
+1159,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,Jonathan Lucroy,0,0,10,True,2018-08-03,Stolen,2B,2018
+1694,1B,,Caught Stealing 2B,600869,Jeimer Candelario,Luke Maile,1,2,9,True,2018-07-02,Caught,2B,2018
+1721,1B,,Caught Stealing 2B,600869,Jeimer Candelario,Luke Maile,0,0,1,True,2018-06-30,Caught,2B,2018
+2187,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,Russell Martin,0,0,4,False,2018-06-03,Stolen,2B,2018
+1452,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,Kurt Suzuki,1,2,6,False,2019-06-28,Stolen,2B,2019
+1937,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,Brian McCann,1,5,6,True,2019-05-31,Stolen,2B,2019
+2541,1B,,Caught Stealing 2B,600869,Jeimer Candelario,Christian Vázquez,0,0,1,True,2019-04-23,Caught,2B,2019
+2903,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,Gary Sánchez,1,1,4,True,2019-04-03,Stolen,2B,2019
+500,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,Alex Avila,0,0,2,False,2020-09-04,Stolen,2B,2020
+596,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,Alex Avila,0,0,2,False,2020-08-28,Stolen,2B,2020
+624,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,Alex Avila,0,0,2,False,2020-08-27,Stolen,2B,2020
+675,1B,,Caught Stealing 2B,600869,Jeimer Candelario,Willson Contreras,2,0,5,False,2020-08-25,Caught,2B,2020
+1570,2B,,Caught Stealing 3B,600869,Jeimer Candelario,Sandy León,2,0,1,False,2022-07-04,Caught,3B,2022
+1132,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,Yasmani Grandal,3,3,6,False,2023-08-15,Stolen,2B,2023
+1325,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,Travis d'Arnaud,0,0,2,False,2023-08-06,Stolen,2B,2023
+1500,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,Omar Narváez,0,1,1,True,2023-07-30,Stolen,2B,2023
+1961,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,Curt Casali,2,1,5,False,2023-07-06,Stolen,2B,2023
+2159,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,Tom Murphy,0,3,3,True,2023-06-28,Stolen,2B,2023
+2167,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,Cal Raleigh,0,1,1,True,2023-06-27,Stolen,2B,2023
+2442,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,Martín Maldonado,0,0,8,True,2023-06-15,Stolen,2B,2023
+2508,1B,,Caught Stealing 2B,600869,Jeimer Candelario,Martín Maldonado,0,0,4,True,2023-06-13,Caught,2B,2023
+2814,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,Will Smith,4,5,7,True,2023-05-31,Stolen,2B,2023

@@ -1,0 +1,19 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,502226,Craig Gentry,Cody Clark,0,0,3,False,2013-09-25,Stolen,2B,2013
+1B,2B,Stolen Base 2B,462101,Elvis Andrus,Cody Clark,1,0,3,False,2013-09-25,Stolen,2B,2013
+2B,3B,Stolen Base 3B,452678,Asdrúbal Cabrera,Cody Clark,4,0,5,False,2013-09-21,Stolen,3B,2013
+1B,,Caught Stealing 2B,488726,Michael Brantley,Cody Clark,1,1,9,False,2013-09-19,Caught,2B,2013
+1B,2B,Stolen Base 2B,571740,Billy Hamilton,Cody Clark,1,3,4,True,2013-09-18,Stolen,2B,2013
+1B,2B,Stolen Base 2B,571740,Billy Hamilton,Cody Clark,2,4,6,True,2013-09-18,Stolen,2B,2013
+1B,2B,Stolen Base 2B,571740,Billy Hamilton,Cody Clark,4,4,9,True,2013-09-18,Stolen,2B,2013
+1B,2B,Stolen Base 2B,571740,Billy Hamilton,Cody Clark,4,4,13,True,2013-09-18,Stolen,2B,2013
+1B,2B,Stolen Base 2B,453943,Todd Frazier,Cody Clark,0,5,3,True,2013-09-17,Stolen,2B,2013
+1B,2B,Stolen Base 2B,501961,Derrick Robinson,Cody Clark,0,5,4,True,2013-09-17,Stolen,2B,2013
+2B,3B,Stolen Base 3B,493316,Yoenis Cespedes,Cody Clark,1,0,6,False,2013-09-07,Stolen,3B,2013
+2B,3B,Stolen Base 3B,518626,Josh Donaldson,Cody Clark,5,4,4,False,2013-09-06,Stolen,3B,2013
+1B,,Caught Stealing 2B,502100,Alex Presley,Cody Clark,6,6,10,True,2013-09-03,Caught,2B,2013
+1B,,Caught Stealing 2B,543543,Brad Miller,Cody Clark,1,3,5,True,2013-08-31,Caught,2B,2013
+1B,,Caught Stealing 2B,541645,Avisaíl García,Cody Clark,1,0,4,False,2013-08-28,Caught,2B,2013
+1B,2B,Stolen Base 2B,544725,Leury García,Cody Clark,1,1,7,False,2013-08-28,Stolen,2B,2013
+1B,,Caught Stealing 2B,607680,Kevin Pillar,Cody Clark,1,0,5,True,2013-08-25,Caught,2B,2013
+1B,,Caught Stealing 2B,408314,José Reyes,Cody Clark,1,0,8,True,2013-08-25,Caught,2B,2013

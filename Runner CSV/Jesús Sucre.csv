@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1308,1B,2B,Stolen Base 2B,491696,Jesús Sucre,Jonathan Lucroy,4,2,4,False,2017-07-23,Stolen,2B,2017
+3009,1B,2B,Stolen Base 2B,491696,Jesús Sucre,Brian McCann,4,0,1,False,2017-04-23,Stolen,2B,2017
+3066,1B,2B,Stolen Base 2B,491696,Jesús Sucre,Andrew Knapp,3,5,6,False,2018-04-15,Stolen,2B,2018

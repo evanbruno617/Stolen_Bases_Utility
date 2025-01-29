@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,7092,1B,2B,Stolen Base 2B,519237,Cameron Rupp,605200,Zach Davies,518953,David Lough,R,Jonathan Lucroy,518960,1,4,5,True,2016-04-22,Stolen,2B,2016,2017,24.9
+1,3057,1B,2B,Stolen Base 2B,519237,Cameron Rupp,605200,Zach Davies,518953,David Lough,R,Jonathan Lucroy,518960,1,4,5,True,2016-04-22,Stolen,2B,2016,2017,24.9
+2,6464,1B,2B,Stolen Base 2B,519237,Cameron Rupp,605200,Zach Davies,518953,David Lough,R,Jonathan Lucroy,518960,1,4,5,True,2016-04-22,Stolen,2B,2016,2017,24.9

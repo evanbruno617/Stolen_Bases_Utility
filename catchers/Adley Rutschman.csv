@@ -1,0 +1,147 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,,Caught Stealing 2B,665926,Andrés Giménez,502043,Kyle Gibson,681807,David Fry,R,Adley Rutschman,668939,1,5,7,False,2023-09-24,Caught,2B,2023,2024, 84.5, 0.69
+1,1B,2B,Stolen Base 2B,686823,Will Brennan,605347,Jorge López,681807,David Fry,R,Adley Rutschman,668939,7,6,7,False,2023-09-22,Stolen,2B,2023,2024, 84.5, 0.69
+2,1B,2B,Stolen Base 2B,608070,José Ramírez,680570,Grayson Rodriguez,647304,Josh Naylor,R,Adley Rutschman,668939,0,0,3,False,2023-09-21,Stolen,2B,2023,2024, 84.5, 0.69
+3,1B,2B,Stolen Base 2B,647304,Josh Naylor,672335,Cionel Pérez,671289,Tyler Freeman,L,Adley Rutschman,668939,2,2,8,False,2023-09-21,Stolen,2B,2023,2024, 84.5, 0.69
+4,1B,,Caught Stealing 2B,676801,Chas McCormick,680694,Kyle Bradish,455117,Martín Maldonado,R,Adley Rutschman,668939,0,1,3,False,2023-09-20,Caught,2B,2023,2024, 84.5, 0.69
+5,1B,2B,Stolen Base 2B,676801,Chas McCormick,660261,Shintaro Fujinami,665161,Jeremy Peña,R,Adley Rutschman,668939,3,3,6,False,2023-09-18,Stolen,2B,2023,2024, 84.5, 0.69
+6,2B,3B,Stolen Base 3B,663457,Lars Nootbaar,665152,Dean Kremer,502671,Paul Goldschmidt,R,Adley Rutschman,668939,2,1,3,True,2023-09-11,Stolen,3B,2023,2024, 84.5, 0.69
+7,1B,2B,Stolen Base 2B,678882,Ceddanne Rafaela,607216,Joey Krehbiel,457759,Justin Turner,R,Adley Rutschman,668939,7,3,8,False,2023-09-10,Stolen,2B,2023,2024, 84.5, 0.69
+8,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,665152,Dean Kremer,650391,Eloy Jiménez,R,Adley Rutschman,668939,0,1,4,True,2023-08-29,Stolen,2B,2023,2024, 84.5, 0.69
+9,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,642585,Félix Bautista,665742,Juan Soto,R,Adley Rutschman,668939,1,4,9,False,2023-08-14,Stolen,2B,2023,2024, 84.5, 0.69
+10,1B,,Caught Stealing 2B,687799,Cade Marlowe,642585,Félix Bautista,668942,Josh Rojas,R,Adley Rutschman,668939,0,0,9,False,2023-08-12,Caught,2B,2023,2024, 84.5, 0.69
+11,1B,2B,Stolen Base 2B,514888,Jose Altuve,657508,Mike Baumann,608324,Alex Bregman,R,Adley Rutschman,668939,2,7,8,True,2023-08-09,Stolen,2B,2023,2024, 84.5, 0.69
+12,1B,2B,Stolen Base 2B,664056,Harrison Bader,669330,Tyler Wells,683011,Anthony Volpe,R,Adley Rutschman,668939,0,1,2,True,2023-07-29,Stolen,2B,2023,2024, 84.5, 0.69
+13,1B,2B,Stolen Base 2B,683011,Anthony Volpe,641329,Bryan Baker,543309,Kyle Higashioka,R,Adley Rutschman,668939,3,8,7,True,2023-07-29,Stolen,2B,2023,2024, 84.5, 0.69
+14,1B,2B,Stolen Base 2B,666139,Josh Lowe,502043,Kyle Gibson,670764,Taylor Walls,R,Adley Rutschman,668939,1,3,4,False,2023-07-20,Stolen,2B,2023,2024, 84.5, 0.69
+15,2B,3B,Stolen Base 3B,500743,Miguel Rojas,672335,Cionel Pérez,605141,Mookie Betts,L,Adley Rutschman,668939,1,6,7,True,2023-07-18,Stolen,3B,2023,2024, 84.5, 0.69
+16,1B,2B,Stolen Base 2B,681546,James Outman,672335,Cionel Pérez,605141,Mookie Betts,L,Adley Rutschman,668939,1,6,7,True,2023-07-18,Stolen,2B,2023,2024, 84.5, 0.69
+17,2B,3B,Stolen Base 2B,681546,James Outman,672335,Cionel Pérez,605141,Mookie Betts,L,Adley Rutschman,668939,1,6,7,True,2023-07-18,Stolen,2B,2023,2024, 84.5, 0.69
+18,1B,,Caught Stealing 2B,545350,Jake Marisnick,663989,Nick Vespi,500743,Miguel Rojas,L,Adley Rutschman,668939,4,6,8,True,2023-07-17,Caught,2B,2023,2024, 84.5, 0.69
+19,1B,,Caught Stealing 2B,650333,Luis Arraez,669923,George Kirby,682998,Corbin Carroll,R,Adley Rutschman,668939,1,1,4,True,2023-07-11,Caught,2B,2023,2024, 84.5, 0.69
+20,1B,2B,Stolen Base 2B,669257,Will Smith,445276,Kenley Jansen,666971,Lourdes Gurriel Jr.,R,Adley Rutschman,668939,2,3,8,True,2023-07-11,Stolen,2B,2023,2024, 84.5, 0.69
+21,1B,,Caught Stealing 2B,572191,Michael A. Taylor,657508,Mike Baumann,621043,Carlos Correa,R,Adley Rutschman,668939,0,1,7,True,2023-07-01,Caught,2B,2023,2024, 84.5, 0.69
+22,1B,2B,Stolen Base 2B,670770,TJ Friedl,502043,Kyle Gibson,680574,Matt McLain,R,Adley Rutschman,668939,0,0,1,True,2023-06-28,Stolen,2B,2023,2024, 84.5, 0.69
+23,1B,2B,Stolen Base 2B,668715,Spencer Steer,657508,Mike Baumann,663886,Tyler Stephenson,R,Adley Rutschman,668939,4,6,5,True,2023-06-28,Stolen,2B,2023,2024, 84.5, 0.69
+24,1B,2B,Stolen Base 2B,670770,TJ Friedl,657508,Mike Baumann,663697,Jonathan India,R,Adley Rutschman,668939,4,6,6,True,2023-06-28,Stolen,2B,2023,2024, 84.5, 0.69
+25,1B,2B,Stolen Base 2B,666181,Will Benson,666974,Yennier Cano,670770,TJ Friedl,R,Adley Rutschman,668939,4,6,8,True,2023-06-28,Stolen,2B,2023,2024, 84.5, 0.69
+26,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,642585,Félix Bautista,669222,Nick Senzel,R,Adley Rutschman,668939,7,7,9,True,2023-06-28,Stolen,2B,2023,2024, 84.5, 0.69
+27,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,665152,Dean Kremer,664034,Ty France,R,Adley Rutschman,668939,1,2,3,True,2023-06-24,Stolen,2B,2023,2024, 84.5, 0.69
+28,1B,2B,Stolen Base 2B,672284,Jarred Kelenic,665152,Dean Kremer,553993,Eugenio Suárez,R,Adley Rutschman,668939,3,3,6,True,2023-06-24,Stolen,2B,2023,2024, 84.5, 0.69
+29,1B,2B,Stolen Base 2B,676609,José Caballero,502043,Kyle Gibson,672284,Jarred Kelenic,R,Adley Rutschman,668939,0,5,3,True,2023-06-23,Stolen,2B,2023,2024, 84.5, 0.69
+30,1B,2B,Stolen Base 2B,643565,Mike Tauchman,665152,Dean Kremer,673548,Seiya Suzuki,R,Adley Rutschman,668939,3,2,5,False,2023-06-18,Stolen,2B,2023,2024, 84.5, 0.69
+31,2B,3B,Stolen Base 3B,670156,Miles Mastrobuoni,666974,Yennier Cano,663538,Nico Hoerner,R,Adley Rutschman,668939,3,5,7,False,2023-06-18,Stolen,3B,2023,2024, 84.5, 0.69
+32,1B,2B,Stolen Base 2B,663611,Nick Madrigal,666974,Yennier Cano,663538,Nico Hoerner,R,Adley Rutschman,668939,3,5,7,False,2023-06-18,Stolen,2B,2023,2024, 84.5, 0.69
+33,1B,2B,Stolen Base 2B,662139,Daulton Varsho,680694,Kyle Bradish,665489,Vladimir Guerrero Jr.,R,Adley Rutschman,668939,0,0,4,True,2023-06-14,Stolen,2B,2023,2024, 84.5, 0.69
+34,1B,,Caught Stealing 2B,593160,Whit Merrifield,680694,Kyle Bradish,624415,Cavan Biggio,R,Adley Rutschman,668939,0,0,5,True,2023-06-14,Caught,2B,2023,2024, 84.5, 0.69
+35,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,543056,Danny Coulombe,593160,Whit Merrifield,L,Adley Rutschman,668939,0,2,8,True,2023-06-14,Stolen,2B,2023,2024, 84.5, 0.69
+36,2B,3B,Stolen Base 3B,593160,Whit Merrifield,543056,Danny Coulombe,669289,Santiago Espinal,L,Adley Rutschman,668939,0,2,8,True,2023-06-14,Stolen,3B,2023,2024, 84.5, 0.69
+37,1B,,Caught Stealing 2B,677951,Bobby Witt Jr.,641329,Bryan Baker,672580,Maikel Garcia,R,Adley Rutschman,668939,4,1,6,True,2023-06-10,Caught,2B,2023,2024, 84.5, 0.69
+38,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,669330,Tyler Wells,672580,Maikel Garcia,R,Adley Rutschman,668939,2,1,4,True,2023-06-09,Stolen,2B,2023,2024, 84.5, 0.69
+39,1B,2B,Stolen Base 2B,592885,Christian Yelich,543056,Danny Coulombe,661388,William Contreras,L,Adley Rutschman,668939,2,3,7,False,2023-06-06,Stolen,2B,2023,2024, 84.5, 0.69
+40,2B,3B,Stolen Base 3B,592885,Christian Yelich,543056,Danny Coulombe,642133,Rowdy Tellez,L,Adley Rutschman,668939,2,3,7,False,2023-06-06,Stolen,3B,2023,2024, 84.5, 0.69
+41,1B,2B,Stolen Base 2B,663368,Blake Perkins,666974,Yennier Cano,668930,Brice Turang,R,Adley Rutschman,668939,3,3,8,False,2023-06-06,Stolen,2B,2023,2024, 84.5, 0.69
+42,1B,2B,Stolen Base 2B,668930,Brice Turang,666974,Yennier Cano,686894,Joey Wiemer,R,Adley Rutschman,668939,3,3,8,False,2023-06-06,Stolen,2B,2023,2024, 84.5, 0.69
+43,1B,2B,Stolen Base 2B,680757,Steven Kwan,571710,Mychal Givens,642708,Amed Rosario,R,Adley Rutschman,668939,7,6,5,True,2023-05-31,Stolen,2B,2023,2024, 84.5, 0.69
+44,2B,3B,Stolen Base 3B,647304,Josh Naylor,657508,Mike Baumann,605137,Josh Bell,R,Adley Rutschman,668939,7,9,5,True,2023-05-31,Stolen,3B,2023,2024, 84.5, 0.69
+45,1B,,Caught Stealing 2B,665926,Andrés Giménez,641329,Bryan Baker,664702,Myles Straw,R,Adley Rutschman,668939,8,12,8,True,2023-05-31,Caught,2B,2023,2024, 84.5, 0.69
+46,1B,2B,Stolen Base 2B,664056,Harrison Bader,502043,Kyle Gibson,641432,Willie Calhoun,R,Adley Rutschman,668939,0,0,4,False,2023-05-25,Stolen,2B,2023,2024, 84.5, 0.69
+47,1B,2B,Stolen Base 2B,669289,Santiago Espinal,657508,Mike Baumann,595281,Kevin Kiermaier,R,Adley Rutschman,668939,3,2,7,False,2023-05-20,Stolen,2B,2023,2024, 84.5, 0.69
+48,2B,3B,Stolen Base 3B,593160,Whit Merrifield,657508,Mike Baumann,543807,George Springer,R,Adley Rutschman,668939,4,2,7,False,2023-05-20,Stolen,3B,2023,2024, 84.5, 0.69
+49,1B,2B,Stolen Base 2B,543807,George Springer,657508,Mike Baumann,666182,Bo Bichette,R,Adley Rutschman,668939,4,2,7,False,2023-05-20,Stolen,2B,2023,2024, 84.5, 0.69
+50,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,642585,Félix Bautista,543807,George Springer,R,Adley Rutschman,668939,5,5,9,False,2023-05-20,Stolen,2B,2023,2024, 84.5, 0.69
+51,1B,2B,Stolen Base 2B,663647,Ke'Bryan Hayes,680694,Kyle Bradish,457705,Andrew McCutchen,R,Adley Rutschman,668939,0,0,1,True,2023-05-12,Stolen,2B,2023,2024, 84.5, 0.69
+52,1B,,Caught Stealing 2B,678225,Ji Hwan Bae,641329,Bryan Baker,595978,Austin Hedges,R,Adley Rutschman,668939,1,2,7,True,2023-05-12,Caught,2B,2023,2024, 84.5, 0.69
+53,1B,2B,Stolen Base 2B,677551,Wander Franco,665152,Dean Kremer,664040,Brandon Lowe,R,Adley Rutschman,668939,0,0,1,True,2023-05-10,Stolen,2B,2023,2024, 84.5, 0.69
+54,1B,2B,Stolen Base 2B,677551,Wander Franco,543056,Danny Coulombe,623912,Harold Ramírez,L,Adley Rutschman,668939,2,1,8,True,2023-05-10,Stolen,2B,2023,2024, 84.5, 0.69
+55,1B,2B,Stolen Base 2B,677551,Wander Franco,680570,Grayson Rodriguez,668227,Randy Arozarena,R,Adley Rutschman,668939,3,1,4,True,2023-05-09,Stolen,2B,2023,2024, 84.5, 0.69
+56,1B,2B,Stolen Base 2B,666139,Josh Lowe,642585,Félix Bautista,622534,Manuel Margot,R,Adley Rutschman,668939,4,2,9,True,2023-05-09,Stolen,2B,2023,2024, 84.5, 0.69
+57,1B,2B,Stolen Base 2B,645277,Ozzie Albies,543056,Danny Coulombe,671739,Michael Harris II,L,Adley Rutschman,668939,5,4,8,False,2023-05-06,Stolen,2B,2023,2024, 84.5, 0.69
+58,1B,,Caught Stealing 2B,592696,Eddie Rosario,665152,Dean Kremer,645277,Ozzie Albies,R,Adley Rutschman,668939,1,2,6,False,2023-05-05,Caught,2B,2023,2024, 84.5, 0.69
+59,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,502043,Kyle Gibson,686469,Vinnie Pasquantino,R,Adley Rutschman,668939,2,0,6,False,2023-05-03,Stolen,2B,2023,2024, 84.5, 0.69
+60,1B,2B,Stolen Base 2B,656716,Zach McKinstry,502043,Kyle Gibson,682985,Riley Greene,R,Adley Rutschman,668939,3,0,4,False,2023-04-27,Stolen,2B,2023,2024, 84.5, 0.69
+61,1B,2B,Stolen Base 2B,668731,Akil Baddoo,642585,Félix Bautista,665155,Nick Maton,R,Adley Rutschman,668939,1,0,9,True,2023-04-21,Stolen,2B,2023,2024, 84.5, 0.69
+62,1B,2B,Stolen Base 2B,595879,Javier Báez,642585,Félix Bautista,681481,Kerry Carpenter,R,Adley Rutschman,668939,1,1,9,True,2023-04-21,Stolen,2B,2023,2024, 84.5, 0.69
+63,1B,2B,Stolen Base 2B,669743,Alex Call,642585,Félix Bautista,660688,Keibert Ruiz,R,Adley Rutschman,668939,0,1,9,False,2023-04-18,Stolen,2B,2023,2024, 84.5, 0.69
+64,1B,2B,Stolen Base 2B,668843,Conner Capel,680570,Grayson Rodriguez,665923,Esteury Ruiz,R,Adley Rutschman,668939,2,2,4,True,2023-04-11,Stolen,2B,2023,2024, 84.5, 0.69
+65,1B,,Caught Stealing 2B,650402,Gleyber Torres,669211,Keegan Akin,543305,Aaron Hicks,L,Adley Rutschman,668939,1,4,8,True,2023-04-08,Caught,2B,2023,2024, 84.5, 0.69
+66,1B,,Caught Stealing 2B,518934,DJ LeMahieu,665152,Dean Kremer,519203,Anthony Rizzo,R,Adley Rutschman,668939,2,0,3,True,2023-04-07,Caught,2B,2023,2024, 84.5, 0.69
+67,2B,3B,Stolen Base 3B,665828,Oswaldo Cabrera,641329,Bryan Baker,643396,Isiah Kiner-Falefa,R,Adley Rutschman,668939,7,6,8,True,2023-04-07,Stolen,3B,2023,2024, 84.5, 0.69
+68,1B,2B,Stolen Base 2B,592450,Aaron Judge,642585,Félix Bautista,519203,Anthony Rizzo,R,Adley Rutschman,668939,7,6,9,True,2023-04-07,Stolen,2B,2023,2024, 84.5, 0.69
+69,1B,,Caught Stealing 2B,518934,DJ LeMahieu,665152,Dean Kremer,519203,Anthony Rizzo,R,Adley Rutschman,668939,2,0,3,True,2023-04-06,Caught,2B,2023,2024, 84.5, 0.69
+70,2B,3B,Stolen Base 3B,665828,Oswaldo Cabrera,641329,Bryan Baker,643396,Isiah Kiner-Falefa,R,Adley Rutschman,668939,7,6,8,True,2023-04-06,Stolen,3B,2023,2024, 84.5, 0.69
+71,1B,2B,Stolen Base 2B,592450,Aaron Judge,642585,Félix Bautista,519203,Anthony Rizzo,R,Adley Rutschman,668939,7,6,9,True,2023-04-06,Stolen,2B,2023,2024, 84.5, 0.69
+72,1B,2B,Stolen Base 2B,807799,Masataka Yoshida,657508,Mike Baumann,594807,Adam Duvall,R,Adley Rutschman,668939,8,5,8,False,2023-04-02,Stolen,2B,2023,2024, 84.5, 0.69
+73,1B,,Caught Stealing 2B,665926,Andrés Giménez,502043,Kyle Gibson,681807,David Fry,R,Adley Rutschman,668939,1,5,7,False,2023-09-24,Caught,2B,2023,2024, 84.5, 0.69
+74,1B,2B,Stolen Base 2B,686823,Will Brennan,605347,Jorge López,681807,David Fry,R,Adley Rutschman,668939,7,6,7,False,2023-09-22,Stolen,2B,2023,2024, 84.5, 0.69
+75,1B,2B,Stolen Base 2B,608070,José Ramírez,680570,Grayson Rodriguez,647304,Josh Naylor,R,Adley Rutschman,668939,0,0,3,False,2023-09-21,Stolen,2B,2023,2024, 84.5, 0.69
+76,1B,2B,Stolen Base 2B,647304,Josh Naylor,672335,Cionel Pérez,671289,Tyler Freeman,L,Adley Rutschman,668939,2,2,8,False,2023-09-21,Stolen,2B,2023,2024, 84.5, 0.69
+77,1B,,Caught Stealing 2B,676801,Chas McCormick,680694,Kyle Bradish,455117,Martín Maldonado,R,Adley Rutschman,668939,0,1,3,False,2023-09-20,Caught,2B,2023,2024, 84.5, 0.69
+78,1B,2B,Stolen Base 2B,676801,Chas McCormick,660261,Shintaro Fujinami,665161,Jeremy Peña,R,Adley Rutschman,668939,3,3,6,False,2023-09-18,Stolen,2B,2023,2024, 84.5, 0.69
+79,2B,3B,Stolen Base 3B,663457,Lars Nootbaar,665152,Dean Kremer,502671,Paul Goldschmidt,R,Adley Rutschman,668939,2,1,3,True,2023-09-11,Stolen,3B,2023,2024, 84.5, 0.69
+80,1B,2B,Stolen Base 2B,678882,Ceddanne Rafaela,607216,Joey Krehbiel,457759,Justin Turner,R,Adley Rutschman,668939,7,3,8,False,2023-09-10,Stolen,2B,2023,2024, 84.5, 0.69
+81,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,665152,Dean Kremer,650391,Eloy Jiménez,R,Adley Rutschman,668939,0,1,4,True,2023-08-29,Stolen,2B,2023,2024, 84.5, 0.69
+82,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,642585,Félix Bautista,665742,Juan Soto,R,Adley Rutschman,668939,1,4,9,False,2023-08-14,Stolen,2B,2023,2024, 84.5, 0.69
+83,1B,,Caught Stealing 2B,687799,Cade Marlowe,642585,Félix Bautista,668942,Josh Rojas,R,Adley Rutschman,668939,0,0,9,False,2023-08-12,Caught,2B,2023,2024, 84.5, 0.69
+84,1B,2B,Stolen Base 2B,514888,Jose Altuve,657508,Mike Baumann,608324,Alex Bregman,R,Adley Rutschman,668939,2,7,8,True,2023-08-09,Stolen,2B,2023,2024, 84.5, 0.69
+85,1B,2B,Stolen Base 2B,664056,Harrison Bader,669330,Tyler Wells,683011,Anthony Volpe,R,Adley Rutschman,668939,0,1,2,True,2023-07-29,Stolen,2B,2023,2024, 84.5, 0.69
+86,1B,2B,Stolen Base 2B,683011,Anthony Volpe,641329,Bryan Baker,543309,Kyle Higashioka,R,Adley Rutschman,668939,3,8,7,True,2023-07-29,Stolen,2B,2023,2024, 84.5, 0.69
+87,1B,2B,Stolen Base 2B,666139,Josh Lowe,502043,Kyle Gibson,670764,Taylor Walls,R,Adley Rutschman,668939,1,3,4,False,2023-07-20,Stolen,2B,2023,2024, 84.5, 0.69
+88,2B,3B,Stolen Base 3B,500743,Miguel Rojas,672335,Cionel Pérez,605141,Mookie Betts,L,Adley Rutschman,668939,1,6,7,True,2023-07-18,Stolen,3B,2023,2024, 84.5, 0.69
+89,1B,2B,Stolen Base 2B,681546,James Outman,672335,Cionel Pérez,605141,Mookie Betts,L,Adley Rutschman,668939,1,6,7,True,2023-07-18,Stolen,2B,2023,2024, 84.5, 0.69
+90,2B,3B,Stolen Base 2B,681546,James Outman,672335,Cionel Pérez,605141,Mookie Betts,L,Adley Rutschman,668939,1,6,7,True,2023-07-18,Stolen,2B,2023,2024, 84.5, 0.69
+91,1B,,Caught Stealing 2B,545350,Jake Marisnick,663989,Nick Vespi,500743,Miguel Rojas,L,Adley Rutschman,668939,4,6,8,True,2023-07-17,Caught,2B,2023,2024, 84.5, 0.69
+92,1B,,Caught Stealing 2B,650333,Luis Arraez,669923,George Kirby,682998,Corbin Carroll,R,Adley Rutschman,668939,1,1,4,True,2023-07-11,Caught,2B,2023,2024, 84.5, 0.69
+93,1B,2B,Stolen Base 2B,669257,Will Smith,445276,Kenley Jansen,666971,Lourdes Gurriel Jr.,R,Adley Rutschman,668939,2,3,8,True,2023-07-11,Stolen,2B,2023,2024, 84.5, 0.69
+94,1B,,Caught Stealing 2B,572191,Michael A. Taylor,657508,Mike Baumann,621043,Carlos Correa,R,Adley Rutschman,668939,0,1,7,True,2023-07-01,Caught,2B,2023,2024, 84.5, 0.69
+95,1B,2B,Stolen Base 2B,670770,TJ Friedl,502043,Kyle Gibson,680574,Matt McLain,R,Adley Rutschman,668939,0,0,1,True,2023-06-28,Stolen,2B,2023,2024, 84.5, 0.69
+96,1B,2B,Stolen Base 2B,668715,Spencer Steer,657508,Mike Baumann,663886,Tyler Stephenson,R,Adley Rutschman,668939,4,6,5,True,2023-06-28,Stolen,2B,2023,2024, 84.5, 0.69
+97,1B,2B,Stolen Base 2B,670770,TJ Friedl,657508,Mike Baumann,663697,Jonathan India,R,Adley Rutschman,668939,4,6,6,True,2023-06-28,Stolen,2B,2023,2024, 84.5, 0.69
+98,1B,2B,Stolen Base 2B,666181,Will Benson,666974,Yennier Cano,670770,TJ Friedl,R,Adley Rutschman,668939,4,6,8,True,2023-06-28,Stolen,2B,2023,2024, 84.5, 0.69
+99,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,642585,Félix Bautista,669222,Nick Senzel,R,Adley Rutschman,668939,7,7,9,True,2023-06-28,Stolen,2B,2023,2024, 84.5, 0.69
+100,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,665152,Dean Kremer,664034,Ty France,R,Adley Rutschman,668939,1,2,3,True,2023-06-24,Stolen,2B,2023,2024, 84.5, 0.69
+101,1B,2B,Stolen Base 2B,672284,Jarred Kelenic,665152,Dean Kremer,553993,Eugenio Suárez,R,Adley Rutschman,668939,3,3,6,True,2023-06-24,Stolen,2B,2023,2024, 84.5, 0.69
+102,1B,2B,Stolen Base 2B,676609,José Caballero,502043,Kyle Gibson,672284,Jarred Kelenic,R,Adley Rutschman,668939,0,5,3,True,2023-06-23,Stolen,2B,2023,2024, 84.5, 0.69
+103,1B,2B,Stolen Base 2B,643565,Mike Tauchman,665152,Dean Kremer,673548,Seiya Suzuki,R,Adley Rutschman,668939,3,2,5,False,2023-06-18,Stolen,2B,2023,2024, 84.5, 0.69
+104,2B,3B,Stolen Base 3B,670156,Miles Mastrobuoni,666974,Yennier Cano,663538,Nico Hoerner,R,Adley Rutschman,668939,3,5,7,False,2023-06-18,Stolen,3B,2023,2024, 84.5, 0.69
+105,1B,2B,Stolen Base 2B,663611,Nick Madrigal,666974,Yennier Cano,663538,Nico Hoerner,R,Adley Rutschman,668939,3,5,7,False,2023-06-18,Stolen,2B,2023,2024, 84.5, 0.69
+106,1B,2B,Stolen Base 2B,662139,Daulton Varsho,680694,Kyle Bradish,665489,Vladimir Guerrero Jr.,R,Adley Rutschman,668939,0,0,4,True,2023-06-14,Stolen,2B,2023,2024, 84.5, 0.69
+107,1B,,Caught Stealing 2B,593160,Whit Merrifield,680694,Kyle Bradish,624415,Cavan Biggio,R,Adley Rutschman,668939,0,0,5,True,2023-06-14,Caught,2B,2023,2024, 84.5, 0.69
+108,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,543056,Danny Coulombe,593160,Whit Merrifield,L,Adley Rutschman,668939,0,2,8,True,2023-06-14,Stolen,2B,2023,2024, 84.5, 0.69
+109,2B,3B,Stolen Base 3B,593160,Whit Merrifield,543056,Danny Coulombe,669289,Santiago Espinal,L,Adley Rutschman,668939,0,2,8,True,2023-06-14,Stolen,3B,2023,2024, 84.5, 0.69
+110,1B,,Caught Stealing 2B,677951,Bobby Witt Jr.,641329,Bryan Baker,672580,Maikel Garcia,R,Adley Rutschman,668939,4,1,6,True,2023-06-10,Caught,2B,2023,2024, 84.5, 0.69
+111,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,669330,Tyler Wells,672580,Maikel Garcia,R,Adley Rutschman,668939,2,1,4,True,2023-06-09,Stolen,2B,2023,2024, 84.5, 0.69
+112,1B,2B,Stolen Base 2B,592885,Christian Yelich,543056,Danny Coulombe,661388,William Contreras,L,Adley Rutschman,668939,2,3,7,False,2023-06-06,Stolen,2B,2023,2024, 84.5, 0.69
+113,2B,3B,Stolen Base 3B,592885,Christian Yelich,543056,Danny Coulombe,642133,Rowdy Tellez,L,Adley Rutschman,668939,2,3,7,False,2023-06-06,Stolen,3B,2023,2024, 84.5, 0.69
+114,1B,2B,Stolen Base 2B,663368,Blake Perkins,666974,Yennier Cano,668930,Brice Turang,R,Adley Rutschman,668939,3,3,8,False,2023-06-06,Stolen,2B,2023,2024, 84.5, 0.69
+115,1B,2B,Stolen Base 2B,668930,Brice Turang,666974,Yennier Cano,686894,Joey Wiemer,R,Adley Rutschman,668939,3,3,8,False,2023-06-06,Stolen,2B,2023,2024, 84.5, 0.69
+116,1B,2B,Stolen Base 2B,680757,Steven Kwan,571710,Mychal Givens,642708,Amed Rosario,R,Adley Rutschman,668939,7,6,5,True,2023-05-31,Stolen,2B,2023,2024, 84.5, 0.69
+117,2B,3B,Stolen Base 3B,647304,Josh Naylor,657508,Mike Baumann,605137,Josh Bell,R,Adley Rutschman,668939,7,9,5,True,2023-05-31,Stolen,3B,2023,2024, 84.5, 0.69
+118,1B,,Caught Stealing 2B,665926,Andrés Giménez,641329,Bryan Baker,664702,Myles Straw,R,Adley Rutschman,668939,8,12,8,True,2023-05-31,Caught,2B,2023,2024, 84.5, 0.69
+119,1B,2B,Stolen Base 2B,664056,Harrison Bader,502043,Kyle Gibson,641432,Willie Calhoun,R,Adley Rutschman,668939,0,0,4,False,2023-05-25,Stolen,2B,2023,2024, 84.5, 0.69
+120,1B,2B,Stolen Base 2B,669289,Santiago Espinal,657508,Mike Baumann,595281,Kevin Kiermaier,R,Adley Rutschman,668939,3,2,7,False,2023-05-20,Stolen,2B,2023,2024, 84.5, 0.69
+121,2B,3B,Stolen Base 3B,593160,Whit Merrifield,657508,Mike Baumann,543807,George Springer,R,Adley Rutschman,668939,4,2,7,False,2023-05-20,Stolen,3B,2023,2024, 84.5, 0.69
+122,1B,2B,Stolen Base 2B,543807,George Springer,657508,Mike Baumann,666182,Bo Bichette,R,Adley Rutschman,668939,4,2,7,False,2023-05-20,Stolen,2B,2023,2024, 84.5, 0.69
+123,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,642585,Félix Bautista,543807,George Springer,R,Adley Rutschman,668939,5,5,9,False,2023-05-20,Stolen,2B,2023,2024, 84.5, 0.69
+124,1B,2B,Stolen Base 2B,663647,Ke'Bryan Hayes,680694,Kyle Bradish,457705,Andrew McCutchen,R,Adley Rutschman,668939,0,0,1,True,2023-05-12,Stolen,2B,2023,2024, 84.5, 0.69
+125,1B,,Caught Stealing 2B,678225,Ji Hwan Bae,641329,Bryan Baker,595978,Austin Hedges,R,Adley Rutschman,668939,1,2,7,True,2023-05-12,Caught,2B,2023,2024, 84.5, 0.69
+126,1B,2B,Stolen Base 2B,677551,Wander Franco,665152,Dean Kremer,664040,Brandon Lowe,R,Adley Rutschman,668939,0,0,1,True,2023-05-10,Stolen,2B,2023,2024, 84.5, 0.69
+127,1B,2B,Stolen Base 2B,677551,Wander Franco,543056,Danny Coulombe,623912,Harold Ramírez,L,Adley Rutschman,668939,2,1,8,True,2023-05-10,Stolen,2B,2023,2024, 84.5, 0.69
+128,1B,2B,Stolen Base 2B,677551,Wander Franco,680570,Grayson Rodriguez,668227,Randy Arozarena,R,Adley Rutschman,668939,3,1,4,True,2023-05-09,Stolen,2B,2023,2024, 84.5, 0.69
+129,1B,2B,Stolen Base 2B,666139,Josh Lowe,642585,Félix Bautista,622534,Manuel Margot,R,Adley Rutschman,668939,4,2,9,True,2023-05-09,Stolen,2B,2023,2024, 84.5, 0.69
+130,1B,2B,Stolen Base 2B,645277,Ozzie Albies,543056,Danny Coulombe,671739,Michael Harris II,L,Adley Rutschman,668939,5,4,8,False,2023-05-06,Stolen,2B,2023,2024, 84.5, 0.69
+131,1B,,Caught Stealing 2B,592696,Eddie Rosario,665152,Dean Kremer,645277,Ozzie Albies,R,Adley Rutschman,668939,1,2,6,False,2023-05-05,Caught,2B,2023,2024, 84.5, 0.69
+132,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,502043,Kyle Gibson,686469,Vinnie Pasquantino,R,Adley Rutschman,668939,2,0,6,False,2023-05-03,Stolen,2B,2023,2024, 84.5, 0.69
+133,1B,2B,Stolen Base 2B,656716,Zach McKinstry,502043,Kyle Gibson,682985,Riley Greene,R,Adley Rutschman,668939,3,0,4,False,2023-04-27,Stolen,2B,2023,2024, 84.5, 0.69
+134,1B,2B,Stolen Base 2B,668731,Akil Baddoo,642585,Félix Bautista,665155,Nick Maton,R,Adley Rutschman,668939,1,0,9,True,2023-04-21,Stolen,2B,2023,2024, 84.5, 0.69
+135,1B,2B,Stolen Base 2B,595879,Javier Báez,642585,Félix Bautista,681481,Kerry Carpenter,R,Adley Rutschman,668939,1,1,9,True,2023-04-21,Stolen,2B,2023,2024, 84.5, 0.69
+136,1B,2B,Stolen Base 2B,669743,Alex Call,642585,Félix Bautista,660688,Keibert Ruiz,R,Adley Rutschman,668939,0,1,9,False,2023-04-18,Stolen,2B,2023,2024, 84.5, 0.69
+137,1B,2B,Stolen Base 2B,668843,Conner Capel,680570,Grayson Rodriguez,665923,Esteury Ruiz,R,Adley Rutschman,668939,2,2,4,True,2023-04-11,Stolen,2B,2023,2024, 84.5, 0.69
+138,1B,,Caught Stealing 2B,650402,Gleyber Torres,669211,Keegan Akin,543305,Aaron Hicks,L,Adley Rutschman,668939,1,4,8,True,2023-04-08,Caught,2B,2023,2024, 84.5, 0.69
+139,1B,,Caught Stealing 2B,518934,DJ LeMahieu,665152,Dean Kremer,519203,Anthony Rizzo,R,Adley Rutschman,668939,2,0,3,True,2023-04-07,Caught,2B,2023,2024, 84.5, 0.69
+140,2B,3B,Stolen Base 3B,665828,Oswaldo Cabrera,641329,Bryan Baker,643396,Isiah Kiner-Falefa,R,Adley Rutschman,668939,7,6,8,True,2023-04-07,Stolen,3B,2023,2024, 84.5, 0.69
+141,1B,2B,Stolen Base 2B,592450,Aaron Judge,642585,Félix Bautista,519203,Anthony Rizzo,R,Adley Rutschman,668939,7,6,9,True,2023-04-07,Stolen,2B,2023,2024, 84.5, 0.69
+142,1B,,Caught Stealing 2B,518934,DJ LeMahieu,665152,Dean Kremer,519203,Anthony Rizzo,R,Adley Rutschman,668939,2,0,3,True,2023-04-06,Caught,2B,2023,2024, 84.5, 0.69
+143,2B,3B,Stolen Base 3B,665828,Oswaldo Cabrera,641329,Bryan Baker,643396,Isiah Kiner-Falefa,R,Adley Rutschman,668939,7,6,8,True,2023-04-06,Stolen,3B,2023,2024, 84.5, 0.69
+144,1B,2B,Stolen Base 2B,592450,Aaron Judge,642585,Félix Bautista,519203,Anthony Rizzo,R,Adley Rutschman,668939,7,6,9,True,2023-04-06,Stolen,2B,2023,2024, 84.5, 0.69
+145,1B,2B,Stolen Base 2B,807799,Masataka Yoshida,657508,Mike Baumann,594807,Adam Duvall,R,Adley Rutschman,668939,8,5,8,False,2023-04-02,Stolen,2B,2023,2024, 84.5, 0.69

@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+95,1B,2B,Stolen Base 2B,425859,Russ Adams,Jason Varitek,0,0,1,True,2005-09-27,Stolen,2B,2005
+556,1B,2B,Stolen Base 2B,425859,Russ Adams,Toby Hall,2,1,6,False,2005-09-03,Stolen,2B,2005
+626,1B,2B,Stolen Base 2B,425859,Russ Adams,Javy Lopez,0,1,1,False,2005-08-30,Stolen,2B,2005
+771,1B,2B,Stolen Base 2B,425859,Russ Adams,Jorge Posada,0,0,1,True,2005-08-22,Stolen,2B,2005
+865,1B,2B,Stolen Base 2B,425859,Russ Adams,Bengie Molina,3,2,8,True,2005-08-16,Stolen,2B,2005
+1436,1B,,Caught Stealing 2B,425859,Russ Adams,Pat Borders,12,9,6,False,2005-07-19,Caught,2B,2005
+2056,1B,2B,Stolen Base 2B,425859,Russ Adams,Einar Díaz,3,0,2,False,2005-06-15,Stolen,2B,2005
+2087,1B,2B,Stolen Base 2B,425859,Russ Adams,Yadier Molina,3,0,2,False,2005-06-13,Stolen,2B,2005
+2656,1B,2B,Stolen Base 2B,425859,Russ Adams,Victor Martinez,0,0,2,True,2005-05-14,Stolen,2B,2005
+2756,1B,2B,Stolen Base 2B,425859,Russ Adams,John Buck,2,0,2,False,2005-05-09,Stolen,2B,2005
+3010,1B,2B,Stolen Base 2B,425859,Russ Adams,Charles Johnson,7,3,8,False,2005-04-28,Stolen,2B,2005
+24,1B,2B,Stolen Base 2B,425859,Russ Adams,Dioner Navarro,4,2,5,False,2007-09-30,Stolen,2B,2007
+297,1B,2B,Stolen Base 2B,425859,Russ Adams,Kevin Cash,2,1,5,False,2007-09-17,Stolen,2B,2007
+687,2B,,Caught Stealing 3B,425859,Russ Adams,Kenji Johjima,2,1,8,False,2007-09-01,Caught,3B,2007

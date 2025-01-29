@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3216,2B,3B,Stolen Base 3B,150331,Josh Paul,Scott Hatteberg,0,4,7,True,2000-05-09,Stolen,3B,2000
+503,2B,,Caught Stealing 3B,150331,Josh Paul,Dan Wilson,3,3,7,True,2001-05-15,Caught,3B,2001
+587,1B,,Caught Stealing 2B,150331,Josh Paul,Mike Hubbard,4,8,4,False,2001-05-12,Caught,2B,2001
+918,1B,2B,Stolen Base 2B,150331,Josh Paul,Tom Lampkin,0,0,3,False,2001-04-29,Stolen,2B,2001
+578,1B,2B,Stolen Base 2B,150331,Josh Paul,Matt Walbeck,0,1,2,True,2002-09-01,Stolen,2B,2002
+1930,1B,2B,Stolen Base 2B,150331,Josh Paul,A.J. Pierzynski,0,5,3,True,2002-06-27,Stolen,2B,2002
+1108,2B,3B,Stolen Base 3B,150331,Josh Paul,John Buck,0,3,7,True,2004-08-06,Stolen,3B,2004
+1971,1B,,Caught Stealing 2B,150331,Josh Paul,Brad Ausmus,3,1,8,True,2004-06-20,Caught,2B,2004
+3564,1B,2B,Stolen Base 2B,150331,Josh Paul,Paul Bako,2,1,2,False,2007-04-18,Stolen,2B,2007

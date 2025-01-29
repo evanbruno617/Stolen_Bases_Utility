@@ -1,0 +1,41 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,607680,Kevin Pillar,607200,Erick Fedde,642086,Dominic Smith,R,Tres Barrera,668663,5,3,6,False,2021-08-29,Stolen,2B,2021,2022, 76.7, 0.72
+1,1B,2B,Stolen Base 2B,607043,Brandon Nimmo,641851,Kyle McGowin,596019,Francisco Lindor,R,Tres Barrera,668663,7,3,6,False,2021-08-29,Stolen,2B,2021,2022, 76.7, 0.72
+2,1B,2B,Stolen Base 2B,621446,Lewis Brinson,571578,Patrick Corbin,660821,Jesús Sánchez,L,Tres Barrera,668663,0,0,1,False,2021-08-26,Stolen,2B,2021,2022, 76.7, 0.72
+3,1B,2B,Stolen Base 2B,642423,Magneuris Sierra,666168,Mason Thompson,605119,Brian Anderson,R,Tres Barrera,668663,7,2,5,False,2021-08-26,Stolen,2B,2021,2022, 76.7, 0.72
+4,1B,2B,Stolen Base 2B,650559,Bryan De La Cruz,641907,Patrick Murphy,500743,Miguel Rojas,R,Tres Barrera,668663,7,3,6,False,2021-08-26,Stolen,2B,2021,2022, 76.7, 0.72
+5,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,607200,Erick Fedde,621446,Lewis Brinson,R,Tres Barrera,668663,0,0,1,False,2021-08-24,Stolen,2B,2021,2022, 76.7, 0.72
+6,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,607200,Erick Fedde,621446,Lewis Brinson,R,Tres Barrera,668663,0,0,3,False,2021-08-24,Stolen,2B,2021,2022, 76.7, 0.72
+7,1B,2B,Stolen Base 2B,592885,Christian Yelich,656620,Gabe Klobosits,553882,Omar Narváez,R,Tres Barrera,668663,3,3,5,False,2021-08-21,Stolen,2B,2021,2022, 76.7, 0.72
+8,1B,2B,Stolen Base 2B,518692,Freddie Freeman,571578,Patrick Corbin,621020,Dansby Swanson,L,Tres Barrera,668663,1,6,5,True,2021-08-14,Stolen,2B,2021,2022, 76.7, 0.72
+9,1B,2B,Stolen Base 2B,542364,Rafael Ortega,605452,Joe Ross,664023,Ian Happ,R,Tres Barrera,668663,0,0,1,True,2021-07-31,Stolen,2B,2021,2022, 76.7, 0.72
+10,1B,,Caught Stealing 2B,641561,Johneshwy Fargas,622446,Jefry Rodriguez,542364,Rafael Ortega,R,Tres Barrera,668663,1,6,8,True,2021-07-31,Caught,2B,2021,2022, 76.7, 0.72
+11,2B,3B,Stolen Base 3B,516416,Jean Segura,605452,Joe Ross,457705,Andrew McCutchen,R,Tres Barrera,668663,0,0,1,False,2021-07-26,Stolen,3B,2021,2022, 76.7, 0.72
+12,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,605452,Joe Ross,457705,Andrew McCutchen,R,Tres Barrera,668663,0,0,1,False,2021-07-26,Stolen,2B,2021,2022, 76.7, 0.72
+13,1B,2B,Stolen Base 2B,602104,Ramón Urías,571578,Patrick Corbin,600474,Pedro Severino,L,Tres Barrera,668663,2,1,4,False,2021-07-23,Stolen,2B,2021,2022, 76.7, 0.72
+14,1B,2B,Stolen Base 2B,622761,Jorge Mateo,543272,Brad Hand,673490,Ha-Seong Kim,L,Tres Barrera,668663,7,6,9,True,2021-07-18,Stolen,2B,2021,2022, 76.7, 0.72
+15,2B,3B,Stolen Base 3B,622761,Jorge Mateo,543272,Brad Hand,663757,Trent Grisham,L,Tres Barrera,668663,7,7,9,True,2021-07-18,Stolen,3B,2021,2022, 76.7, 0.72
+16,1B,2B,Stolen Base 2B,663757,Trent Grisham,543272,Brad Hand,665487,Fernando Tatis Jr.,L,Tres Barrera,668663,7,7,9,True,2021-07-18,Stolen,2B,2021,2022, 76.7, 0.72
+17,1B,2B,Stolen Base 2B,596103,Austin Slater,452657,Jon Lester,527038,Wilmer Flores,L,Tres Barrera,668663,7,0,3,False,2021-07-10,Stolen,2B,2021,2022, 76.7, 0.72
+18,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,544931,Stephen Strasburg,645277,Ozzie Albies,R,Tres Barrera,668663,0,0,3,True,2021-04-07,Stolen,2B,2021,2022, 76.7, 0.72
+19,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,544931,Stephen Strasburg,645277,Ozzie Albies,R,Tres Barrera,668663,0,0,3,True,2021-04-05,Stolen,2B,2021,2022, 76.7, 0.72
+20,1B,2B,Stolen Base 2B,607680,Kevin Pillar,607200,Erick Fedde,642086,Dominic Smith,R,Tres Barrera,668663,5,3,6,False,2021-08-29,Stolen,2B,2021,2022, 76.7, 0.72
+21,1B,2B,Stolen Base 2B,607043,Brandon Nimmo,641851,Kyle McGowin,596019,Francisco Lindor,R,Tres Barrera,668663,7,3,6,False,2021-08-29,Stolen,2B,2021,2022, 76.7, 0.72
+22,1B,2B,Stolen Base 2B,621446,Lewis Brinson,571578,Patrick Corbin,660821,Jesús Sánchez,L,Tres Barrera,668663,0,0,1,False,2021-08-26,Stolen,2B,2021,2022, 76.7, 0.72
+23,1B,2B,Stolen Base 2B,642423,Magneuris Sierra,666168,Mason Thompson,605119,Brian Anderson,R,Tres Barrera,668663,7,2,5,False,2021-08-26,Stolen,2B,2021,2022, 76.7, 0.72
+24,1B,2B,Stolen Base 2B,650559,Bryan De La Cruz,641907,Patrick Murphy,500743,Miguel Rojas,R,Tres Barrera,668663,7,3,6,False,2021-08-26,Stolen,2B,2021,2022, 76.7, 0.72
+25,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,607200,Erick Fedde,621446,Lewis Brinson,R,Tres Barrera,668663,0,0,1,False,2021-08-24,Stolen,2B,2021,2022, 76.7, 0.72
+26,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,607200,Erick Fedde,621446,Lewis Brinson,R,Tres Barrera,668663,0,0,3,False,2021-08-24,Stolen,2B,2021,2022, 76.7, 0.72
+27,1B,2B,Stolen Base 2B,592885,Christian Yelich,656620,Gabe Klobosits,553882,Omar Narváez,R,Tres Barrera,668663,3,3,5,False,2021-08-21,Stolen,2B,2021,2022, 76.7, 0.72
+28,1B,2B,Stolen Base 2B,518692,Freddie Freeman,571578,Patrick Corbin,621020,Dansby Swanson,L,Tres Barrera,668663,1,6,5,True,2021-08-14,Stolen,2B,2021,2022, 76.7, 0.72
+29,1B,2B,Stolen Base 2B,542364,Rafael Ortega,605452,Joe Ross,664023,Ian Happ,R,Tres Barrera,668663,0,0,1,True,2021-07-31,Stolen,2B,2021,2022, 76.7, 0.72
+30,1B,,Caught Stealing 2B,641561,Johneshwy Fargas,622446,Jefry Rodriguez,542364,Rafael Ortega,R,Tres Barrera,668663,1,6,8,True,2021-07-31,Caught,2B,2021,2022, 76.7, 0.72
+31,2B,3B,Stolen Base 3B,516416,Jean Segura,605452,Joe Ross,457705,Andrew McCutchen,R,Tres Barrera,668663,0,0,1,False,2021-07-26,Stolen,3B,2021,2022, 76.7, 0.72
+32,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,605452,Joe Ross,457705,Andrew McCutchen,R,Tres Barrera,668663,0,0,1,False,2021-07-26,Stolen,2B,2021,2022, 76.7, 0.72
+33,1B,2B,Stolen Base 2B,602104,Ramón Urías,571578,Patrick Corbin,600474,Pedro Severino,L,Tres Barrera,668663,2,1,4,False,2021-07-23,Stolen,2B,2021,2022, 76.7, 0.72
+34,1B,2B,Stolen Base 2B,622761,Jorge Mateo,543272,Brad Hand,673490,Ha-Seong Kim,L,Tres Barrera,668663,7,6,9,True,2021-07-18,Stolen,2B,2021,2022, 76.7, 0.72
+35,2B,3B,Stolen Base 3B,622761,Jorge Mateo,543272,Brad Hand,663757,Trent Grisham,L,Tres Barrera,668663,7,7,9,True,2021-07-18,Stolen,3B,2021,2022, 76.7, 0.72
+36,1B,2B,Stolen Base 2B,663757,Trent Grisham,543272,Brad Hand,665487,Fernando Tatis Jr.,L,Tres Barrera,668663,7,7,9,True,2021-07-18,Stolen,2B,2021,2022, 76.7, 0.72
+37,1B,2B,Stolen Base 2B,596103,Austin Slater,452657,Jon Lester,527038,Wilmer Flores,L,Tres Barrera,668663,7,0,3,False,2021-07-10,Stolen,2B,2021,2022, 76.7, 0.72
+38,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,544931,Stephen Strasburg,645277,Ozzie Albies,R,Tres Barrera,668663,0,0,3,True,2021-04-07,Stolen,2B,2021,2022, 76.7, 0.72
+39,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,544931,Stephen Strasburg,645277,Ozzie Albies,R,Tres Barrera,668663,0,0,3,True,2021-04-05,Stolen,2B,2021,2022, 76.7, 0.72

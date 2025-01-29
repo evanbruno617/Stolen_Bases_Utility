@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+210,1B,2B,Stolen Base 2B,665482,Gilberto Celestino,Luke Maile,4,2,4,True,2022-09-19,Stolen,2B,2022
+363,1B,2B,Stolen Base 2B,665482,Gilberto Celestino,Austin Hedges,1,4,9,False,2022-09-11,Stolen,2B,2022
+481,1B,2B,Stolen Base 2B,665482,Gilberto Celestino,Jose Trevino,1,0,3,True,2022-09-05,Stolen,2B,2022
+2389,1B,,Caught Stealing 2B,665482,Gilberto Celestino,MJ Melendez,1,4,6,True,2022-05-20,Caught,2B,2022

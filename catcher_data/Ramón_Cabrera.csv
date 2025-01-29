@@ -1,0 +1,26 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2B,3B,Stolen Base 3B,457477,Alejandro De Aza,Ramón Cabrera,4,1,6,False,2015-09-16,Stolen,3B,2015
+1B,2B,Stolen Base 2B,605509,Kelby Tomlinson,Ramón Cabrera,5,2,7,False,2015-09-16,Stolen,2B,2015
+1B,,Caught Stealing 2B,457477,Alejandro De Aza,Ramón Cabrera,5,3,8,False,2015-09-16,Caught,2B,2015
+1B,,Caught Stealing 2B,518902,Pete Kozma,Ramón Cabrera,2,2,8,True,2015-09-12,Caught,2B,2015
+1B,,Caught Stealing 2B,518902,Pete Kozma,Ramón Cabrera,2,2,8,True,2015-09-11,Caught,2B,2015
+1B,2B,Stolen Base 2B,570256,Gregory Polanco,Ramón Cabrera,1,1,6,True,2015-09-09,Stolen,2B,2015
+2B,3B,Stolen Base 3B,457763,Buster Posey,Ramón Cabrera,5,2,5,False,2016-07-26,Stolen,3B,2016
+2B,,Caught Stealing 3B,516416,Jean Segura,Ramón Cabrera,0,0,1,True,2016-07-24,Caught,3B,2016
+1B,2B,Caught Stealing 3B,594838,Phil Gosselin,Ramón Cabrera,0,0,1,True,2016-07-24,Caught,3B,2016
+1B,,Caught Stealing 2B,516416,Jean Segura,Ramón Cabrera,5,8,6,True,2016-07-24,Caught,2B,2016
+1B,2B,Stolen Base 2B,542255,Ender Inciarte,Ramón Cabrera,2,2,4,True,2016-07-19,Stolen,2B,2016
+1B,,Caught Stealing 2B,150029,Jayson Werth,Ramón Cabrera,2,2,10,False,2016-07-01,Caught,2B,2016
+1B,2B,Stolen Base 2B,608671,Travis Jankowski,Ramón Cabrera,0,2,5,True,2016-06-25,Stolen,2B,2016
+1B,2B,Stolen Base 2B,519083,Derek Norris,Ramón Cabrera,0,2,7,True,2016-06-25,Stolen,2B,2016
+1B,2B,Stolen Base 2B,425834,B.J. Upton,Ramón Cabrera,0,3,8,True,2016-06-25,Stolen,2B,2016
+1B,2B,Stolen Base 2B,425834,B.J. Upton,Ramón Cabrera,0,0,2,True,2016-06-23,Stolen,2B,2016
+1B,2B,Stolen Base 2B,608671,Travis Jankowski,Ramón Cabrera,4,7,9,True,2016-06-23,Stolen,2B,2016
+1B,2B,Stolen Base 2B,460576,Carlos Gómez,Ramón Cabrera,2,2,8,False,2016-06-17,Stolen,2B,2016
+2B,3B,Stolen Base 3B,542255,Ender Inciarte,Ramón Cabrera,1,0,1,False,2016-06-15,Stolen,3B,2016
+1B,2B,Stolen Base 2B,607054,Jace Peterson,Ramón Cabrera,4,3,5,False,2016-06-15,Stolen,2B,2016
+1B,2B,Stolen Base 2B,542340,Jonathan Villar,Ramón Cabrera,0,3,1,False,2016-05-27,Stolen,2B,2016
+2B,3B,Stolen Base 3B,542340,Jonathan Villar,Ramón Cabrera,1,3,1,False,2016-05-27,Stolen,3B,2016
+1B,2B,Stolen Base 2B,460075,Ryan Braun,Ramón Cabrera,1,3,1,False,2016-05-27,Stolen,2B,2016
+2B,3B,Stolen Base 3B,460075,Ryan Braun,Ramón Cabrera,1,3,1,False,2016-05-27,Stolen,3B,2016
+1B,,Caught Stealing 2B,431094,Aaron Hill,Ramón Cabrera,4,5,8,True,2016-05-08,Caught,2B,2016

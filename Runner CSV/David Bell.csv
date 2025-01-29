@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2053,1B,,Caught Stealing 2B,110816,David Bell,Matt Walbeck,1,0,2,False,2000-06-29,Caught,2B,2000
+2629,1B,2B,Stolen Base 2B,110816,David Bell,Carlos Hernandez,0,0,3,False,2000-06-03,Stolen,2B,2000
+2737,1B,,Caught Stealing 2B,110816,David Bell,Mark Johnson,1,1,5,False,2000-05-30,Caught,2B,2000
+3088,1B,,Caught Stealing 2B,110816,David Bell,Ramon Hernandez,2,0,3,True,2000-05-14,Caught,2B,2000
+3703,1B,2B,Stolen Base 2B,110816,David Bell,Mark Johnson,2,1,2,True,2000-04-18,Stolen,2B,2000
+272,3B,,Caught Stealing Home,110816,David Bell,A.J. Hinch,6,7,8,True,2001-05-25,Caught,Home,2001
+1661,1B,2B,Stolen Base 2B,110816,David Bell,Gary Bennett,0,0,2,False,2002-07-11,Stolen,2B,2002
+2744,1B,,Caught Stealing 2B,110816,David Bell,Damian Miller,4,3,7,True,2002-05-21,Caught,2B,2002
+1145,1B,,Caught Stealing 2B,110816,David Bell,Ramon Hernandez,5,7,8,True,2004-08-04,Caught,2B,2004
+1992,1B,2B,Stolen Base 2B,110816,David Bell,Kelly Stinnett,2,0,4,False,2004-06-19,Stolen,2B,2004
+2730,1B,,Caught Stealing 2B,110816,David Bell,Damian Miller,3,2,2,True,2005-05-10,Caught,2B,2005

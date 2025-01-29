@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1243,1B,2B,Stolen Base 2B,150375,Hiram Bocachica,Ben Davis,4,5,8,True,2001-04-15,Stolen,2B,2001
+1277,1B,2B,Stolen Base 2B,150375,Hiram Bocachica,Ben Davis,4,3,7,True,2001-04-14,Stolen,2B,2001
+1487,1B,,Caught Stealing 2B,150375,Hiram Bocachica,Damian Miller,2,3,7,False,2001-04-03,Caught,2B,2001
+270,1B,2B,Stolen Base 2B,150375,Hiram Bocachica,A.J. Pierzynski,1,4,6,False,2002-09-17,Stolen,2B,2002
+925,1B,,Caught Stealing 2B,150375,Hiram Bocachica,Brook Fordyce,5,6,9,True,2002-08-16,Caught,2B,2002
+1160,1B,2B,Stolen Base 2B,150375,Hiram Bocachica,Ramon Hernandez,6,3,8,True,2002-08-03,Stolen,2B,2002
+1405,1B,,Caught Stealing 2B,150375,Hiram Bocachica,Benito Santiago,4,4,8,False,2002-07-21,Caught,2B,2002
+2236,1B,2B,Stolen Base 2B,150375,Hiram Bocachica,John Flaherty,1,2,3,True,2002-06-11,Stolen,2B,2002
+341,1B,,Caught Stealing 2B,150375,Hiram Bocachica,Bengie Molina,0,0,5,False,2004-09-14,Caught,2B,2004
+473,1B,2B,Stolen Base 2B,150375,Hiram Bocachica,Victor Martinez,3,5,4,False,2004-09-08,Stolen,2B,2004
+1918,1B,2B,Stolen Base 2B,150375,Hiram Bocachica,Rod Barajas,7,7,13,True,2004-06-24,Stolen,2B,2004
+1995,1B,2B,Stolen Base 2B,150375,Hiram Bocachica,Jason Kendall,0,2,5,True,2004-06-19,Stolen,2B,2004
+1997,2B,,Caught Stealing 3B,150375,Hiram Bocachica,Jason Kendall,1,4,9,True,2004-06-19,Caught,3B,2004
+2157,1B,2B,Stolen Base 2B,150375,Hiram Bocachica,Brian Schneider,0,0,9,False,2004-06-11,Stolen,2B,2004
+2353,1B,2B,Stolen Base 2B,150375,Hiram Bocachica,Gregg Zaun,1,5,5,False,2004-06-02,Stolen,2B,2004
+2005,1B,,Caught Stealing 2B,150375,Hiram Bocachica,Russell Martin,1,1,9,True,2007-06-30,Caught,2B,2007
+2098,1B,2B,Stolen Base 2B,150375,Hiram Bocachica,Bengie Molina,2,4,9,True,2007-06-27,Stolen,2B,2007
+2267,1B,2B,Stolen Base 2B,150375,Hiram Bocachica,Paul Bako,5,3,6,False,2007-06-19,Stolen,2B,2007
+2501,2B,,Caught Stealing 3B,150375,Hiram Bocachica,Kenji Johjima,5,5,9,False,2007-06-08,Caught,3B,2007
+2525,1B,2B,Stolen Base 2B,150375,Hiram Bocachica,Russell Martin,0,0,2,False,2007-06-07,Stolen,2B,2007

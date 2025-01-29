@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+760,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,Wilson Ramos,0,4,3,True,2016-07-02,Stolen,2B,2016
+663,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,Chris Stewart,0,0,5,False,2017-08-26,Stolen,2B,2017
+711,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,René Rivera,4,2,8,False,2017-08-24,Stolen,2B,2017
+1373,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,Jeff Mathis,1,0,2,False,2017-07-19,Stolen,2B,2017
+2835,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,Chris Stewart,0,1,2,False,2017-05-01,Stolen,2B,2017
+789,1B,,Caught Stealing 2B,571466,Tucker Barnhart,Manny Piña,5,7,5,True,2018-08-21,Caught,2B,2018
+1898,1B,,Caught Stealing 2B,571466,Tucker Barnhart,James McCann,0,1,1,False,2018-06-20,Caught,2B,2018
+2108,2B,,Caught Stealing 3B,571466,Tucker Barnhart,Yadier Molina,4,5,6,False,2018-06-08,Caught,3B,2018
+2780,1B,,Caught Stealing 2B,571466,Tucker Barnhart,Manny Piña,0,0,2,False,2018-04-30,Caught,2B,2018
+671,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,Francisco Mejía,0,0,2,False,2019-08-21,Stolen,2B,2019
+2448,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,Jason Delay,5,2,5,False,2023-06-15,Stolen,2B,2023

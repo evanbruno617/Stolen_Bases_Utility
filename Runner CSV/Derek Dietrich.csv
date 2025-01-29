@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2629,1B,2B,Stolen Base 2B,518618,Derek Dietrich,Erik Kratz,0,0,1,False,2013-05-21,Stolen,2B,2013
+3501,1B,2B,Stolen Base 2B,518618,Derek Dietrich,Carlos Ruiz,3,2,4,True,2014-04-11,Stolen,2B,2014
+706,1B,,Caught Stealing 2B,518618,Derek Dietrich,Cameron Rupp,0,0,1,False,2015-08-23,Caught,2B,2015
+110,1B,2B,Stolen Base 2B,518618,Derek Dietrich,Tony Wolters,0,4,1,True,2016-08-07,Stolen,2B,2016
+1403,1B,,Caught Stealing 2B,518618,Derek Dietrich,Cameron Rupp,2,2,5,False,2017-07-18,Caught,2B,2017
+1408,1B,2B,Stolen Base 2B,518618,Derek Dietrich,Jesús Sucre,1,1,5,True,2018-07-20,Stolen,2B,2018
+2328,1B,2B,Stolen Base 2B,518618,Derek Dietrich,Pedro Severino,1,0,6,False,2018-05-26,Stolen,2B,2018
+2394,1B,2B,Stolen Base 2B,518618,Derek Dietrich,Stephen Vogt,10,7,6,False,2019-05-03,Stolen,2B,2019
+2510,1B,,Caught Stealing 2B,518618,Derek Dietrich,Brian McCann,0,0,2,False,2019-04-25,Caught,2B,2019
+152,1B,,Caught Stealing 2B,518618,Derek Dietrich,Anthony Bemboom,0,3,2,True,2020-09-20,Caught,2B,2020
+893,1B,2B,Stolen Base 2B,518618,Derek Dietrich,Austin Nola,1,4,6,False,2020-08-12,Stolen,2B,2020

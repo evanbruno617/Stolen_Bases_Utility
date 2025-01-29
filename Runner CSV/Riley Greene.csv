@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1284,1B,,Caught Stealing 2B,682985,Riley Greene,Stephen Vogt,0,0,1,True,2022-07-21,Caught,2B,2022
+1381,1B,,Caught Stealing 2B,682985,Riley Greene,MJ Melendez,4,1,5,True,2022-07-13,Caught,2B,2022
+1441,1B,,Caught Stealing 2B,682985,Riley Greene,Reese McGuire,0,2,3,True,2022-07-10,Caught,2B,2022
+1599,1B,,Caught Stealing 2B,682985,Riley Greene,Cam Gallagher,0,3,3,False,2022-07-03,Caught,2B,2022
+1708,1B,2B,Stolen Base 2B,682985,Riley Greene,Carson Kelly,11,6,7,True,2022-06-26,Stolen,2B,2022
+760,1B,2B,Stolen Base 2B,682985,Riley Greene,Korey Lee,1,2,5,True,2023-09-01,Stolen,2B,2023
+2891,1B,2B,Stolen Base 2B,682985,Riley Greene,Yasmani Grandal,0,1,3,False,2023-05-28,Stolen,2B,2023
+3333,1B,2B,Stolen Base 2B,682985,Riley Greene,Cam Gallagher,0,0,1,True,2023-05-09,Stolen,2B,2023
+3350,1B,2B,Stolen Base 2B,682985,Riley Greene,Mike Zunino,0,0,1,True,2023-05-08,Stolen,2B,2023
+3462,1B,2B,Stolen Base 2B,682985,Riley Greene,Francisco Alvarez,2,0,3,False,2023-05-04,Stolen,2B,2023
+3848,1B,2B,Stolen Base 2B,682985,Riley Greene,Mike Zunino,1,0,1,False,2023-04-18,Stolen,2B,2023
+4145,1B,2B,Stolen Base 2B,682985,Riley Greene,César Salazar,2,1,3,True,2023-04-05,Stolen,2B,2023

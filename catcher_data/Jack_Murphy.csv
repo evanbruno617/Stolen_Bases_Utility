@@ -1,0 +1,3 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,457789,Jemile Weeks,Jack Murphy,0,2,2,False,2015-04-01,Stolen,2B,2015
+1B,2B,Stolen Base 2B,571788,Brock Holt,Jack Murphy,1,4,4,False,2015-04-01,Stolen,2B,2015

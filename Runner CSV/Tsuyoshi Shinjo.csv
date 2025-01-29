@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+214,1B,2B,Caught Stealing Home,400101,Tsuyoshi Shinjo,Gary Bennett,1,1,4,False,2001-05-28,Caught,Home,2001
+286,1B,2B,Stolen Base 2B,400101,Tsuyoshi Shinjo,Charles Johnson,0,0,5,False,2001-05-25,Stolen,2B,2001
+394,3B,,Caught Stealing Home,400101,Tsuyoshi Shinjo,Chad Kreuter,3,0,6,False,2001-05-20,Caught,Home,2001
+796,1B,2B,Stolen Base 2B,400101,Tsuyoshi Shinjo,Rod Barajas,3,2,7,False,2001-05-04,Stolen,2B,2001
+1318,1B,,Caught Stealing 2B,400101,Tsuyoshi Shinjo,Jason LaRue,1,3,6,False,2001-04-13,Caught,2B,2001
+1662,1B,2B,Stolen Base 2B,400101,Tsuyoshi Shinjo,Gary Bennett,0,0,4,False,2002-07-11,Stolen,2B,2002
+1996,1B,2B,Stolen Base 2B,400101,Tsuyoshi Shinjo,Geronimo Gil,0,1,6,False,2002-06-23,Stolen,2B,2002
+2467,1B,2B,Stolen Base 2B,400101,Tsuyoshi Shinjo,Gary Bennett,1,3,4,False,2002-06-01,Stolen,2B,2002
+3007,1B,2B,Stolen Base 2B,400101,Tsuyoshi Shinjo,Michael Barrett,0,0,3,True,2002-05-11,Stolen,2B,2002
+3727,1B,2B,Stolen Base 2B,400101,Tsuyoshi Shinjo,Paul Lo Duca,0,0,3,False,2002-04-11,Stolen,2B,2002
+3210,1B,,Caught Stealing 2B,400101,Tsuyoshi Shinjo,Ivan Rodriguez,7,3,7,False,2003-04-20,Caught,2B,2003

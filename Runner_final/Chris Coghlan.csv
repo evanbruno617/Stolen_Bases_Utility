@@ -1,0 +1,20 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4121,1B,2B,Stolen Base 2B,458085,Chris Coghlan,285064,Ryan Vogelsong,450314,Ben Zobrist,R,Francisco Cervelli,465041,0,0,1,True,2016-09-27,Stolen,2B,2016,2017,26.2
+1,6788,1B,,Caught Stealing 2B,458085,Chris Coghlan,501957,Chris Tillman,543760,Marcus Semien,R,Matt Wieters,446308,2,3,2,True,2016-05-08,Caught,2B,2016,2017,26.2
+2,6973,1B,2B,Stolen Base 2B,458085,Chris Coghlan,434671,Aníbal Sánchez,475174,Yonder Alonso,R,Jarrod Saltalamacchia,457454,7,2,6,True,2016-04-28,Stolen,2B,2016,2017,26.2
+3,86,1B,2B,Stolen Base 2B,458085,Chris Coghlan,285064,Ryan Vogelsong,450314,Ben Zobrist,R,Francisco Cervelli,465041,0,0,1,True,2016-09-27,Stolen,2B,2016,2017,26.2
+4,2753,1B,,Caught Stealing 2B,458085,Chris Coghlan,501957,Chris Tillman,543760,Marcus Semien,R,Matt Wieters,446308,2,3,2,True,2016-05-08,Caught,2B,2016,2017,26.2
+5,2938,1B,2B,Stolen Base 2B,458085,Chris Coghlan,434671,Aníbal Sánchez,475174,Yonder Alonso,R,Jarrod Saltalamacchia,457454,7,2,6,True,2016-04-28,Stolen,2B,2016,2017,26.2
+6,3493,1B,2B,Stolen Base 2B,458085,Chris Coghlan,285064,Ryan Vogelsong,450314,Ben Zobrist,R,Francisco Cervelli,465041,0,0,1,True,2016-09-27,Stolen,2B,2016,2017,26.2
+7,6160,1B,,Caught Stealing 2B,458085,Chris Coghlan,501957,Chris Tillman,543760,Marcus Semien,R,Matt Wieters,446308,2,3,2,True,2016-05-08,Caught,2B,2016,2017,26.2
+8,6345,1B,2B,Stolen Base 2B,458085,Chris Coghlan,434671,Aníbal Sánchez,475174,Yonder Alonso,R,Jarrod Saltalamacchia,457454,7,2,6,True,2016-04-28,Stolen,2B,2016,2017,26.2
+9,10,2B,3B,Stolen Base 3B,458085,Chris Coghlan,425532,Jerome Williams,452657,Jon Lester,R,Cameron Rupp,519237,0,0,2,False,2015-07-24,Stolen,3B,2015,2016,26.3
+10,13,1B,2B,Stolen Base 2B,458085,Chris Coghlan,491646,Jeanmar Gómez,516770,Starlin Castro,R,Cameron Rupp,519237,3,2,8,False,2015-07-24,Stolen,2B,2015,2016,26.3
+11,348,1B,2B,Stolen Base 2B,458085,Chris Coghlan,548337,Logan Verrett,456121,Chris Denorfia,R,Johnny Monell,476192,1,4,8,True,2015-07-02,Stolen,2B,2015,2016,26.3
+12,370,1B,2B,Stolen Base 2B,458085,Chris Coghlan,544727,Jeurys Familia,516770,Starlin Castro,R,Kevin Plawecki,608700,0,0,9,True,2015-07-01,Stolen,2B,2015,2016,26.3
+13,585,1B,2B,Stolen Base 2B,458085,Chris Coghlan,543507,Trevor May,456121,Chris Denorfia,R,Kurt Suzuki,435559,1,1,6,True,2015-06-20,Stolen,2B,2015,2016,26.3
+14,1346,1B,2B,Stolen Base 2B,458085,Chris Coghlan,592340,Erik Goeddel,424325,David Ross,R,Anthony Recker,489232,6,5,8,False,2015-05-14,Stolen,2B,2015,2016,26.3
+15,1397,1B,2B,Stolen Base 2B,458085,Chris Coghlan,592340,Erik Goeddel,424325,David Ross,R,Kevin Plawecki,608700,4,3,8,False,2015-05-11,Stolen,2B,2015,2016,26.3
+16,1680,1B,2B,Stolen Base 2B,458085,Chris Coghlan,467785,Radhames Liz,608365,Addison Russell,R,Francisco Cervelli,465041,6,2,7,False,2015-04-28,Stolen,2B,2015,2016,26.3
+17,1968,1B,,Caught Stealing 2B,458085,Chris Coghlan,150302,Jason Marquis,516770,Starlin Castro,R,Brayan Peña,430910,2,0,1,False,2015-04-15,Caught,2B,2015,2016,26.3
+18,2031,2B,3B,Stolen Base 3B,458085,Chris Coghlan,543475,Jordan Lyles,471083,Miguel Montero,R,Michael McKenry,502374,5,3,6,True,2015-04-12,Stolen,3B,2015,2016,26.3

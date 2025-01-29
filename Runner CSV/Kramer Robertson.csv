@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3255,2B,3B,Stolen Base 3B,670298,Kramer Robertson,Hayden Senger,3,0,2,False,2022-04-01,Stolen,3B,2022
+3258,1B,2B,Stolen Base 2B,670298,Kramer Robertson,Hayden Senger,5,2,6,False,2022-04-01,Stolen,2B,2022

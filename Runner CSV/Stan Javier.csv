@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1486,1B,,Caught Stealing 2B,116506,Stan Javier,Alberto Castillo,5,5,6,False,2000-07-29,Caught,2B,2000
+1711,3B,3B,Caught Stealing Home,116506,Stan Javier,Damian Miller,2,4,9,True,2000-07-18,Caught,Home,2000
+2052,1B,2B,Stolen Base 2B,116506,Stan Javier,Matt Walbeck,1,0,1,False,2000-06-29,Stolen,2B,2000
+2630,1B,2B,Stolen Base 2B,116506,Stan Javier,Carlos Hernandez,2,3,6,False,2000-06-03,Stolen,2B,2000
+3202,1B,2B,Stolen Base 2B,116506,Stan Javier,Bill Haselman,5,5,9,True,2000-05-10,Stolen,2B,2000
+3570,1B,2B,Caught Stealing 3B,116506,Stan Javier,Einar Díaz,0,2,1,False,2000-04-24,Caught,3B,2000
+3756,2B,,Caught Stealing 3B,116506,Stan Javier,Darrin Fletcher,6,9,6,True,2000-04-16,Caught,3B,2000
+3954,1B,2B,Stolen Base 2B,116506,Stan Javier,Jorge Posada,6,3,6,False,2000-04-07,Stolen,2B,2000
+430,1B,2B,Stolen Base 2B,116506,Stan Javier,Jorge Posada,4,5,2,False,2001-05-18,Stolen,2B,2001
+689,1B,2B,Stolen Base 2B,116506,Stan Javier,Jason Varitek,2,4,6,True,2001-05-09,Stolen,2B,2001

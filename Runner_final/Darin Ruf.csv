@@ -1,0 +1,13 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1185,1B,2B,Stolen Base 2B,573131,Darin Ruf,520980,Pedro Báez,456781,Donovan Solano,R,Will Smith,669257,1,3,7,True,2020-07-26,Stolen,2B,2020,2021,25.8
+1,4028,1B,2B,Stolen Base 2B,573131,Darin Ruf,520980,Pedro Báez,456781,Donovan Solano,R,Will Smith,669257,1,3,7,True,2020-07-26,Stolen,2B,2020,2021,25.8
+2,5952,1B,2B,Stolen Base 2B,573131,Darin Ruf,520980,Pedro Báez,456781,Donovan Solano,R,Will Smith,669257,1,3,7,True,2020-07-26,Stolen,2B,2020,2021,25.8
+3,940,1B,2B,Stolen Base 2B,573131,Darin Ruf,677651,Luis Garcia,621453,Steven Duggar,R,Martín Maldonado,455117,3,2,3,False,2021-08-01,Stolen,2B,2021,2022,25.7
+4,2741,1B,2B,Stolen Base 2B,573131,Darin Ruf,605483,Blake Snell,592200,Curt Casali,L,Luis Campusano,669134,0,2,4,True,2021-04-07,Stolen,2B,2021,2022,25.7
+5,2864,1B,2B,Stolen Base 2B,573131,Darin Ruf,677651,Luis Garcia,621453,Steven Duggar,R,Martín Maldonado,455117,3,2,3,False,2021-08-01,Stolen,2B,2021,2022,25.7
+6,4665,1B,2B,Stolen Base 2B,573131,Darin Ruf,605483,Blake Snell,592200,Curt Casali,L,Luis Campusano,669134,0,2,4,True,2021-04-07,Stolen,2B,2021,2022,25.7
+7,1409,1B,2B,Stolen Base 2B,573131,Darin Ruf,663432,Tanner Rainey,543063,Brandon Crawford,R,Keibert Ruiz,660688,5,11,9,False,2022-05-01,Stolen,2B,2022,2023,25.2
+8,1433,1B,2B,Stolen Base 2B,573131,Darin Ruf,660906,Francisco Pérez,543063,Brandon Crawford,L,Riley Adams,656180,9,3,8,False,2022-04-30,Stolen,2B,2022,2023,25.2
+9,7402,1B,,Caught Stealing 2B,573131,Darin Ruf,502028,Blake Wood,488721,Peter Bourjos,R,Devin Mesoraco,519023,1,2,9,True,2016-04-06,Caught,2B,2016,2020,25.6
+10,3367,1B,,Caught Stealing 2B,573131,Darin Ruf,502028,Blake Wood,488721,Peter Bourjos,R,Devin Mesoraco,519023,1,2,9,True,2016-04-06,Caught,2B,2016,2020,25.6
+11,6774,1B,,Caught Stealing 2B,573131,Darin Ruf,502028,Blake Wood,488721,Peter Bourjos,R,Devin Mesoraco,519023,1,2,9,True,2016-04-06,Caught,2B,2016,2020,25.6

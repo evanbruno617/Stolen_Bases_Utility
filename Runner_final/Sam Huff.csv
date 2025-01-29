@@ -1,0 +1,2 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1132,1B,2B,Stolen Base 2B,669087,Sam Huff,592789,Noah Syndergaard,543543,Brad Miller,R,Austin Romine,519222,4,3,1,False,2022-05-16,Stolen,2B,2022,2023,26.2

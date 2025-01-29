@@ -1,0 +1,126 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+62,1B,,Caught Stealing 2B,113889,Darin Erstad,Ramon Hernandez,0,1,1,True,2000-09-28,Caught,2B,2000
+235,1B,2B,Stolen Base 2B,113889,Darin Erstad,Gregg Zaun,4,7,10,True,2000-09-20,Stolen,2B,2000
+382,1B,2B,Stolen Base 2B,113889,Darin Erstad,John Flaherty,8,4,6,False,2000-09-13,Stolen,2B,2000
+764,1B,2B,Stolen Base 2B,113889,Darin Erstad,Darrin Fletcher,8,4,6,False,2000-08-29,Stolen,2B,2000
+811,1B,2B,Stolen Base 2B,113889,Darin Erstad,Sandy Alomar Jr.,6,4,6,False,2000-08-27,Stolen,2B,2000
+1170,1B,2B,Stolen Base 2B,113889,Darin Erstad,Jorge Posada,7,3,7,False,2000-08-11,Stolen,2B,2000
+1171,2B,3B,Stolen Base 3B,113889,Darin Erstad,Jorge Posada,7,3,7,False,2000-08-11,Stolen,3B,2000
+1212,1B,2B,Stolen Base 2B,113889,Darin Erstad,Jason Varitek,1,3,3,False,2000-08-09,Stolen,2B,2000
+1213,2B,3B,Stolen Base 3B,113889,Darin Erstad,Jason Varitek,1,3,3,False,2000-08-09,Stolen,3B,2000
+1353,1B,2B,Stolen Base 2B,113889,Darin Erstad,Sandy Alomar Jr.,0,0,1,True,2000-08-04,Stolen,2B,2000
+1446,1B,2B,Stolen Base 2B,113889,Darin Erstad,Mark Johnson,2,2,5,False,2000-07-30,Stolen,2B,2000
+1786,1B,2B,Stolen Base 2B,113889,Darin Erstad,Paul Lo Duca,2,5,7,True,2000-07-15,Stolen,2B,2000
+1789,1B,,Caught Stealing 2B,113889,Darin Erstad,Paul Lo Duca,0,0,1,True,2000-07-14,Caught,2B,2000
+1867,1B,2B,Stolen Base 2B,113889,Darin Erstad,Scott Servais,3,0,2,False,2000-07-08,Stolen,2B,2000
+1902,1B,,Caught Stealing 2B,113889,Darin Erstad,Joe Oliver,0,0,1,False,2000-07-06,Caught,2B,2000
+1916,1B,2B,Stolen Base 2B,113889,Darin Erstad,Joe Oliver,4,6,9,False,2000-07-05,Stolen,2B,2000
+1982,1B,2B,Stolen Base 2B,113889,Darin Erstad,Ramon Hernandez,2,8,7,False,2000-07-02,Stolen,2B,2000
+2000,1B,2B,Stolen Base 2B,113889,Darin Erstad,Ramon Hernandez,6,2,8,False,2000-07-01,Stolen,2B,2000
+2023,1B,2B,Stolen Base 2B,113889,Darin Erstad,Ramon Hernandez,0,0,1,False,2000-06-30,Stolen,2B,2000
+2128,1B,2B,Stolen Base 2B,113889,Darin Erstad,Chad Moeller,5,6,7,False,2000-06-25,Stolen,2B,2000
+2483,1B,2B,Stolen Base 2B,113889,Darin Erstad,Kelly Stinnett,0,1,3,True,2000-06-09,Stolen,2B,2000
+2568,2B,3B,Stolen Base 3B,113889,Darin Erstad,Doug Mirabelli,0,1,1,False,2000-06-05,Stolen,3B,2000
+2661,1B,,Caught Stealing 2B,113889,Darin Erstad,Paul Lo Duca,0,0,1,False,2000-06-02,Caught,2B,2000
+2751,1B,2B,Stolen Base 2B,113889,Darin Erstad,Sandy Alomar Jr.,3,0,3,True,2000-05-30,Stolen,2B,2000
+2791,1B,,Caught Stealing 2B,113889,Darin Erstad,Brian Johnson,0,0,1,True,2000-05-28,Caught,2B,2000
+3036,1B,2B,Stolen Base 2B,113889,Darin Erstad,Charles Johnson,0,1,3,False,2000-05-16,Stolen,2B,2000
+3143,2B,,Caught Stealing 3B,113889,Darin Erstad,Ivan Rodriguez,3,0,2,False,2000-05-12,Caught,3B,2000
+3443,1B,2B,Stolen Base 2B,113889,Darin Erstad,Mike DiFelice,4,3,5,False,2000-04-29,Stolen,2B,2000
+3593,1B,2B,Stolen Base 2B,113889,Darin Erstad,Mike DiFelice,0,0,3,True,2000-04-23,Stolen,2B,2000
+3613,1B,2B,Stolen Base 2B,113889,Darin Erstad,John Flaherty,3,4,5,True,2000-04-22,Stolen,2B,2000
+3660,1B,2B,Stolen Base 2B,113889,Darin Erstad,Darrin Fletcher,0,0,1,True,2000-04-20,Stolen,2B,2000
+3681,1B,2B,Stolen Base 2B,113889,Darin Erstad,Alberto Castillo,3,0,3,True,2000-04-19,Stolen,2B,2000
+3746,1B,2B,Stolen Base 2B,113889,Darin Erstad,Josh Paul,1,2,5,True,2000-04-16,Stolen,2B,2000
+3774,1B,,Caught Stealing 2B,113889,Darin Erstad,Mark Johnson,0,3,4,True,2000-04-15,Caught,2B,2000
+3959,1B,2B,Stolen Base 2B,113889,Darin Erstad,Scott Hatteberg,5,0,6,False,2000-04-07,Stolen,2B,2000
+71,1B,2B,Stolen Base 2B,113889,Darin Erstad,A.J. Hinch,2,2,8,False,2001-06-02,Stolen,2B,2001
+98,1B,2B,Stolen Base 2B,113889,Darin Erstad,Héctor Ortiz,6,1,7,False,2001-06-01,Stolen,2B,2001
+233,1B,2B,Stolen Base 2B,113889,Darin Erstad,Mike DiFelice,3,3,10,True,2001-05-27,Stolen,2B,2001
+259,2B,3B,Stolen Base 3B,113889,Darin Erstad,John Flaherty,4,7,4,True,2001-05-26,Stolen,3B,2001
+305,1B,2B,Stolen Base 2B,113889,Darin Erstad,Brook Fordyce,4,3,5,True,2001-05-24,Stolen,2B,2001
+375,1B,2B,Stolen Base 2B,113889,Darin Erstad,Einar Díaz,6,2,6,False,2001-05-20,Stolen,2B,2001
+481,1B,2B,Stolen Base 2B,113889,Darin Erstad,Darrin Fletcher,3,1,7,False,2001-05-16,Stolen,2B,2001
+647,1B,2B,Stolen Base 2B,113889,Darin Erstad,Brandon Inge,2,6,6,True,2001-05-11,Stolen,2B,2001
+651,1B,2B,Stolen Base 2B,113889,Darin Erstad,Sandy Alomar Jr.,0,1,1,True,2001-05-10,Stolen,2B,2001
+1362,2B,3B,Caught Stealing 2B,113889,Darin Erstad,Ivan Rodriguez,0,0,1,False,2001-04-10,Caught,2B,2001
+80,1B,2B,Stolen Base 2B,113889,Darin Erstad,Todd Greene,1,0,4,True,2002-09-26,Stolen,2B,2002
+228,1B,2B,Stolen Base 2B,113889,Darin Erstad,Greg Myers,1,2,3,True,2002-09-18,Stolen,2B,2002
+354,2B,3B,Stolen Base 3B,113889,Darin Erstad,Greg Myers,6,6,9,False,2002-09-12,Stolen,3B,2002
+567,1B,2B,Stolen Base 2B,113889,Darin Erstad,Brook Fordyce,4,1,5,False,2002-09-01,Stolen,2B,2002
+746,1B,2B,Stolen Base 2B,113889,Darin Erstad,Doug Mirabelli,0,0,1,True,2002-08-24,Stolen,2B,2002
+764,1B,2B,Stolen Base 2B,113889,Darin Erstad,Chris Widger,0,0,1,True,2002-08-22,Stolen,2B,2002
+1122,1B,2B,Stolen Base 2B,113889,Darin Erstad,Chris Widger,5,5,9,False,2002-08-04,Stolen,2B,2002
+1139,1B,2B,Stolen Base 2B,113889,Darin Erstad,Jorge Posada,3,0,6,False,2002-08-03,Stolen,2B,2002
+1360,1B,,Caught Stealing 2B,113889,Darin Erstad,Ramon Hernandez,0,0,1,False,2002-07-23,Caught,2B,2002
+1710,1B,2B,Stolen Base 2B,113889,Darin Erstad,John Flaherty,4,2,8,False,2002-07-06,Stolen,2B,2002
+1870,1B,2B,Stolen Base 2B,113889,Darin Erstad,Paul Lo Duca,3,0,4,False,2002-06-29,Stolen,2B,2002
+1871,1B,2B,Stolen Base 2B,113889,Darin Erstad,Paul Lo Duca,5,0,6,False,2002-06-29,Stolen,2B,2002
+2017,1B,2B,Stolen Base 2B,113889,Darin Erstad,Marcus Jensen,1,5,4,True,2002-06-22,Stolen,2B,2002
+2037,1B,2B,Stolen Base 2B,113889,Darin Erstad,Robert Machado,0,1,3,True,2002-06-21,Stolen,2B,2002
+2038,1B,2B,Stolen Base 2B,113889,Darin Erstad,Robert Machado,1,4,4,True,2002-06-21,Stolen,2B,2002
+2165,1B,2B,Stolen Base 2B,113889,Darin Erstad,Paul Lo Duca,1,0,3,True,2002-06-14,Stolen,2B,2002
+2228,1B,2B,Stolen Base 2B,113889,Darin Erstad,Jason Kendall,0,0,1,False,2002-06-11,Stolen,2B,2002
+2323,1B,,Caught Stealing 2B,113889,Darin Erstad,Jason LaRue,0,0,1,False,2002-06-07,Caught,2B,2002
+2521,1B,2B,Stolen Base 2B,113889,Darin Erstad,A.J. Hinch,2,7,6,True,2002-05-29,Stolen,2B,2002
+2625,1B,2B,Stolen Base 2B,113889,Darin Erstad,A.J. Pierzynski,2,2,6,False,2002-05-25,Stolen,2B,2002
+3101,1B,2B,Stolen Base 2B,113889,Darin Erstad,Brandon Inge,0,0,1,False,2002-05-07,Stolen,2B,2002
+3197,1B,2B,Stolen Base 2B,113889,Darin Erstad,Darrin Fletcher,4,1,6,True,2002-05-03,Stolen,2B,2002
+3626,1B,2B,Stolen Base 2B,113889,Darin Erstad,Greg Myers,4,1,8,False,2002-04-14,Stolen,2B,2002
+3708,1B,2B,Stolen Base 2B,113889,Darin Erstad,Dan Wilson,0,0,1,False,2002-04-11,Stolen,2B,2002
+3911,1B,2B,Stolen Base 2B,113889,Darin Erstad,Einar Díaz,1,0,1,False,2002-04-02,Stolen,2B,2002
+1175,1B,2B,Stolen Base 2B,113889,Darin Erstad,Jorge Posada,1,1,6,False,2003-07-31,Stolen,2B,2003
+1392,1B,2B,Stolen Base 2B,113889,Darin Erstad,Javier Valentin,1,3,8,True,2003-07-22,Stolen,2B,2003
+1502,1B,2B,Stolen Base 2B,113889,Darin Erstad,A.J. Pierzynski,0,0,1,False,2003-07-13,Stolen,2B,2003
+1590,1B,2B,Stolen Base 2B,113889,Darin Erstad,Brent Mayne,2,0,5,False,2003-07-09,Stolen,2B,2003
+1776,1B,2B,Stolen Base 2B,113889,Darin Erstad,Paul Lo Duca,0,0,1,False,2003-06-29,Stolen,2B,2003
+1777,1B,2B,Stolen Base 2B,113889,Darin Erstad,Paul Lo Duca,3,0,2,False,2003-06-29,Stolen,2B,2003
+3291,1B,2B,Stolen Base 2B,113889,Darin Erstad,Einar Díaz,0,1,1,True,2003-04-17,Stolen,2B,2003
+3378,1B,2B,Stolen Base 2B,113889,Darin Erstad,Ramon Hernandez,8,4,7,False,2003-04-12,Stolen,2B,2003
+3574,1B,2B,Stolen Base 2B,113889,Darin Erstad,Chad Kreuter,6,0,4,False,2003-04-01,Stolen,2B,2003
+390,1B,2B,Stolen Base 2B,113889,Darin Erstad,Ben Davis,1,0,1,False,2004-09-12,Stolen,2B,2004
+580,1B,2B,Stolen Base 2B,113889,Darin Erstad,Victor Martinez,5,9,9,True,2004-09-03,Stolen,2B,2004
+829,1B,2B,Stolen Base 2B,113889,Darin Erstad,Jorge Posada,1,4,7,True,2004-08-21,Stolen,2B,2004
+966,1B,2B,Stolen Base 2B,113889,Darin Erstad,Ivan Rodriguez,0,2,2,False,2004-08-13,Stolen,2B,2004
+1138,1B,2B,Stolen Base 2B,113889,Darin Erstad,Henry Blanco,2,7,7,True,2004-08-05,Stolen,2B,2004
+1252,2B,3B,Stolen Base 3B,113889,Darin Erstad,Miguel Olivo,3,2,4,False,2004-07-30,Stolen,3B,2004
+1563,1B,2B,Stolen Base 2B,113889,Darin Erstad,Jason Varitek,0,0,2,False,2004-07-15,Stolen,2B,2004
+1672,1B,2B,Stolen Base 2B,113889,Darin Erstad,Sandy Alomar Jr.,0,2,2,True,2004-07-07,Stolen,2B,2004
+1750,1B,2B,Stolen Base 2B,113889,Darin Erstad,Paul Lo Duca,0,0,1,False,2004-07-02,Stolen,2B,2004
+1833,1B,2B,Stolen Base 2B,113889,Darin Erstad,David Ross,10,5,8,True,2004-06-27,Stolen,2B,2004
+1948,1B,2B,Stolen Base 2B,113889,Darin Erstad,Adam Melhuse,4,0,3,False,2004-06-22,Stolen,2B,2004
+1998,1B,2B,Stolen Base 2B,113889,Darin Erstad,Brad Ausmus,0,5,6,True,2004-06-19,Stolen,2B,2004
+3242,1B,2B,Stolen Base 2B,113889,Darin Erstad,Damian Miller,0,1,1,False,2004-04-18,Stolen,2B,2004
+3276,1B,2B,Stolen Base 2B,113889,Darin Erstad,Damian Miller,4,1,3,False,2004-04-17,Stolen,2B,2004
+3361,1B,2B,Stolen Base 2B,113889,Darin Erstad,Dan Wilson,0,3,3,False,2004-04-13,Stolen,2B,2004
+3378,1B,2B,Stolen Base 2B,113889,Darin Erstad,Gerald Laird,7,5,9,True,2004-04-12,Stolen,2B,2004
+582,1B,2B,Stolen Base 2B,113889,Darin Erstad,Adam Melhuse,3,0,8,False,2005-09-01,Stolen,2B,2005
+613,1B,2B,Stolen Base 2B,113889,Darin Erstad,Jason Kendall,1,1,10,False,2005-08-30,Stolen,2B,2005
+780,1B,,Caught Stealing 2B,113889,Darin Erstad,Jason Varitek,0,0,4,False,2005-08-21,Caught,2B,2005
+1247,1B,2B,Stolen Base 2B,113889,Darin Erstad,Gregg Zaun,1,2,3,True,2005-07-27,Stolen,2B,2005
+1337,1B,2B,Stolen Base 2B,113889,Darin Erstad,Jorge Posada,8,4,6,False,2005-07-23,Stolen,2B,2005
+1970,1B,2B,Stolen Base 2B,113889,Darin Erstad,Paul Lo Duca,5,7,8,False,2005-06-19,Stolen,2B,2005
+2066,1B,2B,Stolen Base 2B,113889,Darin Erstad,Brian Schneider,0,0,1,False,2005-06-14,Stolen,2B,2005
+2166,1B,2B,Stolen Base 2B,113889,Darin Erstad,Brayan Peña,4,7,8,True,2005-06-08,Stolen,2B,2005
+2237,1B,2B,Stolen Base 2B,113889,Darin Erstad,Jason Varitek,5,7,8,True,2005-06-04,Stolen,2B,2005
+2339,1B,,Caught Stealing 2B,113889,Darin Erstad,John Buck,0,0,1,False,2005-05-29,Caught,2B,2005
+2380,1B,2B,Stolen Base 2B,113889,Darin Erstad,John Buck,1,1,3,False,2005-05-27,Stolen,2B,2005
+2816,2B,,Caught Stealing 3B,113889,Darin Erstad,Ivan Rodriguez,0,0,1,False,2005-05-06,Caught,3B,2005
+3378,1B,2B,Stolen Base 2B,113889,Darin Erstad,John Buck,4,1,4,False,2005-04-09,Stolen,2B,2005
+2674,1B,,Caught Stealing 2B,113889,Darin Erstad,Sal Fasano,1,0,3,True,2007-05-31,Caught,2B,2007
+2953,1B,2B,Stolen Base 2B,113889,Darin Erstad,Jorge Posada,1,0,1,False,2007-05-17,Stolen,2B,2007
+2982,1B,2B,Stolen Base 2B,113889,Darin Erstad,Jorge Posada,2,1,5,False,2007-05-16,Stolen,2B,2007
+2985,1B,2B,Stolen Base 2B,113889,Darin Erstad,Jorge Posada,2,1,5,False,2007-05-15,Stolen,2B,2007
+3186,1B,2B,Stolen Base 2B,113889,Darin Erstad,José Molina,3,4,7,True,2007-05-05,Stolen,2B,2007
+3502,1B,2B,Stolen Base 2B,113889,Darin Erstad,Ivan Rodriguez,5,7,10,True,2007-04-21,Stolen,2B,2007
+3528,1B,,Caught Stealing 2B,113889,Darin Erstad,Ivan Rodriguez,4,5,7,True,2007-04-20,Caught,2B,2007
+3665,1B,2B,Stolen Base 2B,113889,Darin Erstad,Kelly Shoppach,0,0,1,True,2007-04-13,Stolen,2B,2007
+3834,1B,2B,Stolen Base 2B,113889,Darin Erstad,Victor Martinez,3,4,3,False,2007-04-04,Stolen,2B,2007
+3836,1B,2B,Stolen Base 2B,113889,Darin Erstad,Victor Martinez,7,8,9,False,2007-04-04,Stolen,2B,2007
+370,1B,,Caught Stealing 2B,113889,Darin Erstad,Ryan Doumit,2,2,5,False,2008-09-10,Caught,2B,2008
+845,1B,2B,Stolen Base 2B,113889,Darin Erstad,Jason Kendall,2,2,6,True,2008-08-19,Stolen,2B,2008
+2368,1B,,Caught Stealing 2B,113889,Darin Erstad,Jason Kendall,0,1,3,True,2008-05-31,Caught,2B,2008
+3300,1B,2B,Stolen Base 2B,113889,Darin Erstad,Yorvit Torrealba,3,3,6,False,2008-04-20,Stolen,2B,2008
+3619,1B,,Caught Stealing 2B,113889,Darin Erstad,Henry Blanco,1,1,3,True,2008-04-06,Caught,2B,2008
+839,1B,,Caught Stealing 2B,113889,Darin Erstad,Miguel Olivo,5,4,7,False,2009-06-25,Caught,2B,2009
+947,1B,,Caught Stealing 2B,113889,Darin Erstad,Joe Mauer,1,1,5,True,2009-06-19,Caught,2B,2009

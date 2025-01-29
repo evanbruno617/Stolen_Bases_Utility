@@ -1,0 +1,22 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+7,1B,2B,Stolen Base 2B,664913,Seth Brown,Omar Narváez,2,0,2,True,2019-09-29,Stolen,2B,2019
+96,1B,,Caught Stealing 2B,664913,Seth Brown,Martín Maldonado,3,2,6,False,2021-09-24,Caught,2B,2021
+634,1B,2B,Stolen Base 2B,664913,Seth Brown,Curt Casali,3,0,1,False,2021-08-21,Stolen,2B,2021
+806,1B,2B,Stolen Base 2B,664913,Seth Brown,Austin Hedges,3,3,9,True,2021-08-10,Stolen,2B,2021
+1201,1B,2B,Stolen Base 2B,664913,Seth Brown,Austin Hedges,1,0,2,False,2021-07-17,Stolen,2B,2021
+1285,1B,2B,Stolen Base 2B,664913,Seth Brown,Martín Maldonado,0,1,3,True,2021-07-07,Stolen,2B,2021
+41,1B,2B,Stolen Base 2B,664913,Seth Brown,Logan O'Hoppe,0,1,1,True,2022-09-28,Stolen,2B,2022
+182,1B,2B,Stolen Base 2B,664913,Seth Brown,Curt Casali,4,1,8,False,2022-09-20,Stolen,2B,2022
+953,1B,2B,Caught Stealing 3B,664913,Seth Brown,Max Stassi,0,0,4,False,2022-08-10,Caught,3B,2022
+1055,1B,2B,Stolen Base 2B,664913,Seth Brown,Kurt Suzuki,6,8,9,True,2022-08-04,Stolen,2B,2022
+1396,2B,,Caught Stealing 3B,664913,Seth Brown,Sam Huff,3,5,8,True,2022-07-12,Caught,3B,2022
+1767,1B,2B,Stolen Base 2B,664913,Seth Brown,Luis Torrens,1,0,7,False,2022-06-23,Stolen,2B,2022
+1965,1B,2B,Stolen Base 2B,664913,Seth Brown,Austin Hedges,3,1,6,True,2022-06-12,Stolen,2B,2022
+2136,1B,2B,Stolen Base 2B,664913,Seth Brown,Kevin Plawecki,0,2,4,False,2022-06-03,Stolen,2B,2022
+2313,1B,2B,Stolen Base 2B,664913,Seth Brown,Luis Torrens,2,3,9,True,2022-05-25,Stolen,2B,2022
+2386,1B,2B,Stolen Base 2B,664913,Seth Brown,Chad Wallach,0,1,1,True,2022-05-20,Stolen,2B,2022
+2619,1B,2B,Stolen Base 2B,664913,Seth Brown,Gary Sánchez,4,3,6,True,2022-05-08,Stolen,2B,2022
+2726,1B,2B,Stolen Base 2B,664913,Seth Brown,Mike Zunino,1,1,2,False,2022-05-02,Stolen,2B,2022
+191,1B,2B,Stolen Base 2B,664913,Seth Brown,Carson Kelly,2,1,4,False,2023-09-23,Stolen,2B,2023
+2569,1B,,Caught Stealing 2B,664913,Seth Brown,Victor Caratini,0,1,6,True,2023-06-10,Caught,2B,2023
+2881,1B,2B,Stolen Base 2B,664913,Seth Brown,Yainer Diaz,1,1,1,False,2023-05-28,Stolen,2B,2023

@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1566,1B,,Caught Stealing 2B,236427,Frank Menechino,Joe Oliver,4,4,7,True,2000-07-25,Caught,2B,2000
+3782,1B,,Caught Stealing 2B,236427,Frank Menechino,Jason Varitek,0,0,1,True,2000-04-15,Caught,2B,2000
+3865,1B,,Caught Stealing 2B,236427,Frank Menechino,Sandy Alomar Jr.,0,0,1,False,2000-04-11,Caught,2B,2000
+3955,1B,2B,Stolen Base 2B,236427,Frank Menechino,Mark Johnson,4,2,5,False,2000-04-07,Stolen,2B,2000
+786,1B,2B,Stolen Base 2B,236427,Frank Menechino,Scott Hatteberg,2,3,3,False,2001-05-04,Stolen,2B,2001

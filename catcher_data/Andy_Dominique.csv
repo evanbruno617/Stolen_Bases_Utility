@@ -1,0 +1,9 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,406878,Brian Roberts,Andy Dominique,0,0,1,True,2004-05-31,Stolen,2B,2004
+2B,3B,Stolen Base 3B,150020,Jerry Hairston,Andy Dominique,0,2,3,True,2004-05-31,Stolen,3B,2004
+1B,2B,Stolen Base 2B,275928,Luis Matos,Andy Dominique,0,2,4,True,2004-05-31,Stolen,2B,2004
+1B,2B,Stolen Base 2B,406878,Brian Roberts,Andy Dominique,0,0,1,True,2004-04-13,Stolen,2B,2004
+2B,3B,Stolen Base 3B,150020,Jerry Hairston,Andy Dominique,0,2,3,True,2004-04-13,Stolen,3B,2004
+1B,2B,Stolen Base 2B,275928,Luis Matos,Andy Dominique,0,2,4,True,2004-04-13,Stolen,2B,2004
+1B,2B,Stolen Base 2B,150212,Michael Cuddyer,Andy Dominique,2,0,2,False,2005-05-18,Stolen,2B,2005
+1B,2B,Stolen Base 2B,276372,Luis Rivas,Andy Dominique,2,0,2,False,2005-05-18,Stolen,2B,2005

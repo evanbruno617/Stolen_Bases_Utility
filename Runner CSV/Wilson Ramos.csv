@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+4068,1B,,Caught Stealing 2B,467092,Wilson Ramos,Jonathan Lucroy,3,2,8,False,2011-04-15,Caught,2B,2011
+4083,1B,,Caught Stealing 2B,467092,Wilson Ramos,Carlos Ruiz,0,0,5,False,2011-04-14,Caught,2B,2011
+3470,1B,,Caught Stealing 2B,467092,Wilson Ramos,Tyler Flowers,2,1,5,False,2013-04-09,Caught,2B,2013
+640,1B,2B,Stolen Base 2B,467092,Wilson Ramos,Alex Jackson,1,1,10,False,2019-08-23,Stolen,2B,2019

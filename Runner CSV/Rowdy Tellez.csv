@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1588,1B,,Caught Stealing 2B,642133,Rowdy Tellez,Dustin Garneau,4,2,3,False,2019-06-20,Caught,2B,2019
+1727,1B,2B,Stolen Base 2B,642133,Rowdy Tellez,Pedro Severino,6,8,9,True,2019-06-12,Stolen,2B,2019
+412,1B,2B,Stolen Base 2B,642133,Rowdy Tellez,Austin Wynns,4,1,7,False,2022-09-08,Stolen,2B,2022
+606,1B,,Caught Stealing 2B,642133,Rowdy Tellez,Yan Gomes,5,2,4,False,2022-08-28,Caught,2B,2022
+1032,1B,2B,Stolen Base 2B,642133,Rowdy Tellez,Michael Papierski,5,0,3,False,2022-08-05,Stolen,2B,2022

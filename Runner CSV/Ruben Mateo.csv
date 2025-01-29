@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2788,1B,2B,Stolen Base 2B,150288,Ruben Mateo,Marcus Jensen,2,2,2,True,2000-05-28,Stolen,2B,2000
+2790,1B,2B,Stolen Base 2B,150288,Ruben Mateo,Marcus Jensen,4,3,7,True,2000-05-28,Stolen,2B,2000
+3353,1B,2B,Stolen Base 2B,150288,Ruben Mateo,John Flaherty,0,4,8,True,2000-05-03,Stolen,2B,2000
+3486,1B,2B,Stolen Base 2B,150288,Ruben Mateo,Greg Myers,0,3,6,True,2000-04-28,Stolen,2B,2000
+3691,1B,2B,Stolen Base 2B,150288,Ruben Mateo,Jorge Posada,1,2,7,False,2000-04-19,Stolen,2B,2000
+3779,1B,2B,Stolen Base 2B,150288,Ruben Mateo,Sandy Alomar Jr.,4,6,7,True,2000-04-15,Stolen,2B,2000
+1166,1B,2B,Stolen Base 2B,150288,Ruben Mateo,Tom Lampkin,1,4,4,True,2001-04-18,Stolen,2B,2001
+1617,1B,,Caught Stealing 2B,150288,Ruben Mateo,Javy Lopez,0,0,2,True,2004-07-10,Caught,2B,2004
+1645,1B,2B,Stolen Base 2B,150288,Ruben Mateo,Javy Lopez,0,2,6,True,2004-07-09,Stolen,2B,2004

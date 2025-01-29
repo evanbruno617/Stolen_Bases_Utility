@@ -1,0 +1,68 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,426,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,493603,Adam Ottavino,542340,Jonathan Villar,R,Kyle Higashioka,543309,6,6,6,False,2020-09-07,Stolen,2B,2020,2021,26.7
+1,549,2B,3B,Stolen Base 3B,666971,Lourdes Gurriel Jr.,664042,Travis Lakins Sr.,596129,Daniel Vogelbach,R,Chance Sisco,642082,2,2,6,False,2020-08-31,Stolen,3B,2020,2021,26.7
+2,664,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,605155,Colten Brewer,624512,Reese McGuire,R,Christian Vázquez,543877,2,0,2,False,2020-08-26,Stolen,2B,2020,2021,26.7
+3,1026,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,458708,Josh Tomlin,545341,Randal Grichuk,R,Travis d'Arnaud,518595,0,2,6,True,2020-08-05,Caught,2B,2020,2021,26.7
+4,3269,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,493603,Adam Ottavino,542340,Jonathan Villar,R,Kyle Higashioka,543309,6,6,6,False,2020-09-07,Stolen,2B,2020,2021,26.7
+5,3392,2B,3B,Stolen Base 3B,666971,Lourdes Gurriel Jr.,664042,Travis Lakins Sr.,596129,Daniel Vogelbach,R,Chance Sisco,642082,2,2,6,False,2020-08-31,Stolen,3B,2020,2021,26.7
+6,3507,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,605155,Colten Brewer,624512,Reese McGuire,R,Christian Vázquez,543877,2,0,2,False,2020-08-26,Stolen,2B,2020,2021,26.7
+7,3869,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,458708,Josh Tomlin,545341,Randal Grichuk,R,Travis d'Arnaud,518595,0,2,6,True,2020-08-05,Caught,2B,2020,2021,26.7
+8,5193,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,493603,Adam Ottavino,542340,Jonathan Villar,R,Kyle Higashioka,543309,6,6,6,False,2020-09-07,Stolen,2B,2020,2021,26.7
+9,5316,2B,3B,Stolen Base 3B,666971,Lourdes Gurriel Jr.,664042,Travis Lakins Sr.,596129,Daniel Vogelbach,R,Chance Sisco,642082,2,2,6,False,2020-08-31,Stolen,3B,2020,2021,26.7
+10,5431,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,605155,Colten Brewer,624512,Reese McGuire,R,Christian Vázquez,543877,2,0,2,False,2020-08-26,Stolen,2B,2020,2021,26.7
+11,5793,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,458708,Josh Tomlin,545341,Randal Grichuk,R,Travis d'Arnaud,518595,0,2,6,True,2020-08-05,Caught,2B,2020,2021,26.7
+12,2233,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,596001,Jakob Junis,475253,Justin Smoak,R,Cam Gallagher,595956,0,0,1,True,2019-07-31,Stolen,2B,2019,2020,26.3
+13,2245,2B,,Caught Stealing 3B,666971,Lourdes Gurriel Jr.,543557,Mike Montgomery,665489,Vladimir Guerrero Jr.,L,Meibrys Viloria,650619,0,2,1,True,2019-07-30,Caught,3B,2019,2020,26.3
+14,2369,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,605182,Mike Clevinger,665489,Vladimir Guerrero Jr.,R,Roberto Pérez,547379,1,3,4,False,2019-07-22,Caught,2B,2019,2020,26.3
+15,2482,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,543901,Ryan Weber,545341,Randal Grichuk,R,Christian Vázquez,543877,4,9,9,True,2019-07-16,Stolen,2B,2019,2020,26.3
+16,2540,2B,3B,Stolen Base 3B,666971,Lourdes Gurriel Jr.,493603,Adam Ottavino,545341,Randal Grichuk,R,Gary Sánchez,596142,0,2,6,True,2019-07-13,Stolen,3B,2019,2020,26.3
+17,2580,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,593679,Gabriel Ynoa,624415,Cavan Biggio,R,Chance Sisco,642082,6,1,7,False,2019-07-07,Stolen,2B,2019,2020,26.3
+18,2765,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,282332,CC Sabathia,545341,Randal Grichuk,L,Gary Sánchez,596142,0,2,3,True,2019-06-24,Caught,2B,2019,2020,26.3
+19,3167,2B,3B,Stolen Base 3B,666971,Lourdes Gurriel Jr.,592351,Jon Gray,643376,Danny Jansen,R,Tony Wolters,547172,3,0,2,True,2019-06-01,Stolen,3B,2019,2020,26.3
+20,4071,3B,score,Stolen Base Home,666971,Lourdes Gurriel Jr.,519242,Chris Sale,641856,Billy McKinney,L,Christian Vázquez,543877,2,5,4,True,2019-04-09,Stolen,Home,2019,2020,26.3
+21,4160,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,501992,Nate Karns,520471,Freddy Galvis,R,Pedro Severino,600474,1,0,2,False,2019-04-03,Caught,2B,2019,2020,26.3
+22,5076,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,596001,Jakob Junis,475253,Justin Smoak,R,Cam Gallagher,595956,0,0,1,True,2019-07-31,Stolen,2B,2019,2020,26.3
+23,5088,2B,,Caught Stealing 3B,666971,Lourdes Gurriel Jr.,543557,Mike Montgomery,665489,Vladimir Guerrero Jr.,L,Meibrys Viloria,650619,0,2,1,True,2019-07-30,Caught,3B,2019,2020,26.3
+24,5212,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,605182,Mike Clevinger,665489,Vladimir Guerrero Jr.,R,Roberto Pérez,547379,1,3,4,False,2019-07-22,Caught,2B,2019,2020,26.3
+25,5325,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,543901,Ryan Weber,545341,Randal Grichuk,R,Christian Vázquez,543877,4,9,9,True,2019-07-16,Stolen,2B,2019,2020,26.3
+26,5383,2B,3B,Stolen Base 3B,666971,Lourdes Gurriel Jr.,493603,Adam Ottavino,545341,Randal Grichuk,R,Gary Sánchez,596142,0,2,6,True,2019-07-13,Stolen,3B,2019,2020,26.3
+27,5423,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,593679,Gabriel Ynoa,624415,Cavan Biggio,R,Chance Sisco,642082,6,1,7,False,2019-07-07,Stolen,2B,2019,2020,26.3
+28,5608,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,282332,CC Sabathia,545341,Randal Grichuk,L,Gary Sánchez,596142,0,2,3,True,2019-06-24,Caught,2B,2019,2020,26.3
+29,6010,2B,3B,Stolen Base 3B,666971,Lourdes Gurriel Jr.,592351,Jon Gray,643376,Danny Jansen,R,Tony Wolters,547172,3,0,2,True,2019-06-01,Stolen,3B,2019,2020,26.3
+30,6914,3B,score,Stolen Base Home,666971,Lourdes Gurriel Jr.,519242,Chris Sale,641856,Billy McKinney,L,Christian Vázquez,543877,2,5,4,True,2019-04-09,Stolen,Home,2019,2020,26.3
+31,7003,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,501992,Nate Karns,520471,Freddy Galvis,R,Pedro Severino,600474,1,0,2,False,2019-04-03,Caught,2B,2019,2020,26.3
+32,7000,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,596001,Jakob Junis,475253,Justin Smoak,R,Cam Gallagher,595956,0,0,1,True,2019-07-31,Stolen,2B,2019,2020,26.3
+33,7012,2B,,Caught Stealing 3B,666971,Lourdes Gurriel Jr.,543557,Mike Montgomery,665489,Vladimir Guerrero Jr.,L,Meibrys Viloria,650619,0,2,1,True,2019-07-30,Caught,3B,2019,2020,26.3
+34,7136,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,605182,Mike Clevinger,665489,Vladimir Guerrero Jr.,R,Roberto Pérez,547379,1,3,4,False,2019-07-22,Caught,2B,2019,2020,26.3
+35,7249,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,543901,Ryan Weber,545341,Randal Grichuk,R,Christian Vázquez,543877,4,9,9,True,2019-07-16,Stolen,2B,2019,2020,26.3
+36,7307,2B,3B,Stolen Base 3B,666971,Lourdes Gurriel Jr.,493603,Adam Ottavino,545341,Randal Grichuk,R,Gary Sánchez,596142,0,2,6,True,2019-07-13,Stolen,3B,2019,2020,26.3
+37,7347,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,593679,Gabriel Ynoa,624415,Cavan Biggio,R,Chance Sisco,642082,6,1,7,False,2019-07-07,Stolen,2B,2019,2020,26.3
+38,7532,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,282332,CC Sabathia,545341,Randal Grichuk,L,Gary Sánchez,596142,0,2,3,True,2019-06-24,Caught,2B,2019,2020,26.3
+39,7934,2B,3B,Stolen Base 3B,666971,Lourdes Gurriel Jr.,592351,Jon Gray,643376,Danny Jansen,R,Tony Wolters,547172,3,0,2,True,2019-06-01,Stolen,3B,2019,2020,26.3
+40,8838,3B,score,Stolen Base Home,666971,Lourdes Gurriel Jr.,519242,Chris Sale,641856,Billy McKinney,L,Christian Vázquez,543877,2,5,4,True,2019-04-09,Stolen,Home,2019,2020,26.3
+41,8927,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,501992,Nate Karns,520471,Freddy Galvis,R,Pedro Severino,600474,1,0,2,False,2019-04-03,Caught,2B,2019,2020,26.3
+42,378,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,592791,Jameson Taillon,643376,Danny Jansen,R,Gary Sánchez,596142,0,2,2,True,2021-09-06,Caught,2B,2021,2022,27.3
+43,1368,2B,,Caught Stealing 3B,666971,Lourdes Gurriel Jr.,605538,Matt Wisler,669289,Santiago Espinal,R,Mike Zunino,572287,6,1,6,False,2021-07-03,Caught,3B,2021,2022,27.3
+44,2187,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,458708,Josh Tomlin,624415,Cavan Biggio,R,William Contreras,661388,1,4,9,True,2021-05-12,Caught,2B,2021,2022,27.3
+45,2530,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,592169,Austin Brice,643376,Danny Jansen,R,Christian Vázquez,543877,2,4,8,True,2021-04-21,Stolen,2B,2021,2022,27.3
+46,2302,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,592791,Jameson Taillon,643376,Danny Jansen,R,Gary Sánchez,596142,0,2,2,True,2021-09-06,Caught,2B,2021,2022,27.3
+47,3292,2B,,Caught Stealing 3B,666971,Lourdes Gurriel Jr.,605538,Matt Wisler,669289,Santiago Espinal,R,Mike Zunino,572287,6,1,6,False,2021-07-03,Caught,3B,2021,2022,27.3
+48,4111,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,458708,Josh Tomlin,624415,Cavan Biggio,R,William Contreras,661388,1,4,9,True,2021-05-12,Caught,2B,2021,2022,27.3
+49,4454,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,592169,Austin Brice,643376,Danny Jansen,R,Christian Vázquez,543877,2,4,8,True,2021-04-21,Stolen,2B,2021,2022,27.3
+50,6,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,434378,Justin Verlander,672515,Gabriel Moreno,R,Martín Maldonado,455117,0,1,4,False,2023-09-30,Stolen,2B,2023,2024,26.6
+51,1127,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,641755,Tyler Kinley,607054,Jace Peterson,R,Elias Díaz,553869,5,8,9,True,2023-08-15,Stolen,2B,2023,2024,26.6
+52,1211,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,605483,Blake Snell,656896,Emmanuel Rivera,L,Gary Sánchez,596142,1,0,1,False,2023-08-11,Stolen,2B,2023,2024,26.6
+53,1923,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,670990,Yohan Ramírez,572233,Christian Walker,R,Henry Davis,680779,7,1,6,False,2023-07-07,Stolen,2B,2023,2024,26.6
+54,3678,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,547973,Aroldis Chapman,656896,Emmanuel Rivera,L,Salvador Perez,521692,4,5,8,False,2023-04-25,Stolen,2B,2023,2024,26.6
+55,4420,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,434378,Justin Verlander,672515,Gabriel Moreno,R,Martín Maldonado,455117,0,1,4,False,2023-09-30,Stolen,2B,2023,2024,26.6
+56,5541,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,641755,Tyler Kinley,607054,Jace Peterson,R,Elias Díaz,553869,5,8,9,True,2023-08-15,Stolen,2B,2023,2024,26.6
+57,5625,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,605483,Blake Snell,656896,Emmanuel Rivera,L,Gary Sánchez,596142,1,0,1,False,2023-08-11,Stolen,2B,2023,2024,26.6
+58,6337,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,670990,Yohan Ramírez,572233,Christian Walker,R,Henry Davis,680779,7,1,6,False,2023-07-07,Stolen,2B,2023,2024,26.6
+59,8092,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,547973,Aroldis Chapman,656896,Emmanuel Rivera,L,Salvador Perez,521692,4,5,8,False,2023-04-25,Stolen,2B,2023,2024,26.6
+60,134,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,682171,Penn Murfee,656305,Matt Chapman,R,Andrew Knapp,595284,2,2,5,True,2022-07-08,Stolen,2B,2022,2023,27.1
+61,847,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,605195,Kyle Crick,606132,Raimel Tapia,R,Reese McGuire,624512,5,3,5,False,2022-06-01,Caught,2B,2022,2023,27.1
+62,1252,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,612434,Miguel Castro,672386,Alejandro Kirk,R,Jose Trevino,624431,0,3,6,True,2022-05-10,Stolen,2B,2022,2023,27.1
+63,1595,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,598264,Matt Barnes,656305,Matt Chapman,R,Connor Wong,657136,1,5,7,True,2022-04-20,Stolen,2B,2022,2023,27.1
+64,1883,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,657376,Clarke Schmidt,656305,Matt Chapman,R,David Freitas,571679,5,5,5,False,2022-04-03,Caught,2B,2022,2023,27.1
+65,73,1B,,Caught Stealing 2B,666971,Lourdes Gurriel Jr.,519151,Ryan Pressly,649557,Aledmys Díaz,R,Mitch Garver,641598,5,6,8,True,2018-04-30,Caught,2B,2018,2019,27.6
+66,167,1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,593958,Eduardo Rodriguez,649557,Aledmys Díaz,L,Christian Vázquez,543877,1,2,5,False,2018-04-25,Stolen,2B,2018,2019,27.6

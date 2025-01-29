@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1239,1B,2B,Stolen Base 2B,136726,Mike Kinkade,Jason LaRue,10,2,5,True,2002-07-30,Stolen,2B,2002
+1300,1B,,Caught Stealing 2B,136726,Mike Kinkade,Chad Moeller,1,1,5,True,2003-07-25,Caught,2B,2003
+2767,1B,,Caught Stealing 2B,136726,Mike Kinkade,Javy Lopez,1,2,2,False,2003-05-12,Caught,2B,2003
+2797,1B,2B,Stolen Base 2B,136726,Mike Kinkade,Michael Barrett,1,2,6,True,2003-05-11,Stolen,2B,2003

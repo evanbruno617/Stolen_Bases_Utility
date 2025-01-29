@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3958,1B,2B,Stolen Base 2B,123678,Mo Vaughn,Scott Hatteberg,3,0,3,False,2000-04-07,Stolen,2B,2000
+3988,1B,2B,Stolen Base 2B,123678,Mo Vaughn,Jorge Posada,9,3,4,False,2000-04-05,Stolen,2B,2000
+2252,1B,2B,Caught Stealing Home,123678,Mo Vaughn,Mark Johnson,1,3,8,True,2002-06-10,Caught,Home,2002
+3430,1B,,Caught Stealing 2B,123678,Mo Vaughn,Mike DiFelice,3,3,3,False,2002-04-23,Caught,2B,2002

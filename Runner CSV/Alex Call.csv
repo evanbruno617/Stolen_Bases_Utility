@@ -1,0 +1,24 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+52,1B,2B,Stolen Base 2B,669743,Alex Call,Travis d'Arnaud,2,1,4,False,2022-09-28,Stolen,2B,2022
+53,2B,,Caught Stealing 3B,669743,Alex Call,Travis d'Arnaud,2,1,4,False,2022-09-28,Caught,3B,2022
+229,1B,2B,Stolen Base 2B,669743,Alex Call,Jacob Stallings,1,2,8,False,2022-09-18,Stolen,2B,2022
+712,1B,2B,Stolen Base 2B,669743,Alex Call,Jorge Alfaro,2,1,8,True,2022-08-21,Stolen,2B,2022
+450,1B,,Caught Stealing 2B,669743,Alex Call,Endy Rodríguez,2,0,3,True,2023-09-12,Caught,2B,2023
+1344,3B,,Caught Stealing Home,669743,Alex Call,Tyler Stephenson,3,5,4,True,2023-08-06,Caught,Home,2023
+1478,1B,,Caught Stealing 2B,669743,Alex Call,Victor Caratini,1,1,5,False,2023-07-31,Caught,2B,2023
+1545,1B,,Caught Stealing 2B,669743,Alex Call,Omar Narváez,0,0,5,True,2023-07-27,Caught,2B,2023
+1774,1B,2B,Stolen Base 2B,669743,Alex Call,Yan Gomes,1,5,6,True,2023-07-17,Stolen,2B,2023
+1817,1B,,Caught Stealing 2B,669743,Alex Call,Willson Contreras,4,4,7,True,2023-07-15,Caught,2B,2023
+1854,1B,,Caught Stealing 2B,669743,Alex Call,Willson Contreras,4,4,7,True,2023-07-14,Caught,2B,2023
+1887,1B,2B,Stolen Base 2B,669743,Alex Call,Mitch Garver,0,0,3,False,2023-07-09,Stolen,2B,2023
+1909,1B,,Caught Stealing 2B,669743,Alex Call,Jonah Heim,8,3,6,False,2023-07-08,Caught,2B,2023
+1960,1B,2B,Stolen Base 2B,669743,Alex Call,Curt Casali,2,1,5,False,2023-07-06,Stolen,2B,2023
+2603,1B,2B,Stolen Base 2B,669743,Alex Call,Sean Murphy,1,2,7,True,2023-06-09,Stolen,2B,2023
+2773,1B,2B,Stolen Base 2B,669743,Alex Call,J.T. Realmuto,8,7,8,False,2023-06-02,Stolen,2B,2023
+2812,1B,2B,Stolen Base 2B,669743,Alex Call,Will Smith,4,3,4,True,2023-05-31,Stolen,2B,2023
+3300,1B,2B,Stolen Base 2B,669743,Alex Call,Joey Bart,0,1,2,True,2023-05-10,Stolen,2B,2023
+3585,1B,2B,Stolen Base 2B,669743,Alex Call,Jason Delay,0,1,1,False,2023-04-29,Stolen,2B,2023
+3594,1B,2B,Stolen Base 2B,669743,Alex Call,Jason Delay,0,1,1,False,2023-04-28,Stolen,2B,2023
+3733,1B,,Caught Stealing 2B,669743,Alex Call,Ryan Jeffers,2,1,5,True,2023-04-23,Caught,2B,2023
+3838,1B,2B,Stolen Base 2B,669743,Alex Call,Adley Rutschman,0,1,9,False,2023-04-18,Stolen,2B,2023
+4166,1B,,Caught Stealing 2B,669743,Alex Call,Francisco Mejía,1,3,3,False,2023-04-05,Caught,2B,2023

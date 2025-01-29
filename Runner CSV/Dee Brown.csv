@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+485,1B,2B,Stolen Base 2B,150202,Dee Brown,Mike DiFelice,0,1,2,False,2001-05-16,Stolen,2B,2001
+906,1B,,Caught Stealing 2B,150202,Dee Brown,Darrin Fletcher,2,4,6,True,2001-04-30,Caught,2B,2001
+973,1B,2B,Stolen Base 2B,150202,Dee Brown,Jason Varitek,2,4,6,True,2001-04-28,Stolen,2B,2001
+1016,2B,,Caught Stealing 3B,150202,Dee Brown,Mike DiFelice,0,5,6,True,2001-04-26,Caught,3B,2001
+1066,1B,2B,Stolen Base 2B,150202,Dee Brown,John Flaherty,0,2,2,True,2001-04-24,Stolen,2B,2001
+1088,1B,,Caught Stealing 2B,150202,Dee Brown,Darrin Fletcher,3,1,4,False,2001-04-22,Caught,2B,2001
+902,1B,2B,Stolen Base 2B,150202,Dee Brown,Jorge Posada,3,0,3,False,2003-08-13,Stolen,2B,2003
+3543,1B,,Caught Stealing 2B,150202,Dee Brown,Miguel Olivo,5,4,5,False,2003-04-03,Caught,2B,2003
+1597,1B,2B,Stolen Base 2B,150202,Dee Brown,Ken Huckaby,1,3,4,True,2004-07-11,Stolen,2B,2004
+1749,1B,2B,Stolen Base 2B,150202,Dee Brown,Humberto Quintero,1,0,4,True,2004-07-02,Stolen,2B,2004
+2041,1B,,Caught Stealing 2B,150202,Dee Brown,Eddie Pérez,1,3,6,True,2004-06-17,Caught,2B,2004

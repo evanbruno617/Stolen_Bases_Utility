@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2149,1B,,Caught Stealing 2B,666152,David Hamilton,Nick Fortes,0,1,3,False,2023-06-28,Caught,2B,2023
+2257,1B,2B,Stolen Base 2B,666152,David Hamilton,Seby Zavala,0,1,3,True,2023-06-23,Stolen,2B,2023
+2302,1B,2B,Stolen Base 2B,666152,David Hamilton,Christian Vázquez,4,4,8,True,2023-06-21,Stolen,2B,2023

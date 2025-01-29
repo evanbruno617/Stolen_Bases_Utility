@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4448,1B,2B,Stolen Base 2B,463610,Gregorio Petit,430935,Cole Hamels,488862,Yunel Escobar,L,Jonathan Lucroy,518960,0,2,3,False,2016-09-10,Stolen,2B,2016,2018,26.2
+1,4877,1B,,Caught Stealing 2B,463610,Gregorio Petit,592533,Cody Martin,488862,Yunel Escobar,R,Chris Iannetta,455104,2,2,2,False,2016-08-17,Caught,2B,2016,2018,26.2
+2,413,1B,2B,Stolen Base 2B,463610,Gregorio Petit,430935,Cole Hamels,488862,Yunel Escobar,L,Jonathan Lucroy,518960,0,2,3,False,2016-09-10,Stolen,2B,2016,2018,26.2
+3,842,1B,,Caught Stealing 2B,463610,Gregorio Petit,592533,Cody Martin,488862,Yunel Escobar,R,Chris Iannetta,455104,2,2,2,False,2016-08-17,Caught,2B,2016,2018,26.2
+4,3820,1B,2B,Stolen Base 2B,463610,Gregorio Petit,430935,Cole Hamels,488862,Yunel Escobar,L,Jonathan Lucroy,518960,0,2,3,False,2016-09-10,Stolen,2B,2016,2018,26.2
+5,4249,1B,,Caught Stealing 2B,463610,Gregorio Petit,592533,Cody Martin,488862,Yunel Escobar,R,Chris Iannetta,455104,2,2,2,False,2016-08-17,Caught,2B,2016,2018,26.2

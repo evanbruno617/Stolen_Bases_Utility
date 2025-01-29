@@ -1,0 +1,3 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,110974,Dante Bichette,Charlie O'Brien,2,6,4,False,2000-06-01,Stolen,2B,2000
+1B,2B,Stolen Base 2B,110847,Marvin Benard,Charlie O'Brien,3,0,7,False,2000-05-25,Stolen,2B,2000

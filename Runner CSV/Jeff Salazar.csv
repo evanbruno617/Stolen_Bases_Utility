@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+4,1B,2B,Stolen Base 2B,434625,Jeff Salazar,Yorvit Torrealba,0,0,2,True,2007-09-30,Stolen,2B,2007
+6,1B,2B,Stolen Base 2B,434625,Jeff Salazar,Yorvit Torrealba,1,0,7,True,2007-09-30,Stolen,2B,2007
+202,1B,2B,Caught Stealing 3B,434625,Jeff Salazar,Chad Moeller,8,3,6,False,2007-09-21,Caught,3B,2007
+2161,1B,,Caught Stealing 2B,434625,Jeff Salazar,Brian Schneider,3,1,2,True,2008-06-10,Caught,2B,2008
+2919,1B,,Caught Stealing 2B,434625,Jeff Salazar,Carlos Ruiz,1,0,2,False,2008-05-07,Caught,2B,2008

@@ -1,0 +1,27 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+284,1B,,Caught Stealing 2B,110712,Danny Bautista,Todd Hundley,0,0,2,True,2000-09-18,Caught,2B,2000
+804,1B,2B,Stolen Base 2B,110712,Danny Bautista,Michael Barrett,0,1,2,True,2000-08-28,Stolen,2B,2000
+1254,1B,2B,Stolen Base 2B,110712,Danny Bautista,Chris Widger,2,0,2,False,2000-08-07,Stolen,2B,2000
+1636,1B,2B,Stolen Base 2B,110712,Danny Bautista,Eddie Taubensee,7,3,8,True,2000-07-22,Stolen,2B,2000
+1876,1B,2B,Stolen Base 2B,110712,Danny Bautista,Ramon Hernandez,0,2,4,True,2000-07-07,Stolen,2B,2000
+1877,2B,3B,Stolen Base 3B,110712,Danny Bautista,Ramon Hernandez,0,2,4,True,2000-07-07,Stolen,3B,2000
+3057,1B,2B,Stolen Base 2B,110712,Danny Bautista,Carlos Hernandez,3,4,6,False,2000-05-16,Stolen,2B,2000
+155,1B,2B,Stolen Base 2B,110712,Danny Bautista,Benito Santiago,0,0,6,True,2001-05-29,Stolen,2B,2001
+3165,1B,,Caught Stealing 2B,110712,Danny Bautista,Michael Barrett,4,0,3,False,2002-05-04,Caught,2B,2002
+3222,1B,2B,Stolen Base 2B,110712,Danny Bautista,Vance Wilson,0,4,1,False,2002-05-01,Stolen,2B,2002
+3224,1B,2B,Stolen Base 2B,110712,Danny Bautista,Vance Wilson,0,6,4,False,2002-05-01,Stolen,2B,2002
+3356,1B,2B,Stolen Base 2B,110712,Danny Bautista,Mike Redmond,0,1,4,True,2002-04-26,Stolen,2B,2002
+3604,1B,,Caught Stealing 2B,110712,Danny Bautista,Mike Matheny,1,1,1,False,2002-04-15,Caught,2B,2002
+3711,1B,2B,Stolen Base 2B,110712,Danny Bautista,Gary Bennett,2,2,5,True,2002-04-11,Stolen,2B,2002
+517,1B,2B,Stolen Base 2B,110712,Danny Bautista,Gary Bennett,0,0,2,True,2003-09-03,Stolen,2B,2003
+2199,1B,2B,Stolen Base 2B,110712,Danny Bautista,Josh Bard,1,0,1,False,2003-06-08,Stolen,2B,2003
+2486,1B,2B,Stolen Base 2B,110712,Danny Bautista,Miguel Ojeda,3,0,1,False,2003-05-25,Stolen,2B,2003
+2915,1B,,Caught Stealing 2B,110712,Danny Bautista,Henry Blanco,2,0,1,False,2003-05-04,Caught,2B,2003
+434,1B,2B,Stolen Base 2B,110712,Danny Bautista,Yorvit Torrealba,0,1,7,False,2004-09-10,Stolen,2B,2004
+784,1B,2B,Stolen Base 2B,110712,Danny Bautista,Jason Kendall,4,4,7,True,2004-08-23,Stolen,2B,2004
+1344,1B,2B,Stolen Base 2B,110712,Danny Bautista,Brad Ausmus,1,4,9,True,2004-07-26,Stolen,2B,2004
+2411,1B,,Caught Stealing 2B,110712,Danny Bautista,David Ross,2,0,4,True,2004-05-30,Caught,2B,2004
+2729,1B,,Caught Stealing 2B,110712,Danny Bautista,Vance Wilson,1,0,2,False,2004-05-13,Caught,2B,2004
+2972,1B,2B,Stolen Base 2B,110712,Danny Bautista,Mike Lieberthal,0,4,6,True,2004-05-02,Stolen,2B,2004
+3192,2B,3B,Stolen Base 3B,110712,Danny Bautista,Gary Bennett,6,9,9,True,2004-04-22,Stolen,3B,2004
+3329,1B,2B,Stolen Base 2B,110712,Danny Bautista,Todd Greene,5,9,5,True,2004-04-15,Stolen,2B,2004

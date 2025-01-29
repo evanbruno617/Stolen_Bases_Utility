@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,,Caught Stealing 2B,678894,Liover Peguero,543037,Gerrit Cole,678225,Ji Hwan Bae,R,Ben Rortvedt,666163,2,1,4,False,2023-09-15,Caught,2B,2023,2024, 86.4, 0.69
+1,1B,2B,Stolen Base 2B,642350,Jose Siri,543037,Gerrit Cole,542194,Christian Bethancourt,R,Ben Rortvedt,666163,1,6,8,False,2023-08-25,Stolen,2B,2023,2024, 86.4, 0.69
+2,1B,2B,Stolen Base 2B,622569,Pablo Reyes,543037,Gerrit Cole,657136,Connor Wong,R,Ben Rortvedt,666163,0,6,4,True,2023-08-19,Stolen,2B,2023,2024, 86.4, 0.69
+3,1B,2B,Stolen Base 2B,514888,Jose Altuve,641482,Nestor Cortes,608324,Alex Bregman,L,Ben Rortvedt,666163,0,0,1,True,2023-08-05,Stolen,2B,2023,2024, 86.4, 0.69
+4,1B,,Caught Stealing 2B,676801,Chas McCormick,641656,Ian Hamilton,666197,Grae Kessinger,R,Ben Rortvedt,666163,1,1,5,True,2023-08-05,Caught,2B,2023,2024, 86.4, 0.69
+5,1B,2B,Stolen Base 2B,514888,Jose Altuve,657376,Clarke Schmidt,665161,Jeremy Peña,R,Ben Rortvedt,666163,3,2,5,True,2023-08-03,Stolen,2B,2023,2024, 86.4, 0.69
+6,1B,,Caught Stealing 2B,642350,Jose Siri,666745,Jhony Brito,542194,Christian Bethancourt,R,Ben Rortvedt,666163,0,2,2,True,2023-07-31,Caught,2B,2023,2024, 86.4, 0.69
+7,1B,2B,Stolen Base 2B,670042,Luke Raley,593334,Domingo Germán,670623,Isaac Paredes,R,Ben Rortvedt,666163,1,5,6,True,2023-07-31,Stolen,2B,2023,2024, 86.4, 0.69
+8,1B,,Caught Stealing 2B,678894,Liover Peguero,543037,Gerrit Cole,678225,Ji Hwan Bae,R,Ben Rortvedt,666163,2,1,4,False,2023-09-15,Caught,2B,2023,2024, 86.4, 0.69
+9,1B,2B,Stolen Base 2B,642350,Jose Siri,543037,Gerrit Cole,542194,Christian Bethancourt,R,Ben Rortvedt,666163,1,6,8,False,2023-08-25,Stolen,2B,2023,2024, 86.4, 0.69
+10,1B,2B,Stolen Base 2B,622569,Pablo Reyes,543037,Gerrit Cole,657136,Connor Wong,R,Ben Rortvedt,666163,0,6,4,True,2023-08-19,Stolen,2B,2023,2024, 86.4, 0.69
+11,1B,2B,Stolen Base 2B,514888,Jose Altuve,641482,Nestor Cortes,608324,Alex Bregman,L,Ben Rortvedt,666163,0,0,1,True,2023-08-05,Stolen,2B,2023,2024, 86.4, 0.69
+12,1B,,Caught Stealing 2B,676801,Chas McCormick,641656,Ian Hamilton,666197,Grae Kessinger,R,Ben Rortvedt,666163,1,1,5,True,2023-08-05,Caught,2B,2023,2024, 86.4, 0.69
+13,1B,2B,Stolen Base 2B,514888,Jose Altuve,657376,Clarke Schmidt,665161,Jeremy Peña,R,Ben Rortvedt,666163,3,2,5,True,2023-08-03,Stolen,2B,2023,2024, 86.4, 0.69
+14,1B,,Caught Stealing 2B,642350,Jose Siri,666745,Jhony Brito,542194,Christian Bethancourt,R,Ben Rortvedt,666163,0,2,2,True,2023-07-31,Caught,2B,2023,2024, 86.4, 0.69
+15,1B,2B,Stolen Base 2B,670042,Luke Raley,593334,Domingo Germán,670623,Isaac Paredes,R,Ben Rortvedt,666163,1,5,6,True,2023-07-31,Stolen,2B,2023,2024, 86.4, 0.69

@@ -1,0 +1,13 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,811,1B,,Caught Stealing 2B,666176,Jo Adell,502239,Trevor Cahill,621532,Anthony Bemboom,R,Tyler Heineman,623168,1,4,4,False,2020-08-18,Caught,2B,2020,2021,29.9
+1,3654,1B,,Caught Stealing 2B,666176,Jo Adell,502239,Trevor Cahill,621532,Anthony Bemboom,R,Tyler Heineman,623168,1,4,4,False,2020-08-18,Caught,2B,2020,2021,29.9
+2,5578,1B,,Caught Stealing 2B,666176,Jo Adell,502239,Trevor Cahill,621532,Anthony Bemboom,R,Tyler Heineman,623168,1,4,4,False,2020-08-18,Caught,2B,2020,2021,29.9
+3,411,1B,2B,Stolen Base 2B,666176,Jo Adell,663465,Kolby Allard,501571,Juan Lagares,L,Jose Trevino,624431,1,0,5,False,2021-09-04,Stolen,2B,2021,2022,29.7
+4,767,1B,,Caught Stealing 2B,666176,Jo Adell,663423,Trent Thornton,669016,Brandon Marsh,R,Reese McGuire,624512,6,2,5,False,2021-08-12,Caught,2B,2021,2022,29.7
+5,919,1B,2B,Stolen Base 2B,666176,Jo Adell,543475,Jordan Lyles,669016,Brandon Marsh,R,Jose Trevino,624431,0,0,2,True,2021-08-03,Stolen,2B,2021,2022,29.7
+6,2335,1B,2B,Stolen Base 2B,666176,Jo Adell,663465,Kolby Allard,501571,Juan Lagares,L,Jose Trevino,624431,1,0,5,False,2021-09-04,Stolen,2B,2021,2022,29.7
+7,2691,1B,,Caught Stealing 2B,666176,Jo Adell,663423,Trent Thornton,669016,Brandon Marsh,R,Reese McGuire,624512,6,2,5,False,2021-08-12,Caught,2B,2021,2022,29.7
+8,2843,1B,2B,Stolen Base 2B,666176,Jo Adell,543475,Jordan Lyles,669016,Brandon Marsh,R,Jose Trevino,624431,0,0,2,True,2021-08-03,Stolen,2B,2021,2022,29.7
+9,37,1B,2B,Stolen Base 2B,666176,Jo Adell,661527,Seth Martinez,545358,Max Stassi,R,Korey Lee,686676,3,1,5,False,2022-07-13,Stolen,2B,2022,2023,29.0
+10,1463,1B,,Caught Stealing 2B,666176,Jo Adell,615698,Cal Quantrill,642180,Tyler Wade,R,Austin Hedges,595978,3,0,4,False,2022-04-28,Caught,2B,2022,2023,29.0
+11,1606,1B,2B,Stolen Base 2B,666176,Jo Adell,664299,Cristian Javier,642180,Tyler Wade,R,Jason Castro,488771,0,6,3,True,2022-04-20,Stolen,2B,2022,2023,29.0

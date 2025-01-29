@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1859,1B,2B,Stolen Base 2B,682641,Luis Matos,621366,Ryan Borucki,669477,Casey Schmitt,L,Jason Delay,641511,4,6,7,True,2023-07-14,Stolen,2B,2023,2024,27.8
+1,2298,1B,2B,Stolen Base 2B,682641,Luis Matos,506433,Yu Darvish,666165,Blake Sabol,R,Austin Nola,543592,0,0,5,False,2023-06-21,Stolen,2B,2023,2024,27.8
+2,2382,1B,2B,Stolen Base 2B,682641,Luis Matos,676272,Bobby Miller,672275,Patrick Bailey,R,Austin Barnes,605131,0,0,5,True,2023-06-17,Stolen,2B,2023,2024,27.8
+3,6273,1B,2B,Stolen Base 2B,682641,Luis Matos,621366,Ryan Borucki,669477,Casey Schmitt,L,Jason Delay,641511,4,6,7,True,2023-07-14,Stolen,2B,2023,2024,27.8
+4,6712,1B,2B,Stolen Base 2B,682641,Luis Matos,506433,Yu Darvish,666165,Blake Sabol,R,Austin Nola,543592,0,0,5,False,2023-06-21,Stolen,2B,2023,2024,27.8
+5,6796,1B,2B,Stolen Base 2B,682641,Luis Matos,676272,Bobby Miller,672275,Patrick Bailey,R,Austin Barnes,605131,0,0,5,True,2023-06-17,Stolen,2B,2023,2024,27.8

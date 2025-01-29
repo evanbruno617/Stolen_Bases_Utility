@@ -1,0 +1,25 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+665,1B,,Caught Stealing 2B,543768,Travis Shaw,Geovany Soto,1,2,4,True,2015-08-25,Caught,2B,2015
+693,2B,3B,Stolen Base 3B,543768,Travis Shaw,Bobby Wilson,9,1,3,False,2016-07-06,Stolen,3B,2016
+1728,1B,2B,Stolen Base 2B,543768,Travis Shaw,Stephen Vogt,6,3,5,False,2016-05-11,Stolen,2B,2016
+2030,2B,,Caught Stealing 3B,543768,Travis Shaw,A.J. Pierzynski,0,0,4,True,2016-04-25,Caught,3B,2016
+2135,3B,score,Stolen Base Home,543768,Travis Shaw,Curt Casali,5,1,1,False,2016-04-21,Stolen,Home,2016
+2330,1B,2B,Stolen Base 2B,543768,Travis Shaw,Caleb Joseph,3,0,1,False,2016-04-11,Stolen,2B,2016
+2473,2B,3B,Stolen Base 3B,543768,Travis Shaw,Josh Thole,4,5,8,True,2016-04-02,Stolen,3B,2016
+355,2B,3B,Stolen Base 3B,543768,Travis Shaw,Chris Stewart,5,2,8,False,2017-09-12,Stolen,3B,2017
+1076,1B,2B,Stolen Base 2B,543768,Travis Shaw,Jesús Sucre,0,0,2,True,2017-08-05,Stolen,2B,2017
+1250,2B,3B,Stolen Base 3B,543768,Travis Shaw,Matt Wieters,0,2,1,True,2017-07-26,Stolen,3B,2017
+1954,2B,3B,Stolen Base 3B,543768,Travis Shaw,Yadier Molina,3,4,5,True,2017-06-15,Stolen,3B,2017
+2104,2B,3B,Stolen Base 3B,543768,Travis Shaw,Nick Hundley,3,3,5,False,2017-06-08,Stolen,3B,2017
+2206,1B,2B,Stolen Base 2B,543768,Travis Shaw,Yasmani Grandal,8,10,9,False,2017-06-03,Stolen,2B,2017
+2251,2B,3B,Stolen Base 3B,543768,Travis Shaw,René Rivera,0,2,1,True,2017-05-31,Stolen,3B,2017
+2657,2B,3B,Stolen Base 3B,543768,Travis Shaw,Christian Vázquez,6,2,5,False,2017-05-10,Stolen,3B,2017
+2959,2B,3B,Stolen Base 3B,543768,Travis Shaw,Tucker Barnhart,4,1,1,False,2017-04-26,Stolen,3B,2017
+3097,2B,3B,Stolen Base 3B,543768,Travis Shaw,Miguel Montero,0,5,3,True,2017-04-18,Stolen,3B,2017
+6,1B,2B,Stolen Base 2B,543768,Travis Shaw,James McCann,3,0,6,False,2018-09-30,Stolen,2B,2018
+7,2B,3B,Stolen Base 3B,543768,Travis Shaw,James McCann,4,0,6,False,2018-09-30,Stolen,3B,2018
+332,1B,2B,Stolen Base 2B,543768,Travis Shaw,Francisco Cervelli,4,3,5,False,2018-09-14,Stolen,2B,2018
+1045,1B,2B,Stolen Base 2B,543768,Travis Shaw,A.J. Ellis,3,1,4,False,2018-08-09,Stolen,2B,2018
+1527,1B,2B,Stolen Base 2B,543768,Travis Shaw,Bryan Holaday,0,1,1,True,2018-07-10,Stolen,2B,2018
+1964,1B,,Caught Stealing 2B,543768,Travis Shaw,Andrew Knapp,1,0,1,False,2018-06-16,Caught,2B,2018
+2032,1B,,Caught Stealing 2B,543768,Travis Shaw,Willson Contreras,4,0,5,False,2018-06-12,Caught,2B,2018

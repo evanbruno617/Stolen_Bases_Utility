@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,205,1B,2B,Stolen Base 2B,694497,Evan Carter,682243,Bryce Miller,608369,Corey Seager,R,Cal Raleigh,663728,4,0,5,False,2023-09-22,Stolen,2B,2023,2024,29.7
+1,445,1B,2B,Stolen Base 2B,694497,Evan Carter,670950,Trevor Richards,665750,Leody Taveras,R,Alejandro Kirk,672386,2,5,9,True,2023-09-12,Stolen,2B,2023,2024,29.7
+2,572,1B,2B,Stolen Base 2B,694497,Evan Carter,621112,Paul Blackburn,608369,Corey Seager,R,Shea Langeliers,669127,2,2,2,False,2023-09-08,Stolen,2B,2023,2024,29.7
+3,4619,1B,2B,Stolen Base 2B,694497,Evan Carter,682243,Bryce Miller,608369,Corey Seager,R,Cal Raleigh,663728,4,0,5,False,2023-09-22,Stolen,2B,2023,2024,29.7
+4,4859,1B,2B,Stolen Base 2B,694497,Evan Carter,670950,Trevor Richards,665750,Leody Taveras,R,Alejandro Kirk,672386,2,5,9,True,2023-09-12,Stolen,2B,2023,2024,29.7
+5,4986,1B,2B,Stolen Base 2B,694497,Evan Carter,621112,Paul Blackburn,608369,Corey Seager,R,Shea Langeliers,669127,2,2,2,False,2023-09-08,Stolen,2B,2023,2024,29.7

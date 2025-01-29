@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+460,1B,2B,Stolen Base 2B,136303,Jose Nieves,Mitch Meluskey,2,3,2,False,2000-09-10,Stolen,2B,2000
+1455,1B,,Caught Stealing 2B,136303,Jose Nieves,Doug Mirabelli,0,0,2,False,2000-07-30,Caught,2B,2000
+1850,2B,3B,Stolen Base 3B,136303,Jose Nieves,Paul Lo Duca,5,0,2,False,2002-06-30,Stolen,3B,2002
+3211,2B,,Caught Stealing 3B,136303,Jose Nieves,Einar Díaz,0,2,5,True,2002-05-02,Caught,3B,2002

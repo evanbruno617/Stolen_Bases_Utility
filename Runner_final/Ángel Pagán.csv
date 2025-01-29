@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,277,1B,2B,Stolen Base 2B,434636,Ángel Pagán,519455,Jordan Zimmermann,474832,Brandon Belt,R,Wilson Ramos,467092,0,0,1,True,2015-07-05,Stolen,2B,2015,2016,27.7
+1,1239,1B,2B,Stolen Base 2B,434636,Ángel Pagán,516910,Carlos Frías,457763,Buster Posey,R,Yasmani Grandal,518735,0,0,1,False,2015-05-19,Stolen,2B,2015,2016,27.7
+2,1547,1B,2B,Stolen Base 2B,434636,Ángel Pagán,475115,Tyson Ross,457763,Buster Posey,R,Derek Norris,519083,0,0,1,False,2015-05-04,Stolen,2B,2015,2016,27.7
+3,1602,1B,,Caught Stealing 2B,434636,Ángel Pagán,450351,C.J. Wilson,452239,Justin Maxwell,L,Chris Iannetta,455104,1,0,4,False,2015-05-01,Caught,2B,2015,2016,27.7
+4,1803,1B,2B,Stolen Base 2B,434636,Ángel Pagán,504379,Juan Nicasio,474832,Brandon Belt,R,Yasmani Grandal,518735,2,2,10,False,2015-04-23,Stolen,2B,2015,2016,27.7
+5,1958,1B,2B,Stolen Base 2B,434636,Ángel Pagán,554431,Tyler Matzek,452239,Justin Maxwell,L,Michael McKenry,502374,1,3,1,False,2015-04-15,Stolen,2B,2015,2016,27.7

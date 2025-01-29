@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+88,1B,2B,Stolen Base 2B,669707,Jared Triolo,Garrett Stubbs,6,6,6,True,2023-09-27,Stolen,2B,2023
+121,1B,2B,Stolen Base 2B,669707,Jared Triolo,J.T. Realmuto,2,2,10,True,2023-09-26,Stolen,2B,2023
+488,1B,2B,Stolen Base 2B,669707,Jared Triolo,Keibert Ruiz,0,2,3,False,2023-09-11,Stolen,2B,2023
+1139,1B,2B,Stolen Base 2B,669707,Jared Triolo,Francisco Alvarez,1,1,6,True,2023-08-15,Stolen,2B,2023
+1140,2B,3B,Stolen Base 3B,669707,Jared Triolo,Francisco Alvarez,1,1,6,True,2023-08-15,Stolen,3B,2023
+1396,1B,2B,Stolen Base 2B,669707,Jared Triolo,William Contreras,0,3,1,True,2023-08-04,Stolen,2B,2023
+2137,1B,,Caught Stealing 2B,669707,Jared Triolo,Austin Nola,0,3,3,False,2023-06-29,Caught,2B,2023

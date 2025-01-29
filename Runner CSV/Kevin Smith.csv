@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2012,1B,2B,Stolen Base 2B,675656,Kevin Smith,Luke Maile,0,2,7,True,2022-06-10,Stolen,2B,2022
+2312,1B,2B,Stolen Base 2B,675656,Kevin Smith,Luis Torrens,0,3,6,True,2022-05-25,Stolen,2B,2022
+2592,1B,2B,Stolen Base 2B,675656,Kevin Smith,Eric Haase,0,2,7,True,2022-05-10,Stolen,2B,2022
+2760,1B,2B,Stolen Base 2B,675656,Kevin Smith,Luke Maile,0,1,4,False,2022-04-30,Stolen,2B,2022
+3210,1B,2B,Stolen Base 2B,675656,Kevin Smith,Jorge Alfaro,4,0,5,False,2022-04-03,Stolen,2B,2022
+3877,1B,2B,Stolen Base 2B,675656,Kevin Smith,Francisco Alvarez,1,1,5,False,2023-04-16,Stolen,2B,2023

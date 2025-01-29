@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+76,1B,,Caught Stealing 2B,150055,Chris Sexton,Raul Casanova,0,3,3,True,2000-09-27,Caught,2B,2000
+175,1B,,Caught Stealing 2B,150055,Chris Sexton,Mitch Meluskey,2,4,4,False,2000-09-23,Caught,2B,2000
+221,1B,2B,Stolen Base 2B,150055,Chris Sexton,Bobby Estalella,4,2,7,True,2000-09-20,Stolen,2B,2000
+315,1B,2B,Stolen Base 2B,150055,Chris Sexton,Kevin Brown,6,4,6,False,2000-09-17,Stolen,2B,2000
+333,1B,2B,Stolen Base 2B,150055,Chris Sexton,Kevin Brown,6,2,7,False,2000-09-16,Stolen,2B,2000
+531,1B,2B,Stolen Base 2B,150055,Chris Sexton,Keith Osik,0,0,6,True,2000-09-08,Stolen,2B,2000

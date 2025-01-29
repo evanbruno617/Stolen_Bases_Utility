@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+98,1B,2B,Stolen Base 2B,425661,Ronny Paulino,Miguel Montero,0,0,2,False,2007-09-26,Stolen,2B,2007
+1995,1B,,Caught Stealing 2B,425661,Ronny Paulino,Jesus Flores,0,1,4,False,2007-07-01,Caught,2B,2007
+2626,3B,,Caught Stealing Home,425661,Ronny Paulino,Mike Lieberthal,3,1,6,False,2007-06-02,Caught,Home,2007
+3128,2B,3B,Stolen Base 3B,425661,Ronny Paulino,Michael Barrett,3,3,15,True,2007-05-08,Stolen,3B,2007
+1449,1B,2B,Caught Stealing Home,425661,Ronny Paulino,Carlos Ruiz,2,6,9,True,2009-05-27,Caught,Home,2009
+2425,1B,2B,Stolen Base 2B,425661,Ronny Paulino,Josh Bard,6,6,10,True,2009-04-18,Stolen,2B,2009
+2339,1B,2B,Stolen Base 2B,425661,Ronny Paulino,John Jaso,0,6,4,True,2010-06-11,Stolen,2B,2010

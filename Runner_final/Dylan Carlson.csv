@@ -1,0 +1,26 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3,1B,2B,Stolen Base 2B,666185,Dylan Carlson,489334,Craig Stammen,425877,Yadier Molina,R,Austin Nola,543592,3,6,4,True,2020-09-30,Stolen,2B,2020,2021,27.9
+1,568,1B,,Caught Stealing 2B,666185,Dylan Carlson,650644,Aaron Civale,543939,Kolten Wong,R,Roberto Pérez,547379,4,2,2,False,2020-08-30,Caught,2B,2020,2021,27.9
+2,791,1B,2B,Stolen Base 2B,666185,Dylan Carlson,621249,Duane Underwood Jr.,446308,Matt Wieters,R,Josh Phegley,572033,1,6,6,True,2020-08-19,Stolen,2B,2020,2021,27.9
+3,2846,1B,2B,Stolen Base 2B,666185,Dylan Carlson,489334,Craig Stammen,425877,Yadier Molina,R,Austin Nola,543592,3,6,4,True,2020-09-30,Stolen,2B,2020,2021,27.9
+4,3411,1B,,Caught Stealing 2B,666185,Dylan Carlson,650644,Aaron Civale,543939,Kolten Wong,R,Roberto Pérez,547379,4,2,2,False,2020-08-30,Caught,2B,2020,2021,27.9
+5,3634,1B,2B,Stolen Base 2B,666185,Dylan Carlson,621249,Duane Underwood Jr.,446308,Matt Wieters,R,Josh Phegley,572033,1,6,6,True,2020-08-19,Stolen,2B,2020,2021,27.9
+6,4770,1B,2B,Stolen Base 2B,666185,Dylan Carlson,489334,Craig Stammen,425877,Yadier Molina,R,Austin Nola,543592,3,6,4,True,2020-09-30,Stolen,2B,2020,2021,27.9
+7,5335,1B,,Caught Stealing 2B,666185,Dylan Carlson,650644,Aaron Civale,543939,Kolten Wong,R,Roberto Pérez,547379,4,2,2,False,2020-08-30,Caught,2B,2020,2021,27.9
+8,5558,1B,2B,Stolen Base 2B,666185,Dylan Carlson,621249,Duane Underwood Jr.,446308,Matt Wieters,R,Josh Phegley,572033,1,6,6,True,2020-08-19,Stolen,2B,2020,2021,27.9
+9,519,1B,,Caught Stealing 2B,666185,Dylan Carlson,640444,Wil Crowe,624641,Edmundo Sosa,R,Jacob Stallings,607732,0,1,4,True,2021-08-29,Caught,2B,2021,2022,28.1
+10,777,1B,2B,Stolen Base 2B,666185,Dylan Carlson,664141,JT Brubaker,502671,Paul Goldschmidt,R,Jacob Stallings,607732,0,0,1,True,2021-08-12,Stolen,2B,2021,2022,28.1
+11,941,1B,2B,Stolen Base 2B,666185,Dylan Carlson,501381,Michael Pineda,571448,Nolan Arenado,R,Mitch Garver,641598,0,0,1,False,2021-08-01,Stolen,2B,2021,2022,28.1
+12,2443,1B,,Caught Stealing 2B,666185,Dylan Carlson,640444,Wil Crowe,624641,Edmundo Sosa,R,Jacob Stallings,607732,0,1,4,True,2021-08-29,Caught,2B,2021,2022,28.1
+13,2701,1B,2B,Stolen Base 2B,666185,Dylan Carlson,664141,JT Brubaker,502671,Paul Goldschmidt,R,Jacob Stallings,607732,0,0,1,True,2021-08-12,Stolen,2B,2021,2022,28.1
+14,2865,1B,2B,Stolen Base 2B,666185,Dylan Carlson,501381,Michael Pineda,571448,Nolan Arenado,R,Mitch Garver,641598,0,0,1,False,2021-08-01,Stolen,2B,2021,2022,28.1
+15,1946,1B,2B,Stolen Base 2B,666185,Dylan Carlson,691587,Eury Pérez,680977,Brendan Donovan,R,Nick Fortes,663743,0,0,3,True,2023-07-06,Stolen,2B,2023,2024,27.3
+16,2059,2B,3B,Stolen Base 3B,666185,Dylan Carlson,622772,Jimmy Cordero,668800,Andrew Knizner,R,Jose Trevino,624431,5,1,8,False,2023-07-02,Stolen,3B,2023,2024,27.3
+17,3817,2B,3B,Stolen Base 3B,666185,Dylan Carlson,518516,Madison Bumgarner,575929,Willson Contreras,L,Gabriel Moreno,672515,3,0,1,False,2023-04-19,Stolen,3B,2023,2024,27.3
+18,6360,1B,2B,Stolen Base 2B,666185,Dylan Carlson,691587,Eury Pérez,680977,Brendan Donovan,R,Nick Fortes,663743,0,0,3,True,2023-07-06,Stolen,2B,2023,2024,27.3
+19,6473,2B,3B,Stolen Base 3B,666185,Dylan Carlson,622772,Jimmy Cordero,668800,Andrew Knizner,R,Jose Trevino,624431,5,1,8,False,2023-07-02,Stolen,3B,2023,2024,27.3
+20,8231,2B,3B,Stolen Base 3B,666185,Dylan Carlson,518516,Madison Bumgarner,575929,Willson Contreras,L,Gabriel Moreno,672515,3,0,1,False,2023-04-19,Stolen,3B,2023,2024,27.3
+21,342,1B,2B,Stolen Base 2B,666185,Dylan Carlson,666129,Braxton Garrett,502671,Paul Goldschmidt,L,Nick Fortes,663743,1,3,4,False,2022-06-28,Stolen,2B,2022,2023,27.6
+22,448,1B,2B,Stolen Base 2B,666185,Dylan Carlson,665001,Trevor Kelley,571448,Nolan Arenado,R,Omar Narváez,553882,4,5,8,True,2022-06-22,Stolen,2B,2022,2023,27.6
+23,457,1B,2B,Stolen Base 2B,666185,Dylan Carlson,657265,Peter Strzelecki,664056,Harrison Bader,R,Victor Caratini,605170,2,6,8,True,2022-06-21,Stolen,2B,2022,2023,27.6
+24,1808,1B,2B,Stolen Base 2B,666185,Dylan Carlson,656605,Mitch Keller,641933,Tyler O'Neill,R,Roberto Pérez,547379,0,1,1,False,2022-04-09,Stolen,2B,2022,2023,27.6

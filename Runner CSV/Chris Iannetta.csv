@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2674,1B,,Caught Stealing 2B,455104,Chris Iannetta,Chris Snyder,8,7,6,True,2009-04-06,Caught,2B,2009
+2497,1B,2B,Stolen Base 2B,455104,Chris Iannetta,Chris Snyder,1,0,4,True,2010-06-05,Stolen,2B,2010
+229,1B,2B,Stolen Base 2B,455104,Chris Iannetta,Luis Martinez,0,4,6,False,2011-09-21,Stolen,2B,2011
+740,1B,,Caught Stealing 2B,455104,Chris Iannetta,Miguel Montero,0,1,2,True,2011-08-30,Caught,2B,2011
+914,1B,2B,Stolen Base 2B,455104,Chris Iannetta,Humberto Quintero,2,1,2,False,2011-08-23,Stolen,2B,2011
+1500,1B,2B,Stolen Base 2B,455104,Chris Iannetta,Luis Martinez,0,3,2,True,2011-07-29,Stolen,2B,2011
+1501,3B,,Caught Stealing Home,455104,Chris Iannetta,Luis Martinez,0,3,2,True,2011-07-29,Caught,Home,2011
+2125,1B,2B,Stolen Base 2B,455104,Chris Iannetta,Brayan Peña,7,1,3,False,2011-07-02,Stolen,2B,2011
+2287,1B,2B,Stolen Base 2B,455104,Chris Iannetta,Russell Martin,4,4,7,True,2011-06-26,Stolen,2B,2011
+2751,1B,,Caught Stealing 2B,455104,Chris Iannetta,Kyle Phillips,0,3,9,True,2011-06-06,Caught,2B,2011
+3764,1B,2B,Stolen Base 2B,455104,Chris Iannetta,Geovany Soto,2,3,4,True,2011-04-26,Stolen,2B,2011
+107,1B,,Caught Stealing 2B,455104,Chris Iannetta,Miguel Olivo,5,4,7,False,2012-09-25,Caught,2B,2012
+225,1B,,Caught Stealing 2B,455104,Chris Iannetta,Geovany Soto,0,0,3,False,2012-09-20,Caught,2B,2012
+612,1B,2B,Stolen Base 2B,455104,Chris Iannetta,George Kottaras,1,4,9,True,2012-09-04,Stolen,2B,2012
+3639,1B,,Caught Stealing 2B,455104,Chris Iannetta,Chris Gimenez,2,1,5,True,2012-04-25,Caught,2B,2012
+874,1B,,Caught Stealing 2B,455104,Chris Iannetta,Carlos Corporán,1,3,2,False,2013-08-18,Caught,2B,2013
+2506,1B,2B,Stolen Base 2B,455104,Chris Iannetta,Mike Zunino,3,6,8,True,2014-05-27,Stolen,2B,2014
+3074,1B,2B,Stolen Base 2B,455104,Chris Iannetta,Yan Gomes,6,4,8,False,2014-04-29,Stolen,2B,2014
+3416,1B,2B,Stolen Base 2B,455104,Chris Iannetta,John Jaso,2,0,2,False,2014-04-15,Stolen,2B,2014
+467,1B,,Caught Stealing 2B,455104,Chris Iannetta,Bobby Wilson,1,1,5,False,2015-09-05,Caught,2B,2015

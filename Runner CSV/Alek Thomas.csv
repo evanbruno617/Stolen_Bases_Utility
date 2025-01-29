@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+980,1B,,Caught Stealing 2B,677950,Alek Thomas,Jason Delay,0,0,4,False,2022-08-08,Caught,2B,2022
+1123,1B,,Caught Stealing 2B,677950,Alek Thomas,Travis d'Arnaud,0,0,9,True,2022-07-31,Caught,2B,2022
+1468,1B,,Caught Stealing 2B,677950,Alek Thomas,Brian Serven,1,1,1,False,2022-07-08,Caught,2B,2022
+1803,1B,2B,Stolen Base 2B,677950,Alek Thomas,Austin Nola,0,1,1,True,2022-06-20,Stolen,2B,2022
+1910,1B,2B,Stolen Base 2B,677950,Alek Thomas,Aramis Garcia,3,3,11,False,2022-06-14,Stolen,2B,2022
+1932,1B,2B,Stolen Base 2B,677950,Alek Thomas,Aramis Garcia,4,5,8,False,2022-06-13,Stolen,2B,2022
+2050,1B,2B,Stolen Base 2B,677950,Alek Thomas,Aramis Garcia,0,2,4,True,2022-06-08,Stolen,2B,2022
+594,1B,2B,Stolen Base 2B,677950,Alek Thomas,Yan Gomes,0,1,9,True,2023-09-08,Stolen,2B,2023
+601,1B,2B,Stolen Base 2B,677950,Alek Thomas,Yan Gomes,1,5,8,True,2023-09-07,Stolen,2B,2023
+1056,1B,2B,Stolen Base 2B,677950,Alek Thomas,Luis Campusano,3,6,8,True,2023-08-19,Stolen,2B,2023
+1398,1B,2B,Stolen Base 2B,677950,Alek Thomas,Christian Vázquez,3,2,9,True,2023-08-04,Stolen,2B,2023
+2005,1B,2B,Stolen Base 2B,677950,Alek Thomas,Francisco Alvarez,3,4,5,False,2023-07-04,Stolen,2B,2023
+2201,2B,3B,Stolen Base 3B,677950,Alek Thomas,Patrick Bailey,0,2,2,True,2023-06-25,Stolen,3B,2023
+3491,1B,2B,Stolen Base 2B,677950,Alek Thomas,Sandy León,7,11,7,True,2023-05-03,Stolen,2B,2023
+3862,1B,,Caught Stealing 2B,677950,Alek Thomas,Willson Contreras,0,1,6,True,2023-04-17,Caught,2B,2023
+4045,1B,2B,Stolen Base 2B,677950,Alek Thomas,Austin Barnes,6,3,3,False,2023-04-09,Stolen,2B,2023
+4183,1B,2B,Stolen Base 2B,677950,Alek Thomas,Austin Nola,0,0,2,True,2023-04-04,Stolen,2B,2023

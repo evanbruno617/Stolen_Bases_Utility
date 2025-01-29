@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2893,2B,3B,Stolen Base 3B,607752,Sam Travis,543359,Dan Jennings,598265,Jackie Bradley Jr.,L,Kevan Smith,607345,6,10,5,True,2017-05-30,Stolen,3B,2017,2018,27.0
+1,2265,2B,3B,Stolen Base 3B,607752,Sam Travis,543359,Dan Jennings,598265,Jackie Bradley Jr.,L,Kevan Smith,607345,6,10,5,True,2017-05-30,Stolen,3B,2017,2018,27.0

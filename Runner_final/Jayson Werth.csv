@@ -1,0 +1,19 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4433,1B,2B,Stolen Base 2B,150029,Jayson Werth,593679,Gabriel Ynoa,547180,Bryce Harper,R,Travis d'Arnaud,518595,6,1,4,False,2016-09-12,Stolen,2B,2016,2017,25.6
+1,5583,1B,2B,Stolen Base 2B,150029,Jayson Werth,543037,Gerrit Cole,547180,Bryce Harper,R,Eric Fryer,518700,0,0,1,False,2016-07-16,Stolen,2B,2016,2017,25.6
+2,5624,2B,3B,Stolen Base 3B,150029,Jayson Werth,571927,Steven Matz,547180,Bryce Harper,L,Travis d'Arnaud,518595,1,2,3,True,2016-07-10,Stolen,3B,2016,2017,25.6
+3,5752,2B,3B,Stolen Base 3B,150029,Jayson Werth,502028,Blake Wood,467092,Wilson Ramos,R,Tucker Barnhart,571466,4,4,8,False,2016-07-02,Stolen,3B,2016,2017,25.6
+4,5782,1B,,Caught Stealing 2B,150029,Jayson Werth,571561,Tony Cingrani,547180,Bryce Harper,L,Ramón Cabrera,541608,2,2,10,False,2016-07-01,Caught,2B,2016,2017,25.6
+5,6582,2B,3B,Stolen Base 3B,150029,Jayson Werth,455374,Antonio Bastardo,475582,Ryan Zimmerman,L,Kevin Plawecki,608700,1,4,7,True,2016-05-18,Stolen,3B,2016,2017,25.6
+6,398,1B,2B,Stolen Base 2B,150029,Jayson Werth,593679,Gabriel Ynoa,547180,Bryce Harper,R,Travis d'Arnaud,518595,6,1,4,False,2016-09-12,Stolen,2B,2016,2017,25.6
+7,1548,1B,2B,Stolen Base 2B,150029,Jayson Werth,543037,Gerrit Cole,547180,Bryce Harper,R,Eric Fryer,518700,0,0,1,False,2016-07-16,Stolen,2B,2016,2017,25.6
+8,1589,2B,3B,Stolen Base 3B,150029,Jayson Werth,571927,Steven Matz,547180,Bryce Harper,L,Travis d'Arnaud,518595,1,2,3,True,2016-07-10,Stolen,3B,2016,2017,25.6
+9,1717,2B,3B,Stolen Base 3B,150029,Jayson Werth,502028,Blake Wood,467092,Wilson Ramos,R,Tucker Barnhart,571466,4,4,8,False,2016-07-02,Stolen,3B,2016,2017,25.6
+10,1747,1B,,Caught Stealing 2B,150029,Jayson Werth,571561,Tony Cingrani,547180,Bryce Harper,L,Ramón Cabrera,541608,2,2,10,False,2016-07-01,Caught,2B,2016,2017,25.6
+11,2547,2B,3B,Stolen Base 3B,150029,Jayson Werth,455374,Antonio Bastardo,475582,Ryan Zimmerman,L,Kevin Plawecki,608700,1,4,7,True,2016-05-18,Stolen,3B,2016,2017,25.6
+12,3805,1B,2B,Stolen Base 2B,150029,Jayson Werth,593679,Gabriel Ynoa,547180,Bryce Harper,R,Travis d'Arnaud,518595,6,1,4,False,2016-09-12,Stolen,2B,2016,2017,25.6
+13,4955,1B,2B,Stolen Base 2B,150029,Jayson Werth,543037,Gerrit Cole,547180,Bryce Harper,R,Eric Fryer,518700,0,0,1,False,2016-07-16,Stolen,2B,2016,2017,25.6
+14,4996,2B,3B,Stolen Base 3B,150029,Jayson Werth,571927,Steven Matz,547180,Bryce Harper,L,Travis d'Arnaud,518595,1,2,3,True,2016-07-10,Stolen,3B,2016,2017,25.6
+15,5124,2B,3B,Stolen Base 3B,150029,Jayson Werth,502028,Blake Wood,467092,Wilson Ramos,R,Tucker Barnhart,571466,4,4,8,False,2016-07-02,Stolen,3B,2016,2017,25.6
+16,5154,1B,,Caught Stealing 2B,150029,Jayson Werth,571561,Tony Cingrani,547180,Bryce Harper,L,Ramón Cabrera,541608,2,2,10,False,2016-07-01,Caught,2B,2016,2017,25.6
+17,5954,2B,3B,Stolen Base 3B,150029,Jayson Werth,455374,Antonio Bastardo,475582,Ryan Zimmerman,L,Kevin Plawecki,608700,1,4,7,True,2016-05-18,Stolen,3B,2016,2017,25.6

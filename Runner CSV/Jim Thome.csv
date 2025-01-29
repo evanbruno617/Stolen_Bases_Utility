@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3111,1B,2B,Stolen Base 2B,123272,Jim Thome,Brian Johnson,1,1,4,False,2000-05-14,Stolen,2B,2000
+91,1B,2B,Stolen Base 2B,123272,Jim Thome,A.J. Pierzynski,4,5,9,True,2002-09-25,Stolen,2B,2002
+2305,1B,,Caught Stealing 2B,123272,Jim Thome,Vance Wilson,3,1,6,False,2002-06-08,Caught,2B,2002
+3094,1B,,Caught Stealing 2B,123272,Jim Thome,Geronimo Gil,1,5,7,True,2002-05-08,Caught,2B,2002
+2995,1B,,Caught Stealing 2B,123272,Jim Thome,Paul Lo Duca,0,4,6,True,2003-05-01,Caught,2B,2003
+3188,1B,,Caught Stealing 2B,123272,Jim Thome,Charles Johnson,5,0,5,False,2003-04-22,Caught,2B,2003
+3223,1B,,Caught Stealing 2B,123272,Jim Thome,Henry Blanco,0,4,5,True,2003-04-19,Caught,2B,2003
+2908,1B,,Caught Stealing 2B,123272,Jim Thome,Mike Matheny,5,4,8,False,2004-05-05,Caught,2B,2004
+3476,3B,,Caught Stealing Home,123272,Jim Thome,Jason Kendall,0,1,3,True,2004-04-07,Caught,Home,2004
+732,2B,,Caught Stealing 3B,123272,Jim Thome,Gerald Laird,3,4,5,True,2007-08-29,Caught,3B,2007
+2912,1B,2B,Stolen Base 2B,123272,Jim Thome,Joe Mauer,3,2,6,False,2008-05-08,Stolen,2B,2008

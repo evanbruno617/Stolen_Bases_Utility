@@ -1,0 +1,8 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1085,1B,2B,Stolen Base 2B,679529,Spencer Torkelson,675916,James Karinchak,681481,Kerry Carpenter,R,Bo Naylor,666310,1,3,8,True,2023-08-18,Stolen,2B,2023,2024,27.2
+1,2765,1B,2B,Stolen Base 2B,679529,Spencer Torkelson,605182,Mike Clevinger,665155,Nick Maton,R,Seby Zavala,664874,0,0,4,True,2023-06-02,Stolen,2B,2023,2024,27.2
+2,3850,1B,2B,Stolen Base 2B,679529,Spencer Torkelson,683769,Hunter Gaddis,656716,Zach McKinstry,R,Mike Zunino,572287,1,3,4,False,2023-04-18,Stolen,2B,2023,2024,27.2
+3,5499,1B,2B,Stolen Base 2B,679529,Spencer Torkelson,675916,James Karinchak,681481,Kerry Carpenter,R,Bo Naylor,666310,1,3,8,True,2023-08-18,Stolen,2B,2023,2024,27.2
+4,7179,1B,2B,Stolen Base 2B,679529,Spencer Torkelson,605182,Mike Clevinger,665155,Nick Maton,R,Seby Zavala,664874,0,0,4,True,2023-06-02,Stolen,2B,2023,2024,27.2
+5,8264,1B,2B,Stolen Base 2B,679529,Spencer Torkelson,683769,Hunter Gaddis,656716,Zach McKinstry,R,Mike Zunino,572287,1,3,4,False,2023-04-18,Stolen,2B,2023,2024,27.2
+6,905,1B,,Caught Stealing 2B,679529,Spencer Torkelson,663474,Triston McKenzie,650489,Willi Castro,R,Luke Maile,571912,0,0,2,False,2022-05-29,Caught,2B,2022,2023,27.4

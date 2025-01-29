@@ -1,0 +1,24 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,91,1B,2B,Stolen Base 2B,493316,Yoenis Cespedes,571951,Bryan Mitchell,457803,Jay Bruce,R,A.J. Ellis,454560,0,2,3,True,2018-04-29,Stolen,2B,2018,2020,23.8
+1,92,2B,3B,Stolen Base 3B,493316,Yoenis Cespedes,571951,Bryan Mitchell,453943,Todd Frazier,R,A.J. Ellis,454560,0,2,3,True,2018-04-29,Stolen,3B,2018,2020,23.8
+2,3835,2B,,Caught Stealing 3B,493316,Yoenis Cespedes,592826,Vince Velasquez,457803,Jay Bruce,R,Cameron Rupp,519237,0,1,1,True,2017-04-12,Caught,3B,2017,2018,27.5
+3,3207,2B,,Caught Stealing 3B,493316,Yoenis Cespedes,592826,Vince Velasquez,457803,Jay Bruce,R,Cameron Rupp,519237,0,1,1,True,2017-04-12,Caught,3B,2017,2018,27.5
+4,4243,2B,3B,Stolen Base 3B,493316,Yoenis Cespedes,475054,Chaz Roe,608061,T.J. Rivera,R,Anthony Recker,489232,3,3,8,False,2016-09-21,Stolen,3B,2016,2017,27.6
+5,5672,2B,3B,Stolen Base 3B,493316,Yoenis Cespedes,424144,Oliver Pérez,425766,James Loney,L,Wilson Ramos,467092,4,4,4,False,2016-07-07,Stolen,3B,2016,2017,27.6
+6,6540,1B,,Caught Stealing 2B,493316,Yoenis Cespedes,503449,Wily Peralta,435522,Neil Walker,R,Jonathan Lucroy,518960,3,2,6,False,2016-05-20,Caught,2B,2016,2017,27.6
+7,6709,2B,3B,Stolen Base 3B,493316,Yoenis Cespedes,628317,Kenta Maeda,493472,Eric Campbell,R,Yasmani Grandal,518735,0,0,2,True,2016-05-11,Stolen,3B,2016,2017,27.6
+8,208,2B,3B,Stolen Base 3B,493316,Yoenis Cespedes,475054,Chaz Roe,608061,T.J. Rivera,R,Anthony Recker,489232,3,3,8,False,2016-09-21,Stolen,3B,2016,2017,27.6
+9,1637,2B,3B,Stolen Base 3B,493316,Yoenis Cespedes,424144,Oliver Pérez,425766,James Loney,L,Wilson Ramos,467092,4,4,4,False,2016-07-07,Stolen,3B,2016,2017,27.6
+10,2505,1B,,Caught Stealing 2B,493316,Yoenis Cespedes,503449,Wily Peralta,435522,Neil Walker,R,Jonathan Lucroy,518960,3,2,6,False,2016-05-20,Caught,2B,2016,2017,27.6
+11,2674,2B,3B,Stolen Base 3B,493316,Yoenis Cespedes,628317,Kenta Maeda,493472,Eric Campbell,R,Yasmani Grandal,518735,0,0,2,True,2016-05-11,Stolen,3B,2016,2017,27.6
+12,3615,2B,3B,Stolen Base 3B,493316,Yoenis Cespedes,475054,Chaz Roe,608061,T.J. Rivera,R,Anthony Recker,489232,3,3,8,False,2016-09-21,Stolen,3B,2016,2017,27.6
+13,5044,2B,3B,Stolen Base 3B,493316,Yoenis Cespedes,424144,Oliver Pérez,425766,James Loney,L,Wilson Ramos,467092,4,4,4,False,2016-07-07,Stolen,3B,2016,2017,27.6
+14,5912,1B,,Caught Stealing 2B,493316,Yoenis Cespedes,503449,Wily Peralta,435522,Neil Walker,R,Jonathan Lucroy,518960,3,2,6,False,2016-05-20,Caught,2B,2016,2017,27.6
+15,6081,2B,3B,Stolen Base 3B,493316,Yoenis Cespedes,628317,Kenta Maeda,493472,Eric Campbell,R,Yasmani Grandal,518735,0,0,2,True,2016-05-11,Stolen,3B,2016,2017,27.6
+16,1057,2B,,Caught Stealing 3B,493316,Yoenis Cespedes,519096,Dan Otero,592407,Bryan Holaday,R,Stephen Vogt,519390,0,0,4,True,2015-05-27,Caught,3B,2015,2016,27.1
+17,1073,1B,,Caught Stealing 2B,493316,Yoenis Cespedes,445926,Jesse Chavez,592206,Nick Castellanos,R,Josh Phegley,572033,0,1,7,True,2015-05-26,Caught,2B,2015,2016,27.1
+18,1204,1B,2B,Stolen Base 2B,493316,Yoenis Cespedes,444857,Scott Feldman,434658,Rajai Davis,R,Hank Conger,474233,5,0,6,False,2015-05-21,Stolen,2B,2015,2016,27.1
+19,1229,2B,3B,Stolen Base 3B,493316,Yoenis Cespedes,346798,Kyle Lohse,607385,Tyler Collins,R,Martín Maldonado,455117,1,0,2,False,2015-05-20,Stolen,3B,2015,2016,27.1
+20,1232,1B,,Caught Stealing 2B,493316,Yoenis Cespedes,346798,Kyle Lohse,592206,Nick Castellanos,R,Martín Maldonado,455117,2,1,6,False,2015-05-20,Caught,2B,2015,2016,27.1
+21,1307,1B,,Caught Stealing 2B,493316,Yoenis Cespedes,453646,Carlos Villanueva,543510,James McCann,R,Yadier Molina,425877,3,3,7,True,2015-05-16,Caught,2B,2015,2016,27.1
+22,1318,2B,3B,Stolen Base 3B,493316,Yoenis Cespedes,279571,Matt Belisle,543510,James McCann,R,Yadier Molina,425877,0,2,6,True,2015-05-15,Stolen,3B,2015,2016,27.1

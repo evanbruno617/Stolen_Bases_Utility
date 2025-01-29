@@ -1,0 +1,11 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2165,2B,3B,Stolen Base 3B,668800,Andrew Knizner,543699,Tanner Roark,502671,Paul Goldschmidt,R,Dustin Garneau,572863,0,0,3,True,2019-08-04,Stolen,3B,2019,2020,25.4
+1,2384,1B,2B,Stolen Base 2B,668800,Andrew Knizner,543101,Anthony DeSclafani,664056,Harrison Bader,R,Ryan Lavarnway,543432,0,2,2,True,2019-07-21,Stolen,2B,2019,2020,25.4
+2,5008,2B,3B,Stolen Base 3B,668800,Andrew Knizner,543699,Tanner Roark,502671,Paul Goldschmidt,R,Dustin Garneau,572863,0,0,3,True,2019-08-04,Stolen,3B,2019,2020,25.4
+3,5227,1B,2B,Stolen Base 2B,668800,Andrew Knizner,543101,Anthony DeSclafani,664056,Harrison Bader,R,Ryan Lavarnway,543432,0,2,2,True,2019-07-21,Stolen,2B,2019,2020,25.4
+4,6932,2B,3B,Stolen Base 3B,668800,Andrew Knizner,543699,Tanner Roark,502671,Paul Goldschmidt,R,Dustin Garneau,572863,0,0,3,True,2019-08-04,Stolen,3B,2019,2020,25.4
+5,7151,1B,2B,Stolen Base 2B,668800,Andrew Knizner,543101,Anthony DeSclafani,664056,Harrison Bader,R,Ryan Lavarnway,543432,0,2,2,True,2019-07-21,Stolen,2B,2019,2020,25.4
+6,510,1B,2B,Stolen Base 2B,668800,Andrew Knizner,668881,Hunter Greene,691026,Masyn Winn,R,Luke Maile,571912,2,1,4,True,2023-09-10,Stolen,2B,2023,2024,25.0
+7,2984,1B,2B,Stolen Base 2B,668800,Andrew Knizner,641427,Alan Busenitz,640458,Óscar Mercado,R,Luke Maile,571912,0,2,9,True,2023-05-25,Stolen,2B,2023,2024,25.0
+8,4924,1B,2B,Stolen Base 2B,668800,Andrew Knizner,668881,Hunter Greene,691026,Masyn Winn,R,Luke Maile,571912,2,1,4,True,2023-09-10,Stolen,2B,2023,2024,25.0
+9,7398,1B,2B,Stolen Base 2B,668800,Andrew Knizner,641427,Alan Busenitz,640458,Óscar Mercado,R,Luke Maile,571912,0,2,9,True,2023-05-25,Stolen,2B,2023,2024,25.0

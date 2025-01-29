@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+269,1B,2B,Stolen Base 2B,430906,Donnie Murphy,Victor Martinez,1,4,7,True,2004-09-18,Stolen,2B,2004
+1162,1B,2B,Stolen Base 2B,430906,Donnie Murphy,Mike Rabelo,9,16,6,True,2007-08-10,Stolen,2B,2007
+1644,1B,,Caught Stealing 2B,430906,Donnie Murphy,Toby Hall,1,0,3,True,2008-07-05,Caught,2B,2008
+2834,2B,3B,Stolen Base 3B,430906,Donnie Murphy,Jarrod Saltalamacchia,6,10,9,True,2008-05-11,Stolen,3B,2008
+2969,1B,2B,Stolen Base 2B,430906,Donnie Murphy,Ramon Hernandez,0,0,3,False,2008-05-05,Stolen,2B,2008
+1450,1B,,Caught Stealing 2B,430906,Donnie Murphy,Brian McCann,0,0,1,True,2012-07-30,Caught,2B,2012
+3755,1B,2B,Stolen Base 2B,430906,Donnie Murphy,Wilson Ramos,2,2,9,True,2012-04-21,Stolen,2B,2012
+92,1B,2B,Stolen Base 2B,430906,Donnie Murphy,Tony Sanchez,1,1,6,False,2013-09-25,Stolen,2B,2013
+498,1B,2B,Stolen Base 2B,430906,Donnie Murphy,Jonathan Lucroy,7,5,8,False,2013-09-06,Stolen,2B,2013
+2407,1B,,Caught Stealing 2B,430906,Donnie Murphy,Wilson Ramos,0,1,7,True,2014-06-01,Caught,2B,2014

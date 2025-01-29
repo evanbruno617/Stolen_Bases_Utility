@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+959,1B,2B,Stolen Base 2B,451629,Justin Christian,Mike Redmond,3,5,8,True,2008-08-12,Stolen,2B,2008
+1097,1B,2B,Stolen Base 2B,451629,Justin Christian,Gerald Laird,3,0,3,True,2008-08-05,Stolen,2B,2008
+1142,2B,3B,Stolen Base 3B,451629,Justin Christian,Jeff Mathis,9,9,8,False,2008-08-03,Stolen,3B,2008
+1237,1B,2B,Stolen Base 2B,451629,Justin Christian,Ramon Hernandez,6,7,9,False,2008-07-29,Stolen,2B,2008
+1356,1B,2B,Stolen Base 2B,451629,Justin Christian,Mike Redmond,5,0,7,False,2008-07-23,Stolen,2B,2008
+1430,1B,,Caught Stealing 2B,451629,Justin Christian,Kurt Suzuki,2,3,9,False,2008-07-19,Caught,2B,2008
+1532,1B,2B,Stolen Base 2B,451629,Justin Christian,Ryan Doumit,4,2,9,True,2008-07-10,Stolen,2B,2008
+1572,2B,3B,Stolen Base 3B,451629,Justin Christian,Dioner Navarro,1,1,9,False,2008-07-09,Stolen,3B,2008
+1822,1B,2B,Stolen Base 2B,451629,Justin Christian,Ryan Doumit,4,2,9,True,2008-06-26,Stolen,2B,2008
+2761,1B,2B,Stolen Base 2B,451629,Justin Christian,Ramon Castro,0,3,2,True,2009-04-02,Stolen,2B,2009
+237,2B,3B,Stolen Base 3B,451629,Justin Christian,Rod Barajas,2,0,3,True,2011-09-20,Stolen,3B,2011
+321,1B,2B,Stolen Base 2B,451629,Justin Christian,Wilin Rosario,0,0,2,True,2011-09-17,Stolen,2B,2011
+508,1B,2B,Stolen Base 2B,451629,Justin Christian,Rod Barajas,0,0,1,False,2011-09-09,Stolen,2B,2011
+1665,1B,2B,Stolen Base 2B,451629,Justin Christian,Carlos Ruiz,3,3,10,True,2012-07-22,Stolen,2B,2012
+1959,1B,,Caught Stealing 2B,451629,Justin Christian,Rod Barajas,4,6,7,True,2012-07-06,Caught,2B,2012
+1976,1B,2B,Stolen Base 2B,451629,Justin Christian,Jesus Flores,1,3,6,True,2012-07-05,Stolen,2B,2012

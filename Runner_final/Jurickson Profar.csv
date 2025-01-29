@@ -1,0 +1,113 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,31,1B,2B,Stolen Base 2B,595777,Jurickson Profar,502239,Trevor Cahill,622761,Jorge Mateo,R,Joey Bart,663698,3,5,8,True,2020-09-27,Stolen,2B,2020,2021,26.3
+1,157,1B,2B,Stolen Base 2B,595777,Jurickson Profar,643290,Justin Dunn,663757,Trent Grisham,R,Joseph Odom,641929,0,0,3,True,2020-09-20,Stolen,2B,2020,2021,26.3
+2,284,1B,2B,Stolen Base 2B,595777,Jurickson Profar,657277,Logan Webb,665487,Fernando Tatis Jr.,R,Joey Bart,663698,1,1,3,False,2020-09-13,Stolen,2B,2020,2021,26.3
+3,329,1B,2B,Stolen Base 2B,595777,Jurickson Profar,657277,Logan Webb,665487,Fernando Tatis Jr.,R,Joey Bart,663698,1,1,3,False,2020-09-11,Stolen,2B,2020,2021,26.3
+4,418,2B,3B,Stolen Base 3B,595777,Jurickson Profar,622075,Yency Almonte,665487,Fernando Tatis Jr.,R,Tony Wolters,547172,0,0,7,False,2020-09-07,Stolen,3B,2020,2021,26.3
+5,638,1B,2B,Stolen Base 2B,595777,Jurickson Profar,579328,Yusei Kikuchi,663757,Trent Grisham,L,Austin Nola,543592,2,6,2,False,2020-08-27,Stolen,2B,2020,2021,26.3
+6,644,1B,2B,Stolen Base 2B,595777,Jurickson Profar,579328,Yusei Kikuchi,663757,Trent Grisham,L,Austin Nola,543592,2,6,2,False,2020-08-26,Stolen,2B,2020,2021,26.3
+7,935,1B,,Caught Stealing 2B,595777,Jurickson Profar,595014,Blake Treinen,665487,Fernando Tatis Jr.,R,Will Smith,669257,1,2,7,True,2020-08-10,Caught,2B,2020,2021,26.3
+8,1124,1B,2B,Stolen Base 2B,595777,Jurickson Profar,592332,Kevin Gausman,571976,Wil Myers,R,Tyler Heineman,623168,0,3,4,True,2020-07-30,Stolen,2B,2020,2021,26.3
+9,1186,1B,2B,Stolen Base 2B,595777,Jurickson Profar,668678,Zac Gallen,647304,Josh Naylor,R,Carson Kelly,608348,1,0,4,False,2020-07-26,Stolen,2B,2020,2021,26.3
+10,2874,1B,2B,Stolen Base 2B,595777,Jurickson Profar,502239,Trevor Cahill,622761,Jorge Mateo,R,Joey Bart,663698,3,5,8,True,2020-09-27,Stolen,2B,2020,2021,26.3
+11,3000,1B,2B,Stolen Base 2B,595777,Jurickson Profar,643290,Justin Dunn,663757,Trent Grisham,R,Joseph Odom,641929,0,0,3,True,2020-09-20,Stolen,2B,2020,2021,26.3
+12,3127,1B,2B,Stolen Base 2B,595777,Jurickson Profar,657277,Logan Webb,665487,Fernando Tatis Jr.,R,Joey Bart,663698,1,1,3,False,2020-09-13,Stolen,2B,2020,2021,26.3
+13,3172,1B,2B,Stolen Base 2B,595777,Jurickson Profar,657277,Logan Webb,665487,Fernando Tatis Jr.,R,Joey Bart,663698,1,1,3,False,2020-09-11,Stolen,2B,2020,2021,26.3
+14,3261,2B,3B,Stolen Base 3B,595777,Jurickson Profar,622075,Yency Almonte,665487,Fernando Tatis Jr.,R,Tony Wolters,547172,0,0,7,False,2020-09-07,Stolen,3B,2020,2021,26.3
+15,3481,1B,2B,Stolen Base 2B,595777,Jurickson Profar,579328,Yusei Kikuchi,663757,Trent Grisham,L,Austin Nola,543592,2,6,2,False,2020-08-27,Stolen,2B,2020,2021,26.3
+16,3487,1B,2B,Stolen Base 2B,595777,Jurickson Profar,579328,Yusei Kikuchi,663757,Trent Grisham,L,Austin Nola,543592,2,6,2,False,2020-08-26,Stolen,2B,2020,2021,26.3
+17,3778,1B,,Caught Stealing 2B,595777,Jurickson Profar,595014,Blake Treinen,665487,Fernando Tatis Jr.,R,Will Smith,669257,1,2,7,True,2020-08-10,Caught,2B,2020,2021,26.3
+18,3967,1B,2B,Stolen Base 2B,595777,Jurickson Profar,592332,Kevin Gausman,571976,Wil Myers,R,Tyler Heineman,623168,0,3,4,True,2020-07-30,Stolen,2B,2020,2021,26.3
+19,4029,1B,2B,Stolen Base 2B,595777,Jurickson Profar,668678,Zac Gallen,647304,Josh Naylor,R,Carson Kelly,608348,1,0,4,False,2020-07-26,Stolen,2B,2020,2021,26.3
+20,4798,1B,2B,Stolen Base 2B,595777,Jurickson Profar,502239,Trevor Cahill,622761,Jorge Mateo,R,Joey Bart,663698,3,5,8,True,2020-09-27,Stolen,2B,2020,2021,26.3
+21,4924,1B,2B,Stolen Base 2B,595777,Jurickson Profar,643290,Justin Dunn,663757,Trent Grisham,R,Joseph Odom,641929,0,0,3,True,2020-09-20,Stolen,2B,2020,2021,26.3
+22,5051,1B,2B,Stolen Base 2B,595777,Jurickson Profar,657277,Logan Webb,665487,Fernando Tatis Jr.,R,Joey Bart,663698,1,1,3,False,2020-09-13,Stolen,2B,2020,2021,26.3
+23,5096,1B,2B,Stolen Base 2B,595777,Jurickson Profar,657277,Logan Webb,665487,Fernando Tatis Jr.,R,Joey Bart,663698,1,1,3,False,2020-09-11,Stolen,2B,2020,2021,26.3
+24,5185,2B,3B,Stolen Base 3B,595777,Jurickson Profar,622075,Yency Almonte,665487,Fernando Tatis Jr.,R,Tony Wolters,547172,0,0,7,False,2020-09-07,Stolen,3B,2020,2021,26.3
+25,5405,1B,2B,Stolen Base 2B,595777,Jurickson Profar,579328,Yusei Kikuchi,663757,Trent Grisham,L,Austin Nola,543592,2,6,2,False,2020-08-27,Stolen,2B,2020,2021,26.3
+26,5411,1B,2B,Stolen Base 2B,595777,Jurickson Profar,579328,Yusei Kikuchi,663757,Trent Grisham,L,Austin Nola,543592,2,6,2,False,2020-08-26,Stolen,2B,2020,2021,26.3
+27,5702,1B,,Caught Stealing 2B,595777,Jurickson Profar,595014,Blake Treinen,665487,Fernando Tatis Jr.,R,Will Smith,669257,1,2,7,True,2020-08-10,Caught,2B,2020,2021,26.3
+28,5891,1B,2B,Stolen Base 2B,595777,Jurickson Profar,592332,Kevin Gausman,571976,Wil Myers,R,Tyler Heineman,623168,0,3,4,True,2020-07-30,Stolen,2B,2020,2021,26.3
+29,5953,1B,2B,Stolen Base 2B,595777,Jurickson Profar,668678,Zac Gallen,647304,Josh Naylor,R,Carson Kelly,608348,1,0,4,False,2020-07-26,Stolen,2B,2020,2021,26.3
+30,1354,1B,2B,Stolen Base 2B,595777,Jurickson Profar,572703,Luke Bard,664913,Seth Brown,R,Kevan Smith,607345,1,1,6,True,2019-09-25,Stolen,2B,2019,2020,27.0
+31,1462,1B,2B,Stolen Base 2B,595777,Jurickson Profar,534910,Jesse Hahn,543760,Marcus Semien,R,Meibrys Viloria,650619,0,0,11,False,2019-09-18,Stolen,2B,2019,2020,27.0
+32,1825,1B,,Caught Stealing 2B,595777,Jurickson Profar,453178,Ian Kennedy,664913,Seth Brown,R,Meibrys Viloria,650619,1,2,9,True,2019-08-27,Caught,2B,2019,2020,27.0
+33,2341,1B,2B,Stolen Base 2B,595777,Jurickson Profar,434378,Justin Verlander,543760,Marcus Semien,R,Robinson Chirinos,455139,2,1,5,True,2019-07-24,Stolen,2B,2019,2020,27.0
+34,2802,1B,2B,Stolen Base 2B,595777,Jurickson Profar,630023,Yonny Chirinos,607333,Beau Taylor,R,Mike Zunino,572287,2,1,5,False,2019-06-22,Stolen,2B,2019,2020,27.0
+35,2918,1B,2B,Stolen Base 2B,595777,Jurickson Profar,453281,Wade LeBlanc,640461,Chad Pinder,L,Omar Narváez,553882,3,0,1,False,2019-06-15,Stolen,2B,2019,2020,27.0
+36,3273,1B,2B,Stolen Base 2B,595777,Jurickson Profar,502190,Mike Leake,621450,Skye Bolt,R,Tom Murphy,608596,3,1,7,False,2019-05-26,Stolen,2B,2019,2020,27.0
+37,3961,1B,2B,Stolen Base 2B,595777,Jurickson Profar,605488,Jeffrey Springs,657656,Ramón Laureano,L,Jeff Mathis,425772,4,7,8,True,2019-04-14,Stolen,2B,2019,2020,27.0
+38,4086,1B,2B,Stolen Base 2B,595777,Jurickson Profar,642231,Jimmy Yacabonis,592192,Mark Canha,R,Jesús Sucre,491696,6,4,6,True,2019-04-08,Stolen,2B,2019,2020,27.0
+39,4087,2B,3B,Stolen Base 2B,595777,Jurickson Profar,642231,Jimmy Yacabonis,592192,Mark Canha,R,Jesús Sucre,491696,6,4,6,True,2019-04-08,Stolen,2B,2019,2020,27.0
+40,4099,1B,2B,Stolen Base 2B,595777,Jurickson Profar,444468,Héctor Rondón,657656,Ramón Laureano,R,Max Stassi,545358,6,8,8,True,2019-04-07,Stolen,2B,2019,2020,27.0
+41,4197,1B,2B,Stolen Base 2B,595777,Jurickson Profar,572703,Luke Bard,664913,Seth Brown,R,Kevan Smith,607345,1,1,6,True,2019-09-25,Stolen,2B,2019,2020,27.0
+42,4305,1B,2B,Stolen Base 2B,595777,Jurickson Profar,534910,Jesse Hahn,543760,Marcus Semien,R,Meibrys Viloria,650619,0,0,11,False,2019-09-18,Stolen,2B,2019,2020,27.0
+43,4668,1B,,Caught Stealing 2B,595777,Jurickson Profar,453178,Ian Kennedy,664913,Seth Brown,R,Meibrys Viloria,650619,1,2,9,True,2019-08-27,Caught,2B,2019,2020,27.0
+44,5184,1B,2B,Stolen Base 2B,595777,Jurickson Profar,434378,Justin Verlander,543760,Marcus Semien,R,Robinson Chirinos,455139,2,1,5,True,2019-07-24,Stolen,2B,2019,2020,27.0
+45,5645,1B,2B,Stolen Base 2B,595777,Jurickson Profar,630023,Yonny Chirinos,607333,Beau Taylor,R,Mike Zunino,572287,2,1,5,False,2019-06-22,Stolen,2B,2019,2020,27.0
+46,5761,1B,2B,Stolen Base 2B,595777,Jurickson Profar,453281,Wade LeBlanc,640461,Chad Pinder,L,Omar Narváez,553882,3,0,1,False,2019-06-15,Stolen,2B,2019,2020,27.0
+47,6116,1B,2B,Stolen Base 2B,595777,Jurickson Profar,502190,Mike Leake,621450,Skye Bolt,R,Tom Murphy,608596,3,1,7,False,2019-05-26,Stolen,2B,2019,2020,27.0
+48,6804,1B,2B,Stolen Base 2B,595777,Jurickson Profar,605488,Jeffrey Springs,657656,Ramón Laureano,L,Jeff Mathis,425772,4,7,8,True,2019-04-14,Stolen,2B,2019,2020,27.0
+49,6929,1B,2B,Stolen Base 2B,595777,Jurickson Profar,642231,Jimmy Yacabonis,592192,Mark Canha,R,Jesús Sucre,491696,6,4,6,True,2019-04-08,Stolen,2B,2019,2020,27.0
+50,6930,2B,3B,Stolen Base 2B,595777,Jurickson Profar,642231,Jimmy Yacabonis,592192,Mark Canha,R,Jesús Sucre,491696,6,4,6,True,2019-04-08,Stolen,2B,2019,2020,27.0
+51,6942,1B,2B,Stolen Base 2B,595777,Jurickson Profar,444468,Héctor Rondón,657656,Ramón Laureano,R,Max Stassi,545358,6,8,8,True,2019-04-07,Stolen,2B,2019,2020,27.0
+52,6121,1B,2B,Stolen Base 2B,595777,Jurickson Profar,572703,Luke Bard,664913,Seth Brown,R,Kevan Smith,607345,1,1,6,True,2019-09-25,Stolen,2B,2019,2020,27.0
+53,6229,1B,2B,Stolen Base 2B,595777,Jurickson Profar,534910,Jesse Hahn,543760,Marcus Semien,R,Meibrys Viloria,650619,0,0,11,False,2019-09-18,Stolen,2B,2019,2020,27.0
+54,6592,1B,,Caught Stealing 2B,595777,Jurickson Profar,453178,Ian Kennedy,664913,Seth Brown,R,Meibrys Viloria,650619,1,2,9,True,2019-08-27,Caught,2B,2019,2020,27.0
+55,7108,1B,2B,Stolen Base 2B,595777,Jurickson Profar,434378,Justin Verlander,543760,Marcus Semien,R,Robinson Chirinos,455139,2,1,5,True,2019-07-24,Stolen,2B,2019,2020,27.0
+56,7569,1B,2B,Stolen Base 2B,595777,Jurickson Profar,630023,Yonny Chirinos,607333,Beau Taylor,R,Mike Zunino,572287,2,1,5,False,2019-06-22,Stolen,2B,2019,2020,27.0
+57,7685,1B,2B,Stolen Base 2B,595777,Jurickson Profar,453281,Wade LeBlanc,640461,Chad Pinder,L,Omar Narváez,553882,3,0,1,False,2019-06-15,Stolen,2B,2019,2020,27.0
+58,8040,1B,2B,Stolen Base 2B,595777,Jurickson Profar,502190,Mike Leake,621450,Skye Bolt,R,Tom Murphy,608596,3,1,7,False,2019-05-26,Stolen,2B,2019,2020,27.0
+59,8728,1B,2B,Stolen Base 2B,595777,Jurickson Profar,605488,Jeffrey Springs,657656,Ramón Laureano,L,Jeff Mathis,425772,4,7,8,True,2019-04-14,Stolen,2B,2019,2020,27.0
+60,8853,1B,2B,Stolen Base 2B,595777,Jurickson Profar,642231,Jimmy Yacabonis,592192,Mark Canha,R,Jesús Sucre,491696,6,4,6,True,2019-04-08,Stolen,2B,2019,2020,27.0
+61,8854,2B,3B,Stolen Base 2B,595777,Jurickson Profar,642231,Jimmy Yacabonis,592192,Mark Canha,R,Jesús Sucre,491696,6,4,6,True,2019-04-08,Stolen,2B,2019,2020,27.0
+62,8866,1B,2B,Stolen Base 2B,595777,Jurickson Profar,444468,Héctor Rondón,657656,Ramón Laureano,R,Max Stassi,545358,6,8,8,True,2019-04-07,Stolen,2B,2019,2020,27.0
+63,22,1B,,Caught Stealing 2B,595777,Jurickson Profar,453286,Max Scherzer,605170,Victor Caratini,R,Will Smith,669257,5,3,4,True,2021-09-29,Caught,2B,2021,2022,26.6
+64,906,1B,,Caught Stealing 2B,595777,Jurickson Profar,593423,Frankie Montas,663757,Trent Grisham,R,Sean Murphy,669221,0,0,2,True,2021-08-04,Caught,2B,2021,2022,26.6
+65,1124,1B,,Caught Stealing 2B,595777,Jurickson Profar,650828,Edgar Santana,673490,Ha-Seong Kim,R,Kevan Smith,607345,0,3,6,True,2021-07-21,Caught,2B,2021,2022,26.6
+66,1222,1B,2B,Stolen Base 2B,595777,Jurickson Profar,468504,Jhoulys Chacín,665487,Fernando Tatis Jr.,R,Elias Díaz,553869,1,2,8,False,2021-07-11,Stolen,2B,2021,2022,26.6
+67,1953,1B,2B,Stolen Base 2B,595777,Jurickson Profar,642207,Devin Williams,665487,Fernando Tatis Jr.,R,Manny Piña,444489,5,4,8,True,2021-05-27,Stolen,2B,2021,2022,26.6
+68,1988,1B,2B,Stolen Base 2B,595777,Jurickson Profar,669203,Corbin Burnes,630105,Jake Cronenworth,R,Omar Narváez,553882,0,2,6,True,2021-05-25,Stolen,2B,2021,2022,26.6
+69,2031,1B,,Caught Stealing 2B,595777,Jurickson Profar,656954,Justus Sheffield,630105,Jake Cronenworth,L,Tom Murphy,608596,1,1,3,False,2021-05-22,Caught,2B,2021,2022,26.6
+70,2034,1B,2B,Stolen Base 2B,595777,Jurickson Profar,656954,Justus Sheffield,630105,Jake Cronenworth,L,Tom Murphy,608596,2,1,5,False,2021-05-22,Stolen,2B,2021,2022,26.6
+71,2093,1B,2B,Stolen Base 2B,595777,Jurickson Profar,596112,Robert Stephenson,657434,Brian O'Grady,R,Dom Nuñez,624513,2,0,7,False,2021-05-19,Stolen,2B,2021,2022,26.6
+72,2420,1B,2B,Stolen Base 2B,595777,Jurickson Profar,661255,Yoan López,605170,Victor Caratini,R,Carson Kelly,608348,3,7,8,True,2021-04-28,Stolen,2B,2021,2022,26.6
+73,2499,1B,2B,Stolen Base 2B,595777,Jurickson Profar,642701,Dennis Santana,665487,Fernando Tatis Jr.,R,Austin Barnes,605131,1,6,9,True,2021-04-23,Stolen,2B,2021,2022,26.6
+74,2632,2B,3B,Stolen Base 3B,595777,Jurickson Profar,665854,Luis Oviedo,592518,Manny Machado,R,Jacob Stallings,607732,3,8,6,True,2021-04-15,Stolen,3B,2021,2022,26.6
+75,2655,1B,2B,Stolen Base 2B,595777,Jurickson Profar,670280,David Bednar,669134,Luis Campusano,R,Jacob Stallings,607732,7,4,7,True,2021-04-13,Stolen,2B,2021,2022,26.6
+76,2783,1B,2B,Stolen Base 2B,595777,Jurickson Profar,543101,Anthony DeSclafani,605170,Victor Caratini,R,Buster Posey,457763,1,1,2,False,2021-04-05,Stolen,2B,2021,2022,26.6
+77,1946,1B,,Caught Stealing 2B,595777,Jurickson Profar,453286,Max Scherzer,605170,Victor Caratini,R,Will Smith,669257,5,3,4,True,2021-09-29,Caught,2B,2021,2022,26.6
+78,2830,1B,,Caught Stealing 2B,595777,Jurickson Profar,593423,Frankie Montas,663757,Trent Grisham,R,Sean Murphy,669221,0,0,2,True,2021-08-04,Caught,2B,2021,2022,26.6
+79,3048,1B,,Caught Stealing 2B,595777,Jurickson Profar,650828,Edgar Santana,673490,Ha-Seong Kim,R,Kevan Smith,607345,0,3,6,True,2021-07-21,Caught,2B,2021,2022,26.6
+80,3146,1B,2B,Stolen Base 2B,595777,Jurickson Profar,468504,Jhoulys Chacín,665487,Fernando Tatis Jr.,R,Elias Díaz,553869,1,2,8,False,2021-07-11,Stolen,2B,2021,2022,26.6
+81,3877,1B,2B,Stolen Base 2B,595777,Jurickson Profar,642207,Devin Williams,665487,Fernando Tatis Jr.,R,Manny Piña,444489,5,4,8,True,2021-05-27,Stolen,2B,2021,2022,26.6
+82,3912,1B,2B,Stolen Base 2B,595777,Jurickson Profar,669203,Corbin Burnes,630105,Jake Cronenworth,R,Omar Narváez,553882,0,2,6,True,2021-05-25,Stolen,2B,2021,2022,26.6
+83,3955,1B,,Caught Stealing 2B,595777,Jurickson Profar,656954,Justus Sheffield,630105,Jake Cronenworth,L,Tom Murphy,608596,1,1,3,False,2021-05-22,Caught,2B,2021,2022,26.6
+84,3958,1B,2B,Stolen Base 2B,595777,Jurickson Profar,656954,Justus Sheffield,630105,Jake Cronenworth,L,Tom Murphy,608596,2,1,5,False,2021-05-22,Stolen,2B,2021,2022,26.6
+85,4017,1B,2B,Stolen Base 2B,595777,Jurickson Profar,596112,Robert Stephenson,657434,Brian O'Grady,R,Dom Nuñez,624513,2,0,7,False,2021-05-19,Stolen,2B,2021,2022,26.6
+86,4344,1B,2B,Stolen Base 2B,595777,Jurickson Profar,661255,Yoan López,605170,Victor Caratini,R,Carson Kelly,608348,3,7,8,True,2021-04-28,Stolen,2B,2021,2022,26.6
+87,4423,1B,2B,Stolen Base 2B,595777,Jurickson Profar,642701,Dennis Santana,665487,Fernando Tatis Jr.,R,Austin Barnes,605131,1,6,9,True,2021-04-23,Stolen,2B,2021,2022,26.6
+88,4556,2B,3B,Stolen Base 3B,595777,Jurickson Profar,665854,Luis Oviedo,592518,Manny Machado,R,Jacob Stallings,607732,3,8,6,True,2021-04-15,Stolen,3B,2021,2022,26.6
+89,4579,1B,2B,Stolen Base 2B,595777,Jurickson Profar,670280,David Bednar,669134,Luis Campusano,R,Jacob Stallings,607732,7,4,7,True,2021-04-13,Stolen,2B,2021,2022,26.6
+90,4707,1B,2B,Stolen Base 2B,595777,Jurickson Profar,543101,Anthony DeSclafani,605170,Victor Caratini,R,Buster Posey,457763,1,1,2,False,2021-04-05,Stolen,2B,2021,2022,26.6
+91,2143,1B,2B,Stolen Base 2B,595777,Jurickson Profar,675627,Michael Grove,641857,Ryan McMahon,R,Will Smith,669257,0,0,1,False,2023-06-28,Stolen,2B,2023,2024,26.5
+92,6557,1B,2B,Stolen Base 2B,595777,Jurickson Profar,675627,Michael Grove,641857,Ryan McMahon,R,Will Smith,669257,0,0,1,False,2023-06-28,Stolen,2B,2023,2024,26.5
+93,252,1B,,Caught Stealing 2B,595777,Jurickson Profar,477132,Clayton Kershaw,630105,Jake Cronenworth,L,Austin Barnes,605131,1,0,6,True,2022-07-03,Caught,2B,2022,2023,25.6
+94,1043,1B,2B,Stolen Base 2B,595777,Jurickson Profar,607074,Carlos Rodón,571976,Wil Myers,L,Joey Bart,663698,0,0,1,True,2022-05-21,Stolen,2B,2022,2023,25.6
+95,1054,1B,2B,Stolen Base 2B,595777,Jurickson Profar,643511,Tyler Rogers,571976,Wil Myers,R,Curt Casali,592200,4,6,8,True,2022-05-20,Stolen,2B,2022,2023,25.6
+96,1163,1B,2B,Stolen Base 2B,595777,Jurickson Profar,623451,Jackson Stephens,571976,Wil Myers,R,William Contreras,661388,3,7,11,True,2022-05-15,Stolen,2B,2022,2023,25.6
+97,1612,1B,2B,Stolen Base 2B,595777,Jurickson Profar,519326,Hunter Strickland,571976,Wil Myers,R,Aramis Garcia,605244,4,0,8,False,2022-04-20,Stolen,2B,2022,2023,25.6
+98,413,1B,2B,Stolen Base 2B,595777,Jurickson Profar,641871,Keynan Middleton,462101,Elvis Andrus,R,René Rivera,425784,2,7,9,False,2018-04-11,Stolen,2B,2018,2019,26.8
+99,2658,1B,2B,Stolen Base 2B,595777,Jurickson Profar,424144,Oliver Pérez,425783,Shin-Soo Choo,L,Matt Wieters,446308,1,1,8,True,2017-06-11,Stolen,2B,2017,2018,27.6
+100,4028,1B,,Caught Stealing 2B,595777,Jurickson Profar,450306,Jason Vargas,650958,Michael De León,L,Salvador Perez,521692,5,1,6,False,2017-04-01,Caught,2B,2017,2018,27.6
+101,2030,1B,2B,Stolen Base 2B,595777,Jurickson Profar,424144,Oliver Pérez,425783,Shin-Soo Choo,L,Matt Wieters,446308,1,1,8,True,2017-06-11,Stolen,2B,2017,2018,27.6
+102,3400,1B,,Caught Stealing 2B,595777,Jurickson Profar,450306,Jason Vargas,650958,Michael De León,L,Salvador Perez,521692,5,1,6,False,2017-04-01,Caught,2B,2017,2018,27.6
+103,4104,1B,2B,Stolen Base 2B,595777,Jurickson Profar,519076,Jimmy Nelson,462101,Elvis Andrus,R,Manny Piña,444489,0,3,3,False,2016-09-27,Stolen,2B,2016,2017,26.7
+104,5076,1B,2B,Stolen Base 2B,595777,Jurickson Profar,608032,Carlos Estévez,462101,Elvis Andrus,R,Nick Hundley,460026,3,3,9,True,2016-08-08,Stolen,2B,2016,2017,26.7
+105,6156,1B,,Caught Stealing 2B,595777,Jurickson Profar,547874,Hisashi Iwakuma,435622,Ian Desmond,R,Chris Iannetta,455104,0,0,1,True,2016-06-10,Caught,2B,2016,2017,26.7
+106,69,1B,2B,Stolen Base 2B,595777,Jurickson Profar,519076,Jimmy Nelson,462101,Elvis Andrus,R,Manny Piña,444489,0,3,3,False,2016-09-27,Stolen,2B,2016,2017,26.7
+107,1041,1B,2B,Stolen Base 2B,595777,Jurickson Profar,608032,Carlos Estévez,462101,Elvis Andrus,R,Nick Hundley,460026,3,3,9,True,2016-08-08,Stolen,2B,2016,2017,26.7
+108,2121,1B,,Caught Stealing 2B,595777,Jurickson Profar,547874,Hisashi Iwakuma,435622,Ian Desmond,R,Chris Iannetta,455104,0,0,1,True,2016-06-10,Caught,2B,2016,2017,26.7
+109,3476,1B,2B,Stolen Base 2B,595777,Jurickson Profar,519076,Jimmy Nelson,462101,Elvis Andrus,R,Manny Piña,444489,0,3,3,False,2016-09-27,Stolen,2B,2016,2017,26.7
+110,4448,1B,2B,Stolen Base 2B,595777,Jurickson Profar,608032,Carlos Estévez,462101,Elvis Andrus,R,Nick Hundley,460026,3,3,9,True,2016-08-08,Stolen,2B,2016,2017,26.7
+111,5528,1B,,Caught Stealing 2B,595777,Jurickson Profar,547874,Hisashi Iwakuma,435622,Ian Desmond,R,Chris Iannetta,455104,0,0,1,True,2016-06-10,Caught,2B,2016,2017,26.7

@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+469,1B,2B,Stolen Base 2B,433477,Andy Green,David Ross,5,5,8,True,2004-09-08,Stolen,2B,2004
+1029,1B,,Caught Stealing 2B,433477,Andy Green,Brian Schneider,0,0,1,True,2004-08-11,Caught,2B,2004

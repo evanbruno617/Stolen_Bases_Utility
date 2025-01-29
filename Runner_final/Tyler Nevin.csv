@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,709,1B,,Caught Stealing 2B,663527,Tyler Nevin,621383,Tanner Banks,668731,Akil Baddoo,L,Korey Lee,686676,2,2,4,True,2023-09-03,Caught,2B,2023,2024,26.4
+1,5123,1B,,Caught Stealing 2B,663527,Tyler Nevin,621383,Tanner Banks,668731,Akil Baddoo,L,Korey Lee,686676,2,2,4,True,2023-09-03,Caught,2B,2023,2024,26.4

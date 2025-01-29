@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+32,1B,,Caught Stealing 2B,407899,Luis Ugueto,Bengie Molina,1,0,3,True,2002-09-28,Caught,2B,2002
+50,1B,2B,Stolen Base 2B,407899,Luis Ugueto,Sal Fasano,6,6,11,True,2002-09-27,Stolen,2B,2002
+79,1B,2B,Stolen Base 2B,407899,Luis Ugueto,Ramon Hernandez,2,2,9,False,2002-09-26,Stolen,2B,2002
+1598,1B,,Caught Stealing 2B,407899,Luis Ugueto,Toby Hall,6,6,7,True,2002-07-14,Caught,2B,2002
+2321,1B,2B,Stolen Base 2B,407899,Luis Ugueto,Joe Girardi,0,2,9,False,2002-06-07,Stolen,2B,2002
+2370,1B,2B,Stolen Base 2B,407899,Luis Ugueto,Ramon Hernandez,2,2,9,True,2002-06-04,Stolen,2B,2002
+2806,1B,,Caught Stealing 2B,407899,Luis Ugueto,Jason Varitek,3,2,9,True,2002-05-19,Caught,2B,2002
+2969,1B,2B,Stolen Base 2B,407899,Luis Ugueto,Jason Varitek,1,6,8,False,2002-05-12,Stolen,2B,2002
+3047,1B,2B,Stolen Base 2B,407899,Luis Ugueto,Tom Wilson,7,7,9,False,2002-05-09,Stolen,2B,2002
+3610,1B,2B,Stolen Base 2B,407899,Luis Ugueto,Bill Haselman,10,10,8,True,2002-04-15,Stolen,2B,2002
+3799,1B,2B,Stolen Base 2B,407899,Luis Ugueto,Ramon Hernandez,5,6,9,False,2002-04-07,Stolen,2B,2002
+126,1B,2B,Stolen Base 2B,407899,Luis Ugueto,Shawn Wooten,1,0,9,True,2003-09-23,Stolen,2B,2003
+2000,1B,2B,Stolen Base 2B,407899,Luis Ugueto,Bengie Molina,2,0,8,False,2003-06-18,Stolen,2B,2003

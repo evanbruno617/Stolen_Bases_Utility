@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+382,1B,2B,Stolen Base 2B,591720,Ronald Torreyes,Jason Castro,1,2,9,True,2016-07-25,Stolen,2B,2016
+1632,1B,2B,Stolen Base 2B,591720,Ronald Torreyes,Evan Gattis,2,5,6,True,2017-07-01,Stolen,2B,2017
+1633,2B,3B,Stolen Base 3B,591720,Ronald Torreyes,Evan Gattis,2,5,6,True,2017-07-01,Stolen,3B,2017
+88,1B,2B,Stolen Base 2B,591720,Ronald Torreyes,Jake Rogers,0,1,3,True,2019-09-26,Stolen,2B,2019
+772,1B,2B,Stolen Base 2B,591720,Ronald Torreyes,Austin Barnes,2,0,4,False,2021-08-12,Stolen,2B,2021
+1232,1B,2B,Stolen Base 2B,591720,Ronald Torreyes,Christian Vázquez,1,0,3,True,2021-07-11,Stolen,2B,2021
+1234,1B,,Caught Stealing 2B,591720,Ronald Torreyes,Christian Vázquez,4,5,9,True,2021-07-11,Caught,2B,2021

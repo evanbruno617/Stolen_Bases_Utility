@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,360,1B,2B,Stolen Base 2B,687952,Christian Encarnacion-Strand,656731,Tylor Megill,682829,Elly De La Cruz,R,Francisco Alvarez,682626,1,1,2,True,2023-09-16,Stolen,2B,2023,2024,27.4
+1,361,2B,3B,Stolen Base 2B,687952,Christian Encarnacion-Strand,656731,Tylor Megill,682829,Elly De La Cruz,R,Francisco Alvarez,682626,1,1,2,True,2023-09-16,Stolen,2B,2023,2024,27.4
+2,1053,1B,2B,Stolen Base 2B,687952,Christian Encarnacion-Strand,605447,Jordan Romano,592656,Henry Ramos,R,Alejandro Kirk,672386,3,4,9,False,2023-08-19,Stolen,2B,2023,2024,27.4
+3,4774,1B,2B,Stolen Base 2B,687952,Christian Encarnacion-Strand,656731,Tylor Megill,682829,Elly De La Cruz,R,Francisco Alvarez,682626,1,1,2,True,2023-09-16,Stolen,2B,2023,2024,27.4
+4,4775,2B,3B,Stolen Base 2B,687952,Christian Encarnacion-Strand,656731,Tylor Megill,682829,Elly De La Cruz,R,Francisco Alvarez,682626,1,1,2,True,2023-09-16,Stolen,2B,2023,2024,27.4
+5,5467,1B,2B,Stolen Base 2B,687952,Christian Encarnacion-Strand,605447,Jordan Romano,592656,Henry Ramos,R,Alejandro Kirk,672386,3,4,9,False,2023-08-19,Stolen,2B,2023,2024,27.4

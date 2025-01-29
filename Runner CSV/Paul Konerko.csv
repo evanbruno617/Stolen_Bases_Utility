@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+657,1B,2B,Stolen Base 2B,117244,Paul Konerko,Bengie Molina,9,7,4,False,2000-09-03,Stolen,2B,2000
+195,1B,2B,Stolen Base 2B,117244,Paul Konerko,Darrin Fletcher,0,0,2,False,2001-05-28,Stolen,2B,2001
+3510,1B,2B,Stolen Base 2B,117244,Paul Konerko,Benito Santiago,3,7,8,True,2004-04-05,Stolen,2B,2004
+610,1B,,Caught Stealing 2B,117244,Paul Konerko,Ivan Rodriguez,0,1,4,True,2007-09-04,Caught,2B,2007
+929,1B,2B,Stolen Base 2B,117244,Paul Konerko,John Buck,3,2,5,False,2008-08-14,Stolen,2B,2008
+2774,1B,2B,Stolen Base 2B,117244,Paul Konerko,Mike Napoli,1,5,8,True,2008-05-14,Stolen,2B,2008
+1206,1B,,Caught Stealing 2B,117244,Paul Konerko,Alex Avila,0,2,6,True,2010-08-05,Caught,2B,2010
+3399,1B,2B,Stolen Base 2B,117244,Paul Konerko,Hank Conger,4,6,10,True,2011-05-11,Stolen,2B,2011
+4153,1B,,Caught Stealing 2B,117244,Paul Konerko,Kurt Suzuki,0,0,2,False,2011-04-11,Caught,2B,2011

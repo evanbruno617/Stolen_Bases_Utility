@@ -1,0 +1,9 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,Cooper Hummel,1,6,6,True,2022-09-16,Stolen,3B,2022
+1B,2B,Stolen Base 2B,630105,Jake Cronenworth,Cooper Hummel,1,7,6,True,2022-09-16,Stolen,2B,2022
+1B,2B,Stolen Base 2B,640492,José Azocar,Cooper Hummel,1,7,6,True,2022-09-16,Stolen,2B,2022
+1B,2B,Stolen Base 2B,545341,Randal Grichuk,Cooper Hummel,4,1,7,False,2022-09-10,Stolen,2B,2022
+1B,2B,Stolen Base 2B,663757,Trent Grisham,Cooper Hummel,4,3,5,False,2022-09-07,Stolen,2B,2022
+1B,2B,Stolen Base 2B,592144,Wynton Bernard,Cooper Hummel,3,3,7,False,2022-08-12,Stolen,2B,2022
+1B,2B,Stolen Base 2B,605141,Mookie Betts,Cooper Hummel,2,1,3,True,2022-05-28,Stolen,2B,2022
+1B,,Caught Stealing 2B,607208,Trea Turner,Cooper Hummel,2,3,5,True,2022-05-28,Caught,2B,2022

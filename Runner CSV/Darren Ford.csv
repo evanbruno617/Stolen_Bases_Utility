@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+432,1B,,Caught Stealing 2B,452096,Darren Ford,Yorvit Torrealba,1,0,9,True,2010-09-11,Caught,2B,2010
+476,1B,2B,Stolen Base 2B,452096,Darren Ford,Miguel Montero,2,1,7,True,2010-09-08,Stolen,2B,2010
+567,1B,2B,Stolen Base 2B,452096,Darren Ford,Rod Barajas,4,3,8,True,2010-09-04,Stolen,2B,2010
+402,1B,2B,Stolen Base 2B,452096,Darren Ford,Luis Martinez,3,1,7,False,2011-09-14,Stolen,2B,2011
+510,1B,2B,Stolen Base 2B,452096,Darren Ford,Rod Barajas,1,1,8,False,2011-09-09,Stolen,2B,2011
+566,1B,,Caught Stealing 2B,452096,Darren Ford,Nick Hundley,2,1,8,True,2011-09-07,Caught,2B,2011
+603,1B,,Caught Stealing 2B,452096,Darren Ford,Nick Hundley,1,4,6,True,2011-09-05,Caught,2B,2011
+3130,1B,2B,Stolen Base 2B,452096,Darren Ford,Kurt Suzuki,4,4,11,False,2011-05-22,Stolen,2B,2011
+3429,1B,2B,Stolen Base 2B,452096,Darren Ford,Miguel Montero,0,0,9,False,2011-05-10,Stolen,2B,2011
+3486,1B,2B,Stolen Base 2B,452096,Darren Ford,Chris Iannetta,2,0,6,False,2011-05-07,Stolen,2B,2011
+3558,1B,2B,Stolen Base 2B,452096,Darren Ford,Ronny Paulino,0,2,8,True,2011-05-04,Stolen,2B,2011
+3650,1B,,Caught Stealing 2B,452096,Darren Ford,Ivan Rodriguez,3,2,8,True,2011-05-01,Caught,2B,2011
+3682,1B,,Caught Stealing 2B,452096,Darren Ford,Wilson Ramos,1,1,7,True,2011-04-30,Caught,2B,2011
+3952,1B,2B,Stolen Base 2B,452096,Darren Ford,Chris Iannetta,1,4,7,True,2011-04-19,Stolen,2B,2011

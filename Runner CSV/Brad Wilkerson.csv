@@ -1,0 +1,84 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+61,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Kelly Stinnett,3,3,7,False,2002-09-27,Stolen,2B,2002
+242,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Charles Johnson,0,2,2,True,2002-09-18,Caught,2B,2002
+244,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Charles Johnson,0,2,7,True,2002-09-18,Caught,2B,2002
+528,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Todd Pratt,8,3,7,False,2002-09-04,Caught,2B,2002
+537,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Mike Lieberthal,3,4,3,False,2002-09-03,Stolen,2B,2002
+777,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Gary Bennett,3,3,2,True,2002-08-22,Stolen,2B,2002
+1149,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Brad Ausmus,3,3,7,False,2002-08-03,Caught,2B,2002
+1408,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Charles Johnson,0,0,1,True,2002-07-21,Stolen,2B,2002
+1780,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Henry Blanco,0,0,1,True,2002-07-03,Stolen,2B,2002
+1977,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Jason Kendall,0,0,1,True,2002-06-25,Caught,2B,2002
+2188,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Ken Huckaby,2,1,2,False,2002-06-14,Caught,2B,2002
+2438,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Todd Pratt,0,0,1,True,2002-06-02,Caught,2B,2002
+2496,2B,,Caught Stealing 3B,150415,Brad Wilkerson,Javy Lopez,2,1,6,True,2002-05-30,Caught,3B,2002
+2842,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Paul Lo Duca,4,3,6,True,2002-05-17,Stolen,2B,2002
+3258,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Brad Ausmus,0,3,4,True,2002-04-30,Stolen,2B,2002
+75,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Jason LaRue,0,0,1,True,2003-09-26,Caught,2B,2003
+391,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Damian Miller,0,3,4,False,2003-09-10,Caught,2B,2003
+484,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Ivan Rodriguez,4,1,7,False,2003-09-05,Stolen,2B,2003
+630,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Todd Pratt,1,0,1,False,2003-08-28,Stolen,2B,2003
+644,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Mike Lieberthal,5,1,6,False,2003-08-27,Caught,2B,2003
+736,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Gary Bennett,5,3,9,True,2003-08-22,Stolen,2B,2003
+759,2B,3B,Stolen Base 3B,150415,Brad Wilkerson,David Ross,0,1,4,True,2003-08-21,Stolen,3B,2003
+952,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Charles Johnson,3,3,6,False,2003-08-12,Caught,2B,2003
+1319,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Henry Blanco,8,8,10,False,2003-07-25,Stolen,2B,2003
+1332,2B,3B,Stolen Base 3B,150415,Brad Wilkerson,Vance Wilson,4,1,8,False,2003-07-24,Stolen,3B,2003
+1755,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Vance Wilson,0,0,2,True,2003-06-30,Caught,2B,2003
+1790,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Tom Wilson,0,0,2,True,2003-06-29,Stolen,2B,2003
+1845,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Greg Myers,2,5,3,True,2003-06-27,Stolen,2B,2003
+1995,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Jason Kendall,1,1,5,True,2003-06-19,Stolen,2B,2003
+2103,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Ramon Hernandez,0,0,1,True,2003-06-13,Caught,2B,2003
+2411,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Mike Redmond,0,0,2,True,2003-05-29,Stolen,2B,2003
+2659,3B,,Caught Stealing Home,150415,Brad Wilkerson,Charles Johnson,4,6,10,True,2003-05-17,Caught,Home,2003
+2799,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Paul Lo Duca,2,4,7,False,2003-05-11,Stolen,2B,2003
+3041,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Eddie Pérez,2,3,9,True,2003-04-29,Stolen,2B,2003
+3133,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Chad Moeller,1,0,7,False,2003-04-24,Stolen,2B,2003
+100,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Todd Pratt,1,2,6,False,2004-09-26,Caught,2B,2004
+113,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Mike Lieberthal,2,0,4,False,2004-09-25,Caught,2B,2004
+335,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Paul Lo Duca,1,3,7,True,2004-09-15,Stolen,2B,2004
+362,2B,3B,Stolen Base 3B,150415,Brad Wilkerson,Paul Lo Duca,8,6,9,True,2004-09-14,Stolen,3B,2004
+790,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,JD Closser,0,0,1,True,2004-08-22,Stolen,2B,2004
+887,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Yorvit Torrealba,0,0,1,True,2004-08-17,Stolen,2B,2004
+996,2B,3B,Stolen Base 3B,150415,Brad Wilkerson,Koyie Hill,3,0,1,False,2004-08-12,Stolen,3B,2004
+1240,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Paul Lo Duca,2,1,3,True,2004-07-31,Stolen,2B,2004
+1739,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Gregg Zaun,0,2,8,False,2004-07-03,Stolen,2B,2004
+1923,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Mike Lieberthal,3,0,7,False,2004-06-24,Stolen,2B,2004
+1985,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Sandy Alomar Jr.,3,1,2,False,2004-06-19,Caught,2B,2004
+2326,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Jason LaRue,2,0,3,True,2004-06-04,Caught,2B,2004
+2481,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Javier Valentin,6,7,7,False,2004-05-28,Stolen,2B,2004
+2706,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Robby Hammock,2,3,3,True,2004-05-14,Stolen,2B,2004
+2761,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Gary Bennett,4,3,9,True,2004-05-12,Caught,2B,2004
+2951,1B,,Caught Stealing 2B,150415,Brad Wilkerson,David Ross,0,1,1,True,2004-05-02,Caught,2B,2004
+2986,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Paul Lo Duca,4,4,8,True,2004-05-01,Stolen,2B,2004
+3027,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Miguel Ojeda,0,1,2,True,2004-04-29,Stolen,2B,2004
+3261,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Mike Lieberthal,1,3,4,True,2004-04-18,Stolen,2B,2004
+40,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Mike Lieberthal,3,4,9,False,2005-09-30,Stolen,2B,2005
+600,2B,,Caught Stealing 3B,150415,Brad Wilkerson,Brian McCann,1,1,3,True,2005-08-31,Caught,3B,2005
+603,2B,3B,Stolen Base 3B,150415,Brad Wilkerson,Brian McCann,3,4,9,True,2005-08-31,Stolen,3B,2005
+622,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Johnny Estrada,2,3,9,True,2005-08-30,Stolen,2B,2005
+636,2B,,Caught Stealing 3B,150415,Brad Wilkerson,Brian McCann,1,1,3,True,2005-08-29,Caught,3B,2005
+639,2B,3B,Stolen Base 3B,150415,Brad Wilkerson,Brian McCann,3,4,9,True,2005-08-29,Stolen,3B,2005
+1130,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Dioner Navarro,0,0,1,False,2005-08-03,Stolen,2B,2005
+1195,2B,,Caught Stealing 3B,150415,Brad Wilkerson,Paul Lo Duca,1,0,3,True,2005-07-30,Caught,3B,2005
+1605,2B,,Caught Stealing 3B,150415,Brad Wilkerson,Todd Pratt,3,5,6,True,2005-07-08,Caught,3B,2005
+1709,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Michael Barrett,0,1,3,True,2005-07-03,Caught,2B,2005
+1818,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Ryan Doumit,0,1,1,False,2005-06-28,Caught,2B,2005
+2123,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Pat Borders,0,0,1,False,2005-06-11,Stolen,2B,2005
+2328,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Johnny Estrada,1,1,5,False,2005-05-30,Caught,2B,2005
+2804,2B,3B,Stolen Base 3B,150415,Brad Wilkerson,Mike Matheny,0,0,3,True,2005-05-07,Stolen,3B,2005
+3076,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Mike Piazza,3,6,6,True,2005-04-24,Stolen,2B,2005
+3172,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Johnny Estrada,2,0,7,False,2005-04-20,Stolen,2B,2005
+3449,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Mike Lieberthal,0,0,1,True,2005-04-06,Caught,2B,2005
+292,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Joe Mauer,2,2,7,True,2007-09-17,Stolen,2B,2007
+566,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,John Buck,0,0,2,False,2007-09-05,Stolen,2B,2007
+3063,1B,,Caught Stealing 2B,150415,Brad Wilkerson,José Molina,2,5,4,False,2007-05-12,Caught,2B,2007
+3230,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Jorge Posada,3,4,8,False,2007-05-03,Stolen,2B,2007
+3801,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Doug Mirabelli,2,0,2,False,2007-04-06,Stolen,2B,2007
+2162,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Jamie Burke,3,1,7,False,2008-06-10,Caught,2B,2008
+2210,3B,score,Stolen Base Home,150415,Brad Wilkerson,Ramon Hernandez,2,1,2,False,2008-06-08,Stolen,Home,2008
+2279,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Jorge Posada,6,7,8,True,2008-06-05,Stolen,2B,2008
+2322,2B,,Caught Stealing 3B,150415,Brad Wilkerson,José Molina,2,3,6,True,2008-06-03,Caught,3B,2008
+3624,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Ramon Hernandez,0,1,4,True,2008-04-06,Caught,2B,2008
+3676,1B,,Caught Stealing 2B,150415,Brad Wilkerson,Ramon Hernandez,4,2,7,True,2008-04-04,Caught,2B,2008
+3697,1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Gerald Laird,4,1,6,False,2008-04-02,Stolen,2B,2008

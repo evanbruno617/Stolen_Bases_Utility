@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+907,1B,,Caught Stealing 2B,124388,Enrique Wilson,Carlos Hernandez,0,0,1,True,2000-08-23,Caught,2B,2000
+2452,1B,2B,Stolen Base 2B,124388,Enrique Wilson,Eddie Taubensee,3,0,4,False,2000-06-11,Stolen,2B,2000
+3186,1B,2B,Stolen Base 2B,124388,Enrique Wilson,Marcus Jensen,1,6,7,True,2000-05-10,Stolen,2B,2000
+3356,1B,,Caught Stealing 2B,124388,Enrique Wilson,Jorge Posada,5,1,6,False,2000-05-03,Caught,2B,2000
+707,1B,,Caught Stealing 2B,124388,Enrique Wilson,Mike Matheny,6,0,3,True,2001-05-08,Caught,2B,2001
+898,1B,,Caught Stealing 2B,124388,Enrique Wilson,Benito Santiago,0,0,2,False,2001-05-01,Caught,2B,2001
+1419,3B,,Caught Stealing Home,124388,Enrique Wilson,Brad Ausmus,3,4,6,True,2001-04-07,Caught,Home,2001
+201,1B,2B,Stolen Base 2B,124388,Enrique Wilson,Mike Rivera,1,2,7,True,2002-09-20,Stolen,2B,2002
+2408,1B,,Caught Stealing 2B,124388,Enrique Wilson,Geronimo Gil,1,2,7,False,2002-06-03,Caught,2B,2002
+876,1B,2B,Stolen Base 2B,124388,Enrique Wilson,Brook Fordyce,3,2,9,True,2003-08-15,Stolen,2B,2003
+1315,2B,3B,Stolen Base 3B,124388,Enrique Wilson,Jason Varitek,2,2,7,True,2003-07-25,Stolen,3B,2003
+1317,1B,2B,Stolen Base 2B,124388,Enrique Wilson,Jason Varitek,3,3,9,True,2003-07-25,Stolen,2B,2003
+3366,1B,,Caught Stealing 2B,124388,Enrique Wilson,Toby Hall,0,1,7,False,2003-04-13,Caught,2B,2003
+36,1B,,Caught Stealing 2B,124388,Enrique Wilson,Pat Borders,3,2,2,False,2004-09-29,Caught,2B,2004
+43,1B,,Caught Stealing 2B,124388,Enrique Wilson,Pat Borders,3,2,2,False,2004-09-28,Caught,2B,2004
+2446,1B,2B,Stolen Base 2B,124388,Enrique Wilson,Toby Hall,0,4,6,True,2004-05-29,Stolen,2B,2004

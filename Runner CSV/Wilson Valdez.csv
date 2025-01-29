@@ -1,0 +1,25 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+64,1B,2B,Stolen Base 2B,407832,Wilson Valdez,Ivan Rodriguez,2,1,3,True,2004-09-28,Stolen,2B,2004
+292,1B,,Caught Stealing 2B,407832,Wilson Valdez,Ivan Rodriguez,3,1,2,False,2004-09-17,Caught,2B,2004
+2540,1B,2B,Stolen Base 2B,407832,Wilson Valdez,Ramon Hernandez,0,3,6,False,2005-05-20,Stolen,2B,2005
+2759,1B,2B,Stolen Base 2B,407832,Wilson Valdez,Jorge Posada,1,0,3,True,2005-05-09,Stolen,2B,2005
+3041,1B,,Caught Stealing 2B,407832,Wilson Valdez,Rod Barajas,0,3,2,True,2005-04-26,Caught,2B,2005
+3303,1B,,Caught Stealing 2B,407832,Wilson Valdez,John Buck,0,2,7,True,2005-04-13,Caught,2B,2005
+3570,1B,2B,Stolen Base 2B,407832,Wilson Valdez,Chris Snyder,4,4,7,True,2007-04-17,Stolen,2B,2007
+2758,1B,,Caught Stealing 2B,407832,Wilson Valdez,Mark Johnson,8,3,5,True,2009-04-02,Caught,2B,2009
+89,1B,2B,Stolen Base 2B,407832,Wilson Valdez,Wilson Ramos,0,4,9,True,2010-09-27,Stolen,2B,2010
+90,2B,3B,Stolen Base 3B,407832,Wilson Valdez,Wilson Ramos,0,4,9,True,2010-09-27,Stolen,3B,2010
+219,2B,3B,Stolen Base 3B,407832,Wilson Valdez,Brian McCann,0,0,2,False,2010-09-21,Stolen,3B,2010
+1283,1B,2B,Stolen Base 2B,407832,Wilson Valdez,Wil Nieves,4,4,8,True,2010-08-01,Stolen,2B,2010
+1885,1B,2B,Stolen Base 2B,407832,Wilson Valdez,Ryan Doumit,2,0,7,True,2010-07-02,Stolen,2B,2010
+2219,1B,2B,Stolen Base 2B,407832,Wilson Valdez,Francisco Cervelli,1,4,9,True,2010-06-17,Stolen,2B,2010
+2685,1B,2B,Stolen Base 2B,407832,Wilson Valdez,Ronny Paulino,2,3,7,True,2010-05-28,Stolen,2B,2010
+497,1B,2B,Stolen Base 2B,407832,Wilson Valdez,Jonathan Lucroy,2,2,8,True,2011-09-10,Stolen,2B,2011
+1040,1B,,Caught Stealing 2B,407832,Wilson Valdez,Miguel Montero,4,0,6,False,2011-08-18,Caught,2B,2011
+1375,1B,,Caught Stealing 2B,407832,Wilson Valdez,Eliezer Alfonzo,5,8,7,True,2011-08-03,Caught,2B,2011
+3829,1B,2B,Stolen Base 2B,407832,Wilson Valdez,Nick Hundley,1,0,3,True,2011-04-23,Stolen,2B,2011
+4333,1B,2B,Stolen Base 2B,407832,Wilson Valdez,Mike Nickeas,0,6,5,False,2011-04-05,Stolen,2B,2011
+620,1B,2B,Stolen Base 2B,407832,Wilson Valdez,Erik Kratz,0,0,1,False,2012-09-04,Stolen,2B,2012
+1422,1B,2B,Stolen Base 2B,407832,Wilson Valdez,John Baker,1,0,3,False,2012-07-31,Stolen,2B,2012
+1962,2B,3B,Stolen Base 3B,407832,Wilson Valdez,Yasmani Grandal,0,0,1,True,2012-07-05,Stolen,3B,2012
+1963,3B,,Caught Stealing Home,407832,Wilson Valdez,Yasmani Grandal,0,0,1,True,2012-07-05,Caught,Home,2012

@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2790,1B,2B,Stolen Base 2B,641829,Jason Martin,Willson Contreras,1,5,7,True,2019-04-10,Stolen,2B,2019
+2865,1B,2B,Stolen Base 2B,641829,Jason Martin,Curt Casali,0,0,1,False,2019-04-06,Stolen,2B,2019
+1233,1B,2B,Stolen Base 2B,641829,Jason Martin,Roberto Pérez,2,4,7,False,2020-07-22,Stolen,2B,2020
+286,1B,2B,Stolen Base 2B,641829,Jason Martin,Yan Gomes,0,3,4,True,2021-09-12,Stolen,2B,2021
+1220,1B,2B,Stolen Base 2B,641829,Jason Martin,Sean Murphy,0,2,3,False,2021-07-11,Stolen,2B,2021
+1753,1B,,Caught Stealing 2B,641829,Jason Martin,Chadwick Tromp,3,3,10,False,2021-06-09,Caught,2B,2021
+1888,1B,2B,Stolen Base 2B,641829,Jason Martin,Tom Murphy,4,2,8,True,2021-05-30,Stolen,2B,2021

@@ -1,0 +1,40 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4065,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,434622,Ubaldo Jiménez,518626,Josh Donaldson,R,Matt Wieters,446308,0,0,1,False,2016-09-29,Stolen,2B,2016,2017,28.0
+1,4089,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,501957,Chris Tillman,518626,Josh Donaldson,R,Matt Wieters,446308,2,0,3,False,2016-09-28,Caught,2B,2016,2017,28.0
+2,4745,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,572990,Pat Light,430832,José Bautista,R,Kurt Suzuki,435559,7,5,6,False,2016-08-26,Stolen,2B,2016,2017,28.0
+3,5759,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,502083,Zach McAllister,581527,Devon Travis,R,Chris Gimenez,460269,0,1,1,False,2016-07-02,Stolen,2B,2016,2017,28.0
+4,5818,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,502522,Justin Miller,581527,Devon Travis,R,Nick Hundley,460026,5,11,7,True,2016-06-28,Stolen,2B,2016,2017,28.0
+5,6155,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,605541,Mike Wright Jr.,518626,Josh Donaldson,R,Francisco Peña,506747,3,3,5,False,2016-06-11,Caught,2B,2016,2017,28.0
+6,6418,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,518886,Craig Kimbrel,431145,Russell Martin,R,Christian Vázquez,543877,9,9,9,False,2016-05-28,Stolen,2B,2016,2017,28.0
+7,6915,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,543606,Jake Odorizzi,431145,Russell Martin,R,Hank Conger,474233,0,1,5,True,2016-05-01,Caught,2B,2016,2017,28.0
+8,7080,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,605135,Chris Bassitt,518626,Josh Donaldson,R,Josh Phegley,572033,5,2,4,False,2016-04-23,Stolen,2B,2016,2017,28.0
+9,7170,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,571710,Mychal Givens,430832,José Bautista,R,Matt Wieters,446308,3,4,9,True,2016-04-19,Stolen,2B,2016,2017,28.0
+10,7460,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,457711,Sean O'Sullivan,446381,Darwin Barney,R,Sandy León,506702,2,0,4,False,2016-04-02,Caught,2B,2016,2017,28.0
+11,7479,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,543726,Robbie Ross Jr.,446381,Darwin Barney,L,Sandy León,506702,2,2,7,False,2016-04-01,Stolen,2B,2016,2017,28.0
+12,30,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,434622,Ubaldo Jiménez,518626,Josh Donaldson,R,Matt Wieters,446308,0,0,1,False,2016-09-29,Stolen,2B,2016,2017,28.0
+13,54,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,501957,Chris Tillman,518626,Josh Donaldson,R,Matt Wieters,446308,2,0,3,False,2016-09-28,Caught,2B,2016,2017,28.0
+14,710,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,572990,Pat Light,430832,José Bautista,R,Kurt Suzuki,435559,7,5,6,False,2016-08-26,Stolen,2B,2016,2017,28.0
+15,1724,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,502083,Zach McAllister,581527,Devon Travis,R,Chris Gimenez,460269,0,1,1,False,2016-07-02,Stolen,2B,2016,2017,28.0
+16,1783,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,502522,Justin Miller,581527,Devon Travis,R,Nick Hundley,460026,5,11,7,True,2016-06-28,Stolen,2B,2016,2017,28.0
+17,2120,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,605541,Mike Wright Jr.,518626,Josh Donaldson,R,Francisco Peña,506747,3,3,5,False,2016-06-11,Caught,2B,2016,2017,28.0
+18,2383,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,518886,Craig Kimbrel,431145,Russell Martin,R,Christian Vázquez,543877,9,9,9,False,2016-05-28,Stolen,2B,2016,2017,28.0
+19,2880,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,543606,Jake Odorizzi,431145,Russell Martin,R,Hank Conger,474233,0,1,5,True,2016-05-01,Caught,2B,2016,2017,28.0
+20,3045,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,605135,Chris Bassitt,518626,Josh Donaldson,R,Josh Phegley,572033,5,2,4,False,2016-04-23,Stolen,2B,2016,2017,28.0
+21,3135,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,571710,Mychal Givens,430832,José Bautista,R,Matt Wieters,446308,3,4,9,True,2016-04-19,Stolen,2B,2016,2017,28.0
+22,3425,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,457711,Sean O'Sullivan,446381,Darwin Barney,R,Sandy León,506702,2,0,4,False,2016-04-02,Caught,2B,2016,2017,28.0
+23,3444,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,543726,Robbie Ross Jr.,446381,Darwin Barney,L,Sandy León,506702,2,2,7,False,2016-04-01,Stolen,2B,2016,2017,28.0
+24,3437,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,434622,Ubaldo Jiménez,518626,Josh Donaldson,R,Matt Wieters,446308,0,0,1,False,2016-09-29,Stolen,2B,2016,2017,28.0
+25,3461,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,501957,Chris Tillman,518626,Josh Donaldson,R,Matt Wieters,446308,2,0,3,False,2016-09-28,Caught,2B,2016,2017,28.0
+26,4117,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,572990,Pat Light,430832,José Bautista,R,Kurt Suzuki,435559,7,5,6,False,2016-08-26,Stolen,2B,2016,2017,28.0
+27,5131,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,502083,Zach McAllister,581527,Devon Travis,R,Chris Gimenez,460269,0,1,1,False,2016-07-02,Stolen,2B,2016,2017,28.0
+28,5190,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,502522,Justin Miller,581527,Devon Travis,R,Nick Hundley,460026,5,11,7,True,2016-06-28,Stolen,2B,2016,2017,28.0
+29,5527,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,605541,Mike Wright Jr.,518626,Josh Donaldson,R,Francisco Peña,506747,3,3,5,False,2016-06-11,Caught,2B,2016,2017,28.0
+30,5790,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,518886,Craig Kimbrel,431145,Russell Martin,R,Christian Vázquez,543877,9,9,9,False,2016-05-28,Stolen,2B,2016,2017,28.0
+31,6287,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,543606,Jake Odorizzi,431145,Russell Martin,R,Hank Conger,474233,0,1,5,True,2016-05-01,Caught,2B,2016,2017,28.0
+32,6452,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,605135,Chris Bassitt,518626,Josh Donaldson,R,Josh Phegley,572033,5,2,4,False,2016-04-23,Stolen,2B,2016,2017,28.0
+33,6542,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,571710,Mychal Givens,430832,José Bautista,R,Matt Wieters,446308,3,4,9,True,2016-04-19,Stolen,2B,2016,2017,28.0
+34,6832,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,457711,Sean O'Sullivan,446381,Darwin Barney,R,Sandy León,506702,2,0,4,False,2016-04-02,Caught,2B,2016,2017,28.0
+35,6851,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,543726,Robbie Ross Jr.,446381,Darwin Barney,L,Sandy León,506702,2,2,7,False,2016-04-01,Stolen,2B,2016,2017,28.0
+36,516,1B,,Caught Stealing 2B,485567,Ezequiel Carrera,544993,Steve Geltz,431145,Russell Martin,R,Curt Casali,592200,0,0,11,True,2015-06-24,Caught,2B,2015,2016,28.2
+37,826,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,516589,André Rienzo,493128,Munenori Kawasaki,R,J.T. Realmuto,592663,8,2,5,False,2015-06-08,Stolen,2B,2015,2016,28.2
+38,1335,1B,2B,Stolen Base 2B,485567,Ezequiel Carrera,433584,Roberto Hernandez,581527,Devon Travis,R,Jason Castro,488771,1,3,3,True,2015-05-14,Stolen,2B,2015,2016,28.2

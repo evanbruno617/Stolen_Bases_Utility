@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1333,2B,3B,Stolen Base 3B,400121,Victor Martinez,Matt Walbeck,1,0,2,False,2003-07-24,Stolen,3B,2003
+1578,1B,,Caught Stealing 2B,400121,Victor Martinez,Jorge Posada,2,0,2,False,2003-07-10,Caught,2B,2003
+2282,1B,,Caught Stealing 2B,400121,Victor Martinez,Josh Paul,2,0,4,True,2004-06-05,Caught,2B,2004
+2150,1B,2B,Stolen Base 2B,400121,Victor Martinez,Russell Martin,2,0,8,False,2010-06-20,Stolen,2B,2010
+2166,1B,2B,Stolen Base 2B,400121,Victor Martinez,Chris Stewart,0,1,7,False,2011-07-01,Stolen,2B,2011
+78,1B,,Caught Stealing 2B,400121,Victor Martinez,Josmil Pinto,0,1,7,True,2013-09-25,Caught,2B,2013
+1892,1B,,Caught Stealing 2B,400121,Victor Martinez,Hank Conger,1,1,4,False,2013-06-27,Caught,2B,2013
+1155,1B,2B,Stolen Base 2B,400121,Victor Martinez,Brian McCann,3,3,11,True,2014-08-05,Stolen,2B,2014
+2768,1B,2B,Stolen Base 2B,400121,Victor Martinez,Steve Clevenger,5,7,7,True,2014-05-14,Stolen,2B,2014
+2783,1B,,Caught Stealing 2B,400121,Victor Martinez,Caleb Joseph,1,0,2,True,2014-05-13,Caught,2B,2014
+3555,1B,,Caught Stealing 2B,400121,Victor Martinez,Tim Federowicz,2,2,9,True,2014-04-08,Caught,2B,2014
+3659,1B,2B,Stolen Base 2B,400121,Victor Martinez,Steve Clevenger,7,2,4,False,2014-04-04,Stolen,2B,2014

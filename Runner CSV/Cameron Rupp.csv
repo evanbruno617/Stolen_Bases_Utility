@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+37,1B,,Caught Stealing 2B,519237,Cameron Rupp,Travis d'Arnaud,3,0,2,False,2015-09-29,Caught,2B,2015
+2103,1B,2B,Stolen Base 2B,519237,Cameron Rupp,Jonathan Lucroy,1,4,5,True,2016-04-22,Stolen,2B,2016
+1946,2B,3B,Stolen Base 3B,519237,Cameron Rupp,Jeff Mathis,4,5,7,False,2017-06-16,Stolen,3B,2017

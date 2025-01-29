@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2401,1B,,Caught Stealing 2B,666197,Grae Kessinger,668881,Hunter Greene,667452,Corey Julks,R,Curt Casali,592200,1,5,5,False,2023-06-17,Caught,2B,2023,2024,26.3
+1,6815,1B,,Caught Stealing 2B,666197,Grae Kessinger,668881,Hunter Greene,667452,Corey Julks,R,Curt Casali,592200,1,5,5,False,2023-06-17,Caught,2B,2023,2024,26.3

@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2148,1B,,Caught Stealing 2B,537953,Daniel Nava,Russell Martin,1,0,2,False,2010-06-20,Caught,2B,2010
+2381,1B,2B,Stolen Base 2B,537953,Daniel Nava,Welington Castillo,3,7,9,True,2012-06-17,Stolen,2B,2012
+2753,1B,2B,Stolen Base 2B,537953,Daniel Nava,Jeff Mathis,4,7,9,True,2012-06-02,Stolen,2B,2012
+3263,1B,2B,Stolen Base 2B,537953,Daniel Nava,Carlos Santana,5,1,6,False,2012-05-13,Stolen,2B,2012
+1942,1B,,Caught Stealing 2B,537953,Daniel Nava,Wilin Rosario,7,2,4,False,2013-06-25,Caught,2B,2013
+3327,1B,,Caught Stealing 2B,537953,Daniel Nava,Carlos Santana,0,5,6,True,2013-04-17,Caught,2B,2013
+700,2B,3B,Stolen Base 3B,537953,Daniel Nava,Ryan Hanigan,3,8,7,True,2014-08-29,Stolen,3B,2014
+768,1B,2B,Stolen Base 2B,537953,Daniel Nava,Dioner Navarro,0,3,9,True,2014-08-25,Stolen,2B,2014
+864,1B,,Caught Stealing 2B,537953,Daniel Nava,Chris Iannetta,1,0,1,False,2014-08-20,Caught,2B,2014
+2142,1B,,Caught Stealing 2B,537953,Daniel Nava,Yan Gomes,1,1,4,False,2014-06-15,Caught,2B,2014
+2287,2B,3B,Stolen Base 3B,537953,Daniel Nava,Bryan Holaday,5,3,6,True,2014-06-07,Stolen,3B,2014
+3480,1B,2B,Stolen Base 2B,537953,Daniel Nava,Brian McCann,6,2,7,True,2014-04-12,Stolen,2B,2014
+464,1B,2B,Stolen Base 2B,537953,Daniel Nava,Brian McCann,0,3,5,True,2015-09-06,Stolen,2B,2015
+2795,1B,2B,Stolen Base 2B,537953,Daniel Nava,Miguel Montero,0,1,1,True,2017-05-03,Stolen,2B,2017

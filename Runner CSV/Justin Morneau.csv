@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+729,1B,,Caught Stealing 2B,408047,Justin Morneau,A.J. Pierzynski,0,1,6,False,2005-08-25,Caught,2B,2005
+1667,1B,,Caught Stealing 2B,408047,Justin Morneau,Bengie Molina,4,6,8,True,2005-07-04,Caught,2B,2005
+537,1B,,Caught Stealing 2B,408047,Justin Morneau,A.J. Pierzynski,0,2,1,True,2007-09-07,Caught,2B,2007
+1783,1B,2B,Stolen Base 2B,408047,Justin Morneau,Kurt Suzuki,0,1,2,False,2007-07-14,Stolen,2B,2007
+1856,1B,,Caught Stealing 2B,408047,Justin Morneau,Michael Barrett,1,1,8,True,2008-06-24,Caught,2B,2008
+2321,1B,2B,Stolen Base 2B,408047,Justin Morneau,Rod Barajas,4,1,6,True,2012-06-21,Stolen,2B,2012
+613,1B,,Caught Stealing 2B,408047,Justin Morneau,Buster Posey,9,7,8,False,2014-09-01,Caught,2B,2014
+760,1B,,Caught Stealing 2B,408047,Justin Morneau,Andrew Susac,2,3,6,True,2014-08-25,Caught,2B,2014
+1302,3B,,Caught Stealing Home,408047,Justin Morneau,Welington Castillo,3,3,10,True,2014-07-29,Caught,Home,2014

@@ -1,0 +1,51 @@
+Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1B,2B,Stolen Base 2B,461865,Andrew Romine,502043,Kyle Gibson,485567,Ezequiel Carrera,R,Josmil Pinto,500887,1,0,8,False,2014-09-28,Stolen,2B
+1B,2B,Stolen Base 2B,449107,Mike Aviles,445060,Ricky Nolasco,460269,Chris Gimenez,R,Josmil Pinto,500887,1,0,4,False,2014-09-11,Stolen,2B
+1B,2B,Stolen Base 2B,449107,Mike Aviles,445060,Ricky Nolasco,460269,Chris Gimenez,R,Josmil Pinto,500887,1,0,4,False,2014-09-10,Stolen,2B
+1B,2B,Stolen Base 2B,545361,Mike Trout,445060,Ricky Nolasco,405395,Albert Pujols,R,Josmil Pinto,500887,2,3,4,True,2014-09-05,Stolen,2B
+1B,2B,Stolen Base 2B,594777,Kole Calhoun,454537,Jared Burton,545361,Mike Trout,R,Josmil Pinto,500887,6,6,10,True,2014-09-05,Stolen,2B
+1B,2B,Stolen Base 2B,514888,Jose Altuve,465679,Samuel Deduno,543807,George Springer,R,Josmil Pinto,500887,0,0,1,True,2014-06-08,Stolen,2B
+1B,2B,Stolen Base 2B,543257,Robbie Grossman,465679,Samuel Deduno,449786,Carlos Corporán,R,Josmil Pinto,500887,0,1,2,True,2014-06-08,Stolen,2B
+1B,2B,Stolen Base 2B,514888,Jose Altuve,465679,Samuel Deduno,572138,Jon Singleton,R,Josmil Pinto,500887,0,2,3,True,2014-06-08,Stolen,2B
+1B,2B,Stolen Base 2B,448602,Mark Reynolds,573204,Caleb Thielbar,407489,Lyle Overbay,L,Josmil Pinto,500887,4,5,6,True,2014-06-05,Stolen,2B
+1B,2B,Stolen Base 2B,516416,Jean Segura,461872,Anthony Swarzak,460075,Ryan Braun,R,Josmil Pinto,500887,4,6,6,True,2014-06-05,Stolen,2B
+2B,3B,Stolen Base 3B,460075,Ryan Braun,454537,Jared Burton,518960,Jonathan Lucroy,R,Josmil Pinto,500887,5,8,9,True,2014-06-05,Stolen,3B
+1B,2B,Stolen Base 2B,516416,Jean Segura,465679,Samuel Deduno,571697,Scooter Gennett,R,Josmil Pinto,500887,1,4,3,False,2014-06-03,Stolen,2B
+1B,2B,Stolen Base 2B,453056,Jacoby Ellsbury,488846,Brian Duensing,406878,Brian Roberts,L,Josmil Pinto,500887,1,1,8,False,2014-05-31,Stolen,2B
+1B,2B,Stolen Base 2B,475100,Scott Van Slyke,543859,Michael Tonkin,346874,Juan Uribe,R,Josmil Pinto,500887,2,2,7,True,2014-05-01,Stolen,2B
+2B,3B,Stolen Base 3B,543829,Dee Strange-Gordon,454537,Jared Burton,624577,Yasiel Puig,R,Josmil Pinto,500887,2,4,12,True,2014-05-01,Stolen,3B
+1B,2B,Stolen Base 2B,475100,Scott Van Slyke,543859,Michael Tonkin,346874,Juan Uribe,R,Josmil Pinto,500887,2,2,7,True,2014-04-29,Stolen,2B
+2B,3B,Stolen Base 3B,543829,Dee Strange-Gordon,454537,Jared Burton,624577,Yasiel Puig,R,Josmil Pinto,500887,2,4,12,True,2014-04-29,Stolen,3B
+1B,2B,Stolen Base 2B,457706,Austin Jackson,461833,Phil Hughes,461865,Andrew Romine,R,Josmil Pinto,500887,4,2,7,True,2014-04-26,Stolen,2B
+1B,2B,Stolen Base 2B,457775,Desmond Jennings,460059,Mike Pelfrey,459964,Matt Joyce,R,Josmil Pinto,500887,1,0,1,False,2014-04-23,Stolen,2B
+1B,2B,Stolen Base 2B,457775,Desmond Jennings,460059,Mike Pelfrey,446334,Evan Longoria,R,Josmil Pinto,500887,2,0,3,False,2014-04-23,Stolen,2B
+2B,3B,Stolen Base 3B,493114,Norichika Aoki,429781,Kevin Correia,543333,Eric Hosmer,R,Josmil Pinto,500887,5,2,4,False,2014-04-19,Stolen,3B
+1B,2B,Stolen Base 2B,408299,Omar Infante,429781,Kevin Correia,543333,Eric Hosmer,R,Josmil Pinto,500887,5,2,4,False,2014-04-19,Stolen,2B
+2B,3B,Stolen Base 2B,408299,Omar Infante,429781,Kevin Correia,543333,Eric Hosmer,R,Josmil Pinto,500887,5,2,4,False,2014-04-19,Stolen,2B
+1B,2B,Stolen Base 2B,543238,Anthony Gose,460059,Mike Pelfrey,572365,Ryan Goins,R,Josmil Pinto,500887,1,2,2,True,2014-04-17,Stolen,2B
+1B,2B,Stolen Base 2B,543238,Anthony Gose,460059,Mike Pelfrey,572365,Ryan Goins,R,Josmil Pinto,500887,1,2,2,True,2014-04-16,Stolen,2B
+1B,2B,Stolen Base 2B,461865,Andrew Romine,502043,Kyle Gibson,485567,Ezequiel Carrera,R,Josmil Pinto,500887,1,0,8,False,2014-09-28,Stolen,2B
+1B,2B,Stolen Base 2B,449107,Mike Aviles,445060,Ricky Nolasco,460269,Chris Gimenez,R,Josmil Pinto,500887,1,0,4,False,2014-09-11,Stolen,2B
+1B,2B,Stolen Base 2B,449107,Mike Aviles,445060,Ricky Nolasco,460269,Chris Gimenez,R,Josmil Pinto,500887,1,0,4,False,2014-09-10,Stolen,2B
+1B,2B,Stolen Base 2B,545361,Mike Trout,445060,Ricky Nolasco,405395,Albert Pujols,R,Josmil Pinto,500887,2,3,4,True,2014-09-05,Stolen,2B
+1B,2B,Stolen Base 2B,594777,Kole Calhoun,454537,Jared Burton,545361,Mike Trout,R,Josmil Pinto,500887,6,6,10,True,2014-09-05,Stolen,2B
+1B,2B,Stolen Base 2B,514888,Jose Altuve,465679,Samuel Deduno,543807,George Springer,R,Josmil Pinto,500887,0,0,1,True,2014-06-08,Stolen,2B
+1B,2B,Stolen Base 2B,543257,Robbie Grossman,465679,Samuel Deduno,449786,Carlos Corporán,R,Josmil Pinto,500887,0,1,2,True,2014-06-08,Stolen,2B
+1B,2B,Stolen Base 2B,514888,Jose Altuve,465679,Samuel Deduno,572138,Jon Singleton,R,Josmil Pinto,500887,0,2,3,True,2014-06-08,Stolen,2B
+1B,2B,Stolen Base 2B,448602,Mark Reynolds,573204,Caleb Thielbar,407489,Lyle Overbay,L,Josmil Pinto,500887,4,5,6,True,2014-06-05,Stolen,2B
+1B,2B,Stolen Base 2B,516416,Jean Segura,461872,Anthony Swarzak,460075,Ryan Braun,R,Josmil Pinto,500887,4,6,6,True,2014-06-05,Stolen,2B
+2B,3B,Stolen Base 3B,460075,Ryan Braun,454537,Jared Burton,518960,Jonathan Lucroy,R,Josmil Pinto,500887,5,8,9,True,2014-06-05,Stolen,3B
+1B,2B,Stolen Base 2B,516416,Jean Segura,465679,Samuel Deduno,571697,Scooter Gennett,R,Josmil Pinto,500887,1,4,3,False,2014-06-03,Stolen,2B
+1B,2B,Stolen Base 2B,453056,Jacoby Ellsbury,488846,Brian Duensing,406878,Brian Roberts,L,Josmil Pinto,500887,1,1,8,False,2014-05-31,Stolen,2B
+1B,2B,Stolen Base 2B,475100,Scott Van Slyke,543859,Michael Tonkin,346874,Juan Uribe,R,Josmil Pinto,500887,2,2,7,True,2014-05-01,Stolen,2B
+2B,3B,Stolen Base 3B,543829,Dee Strange-Gordon,454537,Jared Burton,624577,Yasiel Puig,R,Josmil Pinto,500887,2,4,12,True,2014-05-01,Stolen,3B
+1B,2B,Stolen Base 2B,475100,Scott Van Slyke,543859,Michael Tonkin,346874,Juan Uribe,R,Josmil Pinto,500887,2,2,7,True,2014-04-29,Stolen,2B
+2B,3B,Stolen Base 3B,543829,Dee Strange-Gordon,454537,Jared Burton,624577,Yasiel Puig,R,Josmil Pinto,500887,2,4,12,True,2014-04-29,Stolen,3B
+1B,2B,Stolen Base 2B,457706,Austin Jackson,461833,Phil Hughes,461865,Andrew Romine,R,Josmil Pinto,500887,4,2,7,True,2014-04-26,Stolen,2B
+1B,2B,Stolen Base 2B,457775,Desmond Jennings,460059,Mike Pelfrey,459964,Matt Joyce,R,Josmil Pinto,500887,1,0,1,False,2014-04-23,Stolen,2B
+1B,2B,Stolen Base 2B,457775,Desmond Jennings,460059,Mike Pelfrey,446334,Evan Longoria,R,Josmil Pinto,500887,2,0,3,False,2014-04-23,Stolen,2B
+2B,3B,Stolen Base 3B,493114,Norichika Aoki,429781,Kevin Correia,543333,Eric Hosmer,R,Josmil Pinto,500887,5,2,4,False,2014-04-19,Stolen,3B
+1B,2B,Stolen Base 2B,408299,Omar Infante,429781,Kevin Correia,543333,Eric Hosmer,R,Josmil Pinto,500887,5,2,4,False,2014-04-19,Stolen,2B
+2B,3B,Stolen Base 2B,408299,Omar Infante,429781,Kevin Correia,543333,Eric Hosmer,R,Josmil Pinto,500887,5,2,4,False,2014-04-19,Stolen,2B
+1B,2B,Stolen Base 2B,543238,Anthony Gose,460059,Mike Pelfrey,572365,Ryan Goins,R,Josmil Pinto,500887,1,2,2,True,2014-04-17,Stolen,2B
+1B,2B,Stolen Base 2B,543238,Anthony Gose,460059,Mike Pelfrey,572365,Ryan Goins,R,Josmil Pinto,500887,1,2,2,True,2014-04-16,Stolen,2B

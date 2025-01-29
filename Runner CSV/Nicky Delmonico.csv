@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+767,1B,2B,Stolen Base 2B,547170,Nicky Delmonico,Mitch Garver,6,1,5,False,2017-08-21,Stolen,2B,2017
+851,1B,2B,Stolen Base 2B,547170,Nicky Delmonico,Austin Barnes,2,3,6,True,2017-08-16,Stolen,2B,2017
+1189,1B,,Caught Stealing 2B,547170,Nicky Delmonico,Salvador Perez,0,0,3,False,2018-08-02,Caught,2B,2018
+2716,1B,,Caught Stealing 2B,547170,Nicky Delmonico,Jason Castro,5,5,8,False,2018-05-03,Caught,2B,2018
+3008,1B,2B,Stolen Base 2B,547170,Nicky Delmonico,Bruce Maxwell,0,1,1,True,2018-04-18,Stolen,2B,2018
+2171,1B,,Caught Stealing 2B,547170,Nicky Delmonico,Danny Jansen,2,2,6,False,2019-05-16,Caught,2B,2019

@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+129,1B,2B,Stolen Base 2B,150432,Mike Darr,Chad Kreuter,0,0,1,True,2000-09-24,Stolen,2B,2000
+178,1B,2B,Stolen Base 2B,150432,Mike Darr,Chad Kreuter,0,2,2,True,2000-09-22,Stolen,2B,2000
+437,3B,score,Stolen Base Home,150432,Mike Darr,Adam Melhuse,5,0,1,False,2000-09-11,Stolen,Home,2000
+439,1B,2B,Stolen Base 2B,150432,Mike Darr,Adam Melhuse,5,1,3,False,2000-09-11,Stolen,2B,2000
+555,1B,2B,Stolen Base 2B,150432,Mike Darr,Raul Casanova,5,6,5,False,2000-09-06,Stolen,2B,2000
+710,1B,2B,Stolen Base 2B,150432,Mike Darr,Jason Kendall,2,2,9,False,2000-09-01,Stolen,2B,2000
+1032,1B,2B,Stolen Base 2B,150432,Mike Darr,Brian Schneider,3,6,8,False,2000-08-18,Stolen,2B,2000
+1118,1B,,Caught Stealing 2B,150432,Mike Darr,Mike Redmond,0,0,1,True,2000-08-13,Caught,2B,2000
+1181,1B,2B,Stolen Base 2B,150432,Mike Darr,Ramon Castro,0,1,1,True,2000-08-11,Stolen,2B,2000
+1186,1B,2B,Stolen Base 2B,150432,Mike Darr,Ramon Castro,0,2,8,True,2000-08-11,Stolen,2B,2000
+29,1B,2B,Stolen Base 2B,150432,Mike Darr,Benito Santiago,3,1,9,True,2001-06-04,Stolen,2B,2001
+1242,1B,2B,Caught Stealing 3B,150432,Mike Darr,Paul Lo Duca,0,1,2,False,2001-04-15,Caught,3B,2001
+1467,3B,,Caught Stealing Home,150432,Mike Darr,Bobby Estalella,0,2,2,True,2001-04-04,Caught,Home,2001

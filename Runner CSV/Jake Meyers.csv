@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+111,1B,2B,Stolen Base 2B,676694,Jake Meyers,Max Stassi,1,0,5,True,2021-09-23,Stolen,2B,2021
+236,1B,2B,Stolen Base 2B,676694,Jake Meyers,Yohel Pozo,0,3,4,True,2021-09-16,Stolen,2B,2021
+796,1B,2B,Stolen Base 2B,676694,Jake Meyers,Elias Díaz,2,1,6,False,2021-08-11,Stolen,2B,2021
+730,1B,2B,Stolen Base 2B,676694,Jake Meyers,Travis d'Arnaud,2,4,8,True,2022-08-21,Stolen,2B,2022
+1369,1B,,Caught Stealing 2B,676694,Jake Meyers,Max Stassi,7,1,7,True,2022-07-13,Caught,2B,2022
+1455,1B,,Caught Stealing 2B,676694,Jake Meyers,Cam Gallagher,0,0,3,False,2023-08-01,Caught,2B,2023
+2010,1B,2B,Stolen Base 2B,676694,Jake Meyers,Elias Díaz,3,0,6,False,2023-07-04,Stolen,2B,2023
+2194,1B,2B,Stolen Base 2B,676694,Jake Meyers,Will Smith,1,4,5,True,2023-06-25,Stolen,2B,2023
+2509,1B,2B,Stolen Base 2B,676694,Jake Meyers,Keibert Ruiz,5,1,8,False,2023-06-13,Stolen,2B,2023
+2567,1B,2B,Stolen Base 2B,676694,Jake Meyers,Mike Zunino,3,5,8,True,2023-06-10,Stolen,2B,2023
+3317,1B,2B,Stolen Base 2B,676694,Jake Meyers,Matt Thaiss,1,2,5,True,2023-05-09,Stolen,2B,2023

@@ -1,0 +1,10 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4014,1B,2B,Stolen Base 2B,546991,Albert Almora Jr.,598287,Noé Ramirez,592178,Kris Bryant,R,Jonathan Lucroy,518960,5,1,7,False,2019-04-12,Stolen,2B,2019,2020,26.8
+1,4112,1B,2B,Stolen Base 2B,546991,Albert Almora Jr.,448855,Junior Guerra,518792,Jason Heyward,R,Yasmani Grandal,518735,2,6,6,True,2019-04-06,Stolen,2B,2019,2020,26.8
+2,6857,1B,2B,Stolen Base 2B,546991,Albert Almora Jr.,598287,Noé Ramirez,592178,Kris Bryant,R,Jonathan Lucroy,518960,5,1,7,False,2019-04-12,Stolen,2B,2019,2020,26.8
+3,6955,1B,2B,Stolen Base 2B,546991,Albert Almora Jr.,448855,Junior Guerra,518792,Jason Heyward,R,Yasmani Grandal,518735,2,6,6,True,2019-04-06,Stolen,2B,2019,2020,26.8
+4,8781,1B,2B,Stolen Base 2B,546991,Albert Almora Jr.,598287,Noé Ramirez,592178,Kris Bryant,R,Jonathan Lucroy,518960,5,1,7,False,2019-04-12,Stolen,2B,2019,2020,26.8
+5,8879,1B,2B,Stolen Base 2B,546991,Albert Almora Jr.,448855,Junior Guerra,518792,Jason Heyward,R,Yasmani Grandal,518735,2,6,6,True,2019-04-06,Stolen,2B,2019,2020,26.8
+6,154,1B,,Caught Stealing 2B,546991,Albert Almora Jr.,502624,Chase Anderson,519203,Anthony Rizzo,R,Jett Bandy,542908,0,0,1,False,2018-04-26,Caught,2B,2018,2019,28.3
+7,2091,1B,2B,Stolen Base 2B,546991,Albert Almora Jr.,489119,Wade Miley,445055,Jon Jay,L,Caleb Joseph,543376,0,3,4,True,2017-07-15,Stolen,2B,2017,2018,27.8
+8,1463,1B,2B,Stolen Base 2B,546991,Albert Almora Jr.,489119,Wade Miley,445055,Jon Jay,L,Caleb Joseph,543376,0,3,4,True,2017-07-15,Stolen,2B,2017,2018,27.8

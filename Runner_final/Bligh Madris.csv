@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,264,1B,2B,Stolen Base 2B,676632,Bligh Madris,605540,Brandon Woodruff,669261,Jack Suwinski,R,Omar Narváez,553882,0,0,2,False,2022-07-03,Stolen,2B,2022,2023,26.1
+1,487,1B,2B,Stolen Base 2B,676632,Bligh Madris,668873,Caleb Kilian,623168,Tyler Heineman,R,P.J. Higgins,664731,2,0,2,False,2022-06-20,Stolen,2B,2022,2023,26.1

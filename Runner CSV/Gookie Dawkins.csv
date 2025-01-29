@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+81,1B,,Caught Stealing 2B,235194,Gookie Dawkins,Mike Mahoney,0,1,5,True,2002-09-26,Caught,2B,2002
+3752,1B,2B,Stolen Base 2B,235194,Gookie Dawkins,Jason Kendall,5,8,8,True,2002-04-10,Stolen,2B,2002
+3753,2B,3B,Stolen Base 3B,235194,Gookie Dawkins,Jason Kendall,5,8,8,True,2002-04-10,Stolen,3B,2002

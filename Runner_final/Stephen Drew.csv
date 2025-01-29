@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4193,1B,,Caught Stealing 2B,452220,Stephen Drew,571800,Drew Hutchison,457787,Danny Espinosa,R,Francisco Cervelli,465041,1,6,5,True,2016-09-24,Caught,2B,2016,2017,25.6
+1,158,1B,,Caught Stealing 2B,452220,Stephen Drew,571800,Drew Hutchison,457787,Danny Espinosa,R,Francisco Cervelli,465041,1,6,5,True,2016-09-24,Caught,2B,2016,2017,25.6
+2,3565,1B,,Caught Stealing 2B,452220,Stephen Drew,571800,Drew Hutchison,457787,Danny Espinosa,R,Francisco Cervelli,465041,1,6,5,True,2016-09-24,Caught,2B,2016,2017,25.6
+3,318,1B,,Caught Stealing 2B,452220,Stephen Drew,501992,Nate Karns,458731,Brett Gardner,R,Curt Casali,592200,2,0,5,False,2015-07-04,Caught,2B,2015,2016,26.3
+4,2026,1B,,Caught Stealing 2B,452220,Stephen Drew,444520,Craig Breslow,544369,Didi Gregorius,L,Ryan Hanigan,452672,10,4,5,False,2015-04-12,Caught,2B,2015,2016,26.3

@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,5016,3B,,Caught Stealing Home,518700,Eric Fryer,543184,Christian Friedrich,516782,Starling Marte,L,Derek Norris,519083,4,0,4,False,2016-08-11,Caught,Home,2016,2017,27.8
+1,5981,1B,,Caught Stealing 2B,518700,Eric Fryer,527048,Martín Pérez,502190,Mike Leake,L,Robinson Chirinos,455139,2,2,5,False,2016-06-19,Caught,2B,2016,2017,27.8
+2,981,3B,,Caught Stealing Home,518700,Eric Fryer,543184,Christian Friedrich,516782,Starling Marte,L,Derek Norris,519083,4,0,4,False,2016-08-11,Caught,Home,2016,2017,27.8
+3,1946,1B,,Caught Stealing 2B,518700,Eric Fryer,527048,Martín Pérez,502190,Mike Leake,L,Robinson Chirinos,455139,2,2,5,False,2016-06-19,Caught,2B,2016,2017,27.8
+4,4388,3B,,Caught Stealing Home,518700,Eric Fryer,543184,Christian Friedrich,516782,Starling Marte,L,Derek Norris,519083,4,0,4,False,2016-08-11,Caught,Home,2016,2017,27.8
+5,5353,1B,,Caught Stealing 2B,518700,Eric Fryer,527048,Martín Pérez,502190,Mike Leake,L,Robinson Chirinos,455139,2,2,5,False,2016-06-19,Caught,2B,2016,2017,27.8

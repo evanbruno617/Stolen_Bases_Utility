@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+252,1B,2B,Stolen Base 2B,407815,Antonio Perez,Jason Varitek,3,2,9,True,2003-09-16,Stolen,2B,2003
+1349,1B,,Caught Stealing 2B,407815,Antonio Perez,Jason Varitek,8,12,8,True,2003-07-24,Caught,2B,2003
+1391,1B,2B,Stolen Base 2B,407815,Antonio Perez,José Molina,1,1,5,False,2003-07-22,Stolen,2B,2003
+1607,1B,2B,Stolen Base 2B,407815,Antonio Perez,Adam Melhuse,0,2,2,True,2003-07-09,Stolen,2B,2003
+1615,1B,2B,Stolen Base 2B,407815,Antonio Perez,Ramon Hernandez,0,5,4,True,2003-07-08,Stolen,2B,2003
+410,1B,2B,Stolen Base 2B,407815,Antonio Perez,Yadier Molina,2,4,7,False,2004-09-11,Stolen,2B,2004
+283,1B,,Caught Stealing 2B,407815,Antonio Perez,Mike Matheny,1,1,8,True,2005-09-17,Caught,2B,2005
+825,1B,2B,Stolen Base 2B,407815,Antonio Perez,Paul Lo Duca,0,0,2,True,2005-08-19,Stolen,2B,2005
+1103,1B,2B,Stolen Base 2B,407815,Antonio Perez,Gary Bennett,0,0,2,True,2005-08-04,Stolen,2B,2005
+1271,1B,2B,Stolen Base 2B,407815,Antonio Perez,Jason LaRue,2,3,5,False,2005-07-26,Stolen,2B,2005
+1368,1B,2B,Stolen Base 2B,407815,Antonio Perez,Mike Piazza,5,6,8,True,2005-07-22,Stolen,2B,2005
+1511,1B,,Caught Stealing 2B,407815,Antonio Perez,Mike Matheny,0,0,2,False,2005-07-14,Caught,2B,2005
+1512,1B,2B,Stolen Base 2B,407815,Antonio Perez,Mike Matheny,0,0,4,False,2005-07-14,Stolen,2B,2005
+1513,1B,2B,Stolen Base 2B,407815,Antonio Perez,Mike Matheny,1,1,6,False,2005-07-14,Stolen,2B,2005
+2148,1B,2B,Stolen Base 2B,407815,Antonio Perez,Vance Wilson,2,1,4,False,2005-06-08,Stolen,2B,2005
+2201,1B,2B,Stolen Base 2B,407815,Antonio Perez,Chad Moeller,0,1,1,False,2005-06-05,Stolen,2B,2005
+2219,1B,2B,Stolen Base 2B,407815,Antonio Perez,Damian Miller,0,0,1,False,2005-06-04,Stolen,2B,2005
+3406,1B,2B,Stolen Base 2B,407815,Antonio Perez,Koyie Hill,1,4,6,True,2005-04-08,Stolen,2B,2005

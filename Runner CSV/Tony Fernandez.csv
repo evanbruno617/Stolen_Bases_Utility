@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+799,1B,2B,Stolen Base 2B,114079,Tony Fernandez,Charles Johnson,5,3,7,True,2001-05-04,Stolen,2B,2001
+961,1B,,Caught Stealing 2B,114079,Tony Fernandez,Michael Barrett,3,2,5,False,2001-04-28,Caught,2B,2001
+1063,1B,,Caught Stealing 2B,114079,Tony Fernandez,Mike Piazza,4,2,4,False,2001-04-24,Caught,2B,2001

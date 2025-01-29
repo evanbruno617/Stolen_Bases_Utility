@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+320,1B,2B,Stolen Base 2B,666310,Bo Naylor,Logan Porter,2,4,7,True,2023-09-18,Stolen,2B,2023
+371,1B,2B,Stolen Base 2B,666310,Bo Naylor,Jonah Heim,0,0,2,False,2023-09-16,Stolen,2B,2023
+473,1B,2B,Stolen Base 2B,666310,Bo Naylor,Joey Bart,3,2,7,True,2023-09-11,Stolen,2B,2023
+661,1B,2B,Stolen Base 2B,666310,Bo Naylor,Christian Vázquez,3,2,5,False,2023-09-05,Stolen,2B,2023
+1543,1B,2B,Stolen Base 2B,666310,Bo Naylor,Seby Zavala,3,4,6,True,2023-07-27,Stolen,2B,2023

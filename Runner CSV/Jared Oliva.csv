@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+65,1B,2B,Stolen Base 2B,666931,Jared Oliva,Sandy León,1,3,9,True,2020-09-25,Stolen,2B,2020
+1252,1B,2B,Stolen Base 2B,666931,Jared Oliva,Tomás Nido,2,6,7,True,2021-07-10,Stolen,2B,2021
+1271,2B,3B,Stolen Base 3B,666931,Jared Oliva,James McCann,2,1,5,True,2021-07-09,Stolen,3B,2021

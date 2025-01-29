@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+252,1B,2B,Stolen Base Home,572114,Ryan Schimpf,Tucker Barnhart,2,3,6,False,2016-07-31,Stolen,Home,2016
+479,1B,2B,Stolen Base 2B,572114,Ryan Schimpf,Yadier Molina,1,5,8,True,2016-07-21,Stolen,2B,2016

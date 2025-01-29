@@ -1,0 +1,105 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,115017,Tony Graffanino,Chris Widger,2,0,1,False,2000-08-09,Stolen,2B,2000
+1B,2B,Stolen Base 2B,110712,Danny Bautista,Chris Widger,2,0,2,False,2000-08-07,Stolen,2B,2000
+1B,2B,Stolen Base 2B,124523,Tony Womack,Chris Widger,5,2,6,False,2000-08-07,Stolen,2B,2000
+2B,3B,Stolen Base 3B,124523,Tony Womack,Chris Widger,5,2,6,False,2000-08-07,Stolen,3B,2000
+3B,,Caught Stealing Home,122593,Bill Spiers,Chris Widger,5,5,5,False,2000-08-05,Caught,Home,2000
+1B,2B,Stolen Base 2B,150058,Glen Barker,Chris Widger,6,7,6,False,2000-08-05,Stolen,2B,2000
+1B,,Caught Stealing 2B,110432,Jeff Bagwell,Chris Widger,6,7,6,False,2000-08-05,Caught,2B,2000
+1B,,Caught Stealing 2B,115902,Richard Hidalgo,Chris Widger,5,6,6,False,2000-08-04,Caught,2B,2000
+1B,2B,Stolen Base 2B,117501,Barry Larkin,Chris Widger,3,3,10,True,2000-07-29,Stolen,2B,2000
+1B,2B,Stolen Base 2B,112116,Luis Castillo,Chris Widger,2,6,3,False,2000-07-22,Stolen,2B,2000
+1B,2B,Stolen Base 2B,112116,Luis Castillo,Chris Widger,0,3,1,False,2000-07-21,Stolen,2B,2000
+1B,2B,Stolen Base 2B,133343,Preston Wilson,Chris Widger,1,4,3,False,2000-07-21,Stolen,2B,2000
+1B,2B,Stolen Base 2B,114353,Andy Fox,Chris Widger,1,4,4,False,2000-07-21,Stolen,2B,2000
+1B,,Caught Stealing 2B,115399,Mike Hampton,Chris Widger,0,1,3,True,2000-07-20,Caught,2B,2000
+1B,2B,Stolen Base 2B,136607,Joe McEwing,Chris Widger,3,5,8,True,2000-07-19,Stolen,2B,2000
+1B,2B,Stolen Base 2B,111792,Homer Bush,Chris Widger,0,2,3,True,2000-07-07,Stolen,2B,2000
+1B,2B,Stolen Base 2B,112903,José Cruz Jr.,Chris Widger,1,4,6,True,2000-07-07,Stolen,2B,2000
+1B,2B,Stolen Base 2B,116248,Trenidad Hubbard,Chris Widger,5,3,6,False,2000-07-04,Stolen,2B,2000
+1B,2B,Stolen Base 2B,112116,Luis Castillo,Chris Widger,2,3,5,True,2000-06-30,Stolen,2B,2000
+1B,2B,Stolen Base 2B,123700,Quilvio Veras,Chris Widger,0,1,3,True,2000-06-28,Stolen,2B,2000
+1B,2B,Stolen Base 2B,116662,Andruw Jones,Chris Widger,0,1,3,True,2000-06-28,Stolen,2B,2000
+1B,2B,Stolen Base 2B,116974,Jason Kendall,Chris Widger,0,1,3,True,2000-06-20,Stolen,2B,2000
+1B,,Caught Stealing 2B,121357,Henry Rodriguez,Chris Widger,1,0,4,False,2000-06-17,Caught,2B,2000
+1B,,Caught Stealing 2B,124695,Eric Young Sr.,Chris Widger,0,3,1,False,2000-06-16,Caught,2B,2000
+1B,2B,Stolen Base 2B,150039,Chad Meyers,Chris Widger,9,8,8,False,2000-06-16,Stolen,2B,2000
+2B,3B,Stolen Base 3B,111742,Jeromy Burnitz,Chris Widger,0,0,1,False,2000-06-13,Stolen,3B,2000
+2B,,Caught Stealing 3B,116999,Jeff Kent,Chris Widger,1,3,4,False,2000-05-23,Caught,3B,2000
+1B,2B,Stolen Base 2B,124523,Tony Womack,Chris Widger,2,4,2,True,2000-05-18,Stolen,2B,2000
+1B,2B,Stolen Base 2B,114935,Luis Gonzalez,Chris Widger,0,0,1,True,2000-05-16,Stolen,2B,2000
+1B,2B,Stolen Base 2B,124695,Eric Young Sr.,Chris Widger,0,0,1,True,2000-05-14,Stolen,2B,2000
+1B,2B,Stolen Base 2B,124695,Eric Young Sr.,Chris Widger,2,3,3,True,2000-05-14,Stolen,2B,2000
+2B,3B,Stolen Base 3B,124695,Eric Young Sr.,Chris Widger,2,4,3,True,2000-05-14,Stolen,3B,2000
+1B,2B,Stolen Base 2B,110262,Shane Andrews,Chris Widger,9,7,5,True,2000-05-14,Stolen,2B,2000
+1B,2B,Stolen Base 2B,124695,Eric Young Sr.,Chris Widger,9,7,6,True,2000-05-14,Stolen,2B,2000
+2B,3B,Stolen Base 3B,124695,Eric Young Sr.,Chris Widger,9,7,6,True,2000-05-14,Stolen,3B,2000
+1B,2B,Stolen Base 2B,110029,Bobby Abreu,Chris Widger,4,3,6,True,2000-05-11,Stolen,2B,2000
+1B,2B,Stolen Base 2B,114844,Doug Glanville,Chris Widger,0,1,3,True,2000-05-09,Stolen,2B,2000
+1B,2B,Stolen Base 2B,121409,Scott Rolen,Chris Widger,0,2,6,True,2000-05-09,Stolen,2B,2000
+3B,,Caught Stealing Home,115825,José Hernández,Chris Widger,2,0,4,False,2000-05-06,Caught,Home,2000
+1B,,Caught Stealing 2B,117928,Mark Loretta,Chris Widger,0,5,1,False,2000-05-05,Caught,2B,2000
+1B,2B,Stolen Base 2B,111188,Barry Bonds,Chris Widger,2,1,3,False,2000-04-30,Stolen,2B,2000
+2B,3B,Stolen Base 3B,111188,Barry Bonds,Chris Widger,2,1,3,False,2000-04-30,Stolen,3B,2000
+1B,2B,Stolen Base 2B,110847,Marvin Benard,Chris Widger,1,1,1,False,2000-04-28,Stolen,2B,2000
+1B,2B,Stolen Base 2B,114961,Tom Goodwin,Chris Widger,0,0,3,True,2000-04-26,Stolen,2B,2000
+1B,2B,Stolen Base 2B,114961,Tom Goodwin,Chris Widger,2,2,3,True,2000-04-25,Stolen,2B,2000
+1B,2B,Stolen Base 2B,114961,Tom Goodwin,Chris Widger,3,3,5,True,2000-04-25,Stolen,2B,2000
+1B,,Caught Stealing 2B,115263,Ricky Gutierrez,Chris Widger,0,0,1,True,2000-04-18,Caught,2B,2000
+1B,,Caught Stealing 2B,114844,Doug Glanville,Chris Widger,2,4,5,False,2000-04-16,Caught,2B,2000
+1B,,Caught Stealing 2B,121974,Kevin Sefcik,Chris Widger,0,0,1,False,2000-04-14,Caught,2B,2000
+1B,2B,Stolen Base 2B,111531,Adrian Brown,Chris Widger,0,2,3,False,2000-04-13,Stolen,2B,2000
+1B,,Caught Stealing 2B,112680,Wil Cordero,Chris Widger,6,4,7,False,2000-04-12,Caught,2B,2000
+1B,2B,Stolen Base 2B,120140,Eric Owens,Chris Widger,0,1,5,True,2000-04-09,Stolen,2B,2000
+1B,2B,Stolen Base 2B,150435,Wiki Gonzalez,Chris Widger,0,1,5,True,2000-04-09,Stolen,2B,2000
+1B,2B,Stolen Base 2B,116423,Damian Jackson,Chris Widger,10,9,9,True,2000-04-08,Stolen,2B,2000
+1B,,Caught Stealing 2B,134181,Adrian Beltré,Chris Widger,0,0,2,True,2000-04-06,Caught,2B,2000
+1B,2B,Stolen Base 2B,115210,Mark Grudzielanek,Chris Widger,0,1,1,True,2000-04-04,Stolen,2B,2000
+1B,2B,Stolen Base 2B,117922,Luis Lopez,Chris Widger,0,0,4,False,2002-09-28,Stolen,2B,2002
+1B,,Caught Stealing 2B,408299,Omar Infante,Chris Widger,2,4,3,False,2002-09-22,Caught,2B,2002
+1B,2B,Stolen Base 2B,282594,Geronimo Gil,Chris Widger,5,2,7,True,2002-09-12,Stolen,2B,2002
+1B,2B,Stolen Base 2B,113889,Darin Erstad,Chris Widger,0,0,1,True,2002-08-22,Stolen,2B,2002
+1B,,Caught Stealing 2B,120413,Neifi Perez,Chris Widger,2,1,2,False,2002-08-15,Caught,2B,2002
+1B,2B,Stolen Base 2B,136860,Carlos Beltrán,Chris Widger,5,4,7,False,2002-08-15,Stolen,2B,2002
+1B,,Caught Stealing 2B,113660,Ray Durham,Chris Widger,6,3,5,True,2002-08-11,Caught,2B,2002
+2B,3B,Stolen Base 3B,119913,Alex Ochoa,Chris Widger,3,1,1,False,2002-08-04,Stolen,3B,2002
+1B,2B,Stolen Base 2B,150456,Adam Kennedy,Chris Widger,5,5,6,False,2002-08-04,Stolen,2B,2002
+1B,2B,Stolen Base 2B,113889,Darin Erstad,Chris Widger,5,5,9,False,2002-08-04,Stolen,2B,2002
+1B,,Caught Stealing 2B,112131,Frank Catalanotto,Chris Widger,0,1,1,False,2002-07-31,Caught,2B,2002
+1B,2B,Stolen Base 2B,421124,Ramon Santiago,Chris Widger,1,0,3,True,2002-07-18,Stolen,2B,2002
+1B,2B,Stolen Base 2B,425631,Robby Hammock,Chris Widger,2,3,9,False,2003-09-27,Stolen,2B,2003
+1B,2B,Stolen Base 2B,325392,Scott Podsednik,Chris Widger,0,1,3,True,2003-09-17,Stolen,2B,2003
+1B,2B,Stolen Base 2B,325392,Scott Podsednik,Chris Widger,6,7,9,True,2003-09-17,Stolen,2B,2003
+1B,2B,Stolen Base 2B,122111,Gary Sheffield,Chris Widger,2,1,8,True,2003-08-09,Stolen,2B,2003
+1B,2B,Stolen Base 2B,121673,Reggie Sanders,Chris Widger,0,0,5,True,2003-07-27,Stolen,2B,2003
+2B,3B,Stolen Base 3B,119865,Abraham O. Nunez,Chris Widger,0,1,6,True,2003-07-27,Stolen,3B,2003
+1B,2B,Stolen Base 2B,111742,Jeromy Burnitz,Chris Widger,7,5,7,False,2003-07-18,Stolen,2B,2003
+1B,2B,Stolen Base 2B,117148,Ryan Klesko,Chris Widger,3,3,5,True,2003-07-12,Stolen,2B,2003
+1B,,Caught Stealing 2B,112903,José Cruz Jr.,Chris Widger,3,1,4,False,2003-07-07,Caught,2B,2003
+1B,,Caught Stealing 2B,112903,José Cruz Jr.,Chris Widger,5,1,8,False,2003-07-07,Caught,2B,2003
+1B,2B,Stolen Base 2B,117863,Kenny Lofton,Chris Widger,3,3,5,True,2003-06-01,Stolen,2B,2003
+1B,2B,Stolen Base 2B,279913,Corey Patterson,Chris Widger,0,0,4,True,2003-05-17,Stolen,2B,2003
+1B,,Caught Stealing 2B,111213,Aaron Boone,Chris Widger,1,1,7,True,2003-05-15,Caught,2B,2003
+1B,2B,Stolen Base 2B,408045,Joe Mauer,Chris Widger,4,0,4,False,2005-09-17,Stolen,2B,2005
+1B,2B,Stolen Base 2B,111548,Emil Brown,Chris Widger,3,0,1,False,2005-09-14,Stolen,2B,2005
+1B,2B,Stolen Base 2B,217100,Willie Bloomquist,Chris Widger,1,1,1,False,2005-08-28,Stolen,2B,2005
+1B,2B,Stolen Base 2B,430598,Jeremy Reed,Chris Widger,3,1,2,False,2005-08-28,Stolen,2B,2005
+2B,3B,Stolen Base 3B,430598,Jeremy Reed,Chris Widger,3,1,2,False,2005-08-28,Stolen,3B,2005
+1B,2B,Stolen Base 2B,124523,Tony Womack,Chris Widger,6,1,5,True,2005-08-21,Stolen,2B,2005
+2B,3B,Stolen Base 3B,217915,Lew Ford,Chris Widger,0,4,5,True,2005-08-17,Stolen,3B,2005
+1B,,Caught Stealing 2B,116539,Derek Jeter,Chris Widger,1,1,3,False,2005-08-10,Caught,2B,2005
+1B,2B,Stolen Base 2B,400134,Eric Hinske,Chris Widger,4,0,2,True,2005-08-04,Stolen,2B,2005
+2B,3B,Stolen Base 3B,123173,Miguel Tejada,Chris Widger,1,5,1,False,2005-07-31,Stolen,3B,2005
+1B,2B,Stolen Base 2B,291565,Eric Byrnes,Chris Widger,1,5,8,True,2005-07-09,Stolen,2B,2005
+1B,2B,Stolen Base 2B,407155,Craig Monroe,Chris Widger,1,0,2,False,2005-06-28,Stolen,2B,2005
+1B,2B,Stolen Base 2B,430622,Cory Sullivan,Chris Widger,0,3,1,False,2005-06-08,Stolen,2B,2005
+1B,2B,Stolen Base 2B,408199,Eddy Garabito,Chris Widger,4,11,8,False,2005-06-08,Stolen,2B,2005
+1B,2B,Stolen Base 2B,111851,Orlando Cabrera,Chris Widger,3,2,6,True,2005-05-30,Stolen,2B,2005
+1B,2B,Stolen Base 2B,406878,Brian Roberts,Chris Widger,0,1,3,True,2005-05-15,Stolen,2B,2005
+1B,2B,Stolen Base 2B,206551,Melvin Mora,Chris Widger,2,6,9,True,2005-05-15,Stolen,2B,2005
+1B,2B,Stolen Base 2B,408307,Carl Crawford,Chris Widger,0,1,1,False,2005-05-10,Stolen,2B,2005
+2B,3B,Stolen Base 3B,333492,Aubrey Huff,Chris Widger,4,6,7,False,2005-05-10,Stolen,3B,2005
+1B,2B,Stolen Base 2B,407861,Orlando Hudson,Chris Widger,2,6,3,False,2005-05-07,Stolen,2B,2005
+1B,,Caught Stealing 2B,400136,Jason Smith,Chris Widger,1,0,3,True,2005-05-01,Caught,2B,2005
+1B,2B,Stolen Base 2B,136607,Joe McEwing,Chris Widger,0,2,1,False,2005-04-24,Stolen,2B,2005
+1B,2B,Stolen Base 2B,407556,Angel Berroa,Chris Widger,0,2,4,False,2005-04-24,Stolen,2B,2005

@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3671,1B,,Caught Stealing 2B,150435,Wiki Gonzalez,Mike Matheny,0,0,3,True,2000-04-19,Caught,2B,2000
+3736,1B,,Caught Stealing 2B,150435,Wiki Gonzalez,Mitch Meluskey,3,0,2,False,2000-04-16,Caught,2B,2000
+3910,1B,2B,Stolen Base 2B,150435,Wiki Gonzalez,Chris Widger,0,1,5,True,2000-04-09,Stolen,2B,2000
+1133,1B,2B,Stolen Base 2B,150435,Wiki Gonzalez,Chad Kreuter,0,1,5,True,2001-04-20,Stolen,2B,2001

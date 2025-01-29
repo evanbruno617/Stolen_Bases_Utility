@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+108,1B,2B,Stolen Base 2B,523265,Tommy Medica,Wilin Rosario,4,3,6,False,2014-09-24,Stolen,2B,2014
+230,1B,2B,Stolen Base 2B,523265,Tommy Medica,Wil Nieves,2,1,4,False,2014-09-18,Stolen,2B,2014
+244,1B,2B,Stolen Base 2B,523265,Tommy Medica,Carlos Ruiz,0,0,4,False,2014-09-17,Stolen,2B,2014
+1008,1B,2B,Stolen Base 2B,523265,Tommy Medica,Wilin Rosario,2,0,8,False,2014-08-12,Stolen,2B,2014
+1226,2B,3B,Stolen Base 3B,523265,Tommy Medica,Gerald Laird,5,1,5,False,2014-08-01,Stolen,3B,2014
+1786,1B,2B,Stolen Base 2B,523265,Tommy Medica,Devin Mesoraco,0,0,5,False,2014-06-30,Stolen,2B,2014
+1829,1B,,Caught Stealing 2B,523265,Tommy Medica,Miguel Montero,1,1,4,False,2014-06-28,Caught,2B,2014

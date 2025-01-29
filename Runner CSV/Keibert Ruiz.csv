@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+765,2B,3B,Stolen Base 3B,660688,Keibert Ruiz,Jorge Alfaro,1,0,4,True,2022-08-19,Stolen,3B,2022
+1213,1B,2B,Stolen Base 2B,660688,Keibert Ruiz,Will Smith,1,4,8,True,2022-07-25,Stolen,2B,2022
+1660,1B,2B,Stolen Base 2B,660688,Keibert Ruiz,Michael Pérez,2,2,1,False,2022-06-29,Stolen,2B,2022
+2104,1B,2B,Stolen Base 2B,660688,Keibert Ruiz,Tyler Stephenson,3,5,8,True,2022-06-05,Stolen,2B,2022
+2330,2B,3B,Stolen Base 3B,660688,Keibert Ruiz,Will Smith,4,9,7,False,2022-05-24,Stolen,3B,2022
+2552,1B,2B,Stolen Base 2B,660688,Keibert Ruiz,Tomás Nido,4,3,1,False,2022-05-11,Stolen,2B,2022
+1788,1B,2B,Stolen Base 2B,660688,Keibert Ruiz,Andrew Knizner,4,3,6,True,2023-07-16,Stolen,2B,2023

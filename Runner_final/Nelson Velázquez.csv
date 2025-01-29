@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,272,1B,2B,Stolen Base 2B,676369,Nelson Velázquez,656557,Tanner Houck,664023,Ian Happ,R,Kevin Plawecki,608700,2,1,8,False,2022-07-02,Stolen,2B,2022,2023,27.2
+1,703,1B,2B,Stolen Base 2B,676369,Nelson Velázquez,657093,Spenser Watkins,656716,Zach McKinstry,R,Adley Rutschman,668939,0,0,5,True,2022-06-08,Stolen,2B,2022,2023,27.2

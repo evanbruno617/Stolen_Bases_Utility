@@ -1,0 +1,13 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,449471,Brian Barden,Bryan Anderson,3,7,7,True,2009-04-04,Stolen,2B,2009
+1B,,Caught Stealing 2B,458675,Colby Rasmus,Bryan Anderson,3,7,7,True,2009-04-04,Caught,2B,2009
+2B,3B,Stolen Base 3B,430947,Erick Aybar,Bryan Anderson,2,1,3,False,2015-09-28,Stolen,3B,2015
+1B,2B,Stolen Base 2B,467798,Jose Tabata,Bryan Anderson,4,1,9,True,2010-09-29,Stolen,2B,2010
+1B,2B,Stolen Base 2B,465668,Roger Bernadina,Bryan Anderson,0,1,2,False,2010-08-27,Stolen,2B,2010
+1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,Bryan Anderson,0,3,7,False,2010-08-27,Stolen,2B,2010
+1B,2B,Stolen Base 2B,430592,Ronny Cedeno,Bryan Anderson,3,0,4,False,2010-08-25,Stolen,2B,2010
+1B,2B,Stolen Base 2B,467798,Jose Tabata,Bryan Anderson,0,4,1,False,2010-08-23,Stolen,2B,2010
+2B,3B,Stolen Base 3B,457708,Justin Upton,Bryan Anderson,9,7,7,False,2010-04-20,Stolen,3B,2010
+1B,2B,Stolen Base 2B,448602,Mark Reynolds,Bryan Anderson,9,7,7,False,2010-04-20,Stolen,2B,2010
+1B,,Caught Stealing 2B,457727,Cameron Maybin,Bryan Anderson,1,2,6,True,2010-04-01,Caught,2B,2010
+1B,2B,Stolen Base 2B,466988,Emilio Bonifácio,Bryan Anderson,1,3,7,True,2010-04-01,Stolen,2B,2010

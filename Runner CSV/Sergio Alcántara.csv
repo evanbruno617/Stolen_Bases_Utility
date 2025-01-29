@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+221,2B,3B,Stolen Base 3B,642727,Sergio Alcántara,Luke Maile,0,4,4,True,2021-09-17,Stolen,3B,2021
+443,1B,2B,Stolen Base 2B,642727,Sergio Alcántara,Michael Pérez,4,0,3,False,2021-09-03,Stolen,2B,2021
+1428,1B,2B,Stolen Base 2B,642727,Sergio Alcántara,Manny Piña,1,0,3,True,2021-06-29,Stolen,2B,2021
+86,1B,2B,Stolen Base 2B,642727,Sergio Alcántara,Austin Wynns,2,3,9,False,2022-09-25,Stolen,2B,2022
+1980,1B,,Caught Stealing 2B,642727,Sergio Alcántara,Elias Díaz,1,1,7,False,2022-06-11,Caught,2B,2022
+2155,1B,,Caught Stealing 2B,642727,Sergio Alcántara,Victor Caratini,1,3,6,True,2022-06-02,Caught,2B,2022

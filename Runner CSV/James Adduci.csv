@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+230,1B,2B,Stolen Base 2B,451192,James Adduci,Jose Lobaton,0,2,4,True,2013-09-18,Stolen,2B,2013
+288,1B,2B,Stolen Base 2B,451192,James Adduci,Derek Norris,1,2,2,False,2013-09-15,Stolen,2B,2013
+801,1B,2B,Stolen Base 2B,451192,James Adduci,Erik Kratz,1,4,5,False,2014-08-23,Stolen,2B,2014
+918,1B,2B,Stolen Base 2B,451192,James Adduci,Hank Conger,1,2,8,False,2014-08-17,Stolen,2B,2014
+1169,1B,,Caught Stealing 2B,451192,James Adduci,Tyler Flowers,3,3,6,True,2014-08-04,Caught,2B,2014
+1328,1B,2B,Stolen Base 2B,451192,James Adduci,John Jaso,1,0,4,False,2014-07-26,Stolen,2B,2014
+1116,1B,,Caught Stealing 2B,451192,James Adduci,Welington Castillo,2,7,4,True,2017-08-03,Caught,2B,2017
+2899,1B,2B,Stolen Base 2B,451192,James Adduci,Geovany Soto,3,3,6,False,2017-04-28,Stolen,2B,2017
+1001,1B,2B,Caught Stealing 3B,451192,James Adduci,Bobby Wilson,1,1,4,False,2018-08-11,Caught,3B,2018
+1286,1B,2B,Stolen Base 2B,451192,James Adduci,Roberto Pérez,2,1,7,False,2018-07-28,Stolen,2B,2018

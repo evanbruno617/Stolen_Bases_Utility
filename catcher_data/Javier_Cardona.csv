@@ -1,0 +1,16 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,206551,Melvin Mora,Javier Cardona,0,0,4,True,2001-04-25,Stolen,2B,2001
+1B,,Caught Stealing 2B,132660,Jolbert Cabrera,Javier Cardona,1,0,6,True,2001-04-14,Caught,2B,2001
+1B,2B,Stolen Base 2B,111904,Mike Cameron,Javier Cardona,0,1,2,True,2000-08-22,Stolen,2B,2000
+1B,2B,Stolen Base 2B,115749,Rickey Henderson,Javier Cardona,3,5,9,True,2000-08-22,Stolen,2B,2000
+2B,3B,Stolen Base 3B,124314,Gerald Williams,Javier Cardona,2,4,7,True,2000-07-26,Stolen,3B,2000
+1B,2B,Stolen Base 2B,115230,Ozzie Guillen,Javier Cardona,2,4,7,True,2000-07-26,Stolen,2B,2000
+1B,2B,Stolen Base 2B,123639,John Vander Wal,Javier Cardona,1,0,1,False,2000-06-05,Stolen,2B,2000
+1B,,Caught Stealing 2B,346795,Endy Chavez,Javier Cardona,1,1,3,True,2002-05-14,Caught,2B,2002
+1B,,Caught Stealing 2B,117919,Javy Lopez,Javier Cardona,4,6,8,False,2002-05-12,Caught,2B,2002
+1B,2B,Stolen Base 2B,114789,Brian Giles,Javier Cardona,3,0,4,True,2002-05-04,Stolen,2B,2002
+1B,,Caught Stealing 2B,114789,Brian Giles,Javier Cardona,0,0,1,False,2002-04-28,Caught,2B,2002
+1B,,Caught Stealing 2B,114789,Brian Giles,Javier Cardona,0,0,1,False,2002-04-27,Caught,2B,2002
+2B,3B,Stolen Base 3B,276519,Jimmy Rollins,Javier Cardona,1,5,1,False,2002-04-23,Stolen,3B,2002
+1B,,Caught Stealing 2B,116747,Brian Jordan,Javier Cardona,0,0,2,True,2002-04-12,Caught,2B,2002
+1B,2B,Stolen Base 2B,111188,Barry Bonds,Javier Cardona,1,1,8,False,2002-04-05,Stolen,2B,2002

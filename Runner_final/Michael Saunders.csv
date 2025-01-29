@@ -1,0 +1,10 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,5358,1B,2B,Stolen Base 2B,459431,Michael Saunders,488768,Andrew Cashner,431145,Russell Martin,R,Derek Norris,519083,2,1,4,False,2016-07-26,Stolen,2B,2016,2017,27.5
+1,6740,1B,,Caught Stealing 2B,459431,Michael Saunders,430912,Matt Cain,453064,Troy Tulowitzki,R,Buster Posey,457763,0,1,4,True,2016-05-10,Caught,2B,2016,2017,27.5
+2,7281,1B,,Caught Stealing 2B,459431,Michael Saunders,501381,Michael Pineda,431145,Russell Martin,R,Austin Romine,519222,1,0,4,False,2016-04-13,Caught,2B,2016,2017,27.5
+3,1323,1B,2B,Stolen Base 2B,459431,Michael Saunders,488768,Andrew Cashner,431145,Russell Martin,R,Derek Norris,519083,2,1,4,False,2016-07-26,Stolen,2B,2016,2017,27.5
+4,2705,1B,,Caught Stealing 2B,459431,Michael Saunders,430912,Matt Cain,453064,Troy Tulowitzki,R,Buster Posey,457763,0,1,4,True,2016-05-10,Caught,2B,2016,2017,27.5
+5,3246,1B,,Caught Stealing 2B,459431,Michael Saunders,501381,Michael Pineda,431145,Russell Martin,R,Austin Romine,519222,1,0,4,False,2016-04-13,Caught,2B,2016,2017,27.5
+6,4730,1B,2B,Stolen Base 2B,459431,Michael Saunders,488768,Andrew Cashner,431145,Russell Martin,R,Derek Norris,519083,2,1,4,False,2016-07-26,Stolen,2B,2016,2017,27.5
+7,6112,1B,,Caught Stealing 2B,459431,Michael Saunders,430912,Matt Cain,453064,Troy Tulowitzki,R,Buster Posey,457763,0,1,4,True,2016-05-10,Caught,2B,2016,2017,27.5
+8,6653,1B,,Caught Stealing 2B,459431,Michael Saunders,501381,Michael Pineda,431145,Russell Martin,R,Austin Romine,519222,1,0,4,False,2016-04-13,Caught,2B,2016,2017,27.5

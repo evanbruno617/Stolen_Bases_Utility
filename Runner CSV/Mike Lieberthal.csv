@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1837,2B,3B,Stolen Base 3B,117759,Mike Lieberthal,Greg Myers,3,3,6,False,2000-07-09,Stolen,3B,2000
+3853,1B,2B,Stolen Base 2B,117759,Mike Lieberthal,Mike Piazza,7,2,4,False,2000-04-12,Stolen,2B,2000
+7,1B,2B,Stolen Base 2B,117759,Mike Lieberthal,Paul Lo Duca,7,4,7,False,2004-09-30,Stolen,2B,2004
+2843,1B,,Caught Stealing 2B,117759,Mike Lieberthal,Robby Hammock,0,2,2,True,2004-05-08,Caught,2B,2004

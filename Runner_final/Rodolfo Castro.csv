@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1003,1B,2B,Stolen Base 2B,666801,Rodolfo Castro,453268,Daniel Bard,660294,Yoshi Tsutsugo,R,Elias Díaz,553869,1,1,9,False,2022-05-24,Stolen,2B,2022,2023,27.3
+1,1013,1B,,Caught Stealing 2B,666801,Rodolfo Castro,641771,Chad Kuhl,669261,Jack Suwinski,R,Elias Díaz,553869,1,1,4,False,2022-05-23,Caught,2B,2022,2023,27.3
+2,1068,1B,2B,Stolen Base 2B,666801,Rodolfo Castro,425794,Adam Wainwright,592325,Ben Gamel,R,Yadier Molina,425877,0,1,5,False,2022-05-20,Stolen,2B,2022,2023,27.3
+3,1069,2B,,Caught Stealing 3B,666801,Rodolfo Castro,425794,Adam Wainwright,663647,Ke'Bryan Hayes,R,Yadier Molina,425877,0,1,5,False,2022-05-20,Caught,3B,2022,2023,27.3

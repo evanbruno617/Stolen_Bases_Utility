@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2042,2B,3B,Stolen Base 3B,669369,Bryce Johnson,Francisco Alvarez,0,1,3,True,2023-07-02,Stolen,3B,2023
+2112,1B,2B,Stolen Base 2B,669369,Bryce Johnson,Omar Narváez,4,5,8,True,2023-06-30,Stolen,2B,2023
+2861,1B,2B,Stolen Base 2B,669369,Bryce Johnson,Austin Hedges,6,1,4,False,2023-05-29,Stolen,2B,2023

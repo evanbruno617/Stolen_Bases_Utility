@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3485,1B,,Caught Stealing 2B,476633,Chris Parmelee,Salvador Perez,0,1,7,True,2013-04-08,Caught,2B,2013
+3571,1B,2B,Stolen Base 2B,476633,Chris Parmelee,Alex Avila,4,2,8,False,2013-04-04,Stolen,2B,2013
+1814,1B,,Caught Stealing 2B,476633,Chris Parmelee,Robinson Chirinos,2,2,6,True,2014-06-29,Caught,2B,2014
+1892,1B,,Caught Stealing 2B,476633,Chris Parmelee,Hank Conger,2,0,3,True,2014-06-26,Caught,2B,2014
+2857,1B,,Caught Stealing 2B,476633,Chris Parmelee,Alex Avila,0,0,2,True,2014-05-10,Caught,2B,2014
+1786,3B,,Caught Stealing Home,476633,Chris Parmelee,Sandy León,0,4,3,True,2015-06-23,Caught,Home,2015

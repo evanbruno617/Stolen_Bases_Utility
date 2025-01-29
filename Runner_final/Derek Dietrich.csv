@@ -1,0 +1,12 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3653,1B,2B,Stolen Base 2B,518618,Derek Dietrich,453343,Mark Melancon,571657,Kyle Farmer,R,Stephen Vogt,519390,10,7,6,False,2019-05-03,Stolen,2B,2019,2020,26.9
+1,3769,1B,,Caught Stealing 2B,518618,Derek Dietrich,527054,Julio Teheran,571466,Tucker Barnhart,R,Brian McCann,435263,0,0,2,False,2019-04-25,Caught,2B,2019,2020,26.9
+2,6496,1B,2B,Stolen Base 2B,518618,Derek Dietrich,453343,Mark Melancon,571657,Kyle Farmer,R,Stephen Vogt,519390,10,7,6,False,2019-05-03,Stolen,2B,2019,2020,26.9
+3,6612,1B,,Caught Stealing 2B,518618,Derek Dietrich,527054,Julio Teheran,571466,Tucker Barnhart,R,Brian McCann,435263,0,0,2,False,2019-04-25,Caught,2B,2019,2020,26.9
+4,8420,1B,2B,Stolen Base 2B,518618,Derek Dietrich,453343,Mark Melancon,571657,Kyle Farmer,R,Stephen Vogt,519390,10,7,6,False,2019-05-03,Stolen,2B,2019,2020,26.9
+5,8536,1B,,Caught Stealing 2B,518618,Derek Dietrich,527054,Julio Teheran,571466,Tucker Barnhart,R,Brian McCann,435263,0,0,2,False,2019-04-25,Caught,2B,2019,2020,26.9
+6,2032,1B,,Caught Stealing 2B,518618,Derek Dietrich,592826,Vince Velasquez,595375,JT Riddle,R,Cameron Rupp,519237,2,2,5,False,2017-07-18,Caught,2B,2017,2018,26.9
+7,1404,1B,,Caught Stealing 2B,518618,Derek Dietrich,592826,Vince Velasquez,595375,JT Riddle,R,Cameron Rupp,519237,2,2,5,False,2017-07-18,Caught,2B,2017,2018,26.9
+8,5099,1B,2B,Stolen Base 2B,518618,Derek Dietrich,592351,Jon Gray,425772,Jeff Mathis,R,Tony Wolters,547172,0,4,1,True,2016-08-07,Stolen,2B,2016,2017,27.3
+9,1064,1B,2B,Stolen Base 2B,518618,Derek Dietrich,592351,Jon Gray,425772,Jeff Mathis,R,Tony Wolters,547172,0,4,1,True,2016-08-07,Stolen,2B,2016,2017,27.3
+10,4471,1B,2B,Stolen Base 2B,518618,Derek Dietrich,592351,Jon Gray,425772,Jeff Mathis,R,Tony Wolters,547172,0,4,1,True,2016-08-07,Stolen,2B,2016,2017,27.3

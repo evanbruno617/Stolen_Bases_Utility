@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,782,1B,,Caught Stealing 2B,643603,Tyler White,622161,Eduardo Paredes,605233,Derek Fisher,R,Juan Graterol,492802,1,0,4,False,2017-09-23,Caught,2B,2017,2018,25.7
+1,154,1B,,Caught Stealing 2B,643603,Tyler White,622161,Eduardo Paredes,605233,Derek Fisher,R,Juan Graterol,492802,1,0,4,False,2017-09-23,Caught,2B,2017,2018,25.7
+2,6172,1B,2B,Stolen Base 2B,643603,Tyler White,542882,Matt Andriese,488771,Jason Castro,R,Hank Conger,474233,2,0,2,True,2016-06-10,Stolen,2B,2016,2017,26.6
+3,2137,1B,2B,Stolen Base 2B,643603,Tyler White,542882,Matt Andriese,488771,Jason Castro,R,Hank Conger,474233,2,0,2,True,2016-06-10,Stolen,2B,2016,2017,26.6
+4,5544,1B,2B,Stolen Base 2B,643603,Tyler White,542882,Matt Andriese,488771,Jason Castro,R,Hank Conger,474233,2,0,2,True,2016-06-10,Stolen,2B,2016,2017,26.6

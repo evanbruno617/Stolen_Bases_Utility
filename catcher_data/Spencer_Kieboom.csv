@@ -1,0 +1,26 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,596115,Trevor Story,Spencer Kieboom,7,0,5,False,2018-09-30,Stolen,2B,2018
+2B,3B,Stolen Base 3B,642708,Amed Rosario,Spencer Kieboom,0,1,1,True,2018-09-23,Stolen,3B,2018
+1B,2B,Stolen Base 2B,643446,Jeff McNeil,Spencer Kieboom,0,1,1,True,2018-09-23,Stolen,2B,2018
+2B,3B,Stolen Base 3B,571506,Justin Bour,Spencer Kieboom,0,0,1,False,2018-09-11,Stolen,3B,2018
+1B,2B,Stolen Base 2B,605253,Terrance Gore,Spencer Kieboom,3,4,7,True,2018-09-08,Stolen,2B,2018
+2B,3B,Stolen Base 3B,605253,Terrance Gore,Spencer Kieboom,3,4,7,True,2018-09-08,Stolen,3B,2018
+1B,2B,Stolen Base 2B,605253,Terrance Gore,Spencer Kieboom,3,4,7,True,2018-09-07,Stolen,2B,2018
+2B,3B,Stolen Base 3B,605253,Terrance Gore,Spencer Kieboom,3,4,7,True,2018-09-07,Stolen,3B,2018
+1B,2B,Stolen Base 2B,605253,Terrance Gore,Spencer Kieboom,4,4,8,True,2018-09-06,Stolen,2B,2018
+1B,2B,Stolen Base 2B,543939,Kolten Wong,Spencer Kieboom,4,0,6,False,2018-08-15,Stolen,2B,2018
+1B,,Caught Stealing 2B,623520,David Bote,Spencer Kieboom,3,2,8,False,2018-08-10,Caught,2B,2018
+1B,,Caught Stealing 2B,605119,Brian Anderson,Spencer Kieboom,0,0,1,True,2018-07-06,Caught,2B,2018
+1B,2B,Stolen Base 2B,641343,Jake Bauers,Spencer Kieboom,1,0,3,False,2018-06-26,Stolen,2B,2018
+1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,Spencer Kieboom,1,0,5,False,2018-06-26,Stolen,2B,2018
+1B,2B,Stolen Base 2B,514917,César Hernández,Spencer Kieboom,2,3,7,True,2018-06-23,Stolen,2B,2018
+1B,2B,Stolen Base 2B,664068,Scott Kingery,Spencer Kieboom,2,5,8,True,2018-06-23,Stolen,2B,2018
+3B,,Caught Stealing Home,641820,Trey Mancini,Spencer Kieboom,5,6,6,True,2018-06-19,Caught,Home,2018
+1B,2B,Stolen Base 2B,607680,Kevin Pillar,Spencer Kieboom,5,5,7,False,2018-06-17,Stolen,2B,2018
+1B,2B,Stolen Base 2B,545341,Randal Grichuk,Spencer Kieboom,6,5,7,False,2018-06-17,Stolen,2B,2018
+1B,2B,Stolen Base 2B,458731,Brett Gardner,Spencer Kieboom,1,1,1,False,2018-06-13,Stolen,2B,2018
+1B,,Caught Stealing 2B,544369,Didi Gregorius,Spencer Kieboom,4,4,5,False,2018-06-13,Caught,2B,2018
+1B,,Caught Stealing 2B,518692,Freddie Freeman,Spencer Kieboom,2,2,8,False,2018-06-03,Caught,2B,2018
+1B,,Caught Stealing 2B,543333,Eric Hosmer,Spencer Kieboom,0,0,1,True,2018-05-23,Caught,2B,2018
+1B,2B,Stolen Base 2B,622534,Manuel Margot,Spencer Kieboom,0,0,3,True,2018-05-23,Stolen,2B,2018
+2B,3B,Stolen Base 3B,624577,Yasiel Puig,Spencer Kieboom,0,2,6,True,2018-05-19,Stolen,3B,2018

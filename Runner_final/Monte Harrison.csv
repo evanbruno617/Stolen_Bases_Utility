@@ -1,0 +1,25 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,82,2B,3B,Stolen Base 3B,656509,Monte Harrison,458708,Josh Tomlin,595453,Chad Wallach,R,Travis d'Arnaud,518595,0,4,8,True,2020-09-24,Stolen,3B,2020,2021,27.8
+1,172,1B,2B,Stolen Base 2B,656509,Monte Harrison,453286,Max Scherzer,500743,Miguel Rojas,R,Yan Gomes,543228,1,1,6,False,2020-09-20,Stolen,2B,2020,2021,27.8
+2,247,1B,2B,Stolen Base 2B,656509,Monte Harrison,607391,Chris Mazza,542583,Jesús Aguilar,R,Christian Vázquez,543877,6,1,4,False,2020-09-16,Stolen,2B,2020,2021,27.8
+3,351,1B,2B,Stolen Base 2B,656509,Monte Harrison,475479,David Phelps,516782,Starling Marte,R,Andrew Knapp,595284,5,2,6,False,2020-09-11,Stolen,2B,2020,2021,27.8
+4,368,2B,3B,Stolen Base 3B,656509,Monte Harrison,519443,Brandon Workman,500743,Miguel Rojas,R,J.T. Realmuto,592663,6,6,9,False,2020-09-10,Stolen,3B,2020,2021,27.8
+5,996,1B,2B,Stolen Base 2B,656509,Monte Harrison,623465,Evan Phillips,542340,Jonathan Villar,R,Chance Sisco,642082,6,6,6,False,2020-08-06,Stolen,2B,2020,2021,27.8
+6,1031,1B,2B,Stolen Base 2B,656509,Monte Harrison,475479,David Phelps,516782,Starling Marte,R,Andrew Knapp,595284,5,2,6,False,2020-08-04,Stolen,2B,2020,2021,27.8
+7,1160,1B,2B,Stolen Base 2B,656509,Monte Harrison,623465,Evan Phillips,542340,Jonathan Villar,R,Chance Sisco,642082,6,6,6,False,2020-07-28,Stolen,2B,2020,2021,27.8
+8,2925,2B,3B,Stolen Base 3B,656509,Monte Harrison,458708,Josh Tomlin,595453,Chad Wallach,R,Travis d'Arnaud,518595,0,4,8,True,2020-09-24,Stolen,3B,2020,2021,27.8
+9,3015,1B,2B,Stolen Base 2B,656509,Monte Harrison,453286,Max Scherzer,500743,Miguel Rojas,R,Yan Gomes,543228,1,1,6,False,2020-09-20,Stolen,2B,2020,2021,27.8
+10,3090,1B,2B,Stolen Base 2B,656509,Monte Harrison,607391,Chris Mazza,542583,Jesús Aguilar,R,Christian Vázquez,543877,6,1,4,False,2020-09-16,Stolen,2B,2020,2021,27.8
+11,3194,1B,2B,Stolen Base 2B,656509,Monte Harrison,475479,David Phelps,516782,Starling Marte,R,Andrew Knapp,595284,5,2,6,False,2020-09-11,Stolen,2B,2020,2021,27.8
+12,3211,2B,3B,Stolen Base 3B,656509,Monte Harrison,519443,Brandon Workman,500743,Miguel Rojas,R,J.T. Realmuto,592663,6,6,9,False,2020-09-10,Stolen,3B,2020,2021,27.8
+13,3839,1B,2B,Stolen Base 2B,656509,Monte Harrison,623465,Evan Phillips,542340,Jonathan Villar,R,Chance Sisco,642082,6,6,6,False,2020-08-06,Stolen,2B,2020,2021,27.8
+14,3874,1B,2B,Stolen Base 2B,656509,Monte Harrison,475479,David Phelps,516782,Starling Marte,R,Andrew Knapp,595284,5,2,6,False,2020-08-04,Stolen,2B,2020,2021,27.8
+15,4003,1B,2B,Stolen Base 2B,656509,Monte Harrison,623465,Evan Phillips,542340,Jonathan Villar,R,Chance Sisco,642082,6,6,6,False,2020-07-28,Stolen,2B,2020,2021,27.8
+16,4849,2B,3B,Stolen Base 3B,656509,Monte Harrison,458708,Josh Tomlin,595453,Chad Wallach,R,Travis d'Arnaud,518595,0,4,8,True,2020-09-24,Stolen,3B,2020,2021,27.8
+17,4939,1B,2B,Stolen Base 2B,656509,Monte Harrison,453286,Max Scherzer,500743,Miguel Rojas,R,Yan Gomes,543228,1,1,6,False,2020-09-20,Stolen,2B,2020,2021,27.8
+18,5014,1B,2B,Stolen Base 2B,656509,Monte Harrison,607391,Chris Mazza,542583,Jesús Aguilar,R,Christian Vázquez,543877,6,1,4,False,2020-09-16,Stolen,2B,2020,2021,27.8
+19,5118,1B,2B,Stolen Base 2B,656509,Monte Harrison,475479,David Phelps,516782,Starling Marte,R,Andrew Knapp,595284,5,2,6,False,2020-09-11,Stolen,2B,2020,2021,27.8
+20,5135,2B,3B,Stolen Base 3B,656509,Monte Harrison,519443,Brandon Workman,500743,Miguel Rojas,R,J.T. Realmuto,592663,6,6,9,False,2020-09-10,Stolen,3B,2020,2021,27.8
+21,5763,1B,2B,Stolen Base 2B,656509,Monte Harrison,623465,Evan Phillips,542340,Jonathan Villar,R,Chance Sisco,642082,6,6,6,False,2020-08-06,Stolen,2B,2020,2021,27.8
+22,5798,1B,2B,Stolen Base 2B,656509,Monte Harrison,475479,David Phelps,516782,Starling Marte,R,Andrew Knapp,595284,5,2,6,False,2020-08-04,Stolen,2B,2020,2021,27.8
+23,5927,1B,2B,Stolen Base 2B,656509,Monte Harrison,623465,Evan Phillips,542340,Jonathan Villar,R,Chance Sisco,642082,6,6,6,False,2020-07-28,Stolen,2B,2020,2021,27.8

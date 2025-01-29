@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+4183,2B,3B,Stolen Base 3B,607385,Tyler Collins,Sean Ochinko,9,5,8,False,2012-04-02,Stolen,3B,2012
+280,1B,2B,Stolen Base 2B,607385,Tyler Collins,Kurt Suzuki,1,4,6,True,2015-09-15,Stolen,2B,2015
+2265,1B,2B,Stolen Base 2B,607385,Tyler Collins,Carlos Pérez,7,3,4,True,2015-05-30,Stolen,2B,2015
+216,1B,,Caught Stealing 2B,607385,Tyler Collins,Dioner Navarro,0,0,2,False,2016-08-02,Caught,2B,2016
+368,1B,2B,Stolen Base 2B,607385,Tyler Collins,Sandy León,0,3,2,True,2016-07-26,Stolen,2B,2016
+2415,1B,,Caught Stealing 2B,607385,Tyler Collins,Evan Gattis,1,0,5,True,2017-05-22,Caught,2B,2017
+2504,2B,,Caught Stealing 3B,607385,Tyler Collins,Caleb Joseph,6,5,8,False,2017-05-18,Caught,3B,2017
+2861,1B,,Caught Stealing 2B,607385,Tyler Collins,Geovany Soto,7,3,6,False,2017-04-30,Caught,2B,2017
+3312,1B,,Caught Stealing 2B,607385,Tyler Collins,Sandy León,1,0,4,False,2017-04-07,Caught,2B,2017
+3408,1B,2B,Stolen Base 2B,607385,Tyler Collins,A.J. Ellis,3,2,9,True,2017-04-01,Stolen,2B,2017

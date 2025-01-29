@@ -1,0 +1,21 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1427,1B,2B,Stolen Base 2B,624585,Jorge Soler,677976,Randy Dobnak,641531,Hunter Dozier,R,Mitch Garver,641598,2,0,3,True,2019-09-20,Stolen,2B,2019,2020,26.6
+1,1714,1B,2B,Stolen Base 2B,624585,Jorge Soler,642397,Gregory Soto,460086,Alex Gordon,L,Grayson Greiner,606988,4,4,8,False,2019-09-03,Stolen,2B,2019,2020,26.6
+2,2086,1B,2B,Stolen Base 2B,624585,Jorge Soler,642397,Gregory Soto,605490,Bubba Starling,L,Jake Rogers,668670,0,2,7,True,2019-08-10,Stolen,2B,2019,2020,26.6
+3,4165,3B,,Caught Stealing Home,624585,Jorge Soler,502043,Kyle Gibson,641531,Hunter Dozier,R,Mitch Garver,641598,1,3,4,False,2019-04-03,Caught,Home,2019,2020,26.6
+4,4270,1B,2B,Stolen Base 2B,624585,Jorge Soler,677976,Randy Dobnak,641531,Hunter Dozier,R,Mitch Garver,641598,2,0,3,True,2019-09-20,Stolen,2B,2019,2020,26.6
+5,4557,1B,2B,Stolen Base 2B,624585,Jorge Soler,642397,Gregory Soto,460086,Alex Gordon,L,Grayson Greiner,606988,4,4,8,False,2019-09-03,Stolen,2B,2019,2020,26.6
+6,4929,1B,2B,Stolen Base 2B,624585,Jorge Soler,642397,Gregory Soto,605490,Bubba Starling,L,Jake Rogers,668670,0,2,7,True,2019-08-10,Stolen,2B,2019,2020,26.6
+7,7008,3B,,Caught Stealing Home,624585,Jorge Soler,502043,Kyle Gibson,641531,Hunter Dozier,R,Mitch Garver,641598,1,3,4,False,2019-04-03,Caught,Home,2019,2020,26.6
+8,6194,1B,2B,Stolen Base 2B,624585,Jorge Soler,677976,Randy Dobnak,641531,Hunter Dozier,R,Mitch Garver,641598,2,0,3,True,2019-09-20,Stolen,2B,2019,2020,26.6
+9,6481,1B,2B,Stolen Base 2B,624585,Jorge Soler,642397,Gregory Soto,460086,Alex Gordon,L,Grayson Greiner,606988,4,4,8,False,2019-09-03,Stolen,2B,2019,2020,26.6
+10,6853,1B,2B,Stolen Base 2B,624585,Jorge Soler,642397,Gregory Soto,605490,Bubba Starling,L,Jake Rogers,668670,0,2,7,True,2019-08-10,Stolen,2B,2019,2020,26.6
+11,8932,3B,,Caught Stealing Home,624585,Jorge Soler,502043,Kyle Gibson,641531,Hunter Dozier,R,Mitch Garver,641598,1,3,4,False,2019-04-03,Caught,Home,2019,2020,26.6
+12,2586,1B,2B,Stolen Base 2B,624585,Jorge Soler,656629,Michael Kopech,493329,Yuli Gurriel,R,Yasmani Grandal,518735,0,0,3,True,2023-06-10,Stolen,2B,2023,2024,26.9
+13,7000,1B,2B,Stolen Base 2B,624585,Jorge Soler,656629,Michael Kopech,493329,Yuli Gurriel,R,Yasmani Grandal,518735,0,0,3,True,2023-06-10,Stolen,2B,2023,2024,26.9
+14,1453,3B,,Caught Stealing Home,624585,Jorge Soler,666374,Matt Brash,541645,Avisaíl García,R,Luis Torrens,620443,6,3,2,False,2022-04-29,Caught,Home,2022,2023,26.6
+15,1754,1B,,Caught Stealing 2B,624585,Jorge Soler,661383,Oliver Ortega,500743,Miguel Rojas,R,Max Stassi,545358,1,1,5,True,2022-04-12,Caught,2B,2022,2023,26.6
+16,489,1B,,Caught Stealing 2B,624585,Jorge Soler,605182,Mike Clevinger,572365,Ryan Goins,R,Yan Gomes,543228,0,0,4,True,2018-04-08,Caught,2B,2018,2019,27.0
+17,95,1B,2B,Stolen Base 2B,624585,Jorge Soler,501593,Luis Avilán,458085,Chris Coghlan,L,A.J. Pierzynski,150229,0,3,7,True,2015-07-19,Stolen,2B,2015,2016,27.4
+18,230,1B,2B,Stolen Base 2B,624585,Jorge Soler,462515,Miguel Socolovich,471083,Miguel Montero,R,Tony Cruz,488810,5,4,8,False,2015-07-08,Stolen,2B,2015,2016,27.4
+19,1106,1B,,Caught Stealing 2B,624585,Jorge Soler,543699,Tanner Roark,458085,Chris Coghlan,R,Wilson Ramos,467092,1,1,4,False,2015-05-25,Caught,2B,2015,2016,27.4

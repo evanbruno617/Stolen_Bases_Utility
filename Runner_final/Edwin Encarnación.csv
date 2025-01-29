@@ -1,0 +1,16 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4082,1B,,Caught Stealing 2B,429665,Edwin Encarnación,456701,Homer Bailey,596129,Daniel Vogelbach,R,Martín Maldonado,455117,4,2,4,True,2019-04-08,Caught,2B,2019,2020,25.3
+1,6925,1B,,Caught Stealing 2B,429665,Edwin Encarnación,456701,Homer Bailey,596129,Daniel Vogelbach,R,Martín Maldonado,455117,4,2,4,True,2019-04-08,Caught,2B,2019,2020,25.3
+2,8849,1B,,Caught Stealing 2B,429665,Edwin Encarnación,456701,Homer Bailey,596129,Daniel Vogelbach,R,Martín Maldonado,455117,4,2,4,True,2019-04-08,Caught,2B,2019,2020,25.3
+3,2252,1B,2B,Stolen Base 2B,429665,Edwin Encarnación,518445,Chad Bell,608070,José Ramírez,L,James McCann,543510,1,8,4,True,2017-07-02,Stolen,2B,2017,2018,24.4
+4,3768,1B,2B,Stolen Base 2B,429665,Edwin Encarnación,571510,Matthew Boyd,608070,José Ramírez,L,Alex Avila,488671,1,2,6,False,2017-04-16,Stolen,2B,2017,2018,24.4
+5,1624,1B,2B,Stolen Base 2B,429665,Edwin Encarnación,518445,Chad Bell,608070,José Ramírez,L,James McCann,543510,1,8,4,True,2017-07-02,Stolen,2B,2017,2018,24.4
+6,3140,1B,2B,Stolen Base 2B,429665,Edwin Encarnación,571510,Matthew Boyd,608070,José Ramírez,L,Alex Avila,488671,1,2,6,False,2017-04-16,Stolen,2B,2017,2018,24.4
+7,6060,1B,2B,Stolen Base 2B,429665,Edwin Encarnación,476451,Jeremy Hellickson,431145,Russell Martin,R,Carlos Ruiz,434563,1,2,4,True,2016-06-15,Stolen,2B,2016,2017,24.5
+8,6139,2B,3B,Stolen Base 3B,429665,Edwin Encarnación,474699,Vance Worley,459431,Michael Saunders,R,Matt Wieters,446308,6,1,2,False,2016-06-12,Stolen,3B,2016,2017,24.5
+9,2025,1B,2B,Stolen Base 2B,429665,Edwin Encarnación,476451,Jeremy Hellickson,431145,Russell Martin,R,Carlos Ruiz,434563,1,2,4,True,2016-06-15,Stolen,2B,2016,2017,24.5
+10,2104,2B,3B,Stolen Base 3B,429665,Edwin Encarnación,474699,Vance Worley,459431,Michael Saunders,R,Matt Wieters,446308,6,1,2,False,2016-06-12,Stolen,3B,2016,2017,24.5
+11,5432,1B,2B,Stolen Base 2B,429665,Edwin Encarnación,476451,Jeremy Hellickson,431145,Russell Martin,R,Carlos Ruiz,434563,1,2,4,True,2016-06-15,Stolen,2B,2016,2017,24.5
+12,5511,2B,3B,Stolen Base 3B,429665,Edwin Encarnación,474699,Vance Worley,459431,Michael Saunders,R,Matt Wieters,446308,6,1,2,False,2016-06-12,Stolen,3B,2016,2017,24.5
+13,228,1B,,Caught Stealing 2B,429665,Edwin Encarnación,453222,Scott Carroll,499624,Chris Colabello,R,Tyler Flowers,452095,6,6,7,True,2015-07-08,Caught,2B,2015,2016,25.3
+14,1452,1B,2B,Stolen Base 2B,429665,Edwin Encarnación,523260,Joe Kelly,607680,Kevin Pillar,R,Blake Swihart,596119,1,0,1,False,2015-05-09,Stolen,2B,2015,2016,25.3

@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+271,1B,2B,Stolen Base 2B,621006,Richie Martin,Jake Rogers,2,0,6,True,2019-09-14,Stolen,2B,2019
+465,1B,2B,Stolen Base 2B,621006,Richie Martin,Mike Zunino,1,0,6,True,2019-09-03,Stolen,2B,2019
+496,1B,2B,Stolen Base 2B,621006,Richie Martin,Meibrys Viloria,3,4,7,True,2019-09-01,Stolen,2B,2019
+1009,1B,2B,Stolen Base 2B,621006,Richie Martin,Francisco Mejía,5,6,8,True,2019-07-30,Stolen,2B,2019
+1170,1B,2B,Stolen Base 2B,621006,Richie Martin,Sandy León,8,2,5,False,2019-07-19,Stolen,2B,2019
+1536,1B,2B,Stolen Base 2B,621006,Richie Martin,Omar Narváez,2,5,7,True,2019-06-22,Stolen,2B,2019
+1873,1B,2B,Stolen Base 2B,621006,Richie Martin,Isiah Kiner-Falefa,1,5,2,True,2019-06-04,Stolen,2B,2019
+1966,1B,2B,Stolen Base 2B,621006,Richie Martin,John Hicks,1,0,3,False,2019-05-29,Stolen,2B,2019
+2309,1B,2B,Stolen Base 2B,621006,Richie Martin,Sandy León,1,1,8,False,2019-05-08,Stolen,2B,2019
+844,1B,,Caught Stealing 2B,621006,Richie Martin,Francisco Mejía,4,2,4,False,2021-08-08,Caught,2B,2021
+1667,1B,2B,Stolen Base 2B,621006,Richie Martin,Cal Raleigh,0,0,8,True,2022-06-28,Stolen,2B,2022
+1753,1B,2B,Stolen Base 2B,621006,Richie Martin,Seby Zavala,0,2,2,True,2022-06-24,Stolen,2B,2022
+1754,2B,3B,Stolen Base 3B,621006,Richie Martin,Seby Zavala,0,2,2,True,2022-06-24,Stolen,3B,2022
+3232,1B,2B,Stolen Base 2B,621006,Richie Martin,Tucker Barnhart,0,1,6,True,2022-04-02,Stolen,2B,2022

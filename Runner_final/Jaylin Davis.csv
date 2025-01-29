@@ -1,0 +1,10 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1443,1B,,Caught Stealing 2B,664041,Jaylin Davis,593958,Eduardo Rodriguez,605244,Aramis Garcia,L,Christian Vázquez,543877,2,1,2,True,2019-09-19,Caught,2B,2019,2021,28.5
+1,1617,1B,,Caught Stealing 2B,664041,Jaylin Davis,592866,Trevor Williams,643289,Mauricio Dubón,R,Elias Díaz,553869,1,0,4,False,2019-09-09,Caught,2B,2019,2021,28.5
+2,1625,1B,2B,Stolen Base 2B,664041,Jaylin Davis,628711,Julio Urías,643289,Mauricio Dubón,L,Russell Martin,431145,0,0,2,True,2019-09-08,Stolen,2B,2019,2021,28.5
+3,4286,1B,,Caught Stealing 2B,664041,Jaylin Davis,593958,Eduardo Rodriguez,605244,Aramis Garcia,L,Christian Vázquez,543877,2,1,2,True,2019-09-19,Caught,2B,2019,2021,28.5
+4,4460,1B,,Caught Stealing 2B,664041,Jaylin Davis,592866,Trevor Williams,643289,Mauricio Dubón,R,Elias Díaz,553869,1,0,4,False,2019-09-09,Caught,2B,2019,2021,28.5
+5,4468,1B,2B,Stolen Base 2B,664041,Jaylin Davis,628711,Julio Urías,643289,Mauricio Dubón,L,Russell Martin,431145,0,0,2,True,2019-09-08,Stolen,2B,2019,2021,28.5
+6,6210,1B,,Caught Stealing 2B,664041,Jaylin Davis,593958,Eduardo Rodriguez,605244,Aramis Garcia,L,Christian Vázquez,543877,2,1,2,True,2019-09-19,Caught,2B,2019,2021,28.5
+7,6384,1B,,Caught Stealing 2B,664041,Jaylin Davis,592866,Trevor Williams,643289,Mauricio Dubón,R,Elias Díaz,553869,1,0,4,False,2019-09-09,Caught,2B,2019,2021,28.5
+8,6392,1B,2B,Stolen Base 2B,664041,Jaylin Davis,628711,Julio Urías,643289,Mauricio Dubón,L,Russell Martin,431145,0,0,2,True,2019-09-08,Stolen,2B,2019,2021,28.5

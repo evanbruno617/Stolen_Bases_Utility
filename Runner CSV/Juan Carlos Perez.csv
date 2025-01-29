@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+353,1B,2B,Stolen Base 2B,543633,Juan Carlos Perez,Tim Federowicz,2,1,9,True,2013-09-12,Stolen,2B,2013
+531,1B,2B,Stolen Base 2B,543633,Juan Carlos Perez,Nick Hundley,2,6,5,True,2013-09-04,Stolen,2B,2013
+3410,1B,,Caught Stealing 2B,543633,Juan Carlos Perez,Tim Federowicz,1,1,6,False,2014-04-15,Caught,2B,2014
+867,1B,2B,Stolen Base 2B,543633,Juan Carlos Perez,Jose Lobaton,7,5,8,False,2015-08-14,Stolen,2B,2015

@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+451,1B,2B,Stolen Base 2B,624512,Reese McGuire,Yan Gomes,2,1,3,False,2018-09-09,Stolen,2B,2018
+537,1B,2B,Stolen Base 2B,624512,Reese McGuire,Meibrys Viloria,1,0,2,False,2022-09-03,Stolen,2B,2022
+1144,1B,2B,Stolen Base 2B,624512,Reese McGuire,Keibert Ruiz,0,1,3,True,2023-08-15,Stolen,2B,2023
+2372,1B,,Caught Stealing 2B,624512,Reese McGuire,Jose Trevino,4,1,6,False,2023-06-18,Caught,2B,2023

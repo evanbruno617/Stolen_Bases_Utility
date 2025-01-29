@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+238,1B,2B,Stolen Base 2B,672724,Oswald Peraza,Victor Caratini,0,0,2,True,2022-09-17,Stolen,2B,2022
+622,1B,,Caught Stealing 2B,672724,Oswald Peraza,Carson Kelly,4,3,8,False,2023-09-06,Caught,2B,2023
+1769,1B,2B,Stolen Base 2B,672724,Oswald Peraza,Chad Wallach,1,2,7,True,2023-07-17,Stolen,2B,2023
+1785,1B,2B,Stolen Base 2B,672724,Oswald Peraza,Elias Díaz,5,4,9,True,2023-07-16,Stolen,2B,2023
+3476,1B,2B,Stolen Base 2B,672724,Oswald Peraza,Mike Zunino,2,3,9,False,2023-05-03,Stolen,2B,2023
+3618,1B,,Caught Stealing 2B,672724,Oswald Peraza,Sandy León,0,3,6,True,2023-04-27,Caught,2B,2023
+3771,1B,2B,Stolen Base 2B,672724,Oswald Peraza,Alejandro Kirk,0,0,3,False,2023-04-22,Stolen,2B,2023

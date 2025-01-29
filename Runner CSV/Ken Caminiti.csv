@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3212,1B,2B,Stolen Base 2B,111908,Ken Caminiti,Scott Servais,10,7,6,False,2000-05-09,Stolen,2B,2000
+3420,1B,2B,Stolen Base 2B,111908,Ken Caminiti,Tyler Houston,3,3,9,True,2000-04-30,Stolen,2B,2000
+3620,1B,2B,Stolen Base 2B,111908,Ken Caminiti,Carlos Hernandez,2,3,3,False,2000-04-22,Stolen,2B,2000

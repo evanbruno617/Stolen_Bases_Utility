@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1298,1B,,Caught Stealing 2B,455139,Robinson Chirinos,Brian McCann,3,1,4,False,2014-07-29,Caught,2B,2014
+324,1B,,Caught Stealing 2B,455139,Robinson Chirinos,Drew Butera,1,1,3,False,2016-07-28,Caught,2B,2016
+1620,1B,2B,Stolen Base 2B,455139,Robinson Chirinos,Kevan Smith,4,3,4,True,2017-07-02,Stolen,2B,2017
+1240,1B,2B,Stolen Base 2B,455139,Robinson Chirinos,John Ryan Murphy,4,4,6,True,2018-07-30,Stolen,2B,2018
+2503,1B,2B,Stolen Base 2B,455139,Robinson Chirinos,David Freitas,6,6,6,True,2018-05-15,Stolen,2B,2018
+266,1B,2B,Stolen Base 2B,455139,Robinson Chirinos,Meibrys Viloria,1,1,4,True,2019-09-14,Stolen,2B,2019
+1468,3B,,Caught Stealing Home,455139,Robinson Chirinos,Elias Díaz,1,6,3,False,2019-06-26,Caught,Home,2019
+1857,1B,2B,Stolen Base 2B,455139,Robinson Chirinos,Francisco Mejía,5,6,5,False,2022-06-18,Stolen,2B,2022

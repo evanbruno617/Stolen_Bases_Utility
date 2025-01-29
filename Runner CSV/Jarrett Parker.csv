@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+140,1B,2B,Stolen Base 2B,592620,Jarrett Parker,Derek Norris,1,4,7,True,2015-09-22,Stolen,2B,2015
+1042,1B,,Caught Stealing 2B,592620,Jarrett Parker,Curt Casali,0,4,6,True,2016-06-17,Caught,2B,2016
+755,1B,2B,Stolen Base 2B,592620,Jarrett Parker,Stephen Vogt,0,0,1,False,2017-08-21,Stolen,2B,2017
+942,1B,2B,Stolen Base 2B,592620,Jarrett Parker,Matt Wieters,0,1,1,True,2017-08-12,Stolen,2B,2017
+1065,1B,,Caught Stealing 2B,592620,Jarrett Parker,Jeff Mathis,4,4,8,False,2017-08-05,Caught,2B,2017

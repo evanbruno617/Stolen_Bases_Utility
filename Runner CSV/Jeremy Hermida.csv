@@ -1,0 +1,27 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+19,1B,2B,Stolen Base 2B,435181,Jeremy Hermida,Johnny Estrada,3,2,8,False,2005-09-30,Stolen,2B,2005
+456,2B,3B,Stolen Base 3B,435181,Jeremy Hermida,Brian Schneider,1,4,5,True,2005-09-08,Stolen,3B,2005
+335,1B,2B,Stolen Base 2B,435181,Jeremy Hermida,Yorvit Torrealba,0,2,3,True,2007-09-15,Stolen,2B,2007
+1763,2B,,Caught Stealing 3B,435181,Jeremy Hermida,Jesus Flores,5,2,5,False,2007-07-15,Caught,3B,2007
+1952,1B,,Caught Stealing 2B,435181,Jeremy Hermida,Josh Bard,2,2,4,True,2007-07-03,Caught,2B,2007
+2013,1B,2B,Stolen Base 2B,435181,Jeremy Hermida,Brian McCann,1,0,4,False,2007-06-30,Stolen,2B,2007
+2014,3B,,Caught Stealing Home,435181,Jeremy Hermida,Brian McCann,1,0,4,False,2007-06-30,Caught,Home,2007
+2593,1B,,Caught Stealing 2B,435181,Jeremy Hermida,Jarrod Saltalamacchia,0,1,5,True,2007-06-05,Caught,2B,2007
+2705,1B,2B,Stolen Base 2B,435181,Jeremy Hermida,Michael Barrett,2,1,4,True,2007-05-29,Stolen,2B,2007
+3632,1B,,Caught Stealing 2B,435181,Jeremy Hermida,Jarrod Saltalamacchia,0,1,5,True,2007-04-14,Caught,2B,2007
+99,1B,,Caught Stealing 2B,435181,Jeremy Hermida,Wil Nieves,0,2,2,True,2008-09-24,Caught,2B,2008
+1066,1B,2B,Stolen Base 2B,435181,Jeremy Hermida,Carlos Ruiz,0,1,6,True,2008-08-07,Stolen,2B,2008
+1151,1B,2B,Stolen Base 2B,435181,Jeremy Hermida,Yorvit Torrealba,4,3,6,False,2008-08-02,Stolen,2B,2008
+1424,1B,2B,Stolen Base 2B,435181,Jeremy Hermida,Chris Coste,3,1,2,False,2008-07-19,Stolen,2B,2008
+1730,1B,2B,Stolen Base 2B,435181,Jeremy Hermida,Paul Lo Duca,0,0,1,False,2008-07-01,Stolen,2B,2008
+2113,1B,2B,Stolen Base 2B,435181,Jeremy Hermida,Carlos Ruiz,0,0,4,False,2008-06-12,Stolen,2B,2008
+2209,1B,2B,Stolen Base 2B,435181,Jeremy Hermida,Javier Valentin,4,1,5,False,2008-06-08,Stolen,2B,2008
+603,1B,2B,Stolen Base 2B,435181,Jeremy Hermida,Jason Jaramillo,3,0,3,False,2009-07-05,Stolen,2B,2009
+1276,1B,,Caught Stealing 2B,435181,Jeremy Hermida,Mike Rivera,4,1,6,False,2009-06-04,Caught,2B,2009
+1626,1B,2B,Stolen Base 2B,435181,Jeremy Hermida,Miguel Montero,7,7,9,False,2009-05-20,Stolen,2B,2009
+1630,1B,2B,Stolen Base 2B,435181,Jeremy Hermida,Chris Snyder,1,0,1,False,2009-05-20,Stolen,2B,2009
+1664,1B,2B,Stolen Base 2B,435181,Jeremy Hermida,Miguel Montero,7,7,9,False,2009-05-18,Stolen,2B,2009
+1977,1B,2B,Stolen Base 2B,435181,Jeremy Hermida,David Ross,3,5,2,False,2009-05-06,Stolen,2B,2009
+2571,1B,2B,Stolen Base 2B,435181,Jeremy Hermida,Brian Schneider,0,1,4,False,2009-04-11,Stolen,2B,2009
+3447,1B,2B,Stolen Base 2B,435181,Jeremy Hermida,Matt Wieters,1,3,7,False,2010-04-24,Stolen,2B,2010
+4006,1B,2B,Stolen Base 2B,435181,Jeremy Hermida,Miguel Montero,2,2,7,False,2012-04-10,Stolen,2B,2012

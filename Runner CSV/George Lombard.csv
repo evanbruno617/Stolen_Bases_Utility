@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+346,1B,2B,Stolen Base 2B,136601,George Lombard,Damian Miller,2,1,9,True,2000-09-15,Stolen,2B,2000
+475,1B,2B,Stolen Base 2B,136601,George Lombard,Brian Schneider,3,5,7,False,2000-09-09,Stolen,2B,2000
+679,1B,2B,Stolen Base 2B,136601,George Lombard,Raul Chavez,6,7,8,True,2000-09-02,Stolen,2B,2000
+1137,1B,2B,Stolen Base 2B,136601,George Lombard,Todd Hundley,1,0,2,False,2000-08-13,Stolen,2B,2000
+30,1B,2B,Stolen Base 2B,136601,George Lombard,Ken Huckaby,1,1,2,True,2002-09-28,Stolen,2B,2002
+96,1B,2B,Stolen Base 2B,136601,George Lombard,A.J. Hinch,6,7,12,True,2002-09-25,Stolen,2B,2002
+346,1B,2B,Stolen Base 2B,136601,George Lombard,Brent Mayne,2,2,7,False,2002-09-13,Stolen,2B,2002
+624,1B,2B,Stolen Base 2B,136601,George Lombard,Josh Paul,0,0,1,False,2002-08-30,Stolen,2B,2002
+666,1B,2B,Stolen Base 2B,136601,George Lombard,Josh Bard,2,1,9,True,2002-08-28,Stolen,2B,2002
+923,1B,2B,Stolen Base 2B,136601,George Lombard,Brook Fordyce,4,5,7,True,2002-08-16,Stolen,2B,2002
+1003,1B,2B,Stolen Base 2B,136601,George Lombard,Brook Fordyce,1,0,1,False,2002-08-11,Stolen,2B,2002
+1104,1B,2B,Stolen Base 2B,136601,George Lombard,Ivan Rodriguez,4,1,4,False,2002-08-06,Stolen,2B,2002
+1316,1B,2B,Stolen Base 2B,136601,George Lombard,Einar Díaz,0,4,4,True,2002-07-26,Stolen,2B,2002
+1592,1B,,Caught Stealing 2B,136601,George Lombard,Mark Johnson,1,2,3,False,2002-07-14,Caught,2B,2002
+1647,1B,2B,Stolen Base 2B,136601,George Lombard,Sandy Alomar Jr.,0,0,1,False,2002-07-12,Stolen,2B,2002
+1743,1B,2B,Stolen Base 2B,136601,George Lombard,Doug Mirabelli,0,1,3,True,2002-07-05,Stolen,2B,2002
+1775,1B,2B,Stolen Base 2B,136601,George Lombard,Mark Johnson,0,3,7,True,2002-07-03,Stolen,2B,2002
+1776,1B,2B,Stolen Base 2B,136601,George Lombard,Mark Johnson,0,5,9,True,2002-07-03,Stolen,2B,2002
+3077,1B,2B,Stolen Base 2B,136601,George Lombard,Geronimo Gil,1,6,5,False,2003-04-27,Stolen,2B,2003

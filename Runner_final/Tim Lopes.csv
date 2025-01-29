@@ -1,0 +1,25 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1313,1B,2B,Stolen Base 2B,621005,Tim Lopes,640462,A.J. Puk,608596,Tom Murphy,L,Josh Phegley,572033,2,1,6,False,2019-09-27,Stolen,2B,2019,2020,28.4
+1,1582,1B,2B,Stolen Base 2B,621005,Tim Lopes,592332,Kevin Gausman,543829,Dee Strange-Gordon,R,Curt Casali,592200,3,2,7,False,2019-09-11,Stolen,2B,2019,2020,28.4
+2,1668,1B,2B,Stolen Base 2B,621005,Tim Lopes,664285,Framber Valdez,643418,Shed Long Jr.,L,Martín Maldonado,455117,3,2,4,True,2019-09-06,Stolen,2B,2019,2020,28.4
+3,1813,1B,,Caught Stealing 2B,621005,Tim Lopes,572020,James Paxton,543592,Austin Nola,L,Gary Sánchez,596142,0,2,4,False,2019-08-28,Caught,2B,2019,2020,28.4
+4,1938,1B,2B,Stolen Base 2B,621005,Tim Lopes,656222,Jalen Beeks,542979,Keon Broxton,L,Mike Zunino,572287,4,6,6,True,2019-08-20,Stolen,2B,2019,2020,28.4
+5,1954,1B,2B,Stolen Base 2B,621005,Tim Lopes,475054,Chaz Roe,641487,J.P. Crawford,R,Travis d'Arnaud,518595,1,7,4,True,2019-08-19,Stolen,2B,2019,2020,28.4
+6,1992,1B,,Caught Stealing 2B,621005,Tim Lopes,621097,Jacob Waguespack,543829,Dee Strange-Gordon,R,Danny Jansen,643376,0,2,2,True,2019-08-16,Caught,2B,2019,2020,28.4
+7,2316,1B,2B,Stolen Base 2B,621005,Tim Lopes,572403,Drew VerHagen,605480,Mallex Smith,R,John Hicks,543308,5,1,4,False,2019-07-25,Stolen,2B,2019,2020,28.4
+8,4156,1B,2B,Stolen Base 2B,621005,Tim Lopes,640462,A.J. Puk,608596,Tom Murphy,L,Josh Phegley,572033,2,1,6,False,2019-09-27,Stolen,2B,2019,2020,28.4
+9,4425,1B,2B,Stolen Base 2B,621005,Tim Lopes,592332,Kevin Gausman,543829,Dee Strange-Gordon,R,Curt Casali,592200,3,2,7,False,2019-09-11,Stolen,2B,2019,2020,28.4
+10,4511,1B,2B,Stolen Base 2B,621005,Tim Lopes,664285,Framber Valdez,643418,Shed Long Jr.,L,Martín Maldonado,455117,3,2,4,True,2019-09-06,Stolen,2B,2019,2020,28.4
+11,4656,1B,,Caught Stealing 2B,621005,Tim Lopes,572020,James Paxton,543592,Austin Nola,L,Gary Sánchez,596142,0,2,4,False,2019-08-28,Caught,2B,2019,2020,28.4
+12,4781,1B,2B,Stolen Base 2B,621005,Tim Lopes,656222,Jalen Beeks,542979,Keon Broxton,L,Mike Zunino,572287,4,6,6,True,2019-08-20,Stolen,2B,2019,2020,28.4
+13,4797,1B,2B,Stolen Base 2B,621005,Tim Lopes,475054,Chaz Roe,641487,J.P. Crawford,R,Travis d'Arnaud,518595,1,7,4,True,2019-08-19,Stolen,2B,2019,2020,28.4
+14,4835,1B,,Caught Stealing 2B,621005,Tim Lopes,621097,Jacob Waguespack,543829,Dee Strange-Gordon,R,Danny Jansen,643376,0,2,2,True,2019-08-16,Caught,2B,2019,2020,28.4
+15,5159,1B,2B,Stolen Base 2B,621005,Tim Lopes,572403,Drew VerHagen,605480,Mallex Smith,R,John Hicks,543308,5,1,4,False,2019-07-25,Stolen,2B,2019,2020,28.4
+16,6080,1B,2B,Stolen Base 2B,621005,Tim Lopes,640462,A.J. Puk,608596,Tom Murphy,L,Josh Phegley,572033,2,1,6,False,2019-09-27,Stolen,2B,2019,2020,28.4
+17,6349,1B,2B,Stolen Base 2B,621005,Tim Lopes,592332,Kevin Gausman,543829,Dee Strange-Gordon,R,Curt Casali,592200,3,2,7,False,2019-09-11,Stolen,2B,2019,2020,28.4
+18,6435,1B,2B,Stolen Base 2B,621005,Tim Lopes,664285,Framber Valdez,643418,Shed Long Jr.,L,Martín Maldonado,455117,3,2,4,True,2019-09-06,Stolen,2B,2019,2020,28.4
+19,6580,1B,,Caught Stealing 2B,621005,Tim Lopes,572020,James Paxton,543592,Austin Nola,L,Gary Sánchez,596142,0,2,4,False,2019-08-28,Caught,2B,2019,2020,28.4
+20,6705,1B,2B,Stolen Base 2B,621005,Tim Lopes,656222,Jalen Beeks,542979,Keon Broxton,L,Mike Zunino,572287,4,6,6,True,2019-08-20,Stolen,2B,2019,2020,28.4
+21,6721,1B,2B,Stolen Base 2B,621005,Tim Lopes,475054,Chaz Roe,641487,J.P. Crawford,R,Travis d'Arnaud,518595,1,7,4,True,2019-08-19,Stolen,2B,2019,2020,28.4
+22,6759,1B,,Caught Stealing 2B,621005,Tim Lopes,621097,Jacob Waguespack,543829,Dee Strange-Gordon,R,Danny Jansen,643376,0,2,2,True,2019-08-16,Caught,2B,2019,2020,28.4
+23,7083,1B,2B,Stolen Base 2B,621005,Tim Lopes,572403,Drew VerHagen,605480,Mallex Smith,R,John Hicks,543308,5,1,4,False,2019-07-25,Stolen,2B,2019,2020,28.4

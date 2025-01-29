@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2492,1B,2B,Stolen Base 2B,605231,Roemon Fields,Sandy León,2,2,9,False,2016-04-01,Stolen,2B,2016
+2493,2B,,Caught Stealing 3B,605231,Roemon Fields,Sandy León,2,2,9,False,2016-04-01,Caught,3B,2016

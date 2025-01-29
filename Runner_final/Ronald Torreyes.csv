@@ -1,0 +1,14 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1347,1B,2B,Stolen Base 2B,591720,Ronald Torreyes,519455,Jordan Zimmermann,641878,Ian Miller,R,Jake Rogers,668670,0,1,3,True,2019-09-26,Stolen,2B,2019,2020,26.4
+1,4190,1B,2B,Stolen Base 2B,591720,Ronald Torreyes,519455,Jordan Zimmermann,641878,Ian Miller,R,Jake Rogers,668670,0,1,3,True,2019-09-26,Stolen,2B,2019,2020,26.4
+2,6114,1B,2B,Stolen Base 2B,591720,Ronald Torreyes,519455,Jordan Zimmermann,641878,Ian Miller,R,Jake Rogers,668670,0,1,3,True,2019-09-26,Stolen,2B,2019,2020,26.4
+3,2261,1B,2B,Stolen Base 2B,591720,Ronald Torreyes,502381,Luke Gregerson,519222,Austin Romine,R,Evan Gattis,594828,2,5,6,True,2017-07-01,Stolen,2B,2017,2018,28.0
+4,2262,2B,3B,Stolen Base 3B,591720,Ronald Torreyes,502381,Luke Gregerson,474892,Chris Carter,R,Evan Gattis,594828,2,5,6,True,2017-07-01,Stolen,3B,2017,2018,28.0
+5,1633,1B,2B,Stolen Base 2B,591720,Ronald Torreyes,502381,Luke Gregerson,519222,Austin Romine,R,Evan Gattis,594828,2,5,6,True,2017-07-01,Stolen,2B,2017,2018,28.0
+6,1634,2B,3B,Stolen Base 3B,591720,Ronald Torreyes,502381,Luke Gregerson,474892,Chris Carter,R,Evan Gattis,594828,2,5,6,True,2017-07-01,Stolen,3B,2017,2018,28.0
+7,4445,1B,,Caught Stealing 2B,591720,Ronald Torreyes,542882,Matt Andriese,458731,Brett Gardner,R,Luke Maile,571912,1,2,5,False,2016-09-11,Caught,2B,2016,2017,28.3
+8,5371,1B,2B,Stolen Base 2B,591720,Ronald Torreyes,502381,Luke Gregerson,516770,Starlin Castro,R,Jason Castro,488771,1,2,9,True,2016-07-25,Stolen,2B,2016,2017,28.3
+9,410,1B,,Caught Stealing 2B,591720,Ronald Torreyes,542882,Matt Andriese,458731,Brett Gardner,R,Luke Maile,571912,1,2,5,False,2016-09-11,Caught,2B,2016,2017,28.3
+10,1336,1B,2B,Stolen Base 2B,591720,Ronald Torreyes,502381,Luke Gregerson,516770,Starlin Castro,R,Jason Castro,488771,1,2,9,True,2016-07-25,Stolen,2B,2016,2017,28.3
+11,3817,1B,,Caught Stealing 2B,591720,Ronald Torreyes,542882,Matt Andriese,458731,Brett Gardner,R,Luke Maile,571912,1,2,5,False,2016-09-11,Caught,2B,2016,2017,28.3
+12,4743,1B,2B,Stolen Base 2B,591720,Ronald Torreyes,502381,Luke Gregerson,516770,Starlin Castro,R,Jason Castro,488771,1,2,9,True,2016-07-25,Stolen,2B,2016,2017,28.3

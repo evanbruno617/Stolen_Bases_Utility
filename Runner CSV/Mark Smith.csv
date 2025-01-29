@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1476,1B,2B,Stolen Base 2B,122432,Mark Smith,Damian Miller,1,2,8,False,2000-07-29,Stolen,2B,2000
+1832,1B,3B,Caught Stealing Home,122432,Mark Smith,Mike DiFelice,6,4,4,False,2000-07-09,Caught,Home,2000
+2121,1B,2B,Stolen Base 2B,122432,Mark Smith,Mike Piazza,0,1,2,True,2000-06-26,Stolen,2B,2000

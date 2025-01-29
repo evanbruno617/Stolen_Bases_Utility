@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+184,1B,,Caught Stealing 2B,664041,Jaylin Davis,Christian Vázquez,2,1,2,True,2019-09-19,Caught,2B,2019
+358,1B,,Caught Stealing 2B,664041,Jaylin Davis,Elias Díaz,1,0,4,False,2019-09-09,Caught,2B,2019
+366,1B,2B,Stolen Base 2B,664041,Jaylin Davis,Russell Martin,0,0,2,True,2019-09-08,Stolen,2B,2019

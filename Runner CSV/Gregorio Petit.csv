@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+76,1B,,Caught Stealing 2B,463610,Gregorio Petit,Anthony Recker,1,0,6,True,2014-09-26,Caught,2B,2014
+186,1B,2B,Stolen Base 2B,463610,Gregorio Petit,Josh Phegley,3,0,3,True,2018-09-21,Stolen,2B,2018
+329,1B,2B,Stolen Base 2B,463610,Gregorio Petit,Salvador Perez,2,3,6,True,2018-09-14,Stolen,2B,2018
+2318,1B,,Caught Stealing 2B,463610,Gregorio Petit,Mike Zunino,3,3,12,True,2018-05-26,Caught,2B,2018
+2740,1B,2B,Stolen Base 2B,463610,Gregorio Petit,Russell Martin,1,0,3,False,2018-05-02,Stolen,2B,2018

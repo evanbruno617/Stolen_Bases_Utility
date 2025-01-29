@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3294,1B,,Caught Stealing 2B,663886,Tyler Stephenson,434378,Justin Verlander,669222,Nick Senzel,R,Francisco Alvarez,682626,1,0,1,False,2023-05-10,Caught,2B,2023,2024,26.5
+1,7708,1B,,Caught Stealing 2B,663886,Tyler Stephenson,434378,Justin Verlander,669222,Nick Senzel,R,Francisco Alvarez,682626,1,0,1,False,2023-05-10,Caught,2B,2023,2024,26.5
+2,1361,1B,2B,Stolen Base 2B,663886,Tyler Stephenson,605288,Adrian Houser,592567,Colin Moran,R,Omar Narváez,553882,0,3,1,True,2022-05-05,Stolen,2B,2022,2023,26.9

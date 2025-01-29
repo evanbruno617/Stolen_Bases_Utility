@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+801,1B,2B,Stolen Base 2B,429709,Ramon Nivar,Brandon Inge,3,5,8,True,2003-08-19,Stolen,2B,2003
+868,1B,2B,Stolen Base 2B,429709,Ramon Nivar,Miguel Olivo,0,0,3,False,2003-08-15,Stolen,2B,2003
+991,1B,2B,Stolen Base 2B,429709,Ramon Nivar,Greg Myers,1,4,4,True,2003-08-10,Stolen,2B,2003
+1058,1B,2B,Stolen Base 2B,429709,Ramon Nivar,Jorge Posada,0,0,1,True,2003-08-06,Stolen,2B,2003
+1088,1B,,Caught Stealing 2B,429709,Ramon Nivar,Jorge Posada,3,1,2,True,2003-08-05,Caught,2B,2003
+3484,1B,,Caught Stealing 2B,429709,Ramon Nivar,Damian Miller,0,0,3,True,2004-04-06,Caught,2B,2004
+3486,1B,2B,Stolen Base 2B,429709,Ramon Nivar,Damian Miller,0,1,5,True,2004-04-06,Stolen,2B,2004

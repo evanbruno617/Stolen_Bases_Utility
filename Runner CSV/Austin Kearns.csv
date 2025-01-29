@@ -1,0 +1,41 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1114,3B,,Caught Stealing Home,400290,Austin Kearns,Wil Nieves,10,10,9,True,2002-08-04,Caught,Home,2002
+1216,1B,,Caught Stealing 2B,400290,Austin Kearns,Paul Lo Duca,2,0,3,False,2002-07-31,Caught,2B,2002
+1238,1B,2B,Stolen Base 2B,400290,Austin Kearns,Paul Lo Duca,3,0,3,False,2002-07-30,Stolen,2B,2002
+1350,1B,2B,Stolen Base 2B,400290,Austin Kearns,Keith Osik,3,4,3,False,2002-07-24,Stolen,2B,2002
+1438,1B,2B,Stolen Base 2B,400290,Austin Kearns,Vance Wilson,2,3,1,False,2002-07-20,Stolen,2B,2002
+1523,1B,2B,Stolen Base 2B,400290,Austin Kearns,Jason Kendall,0,1,1,True,2002-07-17,Stolen,2B,2002
+1954,1B,2B,Stolen Base 2B,400290,Austin Kearns,Todd Hundley,0,2,2,True,2002-06-26,Stolen,2B,2002
+2553,1B,,Caught Stealing 2B,400290,Austin Kearns,Charles Johnson,0,2,1,True,2002-05-28,Caught,2B,2002
+2962,1B,2B,Stolen Base 2B,400290,Austin Kearns,Raul Casanova,0,5,8,True,2002-05-13,Stolen,2B,2002
+1997,2B,3B,Stolen Base 3B,400290,Austin Kearns,Damian Miller,3,1,8,False,2003-06-19,Stolen,3B,2003
+2135,3B,score,Stolen Base Home,400290,Austin Kearns,Toby Hall,0,1,2,True,2003-06-12,Stolen,Home,2003
+2229,1B,2B,Stolen Base 2B,400290,Austin Kearns,Tom Wilson,2,2,3,False,2003-06-07,Stolen,2B,2003
+2304,1B,2B,Stolen Base 2B,400290,Austin Kearns,Jorge Posada,0,0,2,False,2003-06-04,Stolen,2B,2003
+2596,1B,2B,Stolen Base 2B,400290,Austin Kearns,Henry Blanco,2,0,1,False,2003-05-20,Stolen,2B,2003
+3177,1B,,Caught Stealing 2B,400290,Austin Kearns,Paul Lo Duca,1,0,3,False,2003-04-22,Caught,2B,2003
+3410,2B,3B,Caught Stealing 3B,400290,Austin Kearns,Brad Ausmus,3,1,4,True,2003-04-10,Caught,3B,2003
+441,1B,2B,Stolen Base 2B,400290,Austin Kearns,Mark Johnson,6,2,5,False,2004-09-10,Stolen,2B,2004
+2519,1B,,Caught Stealing 2B,400290,Austin Kearns,Mike Redmond,0,1,2,False,2004-05-26,Caught,2B,2004
+3447,1B,2B,Stolen Base 2B,400290,Austin Kearns,Jason Kendall,5,1,5,False,2004-04-09,Stolen,2B,2004
+1015,1B,2B,Stolen Base 2B,400290,Austin Kearns,Carlos Ruiz,0,2,2,False,2007-08-16,Stolen,2B,2007
+1236,1B,,Caught Stealing 2B,400290,Austin Kearns,Bengie Molina,1,2,10,True,2007-08-06,Caught,2B,2007
+1469,1B,2B,Stolen Base 2B,400290,Austin Kearns,Paul Lo Duca,2,6,8,True,2007-07-27,Stolen,2B,2007
+3019,3B,,Caught Stealing Home,400290,Austin Kearns,Brian McCann,2,0,7,False,2007-05-14,Caught,Home,2007
+963,1B,2B,Stolen Base 2B,400290,Austin Kearns,Brian Schneider,3,4,8,False,2008-08-12,Stolen,2B,2008
+3363,1B,,Caught Stealing 2B,400290,Austin Kearns,Raul Casanova,2,2,12,True,2008-04-17,Caught,2B,2008
+3520,1B,,Caught Stealing 2B,400290,Austin Kearns,Brian McCann,0,1,7,False,2008-04-11,Caught,2B,2008
+3620,1B,2B,Stolen Base 2B,400290,Austin Kearns,Yadier Molina,1,0,2,True,2008-04-06,Stolen,2B,2008
+1925,1B,2B,Stolen Base 2B,400290,Austin Kearns,Miguel Montero,4,5,8,True,2009-05-08,Stolen,2B,2009
+1102,1B,2B,Caught Stealing 3B,400290,Austin Kearns,Bengie Molina,0,0,4,True,2010-08-10,Caught,3B,2010
+2167,1B,,Caught Stealing 2B,400290,Austin Kearns,Jason Jaramillo,0,2,1,True,2010-06-20,Caught,2B,2010
+2474,1B,2B,Stolen Base 2B,400290,Austin Kearns,A.J. Pierzynski,2,6,4,True,2010-06-06,Stolen,2B,2010
+2475,1B,2B,Stolen Base 2B,400290,Austin Kearns,A.J. Pierzynski,6,6,6,True,2010-06-06,Stolen,2B,2010
+3395,1B,2B,Stolen Base 2B,400290,Austin Kearns,Mike Napoli,3,1,6,True,2010-04-26,Stolen,2B,2010
+3457,1B,2B,Stolen Base 2B,400290,Austin Kearns,Jake Fox,0,0,2,True,2010-04-24,Stolen,2B,2010
+1766,1B,,Caught Stealing 2B,400290,Austin Kearns,Drew Butera,4,3,5,True,2011-07-20,Caught,2B,2011
+1820,1B,,Caught Stealing 2B,400290,Austin Kearns,Joe Mauer,2,4,8,True,2011-07-18,Caught,2B,2011
+3374,1B,,Caught Stealing 2B,400290,Austin Kearns,Chris Gimenez,1,0,3,False,2011-05-13,Caught,2B,2011
+3528,2B,,Caught Stealing 3B,400290,Austin Kearns,Kurt Suzuki,2,4,12,True,2011-05-05,Caught,3B,2011
+1144,1B,,Caught Stealing 2B,400290,Austin Kearns,Matt Treanor,0,1,5,False,2012-08-12,Caught,2B,2012
+3033,1B,2B,Stolen Base 2B,400290,Austin Kearns,Ramon Hernandez,1,4,3,False,2012-05-21,Stolen,2B,2012

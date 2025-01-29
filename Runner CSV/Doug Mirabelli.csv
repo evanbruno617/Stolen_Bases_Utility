@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3046,1B,2B,Stolen Base 2B,119182,Doug Mirabelli,Javy Lopez,6,5,6,True,2000-05-16,Stolen,2B,2000
+3469,1B,2B,Caught Stealing 3B,119182,Doug Mirabelli,Brent Mayne,0,2,2,True,2002-04-21,Caught,3B,2002
+599,1B,2B,Stolen Base 2B,119182,Doug Mirabelli,Pete Laforest,7,5,7,False,2005-08-31,Stolen,2B,2005
+1261,1B,2B,Stolen Base 2B,119182,Doug Mirabelli,Toby Hall,1,2,5,True,2005-07-27,Stolen,2B,2005
+2321,1B,2B,Caught Stealing 3B,119182,Doug Mirabelli,Bengie Molina,9,5,8,False,2007-06-17,Caught,3B,2007

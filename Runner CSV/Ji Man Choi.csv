@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+177,1B,,Caught Stealing 2B,596847,Ji Man Choi,Stephen Vogt,6,6,9,False,2016-08-04,Caught,2B,2016
+557,1B,2B,Stolen Base 2B,596847,Ji Man Choi,Omar Narváez,4,1,4,False,2016-07-17,Stolen,2B,2016
+739,2B,3B,Stolen Base 3B,596847,Ji Man Choi,Blake Swihart,1,0,2,False,2018-08-24,Stolen,3B,2018
+842,1B,2B,Stolen Base 2B,596847,Ji Man Choi,Blake Swihart,0,2,9,True,2018-08-19,Stolen,2B,2018
+1161,1B,2B,Stolen Base 2B,596847,Ji Man Choi,Welington Castillo,1,1,1,False,2019-07-19,Stolen,2B,2019
+2630,1B,,Caught Stealing 2B,596847,Ji Man Choi,Pedro Severino,2,2,3,False,2019-04-18,Caught,2B,2019
+2729,1B,,Caught Stealing 2B,596847,Ji Man Choi,Luke Maile,0,0,1,True,2019-04-13,Caught,2B,2019

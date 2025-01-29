@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1241,1B,,Caught Stealing 2B,595144,Jaycob Brugman,Miguel Montero,1,3,4,True,2017-07-27,Caught,2B,2017
+1687,1B,2B,Stolen Base 2B,595144,Jaycob Brugman,Evan Gattis,2,1,6,True,2017-06-29,Stolen,2B,2017
+1888,1B,,Caught Stealing 2B,595144,Jaycob Brugman,Gary Sánchez,4,3,4,False,2017-06-18,Caught,2B,2017

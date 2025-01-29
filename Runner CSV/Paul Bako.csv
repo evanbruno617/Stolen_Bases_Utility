@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+11,1B,,Caught Stealing 2B,132720,Paul Bako,Mike Matheny,0,0,5,True,2002-09-29,Caught,2B,2002
+3081,1B,,Caught Stealing 2B,132720,Paul Bako,Corky Miller,6,5,6,True,2002-05-08,Caught,2B,2002
+2992,1B,2B,Caught Stealing 3B,132720,Paul Bako,Charles Johnson,2,0,2,False,2003-05-02,Caught,3B,2003
+2545,1B,2B,Stolen Base 2B,132720,Paul Bako,Raul Chavez,1,0,3,True,2004-05-25,Stolen,2B,2004
+1756,1B,,Caught Stealing 2B,132720,Paul Bako,Toby Hall,2,0,2,False,2007-07-15,Caught,2B,2007
+2565,3B,,Caught Stealing Home,132720,Paul Bako,Luke Carlin,1,2,7,True,2008-05-23,Caught,Home,2008
+3121,1B,,Caught Stealing 2B,132720,Paul Bako,Yadier Molina,3,4,8,True,2008-04-28,Caught,2B,2008
+3548,2B,3B,Caught Stealing Home,132720,Paul Bako,Jason Kendall,1,1,5,True,2008-04-10,Caught,Home,2008

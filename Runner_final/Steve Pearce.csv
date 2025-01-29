@@ -1,0 +1,12 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,5278,1B,,Caught Stealing 2B,456665,Steve Pearce,543135,Nathan Eovaldi,595281,Kevin Kiermaier,R,Austin Romine,519222,3,2,4,False,2016-07-30,Caught,2B,2016,2017,26.9
+1,6247,1B,,Caught Stealing 2B,456665,Steve Pearce,608648,Tyler Duffey,519306,Steven Souza Jr.,R,Kurt Suzuki,435559,1,1,2,True,2016-06-05,Caught,2B,2016,2017,26.9
+2,6522,1B,,Caught Stealing 2B,456665,Steve Pearce,605242,Michael Fulmer,572816,Corey Dickerson,R,James McCann,543510,1,1,6,True,2016-05-21,Caught,2B,2016,2017,26.9
+3,1243,1B,,Caught Stealing 2B,456665,Steve Pearce,543135,Nathan Eovaldi,595281,Kevin Kiermaier,R,Austin Romine,519222,3,2,4,False,2016-07-30,Caught,2B,2016,2017,26.9
+4,2212,1B,,Caught Stealing 2B,456665,Steve Pearce,608648,Tyler Duffey,519306,Steven Souza Jr.,R,Kurt Suzuki,435559,1,1,2,True,2016-06-05,Caught,2B,2016,2017,26.9
+5,2487,1B,,Caught Stealing 2B,456665,Steve Pearce,605242,Michael Fulmer,572816,Corey Dickerson,R,James McCann,543510,1,1,6,True,2016-05-21,Caught,2B,2016,2017,26.9
+6,4650,1B,,Caught Stealing 2B,456665,Steve Pearce,543135,Nathan Eovaldi,595281,Kevin Kiermaier,R,Austin Romine,519222,3,2,4,False,2016-07-30,Caught,2B,2016,2017,26.9
+7,5619,1B,,Caught Stealing 2B,456665,Steve Pearce,608648,Tyler Duffey,519306,Steven Souza Jr.,R,Kurt Suzuki,435559,1,1,2,True,2016-06-05,Caught,2B,2016,2017,26.9
+8,5894,1B,,Caught Stealing 2B,456665,Steve Pearce,605242,Michael Fulmer,572816,Corey Dickerson,R,James McCann,543510,1,1,6,True,2016-05-21,Caught,2B,2016,2017,26.9
+9,499,2B,3B,Stolen Base 3B,456665,Steve Pearce,518927,Tommy Layne,475247,Ryan Flaherty,L,Blake Swihart,596119,4,6,6,True,2015-06-25,Stolen,3B,2015,2016,26.6
+10,1404,1B,,Caught Stealing 2B,456665,Steve Pearce,462136,Marco Estrada,429666,J.J. Hardy,R,Russell Martin,431145,3,0,4,False,2015-05-11,Caught,2B,2015,2016,26.6

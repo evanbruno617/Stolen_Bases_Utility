@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+263,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,Tom Murphy,3,3,7,True,2021-09-15,Stolen,2B,2021
+2163,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,Drew Butera,2,0,2,False,2021-05-14,Stolen,2B,2021
+663,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,Danny Jansen,2,2,2,False,2022-08-25,Stolen,2B,2022
+1697,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,Alejandro Kirk,1,0,3,True,2022-06-27,Stolen,2B,2022
+2057,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,Max Stassi,5,4,6,True,2022-06-07,Stolen,2B,2022
+4014,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,Francisco Mejía,3,0,5,True,2023-04-11,Stolen,2B,2023

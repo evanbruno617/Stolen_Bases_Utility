@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1220,1B,,Caught Stealing 2B,340393,Ross Gload,Brandon Inge,1,5,5,True,2004-08-01,Caught,2B,2004
+1279,1B,,Caught Stealing 2B,340393,Ross Gload,Mike DiFelice,3,2,8,True,2004-07-29,Caught,2B,2004
+2379,1B,,Caught Stealing 2B,340393,Ross Gload,Adam Melhuse,4,4,11,True,2004-06-01,Caught,2B,2004
+767,1B,,Caught Stealing 2B,340393,Ross Gload,Ivan Rodriguez,0,0,2,False,2007-08-28,Caught,2B,2007
+3231,1B,2B,Stolen Base 2B,340393,Ross Gload,José Molina,2,2,6,False,2007-05-03,Stolen,2B,2007
+3399,1B,2B,Stolen Base 2B,340393,Ross Gload,Mike Redmond,0,0,10,True,2007-04-26,Stolen,2B,2007
+1394,1B,,Caught Stealing 2B,340393,Ross Gload,A.J. Pierzynski,0,4,1,True,2008-07-20,Caught,2B,2008
+1466,1B,2B,Stolen Base 2B,340393,Ross Gload,Jamie Burke,1,1,5,False,2008-07-13,Stolen,2B,2008
+1504,1B,2B,Stolen Base 2B,340393,Ross Gload,Jeff Clement,0,0,5,False,2008-07-11,Stolen,2B,2008
+2528,1B,,Caught Stealing 2B,340393,Ross Gload,Rod Barajas,1,0,2,True,2008-05-25,Caught,2B,2008
+3589,1B,2B,Stolen Base 2B,340393,Ross Gload,Jorge Posada,5,2,7,False,2008-04-08,Stolen,2B,2008
+3590,2B,,Caught Stealing 3B,340393,Ross Gload,Jorge Posada,5,2,7,False,2008-04-08,Caught,3B,2008
+3724,1B,,Caught Stealing 2B,340393,Ross Gload,Ivan Rodriguez,0,4,9,True,2008-04-02,Caught,2B,2008
+1933,1B,2B,Stolen Base 2B,340393,Ross Gload,Ramon Hernandez,4,3,9,True,2010-06-30,Stolen,2B,2010
+3980,1B,2B,Stolen Base 2B,340393,Ross Gload,Jason Jaramillo,2,2,5,False,2010-04-01,Stolen,2B,2010

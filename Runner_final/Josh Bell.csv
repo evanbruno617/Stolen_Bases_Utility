@@ -1,0 +1,20 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4206,1B,,Caught Stealing 2B,605137,Josh Bell,594835,Marco Gonzales,660757,Oscar Gonzalez,L,Cal Raleigh,663728,1,3,3,True,2023-04-02,Caught,2B,2023,2024,25.4
+1,8620,1B,,Caught Stealing 2B,605137,Josh Bell,594835,Marco Gonzales,660757,Oscar Gonzalez,L,Cal Raleigh,663728,1,3,3,True,2023-04-02,Caught,2B,2023,2024,25.4
+2,1792,1B,,Caught Stealing 2B,605137,Josh Bell,592741,Chasen Shreve,628450,Yadiel Hernandez,L,Tomás Nido,621512,1,2,7,False,2022-04-10,Caught,2B,2022,2023,25.9
+3,624,1B,,Caught Stealing 2B,605137,Josh Bell,543001,Ryan Carpenter,465041,Francisco Cervelli,L,James McCann,543510,2,3,3,True,2018-04-01,Caught,2B,2018,2019,26.7
+4,897,1B,,Caught Stealing 2B,605137,Josh Bell,596112,Robert Stephenson,501896,David Freese,R,Tucker Barnhart,571466,0,0,4,True,2017-09-17,Caught,2B,2017,2018,27.1
+5,1044,1B,,Caught Stealing 2B,605137,Josh Bell,596133,Luke Weaver,501896,David Freese,R,Yadier Molina,425877,1,0,4,True,2017-09-08,Caught,2B,2017,2018,27.1
+6,1499,1B,,Caught Stealing 2B,605137,Josh Bell,519076,Jimmy Nelson,501896,David Freese,R,Manny Piña,444489,0,1,1,True,2017-08-16,Caught,2B,2017,2018,27.1
+7,2448,1B,2B,Stolen Base 2B,605137,Josh Bell,502624,Chase Anderson,553869,Elias Díaz,R,Jett Bandy,542908,0,1,1,True,2017-06-22,Stolen,2B,2017,2018,27.1
+8,3466,1B,,Caught Stealing 2B,605137,Josh Bell,607237,Amir Garrett,594838,Phil Gosselin,L,Tucker Barnhart,571466,3,2,7,True,2017-05-01,Caught,2B,2017,2018,27.1
+9,3488,1B,2B,Stolen Base 2B,605137,Josh Bell,430661,Dustin McGowan,457705,Andrew McCutchen,R,A.J. Ellis,454560,2,3,5,True,2017-04-30,Stolen,2B,2017,2018,27.1
+10,269,1B,,Caught Stealing 2B,605137,Josh Bell,596112,Robert Stephenson,501896,David Freese,R,Tucker Barnhart,571466,0,0,4,True,2017-09-17,Caught,2B,2017,2018,27.1
+11,416,1B,,Caught Stealing 2B,605137,Josh Bell,596133,Luke Weaver,501896,David Freese,R,Yadier Molina,425877,1,0,4,True,2017-09-08,Caught,2B,2017,2018,27.1
+12,871,1B,,Caught Stealing 2B,605137,Josh Bell,519076,Jimmy Nelson,501896,David Freese,R,Manny Piña,444489,0,1,1,True,2017-08-16,Caught,2B,2017,2018,27.1
+13,1820,1B,2B,Stolen Base 2B,605137,Josh Bell,502624,Chase Anderson,553869,Elias Díaz,R,Jett Bandy,542908,0,1,1,True,2017-06-22,Stolen,2B,2017,2018,27.1
+14,2838,1B,,Caught Stealing 2B,605137,Josh Bell,607237,Amir Garrett,594838,Phil Gosselin,L,Tucker Barnhart,571466,3,2,7,True,2017-05-01,Caught,2B,2017,2018,27.1
+15,2860,1B,2B,Stolen Base 2B,605137,Josh Bell,430661,Dustin McGowan,457705,Andrew McCutchen,R,A.J. Ellis,454560,2,3,5,True,2017-04-30,Stolen,2B,2017,2018,27.1
+16,4691,1B,,Caught Stealing 2B,605137,Josh Bell,453562,Jake Arrieta,570256,Gregory Polanco,R,Willson Contreras,575929,0,0,1,True,2016-08-29,Caught,2B,2016,2017,27.2
+17,656,1B,,Caught Stealing 2B,605137,Josh Bell,453562,Jake Arrieta,570256,Gregory Polanco,R,Willson Contreras,575929,0,0,1,True,2016-08-29,Caught,2B,2016,2017,27.2
+18,4063,1B,,Caught Stealing 2B,605137,Josh Bell,453562,Jake Arrieta,570256,Gregory Polanco,R,Willson Contreras,575929,0,0,1,True,2016-08-29,Caught,2B,2016,2017,27.2

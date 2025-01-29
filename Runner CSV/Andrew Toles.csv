@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+585,1B,2B,Stolen Base 2B,592808,Andrew Toles,Welington Castillo,0,0,2,True,2016-07-16,Stolen,2B,2016
+2788,1B,,Caught Stealing 2B,592808,Andrew Toles,Buster Posey,0,0,1,False,2017-05-03,Caught,2B,2017
+54,1B,2B,Stolen Base 2B,592808,Andrew Toles,Nick Hundley,5,5,6,True,2018-09-29,Stolen,2B,2018

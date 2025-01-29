@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1866,1B,2B,Stolen Base 2B,455117,Martín Maldonado,Michael McKenry,6,6,7,False,2012-07-13,Stolen,2B,2012
+2855,1B,,Caught Stealing 2B,455117,Martín Maldonado,Miguel Montero,0,4,4,True,2015-05-02,Caught,2B,2015
+154,1B,2B,Stolen Base 2B,455117,Martín Maldonado,Welington Castillo,1,1,4,True,2016-08-05,Stolen,2B,2016
+1840,2B,,Caught Stealing 3B,455117,Martín Maldonado,Austin Romine,0,0,2,True,2017-06-21,Caught,3B,2017
+1918,1B,,Caught Stealing 2B,455117,Martín Maldonado,Drew Butera,5,0,6,False,2017-06-17,Caught,2B,2017
+839,1B,2B,Stolen Base 2B,455117,Martín Maldonado,Joseph Odom,2,2,4,False,2020-08-16,Stolen,2B,2020

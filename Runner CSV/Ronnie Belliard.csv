@@ -1,0 +1,50 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+554,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Wiki Gonzalez,5,6,5,True,2000-09-06,Stolen,2B,2000
+651,1B,,Caught Stealing 2B,150071,Ronnie Belliard,Ben Petrick,3,1,6,True,2000-09-03,Caught,2B,2000
+1173,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Mike Matheny,4,2,7,False,2000-08-11,Stolen,2B,2000
+1852,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Brad Ausmus,0,0,1,False,2000-07-08,Stolen,2B,2000
+2031,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Joe Girardi,4,4,12,False,2000-06-30,Stolen,2B,2000
+2216,1B,,Caught Stealing 2B,150071,Ronnie Belliard,Paul Bako,0,1,1,True,2000-06-22,Caught,2B,2000
+2371,2B,3B,Stolen Base 3B,150071,Ronnie Belliard,Brian Schneider,1,1,3,False,2000-06-14,Stolen,3B,2000
+2713,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Carlos Hernandez,5,5,7,True,2000-05-31,Stolen,2B,2000
+3345,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Damian Miller,1,0,1,False,2000-05-03,Stolen,2B,2000
+3961,1B,,Caught Stealing 2B,150071,Ronnie Belliard,Mike Matheny,1,2,7,True,2000-04-07,Caught,2B,2000
+106,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Joe Girardi,2,4,7,False,2001-06-01,Stolen,2B,2001
+864,1B,,Caught Stealing 2B,150071,Ronnie Belliard,Paul Bako,0,0,1,True,2001-05-02,Caught,2B,2001
+1310,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Benito Santiago,0,2,1,False,2001-04-13,Stolen,2B,2001
+1443,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Kelly Stinnett,3,2,5,False,2001-04-06,Stolen,2B,2001
+1507,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Chad Kreuter,0,0,5,True,2001-04-02,Stolen,2B,2001
+221,1B,,Caught Stealing 2B,150071,Ronnie Belliard,Brad Ausmus,0,1,4,False,2002-09-19,Caught,2B,2002
+1764,2B,,Caught Stealing 3B,150071,Ronnie Belliard,Jason LaRue,4,3,8,True,2002-07-04,Caught,3B,2002
+2015,2B,,Caught Stealing 3B,150071,Ronnie Belliard,Bengie Molina,1,1,1,False,2002-06-22,Caught,3B,2002
+3251,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Henry Blanco,0,3,4,False,2002-04-30,Stolen,2B,2002
+3831,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Damian Miller,1,6,8,False,2002-04-06,Stolen,2B,2002
+476,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Paul Lo Duca,7,2,3,False,2003-09-05,Stolen,2B,2003
+559,1B,,Caught Stealing 2B,150071,Ronnie Belliard,Paul Lo Duca,0,0,1,True,2003-08-31,Caught,2B,2003
+966,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Brian Schneider,0,0,1,True,2003-08-11,Stolen,2B,2003
+1117,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Jason Kendall,1,6,4,True,2003-08-03,Stolen,2B,2003
+1231,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Jason LaRue,0,0,1,True,2003-07-29,Stolen,2B,2003
+1232,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Jason LaRue,1,4,7,True,2003-07-29,Stolen,2B,2003
+1726,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Chad Moeller,2,0,5,False,2003-07-02,Stolen,2B,2003
+2658,1B,,Caught Stealing 2B,150071,Ronnie Belliard,Brian Schneider,0,2,3,False,2003-05-17,Caught,2B,2003
+3558,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Brad Ausmus,3,7,5,True,2003-04-02,Stolen,2B,2003
+21,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,John Buck,2,5,6,True,2004-09-29,Stolen,2B,2004
+268,1B,2B,Caught Stealing 3B,150071,Ronnie Belliard,Alberto Castillo,0,0,1,False,2004-09-18,Caught,3B,2004
+3398,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Benito Santiago,0,0,1,True,2004-04-11,Stolen,2B,2004
+3399,2B,3B,Stolen Base 3B,150071,Ronnie Belliard,Benito Santiago,1,1,3,True,2004-04-11,Stolen,3B,2004
+1351,1B,,Caught Stealing 2B,150071,Ronnie Belliard,Miguel Olivo,3,2,6,False,2005-07-23,Caught,2B,2005
+1559,1B,,Caught Stealing 2B,150071,Ronnie Belliard,John Flaherty,1,2,4,True,2005-07-10,Caught,2B,2005
+2550,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Javier Valentin,0,0,2,True,2005-05-20,Stolen,2B,2005
+3456,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,A.J. Pierzynski,0,2,9,True,2005-04-06,Stolen,2B,2005
+118,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Paul Lo Duca,3,6,7,True,2007-09-25,Stolen,2B,2007
+1217,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Bengie Molina,2,3,3,True,2007-08-07,Stolen,2B,2007
+3261,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Josh Bard,1,0,6,True,2007-05-01,Stolen,2B,2007
+849,1B,,Caught Stealing 2B,150071,Ronnie Belliard,Carlos Ruiz,3,4,7,True,2008-08-19,Caught,2B,2008
+1026,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Jason Kendall,0,0,3,True,2008-08-09,Stolen,2B,2008
+1087,2B,3B,Stolen Base 3B,150071,Ronnie Belliard,Chris Iannetta,0,2,7,True,2008-08-05,Stolen,3B,2008
+1210,1B,,Caught Stealing 2B,150071,Ronnie Belliard,Carlos Ruiz,3,2,4,False,2008-07-30,Caught,2B,2008
+1876,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Jeff Mathis,2,3,9,False,2008-06-23,Stolen,2B,2008
+18,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Ryan Doumit,3,5,9,True,2009-08-02,Stolen,2B,2009
+1137,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Wil Nieves,4,0,1,False,2010-08-08,Stolen,2B,2010
+2434,1B,2B,Stolen Base 2B,150071,Ronnie Belliard,Jason LaRue,10,1,5,False,2010-06-07,Stolen,2B,2010
+2947,1B,,Caught Stealing 2B,150071,Ronnie Belliard,Yorvit Torrealba,0,1,7,True,2010-05-16,Caught,2B,2010

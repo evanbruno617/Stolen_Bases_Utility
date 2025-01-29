@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+30,1B,,Caught Stealing 2B,430640,Tony Pena Jr.,Victor Martinez,3,2,4,False,2007-09-29,Caught,2B,2007
+47,1B,2B,Stolen Base 2B,430640,Tony Pena Jr.,Victor Martinez,2,3,2,False,2007-09-28,Stolen,2B,2007
+1127,1B,2B,Stolen Base 2B,430640,Tony Pena Jr.,Gregg Zaun,2,1,5,False,2007-08-11,Stolen,2B,2007
+1576,1B,,Caught Stealing 2B,430640,Tony Pena Jr.,Mike Rabelo,0,0,3,True,2007-07-22,Caught,2B,2007
+1701,1B,,Caught Stealing 2B,430640,Tony Pena Jr.,Doug Mirabelli,0,0,3,True,2007-07-17,Caught,2B,2007
+2824,2B,,Caught Stealing 3B,430640,Tony Pena Jr.,Victor Martinez,11,5,8,False,2007-05-23,Caught,3B,2007
+2993,1B,2B,Stolen Base 2B,430640,Tony Pena Jr.,Jason Kendall,0,0,3,True,2007-05-15,Stolen,2B,2007
+3238,1B,,Caught Stealing 2B,430640,Tony Pena Jr.,Mike Napoli,0,0,3,False,2007-05-02,Caught,2B,2007
+3427,1B,2B,Stolen Base 2B,430640,Tony Pena Jr.,A.J. Pierzynski,4,1,2,False,2007-04-24,Stolen,2B,2007
+3714,1B,2B,Stolen Base 2B,430640,Tony Pena Jr.,Jason Phillips,0,2,5,True,2007-04-10,Stolen,2B,2007
+2756,1B,2B,Stolen Base 2B,430640,Tony Pena Jr.,Brandon Inge,5,1,3,False,2008-05-15,Stolen,2B,2008
+2778,2B,,Caught Stealing 3B,430640,Tony Pena Jr.,Ivan Rodriguez,2,0,2,False,2008-05-14,Caught,3B,2008
+3422,1B,2B,Stolen Base 2B,430640,Tony Pena Jr.,Kenji Johjima,4,4,4,True,2008-04-15,Stolen,2B,2008
+3586,1B,2B,Stolen Base 2B,430640,Tony Pena Jr.,Jorge Posada,2,2,2,False,2008-04-08,Stolen,2B,2008

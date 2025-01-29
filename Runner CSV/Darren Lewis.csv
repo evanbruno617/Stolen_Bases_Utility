@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+255,1B,2B,Stolen Base 2B,117731,Darren Lewis,Einar Díaz,0,1,3,False,2000-09-20,Stolen,2B,2000
+465,2B,,Caught Stealing 3B,117731,Darren Lewis,Jorge Posada,0,0,1,False,2000-09-10,Caught,3B,2000
+974,1B,,Caught Stealing 2B,117731,Darren Lewis,Bill Haselman,1,0,2,False,2000-08-20,Caught,2B,2000
+1024,1B,2B,Stolen Base 2B,117731,Darren Lewis,B.J. Waszgis,5,0,4,False,2000-08-19,Stolen,2B,2000
+1111,1B,2B,Stolen Base 2B,117731,Darren Lewis,John Flaherty,3,3,9,False,2000-08-14,Stolen,2B,2000
+2200,1B,,Caught Stealing 2B,117731,Darren Lewis,Alberto Castillo,0,0,1,True,2000-06-23,Caught,2B,2000
+2447,2B,3B,Stolen Base 3B,117731,Darren Lewis,Javy Lopez,3,5,9,True,2000-06-11,Stolen,3B,2000
+2566,1B,2B,Stolen Base 2B,117731,Darren Lewis,Paul Bako,3,4,9,True,2000-06-06,Stolen,2B,2000
+2603,1B,2B,Stolen Base 2B,117731,Darren Lewis,Mike Redmond,2,3,9,True,2000-06-05,Stolen,2B,2000
+3061,1B,2B,Stolen Base 2B,117731,Darren Lewis,Darrin Fletcher,4,6,8,True,2000-05-16,Stolen,2B,2000
+3077,1B,2B,Stolen Base 2B,117731,Darren Lewis,Alberto Castillo,1,3,5,True,2000-05-15,Stolen,2B,2000
+3079,2B,3B,Stolen Base 3B,117731,Darren Lewis,Alberto Castillo,1,5,7,True,2000-05-15,Stolen,3B,2000
+3167,1B,2B,Stolen Base 2B,117731,Darren Lewis,Greg Myers,0,4,5,True,2000-05-12,Stolen,2B,2000
+1557,1B,,Caught Stealing 2B,117731,Darren Lewis,Javy Lopez,3,2,8,False,2002-07-15,Caught,2B,2002
+1779,1B,,Caught Stealing 2B,117731,Darren Lewis,Mike Redmond,2,4,8,True,2002-07-03,Caught,2B,2002
+2233,1B,,Caught Stealing 2B,117731,Darren Lewis,Brad Ausmus,0,0,1,True,2002-06-11,Caught,2B,2002
+3535,1B,2B,Stolen Base 2B,117731,Darren Lewis,Jason LaRue,5,2,8,False,2002-04-19,Stolen,2B,2002

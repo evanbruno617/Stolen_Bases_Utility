@@ -1,0 +1,4 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,408307,Carl Crawford,Adam Donachie,0,0,1,False,2010-04-01,Stolen,2B,2010
+1B,2B,Stolen Base 2B,430583,Jason Bartlett,Adam Donachie,2,0,3,False,2010-04-01,Stolen,2B,2010
+1B,2B,Stolen Base 2B,425834,B.J. Upton,Adam Donachie,3,3,6,False,2010-04-01,Stolen,2B,2010

@@ -1,0 +1,9 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1790,1B,,Caught Stealing 2B,664034,Ty France,656322,Sam Coonrod,649966,Luis Urías,R,Buster Posey,457763,2,5,9,True,2019-08-29,Caught,2B,2019,2020,25.2
+1,3346,1B,,Caught Stealing 2B,664034,Ty France,673633,Yoshihisa Hirano,622534,Manuel Margot,R,Alex Avila,488671,5,1,7,False,2019-05-22,Caught,2B,2019,2020,25.2
+2,4633,1B,,Caught Stealing 2B,664034,Ty France,656322,Sam Coonrod,649966,Luis Urías,R,Buster Posey,457763,2,5,9,True,2019-08-29,Caught,2B,2019,2020,25.2
+3,6189,1B,,Caught Stealing 2B,664034,Ty France,673633,Yoshihisa Hirano,622534,Manuel Margot,R,Alex Avila,488671,5,1,7,False,2019-05-22,Caught,2B,2019,2020,25.2
+4,6557,1B,,Caught Stealing 2B,664034,Ty France,656322,Sam Coonrod,649966,Luis Urías,R,Buster Posey,457763,2,5,9,True,2019-08-29,Caught,2B,2019,2020,25.2
+5,8113,1B,,Caught Stealing 2B,664034,Ty France,673633,Yoshihisa Hirano,622534,Manuel Margot,R,Alex Avila,488671,5,1,7,False,2019-05-22,Caught,2B,2019,2020,25.2
+6,4190,2B,3B,Stolen Base 3B,664034,Ty France,672282,Reid Detmers,606192,Teoscar Hernández,L,Logan O'Hoppe,681351,2,1,3,False,2023-04-03,Stolen,3B,2023,2024,25.1
+7,8604,2B,3B,Stolen Base 3B,664034,Ty France,672282,Reid Detmers,606192,Teoscar Hernández,L,Logan O'Hoppe,681351,2,1,3,False,2023-04-03,Stolen,3B,2023,2024,25.1

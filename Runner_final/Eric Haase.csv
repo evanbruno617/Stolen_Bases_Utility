@@ -1,0 +1,17 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,855,1B,2B,Stolen Base 2B,606992,Eric Haase,669212,Eli Morgan,622682,Victor Reyes,R,Wilson Ramos,467092,0,1,2,True,2021-08-07,Stolen,2B,2021,2022,27.9
+1,1495,1B,2B,Stolen Base 2B,606992,Eric Haase,664285,Framber Valdez,668670,Jake Rogers,L,Jason Castro,488771,1,0,2,False,2021-06-26,Stolen,2B,2021,2022,27.9
+2,1496,1B,2B,Stolen Base 2B,606992,Eric Haase,664285,Framber Valdez,668670,Jake Rogers,L,Jason Castro,488771,1,0,2,False,2021-06-25,Stolen,2B,2021,2022,27.9
+3,2779,1B,2B,Stolen Base 2B,606992,Eric Haase,669212,Eli Morgan,622682,Victor Reyes,R,Wilson Ramos,467092,0,1,2,True,2021-08-07,Stolen,2B,2021,2022,27.9
+4,3419,1B,2B,Stolen Base 2B,606992,Eric Haase,664285,Framber Valdez,668670,Jake Rogers,L,Jason Castro,488771,1,0,2,False,2021-06-26,Stolen,2B,2021,2022,27.9
+5,3420,1B,2B,Stolen Base 2B,606992,Eric Haase,664285,Framber Valdez,668670,Jake Rogers,L,Jason Castro,488771,1,0,2,False,2021-06-25,Stolen,2B,2021,2022,27.9
+6,868,1B,2B,Stolen Base 2B,606992,Eric Haase,605447,Jordan Romano,664702,Myles Straw,R,Danny Jansen,643376,5,6,8,True,2023-08-27,Stolen,2B,2023,2024,27.9
+7,2926,1B,2B,Stolen Base 2B,606992,Eric Haase,607481,Aaron Bummer,408234,Miguel Cabrera,L,Yasmani Grandal,518735,5,3,7,False,2023-05-27,Stolen,2B,2023,2024,27.9
+8,3425,1B,2B,Stolen Base 2B,606992,Eric Haase,656756,Jordan Montgomery,570731,Jonathan Schoop,L,Andrew Knizner,668800,0,2,1,True,2023-05-05,Stolen,2B,2023,2024,27.9
+9,3707,1B,,Caught Stealing 2B,606992,Eric Haase,607067,Colin Rea,668731,Akil Baddoo,R,William Contreras,661388,1,0,3,True,2023-04-24,Caught,2B,2023,2024,27.9
+10,4147,1B,2B,Stolen Base 2B,606992,Eric Haase,664299,Cristian Javier,665155,Nick Maton,R,César Salazar,663967,4,1,5,True,2023-04-05,Stolen,2B,2023,2024,27.9
+11,5282,1B,2B,Stolen Base 2B,606992,Eric Haase,605447,Jordan Romano,664702,Myles Straw,R,Danny Jansen,643376,5,6,8,True,2023-08-27,Stolen,2B,2023,2024,27.9
+12,7340,1B,2B,Stolen Base 2B,606992,Eric Haase,607481,Aaron Bummer,408234,Miguel Cabrera,L,Yasmani Grandal,518735,5,3,7,False,2023-05-27,Stolen,2B,2023,2024,27.9
+13,7839,1B,2B,Stolen Base 2B,606992,Eric Haase,656756,Jordan Montgomery,570731,Jonathan Schoop,L,Andrew Knizner,668800,0,2,1,True,2023-05-05,Stolen,2B,2023,2024,27.9
+14,8121,1B,,Caught Stealing 2B,606992,Eric Haase,607067,Colin Rea,668731,Akil Baddoo,R,William Contreras,661388,1,0,3,True,2023-04-24,Caught,2B,2023,2024,27.9
+15,8561,1B,2B,Stolen Base 2B,606992,Eric Haase,664299,Cristian Javier,665155,Nick Maton,R,César Salazar,663967,4,1,5,True,2023-04-05,Stolen,2B,2023,2024,27.9

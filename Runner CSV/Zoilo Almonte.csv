@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1570,1B,,Caught Stealing 2B,501660,Zoilo Almonte,Ryan Doumit,1,1,4,False,2013-07-13,Caught,2B,2013
+1812,1B,2B,Stolen Base 2B,501660,Zoilo Almonte,Ryan Doumit,3,3,4,True,2013-07-01,Stolen,2B,2013
+1877,1B,2B,Stolen Base 2B,501660,Zoilo Almonte,Matt Wieters,0,1,2,True,2013-06-28,Stolen,2B,2013
+1946,1B,2B,Stolen Base 2B,501660,Zoilo Almonte,A.J. Pierzynski,1,2,4,False,2013-06-25,Stolen,2B,2013
+2614,1B,2B,Stolen Base 2B,501660,Zoilo Almonte,Tyler Flowers,2,0,6,True,2014-05-22,Stolen,2B,2014

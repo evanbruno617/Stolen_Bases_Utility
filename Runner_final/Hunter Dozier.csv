@@ -1,0 +1,47 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,199,1B,2B,Stolen Base 2B,641531,Hunter Dozier,605288,Adrian Houser,460086,Alex Gordon,R,Jacob Nottingham,641924,0,3,1,True,2020-09-18,Stolen,2B,2020,2021,28.2
+1,374,1B,2B,Stolen Base 2B,641531,Hunter Dozier,650644,Aaron Civale,596748,Maikel Franco,R,Austin Hedges,595978,0,3,3,True,2020-09-10,Stolen,2B,2020,2021,28.2
+2,593,1B,2B,Stolen Base 2B,641531,Hunter Dozier,656302,Dylan Cease,656811,Ryan O'Hearn,R,Yasmani Grandal,518735,0,0,1,True,2020-08-29,Stolen,2B,2020,2021,28.2
+3,823,1B,2B,Stolen Base 2B,641531,Hunter Dozier,605538,Matt Wisler,643436,Ryan McBroom,R,Mitch Garver,641598,0,0,2,True,2020-08-17,Stolen,2B,2020,2021,28.2
+4,3042,1B,2B,Stolen Base 2B,641531,Hunter Dozier,605288,Adrian Houser,460086,Alex Gordon,R,Jacob Nottingham,641924,0,3,1,True,2020-09-18,Stolen,2B,2020,2021,28.2
+5,3217,1B,2B,Stolen Base 2B,641531,Hunter Dozier,650644,Aaron Civale,596748,Maikel Franco,R,Austin Hedges,595978,0,3,3,True,2020-09-10,Stolen,2B,2020,2021,28.2
+6,3436,1B,2B,Stolen Base 2B,641531,Hunter Dozier,656302,Dylan Cease,656811,Ryan O'Hearn,R,Yasmani Grandal,518735,0,0,1,True,2020-08-29,Stolen,2B,2020,2021,28.2
+7,3666,1B,2B,Stolen Base 2B,641531,Hunter Dozier,605538,Matt Wisler,643436,Ryan McBroom,R,Mitch Garver,641598,0,0,2,True,2020-08-17,Stolen,2B,2020,2021,28.2
+8,4966,1B,2B,Stolen Base 2B,641531,Hunter Dozier,605288,Adrian Houser,460086,Alex Gordon,R,Jacob Nottingham,641924,0,3,1,True,2020-09-18,Stolen,2B,2020,2021,28.2
+9,5141,1B,2B,Stolen Base 2B,641531,Hunter Dozier,650644,Aaron Civale,596748,Maikel Franco,R,Austin Hedges,595978,0,3,3,True,2020-09-10,Stolen,2B,2020,2021,28.2
+10,5360,1B,2B,Stolen Base 2B,641531,Hunter Dozier,656302,Dylan Cease,656811,Ryan O'Hearn,R,Yasmani Grandal,518735,0,0,1,True,2020-08-29,Stolen,2B,2020,2021,28.2
+11,5590,1B,2B,Stolen Base 2B,641531,Hunter Dozier,605538,Matt Wisler,643436,Ryan McBroom,R,Mitch Garver,641598,0,0,2,True,2020-08-17,Stolen,2B,2020,2021,28.2
+12,1704,2B,,Caught Stealing 3B,641531,Hunter Dozier,621385,Daniel Stumpf,656811,Ryan O'Hearn,L,Jake Rogers,668670,5,3,7,False,2019-09-04,Caught,3B,2019,2020,27.9
+13,1914,1B,2B,Stolen Base 2B,641531,Hunter Dozier,519443,Brandon Workman,596144,Cheslor Cuthbert,R,Christian Vázquez,543877,4,4,9,True,2019-08-22,Stolen,2B,2019,2020,27.9
+14,2122,1B,2B,Stolen Base 2B,641531,Hunter Dozier,519443,Brandon Workman,596144,Cheslor Cuthbert,R,Christian Vázquez,543877,4,4,9,True,2019-08-07,Stolen,2B,2019,2020,27.9
+15,3682,2B,3B,Stolen Base 3B,641531,Hunter Dozier,592773,Ryne Stanek,572008,Chris Owings,R,Michael Pérez,605421,3,0,1,False,2019-05-01,Stolen,3B,2019,2020,27.9
+16,3941,1B,,Caught Stealing 2B,641531,Hunter Dozier,544365,Manny Bañuelos,656811,Ryan O'Hearn,L,Welington Castillo,456078,3,4,8,True,2019-04-15,Caught,2B,2019,2020,27.9
+17,4547,2B,,Caught Stealing 3B,641531,Hunter Dozier,621385,Daniel Stumpf,656811,Ryan O'Hearn,L,Jake Rogers,668670,5,3,7,False,2019-09-04,Caught,3B,2019,2020,27.9
+18,4757,1B,2B,Stolen Base 2B,641531,Hunter Dozier,519443,Brandon Workman,596144,Cheslor Cuthbert,R,Christian Vázquez,543877,4,4,9,True,2019-08-22,Stolen,2B,2019,2020,27.9
+19,4965,1B,2B,Stolen Base 2B,641531,Hunter Dozier,519443,Brandon Workman,596144,Cheslor Cuthbert,R,Christian Vázquez,543877,4,4,9,True,2019-08-07,Stolen,2B,2019,2020,27.9
+20,6525,2B,3B,Stolen Base 3B,641531,Hunter Dozier,592773,Ryne Stanek,572008,Chris Owings,R,Michael Pérez,605421,3,0,1,False,2019-05-01,Stolen,3B,2019,2020,27.9
+21,6784,1B,,Caught Stealing 2B,641531,Hunter Dozier,544365,Manny Bañuelos,656811,Ryan O'Hearn,L,Welington Castillo,456078,3,4,8,True,2019-04-15,Caught,2B,2019,2020,27.9
+22,6471,2B,,Caught Stealing 3B,641531,Hunter Dozier,621385,Daniel Stumpf,656811,Ryan O'Hearn,L,Jake Rogers,668670,5,3,7,False,2019-09-04,Caught,3B,2019,2020,27.9
+23,6681,1B,2B,Stolen Base 2B,641531,Hunter Dozier,519443,Brandon Workman,596144,Cheslor Cuthbert,R,Christian Vázquez,543877,4,4,9,True,2019-08-22,Stolen,2B,2019,2020,27.9
+24,6889,1B,2B,Stolen Base 2B,641531,Hunter Dozier,519443,Brandon Workman,596144,Cheslor Cuthbert,R,Christian Vázquez,543877,4,4,9,True,2019-08-07,Stolen,2B,2019,2020,27.9
+25,8449,2B,3B,Stolen Base 3B,641531,Hunter Dozier,592773,Ryne Stanek,572008,Chris Owings,R,Michael Pérez,605421,3,0,1,False,2019-05-01,Stolen,3B,2019,2020,27.9
+26,8708,1B,,Caught Stealing 2B,641531,Hunter Dozier,544365,Manny Bañuelos,656811,Ryan O'Hearn,L,Welington Castillo,456078,3,4,8,True,2019-04-15,Caught,2B,2019,2020,27.9
+27,49,1B,2B,Stolen Base 2B,641531,Hunter Dozier,650644,Aaron Civale,593160,Whit Merrifield,R,Roberto Pérez,547379,3,3,5,False,2021-09-28,Stolen,2B,2021,2022,27.9
+28,78,1B,,Caught Stealing 2B,641531,Hunter Dozier,502706,Derek Holland,664728,Kyle Isbel,L,Eric Haase,606992,0,2,5,True,2021-09-26,Caught,2B,2021,2022,27.9
+29,581,1B,,Caught Stealing 2B,641531,Hunter Dozier,621121,Lance McCullers Jr.,656811,Ryan O'Hearn,R,Jason Castro,488771,1,1,4,True,2021-08-25,Caught,2B,2021,2022,27.9
+30,795,1B,2B,Stolen Base 2B,641531,Hunter Dozier,476595,Lucas Luetge,656896,Emmanuel Rivera,L,Rob Brantly,542963,1,3,2,False,2021-08-11,Stolen,2B,2021,2022,27.9
+31,984,1B,2B,Stolen Base 2B,641531,Hunter Dozier,605447,Jordan Romano,656811,Ryan O'Hearn,R,Alejandro Kirk,672386,6,3,9,True,2021-07-30,Stolen,2B,2021,2022,27.9
+32,1017,1B,,Caught Stealing 2B,641531,Hunter Dozier,625643,Reynaldo López,572191,Michael A. Taylor,R,Seby Zavala,664874,3,1,7,False,2021-07-27,Caught,2B,2021,2022,27.9
+33,2584,1B,2B,Stolen Base 2B,641531,Hunter Dozier,592662,Robbie Ray,572191,Michael A. Taylor,L,Alejandro Kirk,672386,0,0,5,False,2021-04-18,Stolen,2B,2021,2022,27.9
+34,1973,1B,2B,Stolen Base 2B,641531,Hunter Dozier,650644,Aaron Civale,593160,Whit Merrifield,R,Roberto Pérez,547379,3,3,5,False,2021-09-28,Stolen,2B,2021,2022,27.9
+35,2002,1B,,Caught Stealing 2B,641531,Hunter Dozier,502706,Derek Holland,664728,Kyle Isbel,L,Eric Haase,606992,0,2,5,True,2021-09-26,Caught,2B,2021,2022,27.9
+36,2505,1B,,Caught Stealing 2B,641531,Hunter Dozier,621121,Lance McCullers Jr.,656811,Ryan O'Hearn,R,Jason Castro,488771,1,1,4,True,2021-08-25,Caught,2B,2021,2022,27.9
+37,2719,1B,2B,Stolen Base 2B,641531,Hunter Dozier,476595,Lucas Luetge,656896,Emmanuel Rivera,L,Rob Brantly,542963,1,3,2,False,2021-08-11,Stolen,2B,2021,2022,27.9
+38,2908,1B,2B,Stolen Base 2B,641531,Hunter Dozier,605447,Jordan Romano,656811,Ryan O'Hearn,R,Alejandro Kirk,672386,6,3,9,True,2021-07-30,Stolen,2B,2021,2022,27.9
+39,2941,1B,,Caught Stealing 2B,641531,Hunter Dozier,625643,Reynaldo López,572191,Michael A. Taylor,R,Seby Zavala,664874,3,1,7,False,2021-07-27,Caught,2B,2021,2022,27.9
+40,4508,1B,2B,Stolen Base 2B,641531,Hunter Dozier,592662,Robbie Ray,572191,Michael A. Taylor,L,Alejandro Kirk,672386,0,0,5,False,2021-04-18,Stolen,2B,2021,2022,27.9
+41,474,1B,,Caught Stealing 2B,641531,Hunter Dozier,592789,Noah Syndergaard,664728,Kyle Isbel,R,Kurt Suzuki,435559,1,2,4,True,2022-06-20,Caught,2B,2022,2023,28.3
+42,477,1B,2B,Stolen Base 2B,641531,Hunter Dozier,592789,Noah Syndergaard,664728,Kyle Isbel,R,Kurt Suzuki,435559,2,2,7,True,2022-06-20,Stolen,2B,2022,2023,28.3
+43,1147,2B,,Caught Stealing 3B,641531,Hunter Dozier,596295,Austin Gomber,656896,Emmanuel Rivera,L,Elias Díaz,553869,0,0,2,True,2022-05-15,Caught,3B,2022,2023,28.3
+44,1201,1B,2B,Stolen Base 2B,641531,Hunter Dozier,621368,Taylor Hearn,656896,Emmanuel Rivera,L,Jonah Heim,641680,1,0,4,True,2022-05-12,Stolen,2B,2022,2023,28.3
+45,1823,1B,,Caught Stealing 2B,641531,Hunter Dozier,663474,Triston McKenzie,572191,Michael A. Taylor,R,Austin Hedges,595978,1,1,7,False,2022-04-07,Caught,2B,2022,2023,28.3

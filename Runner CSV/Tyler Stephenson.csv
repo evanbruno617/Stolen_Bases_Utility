@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2692,1B,2B,Stolen Base 2B,663886,Tyler Stephenson,Omar Narváez,0,3,1,True,2022-05-05,Stolen,2B,2022
+3293,1B,,Caught Stealing 2B,663886,Tyler Stephenson,Francisco Alvarez,1,0,1,False,2023-05-10,Caught,2B,2023

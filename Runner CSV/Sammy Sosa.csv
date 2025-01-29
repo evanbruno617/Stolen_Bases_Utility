@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+306,1B,,Caught Stealing 2B,122544,Sammy Sosa,Mike Matheny,1,2,8,True,2000-09-17,Caught,2B,2000
+1332,1B,2B,Stolen Base 2B,122544,Sammy Sosa,Ben Davis,8,9,6,True,2000-08-04,Stolen,2B,2000
+2086,1B,2B,Stolen Base 2B,122544,Sammy Sosa,Jason Kendall,0,0,1,True,2000-06-28,Stolen,2B,2000
+2231,2B,3B,Stolen Base 3B,122544,Sammy Sosa,Javy Lopez,1,3,8,True,2000-06-21,Stolen,3B,2000
+2695,1B,,Caught Stealing 2B,122544,Sammy Sosa,Brad Ausmus,0,0,2,False,2000-06-02,Caught,2B,2000
+2708,1B,2B,Stolen Base 2B,122544,Sammy Sosa,Javy Lopez,4,0,5,False,2000-06-01,Stolen,2B,2000
+3386,1B,,Caught Stealing 2B,122544,Sammy Sosa,Mitch Meluskey,0,0,1,False,2000-05-02,Caught,2B,2000
+3491,1B,,Caught Stealing 2B,122544,Sammy Sosa,Kelly Stinnett,0,0,6,False,2000-04-28,Caught,2B,2000
+3496,1B,2B,Stolen Base 2B,122544,Sammy Sosa,Tony Eusebio,0,4,1,True,2000-04-27,Stolen,2B,2000
+3517,1B,2B,Stolen Base 2B,122544,Sammy Sosa,Mitch Meluskey,1,2,3,True,2000-04-26,Stolen,2B,2000
+3742,1B,2B,Stolen Base 2B,122544,Sammy Sosa,Paul Bako,1,0,1,False,2000-04-16,Stolen,2B,2000
+2957,1B,2B,Stolen Base 2B,122544,Sammy Sosa,Mike DiFelice,0,0,1,True,2002-05-13,Stolen,2B,2002
+3137,1B,2B,Stolen Base 2B,122544,Sammy Sosa,Chad Kreuter,0,3,8,True,2002-05-05,Stolen,2B,2002
+1,1B,2B,Stolen Base 2B,122544,Sammy Sosa,Javy Lopez,1,4,7,True,2003-09-30,Stolen,2B,2003
+2876,1B,,Caught Stealing 2B,122544,Sammy Sosa,Keith Osik,1,0,3,False,2003-05-07,Caught,2B,2003
+1348,1B,,Caught Stealing 2B,122544,Sammy Sosa,Toby Hall,1,1,4,True,2005-07-23,Caught,2B,2005
+3401,1B,2B,Stolen Base 2B,122544,Sammy Sosa,Jorge Posada,3,5,7,True,2005-04-09,Stolen,2B,2005

@@ -1,0 +1,10 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1208,1B,,Caught Stealing 2B,518466,Jabari Blash,621389,Ty Blach,605486,Cory Spangenberg,L,Nick Hundley,460026,1,0,4,False,2017-08-30,Caught,2B,2017,2018,27.2
+1,1286,1B,2B,Stolen Base 2B,518466,Jabari Blash,628333,Odrisamer Despaigne,659275,Dinelson Lamet,R,J.T. Realmuto,592663,0,1,2,True,2017-08-26,Stolen,2B,2017,2018,27.2
+2,3383,1B,,Caught Stealing 2B,518466,Jabari Blash,520980,Pedro Báez,622534,Manuel Margot,R,Yasmani Grandal,518735,2,3,7,False,2017-05-05,Caught,2B,2017,2018,27.2
+3,580,1B,,Caught Stealing 2B,518466,Jabari Blash,621389,Ty Blach,605486,Cory Spangenberg,L,Nick Hundley,460026,1,0,4,False,2017-08-30,Caught,2B,2017,2018,27.2
+4,658,1B,2B,Stolen Base 2B,518466,Jabari Blash,628333,Odrisamer Despaigne,659275,Dinelson Lamet,R,J.T. Realmuto,592663,0,1,2,True,2017-08-26,Stolen,2B,2017,2018,27.2
+5,2755,1B,,Caught Stealing 2B,518466,Jabari Blash,520980,Pedro Báez,622534,Manuel Margot,R,Yasmani Grandal,518735,2,3,7,False,2017-05-05,Caught,2B,2017,2018,27.2
+6,5198,1B,2B,Stolen Base 2B,518466,Jabari Blash,605200,Zach Davies,519083,Derek Norris,R,Martín Maldonado,455117,1,1,4,False,2016-08-02,Stolen,2B,2016,2017,27.6
+7,1163,1B,2B,Stolen Base 2B,518466,Jabari Blash,605200,Zach Davies,519083,Derek Norris,R,Martín Maldonado,455117,1,1,4,False,2016-08-02,Stolen,2B,2016,2017,27.6
+8,4570,1B,2B,Stolen Base 2B,518466,Jabari Blash,605200,Zach Davies,519083,Derek Norris,R,Martín Maldonado,455117,1,1,4,False,2016-08-02,Stolen,2B,2016,2017,27.6

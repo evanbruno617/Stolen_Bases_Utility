@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1080,1B,,Caught Stealing 2B,458679,Josh Bell,Chris Gimenez,0,1,2,True,2010-08-11,Caught,2B,2010
+268,1B,,Caught Stealing 2B,605137,Josh Bell,Tucker Barnhart,0,0,4,True,2017-09-17,Caught,2B,2017
+415,1B,,Caught Stealing 2B,605137,Josh Bell,Yadier Molina,1,0,4,True,2017-09-08,Caught,2B,2017
+870,1B,,Caught Stealing 2B,605137,Josh Bell,Manny Piña,0,1,1,True,2017-08-16,Caught,2B,2017
+1819,1B,2B,Stolen Base 2B,605137,Josh Bell,Jett Bandy,0,1,1,True,2017-06-22,Stolen,2B,2017
+2837,1B,,Caught Stealing 2B,605137,Josh Bell,Tucker Barnhart,3,2,7,True,2017-05-01,Caught,2B,2017
+2859,1B,2B,Stolen Base 2B,605137,Josh Bell,A.J. Ellis,2,3,5,True,2017-04-30,Stolen,2B,2017
+93,1B,2B,Stolen Base 2B,605137,Josh Bell,Willson Contreras,2,0,3,True,2018-09-27,Stolen,2B,2018
+223,1B,,Caught Stealing 2B,605137,Josh Bell,Salvador Perez,2,1,6,False,2018-09-19,Caught,2B,2018
+285,1B,,Caught Stealing 2B,605137,Josh Bell,Erik Kratz,0,2,6,True,2018-09-16,Caught,2B,2018
+301,1B,2B,Stolen Base 2B,605137,Josh Bell,Erik Kratz,1,3,6,True,2018-09-15,Stolen,2B,2018
+1464,1B,,Caught Stealing 2B,605137,Josh Bell,Erik Kratz,2,0,2,False,2018-07-14,Caught,2B,2018
+3329,1B,,Caught Stealing 2B,605137,Josh Bell,James McCann,2,3,3,True,2018-04-01,Caught,2B,2018
+3123,1B,,Caught Stealing 2B,605137,Josh Bell,Tomás Nido,1,2,7,False,2022-04-10,Caught,2B,2022
+4205,1B,,Caught Stealing 2B,605137,Josh Bell,Cal Raleigh,1,3,3,True,2023-04-02,Caught,2B,2023

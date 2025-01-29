@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+97,1B,2B,Stolen Base 2B,518408,Matt Angle,Ryan Lavarnway,0,0,1,False,2011-09-26,Stolen,2B,2011
+217,1B,2B,Stolen Base 2B,518408,Matt Angle,Jason Varitek,4,6,9,True,2011-09-21,Stolen,2B,2011
+279,1B,2B,Stolen Base 2B,518408,Matt Angle,Jason Varitek,0,0,1,True,2011-09-19,Stolen,2B,2011
+282,1B,2B,Stolen Base 2B,518408,Matt Angle,Jason Varitek,11,5,4,True,2011-09-19,Stolen,2B,2011
+329,1B,2B,Stolen Base 2B,518408,Matt Angle,Bobby Wilson,5,0,4,False,2011-09-17,Stolen,2B,2011
+506,1B,,Caught Stealing 2B,518408,Matt Angle,José Molina,2,2,2,True,2011-09-10,Caught,2B,2011
+571,1B,2B,Stolen Base 2B,518408,Matt Angle,Russell Martin,0,0,1,True,2011-09-07,Stolen,2B,2011
+575,1B,2B,Stolen Base 2B,518408,Matt Angle,Russell Martin,4,4,11,True,2011-09-07,Stolen,2B,2011
+591,1B,2B,Stolen Base 2B,518408,Matt Angle,Francisco Cervelli,0,0,3,True,2011-09-06,Stolen,2B,2011
+624,1B,2B,Stolen Base 2B,518408,Matt Angle,Russell Martin,11,10,9,True,2011-09-05,Stolen,2B,2011
+625,2B,3B,Stolen Base 3B,518408,Matt Angle,Russell Martin,11,10,9,True,2011-09-05,Stolen,3B,2011
+857,2B,3B,Stolen Base 3B,518408,Matt Angle,Russell Martin,4,0,2,False,2011-08-26,Stolen,3B,2011

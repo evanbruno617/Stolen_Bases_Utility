@@ -1,0 +1,13 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,,Caught Stealing 2B,111851,Orlando Cabrera,Angel Pena,0,0,1,False,2001-05-15,Caught,2B,2001
+1B,2B,Stolen Base 2B,112116,Luis Castillo,Angel Pena,0,1,3,True,2001-05-10,Stolen,2B,2001
+1B,,Caught Stealing 2B,112116,Luis Castillo,Angel Pena,3,6,8,True,2001-05-08,Caught,2B,2001
+1B,,Caught Stealing 2B,124695,Eric Young Sr.,Angel Pena,4,0,5,False,2001-05-05,Caught,2B,2001
+1B,2B,Stolen Base 2B,121252,Ruben Rivera,Angel Pena,2,1,2,False,2001-05-01,Stolen,2B,2001
+2B,3B,Stolen Base 3B,121009,Pokey Reese,Angel Pena,2,1,2,False,2001-05-01,Stolen,3B,2001
+2B,3B,Stolen Base 3B,121668,Deion Sanders,Angel Pena,5,1,5,False,2001-05-01,Stolen,3B,2001
+1B,2B,Stolen Base 2B,121409,Scott Rolen,Angel Pena,0,2,1,True,2001-04-28,Stolen,2B,2001
+1B,,Caught Stealing 2B,116974,Jason Kendall,Angel Pena,0,1,3,True,2001-04-25,Caught,2B,2001
+3B,,Caught Stealing Home,117148,Ryan Klesko,Angel Pena,0,1,3,True,2001-04-21,Caught,Home,2001
+1B,2B,Stolen Base 2B,115749,Rickey Henderson,Angel Pena,0,1,5,True,2001-04-21,Stolen,2B,2001
+1B,2B,Stolen Base 2B,124523,Tony Womack,Angel Pena,4,11,7,False,2001-04-11,Stolen,2B,2001

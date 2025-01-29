@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,929,1B,2B,Stolen Base 2B,676116,Ryan Noda,669424,Jimmy Lambert,680869,Zack Gelof,R,Korey Lee,686676,5,7,7,True,2023-08-24,Stolen,2B,2023,2024,27.0
+1,3108,1B,2B,Stolen Base 2B,676116,Ryan Noda,606160,Rafael Montero,667670,Brent Rooker,R,Martín Maldonado,455117,4,1,7,True,2023-05-19,Stolen,2B,2023,2024,27.0
+2,3909,1B,2B,Stolen Base 2B,676116,Ryan Noda,493603,Adam Ottavino,668843,Conner Capel,R,Francisco Alvarez,682626,2,3,8,False,2023-04-15,Stolen,2B,2023,2024,27.0
+3,5343,1B,2B,Stolen Base 2B,676116,Ryan Noda,669424,Jimmy Lambert,680869,Zack Gelof,R,Korey Lee,686676,5,7,7,True,2023-08-24,Stolen,2B,2023,2024,27.0
+4,7522,1B,2B,Stolen Base 2B,676116,Ryan Noda,606160,Rafael Montero,667670,Brent Rooker,R,Martín Maldonado,455117,4,1,7,True,2023-05-19,Stolen,2B,2023,2024,27.0
+5,8323,1B,2B,Stolen Base 2B,676116,Ryan Noda,493603,Adam Ottavino,668843,Conner Capel,R,Francisco Alvarez,682626,2,3,8,False,2023-04-15,Stolen,2B,2023,2024,27.0

@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+183,1B,,Caught Stealing 2B,434567,Geovany Soto,Jason LaRue,5,4,6,False,2008-09-20,Caught,2B,2008
+977,1B,2B,Stolen Base 2B,434567,Geovany Soto,A.J. Pierzynski,0,0,4,False,2009-06-18,Stolen,2B,2009
+520,1B,,Caught Stealing 2B,434567,Geovany Soto,Jason Castro,3,4,3,False,2010-09-06,Caught,2B,2010
+450,1B,2B,Stolen Base 2B,434567,Geovany Soto,Carlos Santana,4,0,4,False,2012-09-11,Stolen,2B,2012
+433,1B,2B,Stolen Base 2B,434567,Geovany Soto,Hank Conger,1,1,4,True,2013-09-08,Stolen,2B,2013
+2378,1B,,Caught Stealing 2B,434567,Geovany Soto,George Kottaras,1,0,5,False,2013-06-02,Caught,2B,2013
+986,2B,,Caught Stealing 3B,434567,Geovany Soto,Salvador Perez,3,2,5,True,2015-08-08,Caught,3B,2015

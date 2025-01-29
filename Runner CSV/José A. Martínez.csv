@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+173,1B,2B,Stolen Base 2B,500874,José A. Martínez,Elias Díaz,0,2,3,True,2017-09-22,Stolen,2B,2017
+351,1B,2B,Stolen Base 2B,500874,José A. Martínez,Stuart Turner,10,4,6,False,2017-09-12,Stolen,2B,2017
+967,1B,2B,Stolen Base 2B,500874,José A. Martínez,Drew Butera,0,1,4,False,2017-08-10,Stolen,2B,2017
+3019,1B,2B,Stolen Base 2B,500874,José A. Martínez,Jett Bandy,1,2,7,True,2017-04-22,Stolen,2B,2017
+2608,1B,,Caught Stealing 2B,500874,José A. Martínez,Raffy Lopez,0,2,6,True,2018-05-10,Caught,2B,2018
+3106,1B,,Caught Stealing 2B,500874,José A. Martínez,Devin Mesoraco,0,1,2,True,2018-04-13,Caught,2B,2018
+503,1B,2B,Stolen Base 2B,500874,José A. Martínez,Tucker Barnhart,2,3,7,False,2019-09-01,Stolen,2B,2019
+960,1B,2B,Stolen Base 2B,500874,José A. Martínez,Willson Contreras,6,0,7,False,2019-08-01,Stolen,2B,2019
+2522,1B,2B,Stolen Base 2B,500874,José A. Martínez,Yasmani Grandal,5,1,7,False,2019-04-24,Stolen,2B,2019

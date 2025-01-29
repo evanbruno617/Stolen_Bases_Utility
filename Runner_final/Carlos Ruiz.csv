@@ -1,0 +1,14 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,5047,1B,2B,Stolen Base 2B,434563,Carlos Ruiz,445276,Kenley Jansen,517370,Jimmy Paredes,R,Yasmani Grandal,518735,2,3,9,True,2016-08-10,Stolen,2B,2016,2017,25.5
+1,5168,1B,2B,Stolen Base 2B,434563,Carlos Ruiz,519043,Matt Moore,517370,Jimmy Paredes,L,Trevor Brown,623143,1,1,1,False,2016-08-04,Stolen,2B,2016,2017,25.5
+2,6225,1B,2B,Stolen Base 2B,434563,Carlos Ruiz,476589,Adam Warren,517370,Jimmy Paredes,R,David Ross,424325,2,1,7,False,2016-06-07,Stolen,2B,2016,2017,25.5
+3,7340,1B,,Caught Stealing 2B,434563,Carlos Ruiz,518774,Matt Harvey,488721,Peter Bourjos,R,Kevin Plawecki,608700,0,0,2,True,2016-04-10,Caught,2B,2016,2017,25.5
+4,1012,1B,2B,Stolen Base 2B,434563,Carlos Ruiz,445276,Kenley Jansen,517370,Jimmy Paredes,R,Yasmani Grandal,518735,2,3,9,True,2016-08-10,Stolen,2B,2016,2017,25.5
+5,1133,1B,2B,Stolen Base 2B,434563,Carlos Ruiz,519043,Matt Moore,517370,Jimmy Paredes,L,Trevor Brown,623143,1,1,1,False,2016-08-04,Stolen,2B,2016,2017,25.5
+6,2190,1B,2B,Stolen Base 2B,434563,Carlos Ruiz,476589,Adam Warren,517370,Jimmy Paredes,R,David Ross,424325,2,1,7,False,2016-06-07,Stolen,2B,2016,2017,25.5
+7,3305,1B,,Caught Stealing 2B,434563,Carlos Ruiz,518774,Matt Harvey,488721,Peter Bourjos,R,Kevin Plawecki,608700,0,0,2,True,2016-04-10,Caught,2B,2016,2017,25.5
+8,4419,1B,2B,Stolen Base 2B,434563,Carlos Ruiz,445276,Kenley Jansen,517370,Jimmy Paredes,R,Yasmani Grandal,518735,2,3,9,True,2016-08-10,Stolen,2B,2016,2017,25.5
+9,4540,1B,2B,Stolen Base 2B,434563,Carlos Ruiz,519043,Matt Moore,517370,Jimmy Paredes,L,Trevor Brown,623143,1,1,1,False,2016-08-04,Stolen,2B,2016,2017,25.5
+10,5597,1B,2B,Stolen Base 2B,434563,Carlos Ruiz,476589,Adam Warren,517370,Jimmy Paredes,R,David Ross,424325,2,1,7,False,2016-06-07,Stolen,2B,2016,2017,25.5
+11,6712,1B,,Caught Stealing 2B,434563,Carlos Ruiz,518774,Matt Harvey,488721,Peter Bourjos,R,Kevin Plawecki,608700,0,0,2,True,2016-04-10,Caught,2B,2016,2017,25.5
+12,1388,1B,,Caught Stealing 2B,434563,Carlos Ruiz,150359,A.J. Burnett,457711,Sean O'Sullivan,R,Francisco Cervelli,465041,0,0,3,False,2015-05-12,Caught,2B,2015,2016,25.9

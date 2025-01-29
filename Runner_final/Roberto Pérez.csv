@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2458,1B,2B,Stolen Base 2B,547379,Roberto Pérez,570663,Hansel Robles,642708,Amed Rosario,R,Ryan Jeffers,680777,2,2,7,False,2021-04-26,Stolen,2B,2021,2022,25.2
+1,4382,1B,2B,Stolen Base 2B,547379,Roberto Pérez,570663,Hansel Robles,642708,Amed Rosario,R,Ryan Jeffers,680777,2,2,7,False,2021-04-26,Stolen,2B,2021,2022,25.2
+2,3021,1B,2B,Caught Stealing 3B,547379,Roberto Pérez,502028,Blake Wood,543706,Daniel Robertson,R,Devin Mesoraco,519023,3,2,6,False,2017-05-24,Caught,3B,2017,2018,24.6
+3,3388,1B,,Caught Stealing 2B,547379,Roberto Pérez,434628,Jason Hammel,596019,Francisco Lindor,R,Salvador Perez,521692,0,0,3,True,2017-05-05,Caught,2B,2017,2018,24.6
+4,2393,1B,2B,Caught Stealing 3B,547379,Roberto Pérez,502028,Blake Wood,543706,Daniel Robertson,R,Devin Mesoraco,519023,3,2,6,False,2017-05-24,Caught,3B,2017,2018,24.6
+5,2760,1B,,Caught Stealing 2B,547379,Roberto Pérez,434628,Jason Hammel,596019,Francisco Lindor,R,Salvador Perez,521692,0,0,3,True,2017-05-05,Caught,2B,2017,2018,24.6

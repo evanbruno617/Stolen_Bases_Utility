@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+118,1B,2B,Stolen Base 2B,276537,Chris Richard,Darrin Fletcher,2,1,7,False,2000-09-26,Stolen,2B,2000
+389,1B,2B,Stolen Base 2B,276537,Chris Richard,Bill Haselman,3,7,6,True,2000-09-13,Stolen,2B,2000
+391,1B,2B,Caught Stealing 3B,276537,Chris Richard,Bill Haselman,4,7,8,True,2000-09-13,Caught,3B,2000
+454,1B,2B,Stolen Base 2B,276537,Chris Richard,Bengie Molina,0,0,2,True,2000-09-10,Stolen,2B,2000
+509,1B,,Caught Stealing 2B,276537,Chris Richard,Bengie Molina,2,1,7,True,2000-09-08,Caught,2B,2000
+750,1B,2B,Stolen Base 2B,276537,Chris Richard,Brad Ausmus,0,0,5,False,2000-08-30,Stolen,2B,2000
+998,3B,,Caught Stealing Home,276537,Chris Richard,Héctor Ortiz,1,1,7,False,2000-08-20,Caught,Home,2000
+1307,1B,2B,Stolen Base 2B,276537,Chris Richard,Mike DiFelice,0,2,2,True,2000-08-05,Stolen,2B,2000
+1309,1B,,Caught Stealing 2B,276537,Chris Richard,Mike DiFelice,2,2,4,True,2000-08-05,Caught,2B,2000
+1344,1B,2B,Stolen Base 2B,276537,Chris Richard,John Flaherty,9,9,14,True,2000-08-04,Stolen,2B,2000
+1386,1B,,Caught Stealing 2B,276537,Chris Richard,Danny Ardoin,4,5,3,False,2000-08-02,Caught,2B,2000
+1438,1B,,Caught Stealing 2B,276537,Chris Richard,Chad Moeller,6,4,8,False,2000-07-31,Caught,2B,2000
+119,1B,2B,Stolen Base 2B,276537,Chris Richard,Tom Lampkin,0,0,1,True,2001-05-31,Stolen,2B,2001
+565,1B,2B,Stolen Base 2B,276537,Chris Richard,Jorge Posada,3,3,6,True,2001-05-13,Stolen,2B,2001
+780,2B,,Caught Stealing 3B,276537,Chris Richard,Jorge Posada,2,4,4,False,2001-05-05,Caught,3B,2001
+1290,1B,,Caught Stealing 2B,276537,Chris Richard,Mike DiFelice,0,2,2,False,2001-04-14,Caught,2B,2001
+1375,1B,,Caught Stealing 2B,276537,Chris Richard,Jason Varitek,0,0,2,True,2001-04-10,Caught,2B,2001
+12,1B,,Caught Stealing 2B,276537,Chris Richard,Jorge Posada,0,0,2,False,2002-09-29,Caught,2B,2002
+3322,1B,,Caught Stealing 2B,276537,Chris Richard,Robby Hammock,1,5,6,True,2003-04-15,Caught,2B,2003

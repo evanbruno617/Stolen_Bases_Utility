@@ -1,0 +1,27 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+466,1B,2B,Caught Stealing 3B,119948,Jose Offerman,Jorge Posada,0,0,1,False,2000-09-10,Caught,3B,2000
+1821,1B,,Caught Stealing 2B,119948,Jose Offerman,Mike Piazza,0,0,1,False,2000-07-13,Caught,2B,2000
+1988,1B,,Caught Stealing 2B,119948,Jose Offerman,Brook Fordyce,0,0,1,True,2000-07-02,Caught,2B,2000
+2089,1B,,Caught Stealing 2B,119948,Jose Offerman,Charles Johnson,0,0,1,False,2000-06-28,Caught,2B,2000
+2278,1B,,Caught Stealing 2B,119948,Jose Offerman,Chris Turner,0,0,1,False,2000-06-19,Caught,2B,2000
+3320,1B,,Caught Stealing 2B,119948,Jose Offerman,Mike DiFelice,1,1,3,False,2000-05-05,Caught,2B,2000
+3364,1B,,Caught Stealing 2B,119948,Jose Offerman,Brad Ausmus,2,1,3,False,2000-05-03,Caught,2B,2000
+3920,1B,,Caught Stealing 2B,119948,Jose Offerman,Bengie Molina,0,0,1,True,2000-04-08,Caught,2B,2000
+65,1B,,Caught Stealing 2B,119948,Jose Offerman,Darrin Fletcher,4,5,7,True,2001-06-03,Caught,2B,2001
+228,1B,2B,Stolen Base 2B,119948,Jose Offerman,Darrin Fletcher,4,2,6,False,2001-05-27,Stolen,2B,2001
+502,1B,,Caught Stealing 2B,119948,Jose Offerman,Brent Mayne,1,2,2,True,2002-09-06,Caught,2B,2002
+894,1B,2B,Stolen Base 2B,119948,Jose Offerman,Jorge Posada,3,6,8,False,2002-08-17,Stolen,2B,2002
+1430,2B,,Caught Stealing 3B,119948,Jose Offerman,Jorge Posada,7,8,9,True,2002-07-21,Caught,3B,2002
+1515,1B,2B,Stolen Base 2B,119948,Jose Offerman,Toby Hall,0,2,4,True,2002-07-17,Stolen,2B,2002
+1623,1B,2B,Caught Stealing 2B,119948,Jose Offerman,Darrin Fletcher,2,0,8,True,2002-07-13,Caught,2B,2002
+1902,1B,2B,Stolen Base 2B,119948,Jose Offerman,Henry Blanco,0,1,3,False,2002-06-28,Stolen,2B,2002
+2028,1B,2B,Stolen Base 2B,119948,Jose Offerman,Paul Lo Duca,1,0,3,True,2002-06-21,Stolen,2B,2002
+2318,1B,2B,Stolen Base 2B,119948,Jose Offerman,Damian Miller,2,3,9,False,2002-06-08,Stolen,2B,2002
+2565,1B,2B,Stolen Base 2B,119948,Jose Offerman,Darrin Fletcher,4,8,9,True,2002-05-27,Stolen,2B,2002
+2594,1B,,Caught Stealing 2B,119948,Jose Offerman,Jorge Posada,2,0,3,False,2002-05-26,Caught,2B,2002
+2940,1B,2B,Stolen Base 2B,119948,Jose Offerman,Ramon Hernandez,0,0,2,False,2002-05-14,Stolen,2B,2002
+2941,2B,,Caught Stealing 3B,119948,Jose Offerman,Ramon Hernandez,0,0,2,False,2002-05-14,Caught,3B,2002
+3171,1B,2B,Stolen Base 2B,119948,Jose Offerman,Toby Hall,5,7,9,True,2002-05-04,Stolen,2B,2002
+3244,1B,2B,Stolen Base 2B,119948,Jose Offerman,Brook Fordyce,4,2,3,False,2002-05-01,Stolen,2B,2002
+3245,2B,3B,Stolen Base 2B,119948,Jose Offerman,Brook Fordyce,4,2,3,False,2002-05-01,Stolen,2B,2002
+939,2B,3B,Stolen Base 3B,119948,Jose Offerman,Tim Laker,2,2,6,True,2004-08-15,Stolen,3B,2004

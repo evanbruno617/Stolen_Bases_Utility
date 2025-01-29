@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1171,1B,2B,Stolen Base 2B,669357,Nolan Gorman,Danny Jansen,0,0,3,True,2022-07-27,Stolen,2B,2022
+615,2B,3B,Stolen Base 3B,669357,Nolan Gorman,Sean Murphy,0,3,1,True,2023-09-06,Stolen,3B,2023
+1525,2B,3B,Stolen Base 3B,669357,Nolan Gorman,Miguel Amaya,2,3,6,False,2023-07-28,Stolen,3B,2023
+1730,1B,2B,Stolen Base 2B,669357,Nolan Gorman,Jacob Stallings,6,2,7,False,2023-07-19,Stolen,2B,2023
+2981,2B,3B,Stolen Base 3B,669357,Nolan Gorman,Luke Maile,0,1,8,True,2023-05-25,Stolen,3B,2023
+3369,1B,2B,Stolen Base 2B,669357,Nolan Gorman,Jake Rogers,4,6,6,False,2023-05-07,Stolen,2B,2023
+3597,1B,2B,Stolen Base 2B,669357,Nolan Gorman,Austin Barnes,0,2,1,True,2023-04-28,Stolen,2B,2023
+3719,1B,,Caught Stealing 2B,669357,Nolan Gorman,Cal Raleigh,0,2,1,True,2023-04-23,Caught,2B,2023
+3721,2B,3B,Caught Stealing 2B,669357,Nolan Gorman,Cal Raleigh,3,6,6,True,2023-04-23,Caught,2B,2023
+3963,1B,2B,Stolen Base 2B,669357,Nolan Gorman,Jason Delay,0,0,4,False,2023-04-13,Stolen,2B,2023

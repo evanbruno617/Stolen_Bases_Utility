@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+657,1B,,Caught Stealing 2B,656413,Stuart Fairchild,Keibert Ruiz,0,2,2,True,2022-08-26,Caught,2B,2022
+132,1B,,Caught Stealing 2B,656413,Stuart Fairchild,Bo Naylor,7,9,9,True,2023-09-26,Caught,2B,2023
+777,1B,2B,Stolen Base 2B,656413,Stuart Fairchild,Yan Gomes,2,2,9,False,2023-09-01,Stolen,2B,2023
+2034,1B,2B,Stolen Base 2B,656413,Stuart Fairchild,Keibert Ruiz,2,3,8,True,2023-07-03,Stolen,2B,2023
+2511,2B,3B,Stolen Base 3B,656413,Stuart Fairchild,Salvador Perez,1,4,2,True,2023-06-13,Stolen,3B,2023
+2737,1B,2B,Stolen Base 2B,656413,Stuart Fairchild,William Contreras,3,10,6,False,2023-06-03,Stolen,2B,2023
+2885,2B,3B,Stolen Base 3B,656413,Stuart Fairchild,Yan Gomes,0,1,2,True,2023-05-28,Stolen,3B,2023
+2910,2B,3B,Stolen Base 3B,656413,Stuart Fairchild,Yan Gomes,5,8,8,True,2023-05-27,Stolen,3B,2023
+2995,2B,3B,Stolen Base 3B,656413,Stuart Fairchild,Willson Contreras,5,0,3,False,2023-05-24,Stolen,3B,2023
+3275,1B,2B,Stolen Base 2B,656413,Stuart Fairchild,Jacob Stallings,4,2,7,True,2023-05-12,Stolen,2B,2023
+3673,1B,2B,Stolen Base 2B,656413,Stuart Fairchild,Sandy León,3,2,8,False,2023-04-26,Stolen,2B,2023
+4074,1B,2B,Stolen Base 2B,656413,Stuart Fairchild,J.T. Realmuto,4,3,9,True,2023-04-09,Stolen,2B,2023

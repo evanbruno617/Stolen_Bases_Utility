@@ -1,0 +1,4 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,453056,Jacoby Ellsbury,Wilkin Castillo,0,0,1,False,2015-04-02,Stolen,2B,2015
+1B,2B,Stolen Base 2B,592518,Manny Machado,Wilkin Castillo,1,2,7,False,2015-04-01,Stolen,2B,2015
+1B,2B,Stolen Base 2B,457477,Alejandro De Aza,Wilkin Castillo,3,2,7,False,2015-04-01,Stolen,2B,2015

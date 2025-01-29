@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+4120,1B,2B,Stolen Base 2B,570799,Christian Villanueva,Zach Zaneski,0,5,5,True,2012-04-04,Stolen,2B,2012
+1355,1B,2B,Stolen Base 2B,570799,Christian Villanueva,Devin Mesoraco,1,1,5,True,2018-07-23,Stolen,2B,2018
+1603,1B,2B,Stolen Base 2B,570799,Christian Villanueva,John Ryan Murphy,0,0,2,True,2018-07-06,Stolen,2B,2018
+2946,1B,2B,Stolen Base 2B,570799,Christian Villanueva,John Ryan Murphy,2,2,3,True,2018-04-21,Stolen,2B,2018

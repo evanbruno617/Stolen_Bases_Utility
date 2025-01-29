@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1377,2B,,Caught Stealing 3B,408236,Adrián González,Yorvit Torrealba,0,5,7,True,2009-05-31,Caught,3B,2009
+2180,1B,2B,Stolen Base 2B,408236,Adrián González,Yorvit Torrealba,0,2,6,True,2009-04-28,Stolen,2B,2009
+4409,1B,2B,Stolen Base 2B,408236,Adrián González,Yorvit Torrealba,2,4,3,True,2011-04-01,Stolen,2B,2011
+272,1B,2B,Stolen Base 2B,408236,Adrián González,Jesus Flores,6,7,9,True,2012-09-19,Stolen,2B,2012
+283,1B,2B,Stolen Base 2B,408236,Adrián González,Jesus Flores,6,7,9,True,2012-09-18,Stolen,2B,2012
+811,1B,2B,Stolen Base 2B,408236,Adrián González,Rob Brantly,1,0,1,False,2012-08-26,Stolen,2B,2012
+1057,1B,2B,Stolen Base 2B,408236,Adrián González,José Molina,5,0,7,False,2013-08-10,Stolen,2B,2013
+1942,1B,,Caught Stealing 2B,408236,Adrián González,Salvador Perez,0,1,4,True,2014-06-24,Caught,2B,2014
+2592,2B,,Caught Stealing 3B,408236,Adrián González,Nick Hundley,4,2,7,False,2015-05-14,Caught,3B,2015
+2131,1B,,Caught Stealing 2B,408236,Adrián González,Jose Lobaton,2,1,8,False,2017-06-07,Caught,2B,2017

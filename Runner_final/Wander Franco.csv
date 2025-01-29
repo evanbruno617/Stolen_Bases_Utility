@@ -1,0 +1,12 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1175,1B,,Caught Stealing 2B,677551,Wander Franco,592426,Luke Jackson,668227,Randy Arozarena,R,Stephen Vogt,519390,4,7,7,True,2021-07-18,Caught,2B,2021,2022,27.8
+1,1420,1B,2B,Stolen Base 2B,677551,Wander Franco,452657,Jon Lester,596847,Ji Man Choi,L,Yan Gomes,543228,2,2,3,True,2021-06-30,Stolen,2B,2021,2022,27.8
+2,1525,1B,2B,Stolen Base 2B,677551,Wander Franco,493603,Adam Ottavino,668227,Randy Arozarena,R,Christian Vázquez,543877,0,0,8,False,2021-06-24,Stolen,2B,2021,2022,27.8
+3,3099,1B,,Caught Stealing 2B,677551,Wander Franco,592426,Luke Jackson,668227,Randy Arozarena,R,Stephen Vogt,519390,4,7,7,True,2021-07-18,Caught,2B,2021,2022,27.8
+4,3344,1B,2B,Stolen Base 2B,677551,Wander Franco,452657,Jon Lester,596847,Ji Man Choi,L,Yan Gomes,543228,2,2,3,True,2021-06-30,Stolen,2B,2021,2022,27.8
+5,3449,1B,2B,Stolen Base 2B,677551,Wander Franco,493603,Adam Ottavino,668227,Randy Arozarena,R,Christian Vázquez,543877,0,0,8,False,2021-06-24,Stolen,2B,2021,2022,27.8
+6,207,1B,2B,Stolen Base 2B,677551,Wander Franco,570663,Hansel Robles,670623,Isaac Paredes,R,Christian Vázquez,543877,3,8,7,True,2022-07-05,Stolen,2B,2022,2023,27.5
+7,1107,1B,2B,Stolen Base 2B,677551,Wander Franco,665621,Rony García,623912,Harold Ramírez,R,Tucker Barnhart,571466,3,0,2,False,2022-05-18,Stolen,2B,2022,2023,27.5
+8,1452,1B,2B,Stolen Base 2B,677551,Wander Franco,543056,Danny Coulombe,650490,Yandy Díaz,L,Gary Sánchez,596142,6,1,7,False,2022-04-29,Stolen,2B,2022,2023,27.5
+9,1472,1B,2B,Stolen Base 2B,677551,Wander Franco,650895,Diego Castillo,650490,Yandy Díaz,R,Luis Torrens,620443,2,1,8,False,2022-04-28,Stolen,2B,2022,2023,27.5
+10,1795,1B,2B,Stolen Base 2B,677551,Wander Franco,669330,Tyler Wells,668227,Randy Arozarena,R,Robinson Chirinos,455139,0,0,1,False,2022-04-10,Stolen,2B,2022,2023,27.5

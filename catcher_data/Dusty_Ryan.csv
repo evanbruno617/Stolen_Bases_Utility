@@ -1,0 +1,24 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,276547,Dewayne Wise,Dusty Ryan,2,2,6,False,2008-09-29,Stolen,2B,2008
+1B,2B,Stolen Base 2B,493351,Alexei Ramirez,Dusty Ryan,7,2,8,False,2008-09-29,Stolen,2B,2008
+1B,2B,Stolen Base 2B,400134,Eric Hinske,Dusty Ryan,7,8,11,True,2008-09-28,Stolen,2B,2008
+1B,,Caught Stealing 2B,430203,David DeJesus,Dusty Ryan,0,1,3,True,2008-09-23,Caught,2B,2008
+1B,2B,Stolen Base 2B,429711,Franklin Gutierrez,Dusty Ryan,6,3,7,False,2008-09-20,Stolen,2B,2008
+1B,,Caught Stealing 2B,407781,Marlon Byrd,Dusty Ryan,0,1,2,False,2008-09-16,Caught,2B,2008
+1B,,Caught Stealing 2B,493351,Alexei Ramirez,Dusty Ryan,0,0,2,False,2008-09-14,Caught,2B,2008
+1B,,Caught Stealing 2B,346874,Juan Uribe,Dusty Ryan,1,0,5,False,2008-09-14,Caught,2B,2008
+2B,,Caught Stealing 3B,111851,Orlando Cabrera,Dusty Ryan,1,0,6,False,2008-09-14,Caught,3B,2008
+1B,2B,Stolen Base 2B,276547,Dewayne Wise,Dusty Ryan,2,2,6,False,2008-09-13,Stolen,2B,2008
+1B,2B,Stolen Base 2B,493351,Alexei Ramirez,Dusty Ryan,7,2,8,False,2008-09-13,Stolen,2B,2008
+1B,,Caught Stealing 2B,493351,Alexei Ramirez,Dusty Ryan,0,0,2,False,2008-09-13,Caught,2B,2008
+1B,,Caught Stealing 2B,346874,Juan Uribe,Dusty Ryan,1,0,5,False,2008-09-13,Caught,2B,2008
+2B,,Caught Stealing 3B,111851,Orlando Cabrera,Dusty Ryan,1,0,6,False,2008-09-13,Caught,3B,2008
+1B,2B,Stolen Base 2B,276547,Dewayne Wise,Dusty Ryan,2,2,6,False,2008-09-12,Stolen,2B,2008
+1B,2B,Stolen Base 2B,493351,Alexei Ramirez,Dusty Ryan,7,2,8,False,2008-09-12,Stolen,2B,2008
+1B,2B,Stolen Base 2B,452221,Eric Patterson,Dusty Ryan,2,1,8,True,2008-09-09,Stolen,2B,2008
+1B,2B,Stolen Base 2B,346857,Nick Punto,Dusty Ryan,3,2,4,False,2008-09-07,Stolen,2B,2008
+1B,2B,Stolen Base 2B,452655,Denard Span,Dusty Ryan,3,2,5,False,2008-09-07,Stolen,2B,2008
+1B,2B,Stolen Base 2B,462101,Elvis Andrus,Dusty Ryan,5,3,4,False,2009-07-28,Stolen,2B,2009
+1B,,Caught Stealing 2B,493596,Gordon Beckham,Dusty Ryan,0,1,2,True,2009-07-24,Caught,2B,2009
+1B,,Caught Stealing 2B,325392,Scott Podsednik,Dusty Ryan,1,3,5,True,2009-07-24,Caught,2B,2009
+1B,2B,Stolen Base 2B,346857,Nick Punto,Dusty Ryan,1,0,4,False,2009-07-04,Stolen,2B,2009

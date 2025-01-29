@@ -1,0 +1,11 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,788,1B,2B,Stolen Base 2B,676701,Alan Trejo,670241,Darius Vines,686668,Brenton Doyle,R,Travis d'Arnaud,518595,0,1,3,False,2023-08-30,Stolen,2B,2023,2024,26.3
+1,2748,1B,2B,Stolen Base 2B,676701,Alan Trejo,663804,Jackson Kowar,595777,Jurickson Profar,R,Salvador Perez,521692,2,6,8,True,2023-06-03,Stolen,2B,2023,2024,26.3
+2,2972,2B,3B,Stolen Base 3B,676701,Alan Trejo,608638,JT Chargois,592178,Kris Bryant,R,Nick Fortes,663743,2,2,7,False,2023-05-25,Stolen,3B,2023,2024,26.3
+3,3309,1B,2B,Stolen Base 2B,676701,Alan Trejo,664294,Dauri Moreta,686668,Brenton Doyle,R,Austin Hedges,595978,3,3,4,True,2023-05-10,Stolen,2B,2023,2024,26.3
+4,3701,1B,2B,Stolen Base 2B,676701,Alan Trejo,660853,Enyel De Los Santos,686668,Brenton Doyle,R,Mike Zunino,572287,0,5,6,True,2023-04-25,Stolen,2B,2023,2024,26.3
+5,5202,1B,2B,Stolen Base 2B,676701,Alan Trejo,670241,Darius Vines,686668,Brenton Doyle,R,Travis d'Arnaud,518595,0,1,3,False,2023-08-30,Stolen,2B,2023,2024,26.3
+6,7162,1B,2B,Stolen Base 2B,676701,Alan Trejo,663804,Jackson Kowar,595777,Jurickson Profar,R,Salvador Perez,521692,2,6,8,True,2023-06-03,Stolen,2B,2023,2024,26.3
+7,7386,2B,3B,Stolen Base 3B,676701,Alan Trejo,608638,JT Chargois,592178,Kris Bryant,R,Nick Fortes,663743,2,2,7,False,2023-05-25,Stolen,3B,2023,2024,26.3
+8,7723,1B,2B,Stolen Base 2B,676701,Alan Trejo,664294,Dauri Moreta,686668,Brenton Doyle,R,Austin Hedges,595978,3,3,4,True,2023-05-10,Stolen,2B,2023,2024,26.3
+9,8115,1B,2B,Stolen Base 2B,676701,Alan Trejo,660853,Enyel De Los Santos,686668,Brenton Doyle,R,Mike Zunino,572287,0,5,6,True,2023-04-25,Stolen,2B,2023,2024,26.3

@@ -1,0 +1,204 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,7,1B,2B,Stolen Base 2B,542932,Jon Berti,543294,Kyle Hendricks,500743,Miguel Rojas,R,Willson Contreras,575929,0,0,5,True,2020-09-30,Stolen,2B,2020,2021,29.9
+1,8,1B,2B,Stolen Base 2B,542932,Jon Berti,572193,Ryan Tepera,500743,Miguel Rojas,R,Willson Contreras,575929,1,5,8,True,2020-09-30,Stolen,2B,2020,2021,29.9
+2,54,1B,2B,Stolen Base 2B,542932,Jon Berti,665620,Deivi García,643265,Garrett Cooper,R,Gary Sánchez,596142,0,2,3,True,2020-09-26,Stolen,2B,2020,2021,29.9
+3,611,2B,,Caught Stealing 3B,542932,Jon Berti,642232,Ryan Yarbrough,605119,Brian Anderson,L,Michael Pérez,605421,0,0,1,False,2020-08-28,Caught,3B,2020,2021,29.9
+4,686,1B,2B,Stolen Base 2B,542932,Jon Berti,544727,Jeurys Familia,542583,Jesús Aguilar,R,Ali Sánchez,645305,2,0,6,False,2020-08-25,Stolen,2B,2020,2021,29.9
+5,687,2B,3B,Stolen Base 3B,542932,Jon Berti,544727,Jeurys Familia,572816,Corey Dickerson,R,Ali Sánchez,645305,2,0,6,False,2020-08-25,Stolen,3B,2020,2021,29.9
+6,688,3B,score,Stolen Base Home,542932,Jon Berti,544727,Jeurys Familia,605119,Brian Anderson,R,Ali Sánchez,645305,3,0,6,False,2020-08-25,Stolen,Home,2020,2021,29.9
+7,758,1B,2B,Stolen Base 2B,542932,Jon Berti,544727,Jeurys Familia,542583,Jesús Aguilar,R,Ali Sánchez,645305,2,0,6,False,2020-08-20,Stolen,2B,2020,2021,29.9
+8,759,2B,3B,Stolen Base 3B,542932,Jon Berti,544727,Jeurys Familia,572816,Corey Dickerson,R,Ali Sánchez,645305,2,0,6,False,2020-08-20,Stolen,3B,2020,2021,29.9
+9,760,3B,score,Stolen Base Home,542932,Jon Berti,544727,Jeurys Familia,605119,Brian Anderson,R,Ali Sánchez,645305,3,0,6,False,2020-08-20,Stolen,Home,2020,2021,29.9
+10,844,1B,2B,Stolen Base 2B,542932,Jon Berti,572362,Robbie Erlin,523253,Logan Forsythe,L,Tyler Flowers,452095,0,0,2,False,2020-08-16,Stolen,2B,2020,2021,29.9
+11,880,3B,score,Stolen Base Home,542932,Jon Berti,594795,Grant Dayton,572816,Corey Dickerson,L,Travis d'Arnaud,518595,4,2,4,False,2020-08-14,Stolen,Home,2020,2021,29.9
+12,912,1B,2B,Stolen Base 2B,542932,Jon Berti,503569,Rafael Dolis,642423,Magneuris Sierra,R,Danny Jansen,643376,11,13,10,True,2020-08-12,Stolen,2B,2020,2021,29.9
+13,961,1B,2B,Stolen Base 2B,542932,Jon Berti,594798,Jacob deGrom,572816,Corey Dickerson,R,Tomás Nido,621512,3,0,5,True,2020-08-09,Stolen,2B,2020,2021,29.9
+14,1038,1B,2B,Stolen Base 2B,542932,Jon Berti,607644,John Means,572816,Corey Dickerson,L,Pedro Severino,600474,0,0,1,True,2020-08-04,Stolen,2B,2020,2021,29.9
+15,1139,1B,2B,Stolen Base 2B,542932,Jon Berti,607644,John Means,572816,Corey Dickerson,L,Pedro Severino,600474,0,0,1,True,2020-07-29,Stolen,2B,2020,2021,29.9
+16,1239,1B,2B,Stolen Base 2B,542932,Jon Berti,503285,Darren O'Day,665862,Jazz Chisholm Jr.,R,Alex Jackson,656577,2,4,6,True,2020-07-22,Stolen,2B,2020,2021,29.9
+17,2850,1B,2B,Stolen Base 2B,542932,Jon Berti,543294,Kyle Hendricks,500743,Miguel Rojas,R,Willson Contreras,575929,0,0,5,True,2020-09-30,Stolen,2B,2020,2021,29.9
+18,2851,1B,2B,Stolen Base 2B,542932,Jon Berti,572193,Ryan Tepera,500743,Miguel Rojas,R,Willson Contreras,575929,1,5,8,True,2020-09-30,Stolen,2B,2020,2021,29.9
+19,2897,1B,2B,Stolen Base 2B,542932,Jon Berti,665620,Deivi García,643265,Garrett Cooper,R,Gary Sánchez,596142,0,2,3,True,2020-09-26,Stolen,2B,2020,2021,29.9
+20,3454,2B,,Caught Stealing 3B,542932,Jon Berti,642232,Ryan Yarbrough,605119,Brian Anderson,L,Michael Pérez,605421,0,0,1,False,2020-08-28,Caught,3B,2020,2021,29.9
+21,3529,1B,2B,Stolen Base 2B,542932,Jon Berti,544727,Jeurys Familia,542583,Jesús Aguilar,R,Ali Sánchez,645305,2,0,6,False,2020-08-25,Stolen,2B,2020,2021,29.9
+22,3530,2B,3B,Stolen Base 3B,542932,Jon Berti,544727,Jeurys Familia,572816,Corey Dickerson,R,Ali Sánchez,645305,2,0,6,False,2020-08-25,Stolen,3B,2020,2021,29.9
+23,3531,3B,score,Stolen Base Home,542932,Jon Berti,544727,Jeurys Familia,605119,Brian Anderson,R,Ali Sánchez,645305,3,0,6,False,2020-08-25,Stolen,Home,2020,2021,29.9
+24,3601,1B,2B,Stolen Base 2B,542932,Jon Berti,544727,Jeurys Familia,542583,Jesús Aguilar,R,Ali Sánchez,645305,2,0,6,False,2020-08-20,Stolen,2B,2020,2021,29.9
+25,3602,2B,3B,Stolen Base 3B,542932,Jon Berti,544727,Jeurys Familia,572816,Corey Dickerson,R,Ali Sánchez,645305,2,0,6,False,2020-08-20,Stolen,3B,2020,2021,29.9
+26,3603,3B,score,Stolen Base Home,542932,Jon Berti,544727,Jeurys Familia,605119,Brian Anderson,R,Ali Sánchez,645305,3,0,6,False,2020-08-20,Stolen,Home,2020,2021,29.9
+27,3687,1B,2B,Stolen Base 2B,542932,Jon Berti,572362,Robbie Erlin,523253,Logan Forsythe,L,Tyler Flowers,452095,0,0,2,False,2020-08-16,Stolen,2B,2020,2021,29.9
+28,3723,3B,score,Stolen Base Home,542932,Jon Berti,594795,Grant Dayton,572816,Corey Dickerson,L,Travis d'Arnaud,518595,4,2,4,False,2020-08-14,Stolen,Home,2020,2021,29.9
+29,3755,1B,2B,Stolen Base 2B,542932,Jon Berti,503569,Rafael Dolis,642423,Magneuris Sierra,R,Danny Jansen,643376,11,13,10,True,2020-08-12,Stolen,2B,2020,2021,29.9
+30,3804,1B,2B,Stolen Base 2B,542932,Jon Berti,594798,Jacob deGrom,572816,Corey Dickerson,R,Tomás Nido,621512,3,0,5,True,2020-08-09,Stolen,2B,2020,2021,29.9
+31,3881,1B,2B,Stolen Base 2B,542932,Jon Berti,607644,John Means,572816,Corey Dickerson,L,Pedro Severino,600474,0,0,1,True,2020-08-04,Stolen,2B,2020,2021,29.9
+32,3982,1B,2B,Stolen Base 2B,542932,Jon Berti,607644,John Means,572816,Corey Dickerson,L,Pedro Severino,600474,0,0,1,True,2020-07-29,Stolen,2B,2020,2021,29.9
+33,4082,1B,2B,Stolen Base 2B,542932,Jon Berti,503285,Darren O'Day,665862,Jazz Chisholm Jr.,R,Alex Jackson,656577,2,4,6,True,2020-07-22,Stolen,2B,2020,2021,29.9
+34,4774,1B,2B,Stolen Base 2B,542932,Jon Berti,543294,Kyle Hendricks,500743,Miguel Rojas,R,Willson Contreras,575929,0,0,5,True,2020-09-30,Stolen,2B,2020,2021,29.9
+35,4775,1B,2B,Stolen Base 2B,542932,Jon Berti,572193,Ryan Tepera,500743,Miguel Rojas,R,Willson Contreras,575929,1,5,8,True,2020-09-30,Stolen,2B,2020,2021,29.9
+36,4821,1B,2B,Stolen Base 2B,542932,Jon Berti,665620,Deivi García,643265,Garrett Cooper,R,Gary Sánchez,596142,0,2,3,True,2020-09-26,Stolen,2B,2020,2021,29.9
+37,5378,2B,,Caught Stealing 3B,542932,Jon Berti,642232,Ryan Yarbrough,605119,Brian Anderson,L,Michael Pérez,605421,0,0,1,False,2020-08-28,Caught,3B,2020,2021,29.9
+38,5453,1B,2B,Stolen Base 2B,542932,Jon Berti,544727,Jeurys Familia,542583,Jesús Aguilar,R,Ali Sánchez,645305,2,0,6,False,2020-08-25,Stolen,2B,2020,2021,29.9
+39,5454,2B,3B,Stolen Base 3B,542932,Jon Berti,544727,Jeurys Familia,572816,Corey Dickerson,R,Ali Sánchez,645305,2,0,6,False,2020-08-25,Stolen,3B,2020,2021,29.9
+40,5455,3B,score,Stolen Base Home,542932,Jon Berti,544727,Jeurys Familia,605119,Brian Anderson,R,Ali Sánchez,645305,3,0,6,False,2020-08-25,Stolen,Home,2020,2021,29.9
+41,5525,1B,2B,Stolen Base 2B,542932,Jon Berti,544727,Jeurys Familia,542583,Jesús Aguilar,R,Ali Sánchez,645305,2,0,6,False,2020-08-20,Stolen,2B,2020,2021,29.9
+42,5526,2B,3B,Stolen Base 3B,542932,Jon Berti,544727,Jeurys Familia,572816,Corey Dickerson,R,Ali Sánchez,645305,2,0,6,False,2020-08-20,Stolen,3B,2020,2021,29.9
+43,5527,3B,score,Stolen Base Home,542932,Jon Berti,544727,Jeurys Familia,605119,Brian Anderson,R,Ali Sánchez,645305,3,0,6,False,2020-08-20,Stolen,Home,2020,2021,29.9
+44,5611,1B,2B,Stolen Base 2B,542932,Jon Berti,572362,Robbie Erlin,523253,Logan Forsythe,L,Tyler Flowers,452095,0,0,2,False,2020-08-16,Stolen,2B,2020,2021,29.9
+45,5647,3B,score,Stolen Base Home,542932,Jon Berti,594795,Grant Dayton,572816,Corey Dickerson,L,Travis d'Arnaud,518595,4,2,4,False,2020-08-14,Stolen,Home,2020,2021,29.9
+46,5679,1B,2B,Stolen Base 2B,542932,Jon Berti,503569,Rafael Dolis,642423,Magneuris Sierra,R,Danny Jansen,643376,11,13,10,True,2020-08-12,Stolen,2B,2020,2021,29.9
+47,5728,1B,2B,Stolen Base 2B,542932,Jon Berti,594798,Jacob deGrom,572816,Corey Dickerson,R,Tomás Nido,621512,3,0,5,True,2020-08-09,Stolen,2B,2020,2021,29.9
+48,5805,1B,2B,Stolen Base 2B,542932,Jon Berti,607644,John Means,572816,Corey Dickerson,L,Pedro Severino,600474,0,0,1,True,2020-08-04,Stolen,2B,2020,2021,29.9
+49,5906,1B,2B,Stolen Base 2B,542932,Jon Berti,607644,John Means,572816,Corey Dickerson,L,Pedro Severino,600474,0,0,1,True,2020-07-29,Stolen,2B,2020,2021,29.9
+50,6006,1B,2B,Stolen Base 2B,542932,Jon Berti,503285,Darren O'Day,665862,Jazz Chisholm Jr.,R,Alex Jackson,656577,2,4,6,True,2020-07-22,Stolen,2B,2020,2021,29.9
+51,1276,1B,,Caught Stealing 2B,542932,Jon Berti,658305,Edgar García,445988,Martín Prado,R,Andrew Knapp,595284,0,4,3,True,2019-09-29,Caught,2B,2019,2020,29.2
+52,1277,1B,,Caught Stealing 2B,542932,Jon Berti,453172,Jared Hughes,445988,Martín Prado,R,Andrew Knapp,595284,3,4,8,True,2019-09-29,Caught,2B,2019,2020,29.2
+53,1323,1B,2B,Stolen Base 2B,542932,Jon Berti,592826,Vince Velasquez,500743,Miguel Rojas,R,Andrew Knapp,595284,2,4,4,True,2019-09-27,Stolen,2B,2019,2020,29.2
+54,1377,1B,2B,Stolen Base 2B,542932,Jon Berti,592789,Noah Syndergaard,500743,Miguel Rojas,R,Wilson Ramos,467092,0,0,1,True,2019-09-24,Stolen,2B,2019,2020,29.2
+55,1379,1B,2B,Stolen Base 2B,542932,Jon Berti,592789,Noah Syndergaard,500743,Miguel Rojas,R,Wilson Ramos,467092,0,2,2,True,2019-09-24,Stolen,2B,2019,2020,29.2
+56,1381,1B,2B,Stolen Base 2B,542932,Jon Berti,458677,Justin Wilson,445988,Martín Prado,L,Wilson Ramos,467092,2,4,9,True,2019-09-24,Stolen,2B,2019,2020,29.2
+57,1382,2B,3B,Stolen Base 3B,542932,Jon Berti,458677,Justin Wilson,445988,Martín Prado,L,Wilson Ramos,467092,2,4,9,True,2019-09-24,Stolen,3B,2019,2020,29.2
+58,1428,1B,2B,Stolen Base 2B,542932,Jon Berti,434671,Aníbal Sánchez,500743,Miguel Rojas,R,Yan Gomes,543228,1,1,3,False,2019-09-20,Stolen,2B,2019,2020,29.2
+59,1576,1B,2B,Stolen Base 2B,542932,Jon Berti,461829,Gio González,500743,Miguel Rojas,L,Yasmani Grandal,518735,1,1,1,False,2019-09-12,Stolen,2B,2019,2020,29.2
+60,1621,1B,2B,Stolen Base 2B,542932,Jon Berti,543351,Jay Jackson,445988,Martín Prado,R,Yasmani Grandal,518735,3,8,7,False,2019-09-09,Stolen,2B,2019,2020,29.2
+61,1720,1B,2B,Stolen Base 2B,542932,Jon Berti,605280,Clay Holmes,500743,Miguel Rojas,R,Jacob Stallings,607732,1,0,3,True,2019-09-03,Stolen,2B,2019,2020,29.2
+62,1838,1B,2B,Stolen Base 2B,542932,Jon Berti,543243,Sonny Gray,435522,Neil Walker,R,Tucker Barnhart,571466,2,1,3,False,2019-08-26,Stolen,2B,2019,2020,29.2
+63,1881,1B,2B,Stolen Base 2B,542932,Jon Berti,621107,Zach Eflin,435522,Neil Walker,R,J.T. Realmuto,592663,1,0,1,False,2019-08-24,Stolen,2B,2019,2020,29.2
+64,1895,2B,3B,Stolen Base 3B,542932,Jon Berti,601713,Nick Pivetta,434158,Curtis Granderson,R,J.T. Realmuto,592663,7,9,4,False,2019-08-23,Stolen,3B,2019,2020,29.2
+65,2102,1B,2B,Stolen Base 2B,542932,Jon Berti,527054,Julio Teheran,656371,Isan Díaz,R,Tyler Flowers,452095,0,1,3,False,2019-08-09,Stolen,2B,2019,2020,29.2
+66,2161,1B,2B,Stolen Base 2B,542932,Jon Berti,594798,Jacob deGrom,656371,Isan Díaz,R,Tomás Nido,621512,0,0,1,True,2019-08-05,Stolen,2B,2019,2020,29.2
+67,2192,1B,2B,Stolen Base 2B,542932,Jon Berti,475054,Chaz Roe,445988,Martín Prado,R,Travis d'Arnaud,518595,5,6,7,True,2019-08-03,Stolen,2B,2019,2020,29.2
+68,2193,2B,3B,Stolen Base 3B,542932,Jon Berti,475054,Chaz Roe,445988,Martín Prado,R,Travis d'Arnaud,518595,5,6,7,True,2019-08-03,Stolen,3B,2019,2020,29.2
+69,3417,1B,2B,Stolen Base 2B,542932,Jon Berti,594798,Jacob deGrom,643265,Garrett Cooper,R,Wilson Ramos,467092,2,1,3,False,2019-05-17,Stolen,2B,2019,2020,29.2
+70,4119,1B,,Caught Stealing 2B,542932,Jon Berti,658305,Edgar García,445988,Martín Prado,R,Andrew Knapp,595284,0,4,3,True,2019-09-29,Caught,2B,2019,2020,29.2
+71,4120,1B,,Caught Stealing 2B,542932,Jon Berti,453172,Jared Hughes,445988,Martín Prado,R,Andrew Knapp,595284,3,4,8,True,2019-09-29,Caught,2B,2019,2020,29.2
+72,4166,1B,2B,Stolen Base 2B,542932,Jon Berti,592826,Vince Velasquez,500743,Miguel Rojas,R,Andrew Knapp,595284,2,4,4,True,2019-09-27,Stolen,2B,2019,2020,29.2
+73,4220,1B,2B,Stolen Base 2B,542932,Jon Berti,592789,Noah Syndergaard,500743,Miguel Rojas,R,Wilson Ramos,467092,0,0,1,True,2019-09-24,Stolen,2B,2019,2020,29.2
+74,4222,1B,2B,Stolen Base 2B,542932,Jon Berti,592789,Noah Syndergaard,500743,Miguel Rojas,R,Wilson Ramos,467092,0,2,2,True,2019-09-24,Stolen,2B,2019,2020,29.2
+75,4224,1B,2B,Stolen Base 2B,542932,Jon Berti,458677,Justin Wilson,445988,Martín Prado,L,Wilson Ramos,467092,2,4,9,True,2019-09-24,Stolen,2B,2019,2020,29.2
+76,4225,2B,3B,Stolen Base 3B,542932,Jon Berti,458677,Justin Wilson,445988,Martín Prado,L,Wilson Ramos,467092,2,4,9,True,2019-09-24,Stolen,3B,2019,2020,29.2
+77,4271,1B,2B,Stolen Base 2B,542932,Jon Berti,434671,Aníbal Sánchez,500743,Miguel Rojas,R,Yan Gomes,543228,1,1,3,False,2019-09-20,Stolen,2B,2019,2020,29.2
+78,4419,1B,2B,Stolen Base 2B,542932,Jon Berti,461829,Gio González,500743,Miguel Rojas,L,Yasmani Grandal,518735,1,1,1,False,2019-09-12,Stolen,2B,2019,2020,29.2
+79,4464,1B,2B,Stolen Base 2B,542932,Jon Berti,543351,Jay Jackson,445988,Martín Prado,R,Yasmani Grandal,518735,3,8,7,False,2019-09-09,Stolen,2B,2019,2020,29.2
+80,4563,1B,2B,Stolen Base 2B,542932,Jon Berti,605280,Clay Holmes,500743,Miguel Rojas,R,Jacob Stallings,607732,1,0,3,True,2019-09-03,Stolen,2B,2019,2020,29.2
+81,4681,1B,2B,Stolen Base 2B,542932,Jon Berti,543243,Sonny Gray,435522,Neil Walker,R,Tucker Barnhart,571466,2,1,3,False,2019-08-26,Stolen,2B,2019,2020,29.2
+82,4724,1B,2B,Stolen Base 2B,542932,Jon Berti,621107,Zach Eflin,435522,Neil Walker,R,J.T. Realmuto,592663,1,0,1,False,2019-08-24,Stolen,2B,2019,2020,29.2
+83,4738,2B,3B,Stolen Base 3B,542932,Jon Berti,601713,Nick Pivetta,434158,Curtis Granderson,R,J.T. Realmuto,592663,7,9,4,False,2019-08-23,Stolen,3B,2019,2020,29.2
+84,4945,1B,2B,Stolen Base 2B,542932,Jon Berti,527054,Julio Teheran,656371,Isan Díaz,R,Tyler Flowers,452095,0,1,3,False,2019-08-09,Stolen,2B,2019,2020,29.2
+85,5004,1B,2B,Stolen Base 2B,542932,Jon Berti,594798,Jacob deGrom,656371,Isan Díaz,R,Tomás Nido,621512,0,0,1,True,2019-08-05,Stolen,2B,2019,2020,29.2
+86,5035,1B,2B,Stolen Base 2B,542932,Jon Berti,475054,Chaz Roe,445988,Martín Prado,R,Travis d'Arnaud,518595,5,6,7,True,2019-08-03,Stolen,2B,2019,2020,29.2
+87,5036,2B,3B,Stolen Base 3B,542932,Jon Berti,475054,Chaz Roe,445988,Martín Prado,R,Travis d'Arnaud,518595,5,6,7,True,2019-08-03,Stolen,3B,2019,2020,29.2
+88,6260,1B,2B,Stolen Base 2B,542932,Jon Berti,594798,Jacob deGrom,643265,Garrett Cooper,R,Wilson Ramos,467092,2,1,3,False,2019-05-17,Stolen,2B,2019,2020,29.2
+89,6043,1B,,Caught Stealing 2B,542932,Jon Berti,658305,Edgar García,445988,Martín Prado,R,Andrew Knapp,595284,0,4,3,True,2019-09-29,Caught,2B,2019,2020,29.2
+90,6044,1B,,Caught Stealing 2B,542932,Jon Berti,453172,Jared Hughes,445988,Martín Prado,R,Andrew Knapp,595284,3,4,8,True,2019-09-29,Caught,2B,2019,2020,29.2
+91,6090,1B,2B,Stolen Base 2B,542932,Jon Berti,592826,Vince Velasquez,500743,Miguel Rojas,R,Andrew Knapp,595284,2,4,4,True,2019-09-27,Stolen,2B,2019,2020,29.2
+92,6144,1B,2B,Stolen Base 2B,542932,Jon Berti,592789,Noah Syndergaard,500743,Miguel Rojas,R,Wilson Ramos,467092,0,0,1,True,2019-09-24,Stolen,2B,2019,2020,29.2
+93,6146,1B,2B,Stolen Base 2B,542932,Jon Berti,592789,Noah Syndergaard,500743,Miguel Rojas,R,Wilson Ramos,467092,0,2,2,True,2019-09-24,Stolen,2B,2019,2020,29.2
+94,6148,1B,2B,Stolen Base 2B,542932,Jon Berti,458677,Justin Wilson,445988,Martín Prado,L,Wilson Ramos,467092,2,4,9,True,2019-09-24,Stolen,2B,2019,2020,29.2
+95,6149,2B,3B,Stolen Base 3B,542932,Jon Berti,458677,Justin Wilson,445988,Martín Prado,L,Wilson Ramos,467092,2,4,9,True,2019-09-24,Stolen,3B,2019,2020,29.2
+96,6195,1B,2B,Stolen Base 2B,542932,Jon Berti,434671,Aníbal Sánchez,500743,Miguel Rojas,R,Yan Gomes,543228,1,1,3,False,2019-09-20,Stolen,2B,2019,2020,29.2
+97,6343,1B,2B,Stolen Base 2B,542932,Jon Berti,461829,Gio González,500743,Miguel Rojas,L,Yasmani Grandal,518735,1,1,1,False,2019-09-12,Stolen,2B,2019,2020,29.2
+98,6388,1B,2B,Stolen Base 2B,542932,Jon Berti,543351,Jay Jackson,445988,Martín Prado,R,Yasmani Grandal,518735,3,8,7,False,2019-09-09,Stolen,2B,2019,2020,29.2
+99,6487,1B,2B,Stolen Base 2B,542932,Jon Berti,605280,Clay Holmes,500743,Miguel Rojas,R,Jacob Stallings,607732,1,0,3,True,2019-09-03,Stolen,2B,2019,2020,29.2
+100,6605,1B,2B,Stolen Base 2B,542932,Jon Berti,543243,Sonny Gray,435522,Neil Walker,R,Tucker Barnhart,571466,2,1,3,False,2019-08-26,Stolen,2B,2019,2020,29.2
+101,6648,1B,2B,Stolen Base 2B,542932,Jon Berti,621107,Zach Eflin,435522,Neil Walker,R,J.T. Realmuto,592663,1,0,1,False,2019-08-24,Stolen,2B,2019,2020,29.2
+102,6662,2B,3B,Stolen Base 3B,542932,Jon Berti,601713,Nick Pivetta,434158,Curtis Granderson,R,J.T. Realmuto,592663,7,9,4,False,2019-08-23,Stolen,3B,2019,2020,29.2
+103,6869,1B,2B,Stolen Base 2B,542932,Jon Berti,527054,Julio Teheran,656371,Isan Díaz,R,Tyler Flowers,452095,0,1,3,False,2019-08-09,Stolen,2B,2019,2020,29.2
+104,6928,1B,2B,Stolen Base 2B,542932,Jon Berti,594798,Jacob deGrom,656371,Isan Díaz,R,Tomás Nido,621512,0,0,1,True,2019-08-05,Stolen,2B,2019,2020,29.2
+105,6959,1B,2B,Stolen Base 2B,542932,Jon Berti,475054,Chaz Roe,445988,Martín Prado,R,Travis d'Arnaud,518595,5,6,7,True,2019-08-03,Stolen,2B,2019,2020,29.2
+106,6960,2B,3B,Stolen Base 3B,542932,Jon Berti,475054,Chaz Roe,445988,Martín Prado,R,Travis d'Arnaud,518595,5,6,7,True,2019-08-03,Stolen,3B,2019,2020,29.2
+107,8184,1B,2B,Stolen Base 2B,542932,Jon Berti,594798,Jacob deGrom,643265,Garrett Cooper,R,Wilson Ramos,467092,2,1,3,False,2019-05-17,Stolen,2B,2019,2020,29.2
+108,1290,1B,2B,Stolen Base 2B,542932,Jon Berti,669952,Mitch White,665862,Jazz Chisholm Jr.,R,Austin Barnes,605131,4,5,5,False,2021-07-07,Stolen,2B,2021,2022,29.5
+109,1447,1B,2B,Stolen Base 2B,542932,Jon Berti,641401,Connor Brogdon,595751,Jorge Alfaro,R,J.T. Realmuto,592663,4,0,8,True,2021-06-29,Stolen,2B,2021,2022,29.5
+110,1468,1B,2B,Stolen Base 2B,542932,Jon Berti,453286,Max Scherzer,645261,Sandy Alcantara,R,Alex Avila,488671,1,1,4,False,2021-06-27,Stolen,2B,2021,2022,29.5
+111,1509,1B,2B,Stolen Base 2B,542932,Jon Berti,502179,Paolo Espino,665862,Jazz Chisholm Jr.,R,Yan Gomes,543228,9,2,5,False,2021-06-25,Stolen,2B,2021,2022,29.5
+112,1789,1B,,Caught Stealing 2B,542932,Jon Berti,641771,Chad Kuhl,656371,Isan Díaz,R,Michael Pérez,605421,1,3,6,True,2021-06-06,Caught,2B,2021,2022,29.5
+113,1977,1B,2B,Stolen Base 2B,542932,Jon Berti,656322,Sam Coonrod,672701,José Devers,R,Andrew Knapp,595284,4,2,8,False,2021-05-26,Stolen,2B,2021,2022,29.5
+114,2000,1B,2B,Stolen Base 2B,542932,Jon Berti,592826,Vince Velasquez,665862,Jazz Chisholm Jr.,R,Andrew Knapp,595284,0,0,3,False,2021-05-25,Stolen,2B,2021,2022,29.5
+115,2103,1B,2B,Stolen Base 2B,542932,Jon Berti,621237,José Alvarado,665862,Jazz Chisholm Jr.,L,Andrew Knapp,595284,1,3,8,True,2021-05-18,Stolen,2B,2021,2022,29.5
+116,2366,1B,2B,Stolen Base 2B,542932,Jon Berti,453286,Max Scherzer,643265,Garrett Cooper,R,Yan Gomes,543228,3,0,6,True,2021-05-02,Stolen,2B,2021,2022,29.5
+117,2671,1B,,Caught Stealing 2B,542932,Jon Berti,621345,A.J. Minter,572816,Corey Dickerson,L,Alex Jackson,656577,3,1,8,True,2021-04-12,Caught,2B,2021,2022,29.5
+118,3214,1B,2B,Stolen Base 2B,542932,Jon Berti,669952,Mitch White,665862,Jazz Chisholm Jr.,R,Austin Barnes,605131,4,5,5,False,2021-07-07,Stolen,2B,2021,2022,29.5
+119,3371,1B,2B,Stolen Base 2B,542932,Jon Berti,641401,Connor Brogdon,595751,Jorge Alfaro,R,J.T. Realmuto,592663,4,0,8,True,2021-06-29,Stolen,2B,2021,2022,29.5
+120,3392,1B,2B,Stolen Base 2B,542932,Jon Berti,453286,Max Scherzer,645261,Sandy Alcantara,R,Alex Avila,488671,1,1,4,False,2021-06-27,Stolen,2B,2021,2022,29.5
+121,3433,1B,2B,Stolen Base 2B,542932,Jon Berti,502179,Paolo Espino,665862,Jazz Chisholm Jr.,R,Yan Gomes,543228,9,2,5,False,2021-06-25,Stolen,2B,2021,2022,29.5
+122,3713,1B,,Caught Stealing 2B,542932,Jon Berti,641771,Chad Kuhl,656371,Isan Díaz,R,Michael Pérez,605421,1,3,6,True,2021-06-06,Caught,2B,2021,2022,29.5
+123,3901,1B,2B,Stolen Base 2B,542932,Jon Berti,656322,Sam Coonrod,672701,José Devers,R,Andrew Knapp,595284,4,2,8,False,2021-05-26,Stolen,2B,2021,2022,29.5
+124,3924,1B,2B,Stolen Base 2B,542932,Jon Berti,592826,Vince Velasquez,665862,Jazz Chisholm Jr.,R,Andrew Knapp,595284,0,0,3,False,2021-05-25,Stolen,2B,2021,2022,29.5
+125,4027,1B,2B,Stolen Base 2B,542932,Jon Berti,621237,José Alvarado,665862,Jazz Chisholm Jr.,L,Andrew Knapp,595284,1,3,8,True,2021-05-18,Stolen,2B,2021,2022,29.5
+126,4290,1B,2B,Stolen Base 2B,542932,Jon Berti,453286,Max Scherzer,643265,Garrett Cooper,R,Yan Gomes,543228,3,0,6,True,2021-05-02,Stolen,2B,2021,2022,29.5
+127,4595,1B,,Caught Stealing 2B,542932,Jon Berti,621345,A.J. Minter,572816,Corey Dickerson,L,Alex Jackson,656577,3,1,8,True,2021-04-12,Caught,2B,2021,2022,29.5
+128,104,1B,2B,Stolen Base 2B,542932,Jon Berti,493603,Adam Ottavino,605137,Josh Bell,R,Omar Narváez,553882,2,2,9,True,2023-09-27,Stolen,2B,2023,2024,29.0
+129,108,1B,2B,Stolen Base 2B,542932,Jon Berti,493603,Adam Ottavino,605137,Josh Bell,R,Omar Narváez,553882,2,2,9,True,2023-09-26,Stolen,2B,2023,2024,29.0
+130,246,1B,2B,Stolen Base 2B,542932,Jon Berti,673540,Kodai Senga,607732,Jacob Stallings,R,Omar Narváez,553882,1,3,4,False,2023-09-20,Stolen,2B,2023,2024,29.0
+131,525,2B,3B,Stolen Base 3B,542932,Jon Berti,621381,Matt Strahm,641658,Garrett Hampson,L,J.T. Realmuto,592663,3,3,7,True,2023-09-10,Stolen,3B,2023,2024,29.0
+132,1164,2B,3B,Stolen Base 3B,542932,Jon Berti,664285,Framber Valdez,650559,Bryan De La Cruz,L,Martín Maldonado,455117,1,0,3,False,2023-08-14,Stolen,3B,2023,2024,29.0
+133,1500,1B,2B,Stolen Base 2B,542932,Jon Berti,686839,Brendan White,541645,Avisaíl García,R,Jake Rogers,668670,5,4,6,False,2023-07-30,Stolen,2B,2023,2024,29.0
+134,1677,1B,2B,Stolen Base 2B,542932,Jon Berti,656234,Jake Bird,650333,Luis Arraez,R,Austin Wynns,642851,3,3,7,False,2023-07-22,Stolen,2B,2023,2024,29.0
+135,1751,1B,2B,Stolen Base 2B,542932,Jon Berti,608717,Chris Stratton,607732,Jacob Stallings,R,Willson Contreras,575929,1,1,7,True,2023-07-18,Stolen,2B,2023,2024,29.0
+136,1902,1B,2B,Stolen Base 2B,542932,Jon Berti,624133,Ranger Suárez,667472,Dane Myers,L,J.T. Realmuto,592663,4,3,5,False,2023-07-08,Stolen,2B,2023,2024,29.0
+137,2463,1B,2B,Stolen Base 2B,542932,Jon Berti,666374,Matt Brash,641505,Jonathan Davis,R,Cal Raleigh,663728,0,2,7,True,2023-06-14,Stolen,2B,2023,2024,29.0
+138,3045,3B,,Caught Stealing Home,542932,Jon Berti,605154,John Brebbia,650559,Bryan De La Cruz,R,Patrick Bailey,672275,4,4,5,True,2023-05-21,Caught,Home,2023,2024,29.0
+139,3180,1B,2B,Stolen Base 2B,542932,Jon Berti,640451,Hunter Harvey,624585,Jorge Soler,R,Keibert Ruiz,660688,5,4,9,False,2023-05-16,Stolen,2B,2023,2024,29.0
+140,3315,1B,,Caught Stealing 2B,542932,Jon Berti,543518,Scott McGough,665862,Jazz Chisholm Jr.,R,Gabriel Moreno,672515,2,6,9,True,2023-05-09,Caught,2B,2023,2024,29.0
+141,3366,1B,2B,Stolen Base 2B,542932,Jon Berti,502202,Brad Boxberger,665862,Jazz Chisholm Jr.,R,Miguel Amaya,665804,0,1,8,True,2023-05-07,Stolen,2B,2023,2024,29.0
+142,3406,1B,,Caught Stealing 2B,542932,Jon Berti,621074,Michael Rucker,624585,Jorge Soler,R,Miguel Amaya,665804,1,2,5,True,2023-05-06,Caught,2B,2023,2024,29.0
+143,3446,1B,2B,Stolen Base 2B,542932,Jon Berti,689266,Dylan Dodd,624585,Jorge Soler,L,Sean Murphy,669221,2,1,1,False,2023-05-04,Stolen,2B,2023,2024,29.0
+144,3549,1B,,Caught Stealing 2B,542932,Jon Berti,657006,Justin Steele,660821,Jesús Sánchez,L,Yan Gomes,543228,3,2,5,False,2023-04-30,Caught,2B,2023,2024,29.0
+145,3953,2B,3B,Stolen Base 3B,542932,Jon Berti,518516,Madison Bumgarner,643265,Garrett Cooper,L,Gabriel Moreno,672515,5,0,4,False,2023-04-14,Stolen,3B,2023,2024,29.0
+146,3986,1B,2B,Stolen Base 2B,542932,Jon Berti,554430,Zack Wheeler,665862,Jazz Chisholm Jr.,R,J.T. Realmuto,592663,1,1,5,True,2023-04-12,Stolen,2B,2023,2024,29.0
+147,4011,1B,2B,Stolen Base 2B,542932,Jon Berti,571479,Andrew Bellatti,665862,Jazz Chisholm Jr.,R,J.T. Realmuto,592663,3,7,8,True,2023-04-11,Stolen,2B,2023,2024,29.0
+148,4059,1B,2B,Stolen Base 2B,542932,Jon Berti,471911,Carlos Carrasco,665862,Jazz Chisholm Jr.,R,Francisco Alvarez,682626,1,4,5,True,2023-04-09,Stolen,2B,2023,2024,29.0
+149,4518,1B,2B,Stolen Base 2B,542932,Jon Berti,493603,Adam Ottavino,605137,Josh Bell,R,Omar Narváez,553882,2,2,9,True,2023-09-27,Stolen,2B,2023,2024,29.0
+150,4522,1B,2B,Stolen Base 2B,542932,Jon Berti,493603,Adam Ottavino,605137,Josh Bell,R,Omar Narváez,553882,2,2,9,True,2023-09-26,Stolen,2B,2023,2024,29.0
+151,4660,1B,2B,Stolen Base 2B,542932,Jon Berti,673540,Kodai Senga,607732,Jacob Stallings,R,Omar Narváez,553882,1,3,4,False,2023-09-20,Stolen,2B,2023,2024,29.0
+152,4939,2B,3B,Stolen Base 3B,542932,Jon Berti,621381,Matt Strahm,641658,Garrett Hampson,L,J.T. Realmuto,592663,3,3,7,True,2023-09-10,Stolen,3B,2023,2024,29.0
+153,5578,2B,3B,Stolen Base 3B,542932,Jon Berti,664285,Framber Valdez,650559,Bryan De La Cruz,L,Martín Maldonado,455117,1,0,3,False,2023-08-14,Stolen,3B,2023,2024,29.0
+154,5914,1B,2B,Stolen Base 2B,542932,Jon Berti,686839,Brendan White,541645,Avisaíl García,R,Jake Rogers,668670,5,4,6,False,2023-07-30,Stolen,2B,2023,2024,29.0
+155,6091,1B,2B,Stolen Base 2B,542932,Jon Berti,656234,Jake Bird,650333,Luis Arraez,R,Austin Wynns,642851,3,3,7,False,2023-07-22,Stolen,2B,2023,2024,29.0
+156,6165,1B,2B,Stolen Base 2B,542932,Jon Berti,608717,Chris Stratton,607732,Jacob Stallings,R,Willson Contreras,575929,1,1,7,True,2023-07-18,Stolen,2B,2023,2024,29.0
+157,6316,1B,2B,Stolen Base 2B,542932,Jon Berti,624133,Ranger Suárez,667472,Dane Myers,L,J.T. Realmuto,592663,4,3,5,False,2023-07-08,Stolen,2B,2023,2024,29.0
+158,6877,1B,2B,Stolen Base 2B,542932,Jon Berti,666374,Matt Brash,641505,Jonathan Davis,R,Cal Raleigh,663728,0,2,7,True,2023-06-14,Stolen,2B,2023,2024,29.0
+159,7459,3B,,Caught Stealing Home,542932,Jon Berti,605154,John Brebbia,650559,Bryan De La Cruz,R,Patrick Bailey,672275,4,4,5,True,2023-05-21,Caught,Home,2023,2024,29.0
+160,7594,1B,2B,Stolen Base 2B,542932,Jon Berti,640451,Hunter Harvey,624585,Jorge Soler,R,Keibert Ruiz,660688,5,4,9,False,2023-05-16,Stolen,2B,2023,2024,29.0
+161,7729,1B,,Caught Stealing 2B,542932,Jon Berti,543518,Scott McGough,665862,Jazz Chisholm Jr.,R,Gabriel Moreno,672515,2,6,9,True,2023-05-09,Caught,2B,2023,2024,29.0
+162,7780,1B,2B,Stolen Base 2B,542932,Jon Berti,502202,Brad Boxberger,665862,Jazz Chisholm Jr.,R,Miguel Amaya,665804,0,1,8,True,2023-05-07,Stolen,2B,2023,2024,29.0
+163,7820,1B,,Caught Stealing 2B,542932,Jon Berti,621074,Michael Rucker,624585,Jorge Soler,R,Miguel Amaya,665804,1,2,5,True,2023-05-06,Caught,2B,2023,2024,29.0
+164,7860,1B,2B,Stolen Base 2B,542932,Jon Berti,689266,Dylan Dodd,624585,Jorge Soler,L,Sean Murphy,669221,2,1,1,False,2023-05-04,Stolen,2B,2023,2024,29.0
+165,7963,1B,,Caught Stealing 2B,542932,Jon Berti,657006,Justin Steele,660821,Jesús Sánchez,L,Yan Gomes,543228,3,2,5,False,2023-04-30,Caught,2B,2023,2024,29.0
+166,8367,2B,3B,Stolen Base 3B,542932,Jon Berti,518516,Madison Bumgarner,643265,Garrett Cooper,L,Gabriel Moreno,672515,5,0,4,False,2023-04-14,Stolen,3B,2023,2024,29.0
+167,8400,1B,2B,Stolen Base 2B,542932,Jon Berti,554430,Zack Wheeler,665862,Jazz Chisholm Jr.,R,J.T. Realmuto,592663,1,1,5,True,2023-04-12,Stolen,2B,2023,2024,29.0
+168,8425,1B,2B,Stolen Base 2B,542932,Jon Berti,571479,Andrew Bellatti,665862,Jazz Chisholm Jr.,R,J.T. Realmuto,592663,3,7,8,True,2023-04-11,Stolen,2B,2023,2024,29.0
+169,8473,1B,2B,Stolen Base 2B,542932,Jon Berti,471911,Carlos Carrasco,665862,Jazz Chisholm Jr.,R,Francisco Alvarez,682626,1,4,5,True,2023-04-09,Stolen,2B,2023,2024,29.0
+170,30,1B,2B,Stolen Base 2B,542932,Jon Berti,605507,Zach Thompson,500743,Miguel Rojas,R,Michael Pérez,605421,0,0,1,False,2022-07-14,Stolen,2B,2022,2023,29.3
+171,113,1B,2B,Stolen Base 2B,542932,Jon Berti,592836,Taijuan Walker,643265,Garrett Cooper,R,Tomás Nido,621512,0,0,7,True,2022-07-10,Stolen,2B,2022,2023,29.3
+172,123,1B,2B,Stolen Base 2B,542932,Jon Berti,493603,Adam Ottavino,643265,Garrett Cooper,R,James McCann,543510,3,2,7,True,2022-07-09,Stolen,2B,2022,2023,29.3
+173,265,1B,,Caught Stealing 2B,542932,Jon Berti,607200,Erick Fedde,621563,Joey Wendle,R,Keibert Ruiz,660688,0,1,3,True,2022-07-03,Caught,2B,2022,2023,29.3
+174,281,1B,2B,Stolen Base 2B,542932,Jon Berti,676194,Jackson Tetreault,643265,Garrett Cooper,R,Keibert Ruiz,660688,0,0,1,True,2022-07-02,Stolen,2B,2022,2023,29.3
+175,304,1B,2B,Stolen Base 2B,542932,Jon Berti,680686,Josiah Gray,621563,Joey Wendle,R,Keibert Ruiz,660688,0,2,3,True,2022-07-01,Stolen,2B,2022,2023,29.3
+176,306,1B,2B,Stolen Base 2B,542932,Jon Berti,680686,Josiah Gray,621563,Joey Wendle,R,Keibert Ruiz,660688,1,6,6,True,2022-07-01,Stolen,2B,2022,2023,29.3
+177,364,1B,2B,Stolen Base 2B,542932,Jon Berti,425794,Adam Wainwright,643265,Garrett Cooper,R,Iván Herrera,671056,1,0,3,True,2022-06-27,Stolen,2B,2022,2023,29.3
+178,434,1B,,Caught Stealing 2B,542932,Jon Berti,621242,Edwin Díaz,553902,Willians Astudillo,R,Tomás Nido,621512,3,5,9,False,2022-06-24,Caught,2B,2022,2023,29.3
+179,442,2B,3B,Stolen Base 3B,542932,Jon Berti,607536,Kyle Freeland,624585,Jorge Soler,L,Elias Díaz,553869,2,2,3,False,2022-06-23,Stolen,3B,2022,2023,29.3
+180,444,1B,2B,Stolen Base 2B,542932,Jon Berti,607536,Kyle Freeland,665862,Jazz Chisholm Jr.,L,Elias Díaz,553869,2,2,5,False,2022-06-23,Stolen,2B,2022,2023,29.3
+181,470,1B,2B,Stolen Base 2B,542932,Jon Berti,663372,Ryan Feltner,643265,Garrett Cooper,R,Brian Serven,661531,0,3,3,False,2022-06-21,Stolen,2B,2022,2023,29.3
+182,518,1B,2B,Stolen Base 2B,542932,Jon Berti,592836,Taijuan Walker,665862,Jazz Chisholm Jr.,R,Tomás Nido,621512,0,0,1,True,2022-06-18,Stolen,2B,2022,2023,29.3
+183,519,2B,3B,Stolen Base 3B,542932,Jon Berti,592836,Taijuan Walker,624585,Jorge Soler,R,Tomás Nido,621512,0,0,1,True,2022-06-18,Stolen,3B,2022,2023,29.3
+184,521,1B,2B,Stolen Base 2B,542932,Jon Berti,621242,Edwin Díaz,665862,Jazz Chisholm Jr.,R,Tomás Nido,621512,3,1,9,True,2022-06-18,Stolen,2B,2022,2023,29.3
+185,534,1B,2B,Stolen Base 2B,542932,Jon Berti,471911,Carlos Carrasco,500743,Miguel Rojas,R,Tomás Nido,621512,3,1,6,True,2022-06-17,Stolen,2B,2022,2023,29.3
+186,568,1B,2B,Stolen Base 2B,542932,Jon Berti,502043,Kyle Gibson,542583,Jesús Aguilar,R,Garrett Stubbs,596117,0,0,1,True,2022-06-15,Stolen,2B,2022,2023,29.3
+187,571,1B,2B,Stolen Base 2B,542932,Jon Berti,641401,Connor Brogdon,542583,Jesús Aguilar,R,Garrett Stubbs,596117,0,1,9,True,2022-06-15,Stolen,2B,2022,2023,29.3
+188,610,1B,2B,Stolen Base 2B,542932,Jon Berti,605400,Aaron Nola,500743,Miguel Rojas,R,J.T. Realmuto,592663,1,2,7,True,2022-06-13,Stolen,2B,2022,2023,29.3
+189,642,1B,2B,Stolen Base 2B,542932,Jon Berti,606160,Rafael Montero,541645,Avisaíl García,R,Martín Maldonado,455117,1,5,9,True,2022-06-11,Stolen,2B,2022,2023,29.3
+190,674,1B,2B,Stolen Base 2B,542932,Jon Berti,664208,Phil Maton,500743,Miguel Rojas,R,Martín Maldonado,455117,3,7,6,True,2022-06-10,Stolen,2B,2022,2023,29.3
+191,717,1B,2B,Stolen Base 2B,542932,Jon Berti,640448,Kyle Finnegan,500743,Miguel Rojas,R,Keibert Ruiz,660688,0,0,9,False,2022-06-08,Stolen,2B,2022,2023,29.3
+192,734,1B,2B,Stolen Base 2B,542932,Jon Berti,672851,Joan Adon,500743,Miguel Rojas,R,Keibert Ruiz,660688,5,0,4,False,2022-06-07,Stolen,2B,2022,2023,29.3
+193,784,1B,2B,Stolen Base 2B,542932,Jon Berti,657277,Logan Webb,500743,Miguel Rojas,R,Joey Bart,663698,2,4,5,False,2022-06-04,Stolen,2B,2022,2023,29.3
+194,851,1B,2B,Stolen Base 2B,542932,Jon Berti,596112,Robert Stephenson,663743,Nick Fortes,R,Brian Serven,661531,10,7,6,True,2022-06-01,Stolen,2B,2022,2023,29.3
+195,852,2B,3B,Stolen Base 3B,542932,Jon Berti,453268,Daniel Bard,624585,Jorge Soler,R,Brian Serven,661531,11,11,10,True,2022-06-01,Stolen,3B,2022,2023,29.3
+196,854,1B,2B,Stolen Base 2B,542932,Jon Berti,596112,Robert Stephenson,663743,Nick Fortes,R,Brian Serven,661531,10,7,6,True,2022-05-31,Stolen,2B,2022,2023,29.3
+197,855,2B,3B,Stolen Base 3B,542932,Jon Berti,453268,Daniel Bard,624585,Jorge Soler,R,Brian Serven,661531,11,11,10,True,2022-05-31,Stolen,3B,2022,2023,29.3
+198,922,1B,2B,Stolen Base 2B,542932,Jon Berti,656353,Tucker Davidson,643265,Garrett Cooper,L,William Contreras,661388,0,0,3,True,2022-05-28,Stolen,2B,2022,2023,29.3
+199,954,1B,2B,Stolen Base 2B,542932,Jon Berti,666120,Ian Anderson,643265,Garrett Cooper,R,Travis d'Arnaud,518595,3,2,6,True,2022-05-27,Stolen,2B,2022,2023,29.3
+200,1402,1B,2B,Stolen Base 2B,542932,Jon Berti,598287,Noé Ramirez,624585,Jorge Soler,R,Carson Kelly,608348,4,5,7,False,2022-05-02,Stolen,2B,2022,2023,29.3
+201,1477,1B,2B,Stolen Base 2B,542932,Jon Berti,644364,Víctor Arano,624585,Jorge Soler,R,Riley Adams,656180,1,3,7,True,2022-04-28,Stolen,2B,2022,2023,29.3
+202,1920,1B,,Caught Stealing 2B,542932,Jon Berti,677651,Luis Garcia,668721,Payton Henry,R,Michael Papierski,657709,1,0,2,True,2022-04-01,Caught,2B,2022,2023,29.3

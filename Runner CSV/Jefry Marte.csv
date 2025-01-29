@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+321,2B,,Caught Stealing 3B,527043,Jefry Marte,Sandy León,0,1,5,False,2016-07-28,Caught,3B,2016
+847,1B,,Caught Stealing 2B,527043,Jefry Marte,Jason Castro,0,0,2,False,2016-06-27,Caught,2B,2016
+2314,2B,3B,Stolen Base 3B,527043,Jefry Marte,J.T. Realmuto,1,2,4,True,2017-05-28,Stolen,3B,2017
+676,1B,2B,Stolen Base 2B,527043,Jefry Marte,Tony Wolters,6,7,8,False,2018-08-27,Stolen,2B,2018

@@ -1,0 +1,6 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,453203,Shane Robinson,Blake Lalli,0,0,1,True,2013-05-05,Stolen,2B,2013
+1B,2B,Stolen Base 2B,465784,Everth Cabrera,Blake Lalli,8,7,7,True,2012-05-28,Stolen,2B,2012
+1B,2B,Stolen Base 2B,435522,Neil Walker,Blake Lalli,0,0,2,False,2012-05-26,Stolen,2B,2012
+1B,2B,Stolen Base 2B,457705,Andrew McCutchen,Blake Lalli,2,2,5,False,2012-05-26,Stolen,2B,2012
+1B,2B,Stolen Base 2B,457705,Andrew McCutchen,Blake Lalli,2,2,7,False,2012-05-26,Stolen,2B,2012

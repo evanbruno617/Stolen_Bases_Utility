@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+446,1B,,Caught Stealing 2B,430567,Brandon Watson,Johnny Estrada,3,6,6,False,2005-09-09,Caught,2B,2005
+959,1B,,Caught Stealing 2B,430567,Brandon Watson,JD Closser,1,4,5,True,2005-08-12,Caught,2B,2005
+2209,1B,2B,Stolen Base 2B,430567,Brandon Watson,Kelly Shoppach,0,0,3,False,2007-06-23,Stolen,2B,2007

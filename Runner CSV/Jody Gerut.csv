@@ -1,0 +1,47 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+80,1B,2B,Stolen Base 2B,425506,Jody Gerut,Tom Wilson,0,2,6,True,2003-09-26,Stolen,2B,2003
+180,1B,2B,Stolen Base 2B,425506,Jody Gerut,Jason Varitek,1,2,6,False,2003-09-20,Stolen,2B,2003
+536,1B,,Caught Stealing 2B,425506,Jody Gerut,Brandon Inge,2,2,3,True,2003-09-02,Caught,2B,2003
+813,1B,,Caught Stealing 2B,425506,Jody Gerut,Toby Hall,1,2,6,False,2003-08-18,Caught,2B,2003
+1011,2B,,Caught Stealing 3B,425506,Jody Gerut,Shawn Wooten,1,0,6,False,2003-08-09,Caught,3B,2003
+1558,1B,2B,Stolen Base 2B,425506,Jody Gerut,Sandy Alomar Jr.,4,2,8,False,2003-07-12,Stolen,2B,2003
+1559,2B,3B,Stolen Base 2B,425506,Jody Gerut,Sandy Alomar Jr.,4,2,8,False,2003-07-12,Stolen,2B,2003
+1799,1B,,Caught Stealing 2B,425506,Jody Gerut,Jason LaRue,3,0,5,False,2003-06-29,Caught,2B,2003
+2248,1B,2B,Stolen Base 2B,425506,Jody Gerut,Rod Barajas,3,5,7,True,2003-06-06,Stolen,2B,2003
+2373,1B,2B,Stolen Base 2B,425506,Jody Gerut,Sandy Alomar Jr.,4,2,8,False,2003-05-31,Stolen,2B,2003
+2374,2B,3B,Stolen Base 2B,425506,Jody Gerut,Sandy Alomar Jr.,4,2,8,False,2003-05-31,Stolen,2B,2003
+670,1B,,Caught Stealing 2B,425506,Jody Gerut,Ben Davis,0,0,3,False,2004-08-28,Caught,2B,2004
+733,1B,2B,Stolen Base 2B,425506,Jody Gerut,Jorge Posada,1,1,2,False,2004-08-25,Stolen,2B,2004
+879,1B,2B,Stolen Base 2B,425506,Jody Gerut,Rod Barajas,5,2,7,True,2004-08-18,Stolen,2B,2004
+1726,1B,,Caught Stealing 2B,425506,Jody Gerut,Jason LaRue,1,4,8,True,2004-07-04,Caught,2B,2004
+1785,2B,3B,Stolen Base 3B,425506,Jody Gerut,Ivan Rodriguez,5,6,8,True,2004-07-01,Stolen,3B,2004
+1802,1B,2B,Stolen Base 2B,425506,Jody Gerut,Mike DiFelice,9,5,8,True,2004-06-30,Stolen,2B,2004
+1934,1B,,Caught Stealing 2B,425506,Jody Gerut,Sandy Alomar Jr.,2,5,6,True,2004-06-23,Caught,2B,2004
+2030,1B,2B,Stolen Base 2B,425506,Jody Gerut,Jason Phillips,0,0,5,True,2004-06-17,Stolen,2B,2004
+2123,1B,2B,Stolen Base 2B,425506,Jody Gerut,Javier Valentin,1,5,3,False,2004-06-13,Stolen,2B,2004
+2373,1B,2B,Stolen Base 2B,425506,Jody Gerut,Ken Huckaby,0,0,1,False,2004-06-02,Stolen,2B,2004
+2661,1B,2B,Stolen Base 2B,425506,Jody Gerut,Miguel Olivo,1,4,6,False,2004-05-18,Stolen,2B,2004
+2832,1B,2B,Stolen Base 2B,425506,Jody Gerut,Javy Lopez,6,6,6,True,2004-05-09,Stolen,2B,2004
+3167,1B,2B,Stolen Base 2B,425506,Jody Gerut,Chris Shelton,4,3,5,True,2004-04-23,Stolen,2B,2004
+3321,1B,,Caught Stealing 2B,425506,Jody Gerut,Henry Blanco,0,0,1,False,2004-04-15,Caught,2B,2004
+3325,1B,2B,Stolen Base 2B,425506,Jody Gerut,Henry Blanco,0,3,9,False,2004-04-15,Stolen,2B,2004
+3400,1B,2B,Stolen Base 2B,425506,Jody Gerut,Benito Santiago,1,1,3,True,2004-04-11,Stolen,2B,2004
+3472,1B,2B,Stolen Base 2B,425506,Jody Gerut,Henry Blanco,0,0,1,True,2004-04-07,Stolen,2B,2004
+1802,1B,2B,Stolen Base 2B,425506,Jody Gerut,Doug Mirabelli,0,0,2,True,2005-06-29,Stolen,2B,2005
+2553,1B,,Caught Stealing 2B,425506,Jody Gerut,Javier Valentin,1,0,7,True,2005-05-20,Caught,2B,2005
+686,1B,2B,Stolen Base 2B,425506,Jody Gerut,Miguel Montero,0,0,4,False,2008-08-27,Stolen,2B,2008
+1438,1B,,Caught Stealing 2B,425506,Jody Gerut,Yadier Molina,7,7,8,True,2008-07-18,Caught,2B,2008
+1855,1B,,Caught Stealing 2B,425506,Jody Gerut,Joe Mauer,0,1,6,False,2008-06-24,Caught,2B,2008
+1931,1B,,Caught Stealing 2B,425506,Jody Gerut,Ivan Rodriguez,0,1,1,False,2008-06-20,Caught,2B,2008
+2047,2B,3B,Stolen Base 3B,425506,Jody Gerut,Kelly Shoppach,0,0,1,True,2008-06-15,Stolen,3B,2008
+2193,1B,2B,Stolen Base 2B,425506,Jody Gerut,Raul Casanova,3,4,2,False,2008-06-08,Stolen,2B,2008
+2261,1B,,Caught Stealing 2B,425506,Jody Gerut,Brian Schneider,0,0,1,False,2008-06-05,Caught,2B,2008
+2348,2B,3B,Stolen Base 3B,425506,Jody Gerut,Bengie Molina,1,0,8,True,2008-06-01,Stolen,3B,2008
+2509,1B,2B,Stolen Base 2B,425506,Jody Gerut,David Ross,9,9,13,False,2008-05-25,Stolen,2B,2008
+3703,1B,2B,Stolen Base 2B,425506,Jody Gerut,J.R. Towles,6,5,8,False,2008-04-02,Stolen,2B,2008
+1335,1B,2B,Stolen Base 2B,425506,Jody Gerut,Ronny Paulino,0,0,2,True,2009-06-02,Stolen,2B,2009
+1336,2B,3B,Stolen Base 3B,425506,Jody Gerut,Ronny Paulino,0,1,2,True,2009-06-02,Stolen,3B,2009
+1834,1B,2B,Stolen Base 2B,425506,Jody Gerut,Geovany Soto,3,2,7,True,2009-05-12,Stolen,2B,2009
+2343,1B,2B,Stolen Base 2B,425506,Jody Gerut,Pablo Sandoval,0,0,10,True,2009-04-22,Stolen,2B,2009
+2680,1B,,Caught Stealing 2B,425506,Jody Gerut,Bobby Wilson,0,0,1,True,2009-04-04,Caught,2B,2009
+3030,2B,,Caught Stealing 3B,425506,Jody Gerut,Brian McCann,2,2,6,False,2010-05-12,Caught,3B,2010

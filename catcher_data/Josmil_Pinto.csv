@@ -1,0 +1,44 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,461865,Andrew Romine,Josmil Pinto,1,0,8,False,2014-09-28,Stolen,2B,2014
+1B,2B,Stolen Base 2B,449107,Mike Aviles,Josmil Pinto,1,0,4,False,2014-09-11,Stolen,2B,2014
+1B,2B,Stolen Base 2B,449107,Mike Aviles,Josmil Pinto,1,0,4,False,2014-09-10,Stolen,2B,2014
+1B,2B,Stolen Base 2B,545361,Mike Trout,Josmil Pinto,2,3,4,True,2014-09-05,Stolen,2B,2014
+1B,2B,Stolen Base 2B,594777,Kole Calhoun,Josmil Pinto,6,6,10,True,2014-09-05,Stolen,2B,2014
+1B,2B,Stolen Base 2B,514888,Jose Altuve,Josmil Pinto,0,0,1,True,2014-06-08,Stolen,2B,2014
+1B,2B,Stolen Base 2B,543257,Robbie Grossman,Josmil Pinto,0,1,2,True,2014-06-08,Stolen,2B,2014
+1B,2B,Stolen Base 2B,514888,Jose Altuve,Josmil Pinto,0,2,3,True,2014-06-08,Stolen,2B,2014
+1B,2B,Stolen Base 2B,448602,Mark Reynolds,Josmil Pinto,4,5,6,True,2014-06-05,Stolen,2B,2014
+1B,2B,Stolen Base 2B,516416,Jean Segura,Josmil Pinto,4,6,6,True,2014-06-05,Stolen,2B,2014
+2B,3B,Stolen Base 3B,460075,Ryan Braun,Josmil Pinto,5,8,9,True,2014-06-05,Stolen,3B,2014
+1B,2B,Stolen Base 2B,516416,Jean Segura,Josmil Pinto,1,4,3,False,2014-06-03,Stolen,2B,2014
+1B,2B,Stolen Base 2B,453056,Jacoby Ellsbury,Josmil Pinto,1,1,8,False,2014-05-31,Stolen,2B,2014
+1B,2B,Stolen Base 2B,475100,Scott Van Slyke,Josmil Pinto,2,2,7,True,2014-05-01,Stolen,2B,2014
+2B,3B,Stolen Base 3B,543829,Dee Strange-Gordon,Josmil Pinto,2,4,12,True,2014-05-01,Stolen,3B,2014
+1B,2B,Stolen Base 2B,475100,Scott Van Slyke,Josmil Pinto,2,2,7,True,2014-04-29,Stolen,2B,2014
+2B,3B,Stolen Base 3B,543829,Dee Strange-Gordon,Josmil Pinto,2,4,12,True,2014-04-29,Stolen,3B,2014
+1B,2B,Stolen Base 2B,457706,Austin Jackson,Josmil Pinto,4,2,7,True,2014-04-26,Stolen,2B,2014
+1B,2B,Stolen Base 2B,457775,Desmond Jennings,Josmil Pinto,1,0,1,False,2014-04-23,Stolen,2B,2014
+1B,2B,Stolen Base 2B,457775,Desmond Jennings,Josmil Pinto,2,0,3,False,2014-04-23,Stolen,2B,2014
+2B,3B,Stolen Base 3B,493114,Norichika Aoki,Josmil Pinto,5,2,4,False,2014-04-19,Stolen,3B,2014
+1B,2B,Stolen Base 2B,408299,Omar Infante,Josmil Pinto,5,2,4,False,2014-04-19,Stolen,2B,2014
+2B,3B,Stolen Base 2B,408299,Omar Infante,Josmil Pinto,5,2,4,False,2014-04-19,Stolen,2B,2014
+1B,2B,Stolen Base 2B,543238,Anthony Gose,Josmil Pinto,1,2,2,True,2014-04-17,Stolen,2B,2014
+1B,2B,Stolen Base 2B,543238,Anthony Gose,Josmil Pinto,1,2,2,True,2014-04-16,Stolen,2B,2014
+1B,2B,Stolen Base 2B,453211,Drew Stubbs,Josmil Pinto,6,9,8,True,2013-09-27,Stolen,2B,2013
+1B,,Caught Stealing 2B,400121,Victor Martinez,Josmil Pinto,0,1,7,True,2013-09-25,Caught,2B,2013
+1B,2B,Stolen Base 2B,408299,Omar Infante,Josmil Pinto,0,1,6,True,2013-09-23,Stolen,2B,2013
+1B,,Caught Stealing 2B,502210,Josh Reddick,Josmil Pinto,0,0,2,False,2013-09-19,Caught,2B,2013
+1B,2B,Stolen Base 2B,544725,Leury García,Josmil Pinto,4,3,7,False,2013-09-17,Stolen,2B,2013
+1B,2B,Stolen Base 2B,424825,Coco Crisp,Josmil Pinto,0,5,5,True,2013-09-12,Stolen,2B,2013
+1B,2B,Stolen Base 2B,424825,Coco Crisp,Josmil Pinto,1,0,4,True,2013-09-10,Stolen,2B,2013
+1B,,Caught Stealing 2B,519390,Stephen Vogt,Josmil Pinto,1,2,5,True,2013-09-10,Caught,2B,2013
+2B,3B,Stolen Base 3B,408314,José Reyes,Josmil Pinto,0,2,8,True,2013-09-08,Stolen,3B,2013
+1B,,Caught Stealing 2B,434658,Rajai Davis,Josmil Pinto,0,2,8,True,2013-09-08,Caught,2B,2013
+1B,2B,Stolen Base 2B,474892,Chris Carter,Josmil Pinto,4,3,5,False,2013-09-04,Stolen,2B,2013
+1B,,Caught Stealing 2B,488681,Brandon Barnes,Josmil Pinto,5,3,5,False,2013-09-04,Caught,2B,2013
+3B,,Caught Stealing Home,488681,Brandon Barnes,Josmil Pinto,3,4,7,False,2013-09-03,Caught,Home,2013
+1B,2B,Stolen Base 2B,425567,Alex Rios,Josmil Pinto,1,3,7,False,2013-09-01,Stolen,2B,2013
+2B,3B,Stolen Base 3B,547982,Leonys Martin,Josmil Pinto,2,4,8,False,2013-09-01,Stolen,3B,2013
+1B,2B,Stolen Base 2B,456030,Dustin Pedroia,Josmil Pinto,0,0,5,False,2012-04-01,Stolen,2B,2012
+1B,2B,Stolen Base 2B,465674,Pedro Ciriaco,Josmil Pinto,1,1,6,False,2012-04-01,Stolen,2B,2012
+2B,3B,Stolen Base 3B,465674,Pedro Ciriaco,Josmil Pinto,1,1,6,False,2012-04-01,Stolen,3B,2012

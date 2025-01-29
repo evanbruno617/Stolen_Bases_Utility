@@ -1,0 +1,27 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2734,3B,,Caught Stealing Home,543105,Alex Dickerson,608566,Germán Márquez,543063,Brandon Crawford,R,Tony Wolters,547172,2,0,1,False,2019-06-26,Caught,Home,2019,2020,26.9
+1,2756,1B,2B,Stolen Base 2B,543105,Alex Dickerson,592351,Jon Gray,467055,Pablo Sandoval,R,Tony Wolters,547172,0,0,1,False,2019-06-24,Stolen,2B,2019,2020,26.9
+2,5577,3B,,Caught Stealing Home,543105,Alex Dickerson,608566,Germán Márquez,543063,Brandon Crawford,R,Tony Wolters,547172,2,0,1,False,2019-06-26,Caught,Home,2019,2020,26.9
+3,5599,1B,2B,Stolen Base 2B,543105,Alex Dickerson,592351,Jon Gray,467055,Pablo Sandoval,R,Tony Wolters,547172,0,0,1,False,2019-06-24,Stolen,2B,2019,2020,26.9
+4,7501,3B,,Caught Stealing Home,543105,Alex Dickerson,608566,Germán Márquez,543063,Brandon Crawford,R,Tony Wolters,547172,2,0,1,False,2019-06-26,Caught,Home,2019,2020,26.9
+5,7523,1B,2B,Stolen Base 2B,543105,Alex Dickerson,592351,Jon Gray,467055,Pablo Sandoval,R,Tony Wolters,547172,0,0,1,False,2019-06-24,Stolen,2B,2019,2020,26.9
+6,1928,1B,2B,Stolen Base 2B,543105,Alex Dickerson,621111,Walker Buehler,543063,Brandon Crawford,R,Will Smith,669257,2,2,6,True,2021-05-28,Stolen,2B,2021,2022,25.9
+7,3852,1B,2B,Stolen Base 2B,543105,Alex Dickerson,621111,Walker Buehler,543063,Brandon Crawford,R,Will Smith,669257,2,2,6,True,2021-05-28,Stolen,2B,2021,2022,25.9
+8,4413,1B,2B,Stolen Base 2B,543105,Alex Dickerson,502188,Jeff Samardzija,572114,Ryan Schimpf,R,Buster Posey,457763,0,0,2,True,2016-09-12,Stolen,2B,2016,2019,26.7
+9,4614,1B,2B,Stolen Base 2B,543105,Alex Dickerson,628711,Julio Urías,493351,Alexei Ramirez,L,Yasmani Grandal,518735,0,0,1,True,2016-09-02,Stolen,2B,2016,2019,26.7
+10,4960,1B,,Caught Stealing 2B,543105,Alex Dickerson,592340,Erik Goeddel,542194,Christian Bethancourt,R,Travis d'Arnaud,518595,2,2,10,True,2016-08-13,Caught,2B,2016,2019,26.7
+11,5137,1B,2B,Stolen Base 2B,543105,Alex Dickerson,476451,Jeremy Hellickson,518466,Jabari Blash,R,Cameron Rupp,519237,0,0,2,False,2016-08-05,Stolen,2B,2016,2019,26.7
+12,5359,1B,2B,Stolen Base 2B,543105,Alex Dickerson,446399,Brett Cecil,572114,Ryan Schimpf,L,Russell Martin,431145,4,4,8,True,2016-07-26,Stolen,2B,2016,2019,26.7
+13,5729,1B,2B,Stolen Base 2B,543105,Alex Dickerson,476454,Dellin Betances,519083,Derek Norris,R,Brian McCann,435263,1,2,7,False,2016-07-03,Stolen,2B,2016,2019,26.7
+14,378,1B,2B,Stolen Base 2B,543105,Alex Dickerson,502188,Jeff Samardzija,572114,Ryan Schimpf,R,Buster Posey,457763,0,0,2,True,2016-09-12,Stolen,2B,2016,2019,26.7
+15,579,1B,2B,Stolen Base 2B,543105,Alex Dickerson,628711,Julio Urías,493351,Alexei Ramirez,L,Yasmani Grandal,518735,0,0,1,True,2016-09-02,Stolen,2B,2016,2019,26.7
+16,925,1B,,Caught Stealing 2B,543105,Alex Dickerson,592340,Erik Goeddel,542194,Christian Bethancourt,R,Travis d'Arnaud,518595,2,2,10,True,2016-08-13,Caught,2B,2016,2019,26.7
+17,1102,1B,2B,Stolen Base 2B,543105,Alex Dickerson,476451,Jeremy Hellickson,518466,Jabari Blash,R,Cameron Rupp,519237,0,0,2,False,2016-08-05,Stolen,2B,2016,2019,26.7
+18,1324,1B,2B,Stolen Base 2B,543105,Alex Dickerson,446399,Brett Cecil,572114,Ryan Schimpf,L,Russell Martin,431145,4,4,8,True,2016-07-26,Stolen,2B,2016,2019,26.7
+19,1694,1B,2B,Stolen Base 2B,543105,Alex Dickerson,476454,Dellin Betances,519083,Derek Norris,R,Brian McCann,435263,1,2,7,False,2016-07-03,Stolen,2B,2016,2019,26.7
+20,3785,1B,2B,Stolen Base 2B,543105,Alex Dickerson,502188,Jeff Samardzija,572114,Ryan Schimpf,R,Buster Posey,457763,0,0,2,True,2016-09-12,Stolen,2B,2016,2019,26.7
+21,3986,1B,2B,Stolen Base 2B,543105,Alex Dickerson,628711,Julio Urías,493351,Alexei Ramirez,L,Yasmani Grandal,518735,0,0,1,True,2016-09-02,Stolen,2B,2016,2019,26.7
+22,4332,1B,,Caught Stealing 2B,543105,Alex Dickerson,592340,Erik Goeddel,542194,Christian Bethancourt,R,Travis d'Arnaud,518595,2,2,10,True,2016-08-13,Caught,2B,2016,2019,26.7
+23,4509,1B,2B,Stolen Base 2B,543105,Alex Dickerson,476451,Jeremy Hellickson,518466,Jabari Blash,R,Cameron Rupp,519237,0,0,2,False,2016-08-05,Stolen,2B,2016,2019,26.7
+24,4731,1B,2B,Stolen Base 2B,543105,Alex Dickerson,446399,Brett Cecil,572114,Ryan Schimpf,L,Russell Martin,431145,4,4,8,True,2016-07-26,Stolen,2B,2016,2019,26.7
+25,5101,1B,2B,Stolen Base 2B,543105,Alex Dickerson,476454,Dellin Betances,519083,Derek Norris,R,Brian McCann,435263,1,2,7,False,2016-07-03,Stolen,2B,2016,2019,26.7

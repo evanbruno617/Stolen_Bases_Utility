@@ -1,0 +1,15 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,300,2B,,Caught Stealing 3B,547004,Rio Ruiz,457918,J.A. Happ,593643,Hanser Alberto,L,Kyle Higashioka,543309,1,1,5,True,2020-09-13,Caught,3B,2020,2021,25.7
+1,975,1B,,Caught Stealing 2B,547004,Rio Ruiz,608723,Austin Voth,600524,Renato Núñez,R,Kurt Suzuki,435559,0,0,2,True,2020-08-08,Caught,2B,2020,2021,25.7
+2,1091,1B,2B,Stolen Base 2B,547004,Rio Ruiz,607192,Tyler Glasnow,642082,Chance Sisco,R,Mike Zunino,572287,2,0,4,False,2020-08-01,Stolen,2B,2020,2021,25.7
+3,3143,2B,,Caught Stealing 3B,547004,Rio Ruiz,457918,J.A. Happ,593643,Hanser Alberto,L,Kyle Higashioka,543309,1,1,5,True,2020-09-13,Caught,3B,2020,2021,25.7
+4,3818,1B,,Caught Stealing 2B,547004,Rio Ruiz,608723,Austin Voth,600524,Renato Núñez,R,Kurt Suzuki,435559,0,0,2,True,2020-08-08,Caught,2B,2020,2021,25.7
+5,3934,1B,2B,Stolen Base 2B,547004,Rio Ruiz,607192,Tyler Glasnow,642082,Chance Sisco,R,Mike Zunino,572287,2,0,4,False,2020-08-01,Stolen,2B,2020,2021,25.7
+6,5067,2B,,Caught Stealing 3B,547004,Rio Ruiz,457918,J.A. Happ,593643,Hanser Alberto,L,Kyle Higashioka,543309,1,1,5,True,2020-09-13,Caught,3B,2020,2021,25.7
+7,5742,1B,,Caught Stealing 2B,547004,Rio Ruiz,608723,Austin Voth,600524,Renato Núñez,R,Kurt Suzuki,435559,0,0,2,True,2020-08-08,Caught,2B,2020,2021,25.7
+8,5858,1B,2B,Stolen Base 2B,547004,Rio Ruiz,607192,Tyler Glasnow,642082,Chance Sisco,R,Mike Zunino,572287,2,0,4,False,2020-08-01,Stolen,2B,2020,2021,25.7
+9,2389,1B,,Caught Stealing 2B,547004,Rio Ruiz,488768,Andrew Cashner,542340,Jonathan Villar,R,Christian Vázquez,543877,4,0,5,False,2019-07-21,Caught,2B,2019,2020,25.2
+10,5232,1B,,Caught Stealing 2B,547004,Rio Ruiz,488768,Andrew Cashner,542340,Jonathan Villar,R,Christian Vázquez,543877,4,0,5,False,2019-07-21,Caught,2B,2019,2020,25.2
+11,7156,1B,,Caught Stealing 2B,547004,Rio Ruiz,488768,Andrew Cashner,542340,Jonathan Villar,R,Christian Vázquez,543877,4,0,5,False,2019-07-21,Caught,2B,2019,2020,25.2
+12,1130,1B,2B,Stolen Base 2B,547004,Rio Ruiz,570240,Félix Peña,542255,Ender Inciarte,R,René Rivera,425784,1,5,9,True,2017-09-03,Stolen,2B,2017,2018,24.8
+13,502,1B,2B,Stolen Base 2B,547004,Rio Ruiz,570240,Félix Peña,542255,Ender Inciarte,R,René Rivera,425784,1,5,9,True,2017-09-03,Stolen,2B,2017,2018,24.8

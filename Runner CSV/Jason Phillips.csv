@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1549,1B,,Caught Stealing 2B,282993,Jason Phillips,Todd Pratt,1,1,2,False,2003-07-12,Caught,2B,2003
+628,2B,,Caught Stealing 3B,282993,Jason Phillips,Paul Lo Duca,0,0,2,False,2004-08-31,Caught,3B,2004
+2186,2B,,Caught Stealing 3B,282993,Jason Phillips,Ivan Rodriguez,5,3,7,False,2005-06-06,Caught,3B,2005
+2417,1B,,Caught Stealing 2B,282993,Jason Phillips,Bengie Molina,3,2,5,True,2007-06-12,Caught,2B,2007

@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+599,1B,2B,Stolen Base 2B,477054,Trayvon Robinson,Jeff Mathis,6,3,6,True,2011-09-05,Stolen,2B,2011
+607,1B,,Caught Stealing 2B,477054,Trayvon Robinson,Jarrod Saltalamacchia,3,0,4,False,2012-09-04,Caught,2B,2012
+663,1B,,Caught Stealing 2B,477054,Trayvon Robinson,Bobby Wilson,1,0,4,False,2012-09-02,Caught,2B,2012
+752,1B,2B,Stolen Base 2B,477054,Trayvon Robinson,Ryan Doumit,0,0,1,True,2012-08-29,Stolen,2B,2012
+776,1B,2B,Stolen Base 2B,477054,Trayvon Robinson,Joe Mauer,1,2,5,True,2012-08-28,Stolen,2B,2012
+777,1B,2B,Stolen Base 2B,477054,Trayvon Robinson,Joe Mauer,1,5,9,True,2012-08-28,Stolen,2B,2012
+1129,1B,2B,Stolen Base 2B,477054,Trayvon Robinson,Bobby Wilson,1,1,5,True,2012-08-12,Stolen,2B,2012
+1147,1B,2B,Stolen Base 2B,477054,Trayvon Robinson,Chris Iannetta,0,5,4,True,2012-08-11,Stolen,2B,2012
+1247,1B,,Caught Stealing 2B,477054,Trayvon Robinson,Matt Wieters,2,5,4,True,2012-08-07,Caught,2B,2012
+1510,1B,2B,Stolen Base 2B,477054,Trayvon Robinson,Brayan Peña,0,1,2,False,2012-07-28,Stolen,2B,2012

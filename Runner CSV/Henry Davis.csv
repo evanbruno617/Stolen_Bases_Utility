@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1559,2B,,Caught Stealing 3B,680779,Henry Davis,Luis Campusano,1,3,9,True,2023-07-26,Caught,3B,2023
+1794,2B,3B,Stolen Base 3B,680779,Henry Davis,Patrick Bailey,2,3,6,False,2023-07-16,Stolen,3B,2023
+1867,1B,,Caught Stealing 2B,680779,Henry Davis,Carson Kelly,2,3,8,True,2023-07-09,Caught,2B,2023
+2153,1B,2B,Stolen Base 2B,680779,Henry Davis,Gary Sánchez,7,1,7,False,2023-06-28,Stolen,2B,2023
+2265,1B,2B,Stolen Base 2B,680779,Henry Davis,Nick Fortes,1,0,8,True,2023-06-23,Stolen,2B,2023

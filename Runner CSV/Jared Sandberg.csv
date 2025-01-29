@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+27,1B,2B,Stolen Base 2B,277409,Jared Sandberg,Doug Mirabelli,1,1,4,True,2002-09-28,Stolen,2B,2002
+630,1B,,Caught Stealing 2B,277409,Jared Sandberg,José Molina,4,0,2,True,2002-08-29,Caught,2B,2002
+767,1B,2B,Stolen Base 2B,277409,Jared Sandberg,Brook Fordyce,2,2,7,True,2002-08-22,Stolen,2B,2002
+1213,1B,2B,Stolen Base 2B,277409,Jared Sandberg,Geronimo Gil,1,4,4,False,2002-07-31,Stolen,2B,2002
+2311,1B,,Caught Stealing 2B,277409,Jared Sandberg,Tom Lampkin,2,1,7,False,2002-06-08,Caught,2B,2002
+3767,1B,2B,Stolen Base 2B,277409,Jared Sandberg,Brook Fordyce,2,2,7,True,2002-04-09,Stolen,2B,2002

@@ -1,0 +1,61 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+65,1B,2B,Stolen Base 2B,425497,Nook Logan,Sandy Alomar Jr.,2,2,4,False,2004-09-28,Stolen,2B,2004
+418,1B,2B,Stolen Base 2B,425497,Nook Logan,Pat Borders,0,2,3,False,2004-09-11,Stolen,2B,2004
+567,1B,2B,Stolen Base 2B,425497,Nook Logan,Toby Hall,0,4,4,True,2004-09-03,Stolen,2B,2004
+569,1B,2B,Stolen Base 2B,425497,Nook Logan,Toby Hall,2,4,6,True,2004-09-03,Stolen,2B,2004
+1032,2B,3B,Stolen Base 3B,425497,Nook Logan,Adam Melhuse,4,1,5,True,2004-08-10,Stolen,3B,2004
+1354,1B,2B,Stolen Base 2B,425497,Nook Logan,Ben Davis,1,1,3,True,2004-07-25,Stolen,2B,2004
+422,1B,2B,Stolen Base 2B,425497,Nook Logan,John Buck,3,3,6,False,2005-09-10,Stolen,2B,2005
+549,1B,2B,Stolen Base 2B,425497,Nook Logan,A.J. Pierzynski,1,1,3,True,2005-09-03,Stolen,2B,2005
+701,2B,3B,Stolen Base 3B,425497,Nook Logan,Doug Mirabelli,9,8,8,True,2005-08-26,Stolen,3B,2005
+918,1B,,Caught Stealing 2B,425497,Nook Logan,Paul Phillips,5,6,6,True,2005-08-14,Caught,2B,2005
+1112,1B,2B,Stolen Base 2B,425497,Nook Logan,Wiki Gonzalez,2,1,7,False,2005-08-04,Stolen,2B,2005
+1453,1B,2B,Stolen Base 2B,425497,Nook Logan,A.J. Pierzynski,1,3,5,True,2005-07-18,Stolen,2B,2005
+1643,1B,2B,Stolen Base 2B,425497,Nook Logan,Victor Martinez,1,5,6,True,2005-07-06,Stolen,2B,2005
+1729,1B,2B,Stolen Base 2B,425497,Nook Logan,Jorge Posada,0,0,3,False,2005-07-02,Stolen,2B,2005
+1756,1B,2B,Stolen Base 2B,425497,Nook Logan,Jorge Posada,7,2,6,False,2005-07-01,Stolen,2B,2005
+1874,2B,,Caught Stealing 3B,425497,Nook Logan,Chris Snyder,2,1,7,True,2005-06-24,Caught,3B,2005
+1903,1B,2B,Stolen Base 2B,425497,Nook Logan,Joe Mauer,4,0,5,True,2005-06-23,Stolen,2B,2005
+2058,1B,2B,Stolen Base 2B,425497,Nook Logan,Ramon Hernandez,5,1,3,False,2005-06-15,Stolen,2B,2005
+2077,1B,2B,Stolen Base 2B,425497,Nook Logan,Ramon Hernandez,2,1,3,False,2005-06-14,Stolen,2B,2005
+2118,1B,2B,Stolen Base 2B,425497,Nook Logan,JD Closser,4,4,6,True,2005-06-11,Stolen,2B,2005
+2217,1B,2B,Stolen Base 2B,425497,Nook Logan,Sal Fasano,2,4,6,False,2005-06-05,Stolen,2B,2005
+2218,2B,3B,Stolen Base 3B,425497,Nook Logan,Sal Fasano,2,4,6,False,2005-06-05,Stolen,3B,2005
+2224,1B,2B,Stolen Base 2B,425497,Nook Logan,Sal Fasano,3,3,2,False,2005-06-04,Stolen,2B,2005
+2258,1B,,Caught Stealing 2B,425497,Nook Logan,Geronimo Gil,0,1,3,False,2005-06-03,Caught,2B,2005
+2270,1B,2B,Stolen Base 2B,425497,Nook Logan,Sandy Alomar Jr.,1,2,3,False,2005-06-02,Stolen,2B,2005
+2370,1B,2B,Stolen Base 2B,425497,Nook Logan,Sal Fasano,2,1,5,True,2005-05-28,Stolen,2B,2005
+2413,1B,2B,Stolen Base 2B,425497,Nook Logan,Jorge Posada,1,3,4,True,2005-05-26,Stolen,2B,2005
+2577,1B,2B,Stolen Base 2B,425497,Nook Logan,Toby Hall,6,4,6,False,2005-05-18,Stolen,2B,2005
+2711,1B,2B,Stolen Base 2B,425497,Nook Logan,Sandy Alomar Jr.,4,6,9,True,2005-05-11,Stolen,2B,2005
+2747,1B,,Caught Stealing 2B,425497,Nook Logan,Sandy Alomar Jr.,0,0,6,True,2005-05-09,Caught,2B,2005
+2960,1B,2B,Stolen Base 2B,425497,Nook Logan,A.J. Pierzynski,0,0,1,True,2005-04-30,Stolen,2B,2005
+3061,2B,3B,Stolen Base 3B,425497,Nook Logan,Joe Mauer,6,4,8,False,2005-04-25,Stolen,3B,2005
+3084,2B,3B,Stolen Base 3B,425497,Nook Logan,Joe Mauer,6,4,8,False,2005-04-23,Stolen,3B,2005
+3227,1B,2B,Stolen Base 2B,425497,Nook Logan,John Buck,0,4,4,True,2005-04-17,Stolen,2B,2005
+93,1B,2B,Stolen Base 2B,425497,Nook Logan,Paul Lo Duca,6,7,8,True,2007-09-26,Stolen,2B,2007
+231,1B,2B,Stolen Base 2B,425497,Nook Logan,Carlos Ruiz,6,6,7,False,2007-09-20,Stolen,2B,2007
+301,1B,2B,Stolen Base 2B,425497,Nook Logan,Mike DiFelice,12,4,7,False,2007-09-17,Stolen,2B,2007
+488,1B,2B,Stolen Base 2B,425497,Nook Logan,Miguel Olivo,0,0,1,True,2007-09-10,Stolen,2B,2007
+752,1B,,Caught Stealing 2B,425497,Nook Logan,Russell Martin,0,4,2,True,2007-08-29,Caught,2B,2007
+884,1B,2B,Stolen Base 2B,425497,Nook Logan,Brad Ausmus,0,0,1,True,2007-08-22,Stolen,2B,2007
+911,1B,2B,Stolen Base 2B,425497,Nook Logan,Brad Ausmus,3,5,5,True,2007-08-21,Stolen,2B,2007
+972,1B,2B,Stolen Base 2B,425497,Nook Logan,Mike DiFelice,4,6,8,False,2007-08-18,Stolen,2B,2007
+1176,1B,2B,Stolen Base 2B,425497,Nook Logan,Bengie Molina,1,3,5,True,2007-08-09,Stolen,2B,2007
+1218,2B,3B,Stolen Base 3B,425497,Nook Logan,Bengie Molina,6,7,8,True,2007-08-07,Stolen,3B,2007
+1235,1B,2B,Stolen Base 2B,425497,Nook Logan,Bengie Molina,1,1,9,True,2007-08-06,Stolen,2B,2007
+1263,2B,3B,Stolen Base 3B,425497,Nook Logan,Gary Bennett,3,3,8,False,2007-08-05,Stolen,3B,2007
+1285,1B,2B,Stolen Base 2B,425497,Nook Logan,Yadier Molina,4,1,4,False,2007-08-04,Stolen,2B,2007
+1487,1B,,Caught Stealing 2B,425497,Nook Logan,Carlos Ruiz,1,2,2,True,2007-07-26,Caught,2B,2007
+1506,1B,2B,Stolen Base 2B,425497,Nook Logan,Carlos Ruiz,0,1,3,True,2007-07-25,Stolen,2B,2007
+1762,1B,2B,Stolen Base 2B,425497,Nook Logan,Miguel Olivo,0,0,1,True,2007-07-15,Stolen,2B,2007
+1876,1B,2B,Stolen Base 2B,425497,Nook Logan,Damian Miller,4,3,7,False,2007-07-07,Stolen,2B,2007
+1922,1B,2B,Stolen Base 2B,425497,Nook Logan,Koyie Hill,0,1,5,False,2007-07-05,Stolen,2B,2007
+1985,1B,2B,Stolen Base 2B,425497,Nook Logan,Rob Bowen,0,2,1,False,2007-07-02,Stolen,2B,2007
+2385,1B,2B,Stolen Base 2B,425497,Nook Logan,Paul Bako,1,3,9,True,2007-06-14,Stolen,2B,2007
+2477,1B,2B,Stolen Base 2B,425497,Nook Logan,Joe Mauer,1,0,3,True,2007-06-09,Stolen,2B,2007
+2557,2B,3B,Stolen Base 3B,425497,Nook Logan,Ronny Paulino,2,1,4,False,2007-06-06,Stolen,3B,2007
+2860,1B,,Caught Stealing 2B,425497,Nook Logan,Javier Valentin,5,7,5,True,2007-05-21,Caught,2B,2007
+2887,1B,2B,Stolen Base 2B,425497,Nook Logan,Paul Bako,1,0,3,False,2007-05-20,Stolen,2B,2007
+2888,2B,3B,Stolen Base 3B,425497,Nook Logan,Paul Bako,1,0,3,False,2007-05-20,Stolen,3B,2007
+2940,1B,2B,Stolen Base 2B,425497,Nook Logan,Ramon Hernandez,4,5,9,False,2007-05-18,Stolen,2B,2007

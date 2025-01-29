@@ -1,0 +1,13 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,518934,DJ LeMahieu,Logan Porter,0,0,1,True,2023-09-30,Stolen,2B,2023
+1B,2B,Stolen Base 2B,665926,Andrés Giménez,Logan Porter,7,2,6,True,2023-09-19,Stolen,2B,2023
+1B,2B,Stolen Base 2B,608070,José Ramírez,Logan Porter,0,2,3,True,2023-09-18,Stolen,2B,2023
+1B,,Caught Stealing 2B,665926,Andrés Giménez,Logan Porter,1,4,6,True,2023-09-18,Caught,2B,2023
+1B,2B,Stolen Base 2B,666310,Bo Naylor,Logan Porter,2,4,7,True,2023-09-18,Stolen,2B,2023
+1B,2B,Stolen Base 2B,664702,Myles Straw,Logan Porter,2,4,7,True,2023-09-18,Stolen,2B,2023
+1B,2B,Stolen Base 2B,665926,Andrés Giménez,Logan Porter,2,4,8,True,2023-09-18,Stolen,2B,2023
+1B,2B,Stolen Base 2B,676801,Chas McCormick,Logan Porter,0,0,2,True,2023-09-17,Stolen,2B,2023
+1B,2B,Stolen Base 2B,676801,Chas McCormick,Logan Porter,1,4,8,True,2023-09-17,Stolen,2B,2023
+1B,2B,Stolen Base 2B,669222,Nick Senzel,Logan Porter,7,4,4,False,2022-04-04,Stolen,2B,2022
+1B,2B,Stolen Base 2B,663697,Jonathan India,Logan Porter,7,4,4,False,2022-04-04,Stolen,2B,2022
+2B,,Caught Stealing 3B,699115,Carlos Jorge,Logan Porter,10,6,8,False,2022-04-04,Caught,3B,2022

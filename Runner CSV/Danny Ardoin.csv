@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+417,1B,,Caught Stealing 2B,150416,Danny Ardoin,Kelly Stinnett,2,6,5,False,2005-09-10,Caught,2B,2005
+2175,1B,2B,Stolen Base 2B,150416,Danny Ardoin,A.J. Pierzynski,0,0,2,False,2005-06-07,Stolen,2B,2005
+816,1B,2B,Stolen Base 2B,150416,Danny Ardoin,Yorvit Torrealba,3,0,2,False,2008-08-20,Stolen,2B,2008

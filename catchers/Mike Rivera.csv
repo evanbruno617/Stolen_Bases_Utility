@@ -1,0 +1,5 @@
+Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1B,2B,Stolen Base 2B,640449,Clint Frazier,615698,Cal Quantrill,543228,Yan Gomes,R,Mike Rivera,657741,0,1,3,True,2022-04-03,Stolen,2B
+2B,,Caught Stealing 3B,621550,Patrick Wisdom,615698,Cal Quantrill,663845,Alfonso Rivas III,R,Mike Rivera,657741,0,2,3,True,2022-04-03,Caught,3B
+1B,2B,Stolen Base 2B,641684,Michael Hermosillo,615698,Cal Quantrill,545121,Ildemaro Vargas,R,Mike Rivera,657741,0,2,4,True,2022-04-03,Stolen,2B
+1B,2B,Stolen Base 2B,669450,Cooper Hummel,668676,Zach Plesac,608348,Carson Kelly,R,Mike Rivera,657741,0,0,1,True,2022-04-01,Stolen,2B

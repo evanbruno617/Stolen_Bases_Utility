@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1285,1B,2B,Stolen Base 2B,110010,Jeff Abbott,Ramon Hernandez,7,0,3,False,2000-08-06,Stolen,2B,2000
+3300,1B,2B,Stolen Base 2B,110010,Jeff Abbott,Brian Johnson,1,1,2,True,2000-05-05,Stolen,2B,2000

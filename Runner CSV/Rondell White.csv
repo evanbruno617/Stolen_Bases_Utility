@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+865,1B,,Caught Stealing 2B,124185,Rondell White,Todd Hundley,4,4,6,False,2000-08-26,Caught,2B,2000
+1092,1B,,Caught Stealing 2B,124185,Rondell White,Carlos Hernandez,5,2,5,False,2000-08-14,Caught,2B,2000
+2562,1B,,Caught Stealing 2B,124185,Rondell White,Jorge Posada,1,1,3,False,2000-06-06,Caught,2B,2000
+2624,1B,2B,Stolen Base 2B,124185,Rondell White,Greg Myers,0,0,4,False,2000-06-04,Stolen,2B,2000
+2642,1B,2B,Stolen Base 2B,124185,Rondell White,Charles Johnson,0,0,1,False,2000-06-03,Stolen,2B,2000
+2691,1B,2B,Stolen Base 2B,124185,Rondell White,Charles Johnson,3,2,6,False,2000-06-02,Stolen,2B,2000
+2694,1B,2B,Stolen Base 2B,124185,Rondell White,Charles Johnson,5,2,8,False,2000-06-02,Stolen,2B,2000
+2886,1B,2B,Stolen Base 2B,124185,Rondell White,Doug Mirabelli,2,3,8,True,2000-05-23,Stolen,2B,2000
+659,2B,3B,Stolen Base 3B,124185,Rondell White,Jason Varitek,0,2,7,True,2002-08-28,Stolen,3B,2002
+1270,1B,,Caught Stealing 2B,124185,Rondell White,John Flaherty,0,4,4,True,2002-07-28,Caught,2B,2002
+1739,1B,,Caught Stealing 2B,124185,Rondell White,Tom Wilson,3,0,2,False,2002-07-05,Caught,2B,2002
+131,1B,2B,Caught Stealing Home,124185,Rondell White,Matt Walbeck,6,7,4,False,2003-09-23,Caught,Home,2003
+1021,2B,3B,Caught Stealing 2B,124185,Rondell White,Jason LaRue,0,0,4,False,2003-08-08,Caught,2B,2003
+2677,1B,,Caught Stealing 2B,124185,Rondell White,Javy Lopez,2,3,3,False,2003-05-16,Caught,2B,2003
+3295,1B,,Caught Stealing 2B,124185,Rondell White,Paul Lo Duca,0,0,4,True,2003-04-16,Caught,2B,2003
+3490,1B,2B,Stolen Base 2B,124185,Rondell White,Paul Lo Duca,0,0,2,False,2003-04-05,Stolen,2B,2003
+2937,1B,2B,Stolen Base 2B,124185,Rondell White,Bengie Molina,0,2,1,True,2004-05-03,Stolen,2B,2004
+3021,1B,,Caught Stealing 2B,124185,Rondell White,Dan Wilson,0,1,4,False,2004-04-30,Caught,2B,2004
+2961,1B,2B,Stolen Base 2B,124185,Rondell White,A.J. Pierzynski,0,1,1,True,2005-04-30,Stolen,2B,2005

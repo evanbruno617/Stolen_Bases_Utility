@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+92,2B,,Caught Stealing 3B,488671,Alex Avila,Luke Carlin,0,1,4,True,2010-09-27,Caught,3B,2010
+2347,1B,2B,Stolen Base 2B,488671,Alex Avila,Jason Jaramillo,6,1,6,False,2010-06-11,Stolen,2B,2010
+2847,1B,2B,Stolen Base 2B,488671,Alex Avila,Kurt Suzuki,1,3,4,True,2010-05-20,Stolen,2B,2010
+1080,1B,,Caught Stealing 2B,488671,Alex Avila,Drew Butera,2,0,4,False,2011-08-16,Caught,2B,2011
+2625,1B,2B,Stolen Base 2B,488671,Alex Avila,Miguel Olivo,1,0,2,False,2011-06-12,Stolen,2B,2011
+3564,1B,2B,Stolen Base 2B,488671,Alex Avila,Francisco Cervelli,4,0,6,False,2011-05-04,Stolen,2B,2011
+4302,1B,2B,Stolen Base 2B,488671,Alex Avila,Matt Wieters,3,7,8,True,2011-04-06,Stolen,2B,2011
+3068,1B,2B,Stolen Base 2B,488671,Alex Avila,Rod Barajas,4,2,7,False,2012-05-20,Stolen,2B,2012
+3973,1B,2B,Stolen Base 2B,488671,Alex Avila,Jose Lobaton,0,1,5,False,2012-04-12,Stolen,2B,2012
+2563,1B,,Caught Stealing 2B,488671,Alex Avila,Robinson Chirinos,2,3,4,False,2014-05-25,Caught,2B,2014
+3230,1B,,Caught Stealing 2B,488671,Alex Avila,Adrian Nieto,1,1,2,False,2014-04-22,Caught,2B,2014
+3698,1B,,Caught Stealing 2B,488671,Alex Avila,Brett Hayes,0,0,3,False,2014-04-02,Caught,2B,2014
+1994,1B,,Caught Stealing 2B,488671,Alex Avila,Jeff Mathis,0,2,1,False,2017-06-13,Caught,2B,2017
+1980,1B,2B,Stolen Base 2B,488671,Alex Avila,Chris Iannetta,0,0,2,True,2019-05-28,Stolen,2B,2019

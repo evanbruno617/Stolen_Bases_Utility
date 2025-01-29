@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+4,1B,2B,Stolen Base 2B,641598,Mitch Garver,Dustin Garneau,7,6,7,False,2021-09-30,Stolen,2B,2021
+1025,1B,,Caught Stealing 2B,641598,Mitch Garver,Eric Haase,5,3,8,False,2021-07-26,Caught,2B,2021
+2213,1B,2B,Stolen Base 2B,641598,Mitch Garver,Francisco Mejía,5,2,5,False,2022-05-30,Stolen,2B,2022

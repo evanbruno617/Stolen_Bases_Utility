@@ -1,0 +1,9 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,623,1B,2B,Stolen Base 2B,461416,Will Venable,608665,Kendall Graveman,519025,Will Middlebrooks,R,Josh Phegley,572033,1,2,7,True,2015-06-18,Stolen,2B,2015,2016,24.6
+1,705,1B,2B,Stolen Base 2B,461416,Will Venable,502211,Mike Bolsinger,500208,Yangervis Solarte,R,Yasmani Grandal,518735,0,0,5,False,2015-06-14,Stolen,2B,2015,2016,24.6
+2,817,1B,2B,Stolen Base 2B,461416,Will Venable,571946,Shelby Miller,457708,Justin Upton,R,A.J. Pierzynski,150229,0,1,3,True,2015-06-08,Stolen,2B,2015,2016,24.6
+3,1097,1B,2B,Stolen Base 2B,461416,Will Venable,477569,Fernando Salas,461314,Matt Kemp,R,Carlos Pérez,542208,3,3,7,True,2015-05-25,Stolen,2B,2015,2016,24.6
+4,1241,1B,2B,Stolen Base 2B,461416,Will Venable,434628,Jason Hammel,576397,Jedd Gyorko,R,Miguel Montero,471083,2,2,7,False,2015-05-19,Stolen,2B,2015,2016,24.6
+5,1407,1B,2B,Stolen Base 2B,461416,Will Venable,500724,JC Ramírez,576397,Jedd Gyorko,R,Tuffy Gosewisch,488912,2,1,6,True,2015-05-10,Stolen,2B,2015,2016,24.6
+6,1466,2B,,Caught Stealing 3B,461416,Will Venable,542609,Enrique Burgos,506560,Alexi Amarista,R,Tuffy Gosewisch,488912,5,6,7,True,2015-05-08,Caught,3B,2015,2016,24.6
+7,2231,1B,2B,Stolen Base 2B,461416,Will Venable,502188,Jeff Samardzija,576397,Jedd Gyorko,R,Geovany Soto,434567,0,5,1,True,2015-04-01,Stolen,2B,2015,2016,24.6

@@ -1,0 +1,24 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,502481,Jarrod Dyson,Hector Gimenez,1,4,3,False,2013-06-23,Stolen,2B,2013
+1B,2B,Stolen Base 2B,460086,Alex Gordon,Hector Gimenez,1,4,3,False,2013-06-23,Stolen,2B,2013
+1B,,Caught Stealing 2B,542455,Oswaldo Arcia,Hector Gimenez,8,4,7,False,2013-06-20,Caught,2B,2013
+1B,2B,Stolen Base 2B,488681,Brandon Barnes,Hector Gimenez,2,0,3,False,2013-06-17,Stolen,2B,2013
+1B,2B,Stolen Base 2B,488681,Brandon Barnes,Hector Gimenez,2,0,5,False,2013-06-17,Stolen,2B,2013
+1B,2B,Stolen Base 2B,430592,Ronny Cedeno,Hector Gimenez,2,4,6,False,2013-06-17,Stolen,2B,2013
+1B,2B,Stolen Base 2B,514888,Jose Altuve,Hector Gimenez,2,4,7,False,2013-06-17,Stolen,2B,2013
+1B,2B,Stolen Base 2B,545338,Nick Franklin,Hector Gimenez,0,0,2,False,2013-06-05,Stolen,2B,2013
+1B,2B,Stolen Base 2B,545338,Nick Franklin,Hector Gimenez,5,5,15,False,2013-06-05,Stolen,2B,2013
+1B,,Caught Stealing 2B,334393,Juan Pierre,Hector Gimenez,1,0,6,True,2013-05-25,Caught,2B,2013
+1B,2B,Stolen Base 2B,448605,Justin Ruggiano,Hector Gimenez,3,2,7,True,2013-05-24,Stolen,2B,2013
+1B,2B,Stolen Base 2B,588751,Adeiny Hechavarría,Hector Gimenez,3,3,8,True,2013-05-24,Stolen,2B,2013
+1B,,Caught Stealing 2B,545361,Mike Trout,Hector Gimenez,5,4,7,False,2013-05-18,Caught,2B,2013
+1B,2B,Stolen Base 2B,465753,Pedro Florimón,Hector Gimenez,3,5,6,False,2013-05-15,Stolen,2B,2013
+1B,2B,Stolen Base 2B,456715,Lorenzo Cain,Hector Gimenez,5,5,10,False,2013-05-05,Stolen,2B,2013
+1B,2B,Stolen Base 2B,430637,Kelly Johnson,Hector Gimenez,0,3,4,True,2013-04-26,Stolen,2B,2013
+1B,,Caught Stealing 2B,493128,Munenori Kawasaki,Hector Gimenez,1,1,5,False,2013-04-16,Caught,2B,2013
+1B,,Caught Stealing 2B,150324,Carlos Lee,Hector Gimenez,1,2,4,False,2012-04-03,Caught,2B,2012
+1B,2B,Stolen Base 2B,448605,Justin Ruggiano,Hector Gimenez,1,4,5,False,2012-04-03,Stolen,2B,2012
+1B,,Caught Stealing 2B,518960,Jonathan Lucroy,Hector Gimenez,0,3,2,True,2012-04-02,Caught,2B,2012
+1B,2B,Stolen Base 2B,285131,Cesar Izturis,Hector Gimenez,6,3,4,True,2012-04-02,Stolen,2B,2012
+1B,2B,Stolen Base 2B,408252,Brandon Phillips,Hector Gimenez,0,1,1,False,2012-04-01,Stolen,2B,2012
+1B,2B,Stolen Base 2B,474832,Brandon Belt,Hector Gimenez,0,5,6,True,2011-04-02,Stolen,2B,2011

@@ -1,0 +1,14 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,580,1B,2B,Stolen Base 2B,527038,Wilmer Flores,592233,Stefan Crichton,543063,Brandon Crawford,R,Stephen Vogt,519390,2,4,7,True,2020-08-29,Stolen,2B,2020,2021,24.6
+1,3423,1B,2B,Stolen Base 2B,527038,Wilmer Flores,592233,Stefan Crichton,543063,Brandon Crawford,R,Stephen Vogt,519390,2,4,7,True,2020-08-29,Stolen,2B,2020,2021,24.6
+2,5347,1B,2B,Stolen Base 2B,527038,Wilmer Flores,592233,Stefan Crichton,543063,Brandon Crawford,R,Stephen Vogt,519390,2,4,7,True,2020-08-29,Stolen,2B,2020,2021,24.6
+3,2221,1B,2B,Stolen Base 2B,527038,Wilmer Flores,622250,Josh Sborz,596103,Austin Slater,R,Jonah Heim,641680,3,1,8,False,2021-05-10,Stolen,2B,2021,2022,25.3
+4,4145,1B,2B,Stolen Base 2B,527038,Wilmer Flores,622250,Josh Sborz,596103,Austin Slater,R,Jonah Heim,641680,3,1,8,False,2021-05-10,Stolen,2B,2021,2022,25.3
+5,1585,2B,,Caught Stealing 3B,527038,Wilmer Flores,591693,Edubray Ramos,425784,René Rivera,R,Jorge Alfaro,595751,5,6,8,True,2017-08-11,Caught,3B,2017,2018,25.7
+6,4009,1B,2B,Stolen Base 2B,527038,Wilmer Flores,571871,Ian Krol,408314,José Reyes,L,Tyler Flowers,452095,0,0,7,False,2017-04-03,Stolen,2B,2017,2018,25.7
+7,957,2B,,Caught Stealing 3B,527038,Wilmer Flores,591693,Edubray Ramos,425784,René Rivera,R,Jorge Alfaro,595751,5,6,8,True,2017-08-11,Caught,3B,2017,2018,25.7
+8,3381,1B,2B,Stolen Base 2B,527038,Wilmer Flores,571871,Ian Krol,408314,José Reyes,L,Tyler Flowers,452095,0,0,7,False,2017-04-03,Stolen,2B,2017,2018,25.7
+9,6762,1B,2B,Stolen Base 2B,527038,Wilmer Flores,431148,Scott Kazmir,434158,Curtis Granderson,L,A.J. Ellis,454560,0,3,4,True,2016-05-09,Stolen,2B,2016,2017,25.7
+10,2727,1B,2B,Stolen Base 2B,527038,Wilmer Flores,431148,Scott Kazmir,434158,Curtis Granderson,L,A.J. Ellis,454560,0,3,4,True,2016-05-09,Stolen,2B,2016,2017,25.7
+11,6134,1B,2B,Stolen Base 2B,527038,Wilmer Flores,431148,Scott Kazmir,434158,Curtis Granderson,L,A.J. Ellis,454560,0,3,4,True,2016-05-09,Stolen,2B,2016,2017,25.7
+12,2192,1B,2B,Stolen Base 2B,527038,Wilmer Flores,548337,Logan Verrett,476192,Johnny Monell,R,Robinson Chirinos,455139,0,1,2,True,2015-04-03,Stolen,2B,2015,2016,25.5

@@ -1,0 +1,26 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,115394,Jeffrey Hammonds,Lenny Webster,0,1,2,True,2000-08-13,Stolen,2B,2000
+1B,2B,Stolen Base 2B,334393,Juan Pierre,Lenny Webster,0,1,3,True,2000-08-13,Stolen,2B,2000
+2B,3B,Stolen Base 3B,115394,Jeffrey Hammonds,Lenny Webster,0,1,4,True,2000-08-13,Stolen,3B,2000
+1B,2B,Stolen Base 2B,115732,Todd Helton,Lenny Webster,0,1,4,True,2000-08-13,Stolen,2B,2000
+1B,2B,Stolen Base 2B,124523,Tony Womack,Lenny Webster,1,3,3,False,2000-08-08,Stolen,2B,2000
+1B,,Caught Stealing 2B,150058,Glen Barker,Lenny Webster,6,1,7,False,2000-08-06,Caught,2B,2000
+1B,2B,Stolen Base 2B,115529,Lenny Harris,Lenny Webster,3,2,3,False,2000-07-27,Stolen,2B,2000
+1B,,Caught Stealing 2B,120536,Mike Piazza,Lenny Webster,4,3,8,False,2000-07-27,Caught,2B,2000
+1B,2B,Stolen Base 2B,114233,Darrin Fletcher,Lenny Webster,0,0,2,True,2000-07-09,Stolen,2B,2000
+1B,,Caught Stealing 2B,112116,Luis Castillo,Lenny Webster,0,0,1,True,2000-07-01,Caught,2B,2000
+1B,2B,Stolen Base 2B,133343,Preston Wilson,Lenny Webster,2,6,5,True,2000-07-01,Stolen,2B,2000
+2B,3B,Stolen Base 3B,121058,Desi Relaford,Lenny Webster,1,3,7,True,2000-06-24,Stolen,3B,2000
+1B,2B,Stolen Base 2B,121974,Kevin Sefcik,Lenny Webster,1,4,7,True,2000-06-24,Stolen,2B,2000
+1B,2B,Stolen Base 2B,110987,Craig Biggio,Lenny Webster,0,0,1,True,2000-05-20,Stolen,2B,2000
+1B,2B,Stolen Base 2B,116641,Russ Johnson,Lenny Webster,8,4,7,True,2000-05-20,Stolen,2B,2000
+1B,2B,Stolen Base 2B,110987,Craig Biggio,Lenny Webster,1,0,3,True,2000-05-19,Stolen,2B,2000
+1B,2B,Stolen Base 2B,112155,Roger Cedeno,Lenny Webster,1,1,5,True,2000-05-19,Stolen,2B,2000
+2B,3B,Stolen Base 3B,112155,Roger Cedeno,Lenny Webster,1,1,5,True,2000-05-19,Stolen,3B,2000
+1B,2B,Stolen Base 2B,110987,Craig Biggio,Lenny Webster,1,1,7,True,2000-05-19,Stolen,2B,2000
+1B,,Caught Stealing 2B,112155,Roger Cedeno,Lenny Webster,2,2,9,True,2000-05-19,Caught,2B,2000
+1B,2B,Stolen Base 2B,114844,Doug Glanville,Lenny Webster,0,0,1,True,2000-05-10,Stolen,2B,2000
+1B,2B,Stolen Base 2B,114961,Tom Goodwin,Lenny Webster,1,1,3,False,2000-05-01,Stolen,2B,2000
+1B,,Caught Stealing 2B,114961,Tom Goodwin,Lenny Webster,5,5,4,False,2000-05-01,Caught,2B,2000
+1B,2B,Stolen Base 2B,124695,Eric Young Sr.,Lenny Webster,0,1,3,True,2000-04-20,Stolen,2B,2000
+1B,2B,Stolen Base 2B,120140,Eric Owens,Lenny Webster,0,6,3,True,2000-04-07,Stolen,2B,2000

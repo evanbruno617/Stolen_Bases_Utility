@@ -1,0 +1,11 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3650,1B,,Caught Stealing 2B,624407,Tzu-Wei Lin,625643,Reynaldo López,506702,Sandy León,R,Welington Castillo,456078,0,3,2,True,2019-05-03,Caught,2B,2019,2020,27.5
+1,3707,1B,2B,Stolen Base 2B,624407,Tzu-Wei Lin,593423,Frankie Montas,605141,Mookie Betts,R,Josh Phegley,572033,6,4,4,False,2019-04-29,Stolen,2B,2019,2020,27.5
+2,6493,1B,,Caught Stealing 2B,624407,Tzu-Wei Lin,625643,Reynaldo López,506702,Sandy León,R,Welington Castillo,456078,0,3,2,True,2019-05-03,Caught,2B,2019,2020,27.5
+3,6550,1B,2B,Stolen Base 2B,624407,Tzu-Wei Lin,593423,Frankie Montas,605141,Mookie Betts,R,Josh Phegley,572033,6,4,4,False,2019-04-29,Stolen,2B,2019,2020,27.5
+4,8417,1B,,Caught Stealing 2B,624407,Tzu-Wei Lin,625643,Reynaldo López,506702,Sandy León,R,Welington Castillo,456078,0,3,2,True,2019-05-03,Caught,2B,2019,2020,27.5
+5,8474,1B,2B,Stolen Base 2B,624407,Tzu-Wei Lin,593423,Frankie Montas,605141,Mookie Betts,R,Josh Phegley,572033,6,4,4,False,2019-04-29,Stolen,2B,2019,2020,27.5
+6,2093,1B,,Caught Stealing 2B,624407,Tzu-Wei Lin,461325,Tyler Clippard,456030,Dustin Pedroia,R,Gary Sánchez,596142,1,0,8,False,2017-07-15,Caught,2B,2017,2018,27.7
+7,2209,1B,2B,Stolen Base 2B,624407,Tzu-Wei Lin,506433,Yu Darvish,605141,Mookie Betts,R,Robinson Chirinos,455139,0,2,2,True,2017-07-04,Stolen,2B,2017,2018,27.7
+8,1465,1B,,Caught Stealing 2B,624407,Tzu-Wei Lin,461325,Tyler Clippard,456030,Dustin Pedroia,R,Gary Sánchez,596142,1,0,8,False,2017-07-15,Caught,2B,2017,2018,27.7
+9,1581,1B,2B,Stolen Base 2B,624407,Tzu-Wei Lin,506433,Yu Darvish,605141,Mookie Betts,R,Robinson Chirinos,455139,0,2,2,True,2017-07-04,Stolen,2B,2017,2018,27.7

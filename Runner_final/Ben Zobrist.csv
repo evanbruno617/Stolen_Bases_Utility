@@ -1,0 +1,43 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,981,1B,,Caught Stealing 2B,450314,Ben Zobrist,607229,Robert Gsellman,592178,Kris Bryant,R,Travis d'Arnaud,518595,0,0,3,False,2017-09-12,Caught,2B,2017,2018,26.7
+1,1460,2B,,Caught Stealing 3B,450314,Ben Zobrist,641835,Tim Mayza,664023,Ian Happ,L,Miguel Montero,471083,5,1,7,False,2017-08-18,Caught,3B,2017,2018,26.7
+2,1909,1B,2B,Stolen Base 2B,450314,Ben Zobrist,607074,Carlos Rodón,592178,Kris Bryant,L,Omar Narváez,553882,4,2,4,False,2017-07-25,Stolen,2B,2017,2018,26.7
+3,1981,1B,2B,Stolen Base 2B,450314,Ben Zobrist,593372,Carlos Martinez,575929,Willson Contreras,R,Carson Kelly,608348,2,0,1,False,2017-07-21,Stolen,2B,2017,2018,26.7
+4,353,1B,,Caught Stealing 2B,450314,Ben Zobrist,607229,Robert Gsellman,592178,Kris Bryant,R,Travis d'Arnaud,518595,0,0,3,False,2017-09-12,Caught,2B,2017,2018,26.7
+5,832,2B,,Caught Stealing 3B,450314,Ben Zobrist,641835,Tim Mayza,664023,Ian Happ,L,Miguel Montero,471083,5,1,7,False,2017-08-18,Caught,3B,2017,2018,26.7
+6,1281,1B,2B,Stolen Base 2B,450314,Ben Zobrist,607074,Carlos Rodón,592178,Kris Bryant,L,Omar Narváez,553882,4,2,4,False,2017-07-25,Stolen,2B,2017,2018,26.7
+7,1353,1B,2B,Stolen Base 2B,450314,Ben Zobrist,593372,Carlos Martinez,575929,Willson Contreras,R,Carson Kelly,608348,2,0,1,False,2017-07-21,Stolen,2B,2017,2018,26.7
+8,4213,1B,2B,Stolen Base 2B,450314,Ben Zobrist,462515,Miguel Socolovich,608365,Addison Russell,R,Yadier Molina,425877,5,0,4,False,2016-09-23,Stolen,2B,2016,2017,27.1
+9,4578,1B,2B,Stolen Base 2B,450314,Ben Zobrist,518715,Cory Gearrin,608365,Addison Russell,R,Buster Posey,457763,2,2,10,False,2016-09-04,Stolen,2B,2016,2017,27.1
+10,5390,1B,,Caught Stealing 2B,450314,Ben Zobrist,448855,Junior Guerra,575929,Willson Contreras,R,Jonathan Lucroy,518960,2,0,4,True,2016-07-24,Caught,2B,2016,2017,27.1
+11,5393,1B,,Caught Stealing 2B,450314,Ben Zobrist,592804,Tyler Thornburg,575929,Willson Contreras,R,Jonathan Lucroy,518960,4,6,7,True,2016-07-24,Caught,2B,2016,2017,27.1
+12,5666,1B,2B,Stolen Base 2B,450314,Ben Zobrist,434538,Francisco Liriano,592178,Kris Bryant,L,Eric Fryer,518700,3,1,5,True,2016-07-08,Stolen,2B,2016,2017,27.1
+13,6093,2B,3B,Stolen Base 3B,450314,Ben Zobrist,461829,Gio González,608365,Addison Russell,L,Jose Lobaton,446653,1,2,4,True,2016-06-14,Stolen,3B,2016,2017,27.1
+14,6578,1B,2B,Stolen Base 2B,450314,Ben Zobrist,448614,Carlos Torres,600303,Tommy La Stella,R,Jonathan Lucroy,518960,1,1,13,True,2016-05-18,Stolen,2B,2016,2017,27.1
+15,6735,1B,,Caught Stealing 2B,450314,Ben Zobrist,607067,Colin Rea,518792,Jason Heyward,R,Derek Norris,519083,2,2,2,False,2016-05-11,Caught,2B,2016,2017,27.1
+16,6757,1B,,Caught Stealing 2B,450314,Ben Zobrist,607067,Colin Rea,518792,Jason Heyward,R,Derek Norris,519083,2,2,2,False,2016-05-09,Caught,2B,2016,2017,27.1
+17,7098,1B,,Caught Stealing 2B,450314,Ben Zobrist,500724,JC Ramírez,595879,Javier Báez,R,Devin Mesoraco,519023,1,4,8,True,2016-04-22,Caught,2B,2016,2017,27.1
+18,7275,1B,2B,Stolen Base 2B,450314,Ben Zobrist,430580,Alfredo Simon,519203,Anthony Rizzo,R,Tucker Barnhart,571466,0,1,1,False,2016-04-13,Stolen,2B,2016,2017,27.1
+19,178,1B,2B,Stolen Base 2B,450314,Ben Zobrist,462515,Miguel Socolovich,608365,Addison Russell,R,Yadier Molina,425877,5,0,4,False,2016-09-23,Stolen,2B,2016,2017,27.1
+20,543,1B,2B,Stolen Base 2B,450314,Ben Zobrist,518715,Cory Gearrin,608365,Addison Russell,R,Buster Posey,457763,2,2,10,False,2016-09-04,Stolen,2B,2016,2017,27.1
+21,1355,1B,,Caught Stealing 2B,450314,Ben Zobrist,448855,Junior Guerra,575929,Willson Contreras,R,Jonathan Lucroy,518960,2,0,4,True,2016-07-24,Caught,2B,2016,2017,27.1
+22,1358,1B,,Caught Stealing 2B,450314,Ben Zobrist,592804,Tyler Thornburg,575929,Willson Contreras,R,Jonathan Lucroy,518960,4,6,7,True,2016-07-24,Caught,2B,2016,2017,27.1
+23,1631,1B,2B,Stolen Base 2B,450314,Ben Zobrist,434538,Francisco Liriano,592178,Kris Bryant,L,Eric Fryer,518700,3,1,5,True,2016-07-08,Stolen,2B,2016,2017,27.1
+24,2058,2B,3B,Stolen Base 3B,450314,Ben Zobrist,461829,Gio González,608365,Addison Russell,L,Jose Lobaton,446653,1,2,4,True,2016-06-14,Stolen,3B,2016,2017,27.1
+25,2543,1B,2B,Stolen Base 2B,450314,Ben Zobrist,448614,Carlos Torres,600303,Tommy La Stella,R,Jonathan Lucroy,518960,1,1,13,True,2016-05-18,Stolen,2B,2016,2017,27.1
+26,2700,1B,,Caught Stealing 2B,450314,Ben Zobrist,607067,Colin Rea,518792,Jason Heyward,R,Derek Norris,519083,2,2,2,False,2016-05-11,Caught,2B,2016,2017,27.1
+27,2722,1B,,Caught Stealing 2B,450314,Ben Zobrist,607067,Colin Rea,518792,Jason Heyward,R,Derek Norris,519083,2,2,2,False,2016-05-09,Caught,2B,2016,2017,27.1
+28,3063,1B,,Caught Stealing 2B,450314,Ben Zobrist,500724,JC Ramírez,595879,Javier Báez,R,Devin Mesoraco,519023,1,4,8,True,2016-04-22,Caught,2B,2016,2017,27.1
+29,3240,1B,2B,Stolen Base 2B,450314,Ben Zobrist,430580,Alfredo Simon,519203,Anthony Rizzo,R,Tucker Barnhart,571466,0,1,1,False,2016-04-13,Stolen,2B,2016,2017,27.1
+30,3585,1B,2B,Stolen Base 2B,450314,Ben Zobrist,462515,Miguel Socolovich,608365,Addison Russell,R,Yadier Molina,425877,5,0,4,False,2016-09-23,Stolen,2B,2016,2017,27.1
+31,3950,1B,2B,Stolen Base 2B,450314,Ben Zobrist,518715,Cory Gearrin,608365,Addison Russell,R,Buster Posey,457763,2,2,10,False,2016-09-04,Stolen,2B,2016,2017,27.1
+32,4762,1B,,Caught Stealing 2B,450314,Ben Zobrist,448855,Junior Guerra,575929,Willson Contreras,R,Jonathan Lucroy,518960,2,0,4,True,2016-07-24,Caught,2B,2016,2017,27.1
+33,4765,1B,,Caught Stealing 2B,450314,Ben Zobrist,592804,Tyler Thornburg,575929,Willson Contreras,R,Jonathan Lucroy,518960,4,6,7,True,2016-07-24,Caught,2B,2016,2017,27.1
+34,5038,1B,2B,Stolen Base 2B,450314,Ben Zobrist,434538,Francisco Liriano,592178,Kris Bryant,L,Eric Fryer,518700,3,1,5,True,2016-07-08,Stolen,2B,2016,2017,27.1
+35,5465,2B,3B,Stolen Base 3B,450314,Ben Zobrist,461829,Gio González,608365,Addison Russell,L,Jose Lobaton,446653,1,2,4,True,2016-06-14,Stolen,3B,2016,2017,27.1
+36,5950,1B,2B,Stolen Base 2B,450314,Ben Zobrist,448614,Carlos Torres,600303,Tommy La Stella,R,Jonathan Lucroy,518960,1,1,13,True,2016-05-18,Stolen,2B,2016,2017,27.1
+37,6107,1B,,Caught Stealing 2B,450314,Ben Zobrist,607067,Colin Rea,518792,Jason Heyward,R,Derek Norris,519083,2,2,2,False,2016-05-11,Caught,2B,2016,2017,27.1
+38,6129,1B,,Caught Stealing 2B,450314,Ben Zobrist,607067,Colin Rea,518792,Jason Heyward,R,Derek Norris,519083,2,2,2,False,2016-05-09,Caught,2B,2016,2017,27.1
+39,6470,1B,,Caught Stealing 2B,450314,Ben Zobrist,500724,JC Ramírez,595879,Javier Báez,R,Devin Mesoraco,519023,1,4,8,True,2016-04-22,Caught,2B,2016,2017,27.1
+40,6647,1B,2B,Stolen Base 2B,450314,Ben Zobrist,430580,Alfredo Simon,519203,Anthony Rizzo,R,Tucker Barnhart,571466,0,1,1,False,2016-04-13,Stolen,2B,2016,2017,27.1
+41,1888,1B,2B,Stolen Base 2B,450314,Ben Zobrist,518633,Danny Duffy,456714,Billy Butler,L,Salvador Perez,521692,0,0,1,True,2015-04-19,Stolen,2B,2015,2016,27.3

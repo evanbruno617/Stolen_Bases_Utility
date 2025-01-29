@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2750,1B,,Caught Stealing 2B,501896,David Freese,Yorvit Torrealba,1,0,4,True,2010-05-25,Caught,2B,2010
+3417,1B,2B,Stolen Base 2B,501896,David Freese,Bengie Molina,0,2,6,True,2010-04-25,Stolen,2B,2010
+3994,1B,2B,Stolen Base 2B,501896,David Freese,Brad Davis,1,3,8,False,2010-04-01,Stolen,2B,2010
+50,1B,2B,Stolen Base 2B,501896,David Freese,Carlos Corporán,0,0,1,True,2011-09-27,Stolen,2B,2011
+3843,1B,2B,Caught Stealing 3B,501896,David Freese,Ramon Hernandez,2,0,4,False,2011-04-23,Caught,3B,2011
+254,1B,,Caught Stealing 2B,501896,David Freese,Chris Snyder,3,0,4,False,2012-09-19,Caught,2B,2012
+707,1B,2B,Stolen Base 2B,501896,David Freese,Jesus Flores,9,10,9,True,2012-09-01,Stolen,2B,2012
+1592,1B,2B,Stolen Base 2B,501896,David Freese,Matt Treanor,3,2,6,False,2012-07-24,Stolen,2B,2012
+2308,1B,2B,Stolen Base 2B,501896,David Freese,Salvador Perez,0,4,1,True,2012-06-22,Stolen,2B,2012
+2428,1B,,Caught Stealing 2B,501896,David Freese,Brayan Peña,6,1,3,False,2012-06-16,Caught,2B,2012
+1043,1B,,Caught Stealing 2B,501896,David Freese,Welington Castillo,0,1,2,False,2013-08-10,Caught,2B,2013
+1774,2B,,Caught Stealing 3B,501896,David Freese,Hank Conger,2,8,5,True,2013-07-03,Caught,3B,2013
+3299,1B,2B,Stolen Base 2B,501896,David Freese,Erik Kratz,0,0,2,True,2013-04-18,Stolen,2B,2013
+904,1B,,Caught Stealing 2B,501896,David Freese,Christian Vázquez,1,2,7,True,2014-08-18,Caught,2B,2014
+1238,1B,,Caught Stealing 2B,501896,David Freese,José Molina,3,4,6,True,2014-08-01,Caught,2B,2014
+1853,1B,2B,Stolen Base 2B,501896,David Freese,Salvador Perez,0,4,6,True,2014-06-28,Stolen,2B,2014
+2176,1B,,Caught Stealing 2B,501896,David Freese,Evan Gattis,4,1,4,True,2014-06-13,Caught,2B,2014
+1990,1B,,Caught Stealing 2B,501896,David Freese,Josh Phegley,1,0,2,False,2015-06-13,Caught,2B,2015
+2895,2B,3B,Stolen Base 3B,501896,David Freese,Josh Phegley,0,1,4,True,2015-04-30,Stolen,3B,2015
+1376,2B,,Caught Stealing 3B,501896,David Freese,Jett Bandy,1,1,4,False,2017-07-19,Caught,3B,2017

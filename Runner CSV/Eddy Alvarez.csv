@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+905,3B,score,Stolen Base Home,657193,Eddy Alvarez,Danny Jansen,0,8,3,True,2020-08-12,Stolen,Home,2020
+957,1B,2B,Stolen Base 2B,657193,Eddy Alvarez,Tomás Nido,2,0,4,True,2020-08-09,Stolen,2B,2020
+1824,1B,2B,Stolen Base 2B,657193,Eddy Alvarez,Luke Maile,2,2,7,False,2022-06-19,Stolen,2B,2022

@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1579,1B,,Caught Stealing 2B,110870,Gary Bennett,Benito Santiago,0,1,5,True,2002-07-14,Caught,2B,2002
+2000,1B,,Caught Stealing 2B,110870,Gary Bennett,John Flaherty,5,1,4,False,2002-06-23,Caught,2B,2002
+2313,1B,2B,Stolen Base 2B,110870,Gary Bennett,Darrin Fletcher,3,1,8,True,2002-06-08,Stolen,2B,2002
+3124,1B,,Caught Stealing 2B,110870,Gary Bennett,Michael Barrett,3,5,6,True,2002-05-07,Caught,2B,2002
+471,1B,2B,Stolen Base 2B,110870,Gary Bennett,Brad Ausmus,3,5,7,False,2003-09-05,Stolen,2B,2003
+593,1B,2B,Stolen Base 2B,110870,Gary Bennett,Raul Chavez,1,6,7,True,2003-08-29,Stolen,2B,2003
+973,1B,2B,Stolen Base 2B,110870,Gary Bennett,Kelly Stinnett,2,0,6,False,2003-08-10,Stolen,2B,2003
+968,1B,2B,Stolen Base 2B,110870,Gary Bennett,Paul Lo Duca,5,0,6,False,2004-08-13,Stolen,2B,2004
+37,1B,,Caught Stealing 2B,110870,Gary Bennett,Mike Lieberthal,2,3,5,False,2005-09-30,Caught,2B,2005
+2679,1B,2B,Caught Stealing Home,110870,Gary Bennett,Michael Barrett,1,0,2,False,2005-05-13,Caught,Home,2005
+1715,1B,,Caught Stealing 2B,110870,Gary Bennett,Matt Treanor,2,3,4,True,2007-07-16,Caught,2B,2007
+2152,2B,3B,Stolen Base 3B,110870,Gary Bennett,Paul Lo Duca,1,1,7,True,2007-06-25,Stolen,3B,2007

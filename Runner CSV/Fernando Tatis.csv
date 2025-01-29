@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+72,1B,,Caught Stealing 2B,123107,Fernando Tatis,Ben Davis,0,0,2,True,2000-09-27,Caught,2B,2000
+1195,1B,,Caught Stealing 2B,123107,Fernando Tatis,Brent Mayne,2,0,3,False,2000-08-10,Caught,2B,2000
+3841,1B,,Caught Stealing 2B,123107,Fernando Tatis,Tony Eusebio,0,1,2,True,2000-04-12,Caught,2B,2000
+4032,1B,2B,Stolen Base 2B,123107,Fernando Tatis,Joe Girardi,1,0,1,False,2000-04-03,Stolen,2B,2000
+4033,1B,2B,Stolen Base 2B,123107,Fernando Tatis,Joe Girardi,5,1,5,False,2000-04-03,Stolen,2B,2000
+1391,1B,,Caught Stealing 2B,123107,Fernando Tatis,Mike Piazza,4,2,8,True,2002-07-22,Caught,2B,2002
+1567,1B,2B,Caught Stealing 3B,123107,Fernando Tatis,Mike Lieberthal,8,3,8,False,2002-07-15,Caught,3B,2002
+1607,1B,2B,Stolen Base 2B,123107,Fernando Tatis,Javy Lopez,5,2,5,False,2002-07-13,Stolen,2B,2002
+2868,1B,2B,Stolen Base 2B,123107,Fernando Tatis,Chad Kreuter,1,2,4,True,2002-05-16,Stolen,2B,2002
+3191,1B,2B,Stolen Base 2B,123107,Fernando Tatis,Chad Moeller,2,0,4,False,2003-04-22,Stolen,2B,2003
+3423,1B,,Caught Stealing 2B,123107,Fernando Tatis,Damian Miller,0,5,6,True,2003-04-10,Caught,2B,2003
+3568,1B,2B,Stolen Base 2B,123107,Fernando Tatis,Javy Lopez,0,2,2,True,2003-04-02,Stolen,2B,2003
+1495,1B,2B,Stolen Base 2B,123107,Fernando Tatis,Chris Iannetta,1,0,4,False,2008-07-12,Stolen,2B,2008
+1846,1B,2B,Stolen Base 2B,123107,Fernando Tatis,Jeff Clement,5,0,3,False,2008-06-25,Stolen,2B,2008
+2468,1B,2B,Stolen Base 2B,123107,Fernando Tatis,Matt Treanor,4,1,5,False,2008-05-27,Stolen,2B,2008
+664,1B,2B,Stolen Base 2B,123107,Fernando Tatis,Robinzon Diaz,8,9,10,True,2009-07-02,Stolen,2B,2009
+1296,1B,2B,Stolen Base 2B,123107,Fernando Tatis,Robinzon Diaz,8,9,10,True,2009-06-03,Stolen,2B,2009
+2170,1B,2B,Stolen Base 2B,123107,Fernando Tatis,Ronny Paulino,2,2,4,False,2009-04-29,Stolen,2B,2009
+2320,1B,2B,Stolen Base 2B,123107,Fernando Tatis,Jason LaRue,12,5,8,True,2009-04-23,Stolen,2B,2009
+2746,1B,2B,Stolen Base 2B,123107,Fernando Tatis,Dusty Brown,3,1,5,False,2009-04-03,Stolen,2B,2009

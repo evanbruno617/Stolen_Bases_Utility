@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1304,1B,,Caught Stealing 2B,665120,Jared Walsh,Connor Wong,5,2,7,False,2021-07-06,Caught,2B,2021
+2221,1B,2B,Stolen Base 2B,665120,Jared Walsh,Jason Castro,4,5,7,True,2021-05-10,Stolen,2B,2021
+2228,1B,2B,Stolen Base 2B,665120,Jared Walsh,Will Smith,2,1,8,False,2021-05-09,Stolen,2B,2021
+956,1B,2B,Stolen Base 2B,665120,Jared Walsh,Stephen Vogt,3,4,10,True,2022-08-10,Stolen,2B,2022
+2204,1B,2B,Stolen Base 2B,665120,Jared Walsh,Jose Trevino,5,0,5,True,2022-05-31,Stolen,2B,2022
+3132,1B,,Caught Stealing 2B,665120,Jared Walsh,Jason Castro,1,0,6,False,2022-04-09,Caught,2B,2022

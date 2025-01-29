@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1552,1B,2B,Stolen Base 2B,693049,Oscar Colás,Yan Gomes,4,2,4,False,2023-07-26,Stolen,2B,2023
+1631,1B,2B,Stolen Base 2B,693049,Oscar Colás,Ryan Jeffers,0,3,5,True,2023-07-23,Stolen,2B,2023
+1632,1B,,Caught Stealing 2B,693049,Oscar Colás,Ryan Jeffers,0,3,9,True,2023-07-23,Caught,2B,2023
+1986,1B,,Caught Stealing 2B,693049,Oscar Colás,Alejandro Kirk,0,0,2,False,2023-07-04,Caught,2B,2023
+3812,1B,,Caught Stealing 2B,693049,Oscar Colás,J.T. Realmuto,2,2,2,False,2023-04-19,Caught,2B,2023
+4082,1B,2B,Stolen Base 2B,693049,Oscar Colás,Jason Delay,1,1,2,True,2023-04-08,Stolen,2B,2023
+4221,1B,2B,Stolen Base 2B,693049,Oscar Colás,Martín Maldonado,1,3,8,True,2023-04-02,Stolen,2B,2023

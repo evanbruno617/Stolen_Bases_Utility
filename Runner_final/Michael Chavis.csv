@@ -1,0 +1,24 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,317,1B,2B,Stolen Base 2B,656308,Michael Chavis,607192,Tyler Glasnow,657077,Alex Verdugo,R,Michael Pérez,605421,4,2,5,True,2020-09-12,Stolen,2B,2020,2021,28.7
+1,506,1B,2B,Stolen Base 2B,656308,Michael Chavis,592836,Taijuan Walker,666915,Bobby Dalbec,R,Danny Jansen,643376,1,0,2,False,2020-09-03,Stolen,2B,2020,2021,28.7
+2,898,1B,2B,Stolen Base 2B,656308,Michael Chavis,605483,Blake Snell,657077,Alex Verdugo,L,Michael Pérez,605421,0,4,2,False,2020-08-12,Stolen,2B,2020,2021,28.7
+3,3160,1B,2B,Stolen Base 2B,656308,Michael Chavis,607192,Tyler Glasnow,657077,Alex Verdugo,R,Michael Pérez,605421,4,2,5,True,2020-09-12,Stolen,2B,2020,2021,28.7
+4,3349,1B,2B,Stolen Base 2B,656308,Michael Chavis,592836,Taijuan Walker,666915,Bobby Dalbec,R,Danny Jansen,643376,1,0,2,False,2020-09-03,Stolen,2B,2020,2021,28.7
+5,3741,1B,2B,Stolen Base 2B,656308,Michael Chavis,605483,Blake Snell,657077,Alex Verdugo,L,Michael Pérez,605421,0,4,2,False,2020-08-12,Stolen,2B,2020,2021,28.7
+6,5084,1B,2B,Stolen Base 2B,656308,Michael Chavis,607192,Tyler Glasnow,657077,Alex Verdugo,R,Michael Pérez,605421,4,2,5,True,2020-09-12,Stolen,2B,2020,2021,28.7
+7,5273,1B,2B,Stolen Base 2B,656308,Michael Chavis,592836,Taijuan Walker,666915,Bobby Dalbec,R,Danny Jansen,643376,1,0,2,False,2020-09-03,Stolen,2B,2020,2021,28.7
+8,5665,1B,2B,Stolen Base 2B,656308,Michael Chavis,605483,Blake Snell,657077,Alex Verdugo,L,Michael Pérez,605421,0,4,2,False,2020-08-12,Stolen,2B,2020,2021,28.7
+9,3660,1B,2B,Stolen Base 2B,656308,Michael Chavis,608337,Lucas Giolito,519048,Mitch Moreland,R,James McCann,543510,2,3,3,True,2019-05-02,Stolen,2B,2019,2020,28.1
+10,3775,1B,,Caught Stealing 2B,656308,Michael Chavis,657585,Reed Garrett,543877,Christian Vázquez,R,Grayson Greiner,606988,4,1,6,False,2019-04-24,Caught,2B,2019,2020,28.1
+11,3776,1B,2B,Stolen Base 2B,656308,Michael Chavis,622774,José Manuel Fernández,543877,Christian Vázquez,L,Grayson Greiner,606988,5,1,8,False,2019-04-24,Stolen,2B,2019,2020,28.1
+12,6503,1B,2B,Stolen Base 2B,656308,Michael Chavis,608337,Lucas Giolito,519048,Mitch Moreland,R,James McCann,543510,2,3,3,True,2019-05-02,Stolen,2B,2019,2020,28.1
+13,6618,1B,,Caught Stealing 2B,656308,Michael Chavis,657585,Reed Garrett,543877,Christian Vázquez,R,Grayson Greiner,606988,4,1,6,False,2019-04-24,Caught,2B,2019,2020,28.1
+14,6619,1B,2B,Stolen Base 2B,656308,Michael Chavis,622774,José Manuel Fernández,543877,Christian Vázquez,L,Grayson Greiner,606988,5,1,8,False,2019-04-24,Stolen,2B,2019,2020,28.1
+15,8427,1B,2B,Stolen Base 2B,656308,Michael Chavis,608337,Lucas Giolito,519048,Mitch Moreland,R,James McCann,543510,2,3,3,True,2019-05-02,Stolen,2B,2019,2020,28.1
+16,8542,1B,,Caught Stealing 2B,656308,Michael Chavis,657585,Reed Garrett,543877,Christian Vázquez,R,Grayson Greiner,606988,4,1,6,False,2019-04-24,Caught,2B,2019,2020,28.1
+17,8543,1B,2B,Stolen Base 2B,656308,Michael Chavis,622774,José Manuel Fernández,543877,Christian Vázquez,L,Grayson Greiner,606988,5,1,8,False,2019-04-24,Stolen,2B,2019,2020,28.1
+18,1453,1B,,Caught Stealing 2B,656308,Michael Chavis,622092,Kyle Zimmer,571771,Enrique Hernández,R,Salvador Perez,521692,5,5,4,False,2021-06-28,Caught,2B,2021,2022,28.8
+19,1506,2B,3B,Stolen Base 3B,656308,Michael Chavis,593334,Domingo Germán,593428,Xander Bogaerts,R,Gary Sánchez,596142,2,0,1,False,2021-06-25,Stolen,3B,2021,2022,28.8
+20,3377,1B,,Caught Stealing 2B,656308,Michael Chavis,622092,Kyle Zimmer,571771,Enrique Hernández,R,Salvador Perez,521692,5,5,4,False,2021-06-28,Caught,2B,2021,2022,28.8
+21,3430,2B,3B,Stolen Base 3B,656308,Michael Chavis,593334,Domingo Germán,593428,Xander Bogaerts,R,Gary Sánchez,596142,2,0,1,False,2021-06-25,Stolen,3B,2021,2022,28.8
+22,840,1B,2B,Stolen Base 2B,656308,Michael Chavis,675627,Michael Grove,666801,Rodolfo Castro,R,Austin Barnes,605131,2,8,9,True,2022-06-01,Stolen,2B,2022,2023,28.7

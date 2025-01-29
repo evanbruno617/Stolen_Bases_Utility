@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+208,1B,2B,Stolen Base 2B,640461,Chad Pinder,John Hicks,0,0,2,True,2017-09-20,Stolen,2B,2017
+784,1B,,Caught Stealing 2B,640461,Chad Pinder,Juan Centeno,0,2,2,True,2017-08-20,Caught,2B,2017
+2717,1B,2B,Stolen Base 2B,640461,Chad Pinder,James McCann,4,1,4,False,2017-05-07,Stolen,2B,2017
+30,1B,,Caught Stealing 2B,640461,Chad Pinder,José Briceño,0,2,2,True,2018-09-29,Caught,2B,2018
+2711,1B,,Caught Stealing 2B,640461,Chad Pinder,Mike Zunino,1,0,3,True,2018-05-03,Caught,2B,2018
+201,1B,2B,Stolen Base 2B,640461,Chad Pinder,Max Stassi,0,3,6,True,2021-09-18,Stolen,2B,2021
+2477,1B,2B,Stolen Base 2B,640461,Chad Pinder,Chad Wallach,1,2,5,False,2022-05-15,Stolen,2B,2022
+3043,1B,2B,Stolen Base 2B,640461,Chad Pinder,Zack Collins,2,1,6,True,2022-04-15,Stolen,2B,2022

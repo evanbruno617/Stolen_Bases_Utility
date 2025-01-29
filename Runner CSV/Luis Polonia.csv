@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+80,1B,2B,Stolen Base 2B,120658,Luis Polonia,John Flaherty,4,0,3,True,2000-09-27,Stolen,2B,2000
+338,2B,,Caught Stealing 3B,120658,Luis Polonia,Einar Díaz,1,0,2,False,2000-09-16,Caught,3B,2000
+581,1B,2B,Stolen Base 2B,120658,Luis Polonia,Gregg Zaun,1,1,3,True,2000-09-05,Stolen,2B,2000
+586,1B,2B,Stolen Base 2B,120658,Luis Polonia,Gregg Zaun,2,5,6,True,2000-09-05,Stolen,2B,2000
+789,1B,,Caught Stealing 2B,120658,Luis Polonia,Dan Wilson,0,4,5,True,2000-08-28,Caught,2B,2000
+816,1B,2B,Stolen Base 2B,120658,Luis Polonia,Sal Fasano,4,1,3,True,2000-08-27,Stolen,2B,2000
+1612,1B,2B,Stolen Base 2B,120658,Luis Polonia,Gregg Zaun,4,9,6,False,2000-07-23,Stolen,2B,2000
+1637,2B,3B,Stolen Base 3B,120658,Luis Polonia,Héctor Ortiz,5,5,6,False,2000-07-22,Stolen,3B,2000
+1662,1B,2B,Stolen Base 2B,120658,Luis Polonia,Gregg Zaun,0,2,4,False,2000-07-21,Stolen,2B,2000
+1970,1B,,Caught Stealing 2B,120658,Luis Polonia,Mike DiFelice,4,4,9,True,2000-07-03,Caught,2B,2000
+2154,1B,,Caught Stealing 2B,120658,Luis Polonia,Sandy Alomar Jr.,0,0,7,True,2000-06-25,Caught,2B,2000
+2203,1B,2B,Stolen Base 2B,120658,Luis Polonia,Sandy Alomar Jr.,0,1,2,True,2000-06-23,Stolen,2B,2000
+2204,1B,2B,Stolen Base 2B,120658,Luis Polonia,Sandy Alomar Jr.,3,7,5,True,2000-06-23,Stolen,2B,2000
+2815,1B,2B,Stolen Base 2B,120658,Luis Polonia,Darrin Fletcher,0,0,1,False,2000-05-27,Stolen,2B,2000
+3160,1B,,Caught Stealing 2B,120658,Luis Polonia,Jorge Posada,0,0,1,False,2000-05-12,Caught,2B,2000
+3305,1B,2B,Stolen Base 2B,120658,Luis Polonia,Marcus Jensen,4,2,5,True,2000-05-05,Stolen,2B,2000
+3482,1B,,Caught Stealing 2B,120658,Luis Polonia,Mark Johnson,1,3,3,False,2000-04-28,Caught,2B,2000
+3571,1B,2B,Stolen Base 2B,120658,Luis Polonia,Bengie Molina,0,0,1,True,2000-04-24,Stolen,2B,2000

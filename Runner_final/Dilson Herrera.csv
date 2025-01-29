@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,643,1B,2B,Stolen Base 2B,599096,Dilson Herrera,521230,Liam Hendriks,501571,Juan Lagares,R,Russell Martin,431145,3,0,8,True,2015-06-17,Stolen,2B,2015,2018,27.6
+1,726,1B,2B,Stolen Base 2B,599096,Dilson Herrera,430911,David Aardsma,493472,Eric Campbell,R,Christian Bethancourt,542194,10,8,7,False,2015-06-14,Stolen,2B,2015,2018,27.6

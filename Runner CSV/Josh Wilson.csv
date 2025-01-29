@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+72,1B,,Caught Stealing 2B,425543,Josh Wilson,José Molina,1,0,5,False,2007-09-27,Caught,2B,2007
+371,1B,,Caught Stealing 2B,425543,Josh Wilson,Kenji Johjima,0,0,3,True,2007-09-14,Caught,2B,2007
+742,1B,2B,Stolen Base 2B,425543,Josh Wilson,Ramon Hernandez,0,1,2,True,2007-08-29,Stolen,2B,2007
+887,1B,2B,Stolen Base 2B,425543,Josh Wilson,Jason Varitek,0,1,3,False,2007-08-22,Stolen,2B,2007
+935,1B,2B,Stolen Base 2B,425543,Josh Wilson,Kevin Cash,0,6,5,False,2007-08-20,Stolen,2B,2007
+2088,1B,2B,Stolen Base 2B,425543,Josh Wilson,A.J. Pierzynski,3,5,8,False,2007-06-27,Stolen,2B,2007
+2947,1B,2B,Stolen Base 2B,425543,Josh Wilson,Gerald Laird,0,0,3,False,2007-05-17,Stolen,2B,2007
+2948,1B,2B,Stolen Base 2B,425543,Josh Wilson,Gerald Laird,6,5,6,False,2007-05-17,Stolen,2B,2007
+2753,1B,2B,Stolen Base 2B,425543,Josh Wilson,Sal Fasano,1,3,3,False,2009-04-02,Stolen,2B,2009
+1049,1B,2B,Stolen Base 2B,425543,Josh Wilson,Chris Gimenez,1,2,5,True,2010-08-13,Stolen,2B,2010
+1331,1B,2B,Stolen Base 2B,425543,Josh Wilson,Ramon Castro,0,1,2,True,2010-07-29,Stolen,2B,2010
+2540,1B,2B,Stolen Base 2B,425543,Josh Wilson,Joe Mauer,0,1,2,False,2010-06-03,Stolen,2B,2010
+2885,1B,2B,Stolen Base 2B,425543,Josh Wilson,Kurt Suzuki,3,3,7,True,2010-05-18,Stolen,2B,2010
+3112,1B,2B,Stolen Base 2B,425543,Josh Wilson,Mike Napoli,3,3,8,False,2010-05-08,Stolen,2B,2010
+2571,1B,2B,Stolen Base 2B,425543,Josh Wilson,Geovany Soto,4,4,10,True,2011-06-14,Stolen,2B,2011
+3205,1B,2B,Stolen Base 2B,425543,Josh Wilson,Derek Norris,0,3,9,True,2014-04-23,Stolen,2B,2014

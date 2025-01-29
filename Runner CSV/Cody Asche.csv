@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1007,1B,2B,Stolen Base 2B,605125,Cody Asche,Brian McCann,0,4,9,True,2013-08-12,Stolen,2B,2013
+104,1B,2B,Stolen Base 2B,605125,Cody Asche,J.T. Realmuto,0,0,4,True,2015-09-24,Stolen,2B,2015
+1411,1B,,Caught Stealing 2B,605125,Cody Asche,Andrew Susac,0,0,2,True,2015-07-12,Caught,2B,2015
+1672,1B,,Caught Stealing 2B,605125,Cody Asche,Jonathan Lucroy,4,6,6,False,2015-06-29,Caught,2B,2015
+1120,1B,,Caught Stealing 2B,605125,Cody Asche,Josh Thole,0,0,2,True,2016-06-13,Caught,2B,2016
+1121,1B,2B,Stolen Base 2B,605125,Cody Asche,Josh Thole,0,2,7,True,2016-06-13,Stolen,2B,2016
+1235,1B,2B,Stolen Base 2B,605125,Cody Asche,David Ross,2,0,4,False,2016-06-07,Stolen,2B,2016
+1261,1B,2B,Stolen Base 2B,605125,Cody Asche,Jonathan Lucroy,3,0,4,False,2016-06-05,Stolen,2B,2016

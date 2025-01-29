@@ -1,0 +1,14 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,177,2B,,Caught Stealing 3B,614177,Franmil Reyes,606303,Joel Payamps,547379,Roberto Pérez,R,Sebastián  Rivero,665861,0,2,2,False,2021-09-20,Caught,3B,2021,2022,26.0
+1,634,1B,2B,Stolen Base 2B,614177,Franmil Reyes,672282,Reid Detmers,640458,Óscar Mercado,L,Max Stassi,545358,0,0,1,False,2021-08-21,Stolen,2B,2021,2022,26.0
+2,946,1B,2B,Stolen Base 2B,614177,Franmil Reyes,521230,Liam Hendriks,640458,Óscar Mercado,R,Seby Zavala,664874,1,1,9,True,2021-08-01,Stolen,2B,2021,2022,26.0
+3,1219,2B,,Caught Stealing 3B,614177,Franmil Reyes,606303,Joel Payamps,547379,Roberto Pérez,R,Sebastián  Rivero,665861,0,2,2,False,2021-07-11,Caught,3B,2021,2022,26.0
+4,1326,1B,2B,Stolen Base 2B,614177,Franmil Reyes,448179,Rich Hill,623912,Harold Ramírez,L,Mike Zunino,572287,4,1,4,True,2021-07-05,Stolen,2B,2021,2022,26.0
+5,2476,1B,2B,Stolen Base 2B,614177,Franmil Reyes,592791,Jameson Taillon,656669,Jordan Luplow,R,Gary Sánchez,596142,0,0,2,False,2021-04-25,Stolen,2B,2021,2022,26.0
+6,2101,2B,,Caught Stealing 3B,614177,Franmil Reyes,606303,Joel Payamps,547379,Roberto Pérez,R,Sebastián  Rivero,665861,0,2,2,False,2021-09-20,Caught,3B,2021,2022,26.0
+7,2558,1B,2B,Stolen Base 2B,614177,Franmil Reyes,672282,Reid Detmers,640458,Óscar Mercado,L,Max Stassi,545358,0,0,1,False,2021-08-21,Stolen,2B,2021,2022,26.0
+8,2870,1B,2B,Stolen Base 2B,614177,Franmil Reyes,521230,Liam Hendriks,640458,Óscar Mercado,R,Seby Zavala,664874,1,1,9,True,2021-08-01,Stolen,2B,2021,2022,26.0
+9,3143,2B,,Caught Stealing 3B,614177,Franmil Reyes,606303,Joel Payamps,547379,Roberto Pérez,R,Sebastián  Rivero,665861,0,2,2,False,2021-07-11,Caught,3B,2021,2022,26.0
+10,3250,1B,2B,Stolen Base 2B,614177,Franmil Reyes,448179,Rich Hill,623912,Harold Ramírez,L,Mike Zunino,572287,4,1,4,True,2021-07-05,Stolen,2B,2021,2022,26.0
+11,4400,1B,2B,Stolen Base 2B,614177,Franmil Reyes,592791,Jameson Taillon,656669,Jordan Luplow,R,Gary Sánchez,596142,0,0,2,False,2021-04-25,Stolen,2B,2021,2022,26.0
+12,86,1B,2B,Stolen Base 2B,614177,Franmil Reyes,523260,Joe Kelly,665926,Andrés Giménez,R,Seby Zavala,664874,8,4,6,False,2022-07-11,Stolen,2B,2022,2023,26.5

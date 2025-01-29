@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+359,1B,2B,Stolen Base 2B,687952,Christian Encarnacion-Strand,Francisco Alvarez,1,1,2,True,2023-09-16,Stolen,2B,2023
+360,2B,3B,Stolen Base 2B,687952,Christian Encarnacion-Strand,Francisco Alvarez,1,1,2,True,2023-09-16,Stolen,2B,2023
+1052,1B,2B,Stolen Base 2B,687952,Christian Encarnacion-Strand,Alejandro Kirk,3,4,9,False,2023-08-19,Stolen,2B,2023

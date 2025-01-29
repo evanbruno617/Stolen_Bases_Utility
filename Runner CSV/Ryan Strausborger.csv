@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+507,1B,2B,Stolen Base 2B,595005,Ryan Strausborger,Austin Hedges,3,3,8,True,2015-09-02,Stolen,2B,2015
+712,1B,,Caught Stealing 2B,595005,Ryan Strausborger,James McCann,2,4,8,True,2015-08-23,Caught,2B,2015
+788,1B,2B,Stolen Base 2B,595005,Ryan Strausborger,Mike Zunino,3,2,6,False,2015-08-19,Stolen,2B,2015

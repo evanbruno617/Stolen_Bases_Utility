@@ -1,0 +1,12 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,542340,Jonathan Villar,Rafael Marchán,8,7,7,True,2020-09-18,Stolen,2B,2020
+1B,,Caught Stealing 2B,643565,Mike Tauchman,Rafael Marchán,1,2,8,False,2020-07-20,Caught,2B,2020
+1B,,Caught Stealing 2B,621446,Lewis Brinson,Rafael Marchán,3,2,4,False,2021-09-03,Caught,2B,2021
+1B,2B,Stolen Base 2B,665742,Juan Soto,Rafael Marchán,6,3,7,False,2021-09-02,Stolen,2B,2021
+1B,2B,Stolen Base 2B,665742,Juan Soto,Rafael Marchán,6,3,7,False,2021-09-01,Stolen,2B,2021
+1B,,Caught Stealing 2B,665742,Juan Soto,Rafael Marchán,4,7,6,True,2021-07-29,Caught,2B,2021
+1B,,Caught Stealing 2B,665742,Juan Soto,Rafael Marchán,4,7,6,True,2021-07-28,Caught,2B,2021
+1B,2B,Stolen Base 2B,474832,Brandon Belt,Rafael Marchán,6,6,5,False,2021-06-19,Stolen,2B,2021
+1B,2B,Stolen Base 2B,645277,Ozzie Albies,Rafael Marchán,1,1,9,True,2021-06-10,Stolen,2B,2021
+1B,2B,Stolen Base 2B,542454,Danny Santana,Rafael Marchán,0,0,2,True,2021-05-22,Stolen,2B,2021
+1B,2B,Stolen Base 2B,669289,Santiago Espinal,Rafael Marchán,8,3,5,False,2021-05-16,Stolen,2B,2021

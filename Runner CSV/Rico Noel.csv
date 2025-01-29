@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+13,1B,2B,Stolen Base 2B,592596,Rico Noel,Blake Swihart,5,5,7,False,2015-09-30,Stolen,2B,2015
+79,1B,2B,Stolen Base 2B,592596,Rico Noel,Tyler Flowers,2,1,8,False,2015-09-26,Stolen,2B,2015
+175,1B,2B,Stolen Base 2B,592596,Rico Noel,Anthony Recker,1,7,8,True,2015-09-20,Stolen,2B,2015
+302,1B,2B,Stolen Base 2B,592596,Rico Noel,J.P. Arencibia,0,0,8,True,2015-09-14,Stolen,2B,2015
+353,1B,2B,Stolen Base 2B,592596,Rico Noel,Dioner Navarro,5,5,10,False,2015-09-12,Stolen,2B,2015

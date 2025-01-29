@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+162,1B,2B,Stolen Base 2B,150080,Santiago Perez,Jason Kendall,2,4,9,False,2000-09-23,Stolen,2B,2000
+2230,1B,2B,Stolen Base 2B,150080,Santiago Perez,Paul Bako,5,4,9,True,2000-06-21,Stolen,2B,2000
+2435,1B,2B,Stolen Base 2B,150080,Santiago Perez,Matthew LeCroy,1,2,2,True,2000-06-11,Stolen,2B,2000
+2490,1B,2B,Stolen Base 2B,150080,Santiago Perez,Marcus Jensen,2,3,4,True,2000-06-09,Stolen,2B,2000
+1196,1B,2B,Stolen Base 2B,150080,Santiago Perez,Ben Petrick,2,4,6,False,2001-04-17,Stolen,2B,2001
+1244,1B,2B,Stolen Base 2B,150080,Santiago Perez,Paul Lo Duca,4,5,9,False,2001-04-15,Stolen,2B,2001
+1306,1B,2B,Stolen Base 2B,150080,Santiago Perez,Chad Kreuter,1,2,4,False,2001-04-13,Stolen,2B,2001
+1388,1B,2B,Stolen Base 2B,150080,Santiago Perez,Ben Petrick,3,3,5,True,2001-04-08,Stolen,2B,2001
+1505,1B,2B,Stolen Base 2B,150080,Santiago Perez,Bobby Estalella,3,2,8,True,2001-04-02,Stolen,2B,2001

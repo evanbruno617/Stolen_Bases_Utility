@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1374,1B,2B,Stolen Base 2B,608672,Micah Johnson,571666,Mike Fiers,519242,Chris Sale,R,Martín Maldonado,455117,1,2,5,True,2015-05-12,Stolen,2B,2015,2017,27.2
+1,1840,1B,,Caught Stealing 2B,608672,Micah Johnson,446372,Corey Kluber,594809,Adam Eaton,R,Roberto Pérez,547379,2,0,4,False,2015-04-22,Caught,2B,2015,2017,27.2
+2,1871,1B,2B,Stolen Base 2B,608672,Micah Johnson,545333,Trevor Bauer,594809,Adam Eaton,R,Brett Hayes,451109,0,2,3,False,2015-04-20,Stolen,2B,2015,2017,27.2
+3,1899,1B,2B,Stolen Base 2B,608672,Micah Johnson,572888,Shane Greene,594809,Adam Eaton,R,James McCann,543510,5,0,3,True,2015-04-19,Stolen,2B,2015,2017,27.2
+4,2094,2B,,Caught Stealing 3B,608672,Micah Johnson,543548,Tommy Milone,466320,Melky Cabrera,L,Kurt Suzuki,435559,0,1,3,False,2015-04-10,Caught,3B,2015,2017,27.2

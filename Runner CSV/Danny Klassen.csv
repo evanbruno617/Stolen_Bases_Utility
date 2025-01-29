@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1976,1B,2B,Caught Stealing Home,135782,Danny Klassen,Benito Santiago,0,3,7,False,2000-07-03,Caught,Home,2000
+3820,1B,,Caught Stealing 2B,135782,Danny Klassen,Wiki Gonzalez,0,3,4,True,2000-04-13,Caught,2B,2000
+3929,2B,3B,Stolen Base 3B,135782,Danny Klassen,Jason Kendall,2,3,4,False,2000-04-08,Stolen,3B,2000

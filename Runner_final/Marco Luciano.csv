@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,198,1B,2B,Stolen Base 2B,682617,Marco Luciano,642232,Ryan Yarbrough,666149,Tyler Fitzgerald,L,Will Smith,669257,0,3,7,True,2023-09-22,Stolen,2B,2023,2024,27.5
+1,4612,1B,2B,Stolen Base 2B,682617,Marco Luciano,642232,Ryan Yarbrough,666149,Tyler Fitzgerald,L,Will Smith,669257,0,3,7,True,2023-09-22,Stolen,2B,2023,2024,27.5

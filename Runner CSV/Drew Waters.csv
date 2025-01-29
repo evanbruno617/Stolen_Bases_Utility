@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+153,1B,2B,Stolen Base 2B,671221,Drew Waters,Yainer Diaz,5,6,9,True,2023-09-24,Stolen,2B,2023
+176,1B,,Caught Stealing 2B,671221,Drew Waters,Yainer Diaz,0,1,2,True,2023-09-23,Caught,2B,2023
+258,1B,2B,Stolen Base 2B,671221,Drew Waters,David Fry,4,2,6,False,2023-09-20,Stolen,2B,2023
+259,2B,3B,Stolen Base 3B,671221,Drew Waters,David Fry,4,2,6,False,2023-09-20,Stolen,3B,2023
+421,1B,2B,Stolen Base 2B,671221,Drew Waters,Yasmani Grandal,0,2,7,True,2023-09-13,Stolen,2B,2023
+614,1B,2B,Stolen Base 2B,671221,Drew Waters,Korey Lee,0,0,2,False,2023-09-06,Stolen,2B,2023
+711,1B,2B,Stolen Base 2B,671221,Drew Waters,Connor Wong,3,7,9,False,2023-09-03,Stolen,2B,2023
+961,1B,2B,Stolen Base 2B,671221,Drew Waters,Shea Langeliers,0,4,6,True,2023-08-23,Stolen,2B,2023
+980,1B,2B,Stolen Base 2B,671221,Drew Waters,Shea Langeliers,5,2,4,True,2023-08-22,Stolen,2B,2023
+1086,1B,2B,Stolen Base 2B,671221,Drew Waters,Yan Gomes,0,0,3,True,2023-08-18,Stolen,2B,2023
+1151,1B,,Caught Stealing 2B,671221,Drew Waters,Cal Raleigh,3,0,4,False,2023-08-14,Caught,2B,2023
+1293,1B,2B,Stolen Base 2B,671221,Drew Waters,Connor Wong,2,7,7,True,2023-08-08,Stolen,2B,2023
+1313,2B,3B,Stolen Base 3B,671221,Drew Waters,Reese McGuire,1,0,5,True,2023-08-07,Stolen,3B,2023
+1694,1B,2B,Stolen Base 2B,671221,Drew Waters,Kyle Higashioka,5,4,9,True,2023-07-21,Stolen,2B,2023
+1823,1B,2B,Stolen Base 2B,671221,Drew Waters,Francisco Mejía,1,2,6,False,2023-07-15,Stolen,2B,2023
+1834,1B,2B,Stolen Base 2B,671221,Drew Waters,Francisco Mejía,1,2,6,False,2023-07-14,Stolen,2B,2023
+2103,1B,2B,Stolen Base 2B,671221,Drew Waters,Will Smith,0,2,3,False,2023-06-30,Stolen,2B,2023
+2135,1B,2B,Stolen Base 2B,671221,Drew Waters,Bo Naylor,2,2,8,False,2023-06-29,Stolen,2B,2023
+2277,1B,,Caught Stealing 2B,671221,Drew Waters,Christian Bethancourt,3,3,4,True,2023-06-23,Caught,2B,2023
+2283,1B,2B,Stolen Base 2B,671221,Drew Waters,Francisco Mejía,5,5,8,True,2023-06-22,Stolen,2B,2023

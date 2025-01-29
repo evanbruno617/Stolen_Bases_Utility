@@ -1,0 +1,23 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2343,1B,2B,Stolen Base 2B,542921,Tim Beckham,Welington Castillo,3,2,3,False,2015-05-26,Stolen,2B,2015
+2733,1B,2B,Stolen Base 2B,542921,Tim Beckham,Carlos Corporán,1,0,5,False,2015-05-08,Stolen,2B,2015
+3324,1B,2B,Stolen Base 2B,542921,Tim Beckham,Jarrod Saltalamacchia,0,2,9,True,2015-04-11,Stolen,2B,2015
+3484,1B,2B,Stolen Base 2B,542921,Tim Beckham,Cameron Rupp,1,4,4,True,2015-04-02,Stolen,2B,2015
+3498,1B,2B,Stolen Base 2B,542921,Tim Beckham,Brian McCann,0,3,7,True,2015-04-01,Stolen,2B,2015
+852,2B,,Caught Stealing 3B,542921,Tim Beckham,Sandy León,5,0,2,False,2016-06-27,Caught,3B,2016
+2223,1B,2B,Stolen Base 2B,542921,Tim Beckham,Alex Avila,4,2,7,False,2016-04-16,Stolen,2B,2016
+619,1B,,Caught Stealing 2B,542921,Tim Beckham,Mike Zunino,1,0,5,False,2017-08-29,Caught,2B,2017
+738,1B,2B,Stolen Base 2B,542921,Tim Beckham,Dustin Garneau,0,0,1,False,2017-08-23,Stolen,2B,2017
+1219,1B,,Caught Stealing 2B,542921,Tim Beckham,Gary Sánchez,1,2,4,True,2017-07-29,Caught,2B,2017
+1678,1B,2B,Stolen Base 2B,542921,Tim Beckham,Chris Stewart,1,0,4,True,2017-06-29,Stolen,2B,2017
+1941,1B,,Caught Stealing 2B,542921,Tim Beckham,James McCann,1,0,2,True,2017-06-16,Caught,2B,2017
+2123,1B,2B,Stolen Base 2B,542921,Tim Beckham,Kevan Smith,0,1,2,False,2017-06-07,Stolen,2B,2017
+2267,1B,,Caught Stealing 2B,542921,Tim Beckham,Jonathan Lucroy,2,5,6,True,2017-05-30,Caught,2B,2017
+2268,1B,2B,Stolen Base 2B,542921,Tim Beckham,Jonathan Lucroy,5,5,8,True,2017-05-30,Stolen,2B,2017
+2340,1B,2B,Stolen Base 2B,542921,Tim Beckham,Chris Gimenez,1,1,3,True,2017-05-27,Stolen,2B,2017
+3010,1B,2B,Stolen Base 2B,542921,Tim Beckham,Brian McCann,4,4,9,False,2017-04-23,Stolen,2B,2017
+1029,1B,,Caught Stealing 2B,542921,Tim Beckham,Sandy León,8,3,3,False,2018-08-10,Caught,2B,2018
+1658,1B,,Caught Stealing 2B,542921,Tim Beckham,Jorge Alfaro,0,1,5,True,2018-07-04,Caught,2B,2018
+3288,1B,2B,Stolen Base 2B,542921,Tim Beckham,Max Stassi,3,4,6,True,2018-04-03,Stolen,2B,2018
+2696,1B,,Caught Stealing 2B,542921,Tim Beckham,Max Stassi,1,0,2,False,2019-04-14,Caught,2B,2019
+2781,1B,2B,Stolen Base 2B,542921,Tim Beckham,Cam Gallagher,1,1,2,True,2019-04-10,Stolen,2B,2019

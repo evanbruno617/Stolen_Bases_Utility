@@ -1,0 +1,23 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+120,1B,2B,Stolen Base 2B,122205,Terry Shumpert,Kelly Stinnett,1,1,3,False,2000-09-25,Stolen,2B,2000
+928,1B,2B,Stolen Base 2B,122205,Terry Shumpert,Paul Bako,1,4,7,False,2000-08-23,Stolen,2B,2000
+1471,2B,3B,Stolen Base 3B,122205,Terry Shumpert,Raul Casanova,0,5,9,True,2000-07-29,Stolen,3B,2000
+1538,1B,2B,Stolen Base 2B,122205,Terry Shumpert,Chad Kreuter,8,11,5,False,2000-07-27,Stolen,2B,2000
+2454,1B,,Caught Stealing 2B,122205,Terry Shumpert,Ivan Rodriguez,8,6,5,False,2000-06-10,Caught,2B,2000
+2620,2B,3B,Stolen Base 3B,122205,Terry Shumpert,Tyler Houston,1,5,7,True,2000-06-04,Stolen,3B,2000
+2740,1B,2B,Stolen Base 2B,122205,Terry Shumpert,Mitch Meluskey,7,7,8,False,2000-05-30,Stolen,2B,2000
+4014,1B,2B,Stolen Base 2B,122205,Terry Shumpert,Javy Lopez,3,2,6,True,2000-04-04,Stolen,2B,2000
+4015,2B,3B,Stolen Base 3B,122205,Terry Shumpert,Javy Lopez,3,2,6,True,2000-04-04,Stolen,3B,2000
+222,1B,2B,Stolen Base 2B,122205,Terry Shumpert,Benito Santiago,5,4,9,True,2001-05-27,Stolen,2B,2001
+331,1B,,Caught Stealing 2B,122205,Terry Shumpert,Chad Kreuter,0,2,3,False,2001-05-23,Caught,2B,2001
+332,2B,3B,Stolen Base 3B,122205,Terry Shumpert,Chad Kreuter,3,4,7,False,2001-05-23,Stolen,3B,2001
+628,1B,2B,Stolen Base 2B,122205,Terry Shumpert,Randy Knorr,2,0,2,False,2001-05-11,Stolen,2B,2001
+666,1B,2B,Stolen Base 2B,122205,Terry Shumpert,Mike Piazza,5,1,6,False,2001-05-10,Stolen,2B,2001
+667,2B,3B,Stolen Base 3B,122205,Terry Shumpert,Mike Piazza,5,1,6,False,2001-05-10,Stolen,3B,2001
+1253,1B,,Caught Stealing 2B,122205,Terry Shumpert,Damian Miller,4,5,7,False,2001-04-15,Caught,2B,2001
+2290,1B,2B,Stolen Base 2B,122205,Terry Shumpert,Ken Huckaby,0,0,1,True,2002-06-09,Stolen,2B,2002
+2471,2B,3B,Stolen Base 3B,122205,Terry Shumpert,Yorvit Torrealba,2,6,8,True,2002-05-31,Stolen,3B,2002
+2609,2B,3B,Stolen Base 3B,122205,Terry Shumpert,Yorvit Torrealba,10,6,8,False,2002-05-26,Stolen,3B,2002
+2660,1B,2B,Stolen Base 2B,122205,Terry Shumpert,Benito Santiago,1,1,3,False,2002-05-24,Stolen,2B,2002
+3286,1B,,Caught Stealing 2B,122205,Terry Shumpert,Mike Lieberthal,2,0,2,False,2002-04-28,Caught,2B,2002
+2560,1B,2B,Stolen Base 2B,122205,Terry Shumpert,Todd Greene,8,7,8,True,2003-05-21,Stolen,2B,2003

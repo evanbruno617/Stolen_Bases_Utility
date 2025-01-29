@@ -1,0 +1,20 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4251,1B,,Caught Stealing 2B,570489,Arismendy Alcántara,502381,Luke Gregerson,592387,Ryon Healy,R,Jason Castro,488771,5,6,9,False,2016-09-21,Caught,2B,2016,2017,29.0
+1,4286,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,502381,Luke Gregerson,621563,Joey Wendle,R,Max Stassi,545358,2,2,8,False,2016-09-19,Stolen,2B,2016,2017,29.0
+2,5441,1B,,Caught Stealing 2B,570489,Arismendy Alcántara,543606,Jake Odorizzi,424825,Coco Crisp,R,Curt Casali,592200,0,0,3,False,2016-07-22,Caught,2B,2016,2017,29.0
+3,5861,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,502327,Héctor Santiago,424825,Coco Crisp,L,Jett Bandy,542908,2,6,6,True,2016-06-26,Stolen,2B,2016,2017,29.0
+4,5912,1B,,Caught Stealing 2B,570489,Arismendy Alcántara,573046,Mike Morin,424825,Coco Crisp,R,Jett Bandy,542908,2,5,6,True,2016-06-23,Caught,2B,2016,2017,29.0
+5,5938,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,448855,Junior Guerra,519390,Stephen Vogt,R,Martín Maldonado,455117,2,3,7,False,2016-06-22,Stolen,2B,2016,2017,29.0
+6,216,1B,,Caught Stealing 2B,570489,Arismendy Alcántara,502381,Luke Gregerson,592387,Ryon Healy,R,Jason Castro,488771,5,6,9,False,2016-09-21,Caught,2B,2016,2017,29.0
+7,251,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,502381,Luke Gregerson,621563,Joey Wendle,R,Max Stassi,545358,2,2,8,False,2016-09-19,Stolen,2B,2016,2017,29.0
+8,1406,1B,,Caught Stealing 2B,570489,Arismendy Alcántara,543606,Jake Odorizzi,424825,Coco Crisp,R,Curt Casali,592200,0,0,3,False,2016-07-22,Caught,2B,2016,2017,29.0
+9,1826,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,502327,Héctor Santiago,424825,Coco Crisp,L,Jett Bandy,542908,2,6,6,True,2016-06-26,Stolen,2B,2016,2017,29.0
+10,1877,1B,,Caught Stealing 2B,570489,Arismendy Alcántara,573046,Mike Morin,424825,Coco Crisp,R,Jett Bandy,542908,2,5,6,True,2016-06-23,Caught,2B,2016,2017,29.0
+11,1903,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,448855,Junior Guerra,519390,Stephen Vogt,R,Martín Maldonado,455117,2,3,7,False,2016-06-22,Stolen,2B,2016,2017,29.0
+12,3623,1B,,Caught Stealing 2B,570489,Arismendy Alcántara,502381,Luke Gregerson,592387,Ryon Healy,R,Jason Castro,488771,5,6,9,False,2016-09-21,Caught,2B,2016,2017,29.0
+13,3658,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,502381,Luke Gregerson,621563,Joey Wendle,R,Max Stassi,545358,2,2,8,False,2016-09-19,Stolen,2B,2016,2017,29.0
+14,4813,1B,,Caught Stealing 2B,570489,Arismendy Alcántara,543606,Jake Odorizzi,424825,Coco Crisp,R,Curt Casali,592200,0,0,3,False,2016-07-22,Caught,2B,2016,2017,29.0
+15,5233,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,502327,Héctor Santiago,424825,Coco Crisp,L,Jett Bandy,542908,2,6,6,True,2016-06-26,Stolen,2B,2016,2017,29.0
+16,5284,1B,,Caught Stealing 2B,570489,Arismendy Alcántara,573046,Mike Morin,424825,Coco Crisp,R,Jett Bandy,542908,2,5,6,True,2016-06-23,Caught,2B,2016,2017,29.0
+17,5310,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,448855,Junior Guerra,519390,Stephen Vogt,R,Martín Maldonado,455117,2,3,7,False,2016-06-22,Stolen,2B,2016,2017,29.0
+18,2030,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,543475,Jordan Lyles,543294,Kyle Hendricks,R,Michael McKenry,502374,4,2,5,True,2015-04-12,Stolen,2B,2015,2016,28.5

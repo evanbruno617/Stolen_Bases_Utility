@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2202,1B,2B,Stolen Base 2B,434338,Joe Dillon,Chris Iannetta,0,3,2,True,2008-06-08,Stolen,2B,2008
+2870,1B,2B,Caught Stealing Home,434338,Joe Dillon,Yadier Molina,3,3,8,False,2008-05-10,Caught,Home,2008

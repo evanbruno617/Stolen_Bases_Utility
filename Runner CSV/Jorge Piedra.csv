@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+239,1B,,Caught Stealing 2B,430621,Jorge Piedra,Tom Wilson,6,5,8,False,2004-09-19,Caught,2B,2004
+1722,1B,,Caught Stealing 2B,430621,Jorge Piedra,Einar Díaz,0,0,5,True,2005-07-02,Caught,2B,2005
+1858,1B,2B,Stolen Base 2B,430621,Jorge Piedra,John Buck,3,2,8,False,2005-06-25,Stolen,2B,2005
+2022,1B,2B,Stolen Base 2B,430621,Jorge Piedra,Sal Fasano,0,1,7,True,2005-06-17,Stolen,2B,2005

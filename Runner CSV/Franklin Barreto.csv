@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1570,1B,2B,Stolen Base 2B,620439,Franklin Barreto,Kevan Smith,1,0,2,False,2017-07-05,Stolen,2B,2017
+1611,1B,2B,Stolen Base 2B,620439,Franklin Barreto,Kurt Suzuki,1,2,7,False,2017-07-02,Stolen,2B,2017
+1304,1B,2B,Stolen Base 2B,620439,Franklin Barreto,Omar Narváez,2,6,6,True,2019-07-07,Stolen,2B,2019
+441,1B,2B,Stolen Base 2B,620439,Franklin Barreto,Martín Maldonado,5,3,6,False,2020-09-06,Stolen,2B,2020

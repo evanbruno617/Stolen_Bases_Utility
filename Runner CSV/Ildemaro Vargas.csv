@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+33,1B,2B,Stolen Base 2B,545121,Ildemaro Vargas,A.J. Ellis,3,4,6,True,2018-09-29,Stolen,2B,2018
+2490,1B,2B,Stolen Base 2B,545121,Ildemaro Vargas,Willson Contreras,8,3,8,False,2019-04-26,Stolen,2B,2019
+2328,1B,2B,Stolen Base 2B,545121,Ildemaro Vargas,Austin Barnes,6,0,3,False,2021-05-04,Stolen,2B,2021
+2331,1B,2B,Stolen Base 2B,545121,Ildemaro Vargas,Austin Barnes,6,0,3,False,2021-05-03,Stolen,2B,2021
+317,1B,2B,Stolen Base 2B,545121,Ildemaro Vargas,Adley Rutschman,3,4,9,False,2022-09-13,Stolen,2B,2022
+561,1B,2B,Stolen Base 2B,545121,Ildemaro Vargas,Shea Langeliers,3,3,8,False,2022-09-01,Stolen,2B,2022
+636,1B,,Caught Stealing 2B,545121,Ildemaro Vargas,Chuckie Robinson,1,1,2,False,2022-08-27,Caught,2B,2022
+738,1B,2B,Stolen Base 2B,545121,Ildemaro Vargas,Austin Nola,1,1,7,True,2022-08-20,Stolen,2B,2022
+542,1B,2B,Stolen Base 2B,545121,Ildemaro Vargas,Will Smith,2,1,5,False,2023-09-09,Stolen,2B,2023
+1537,1B,,Caught Stealing 2B,545121,Ildemaro Vargas,Francisco Alvarez,0,0,5,True,2023-07-28,Caught,2B,2023

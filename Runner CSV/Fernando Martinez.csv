@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1365,1B,2B,Stolen Base 2B,494686,Fernando Martinez,Jason Jaramillo,0,0,1,True,2009-06-01,Stolen,2B,2009
+1367,1B,2B,Stolen Base 2B,494686,Fernando Martinez,Jason Jaramillo,0,2,3,True,2009-06-01,Stolen,2B,2009
+948,1B,,Caught Stealing 2B,494686,Fernando Martinez,Jason Castro,0,1,1,True,2010-08-17,Caught,2B,2010
+1157,1B,,Caught Stealing 2B,494686,Fernando Martinez,Jonathan Lucroy,2,2,2,False,2012-08-11,Caught,2B,2012

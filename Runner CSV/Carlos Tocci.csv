@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1101,1B,,Caught Stealing 2B,624636,Carlos Tocci,Mike Zunino,0,0,3,False,2018-08-06,Caught,2B,2018
+1299,1B,,Caught Stealing 2B,624636,Carlos Tocci,Max Stassi,1,6,8,True,2018-07-27,Caught,2B,2018
+1319,1B,,Caught Stealing 2B,624636,Carlos Tocci,Josh Phegley,3,1,2,False,2018-07-25,Caught,2B,2018

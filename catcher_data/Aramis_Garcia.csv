@@ -1,0 +1,55 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,,Caught Stealing 2B,676801,Chas McCormick,Aramis Garcia,0,2,5,False,2021-07-08,Caught,2B,2021
+2B,3B,Stolen Base 3B,666969,Adolis García,Aramis Garcia,0,1,1,True,2021-07-01,Stolen,3B,2021
+1B,2B,Stolen Base 2B,660271,Shohei Ohtani,Aramis Garcia,1,4,5,True,2021-06-16,Stolen,2B,2021
+1B,2B,Stolen Base 2B,502481,Jarrod Dyson,Aramis Garcia,3,3,9,True,2021-06-11,Stolen,2B,2021
+1B,2B,Stolen Base 2B,672284,Jarred Kelenic,Aramis Garcia,0,1,3,False,2021-05-31,Stolen,2B,2021
+1B,2B,Stolen Base 2B,660271,Shohei Ohtani,Aramis Garcia,0,4,5,True,2021-05-29,Stolen,2B,2021
+1B,2B,Stolen Base 2B,621493,Taylor Ward,Aramis Garcia,0,4,8,True,2021-05-29,Stolen,2B,2021
+1B,2B,Stolen Base 2B,664058,David Fletcher,Aramis Garcia,0,4,9,True,2021-05-29,Stolen,2B,2021
+1B,2B,Stolen Base 2B,578428,Jose Iglesias,Aramis Garcia,0,1,1,False,2021-05-22,Stolen,2B,2021
+1B,2B,Stolen Base 2B,663624,Ryan Mountcastle,Aramis Garcia,4,1,8,False,2021-04-25,Stolen,2B,2021
+1B,2B,Stolen Base 2B,641796,Tim Locastro,Aramis Garcia,5,1,4,False,2021-04-13,Stolen,2B,2021
+1B,,Caught Stealing 2B,664702,Myles Straw,Aramis Garcia,1,5,4,True,2021-04-04,Caught,2B,2021
+3B,,Caught Stealing Home,641511,Jason Delay,Aramis Garcia,1,4,7,True,2022-07-07,Caught,Home,2022
+1B,,Caught Stealing 2B,607043,Brandon Nimmo,Aramis Garcia,0,0,1,True,2022-07-04,Caught,2B,2022
+1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,Aramis Garcia,0,0,3,True,2022-07-03,Stolen,2B,2022
+1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,Aramis Garcia,0,1,5,True,2022-07-03,Stolen,2B,2022
+1B,2B,Stolen Base 2B,592743,Andrelton Simmons,Aramis Garcia,8,2,8,False,2022-06-29,Stolen,2B,2022
+1B,2B,Stolen Base 2B,542364,Rafael Ortega,Aramis Garcia,0,0,1,False,2022-06-28,Stolen,2B,2022
+1B,2B,Stolen Base 2B,663845,Alfonso Rivas III,Aramis Garcia,0,0,5,False,2022-06-28,Stolen,2B,2022
+1B,2B,Stolen Base 2B,641355,Cody Bellinger,Aramis Garcia,1,6,6,True,2022-06-23,Stolen,2B,2022
+1B,2B,Stolen Base 2B,649966,Luis Urías,Aramis Garcia,3,7,9,True,2022-06-18,Stolen,2B,2022
+1B,2B,Stolen Base 2B,592885,Christian Yelich,Aramis Garcia,0,0,1,True,2022-06-17,Stolen,2B,2022
+1B,,Caught Stealing 2B,457705,Andrew McCutchen,Aramis Garcia,2,4,6,True,2022-06-17,Caught,2B,2022
+2B,3B,Stolen Base 3B,606466,Ketel Marte,Aramis Garcia,5,3,8,False,2022-06-15,Stolen,3B,2022
+1B,2B,Stolen Base 2B,444482,David Peralta,Aramis Garcia,5,3,8,False,2022-06-15,Stolen,2B,2022
+1B,2B,Stolen Base 2B,677950,Alek Thomas,Aramis Garcia,3,3,11,False,2022-06-14,Stolen,2B,2022
+1B,2B,Stolen Base 2B,668942,Josh Rojas,Aramis Garcia,3,3,11,False,2022-06-14,Stolen,2B,2022
+1B,2B,Stolen Base 2B,656669,Jordan Luplow,Aramis Garcia,0,0,1,False,2022-06-13,Stolen,2B,2022
+1B,2B,Stolen Base 2B,677950,Alek Thomas,Aramis Garcia,4,5,8,False,2022-06-13,Stolen,2B,2022
+1B,2B,Stolen Base 2B,641933,Tyler O'Neill,Aramis Garcia,3,0,3,False,2022-06-12,Stolen,2B,2022
+1B,2B,Stolen Base 2B,669242,Tommy Edman,Aramis Garcia,2,0,7,False,2022-06-10,Stolen,2B,2022
+1B,2B,Stolen Base 2B,677950,Alek Thomas,Aramis Garcia,0,2,4,True,2022-06-08,Stolen,2B,2022
+1B,2B,Stolen Base 2B,663845,Alfonso Rivas III,Aramis Garcia,0,2,2,True,2022-05-25,Stolen,2B,2022
+2B,,Caught Stealing 3B,543939,Kolten Wong,Aramis Garcia,0,0,1,True,2022-05-11,Caught,3B,2022
+3B,,Caught Stealing Home,641511,Jason Delay,Aramis Garcia,1,4,7,True,2022-05-06,Caught,Home,2022
+1B,,Caught Stealing 2B,656582,Connor Joe,Aramis Garcia,0,1,1,False,2022-04-30,Caught,2B,2022
+1B,2B,Stolen Base 2B,664056,Harrison Bader,Aramis Garcia,0,0,2,True,2022-04-23,Stolen,2B,2022
+1B,2B,Stolen Base 2B,663457,Lars Nootbaar,Aramis Garcia,0,1,4,True,2022-04-23,Stolen,2B,2022
+1B,2B,Stolen Base 2B,664056,Harrison Bader,Aramis Garcia,0,4,8,True,2022-04-23,Stolen,2B,2022
+2B,3B,Stolen Base 3B,664056,Harrison Bader,Aramis Garcia,0,4,8,True,2022-04-23,Stolen,3B,2022
+1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Aramis Garcia,3,0,5,False,2022-04-20,Stolen,2B,2022
+1B,2B,Stolen Base 2B,595777,Jurickson Profar,Aramis Garcia,4,0,8,False,2022-04-20,Stolen,2B,2022
+1B,2B,Stolen Base 2B,666158,Gavin Lux,Aramis Garcia,1,0,3,False,2022-04-15,Stolen,2B,2022
+1B,2B,Stolen Base 2B,605141,Mookie Betts,Aramis Garcia,2,0,5,False,2022-04-15,Stolen,2B,2022
+1B,2B,Stolen Base 2B,607208,Trea Turner,Aramis Garcia,3,1,7,False,2022-04-15,Stolen,2B,2022
+1B,,Caught Stealing 2B,641355,Cody Bellinger,Aramis Garcia,3,1,8,False,2022-04-15,Caught,2B,2022
+2B,3B,Stolen Base 3B,543685,Anthony Rendon,Aramis Garcia,2,0,1,False,2022-04-01,Stolen,3B,2022
+1B,2B,Stolen Base 2B,683021,Michael Stefanic,Aramis Garcia,3,0,2,False,2022-04-01,Stolen,2B,2022
+2B,3B,Stolen Base 3B,596115,Trevor Story,Aramis Garcia,4,3,8,True,2019-09-26,Stolen,3B,2019
+1B,,Caught Stealing 2B,641856,Billy McKinney,Aramis Garcia,1,1,2,True,2019-05-15,Caught,2B,2019
+1B,2B,Stolen Base 2B,571976,Wil Myers,Aramis Garcia,2,3,8,True,2018-09-26,Stolen,2B,2018
+1B,2B,Stolen Base 2B,435622,Ian Desmond,Aramis Garcia,0,3,6,True,2018-09-16,Stolen,2B,2018
+1B,,Caught Stealing 2B,621311,David Dahl,Aramis Garcia,1,3,8,True,2018-09-16,Caught,2B,2018
+1B,2B,Stolen Base 2B,592885,Christian Yelich,Aramis Garcia,4,3,8,False,2018-09-08,Stolen,2B,2018

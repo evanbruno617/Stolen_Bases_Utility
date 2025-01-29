@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3175,1B,2B,Stolen Base 2B,519333,Matt Szczur,Wil Nieves,6,6,10,False,2015-04-18,Stolen,2B,2015
+3358,1B,2B,Stolen Base 2B,519333,Matt Szczur,Nick Hundley,3,1,6,True,2015-04-10,Stolen,2B,2015
+242,1B,2B,Stolen Base 2B,519333,Matt Szczur,J.T. Realmuto,3,0,5,False,2016-08-01,Stolen,2B,2016
+405,1B,,Caught Stealing 2B,519333,Matt Szczur,Jonathan Lucroy,4,6,9,True,2016-07-24,Caught,2B,2016
+1897,3B,score,Caught Stealing Home,519333,Matt Szczur,Francisco Cervelli,1,6,5,True,2016-05-02,Caught,Home,2016
+2230,1B,2B,Stolen Base 2B,519333,Matt Szczur,Dustin Garneau,2,0,7,False,2016-04-16,Stolen,2B,2016
+236,1B,,Caught Stealing 2B,519333,Matt Szczur,Chris Herrmann,4,0,2,False,2017-09-18,Caught,2B,2017
+1878,1B,,Caught Stealing 2B,519333,Matt Szczur,Willson Contreras,1,2,7,True,2017-06-19,Caught,2B,2017
+2091,1B,2B,Stolen Base 2B,519333,Matt Szczur,J.T. Realmuto,4,4,7,True,2018-06-09,Stolen,2B,2018
+2609,1B,2B,Stolen Base 2B,519333,Matt Szczur,Carson Kelly,0,2,6,False,2018-05-10,Stolen,2B,2018

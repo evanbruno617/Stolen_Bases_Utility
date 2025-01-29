@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2434,1B,,Caught Stealing 2B,400021,Joe Borchard,Tom Wilson,0,0,3,True,2003-05-28,Caught,2B,2003
+1322,1B,2B,Stolen Base 2B,400021,Joe Borchard,Yorvit Torrealba,3,4,8,False,2007-08-02,Stolen,2B,2007
+2519,1B,2B,Stolen Base 2B,400021,Joe Borchard,Raul Casanova,9,8,7,False,2007-06-08,Stolen,2B,2007
+3268,1B,2B,Stolen Base 2B,400021,Joe Borchard,Paul Lo Duca,0,3,4,True,2007-05-01,Stolen,2B,2007
+3435,1B,2B,Stolen Base 2B,400021,Joe Borchard,Brian McCann,6,7,6,False,2007-04-24,Stolen,2B,2007

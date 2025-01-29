@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3637,1B,,Caught Stealing 2B,593523,Marco Hernández,592233,Stefan Crichton,593428,Xander Bogaerts,R,Welington Castillo,456078,0,5,6,True,2017-04-23,Caught,2B,2017,2019,29.4
+1,3009,1B,,Caught Stealing 2B,593523,Marco Hernández,592233,Stefan Crichton,593428,Xander Bogaerts,R,Welington Castillo,456078,0,5,6,True,2017-04-23,Caught,2B,2017,2019,29.4
+2,7194,1B,2B,Stolen Base 2B,593523,Marco Hernández,592717,Aaron Sanchez,605141,Mookie Betts,R,Russell Martin,431145,1,2,5,False,2016-04-17,Stolen,2B,2016,2017,28.1
+3,3159,1B,2B,Stolen Base 2B,593523,Marco Hernández,592717,Aaron Sanchez,605141,Mookie Betts,R,Russell Martin,431145,1,2,5,False,2016-04-17,Stolen,2B,2016,2017,28.1
+4,6566,1B,2B,Stolen Base 2B,593523,Marco Hernández,592717,Aaron Sanchez,605141,Mookie Betts,R,Russell Martin,431145,1,2,5,False,2016-04-17,Stolen,2B,2016,2017,28.1

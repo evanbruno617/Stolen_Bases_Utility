@@ -1,0 +1,39 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,230,2B,3B,Stolen Base 3B,669261,Jack Suwinski,543294,Kyle Hendricks,669707,Jared Triolo,R,Yan Gomes,543228,0,3,5,True,2023-09-21,Stolen,3B,2023,2024,28.3
+1,452,1B,2B,Stolen Base 2B,669261,Jack Suwinski,672851,Joan Adon,656582,Connor Joe,R,Keibert Ruiz,660688,2,0,3,False,2023-09-12,Stolen,2B,2023,2024,28.3
+2,529,1B,2B,Stolen Base 2B,669261,Jack Suwinski,543859,Michael Tonkin,678225,Ji Hwan Bae,R,Sean Murphy,669221,3,6,5,True,2023-09-09,Stolen,2B,2023,2024,28.3
+3,531,1B,2B,Stolen Base 2B,669261,Jack Suwinski,489446,Kirby Yates,669707,Jared Triolo,R,Sean Murphy,669221,4,8,9,True,2023-09-09,Stolen,2B,2023,2024,28.3
+4,870,1B,2B,Stolen Base 2B,669261,Jack Suwinski,665871,Javier Assad,663845,Alfonso Rivas III,R,Yan Gomes,543228,1,1,2,False,2023-08-27,Stolen,2B,2023,2024,28.3
+5,1315,1B,2B,Stolen Base 2B,669261,Jack Suwinski,621345,A.J. Minter,669707,Jared Triolo,L,Sean Murphy,669221,7,5,7,False,2023-08-07,Stolen,2B,2023,2024,28.3
+6,1316,2B,,Caught Stealing 3B,669261,Jack Suwinski,621345,A.J. Minter,669707,Jared Triolo,L,Sean Murphy,669221,7,5,7,False,2023-08-07,Caught,3B,2023,2024,28.3
+7,2153,1B,2B,Stolen Base 2B,669261,Jack Suwinski,605483,Blake Snell,669707,Jared Triolo,L,Gary Sánchez,596142,2,0,2,False,2023-06-28,Stolen,2B,2023,2024,28.3
+8,2878,1B,2B,Stolen Base 2B,669261,Jack Suwinski,623149,Paul Sewald,663647,Ke'Bryan Hayes,R,Tom Murphy,608596,3,3,8,True,2023-05-28,Stolen,2B,2023,2024,28.3
+9,3035,1B,2B,Caught Stealing Home,669261,Jack Suwinski,641540,Dane Dunning,663647,Ke'Bryan Hayes,R,Jonah Heim,641680,0,0,1,False,2023-05-22,Caught,Home,2023,2024,28.3
+10,3587,2B,,Caught Stealing 3B,669261,Jack Suwinski,641771,Chad Kuhl,666801,Rodolfo Castro,R,Keibert Ruiz,660688,0,4,3,True,2023-04-29,Caught,3B,2023,2024,28.3
+11,3591,1B,2B,Stolen Base 2B,669261,Jack Suwinski,607179,Jordan Weems,672779,Tucupita Marcano,R,Riley Adams,656180,3,6,9,True,2023-04-29,Stolen,2B,2023,2024,28.3
+12,3596,2B,,Caught Stealing 3B,669261,Jack Suwinski,641771,Chad Kuhl,666801,Rodolfo Castro,R,Keibert Ruiz,660688,0,4,3,True,2023-04-28,Caught,3B,2023,2024,28.3
+13,3635,1B,2B,Stolen Base 2B,669261,Jack Suwinski,628711,Julio Urías,664029,Mark Mathias,L,Austin Barnes,605131,3,2,1,False,2023-04-27,Stolen,2B,2023,2024,28.3
+14,3657,1B,2B,Stolen Base 2B,669261,Jack Suwinski,641360,Phil Bickford,666801,Rodolfo Castro,R,Austin Wynns,642851,0,0,4,False,2023-04-26,Stolen,2B,2023,2024,28.3
+15,3744,1B,2B,Stolen Base 2B,669261,Jack Suwinski,668881,Hunter Greene,666801,Rodolfo Castro,R,Curt Casali,592200,1,0,4,False,2023-04-23,Stolen,2B,2023,2024,28.3
+16,3746,2B,3B,Stolen Base 3B,669261,Jack Suwinski,518585,Fernando Cruz,666801,Rodolfo Castro,R,Curt Casali,592200,2,0,8,False,2023-04-23,Stolen,3B,2023,2024,28.3
+17,4644,2B,3B,Stolen Base 3B,669261,Jack Suwinski,543294,Kyle Hendricks,669707,Jared Triolo,R,Yan Gomes,543228,0,3,5,True,2023-09-21,Stolen,3B,2023,2024,28.3
+18,4866,1B,2B,Stolen Base 2B,669261,Jack Suwinski,672851,Joan Adon,656582,Connor Joe,R,Keibert Ruiz,660688,2,0,3,False,2023-09-12,Stolen,2B,2023,2024,28.3
+19,4943,1B,2B,Stolen Base 2B,669261,Jack Suwinski,543859,Michael Tonkin,678225,Ji Hwan Bae,R,Sean Murphy,669221,3,6,5,True,2023-09-09,Stolen,2B,2023,2024,28.3
+20,4945,1B,2B,Stolen Base 2B,669261,Jack Suwinski,489446,Kirby Yates,669707,Jared Triolo,R,Sean Murphy,669221,4,8,9,True,2023-09-09,Stolen,2B,2023,2024,28.3
+21,5284,1B,2B,Stolen Base 2B,669261,Jack Suwinski,665871,Javier Assad,663845,Alfonso Rivas III,R,Yan Gomes,543228,1,1,2,False,2023-08-27,Stolen,2B,2023,2024,28.3
+22,5729,1B,2B,Stolen Base 2B,669261,Jack Suwinski,621345,A.J. Minter,669707,Jared Triolo,L,Sean Murphy,669221,7,5,7,False,2023-08-07,Stolen,2B,2023,2024,28.3
+23,5730,2B,,Caught Stealing 3B,669261,Jack Suwinski,621345,A.J. Minter,669707,Jared Triolo,L,Sean Murphy,669221,7,5,7,False,2023-08-07,Caught,3B,2023,2024,28.3
+24,6567,1B,2B,Stolen Base 2B,669261,Jack Suwinski,605483,Blake Snell,669707,Jared Triolo,L,Gary Sánchez,596142,2,0,2,False,2023-06-28,Stolen,2B,2023,2024,28.3
+25,7292,1B,2B,Stolen Base 2B,669261,Jack Suwinski,623149,Paul Sewald,663647,Ke'Bryan Hayes,R,Tom Murphy,608596,3,3,8,True,2023-05-28,Stolen,2B,2023,2024,28.3
+26,7449,1B,2B,Caught Stealing Home,669261,Jack Suwinski,641540,Dane Dunning,663647,Ke'Bryan Hayes,R,Jonah Heim,641680,0,0,1,False,2023-05-22,Caught,Home,2023,2024,28.3
+27,8001,2B,,Caught Stealing 3B,669261,Jack Suwinski,641771,Chad Kuhl,666801,Rodolfo Castro,R,Keibert Ruiz,660688,0,4,3,True,2023-04-29,Caught,3B,2023,2024,28.3
+28,8005,1B,2B,Stolen Base 2B,669261,Jack Suwinski,607179,Jordan Weems,672779,Tucupita Marcano,R,Riley Adams,656180,3,6,9,True,2023-04-29,Stolen,2B,2023,2024,28.3
+29,8010,2B,,Caught Stealing 3B,669261,Jack Suwinski,641771,Chad Kuhl,666801,Rodolfo Castro,R,Keibert Ruiz,660688,0,4,3,True,2023-04-28,Caught,3B,2023,2024,28.3
+30,8049,1B,2B,Stolen Base 2B,669261,Jack Suwinski,628711,Julio Urías,664029,Mark Mathias,L,Austin Barnes,605131,3,2,1,False,2023-04-27,Stolen,2B,2023,2024,28.3
+31,8071,1B,2B,Stolen Base 2B,669261,Jack Suwinski,641360,Phil Bickford,666801,Rodolfo Castro,R,Austin Wynns,642851,0,0,4,False,2023-04-26,Stolen,2B,2023,2024,28.3
+32,8158,1B,2B,Stolen Base 2B,669261,Jack Suwinski,668881,Hunter Greene,666801,Rodolfo Castro,R,Curt Casali,592200,1,0,4,False,2023-04-23,Stolen,2B,2023,2024,28.3
+33,8160,2B,3B,Stolen Base 3B,669261,Jack Suwinski,518585,Fernando Cruz,666801,Rodolfo Castro,R,Curt Casali,592200,2,0,8,False,2023-04-23,Stolen,3B,2023,2024,28.3
+34,48,1B,,Caught Stealing 2B,669261,Jack Suwinski,641154,Pablo López,605421,Michael Pérez,R,Nick Fortes,663743,0,1,5,True,2022-07-13,Caught,2B,2022,2023,28.6
+35,171,1B,,Caught Stealing 2B,669261,Jack Suwinski,667498,Robert Dugger,665833,Oneil Cruz,R,Michael Papierski,657709,0,1,4,True,2022-07-07,Caught,2B,2022,2023,28.6
+36,777,2B,3B,Stolen Base 3B,669261,Jack Suwinski,668678,Zac Gallen,660636,Diego A. Castillo,R,Daulton Varsho,662139,2,0,6,False,2022-06-05,Stolen,3B,2022,2023,28.6
+37,987,1B,2B,Stolen Base 2B,669261,Jack Suwinski,623485,Ashton Goudeau,668751,Cal Mitchell,R,Brian Serven,661531,10,5,8,False,2022-05-25,Stolen,2B,2022,2023,28.6

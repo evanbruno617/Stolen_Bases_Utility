@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+38,1B,2B,Stolen Base 2B,643524,Frank Schwindel,Michael Pérez,2,3,7,True,2021-09-29,Stolen,2B,2021
+184,1B,2B,Stolen Base 2B,643524,Frank Schwindel,Omar Narváez,2,1,6,True,2021-09-19,Stolen,2B,2021
+536,1B,,Caught Stealing 2B,643524,Frank Schwindel,Yasmani Grandal,1,6,2,True,2021-08-27,Caught,2B,2021

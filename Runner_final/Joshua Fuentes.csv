@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,650,1B,2B,Stolen Base 2B,658069,Joshua Fuentes,656464,Kevin Ginkel,553869,Elias Díaz,R,Stephen Vogt,519390,1,3,7,True,2020-08-26,Stolen,2B,2020,2021,27.6
+1,3493,1B,2B,Stolen Base 2B,658069,Joshua Fuentes,656464,Kevin Ginkel,553869,Elias Díaz,R,Stephen Vogt,519390,1,3,7,True,2020-08-26,Stolen,2B,2020,2021,27.6
+2,5417,1B,2B,Stolen Base 2B,658069,Joshua Fuentes,656464,Kevin Ginkel,553869,Elias Díaz,R,Stephen Vogt,519390,1,3,7,True,2020-08-26,Stolen,2B,2020,2021,27.6
+3,1287,2B,3B,Stolen Base 3B,658069,Joshua Fuentes,461829,Gio González,460077,Drew Butera,L,Yasmani Grandal,518735,0,0,2,False,2019-09-28,Stolen,3B,2019,2020,27.6
+4,4130,2B,3B,Stolen Base 3B,658069,Joshua Fuentes,461829,Gio González,460077,Drew Butera,L,Yasmani Grandal,518735,0,0,2,False,2019-09-28,Stolen,3B,2019,2020,27.6
+5,6054,2B,3B,Stolen Base 3B,658069,Joshua Fuentes,461829,Gio González,460077,Drew Butera,L,Yasmani Grandal,518735,0,0,2,False,2019-09-28,Stolen,3B,2019,2020,27.6

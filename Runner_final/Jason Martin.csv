@@ -1,0 +1,10 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1236,1B,2B,Stolen Base 2B,641829,Jason Martin,543272,Brad Hand,607732,Jacob Stallings,L,Roberto Pérez,547379,2,4,7,False,2020-07-22,Stolen,2B,2020,2021,27.6
+1,4079,1B,2B,Stolen Base 2B,641829,Jason Martin,543272,Brad Hand,607732,Jacob Stallings,L,Roberto Pérez,547379,2,4,7,False,2020-07-22,Stolen,2B,2020,2021,27.6
+2,6003,1B,2B,Stolen Base 2B,641829,Jason Martin,543272,Brad Hand,607732,Jacob Stallings,L,Roberto Pérez,547379,2,4,7,False,2020-07-22,Stolen,2B,2020,2021,27.6
+3,4049,1B,2B,Stolen Base 2B,641829,Jason Martin,543903,Allen Webster,570481,Erik González,R,Willson Contreras,575929,1,5,7,True,2019-04-10,Stolen,2B,2019,2020,26.3
+4,4124,1B,2B,Stolen Base 2B,641829,Jason Martin,543699,Tanner Roark,592567,Colin Moran,R,Curt Casali,592200,0,0,1,False,2019-04-06,Stolen,2B,2019,2020,26.3
+5,6892,1B,2B,Stolen Base 2B,641829,Jason Martin,543903,Allen Webster,570481,Erik González,R,Willson Contreras,575929,1,5,7,True,2019-04-10,Stolen,2B,2019,2020,26.3
+6,6967,1B,2B,Stolen Base 2B,641829,Jason Martin,543699,Tanner Roark,592567,Colin Moran,R,Curt Casali,592200,0,0,1,False,2019-04-06,Stolen,2B,2019,2020,26.3
+7,8816,1B,2B,Stolen Base 2B,641829,Jason Martin,543903,Allen Webster,570481,Erik González,R,Willson Contreras,575929,1,5,7,True,2019-04-10,Stolen,2B,2019,2020,26.3
+8,8891,1B,2B,Stolen Base 2B,641829,Jason Martin,543699,Tanner Roark,592567,Colin Moran,R,Curt Casali,592200,0,0,1,False,2019-04-06,Stolen,2B,2019,2020,26.3

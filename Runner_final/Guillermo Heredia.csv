@@ -1,0 +1,25 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1056,1B,2B,Stolen Base 2B,628338,Guillermo Heredia,573124,Taylor Rogers,657061,Cole Tucker,L,Mitch Garver,641598,4,4,9,True,2020-08-03,Stolen,2B,2020,2021,27.8
+1,3899,1B,2B,Stolen Base 2B,628338,Guillermo Heredia,573124,Taylor Rogers,657061,Cole Tucker,L,Mitch Garver,641598,4,4,9,True,2020-08-03,Stolen,2B,2020,2021,27.8
+2,5823,1B,2B,Stolen Base 2B,628338,Guillermo Heredia,573124,Taylor Rogers,657061,Cole Tucker,L,Mitch Garver,641598,4,4,9,True,2020-08-03,Stolen,2B,2020,2021,27.8
+3,2046,1B,2B,Stolen Base 2B,628338,Guillermo Heredia,622259,Trey Wingenter,542583,Jesús Aguilar,R,Francisco Mejía,642336,2,4,7,True,2019-08-12,Stolen,2B,2019,2020,27.5
+4,2178,1B,2B,Stolen Base 2B,628338,Guillermo Heredia,664918,Kyle Keller,642715,Willy Adames,R,Bryan Holaday,592407,6,1,7,False,2019-08-04,Stolen,2B,2019,2020,27.5
+5,4889,1B,2B,Stolen Base 2B,628338,Guillermo Heredia,622259,Trey Wingenter,542583,Jesús Aguilar,R,Francisco Mejía,642336,2,4,7,True,2019-08-12,Stolen,2B,2019,2020,27.5
+6,5021,1B,2B,Stolen Base 2B,628338,Guillermo Heredia,664918,Kyle Keller,642715,Willy Adames,R,Bryan Holaday,592407,6,1,7,False,2019-08-04,Stolen,2B,2019,2020,27.5
+7,6813,1B,2B,Stolen Base 2B,628338,Guillermo Heredia,622259,Trey Wingenter,542583,Jesús Aguilar,R,Francisco Mejía,642336,2,4,7,True,2019-08-12,Stolen,2B,2019,2020,27.5
+8,6945,1B,2B,Stolen Base 2B,628338,Guillermo Heredia,664918,Kyle Keller,642715,Willy Adames,R,Bryan Holaday,592407,6,1,7,False,2019-08-04,Stolen,2B,2019,2020,27.5
+9,385,1B,,Caught Stealing 2B,628338,Guillermo Heredia,433586,Santiago Casilla,461865,Andrew Romine,R,Jonathan Lucroy,518960,7,4,8,False,2018-04-13,Caught,2B,2018,2019,28.2
+10,1914,1B,,Caught Stealing 2B,628338,Guillermo Heredia,519443,Brandon Workman,516416,Jean Segura,R,Christian Vázquez,543877,4,0,6,False,2017-07-24,Caught,2B,2017,2018,28.4
+11,2432,1B,,Caught Stealing 2B,628338,Guillermo Heredia,596057,Daniel Norris,572287,Mike Zunino,L,Alex Avila,488671,3,0,2,False,2017-06-22,Caught,2B,2017,2018,28.4
+12,3239,1B,,Caught Stealing 2B,628338,Guillermo Heredia,501925,Joe Smith,502481,Jarrod Dyson,R,Luke Maile,571912,5,2,8,True,2017-05-13,Caught,2B,2017,2018,28.4
+13,3433,1B,2B,Stolen Base 2B,628338,Guillermo Heredia,453284,Blake Parker,572287,Mike Zunino,R,Juan Graterol,492802,3,2,6,False,2017-05-02,Stolen,2B,2017,2018,28.4
+14,1286,1B,,Caught Stealing 2B,628338,Guillermo Heredia,519443,Brandon Workman,516416,Jean Segura,R,Christian Vázquez,543877,4,0,6,False,2017-07-24,Caught,2B,2017,2018,28.4
+15,1804,1B,,Caught Stealing 2B,628338,Guillermo Heredia,596057,Daniel Norris,572287,Mike Zunino,L,Alex Avila,488671,3,0,2,False,2017-06-22,Caught,2B,2017,2018,28.4
+16,2611,1B,,Caught Stealing 2B,628338,Guillermo Heredia,501925,Joe Smith,502481,Jarrod Dyson,R,Luke Maile,571912,5,2,8,True,2017-05-13,Caught,2B,2017,2018,28.4
+17,2805,1B,2B,Stolen Base 2B,628338,Guillermo Heredia,453284,Blake Parker,572287,Mike Zunino,R,Juan Graterol,492802,3,2,6,False,2017-05-02,Stolen,2B,2017,2018,28.4
+18,4253,1B,2B,Stolen Base 2B,628338,Guillermo Heredia,457918,J.A. Happ,429711,Franklin Gutierrez,L,Dioner Navarro,425900,0,0,3,False,2016-09-20,Stolen,2B,2016,2017,28.6
+19,5159,1B,,Caught Stealing 2B,628338,Guillermo Heredia,519141,Drew Pomeranz,429711,Franklin Gutierrez,L,Sandy León,506702,0,1,3,False,2016-08-04,Caught,2B,2016,2017,28.6
+20,218,1B,2B,Stolen Base 2B,628338,Guillermo Heredia,457918,J.A. Happ,429711,Franklin Gutierrez,L,Dioner Navarro,425900,0,0,3,False,2016-09-20,Stolen,2B,2016,2017,28.6
+21,1124,1B,,Caught Stealing 2B,628338,Guillermo Heredia,519141,Drew Pomeranz,429711,Franklin Gutierrez,L,Sandy León,506702,0,1,3,False,2016-08-04,Caught,2B,2016,2017,28.6
+22,3625,1B,2B,Stolen Base 2B,628338,Guillermo Heredia,457918,J.A. Happ,429711,Franklin Gutierrez,L,Dioner Navarro,425900,0,0,3,False,2016-09-20,Stolen,2B,2016,2017,28.6
+23,4531,1B,,Caught Stealing 2B,628338,Guillermo Heredia,519141,Drew Pomeranz,429711,Franklin Gutierrez,L,Sandy León,506702,0,1,3,False,2016-08-04,Caught,2B,2016,2017,28.6

@@ -1,0 +1,86 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1478,2B,3B,Stolen Base 3B,114789,Brian Giles,Wiki Gonzalez,3,0,3,False,2000-07-29,Stolen,3B,2000
+2166,2B,3B,Stolen Base 3B,114789,Brian Giles,Mike Piazza,3,6,5,True,2000-06-24,Stolen,3B,2000
+2381,1B,2B,Stolen Base 2B,114789,Brian Giles,Fernando Lunar,4,6,6,False,2000-06-14,Stolen,2B,2000
+2622,1B,2B,Stolen Base 2B,114789,Brian Giles,Gregg Zaun,0,1,2,False,2000-06-04,Stolen,2B,2000
+3374,1B,2B,Stolen Base 2B,114789,Brian Giles,Mike Matheny,2,3,4,True,2000-05-02,Stolen,2B,2000
+3430,1B,2B,Stolen Base 2B,114789,Brian Giles,Eddie Taubensee,0,0,4,False,2000-04-30,Stolen,2B,2000
+404,1B,2B,Stolen Base 2B,114789,Brian Giles,Raul Casanova,1,0,4,False,2001-05-19,Stolen,2B,2001
+755,2B,,Caught Stealing 3B,114789,Brian Giles,Brent Mayne,0,0,4,False,2001-05-06,Caught,3B,2001
+830,1B,2B,Stolen Base 2B,114789,Brian Giles,Benito Santiago,3,3,8,False,2001-05-03,Stolen,2B,2001
+1324,1B,2B,Stolen Base 2B,114789,Brian Giles,Todd Hundley,0,0,2,True,2001-04-13,Stolen,2B,2001
+68,2B,3B,Stolen Base 3B,114789,Brian Giles,Mike Mahoney,1,4,3,True,2002-09-27,Stolen,3B,2002
+107,1B,,Caught Stealing 2B,114789,Brian Giles,Mike Piazza,3,0,3,False,2002-09-25,Caught,2B,2002
+214,1B,2B,Stolen Base 2B,114789,Brian Giles,Kelly Stinnett,2,0,3,False,2002-09-19,Stolen,2B,2002
+215,2B,3B,Stolen Base 2B,114789,Brian Giles,Kelly Stinnett,2,0,3,False,2002-09-19,Stolen,2B,2002
+535,1B,2B,Stolen Base 2B,114789,Brian Giles,Henry Blanco,0,3,9,True,2002-09-03,Stolen,2B,2002
+918,2B,,Caught Stealing 3B,114789,Brian Giles,Robert Machado,1,6,4,False,2002-08-16,Caught,3B,2002
+1053,2B,3B,Stolen Base 3B,114789,Brian Giles,Chad Kreuter,6,5,7,True,2002-08-08,Stolen,3B,2002
+1226,2B,3B,Stolen Base 3B,114789,Brian Giles,Sandy Alomar Jr.,7,6,6,False,2002-07-31,Stolen,3B,2002
+1483,1B,2B,Stolen Base 2B,114789,Brian Giles,Mike DiFelice,12,8,8,False,2002-07-19,Stolen,2B,2002
+1840,1B,,Caught Stealing 2B,114789,Brian Giles,Paul Bako,0,0,4,False,2002-07-01,Caught,2B,2002
+2335,2B,3B,Stolen Base 3B,114789,Brian Giles,Marcus Jensen,3,1,5,False,2002-06-07,Stolen,3B,2002
+2391,1B,2B,Stolen Base 2B,114789,Brian Giles,Michael Barrett,1,4,8,True,2002-06-04,Stolen,2B,2002
+2532,1B,2B,Stolen Base 2B,114789,Brian Giles,Joe Girardi,2,0,1,False,2002-05-29,Stolen,2B,2002
+2568,1B,,Caught Stealing 2B,114789,Brian Giles,Joe Girardi,1,0,4,False,2002-05-27,Caught,2B,2002
+2569,1B,2B,Stolen Base 2B,114789,Brian Giles,Joe Girardi,3,2,10,False,2002-05-27,Stolen,2B,2002
+2710,1B,2B,Stolen Base 2B,114789,Brian Giles,Joe Girardi,2,1,3,True,2002-05-22,Stolen,2B,2002
+3164,1B,2B,Stolen Base 2B,114789,Brian Giles,Javier Cardona,3,0,4,True,2002-05-04,Stolen,2B,2002
+3306,1B,,Caught Stealing 2B,114789,Brian Giles,Javier Cardona,0,0,1,False,2002-04-28,Caught,2B,2002
+3315,1B,,Caught Stealing 2B,114789,Brian Giles,Javier Cardona,0,0,1,False,2002-04-27,Caught,2B,2002
+3443,2B,3B,Stolen Base 3B,114789,Brian Giles,Paul Lo Duca,6,3,2,False,2002-04-23,Stolen,3B,2002
+3475,1B,2B,Stolen Base 2B,114789,Brian Giles,Mike Lieberthal,3,1,2,False,2002-04-21,Stolen,2B,2002
+3665,1B,,Caught Stealing 2B,114789,Brian Giles,Todd Hundley,1,0,4,False,2002-04-13,Caught,2B,2002
+3694,1B,2B,Stolen Base 2B,114789,Brian Giles,Robert Machado,0,0,2,False,2002-04-12,Stolen,2B,2002
+64,2B,3B,Stolen Base 3B,114789,Brian Giles,Charles Johnson,1,0,3,False,2003-09-26,Stolen,3B,2003
+100,1B,2B,Stolen Base 2B,114789,Brian Giles,Paul Lo Duca,0,1,1,False,2003-09-24,Stolen,2B,2003
+102,1B,2B,Stolen Base 2B,114789,Brian Giles,Paul Lo Duca,1,1,8,False,2003-09-24,Stolen,2B,2003
+345,1B,2B,Stolen Base 2B,114789,Brian Giles,Benito Santiago,3,3,8,False,2003-09-11,Stolen,2B,2003
+1116,2B,,Caught Stealing 3B,114789,Brian Giles,Bobby Estalella,1,6,3,False,2003-08-03,Caught,3B,2003
+1491,1B,,Caught Stealing 2B,114789,Brian Giles,Keith Osik,5,7,7,False,2003-07-17,Caught,2B,2003
+2478,1B,,Caught Stealing 2B,114789,Brian Giles,Damian Miller,0,0,1,True,2003-05-26,Caught,2B,2003
+199,2B,3B,Stolen Base 3B,114789,Brian Giles,Tom Wilson,4,2,5,False,2004-09-21,Stolen,3B,2004
+273,1B,2B,Stolen Base 2B,114789,Brian Giles,A.J. Pierzynski,1,1,4,True,2004-09-18,Stolen,2B,2004
+274,1B,2B,Stolen Base 2B,114789,Brian Giles,A.J. Pierzynski,1,1,6,True,2004-09-18,Stolen,2B,2004
+664,2B,3B,Caught Stealing 3B,114789,Brian Giles,Brian Schneider,1,5,5,True,2004-08-29,Caught,3B,2004
+1389,1B,2B,Stolen Base 2B,114789,Brian Giles,Paul Lo Duca,1,2,8,True,2004-07-23,Stolen,2B,2004
+1518,1B,2B,Stolen Base 2B,114789,Brian Giles,Brad Ausmus,3,0,7,True,2004-07-18,Stolen,2B,2004
+2437,1B,2B,Stolen Base 2B,114789,Brian Giles,Gary Bennett,4,2,8,True,2004-05-29,Stolen,2B,2004
+2501,1B,2B,Stolen Base 2B,114789,Brian Giles,Todd Greene,4,3,3,True,2004-05-26,Stolen,2B,2004
+2585,1B,,Caught Stealing 2B,114789,Brian Giles,Mike Lieberthal,0,0,1,True,2004-05-22,Caught,2B,2004
+2645,1B,2B,Stolen Base 2B,114789,Brian Giles,Jason Kendall,3,5,9,True,2004-05-19,Stolen,2B,2004
+2870,1B,2B,Stolen Base 2B,114789,Brian Giles,Ramon Castro,2,1,6,True,2004-05-07,Stolen,2B,2004
+2923,1B,,Caught Stealing 2B,114789,Brian Giles,Johnny Estrada,1,0,4,True,2004-05-04,Caught,2B,2004
+3102,1B,2B,Stolen Base 2B,114789,Brian Giles,Brent Mayne,0,2,3,True,2004-04-25,Stolen,2B,2004
+156,1B,2B,Stolen Base 2B,114789,Brian Giles,Kelly Stinnett,0,0,1,True,2005-09-23,Stolen,2B,2005
+369,1B,,Caught Stealing 2B,114789,Brian Giles,Mike Matheny,4,3,5,True,2005-09-12,Caught,2B,2005
+461,1B,2B,Stolen Base 2B,114789,Brian Giles,Danny Ardoin,4,2,7,False,2005-09-07,Stolen,2B,2005
+546,1B,2B,Stolen Base 2B,114789,Brian Giles,Damian Miller,1,4,5,True,2005-09-03,Stolen,2B,2005
+699,1B,2B,Stolen Base 2B,114789,Brian Giles,Todd Greene,3,4,8,False,2005-08-26,Stolen,2B,2005
+1369,2B,3B,Stolen Base 3B,114789,Brian Giles,Mike Lieberthal,6,6,9,True,2005-07-22,Stolen,3B,2005
+1463,1B,2B,Stolen Base 2B,114789,Brian Giles,Kelly Stinnett,0,1,1,False,2005-07-17,Stolen,2B,2005
+1568,1B,2B,Stolen Base 2B,114789,Brian Giles,Danny Ardoin,1,0,8,True,2005-07-09,Stolen,2B,2005
+1590,1B,,Caught Stealing 2B,114789,Brian Giles,Danny Ardoin,0,0,1,True,2005-07-08,Caught,2B,2005
+1611,1B,2B,Stolen Base 2B,114789,Brian Giles,Raul Chavez,4,7,7,True,2005-07-07,Stolen,2B,2005
+1612,1B,,Caught Stealing 2B,114789,Brian Giles,Raul Chavez,5,7,9,True,2005-07-07,Caught,2B,2005
+1747,2B,,Caught Stealing 3B,114789,Brian Giles,Mike Matheny,2,1,3,False,2005-07-01,Caught,3B,2005
+1951,2B,3B,Stolen Base 3B,114789,Brian Giles,Jason Phillips,1,0,6,False,2005-06-20,Stolen,3B,2005
+2335,1B,2B,Stolen Base 2B,114789,Brian Giles,Mike Matheny,1,2,3,True,2005-05-29,Stolen,2B,2005
+2336,1B,2B,Stolen Base 2B,114789,Brian Giles,Mike Matheny,3,3,5,True,2005-05-29,Stolen,2B,2005
+2589,1B,,Caught Stealing 2B,114789,Brian Giles,Johnny Estrada,0,0,4,False,2005-05-17,Caught,2B,2005
+3092,1B,2B,Stolen Base 2B,114789,Brian Giles,Chris Snyder,0,1,6,True,2005-04-23,Stolen,2B,2005
+3153,1B,2B,Stolen Base 2B,114789,Brian Giles,Jason Phillips,1,3,10,False,2005-04-20,Stolen,2B,2005
+39,2B,,Caught Stealing 3B,114789,Brian Giles,Mike Rivera,1,1,5,True,2007-09-29,Caught,3B,2007
+451,1B,,Caught Stealing 2B,114789,Brian Giles,Chad Moeller,1,6,4,True,2007-09-11,Caught,2B,2007
+694,2B,,Caught Stealing 3B,114789,Brian Giles,Russell Martin,1,1,1,False,2007-08-31,Caught,3B,2007
+1517,2B,,Caught Stealing 3B,114789,Brian Giles,Chris Iannetta,1,2,3,True,2007-07-25,Caught,3B,2007
+1709,1B,,Caught Stealing 2B,114789,Brian Giles,Paul Lo Duca,2,1,5,False,2007-07-16,Caught,2B,2007
+1726,1B,2B,Stolen Base 2B,114789,Brian Giles,Chris Snyder,0,0,1,True,2007-07-15,Stolen,2B,2007
+1727,1B,2B,Stolen Base 2B,114789,Brian Giles,Chris Snyder,0,1,3,True,2007-07-15,Stolen,2B,2007
+1771,1B,,Caught Stealing 2B,114789,Brian Giles,Miguel Montero,0,1,3,True,2007-07-14,Caught,2B,2007
+2032,1B,2B,Stolen Base 2B,114789,Brian Giles,Russell Martin,2,7,6,True,2007-06-29,Stolen,2B,2007
+3144,1B,2B,Stolen Base 2B,114789,Brian Giles,Brian McCann,2,4,8,True,2007-05-07,Stolen,2B,2007
+309,1B,2B,Stolen Base 2B,114789,Brian Giles,Bengie Molina,0,2,4,False,2008-09-13,Stolen,2B,2008
+2857,1B,2B,Stolen Base 2B,114789,Brian Giles,Yorvit Torrealba,3,1,6,False,2008-05-10,Stolen,2B,2008
+2914,1B,,Caught Stealing 2B,114789,Brian Giles,Corky Miller,1,2,4,True,2008-05-08,Caught,2B,2008
+2289,1B,2B,Stolen Base 2B,114789,Brian Giles,Jason Jaramillo,3,1,5,False,2009-04-24,Stolen,2B,2009

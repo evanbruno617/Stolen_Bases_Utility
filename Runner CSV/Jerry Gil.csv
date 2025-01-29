@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+345,1B,2B,Stolen Base 2B,430667,Jerry Gil,JD Closser,3,3,12,False,2004-09-14,Stolen,2B,2004
+662,1B,2B,Stolen Base 2B,430667,Jerry Gil,Jason LaRue,0,1,6,True,2004-08-29,Stolen,2B,2004

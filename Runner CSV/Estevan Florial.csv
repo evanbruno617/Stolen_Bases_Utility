@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1107,1B,2B,Stolen Base 2B,664314,Estevan Florial,J.T. Realmuto,2,2,7,False,2021-07-21,Stolen,2B,2021
+433,1B,2B,Stolen Base 2B,664314,Estevan Florial,Sandy León,4,1,4,False,2022-09-07,Stolen,2B,2022
+442,1B,2B,Stolen Base 2B,664314,Estevan Florial,Sandy León,4,1,4,False,2022-09-06,Stolen,2B,2022
+2626,1B,2B,Stolen Base 2B,664314,Estevan Florial,Jonah Heim,0,0,2,False,2022-05-08,Stolen,2B,2022
+2665,1B,2B,Stolen Base 2B,664314,Estevan Florial,Jonah Heim,0,0,2,False,2022-05-06,Stolen,2B,2022
+62,1B,2B,Stolen Base 2B,664314,Estevan Florial,Alejandro Kirk,0,0,3,True,2023-09-28,Stolen,2B,2023
+139,1B,2B,Stolen Base 2B,664314,Estevan Florial,Gabriel Moreno,0,2,3,False,2023-09-25,Stolen,2B,2023
+166,1B,2B,Stolen Base 2B,664314,Estevan Florial,Gabriel Moreno,0,2,3,False,2023-09-23,Stolen,2B,2023
+410,1B,2B,Stolen Base 2B,664314,Estevan Florial,Connor Wong,1,0,5,True,2023-09-14,Stolen,2B,2023
+415,1B,2B,Stolen Base 2B,664314,Estevan Florial,Connor Wong,1,0,5,True,2023-09-13,Stolen,2B,2023

@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+194,1B,2B,Stolen Base 2B,457420,Brandon Wood,Gerald Laird,12,14,8,True,2008-09-19,Stolen,2B,2008
+310,1B,2B,Stolen Base 2B,457420,Brandon Wood,Rob Johnson,4,2,6,False,2008-09-13,Stolen,2B,2008
+450,1B,2B,Stolen Base 2B,457420,Brandon Wood,Toby Hall,0,0,2,True,2008-09-07,Stolen,2B,2008
+608,1B,2B,Stolen Base 2B,457420,Brandon Wood,Gerald Laird,2,1,5,False,2008-08-30,Stolen,2B,2008
+3717,1B,2B,Stolen Base 2B,457420,Brandon Wood,Jorge Posada,0,1,3,True,2010-04-14,Stolen,2B,2010
+3961,1B,2B,Stolen Base 2B,457420,Brandon Wood,Yorvit Torrealba,1,2,4,False,2010-04-01,Stolen,2B,2010
+1591,1B,2B,Caught Stealing Home,457420,Brandon Wood,Brian McCann,3,3,9,True,2011-07-26,Caught,Home,2011

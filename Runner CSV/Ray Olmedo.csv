@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+832,1B,2B,Stolen Base 2B,408232,Ray Olmedo,Brad Ausmus,4,2,5,False,2003-08-17,Stolen,2B,2003
+1245,1B,,Caught Stealing 2B,408232,Ray Olmedo,Mike Lieberthal,4,1,2,False,2003-07-28,Caught,2B,2003
+2053,1B,,Caught Stealing 2B,408232,Ray Olmedo,Mike Lieberthal,4,1,2,False,2003-06-15,Caught,2B,2003
+920,1B,2B,Stolen Base 2B,408232,Ray Olmedo,Chad Moeller,0,0,3,True,2005-08-14,Stolen,2B,2005
+922,1B,2B,Stolen Base 2B,408232,Ray Olmedo,Chad Moeller,3,2,8,True,2005-08-14,Stolen,2B,2005
+1564,1B,2B,Stolen Base 2B,408232,Ray Olmedo,Chris Snyder,1,1,4,True,2005-07-09,Stolen,2B,2005
+1810,1B,2B,Stolen Base 2B,408232,Ray Olmedo,Yadier Molina,2,1,9,True,2005-06-28,Stolen,2B,2005

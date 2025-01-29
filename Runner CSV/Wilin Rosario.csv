@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+76,1B,,Caught Stealing 2B,501647,Wilin Rosario,Steve Clevenger,7,3,8,False,2012-09-27,Caught,2B,2012
+241,1B,2B,Stolen Base 2B,501647,Wilin Rosario,Héctor Sánchez,1,0,2,True,2012-09-20,Stolen,2B,2012
+691,1B,,Caught Stealing 2B,501647,Wilin Rosario,Yasmani Grandal,1,0,1,False,2012-09-01,Caught,2B,2012
+2493,1B,2B,Stolen Base 2B,501647,Wilin Rosario,Josh Donaldson,8,5,5,False,2012-06-13,Stolen,2B,2012
+2698,1B,,Caught Stealing 2B,501647,Wilin Rosario,A.J. Ellis,1,0,5,False,2012-06-03,Caught,2B,2012
+2767,1B,2B,Stolen Base 2B,501647,Wilin Rosario,Matt Treanor,2,0,2,False,2012-06-01,Stolen,2B,2012
+2768,2B,score,Stolen Base 2B,501647,Wilin Rosario,Matt Treanor,2,0,2,False,2012-06-01,Stolen,2B,2012
+2790,1B,2B,Stolen Base 2B,501647,Wilin Rosario,Jason Castro,9,1,2,False,2012-05-31,Stolen,2B,2012
+3268,1B,,Caught Stealing 2B,501647,Wilin Rosario,A.J. Ellis,0,0,5,True,2012-05-12,Caught,2B,2012
+3811,1B,,Caught Stealing 2B,501647,Wilin Rosario,Nick Hundley,7,1,5,False,2012-04-18,Caught,2B,2012
+1783,1B,2B,Stolen Base 2B,501647,Wilin Rosario,A.J. Ellis,7,10,9,False,2013-07-03,Stolen,2B,2013
+3199,1B,,Caught Stealing 2B,501647,Wilin Rosario,Evan Gattis,3,4,9,False,2013-04-23,Caught,2B,2013
+3202,1B,,Caught Stealing 2B,501647,Wilin Rosario,Evan Gattis,3,4,9,False,2013-04-22,Caught,2B,2013
+3306,1B,2B,Stolen Base 2B,501647,Wilin Rosario,John Buck,7,2,7,False,2013-04-18,Stolen,2B,2013
+3458,1B,2B,Stolen Base 2B,501647,Wilin Rosario,Héctor Sánchez,1,1,2,True,2013-04-09,Stolen,2B,2013
+3459,1B,2B,Stolen Base 2B,501647,Wilin Rosario,Héctor Sánchez,2,6,6,True,2013-04-09,Stolen,2B,2013
+2024,1B,2B,Stolen Base 2B,501647,Wilin Rosario,Jonathan Lucroy,2,3,1,False,2014-06-20,Stolen,2B,2014
+1753,1B,2B,Stolen Base 2B,501647,Wilin Rosario,Welington Castillo,4,2,8,False,2015-06-25,Stolen,2B,2015
+2410,1B,,Caught Stealing 2B,501647,Wilin Rosario,Andrew Susac,6,10,8,False,2015-05-23,Caught,2B,2015
+2516,1B,2B,Stolen Base 2B,501647,Wilin Rosario,Carlos Ruiz,0,1,2,False,2015-05-18,Stolen,2B,2015

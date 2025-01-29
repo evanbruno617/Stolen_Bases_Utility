@@ -1,0 +1,21 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3749,1B,2B,Stolen Base 2B,596143,Luis Sardinas,448802,Jaime García,608671,Travis Jankowski,L,Kurt Suzuki,435559,3,1,4,True,2017-04-17,Stolen,2B,2017,2018,26.5
+1,3121,1B,2B,Stolen Base 2B,596143,Luis Sardinas,448802,Jaime García,608671,Travis Jankowski,L,Kurt Suzuki,435559,3,1,4,True,2017-04-17,Stolen,2B,2017,2018,26.5
+2,4058,1B,,Caught Stealing 2B,596143,Luis Sardinas,445926,Jesse Chavez,543184,Christian Friedrich,R,Carlos Ruiz,434563,2,0,4,False,2016-09-29,Caught,2B,2016,2017,26.5
+3,4389,1B,2B,Stolen Base 2B,596143,Luis Sardinas,518516,Madison Bumgarner,543105,Alex Dickerson,L,Buster Posey,457763,1,2,6,True,2016-09-14,Stolen,2B,2016,2017,26.5
+4,4592,1B,2B,Stolen Base 2B,596143,Luis Sardinas,448179,Rich Hill,493351,Alexei Ramirez,L,Yasmani Grandal,518735,0,0,1,True,2016-09-03,Stolen,2B,2016,2017,26.5
+5,4805,2B,3B,Stolen Base 3B,596143,Luis Sardinas,452657,Jon Lester,608671,Travis Jankowski,L,David Ross,424325,0,2,3,False,2016-08-22,Stolen,3B,2016,2017,26.5
+6,7227,1B,2B,Stolen Base 2B,596143,Luis Sardinas,282332,CC Sabathia,493114,Norichika Aoki,L,Brian McCann,435263,0,0,3,True,2016-04-16,Stolen,2B,2016,2017,26.5
+7,7413,1B,,Caught Stealing 2B,596143,Luis Sardinas,407890,Colby Lewis,502182,Steve Clevenger,R,Bryan Holaday,592407,2,3,4,True,2016-04-06,Caught,2B,2016,2017,26.5
+8,23,1B,,Caught Stealing 2B,596143,Luis Sardinas,445926,Jesse Chavez,543184,Christian Friedrich,R,Carlos Ruiz,434563,2,0,4,False,2016-09-29,Caught,2B,2016,2017,26.5
+9,354,1B,2B,Stolen Base 2B,596143,Luis Sardinas,518516,Madison Bumgarner,543105,Alex Dickerson,L,Buster Posey,457763,1,2,6,True,2016-09-14,Stolen,2B,2016,2017,26.5
+10,557,1B,2B,Stolen Base 2B,596143,Luis Sardinas,448179,Rich Hill,493351,Alexei Ramirez,L,Yasmani Grandal,518735,0,0,1,True,2016-09-03,Stolen,2B,2016,2017,26.5
+11,770,2B,3B,Stolen Base 3B,596143,Luis Sardinas,452657,Jon Lester,608671,Travis Jankowski,L,David Ross,424325,0,2,3,False,2016-08-22,Stolen,3B,2016,2017,26.5
+12,3192,1B,2B,Stolen Base 2B,596143,Luis Sardinas,282332,CC Sabathia,493114,Norichika Aoki,L,Brian McCann,435263,0,0,3,True,2016-04-16,Stolen,2B,2016,2017,26.5
+13,3378,1B,,Caught Stealing 2B,596143,Luis Sardinas,407890,Colby Lewis,502182,Steve Clevenger,R,Bryan Holaday,592407,2,3,4,True,2016-04-06,Caught,2B,2016,2017,26.5
+14,3430,1B,,Caught Stealing 2B,596143,Luis Sardinas,445926,Jesse Chavez,543184,Christian Friedrich,R,Carlos Ruiz,434563,2,0,4,False,2016-09-29,Caught,2B,2016,2017,26.5
+15,3761,1B,2B,Stolen Base 2B,596143,Luis Sardinas,518516,Madison Bumgarner,543105,Alex Dickerson,L,Buster Posey,457763,1,2,6,True,2016-09-14,Stolen,2B,2016,2017,26.5
+16,3964,1B,2B,Stolen Base 2B,596143,Luis Sardinas,448179,Rich Hill,493351,Alexei Ramirez,L,Yasmani Grandal,518735,0,0,1,True,2016-09-03,Stolen,2B,2016,2017,26.5
+17,4177,2B,3B,Stolen Base 3B,596143,Luis Sardinas,452657,Jon Lester,608671,Travis Jankowski,L,David Ross,424325,0,2,3,False,2016-08-22,Stolen,3B,2016,2017,26.5
+18,6599,1B,2B,Stolen Base 2B,596143,Luis Sardinas,282332,CC Sabathia,493114,Norichika Aoki,L,Brian McCann,435263,0,0,3,True,2016-04-16,Stolen,2B,2016,2017,26.5
+19,6785,1B,,Caught Stealing 2B,596143,Luis Sardinas,407890,Colby Lewis,502182,Steve Clevenger,R,Bryan Holaday,592407,2,3,4,True,2016-04-06,Caught,2B,2016,2017,26.5

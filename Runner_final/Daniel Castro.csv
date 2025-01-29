@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,6954,1B,,Caught Stealing 2B,593495,Daniel Castro,452657,Jon Lester,518692,Freddie Freeman,L,David Ross,424325,0,0,1,True,2016-04-29,Caught,2B,2016,2018,27.0
+1,7137,1B,2B,Stolen Base 2B,593495,Daniel Castro,548389,Ross Stripling,518692,Freddie Freeman,R,Yasmani Grandal,518735,0,0,3,False,2016-04-20,Stolen,2B,2016,2018,27.0
+2,2919,1B,,Caught Stealing 2B,593495,Daniel Castro,452657,Jon Lester,518692,Freddie Freeman,L,David Ross,424325,0,0,1,True,2016-04-29,Caught,2B,2016,2018,27.0
+3,3102,1B,2B,Stolen Base 2B,593495,Daniel Castro,548389,Ross Stripling,518692,Freddie Freeman,R,Yasmani Grandal,518735,0,0,3,False,2016-04-20,Stolen,2B,2016,2018,27.0
+4,6326,1B,,Caught Stealing 2B,593495,Daniel Castro,452657,Jon Lester,518692,Freddie Freeman,L,David Ross,424325,0,0,1,True,2016-04-29,Caught,2B,2016,2018,27.0
+5,6509,1B,2B,Stolen Base 2B,593495,Daniel Castro,548389,Ross Stripling,518692,Freddie Freeman,R,Yasmani Grandal,518735,0,0,3,False,2016-04-20,Stolen,2B,2016,2018,27.0

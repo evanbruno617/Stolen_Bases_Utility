@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+682,1B,2B,Stolen Base 2B,120440,Herbert Perry,Bengie Molina,4,0,4,False,2000-09-02,Stolen,2B,2000
+815,1B,2B,Stolen Base 2B,120440,Herbert Perry,Joe Oliver,1,2,9,True,2000-08-27,Stolen,2B,2000
+2033,1B,2B,Stolen Base 2B,120440,Herbert Perry,Jason Varitek,7,3,5,False,2000-06-30,Stolen,2B,2000
+2494,1B,2B,Stolen Base 2B,120440,Herbert Perry,Joe Girardi,5,5,14,False,2000-06-09,Stolen,2B,2000
+219,1B,2B,Caught Stealing 2B,120440,Herbert Perry,Robert Fick,0,2,6,True,2001-05-27,Caught,2B,2001
+732,1B,,Caught Stealing 2B,120440,Herbert Perry,Doug Mirabelli,3,7,5,True,2001-05-07,Caught,2B,2001
+744,1B,2B,Stolen Base 2B,120440,Herbert Perry,Mike Hubbard,0,2,1,True,2001-05-06,Stolen,2B,2001
+737,1B,,Caught Stealing 2B,120440,Herbert Perry,Jorge Posada,2,2,7,True,2002-08-24,Caught,2B,2002
+1595,1B,2B,Stolen Base 2B,120440,Herbert Perry,A.J. Pierzynski,0,0,5,True,2002-07-14,Stolen,2B,2002
+1805,1B,,Caught Stealing 2B,120440,Herbert Perry,John Flaherty,3,0,4,False,2002-07-02,Caught,2B,2002
+2873,1B,2B,Stolen Base 2B,120440,Herbert Perry,Sandy Alomar Jr.,1,0,5,True,2002-05-16,Stolen,2B,2002
+2973,1B,2B,Stolen Base 2B,120440,Herbert Perry,Mike Rivera,2,0,4,False,2002-05-12,Stolen,2B,2002
+3061,1B,2B,Stolen Base 2B,120440,Herbert Perry,Mark Johnson,4,1,8,False,2002-05-09,Stolen,2B,2002

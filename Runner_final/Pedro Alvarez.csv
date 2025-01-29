@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,7089,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,432934,Chris Young,572073,Joey Rickard,R,Salvador Perez,521692,4,0,3,True,2016-04-22,Stolen,2B,2016,2017,26.4
+1,3054,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,432934,Chris Young,572073,Joey Rickard,R,Salvador Perez,521692,4,0,3,True,2016-04-22,Stolen,2B,2016,2017,26.4
+2,6461,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,432934,Chris Young,572073,Joey Rickard,R,Salvador Perez,521692,4,0,3,True,2016-04-22,Stolen,2B,2016,2017,26.4
+3,64,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,430599,Joe Blanton,455755,Chris Stewart,R,Salvador Perez,521692,0,0,2,True,2015-07-21,Stolen,2B,2015,2016,25.2
+4,446,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,527054,Julio Teheran,474568,Jordy Mercer,R,A.J. Pierzynski,150229,6,1,5,False,2015-06-27,Stolen,2B,2015,2016,25.2

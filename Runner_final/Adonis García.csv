@@ -1,0 +1,13 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,5163,2B,score,Caught Stealing 3B,611177,Adonis García,553878,Felipe Vázquez,150229,A.J. Pierzynski,L,Eric Fryer,518700,2,1,7,False,2016-08-04,Caught,3B,2016,2017,26.3
+1,5531,1B,,Caught Stealing 2B,611177,Adonis García,605232,Brandon Finnegan,455976,Nick Markakis,L,Tucker Barnhart,571466,0,0,1,True,2016-07-18,Caught,2B,2016,2017,26.3
+2,6086,1B,2B,Stolen Base 2B,611177,Adonis García,605232,Brandon Finnegan,607054,Jace Peterson,L,Tucker Barnhart,571466,0,3,4,False,2016-06-14,Stolen,2B,2016,2017,26.3
+3,6260,1B,2B,Stolen Base 2B,611177,Adonis García,430599,Joe Blanton,593495,Daniel Castro,R,A.J. Ellis,454560,1,0,7,True,2016-06-04,Stolen,2B,2016,2017,26.3
+4,1128,2B,score,Caught Stealing 3B,611177,Adonis García,553878,Felipe Vázquez,150229,A.J. Pierzynski,L,Eric Fryer,518700,2,1,7,False,2016-08-04,Caught,3B,2016,2017,26.3
+5,1496,1B,,Caught Stealing 2B,611177,Adonis García,605232,Brandon Finnegan,455976,Nick Markakis,L,Tucker Barnhart,571466,0,0,1,True,2016-07-18,Caught,2B,2016,2017,26.3
+6,2051,1B,2B,Stolen Base 2B,611177,Adonis García,605232,Brandon Finnegan,607054,Jace Peterson,L,Tucker Barnhart,571466,0,3,4,False,2016-06-14,Stolen,2B,2016,2017,26.3
+7,2225,1B,2B,Stolen Base 2B,611177,Adonis García,430599,Joe Blanton,593495,Daniel Castro,R,A.J. Ellis,454560,1,0,7,True,2016-06-04,Stolen,2B,2016,2017,26.3
+8,4535,2B,score,Caught Stealing 3B,611177,Adonis García,553878,Felipe Vázquez,150229,A.J. Pierzynski,L,Eric Fryer,518700,2,1,7,False,2016-08-04,Caught,3B,2016,2017,26.3
+9,4903,1B,,Caught Stealing 2B,611177,Adonis García,605232,Brandon Finnegan,455976,Nick Markakis,L,Tucker Barnhart,571466,0,0,1,True,2016-07-18,Caught,2B,2016,2017,26.3
+10,5458,1B,2B,Stolen Base 2B,611177,Adonis García,605232,Brandon Finnegan,607054,Jace Peterson,L,Tucker Barnhart,571466,0,3,4,False,2016-06-14,Stolen,2B,2016,2017,26.3
+11,5632,1B,2B,Stolen Base 2B,611177,Adonis García,430599,Joe Blanton,593495,Daniel Castro,R,A.J. Ellis,454560,1,0,7,True,2016-06-04,Stolen,2B,2016,2017,26.3

@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+449,1B,2B,Stolen Base 2B,477195,Ike Davis,Carlos Ruiz,3,2,3,False,2010-09-10,Stolen,2B,2010
+900,1B,3B,Caught Stealing 2B,477195,Ike Davis,Humberto Quintero,0,0,2,True,2010-08-19,Caught,2B,2010
+963,1B,2B,Stolen Base 2B,477195,Ike Davis,Jason Castro,1,3,9,True,2010-08-16,Stolen,2B,2010
+2331,1B,2B,Stolen Base 2B,477195,Ike Davis,Craig Tatum,0,1,1,True,2010-06-12,Stolen,2B,2010
+1367,2B,,Caught Stealing 3B,477195,Ike Davis,Buster Posey,0,2,3,True,2012-08-01,Caught,3B,2012
+3357,1B,,Caught Stealing 2B,477195,Ike Davis,Carlos Ruiz,4,5,8,True,2012-05-08,Caught,2B,2012
+956,1B,2B,Stolen Base 2B,477195,Ike Davis,Tim Federowicz,0,1,2,True,2013-08-14,Stolen,2B,2013
+1176,1B,2B,Stolen Base 2B,477195,Ike Davis,George Kottaras,0,1,4,False,2013-08-04,Stolen,2B,2013
+1640,1B,2B,Stolen Base 2B,477195,Ike Davis,Buster Posey,3,3,11,True,2013-07-08,Stolen,2B,2013
+1700,1B,2B,Stolen Base 2B,477195,Ike Davis,Jonathan Lucroy,1,0,2,True,2013-07-06,Stolen,2B,2013
+1183,1B,,Caught Stealing 2B,477195,Ike Davis,Tuffy Gosewisch,2,1,7,True,2014-08-03,Caught,2B,2014
+2391,1B,,Caught Stealing 2B,477195,Ike Davis,Drew Butera,2,5,8,True,2014-06-01,Caught,2B,2014
+2916,1B,,Caught Stealing 2B,477195,Ike Davis,Héctor Sánchez,4,3,5,False,2014-05-07,Caught,2B,2014

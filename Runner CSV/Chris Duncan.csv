@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2176,1B,,Caught Stealing 2B,408219,Chris Duncan,Carlos Ruiz,1,1,7,False,2007-06-24,Caught,2B,2007
+3076,1B,2B,Stolen Base 2B,408219,Chris Duncan,Josh Bard,4,0,6,True,2007-05-11,Stolen,2B,2007
+3640,1B,2B,Stolen Base 2B,408219,Chris Duncan,Johnny Estrada,0,0,1,False,2007-04-14,Stolen,2B,2007
+1787,1B,2B,Stolen Base 2B,408219,Chris Duncan,Miguel Olivo,1,5,9,True,2008-06-28,Stolen,2B,2008
+3328,1B,2B,Stolen Base 2B,408219,Chris Duncan,Steve Holm,0,2,4,False,2008-04-19,Stolen,2B,2008
+3731,1B,,Caught Stealing 2B,408219,Chris Duncan,Yorvit Torrealba,0,0,4,False,2008-04-01,Caught,2B,2008
+2475,1B,,Caught Stealing 2B,408219,Chris Duncan,Geovany Soto,4,4,6,True,2009-04-16,Caught,2B,2009

@@ -1,0 +1,16 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,193,1B,2B,Stolen Base 2B,621566,Matt Olson,592332,Kevin Gausman,572039,Stephen Piscotty,R,Joey Bart,663698,1,0,4,False,2020-09-19,Stolen,2B,2020,2021,25.9
+1,3036,1B,2B,Stolen Base 2B,621566,Matt Olson,592332,Kevin Gausman,572039,Stephen Piscotty,R,Joey Bart,663698,1,0,4,False,2020-09-19,Stolen,2B,2020,2021,25.9
+2,4960,1B,2B,Stolen Base 2B,621566,Matt Olson,592332,Kevin Gausman,572039,Stephen Piscotty,R,Joey Bart,663698,1,0,4,False,2020-09-19,Stolen,2B,2020,2021,25.9
+3,607,1B,2B,Stolen Base 2B,621566,Matt Olson,594835,Marco Gonzales,543228,Yan Gomes,L,Cal Raleigh,663728,1,0,1,False,2021-08-23,Stolen,2B,2021,2022,26.3
+4,1463,1B,2B,Stolen Base 2B,621566,Matt Olson,669674,Sam Long,656305,Matt Chapman,L,Buster Posey,457763,0,2,1,True,2021-06-27,Stolen,2B,2021,2022,26.3
+5,1529,1B,2B,Stolen Base 2B,621566,Matt Olson,622250,Josh Sborz,657656,Ramón Laureano,R,Jose Trevino,624431,1,5,7,True,2021-06-24,Stolen,2B,2021,2022,26.3
+6,1618,1B,2B,Stolen Base 2B,621566,Matt Olson,641482,Nestor Cortes,657656,Ramón Laureano,L,Gary Sánchez,596142,2,4,7,True,2021-06-19,Stolen,2B,2021,2022,26.3
+7,2531,1B,2B,Stolen Base 2B,621566,Matt Olson,594835,Marco Gonzales,543228,Yan Gomes,L,Cal Raleigh,663728,1,0,1,False,2021-08-23,Stolen,2B,2021,2022,26.3
+8,3387,1B,2B,Stolen Base 2B,621566,Matt Olson,669674,Sam Long,656305,Matt Chapman,L,Buster Posey,457763,0,2,1,True,2021-06-27,Stolen,2B,2021,2022,26.3
+9,3453,1B,2B,Stolen Base 2B,621566,Matt Olson,622250,Josh Sborz,657656,Ramón Laureano,R,Jose Trevino,624431,1,5,7,True,2021-06-24,Stolen,2B,2021,2022,26.3
+10,3542,1B,2B,Stolen Base 2B,621566,Matt Olson,641482,Nestor Cortes,657656,Ramón Laureano,L,Gary Sánchez,596142,2,4,7,True,2021-06-19,Stolen,2B,2021,2022,26.3
+11,2962,1B,2B,Stolen Base 2B,621566,Matt Olson,605400,Aaron Nola,663586,Austin Riley,R,J.T. Realmuto,592663,3,3,3,False,2023-05-25,Stolen,2B,2023,2024,25.5
+12,7376,1B,2B,Stolen Base 2B,621566,Matt Olson,605400,Aaron Nola,663586,Austin Riley,R,J.T. Realmuto,592663,3,3,3,False,2023-05-25,Stolen,2B,2023,2024,25.5
+13,192,1B,2B,Stolen Base 2B,621566,Matt Olson,430935,Cole Hamels,572039,Stephen Piscotty,L,Robinson Chirinos,455139,0,0,2,True,2018-04-24,Stolen,2B,2018,2019,26.2
+14,581,1B,2B,Stolen Base 2B,621566,Matt Olson,430935,Cole Hamels,518960,Jonathan Lucroy,L,Robinson Chirinos,455139,0,2,2,False,2018-04-03,Stolen,2B,2018,2019,26.2

@@ -1,0 +1,53 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,189,1B,2B,Stolen Base 2B,572816,Corey Dickerson,571578,Patrick Corbin,446481,Sean Rodríguez,L,Yan Gomes,543228,4,2,4,False,2020-09-19,Stolen,2B,2020,2021,27.3
+1,554,1B,,Caught Stealing 2B,572816,Corey Dickerson,519326,Hunter Strickland,643265,Garrett Cooper,R,Wilson Ramos,467092,3,4,7,True,2020-08-31,Caught,2B,2020,2021,27.3
+2,625,1B,,Caught Stealing 2B,572816,Corey Dickerson,519326,Hunter Strickland,643265,Garrett Cooper,R,Wilson Ramos,467092,3,4,7,True,2020-08-27,Caught,2B,2020,2021,27.3
+3,3032,1B,2B,Stolen Base 2B,572816,Corey Dickerson,571578,Patrick Corbin,446481,Sean Rodríguez,L,Yan Gomes,543228,4,2,4,False,2020-09-19,Stolen,2B,2020,2021,27.3
+4,3397,1B,,Caught Stealing 2B,572816,Corey Dickerson,519326,Hunter Strickland,643265,Garrett Cooper,R,Wilson Ramos,467092,3,4,7,True,2020-08-31,Caught,2B,2020,2021,27.3
+5,3468,1B,,Caught Stealing 2B,572816,Corey Dickerson,519326,Hunter Strickland,643265,Garrett Cooper,R,Wilson Ramos,467092,3,4,7,True,2020-08-27,Caught,2B,2020,2021,27.3
+6,4956,1B,2B,Stolen Base 2B,572816,Corey Dickerson,571578,Patrick Corbin,446481,Sean Rodríguez,L,Yan Gomes,543228,4,2,4,False,2020-09-19,Stolen,2B,2020,2021,27.3
+7,5321,1B,,Caught Stealing 2B,572816,Corey Dickerson,519326,Hunter Strickland,643265,Garrett Cooper,R,Wilson Ramos,467092,3,4,7,True,2020-08-31,Caught,2B,2020,2021,27.3
+8,5392,1B,,Caught Stealing 2B,572816,Corey Dickerson,519326,Hunter Strickland,643265,Garrett Cooper,R,Wilson Ramos,467092,3,4,7,True,2020-08-27,Caught,2B,2020,2021,27.3
+9,2428,1B,2B,Stolen Base 2B,572816,Corey Dickerson,453562,Jake Arrieta,621028,Kevin Newman,R,J.T. Realmuto,592663,0,0,2,False,2019-07-19,Stolen,2B,2019,2020,27.0
+10,5271,1B,2B,Stolen Base 2B,572816,Corey Dickerson,453562,Jake Arrieta,621028,Kevin Newman,R,J.T. Realmuto,592663,0,0,2,False,2019-07-19,Stolen,2B,2019,2020,27.0
+11,7195,1B,2B,Stolen Base 2B,572816,Corey Dickerson,453562,Jake Arrieta,621028,Kevin Newman,R,J.T. Realmuto,592663,0,0,2,False,2019-07-19,Stolen,2B,2019,2020,27.0
+12,12,1B,2B,Stolen Base 2B,572816,Corey Dickerson,446372,Corey Kluber,672386,Alejandro Kirk,R,Kyle Higashioka,543309,1,1,4,False,2021-09-30,Stolen,2B,2021,2022,27.0
+13,87,1B,2B,Stolen Base 2B,572816,Corey Dickerson,608652,Luke Farrell,669289,Santiago Espinal,R,Willians Astudillo,553902,1,3,6,True,2021-09-25,Stolen,2B,2021,2022,27.0
+14,467,1B,2B,Stolen Base 2B,572816,Corey Dickerson,518774,Matt Harvey,666971,Lourdes Gurriel Jr.,R,Austin Wynns,642851,4,2,4,False,2021-09-01,Stolen,2B,2021,2022,27.0
+15,843,1B,2B,Stolen Base 2B,572816,Corey Dickerson,493603,Adam Ottavino,666971,Lourdes Gurriel Jr.,R,Kevin Plawecki,608700,6,8,7,False,2021-08-08,Stolen,2B,2021,2022,27.0
+16,1746,1B,,Caught Stealing 2B,572816,Corey Dickerson,571710,Mychal Givens,656371,Isan Díaz,R,Elias Díaz,553869,3,4,8,False,2021-06-09,Caught,2B,2021,2022,27.0
+17,2102,2B,3B,Stolen Base 3B,572816,Corey Dickerson,554430,Zack Wheeler,642423,Magneuris Sierra,R,Andrew Knapp,595284,0,1,7,True,2021-05-18,Stolen,3B,2021,2022,27.0
+18,2437,1B,,Caught Stealing 2B,572816,Corey Dickerson,605288,Adrian Houser,594807,Adam Duvall,R,Omar Narváez,553882,0,1,2,True,2021-04-27,Caught,2B,2021,2022,27.0
+19,2593,1B,2B,Stolen Base 2B,572816,Corey Dickerson,592717,Aaron Sanchez,516782,Starling Marte,R,Curt Casali,592200,1,0,2,False,2021-04-17,Stolen,2B,2021,2022,27.0
+20,1936,1B,2B,Stolen Base 2B,572816,Corey Dickerson,446372,Corey Kluber,672386,Alejandro Kirk,R,Kyle Higashioka,543309,1,1,4,False,2021-09-30,Stolen,2B,2021,2022,27.0
+21,2011,1B,2B,Stolen Base 2B,572816,Corey Dickerson,608652,Luke Farrell,669289,Santiago Espinal,R,Willians Astudillo,553902,1,3,6,True,2021-09-25,Stolen,2B,2021,2022,27.0
+22,2391,1B,2B,Stolen Base 2B,572816,Corey Dickerson,518774,Matt Harvey,666971,Lourdes Gurriel Jr.,R,Austin Wynns,642851,4,2,4,False,2021-09-01,Stolen,2B,2021,2022,27.0
+23,2767,1B,2B,Stolen Base 2B,572816,Corey Dickerson,493603,Adam Ottavino,666971,Lourdes Gurriel Jr.,R,Kevin Plawecki,608700,6,8,7,False,2021-08-08,Stolen,2B,2021,2022,27.0
+24,3670,1B,,Caught Stealing 2B,572816,Corey Dickerson,571710,Mychal Givens,656371,Isan Díaz,R,Elias Díaz,553869,3,4,8,False,2021-06-09,Caught,2B,2021,2022,27.0
+25,4026,2B,3B,Stolen Base 3B,572816,Corey Dickerson,554430,Zack Wheeler,642423,Magneuris Sierra,R,Andrew Knapp,595284,0,1,7,True,2021-05-18,Stolen,3B,2021,2022,27.0
+26,4361,1B,,Caught Stealing 2B,572816,Corey Dickerson,605288,Adrian Houser,594807,Adam Duvall,R,Omar Narváez,553882,0,1,2,True,2021-04-27,Caught,2B,2021,2022,27.0
+27,4517,1B,2B,Stolen Base 2B,572816,Corey Dickerson,592717,Aaron Sanchez,516782,Starling Marte,R,Curt Casali,592200,1,0,2,False,2021-04-17,Stolen,2B,2021,2022,27.0
+28,26,1B,2B,Stolen Base 2B,572816,Corey Dickerson,544931,Stephen Strasburg,465041,Francisco Cervelli,R,Pedro Severino,600474,0,1,1,True,2018-05-02,Stolen,2B,2018,2019,27.6
+29,409,1B,2B,Stolen Base 2B,572816,Corey Dickerson,543294,Kyle Hendricks,465041,Francisco Cervelli,R,Victor Caratini,605170,1,2,6,True,2018-04-12,Stolen,2B,2018,2019,27.6
+30,562,1B,2B,Stolen Base 2B,572816,Corey Dickerson,543606,Jake Odorizzi,465041,Francisco Cervelli,R,Jason Castro,488771,2,2,4,False,2018-04-04,Stolen,2B,2018,2019,27.6
+31,1521,1B,2B,Stolen Base 2B,572816,Corey Dickerson,462136,Marco Estrada,446334,Evan Longoria,R,Mike Ohlman,572000,1,4,4,True,2017-08-15,Stolen,2B,2017,2018,27.8
+32,2076,1B,2B,Stolen Base 2B,572816,Corey Dickerson,433589,Yusmeiro Petit,489149,Logan Morrison,R,Martín Maldonado,455117,0,5,7,True,2017-07-15,Stolen,2B,2017,2018,27.8
+33,2536,1B,2B,Stolen Base 2B,572816,Corey Dickerson,571656,Buck Farmer,446334,Evan Longoria,R,James McCann,543510,1,3,3,True,2017-06-18,Stolen,2B,2017,2018,27.8
+34,2625,2B,,Caught Stealing 3B,572816,Corey Dickerson,462136,Marco Estrada,489149,Logan Morrison,R,Russell Martin,431145,0,0,1,True,2017-06-13,Caught,3B,2017,2018,27.8
+35,2754,2B,3B,Stolen Base 3B,572816,Corey Dickerson,460059,Mike Pelfrey,519306,Steven Souza Jr.,R,Kevan Smith,607345,3,1,4,False,2017-06-07,Stolen,3B,2017,2018,27.8
+36,3318,1B,,Caught Stealing 2B,572816,Corey Dickerson,432934,Chris Young,543543,Brad Miller,R,Salvador Perez,521692,4,0,2,False,2017-05-09,Caught,2B,2017,2018,27.8
+37,3442,1B,,Caught Stealing 2B,572816,Corey Dickerson,450172,Edinson Volquez,595281,Kevin Kiermaier,R,J.T. Realmuto,592663,0,0,1,True,2017-05-02,Caught,2B,2017,2018,27.8
+38,893,1B,2B,Stolen Base 2B,572816,Corey Dickerson,462136,Marco Estrada,446334,Evan Longoria,R,Mike Ohlman,572000,1,4,4,True,2017-08-15,Stolen,2B,2017,2018,27.8
+39,1448,1B,2B,Stolen Base 2B,572816,Corey Dickerson,433589,Yusmeiro Petit,489149,Logan Morrison,R,Martín Maldonado,455117,0,5,7,True,2017-07-15,Stolen,2B,2017,2018,27.8
+40,1908,1B,2B,Stolen Base 2B,572816,Corey Dickerson,571656,Buck Farmer,446334,Evan Longoria,R,James McCann,543510,1,3,3,True,2017-06-18,Stolen,2B,2017,2018,27.8
+41,1997,2B,,Caught Stealing 3B,572816,Corey Dickerson,462136,Marco Estrada,489149,Logan Morrison,R,Russell Martin,431145,0,0,1,True,2017-06-13,Caught,3B,2017,2018,27.8
+42,2126,2B,3B,Stolen Base 3B,572816,Corey Dickerson,460059,Mike Pelfrey,519306,Steven Souza Jr.,R,Kevan Smith,607345,3,1,4,False,2017-06-07,Stolen,3B,2017,2018,27.8
+43,2690,1B,,Caught Stealing 2B,572816,Corey Dickerson,432934,Chris Young,543543,Brad Miller,R,Salvador Perez,521692,4,0,2,False,2017-05-09,Caught,2B,2017,2018,27.8
+44,2814,1B,,Caught Stealing 2B,572816,Corey Dickerson,450172,Edinson Volquez,595281,Kevin Kiermaier,R,J.T. Realmuto,592663,0,0,1,True,2017-05-02,Caught,2B,2017,2018,27.8
+45,4603,1B,,Caught Stealing 2B,572816,Corey Dickerson,462136,Marco Estrada,523253,Logan Forsythe,R,Dioner Navarro,425900,0,1,3,False,2016-09-03,Caught,2B,2016,2017,27.6
+46,5706,1B,,Caught Stealing 2B,572816,Corey Dickerson,453311,Tim Lincecum,545338,Nick Franklin,R,Carlos Pérez,542208,3,4,3,False,2016-07-05,Caught,2B,2016,2017,27.6
+47,568,1B,,Caught Stealing 2B,572816,Corey Dickerson,462136,Marco Estrada,523253,Logan Forsythe,R,Dioner Navarro,425900,0,1,3,False,2016-09-03,Caught,2B,2016,2017,27.6
+48,1671,1B,,Caught Stealing 2B,572816,Corey Dickerson,453311,Tim Lincecum,545338,Nick Franklin,R,Carlos Pérez,542208,3,4,3,False,2016-07-05,Caught,2B,2016,2017,27.6
+49,3975,1B,,Caught Stealing 2B,572816,Corey Dickerson,462136,Marco Estrada,523253,Logan Forsythe,R,Dioner Navarro,425900,0,1,3,False,2016-09-03,Caught,2B,2016,2017,27.6
+50,5078,1B,,Caught Stealing 2B,572816,Corey Dickerson,453311,Tim Lincecum,545338,Nick Franklin,R,Carlos Pérez,542208,3,4,3,False,2016-07-05,Caught,2B,2016,2017,27.6
+51,2118,1B,,Caught Stealing 2B,572816,Corey Dickerson,503449,Wily Peralta,460026,Nick Hundley,R,Jonathan Lucroy,518960,0,0,2,True,2015-04-08,Caught,2B,2015,2016,27.4

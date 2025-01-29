@@ -1,0 +1,22 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1548,1B,2B,Stolen Base 2B,607461,Matt Beaty,592789,Noah Syndergaard,641355,Cody Bellinger,R,Wilson Ramos,467092,1,4,5,True,2019-09-13,Stolen,2B,2019,2020,26.9
+1,1730,1B,2B,Stolen Base 2B,607461,Matt Beaty,622075,Yency Almonte,669257,Will Smith,R,Dom Nuñez,624513,6,2,2,False,2019-09-02,Stolen,2B,2019,2020,26.9
+2,1818,1B,2B,Stolen Base 2B,607461,Matt Beaty,615698,Cal Quantrill,571771,Enrique Hernández,R,Francisco Mejía,642336,0,3,4,True,2019-08-27,Stolen,2B,2019,2020,26.9
+3,1975,1B,2B,Stolen Base 2B,607461,Matt Beaty,656794,Sean Newcomb,621458,Edwin Ríos,L,Tyler Flowers,452095,2,2,5,True,2019-08-17,Stolen,2B,2019,2020,26.9
+4,3213,1B,2B,Stolen Base 2B,607461,Matt Beaty,592789,Noah Syndergaard,657077,Alex Verdugo,R,Wilson Ramos,467092,3,3,3,False,2019-05-29,Stolen,2B,2019,2020,26.9
+5,4391,1B,2B,Stolen Base 2B,607461,Matt Beaty,592789,Noah Syndergaard,641355,Cody Bellinger,R,Wilson Ramos,467092,1,4,5,True,2019-09-13,Stolen,2B,2019,2020,26.9
+6,4573,1B,2B,Stolen Base 2B,607461,Matt Beaty,622075,Yency Almonte,669257,Will Smith,R,Dom Nuñez,624513,6,2,2,False,2019-09-02,Stolen,2B,2019,2020,26.9
+7,4661,1B,2B,Stolen Base 2B,607461,Matt Beaty,615698,Cal Quantrill,571771,Enrique Hernández,R,Francisco Mejía,642336,0,3,4,True,2019-08-27,Stolen,2B,2019,2020,26.9
+8,4818,1B,2B,Stolen Base 2B,607461,Matt Beaty,656794,Sean Newcomb,621458,Edwin Ríos,L,Tyler Flowers,452095,2,2,5,True,2019-08-17,Stolen,2B,2019,2020,26.9
+9,6056,1B,2B,Stolen Base 2B,607461,Matt Beaty,592789,Noah Syndergaard,657077,Alex Verdugo,R,Wilson Ramos,467092,3,3,3,False,2019-05-29,Stolen,2B,2019,2020,26.9
+10,6315,1B,2B,Stolen Base 2B,607461,Matt Beaty,592789,Noah Syndergaard,641355,Cody Bellinger,R,Wilson Ramos,467092,1,4,5,True,2019-09-13,Stolen,2B,2019,2020,26.9
+11,6497,1B,2B,Stolen Base 2B,607461,Matt Beaty,622075,Yency Almonte,669257,Will Smith,R,Dom Nuñez,624513,6,2,2,False,2019-09-02,Stolen,2B,2019,2020,26.9
+12,6585,1B,2B,Stolen Base 2B,607461,Matt Beaty,615698,Cal Quantrill,571771,Enrique Hernández,R,Francisco Mejía,642336,0,3,4,True,2019-08-27,Stolen,2B,2019,2020,26.9
+13,6742,1B,2B,Stolen Base 2B,607461,Matt Beaty,656794,Sean Newcomb,621458,Edwin Ríos,L,Tyler Flowers,452095,2,2,5,True,2019-08-17,Stolen,2B,2019,2020,26.9
+14,7980,1B,2B,Stolen Base 2B,607461,Matt Beaty,592789,Noah Syndergaard,657077,Alex Verdugo,R,Wilson Ramos,467092,3,3,3,False,2019-05-29,Stolen,2B,2019,2020,26.9
+15,644,1B,2B,Stolen Base 2B,607461,Matt Beaty,612434,Miguel Castro,572041,AJ Pollock,R,Patrick Mazeika,664850,3,1,6,False,2021-08-21,Stolen,2B,2021,2022,26.8
+16,765,1B,,Caught Stealing 2B,607461,Matt Beaty,622098,Drew Smith,607208,Trea Turner,R,James McCann,543510,0,4,6,True,2021-08-13,Caught,2B,2021,2022,26.8
+17,1286,1B,2B,Stolen Base 2B,607461,Matt Beaty,645261,Sandy Alcantara,641355,Cody Bellinger,R,Sandy León,506702,1,0,4,True,2021-07-08,Stolen,2B,2021,2022,26.8
+18,2568,1B,2B,Stolen Base 2B,607461,Matt Beaty,612434,Miguel Castro,572041,AJ Pollock,R,Patrick Mazeika,664850,3,1,6,False,2021-08-21,Stolen,2B,2021,2022,26.8
+19,2689,1B,,Caught Stealing 2B,607461,Matt Beaty,622098,Drew Smith,607208,Trea Turner,R,James McCann,543510,0,4,6,True,2021-08-13,Caught,2B,2021,2022,26.8
+20,3210,1B,2B,Stolen Base 2B,607461,Matt Beaty,645261,Sandy Alcantara,641355,Cody Bellinger,R,Sandy León,506702,1,0,4,True,2021-07-08,Stolen,2B,2021,2022,26.8

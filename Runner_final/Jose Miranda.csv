@@ -1,0 +1,2 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,356,3B,,Caught Stealing Home,669304,Jose Miranda,663455,Konnor Pilkington,665482,Gilberto Celestino,L,Luke Maile,571912,0,3,4,True,2022-06-28,Caught,Home,2022,2023,26.6

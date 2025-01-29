@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+815,1B,,Caught Stealing 2B,519048,Mitch Moreland,Joe Mauer,2,0,2,False,2010-08-23,Caught,2B,2010
+1277,1B,2B,Stolen Base 2B,519048,Mitch Moreland,Bobby Wilson,3,1,7,True,2010-08-01,Stolen,2B,2010
+1308,1B,2B,Stolen Base 2B,519048,Mitch Moreland,Mike Napoli,8,7,5,True,2010-07-30,Stolen,2B,2010
+1514,1B,,Caught Stealing 2B,519048,Mitch Moreland,Joe Mauer,0,0,2,False,2011-07-28,Caught,2B,2011
+2912,1B,2B,Stolen Base 2B,519048,Mitch Moreland,Kelly Shoppach,3,4,8,True,2011-05-31,Stolen,2B,2011
+3199,1B,2B,Stolen Base 2B,519048,Mitch Moreland,Carlos Ruiz,0,1,1,True,2011-05-20,Stolen,2B,2011
+1179,1B,,Caught Stealing 2B,519048,Mitch Moreland,Alex Avila,2,1,4,False,2012-08-10,Caught,2B,2012
+1363,1B,2B,Stolen Base 2B,519048,Mitch Moreland,Bobby Wilson,9,8,7,False,2012-08-02,Stolen,2B,2012
+2363,1B,2B,Stolen Base 2B,519048,Mitch Moreland,Roberto Pérez,5,7,3,True,2015-05-25,Stolen,2B,2015
+41,1B,2B,Stolen Base 2B,519048,Mitch Moreland,Nick Hundley,3,1,6,False,2016-08-10,Stolen,2B,2016
+2309,1B,,Caught Stealing 2B,519048,Mitch Moreland,Carlos Ruiz,0,1,5,False,2017-05-28,Caught,2B,2017
+855,2B,3B,Stolen Base 3B,519048,Mitch Moreland,Michael Pérez,1,0,1,False,2018-08-18,Stolen,3B,2018
+2813,1B,2B,Stolen Base 2B,519048,Mitch Moreland,Jesús Sucre,3,3,6,False,2018-04-29,Stolen,2B,2018
+2366,1B,2B,Stolen Base 2B,519048,Mitch Moreland,Welington Castillo,2,3,8,True,2019-05-05,Stolen,2B,2019

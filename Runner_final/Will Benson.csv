@@ -1,0 +1,43 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,37,1B,2B,Stolen Base 2B,666181,Will Benson,596271,Casey Lawrence,663697,Jonathan India,R,Andrew Knizner,668800,2,8,4,True,2023-09-29,Stolen,2B,2023,2024,28.8
+1,129,1B,2B,Stolen Base 2B,666181,Will Benson,608337,Lucas Giolito,571912,Luke Maile,R,Bo Naylor,666310,6,5,4,True,2023-09-26,Stolen,2B,2023,2024,28.8
+2,132,1B,2B,Stolen Base 2B,666181,Will Benson,675540,Xzavion Curry,571912,Luke Maile,R,Bo Naylor,666310,7,9,7,True,2023-09-26,Stolen,2B,2023,2024,28.8
+3,630,2B,3B,Stolen Base 3B,666181,Will Benson,669302,Logan Gilbert,641584,Jake Fraley,R,Cal Raleigh,663728,1,2,3,False,2023-09-06,Stolen,3B,2023,2024,28.8
+4,953,1B,2B,Stolen Base 2B,666181,Will Benson,672282,Reid Detmers,682622,Noelvi Marte,L,Matt Thaiss,642136,1,3,4,True,2023-08-23,Stolen,2B,2023,2024,28.8
+5,984,1B,2B,Stolen Base 2B,666181,Will Benson,608337,Lucas Giolito,663886,Tyler Stephenson,R,Logan O'Hoppe,681351,0,1,2,True,2023-08-22,Stolen,2B,2023,2024,28.8
+6,1010,1B,2B,Stolen Base 2B,666181,Will Benson,672282,Reid Detmers,682622,Noelvi Marte,L,Matt Thaiss,642136,1,3,4,True,2023-08-21,Stolen,2B,2023,2024,28.8
+7,1185,1B,2B,Stolen Base 2B,666181,Will Benson,656605,Mitch Keller,656413,Stuart Fairchild,R,Jason Delay,641511,0,1,5,True,2023-08-13,Stolen,2B,2023,2024,28.8
+8,1317,1B,2B,Stolen Base 2B,666181,Will Benson,691587,Eury Pérez,656413,Stuart Fairchild,R,Nick Fortes,663743,0,1,3,False,2023-08-07,Stolen,2B,2023,2024,28.8
+9,1609,1B,2B,Stolen Base 2B,666181,Will Benson,607067,Colin Rea,682829,Elly De La Cruz,R,William Contreras,661388,1,2,5,True,2023-07-24,Stolen,2B,2023,2024,28.8
+10,1694,2B,,Caught Stealing 3B,666181,Will Benson,656457,Tyler Gilbert,670770,TJ Friedl,L,Gabriel Moreno,672515,9,6,7,False,2023-07-21,Caught,3B,2023,2024,28.8
+11,1708,2B,3B,Stolen Base 3B,666181,Will Benson,596001,Jakob Junis,682829,Elly De La Cruz,R,Patrick Bailey,672275,5,0,6,False,2023-07-20,Stolen,3B,2023,2024,28.8
+12,1799,1B,2B,Stolen Base 2B,666181,Will Benson,642547,Freddy Peralta,571912,Luke Maile,R,William Contreras,661388,0,1,3,False,2023-07-15,Stolen,2B,2023,2024,28.8
+13,1976,1B,2B,Stolen Base 2B,666181,Will Benson,680686,Josiah Gray,670770,TJ Friedl,R,Keibert Ruiz,660688,1,4,4,True,2023-07-05,Stolen,2B,2023,2024,28.8
+14,2121,1B,2B,Stolen Base 2B,666181,Will Benson,607625,Seth Lugo,670770,TJ Friedl,R,Gary Sánchez,596142,0,0,3,False,2023-06-30,Stolen,2B,2023,2024,28.8
+15,2158,1B,2B,Stolen Base 2B,666181,Will Benson,666974,Yennier Cano,670770,TJ Friedl,R,Adley Rutschman,668939,4,6,8,True,2023-06-28,Stolen,2B,2023,2024,28.8
+16,2365,1B,2B,Stolen Base 2B,666181,Will Benson,669854,Ronel Blanco,621028,Kevin Newman,R,Yainer Diaz,673237,3,1,3,True,2023-06-18,Stolen,2B,2023,2024,28.8
+17,2594,1B,,Caught Stealing 2B,666181,Will Benson,669467,Andre Pallante,680574,Matt McLain,R,Willson Contreras,575929,5,2,7,True,2023-06-09,Caught,2B,2023,2024,28.8
+18,2734,1B,2B,Stolen Base 2B,666181,Will Benson,607067,Colin Rea,592200,Curt Casali,R,William Contreras,661388,3,10,4,False,2023-06-03,Stolen,2B,2023,2024,28.8
+19,2779,1B,2B,Stolen Base 2B,666181,Will Benson,669203,Corbin Burnes,571912,Luke Maile,R,Victor Caratini,605170,3,3,4,False,2023-06-02,Stolen,2B,2023,2024,28.8
+20,2783,1B,2B,Stolen Base 2B,666181,Will Benson,642207,Devin Williams,668715,Spencer Steer,R,Victor Caratini,605170,3,3,9,False,2023-06-02,Stolen,2B,2023,2024,28.8
+21,4451,1B,2B,Stolen Base 2B,666181,Will Benson,596271,Casey Lawrence,663697,Jonathan India,R,Andrew Knizner,668800,2,8,4,True,2023-09-29,Stolen,2B,2023,2024,28.8
+22,4543,1B,2B,Stolen Base 2B,666181,Will Benson,608337,Lucas Giolito,571912,Luke Maile,R,Bo Naylor,666310,6,5,4,True,2023-09-26,Stolen,2B,2023,2024,28.8
+23,4546,1B,2B,Stolen Base 2B,666181,Will Benson,675540,Xzavion Curry,571912,Luke Maile,R,Bo Naylor,666310,7,9,7,True,2023-09-26,Stolen,2B,2023,2024,28.8
+24,5044,2B,3B,Stolen Base 3B,666181,Will Benson,669302,Logan Gilbert,641584,Jake Fraley,R,Cal Raleigh,663728,1,2,3,False,2023-09-06,Stolen,3B,2023,2024,28.8
+25,5367,1B,2B,Stolen Base 2B,666181,Will Benson,672282,Reid Detmers,682622,Noelvi Marte,L,Matt Thaiss,642136,1,3,4,True,2023-08-23,Stolen,2B,2023,2024,28.8
+26,5398,1B,2B,Stolen Base 2B,666181,Will Benson,608337,Lucas Giolito,663886,Tyler Stephenson,R,Logan O'Hoppe,681351,0,1,2,True,2023-08-22,Stolen,2B,2023,2024,28.8
+27,5424,1B,2B,Stolen Base 2B,666181,Will Benson,672282,Reid Detmers,682622,Noelvi Marte,L,Matt Thaiss,642136,1,3,4,True,2023-08-21,Stolen,2B,2023,2024,28.8
+28,5599,1B,2B,Stolen Base 2B,666181,Will Benson,656605,Mitch Keller,656413,Stuart Fairchild,R,Jason Delay,641511,0,1,5,True,2023-08-13,Stolen,2B,2023,2024,28.8
+29,5731,1B,2B,Stolen Base 2B,666181,Will Benson,691587,Eury Pérez,656413,Stuart Fairchild,R,Nick Fortes,663743,0,1,3,False,2023-08-07,Stolen,2B,2023,2024,28.8
+30,6023,1B,2B,Stolen Base 2B,666181,Will Benson,607067,Colin Rea,682829,Elly De La Cruz,R,William Contreras,661388,1,2,5,True,2023-07-24,Stolen,2B,2023,2024,28.8
+31,6108,2B,,Caught Stealing 3B,666181,Will Benson,656457,Tyler Gilbert,670770,TJ Friedl,L,Gabriel Moreno,672515,9,6,7,False,2023-07-21,Caught,3B,2023,2024,28.8
+32,6122,2B,3B,Stolen Base 3B,666181,Will Benson,596001,Jakob Junis,682829,Elly De La Cruz,R,Patrick Bailey,672275,5,0,6,False,2023-07-20,Stolen,3B,2023,2024,28.8
+33,6213,1B,2B,Stolen Base 2B,666181,Will Benson,642547,Freddy Peralta,571912,Luke Maile,R,William Contreras,661388,0,1,3,False,2023-07-15,Stolen,2B,2023,2024,28.8
+34,6390,1B,2B,Stolen Base 2B,666181,Will Benson,680686,Josiah Gray,670770,TJ Friedl,R,Keibert Ruiz,660688,1,4,4,True,2023-07-05,Stolen,2B,2023,2024,28.8
+35,6535,1B,2B,Stolen Base 2B,666181,Will Benson,607625,Seth Lugo,670770,TJ Friedl,R,Gary Sánchez,596142,0,0,3,False,2023-06-30,Stolen,2B,2023,2024,28.8
+36,6572,1B,2B,Stolen Base 2B,666181,Will Benson,666974,Yennier Cano,670770,TJ Friedl,R,Adley Rutschman,668939,4,6,8,True,2023-06-28,Stolen,2B,2023,2024,28.8
+37,6779,1B,2B,Stolen Base 2B,666181,Will Benson,669854,Ronel Blanco,621028,Kevin Newman,R,Yainer Diaz,673237,3,1,3,True,2023-06-18,Stolen,2B,2023,2024,28.8
+38,7008,1B,,Caught Stealing 2B,666181,Will Benson,669467,Andre Pallante,680574,Matt McLain,R,Willson Contreras,575929,5,2,7,True,2023-06-09,Caught,2B,2023,2024,28.8
+39,7148,1B,2B,Stolen Base 2B,666181,Will Benson,607067,Colin Rea,592200,Curt Casali,R,William Contreras,661388,3,10,4,False,2023-06-03,Stolen,2B,2023,2024,28.8
+40,7193,1B,2B,Stolen Base 2B,666181,Will Benson,669203,Corbin Burnes,571912,Luke Maile,R,Victor Caratini,605170,3,3,4,False,2023-06-02,Stolen,2B,2023,2024,28.8
+41,7197,1B,2B,Stolen Base 2B,666181,Will Benson,642207,Devin Williams,668715,Spencer Steer,R,Victor Caratini,605170,3,3,9,False,2023-06-02,Stolen,2B,2023,2024,28.8

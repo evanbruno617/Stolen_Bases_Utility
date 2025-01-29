@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1522,1B,,Caught Stealing 2B,111676,Jay Buhner,Alberto Castillo,0,1,2,False,2000-07-27,Caught,2B,2000
+2959,1B,,Caught Stealing 2B,111676,Jay Buhner,John Flaherty,4,2,5,False,2000-05-19,Caught,2B,2000
+3533,2B,3B,Caught Stealing Home,111676,Jay Buhner,Einar Díaz,3,3,9,False,2000-04-26,Caught,Home,2000

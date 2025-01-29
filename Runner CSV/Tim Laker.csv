@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+27,1B,2B,Stolen Base 2B,117420,Tim Laker,Kevin Cash,4,1,5,True,2003-09-28,Stolen,2B,2003
+413,1B,,Caught Stealing 2B,117420,Tim Laker,Brent Mayne,0,1,5,True,2003-09-09,Caught,2B,2003
+2964,1B,2B,Stolen Base 2B,117420,Tim Laker,Einar Díaz,4,4,4,False,2003-05-03,Stolen,2B,2003
+3407,1B,,Caught Stealing 2B,117420,Tim Laker,Brent Mayne,0,1,7,False,2003-04-11,Caught,2B,2003

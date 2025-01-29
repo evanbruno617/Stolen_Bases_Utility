@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+4412,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,Geovany Soto,2,4,6,True,2011-04-01,Stolen,2B,2011
+1392,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,Welington Castillo,1,2,7,True,2012-08-01,Stolen,2B,2012
+2287,1B,2B,Caught Stealing Home,476883,Pedro Alvarez,Alex Avila,4,1,7,False,2012-06-23,Caught,Home,2012
+264,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,Nick Hundley,0,0,2,False,2013-09-17,Stolen,2B,2013
+2731,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,Jonathan Lucroy,1,1,4,False,2013-05-16,Stolen,2B,2013
+772,1B,,Caught Stealing 2B,476883,Pedro Alvarez,Tony Cruz,1,0,4,False,2014-08-25,Caught,2B,2014
+778,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,Jonathan Lucroy,2,2,2,True,2014-08-24,Stolen,2B,2014
+803,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,Jonathan Lucroy,0,0,2,True,2014-08-23,Stolen,2B,2014
+1609,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,Tony Cruz,5,2,9,True,2014-07-09,Stolen,2B,2014
+1737,1B,,Caught Stealing 2B,476883,Pedro Alvarez,Miguel Montero,0,0,2,False,2014-07-03,Caught,2B,2014
+2194,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,John Baker,2,0,4,False,2014-06-12,Stolen,2B,2014
+2777,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,Jonathan Lucroy,2,1,4,True,2014-05-13,Stolen,2B,2014
+2934,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,Buster Posey,1,1,6,False,2014-05-06,Stolen,2B,2014
+3341,1B,,Caught Stealing 2B,476883,Pedro Alvarez,Jonathan Lucroy,5,2,7,False,2014-04-17,Caught,2B,2014
+3423,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,Devin Mesoraco,0,0,2,True,2014-04-15,Stolen,2B,2014
+3640,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,Tony Cruz,4,2,6,False,2014-04-04,Stolen,2B,2014
+1323,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,Salvador Perez,0,0,2,True,2015-07-21,Stolen,2B,2015
+1705,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,A.J. Pierzynski,6,1,5,False,2015-06-27,Stolen,2B,2015
+2100,1B,2B,Stolen Base 2B,476883,Pedro Alvarez,Salvador Perez,4,0,3,True,2016-04-22,Stolen,2B,2016

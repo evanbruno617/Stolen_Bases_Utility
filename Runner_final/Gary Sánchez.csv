@@ -1,0 +1,17 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1577,1B,,Caught Stealing 2B,596142,Gary Sánchez,605513,Spencer Turnbull,458731,Brett Gardner,R,Grayson Greiner,606988,0,3,3,True,2019-09-12,Caught,2B,2019,2020,25.0
+1,1580,1B,,Caught Stealing 2B,596142,Gary Sánchez,605513,Spencer Turnbull,458731,Brett Gardner,R,Grayson Greiner,606988,0,3,3,True,2019-09-11,Caught,2B,2019,2020,25.0
+2,4420,1B,,Caught Stealing 2B,596142,Gary Sánchez,605513,Spencer Turnbull,458731,Brett Gardner,R,Grayson Greiner,606988,0,3,3,True,2019-09-12,Caught,2B,2019,2020,25.0
+3,4423,1B,,Caught Stealing 2B,596142,Gary Sánchez,605513,Spencer Turnbull,458731,Brett Gardner,R,Grayson Greiner,606988,0,3,3,True,2019-09-11,Caught,2B,2019,2020,25.0
+4,6344,1B,,Caught Stealing 2B,596142,Gary Sánchez,605513,Spencer Turnbull,458731,Brett Gardner,R,Grayson Greiner,606988,0,3,3,True,2019-09-12,Caught,2B,2019,2020,25.0
+5,6347,1B,,Caught Stealing 2B,596142,Gary Sánchez,605513,Spencer Turnbull,458731,Brett Gardner,R,Grayson Greiner,606988,0,3,3,True,2019-09-11,Caught,2B,2019,2020,25.0
+6,1646,1B,2B,Stolen Base 2B,596142,Gary Sánchez,676710,Kutter Crawford,650333,Luis Arraez,R,Christian Vázquez,543877,2,5,8,True,2022-04-18,Stolen,2B,2022,2023,24.9
+7,2577,1B,2B,Stolen Base 2B,596142,Gary Sánchez,433586,Santiago Casilla,544369,Didi Gregorius,R,Josh Phegley,572033,6,6,9,True,2017-06-15,Stolen,2B,2017,2018,25.9
+8,3013,1B,2B,Stolen Base 2B,596142,Gary Sánchez,434628,Jason Hammel,407812,Matt Holliday,R,Salvador Perez,521692,2,0,6,False,2017-05-24,Stolen,2B,2017,2018,25.9
+9,3937,1B,,Caught Stealing 2B,596142,Gary Sánchez,503285,Darren O'Day,407812,Matt Holliday,R,Welington Castillo,456078,4,5,7,True,2017-04-07,Caught,2B,2017,2018,25.9
+10,1949,1B,2B,Stolen Base 2B,596142,Gary Sánchez,433586,Santiago Casilla,544369,Didi Gregorius,R,Josh Phegley,572033,6,6,9,True,2017-06-15,Stolen,2B,2017,2018,25.9
+11,2385,1B,2B,Stolen Base 2B,596142,Gary Sánchez,434628,Jason Hammel,407812,Matt Holliday,R,Salvador Perez,521692,2,0,6,False,2017-05-24,Stolen,2B,2017,2018,25.9
+12,3309,1B,,Caught Stealing 2B,596142,Gary Sánchez,503285,Darren O'Day,407812,Matt Holliday,R,Welington Castillo,456078,4,5,7,True,2017-04-07,Caught,2B,2017,2018,25.9
+13,4852,1B,2B,Stolen Base 2B,596142,Gary Sánchez,450308,Jered Weaver,435263,Brian McCann,R,Jett Bandy,542908,0,1,1,True,2016-08-19,Stolen,2B,2016,2017,26.1
+14,817,1B,2B,Stolen Base 2B,596142,Gary Sánchez,450308,Jered Weaver,435263,Brian McCann,R,Jett Bandy,542908,0,1,1,True,2016-08-19,Stolen,2B,2016,2017,26.1
+15,4224,1B,2B,Stolen Base 2B,596142,Gary Sánchez,450308,Jered Weaver,435263,Brian McCann,R,Jett Bandy,542908,0,1,1,True,2016-08-19,Stolen,2B,2016,2017,26.1

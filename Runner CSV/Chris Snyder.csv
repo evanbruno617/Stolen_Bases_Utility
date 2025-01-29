@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3381,1B,,Caught Stealing 2B,430965,Chris Snyder,Jason Phillips,8,8,9,False,2005-04-09,Caught,2B,2005
+588,1B,,Caught Stealing 2B,430965,Chris Snyder,Josh Bard,6,1,8,False,2007-09-04,Caught,2B,2007
+3304,3B,,Caught Stealing Home,430965,Chris Snyder,Wilson Ramos,1,1,4,True,2011-05-16,Caught,Home,2011

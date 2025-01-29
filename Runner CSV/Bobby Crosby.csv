@@ -1,0 +1,36 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+575,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Gregg Zaun,4,5,8,True,2004-09-03,Stolen,2B,2004
+1426,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Miguel Olivo,5,5,8,True,2004-07-21,Stolen,2B,2004
+1468,1B,,Caught Stealing 2B,425853,Bobby Crosby,Gregg Zaun,0,0,5,False,2004-07-20,Caught,2B,2004
+1611,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Tim Laker,0,1,2,True,2004-07-10,Stolen,2B,2004
+1933,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Bengie Molina,1,5,7,True,2004-06-23,Stolen,2B,2004
+2029,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Cody McKay,0,4,5,True,2004-06-17,Stolen,2B,2004
+2333,1B,,Caught Stealing 2B,425853,Bobby Crosby,Gregg Zaun,1,0,2,False,2004-06-03,Caught,2B,2004
+2562,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Benito Santiago,2,2,10,False,2004-05-23,Stolen,2B,2004
+2679,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Kelly Stinnett,2,4,7,True,2004-05-16,Stolen,2B,2004
+1520,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Mike Napoli,0,2,4,True,2007-07-24,Stolen,2B,2007
+1583,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Ramon Hernandez,3,2,4,False,2007-07-21,Stolen,2B,2007
+1748,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Mike Redmond,2,1,7,True,2007-07-15,Stolen,2B,2007
+2205,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Paul Lo Duca,0,0,7,True,2007-06-23,Stolen,2B,2007
+2543,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Doug Mirabelli,3,0,4,False,2007-06-06,Stolen,2B,2007
+3008,1B,2B,Stolen Base 2B,425853,Bobby Crosby,John Buck,0,0,5,False,2007-05-14,Stolen,2B,2007
+3468,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Gerald Laird,1,1,5,True,2007-04-22,Stolen,2B,2007
+3484,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Gerald Laird,1,0,7,True,2007-04-21,Stolen,2B,2007
+3566,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Mike Napoli,0,0,2,False,2007-04-17,Stolen,2B,2007
+3823,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Kenji Johjima,0,6,5,True,2007-04-04,Stolen,2B,2007
+159,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Kenji Johjima,5,3,8,False,2008-09-21,Stolen,2B,2008
+1218,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Miguel Olivo,3,3,9,False,2008-07-30,Stolen,2B,2008
+2396,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Gerald Laird,1,1,6,True,2008-05-30,Stolen,2B,2008
+2455,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Rod Barajas,0,0,1,False,2008-05-27,Stolen,2B,2008
+2457,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Rod Barajas,3,0,4,False,2008-05-27,Stolen,2B,2008
+2543,1B,,Caught Stealing 2B,425853,Bobby Crosby,Jason Varitek,1,0,6,False,2008-05-24,Caught,2B,2008
+2700,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Brian McCann,0,4,3,True,2008-05-17,Stolen,2B,2008
+2802,2B,,Caught Stealing 3B,425853,Bobby Crosby,Victor Martinez,1,0,5,True,2008-05-13,Caught,3B,2008
+2831,3B,score,Stolen Base Home,425853,Bobby Crosby,Jarrod Saltalamacchia,6,7,7,True,2008-05-11,Stolen,Home,2008
+2995,1B,,Caught Stealing 2B,425853,Bobby Crosby,Jarrod Saltalamacchia,3,5,6,False,2008-05-03,Caught,2B,2008
+608,3B,,Caught Stealing Home,425853,Bobby Crosby,Kelly Shoppach,1,3,6,True,2009-07-05,Caught,Home,2009
+1281,1B,2B,Stolen Base 2B,425853,Bobby Crosby,A.J. Pierzynski,0,6,9,True,2009-06-04,Stolen,2B,2009
+2084,1B,2B,Stolen Base 2B,425853,Bobby Crosby,Rob Johnson,2,3,9,True,2009-05-02,Stolen,2B,2009
+1194,3B,,Caught Stealing Home,425853,Bobby Crosby,Wil Nieves,4,1,4,False,2010-08-05,Caught,Home,2010
+1981,1B,,Caught Stealing 2B,425853,Bobby Crosby,Geovany Soto,0,0,1,True,2010-06-28,Caught,2B,2010
+3192,1B,,Caught Stealing 2B,425853,Bobby Crosby,Koyie Hill,4,2,7,False,2010-05-05,Caught,2B,2010

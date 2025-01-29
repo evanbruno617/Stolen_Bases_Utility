@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3173,1B,,Caught Stealing 2B,621514,Christin Stewart,647336,Michael Soroka,592206,Nick Castellanos,R,Tyler Flowers,452095,2,3,5,True,2019-06-01,Caught,2B,2019,2020,26.3
+1,6016,1B,,Caught Stealing 2B,621514,Christin Stewart,647336,Michael Soroka,592206,Nick Castellanos,R,Tyler Flowers,452095,2,3,5,True,2019-06-01,Caught,2B,2019,2020,26.3
+2,7940,1B,,Caught Stealing 2B,621514,Christin Stewart,647336,Michael Soroka,592206,Nick Castellanos,R,Tyler Flowers,452095,2,3,5,True,2019-06-01,Caught,2B,2019,2020,26.3

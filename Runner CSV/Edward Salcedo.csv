@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+4142,1B,2B,Stolen Base 2B,581685,Edward Salcedo,David Ross,1,2,5,True,2012-04-03,Stolen,2B,2012
+4143,2B,3B,Stolen Base 3B,581685,Edward Salcedo,David Ross,1,2,5,True,2012-04-03,Stolen,3B,2012

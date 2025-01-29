@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+153,1B,2B,Stolen Base 2B,642772,Luis Alexander Basabe,Sean Murphy,0,2,3,True,2020-09-20,Stolen,2B,2020
+223,1B,2B,Stolen Base 2B,642772,Luis Alexander Basabe,Joseph Odom,4,6,9,True,2020-09-17,Stolen,2B,2020
+232,1B,2B,Stolen Base 2B,642772,Luis Alexander Basabe,Joseph Odom,4,6,9,True,2020-09-16,Stolen,2B,2020

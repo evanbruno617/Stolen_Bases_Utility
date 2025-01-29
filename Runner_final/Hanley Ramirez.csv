@@ -1,0 +1,54 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,261,1B,,Caught Stealing 2B,434670,Hanley Ramirez,608665,Kendall Graveman,519048,Mitch Moreland,R,Jonathan Lucroy,518960,0,0,1,True,2018-04-20,Caught,2B,2018,2019,25.8
+1,331,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,592332,Kevin Gausman,502110,J.D. Martinez,R,Andrew Susac,572180,3,0,5,False,2018-04-16,Stolen,2B,2018,2019,25.8
+2,442,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,622663,Luis Severino,646240,Rafael Devers,R,Austin Romine,519222,4,0,2,False,2018-04-10,Stolen,2B,2018,2019,25.8
+3,607,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,545363,Jacob Turner,646240,Rafael Devers,R,Tomás Telis,542513,2,7,9,True,2018-04-02,Stolen,2B,2018,2019,25.8
+4,2892,1B,,Caught Stealing 2B,434670,Hanley Ramirez,573589,Michael Ynoa,455759,Chris Young,R,Kevan Smith,607345,4,7,4,True,2017-05-30,Caught,2B,2017,2018,25.7
+5,2964,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,547007,Rob Whalen,598265,Jackie Bradley Jr.,R,Mike Zunino,572287,2,0,1,False,2017-05-27,Stolen,2B,2017,2018,25.7
+6,3530,1B,,Caught Stealing 2B,434670,Hanley Ramirez,453562,Jake Arrieta,519048,Mitch Moreland,R,Willson Contreras,575929,5,2,5,False,2017-04-28,Caught,2B,2017,2018,25.7
+7,3851,1B,,Caught Stealing 2B,434670,Hanley Ramirez,605164,Dylan Bundy,593428,Xander Bogaerts,R,Welington Castillo,456078,1,0,4,False,2017-04-11,Caught,2B,2017,2018,25.7
+8,2264,1B,,Caught Stealing 2B,434670,Hanley Ramirez,573589,Michael Ynoa,455759,Chris Young,R,Kevan Smith,607345,4,7,4,True,2017-05-30,Caught,2B,2017,2018,25.7
+9,2336,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,547007,Rob Whalen,598265,Jackie Bradley Jr.,R,Mike Zunino,572287,2,0,1,False,2017-05-27,Stolen,2B,2017,2018,25.7
+10,2902,1B,,Caught Stealing 2B,434670,Hanley Ramirez,453562,Jake Arrieta,519048,Mitch Moreland,R,Willson Contreras,575929,5,2,5,False,2017-04-28,Caught,2B,2017,2018,25.7
+11,3223,1B,,Caught Stealing 2B,434670,Hanley Ramirez,605164,Dylan Bundy,593428,Xander Bogaerts,R,Welington Castillo,456078,1,0,4,False,2017-04-11,Caught,2B,2017,2018,25.7
+12,4091,1B,,Caught Stealing 2B,434670,Hanley Ramirez,571951,Bryan Mitchell,598265,Jackie Bradley Jr.,R,Gary Sánchez,596142,0,0,5,True,2016-09-28,Caught,2B,2016,2017,26.1
+13,4522,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,523848,José Domínguez,598265,Jackie Bradley Jr.,R,Héctor Sánchez,516949,1,4,5,True,2016-09-06,Stolen,2B,2016,2017,26.1
+14,4859,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,605242,Michael Fulmer,598265,Jackie Bradley Jr.,R,Jarrod Saltalamacchia,457454,0,4,1,True,2016-08-19,Stolen,2B,2016,2017,26.1
+15,5663,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,502042,Chris Archer,598265,Jackie Bradley Jr.,R,Hank Conger,474233,4,4,6,False,2016-07-08,Stolen,2B,2016,2017,26.1
+16,5704,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,456167,A.J. Griffin,598265,Jackie Bradley Jr.,R,Robinson Chirinos,455139,1,2,3,False,2016-07-05,Stolen,2B,2016,2017,26.1
+17,6129,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,472551,Fernando Abad,598265,Jackie Bradley Jr.,L,Juan Centeno,518542,4,4,8,True,2016-06-12,Stolen,2B,2016,2017,26.1
+18,6312,1B,,Caught Stealing 2B,434670,Hanley Ramirez,571710,Mychal Givens,596119,Blake Swihart,R,Francisco Peña,506747,4,5,6,True,2016-06-02,Caught,2B,2016,2017,26.1
+19,6772,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,592127,Johnny Barbato,543768,Travis Shaw,R,Brian McCann,435263,0,5,9,True,2016-05-08,Stolen,2B,2016,2017,26.1
+20,6988,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,502032,Bud Norris,543768,Travis Shaw,R,A.J. Pierzynski,150229,2,0,1,False,2016-04-27,Stolen,2B,2016,2017,26.1
+21,7032,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,606965,Chris Devenski,543768,Travis Shaw,R,Jason Castro,488771,3,5,7,True,2016-04-24,Stolen,2B,2016,2017,26.1
+22,7406,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,502083,Zach McAllister,467055,Pablo Sandoval,R,Yan Gomes,543228,6,6,7,True,2016-04-06,Stolen,2B,2016,2017,26.1
+23,56,1B,,Caught Stealing 2B,434670,Hanley Ramirez,571951,Bryan Mitchell,598265,Jackie Bradley Jr.,R,Gary Sánchez,596142,0,0,5,True,2016-09-28,Caught,2B,2016,2017,26.1
+24,487,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,523848,José Domínguez,598265,Jackie Bradley Jr.,R,Héctor Sánchez,516949,1,4,5,True,2016-09-06,Stolen,2B,2016,2017,26.1
+25,824,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,605242,Michael Fulmer,598265,Jackie Bradley Jr.,R,Jarrod Saltalamacchia,457454,0,4,1,True,2016-08-19,Stolen,2B,2016,2017,26.1
+26,1628,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,502042,Chris Archer,598265,Jackie Bradley Jr.,R,Hank Conger,474233,4,4,6,False,2016-07-08,Stolen,2B,2016,2017,26.1
+27,1669,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,456167,A.J. Griffin,598265,Jackie Bradley Jr.,R,Robinson Chirinos,455139,1,2,3,False,2016-07-05,Stolen,2B,2016,2017,26.1
+28,2094,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,472551,Fernando Abad,598265,Jackie Bradley Jr.,L,Juan Centeno,518542,4,4,8,True,2016-06-12,Stolen,2B,2016,2017,26.1
+29,2277,1B,,Caught Stealing 2B,434670,Hanley Ramirez,571710,Mychal Givens,596119,Blake Swihart,R,Francisco Peña,506747,4,5,6,True,2016-06-02,Caught,2B,2016,2017,26.1
+30,2737,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,592127,Johnny Barbato,543768,Travis Shaw,R,Brian McCann,435263,0,5,9,True,2016-05-08,Stolen,2B,2016,2017,26.1
+31,2953,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,502032,Bud Norris,543768,Travis Shaw,R,A.J. Pierzynski,150229,2,0,1,False,2016-04-27,Stolen,2B,2016,2017,26.1
+32,2997,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,606965,Chris Devenski,543768,Travis Shaw,R,Jason Castro,488771,3,5,7,True,2016-04-24,Stolen,2B,2016,2017,26.1
+33,3371,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,502083,Zach McAllister,467055,Pablo Sandoval,R,Yan Gomes,543228,6,6,7,True,2016-04-06,Stolen,2B,2016,2017,26.1
+34,3463,1B,,Caught Stealing 2B,434670,Hanley Ramirez,571951,Bryan Mitchell,598265,Jackie Bradley Jr.,R,Gary Sánchez,596142,0,0,5,True,2016-09-28,Caught,2B,2016,2017,26.1
+35,3894,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,523848,José Domínguez,598265,Jackie Bradley Jr.,R,Héctor Sánchez,516949,1,4,5,True,2016-09-06,Stolen,2B,2016,2017,26.1
+36,4231,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,605242,Michael Fulmer,598265,Jackie Bradley Jr.,R,Jarrod Saltalamacchia,457454,0,4,1,True,2016-08-19,Stolen,2B,2016,2017,26.1
+37,5035,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,502042,Chris Archer,598265,Jackie Bradley Jr.,R,Hank Conger,474233,4,4,6,False,2016-07-08,Stolen,2B,2016,2017,26.1
+38,5076,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,456167,A.J. Griffin,598265,Jackie Bradley Jr.,R,Robinson Chirinos,455139,1,2,3,False,2016-07-05,Stolen,2B,2016,2017,26.1
+39,5501,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,472551,Fernando Abad,598265,Jackie Bradley Jr.,L,Juan Centeno,518542,4,4,8,True,2016-06-12,Stolen,2B,2016,2017,26.1
+40,5684,1B,,Caught Stealing 2B,434670,Hanley Ramirez,571710,Mychal Givens,596119,Blake Swihart,R,Francisco Peña,506747,4,5,6,True,2016-06-02,Caught,2B,2016,2017,26.1
+41,6144,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,592127,Johnny Barbato,543768,Travis Shaw,R,Brian McCann,435263,0,5,9,True,2016-05-08,Stolen,2B,2016,2017,26.1
+42,6360,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,502032,Bud Norris,543768,Travis Shaw,R,A.J. Pierzynski,150229,2,0,1,False,2016-04-27,Stolen,2B,2016,2017,26.1
+43,6404,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,606965,Chris Devenski,543768,Travis Shaw,R,Jason Castro,488771,3,5,7,True,2016-04-24,Stolen,2B,2016,2017,26.1
+44,6778,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,502083,Zach McAllister,467055,Pablo Sandoval,R,Yan Gomes,543228,6,6,7,True,2016-04-06,Stolen,2B,2016,2017,26.1
+45,18,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,501789,Will Harris,467055,Pablo Sandoval,R,Hank Conger,474233,4,3,8,True,2015-07-23,Stolen,2B,2015,2016,26.8
+46,864,1B,,Caught Stealing 2B,434670,Hanley Ramirez,445926,Jesse Chavez,435063,Mike Napoli,R,Stephen Vogt,519390,4,1,5,False,2015-06-06,Caught,2B,2015,2016,26.8
+47,939,2B,3B,Stolen Base 3B,434670,Hanley Ramirez,461833,Phil Hughes,593428,Xander Bogaerts,R,Kurt Suzuki,435559,5,1,5,False,2015-06-03,Stolen,3B,2015,2016,26.8
+48,961,2B,3B,Stolen Base 3B,434670,Hanley Ramirez,461833,Phil Hughes,593428,Xander Bogaerts,R,Kurt Suzuki,435559,5,1,5,False,2015-06-01,Stolen,3B,2015,2016,26.8
+49,982,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,434643,Wandy Rodriguez,435063,Mike Napoli,L,Carlos Corporán,449786,2,2,6,True,2015-05-31,Stolen,2B,2015,2016,26.8
+50,1329,1B,,Caught Stealing 2B,434670,Hanley Ramirez,605476,Carson Smith,435063,Mike Napoli,R,Mike Zunino,572287,1,1,8,True,2015-05-14,Caught,2B,2015,2016,26.8
+51,1686,1B,,Caught Stealing 2B,434670,Hanley Ramirez,571800,Drew Hutchison,467055,Pablo Sandoval,R,Russell Martin,431145,5,8,4,False,2015-04-28,Caught,2B,2015,2016,26.8
+52,1856,1B,2B,Stolen Base 2B,434670,Hanley Ramirez,502042,Chris Archer,537953,Daniel Nava,R,Bobby Wilson,435064,0,0,2,True,2015-04-21,Stolen,2B,2015,2016,26.8

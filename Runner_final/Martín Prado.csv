@@ -1,0 +1,10 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4382,1B,2B,Stolen Base 2B,445988,Martín Prado,606291,Mauricio Cabrera,542303,Marcell Ozuna,R,Tyler Flowers,452095,4,6,8,True,2016-09-14,Stolen,2B,2016,2017,25.9
+1,5551,1B,2B,Stolen Base 2B,445988,Martín Prado,543779,Kevin Siegrist,519317,Giancarlo Stanton,L,Alberto Rosario,451705,3,6,8,True,2016-07-17,Stolen,2B,2016,2017,25.9
+2,6712,1B,,Caught Stealing 2B,445988,Martín Prado,502624,Chase Anderson,592885,Christian Yelich,R,Jonathan Lucroy,518960,0,0,4,False,2016-05-11,Caught,2B,2016,2017,25.9
+3,347,1B,2B,Stolen Base 2B,445988,Martín Prado,606291,Mauricio Cabrera,542303,Marcell Ozuna,R,Tyler Flowers,452095,4,6,8,True,2016-09-14,Stolen,2B,2016,2017,25.9
+4,1516,1B,2B,Stolen Base 2B,445988,Martín Prado,543779,Kevin Siegrist,519317,Giancarlo Stanton,L,Alberto Rosario,451705,3,6,8,True,2016-07-17,Stolen,2B,2016,2017,25.9
+5,2677,1B,,Caught Stealing 2B,445988,Martín Prado,502624,Chase Anderson,592885,Christian Yelich,R,Jonathan Lucroy,518960,0,0,4,False,2016-05-11,Caught,2B,2016,2017,25.9
+6,3754,1B,2B,Stolen Base 2B,445988,Martín Prado,606291,Mauricio Cabrera,542303,Marcell Ozuna,R,Tyler Flowers,452095,4,6,8,True,2016-09-14,Stolen,2B,2016,2017,25.9
+7,4923,1B,2B,Stolen Base 2B,445988,Martín Prado,543779,Kevin Siegrist,519317,Giancarlo Stanton,L,Alberto Rosario,451705,3,6,8,True,2016-07-17,Stolen,2B,2016,2017,25.9
+8,6084,1B,,Caught Stealing 2B,445988,Martín Prado,502624,Chase Anderson,592885,Christian Yelich,R,Jonathan Lucroy,518960,0,0,4,False,2016-05-11,Caught,2B,2016,2017,25.9

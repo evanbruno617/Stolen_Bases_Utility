@@ -1,0 +1,32 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+144,1B,2B,Stolen Base 2B,150244,Jason Tyner,Darrin Fletcher,0,0,1,True,2000-09-24,Stolen,2B,2000
+689,1B,2B,Stolen Base 2B,150244,Jason Tyner,Gregg Zaun,5,5,7,False,2000-09-02,Stolen,2B,2000
+739,1B,2B,Stolen Base 2B,150244,Jason Tyner,Héctor Ortiz,1,1,8,False,2000-08-31,Stolen,2B,2000
+1136,1B,2B,Stolen Base 2B,150244,Jason Tyner,Mark Johnson,2,3,9,False,2000-08-13,Stolen,2B,2000
+1219,1B,2B,Stolen Base 2B,150244,Jason Tyner,Chad Moeller,4,4,9,False,2000-08-09,Stolen,2B,2000
+2288,1B,2B,Stolen Base 2B,150244,Jason Tyner,Henry Blanco,3,7,9,True,2000-06-18,Stolen,2B,2000
+2516,1B,,Caught Stealing 2B,150244,Jason Tyner,Charles Johnson,0,1,3,False,2000-06-08,Caught,2B,2000
+231,1B,,Caught Stealing 2B,150244,Jason Tyner,Shawn Wooten,1,2,5,False,2001-05-27,Caught,2B,2001
+284,1B,2B,Stolen Base 2B,150244,Jason Tyner,Jorge Fabregas,3,5,5,False,2001-05-25,Stolen,2B,2001
+2801,1B,2B,Stolen Base 2B,150244,Jason Tyner,Brook Fordyce,0,3,5,True,2002-05-19,Stolen,2B,2002
+2934,1B,2B,Stolen Base 2B,150244,Jason Tyner,Jorge Posada,2,1,4,True,2002-05-14,Stolen,2B,2002
+3156,1B,2B,Stolen Base 2B,150244,Jason Tyner,Jason Varitek,0,0,6,False,2002-05-05,Stolen,2B,2002
+3394,1B,2B,Stolen Base 2B,150244,Jason Tyner,A.J. Pierzynski,0,0,1,False,2002-04-25,Stolen,2B,2002
+3523,1B,,Caught Stealing 2B,150244,Jason Tyner,Brook Fordyce,0,1,3,False,2002-04-19,Caught,2B,2002
+3687,1B,2B,Stolen Base 2B,150244,Jason Tyner,Darrin Fletcher,7,8,6,False,2002-04-12,Stolen,2B,2002
+3819,1B,2B,Stolen Base 2B,150244,Jason Tyner,Jorge Posada,4,1,6,True,2002-04-07,Stolen,2B,2002
+3883,1B,2B,Stolen Base 2B,150244,Jason Tyner,Mike Rivera,0,0,1,False,2002-04-04,Stolen,2B,2002
+2397,1B,2B,Stolen Base 2B,150244,Jason Tyner,Bengie Molina,8,4,7,False,2003-05-30,Stolen,2B,2003
+2687,1B,2B,Stolen Base 2B,150244,Jason Tyner,Brook Fordyce,0,0,1,True,2003-05-16,Stolen,2B,2003
+162,1B,2B,Stolen Base 2B,150244,Jason Tyner,A.J. Pierzynski,0,0,1,True,2005-09-23,Stolen,2B,2005
+213,1B,2B,Stolen Base 2B,150244,Jason Tyner,Adam Melhuse,3,7,6,True,2005-09-21,Stolen,2B,2005
+774,1B,2B,Stolen Base 2B,150244,Jason Tyner,Victor Martinez,4,3,7,True,2007-08-28,Stolen,2B,2007
+1261,1B,2B,Stolen Base 2B,150244,Jason Tyner,Victor Martinez,0,0,3,False,2007-08-05,Stolen,2B,2007
+1289,1B,,Caught Stealing 2B,150244,Jason Tyner,Victor Martinez,0,0,1,False,2007-08-04,Caught,2B,2007
+1747,1B,,Caught Stealing 2B,150244,Jason Tyner,Kurt Suzuki,2,1,6,False,2007-07-15,Caught,2B,2007
+1923,1B,2B,Stolen Base 2B,150244,Jason Tyner,Jorge Posada,7,5,9,True,2007-07-05,Stolen,2B,2007
+2256,1B,2B,Stolen Base 2B,150244,Jason Tyner,Paul Lo Duca,2,4,6,True,2007-06-20,Stolen,2B,2007
+2311,1B,2B,Stolen Base 2B,150244,Jason Tyner,Damian Miller,9,2,5,False,2007-06-17,Stolen,2B,2007
+3551,2B,3B,Stolen Base 3B,150244,Jason Tyner,Kenji Johjima,0,3,2,True,2007-04-18,Stolen,3B,2007
+3847,1B,2B,Stolen Base 2B,150244,Jason Tyner,Alberto Castillo,3,2,7,False,2007-04-03,Stolen,2B,2007
+3861,1B,2B,Stolen Base 2B,150244,Jason Tyner,Paul Bako,6,4,6,False,2007-04-02,Stolen,2B,2007

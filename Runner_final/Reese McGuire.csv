@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1145,1B,2B,Stolen Base 2B,624512,Reese McGuire,680686,Josiah Gray,657077,Alex Verdugo,R,Keibert Ruiz,660688,0,1,3,True,2023-08-15,Stolen,2B,2023,2024,25.5
+1,2373,1B,,Caught Stealing 2B,624512,Reese McGuire,676760,Ron Marinaccio,622569,Pablo Reyes,R,Jose Trevino,624431,4,1,6,False,2023-06-18,Caught,2B,2023,2024,25.5
+2,5559,1B,2B,Stolen Base 2B,624512,Reese McGuire,680686,Josiah Gray,657077,Alex Verdugo,R,Keibert Ruiz,660688,0,1,3,True,2023-08-15,Stolen,2B,2023,2024,25.5
+3,6787,1B,,Caught Stealing 2B,624512,Reese McGuire,676760,Ron Marinaccio,622569,Pablo Reyes,R,Jose Trevino,624431,4,1,6,False,2023-06-18,Caught,2B,2023,2024,25.5

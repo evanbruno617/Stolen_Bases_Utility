@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+187,1B,2B,Stolen Base 2B,116798,David Justice,Brad Ausmus,0,0,2,False,2000-09-22,Stolen,2B,2000
+3436,1B,2B,Stolen Base 2B,116798,David Justice,Jason Varitek,0,2,8,False,2000-04-30,Stolen,2B,2000
+501,1B,,Caught Stealing 2B,116798,David Justice,Ramon Hernandez,2,1,4,True,2001-05-15,Caught,2B,2001
+751,1B,2B,Stolen Base 2B,116798,David Justice,Brook Fordyce,1,0,5,True,2001-05-06,Stolen,2B,2001
+753,1B,,Caught Stealing 2B,116798,David Justice,Brook Fordyce,1,1,7,True,2001-05-06,Caught,2B,2001
+286,1B,,Caught Stealing 2B,116798,David Justice,Dan Wilson,2,1,1,False,2002-09-15,Caught,2B,2002
+679,1B,2B,Stolen Base 2B,116798,David Justice,A.J. Hinch,0,2,4,True,2002-08-27,Stolen,2B,2002
+698,1B,2B,Stolen Base 2B,116798,David Justice,Brent Mayne,1,0,4,True,2002-08-26,Stolen,2B,2002
+3399,1B,2B,Stolen Base 2B,116798,David Justice,Jorge Posada,3,5,6,False,2002-04-24,Stolen,2B,2002
+3824,1B,2B,Stolen Base 2B,116798,David Justice,Dan Wilson,3,6,7,True,2002-04-06,Stolen,2B,2002

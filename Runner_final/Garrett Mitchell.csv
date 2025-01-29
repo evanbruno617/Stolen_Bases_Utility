@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,38,1B,,Caught Stealing 2B,669003,Garrett Mitchell,640470,Adbert Alzolay,605170,Victor Caratini,R,Yan Gomes,543228,3,2,8,False,2023-09-29,Caught,2B,2023,2024,29.5
+1,3873,2B,3B,Stolen Base 3B,669003,Garrett Mitchell,506433,Yu Darvish,605119,Brian Anderson,R,Austin Nola,543592,0,1,2,True,2023-04-16,Stolen,3B,2023,2024,29.5
+2,4452,1B,,Caught Stealing 2B,669003,Garrett Mitchell,640470,Adbert Alzolay,605170,Victor Caratini,R,Yan Gomes,543228,3,2,8,False,2023-09-29,Caught,2B,2023,2024,29.5
+3,8287,2B,3B,Stolen Base 3B,669003,Garrett Mitchell,506433,Yu Darvish,605119,Brian Anderson,R,Austin Nola,543592,0,1,2,True,2023-04-16,Stolen,3B,2023,2024,29.5

@@ -1,0 +1,9 @@
+Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+2B,3B,Stolen Base 3B,670298,Kramer Robertson,570240,Félix Peña,667372,Julio E. Rodriguez,R,Hayden Senger,663584,3,0,2,False,2022-04-01,Stolen,3B
+1B,,Caught Stealing 2B,680977,Brendan Donovan,592222,Alex Claudio,676475,Alec Burleson,L,Hayden Senger,663584,3,1,3,False,2022-04-01,Caught,2B
+2B,3B,Stolen Base 3B,605486,Cory Spangenberg,493603,Adam Ottavino,666206,Delvin Pérez,R,Hayden Senger,663584,4,1,4,False,2022-04-01,Stolen,3B
+1B,2B,Stolen Base 2B,670298,Kramer Robertson,656887,Sean Reid-Foley,666206,Delvin Pérez,R,Hayden Senger,663584,5,2,6,False,2022-04-01,Stolen,2B
+2B,3B,Stolen Base 3B,670298,Kramer Robertson,570240,Félix Peña,667372,Julio E. Rodriguez,R,Hayden Senger,663584,3,0,2,False,2022-04-01,Stolen,3B
+1B,,Caught Stealing 2B,680977,Brendan Donovan,592222,Alex Claudio,676475,Alec Burleson,L,Hayden Senger,663584,3,1,3,False,2022-04-01,Caught,2B
+2B,3B,Stolen Base 3B,605486,Cory Spangenberg,493603,Adam Ottavino,666206,Delvin Pérez,R,Hayden Senger,663584,4,1,4,False,2022-04-01,Stolen,3B
+1B,2B,Stolen Base 2B,670298,Kramer Robertson,656887,Sean Reid-Foley,666206,Delvin Pérez,R,Hayden Senger,663584,5,2,6,False,2022-04-01,Stolen,2B

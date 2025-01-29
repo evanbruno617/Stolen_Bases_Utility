@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1037,1B,,Caught Stealing 2B,518725,Caleb Gindl,Humberto Quintero,0,6,8,True,2013-08-10,Caught,2B,2013
+1370,2B,3B,Stolen Base 3B,518725,Caleb Gindl,René Rivera,8,10,7,False,2013-07-25,Stolen,3B,2013
+1987,1B,2B,Stolen Base 2B,518725,Caleb Gindl,Brian McCann,2,0,6,False,2013-06-22,Stolen,2B,2013

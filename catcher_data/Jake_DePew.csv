@@ -1,0 +1,2 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,430945,Adam Jones,Jake DePew,1,6,4,False,2012-04-01,Stolen,2B,2012

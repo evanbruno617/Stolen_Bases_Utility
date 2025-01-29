@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2046,1B,2B,Stolen Base 2B,683146,Brett Baty,643511,Tyler Rogers,682626,Francisco Alvarez,R,Patrick Bailey,672275,6,4,7,False,2023-07-02,Stolen,2B,2023,2024,26.9
+1,2630,1B,2B,Stolen Base 2B,683146,Brett Baty,675911,Spencer Strider,502054,Tommy Pham,R,Travis d'Arnaud,518595,3,6,3,True,2023-06-08,Stolen,2B,2023,2024,26.9
+2,6460,1B,2B,Stolen Base 2B,683146,Brett Baty,643511,Tyler Rogers,682626,Francisco Alvarez,R,Patrick Bailey,672275,6,4,7,False,2023-07-02,Stolen,2B,2023,2024,26.9
+3,7044,1B,2B,Stolen Base 2B,683146,Brett Baty,675911,Spencer Strider,502054,Tommy Pham,R,Travis d'Arnaud,518595,3,6,3,True,2023-06-08,Stolen,2B,2023,2024,26.9

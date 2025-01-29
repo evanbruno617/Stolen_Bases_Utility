@@ -1,0 +1,2 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,644,1B,2B,Stolen Base 2B,121347,Alex Rodriguez,543272,Brad Hand,434540,Garrett Jones,L,Jeff Mathis,425772,2,1,7,False,2015-06-17,Stolen,2B,2015,2016,23.9

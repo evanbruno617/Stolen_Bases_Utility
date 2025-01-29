@@ -1,0 +1,32 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+545,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,Raul Casanova,0,2,1,True,2001-05-14,Stolen,2B,2001
+899,1B,,Caught Stealing 2B,133380,Aramis Ramirez,Benito Santiago,2,4,3,False,2001-05-01,Caught,2B,2001
+2008,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,Bill Haselman,1,2,1,False,2002-06-23,Stolen,2B,2002
+3887,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,Mike Piazza,2,3,8,True,2002-04-04,Stolen,2B,2002
+606,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,Keith Osik,3,1,6,False,2003-08-29,Stolen,2B,2003
+880,1B,,Caught Stealing 2B,133380,Aramis Ramirez,Paul Lo Duca,2,0,6,False,2003-08-15,Caught,2B,2003
+2392,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,Mike Matheny,3,3,6,True,2003-05-30,Stolen,2B,2003
+3387,1B,,Caught Stealing 2B,133380,Aramis Ramirez,Damian Miller,2,0,4,True,2003-04-12,Caught,2B,2003
+2369,1B,,Caught Stealing 2B,133380,Aramis Ramirez,Brad Ausmus,0,1,2,False,2004-06-02,Caught,2B,2004
+2691,1B,,Caught Stealing 2B,133380,Aramis Ramirez,Ramon Hernandez,2,2,4,True,2004-05-15,Caught,2B,2004
+2773,1B,,Caught Stealing 2B,133380,Aramis Ramirez,Todd Pratt,2,1,7,False,2005-05-08,Caught,2B,2005
+1322,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,John Baker,6,3,8,False,2008-07-24,Stolen,2B,2008
+2836,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,Miguel Montero,4,4,8,False,2008-05-11,Stolen,2B,2008
+3719,1B,,Caught Stealing 2B,133380,Aramis Ramirez,Jason Kendall,1,3,4,False,2008-04-02,Caught,2B,2008
+638,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,Michael McKenry,4,1,6,False,2011-09-04,Stolen,2B,2011
+162,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,Kurt Suzuki,0,0,1,True,2012-09-23,Stolen,2B,2012
+644,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,Rob Brantly,0,2,3,True,2012-09-03,Stolen,2B,2012
+1156,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,Carlos Corporán,2,1,2,True,2012-08-11,Stolen,2B,2012
+1446,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,Carlos Corporán,4,3,7,False,2012-07-30,Stolen,2B,2012
+1821,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,Rod Barajas,2,1,6,False,2012-07-15,Stolen,2B,2012
+1868,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,Michael McKenry,6,6,8,False,2012-07-13,Stolen,2B,2012
+2186,1B,,Caught Stealing 2B,133380,Aramis Ramirez,Devin Mesoraco,0,3,3,True,2012-06-27,Caught,2B,2012
+3940,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,Brian McCann,8,5,6,True,2012-04-13,Stolen,2B,2012
+4008,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,Geovany Soto,0,2,1,True,2012-04-10,Stolen,2B,2012
+4187,2B,3B,Stolen Base 3B,133380,Aramis Ramirez,Héctor Sánchez,3,3,3,False,2012-04-01,Stolen,3B,2012
+2193,1B,,Caught Stealing 2B,133380,Aramis Ramirez,Rob Brantly,0,4,3,True,2013-06-12,Caught,2B,2013
+1280,1B,2B,Caught Stealing 3B,133380,Aramis Ramirez,José Molina,0,3,3,True,2014-07-30,Caught,3B,2014
+1815,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,Michael McKenry,2,5,4,False,2014-06-29,Stolen,2B,2014
+1816,2B,3B,Stolen Base 3B,133380,Aramis Ramirez,Michael McKenry,4,8,6,False,2014-06-29,Stolen,3B,2014
+3535,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,Carlos Ruiz,4,4,7,True,2014-04-09,Stolen,2B,2014
+1647,1B,2B,Stolen Base 2B,133380,Aramis Ramirez,Carlos Ruiz,0,2,1,True,2015-06-30,Stolen,2B,2015

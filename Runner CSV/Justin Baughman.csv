@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+64,1B,2B,Stolen Base 2B,132200,Justin Baughman,Ramon Hernandez,3,3,11,True,2000-09-28,Stolen,2B,2000
+1962,2B,3B,Stolen Base 3B,132200,Justin Baughman,Joe Oliver,2,7,5,False,2000-07-03,Stolen,3B,2000
+2126,1B,2B,Stolen Base 2B,132200,Justin Baughman,Chad Moeller,0,5,2,False,2000-06-26,Stolen,2B,2000

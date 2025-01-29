@@ -1,0 +1,19 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,406,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,670059,Colin Holderman,666163,Ben Rortvedt,R,Endy Rodríguez,682848,5,7,9,True,2023-09-15,Stolen,2B,2023,2024,27.4
+1,1159,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,608331,Max Fried,643396,Isiah Kiner-Falefa,L,Travis d'Arnaud,518595,1,2,2,True,2023-08-14,Stolen,2B,2023,2024,27.4
+2,1787,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,668970,Gavin Hollowell,543309,Kyle Higashioka,R,Elias Díaz,553869,5,6,11,True,2023-07-16,Stolen,2B,2023,2024,27.4
+3,3374,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,621363,Colin Poche,624431,Jose Trevino,L,Christian Bethancourt,542194,7,7,9,True,2023-05-07,Stolen,2B,2023,2024,27.4
+4,3771,2B,3B,Stolen Base 3B,665828,Oswaldo Cabrera,666201,Alek Manoah,672724,Oswald Peraza,R,Alejandro Kirk,672386,0,0,3,False,2023-04-22,Stolen,3B,2023,2024,27.4
+5,3804,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,519043,Matt Moore,624431,Jose Trevino,L,Logan O'Hoppe,681351,2,2,9,False,2023-04-19,Stolen,2B,2023,2024,27.4
+6,3947,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,686973,Louie Varland,624431,Jose Trevino,R,Ryan Jeffers,680777,2,0,4,False,2023-04-14,Stolen,2B,2023,2024,27.4
+7,4116,2B,3B,Stolen Base 3B,665828,Oswaldo Cabrera,641329,Bryan Baker,643396,Isiah Kiner-Falefa,R,Adley Rutschman,668939,7,6,8,True,2023-04-07,Stolen,3B,2023,2024,27.4
+8,4126,2B,3B,Stolen Base 3B,665828,Oswaldo Cabrera,641329,Bryan Baker,643396,Isiah Kiner-Falefa,R,Adley Rutschman,668939,7,6,8,True,2023-04-06,Stolen,3B,2023,2024,27.4
+9,4820,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,670059,Colin Holderman,666163,Ben Rortvedt,R,Endy Rodríguez,682848,5,7,9,True,2023-09-15,Stolen,2B,2023,2024,27.4
+10,5573,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,608331,Max Fried,643396,Isiah Kiner-Falefa,L,Travis d'Arnaud,518595,1,2,2,True,2023-08-14,Stolen,2B,2023,2024,27.4
+11,6201,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,668970,Gavin Hollowell,543309,Kyle Higashioka,R,Elias Díaz,553869,5,6,11,True,2023-07-16,Stolen,2B,2023,2024,27.4
+12,7788,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,621363,Colin Poche,624431,Jose Trevino,L,Christian Bethancourt,542194,7,7,9,True,2023-05-07,Stolen,2B,2023,2024,27.4
+13,8185,2B,3B,Stolen Base 3B,665828,Oswaldo Cabrera,666201,Alek Manoah,672724,Oswald Peraza,R,Alejandro Kirk,672386,0,0,3,False,2023-04-22,Stolen,3B,2023,2024,27.4
+14,8218,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,519043,Matt Moore,624431,Jose Trevino,L,Logan O'Hoppe,681351,2,2,9,False,2023-04-19,Stolen,2B,2023,2024,27.4
+15,8361,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,686973,Louie Varland,624431,Jose Trevino,R,Ryan Jeffers,680777,2,0,4,False,2023-04-14,Stolen,2B,2023,2024,27.4
+16,8530,2B,3B,Stolen Base 3B,665828,Oswaldo Cabrera,641329,Bryan Baker,643396,Isiah Kiner-Falefa,R,Adley Rutschman,668939,7,6,8,True,2023-04-07,Stolen,3B,2023,2024,27.4
+17,8540,2B,3B,Stolen Base 3B,665828,Oswaldo Cabrera,641329,Bryan Baker,643396,Isiah Kiner-Falefa,R,Adley Rutschman,668939,7,6,8,True,2023-04-06,Stolen,3B,2023,2024,27.4

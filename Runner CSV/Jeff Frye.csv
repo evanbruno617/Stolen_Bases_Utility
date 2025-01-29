@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+119,1B,2B,Stolen Base 2B,114464,Jeff Frye,Kelly Stinnett,1,0,2,False,2000-09-25,Stolen,2B,2000
+1059,1B,2B,Stolen Base 2B,114464,Jeff Frye,Mike Piazza,1,4,7,True,2000-08-16,Stolen,2B,2000
+1257,2B,3B,Stolen Base 3B,114464,Jeff Frye,Jason Kendall,4,5,5,False,2000-08-07,Stolen,3B,2000
+1472,1B,2B,Stolen Base 2B,114464,Jeff Frye,Raul Casanova,0,5,9,True,2000-07-29,Stolen,2B,2000
+2384,1B,,Caught Stealing 2B,114464,Jeff Frye,Jorge Posada,2,1,9,True,2000-06-14,Caught,2B,2000
+2403,2B,,Caught Stealing 3B,114464,Jeff Frye,Jorge Posada,0,0,1,True,2000-06-13,Caught,3B,2000
+2600,2B,3B,Stolen Base 3B,114464,Jeff Frye,Mike Redmond,2,1,3,True,2000-06-05,Stolen,3B,2000
+2676,1B,,Caught Stealing 2B,114464,Jeff Frye,Mike Lieberthal,1,0,7,True,2000-06-02,Caught,2B,2000
+1071,1B,2B,Stolen Base 2B,114464,Jeff Frye,Ivan Rodriguez,1,3,5,False,2001-04-24,Stolen,2B,2001

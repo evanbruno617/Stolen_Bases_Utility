@@ -1,0 +1,35 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1980,2B,,Caught Stealing 3B,518735,Yasmani Grandal,593833,Wander Suero,519058,Mike Moustakas,R,Kurt Suzuki,435559,5,8,6,True,2019-08-17,Caught,3B,2019,2020,23.6
+1,1996,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,571578,Patrick Corbin,519058,Mike Moustakas,L,Yan Gomes,543228,1,1,5,True,2019-08-16,Stolen,2B,2019,2020,23.6
+2,2241,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,521230,Liam Hendriks,519058,Mike Moustakas,R,Chris Herrmann,543302,1,1,8,True,2019-07-30,Stolen,2B,2019,2020,23.6
+3,3735,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,592789,Noah Syndergaard,606115,Orlando Arcia,R,Wilson Ramos,467092,1,5,5,True,2019-04-27,Stolen,2B,2019,2020,23.6
+4,3825,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,445276,Kenley Jansen,519346,Eric Thames,R,Austin Barnes,605131,5,5,8,False,2019-04-21,Stolen,2B,2019,2020,23.6
+5,4191,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,435043,Zach Duke,592325,Ben Gamel,L,Tucker Barnhart,571466,1,1,6,True,2019-04-02,Stolen,2B,2019,2020,23.6
+6,4823,2B,,Caught Stealing 3B,518735,Yasmani Grandal,593833,Wander Suero,519058,Mike Moustakas,R,Kurt Suzuki,435559,5,8,6,True,2019-08-17,Caught,3B,2019,2020,23.6
+7,4839,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,571578,Patrick Corbin,519058,Mike Moustakas,L,Yan Gomes,543228,1,1,5,True,2019-08-16,Stolen,2B,2019,2020,23.6
+8,5084,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,521230,Liam Hendriks,519058,Mike Moustakas,R,Chris Herrmann,543302,1,1,8,True,2019-07-30,Stolen,2B,2019,2020,23.6
+9,6578,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,592789,Noah Syndergaard,606115,Orlando Arcia,R,Wilson Ramos,467092,1,5,5,True,2019-04-27,Stolen,2B,2019,2020,23.6
+10,6668,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,445276,Kenley Jansen,519346,Eric Thames,R,Austin Barnes,605131,5,5,8,False,2019-04-21,Stolen,2B,2019,2020,23.6
+11,7034,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,435043,Zach Duke,592325,Ben Gamel,L,Tucker Barnhart,571466,1,1,6,True,2019-04-02,Stolen,2B,2019,2020,23.6
+12,6747,2B,,Caught Stealing 3B,518735,Yasmani Grandal,593833,Wander Suero,519058,Mike Moustakas,R,Kurt Suzuki,435559,5,8,6,True,2019-08-17,Caught,3B,2019,2020,23.6
+13,6763,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,571578,Patrick Corbin,519058,Mike Moustakas,L,Yan Gomes,543228,1,1,5,True,2019-08-16,Stolen,2B,2019,2020,23.6
+14,7008,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,521230,Liam Hendriks,519058,Mike Moustakas,R,Chris Herrmann,543302,1,1,8,True,2019-07-30,Stolen,2B,2019,2020,23.6
+15,8502,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,592789,Noah Syndergaard,606115,Orlando Arcia,R,Wilson Ramos,467092,1,5,5,True,2019-04-27,Stolen,2B,2019,2020,23.6
+16,8592,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,445276,Kenley Jansen,519346,Eric Thames,R,Austin Barnes,605131,5,5,8,False,2019-04-21,Stolen,2B,2019,2020,23.6
+17,8958,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,435043,Zach Duke,592325,Ben Gamel,L,Tucker Barnhart,571466,1,1,6,True,2019-04-02,Stolen,2B,2019,2020,23.6
+18,1303,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,518617,Jake Diekman,669394,Jake Burger,L,Christian Vázquez,543877,2,3,8,True,2022-05-08,Stolen,2B,2022,2023,22.8
+19,2106,1B,2B,Caught Stealing 2B,518735,Yasmani Grandal,573185,Dan Straily,621035,Chris Taylor,R,J.T. Realmuto,592663,0,1,2,True,2017-07-14,Caught,2B,2017,2018,24.5
+20,1478,1B,2B,Caught Stealing 2B,518735,Yasmani Grandal,573185,Dan Straily,621035,Chris Taylor,R,J.T. Realmuto,592663,0,1,2,True,2017-07-14,Caught,2B,2017,2018,24.5
+21,4074,1B,,Caught Stealing 2B,518735,Yasmani Grandal,571473,Buddy Baumann,502210,Josh Reddick,L,Austin Hedges,595978,6,5,6,True,2016-09-28,Caught,2B,2016,2017,24.0
+22,5290,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,517414,Randall Delgado,592808,Andrew Toles,R,Welington Castillo,456078,8,7,7,False,2016-07-29,Stolen,2B,2016,2017,24.0
+23,6459,1B,,Caught Stealing 2B,518735,Yasmani Grandal,642229,Daniel Wright,502211,Mike Bolsinger,R,Tucker Barnhart,571466,3,2,4,False,2016-05-24,Caught,2B,2016,2017,24.0
+24,7270,1B,,Caught Stealing 2B,518735,Yasmani Grandal,461325,Tyler Clippard,592626,Joc Pederson,R,Welington Castillo,456078,3,1,8,False,2016-04-13,Caught,2B,2016,2017,24.0
+25,39,1B,,Caught Stealing 2B,518735,Yasmani Grandal,571473,Buddy Baumann,502210,Josh Reddick,L,Austin Hedges,595978,6,5,6,True,2016-09-28,Caught,2B,2016,2017,24.0
+26,1255,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,517414,Randall Delgado,592808,Andrew Toles,R,Welington Castillo,456078,8,7,7,False,2016-07-29,Stolen,2B,2016,2017,24.0
+27,2424,1B,,Caught Stealing 2B,518735,Yasmani Grandal,642229,Daniel Wright,502211,Mike Bolsinger,R,Tucker Barnhart,571466,3,2,4,False,2016-05-24,Caught,2B,2016,2017,24.0
+28,3235,1B,,Caught Stealing 2B,518735,Yasmani Grandal,461325,Tyler Clippard,592626,Joc Pederson,R,Welington Castillo,456078,3,1,8,False,2016-04-13,Caught,2B,2016,2017,24.0
+29,3446,1B,,Caught Stealing 2B,518735,Yasmani Grandal,571473,Buddy Baumann,502210,Josh Reddick,L,Austin Hedges,595978,6,5,6,True,2016-09-28,Caught,2B,2016,2017,24.0
+30,4662,1B,2B,Stolen Base 2B,518735,Yasmani Grandal,517414,Randall Delgado,592808,Andrew Toles,R,Welington Castillo,456078,8,7,7,False,2016-07-29,Stolen,2B,2016,2017,24.0
+31,5831,1B,,Caught Stealing 2B,518735,Yasmani Grandal,642229,Daniel Wright,502211,Mike Bolsinger,R,Tucker Barnhart,571466,3,2,4,False,2016-05-24,Caught,2B,2016,2017,24.0
+32,6642,1B,,Caught Stealing 2B,518735,Yasmani Grandal,461325,Tyler Clippard,592626,Joc Pederson,R,Welington Castillo,456078,3,1,8,False,2016-04-13,Caught,2B,2016,2017,24.0
+33,264,1B,,Caught Stealing 2B,518735,Yasmani Grandal,518603,Justin De Fratus,624577,Yasiel Puig,R,Carlos Ruiz,434563,10,7,8,False,2015-07-06,Caught,2B,2015,2016,24.2

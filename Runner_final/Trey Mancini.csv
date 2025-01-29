@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2974,1B,2B,Stolen Base 2B,641820,Trey Mancini,573186,Marcus Stroman,642082,Chance Sisco,R,Danny Jansen,643376,2,2,5,False,2019-06-13,Stolen,2B,2019,2021,26.5
+1,5817,1B,2B,Stolen Base 2B,641820,Trey Mancini,573186,Marcus Stroman,642082,Chance Sisco,R,Danny Jansen,643376,2,2,5,False,2019-06-13,Stolen,2B,2019,2021,26.5
+2,7741,1B,2B,Stolen Base 2B,641820,Trey Mancini,573186,Marcus Stroman,642082,Chance Sisco,R,Danny Jansen,643376,2,2,5,False,2019-06-13,Stolen,2B,2019,2021,26.5
+3,3169,1B,2B,Stolen Base 2B,641820,Trey Mancini,408061,Francisco Rodríguez,429666,J.J. Hardy,R,James McCann,543510,11,13,13,True,2017-05-16,Stolen,2B,2017,2018,27.0
+4,2541,1B,2B,Stolen Base 2B,641820,Trey Mancini,408061,Francisco Rodríguez,429666,J.J. Hardy,R,James McCann,543510,11,13,13,True,2017-05-16,Stolen,2B,2017,2018,27.0

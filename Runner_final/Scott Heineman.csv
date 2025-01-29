@@ -1,0 +1,19 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,749,1B,2B,Stolen Base 2B,595981,Scott Heineman,676606,Nick Margevicius,669256,Nick Solak,L,Joseph Odom,641929,5,0,3,True,2020-08-21,Stolen,2B,2020,2021,28.5
+1,813,2B,3B,Stolen Base 3B,595981,Scott Heineman,489334,Craig Stammen,425772,Jeff Mathis,R,Austin Hedges,595978,4,6,4,False,2020-08-18,Stolen,3B,2020,2021,28.5
+2,985,1B,2B,Stolen Base 2B,595981,Scott Heineman,598287,Noé Ramirez,455139,Robinson Chirinos,R,Max Stassi,545358,4,3,8,False,2020-08-07,Stolen,2B,2020,2021,28.5
+3,3592,1B,2B,Stolen Base 2B,595981,Scott Heineman,676606,Nick Margevicius,669256,Nick Solak,L,Joseph Odom,641929,5,0,3,True,2020-08-21,Stolen,2B,2020,2021,28.5
+4,3656,2B,3B,Stolen Base 3B,595981,Scott Heineman,489334,Craig Stammen,425772,Jeff Mathis,R,Austin Hedges,595978,4,6,4,False,2020-08-18,Stolen,3B,2020,2021,28.5
+5,3828,1B,2B,Stolen Base 2B,595981,Scott Heineman,598287,Noé Ramirez,455139,Robinson Chirinos,R,Max Stassi,545358,4,3,8,False,2020-08-07,Stolen,2B,2020,2021,28.5
+6,5516,1B,2B,Stolen Base 2B,595981,Scott Heineman,676606,Nick Margevicius,669256,Nick Solak,L,Joseph Odom,641929,5,0,3,True,2020-08-21,Stolen,2B,2020,2021,28.5
+7,5580,2B,3B,Stolen Base 3B,595981,Scott Heineman,489334,Craig Stammen,425772,Jeff Mathis,R,Austin Hedges,595978,4,6,4,False,2020-08-18,Stolen,3B,2020,2021,28.5
+8,5752,1B,2B,Stolen Base 2B,595981,Scott Heineman,598287,Noé Ramirez,455139,Robinson Chirinos,R,Max Stassi,545358,4,3,8,False,2020-08-07,Stolen,2B,2020,2021,28.5
+9,1295,1B,2B,Stolen Base 2B,595981,Scott Heineman,622663,Luis Severino,608597,Ronald Guzmán,R,Kyle Higashioka,543309,2,1,1,False,2019-09-28,Stolen,2B,2019,2020,28.1
+10,1680,1B,,Caught Stealing 2B,595981,Scott Heineman,656945,Tanner Scott,624431,Jose Trevino,L,Austin Wynns,642851,6,7,8,True,2019-09-06,Caught,2B,2019,2020,28.1
+11,1906,2B,,Caught Stealing 3B,595981,Scott Heineman,446321,Ross Detwiler,624431,Jose Trevino,L,James McCann,543510,1,0,3,True,2019-08-22,Caught,3B,2019,2020,28.1
+12,4138,1B,2B,Stolen Base 2B,595981,Scott Heineman,622663,Luis Severino,608597,Ronald Guzmán,R,Kyle Higashioka,543309,2,1,1,False,2019-09-28,Stolen,2B,2019,2020,28.1
+13,4523,1B,,Caught Stealing 2B,595981,Scott Heineman,656945,Tanner Scott,624431,Jose Trevino,L,Austin Wynns,642851,6,7,8,True,2019-09-06,Caught,2B,2019,2020,28.1
+14,4749,2B,,Caught Stealing 3B,595981,Scott Heineman,446321,Ross Detwiler,624431,Jose Trevino,L,James McCann,543510,1,0,3,True,2019-08-22,Caught,3B,2019,2020,28.1
+15,6062,1B,2B,Stolen Base 2B,595981,Scott Heineman,622663,Luis Severino,608597,Ronald Guzmán,R,Kyle Higashioka,543309,2,1,1,False,2019-09-28,Stolen,2B,2019,2020,28.1
+16,6447,1B,,Caught Stealing 2B,595981,Scott Heineman,656945,Tanner Scott,624431,Jose Trevino,L,Austin Wynns,642851,6,7,8,True,2019-09-06,Caught,2B,2019,2020,28.1
+17,6673,2B,,Caught Stealing 3B,595981,Scott Heineman,446321,Ross Detwiler,624431,Jose Trevino,L,James McCann,543510,1,0,3,True,2019-08-22,Caught,3B,2019,2020,28.1

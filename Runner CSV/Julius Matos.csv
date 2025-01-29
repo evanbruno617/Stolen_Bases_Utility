@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1262,1B,2B,Stolen Base 2B,408240,Julius Matos,Chad Moeller,4,4,9,True,2002-07-28,Stolen,2B,2002
+1959,3B,score,Caught Stealing 2B,408240,Julius Matos,Benito Santiago,10,7,7,False,2002-06-25,Caught,2B,2002
+2142,1B,2B,Caught Stealing Home,408240,Julius Matos,Ben Davis,2,1,2,False,2002-06-15,Caught,Home,2002
+2268,1B,,Caught Stealing 2B,408240,Julius Matos,Brook Fordyce,0,3,2,True,2002-06-10,Caught,2B,2002
+959,1B,2B,Stolen Base 2B,408240,Julius Matos,Jorge Posada,5,6,6,False,2003-08-11,Stolen,2B,2003

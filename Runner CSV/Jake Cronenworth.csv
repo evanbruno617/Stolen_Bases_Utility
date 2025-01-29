@@ -1,0 +1,25 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,Yadier Molina,4,6,6,False,2020-09-30,Stolen,2B,2020
+280,1B,,Caught Stealing 2B,630105,Jake Cronenworth,Joey Bart,1,1,2,False,2020-09-13,Caught,2B,2020
+325,1B,,Caught Stealing 2B,630105,Jake Cronenworth,Joey Bart,1,1,2,False,2020-09-11,Caught,2B,2020
+438,2B,3B,Stolen Base 3B,630105,Jake Cronenworth,Sean Murphy,1,0,2,True,2020-09-06,Stolen,3B,2020
+515,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,Anthony Bemboom,3,3,8,True,2020-09-02,Stolen,2B,2020
+773,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,Jeff Mathis,2,1,6,False,2020-08-19,Stolen,2B,2020
+383,1B,,Caught Stealing 2B,630105,Jake Cronenworth,Garrett Stubbs,3,1,6,False,2021-09-05,Caught,2B,2021
+1185,1B,,Caught Stealing 2B,630105,Jake Cronenworth,René Rivera,4,8,6,True,2021-07-18,Caught,2B,2021
+1194,1B,,Caught Stealing 2B,630105,Jake Cronenworth,René Rivera,4,8,6,True,2021-07-17,Caught,2B,2021
+1316,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,Yan Gomes,0,1,1,False,2021-07-05,Stolen,2B,2021
+2456,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,Austin Barnes,2,1,5,True,2021-04-25,Stolen,2B,2021
+2484,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,Will Smith,5,4,8,True,2021-04-24,Stolen,2B,2021
+2629,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,Jacob Stallings,3,8,6,True,2021-04-15,Stolen,2B,2021
+2820,2B,,Caught Stealing 3B,630105,Jake Cronenworth,Stephen Vogt,3,0,4,False,2021-04-02,Caught,3B,2021
+262,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,Cooper Hummel,1,7,6,True,2022-09-16,Stolen,2B,2022
+737,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,Keibert Ruiz,0,1,3,False,2022-08-20,Stolen,2B,2022
+1804,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,Carson Kelly,3,1,3,False,2022-06-20,Stolen,2B,2022
+1447,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,Elias Díaz,4,6,9,True,2023-08-01,Stolen,2B,2023
+1506,2B,3B,Stolen Base 3B,630105,Jake Cronenworth,Mitch Garver,4,0,6,False,2023-07-29,Stolen,3B,2023
+1914,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,Francisco Alvarez,3,3,8,False,2023-07-07,Stolen,2B,2023
+2025,1B,,Caught Stealing 2B,630105,Jake Cronenworth,Chad Wallach,4,0,4,False,2023-07-03,Caught,2B,2023
+2790,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,Nick Fortes,1,7,6,True,2023-06-01,Stolen,2B,2023
+3288,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,Christian Vázquez,2,2,8,True,2023-05-10,Stolen,2B,2023
+4079,1B,2B,Stolen Base 2B,630105,Jake Cronenworth,Sean Murphy,0,2,4,True,2023-04-08,Stolen,2B,2023

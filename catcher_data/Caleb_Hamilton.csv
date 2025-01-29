@@ -1,0 +1,4 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,670869,Livan Soto,Caleb Hamilton,2,5,6,True,2022-09-25,Stolen,2B,2022
+1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,Caleb Hamilton,1,0,3,False,2022-09-22,Stolen,2B,2022
+1B,2B,Stolen Base 2B,595777,Jurickson Profar,Caleb Hamilton,3,2,7,False,2022-07-31,Stolen,2B,2022

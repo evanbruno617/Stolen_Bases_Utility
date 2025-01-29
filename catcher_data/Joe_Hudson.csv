@@ -1,0 +1,7 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,641658,Garrett Hampson,Joe Hudson,5,1,8,True,2020-08-09,Stolen,2B,2020
+1B,2B,Stolen Base 2B,596115,Trevor Story,Joe Hudson,0,5,6,True,2020-08-08,Stolen,2B,2020
+1B,2B,Stolen Base 2B,660271,Shohei Ohtani,Joe Hudson,2,3,7,False,2020-07-30,Stolen,2B,2020
+1B,2B,Stolen Base 2B,657656,Ramón Laureano,Joe Hudson,5,0,4,False,2018-09-19,Stolen,2B,2018
+1B,2B,Stolen Base 2B,596059,Rougned Odor,Joe Hudson,1,0,8,True,2018-09-11,Stolen,2B,2018
+1B,2B,Stolen Base 2B,641313,Tim Anderson,Joe Hudson,3,6,4,False,2018-09-08,Stolen,2B,2018

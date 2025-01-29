@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4931,1B,2B,Stolen Base 2B,461235,Brandon Moss,407793,John Lackey,425877,Yadier Molina,R,Willson Contreras,575929,2,0,2,True,2016-08-14,Stolen,2B,2016,2017,26.4
+1,896,1B,2B,Stolen Base 2B,461235,Brandon Moss,407793,John Lackey,425877,Yadier Molina,R,Willson Contreras,575929,2,0,2,True,2016-08-14,Stolen,2B,2016,2017,26.4
+2,4303,1B,2B,Stolen Base 2B,461235,Brandon Moss,407793,John Lackey,425877,Yadier Molina,R,Willson Contreras,575929,2,0,2,True,2016-08-14,Stolen,2B,2016,2017,26.4

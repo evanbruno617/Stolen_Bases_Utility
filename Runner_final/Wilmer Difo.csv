@@ -1,0 +1,35 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3626,1B,,Caught Stealing 2B,594694,Wilmer Difo,621107,Zach Eflin,594809,Adam Eaton,R,Andrew Knapp,595284,0,0,1,True,2019-05-05,Caught,2B,2019,2021,28.5
+1,6469,1B,,Caught Stealing 2B,594694,Wilmer Difo,621107,Zach Eflin,594809,Adam Eaton,R,Andrew Knapp,595284,0,0,1,True,2019-05-05,Caught,2B,2019,2021,28.5
+2,8393,1B,,Caught Stealing 2B,594694,Wilmer Difo,621107,Zach Eflin,594809,Adam Eaton,R,Andrew Knapp,595284,0,0,1,True,2019-05-05,Caught,2B,2019,2021,28.5
+3,336,1B,2B,Stolen Base 2B,594694,Wilmer Difo,594798,Jacob deGrom,476451,Jeremy Hellickson,R,Jose Lobaton,446653,2,1,5,True,2018-04-16,Stolen,2B,2018,2019,27.8
+4,444,2B,,Caught Stealing 3B,594694,Wilmer Difo,621345,A.J. Minter,600474,Pedro Severino,L,Carlos Pérez,542208,4,0,8,False,2018-04-10,Caught,3B,2018,2019,27.8
+5,617,1B,2B,Stolen Base 2B,594694,Wilmer Difo,451596,Yovani Gallardo,594809,Adam Eaton,R,Devin Mesoraco,519023,1,5,7,True,2018-04-01,Stolen,2B,2018,2019,27.8
+6,736,1B,2B,Stolen Base 2B,594694,Wilmer Difo,605400,Aaron Nola,475582,Ryan Zimmerman,R,Andrew Knapp,595284,1,2,5,True,2017-09-25,Stolen,2B,2017,2018,28.6
+7,1063,1B,2B,Stolen Base 2B,594694,Wilmer Difo,605400,Aaron Nola,502517,Daniel Murphy,R,Jorge Alfaro,595751,1,3,5,False,2017-09-07,Stolen,2B,2017,2018,28.6
+8,1297,1B,2B,Stolen Base 2B,594694,Wilmer Difo,544727,Jeurys Familia,543685,Anthony Rendon,R,Kevin Plawecki,608700,9,4,8,False,2017-08-26,Stolen,2B,2017,2018,28.6
+9,1329,1B,2B,Stolen Base 2B,594694,Wilmer Difo,594798,Jacob deGrom,572191,Michael A. Taylor,R,Travis d'Arnaud,518595,0,1,2,False,2017-08-25,Stolen,2B,2017,2018,28.6
+10,1503,1B,2B,Stolen Base 2B,594694,Wilmer Difo,445060,Ricky Nolasco,502517,Daniel Murphy,R,Juan Graterol,492802,0,0,1,False,2017-08-16,Stolen,2B,2017,2018,28.6
+11,1648,1B,2B,Stolen Base 2B,594694,Wilmer Difo,474699,Vance Worley,446653,Jose Lobaton,R,J.T. Realmuto,592663,0,0,2,False,2017-08-08,Stolen,2B,2017,2018,28.6
+12,1710,1B,2B,Stolen Base 2B,594694,Wilmer Difo,407793,John Lackey,475582,Ryan Zimmerman,R,Alex Avila,488671,4,3,5,True,2017-08-05,Stolen,2B,2017,2018,28.6
+13,2073,1B,2B,Stolen Base 2B,594694,Wilmer Difo,456701,Homer Bailey,547180,Bryce Harper,R,Stuart Turner,642156,2,4,5,True,2017-07-16,Stolen,2B,2017,2018,28.6
+14,2235,1B,2B,Stolen Base 2B,594694,Wilmer Difo,571927,Steven Matz,506703,Adrián Sanchez,L,Travis d'Arnaud,518595,0,0,4,False,2017-07-03,Stolen,2B,2017,2018,28.6
+15,3017,1B,2B,Stolen Base 2B,594694,Wilmer Difo,621242,Edwin Díaz,150029,Jayson Werth,R,Mike Zunino,572287,5,1,7,False,2017-05-24,Stolen,2B,2017,2018,28.6
+16,3676,1B,,Caught Stealing 2B,594694,Wilmer Difo,518774,Matt Harvey,502517,Daniel Murphy,R,Kevin Plawecki,608700,1,2,3,True,2017-04-21,Caught,2B,2017,2018,28.6
+17,108,1B,2B,Stolen Base 2B,594694,Wilmer Difo,605400,Aaron Nola,475582,Ryan Zimmerman,R,Andrew Knapp,595284,1,2,5,True,2017-09-25,Stolen,2B,2017,2018,28.6
+18,435,1B,2B,Stolen Base 2B,594694,Wilmer Difo,605400,Aaron Nola,502517,Daniel Murphy,R,Jorge Alfaro,595751,1,3,5,False,2017-09-07,Stolen,2B,2017,2018,28.6
+19,669,1B,2B,Stolen Base 2B,594694,Wilmer Difo,544727,Jeurys Familia,543685,Anthony Rendon,R,Kevin Plawecki,608700,9,4,8,False,2017-08-26,Stolen,2B,2017,2018,28.6
+20,701,1B,2B,Stolen Base 2B,594694,Wilmer Difo,594798,Jacob deGrom,572191,Michael A. Taylor,R,Travis d'Arnaud,518595,0,1,2,False,2017-08-25,Stolen,2B,2017,2018,28.6
+21,875,1B,2B,Stolen Base 2B,594694,Wilmer Difo,445060,Ricky Nolasco,502517,Daniel Murphy,R,Juan Graterol,492802,0,0,1,False,2017-08-16,Stolen,2B,2017,2018,28.6
+22,1020,1B,2B,Stolen Base 2B,594694,Wilmer Difo,474699,Vance Worley,446653,Jose Lobaton,R,J.T. Realmuto,592663,0,0,2,False,2017-08-08,Stolen,2B,2017,2018,28.6
+23,1082,1B,2B,Stolen Base 2B,594694,Wilmer Difo,407793,John Lackey,475582,Ryan Zimmerman,R,Alex Avila,488671,4,3,5,True,2017-08-05,Stolen,2B,2017,2018,28.6
+24,1445,1B,2B,Stolen Base 2B,594694,Wilmer Difo,456701,Homer Bailey,547180,Bryce Harper,R,Stuart Turner,642156,2,4,5,True,2017-07-16,Stolen,2B,2017,2018,28.6
+25,1607,1B,2B,Stolen Base 2B,594694,Wilmer Difo,571927,Steven Matz,506703,Adrián Sanchez,L,Travis d'Arnaud,518595,0,0,4,False,2017-07-03,Stolen,2B,2017,2018,28.6
+26,2389,1B,2B,Stolen Base 2B,594694,Wilmer Difo,621242,Edwin Díaz,150029,Jayson Werth,R,Mike Zunino,572287,5,1,7,False,2017-05-24,Stolen,2B,2017,2018,28.6
+27,3048,1B,,Caught Stealing 2B,594694,Wilmer Difo,518774,Matt Harvey,502517,Daniel Murphy,R,Kevin Plawecki,608700,1,2,3,True,2017-04-21,Caught,2B,2017,2018,28.6
+28,4158,1B,2B,Stolen Base 2B,594694,Wilmer Difo,607192,Tyler Glasnow,547180,Bryce Harper,R,Eric Fryer,518700,0,1,1,True,2016-09-25,Stolen,2B,2016,2017,29.1
+29,5202,1B,2B,Stolen Base 2B,594694,Wilmer Difo,543339,Daniel Hudson,519208,Clint Robinson,R,Welington Castillo,456078,3,7,8,True,2016-08-02,Stolen,2B,2016,2017,29.1
+30,123,1B,2B,Stolen Base 2B,594694,Wilmer Difo,607192,Tyler Glasnow,547180,Bryce Harper,R,Eric Fryer,518700,0,1,1,True,2016-09-25,Stolen,2B,2016,2017,29.1
+31,1167,1B,2B,Stolen Base 2B,594694,Wilmer Difo,543339,Daniel Hudson,519208,Clint Robinson,R,Welington Castillo,456078,3,7,8,True,2016-08-02,Stolen,2B,2016,2017,29.1
+32,3530,1B,2B,Stolen Base 2B,594694,Wilmer Difo,607192,Tyler Glasnow,547180,Bryce Harper,R,Eric Fryer,518700,0,1,1,True,2016-09-25,Stolen,2B,2016,2017,29.1
+33,4574,1B,2B,Stolen Base 2B,594694,Wilmer Difo,543339,Daniel Hudson,519208,Clint Robinson,R,Welington Castillo,456078,3,7,8,True,2016-08-02,Stolen,2B,2016,2017,29.1

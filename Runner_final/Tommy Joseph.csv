@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,6310,1B,,Caught Stealing 2B,571830,Tommy Joseph,502624,Chase Anderson,605125,Cody Asche,R,Jonathan Lucroy,518960,1,2,4,False,2016-06-02,Caught,2B,2016,2017,25.3
+1,6453,1B,2B,Stolen Base 2B,571830,Tommy Joseph,434671,Aníbal Sánchez,429667,Ryan Howard,R,James McCann,543510,0,2,3,True,2016-05-25,Stolen,2B,2016,2017,25.3
+2,2275,1B,,Caught Stealing 2B,571830,Tommy Joseph,502624,Chase Anderson,605125,Cody Asche,R,Jonathan Lucroy,518960,1,2,4,False,2016-06-02,Caught,2B,2016,2017,25.3
+3,2418,1B,2B,Stolen Base 2B,571830,Tommy Joseph,434671,Aníbal Sánchez,429667,Ryan Howard,R,James McCann,543510,0,2,3,True,2016-05-25,Stolen,2B,2016,2017,25.3
+4,5682,1B,,Caught Stealing 2B,571830,Tommy Joseph,502624,Chase Anderson,605125,Cody Asche,R,Jonathan Lucroy,518960,1,2,4,False,2016-06-02,Caught,2B,2016,2017,25.3
+5,5825,1B,2B,Stolen Base 2B,571830,Tommy Joseph,434671,Aníbal Sánchez,429667,Ryan Howard,R,James McCann,543510,0,2,3,True,2016-05-25,Stolen,2B,2016,2017,25.3

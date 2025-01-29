@@ -1,0 +1,40 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,246,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,669432,Trevor Rogers,666915,Bobby Dalbec,L,Jorge Alfaro,595751,2,0,2,True,2020-09-16,Stolen,2B,2020,2021,27.5
+1,299,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,664126,Pete Fairbanks,543877,Christian Vázquez,R,Kevan Smith,607345,3,2,5,True,2020-09-13,Stolen,2B,2020,2021,27.5
+2,3089,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,669432,Trevor Rogers,666915,Bobby Dalbec,L,Jorge Alfaro,595751,2,0,2,True,2020-09-16,Stolen,2B,2020,2021,27.5
+3,3142,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,664126,Pete Fairbanks,543877,Christian Vázquez,R,Kevan Smith,607345,3,2,5,True,2020-09-13,Stolen,2B,2020,2021,27.5
+4,5013,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,669432,Trevor Rogers,666915,Bobby Dalbec,L,Jorge Alfaro,595751,2,0,2,True,2020-09-16,Stolen,2B,2020,2021,27.5
+5,5066,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,664126,Pete Fairbanks,543877,Christian Vázquez,R,Kevan Smith,607345,3,2,5,True,2020-09-13,Stolen,2B,2020,2021,27.5
+6,1918,2B,3B,Stolen Base 3B,622168,Yairo Muñoz,605288,Adrian Houser,543939,Kolten Wong,R,Yasmani Grandal,518735,2,5,5,False,2019-08-21,Stolen,3B,2019,2020,28.4
+7,2337,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,650813,Luis Escobar,668800,Andrew Knizner,R,Elias Díaz,553869,4,11,4,True,2019-07-24,Stolen,2B,2019,2020,28.4
+8,2338,2B,3B,Stolen Base 3B,622168,Yairo Muñoz,650813,Luis Escobar,668800,Andrew Knizner,R,Elias Díaz,553869,4,11,4,True,2019-07-24,Stolen,3B,2019,2020,28.4
+9,2383,2B,3B,Stolen Base 3B,622168,Yairo Muñoz,543101,Anthony DeSclafani,664056,Harrison Bader,R,Ryan Lavarnway,543432,0,2,2,True,2019-07-21,Stolen,3B,2019,2020,28.4
+10,2566,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,502188,Jeff Samardzija,446308,Matt Wieters,R,Stephen Vogt,519390,0,0,5,True,2019-07-07,Stolen,2B,2019,2020,28.4
+11,2676,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,664192,Joey Lucchesi,446308,Matt Wieters,L,Austin Hedges,595978,2,0,5,True,2019-06-30,Stolen,2B,2019,2020,28.4
+12,2677,1B,,Caught Stealing 2B,622168,Yairo Muñoz,606131,Luis Perdomo,664056,Harrison Bader,R,Austin Hedges,595978,3,2,6,True,2019-06-30,Caught,2B,2019,2020,28.4
+13,2926,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,607229,Robert Gsellman,500874,José A. Martínez,R,Wilson Ramos,467092,8,3,7,True,2019-06-15,Stolen,2B,2019,2020,28.4
+14,2962,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,621242,Edwin Díaz,572761,Matt Carpenter,R,Wilson Ramos,467092,4,4,10,True,2019-06-14,Stolen,2B,2019,2020,28.4
+15,2973,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,621242,Edwin Díaz,572761,Matt Carpenter,R,Wilson Ramos,467092,4,4,10,True,2019-06-13,Stolen,2B,2019,2020,28.4
+16,3577,1B,,Caught Stealing 2B,622168,Yairo Muñoz,595191,Jerad Eickhoff,656427,Jack Flaherty,R,J.T. Realmuto,592663,0,0,3,False,2019-05-08,Caught,2B,2019,2020,28.4
+17,4761,2B,3B,Stolen Base 3B,622168,Yairo Muñoz,605288,Adrian Houser,543939,Kolten Wong,R,Yasmani Grandal,518735,2,5,5,False,2019-08-21,Stolen,3B,2019,2020,28.4
+18,5180,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,650813,Luis Escobar,668800,Andrew Knizner,R,Elias Díaz,553869,4,11,4,True,2019-07-24,Stolen,2B,2019,2020,28.4
+19,5181,2B,3B,Stolen Base 3B,622168,Yairo Muñoz,650813,Luis Escobar,668800,Andrew Knizner,R,Elias Díaz,553869,4,11,4,True,2019-07-24,Stolen,3B,2019,2020,28.4
+20,5226,2B,3B,Stolen Base 3B,622168,Yairo Muñoz,543101,Anthony DeSclafani,664056,Harrison Bader,R,Ryan Lavarnway,543432,0,2,2,True,2019-07-21,Stolen,3B,2019,2020,28.4
+21,5409,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,502188,Jeff Samardzija,446308,Matt Wieters,R,Stephen Vogt,519390,0,0,5,True,2019-07-07,Stolen,2B,2019,2020,28.4
+22,5519,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,664192,Joey Lucchesi,446308,Matt Wieters,L,Austin Hedges,595978,2,0,5,True,2019-06-30,Stolen,2B,2019,2020,28.4
+23,5520,1B,,Caught Stealing 2B,622168,Yairo Muñoz,606131,Luis Perdomo,664056,Harrison Bader,R,Austin Hedges,595978,3,2,6,True,2019-06-30,Caught,2B,2019,2020,28.4
+24,5769,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,607229,Robert Gsellman,500874,José A. Martínez,R,Wilson Ramos,467092,8,3,7,True,2019-06-15,Stolen,2B,2019,2020,28.4
+25,5805,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,621242,Edwin Díaz,572761,Matt Carpenter,R,Wilson Ramos,467092,4,4,10,True,2019-06-14,Stolen,2B,2019,2020,28.4
+26,5816,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,621242,Edwin Díaz,572761,Matt Carpenter,R,Wilson Ramos,467092,4,4,10,True,2019-06-13,Stolen,2B,2019,2020,28.4
+27,6420,1B,,Caught Stealing 2B,622168,Yairo Muñoz,595191,Jerad Eickhoff,656427,Jack Flaherty,R,J.T. Realmuto,592663,0,0,3,False,2019-05-08,Caught,2B,2019,2020,28.4
+28,6685,2B,3B,Stolen Base 3B,622168,Yairo Muñoz,605288,Adrian Houser,543939,Kolten Wong,R,Yasmani Grandal,518735,2,5,5,False,2019-08-21,Stolen,3B,2019,2020,28.4
+29,7104,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,650813,Luis Escobar,668800,Andrew Knizner,R,Elias Díaz,553869,4,11,4,True,2019-07-24,Stolen,2B,2019,2020,28.4
+30,7105,2B,3B,Stolen Base 3B,622168,Yairo Muñoz,650813,Luis Escobar,668800,Andrew Knizner,R,Elias Díaz,553869,4,11,4,True,2019-07-24,Stolen,3B,2019,2020,28.4
+31,7150,2B,3B,Stolen Base 3B,622168,Yairo Muñoz,543101,Anthony DeSclafani,664056,Harrison Bader,R,Ryan Lavarnway,543432,0,2,2,True,2019-07-21,Stolen,3B,2019,2020,28.4
+32,7333,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,502188,Jeff Samardzija,446308,Matt Wieters,R,Stephen Vogt,519390,0,0,5,True,2019-07-07,Stolen,2B,2019,2020,28.4
+33,7443,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,664192,Joey Lucchesi,446308,Matt Wieters,L,Austin Hedges,595978,2,0,5,True,2019-06-30,Stolen,2B,2019,2020,28.4
+34,7444,1B,,Caught Stealing 2B,622168,Yairo Muñoz,606131,Luis Perdomo,664056,Harrison Bader,R,Austin Hedges,595978,3,2,6,True,2019-06-30,Caught,2B,2019,2020,28.4
+35,7693,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,607229,Robert Gsellman,500874,José A. Martínez,R,Wilson Ramos,467092,8,3,7,True,2019-06-15,Stolen,2B,2019,2020,28.4
+36,7729,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,621242,Edwin Díaz,572761,Matt Carpenter,R,Wilson Ramos,467092,4,4,10,True,2019-06-14,Stolen,2B,2019,2020,28.4
+37,7740,1B,2B,Stolen Base 2B,622168,Yairo Muñoz,621242,Edwin Díaz,572761,Matt Carpenter,R,Wilson Ramos,467092,4,4,10,True,2019-06-13,Stolen,2B,2019,2020,28.4
+38,8344,1B,,Caught Stealing 2B,622168,Yairo Muñoz,595191,Jerad Eickhoff,656427,Jack Flaherty,R,J.T. Realmuto,592663,0,0,3,False,2019-05-08,Caught,2B,2019,2020,28.4

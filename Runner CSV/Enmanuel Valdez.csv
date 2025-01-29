@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2651,1B,2B,Stolen Base 2B,665839,Enmanuel Valdez,Mike Zunino,1,2,4,True,2023-06-07,Stolen,2B,2023
+3291,1B,,Caught Stealing 2B,665839,Enmanuel Valdez,Travis d'Arnaud,0,2,5,True,2023-05-10,Caught,2B,2023
+3430,1B,2B,Stolen Base 2B,665839,Enmanuel Valdez,J.T. Realmuto,3,5,6,True,2023-05-05,Stolen,2B,2023
+3473,1B,2B,Stolen Base 2B,665839,Enmanuel Valdez,Alejandro Kirk,5,3,5,False,2023-05-03,Stolen,2B,2023
+3520,1B,2B,Stolen Base 2B,665839,Enmanuel Valdez,Danny Jansen,2,3,2,False,2023-05-01,Stolen,2B,2023

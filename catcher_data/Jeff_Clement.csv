@@ -1,0 +1,14 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2B,3B,Stolen Base 3B,116338,Torii Hunter,Jeff Clement,4,3,5,False,2008-08-12,Stolen,3B,2008
+1B,2B,Stolen Base 2B,425834,B.J. Upton,Jeff Clement,1,3,3,True,2008-08-10,Stolen,2B,2008
+1B,2B,Stolen Base 2B,493127,Akinori Iwamura,Jeff Clement,1,5,4,True,2008-08-10,Stolen,2B,2008
+1B,2B,Stolen Base 2B,425834,B.J. Upton,Jeff Clement,3,5,5,True,2008-08-08,Stolen,2B,2008
+1B,2B,Stolen Base 2B,452655,Denard Span,Jeff Clement,3,7,8,True,2008-08-06,Stolen,2B,2008
+1B,2B,Stolen Base 2B,406878,Brian Roberts,Jeff Clement,1,2,5,True,2008-08-02,Stolen,2B,2008
+1B,2B,Stolen Base 2B,340393,Ross Gload,Jeff Clement,0,0,5,False,2008-07-11,Stolen,2B,2008
+2B,3B,Stolen Base 3B,430203,David DeJesus,Jeff Clement,3,0,5,False,2008-07-11,Stolen,3B,2008
+1B,2B,Stolen Base 2B,136722,Carlos Guillén,Jeff Clement,2,6,6,True,2008-07-03,Stolen,2B,2008
+1B,2B,Stolen Base 2B,408314,José Reyes,Jeff Clement,1,0,1,False,2008-06-25,Stolen,2B,2008
+1B,2B,Stolen Base 2B,123107,Fernando Tatis,Jeff Clement,5,0,3,False,2008-06-25,Stolen,2B,2008
+2B,3B,Stolen Base 3B,136860,Carlos Beltrán,Jeff Clement,0,5,5,False,2008-06-23,Stolen,3B,2008
+1B,2B,Stolen Base 2B,434670,Hanley Ramirez,Jeff Clement,1,3,4,True,2008-06-18,Stolen,2B,2008

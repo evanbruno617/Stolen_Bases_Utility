@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1289,1B,2B,Stolen Base 2B,519025,Will Middlebrooks,Joe Mauer,0,0,2,False,2012-08-05,Stolen,2B,2012
+2068,1B,2B,Stolen Base 2B,519025,Will Middlebrooks,Jesus Montero,1,1,9,True,2012-07-01,Stolen,2B,2012
+3040,1B,,Caught Stealing 2B,519025,Will Middlebrooks,Matt Wieters,4,2,4,True,2012-05-21,Caught,2B,2012
+3190,1B,2B,Stolen Base 2B,519025,Will Middlebrooks,John Jaso,4,0,5,False,2012-05-15,Stolen,2B,2012
+3482,1B,2B,Stolen Base 2B,519025,Will Middlebrooks,Kurt Suzuki,0,0,2,False,2012-05-02,Stolen,2B,2012
+193,1B,2B,Stolen Base 2B,519025,Will Middlebrooks,J.P. Arencibia,6,3,8,False,2013-09-20,Stolen,2B,2013
+558,1B,2B,Stolen Base 2B,519025,Will Middlebrooks,Brayan Peña,2,1,5,False,2013-09-03,Stolen,2B,2013
+658,1B,2B,Stolen Base 2B,519025,Will Middlebrooks,Josh Phegley,1,0,4,False,2013-08-30,Stolen,2B,2013
+3381,1B,,Caught Stealing 2B,519025,Will Middlebrooks,José Molina,4,0,6,False,2013-04-14,Caught,2B,2013
+205,1B,,Caught Stealing 2B,519025,Will Middlebrooks,Nick Hundley,0,2,2,True,2014-09-20,Caught,2B,2014
+1102,1B,2B,Stolen Base 2B,519025,Will Middlebrooks,Chris Iannetta,2,3,4,True,2014-08-08,Stolen,2B,2014
+1923,1B,,Caught Stealing 2B,519025,Will Middlebrooks,Josh Phegley,5,5,8,False,2015-06-16,Caught,2B,2015
+3108,1B,2B,Stolen Base 2B,519025,Will Middlebrooks,Nick Hundley,0,2,4,True,2015-04-21,Stolen,2B,2015
+3286,1B,2B,Stolen Base 2B,519025,Will Middlebrooks,Buster Posey,0,1,2,False,2015-04-12,Stolen,2B,2015

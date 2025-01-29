@@ -1,0 +1,19 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,403,1B,2B,Stolen Base 2B,672356,Gabriel Arias,592351,Jon Gray,666310,Bo Naylor,R,Sam Huff,669087,2,0,4,False,2023-09-15,Stolen,2B,2023,2024,27.4
+1,937,3B,score,Stolen Base Home,672356,Gabriel Arias,642232,Ryan Yarbrough,666310,Bo Naylor,L,Austin Barnes,605131,2,0,2,False,2023-08-24,Stolen,Home,2023,2024,27.4
+2,1084,1B,,Caught Stealing 2B,672356,Gabriel Arias,542585,José Cisnero,666310,Bo Naylor,R,Eric Haase,606992,4,1,8,False,2023-08-18,Caught,2B,2023,2024,27.4
+3,1090,1B,,Caught Stealing 2B,672356,Gabriel Arias,542585,José Cisnero,666310,Bo Naylor,R,Eric Haase,606992,4,1,8,False,2023-08-17,Caught,2B,2023,2024,27.4
+4,1565,1B,2B,Stolen Base 2B,672356,Gabriel Arias,679525,Alec Marsh,664702,Myles Straw,R,Freddy Fermin,666023,2,0,2,False,2023-07-26,Stolen,2B,2023,2024,27.4
+5,2049,1B,,Caught Stealing 2B,672356,Gabriel Arias,640470,Adbert Alzolay,605137,Josh Bell,R,Yan Gomes,543228,6,8,10,True,2023-07-02,Caught,2B,2023,2024,27.4
+6,3041,2B,3B,Caught Stealing 2B,672356,Gabriel Arias,669947,Jesse Scholtens,664702,Myles Straw,R,Yasmani Grandal,518735,1,0,2,False,2023-05-22,Caught,2B,2023,2024,27.4
+7,3848,1B,,Caught Stealing 2B,672356,Gabriel Arias,593958,Eduardo Rodriguez,595956,Cam Gallagher,L,Jake Rogers,668670,0,0,3,True,2023-04-18,Caught,2B,2023,2024,27.4
+8,3852,1B,,Caught Stealing 2B,672356,Gabriel Arias,593958,Eduardo Rodriguez,595956,Cam Gallagher,L,Jake Rogers,668670,0,0,3,True,2023-04-17,Caught,2B,2023,2024,27.4
+9,4817,1B,2B,Stolen Base 2B,672356,Gabriel Arias,592351,Jon Gray,666310,Bo Naylor,R,Sam Huff,669087,2,0,4,False,2023-09-15,Stolen,2B,2023,2024,27.4
+10,5351,3B,score,Stolen Base Home,672356,Gabriel Arias,642232,Ryan Yarbrough,666310,Bo Naylor,L,Austin Barnes,605131,2,0,2,False,2023-08-24,Stolen,Home,2023,2024,27.4
+11,5498,1B,,Caught Stealing 2B,672356,Gabriel Arias,542585,José Cisnero,666310,Bo Naylor,R,Eric Haase,606992,4,1,8,False,2023-08-18,Caught,2B,2023,2024,27.4
+12,5504,1B,,Caught Stealing 2B,672356,Gabriel Arias,542585,José Cisnero,666310,Bo Naylor,R,Eric Haase,606992,4,1,8,False,2023-08-17,Caught,2B,2023,2024,27.4
+13,5979,1B,2B,Stolen Base 2B,672356,Gabriel Arias,679525,Alec Marsh,664702,Myles Straw,R,Freddy Fermin,666023,2,0,2,False,2023-07-26,Stolen,2B,2023,2024,27.4
+14,6463,1B,,Caught Stealing 2B,672356,Gabriel Arias,640470,Adbert Alzolay,605137,Josh Bell,R,Yan Gomes,543228,6,8,10,True,2023-07-02,Caught,2B,2023,2024,27.4
+15,7455,2B,3B,Caught Stealing 2B,672356,Gabriel Arias,669947,Jesse Scholtens,664702,Myles Straw,R,Yasmani Grandal,518735,1,0,2,False,2023-05-22,Caught,2B,2023,2024,27.4
+16,8262,1B,,Caught Stealing 2B,672356,Gabriel Arias,593958,Eduardo Rodriguez,595956,Cam Gallagher,L,Jake Rogers,668670,0,0,3,True,2023-04-18,Caught,2B,2023,2024,27.4
+17,8266,1B,,Caught Stealing 2B,672356,Gabriel Arias,593958,Eduardo Rodriguez,595956,Cam Gallagher,L,Jake Rogers,668670,0,0,3,True,2023-04-17,Caught,2B,2023,2024,27.4

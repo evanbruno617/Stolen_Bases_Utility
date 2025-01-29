@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2863,1B,2B,Stolen Base 2B,571506,Justin Bour,425844,Zack Greinke,592663,J.T. Realmuto,R,Jeff Mathis,425772,2,0,4,False,2017-06-01,Stolen,2B,2017,2018,23.7
+1,2235,1B,2B,Stolen Base 2B,571506,Justin Bour,425844,Zack Greinke,592663,J.T. Realmuto,R,Jeff Mathis,425772,2,0,4,False,2017-06-01,Stolen,2B,2017,2018,23.7

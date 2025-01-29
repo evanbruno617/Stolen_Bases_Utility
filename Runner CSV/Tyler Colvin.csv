@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+498,1B,2B,Stolen Base 2B,502125,Tyler Colvin,Jason Castro,3,6,5,False,2010-09-07,Stolen,2B,2010
+781,1B,2B,Stolen Base 2B,502125,Tyler Colvin,Wil Nieves,0,1,8,True,2010-08-25,Stolen,2B,2010
+1091,1B,2B,Stolen Base 2B,502125,Tyler Colvin,Buster Posey,0,1,1,True,2010-08-10,Stolen,2B,2010
+1418,1B,,Caught Stealing 2B,502125,Tyler Colvin,Yadier Molina,0,0,1,False,2010-07-25,Caught,2B,2010
+1421,1B,2B,Stolen Base 2B,502125,Tyler Colvin,Yadier Molina,3,3,10,False,2010-07-25,Stolen,2B,2010
+1866,1B,2B,Stolen Base 2B,502125,Tyler Colvin,Ramon Hernandez,0,0,6,False,2010-07-03,Stolen,2B,2010
+2895,1B,2B,Stolen Base 2B,502125,Tyler Colvin,Paul Phillips,3,2,8,False,2010-05-18,Stolen,2B,2010
+618,1B,,Caught Stealing 2B,502125,Tyler Colvin,David Ross,0,0,2,True,2012-09-04,Caught,2B,2012
+899,1B,2B,Stolen Base 2B,502125,Tyler Colvin,Kelly Shoppach,2,4,9,True,2012-08-22,Stolen,2B,2012
+938,1B,2B,Stolen Base 2B,502125,Tyler Colvin,Josh Thole,1,4,7,True,2012-08-21,Stolen,2B,2012
+939,2B,3B,Stolen Base 3B,502125,Tyler Colvin,Josh Thole,1,4,7,True,2012-08-21,Stolen,3B,2012
+1081,1B,2B,Stolen Base 2B,502125,Tyler Colvin,Jonathan Lucroy,5,6,7,False,2012-08-15,Stolen,2B,2012
+1174,1B,2B,Stolen Base 2B,502125,Tyler Colvin,Héctor Sánchez,0,2,7,True,2012-08-10,Stolen,2B,2012
+1912,1B,2B,Stolen Base 2B,502125,Tyler Colvin,Jhonatan Solano,0,0,2,True,2012-07-08,Stolen,2B,2012
+3140,2B,,Caught Stealing 3B,502125,Tyler Colvin,Miguel Montero,4,2,6,False,2012-05-17,Caught,3B,2012
+3174,1B,2B,Stolen Base 2B,502125,Tyler Colvin,Buster Posey,1,3,7,True,2012-05-15,Stolen,2B,2012
+2135,1B,2B,Stolen Base 2B,502125,Tyler Colvin,Michael McKenry,0,0,2,False,2014-06-15,Stolen,2B,2014

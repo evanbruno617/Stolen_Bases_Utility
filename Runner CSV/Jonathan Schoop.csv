@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+434,1B,2B,Stolen Base 2B,570731,Jonathan Schoop,Christian Vázquez,1,4,6,True,2014-09-09,Stolen,2B,2014
+1153,1B,2B,Stolen Base 2B,570731,Jonathan Schoop,Dioner Navarro,2,6,7,True,2014-08-05,Stolen,2B,2014
+666,1B,2B,Stolen Base 2B,570731,Jonathan Schoop,Salvador Perez,3,2,6,True,2015-08-25,Stolen,2B,2015
+1527,1B,2B,Stolen Base 2B,570731,Jonathan Schoop,Kurt Suzuki,2,1,3,True,2015-07-06,Stolen,2B,2015
+1324,1B,2B,Stolen Base 2B,570731,Jonathan Schoop,Christian Vázquez,9,5,8,False,2016-06-02,Stolen,2B,2016
+1517,1B,,Caught Stealing 2B,570731,Jonathan Schoop,Carlos Pérez,0,0,2,True,2016-05-22,Caught,2B,2016
+1075,2B,3B,Stolen Base 3B,570731,Jonathan Schoop,James McCann,1,2,3,False,2017-08-05,Stolen,3B,2017
+243,1B,2B,Stolen Base 2B,570731,Jonathan Schoop,Tucker Barnhart,1,2,2,False,2018-09-18,Stolen,2B,2018
+1218,1B,,Caught Stealing 2B,570731,Jonathan Schoop,Wilson Ramos,2,2,4,False,2019-07-16,Caught,2B,2019
+1938,1B,2B,Stolen Base 2B,570731,Jonathan Schoop,Mike Zunino,0,1,2,True,2019-05-31,Stolen,2B,2019
+1539,2B,3B,Stolen Base 3B,570731,Jonathan Schoop,Yadier Molina,2,2,3,False,2021-06-23,Stolen,3B,2021
+1494,1B,2B,Stolen Base 2B,570731,Jonathan Schoop,Reese McGuire,0,0,2,True,2022-07-07,Stolen,2B,2022
+1522,1B,2B,Stolen Base 2B,570731,Jonathan Schoop,Sandy León,0,1,2,False,2022-07-06,Stolen,2B,2022
+1540,1B,2B,Stolen Base 2B,570731,Jonathan Schoop,Luke Maile,4,1,3,False,2022-07-05,Stolen,2B,2022
+1572,1B,2B,Stolen Base 2B,570731,Jonathan Schoop,Sandy León,2,1,7,False,2022-07-04,Stolen,2B,2022
+2354,1B,2B,Stolen Base 2B,570731,Jonathan Schoop,Austin Hedges,1,1,2,True,2022-05-22,Stolen,2B,2022

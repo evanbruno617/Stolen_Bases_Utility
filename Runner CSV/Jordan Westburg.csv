@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3252,1B,2B,Stolen Base 2B,676059,Jordan Westburg,Colby Fitch,3,2,7,False,2022-04-01,Stolen,2B,2022
+918,1B,2B,Stolen Base 2B,676059,Jordan Westburg,Elias Díaz,5,4,8,False,2023-08-25,Stolen,2B,2023
+1190,1B,2B,Stolen Base 2B,676059,Jordan Westburg,Tom Murphy,0,0,9,True,2023-08-12,Stolen,2B,2023
+1484,1B,2B,Stolen Base 2B,676059,Jordan Westburg,Kyle Higashioka,6,0,1,False,2023-07-30,Stolen,2B,2023
+1670,1B,2B,Stolen Base 2B,676059,Jordan Westburg,René Pinto,5,6,9,True,2023-07-22,Stolen,2B,2023
+2192,1B,,Caught Stealing 2B,676059,Jordan Westburg,Curt Casali,7,3,7,False,2023-06-26,Caught,2B,2023

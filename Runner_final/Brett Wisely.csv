@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1860,1B,,Caught Stealing 2B,689172,Brett Wisely,660787,Yerry De Los Santos,605204,J.D. Davis,R,Jason Delay,641511,4,6,9,True,2023-07-14,Caught,2B,2023,2024,27.8
+1,3413,1B,2B,Stolen Base 2B,689172,Brett Wisely,669203,Corbin Burnes,670276,Cal Stevenson,R,Victor Caratini,605170,2,2,2,False,2023-05-05,Stolen,2B,2023,2024,27.8
+2,3416,1B,2B,Stolen Base 2B,689172,Brett Wisely,669203,Corbin Burnes,670276,Cal Stevenson,R,Victor Caratini,605170,2,4,5,False,2023-05-05,Stolen,2B,2023,2024,27.8
+3,6274,1B,,Caught Stealing 2B,689172,Brett Wisely,660787,Yerry De Los Santos,605204,J.D. Davis,R,Jason Delay,641511,4,6,9,True,2023-07-14,Caught,2B,2023,2024,27.8
+4,7827,1B,2B,Stolen Base 2B,689172,Brett Wisely,669203,Corbin Burnes,670276,Cal Stevenson,R,Victor Caratini,605170,2,2,2,False,2023-05-05,Stolen,2B,2023,2024,27.8
+5,7830,1B,2B,Stolen Base 2B,689172,Brett Wisely,669203,Corbin Burnes,670276,Cal Stevenson,R,Victor Caratini,605170,2,4,5,False,2023-05-05,Stolen,2B,2023,2024,27.8

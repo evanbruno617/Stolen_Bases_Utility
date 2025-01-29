@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2991,1B,,Caught Stealing 2B,117919,Javy Lopez,Javier Cardona,4,6,8,False,2002-05-12,Caught,2B,2002
+766,1B,,Caught Stealing 2B,117919,Javy Lopez,Benito Santiago,0,1,4,True,2003-08-20,Caught,2B,2003
+668,1B,,Caught Stealing 2B,117919,Javy Lopez,Jason Kendall,0,1,2,False,2005-08-28,Caught,2B,2005

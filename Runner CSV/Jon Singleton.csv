@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+364,1B,2B,Stolen Base 2B,572138,Jon Singleton,Chris Iannetta,0,1,2,True,2014-09-12,Stolen,2B,2014
+793,1B,,Caught Stealing 2B,572138,Jon Singleton,Roberto Pérez,0,0,2,True,2014-08-24,Caught,2B,2014
+2075,1B,,Caught Stealing 2B,572138,Jon Singleton,Jose Lobaton,1,0,2,True,2014-06-18,Caught,2B,2014
+2233,1B,,Caught Stealing 2B,572138,Jon Singleton,Miguel Montero,1,0,3,True,2014-06-10,Caught,2B,2014
+2333,1B,2B,Stolen Base 2B,572138,Jon Singleton,Chris Iannetta,1,1,4,False,2014-06-05,Stolen,2B,2014
+1588,1B,2B,Stolen Base 2B,572138,Jon Singleton,Ryan Hanigan,8,12,10,True,2015-07-03,Stolen,2B,2015

@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+411,1B,,Caught Stealing 2B,279912,Raul Gonzalez,Henry Blanco,0,1,1,True,2002-09-10,Caught,2B,2002
+445,1B,2B,Stolen Base 2B,279912,Raul Gonzalez,Mike Lieberthal,0,0,2,True,2002-09-09,Stolen,2B,2002
+446,1B,2B,Stolen Base 2B,279912,Raul Gonzalez,Mike Lieberthal,3,6,8,True,2002-09-09,Stolen,2B,2002
+771,1B,,Caught Stealing 2B,279912,Raul Gonzalez,Yorvit Torrealba,0,1,3,True,2002-08-22,Caught,2B,2002
+1552,1B,2B,Stolen Base 2B,279912,Raul Gonzalez,Paul Bako,0,1,2,True,2002-07-15,Stolen,2B,2002
+1629,1B,2B,Stolen Base 2B,279912,Raul Gonzalez,Brad Ausmus,1,1,6,True,2002-07-13,Stolen,2B,2002
+1414,1B,2B,Stolen Base 2B,279912,Raul Gonzalez,Mike Lieberthal,2,6,5,True,2003-07-21,Stolen,2B,2003
+1831,1B,2B,Stolen Base 2B,279912,Raul Gonzalez,Jorge Posada,0,2,3,False,2003-06-28,Stolen,2B,2003
+1926,1B,2B,Stolen Base 2B,279912,Raul Gonzalez,Jorge Posada,0,2,3,False,2003-06-21,Stolen,2B,2003
+2734,1B,2B,Stolen Base 2B,279912,Raul Gonzalez,Charles Johnson,0,2,1,True,2003-05-14,Stolen,2B,2003

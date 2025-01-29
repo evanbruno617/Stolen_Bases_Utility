@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1745,1B,,Caught Stealing 2B,451192,James Adduci,612434,Miguel Castro,457708,Justin Upton,R,Welington Castillo,456078,2,7,4,True,2017-08-03,Caught,2B,2017,2018,28.6
+1,3528,1B,2B,Stolen Base 2B,451192,James Adduci,461872,Anthony Swarzak,543308,John Hicks,R,Geovany Soto,434567,3,3,6,False,2017-04-28,Stolen,2B,2017,2018,28.6
+2,1117,1B,,Caught Stealing 2B,451192,James Adduci,612434,Miguel Castro,457708,Justin Upton,R,Welington Castillo,456078,2,7,4,True,2017-08-03,Caught,2B,2017,2018,28.6
+3,2900,1B,2B,Stolen Base 2B,451192,James Adduci,461872,Anthony Swarzak,543308,John Hicks,R,Geovany Soto,434567,3,3,6,False,2017-04-28,Stolen,2B,2017,2018,28.6

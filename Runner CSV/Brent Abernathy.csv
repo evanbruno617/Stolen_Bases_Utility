@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+840,1B,2B,Stolen Base 2B,150466,Brent Abernathy,Geronimo Gil,3,7,8,True,2002-08-19,Stolen,2B,2002
+1505,1B,2B,Stolen Base 2B,150466,Brent Abernathy,Jason Varitek,2,0,3,False,2002-07-18,Stolen,2B,2002
+1508,1B,2B,Stolen Base 2B,150466,Brent Abernathy,Jason Varitek,3,2,5,False,2002-07-18,Stolen,2B,2002
+1510,1B,2B,Stolen Base 2B,150466,Brent Abernathy,Jason Varitek,3,3,7,False,2002-07-18,Stolen,2B,2002
+2694,2B,,Caught Stealing 3B,150466,Brent Abernathy,Dan Wilson,0,2,3,True,2002-05-22,Caught,3B,2002
+2980,1B,2B,Stolen Base 2B,150466,Brent Abernathy,Brook Fordyce,0,3,1,False,2002-05-12,Stolen,2B,2002
+3132,2B,3B,Stolen Base 3B,150466,Brent Abernathy,Doug Mirabelli,0,0,1,False,2002-05-06,Stolen,3B,2002
+3190,1B,2B,Stolen Base 2B,150466,Brent Abernathy,Jason Varitek,2,0,3,False,2002-05-03,Stolen,2B,2002
+3371,1B,2B,Stolen Base 2B,150466,Brent Abernathy,Doug Mirabelli,2,0,5,True,2002-04-26,Stolen,2B,2002
+3552,1B,,Caught Stealing 2B,150466,Brent Abernathy,Mitch Meluskey,2,1,4,True,2002-04-18,Caught,2B,2002
+3600,1B,,Caught Stealing 2B,150466,Brent Abernathy,Mike Rivera,1,0,3,True,2002-04-16,Caught,2B,2002
+3718,1B,2B,Stolen Base 2B,150466,Brent Abernathy,Fernando Lunar,1,6,4,True,2002-04-11,Stolen,2B,2002
+3897,1B,2B,Stolen Base 2B,150466,Brent Abernathy,Mitch Meluskey,0,0,5,False,2002-04-03,Stolen,2B,2002
+840,1B,2B,Stolen Base 2B,150466,Brent Abernathy,Miguel Ojeda,4,3,4,False,2005-08-18,Stolen,2B,2005
+876,1B,2B,Stolen Base 2B,150466,Brent Abernathy,A.J. Pierzynski,4,4,14,True,2005-08-16,Stolen,2B,2005

@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+305,1B,,Caught Stealing 2B,150032,Roosevelt Brown,Mike Matheny,1,1,4,True,2000-09-17,Caught,2B,2000
+1503,1B,2B,Stolen Base 2B,150032,Roosevelt Brown,Mike Lieberthal,2,6,9,True,2002-07-18,Stolen,2B,2002
+1724,1B,,Caught Stealing 2B,150032,Roosevelt Brown,Javy Lopez,0,3,1,True,2002-07-06,Caught,2B,2002
+3040,1B,2B,Stolen Base 2B,150032,Roosevelt Brown,Raul Casanova,2,0,1,False,2002-05-10,Stolen,2B,2002
+3501,1B,,Caught Stealing 2B,150032,Roosevelt Brown,Jason LaRue,0,3,4,False,2002-04-20,Caught,2B,2002

@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+985,1B,,Caught Stealing 2B,656537,Derek Hill,Austin Wynns,4,0,6,False,2021-07-29,Caught,2B,2021
+1174,1B,2B,Stolen Base 2B,656537,Derek Hill,Ryan Jeffers,1,0,3,False,2021-07-18,Stolen,2B,2021
+1203,2B,3B,Stolen Base 3B,656537,Derek Hill,Ryan Jeffers,4,4,8,False,2021-07-17,Stolen,3B,2021
+1409,1B,2B,Stolen Base 2B,656537,Derek Hill,René Rivera,1,6,6,True,2021-06-30,Stolen,2B,2021
+1424,1B,2B,Stolen Base 2B,656537,Derek Hill,René Rivera,1,6,6,True,2021-06-29,Stolen,2B,2021
+1764,2B,,Caught Stealing 3B,656537,Derek Hill,Tom Murphy,4,1,2,False,2021-06-08,Caught,3B,2021
+1765,1B,2B,Stolen Base 2B,656537,Derek Hill,Tom Murphy,5,1,5,False,2021-06-08,Stolen,2B,2021
+1781,1B,2B,Stolen Base 2B,656537,Derek Hill,Yasmani Grandal,3,0,5,True,2021-06-06,Stolen,2B,2021
+1803,1B,2B,Stolen Base 2B,656537,Derek Hill,Yermín Mercedes,1,3,5,True,2021-06-05,Stolen,2B,2021
+2317,1B,2B,Stolen Base 2B,656537,Derek Hill,Gary Sánchez,0,0,3,True,2022-05-25,Stolen,2B,2022
+2392,1B,2B,Stolen Base 2B,656537,Derek Hill,Austin Hedges,0,0,3,True,2022-05-20,Stolen,2B,2022
+2490,2B,3B,Stolen Base 3B,656537,Derek Hill,Robinson Chirinos,2,0,2,False,2022-05-15,Stolen,3B,2022
+2229,1B,2B,Stolen Base 2B,656537,Derek Hill,Gary Sánchez,0,2,9,True,2023-06-24,Stolen,2B,2023

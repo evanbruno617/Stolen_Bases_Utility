@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+196,1B,2B,Stolen Base 2B,676724,Jared Young,Jacob Stallings,1,1,7,True,2022-09-20,Stolen,2B,2022
+1882,1B,2B,Stolen Base 2B,676724,Jared Young,Kyle Higashioka,4,6,9,True,2023-07-09,Stolen,2B,2023
+2036,1B,2B,Stolen Base 2B,676724,Jared Young,Victor Caratini,0,0,1,True,2023-07-03,Stolen,2B,2023

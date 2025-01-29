@@ -1,0 +1,11 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1528,1B,,Caught Stealing 2B,543308,John Hicks,593679,Gabriel Ynoa,668670,Jake Rogers,R,Chance Sisco,642082,0,0,2,False,2019-09-14,Caught,2B,2019,2021,26.2
+1,3908,1B,2B,Stolen Base 2B,543308,John Hicks,592866,Trevor Williams,592444,JaCoby Jones,R,Francisco Cervelli,465041,2,1,4,False,2019-04-17,Stolen,2B,2019,2021,26.2
+2,4371,1B,,Caught Stealing 2B,543308,John Hicks,593679,Gabriel Ynoa,668670,Jake Rogers,R,Chance Sisco,642082,0,0,2,False,2019-09-14,Caught,2B,2019,2021,26.2
+3,6751,1B,2B,Stolen Base 2B,543308,John Hicks,592866,Trevor Williams,592444,JaCoby Jones,R,Francisco Cervelli,465041,2,1,4,False,2019-04-17,Stolen,2B,2019,2021,26.2
+4,6295,1B,,Caught Stealing 2B,543308,John Hicks,593679,Gabriel Ynoa,668670,Jake Rogers,R,Chance Sisco,642082,0,0,2,False,2019-09-14,Caught,2B,2019,2021,26.2
+5,8675,1B,2B,Stolen Base 2B,543308,John Hicks,592866,Trevor Williams,592444,JaCoby Jones,R,Francisco Cervelli,465041,2,1,4,False,2019-04-17,Stolen,2B,2019,2021,26.2
+6,677,1B,2B,Stolen Base 2B,543308,John Hicks,518633,Danny Duffy,592407,Bryan Holaday,L,Drew Butera,460077,0,0,4,True,2017-09-28,Stolen,2B,2017,2018,26.5
+7,2816,2B,3B,Stolen Base 3B,543308,John Hicks,571476,Chris Beck,502100,Alex Presley,R,Kevan Smith,607345,3,2,6,False,2017-06-04,Stolen,3B,2017,2018,26.5
+8,49,1B,2B,Stolen Base 2B,543308,John Hicks,518633,Danny Duffy,592407,Bryan Holaday,L,Drew Butera,460077,0,0,4,True,2017-09-28,Stolen,2B,2017,2018,26.5
+9,2188,2B,3B,Stolen Base 3B,543308,John Hicks,571476,Chris Beck,502100,Alex Presley,R,Kevan Smith,607345,3,2,6,False,2017-06-04,Stolen,3B,2017,2018,26.5

@@ -1,0 +1,23 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+297,1B,2B,Stolen Base 2B,408213,Hank Blalock,Ramon Hernandez,3,4,5,False,2003-09-13,Stolen,2B,2003
+842,1B,,Caught Stealing 2B,408213,Hank Blalock,Sandy Alomar Jr.,12,6,6,False,2003-08-16,Caught,2B,2003
+1202,1B,2B,Stolen Base 2B,408213,Hank Blalock,Jason Varitek,0,0,1,False,2003-07-30,Stolen,2B,2003
+3002,1B,,Caught Stealing 2B,408213,Hank Blalock,Tom Wilson,0,0,1,True,2003-05-01,Caught,2B,2003
+3303,1B,,Caught Stealing 2B,408213,Hank Blalock,Bengie Molina,0,1,2,False,2003-04-16,Caught,2B,2003
+477,1B,2B,Stolen Base 2B,408213,Hank Blalock,Ben Davis,1,0,3,False,2004-09-08,Stolen,2B,2004
+665,1B,,Caught Stealing 2B,408213,Hank Blalock,Robert Machado,1,2,1,False,2004-08-28,Caught,2B,2004
+1037,1B,2B,Stolen Base 2B,408213,Hank Blalock,Jorge Posada,4,0,3,False,2004-08-10,Stolen,2B,2004
+1881,2B,,Caught Stealing 3B,408213,Hank Blalock,Brad Ausmus,2,1,3,False,2004-06-26,Caught,3B,2004
+2986,1B,2B,Stolen Base 2B,408213,Hank Blalock,Doug Mirabelli,6,2,8,False,2005-04-29,Stolen,2B,2005
+113,1B,2B,Stolen Base 2B,408213,Hank Blalock,Mike Napoli,3,1,6,False,2007-09-25,Stolen,2B,2007
+3228,1B,2B,Stolen Base 2B,408213,Hank Blalock,Wil Nieves,0,2,2,False,2007-05-03,Stolen,2B,2007
+3233,1B,2B,Stolen Base 2B,408213,Hank Blalock,Wil Nieves,0,2,2,False,2007-05-02,Stolen,2B,2007
+3331,1B,,Caught Stealing 2B,408213,Hank Blalock,Jason Phillips,3,0,2,True,2007-04-29,Caught,2B,2007
+3470,1B,2B,Stolen Base 2B,408213,Hank Blalock,Jason Kendall,1,3,7,False,2007-04-22,Stolen,2B,2007
+3730,1B,2B,Stolen Base 2B,408213,Hank Blalock,Josh Paul,2,2,6,False,2007-04-09,Stolen,2B,2007
+1347,1B,2B,Stolen Base 2B,408213,Hank Blalock,Toby Hall,3,1,2,True,2008-07-23,Stolen,2B,2008
+638,1B,2B,Stolen Base 2B,408213,Hank Blalock,Dioner Navarro,3,1,6,False,2009-07-03,Stolen,2B,2009
+1502,1B,2B,Stolen Base 2B,408213,Hank Blalock,Kevin Cash,0,2,2,False,2009-05-25,Stolen,2B,2009
+2512,2B,,Caught Stealing 3B,408213,Hank Blalock,Max Ramirez,3,1,2,True,2010-06-05,Caught,3B,2010
+2870,1B,2B,Stolen Base 2B,408213,Hank Blalock,Francisco Cervelli,0,4,4,True,2010-05-19,Stolen,2B,2010
+3949,1B,2B,Stolen Base 2B,408213,Hank Blalock,Henry Blanco,3,0,8,False,2010-04-02,Stolen,2B,2010

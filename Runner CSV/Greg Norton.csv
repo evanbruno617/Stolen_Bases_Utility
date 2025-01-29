@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2673,1B,2B,Stolen Base 2B,119853,Greg Norton,Mitch Meluskey,0,0,2,True,2000-06-02,Stolen,2B,2000
+138,1B,,Caught Stealing 2B,119853,Greg Norton,Damian Miller,5,6,4,False,2002-09-22,Caught,2B,2002
+2147,1B,,Caught Stealing 2B,119853,Greg Norton,Einar Díaz,7,4,8,False,2002-06-15,Caught,2B,2002
+2216,1B,2B,Stolen Base 2B,119853,Greg Norton,Doug Mirabelli,7,5,8,True,2002-06-12,Stolen,2B,2002
+3485,1B,2B,Stolen Base 2B,119853,Greg Norton,Rod Barajas,9,3,4,True,2002-04-20,Stolen,2B,2002
+1739,1B,2B,Stolen Base 2B,119853,Greg Norton,Chad Moeller,6,4,8,False,2003-07-01,Stolen,2B,2003
+1847,1B,2B,Stolen Base 2B,119853,Greg Norton,Jason Kendall,5,2,6,True,2003-06-27,Stolen,2B,2003
+2185,1B,,Caught Stealing 2B,119853,Greg Norton,A.J. Pierzynski,0,5,7,True,2003-06-10,Caught,2B,2003
+372,1B,,Caught Stealing 2B,119853,Greg Norton,Kenji Johjima,0,0,4,True,2007-09-14,Caught,2B,2007
+1530,1B,2B,Stolen Base 2B,119853,Greg Norton,Ramon Hernandez,0,0,5,True,2007-07-24,Stolen,2B,2007

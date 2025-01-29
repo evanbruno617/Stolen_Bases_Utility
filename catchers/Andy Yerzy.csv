@@ -1,0 +1,3 @@
+Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1B,2B,Stolen Base 2B,664702,Myles Straw,605200,Zach Davies,642708,Amed Rosario,R,Andy Yerzy,647378,3,0,4,True,2022-04-04,Stolen,2B
+1B,2B,Stolen Base 2B,665926,Andrés Giménez,676709,Ty Tice,644374,Yu Chang,R,Andy Yerzy,647378,3,1,5,True,2022-04-04,Stolen,2B

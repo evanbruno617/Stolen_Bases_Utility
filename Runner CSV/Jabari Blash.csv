@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+209,1B,2B,Stolen Base 2B,518466,Jabari Blash,Martín Maldonado,1,1,4,False,2016-08-02,Stolen,2B,2016
+579,1B,,Caught Stealing 2B,518466,Jabari Blash,Nick Hundley,1,0,4,False,2017-08-30,Caught,2B,2017
+657,1B,2B,Stolen Base 2B,518466,Jabari Blash,J.T. Realmuto,0,1,2,True,2017-08-26,Stolen,2B,2017
+2754,1B,,Caught Stealing 2B,518466,Jabari Blash,Yasmani Grandal,2,3,7,False,2017-05-05,Caught,2B,2017
+24,1B,2B,Stolen Base 2B,518466,Jabari Blash,Josh Phegley,0,0,1,False,2018-09-30,Stolen,2B,2018
+534,1B,2B,Stolen Base 2B,518466,Jabari Blash,Isiah Kiner-Falefa,0,1,2,True,2018-09-04,Stolen,2B,2018
+1969,1B,,Caught Stealing 2B,518466,Jabari Blash,Jonathan Lucroy,1,3,5,True,2018-06-16,Caught,2B,2018

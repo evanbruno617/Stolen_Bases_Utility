@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+458,1B,2B,Stolen Base 2B,121199,Adam Riggs,Mike Piazza,0,7,3,True,2001-05-17,Stolen,2B,2001
+525,1B,,Caught Stealing 2B,121199,Adam Riggs,Mike Piazza,1,0,8,True,2001-05-15,Caught,2B,2001
+332,1B,2B,Stolen Base 2B,121199,Adam Riggs,Dan Wilson,6,2,7,True,2003-09-12,Stolen,2B,2003
+716,1B,,Caught Stealing 2B,121199,Adam Riggs,Brandon Inge,3,0,2,True,2003-08-23,Caught,2B,2003
+717,1B,2B,Stolen Base 2B,121199,Adam Riggs,Brandon Inge,6,4,8,True,2003-08-23,Stolen,2B,2003
+775,1B,2B,Stolen Base 2B,121199,Adam Riggs,Miguel Olivo,5,3,8,True,2003-08-20,Stolen,2B,2003

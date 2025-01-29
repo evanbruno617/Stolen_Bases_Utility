@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+578,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,Wil Nieves,5,4,5,False,2014-09-03,Stolen,2B,2014
+3270,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,Jarrod Saltalamacchia,1,1,4,False,2015-04-13,Stolen,2B,2015
+1079,1B,,Caught Stealing 2B,542194,Christian Bethancourt,J.T. Realmuto,6,3,8,False,2016-06-15,Caught,2B,2016
+1376,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,Chris Iannetta,0,1,2,True,2016-05-30,Stolen,2B,2016
+1377,1B,,Caught Stealing 2B,542194,Christian Bethancourt,Chris Iannetta,0,1,4,True,2016-05-30,Caught,2B,2016
+822,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,Jose Trevino,0,3,4,True,2022-08-16,Stolen,2B,2022
+1682,1B,,Caught Stealing 2B,542194,Christian Bethancourt,Jose Trevino,2,0,4,True,2022-06-28,Caught,2B,2022
+1964,2B,3B,Stolen Base 3B,542194,Christian Bethancourt,Austin Hedges,3,1,6,True,2022-06-12,Stolen,3B,2022
+2290,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,Sam Huff,0,1,2,False,2022-05-26,Stolen,2B,2022
+2512,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,Austin Romine,0,1,2,False,2022-05-14,Stolen,2B,2022
+2950,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,Robinson Chirinos,0,1,2,False,2022-04-19,Stolen,2B,2022
+521,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,Cal Raleigh,6,3,6,False,2023-09-10,Stolen,2B,2023

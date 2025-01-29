@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+760,1B,2B,Stolen Base 2B,150322,Mark Johnson,Ramon Hernandez,3,4,9,True,2000-08-30,Stolen,2B,2000
+2739,1B,2B,Stolen Base 2B,150322,Mark Johnson,Dan Wilson,1,2,8,True,2000-05-30,Stolen,2B,2000
+4011,1B,2B,Stolen Base 2B,150322,Mark Johnson,Ivan Rodriguez,4,5,6,True,2000-04-04,Stolen,2B,2000
+1912,1B,2B,Caught Stealing 3B,150322,Mark Johnson,Todd Hundley,13,9,8,False,2002-06-28,Caught,3B,2002

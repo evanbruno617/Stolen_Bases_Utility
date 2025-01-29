@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+963,1B,2B,Stolen Base 2B,122027,Richie Sexson,Damian Miller,7,8,5,True,2000-08-21,Stolen,2B,2000
+1954,1B,2B,Stolen Base 2B,122027,Richie Sexson,Darrin Fletcher,0,1,2,False,2000-07-04,Stolen,2B,2000
+586,1B,,Caught Stealing 2B,122027,Richie Sexson,Jason Kendall,4,4,10,False,2001-05-12,Caught,2B,2001
+1506,1B,,Caught Stealing 2B,122027,Richie Sexson,Chad Kreuter,0,0,4,True,2001-04-02,Caught,2B,2001
+2575,1B,2B,Caught Stealing 3B,122027,Richie Sexson,Paul Lo Duca,3,1,5,True,2002-05-27,Caught,3B,2002
+2068,1B,2B,Stolen Base 2B,122027,Richie Sexson,Geronimo Gil,5,2,6,True,2003-06-15,Stolen,2B,2003
+2231,1B,,Caught Stealing 2B,122027,Richie Sexson,Jason Varitek,2,0,1,False,2003-06-07,Caught,2B,2003
+2924,1B,,Caught Stealing 2B,122027,Richie Sexson,Vance Wilson,2,0,4,False,2003-05-04,Caught,2B,2003
+2951,1B,2B,Stolen Base 2B,122027,Richie Sexson,Mike Piazza,1,2,4,False,2003-05-03,Stolen,2B,2003
+1220,1B,,Caught Stealing 2B,122027,Richie Sexson,Victor Martinez,0,3,3,False,2005-07-28,Caught,2B,2005
+2298,1B,2B,Stolen Base 2B,122027,Richie Sexson,Gregg Zaun,2,7,5,False,2005-05-31,Stolen,2B,2005
+1654,1B,2B,Stolen Base 2B,122027,Richie Sexson,Ramon Hernandez,5,5,7,False,2007-07-18,Stolen,2B,2007
+1712,1B,2B,Stolen Base 2B,122027,Richie Sexson,Gregg Zaun,0,0,2,False,2008-07-01,Stolen,2B,2008

@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+189,1B,,Caught Stealing 2B,407798,Ryan Langerhans,Mike Lieberthal,0,0,5,False,2005-09-22,Caught,2B,2005
+2109,1B,,Caught Stealing 2B,407798,Ryan Langerhans,Jason Kendall,4,5,6,False,2005-06-12,Caught,2B,2005
+510,1B,2B,Stolen Base 2B,407798,Ryan Langerhans,Brian McCann,3,5,7,True,2007-09-09,Stolen,2B,2007
+1639,1B,2B,Stolen Base 2B,407798,Ryan Langerhans,Yorvit Torrealba,1,4,4,False,2007-07-19,Stolen,2B,2007
+2436,1B,2B,Stolen Base 2B,407798,Ryan Langerhans,Alberto Castillo,3,3,4,True,2007-06-12,Stolen,2B,2007
+2051,1B,2B,Stolen Base 2B,407798,Ryan Langerhans,Jamie Burke,2,4,8,True,2008-06-14,Stolen,2B,2008
+2432,1B,2B,Stolen Base 2B,407798,Ryan Langerhans,Michael Barrett,2,2,7,True,2008-05-29,Stolen,2B,2008
+655,1B,,Caught Stealing 2B,407798,Ryan Langerhans,Francisco Cervelli,0,3,2,True,2009-07-02,Caught,2B,2009
+1602,1B,2B,Stolen Base 2B,407798,Ryan Langerhans,Jeff Mathis,1,0,5,True,2010-07-18,Stolen,2B,2010
+1908,1B,2B,Stolen Base 2B,407798,Ryan Langerhans,Jorge Posada,2,0,5,True,2010-07-01,Stolen,2B,2010
+2360,1B,2B,Stolen Base 2B,407798,Ryan Langerhans,Matt Treanor,7,3,5,True,2010-06-10,Stolen,2B,2010
+3086,1B,2B,Stolen Base 2B,407798,Ryan Langerhans,Mike Napoli,5,1,8,False,2010-05-09,Stolen,2B,2010
+3947,1B,,Caught Stealing 2B,407798,Ryan Langerhans,Chris Iannetta,8,11,8,True,2010-04-02,Caught,2B,2010
+40,1B,2B,Stolen Base 2B,407798,Ryan Langerhans,Jose Lobaton,5,1,5,False,2013-09-28,Stolen,2B,2013

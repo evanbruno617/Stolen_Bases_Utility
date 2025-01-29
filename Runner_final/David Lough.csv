@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,893,1B,,Caught Stealing 2B,518953,David Lough,451788,Shaun Marcum,592518,Manny Machado,R,Yan Gomes,543228,0,2,5,True,2015-06-05,Caught,2B,2015,2016,27.6
+1,1039,1B,,Caught Stealing 2B,518953,David Lough,448178,Kevin Jepsen,543376,Caleb Joseph,R,René Rivera,425784,1,1,7,False,2015-05-29,Caught,2B,2015,2016,27.6
+2,1046,1B,2B,Stolen Base 2B,518953,David Lough,571476,Chris Beck,592518,Manny Machado,R,Geovany Soto,434567,2,1,2,False,2015-05-28,Stolen,2B,2015,2016,27.6
+3,1366,1B,,Caught Stealing 2B,518953,David Lough,521230,Liam Hendriks,543376,Caleb Joseph,R,Russell Martin,431145,5,0,7,False,2015-05-13,Caught,2B,2015,2016,27.6
+4,1663,1B,2B,Stolen Base 2B,518953,David Lough,571476,Chris Beck,592518,Manny Machado,R,Geovany Soto,434567,2,1,2,False,2015-04-28,Stolen,2B,2015,2016,27.6

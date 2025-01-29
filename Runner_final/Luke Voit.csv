@@ -1,0 +1,2 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1747,1B,2B,Stolen Base 2B,572228,Luke Voit,502171,Alex Cobb,543333,Eric Hosmer,R,Joey Bart,663698,6,0,2,True,2022-04-12,Stolen,2B,2022,2023,24.9

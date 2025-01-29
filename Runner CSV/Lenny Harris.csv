@@ -1,0 +1,27 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+417,1B,2B,Stolen Base 2B,115529,Lenny Harris,Raul Casanova,0,1,1,False,2000-09-13,Stolen,2B,2000
+952,1B,2B,Stolen Base 2B,115529,Lenny Harris,Wiki Gonzalez,0,0,1,True,2000-08-22,Stolen,2B,2000
+976,1B,2B,Stolen Base 2B,115529,Lenny Harris,Todd Hundley,0,4,2,True,2000-08-20,Stolen,2B,2000
+977,2B,3B,Stolen Base 2B,115529,Lenny Harris,Todd Hundley,0,4,2,True,2000-08-20,Stolen,2B,2000
+1512,1B,,Caught Stealing 2B,115529,Lenny Harris,Mike Matheny,3,1,7,False,2000-07-28,Caught,2B,2000
+1541,1B,2B,Stolen Base 2B,115529,Lenny Harris,Lenny Webster,3,2,3,False,2000-07-27,Stolen,2B,2000
+1717,1B,2B,Stolen Base 2B,115529,Lenny Harris,Darrin Fletcher,3,3,5,True,2000-07-18,Stolen,2B,2000
+1740,1B,2B,Stolen Base 2B,115529,Lenny Harris,Darrin Fletcher,0,0,1,True,2000-07-17,Stolen,2B,2000
+1742,1B,2B,Stolen Base 2B,115529,Lenny Harris,Darrin Fletcher,5,5,8,True,2000-07-17,Stolen,2B,2000
+1945,1B,2B,Stolen Base 2B,115529,Lenny Harris,Mike Redmond,0,0,1,True,2000-07-04,Stolen,2B,2000
+2973,1B,2B,Stolen Base 2B,115529,Lenny Harris,Mike Piazza,4,3,9,True,2000-05-19,Stolen,2B,2000
+2974,2B,3B,Stolen Base 3B,115529,Lenny Harris,Mike Piazza,4,3,9,True,2000-05-19,Stolen,3B,2000
+3582,1B,2B,Stolen Base 2B,115529,Lenny Harris,Bobby Estalella,6,10,8,False,2000-04-23,Stolen,2B,2000
+3772,1B,2B,Stolen Base 2B,115529,Lenny Harris,Bobby Estalella,4,7,8,True,2000-04-15,Stolen,2B,2000
+3974,1B,2B,Stolen Base 2B,115529,Lenny Harris,Mike Lieberthal,2,0,4,False,2000-04-06,Stolen,2B,2000
+73,1B,2B,Stolen Base 2B,115529,Lenny Harris,Charles Johnson,1,6,8,True,2001-06-02,Stolen,2B,2001
+323,1B,,Caught Stealing 2B,115529,Lenny Harris,Michael Barrett,2,4,9,True,2001-05-23,Caught,2B,2001
+1319,1B,2B,Stolen Base 2B,115529,Lenny Harris,Jason LaRue,2,3,8,False,2001-04-13,Stolen,2B,2001
+534,1B,2B,Stolen Base 2B,115529,Lenny Harris,Todd Hundley,1,0,2,True,2002-09-03,Stolen,2B,2002
+651,1B,2B,Stolen Base 2B,115529,Lenny Harris,Todd Hundley,1,1,3,False,2002-08-28,Stolen,2B,2002
+652,2B,3B,Stolen Base 2B,115529,Lenny Harris,Todd Hundley,1,1,3,False,2002-08-28,Stolen,2B,2002
+917,1B,2B,Stolen Base 2B,115529,Lenny Harris,Jason Kendall,0,2,1,True,2002-08-16,Stolen,2B,2002
+2285,1B,,Caught Stealing 2B,115529,Lenny Harris,Keith Osik,1,1,4,True,2002-06-09,Caught,2B,2002
+3331,1B,2B,Stolen Base 2B,115529,Lenny Harris,Vance Wilson,1,0,5,True,2002-04-27,Stolen,2B,2002
+1409,2B,3B,Stolen Base 3B,115529,Lenny Harris,Javy Lopez,5,7,5,True,2003-07-21,Stolen,3B,2003
+1971,1B,,Caught Stealing 2B,115529,Lenny Harris,Bengie Molina,5,7,9,True,2005-06-19,Caught,2B,2005

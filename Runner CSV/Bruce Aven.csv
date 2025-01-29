@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1533,1B,,Caught Stealing 2B,110394,Bruce Aven,Henry Blanco,3,2,4,False,2000-07-27,Caught,2B,2000
+2168,2B,,Caught Stealing 3B,110394,Bruce Aven,Mike Piazza,3,6,5,True,2000-06-24,Caught,3B,2000
+2364,1B,2B,Stolen Base 2B,110394,Bruce Aven,Javy Lopez,0,0,4,False,2000-06-15,Stolen,2B,2000
+2688,2B,,Caught Stealing 3B,110394,Bruce Aven,Gregg Zaun,4,3,7,False,2000-06-02,Caught,3B,2000
+3984,2B,3B,Stolen Base 3B,110394,Bruce Aven,Mitch Meluskey,6,0,7,False,2000-04-06,Stolen,3B,2000
+2918,1B,2B,Stolen Base 2B,110394,Bruce Aven,Geronimo Gil,1,0,4,False,2002-05-15,Stolen,2B,2002

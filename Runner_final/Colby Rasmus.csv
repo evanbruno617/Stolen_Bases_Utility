@@ -1,0 +1,19 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2601,1B,2B,Stolen Base 2B,458675,Colby Rasmus,501925,Joe Smith,605227,Taylor Featherston,R,Russell Martin,431145,6,6,8,True,2017-06-14,Stolen,2B,2017,2018,25.9
+1,1973,1B,2B,Stolen Base 2B,458675,Colby Rasmus,501925,Joe Smith,605227,Taylor Featherston,R,Russell Martin,431145,6,6,8,True,2017-06-14,Stolen,2B,2017,2018,25.9
+2,6236,1B,2B,Stolen Base 2B,458675,Colby Rasmus,501817,Tony Barnette,472528,Luis Valbuena,R,Bobby Wilson,435064,4,5,7,True,2016-06-06,Stolen,2B,2016,2017,27.2
+3,6288,1B,2B,Stolen Base 2B,458675,Colby Rasmus,534910,Jesse Hahn,594828,Evan Gattis,R,Stephen Vogt,519390,2,0,1,False,2016-06-03,Stolen,2B,2016,2017,27.2
+4,6692,1B,2B,Stolen Base 2B,458675,Colby Rasmus,518886,Craig Kimbrel,472528,Luis Valbuena,R,Ryan Hanigan,452672,6,7,9,True,2016-05-13,Stolen,2B,2016,2017,27.2
+5,7162,1B,2B,Stolen Base 2B,458675,Colby Rasmus,474521,Shawn Tolleson,605512,Preston Tucker,R,Brett Nicholas,592592,7,4,9,True,2016-04-19,Stolen,2B,2016,2017,27.2
+6,7250,1B,,Caught Stealing 2B,458675,Colby Rasmus,453178,Ian Kennedy,643603,Tyler White,R,Salvador Perez,521692,0,1,2,False,2016-04-14,Caught,2B,2016,2017,27.2
+7,2201,1B,2B,Stolen Base 2B,458675,Colby Rasmus,501817,Tony Barnette,472528,Luis Valbuena,R,Bobby Wilson,435064,4,5,7,True,2016-06-06,Stolen,2B,2016,2017,27.2
+8,2253,1B,2B,Stolen Base 2B,458675,Colby Rasmus,534910,Jesse Hahn,594828,Evan Gattis,R,Stephen Vogt,519390,2,0,1,False,2016-06-03,Stolen,2B,2016,2017,27.2
+9,2657,1B,2B,Stolen Base 2B,458675,Colby Rasmus,518886,Craig Kimbrel,472528,Luis Valbuena,R,Ryan Hanigan,452672,6,7,9,True,2016-05-13,Stolen,2B,2016,2017,27.2
+10,3127,1B,2B,Stolen Base 2B,458675,Colby Rasmus,474521,Shawn Tolleson,605512,Preston Tucker,R,Brett Nicholas,592592,7,4,9,True,2016-04-19,Stolen,2B,2016,2017,27.2
+11,3215,1B,,Caught Stealing 2B,458675,Colby Rasmus,453178,Ian Kennedy,643603,Tyler White,R,Salvador Perez,521692,0,1,2,False,2016-04-14,Caught,2B,2016,2017,27.2
+12,5608,1B,2B,Stolen Base 2B,458675,Colby Rasmus,501817,Tony Barnette,472528,Luis Valbuena,R,Bobby Wilson,435064,4,5,7,True,2016-06-06,Stolen,2B,2016,2017,27.2
+13,5660,1B,2B,Stolen Base 2B,458675,Colby Rasmus,534910,Jesse Hahn,594828,Evan Gattis,R,Stephen Vogt,519390,2,0,1,False,2016-06-03,Stolen,2B,2016,2017,27.2
+14,6064,1B,2B,Stolen Base 2B,458675,Colby Rasmus,518886,Craig Kimbrel,472528,Luis Valbuena,R,Ryan Hanigan,452672,6,7,9,True,2016-05-13,Stolen,2B,2016,2017,27.2
+15,6534,1B,2B,Stolen Base 2B,458675,Colby Rasmus,474521,Shawn Tolleson,605512,Preston Tucker,R,Brett Nicholas,592592,7,4,9,True,2016-04-19,Stolen,2B,2016,2017,27.2
+16,6622,1B,,Caught Stealing 2B,458675,Colby Rasmus,453178,Ian Kennedy,643603,Tyler White,R,Salvador Perez,521692,0,1,2,False,2016-04-14,Caught,2B,2016,2017,27.2
+17,1667,1B,2B,Stolen Base 2B,458675,Colby Rasmus,475115,Tyson Ross,474892,Chris Carter,R,Derek Norris,519083,1,3,4,True,2015-04-28,Stolen,2B,2015,2016,28.0

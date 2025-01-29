@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+466,3B,score,Stolen Base Home,455126,Chris Nelson,Ramon Hernandez,6,5,8,False,2010-09-09,Stolen,Home,2010
+2345,1B,2B,Stolen Base 2B,455126,Chris Nelson,Russell Martin,2,4,6,True,2011-06-24,Stolen,2B,2011
+2565,1B,2B,Stolen Base 2B,455126,Chris Nelson,Nick Hundley,1,2,4,False,2011-06-14,Stolen,2B,2011
+2884,2B,3B,Stolen Base 3B,455126,Chris Nelson,Dioner Navarro,2,0,3,True,2011-05-31,Stolen,3B,2011
+284,1B,2B,Stolen Base 2B,455126,Chris Nelson,Héctor Sánchez,0,0,2,True,2012-09-18,Stolen,2B,2012
+3812,1B,,Caught Stealing 2B,455126,Chris Nelson,Nick Hundley,8,4,8,False,2012-04-18,Caught,2B,2012
+3866,2B,3B,Stolen Base 3B,455126,Chris Nelson,Nick Hundley,1,5,5,False,2012-04-16,Stolen,3B,2012
+719,1B,,Caught Stealing 2B,455126,Chris Nelson,José Molina,0,0,2,True,2013-08-27,Caught,2B,2013
+1036,1B,2B,Stolen Base 2B,455126,Chris Nelson,Carlos Santana,0,5,5,True,2013-08-11,Stolen,2B,2013
+2417,1B,2B,Stolen Base 2B,455126,Chris Nelson,Jason Castro,2,3,5,False,2013-05-31,Stolen,2B,2013
+733,1B,,Caught Stealing 2B,455126,Chris Nelson,Jonathan Lucroy,2,2,9,False,2014-08-27,Caught,2B,2014
+998,1B,,Caught Stealing 2B,455126,Chris Nelson,Michael McKenry,5,3,8,False,2014-08-13,Caught,2B,2014
+1181,1B,2B,Stolen Base 2B,455126,Chris Nelson,Gerald Laird,4,3,10,False,2014-08-03,Stolen,2B,2014

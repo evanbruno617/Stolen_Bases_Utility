@@ -1,0 +1,11 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1560,2B,,Caught Stealing 3B,680779,Henry Davis,663158,Robert Suarez,682848,Endy Rodríguez,R,Luis Campusano,669134,1,3,9,True,2023-07-26,Caught,3B,2023,2024,27.7
+1,1795,2B,3B,Stolen Base 3B,680779,Henry Davis,663941,Tristan Beck,669707,Jared Triolo,R,Patrick Bailey,672275,2,3,6,False,2023-07-16,Stolen,3B,2023,2024,27.7
+2,1868,1B,,Caught Stealing 2B,680779,Henry Davis,605177,Andrew Chafin,467793,Carlos Santana,L,Carson Kelly,608348,2,3,8,True,2023-07-09,Caught,2B,2023,2024,27.7
+3,2154,1B,2B,Stolen Base 2B,680779,Henry Davis,472610,Luis García,467793,Carlos Santana,R,Gary Sánchez,596142,7,1,7,False,2023-06-28,Stolen,2B,2023,2024,27.7
+4,2266,1B,2B,Stolen Base 2B,680779,Henry Davis,656945,Tanner Scott,666801,Rodolfo Castro,L,Nick Fortes,663743,1,0,8,True,2023-06-23,Stolen,2B,2023,2024,27.7
+5,5974,2B,,Caught Stealing 3B,680779,Henry Davis,663158,Robert Suarez,682848,Endy Rodríguez,R,Luis Campusano,669134,1,3,9,True,2023-07-26,Caught,3B,2023,2024,27.7
+6,6209,2B,3B,Stolen Base 3B,680779,Henry Davis,663941,Tristan Beck,669707,Jared Triolo,R,Patrick Bailey,672275,2,3,6,False,2023-07-16,Stolen,3B,2023,2024,27.7
+7,6282,1B,,Caught Stealing 2B,680779,Henry Davis,605177,Andrew Chafin,467793,Carlos Santana,L,Carson Kelly,608348,2,3,8,True,2023-07-09,Caught,2B,2023,2024,27.7
+8,6568,1B,2B,Stolen Base 2B,680779,Henry Davis,472610,Luis García,467793,Carlos Santana,R,Gary Sánchez,596142,7,1,7,False,2023-06-28,Stolen,2B,2023,2024,27.7
+9,6680,1B,2B,Stolen Base 2B,680779,Henry Davis,656945,Tanner Scott,666801,Rodolfo Castro,L,Nick Fortes,663743,1,0,8,True,2023-06-23,Stolen,2B,2023,2024,27.7

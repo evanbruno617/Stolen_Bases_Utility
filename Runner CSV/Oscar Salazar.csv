@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+187,1B,,Caught Stealing 2B,400073,Oscar Salazar,Chad Moeller,0,0,2,True,2008-09-20,Caught,2B,2008
+1855,1B,,Caught Stealing 2B,400073,Oscar Salazar,Jason Castro,0,0,2,False,2010-07-03,Caught,2B,2010
+3014,1B,2B,Stolen Base 2B,400073,Oscar Salazar,Bengie Molina,2,5,8,True,2010-05-12,Stolen,2B,2010
+3043,1B,,Caught Stealing 2B,400073,Oscar Salazar,Eli Whiteside,2,3,7,True,2010-05-11,Caught,2B,2010

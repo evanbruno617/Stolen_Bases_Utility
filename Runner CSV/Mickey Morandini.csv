@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+543,1B,2B,Stolen Base 2B,119347,Mickey Morandini,Dan Wilson,0,0,3,False,2000-09-07,Stolen,2B,2000
+1510,1B,2B,Stolen Base 2B,119347,Mickey Morandini,Chad Kreuter,0,2,4,False,2000-07-28,Stolen,2B,2000
+1554,1B,2B,Stolen Base 2B,119347,Mickey Morandini,Joe Girardi,0,0,1,False,2000-07-26,Stolen,2B,2000
+2271,1B,,Caught Stealing 2B,119347,Mickey Morandini,Fernando Lunar,0,1,5,False,2000-06-19,Caught,2B,2000
+2398,1B,2B,Stolen Base 2B,119347,Mickey Morandini,Paul Bako,1,1,2,False,2000-06-13,Stolen,2B,2000
+2558,1B,2B,Stolen Base 2B,119347,Mickey Morandini,Mike DiFelice,1,2,3,False,2000-06-06,Stolen,2B,2000
+2918,1B,,Caught Stealing 2B,119347,Mickey Morandini,Scott Servais,0,0,1,False,2000-05-21,Caught,2B,2000
+3935,1B,2B,Stolen Base 2B,119347,Mickey Morandini,Mitch Meluskey,4,2,4,True,2000-04-08,Stolen,2B,2000

@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+239,1B,2B,Stolen Base 2B,543068,C.J. Cron,Kurt Suzuki,5,6,2,True,2015-09-17,Stolen,2B,2015
+564,3B,score,Stolen Base Home,543068,C.J. Cron,Josh Phegley,0,3,3,True,2015-08-31,Stolen,Home,2015
+638,1B,,Caught Stealing 2B,543068,C.J. Cron,Alex Avila,0,0,2,True,2015-08-27,Caught,2B,2015
+909,1B,2B,Stolen Base 2B,543068,C.J. Cron,Tyler Flowers,0,0,2,True,2015-08-12,Stolen,2B,2015
+1195,1B,,Caught Stealing 2B,543068,C.J. Cron,Brian McCann,0,1,4,True,2016-06-09,Caught,2B,2016
+1754,1B,2B,Stolen Base 2B,543068,C.J. Cron,Yadier Molina,0,2,2,False,2016-05-10,Stolen,2B,2016
+2007,2B,,Caught Stealing 3B,543068,C.J. Cron,Salvador Perez,8,4,7,False,2016-04-26,Caught,3B,2016
+187,1B,,Caught Stealing 2B,543068,C.J. Cron,Yan Gomes,1,4,5,False,2017-09-21,Caught,2B,2017
+257,1B,2B,Stolen Base 2B,543068,C.J. Cron,Robinson Chirinos,0,3,3,False,2017-09-17,Stolen,2B,2017
+1085,1B,2B,Stolen Base 2B,543068,C.J. Cron,Bruce Maxwell,2,6,6,False,2017-08-04,Stolen,2B,2017
+1893,1B,2B,Stolen Base 2B,543068,C.J. Cron,Salvador Perez,3,7,6,False,2017-06-18,Stolen,2B,2017
+1982,1B,,Caught Stealing 2B,543068,C.J. Cron,Gary Sánchez,1,0,4,False,2017-06-13,Caught,2B,2017
+1429,1B,,Caught Stealing 2B,543068,C.J. Cron,Mitch Garver,1,3,3,True,2018-07-15,Caught,2B,2018
+2481,1B,2B,Stolen Base 2B,543068,C.J. Cron,Martín Maldonado,0,4,7,True,2018-05-17,Stolen,2B,2018
+3155,1B,,Caught Stealing 2B,543068,C.J. Cron,Welington Castillo,1,5,6,True,2018-04-10,Caught,2B,2018
+1010,1B,2B,Stolen Base 2B,543068,C.J. Cron,Kurt Suzuki,0,2,1,True,2021-07-27,Stolen,2B,2021

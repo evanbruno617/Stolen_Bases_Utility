@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1005,1B,2B,Stolen Base 2B,450260,Kevin Kouzmanoff,Yorvit Torrealba,10,6,5,False,2007-08-16,Stolen,2B,2007
+1378,1B,2B,Caught Stealing 3B,450260,Kevin Kouzmanoff,Yorvit Torrealba,0,5,7,True,2009-05-31,Caught,3B,2009
+1906,1B,2B,Stolen Base 2B,450260,Kevin Kouzmanoff,J.R. Towles,3,4,8,True,2009-05-09,Stolen,2B,2009
+715,1B,2B,Stolen Base 2B,450260,Kevin Kouzmanoff,Matt Treanor,0,5,7,True,2010-08-28,Stolen,2B,2010
+1466,3B,,Caught Stealing Home,450260,Kevin Kouzmanoff,Ramon Castro,7,2,4,False,2010-07-24,Caught,Home,2010
+2229,1B,2B,Stolen Base 2B,450260,Kevin Kouzmanoff,Geovany Soto,1,1,6,True,2010-06-17,Stolen,2B,2010
+3803,1B,2B,Stolen Base 2B,450260,Kevin Kouzmanoff,Miguel Olivo,1,1,2,True,2011-04-24,Stolen,2B,2011
+4175,1B,2B,Stolen Base 2B,450260,Kevin Kouzmanoff,Joe Mauer,0,5,8,True,2011-04-10,Stolen,2B,2011

@@ -1,0 +1,23 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+77,1B,,Caught Stealing 2B,656305,Matt Chapman,Mike Marjama,5,3,5,False,2017-09-27,Caught,2B,2017
+880,2B,,Caught Stealing 3B,656305,Matt Chapman,Drew Butera,4,3,6,False,2017-08-15,Caught,3B,2017
+1586,1B,,Caught Stealing 2B,656305,Matt Chapman,Kevan Smith,6,5,6,False,2017-07-04,Caught,2B,2017
+1589,2B,3B,Stolen Base 3B,656305,Matt Chapman,Yan Gomes,3,6,11,True,2018-07-07,Stolen,3B,2018
+2175,1B,,Caught Stealing 2B,656305,Matt Chapman,Salvador Perez,1,1,6,True,2018-06-03,Caught,2B,2018
+2744,1B,,Caught Stealing 2B,656305,Matt Chapman,Mike Zunino,1,1,5,True,2018-05-01,Caught,2B,2018
+527,1B,2B,Stolen Base 2B,656305,Matt Chapman,Austin Romine,2,5,7,True,2019-08-30,Stolen,2B,2019
+2826,1B,,Caught Stealing 2B,656305,Matt Chapman,Jesús Sucre,4,2,3,True,2019-04-08,Caught,2B,2019
+220,1B,,Caught Stealing 2B,656305,Matt Chapman,Max Stassi,4,5,6,True,2021-09-17,Caught,2B,2021
+783,1B,,Caught Stealing 2B,656305,Matt Chapman,Austin Hedges,2,2,7,True,2021-08-11,Caught,2B,2021
+906,1B,2B,Stolen Base 2B,656305,Matt Chapman,Austin Nola,0,4,2,False,2021-08-03,Stolen,2B,2021
+1030,1B,2B,Stolen Base 2B,656305,Matt Chapman,Tom Murphy,0,0,2,True,2021-07-25,Stolen,2B,2021
+2242,1B,2B,Stolen Base 2B,656305,Matt Chapman,Mike Zunino,3,2,6,False,2021-05-08,Stolen,2B,2021
+399,1B,,Caught Stealing 2B,656305,Matt Chapman,Jonah Heim,1,3,4,True,2022-09-09,Caught,2B,2022
+757,1B,2B,Stolen Base 2B,656305,Matt Chapman,Jose Trevino,0,0,2,True,2022-08-20,Stolen,2B,2022
+1092,1B,,Caught Stealing 2B,656305,Matt Chapman,Christian Bethancourt,0,1,4,True,2022-08-02,Caught,2B,2022
+1272,1B,2B,Stolen Base 2B,656305,Matt Chapman,Christian Vázquez,1,4,9,True,2022-07-23,Stolen,2B,2022
+165,1B,2B,Stolen Base 2B,656305,Matt Chapman,René Pinto,5,6,8,True,2023-09-24,Stolen,2B,2023
+2089,1B,2B,Stolen Base 2B,656305,Matt Chapman,Connor Wong,1,0,2,False,2023-07-01,Stolen,2B,2023
+3016,1B,2B,Stolen Base 2B,656305,Matt Chapman,Francisco Mejía,0,4,5,True,2023-05-23,Stolen,2B,2023
+4049,2B,3B,Stolen Base 3B,656305,Matt Chapman,Logan O'Hoppe,6,8,7,True,2023-04-09,Stolen,3B,2023
+4096,3B,,Caught Stealing Home,656305,Matt Chapman,Logan O'Hoppe,2,1,4,True,2023-04-07,Caught,Home,2023

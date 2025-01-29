@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,5995,1B,,Caught Stealing 2B,492841,Michael Martinez,474029,Zach Putnam,434658,Rajai Davis,R,Alex Avila,488671,2,2,7,False,2016-06-19,Caught,2B,2016,2017,27.7
+1,6158,1B,,Caught Stealing 2B,492841,Michael Martinez,501625,Jose Alvarez,434658,Rajai Davis,L,Carlos Pérez,542208,1,6,6,True,2016-06-10,Caught,2B,2016,2017,27.7
+2,1960,1B,,Caught Stealing 2B,492841,Michael Martinez,474029,Zach Putnam,434658,Rajai Davis,R,Alex Avila,488671,2,2,7,False,2016-06-19,Caught,2B,2016,2017,27.7
+3,2123,1B,,Caught Stealing 2B,492841,Michael Martinez,501625,Jose Alvarez,434658,Rajai Davis,L,Carlos Pérez,542208,1,6,6,True,2016-06-10,Caught,2B,2016,2017,27.7
+4,5367,1B,,Caught Stealing 2B,492841,Michael Martinez,474029,Zach Putnam,434658,Rajai Davis,R,Alex Avila,488671,2,2,7,False,2016-06-19,Caught,2B,2016,2017,27.7
+5,5530,1B,,Caught Stealing 2B,492841,Michael Martinez,501625,Jose Alvarez,434658,Rajai Davis,L,Carlos Pérez,542208,1,6,6,True,2016-06-10,Caught,2B,2016,2017,27.7

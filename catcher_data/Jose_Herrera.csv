@@ -1,0 +1,30 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,623993,Anthony Santander,Jose Herrera,0,2,1,True,2023-09-03,Stolen,2B,2023
+3B,,Caught Stealing Home,668939,Adley Rutschman,Jose Herrera,1,4,2,True,2023-09-03,Caught,Home,2023
+1B,2B,Stolen Base 2B,680574,Matt McLain,Jose Herrera,0,0,1,True,2023-08-26,Stolen,2B,2023
+2B,3B,Stolen Base 3B,682829,Elly De La Cruz,Jose Herrera,4,2,8,True,2023-08-26,Stolen,3B,2023
+1B,2B,Stolen Base 2B,682622,Noelvi Marte,Jose Herrera,4,2,9,True,2023-08-26,Stolen,2B,2023
+1B,,Caught Stealing 2B,678662,Ezequiel Tovar,Jose Herrera,1,2,1,False,2023-08-16,Caught,2B,2023
+1B,,Caught Stealing 2B,621035,Chris Taylor,Jose Herrera,0,0,7,True,2023-08-09,Caught,2B,2023
+1B,2B,Stolen Base 2B,444482,David Peralta,Jose Herrera,0,2,8,True,2023-08-09,Stolen,2B,2023
+1B,2B,Stolen Base 2B,650489,Willi Castro,Jose Herrera,2,2,6,False,2023-08-04,Stolen,2B,2023
+1B,2B,Stolen Base 2B,677594,Julio Rodríguez,Jose Herrera,0,0,1,True,2023-07-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,676609,José Caballero,Jose Herrera,0,4,7,True,2023-07-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,608701,Rob Refsnyder,Jose Herrera,1,5,5,True,2023-05-26,Stolen,2B,2023
+1B,,Caught Stealing 2B,607054,Jace Peterson,Jose Herrera,0,1,2,False,2023-05-17,Caught,2B,2023
+1B,,Caught Stealing 2B,669477,Casey Schmitt,Jose Herrera,0,1,5,True,2023-05-13,Caught,2B,2023
+1B,2B,Stolen Base 2B,686668,Brenton Doyle,Jose Herrera,4,9,6,False,2023-04-29,Stolen,2B,2023
+1B,2B,Stolen Base 2B,681546,James Outman,Jose Herrera,1,1,7,False,2023-04-02,Stolen,2B,2023
+1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,Jose Herrera,1,0,1,False,2022-07-30,Caught,2B,2022
+1B,2B,Stolen Base 2B,642731,Thairo Estrada,Jose Herrera,1,2,4,True,2022-07-27,Stolen,2B,2022
+1B,2B,Stolen Base 2B,592626,Joc Pederson,Jose Herrera,4,7,9,True,2022-07-06,Stolen,2B,2022
+1B,2B,Stolen Base 2B,669222,Nick Senzel,Jose Herrera,2,0,2,False,2022-06-06,Stolen,2B,2022
+1B,2B,Stolen Base 2B,518692,Freddie Freeman,Jose Herrera,0,0,1,True,2022-05-27,Stolen,2B,2022
+1B,2B,Stolen Base 2B,669242,Tommy Edman,Jose Herrera,2,5,7,False,2022-04-29,Stolen,2B,2022
+2B,,Caught Stealing 3B,444876,Alcides Escobar,Jose Herrera,0,1,3,False,2022-04-19,Caught,3B,2022
+2B,,Caught Stealing 3B,444876,Alcides Escobar,Jose Herrera,0,1,3,False,2022-04-18,Caught,3B,2022
+1B,2B,Stolen Base 2B,516782,Starling Marte,Jose Herrera,1,0,3,False,2022-04-15,Stolen,2B,2022
+1B,2B,Stolen Base 2B,596019,Francisco Lindor,Jose Herrera,5,1,7,False,2022-04-15,Stolen,2B,2022
+1B,,Caught Stealing 2B,642350,Jose Siri,Jose Herrera,1,1,7,True,2022-04-12,Caught,2B,2022
+1B,2B,Stolen Base 2B,592518,Manny Machado,Jose Herrera,2,2,8,True,2022-04-09,Stolen,2B,2022
+1B,,Caught Stealing 2B,640492,José Azocar,Jose Herrera,2,5,9,True,2022-04-09,Caught,2B,2022

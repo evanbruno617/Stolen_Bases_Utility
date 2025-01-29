@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1091,1B,2B,Caught Stealing 3B,110974,Dante Bichette,Henry Blanco,0,3,3,True,2000-08-14,Caught,3B,2000
+1699,1B,,Caught Stealing 2B,110974,Dante Bichette,Mitch Meluskey,0,4,7,True,2000-07-19,Caught,2B,2000
+2025,1B,2B,Stolen Base 2B,110974,Dante Bichette,Kelly Stinnett,2,4,8,True,2000-06-30,Stolen,2B,2000
+2512,1B,2B,Stolen Base 2B,110974,Dante Bichette,Sandy Alomar Jr.,6,4,5,True,2000-06-09,Stolen,2B,2000
+2697,1B,2B,Stolen Base 2B,110974,Dante Bichette,Charlie O'Brien,2,6,4,False,2000-06-01,Stolen,2B,2000
+2887,1B,,Caught Stealing 2B,110974,Dante Bichette,Todd Hundley,1,2,4,True,2000-05-23,Caught,2B,2000
+3321,1B,2B,Stolen Base 2B,110974,Dante Bichette,Mike Matheny,1,2,4,False,2000-05-05,Stolen,2B,2000
+3596,1B,2B,Stolen Base 2B,110974,Dante Bichette,Todd Hundley,2,3,5,False,2000-04-23,Stolen,2B,2000

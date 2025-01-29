@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+193,1B,2B,Stolen Base 2B,430622,Cory Sullivan,Ramon Hernandez,1,2,3,False,2005-09-21,Stolen,2B,2005
+337,1B,2B,Stolen Base 2B,430622,Cory Sullivan,Dioner Navarro,0,0,1,True,2005-09-14,Stolen,2B,2005
+373,1B,,Caught Stealing 2B,430622,Cory Sullivan,Dioner Navarro,5,0,4,True,2005-09-12,Caught,2B,2005
+718,1B,2B,Stolen Base 2B,430622,Cory Sullivan,Dioner Navarro,0,0,1,True,2005-08-25,Stolen,2B,2005
+1038,1B,2B,Stolen Base 2B,430622,Cory Sullivan,Ryan Jorgensen,5,3,8,False,2005-08-08,Stolen,2B,2005
+1245,1B,2B,Stolen Base 2B,430622,Cory Sullivan,Ramon Castro,2,9,5,False,2005-07-27,Stolen,2B,2005
+1408,1B,,Caught Stealing 2B,430622,Cory Sullivan,Brian Schneider,2,3,6,True,2005-07-20,Caught,2B,2005
+1669,1B,2B,Stolen Base 2B,430622,Cory Sullivan,Jason Phillips,1,0,1,False,2005-07-04,Stolen,2B,2005
+2044,1B,2B,Stolen Base 2B,430622,Cory Sullivan,Victor Martinez,2,1,9,True,2005-06-16,Stolen,2B,2005
+2153,1B,2B,Stolen Base 2B,430622,Cory Sullivan,Chris Widger,0,3,1,False,2005-06-08,Stolen,2B,2005
+2213,2B,3B,Stolen Base 3B,430622,Cory Sullivan,Javier Valentin,2,1,2,False,2005-06-05,Stolen,3B,2005
+2506,1B,2B,Stolen Base 2B,430622,Cory Sullivan,Humberto Cota,1,0,3,True,2005-05-22,Stolen,2B,2005
+2683,1B,2B,Stolen Base 2B,430622,Cory Sullivan,Chris Snyder,2,3,8,False,2005-05-12,Stolen,2B,2005
+2997,1B,2B,Stolen Base 2B,430622,Cory Sullivan,Ryan Jorgensen,5,3,8,False,2005-04-28,Stolen,2B,2005
+3012,1B,2B,Stolen Base 2B,430622,Cory Sullivan,Ryan Jorgensen,5,3,8,False,2005-04-27,Stolen,2B,2005
+1100,1B,2B,Stolen Base 2B,430622,Cory Sullivan,Jason Kendall,6,3,7,False,2007-08-12,Stolen,2B,2007
+1932,1B,2B,Stolen Base 2B,430622,Cory Sullivan,Paul Lo Duca,2,3,3,False,2007-07-04,Stolen,2B,2007
+1141,1B,2B,Stolen Base 2B,430622,Cory Sullivan,John Baker,2,2,9,True,2008-08-03,Stolen,2B,2008
+172,1B,2B,Stolen Base 2B,430622,Cory Sullivan,Ivan Rodriguez,3,5,5,True,2009-07-26,Stolen,2B,2009

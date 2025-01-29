@@ -1,0 +1,4 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,592881,Kyle Wren,Parker Berberet,1,0,1,False,2016-04-02,Stolen,2B,2016
+1B,,Caught Stealing 2B,644337,Nate Orf,Parker Berberet,1,0,1,False,2016-04-02,Caught,2B,2016
+1B,2B,Stolen Base 2B,592881,Kyle Wren,Parker Berberet,2,5,6,False,2016-04-02,Stolen,2B,2016

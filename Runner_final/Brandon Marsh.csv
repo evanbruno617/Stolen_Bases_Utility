@@ -1,0 +1,47 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,19,1B,2B,Stolen Base 2B,669016,Brandon Marsh,623454,Drew Anderson,660271,Shohei Ohtani,R,Jonah Heim,641680,3,5,4,True,2021-09-30,Stolen,2B,2021,2022,28.8
+1,131,1B,2B,Stolen Base 2B,669016,Brandon Marsh,677651,Luis Garcia,608686,Jack Mayfield,R,Jason Castro,488771,0,2,3,False,2021-09-22,Stolen,2B,2021,2022,28.8
+2,297,1B,2B,Stolen Base 2B,669016,Brandon Marsh,621121,Lance McCullers Jr.,608686,Jack Mayfield,R,Martín Maldonado,455117,1,0,2,True,2021-09-12,Stolen,2B,2021,2022,28.8
+3,575,1B,,Caught Stealing 2B,669016,Brandon Marsh,595939,Chris Ellis,666176,Jo Adell,R,Austin Wynns,642851,2,2,2,True,2021-08-25,Caught,2B,2021,2022,28.8
+4,740,1B,2B,Stolen Base 2B,669016,Brandon Marsh,677651,Luis Garcia,666176,Jo Adell,R,Jason Castro,488771,2,0,2,False,2021-08-14,Stolen,2B,2021,2022,28.8
+5,814,1B,2B,Stolen Base 2B,669016,Brandon Marsh,548389,Ross Stripling,501571,Juan Lagares,R,Alejandro Kirk,672386,0,2,2,False,2021-08-10,Stolen,2B,2021,2022,28.8
+6,1142,1B,2B,Stolen Base 2B,669016,Brandon Marsh,621076,James Kaprielian,594809,Adam Eaton,R,Sean Murphy,669221,1,0,6,True,2021-07-20,Stolen,2B,2021,2022,28.8
+7,1943,1B,2B,Stolen Base 2B,669016,Brandon Marsh,623454,Drew Anderson,660271,Shohei Ohtani,R,Jonah Heim,641680,3,5,4,True,2021-09-30,Stolen,2B,2021,2022,28.8
+8,2055,1B,2B,Stolen Base 2B,669016,Brandon Marsh,677651,Luis Garcia,608686,Jack Mayfield,R,Jason Castro,488771,0,2,3,False,2021-09-22,Stolen,2B,2021,2022,28.8
+9,2221,1B,2B,Stolen Base 2B,669016,Brandon Marsh,621121,Lance McCullers Jr.,608686,Jack Mayfield,R,Martín Maldonado,455117,1,0,2,True,2021-09-12,Stolen,2B,2021,2022,28.8
+10,2499,1B,,Caught Stealing 2B,669016,Brandon Marsh,595939,Chris Ellis,666176,Jo Adell,R,Austin Wynns,642851,2,2,2,True,2021-08-25,Caught,2B,2021,2022,28.8
+11,2664,1B,2B,Stolen Base 2B,669016,Brandon Marsh,677651,Luis Garcia,666176,Jo Adell,R,Jason Castro,488771,2,0,2,False,2021-08-14,Stolen,2B,2021,2022,28.8
+12,2738,1B,2B,Stolen Base 2B,669016,Brandon Marsh,548389,Ross Stripling,501571,Juan Lagares,R,Alejandro Kirk,672386,0,2,2,False,2021-08-10,Stolen,2B,2021,2022,28.8
+13,3066,1B,2B,Stolen Base 2B,669016,Brandon Marsh,621076,James Kaprielian,594809,Adam Eaton,R,Sean Murphy,669221,1,0,6,True,2021-07-20,Stolen,2B,2021,2022,28.8
+14,269,1B,2B,Stolen Base 2B,669016,Brandon Marsh,445926,Jesse Chavez,595909,Jake Cave,R,Sean Murphy,669221,2,4,6,True,2023-09-20,Stolen,2B,2023,2024,28.2
+15,524,1B,2B,Stolen Base 2B,669016,Brandon Marsh,663773,Bryan Hoeing,592206,Nick Castellanos,R,Nick Fortes,663743,3,0,4,False,2023-09-10,Stolen,2B,2023,2024,28.2
+16,854,1B,2B,Stolen Base 2B,669016,Brandon Marsh,608678,Dominic Leone,656941,Kyle Schwarber,R,Logan O'Hoppe,681351,6,4,8,False,2023-08-28,Stolen,2B,2023,2024,28.2
+17,1005,1B,2B,Stolen Base 2B,669016,Brandon Marsh,666808,Camilo Doval,656941,Kyle Schwarber,R,Patrick Bailey,672275,2,3,9,False,2023-08-22,Stolen,2B,2023,2024,28.2
+18,1639,1B,,Caught Stealing 2B,669016,Brandon Marsh,680704,Nick Sandlin,595909,Jake Cave,R,Bo Naylor,666310,3,4,6,True,2023-07-23,Caught,2B,2023,2024,28.2
+19,1765,1B,2B,Stolen Base 2B,669016,Brandon Marsh,682842,Abner Uribe,607208,Trea Turner,R,William Contreras,661388,4,2,6,False,2023-07-18,Stolen,2B,2023,2024,28.2
+20,1983,1B,2B,Stolen Base 2B,669016,Brandon Marsh,672715,Luis Patiño,656941,Kyle Schwarber,R,Francisco Mejía,642336,4,8,7,True,2023-07-05,Stolen,2B,2023,2024,28.2
+21,2772,1B,2B,Stolen Base 2B,669016,Brandon Marsh,680686,Josiah Gray,665019,Kody Clemens,R,Keibert Ruiz,660688,2,0,2,True,2023-06-02,Stolen,2B,2023,2024,28.2
+22,3067,1B,2B,Stolen Base 2B,669016,Brandon Marsh,669093,Jeremiah Estrada,664761,Alec Bohm,R,Tucker Barnhart,571466,2,0,8,False,2023-05-21,Stolen,2B,2023,2024,28.2
+23,3164,1B,2B,Stolen Base 2B,669016,Brandon Marsh,502171,Alex Cobb,665019,Kody Clemens,R,Joey Bart,663698,0,0,2,True,2023-05-16,Stolen,2B,2023,2024,28.2
+24,4092,1B,2B,Stolen Base 2B,669016,Brandon Marsh,664139,Ian Gibaut,681082,Bryson Stott,R,Curt Casali,592200,3,2,9,False,2023-04-08,Stolen,2B,2023,2024,28.2
+25,4683,1B,2B,Stolen Base 2B,669016,Brandon Marsh,445926,Jesse Chavez,595909,Jake Cave,R,Sean Murphy,669221,2,4,6,True,2023-09-20,Stolen,2B,2023,2024,28.2
+26,4938,1B,2B,Stolen Base 2B,669016,Brandon Marsh,663773,Bryan Hoeing,592206,Nick Castellanos,R,Nick Fortes,663743,3,0,4,False,2023-09-10,Stolen,2B,2023,2024,28.2
+27,5268,1B,2B,Stolen Base 2B,669016,Brandon Marsh,608678,Dominic Leone,656941,Kyle Schwarber,R,Logan O'Hoppe,681351,6,4,8,False,2023-08-28,Stolen,2B,2023,2024,28.2
+28,5419,1B,2B,Stolen Base 2B,669016,Brandon Marsh,666808,Camilo Doval,656941,Kyle Schwarber,R,Patrick Bailey,672275,2,3,9,False,2023-08-22,Stolen,2B,2023,2024,28.2
+29,6053,1B,,Caught Stealing 2B,669016,Brandon Marsh,680704,Nick Sandlin,595909,Jake Cave,R,Bo Naylor,666310,3,4,6,True,2023-07-23,Caught,2B,2023,2024,28.2
+30,6179,1B,2B,Stolen Base 2B,669016,Brandon Marsh,682842,Abner Uribe,607208,Trea Turner,R,William Contreras,661388,4,2,6,False,2023-07-18,Stolen,2B,2023,2024,28.2
+31,6397,1B,2B,Stolen Base 2B,669016,Brandon Marsh,672715,Luis Patiño,656941,Kyle Schwarber,R,Francisco Mejía,642336,4,8,7,True,2023-07-05,Stolen,2B,2023,2024,28.2
+32,7186,1B,2B,Stolen Base 2B,669016,Brandon Marsh,680686,Josiah Gray,665019,Kody Clemens,R,Keibert Ruiz,660688,2,0,2,True,2023-06-02,Stolen,2B,2023,2024,28.2
+33,7481,1B,2B,Stolen Base 2B,669016,Brandon Marsh,669093,Jeremiah Estrada,664761,Alec Bohm,R,Tucker Barnhart,571466,2,0,8,False,2023-05-21,Stolen,2B,2023,2024,28.2
+34,7578,1B,2B,Stolen Base 2B,669016,Brandon Marsh,502171,Alex Cobb,665019,Kody Clemens,R,Joey Bart,663698,0,0,2,True,2023-05-16,Stolen,2B,2023,2024,28.2
+35,8506,1B,2B,Stolen Base 2B,669016,Brandon Marsh,664139,Ian Gibaut,681082,Bryson Stott,R,Curt Casali,592200,3,2,9,False,2023-04-08,Stolen,2B,2023,2024,28.2
+36,58,1B,2B,Stolen Base 2B,669016,Brandon Marsh,677651,Luis Garcia,683021,Michael Stefanic,R,Martín Maldonado,455117,1,2,2,False,2022-07-12,Stolen,2B,2022,2023,28.6
+37,153,1B,2B,Stolen Base 2B,669016,Brandon Marsh,669330,Tyler Wells,542340,Jonathan Villar,R,Adley Rutschman,668939,0,3,4,True,2022-07-08,Stolen,2B,2022,2023,28.6
+38,168,1B,2B,Stolen Base 2B,669016,Brandon Marsh,543475,Jordan Lyles,435559,Kurt Suzuki,R,Adley Rutschman,668939,0,0,2,True,2022-07-07,Stolen,2B,2022,2023,28.6
+39,491,1B,2B,Stolen Base 2B,669016,Brandon Marsh,621366,Ryan Borucki,623205,Andrew Velazquez,L,Cal Raleigh,663728,0,3,7,True,2022-06-19,Stolen,2B,2022,2023,28.6
+40,1464,1B,2B,Stolen Base 2B,669016,Brandon Marsh,615698,Cal Quantrill,545361,Mike Trout,R,Austin Hedges,595978,3,1,5,False,2022-04-28,Stolen,2B,2022,2023,28.6
+41,1482,1B,2B,Stolen Base 2B,669016,Brandon Marsh,656529,Sam Hentges,545358,Max Stassi,L,Luke Maile,571912,7,2,5,False,2022-04-27,Stolen,2B,2022,2023,28.6
+42,1622,1B,,Caught Stealing 2B,669016,Brandon Marsh,650556,Bryan Abreu,623205,Andrew Velazquez,R,Martín Maldonado,455117,1,7,5,True,2022-04-19,Caught,2B,2022,2023,28.6
+43,1657,1B,2B,Stolen Base 2B,669016,Brandon Marsh,607359,Spencer Patton,621493,Taylor Ward,R,Mitch Garver,641598,3,4,5,True,2022-04-17,Stolen,2B,2022,2023,28.6
+44,1800,1B,,Caught Stealing 2B,669016,Brandon Marsh,434378,Justin Verlander,642180,Tyler Wade,R,Jason Castro,488771,1,0,3,False,2022-04-09,Caught,2B,2022,2023,28.6
+45,1828,1B,2B,Stolen Base 2B,669016,Brandon Marsh,660813,Brusdar Graterol,670351,Jose Rojas,R,Austin Barnes,605131,3,0,6,True,2022-04-05,Stolen,2B,2022,2023,28.6

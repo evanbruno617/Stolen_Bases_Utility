@@ -1,0 +1,22 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,,Caught Stealing 2B,456422,Michael Bourn,Jake Fox,0,1,3,True,2009-07-27,Caught,2B,2009
+1B,,Caught Stealing 2B,453895,Brendan Ryan,Jake Fox,1,2,5,True,2009-07-12,Caught,2B,2009
+1B,2B,Stolen Base 2B,453454,Mike McCoy,Jake Fox,4,4,7,False,2010-09-25,Stolen,2B,2010
+1B,2B,Stolen Base 2B,453269,Brennan Boesch,Jake Fox,0,0,2,False,2010-09-12,Stolen,2B,2010
+1B,2B,Stolen Base 2B,453269,Brennan Boesch,Jake Fox,1,2,7,False,2010-09-12,Stolen,2B,2010
+1B,2B,Stolen Base 2B,334393,Juan Pierre,Jake Fox,1,0,5,True,2010-08-08,Stolen,2B,2010
+2B,3B,Stolen Base 3B,452655,Denard Span,Jake Fox,0,0,1,True,2010-07-24,Stolen,3B,2010
+1B,2B,Stolen Base 2B,458210,Alexi Casilla,Jake Fox,0,0,1,True,2010-07-24,Stolen,2B,2010
+1B,2B,Stolen Base 2B,429666,J.J. Hardy,Jake Fox,2,3,6,True,2010-07-24,Stolen,2B,2010
+1B,2B,Stolen Base 2B,425834,B.J. Upton,Jake Fox,4,4,6,True,2010-07-21,Stolen,2B,2010
+2B,,Caught Stealing 3B,458085,Chris Coghlan,Jake Fox,5,7,9,True,2010-06-23,Caught,3B,2010
+2B,,Caught Stealing 3B,429713,Grady Sizemore,Jake Fox,0,0,1,True,2010-04-25,Caught,3B,2010
+1B,2B,Caught Stealing 3B,425783,Shin-Soo Choo,Jake Fox,0,0,1,True,2010-04-25,Caught,3B,2010
+1B,2B,Stolen Base 2B,400290,Austin Kearns,Jake Fox,0,0,2,True,2010-04-24,Stolen,2B,2010
+1B,2B,Stolen Base 2B,453539,Sam Fuld,Jake Fox,0,1,3,False,2011-05-14,Stolen,2B,2011
+1B,2B,Stolen Base 2B,460051,Chris Getz,Jake Fox,1,1,1,False,2011-05-05,Stolen,2B,2011
+1B,2B,Stolen Base 2B,449107,Mike Aviles,Jake Fox,4,1,1,False,2011-05-05,Stolen,2B,2011
+1B,2B,Stolen Base 2B,461815,David Murphy,Jake Fox,1,0,3,True,2011-04-09,Stolen,2B,2011
+1B,2B,Stolen Base 2B,462101,Elvis Andrus,Jake Fox,1,4,3,True,2011-04-09,Stolen,2B,2011
+1B,2B,Stolen Base 2B,461815,David Murphy,Jake Fox,1,0,3,True,2011-04-08,Stolen,2B,2011
+1B,2B,Stolen Base 2B,462101,Elvis Andrus,Jake Fox,1,4,3,True,2011-04-08,Stolen,2B,2011

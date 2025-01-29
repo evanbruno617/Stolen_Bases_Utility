@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+372,1B,,Caught Stealing 2B,123697,Robin Ventura,Brian Schneider,2,1,2,True,2000-09-14,Caught,2B,2000
+1406,1B,,Caught Stealing 2B,123697,Robin Ventura,Benito Santiago,3,2,8,False,2000-08-01,Caught,2B,2000
+1494,1B,2B,Stolen Base 2B,123697,Robin Ventura,Mike Matheny,3,3,6,False,2000-07-29,Stolen,2B,2000
+2970,1B,,Caught Stealing 2B,123697,Robin Ventura,Damian Miller,0,2,2,False,2000-05-19,Caught,2B,2000
+3199,3B,,Caught Stealing Home,123697,Robin Ventura,Jason Kendall,6,7,7,True,2000-05-10,Caught,Home,2000
+3625,1B,2B,Stolen Base 2B,123697,Robin Ventura,Joe Girardi,1,0,1,False,2000-04-22,Stolen,2B,2000
+3886,1B,2B,Stolen Base 2B,123697,Robin Ventura,Mike Lieberthal,0,3,1,True,2000-04-10,Stolen,2B,2000
+213,3B,,Caught Stealing Home,123697,Robin Ventura,Gary Bennett,1,1,4,False,2001-05-28,Caught,Home,2001
+1207,1B,2B,Stolen Base 2B,123697,Robin Ventura,Michael Barrett,2,0,4,False,2001-04-17,Stolen,2B,2001
+828,1B,2B,Stolen Base 2B,123697,Robin Ventura,Bengie Molina,2,0,1,False,2002-08-20,Stolen,2B,2002
+1308,1B,,Caught Stealing 2B,123697,Robin Ventura,Toby Hall,0,0,2,True,2002-07-26,Caught,2B,2002
+1922,1B,2B,Stolen Base 2B,123697,Robin Ventura,Brook Fordyce,2,3,8,True,2002-06-27,Stolen,2B,2002
+2179,1B,2B,Stolen Base 2B,123697,Robin Ventura,Mike Piazza,2,1,8,True,2002-06-14,Stolen,2B,2002

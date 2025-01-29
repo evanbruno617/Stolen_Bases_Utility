@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2032,1B,,Caught Stealing 2B,115007,Mark Grace,Henry Blanco,4,4,14,True,2000-06-30,Caught,2B,2000
+3388,2B,3B,Stolen Base 3B,115007,Mark Grace,Mitch Meluskey,5,0,3,False,2000-05-02,Stolen,3B,2000
+3891,1B,,Caught Stealing 2B,115007,Mark Grace,Javy Lopez,0,1,2,False,2000-04-10,Caught,2B,2000
+2418,1B,2B,Stolen Base 2B,115007,Mark Grace,Paul Lo Duca,0,0,2,True,2002-06-02,Stolen,2B,2002
+3003,1B,2B,Stolen Base 2B,115007,Mark Grace,Mike Lieberthal,0,5,6,True,2002-05-11,Stolen,2B,2002

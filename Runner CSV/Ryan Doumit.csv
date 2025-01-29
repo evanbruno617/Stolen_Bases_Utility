@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1620,1B,,Caught Stealing 2B,425491,Ryan Doumit,Mike Lieberthal,2,0,7,False,2005-07-07,Caught,2B,2005
+2027,2B,3B,Stolen Base 3B,425491,Ryan Doumit,Jason Varitek,0,2,1,True,2005-06-17,Stolen,3B,2005
+2028,3B,score,Stolen Base Home,425491,Ryan Doumit,Jason Varitek,0,3,1,True,2005-06-17,Stolen,Home,2005
+1196,1B,,Caught Stealing 2B,425491,Ryan Doumit,Chris Snyder,4,5,5,True,2007-08-08,Caught,2B,2007
+3293,1B,2B,Stolen Base 2B,425491,Ryan Doumit,Michael Barrett,0,2,2,False,2007-04-30,Stolen,2B,2007
+973,1B,,Caught Stealing 2B,425491,Ryan Doumit,Paul Bako,0,2,2,False,2008-08-12,Caught,2B,2008
+1254,1B,2B,Stolen Base 2B,425491,Ryan Doumit,Yorvit Torrealba,8,4,8,False,2008-07-28,Stolen,2B,2008
+1286,1B,2B,Stolen Base 2B,425491,Ryan Doumit,Nick Hundley,1,4,1,False,2008-07-26,Stolen,2B,2008
+210,1B,2B,Stolen Base 2B,425491,Ryan Doumit,Miguel Montero,2,4,5,True,2009-07-24,Stolen,2B,2009
+3330,1B,2B,Stolen Base 2B,425491,Ryan Doumit,Russell Martin,0,2,4,True,2010-04-29,Stolen,2B,2010
+3835,1B,2B,Caught Stealing 2B,425491,Ryan Doumit,Wilson Ramos,4,0,1,False,2011-04-23,Caught,2B,2011
+3027,1B,2B,Stolen Base 2B,425491,Ryan Doumit,Brayan Peña,0,3,3,True,2013-05-01,Stolen,2B,2013
+2083,1B,2B,Stolen Base 2B,425491,Ryan Doumit,Carlos Ruiz,4,2,1,False,2014-06-18,Stolen,2B,2014

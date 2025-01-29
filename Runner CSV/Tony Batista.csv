@@ -1,0 +1,43 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1583,1B,,Caught Stealing 2B,110682,Tony Batista,Sandy Alomar Jr.,2,3,6,False,2000-07-25,Caught,2B,2000
+1668,1B,2B,Stolen Base 2B,110682,Tony Batista,John Flaherty,1,0,2,False,2000-07-20,Stolen,2B,2000
+1719,1B,2B,Stolen Base 2B,110682,Tony Batista,Mike Piazza,4,7,5,False,2000-07-18,Stolen,2B,2000
+2303,1B,2B,Stolen Base 2B,110682,Tony Batista,Jason Varitek,0,5,8,True,2000-06-18,Stolen,2B,2000
+3076,1B,2B,Stolen Base 2B,110682,Tony Batista,Scott Hatteberg,1,0,4,False,2000-05-15,Stolen,2B,2000
+3156,1B,,Caught Stealing 2B,110682,Tony Batista,John Flaherty,1,1,4,True,2000-05-12,Caught,2B,2000
+3767,2B,3B,Stolen Base 3B,110682,Tony Batista,Joe Oliver,1,3,2,False,2000-04-15,Stolen,3B,2000
+451,1B,,Caught Stealing 2B,110682,Tony Batista,José Molina,1,2,6,True,2001-05-17,Caught,2B,2001
+833,1B,,Caught Stealing 2B,110682,Tony Batista,John Flaherty,2,0,1,False,2002-08-20,Caught,2B,2002
+1748,1B,2B,Stolen Base 2B,110682,Tony Batista,Jorge Fabregas,0,0,2,True,2002-07-04,Stolen,2B,2002
+1995,1B,2B,Stolen Base 2B,110682,Tony Batista,Benito Santiago,0,1,4,True,2002-06-23,Stolen,2B,2002
+2218,1B,2B,Stolen Base 2B,110682,Tony Batista,Tom Lampkin,0,2,5,False,2002-06-12,Stolen,2B,2002
+2535,1B,2B,Stolen Base 2B,110682,Tony Batista,Ramon Hernandez,5,5,5,False,2002-05-29,Stolen,2B,2002
+2919,1B,,Caught Stealing 2B,110682,Tony Batista,Eddie Pérez,1,0,5,True,2002-05-15,Caught,2B,2002
+3419,1B,2B,Stolen Base 2B,110682,Tony Batista,Jason Varitek,2,1,3,False,2002-04-24,Stolen,2B,2002
+3567,1B,,Caught Stealing 2B,110682,Tony Batista,Jorge Posada,1,0,2,True,2002-04-17,Caught,2B,2002
+440,1B,2B,Stolen Base 2B,110682,Tony Batista,Pat Borders,2,1,7,False,2003-09-07,Stolen,2B,2003
+534,1B,,Caught Stealing 2B,110682,Tony Batista,Ramon Hernandez,0,0,7,False,2003-09-02,Caught,2B,2003
+654,1B,2B,Stolen Base 2B,110682,Tony Batista,Ramon Hernandez,0,0,4,True,2003-08-26,Stolen,2B,2003
+1291,1B,2B,Stolen Base 2B,110682,Tony Batista,Tom Wilson,0,1,2,True,2003-07-26,Stolen,2B,2003
+1707,1B,2B,Stolen Base 2B,110682,Tony Batista,Tom Wilson,3,2,5,False,2003-07-03,Stolen,2B,2003
+2022,1B,2B,Stolen Base 2B,110682,Tony Batista,Tom Wilson,3,2,5,False,2003-06-17,Stolen,2B,2003
+2491,1B,,Caught Stealing 2B,110682,Tony Batista,Einar Díaz,10,13,8,True,2003-05-25,Caught,2B,2003
+211,1B,2B,Stolen Base 2B,110682,Tony Batista,Jason Phillips,0,0,3,False,2004-09-21,Stolen,2B,2004
+241,2B,3B,Stolen Base 3B,110682,Tony Batista,Mike Lieberthal,0,1,1,True,2004-09-19,Stolen,3B,2004
+744,1B,2B,Stolen Base 2B,110682,Tony Batista,David Ross,6,3,7,False,2004-08-25,Stolen,2B,2004
+835,2B,,Caught Stealing 3B,110682,Tony Batista,JD Closser,0,2,1,True,2004-08-20,Caught,3B,2004
+886,1B,,Caught Stealing 2B,110682,Tony Batista,A.J. Pierzynski,1,0,2,True,2004-08-18,Caught,2B,2004
+984,1B,2B,Stolen Base 2B,110682,Tony Batista,Brad Ausmus,4,1,8,False,2004-08-13,Stolen,2B,2004
+1069,2B,,Caught Stealing 3B,110682,Tony Batista,Brad Ausmus,1,0,4,True,2004-08-08,Caught,3B,2004
+1264,1B,2B,Stolen Base 2B,110682,Tony Batista,Mike Redmond,0,6,5,True,2004-07-30,Stolen,2B,2004
+1608,1B,,Caught Stealing 2B,110682,Tony Batista,Jason Kendall,1,0,1,False,2004-07-10,Caught,2B,2004
+1769,2B,3B,Stolen Base 3B,110682,Tony Batista,Gregg Zaun,2,0,8,False,2004-07-02,Stolen,3B,2004
+1829,1B,2B,Stolen Base 2B,110682,Tony Batista,Mike Lieberthal,0,1,2,True,2004-06-28,Stolen,2B,2004
+1885,1B,,Caught Stealing 2B,110682,Tony Batista,Gregg Zaun,0,1,2,True,2004-06-26,Caught,2B,2004
+2362,1B,2B,Stolen Base 2B,110682,Tony Batista,Johnny Estrada,1,1,3,True,2004-06-02,Stolen,2B,2004
+2430,1B,2B,Stolen Base 2B,110682,Tony Batista,Jason LaRue,3,1,4,False,2004-05-30,Stolen,2B,2004
+2656,1B,2B,Stolen Base 2B,110682,Tony Batista,Chad Moeller,0,1,2,False,2004-05-18,Stolen,2B,2004
+2657,2B,3B,Stolen Base 3B,110682,Tony Batista,Chad Moeller,1,1,2,False,2004-05-18,Stolen,3B,2004
+3011,1B,2B,Stolen Base 2B,110682,Tony Batista,Paul Lo Duca,2,1,4,True,2004-04-30,Stolen,2B,2004
+3026,1B,2B,Stolen Base 2B,110682,Tony Batista,Miguel Ojeda,0,0,2,True,2004-04-29,Stolen,2B,2004
+3093,1B,2B,Stolen Base 2B,110682,Tony Batista,Ramon Hernandez,0,0,2,True,2004-04-26,Stolen,2B,2004

@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3196,1B,,Caught Stealing 2B,518902,Pete Kozma,543056,Danny Coulombe,608336,Joey Gallo,L,Stephen Vogt,519390,6,4,8,False,2017-05-14,Caught,2B,2017,2018,27.8
+1,2568,1B,,Caught Stealing 2B,518902,Pete Kozma,543056,Danny Coulombe,608336,Joey Gallo,L,Stephen Vogt,519390,6,4,8,False,2017-05-14,Caught,2B,2017,2018,27.8
+2,1866,1B,2B,Stolen Base 2B,518902,Pete Kozma,502578,Aaron Barrett,425877,Yadier Molina,R,Wilson Ramos,467092,1,1,10,True,2015-04-21,Stolen,2B,2015,2017,27.7

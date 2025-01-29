@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+835,1B,,Caught Stealing 2B,664901,Danny Mendick,Andrew Knizner,1,0,5,False,2020-08-16,Caught,2B,2020
+1918,2B,3B,Stolen Base 3B,664901,Danny Mendick,Tucker Barnhart,1,5,8,True,2022-06-14,Stolen,3B,2022
+23,1B,2B,Stolen Base 2B,664901,Danny Mendick,J.T. Realmuto,4,0,7,False,2023-09-30,Stolen,2B,2023

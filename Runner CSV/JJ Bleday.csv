@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+228,1B,2B,Stolen Base 2B,668709,JJ Bleday,Israel Pineda,0,0,2,True,2022-09-18,Stolen,2B,2022
+425,1B,,Caught Stealing 2B,668709,JJ Bleday,J.T. Realmuto,3,2,7,True,2022-09-07,Caught,2B,2022
+698,1B,2B,Stolen Base 2B,668709,JJ Bleday,Sean Murphy,0,3,7,True,2022-08-22,Stolen,2B,2022
+918,1B,2B,Stolen Base 2B,668709,JJ Bleday,William Contreras,3,4,9,False,2022-08-12,Stolen,2B,2022
+1246,1B,2B,Stolen Base 2B,668709,JJ Bleday,Tyler Heineman,0,0,2,True,2022-07-24,Stolen,2B,2022
+1625,1B,2B,Stolen Base 2B,668709,JJ Bleday,Yainer Diaz,1,1,6,False,2023-07-23,Stolen,2B,2023
+2079,1B,2B,Stolen Base 2B,668709,JJ Bleday,Carlos Pérez,2,3,5,False,2023-07-01,Stolen,2B,2023
+2357,1B,2B,Stolen Base 2B,668709,JJ Bleday,J.T. Realmuto,0,1,4,False,2023-06-18,Stolen,2B,2023
+2406,1B,2B,Stolen Base 2B,668709,JJ Bleday,J.T. Realmuto,0,0,4,False,2023-06-17,Stolen,2B,2023
+2663,1B,2B,Stolen Base 2B,668709,JJ Bleday,Jason Delay,3,7,6,True,2023-06-07,Stolen,2B,2023

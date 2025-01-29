@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+103,1B,,Caught Stealing 2B,408244,Bernie Castro,John Flaherty,0,0,3,False,2005-09-26,Caught,2B,2005
+169,1B,2B,Stolen Base 2B,408244,Bernie Castro,Jason Varitek,0,1,1,False,2005-09-23,Stolen,2B,2005
+232,1B,,Caught Stealing 2B,408244,Bernie Castro,Jorge Posada,0,0,1,True,2005-09-20,Caught,2B,2005
+280,1B,2B,Stolen Base 2B,408244,Bernie Castro,Toby Hall,1,1,8,False,2005-09-17,Stolen,2B,2005
+383,2B,3B,Stolen Base 3B,408244,Bernie Castro,Gerald Laird,2,3,9,True,2005-09-12,Stolen,3B,2005
+396,1B,2B,Stolen Base 2B,408244,Bernie Castro,Miguel Ojeda,0,0,1,True,2005-09-11,Stolen,2B,2005
+431,1B,2B,Stolen Base 2B,408244,Bernie Castro,Yorvit Torrealba,3,2,9,True,2005-09-09,Stolen,2B,2005
+590,1B,2B,Stolen Base 2B,408244,Bernie Castro,Gregg Zaun,0,0,1,True,2005-09-01,Stolen,2B,2005
+1777,1B,,Caught Stealing 2B,408244,Bernie Castro,John Flaherty,0,0,3,False,2005-06-29,Caught,2B,2005

@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,573,1B,2B,Stolen Base 2B,592122,Tyler Austin,605483,Blake Snell,519222,Austin Romine,L,Wilson Ramos,467092,4,1,4,False,2018-04-04,Stolen,2B,2018,2019,26.7
+1,4978,1B,2B,Stolen Base 2B,592122,Tyler Austin,541640,Erasmo Ramírez,519222,Austin Romine,R,Luke Maile,571912,6,4,6,False,2016-08-13,Stolen,2B,2016,2017,26.8
+2,943,1B,2B,Stolen Base 2B,592122,Tyler Austin,541640,Erasmo Ramírez,519222,Austin Romine,R,Luke Maile,571912,6,4,6,False,2016-08-13,Stolen,2B,2016,2017,26.8
+3,4350,1B,2B,Stolen Base 2B,592122,Tyler Austin,541640,Erasmo Ramírez,519222,Austin Romine,R,Luke Maile,571912,6,4,6,False,2016-08-13,Stolen,2B,2016,2017,26.8

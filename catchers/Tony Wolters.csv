@@ -1,0 +1,344 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,,Caught Stealing 2B,572233,Christian Walker,623485,Ashton Goudeau,500871,Eduardo Escobar,R,Tony Wolters,547172,7,0,6,False,2020-09-27,Caught,2B,2020,2021, 74.2, 0.64
+1,1B,2B,Stolen Base 2B,592518,Manny Machado,607536,Kyle Freeland,543592,Austin Nola,L,Tony Wolters,547172,0,0,1,False,2020-09-07,Stolen,2B,2020,2021, 74.2, 0.64
+2,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,607536,Kyle Freeland,592518,Manny Machado,L,Tony Wolters,547172,0,0,5,False,2020-09-07,Stolen,2B,2020,2021, 74.2, 0.64
+3,2B,3B,Stolen Base 3B,595777,Jurickson Profar,622075,Yency Almonte,665487,Fernando Tatis Jr.,R,Tony Wolters,547172,0,0,7,False,2020-09-07,Stolen,3B,2020,2021, 74.2, 0.64
+4,1B,2B,Stolen Base 2B,663757,Trent Grisham,622075,Yency Almonte,665487,Fernando Tatis Jr.,R,Tony Wolters,547172,0,0,7,False,2020-09-07,Stolen,2B,2020,2021, 74.2, 0.64
+5,1B,2B,Stolen Base 2B,641355,Cody Bellinger,571710,Mychal Givens,592626,Joc Pederson,R,Tony Wolters,547172,2,2,6,False,2020-09-04,Stolen,2B,2020,2021, 74.2, 0.64
+6,1B,2B,Stolen Base 2B,666158,Gavin Lux,656546,Jeff Hoffman,605141,Mookie Betts,R,Tony Wolters,547172,10,6,8,False,2020-09-04,Stolen,2B,2020,2021, 74.2, 0.64
+7,1B,2B,Stolen Base 2B,594824,Greg Garcia,622608,Antonio Senzatela,647304,Josh Naylor,R,Tony Wolters,547172,0,0,2,True,2020-08-29,Stolen,2B,2020,2021, 74.2, 0.64
+8,1B,2B,Stolen Base 2B,664702,Myles Straw,622608,Antonio Senzatela,502210,Josh Reddick,R,Tony Wolters,547172,0,0,6,False,2020-08-18,Stolen,2B,2020,2021, 74.2, 0.64
+9,2B,3B,Stolen Base 3B,425783,Shin-Soo Choo,608566,Germán Márquez,641432,Willie Calhoun,R,Tony Wolters,547172,2,1,3,True,2020-08-15,Stolen,3B,2020,2021, 74.2, 0.64
+10,1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,608566,Germán Márquez,641432,Willie Calhoun,R,Tony Wolters,547172,2,1,3,True,2020-08-15,Stolen,2B,2020,2021, 74.2, 0.64
+11,1B,,Caught Stealing 2B,596059,Rougned Odor,656546,Jeff Hoffman,462101,Elvis Andrus,R,Tony Wolters,547172,2,2,7,True,2020-08-14,Caught,2B,2020,2021, 74.2, 0.64
+12,1B,2B,Stolen Base 2B,605113,Nick Ahmed,622075,Yency Almonte,594777,Kole Calhoun,R,Tony Wolters,547172,7,11,7,True,2020-08-10,Stolen,2B,2020,2021, 74.2, 0.64
+13,1B,2B,Stolen Base 2B,605113,Nick Ahmed,572021,James Pazos,594777,Kole Calhoun,L,Tony Wolters,547172,7,11,9,True,2020-08-10,Stolen,2B,2020,2021, 74.2, 0.64
+14,2B,3B,Stolen Base 3B,502054,Tommy Pham,453268,Daniel Bard,571976,Wil Myers,R,Tony Wolters,547172,2,3,6,True,2020-07-31,Stolen,3B,2020,2021, 74.2, 0.64
+15,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,453268,Daniel Bard,663757,Trent Grisham,R,Tony Wolters,547172,4,4,7,True,2020-07-31,Stolen,2B,2020,2021, 74.2, 0.64
+16,1B,2B,Stolen Base 2B,663757,Trent Grisham,451584,Wade Davis,592518,Manny Machado,R,Tony Wolters,547172,5,5,9,True,2020-07-31,Stolen,2B,2020,2021, 74.2, 0.64
+17,1B,2B,Stolen Base 2B,572039,Stephen Piscotty,608032,Carlos Estévez,605353,Vimael Machín,R,Tony Wolters,547172,1,2,7,False,2020-07-29,Stolen,2B,2020,2021, 74.2, 0.64
+18,1B,,Caught Stealing 2B,572233,Christian Walker,623485,Ashton Goudeau,500871,Eduardo Escobar,R,Tony Wolters,547172,7,0,6,False,2020-09-27,Caught,2B,2020,2021, 74.2, 0.64
+19,1B,2B,Stolen Base 2B,592518,Manny Machado,607536,Kyle Freeland,543592,Austin Nola,L,Tony Wolters,547172,0,0,1,False,2020-09-07,Stolen,2B,2020,2021, 74.2, 0.64
+20,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,607536,Kyle Freeland,592518,Manny Machado,L,Tony Wolters,547172,0,0,5,False,2020-09-07,Stolen,2B,2020,2021, 74.2, 0.64
+21,2B,3B,Stolen Base 3B,595777,Jurickson Profar,622075,Yency Almonte,665487,Fernando Tatis Jr.,R,Tony Wolters,547172,0,0,7,False,2020-09-07,Stolen,3B,2020,2021, 74.2, 0.64
+22,1B,2B,Stolen Base 2B,663757,Trent Grisham,622075,Yency Almonte,665487,Fernando Tatis Jr.,R,Tony Wolters,547172,0,0,7,False,2020-09-07,Stolen,2B,2020,2021, 74.2, 0.64
+23,1B,2B,Stolen Base 2B,641355,Cody Bellinger,571710,Mychal Givens,592626,Joc Pederson,R,Tony Wolters,547172,2,2,6,False,2020-09-04,Stolen,2B,2020,2021, 74.2, 0.64
+24,1B,2B,Stolen Base 2B,666158,Gavin Lux,656546,Jeff Hoffman,605141,Mookie Betts,R,Tony Wolters,547172,10,6,8,False,2020-09-04,Stolen,2B,2020,2021, 74.2, 0.64
+25,1B,2B,Stolen Base 2B,594824,Greg Garcia,622608,Antonio Senzatela,647304,Josh Naylor,R,Tony Wolters,547172,0,0,2,True,2020-08-29,Stolen,2B,2020,2021, 74.2, 0.64
+26,1B,2B,Stolen Base 2B,664702,Myles Straw,622608,Antonio Senzatela,502210,Josh Reddick,R,Tony Wolters,547172,0,0,6,False,2020-08-18,Stolen,2B,2020,2021, 74.2, 0.64
+27,2B,3B,Stolen Base 3B,425783,Shin-Soo Choo,608566,Germán Márquez,641432,Willie Calhoun,R,Tony Wolters,547172,2,1,3,True,2020-08-15,Stolen,3B,2020,2021, 74.2, 0.64
+28,1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,608566,Germán Márquez,641432,Willie Calhoun,R,Tony Wolters,547172,2,1,3,True,2020-08-15,Stolen,2B,2020,2021, 74.2, 0.64
+29,1B,,Caught Stealing 2B,596059,Rougned Odor,656546,Jeff Hoffman,462101,Elvis Andrus,R,Tony Wolters,547172,2,2,7,True,2020-08-14,Caught,2B,2020,2021, 74.2, 0.64
+30,1B,2B,Stolen Base 2B,605113,Nick Ahmed,622075,Yency Almonte,594777,Kole Calhoun,R,Tony Wolters,547172,7,11,7,True,2020-08-10,Stolen,2B,2020,2021, 74.2, 0.64
+31,1B,2B,Stolen Base 2B,605113,Nick Ahmed,572021,James Pazos,594777,Kole Calhoun,L,Tony Wolters,547172,7,11,9,True,2020-08-10,Stolen,2B,2020,2021, 74.2, 0.64
+32,2B,3B,Stolen Base 3B,502054,Tommy Pham,453268,Daniel Bard,571976,Wil Myers,R,Tony Wolters,547172,2,3,6,True,2020-07-31,Stolen,3B,2020,2021, 74.2, 0.64
+33,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,453268,Daniel Bard,663757,Trent Grisham,R,Tony Wolters,547172,4,4,7,True,2020-07-31,Stolen,2B,2020,2021, 74.2, 0.64
+34,1B,2B,Stolen Base 2B,663757,Trent Grisham,451584,Wade Davis,592518,Manny Machado,R,Tony Wolters,547172,5,5,9,True,2020-07-31,Stolen,2B,2020,2021, 74.2, 0.64
+35,1B,2B,Stolen Base 2B,572039,Stephen Piscotty,608032,Carlos Estévez,605353,Vimael Machín,R,Tony Wolters,547172,1,2,7,False,2020-07-29,Stolen,2B,2020,2021, 74.2, 0.64
+36,1B,,Caught Stealing 2B,572233,Christian Walker,623485,Ashton Goudeau,500871,Eduardo Escobar,R,Tony Wolters,547172,7,0,6,False,2020-09-27,Caught,2B,2020,2021, 74.2, 0.64
+37,1B,2B,Stolen Base 2B,592518,Manny Machado,607536,Kyle Freeland,543592,Austin Nola,L,Tony Wolters,547172,0,0,1,False,2020-09-07,Stolen,2B,2020,2021, 74.2, 0.64
+38,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,607536,Kyle Freeland,592518,Manny Machado,L,Tony Wolters,547172,0,0,5,False,2020-09-07,Stolen,2B,2020,2021, 74.2, 0.64
+39,2B,3B,Stolen Base 3B,595777,Jurickson Profar,622075,Yency Almonte,665487,Fernando Tatis Jr.,R,Tony Wolters,547172,0,0,7,False,2020-09-07,Stolen,3B,2020,2021, 74.2, 0.64
+40,1B,2B,Stolen Base 2B,663757,Trent Grisham,622075,Yency Almonte,665487,Fernando Tatis Jr.,R,Tony Wolters,547172,0,0,7,False,2020-09-07,Stolen,2B,2020,2021, 74.2, 0.64
+41,1B,2B,Stolen Base 2B,641355,Cody Bellinger,571710,Mychal Givens,592626,Joc Pederson,R,Tony Wolters,547172,2,2,6,False,2020-09-04,Stolen,2B,2020,2021, 74.2, 0.64
+42,1B,2B,Stolen Base 2B,666158,Gavin Lux,656546,Jeff Hoffman,605141,Mookie Betts,R,Tony Wolters,547172,10,6,8,False,2020-09-04,Stolen,2B,2020,2021, 74.2, 0.64
+43,1B,2B,Stolen Base 2B,594824,Greg Garcia,622608,Antonio Senzatela,647304,Josh Naylor,R,Tony Wolters,547172,0,0,2,True,2020-08-29,Stolen,2B,2020,2021, 74.2, 0.64
+44,1B,2B,Stolen Base 2B,664702,Myles Straw,622608,Antonio Senzatela,502210,Josh Reddick,R,Tony Wolters,547172,0,0,6,False,2020-08-18,Stolen,2B,2020,2021, 74.2, 0.64
+45,2B,3B,Stolen Base 3B,425783,Shin-Soo Choo,608566,Germán Márquez,641432,Willie Calhoun,R,Tony Wolters,547172,2,1,3,True,2020-08-15,Stolen,3B,2020,2021, 74.2, 0.64
+46,1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,608566,Germán Márquez,641432,Willie Calhoun,R,Tony Wolters,547172,2,1,3,True,2020-08-15,Stolen,2B,2020,2021, 74.2, 0.64
+47,1B,,Caught Stealing 2B,596059,Rougned Odor,656546,Jeff Hoffman,462101,Elvis Andrus,R,Tony Wolters,547172,2,2,7,True,2020-08-14,Caught,2B,2020,2021, 74.2, 0.64
+48,1B,2B,Stolen Base 2B,605113,Nick Ahmed,622075,Yency Almonte,594777,Kole Calhoun,R,Tony Wolters,547172,7,11,7,True,2020-08-10,Stolen,2B,2020,2021, 74.2, 0.64
+49,1B,2B,Stolen Base 2B,605113,Nick Ahmed,572021,James Pazos,594777,Kole Calhoun,L,Tony Wolters,547172,7,11,9,True,2020-08-10,Stolen,2B,2020,2021, 74.2, 0.64
+50,2B,3B,Stolen Base 3B,502054,Tommy Pham,453268,Daniel Bard,571976,Wil Myers,R,Tony Wolters,547172,2,3,6,True,2020-07-31,Stolen,3B,2020,2021, 74.2, 0.64
+51,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,453268,Daniel Bard,663757,Trent Grisham,R,Tony Wolters,547172,4,4,7,True,2020-07-31,Stolen,2B,2020,2021, 74.2, 0.64
+52,1B,2B,Stolen Base 2B,663757,Trent Grisham,451584,Wade Davis,592518,Manny Machado,R,Tony Wolters,547172,5,5,9,True,2020-07-31,Stolen,2B,2020,2021, 74.2, 0.64
+53,1B,2B,Stolen Base 2B,572039,Stephen Piscotty,608032,Carlos Estévez,605353,Vimael Machín,R,Tony Wolters,547172,1,2,7,False,2020-07-29,Stolen,2B,2020,2021, 74.2, 0.64
+54,2B,,Caught Stealing 3B,456715,Lorenzo Cain,572021,James Pazos,592325,Ben Gamel,L,Tony Wolters,547172,0,1,7,True,2019-09-28,Caught,3B,2019,2020, 75.9, 0.72
+55,1B,2B,Stolen Base 2B,519390,Stephen Vogt,543532,Tim Melville,542436,Cristhian Adames,R,Tony Wolters,547172,0,0,2,False,2019-09-25,Stolen,2B,2019,2020, 75.9, 0.72
+56,1B,2B,Stolen Base 2B,519390,Stephen Vogt,572021,James Pazos,542436,Cristhian Adames,L,Tony Wolters,547172,1,1,8,False,2019-09-25,Stolen,2B,2019,2020, 75.9, 0.72
+57,1B,2B,Stolen Base 2B,446334,Evan Longoria,641149,Wes Parsons,607680,Kevin Pillar,R,Tony Wolters,547172,5,5,11,False,2019-09-24,Stolen,2B,2019,2020, 75.9, 0.72
+58,1B,,Caught Stealing 2B,573262,Mike Yastrzemski,642840,Joe Harvey,446334,Evan Longoria,R,Tony Wolters,547172,5,5,12,False,2019-09-24,Caught,2B,2019,2020, 75.9, 0.72
+59,1B,,Caught Stealing 2B,608671,Travis Jankowski,622786,Jesus Tinoco,571976,Wil Myers,R,Tony Wolters,547172,11,10,8,True,2019-09-14,Caught,2B,2019,2020, 75.9, 0.72
+60,1B,,Caught Stealing 2B,542303,Marcell Ozuna,592346,Chi Chi González,425877,Yadier Molina,R,Tony Wolters,547172,2,0,2,True,2019-09-10,Caught,2B,2019,2020, 75.9, 0.72
+61,1B,2B,Stolen Base 2B,608671,Travis Jankowski,597113,DJ Johnson,649966,Luis Urías,R,Tony Wolters,547172,1,1,6,False,2019-09-08,Stolen,2B,2019,2020, 75.9, 0.72
+62,1B,2B,Stolen Base 2B,571976,Wil Myers,642840,Joe Harvey,592669,Hunter Renfroe,R,Tony Wolters,547172,3,0,8,False,2019-09-07,Stolen,2B,2019,2020, 75.9, 0.72
+63,1B,2B,Stolen Base 2B,669242,Tommy Edman,622786,Jesus Tinoco,542303,Marcell Ozuna,R,Tony Wolters,547172,7,2,4,False,2019-08-25,Stolen,2B,2019,2020, 75.9, 0.72
+64,2B,,Caught Stealing 3B,669242,Tommy Edman,622786,Jesus Tinoco,425877,Yadier Molina,R,Tony Wolters,547172,7,2,4,False,2019-08-25,Caught,3B,2019,2020, 75.9, 0.72
+65,1B,2B,Stolen Base 2B,664056,Harrison Bader,451584,Wade Davis,664854,Ryan Helsley,R,Tony Wolters,547172,7,3,5,False,2019-08-25,Stolen,2B,2019,2020, 75.9, 0.72
+66,1B,,Caught Stealing 2B,502481,Jarrod Dyson,622075,Yency Almonte,605113,Nick Ahmed,R,Tony Wolters,547172,8,6,7,False,2019-08-20,Caught,2B,2019,2020, 75.9, 0.72
+67,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,451584,Wade Davis,606466,Ketel Marte,R,Tony Wolters,547172,3,2,8,False,2019-08-19,Stolen,2B,2019,2020, 75.9, 0.72
+68,1B,2B,Stolen Base 2B,641796,Tim Locastro,451584,Wade Davis,502481,Jarrod Dyson,R,Tony Wolters,547172,6,8,8,True,2019-08-12,Stolen,2B,2019,2020, 75.9, 0.72
+69,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,451584,Wade Davis,571976,Wil Myers,R,Tony Wolters,547172,3,0,7,False,2019-08-09,Stolen,2B,2019,2020, 75.9, 0.72
+70,2B,3B,Stolen Base 3B,665487,Fernando Tatis Jr.,451584,Wade Davis,592518,Manny Machado,R,Tony Wolters,547172,3,0,7,False,2019-08-09,Stolen,3B,2019,2020, 75.9, 0.72
+71,1B,2B,Stolen Base 2B,592518,Manny Machado,592351,Jon Gray,543333,Eric Hosmer,R,Tony Wolters,547172,2,1,1,False,2019-08-08,Stolen,2B,2019,2020, 75.9, 0.72
+72,1B,,Caught Stealing 2B,665487,Fernando Tatis Jr.,592351,Jon Gray,571976,Wil Myers,R,Tony Wolters,547172,3,1,2,False,2019-08-08,Caught,2B,2019,2020, 75.9, 0.72
+73,1B,2B,Stolen Base 2B,493329,Yuli Gurriel,592346,Chi Chi González,455139,Robinson Chirinos,R,Tony Wolters,547172,6,5,6,False,2019-08-06,Stolen,2B,2019,2020, 75.9, 0.72
+74,2B,3B,Stolen Base 3B,607680,Kevin Pillar,607572,Sam Howard,596103,Austin Slater,L,Tony Wolters,547172,5,6,9,True,2019-08-03,Stolen,3B,2019,2020, 75.9, 0.72
+75,1B,,Caught Stealing 2B,642165,Josh VanMeter,545064,Jairo Díaz,669222,Nick Senzel,R,Tony Wolters,547172,3,1,6,False,2019-07-27,Caught,2B,2019,2020, 75.9, 0.72
+76,2B,3B,Stolen Base 3B,572821,Brian Dozier,543766,Bryan Shaw,467827,Gerardo Parra,R,Tony Wolters,547172,5,5,6,False,2019-07-25,Stolen,3B,2019,2020, 75.9, 0.72
+77,1B,2B,Stolen Base 2B,645302,Victor Robles,543766,Bryan Shaw,467827,Gerardo Parra,R,Tony Wolters,547172,5,5,6,False,2019-07-25,Stolen,2B,2019,2020, 75.9, 0.72
+78,1B,2B,Stolen Base 2B,665742,Juan Soto,451584,Wade Davis,571431,Matt Adams,R,Tony Wolters,547172,7,8,9,False,2019-07-25,Stolen,2B,2019,2020, 75.9, 0.72
+79,1B,2B,Stolen Base 2B,519222,Austin Romine,622608,Antonio Senzatela,518934,DJ LeMahieu,R,Tony Wolters,547172,3,0,2,False,2019-07-20,Stolen,2B,2019,2020, 75.9, 0.72
+80,1B,2B,Stolen Base 2B,669222,Nick Senzel,622608,Antonio Senzatela,608385,Jesse Winker,R,Tony Wolters,547172,4,4,5,True,2019-07-14,Stolen,2B,2019,2020, 75.9, 0.72
+81,1B,,Caught Stealing 2B,578428,Jose Iglesias,623184,Scott Oberg,606299,José Peraza,R,Tony Wolters,547172,10,9,8,True,2019-07-14,Caught,2B,2019,2020, 75.9, 0.72
+82,1B,2B,Stolen Base 2B,605113,Nick Ahmed,545064,Jairo Díaz,608348,Carson Kelly,R,Tony Wolters,547172,4,1,6,False,2019-07-06,Stolen,2B,2019,2020, 75.9, 0.72
+83,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,622608,Antonio Senzatela,606466,Ketel Marte,R,Tony Wolters,547172,4,0,5,False,2019-07-05,Stolen,2B,2019,2020, 75.9, 0.72
+84,1B,2B,Stolen Base 2B,608324,Alex Bregman,663567,Peter Lambert,488726,Michael Brantley,R,Tony Wolters,547172,1,2,3,True,2019-07-03,Stolen,2B,2019,2020, 75.9, 0.72
+85,1B,2B,Stolen Base 2B,514888,Jose Altuve,623184,Scott Oberg,488726,Michael Brantley,R,Tony Wolters,547172,8,9,9,True,2019-07-02,Stolen,2B,2019,2020, 75.9, 0.72
+86,3B,,Caught Stealing Home,543105,Alex Dickerson,608566,Germán Márquez,543063,Brandon Crawford,R,Tony Wolters,547172,2,0,1,False,2019-06-26,Caught,Home,2019,2020, 75.9, 0.72
+87,2B,,Caught Stealing 3B,573262,Mike Yastrzemski,608566,Germán Márquez,543105,Alex Dickerson,R,Tony Wolters,547172,3,5,5,False,2019-06-26,Caught,3B,2019,2020, 75.9, 0.72
+88,1B,2B,Stolen Base 2B,543105,Alex Dickerson,592351,Jon Gray,467055,Pablo Sandoval,R,Tony Wolters,547172,0,0,1,False,2019-06-24,Stolen,2B,2019,2020, 75.9, 0.72
+89,2B,3B,Stolen Base 3B,606466,Ketel Marte,592351,Jon Gray,430945,Adam Jones,R,Tony Wolters,547172,2,0,3,False,2019-06-19,Stolen,3B,2019,2020, 75.9, 0.72
+90,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,592351,Jon Gray,444482,David Peralta,R,Tony Wolters,547172,2,2,5,False,2019-06-19,Stolen,2B,2019,2020, 75.9, 0.72
+91,1B,2B,Stolen Base 2B,435079,Ian Kinsler,656546,Jeff Hoffman,595978,Austin Hedges,R,Tony Wolters,547172,2,1,5,True,2019-06-14,Stolen,2B,2019,2020, 75.9, 0.72
+92,1B,,Caught Stealing 2B,623520,David Bote,608566,Germán Márquez,506433,Yu Darvish,R,Tony Wolters,547172,0,0,3,False,2019-06-05,Caught,2B,2019,2020, 75.9, 0.72
+93,2B,3B,Stolen Base 3B,666971,Lourdes Gurriel Jr.,592351,Jon Gray,643376,Danny Jansen,R,Tony Wolters,547172,3,0,2,True,2019-06-01,Stolen,3B,2019,2020, 75.9, 0.72
+94,1B,2B,Stolen Base 2B,624415,Cavan Biggio,592351,Jon Gray,643376,Danny Jansen,R,Tony Wolters,547172,3,0,2,True,2019-06-01,Stolen,2B,2019,2020, 75.9, 0.72
+95,1B,2B,Stolen Base 2B,641796,Tim Locastro,623184,Scott Oberg,430945,Adam Jones,R,Tony Wolters,547172,3,3,9,True,2019-05-27,Stolen,2B,2019,2020, 75.9, 0.72
+96,1B,2B,Stolen Base 2B,500871,Eduardo Escobar,543766,Bryan Shaw,572233,Christian Walker,R,Tony Wolters,547172,3,3,10,True,2019-05-27,Stolen,2B,2019,2020, 75.9, 0.72
+97,1B,,Caught Stealing 2B,592859,Stevie Wilkerson,445197,Mike Dunn,596105,Dwight Smith Jr.,L,Tony Wolters,547172,3,6,7,True,2019-05-24,Caught,2B,2019,2020, 75.9, 0.72
+98,1B,2B,Stolen Base 2B,593643,Hanser Alberto,543766,Bryan Shaw,600474,Pedro Severino,R,Tony Wolters,547172,6,6,8,True,2019-05-24,Stolen,2B,2019,2020, 75.9, 0.72
+99,1B,,Caught Stealing 2B,457705,Andrew McCutchen,592351,Jon Gray,516416,Jean Segura,R,Tony Wolters,547172,0,0,1,False,2019-05-17,Caught,2B,2019,2020, 75.9, 0.72
+100,1B,,Caught Stealing 2B,516416,Jean Segura,592351,Jon Gray,656555,Rhys Hoskins,R,Tony Wolters,547172,0,0,1,False,2019-05-17,Caught,2B,2019,2020, 75.9, 0.72
+101,1B,,Caught Stealing 2B,594824,Greg Garcia,592351,Jon Gray,592518,Manny Machado,R,Tony Wolters,547172,0,0,3,True,2019-05-11,Caught,2B,2019,2020, 75.9, 0.72
+102,1B,2B,Stolen Base 2B,571976,Wil Myers,451584,Wade Davis,595978,Austin Hedges,R,Tony Wolters,547172,3,3,9,True,2019-05-11,Stolen,2B,2019,2020, 75.9, 0.72
+103,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,608566,Germán Márquez,606466,Ketel Marte,R,Tony Wolters,547172,1,1,3,True,2019-05-05,Stolen,2B,2019,2020, 75.9, 0.72
+104,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,608566,Germán Márquez,444482,David Peralta,R,Tony Wolters,547172,1,3,5,True,2019-05-05,Stolen,2B,2019,2020, 75.9, 0.72
+105,1B,2B,Stolen Base 2B,622666,Johan Camargo,592351,Jon Gray,518692,Freddie Freeman,R,Tony Wolters,547172,2,2,5,False,2019-04-27,Stolen,2B,2019,2020, 75.9, 0.72
+106,2B,3B,Stolen Base 3B,594809,Adam Eaton,542881,Tyler Anderson,435062,Howie Kendrick,L,Tony Wolters,547172,0,2,1,True,2019-04-22,Stolen,3B,2019,2020, 75.9, 0.72
+107,1B,2B,Stolen Base 2B,665742,Juan Soto,542881,Tyler Anderson,435062,Howie Kendrick,L,Tony Wolters,547172,0,2,1,True,2019-04-22,Stolen,2B,2019,2020, 75.9, 0.72
+108,1B,,Caught Stealing 2B,474832,Brandon Belt,518452,Chad Bettis,543063,Brandon Crawford,R,Tony Wolters,547172,0,0,2,False,2019-04-12,Caught,2B,2019,2020, 75.9, 0.72
+109,1B,,Caught Stealing 2B,621453,Steven Duggar,592351,Jon Gray,605412,Joe Panik,R,Tony Wolters,547172,0,0,1,False,2019-04-11,Caught,2B,2019,2020, 75.9, 0.72
+110,1B,,Caught Stealing 2B,572041,AJ Pollock,592351,Jon Gray,657077,Alex Verdugo,R,Tony Wolters,547172,0,2,4,True,2019-04-06,Caught,2B,2019,2020, 75.9, 0.72
+111,1B,2B,Stolen Base 2B,664040,Brandon Lowe,608566,Germán Márquez,541645,Avisaíl García,R,Tony Wolters,547172,0,0,4,False,2019-04-03,Stolen,2B,2019,2020, 75.9, 0.72
+112,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,608566,Germán Márquez,572287,Mike Zunino,R,Tony Wolters,547172,0,0,7,False,2019-04-03,Stolen,2B,2019,2020, 75.9, 0.72
+113,1B,2B,Stolen Base 2B,541645,Avisaíl García,451584,Wade Davis,621002,Daniel Robertson,R,Tony Wolters,547172,0,0,10,False,2019-04-03,Stolen,2B,2019,2020, 75.9, 0.72
+114,2B,,Caught Stealing 3B,456715,Lorenzo Cain,572021,James Pazos,592325,Ben Gamel,L,Tony Wolters,547172,0,1,7,True,2019-09-28,Caught,3B,2019,2020, 75.9, 0.72
+115,1B,2B,Stolen Base 2B,519390,Stephen Vogt,543532,Tim Melville,542436,Cristhian Adames,R,Tony Wolters,547172,0,0,2,False,2019-09-25,Stolen,2B,2019,2020, 75.9, 0.72
+116,1B,2B,Stolen Base 2B,519390,Stephen Vogt,572021,James Pazos,542436,Cristhian Adames,L,Tony Wolters,547172,1,1,8,False,2019-09-25,Stolen,2B,2019,2020, 75.9, 0.72
+117,1B,2B,Stolen Base 2B,446334,Evan Longoria,641149,Wes Parsons,607680,Kevin Pillar,R,Tony Wolters,547172,5,5,11,False,2019-09-24,Stolen,2B,2019,2020, 75.9, 0.72
+118,1B,,Caught Stealing 2B,573262,Mike Yastrzemski,642840,Joe Harvey,446334,Evan Longoria,R,Tony Wolters,547172,5,5,12,False,2019-09-24,Caught,2B,2019,2020, 75.9, 0.72
+119,1B,,Caught Stealing 2B,608671,Travis Jankowski,622786,Jesus Tinoco,571976,Wil Myers,R,Tony Wolters,547172,11,10,8,True,2019-09-14,Caught,2B,2019,2020, 75.9, 0.72
+120,1B,,Caught Stealing 2B,542303,Marcell Ozuna,592346,Chi Chi González,425877,Yadier Molina,R,Tony Wolters,547172,2,0,2,True,2019-09-10,Caught,2B,2019,2020, 75.9, 0.72
+121,1B,2B,Stolen Base 2B,608671,Travis Jankowski,597113,DJ Johnson,649966,Luis Urías,R,Tony Wolters,547172,1,1,6,False,2019-09-08,Stolen,2B,2019,2020, 75.9, 0.72
+122,1B,2B,Stolen Base 2B,571976,Wil Myers,642840,Joe Harvey,592669,Hunter Renfroe,R,Tony Wolters,547172,3,0,8,False,2019-09-07,Stolen,2B,2019,2020, 75.9, 0.72
+123,1B,2B,Stolen Base 2B,669242,Tommy Edman,622786,Jesus Tinoco,542303,Marcell Ozuna,R,Tony Wolters,547172,7,2,4,False,2019-08-25,Stolen,2B,2019,2020, 75.9, 0.72
+124,2B,,Caught Stealing 3B,669242,Tommy Edman,622786,Jesus Tinoco,425877,Yadier Molina,R,Tony Wolters,547172,7,2,4,False,2019-08-25,Caught,3B,2019,2020, 75.9, 0.72
+125,1B,2B,Stolen Base 2B,664056,Harrison Bader,451584,Wade Davis,664854,Ryan Helsley,R,Tony Wolters,547172,7,3,5,False,2019-08-25,Stolen,2B,2019,2020, 75.9, 0.72
+126,1B,,Caught Stealing 2B,502481,Jarrod Dyson,622075,Yency Almonte,605113,Nick Ahmed,R,Tony Wolters,547172,8,6,7,False,2019-08-20,Caught,2B,2019,2020, 75.9, 0.72
+127,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,451584,Wade Davis,606466,Ketel Marte,R,Tony Wolters,547172,3,2,8,False,2019-08-19,Stolen,2B,2019,2020, 75.9, 0.72
+128,1B,2B,Stolen Base 2B,641796,Tim Locastro,451584,Wade Davis,502481,Jarrod Dyson,R,Tony Wolters,547172,6,8,8,True,2019-08-12,Stolen,2B,2019,2020, 75.9, 0.72
+129,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,451584,Wade Davis,571976,Wil Myers,R,Tony Wolters,547172,3,0,7,False,2019-08-09,Stolen,2B,2019,2020, 75.9, 0.72
+130,2B,3B,Stolen Base 3B,665487,Fernando Tatis Jr.,451584,Wade Davis,592518,Manny Machado,R,Tony Wolters,547172,3,0,7,False,2019-08-09,Stolen,3B,2019,2020, 75.9, 0.72
+131,1B,2B,Stolen Base 2B,592518,Manny Machado,592351,Jon Gray,543333,Eric Hosmer,R,Tony Wolters,547172,2,1,1,False,2019-08-08,Stolen,2B,2019,2020, 75.9, 0.72
+132,1B,,Caught Stealing 2B,665487,Fernando Tatis Jr.,592351,Jon Gray,571976,Wil Myers,R,Tony Wolters,547172,3,1,2,False,2019-08-08,Caught,2B,2019,2020, 75.9, 0.72
+133,1B,2B,Stolen Base 2B,493329,Yuli Gurriel,592346,Chi Chi González,455139,Robinson Chirinos,R,Tony Wolters,547172,6,5,6,False,2019-08-06,Stolen,2B,2019,2020, 75.9, 0.72
+134,2B,3B,Stolen Base 3B,607680,Kevin Pillar,607572,Sam Howard,596103,Austin Slater,L,Tony Wolters,547172,5,6,9,True,2019-08-03,Stolen,3B,2019,2020, 75.9, 0.72
+135,1B,,Caught Stealing 2B,642165,Josh VanMeter,545064,Jairo Díaz,669222,Nick Senzel,R,Tony Wolters,547172,3,1,6,False,2019-07-27,Caught,2B,2019,2020, 75.9, 0.72
+136,2B,3B,Stolen Base 3B,572821,Brian Dozier,543766,Bryan Shaw,467827,Gerardo Parra,R,Tony Wolters,547172,5,5,6,False,2019-07-25,Stolen,3B,2019,2020, 75.9, 0.72
+137,1B,2B,Stolen Base 2B,645302,Victor Robles,543766,Bryan Shaw,467827,Gerardo Parra,R,Tony Wolters,547172,5,5,6,False,2019-07-25,Stolen,2B,2019,2020, 75.9, 0.72
+138,1B,2B,Stolen Base 2B,665742,Juan Soto,451584,Wade Davis,571431,Matt Adams,R,Tony Wolters,547172,7,8,9,False,2019-07-25,Stolen,2B,2019,2020, 75.9, 0.72
+139,1B,2B,Stolen Base 2B,519222,Austin Romine,622608,Antonio Senzatela,518934,DJ LeMahieu,R,Tony Wolters,547172,3,0,2,False,2019-07-20,Stolen,2B,2019,2020, 75.9, 0.72
+140,1B,2B,Stolen Base 2B,669222,Nick Senzel,622608,Antonio Senzatela,608385,Jesse Winker,R,Tony Wolters,547172,4,4,5,True,2019-07-14,Stolen,2B,2019,2020, 75.9, 0.72
+141,1B,,Caught Stealing 2B,578428,Jose Iglesias,623184,Scott Oberg,606299,José Peraza,R,Tony Wolters,547172,10,9,8,True,2019-07-14,Caught,2B,2019,2020, 75.9, 0.72
+142,1B,2B,Stolen Base 2B,605113,Nick Ahmed,545064,Jairo Díaz,608348,Carson Kelly,R,Tony Wolters,547172,4,1,6,False,2019-07-06,Stolen,2B,2019,2020, 75.9, 0.72
+143,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,622608,Antonio Senzatela,606466,Ketel Marte,R,Tony Wolters,547172,4,0,5,False,2019-07-05,Stolen,2B,2019,2020, 75.9, 0.72
+144,1B,2B,Stolen Base 2B,608324,Alex Bregman,663567,Peter Lambert,488726,Michael Brantley,R,Tony Wolters,547172,1,2,3,True,2019-07-03,Stolen,2B,2019,2020, 75.9, 0.72
+145,1B,2B,Stolen Base 2B,514888,Jose Altuve,623184,Scott Oberg,488726,Michael Brantley,R,Tony Wolters,547172,8,9,9,True,2019-07-02,Stolen,2B,2019,2020, 75.9, 0.72
+146,3B,,Caught Stealing Home,543105,Alex Dickerson,608566,Germán Márquez,543063,Brandon Crawford,R,Tony Wolters,547172,2,0,1,False,2019-06-26,Caught,Home,2019,2020, 75.9, 0.72
+147,2B,,Caught Stealing 3B,573262,Mike Yastrzemski,608566,Germán Márquez,543105,Alex Dickerson,R,Tony Wolters,547172,3,5,5,False,2019-06-26,Caught,3B,2019,2020, 75.9, 0.72
+148,1B,2B,Stolen Base 2B,543105,Alex Dickerson,592351,Jon Gray,467055,Pablo Sandoval,R,Tony Wolters,547172,0,0,1,False,2019-06-24,Stolen,2B,2019,2020, 75.9, 0.72
+149,2B,3B,Stolen Base 3B,606466,Ketel Marte,592351,Jon Gray,430945,Adam Jones,R,Tony Wolters,547172,2,0,3,False,2019-06-19,Stolen,3B,2019,2020, 75.9, 0.72
+150,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,592351,Jon Gray,444482,David Peralta,R,Tony Wolters,547172,2,2,5,False,2019-06-19,Stolen,2B,2019,2020, 75.9, 0.72
+151,1B,2B,Stolen Base 2B,435079,Ian Kinsler,656546,Jeff Hoffman,595978,Austin Hedges,R,Tony Wolters,547172,2,1,5,True,2019-06-14,Stolen,2B,2019,2020, 75.9, 0.72
+152,1B,,Caught Stealing 2B,623520,David Bote,608566,Germán Márquez,506433,Yu Darvish,R,Tony Wolters,547172,0,0,3,False,2019-06-05,Caught,2B,2019,2020, 75.9, 0.72
+153,2B,3B,Stolen Base 3B,666971,Lourdes Gurriel Jr.,592351,Jon Gray,643376,Danny Jansen,R,Tony Wolters,547172,3,0,2,True,2019-06-01,Stolen,3B,2019,2020, 75.9, 0.72
+154,1B,2B,Stolen Base 2B,624415,Cavan Biggio,592351,Jon Gray,643376,Danny Jansen,R,Tony Wolters,547172,3,0,2,True,2019-06-01,Stolen,2B,2019,2020, 75.9, 0.72
+155,1B,2B,Stolen Base 2B,641796,Tim Locastro,623184,Scott Oberg,430945,Adam Jones,R,Tony Wolters,547172,3,3,9,True,2019-05-27,Stolen,2B,2019,2020, 75.9, 0.72
+156,1B,2B,Stolen Base 2B,500871,Eduardo Escobar,543766,Bryan Shaw,572233,Christian Walker,R,Tony Wolters,547172,3,3,10,True,2019-05-27,Stolen,2B,2019,2020, 75.9, 0.72
+157,1B,,Caught Stealing 2B,592859,Stevie Wilkerson,445197,Mike Dunn,596105,Dwight Smith Jr.,L,Tony Wolters,547172,3,6,7,True,2019-05-24,Caught,2B,2019,2020, 75.9, 0.72
+158,1B,2B,Stolen Base 2B,593643,Hanser Alberto,543766,Bryan Shaw,600474,Pedro Severino,R,Tony Wolters,547172,6,6,8,True,2019-05-24,Stolen,2B,2019,2020, 75.9, 0.72
+159,1B,,Caught Stealing 2B,457705,Andrew McCutchen,592351,Jon Gray,516416,Jean Segura,R,Tony Wolters,547172,0,0,1,False,2019-05-17,Caught,2B,2019,2020, 75.9, 0.72
+160,1B,,Caught Stealing 2B,516416,Jean Segura,592351,Jon Gray,656555,Rhys Hoskins,R,Tony Wolters,547172,0,0,1,False,2019-05-17,Caught,2B,2019,2020, 75.9, 0.72
+161,1B,,Caught Stealing 2B,594824,Greg Garcia,592351,Jon Gray,592518,Manny Machado,R,Tony Wolters,547172,0,0,3,True,2019-05-11,Caught,2B,2019,2020, 75.9, 0.72
+162,1B,2B,Stolen Base 2B,571976,Wil Myers,451584,Wade Davis,595978,Austin Hedges,R,Tony Wolters,547172,3,3,9,True,2019-05-11,Stolen,2B,2019,2020, 75.9, 0.72
+163,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,608566,Germán Márquez,606466,Ketel Marte,R,Tony Wolters,547172,1,1,3,True,2019-05-05,Stolen,2B,2019,2020, 75.9, 0.72
+164,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,608566,Germán Márquez,444482,David Peralta,R,Tony Wolters,547172,1,3,5,True,2019-05-05,Stolen,2B,2019,2020, 75.9, 0.72
+165,1B,2B,Stolen Base 2B,622666,Johan Camargo,592351,Jon Gray,518692,Freddie Freeman,R,Tony Wolters,547172,2,2,5,False,2019-04-27,Stolen,2B,2019,2020, 75.9, 0.72
+166,2B,3B,Stolen Base 3B,594809,Adam Eaton,542881,Tyler Anderson,435062,Howie Kendrick,L,Tony Wolters,547172,0,2,1,True,2019-04-22,Stolen,3B,2019,2020, 75.9, 0.72
+167,1B,2B,Stolen Base 2B,665742,Juan Soto,542881,Tyler Anderson,435062,Howie Kendrick,L,Tony Wolters,547172,0,2,1,True,2019-04-22,Stolen,2B,2019,2020, 75.9, 0.72
+168,1B,,Caught Stealing 2B,474832,Brandon Belt,518452,Chad Bettis,543063,Brandon Crawford,R,Tony Wolters,547172,0,0,2,False,2019-04-12,Caught,2B,2019,2020, 75.9, 0.72
+169,1B,,Caught Stealing 2B,621453,Steven Duggar,592351,Jon Gray,605412,Joe Panik,R,Tony Wolters,547172,0,0,1,False,2019-04-11,Caught,2B,2019,2020, 75.9, 0.72
+170,1B,,Caught Stealing 2B,572041,AJ Pollock,592351,Jon Gray,657077,Alex Verdugo,R,Tony Wolters,547172,0,2,4,True,2019-04-06,Caught,2B,2019,2020, 75.9, 0.72
+171,1B,2B,Stolen Base 2B,664040,Brandon Lowe,608566,Germán Márquez,541645,Avisaíl García,R,Tony Wolters,547172,0,0,4,False,2019-04-03,Stolen,2B,2019,2020, 75.9, 0.72
+172,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,608566,Germán Márquez,572287,Mike Zunino,R,Tony Wolters,547172,0,0,7,False,2019-04-03,Stolen,2B,2019,2020, 75.9, 0.72
+173,1B,2B,Stolen Base 2B,541645,Avisaíl García,451584,Wade Davis,621002,Daniel Robertson,R,Tony Wolters,547172,0,0,10,False,2019-04-03,Stolen,2B,2019,2020, 75.9, 0.72
+174,2B,,Caught Stealing 3B,456715,Lorenzo Cain,572021,James Pazos,592325,Ben Gamel,L,Tony Wolters,547172,0,1,7,True,2019-09-28,Caught,3B,2019,2020, 75.9, 0.72
+175,1B,2B,Stolen Base 2B,519390,Stephen Vogt,543532,Tim Melville,542436,Cristhian Adames,R,Tony Wolters,547172,0,0,2,False,2019-09-25,Stolen,2B,2019,2020, 75.9, 0.72
+176,1B,2B,Stolen Base 2B,519390,Stephen Vogt,572021,James Pazos,542436,Cristhian Adames,L,Tony Wolters,547172,1,1,8,False,2019-09-25,Stolen,2B,2019,2020, 75.9, 0.72
+177,1B,2B,Stolen Base 2B,446334,Evan Longoria,641149,Wes Parsons,607680,Kevin Pillar,R,Tony Wolters,547172,5,5,11,False,2019-09-24,Stolen,2B,2019,2020, 75.9, 0.72
+178,1B,,Caught Stealing 2B,573262,Mike Yastrzemski,642840,Joe Harvey,446334,Evan Longoria,R,Tony Wolters,547172,5,5,12,False,2019-09-24,Caught,2B,2019,2020, 75.9, 0.72
+179,1B,,Caught Stealing 2B,608671,Travis Jankowski,622786,Jesus Tinoco,571976,Wil Myers,R,Tony Wolters,547172,11,10,8,True,2019-09-14,Caught,2B,2019,2020, 75.9, 0.72
+180,1B,,Caught Stealing 2B,542303,Marcell Ozuna,592346,Chi Chi González,425877,Yadier Molina,R,Tony Wolters,547172,2,0,2,True,2019-09-10,Caught,2B,2019,2020, 75.9, 0.72
+181,1B,2B,Stolen Base 2B,608671,Travis Jankowski,597113,DJ Johnson,649966,Luis Urías,R,Tony Wolters,547172,1,1,6,False,2019-09-08,Stolen,2B,2019,2020, 75.9, 0.72
+182,1B,2B,Stolen Base 2B,571976,Wil Myers,642840,Joe Harvey,592669,Hunter Renfroe,R,Tony Wolters,547172,3,0,8,False,2019-09-07,Stolen,2B,2019,2020, 75.9, 0.72
+183,1B,2B,Stolen Base 2B,669242,Tommy Edman,622786,Jesus Tinoco,542303,Marcell Ozuna,R,Tony Wolters,547172,7,2,4,False,2019-08-25,Stolen,2B,2019,2020, 75.9, 0.72
+184,2B,,Caught Stealing 3B,669242,Tommy Edman,622786,Jesus Tinoco,425877,Yadier Molina,R,Tony Wolters,547172,7,2,4,False,2019-08-25,Caught,3B,2019,2020, 75.9, 0.72
+185,1B,2B,Stolen Base 2B,664056,Harrison Bader,451584,Wade Davis,664854,Ryan Helsley,R,Tony Wolters,547172,7,3,5,False,2019-08-25,Stolen,2B,2019,2020, 75.9, 0.72
+186,1B,,Caught Stealing 2B,502481,Jarrod Dyson,622075,Yency Almonte,605113,Nick Ahmed,R,Tony Wolters,547172,8,6,7,False,2019-08-20,Caught,2B,2019,2020, 75.9, 0.72
+187,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,451584,Wade Davis,606466,Ketel Marte,R,Tony Wolters,547172,3,2,8,False,2019-08-19,Stolen,2B,2019,2020, 75.9, 0.72
+188,1B,2B,Stolen Base 2B,641796,Tim Locastro,451584,Wade Davis,502481,Jarrod Dyson,R,Tony Wolters,547172,6,8,8,True,2019-08-12,Stolen,2B,2019,2020, 75.9, 0.72
+189,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,451584,Wade Davis,571976,Wil Myers,R,Tony Wolters,547172,3,0,7,False,2019-08-09,Stolen,2B,2019,2020, 75.9, 0.72
+190,2B,3B,Stolen Base 3B,665487,Fernando Tatis Jr.,451584,Wade Davis,592518,Manny Machado,R,Tony Wolters,547172,3,0,7,False,2019-08-09,Stolen,3B,2019,2020, 75.9, 0.72
+191,1B,2B,Stolen Base 2B,592518,Manny Machado,592351,Jon Gray,543333,Eric Hosmer,R,Tony Wolters,547172,2,1,1,False,2019-08-08,Stolen,2B,2019,2020, 75.9, 0.72
+192,1B,,Caught Stealing 2B,665487,Fernando Tatis Jr.,592351,Jon Gray,571976,Wil Myers,R,Tony Wolters,547172,3,1,2,False,2019-08-08,Caught,2B,2019,2020, 75.9, 0.72
+193,1B,2B,Stolen Base 2B,493329,Yuli Gurriel,592346,Chi Chi González,455139,Robinson Chirinos,R,Tony Wolters,547172,6,5,6,False,2019-08-06,Stolen,2B,2019,2020, 75.9, 0.72
+194,2B,3B,Stolen Base 3B,607680,Kevin Pillar,607572,Sam Howard,596103,Austin Slater,L,Tony Wolters,547172,5,6,9,True,2019-08-03,Stolen,3B,2019,2020, 75.9, 0.72
+195,1B,,Caught Stealing 2B,642165,Josh VanMeter,545064,Jairo Díaz,669222,Nick Senzel,R,Tony Wolters,547172,3,1,6,False,2019-07-27,Caught,2B,2019,2020, 75.9, 0.72
+196,2B,3B,Stolen Base 3B,572821,Brian Dozier,543766,Bryan Shaw,467827,Gerardo Parra,R,Tony Wolters,547172,5,5,6,False,2019-07-25,Stolen,3B,2019,2020, 75.9, 0.72
+197,1B,2B,Stolen Base 2B,645302,Victor Robles,543766,Bryan Shaw,467827,Gerardo Parra,R,Tony Wolters,547172,5,5,6,False,2019-07-25,Stolen,2B,2019,2020, 75.9, 0.72
+198,1B,2B,Stolen Base 2B,665742,Juan Soto,451584,Wade Davis,571431,Matt Adams,R,Tony Wolters,547172,7,8,9,False,2019-07-25,Stolen,2B,2019,2020, 75.9, 0.72
+199,1B,2B,Stolen Base 2B,519222,Austin Romine,622608,Antonio Senzatela,518934,DJ LeMahieu,R,Tony Wolters,547172,3,0,2,False,2019-07-20,Stolen,2B,2019,2020, 75.9, 0.72
+200,1B,2B,Stolen Base 2B,669222,Nick Senzel,622608,Antonio Senzatela,608385,Jesse Winker,R,Tony Wolters,547172,4,4,5,True,2019-07-14,Stolen,2B,2019,2020, 75.9, 0.72
+201,1B,,Caught Stealing 2B,578428,Jose Iglesias,623184,Scott Oberg,606299,José Peraza,R,Tony Wolters,547172,10,9,8,True,2019-07-14,Caught,2B,2019,2020, 75.9, 0.72
+202,1B,2B,Stolen Base 2B,605113,Nick Ahmed,545064,Jairo Díaz,608348,Carson Kelly,R,Tony Wolters,547172,4,1,6,False,2019-07-06,Stolen,2B,2019,2020, 75.9, 0.72
+203,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,622608,Antonio Senzatela,606466,Ketel Marte,R,Tony Wolters,547172,4,0,5,False,2019-07-05,Stolen,2B,2019,2020, 75.9, 0.72
+204,1B,2B,Stolen Base 2B,608324,Alex Bregman,663567,Peter Lambert,488726,Michael Brantley,R,Tony Wolters,547172,1,2,3,True,2019-07-03,Stolen,2B,2019,2020, 75.9, 0.72
+205,1B,2B,Stolen Base 2B,514888,Jose Altuve,623184,Scott Oberg,488726,Michael Brantley,R,Tony Wolters,547172,8,9,9,True,2019-07-02,Stolen,2B,2019,2020, 75.9, 0.72
+206,3B,,Caught Stealing Home,543105,Alex Dickerson,608566,Germán Márquez,543063,Brandon Crawford,R,Tony Wolters,547172,2,0,1,False,2019-06-26,Caught,Home,2019,2020, 75.9, 0.72
+207,2B,,Caught Stealing 3B,573262,Mike Yastrzemski,608566,Germán Márquez,543105,Alex Dickerson,R,Tony Wolters,547172,3,5,5,False,2019-06-26,Caught,3B,2019,2020, 75.9, 0.72
+208,1B,2B,Stolen Base 2B,543105,Alex Dickerson,592351,Jon Gray,467055,Pablo Sandoval,R,Tony Wolters,547172,0,0,1,False,2019-06-24,Stolen,2B,2019,2020, 75.9, 0.72
+209,2B,3B,Stolen Base 3B,606466,Ketel Marte,592351,Jon Gray,430945,Adam Jones,R,Tony Wolters,547172,2,0,3,False,2019-06-19,Stolen,3B,2019,2020, 75.9, 0.72
+210,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,592351,Jon Gray,444482,David Peralta,R,Tony Wolters,547172,2,2,5,False,2019-06-19,Stolen,2B,2019,2020, 75.9, 0.72
+211,1B,2B,Stolen Base 2B,435079,Ian Kinsler,656546,Jeff Hoffman,595978,Austin Hedges,R,Tony Wolters,547172,2,1,5,True,2019-06-14,Stolen,2B,2019,2020, 75.9, 0.72
+212,1B,,Caught Stealing 2B,623520,David Bote,608566,Germán Márquez,506433,Yu Darvish,R,Tony Wolters,547172,0,0,3,False,2019-06-05,Caught,2B,2019,2020, 75.9, 0.72
+213,2B,3B,Stolen Base 3B,666971,Lourdes Gurriel Jr.,592351,Jon Gray,643376,Danny Jansen,R,Tony Wolters,547172,3,0,2,True,2019-06-01,Stolen,3B,2019,2020, 75.9, 0.72
+214,1B,2B,Stolen Base 2B,624415,Cavan Biggio,592351,Jon Gray,643376,Danny Jansen,R,Tony Wolters,547172,3,0,2,True,2019-06-01,Stolen,2B,2019,2020, 75.9, 0.72
+215,1B,2B,Stolen Base 2B,641796,Tim Locastro,623184,Scott Oberg,430945,Adam Jones,R,Tony Wolters,547172,3,3,9,True,2019-05-27,Stolen,2B,2019,2020, 75.9, 0.72
+216,1B,2B,Stolen Base 2B,500871,Eduardo Escobar,543766,Bryan Shaw,572233,Christian Walker,R,Tony Wolters,547172,3,3,10,True,2019-05-27,Stolen,2B,2019,2020, 75.9, 0.72
+217,1B,,Caught Stealing 2B,592859,Stevie Wilkerson,445197,Mike Dunn,596105,Dwight Smith Jr.,L,Tony Wolters,547172,3,6,7,True,2019-05-24,Caught,2B,2019,2020, 75.9, 0.72
+218,1B,2B,Stolen Base 2B,593643,Hanser Alberto,543766,Bryan Shaw,600474,Pedro Severino,R,Tony Wolters,547172,6,6,8,True,2019-05-24,Stolen,2B,2019,2020, 75.9, 0.72
+219,1B,,Caught Stealing 2B,457705,Andrew McCutchen,592351,Jon Gray,516416,Jean Segura,R,Tony Wolters,547172,0,0,1,False,2019-05-17,Caught,2B,2019,2020, 75.9, 0.72
+220,1B,,Caught Stealing 2B,516416,Jean Segura,592351,Jon Gray,656555,Rhys Hoskins,R,Tony Wolters,547172,0,0,1,False,2019-05-17,Caught,2B,2019,2020, 75.9, 0.72
+221,1B,,Caught Stealing 2B,594824,Greg Garcia,592351,Jon Gray,592518,Manny Machado,R,Tony Wolters,547172,0,0,3,True,2019-05-11,Caught,2B,2019,2020, 75.9, 0.72
+222,1B,2B,Stolen Base 2B,571976,Wil Myers,451584,Wade Davis,595978,Austin Hedges,R,Tony Wolters,547172,3,3,9,True,2019-05-11,Stolen,2B,2019,2020, 75.9, 0.72
+223,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,608566,Germán Márquez,606466,Ketel Marte,R,Tony Wolters,547172,1,1,3,True,2019-05-05,Stolen,2B,2019,2020, 75.9, 0.72
+224,1B,2B,Stolen Base 2B,502481,Jarrod Dyson,608566,Germán Márquez,444482,David Peralta,R,Tony Wolters,547172,1,3,5,True,2019-05-05,Stolen,2B,2019,2020, 75.9, 0.72
+225,1B,2B,Stolen Base 2B,622666,Johan Camargo,592351,Jon Gray,518692,Freddie Freeman,R,Tony Wolters,547172,2,2,5,False,2019-04-27,Stolen,2B,2019,2020, 75.9, 0.72
+226,2B,3B,Stolen Base 3B,594809,Adam Eaton,542881,Tyler Anderson,435062,Howie Kendrick,L,Tony Wolters,547172,0,2,1,True,2019-04-22,Stolen,3B,2019,2020, 75.9, 0.72
+227,1B,2B,Stolen Base 2B,665742,Juan Soto,542881,Tyler Anderson,435062,Howie Kendrick,L,Tony Wolters,547172,0,2,1,True,2019-04-22,Stolen,2B,2019,2020, 75.9, 0.72
+228,1B,,Caught Stealing 2B,474832,Brandon Belt,518452,Chad Bettis,543063,Brandon Crawford,R,Tony Wolters,547172,0,0,2,False,2019-04-12,Caught,2B,2019,2020, 75.9, 0.72
+229,1B,,Caught Stealing 2B,621453,Steven Duggar,592351,Jon Gray,605412,Joe Panik,R,Tony Wolters,547172,0,0,1,False,2019-04-11,Caught,2B,2019,2020, 75.9, 0.72
+230,1B,,Caught Stealing 2B,572041,AJ Pollock,592351,Jon Gray,657077,Alex Verdugo,R,Tony Wolters,547172,0,2,4,True,2019-04-06,Caught,2B,2019,2020, 75.9, 0.72
+231,1B,2B,Stolen Base 2B,664040,Brandon Lowe,608566,Germán Márquez,541645,Avisaíl García,R,Tony Wolters,547172,0,0,4,False,2019-04-03,Stolen,2B,2019,2020, 75.9, 0.72
+232,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,608566,Germán Márquez,572287,Mike Zunino,R,Tony Wolters,547172,0,0,7,False,2019-04-03,Stolen,2B,2019,2020, 75.9, 0.72
+233,1B,2B,Stolen Base 2B,541645,Avisaíl García,451584,Wade Davis,621002,Daniel Robertson,R,Tony Wolters,547172,0,0,10,False,2019-04-03,Stolen,2B,2019,2020, 75.9, 0.72
+234,1B,2B,Stolen Base 2B,650489,Willi Castro,621219,Alec Mills,668731,Akil Baddoo,R,Tony Wolters,547172,3,4,4,False,2021-05-15,Stolen,2B,2021,2022, --, 0.59
+235,1B,2B,Stolen Base 2B,668731,Akil Baddoo,624522,Keegan Thompson,592348,Niko Goodrum,R,Tony Wolters,547172,7,7,9,False,2021-05-15,Stolen,2B,2021,2022, --, 0.59
+236,1B,2B,Stolen Base 2B,592444,JaCoby Jones,518886,Craig Kimbrel,570731,Jonathan Schoop,R,Tony Wolters,547172,8,8,10,False,2021-05-15,Stolen,2B,2021,2022, --, 0.59
+237,1B,2B,Stolen Base 2B,605141,Mookie Betts,596027,Dillon Maples,608369,Corey Seager,R,Tony Wolters,547172,1,3,8,True,2021-05-04,Stolen,2B,2021,2022, --, 0.59
+238,1B,2B,Stolen Base 2B,571980,Tyler Naquin,605200,Zach Davies,458015,Joey Votto,R,Tony Wolters,547172,2,1,3,False,2021-05-01,Stolen,2B,2021,2022, --, 0.59
+239,1B,2B,Stolen Base 2B,541645,Avisaíl García,543294,Kyle Hendricks,649966,Luis Urías,R,Tony Wolters,547172,0,0,6,True,2021-04-07,Stolen,2B,2021,2022, --, 0.59
+240,1B,2B,Stolen Base 2B,592885,Christian Yelich,605177,Andrew Chafin,541645,Avisaíl García,L,Tony Wolters,547172,0,1,8,True,2021-04-07,Stolen,2B,2021,2022, --, 0.59
+241,1B,2B,Stolen Base 2B,650489,Willi Castro,621219,Alec Mills,668731,Akil Baddoo,R,Tony Wolters,547172,3,4,4,False,2021-05-15,Stolen,2B,2021,2022, --, 0.59
+242,1B,2B,Stolen Base 2B,668731,Akil Baddoo,624522,Keegan Thompson,592348,Niko Goodrum,R,Tony Wolters,547172,7,7,9,False,2021-05-15,Stolen,2B,2021,2022, --, 0.59
+243,1B,2B,Stolen Base 2B,592444,JaCoby Jones,518886,Craig Kimbrel,570731,Jonathan Schoop,R,Tony Wolters,547172,8,8,10,False,2021-05-15,Stolen,2B,2021,2022, --, 0.59
+244,1B,2B,Stolen Base 2B,605141,Mookie Betts,596027,Dillon Maples,608369,Corey Seager,R,Tony Wolters,547172,1,3,8,True,2021-05-04,Stolen,2B,2021,2022, --, 0.59
+245,1B,2B,Stolen Base 2B,571980,Tyler Naquin,605200,Zach Davies,458015,Joey Votto,R,Tony Wolters,547172,2,1,3,False,2021-05-01,Stolen,2B,2021,2022, --, 0.59
+246,1B,2B,Stolen Base 2B,541645,Avisaíl García,543294,Kyle Hendricks,649966,Luis Urías,R,Tony Wolters,547172,0,0,6,True,2021-04-07,Stolen,2B,2021,2022, --, 0.59
+247,1B,2B,Stolen Base 2B,592885,Christian Yelich,605177,Andrew Chafin,541645,Avisaíl García,L,Tony Wolters,547172,0,1,8,True,2021-04-07,Stolen,2B,2021,2022, --, 0.59
+248,1B,2B,Stolen Base 2B,453943,Todd Frazier,451584,Wade Davis,624424,Michael Conforto,R,Tony Wolters,547172,7,8,9,False,2018-05-04,Stolen,2B,2018,2019, 79.9, 0.64
+249,1B,,Caught Stealing 2B,457727,Cameron Maybin,518452,Chad Bettis,621446,Lewis Brinson,R,Tony Wolters,547172,2,0,7,False,2018-04-29,Caught,2B,2018,2019, 79.9, 0.64
+250,1B,,Caught Stealing 2B,622534,Manuel Margot,592351,Jon Gray,520471,Freddy Galvis,R,Tony Wolters,547172,0,0,2,True,2018-04-25,Caught,2B,2018,2019, 79.9, 0.64
+251,1B,,Caught Stealing 2B,517369,José Pirela,592351,Jon Gray,571976,Wil Myers,R,Tony Wolters,547172,4,0,6,True,2018-04-25,Caught,2B,2018,2019, 79.9, 0.64
+252,2B,3B,Stolen Base 3B,571976,Wil Myers,623184,Scott Oberg,517369,José Pirela,R,Tony Wolters,547172,5,6,7,True,2018-04-23,Stolen,3B,2018,2019, 79.9, 0.64
+253,1B,2B,Stolen Base 2B,543333,Eric Hosmer,623184,Scott Oberg,517369,José Pirela,R,Tony Wolters,547172,5,6,7,True,2018-04-23,Stolen,2B,2018,2019, 79.9, 0.64
+254,2B,,Caught Stealing 3B,623520,David Bote,542881,Tyler Anderson,506433,Yu Darvish,L,Tony Wolters,547172,0,2,2,True,2018-04-21,Caught,3B,2018,2019, 79.9, 0.64
+255,1B,2B,Stolen Base 2B,607208,Trea Turner,592351,Jon Gray,594694,Wilmer Difo,R,Tony Wolters,547172,0,2,3,False,2018-04-14,Stolen,2B,2018,2019, 79.9, 0.64
+256,1B,2B,Stolen Base 2B,547180,Bryce Harper,592351,Jon Gray,571431,Matt Adams,R,Tony Wolters,547172,1,2,6,False,2018-04-14,Stolen,2B,2018,2019, 79.9, 0.64
+257,1B,2B,Stolen Base 2B,475247,Ryan Flaherty,451584,Wade Davis,572669,Lane Adams,R,Tony Wolters,547172,2,2,9,True,2018-04-07,Stolen,2B,2018,2019, 79.9, 0.64
+258,1B,2B,Stolen Base 2B,645277,Ozzie Albies,493603,Adam Ottavino,455976,Nick Markakis,R,Tony Wolters,547172,2,2,10,True,2018-04-07,Stolen,2B,2018,2019, 79.9, 0.64
+259,2B,3B,Stolen Base 3B,641796,Tim Locastro,518813,Greg Holland,523253,Logan Forsythe,R,Tony Wolters,547172,3,5,9,True,2017-09-30,Stolen,3B,2017,2018, 78.5, 0.65
+260,1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,592351,Jon Gray,519317,Giancarlo Stanton,R,Tony Wolters,547172,6,0,3,True,2017-09-27,Stolen,2B,2017,2018, 78.5, 0.65
+261,2B,,Caught Stealing 3B,605486,Cory Spangenberg,608566,Germán Márquez,502570,Rocky Gale,R,Tony Wolters,547172,2,2,2,False,2017-09-24,Caught,3B,2017,2018, 78.5, 0.65
+262,1B,2B,Caught Stealing 3B,608671,Travis Jankowski,608566,Germán Márquez,502570,Rocky Gale,R,Tony Wolters,547172,2,2,2,False,2017-09-24,Caught,3B,2017,2018, 78.5, 0.65
+263,1B,2B,Stolen Base 2B,430947,Erick Aybar,592351,Jon Gray,595978,Austin Hedges,R,Tony Wolters,547172,0,0,2,False,2017-09-22,Stolen,2B,2017,2018, 78.5, 0.65
+264,1B,2B,Stolen Base 2B,608671,Travis Jankowski,592351,Jon Gray,543475,Jordan Lyles,R,Tony Wolters,547172,1,2,5,False,2017-09-22,Stolen,2B,2017,2018, 78.5, 0.65
+265,1B,,Caught Stealing 2B,518692,Freddie Freeman,592351,Jon Gray,455976,Nick Markakis,R,Tony Wolters,547172,0,0,1,False,2017-08-27,Caught,2B,2017,2018, 78.5, 0.65
+266,1B,,Caught Stealing 2B,621020,Dansby Swanson,592351,Jon Gray,542255,Ender Inciarte,R,Tony Wolters,547172,0,1,5,False,2017-08-27,Caught,2B,2017,2018, 78.5, 0.65
+267,2B,3B,Stolen Base 3B,425877,Yadier Molina,545064,Jairo Díaz,572228,Luke Voit,R,Tony Wolters,547172,6,2,8,False,2017-07-24,Stolen,3B,2017,2018, 78.5, 0.65
+268,1B,2B,Stolen Base 2B,516782,Starling Marte,608566,Germán Márquez,543281,Josh Harrison,R,Tony Wolters,547172,0,1,3,True,2017-07-22,Stolen,2B,2017,2018, 78.5, 0.65
+269,1B,2B,Stolen Base 2B,516782,Starling Marte,656546,Jeff Hoffman,457705,Andrew McCutchen,R,Tony Wolters,547172,0,0,1,True,2017-07-21,Stolen,2B,2017,2018, 78.5, 0.65
+270,1B,2B,Stolen Base 2B,516782,Starling Marte,543475,Jordan Lyles,543281,Josh Harrison,R,Tony Wolters,547172,3,7,5,True,2017-07-21,Stolen,2B,2017,2018, 78.5, 0.65
+271,2B,3B,Stolen Base 3B,408314,José Reyes,543734,Chris Rusin,607625,Seth Lugo,L,Tony Wolters,547172,4,0,1,False,2017-07-15,Stolen,3B,2017,2018, 78.5, 0.65
+272,1B,,Caught Stealing 2B,593700,Alen Hanson,518813,Greg Holland,641553,Adam Engel,R,Tony Wolters,547172,4,5,9,True,2017-07-08,Caught,2B,2017,2018, 78.5, 0.65
+273,1B,,Caught Stealing 2B,606466,Ketel Marte,608566,Germán Márquez,592836,Taijuan Walker,R,Tony Wolters,547172,2,2,5,False,2017-07-02,Caught,2B,2017,2018, 78.5, 0.65
+274,1B,,Caught Stealing 2B,452655,Denard Span,608566,Germán Márquez,605412,Joe Panik,R,Tony Wolters,547172,0,0,1,False,2017-06-26,Caught,2B,2017,2018, 78.5, 0.65
+275,2B,3B,Stolen Base 3B,605509,Kelby Tomlinson,545064,Jairo Díaz,605412,Joe Panik,R,Tony Wolters,547172,8,2,8,False,2017-06-26,Stolen,3B,2017,2018, 78.5, 0.65
+276,1B,2B,Stolen Base 2B,621035,Chris Taylor,542881,Tyler Anderson,641355,Cody Bellinger,L,Tony Wolters,547172,0,0,1,False,2017-06-25,Stolen,2B,2017,2018, 78.5, 0.65
+277,2B,3B,Stolen Base 3B,621035,Chris Taylor,493603,Adam Ottavino,571771,Enrique Hernández,R,Tony Wolters,547172,8,6,8,False,2017-06-25,Stolen,3B,2017,2018, 78.5, 0.65
+278,1B,,Caught Stealing 2B,571875,Jake Lamb,608566,Germán Márquez,572008,Chris Owings,R,Tony Wolters,547172,2,1,6,True,2017-06-20,Caught,2B,2017,2018, 78.5, 0.65
+279,1B,,Caught Stealing 2B,452254,Hunter Pence,622608,Antonio Senzatela,543063,Brandon Crawford,R,Tony Wolters,547172,1,2,4,True,2017-06-16,Caught,2B,2017,2018, 78.5, 0.65
+280,1B,2B,Stolen Base 2B,624428,Adam Frazier,608566,Germán Márquez,570256,Gregory Polanco,R,Tony Wolters,547172,0,0,1,False,2017-06-14,Stolen,2B,2017,2018, 78.5, 0.65
+281,1B,,Caught Stealing 2B,614173,Franchy Cordero,543022,Tyler Chatwood,605486,Cory Spangenberg,R,Tony Wolters,547172,0,0,2,False,2017-06-03,Caught,2B,2017,2018, 78.5, 0.65
+282,1B,2B,Stolen Base 2B,488818,Chase d'Arnaud,608566,Germán Márquez,453385,Clayton Richard,R,Tony Wolters,547172,0,3,3,False,2017-06-02,Stolen,2B,2017,2018, 78.5, 0.65
+283,1B,2B,Stolen Base 2B,614173,Franchy Cordero,445197,Mike Dunn,595978,Austin Hedges,L,Tony Wolters,547172,8,5,7,False,2017-06-02,Stolen,2B,2017,2018, 78.5, 0.65
+284,1B,2B,Stolen Base 2B,516416,Jean Segura,430589,Chad Qualls,502143,Danny Valencia,R,Tony Wolters,547172,2,7,8,True,2017-05-30,Stolen,2B,2017,2018, 78.5, 0.65
+285,1B,2B,Stolen Base 2B,571740,Billy Hamilton,622608,Antonio Senzatela,458015,Joey Votto,R,Tony Wolters,547172,0,1,1,False,2017-05-20,Stolen,2B,2017,2018, 78.5, 0.65
+286,1B,2B,Stolen Base 2B,594807,Adam Duvall,623184,Scott Oberg,553993,Eugenio Suárez,R,Tony Wolters,547172,12,8,7,False,2017-05-20,Stolen,2B,2017,2018, 78.5, 0.65
+287,2B,,Caught Stealing 3B,623182,Patrick Kivlehan,542881,Tyler Anderson,571740,Billy Hamilton,L,Tony Wolters,547172,1,2,5,False,2017-05-19,Caught,3B,2017,2018, 78.5, 0.65
+288,1B,2B,Stolen Base 2B,543257,Robbie Grossman,543022,Tyler Chatwood,593934,Miguel Sanó,R,Tony Wolters,547172,0,0,1,False,2017-05-18,Stolen,2B,2017,2018, 78.5, 0.65
+289,1B,2B,Stolen Base 2B,621439,Byron Buxton,608566,Germán Márquez,408045,Joe Mauer,R,Tony Wolters,547172,1,5,5,False,2017-05-18,Stolen,2B,2017,2018, 78.5, 0.65
+290,1B,2B,Stolen Base 2B,543257,Robbie Grossman,543022,Tyler Chatwood,593934,Miguel Sanó,R,Tony Wolters,547172,0,0,1,False,2017-05-17,Stolen,2B,2017,2018, 78.5, 0.65
+291,1B,,Caught Stealing 2B,592696,Eddie Rosario,607536,Kyle Freeland,572821,Brian Dozier,L,Tony Wolters,547172,3,3,4,False,2017-05-16,Caught,2B,2017,2018, 78.5, 0.65
+292,2B,3B,Stolen Base 3B,572041,AJ Pollock,542881,Tyler Anderson,571875,Jake Lamb,L,Tony Wolters,547172,0,0,1,False,2017-04-29,Stolen,3B,2017,2018, 78.5, 0.65
+293,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,542881,Tyler Anderson,571875,Jake Lamb,L,Tony Wolters,547172,0,0,1,False,2017-04-29,Stolen,2B,2017,2018, 78.5, 0.65
+294,1B,2B,Stolen Base 2B,456488,Eduardo Núñez,493603,Adam Ottavino,605412,Joe Panik,R,Tony Wolters,547172,6,5,8,True,2017-04-21,Stolen,2B,2017,2018, 78.5, 0.65
+295,1B,2B,Stolen Base 2B,605131,Austin Barnes,543475,Jordan Lyles,501593,Luis Avilán,R,Tony Wolters,547172,4,9,7,True,2017-04-09,Stolen,2B,2017,2018, 78.5, 0.65
+296,1B,,Caught Stealing 2B,460075,Ryan Braun,445197,Mike Dunn,543768,Travis Shaw,L,Tony Wolters,547172,5,6,7,False,2017-04-03,Caught,2B,2017,2018, 78.5, 0.65
+297,2B,3B,Stolen Base 3B,570267,Domingo Santana,493603,Adam Ottavino,542908,Jett Bandy,R,Tony Wolters,547172,5,6,8,False,2017-04-03,Stolen,3B,2017,2018, 78.5, 0.65
+298,1B,2B,Stolen Base 2B,542979,Keon Broxton,493603,Adam Ottavino,542908,Jett Bandy,R,Tony Wolters,547172,5,6,8,False,2017-04-03,Stolen,2B,2017,2018, 78.5, 0.65
+299,1B,,Caught Stealing 2B,547982,Leonys Martin,608032,Carlos Estévez,502481,Jarrod Dyson,R,Tony Wolters,547172,0,0,3,True,2017-04-01,Caught,2B,2017,2018, 78.5, 0.65
+300,1B,,Caught Stealing 2B,600301,Taylor Motter,641438,Shane Carle,643529,Justin Seager,R,Tony Wolters,547172,1,0,5,True,2017-04-01,Caught,2B,2017,2018, 78.5, 0.65
+301,2B,3B,Stolen Base 3B,641796,Tim Locastro,518813,Greg Holland,523253,Logan Forsythe,R,Tony Wolters,547172,3,5,9,True,2017-09-30,Stolen,3B,2017,2018, 78.5, 0.65
+302,1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,592351,Jon Gray,519317,Giancarlo Stanton,R,Tony Wolters,547172,6,0,3,True,2017-09-27,Stolen,2B,2017,2018, 78.5, 0.65
+303,2B,,Caught Stealing 3B,605486,Cory Spangenberg,608566,Germán Márquez,502570,Rocky Gale,R,Tony Wolters,547172,2,2,2,False,2017-09-24,Caught,3B,2017,2018, 78.5, 0.65
+304,1B,2B,Caught Stealing 3B,608671,Travis Jankowski,608566,Germán Márquez,502570,Rocky Gale,R,Tony Wolters,547172,2,2,2,False,2017-09-24,Caught,3B,2017,2018, 78.5, 0.65
+305,1B,2B,Stolen Base 2B,430947,Erick Aybar,592351,Jon Gray,595978,Austin Hedges,R,Tony Wolters,547172,0,0,2,False,2017-09-22,Stolen,2B,2017,2018, 78.5, 0.65
+306,1B,2B,Stolen Base 2B,608671,Travis Jankowski,592351,Jon Gray,543475,Jordan Lyles,R,Tony Wolters,547172,1,2,5,False,2017-09-22,Stolen,2B,2017,2018, 78.5, 0.65
+307,1B,,Caught Stealing 2B,518692,Freddie Freeman,592351,Jon Gray,455976,Nick Markakis,R,Tony Wolters,547172,0,0,1,False,2017-08-27,Caught,2B,2017,2018, 78.5, 0.65
+308,1B,,Caught Stealing 2B,621020,Dansby Swanson,592351,Jon Gray,542255,Ender Inciarte,R,Tony Wolters,547172,0,1,5,False,2017-08-27,Caught,2B,2017,2018, 78.5, 0.65
+309,2B,3B,Stolen Base 3B,425877,Yadier Molina,545064,Jairo Díaz,572228,Luke Voit,R,Tony Wolters,547172,6,2,8,False,2017-07-24,Stolen,3B,2017,2018, 78.5, 0.65
+310,1B,2B,Stolen Base 2B,516782,Starling Marte,608566,Germán Márquez,543281,Josh Harrison,R,Tony Wolters,547172,0,1,3,True,2017-07-22,Stolen,2B,2017,2018, 78.5, 0.65
+311,1B,2B,Stolen Base 2B,516782,Starling Marte,656546,Jeff Hoffman,457705,Andrew McCutchen,R,Tony Wolters,547172,0,0,1,True,2017-07-21,Stolen,2B,2017,2018, 78.5, 0.65
+312,1B,2B,Stolen Base 2B,516782,Starling Marte,543475,Jordan Lyles,543281,Josh Harrison,R,Tony Wolters,547172,3,7,5,True,2017-07-21,Stolen,2B,2017,2018, 78.5, 0.65
+313,2B,3B,Stolen Base 3B,408314,José Reyes,543734,Chris Rusin,607625,Seth Lugo,L,Tony Wolters,547172,4,0,1,False,2017-07-15,Stolen,3B,2017,2018, 78.5, 0.65
+314,1B,,Caught Stealing 2B,593700,Alen Hanson,518813,Greg Holland,641553,Adam Engel,R,Tony Wolters,547172,4,5,9,True,2017-07-08,Caught,2B,2017,2018, 78.5, 0.65
+315,1B,,Caught Stealing 2B,606466,Ketel Marte,608566,Germán Márquez,592836,Taijuan Walker,R,Tony Wolters,547172,2,2,5,False,2017-07-02,Caught,2B,2017,2018, 78.5, 0.65
+316,1B,,Caught Stealing 2B,452655,Denard Span,608566,Germán Márquez,605412,Joe Panik,R,Tony Wolters,547172,0,0,1,False,2017-06-26,Caught,2B,2017,2018, 78.5, 0.65
+317,2B,3B,Stolen Base 3B,605509,Kelby Tomlinson,545064,Jairo Díaz,605412,Joe Panik,R,Tony Wolters,547172,8,2,8,False,2017-06-26,Stolen,3B,2017,2018, 78.5, 0.65
+318,1B,2B,Stolen Base 2B,621035,Chris Taylor,542881,Tyler Anderson,641355,Cody Bellinger,L,Tony Wolters,547172,0,0,1,False,2017-06-25,Stolen,2B,2017,2018, 78.5, 0.65
+319,2B,3B,Stolen Base 3B,621035,Chris Taylor,493603,Adam Ottavino,571771,Enrique Hernández,R,Tony Wolters,547172,8,6,8,False,2017-06-25,Stolen,3B,2017,2018, 78.5, 0.65
+320,1B,,Caught Stealing 2B,571875,Jake Lamb,608566,Germán Márquez,572008,Chris Owings,R,Tony Wolters,547172,2,1,6,True,2017-06-20,Caught,2B,2017,2018, 78.5, 0.65
+321,1B,,Caught Stealing 2B,452254,Hunter Pence,622608,Antonio Senzatela,543063,Brandon Crawford,R,Tony Wolters,547172,1,2,4,True,2017-06-16,Caught,2B,2017,2018, 78.5, 0.65
+322,1B,2B,Stolen Base 2B,624428,Adam Frazier,608566,Germán Márquez,570256,Gregory Polanco,R,Tony Wolters,547172,0,0,1,False,2017-06-14,Stolen,2B,2017,2018, 78.5, 0.65
+323,1B,,Caught Stealing 2B,614173,Franchy Cordero,543022,Tyler Chatwood,605486,Cory Spangenberg,R,Tony Wolters,547172,0,0,2,False,2017-06-03,Caught,2B,2017,2018, 78.5, 0.65
+324,1B,2B,Stolen Base 2B,488818,Chase d'Arnaud,608566,Germán Márquez,453385,Clayton Richard,R,Tony Wolters,547172,0,3,3,False,2017-06-02,Stolen,2B,2017,2018, 78.5, 0.65
+325,1B,2B,Stolen Base 2B,614173,Franchy Cordero,445197,Mike Dunn,595978,Austin Hedges,L,Tony Wolters,547172,8,5,7,False,2017-06-02,Stolen,2B,2017,2018, 78.5, 0.65
+326,1B,2B,Stolen Base 2B,516416,Jean Segura,430589,Chad Qualls,502143,Danny Valencia,R,Tony Wolters,547172,2,7,8,True,2017-05-30,Stolen,2B,2017,2018, 78.5, 0.65
+327,1B,2B,Stolen Base 2B,571740,Billy Hamilton,622608,Antonio Senzatela,458015,Joey Votto,R,Tony Wolters,547172,0,1,1,False,2017-05-20,Stolen,2B,2017,2018, 78.5, 0.65
+328,1B,2B,Stolen Base 2B,594807,Adam Duvall,623184,Scott Oberg,553993,Eugenio Suárez,R,Tony Wolters,547172,12,8,7,False,2017-05-20,Stolen,2B,2017,2018, 78.5, 0.65
+329,2B,,Caught Stealing 3B,623182,Patrick Kivlehan,542881,Tyler Anderson,571740,Billy Hamilton,L,Tony Wolters,547172,1,2,5,False,2017-05-19,Caught,3B,2017,2018, 78.5, 0.65
+330,1B,2B,Stolen Base 2B,543257,Robbie Grossman,543022,Tyler Chatwood,593934,Miguel Sanó,R,Tony Wolters,547172,0,0,1,False,2017-05-18,Stolen,2B,2017,2018, 78.5, 0.65
+331,1B,2B,Stolen Base 2B,621439,Byron Buxton,608566,Germán Márquez,408045,Joe Mauer,R,Tony Wolters,547172,1,5,5,False,2017-05-18,Stolen,2B,2017,2018, 78.5, 0.65
+332,1B,2B,Stolen Base 2B,543257,Robbie Grossman,543022,Tyler Chatwood,593934,Miguel Sanó,R,Tony Wolters,547172,0,0,1,False,2017-05-17,Stolen,2B,2017,2018, 78.5, 0.65
+333,1B,,Caught Stealing 2B,592696,Eddie Rosario,607536,Kyle Freeland,572821,Brian Dozier,L,Tony Wolters,547172,3,3,4,False,2017-05-16,Caught,2B,2017,2018, 78.5, 0.65
+334,2B,3B,Stolen Base 3B,572041,AJ Pollock,542881,Tyler Anderson,571875,Jake Lamb,L,Tony Wolters,547172,0,0,1,False,2017-04-29,Stolen,3B,2017,2018, 78.5, 0.65
+335,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,542881,Tyler Anderson,571875,Jake Lamb,L,Tony Wolters,547172,0,0,1,False,2017-04-29,Stolen,2B,2017,2018, 78.5, 0.65
+336,1B,2B,Stolen Base 2B,456488,Eduardo Núñez,493603,Adam Ottavino,605412,Joe Panik,R,Tony Wolters,547172,6,5,8,True,2017-04-21,Stolen,2B,2017,2018, 78.5, 0.65
+337,1B,2B,Stolen Base 2B,605131,Austin Barnes,543475,Jordan Lyles,501593,Luis Avilán,R,Tony Wolters,547172,4,9,7,True,2017-04-09,Stolen,2B,2017,2018, 78.5, 0.65
+338,1B,,Caught Stealing 2B,460075,Ryan Braun,445197,Mike Dunn,543768,Travis Shaw,L,Tony Wolters,547172,5,6,7,False,2017-04-03,Caught,2B,2017,2018, 78.5, 0.65
+339,2B,3B,Stolen Base 3B,570267,Domingo Santana,493603,Adam Ottavino,542908,Jett Bandy,R,Tony Wolters,547172,5,6,8,False,2017-04-03,Stolen,3B,2017,2018, 78.5, 0.65
+340,1B,2B,Stolen Base 2B,542979,Keon Broxton,493603,Adam Ottavino,542908,Jett Bandy,R,Tony Wolters,547172,5,6,8,False,2017-04-03,Stolen,2B,2017,2018, 78.5, 0.65
+341,1B,,Caught Stealing 2B,547982,Leonys Martin,608032,Carlos Estévez,502481,Jarrod Dyson,R,Tony Wolters,547172,0,0,3,True,2017-04-01,Caught,2B,2017,2018, 78.5, 0.65
+342,1B,,Caught Stealing 2B,600301,Taylor Motter,641438,Shane Carle,643529,Justin Seager,R,Tony Wolters,547172,1,0,5,True,2017-04-01,Caught,2B,2017,2018, 78.5, 0.65

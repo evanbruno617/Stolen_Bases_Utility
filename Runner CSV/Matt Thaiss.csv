@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+264,1B,2B,Stolen Base 2B,642136,Matt Thaiss,Curt Casali,5,4,6,False,2022-09-16,Stolen,2B,2022
+2053,1B,2B,Stolen Base 2B,642136,Matt Thaiss,Carson Kelly,4,2,7,False,2023-07-02,Stolen,2B,2023
+2860,1B,2B,Stolen Base 2B,642136,Matt Thaiss,Seby Zavala,3,4,8,True,2023-05-29,Stolen,2B,2023

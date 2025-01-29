@@ -1,0 +1,33 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,382,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,518397,Scott Alexander,592178,Kris Bryant,L,Patrick Bailey,672275,1,0,1,False,2023-09-16,Stolen,2B,2023,2024,28.1
+1,644,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,694297,Brandon Pfaadt,553869,Elias Díaz,R,Gabriel Moreno,672515,1,1,3,True,2023-09-05,Stolen,2B,2023,2024,28.1
+2,645,2B,3B,Stolen Base 3B,678662,Ezequiel Tovar,694297,Brandon Pfaadt,666134,Nolan Jones,R,Gabriel Moreno,672515,1,2,3,True,2023-09-05,Stolen,3B,2023,2024,28.1
+3,875,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,656427,Jack Flaherty,663898,Brendan Rodgers,R,James McCann,543510,0,1,4,True,2023-08-27,Stolen,2B,2023,2024,28.1
+4,1118,1B,,Caught Stealing 2B,678662,Ezequiel Tovar,677944,Slade Cecconi,641857,Ryan McMahon,R,Jose Herrera,645444,1,2,1,False,2023-08-16,Caught,2B,2023,2024,28.1
+5,1195,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,664062,Tony Gonsolin,663898,Brendan Rodgers,R,Austin Barnes,605131,3,1,6,True,2023-08-12,Stolen,2B,2023,2024,28.1
+6,1283,2B,3B,Stolen Base 3B,678662,Ezequiel Tovar,489119,Wade Miley,553869,Elias Díaz,L,Victor Caratini,605170,0,0,1,True,2023-08-08,Stolen,3B,2023,2024,28.1
+7,1616,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,571578,Patrick Corbin,545341,Randal Grichuk,L,Keibert Ruiz,660688,0,2,6,True,2023-07-24,Stolen,2B,2023,2024,28.1
+8,2123,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,686218,Emmet Sheehan,641857,Ryan McMahon,R,Austin Barnes,605131,1,2,3,False,2023-06-29,Stolen,2B,2023,2024,28.1
+9,2204,1B,,Caught Stealing 2B,678662,Ezequiel Tovar,667755,José Soriano,545341,Randal Grichuk,R,Chad Wallach,595453,4,2,7,False,2023-06-25,Caught,2B,2023,2024,28.1
+10,2434,1B,,Caught Stealing 2B,678662,Ezequiel Tovar,694363,Jared Shuster,553869,Elias Díaz,L,Travis d'Arnaud,518595,0,0,1,True,2023-06-16,Caught,2B,2023,2024,28.1
+11,2746,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,663738,Daniel Lynch IV,595777,Jurickson Profar,L,Salvador Perez,521692,1,5,2,True,2023-06-03,Stolen,2B,2023,2024,28.1
+12,2906,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,608678,Dominic Leone,595777,Jurickson Profar,R,Francisco Alvarez,682626,6,6,6,False,2023-05-27,Stolen,2B,2023,2024,28.1
+13,3308,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,448179,Rich Hill,543068,C.J. Cron,L,Austin Hedges,595978,3,0,4,True,2023-05-10,Stolen,2B,2023,2024,28.1
+14,3470,1B,,Caught Stealing 2B,678662,Ezequiel Tovar,641778,Eric Lauer,453568,Charlie Blackmon,L,William Contreras,661388,0,0,3,False,2023-05-03,Caught,2B,2023,2024,28.1
+15,4026,3B,score,Caught Stealing 2B,678662,Ezequiel Tovar,571927,Steven Matz,592178,Kris Bryant,L,Willson Contreras,575929,2,0,3,False,2023-04-10,Caught,2B,2023,2024,28.1
+16,4796,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,518397,Scott Alexander,592178,Kris Bryant,L,Patrick Bailey,672275,1,0,1,False,2023-09-16,Stolen,2B,2023,2024,28.1
+17,5058,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,694297,Brandon Pfaadt,553869,Elias Díaz,R,Gabriel Moreno,672515,1,1,3,True,2023-09-05,Stolen,2B,2023,2024,28.1
+18,5059,2B,3B,Stolen Base 3B,678662,Ezequiel Tovar,694297,Brandon Pfaadt,666134,Nolan Jones,R,Gabriel Moreno,672515,1,2,3,True,2023-09-05,Stolen,3B,2023,2024,28.1
+19,5289,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,656427,Jack Flaherty,663898,Brendan Rodgers,R,James McCann,543510,0,1,4,True,2023-08-27,Stolen,2B,2023,2024,28.1
+20,5532,1B,,Caught Stealing 2B,678662,Ezequiel Tovar,677944,Slade Cecconi,641857,Ryan McMahon,R,Jose Herrera,645444,1,2,1,False,2023-08-16,Caught,2B,2023,2024,28.1
+21,5609,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,664062,Tony Gonsolin,663898,Brendan Rodgers,R,Austin Barnes,605131,3,1,6,True,2023-08-12,Stolen,2B,2023,2024,28.1
+22,5697,2B,3B,Stolen Base 3B,678662,Ezequiel Tovar,489119,Wade Miley,553869,Elias Díaz,L,Victor Caratini,605170,0,0,1,True,2023-08-08,Stolen,3B,2023,2024,28.1
+23,6030,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,571578,Patrick Corbin,545341,Randal Grichuk,L,Keibert Ruiz,660688,0,2,6,True,2023-07-24,Stolen,2B,2023,2024,28.1
+24,6537,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,686218,Emmet Sheehan,641857,Ryan McMahon,R,Austin Barnes,605131,1,2,3,False,2023-06-29,Stolen,2B,2023,2024,28.1
+25,6618,1B,,Caught Stealing 2B,678662,Ezequiel Tovar,667755,José Soriano,545341,Randal Grichuk,R,Chad Wallach,595453,4,2,7,False,2023-06-25,Caught,2B,2023,2024,28.1
+26,6848,1B,,Caught Stealing 2B,678662,Ezequiel Tovar,694363,Jared Shuster,553869,Elias Díaz,L,Travis d'Arnaud,518595,0,0,1,True,2023-06-16,Caught,2B,2023,2024,28.1
+27,7160,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,663738,Daniel Lynch IV,595777,Jurickson Profar,L,Salvador Perez,521692,1,5,2,True,2023-06-03,Stolen,2B,2023,2024,28.1
+28,7320,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,608678,Dominic Leone,595777,Jurickson Profar,R,Francisco Alvarez,682626,6,6,6,False,2023-05-27,Stolen,2B,2023,2024,28.1
+29,7722,1B,2B,Stolen Base 2B,678662,Ezequiel Tovar,448179,Rich Hill,543068,C.J. Cron,L,Austin Hedges,595978,3,0,4,True,2023-05-10,Stolen,2B,2023,2024,28.1
+30,7884,1B,,Caught Stealing 2B,678662,Ezequiel Tovar,641778,Eric Lauer,453568,Charlie Blackmon,L,William Contreras,661388,0,0,3,False,2023-05-03,Caught,2B,2023,2024,28.1
+31,8440,3B,score,Caught Stealing 2B,678662,Ezequiel Tovar,571927,Steven Matz,592178,Kris Bryant,L,Willson Contreras,575929,2,0,3,False,2023-04-10,Caught,2B,2023,2024,28.1

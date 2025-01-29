@@ -1,0 +1,60 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1684,1B,2B,Stolen Base 2B,518626,Josh Donaldson,544931,Stephen Strasburg,435263,Brian McCann,R,Kurt Suzuki,435559,3,0,6,False,2019-09-05,Stolen,2B,2019,2020,24.9
+1,2419,1B,,Caught Stealing 2B,518626,Josh Donaldson,593833,Wander Suero,455976,Nick Markakis,R,Yan Gomes,543228,3,1,7,False,2019-07-19,Caught,2B,2019,2020,24.9
+2,2497,1B,2B,Stolen Base 2B,518626,Josh Donaldson,622259,Trey Wingenter,455976,Nick Markakis,R,Francisco Mejía,642336,0,4,8,True,2019-07-14,Stolen,2B,2019,2020,24.9
+3,2720,2B,3B,Stolen Base 3B,518626,Josh Donaldson,543022,Tyler Chatwood,663586,Austin Riley,R,Victor Caratini,605170,1,0,2,True,2019-06-27,Stolen,3B,2019,2020,24.9
+4,3097,1B,2B,Stolen Base 2B,518626,Josh Donaldson,553878,Felipe Vázquez,455976,Nick Markakis,L,Elias Díaz,553869,3,1,8,True,2019-06-06,Stolen,2B,2019,2020,24.9
+5,3850,1B,,Caught Stealing 2B,518626,Josh Donaldson,545333,Trevor Bauer,660670,Ronald Acuña Jr.,R,Roberto Pérez,547379,0,0,1,True,2019-04-20,Caught,2B,2019,2020,24.9
+6,3859,1B,,Caught Stealing 2B,518626,Josh Donaldson,545333,Trevor Bauer,660670,Ronald Acuña Jr.,R,Roberto Pérez,547379,0,0,1,True,2019-04-19,Caught,2B,2019,2020,24.9
+7,4527,1B,2B,Stolen Base 2B,518626,Josh Donaldson,544931,Stephen Strasburg,435263,Brian McCann,R,Kurt Suzuki,435559,3,0,6,False,2019-09-05,Stolen,2B,2019,2020,24.9
+8,5262,1B,,Caught Stealing 2B,518626,Josh Donaldson,593833,Wander Suero,455976,Nick Markakis,R,Yan Gomes,543228,3,1,7,False,2019-07-19,Caught,2B,2019,2020,24.9
+9,5340,1B,2B,Stolen Base 2B,518626,Josh Donaldson,622259,Trey Wingenter,455976,Nick Markakis,R,Francisco Mejía,642336,0,4,8,True,2019-07-14,Stolen,2B,2019,2020,24.9
+10,5563,2B,3B,Stolen Base 3B,518626,Josh Donaldson,543022,Tyler Chatwood,663586,Austin Riley,R,Victor Caratini,605170,1,0,2,True,2019-06-27,Stolen,3B,2019,2020,24.9
+11,5940,1B,2B,Stolen Base 2B,518626,Josh Donaldson,553878,Felipe Vázquez,455976,Nick Markakis,L,Elias Díaz,553869,3,1,8,True,2019-06-06,Stolen,2B,2019,2020,24.9
+12,6693,1B,,Caught Stealing 2B,518626,Josh Donaldson,545333,Trevor Bauer,660670,Ronald Acuña Jr.,R,Roberto Pérez,547379,0,0,1,True,2019-04-20,Caught,2B,2019,2020,24.9
+13,6702,1B,,Caught Stealing 2B,518626,Josh Donaldson,545333,Trevor Bauer,660670,Ronald Acuña Jr.,R,Roberto Pérez,547379,0,0,1,True,2019-04-19,Caught,2B,2019,2020,24.9
+14,6451,1B,2B,Stolen Base 2B,518626,Josh Donaldson,544931,Stephen Strasburg,435263,Brian McCann,R,Kurt Suzuki,435559,3,0,6,False,2019-09-05,Stolen,2B,2019,2020,24.9
+15,7186,1B,,Caught Stealing 2B,518626,Josh Donaldson,593833,Wander Suero,455976,Nick Markakis,R,Yan Gomes,543228,3,1,7,False,2019-07-19,Caught,2B,2019,2020,24.9
+16,7264,1B,2B,Stolen Base 2B,518626,Josh Donaldson,622259,Trey Wingenter,455976,Nick Markakis,R,Francisco Mejía,642336,0,4,8,True,2019-07-14,Stolen,2B,2019,2020,24.9
+17,7487,2B,3B,Stolen Base 3B,518626,Josh Donaldson,543022,Tyler Chatwood,663586,Austin Riley,R,Victor Caratini,605170,1,0,2,True,2019-06-27,Stolen,3B,2019,2020,24.9
+18,7864,1B,2B,Stolen Base 2B,518626,Josh Donaldson,553878,Felipe Vázquez,455976,Nick Markakis,L,Elias Díaz,553869,3,1,8,True,2019-06-06,Stolen,2B,2019,2020,24.9
+19,8617,1B,,Caught Stealing 2B,518626,Josh Donaldson,545333,Trevor Bauer,660670,Ronald Acuña Jr.,R,Roberto Pérez,547379,0,0,1,True,2019-04-20,Caught,2B,2019,2020,24.9
+20,8626,1B,,Caught Stealing 2B,518626,Josh Donaldson,545333,Trevor Bauer,660670,Ronald Acuña Jr.,R,Roberto Pérez,547379,0,0,1,True,2019-04-19,Caught,2B,2019,2020,24.9
+21,146,2B,3B,Stolen Base 3B,518626,Josh Donaldson,593140,Michael Feliz,624431,Jose Trevino,R,Christian Vázquez,543877,2,9,4,True,2022-07-08,Stolen,3B,2022,2023,24.9
+22,694,1B,2B,Stolen Base 2B,518626,Josh Donaldson,661395,Jhoan Duran,650402,Gleyber Torres,R,Gary Sánchez,596142,7,8,7,True,2022-06-09,Stolen,2B,2022,2023,24.9
+23,1567,1B,,Caught Stealing 2B,518626,Josh Donaldson,615698,Cal Quantrill,543305,Aaron Hicks,R,Austin Hedges,595978,0,0,2,False,2022-04-23,Caught,2B,2022,2023,24.9
+24,906,1B,2B,Stolen Base 2B,518626,Josh Donaldson,657610,Trevor Hildenberger,475253,Justin Smoak,R,Jason Castro,488771,1,3,8,True,2017-09-16,Stolen,2B,2017,2018,25.4
+25,2033,1B,,Caught Stealing 2B,518626,Josh Donaldson,518886,Craig Kimbrel,475253,Justin Smoak,R,Christian Vázquez,543877,3,3,9,True,2017-07-18,Caught,2B,2017,2018,25.4
+26,2232,1B,,Caught Stealing 2B,518626,Josh Donaldson,476454,Dellin Betances,475253,Justin Smoak,R,Gary Sánchez,596142,2,1,8,True,2017-07-03,Caught,2B,2017,2018,25.4
+27,2506,1B,2B,Stolen Base 2B,518626,Josh Donaldson,456713,Matt Bush,430832,José Bautista,R,Jonathan Lucroy,518960,6,6,9,True,2017-06-19,Stolen,2B,2017,2018,25.4
+28,278,1B,2B,Stolen Base 2B,518626,Josh Donaldson,657610,Trevor Hildenberger,475253,Justin Smoak,R,Jason Castro,488771,1,3,8,True,2017-09-16,Stolen,2B,2017,2018,25.4
+29,1405,1B,,Caught Stealing 2B,518626,Josh Donaldson,518886,Craig Kimbrel,475253,Justin Smoak,R,Christian Vázquez,543877,3,3,9,True,2017-07-18,Caught,2B,2017,2018,25.4
+30,1604,1B,,Caught Stealing 2B,518626,Josh Donaldson,476454,Dellin Betances,475253,Justin Smoak,R,Gary Sánchez,596142,2,1,8,True,2017-07-03,Caught,2B,2017,2018,25.4
+31,1878,1B,2B,Stolen Base 2B,518626,Josh Donaldson,456713,Matt Bush,430832,José Bautista,R,Jonathan Lucroy,518960,6,6,9,True,2017-06-19,Stolen,2B,2017,2018,25.4
+32,4170,1B,2B,Stolen Base 2B,518626,Josh Donaldson,476454,Dellin Betances,429665,Edwin Encarnación,R,Gary Sánchez,596142,1,1,8,False,2016-09-25,Stolen,2B,2016,2017,26.4
+33,4796,1B,,Caught Stealing 2B,518626,Josh Donaldson,573046,Mike Morin,429665,Edwin Encarnación,R,Carlos Pérez,542208,4,2,5,False,2016-08-23,Caught,2B,2016,2017,26.4
+34,5761,1B,2B,Stolen Base 2B,518626,Josh Donaldson,488984,Tommy Hunter,429665,Edwin Encarnación,R,Chris Gimenez,460269,7,6,8,False,2016-07-02,Stolen,2B,2016,2017,26.4
+35,6059,2B,3B,Stolen Base 3B,518626,Josh Donaldson,476451,Jeremy Hellickson,431145,Russell Martin,R,Carlos Ruiz,434563,1,2,4,True,2016-06-15,Stolen,3B,2016,2017,26.4
+36,6176,1B,2B,Stolen Base 2B,518626,Josh Donaldson,592332,Kevin Gausman,429665,Edwin Encarnación,R,Matt Wieters,446308,1,0,1,False,2016-06-10,Stolen,2B,2016,2017,26.4
+37,6721,2B,3B,Stolen Base 3B,518626,Josh Donaldson,518516,Madison Bumgarner,429665,Edwin Encarnación,L,Buster Posey,457763,2,1,3,True,2016-05-11,Stolen,3B,2016,2017,26.4
+38,6829,1B,2B,Stolen Base 2B,518626,Josh Donaldson,628317,Kenta Maeda,430832,José Bautista,R,Yasmani Grandal,518735,0,0,1,False,2016-05-06,Stolen,2B,2016,2017,26.4
+39,7300,1B,2B,Stolen Base 2B,518626,Josh Donaldson,476454,Dellin Betances,430832,José Bautista,R,Brian McCann,435263,2,3,7,False,2016-04-12,Stolen,2B,2016,2017,26.4
+40,135,1B,2B,Stolen Base 2B,518626,Josh Donaldson,476454,Dellin Betances,429665,Edwin Encarnación,R,Gary Sánchez,596142,1,1,8,False,2016-09-25,Stolen,2B,2016,2017,26.4
+41,761,1B,,Caught Stealing 2B,518626,Josh Donaldson,573046,Mike Morin,429665,Edwin Encarnación,R,Carlos Pérez,542208,4,2,5,False,2016-08-23,Caught,2B,2016,2017,26.4
+42,1726,1B,2B,Stolen Base 2B,518626,Josh Donaldson,488984,Tommy Hunter,429665,Edwin Encarnación,R,Chris Gimenez,460269,7,6,8,False,2016-07-02,Stolen,2B,2016,2017,26.4
+43,2024,2B,3B,Stolen Base 3B,518626,Josh Donaldson,476451,Jeremy Hellickson,431145,Russell Martin,R,Carlos Ruiz,434563,1,2,4,True,2016-06-15,Stolen,3B,2016,2017,26.4
+44,2141,1B,2B,Stolen Base 2B,518626,Josh Donaldson,592332,Kevin Gausman,429665,Edwin Encarnación,R,Matt Wieters,446308,1,0,1,False,2016-06-10,Stolen,2B,2016,2017,26.4
+45,2686,2B,3B,Stolen Base 3B,518626,Josh Donaldson,518516,Madison Bumgarner,429665,Edwin Encarnación,L,Buster Posey,457763,2,1,3,True,2016-05-11,Stolen,3B,2016,2017,26.4
+46,2794,1B,2B,Stolen Base 2B,518626,Josh Donaldson,628317,Kenta Maeda,430832,José Bautista,R,Yasmani Grandal,518735,0,0,1,False,2016-05-06,Stolen,2B,2016,2017,26.4
+47,3265,1B,2B,Stolen Base 2B,518626,Josh Donaldson,476454,Dellin Betances,430832,José Bautista,R,Brian McCann,435263,2,3,7,False,2016-04-12,Stolen,2B,2016,2017,26.4
+48,3542,1B,2B,Stolen Base 2B,518626,Josh Donaldson,476454,Dellin Betances,429665,Edwin Encarnación,R,Gary Sánchez,596142,1,1,8,False,2016-09-25,Stolen,2B,2016,2017,26.4
+49,4168,1B,,Caught Stealing 2B,518626,Josh Donaldson,573046,Mike Morin,429665,Edwin Encarnación,R,Carlos Pérez,542208,4,2,5,False,2016-08-23,Caught,2B,2016,2017,26.4
+50,5133,1B,2B,Stolen Base 2B,518626,Josh Donaldson,488984,Tommy Hunter,429665,Edwin Encarnación,R,Chris Gimenez,460269,7,6,8,False,2016-07-02,Stolen,2B,2016,2017,26.4
+51,5431,2B,3B,Stolen Base 3B,518626,Josh Donaldson,476451,Jeremy Hellickson,431145,Russell Martin,R,Carlos Ruiz,434563,1,2,4,True,2016-06-15,Stolen,3B,2016,2017,26.4
+52,5548,1B,2B,Stolen Base 2B,518626,Josh Donaldson,592332,Kevin Gausman,429665,Edwin Encarnación,R,Matt Wieters,446308,1,0,1,False,2016-06-10,Stolen,2B,2016,2017,26.4
+53,6093,2B,3B,Stolen Base 3B,518626,Josh Donaldson,518516,Madison Bumgarner,429665,Edwin Encarnación,L,Buster Posey,457763,2,1,3,True,2016-05-11,Stolen,3B,2016,2017,26.4
+54,6201,1B,2B,Stolen Base 2B,518626,Josh Donaldson,628317,Kenta Maeda,430832,José Bautista,R,Yasmani Grandal,518735,0,0,1,False,2016-05-06,Stolen,2B,2016,2017,26.4
+55,6672,1B,2B,Stolen Base 2B,518626,Josh Donaldson,476454,Dellin Betances,430832,José Bautista,R,Brian McCann,435263,2,3,7,False,2016-04-12,Stolen,2B,2016,2017,26.4
+56,874,1B,2B,Stolen Base 2B,518626,Josh Donaldson,594772,Jake Buchanan,430832,José Bautista,R,Jason Castro,488771,5,1,6,False,2015-06-06,Stolen,2B,2015,2016,27.1
+57,1768,1B,2B,Stolen Base 2B,518626,Josh Donaldson,460156,Brandon Gomes,429665,Edwin Encarnación,R,Bobby Wilson,435064,1,1,6,True,2015-04-25,Stolen,2B,2015,2016,27.1
+58,1769,2B,3B,Stolen Base 3B,518626,Josh Donaldson,460156,Brandon Gomes,475253,Justin Smoak,R,Bobby Wilson,435064,1,1,6,True,2015-04-25,Stolen,3B,2015,2016,27.1

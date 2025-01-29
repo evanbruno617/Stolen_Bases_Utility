@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+689,1B,2B,Caught Stealing 2B,425429,Andy Phillips,Josh Paul,7,2,5,False,2007-09-01,Caught,2B,2007
+921,1B,,Caught Stealing 2B,425429,Andy Phillips,Ryan Budde,3,2,5,True,2007-08-20,Caught,2B,2007
+1131,1B,,Caught Stealing 2B,425429,Andy Phillips,Kelly Shoppach,1,7,6,True,2007-08-11,Caught,2B,2007

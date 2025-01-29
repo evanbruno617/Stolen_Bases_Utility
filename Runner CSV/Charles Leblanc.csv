@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+251,1B,2B,Stolen Base 2B,641779,Charles Leblanc,Riley Adams,0,0,1,True,2022-09-17,Stolen,2B,2022
+896,1B,2B,Stolen Base 2B,641779,Charles Leblanc,Chadwick Tromp,2,4,5,False,2022-08-13,Stolen,2B,2022
+935,1B,2B,Stolen Base 2B,641779,Charles Leblanc,Garrett Stubbs,0,3,6,True,2022-08-11,Stolen,2B,2022
+997,1B,2B,Stolen Base 2B,641779,Charles Leblanc,Yan Gomes,0,3,9,True,2022-08-07,Stolen,2B,2022

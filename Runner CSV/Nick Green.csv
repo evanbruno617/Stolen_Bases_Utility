@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2276,1B,,Caught Stealing 2B,407797,Nick Green,Mike Lieberthal,6,4,7,False,2004-06-06,Caught,2B,2004
+2386,1B,2B,Stolen Base 2B,407797,Nick Green,Brian Schneider,0,0,1,False,2004-06-01,Stolen,2B,2004
+2574,1B,,Caught Stealing 2B,407797,Nick Green,David Ross,3,0,4,False,2004-05-23,Caught,2B,2004
+340,1B,2B,Stolen Base 2B,407797,Nick Green,Jorge Posada,5,6,7,False,2005-09-14,Stolen,2B,2005
+2221,1B,2B,Stolen Base 2B,407797,Nick Green,René Rivera,0,0,3,True,2005-06-04,Stolen,2B,2005
+2345,1B,2B,Stolen Base 2B,407797,Nick Green,Pat Borders,6,4,5,False,2005-05-29,Stolen,2B,2005
+2869,1B,,Caught Stealing 2B,407797,Nick Green,Jorge Posada,10,6,7,False,2005-05-04,Caught,2B,2005
+2003,1B,2B,Stolen Base 2B,407797,Nick Green,José Molina,3,6,8,True,2009-05-05,Stolen,2B,2009
+2088,1B,,Caught Stealing 2B,407797,Nick Green,Dioner Navarro,1,4,2,True,2009-05-02,Caught,2B,2009

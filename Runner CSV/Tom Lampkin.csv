@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3534,1B,2B,Caught Stealing Home,117442,Tom Lampkin,Einar Díaz,3,3,9,False,2000-04-26,Caught,Home,2000
+332,1B,,Caught Stealing 2B,117442,Tom Lampkin,Yorvit Torrealba,2,2,5,False,2002-09-13,Caught,2B,2002
+351,1B,2B,Stolen Base 2B,117442,Tom Lampkin,Trey Lunsford,3,2,10,False,2002-09-12,Stolen,2B,2002
+887,1B,2B,Stolen Base 2B,117442,Tom Lampkin,Michael Barrett,4,6,8,True,2002-08-17,Stolen,2B,2002
+1009,1B,2B,Stolen Base 2B,117442,Tom Lampkin,Jason LaRue,7,7,11,True,2002-08-11,Stolen,2B,2002
+3555,1B,2B,Stolen Base 2B,117442,Tom Lampkin,Benito Santiago,2,1,4,False,2002-04-17,Stolen,2B,2002
+3835,1B,,Caught Stealing 2B,117442,Tom Lampkin,Benito Santiago,0,0,2,True,2002-04-06,Caught,2B,2002

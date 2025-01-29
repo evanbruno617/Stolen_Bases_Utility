@@ -1,0 +1,23 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+397,1B,2B,Stolen Base 2B,116747,Brian Jordan,Sandy Martinez,1,0,4,False,2000-09-13,Stolen,2B,2000
+401,2B,3B,Stolen Base 3B,116747,Brian Jordan,Sandy Martinez,4,0,7,False,2000-09-13,Stolen,3B,2000
+599,1B,,Caught Stealing 2B,116747,Brian Jordan,Damian Miller,2,1,2,False,2000-09-05,Caught,2B,2000
+653,1B,2B,Stolen Base 2B,116747,Brian Jordan,Mitch Meluskey,0,2,4,True,2000-09-03,Stolen,2B,2000
+968,1B,2B,Stolen Base 2B,116747,Brian Jordan,Ben Petrick,2,5,8,True,2000-08-21,Stolen,2B,2000
+1018,1B,2B,Stolen Base 2B,116747,Brian Jordan,Bobby Estalella,0,2,2,True,2000-08-19,Stolen,2B,2000
+1863,1B,2B,Stolen Base 2B,116747,Brian Jordan,Jason Varitek,1,5,9,True,2000-07-08,Stolen,2B,2000
+2557,1B,2B,Stolen Base 2B,116747,Brian Jordan,Todd Greene,5,6,7,False,2000-06-06,Stolen,2B,2000
+2866,1B,2B,Stolen Base 2B,116747,Brian Jordan,Raul Casanova,0,2,6,True,2000-05-25,Stolen,2B,2000
+3470,1B,2B,Stolen Base 2B,116747,Brian Jordan,Wiki Gonzalez,0,1,2,True,2000-04-28,Stolen,2B,2000
+4035,1B,2B,Stolen Base 2B,116747,Brian Jordan,Brent Mayne,2,0,8,False,2000-04-03,Stolen,2B,2000
+367,2B,,Caught Stealing 3B,116747,Brian Jordan,Mike Redmond,1,5,6,True,2001-05-21,Caught,3B,2001
+1378,1B,2B,Stolen Base 2B,116747,Brian Jordan,Wil Nieves,0,0,2,True,2002-07-22,Stolen,2B,2002
+1851,1B,2B,Stolen Base 2B,116747,Brian Jordan,Bengie Molina,5,0,4,True,2002-06-30,Stolen,2B,2002
+3676,1B,,Caught Stealing 2B,116747,Brian Jordan,Javier Cardona,0,0,2,True,2002-04-12,Caught,2B,2002
+2101,2B,3B,Stolen Base 3B,116747,Brian Jordan,Josh Bard,0,1,2,True,2003-06-14,Stolen,3B,2003
+235,1B,,Caught Stealing 2B,116747,Brian Jordan,Bengie Molina,0,1,9,True,2004-09-19,Caught,2B,2004
+524,1B,2B,Stolen Base 2B,116747,Brian Jordan,Ben Davis,1,0,3,False,2004-09-06,Stolen,2B,2004
+2993,2B,3B,Stolen Base 3B,116747,Brian Jordan,Jason Varitek,5,1,3,False,2004-05-01,Stolen,3B,2004
+3009,2B,3B,Stolen Base 3B,116747,Brian Jordan,Jason Varitek,5,1,3,False,2004-04-30,Stolen,3B,2004
+2590,1B,2B,Stolen Base 2B,116747,Brian Jordan,Ramon Hernandez,0,1,6,True,2005-05-17,Stolen,2B,2005
+3419,1B,2B,Stolen Base 2B,116747,Brian Jordan,Mike Piazza,3,1,8,False,2005-04-08,Stolen,2B,2005

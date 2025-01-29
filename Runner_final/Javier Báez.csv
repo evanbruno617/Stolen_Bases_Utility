@@ -1,0 +1,201 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,35,1B,2B,Stolen Base 2B,595879,Javier Báez,641540,Dane Dunning,543401,Jason Kipnis,R,James McCann,543510,0,1,2,True,2020-09-26,Stolen,2B,2020,2021,28.5
+1,259,1B,2B,Stolen Base 2B,595879,Javier Báez,664208,Phil Maton,518792,Jason Heyward,R,Roberto Pérez,547379,5,3,8,False,2020-09-15,Stolen,2B,2020,2021,28.5
+2,913,1B,2B,Stolen Base 2B,595879,Javier Báez,471911,Carlos Carrasco,575929,Willson Contreras,R,Sandy León,506702,0,1,5,True,2020-08-12,Stolen,2B,2020,2021,28.5
+3,2878,1B,2B,Stolen Base 2B,595879,Javier Báez,641540,Dane Dunning,543401,Jason Kipnis,R,James McCann,543510,0,1,2,True,2020-09-26,Stolen,2B,2020,2021,28.5
+4,3102,1B,2B,Stolen Base 2B,595879,Javier Báez,664208,Phil Maton,518792,Jason Heyward,R,Roberto Pérez,547379,5,3,8,False,2020-09-15,Stolen,2B,2020,2021,28.5
+5,3756,1B,2B,Stolen Base 2B,595879,Javier Báez,471911,Carlos Carrasco,575929,Willson Contreras,R,Sandy León,506702,0,1,5,True,2020-08-12,Stolen,2B,2020,2021,28.5
+6,4802,1B,2B,Stolen Base 2B,595879,Javier Báez,641540,Dane Dunning,543401,Jason Kipnis,R,James McCann,543510,0,1,2,True,2020-09-26,Stolen,2B,2020,2021,28.5
+7,5026,1B,2B,Stolen Base 2B,595879,Javier Báez,664208,Phil Maton,518792,Jason Heyward,R,Roberto Pérez,547379,5,3,8,False,2020-09-15,Stolen,2B,2020,2021,28.5
+8,5680,1B,2B,Stolen Base 2B,595879,Javier Báez,471911,Carlos Carrasco,575929,Willson Contreras,R,Sandy León,506702,0,1,5,True,2020-08-12,Stolen,2B,2020,2021,28.5
+9,1749,1B,2B,Stolen Base 2B,595879,Javier Báez,461829,Gio González,592206,Nick Castellanos,L,Manny Piña,444489,0,0,3,False,2019-09-01,Stolen,2B,2019,2020,27.9
+10,2014,1B,,Caught Stealing 2B,595879,Javier Báez,605400,Aaron Nola,656941,Kyle Schwarber,R,Andrew Knapp,595284,2,0,2,True,2019-08-14,Caught,2B,2019,2020,27.9
+11,2040,1B,2B,Stolen Base 2B,595879,Javier Báez,450306,Jason Vargas,518960,Jonathan Lucroy,L,J.T. Realmuto,592663,0,0,2,True,2019-08-13,Stolen,2B,2019,2020,27.9
+12,2217,1B,2B,Stolen Base 2B,595879,Javier Báez,592222,Alex Claudio,656941,Kyle Schwarber,L,Manny Piña,444489,6,1,6,False,2019-08-02,Stolen,2B,2019,2020,27.9
+13,2228,2B,3B,Stolen Base 3B,595879,Javier Báez,643778,Tyler Webb,664023,Ian Happ,L,Matt Wieters,446308,0,2,8,True,2019-07-31,Stolen,3B,2019,2020,27.9
+14,2348,1B,2B,Stolen Base 2B,595879,Javier Báez,518516,Madison Bumgarner,592178,Kris Bryant,L,Buster Posey,457763,1,2,3,True,2019-07-23,Stolen,2B,2019,2020,27.9
+15,2349,2B,3B,Stolen Base 3B,595879,Javier Báez,518516,Madison Bumgarner,592178,Kris Bryant,L,Buster Posey,457763,1,2,3,True,2019-07-23,Stolen,3B,2019,2020,27.9
+16,2759,1B,2B,Stolen Base 2B,595879,Javier Báez,527054,Julio Teheran,575929,Willson Contreras,R,Tyler Flowers,452095,2,0,4,False,2019-06-24,Stolen,2B,2019,2020,27.9
+17,2775,1B,,Caught Stealing 2B,595879,Javier Báez,594798,Jacob deGrom,518792,Jason Heyward,R,Tomás Nido,621512,2,3,6,False,2019-06-23,Caught,2B,2019,2020,27.9
+18,2832,1B,2B,Stolen Base 2B,595879,Javier Báez,450306,Jason Vargas,623520,David Bote,L,Tomás Nido,621512,0,1,2,False,2019-06-21,Stolen,2B,2019,2020,27.9
+19,2862,2B,3B,Stolen Base 3B,595879,Javier Báez,592612,Josh Osich,518792,Jason Heyward,L,James McCann,543510,6,3,5,False,2019-06-19,Stolen,3B,2019,2020,27.9
+20,3189,1B,,Caught Stealing 2B,595879,Javier Báez,571945,Miles Mikolas,518792,Jason Heyward,R,Matt Wieters,446308,1,1,6,True,2019-05-31,Caught,2B,2019,2020,27.9
+21,3544,2B,,Caught Stealing 3B,595879,Javier Báez,461829,Gio González,623520,David Bote,L,Yasmani Grandal,518735,0,0,2,False,2019-05-10,Caught,3B,2019,2020,27.9
+22,3770,1B,,Caught Stealing 2B,595879,Javier Báez,548389,Ross Stripling,518614,Daniel Descalso,R,Rocky Gale,502570,0,0,1,False,2019-04-25,Caught,2B,2019,2020,27.9
+23,4592,1B,2B,Stolen Base 2B,595879,Javier Báez,461829,Gio González,592206,Nick Castellanos,L,Manny Piña,444489,0,0,3,False,2019-09-01,Stolen,2B,2019,2020,27.9
+24,4857,1B,,Caught Stealing 2B,595879,Javier Báez,605400,Aaron Nola,656941,Kyle Schwarber,R,Andrew Knapp,595284,2,0,2,True,2019-08-14,Caught,2B,2019,2020,27.9
+25,4883,1B,2B,Stolen Base 2B,595879,Javier Báez,450306,Jason Vargas,518960,Jonathan Lucroy,L,J.T. Realmuto,592663,0,0,2,True,2019-08-13,Stolen,2B,2019,2020,27.9
+26,5060,1B,2B,Stolen Base 2B,595879,Javier Báez,592222,Alex Claudio,656941,Kyle Schwarber,L,Manny Piña,444489,6,1,6,False,2019-08-02,Stolen,2B,2019,2020,27.9
+27,5071,2B,3B,Stolen Base 3B,595879,Javier Báez,643778,Tyler Webb,664023,Ian Happ,L,Matt Wieters,446308,0,2,8,True,2019-07-31,Stolen,3B,2019,2020,27.9
+28,5191,1B,2B,Stolen Base 2B,595879,Javier Báez,518516,Madison Bumgarner,592178,Kris Bryant,L,Buster Posey,457763,1,2,3,True,2019-07-23,Stolen,2B,2019,2020,27.9
+29,5192,2B,3B,Stolen Base 3B,595879,Javier Báez,518516,Madison Bumgarner,592178,Kris Bryant,L,Buster Posey,457763,1,2,3,True,2019-07-23,Stolen,3B,2019,2020,27.9
+30,5602,1B,2B,Stolen Base 2B,595879,Javier Báez,527054,Julio Teheran,575929,Willson Contreras,R,Tyler Flowers,452095,2,0,4,False,2019-06-24,Stolen,2B,2019,2020,27.9
+31,5618,1B,,Caught Stealing 2B,595879,Javier Báez,594798,Jacob deGrom,518792,Jason Heyward,R,Tomás Nido,621512,2,3,6,False,2019-06-23,Caught,2B,2019,2020,27.9
+32,5675,1B,2B,Stolen Base 2B,595879,Javier Báez,450306,Jason Vargas,623520,David Bote,L,Tomás Nido,621512,0,1,2,False,2019-06-21,Stolen,2B,2019,2020,27.9
+33,5705,2B,3B,Stolen Base 3B,595879,Javier Báez,592612,Josh Osich,518792,Jason Heyward,L,James McCann,543510,6,3,5,False,2019-06-19,Stolen,3B,2019,2020,27.9
+34,6032,1B,,Caught Stealing 2B,595879,Javier Báez,571945,Miles Mikolas,518792,Jason Heyward,R,Matt Wieters,446308,1,1,6,True,2019-05-31,Caught,2B,2019,2020,27.9
+35,6387,2B,,Caught Stealing 3B,595879,Javier Báez,461829,Gio González,623520,David Bote,L,Yasmani Grandal,518735,0,0,2,False,2019-05-10,Caught,3B,2019,2020,27.9
+36,6613,1B,,Caught Stealing 2B,595879,Javier Báez,548389,Ross Stripling,518614,Daniel Descalso,R,Rocky Gale,502570,0,0,1,False,2019-04-25,Caught,2B,2019,2020,27.9
+37,6516,1B,2B,Stolen Base 2B,595879,Javier Báez,461829,Gio González,592206,Nick Castellanos,L,Manny Piña,444489,0,0,3,False,2019-09-01,Stolen,2B,2019,2020,27.9
+38,6781,1B,,Caught Stealing 2B,595879,Javier Báez,605400,Aaron Nola,656941,Kyle Schwarber,R,Andrew Knapp,595284,2,0,2,True,2019-08-14,Caught,2B,2019,2020,27.9
+39,6807,1B,2B,Stolen Base 2B,595879,Javier Báez,450306,Jason Vargas,518960,Jonathan Lucroy,L,J.T. Realmuto,592663,0,0,2,True,2019-08-13,Stolen,2B,2019,2020,27.9
+40,6984,1B,2B,Stolen Base 2B,595879,Javier Báez,592222,Alex Claudio,656941,Kyle Schwarber,L,Manny Piña,444489,6,1,6,False,2019-08-02,Stolen,2B,2019,2020,27.9
+41,6995,2B,3B,Stolen Base 3B,595879,Javier Báez,643778,Tyler Webb,664023,Ian Happ,L,Matt Wieters,446308,0,2,8,True,2019-07-31,Stolen,3B,2019,2020,27.9
+42,7115,1B,2B,Stolen Base 2B,595879,Javier Báez,518516,Madison Bumgarner,592178,Kris Bryant,L,Buster Posey,457763,1,2,3,True,2019-07-23,Stolen,2B,2019,2020,27.9
+43,7116,2B,3B,Stolen Base 3B,595879,Javier Báez,518516,Madison Bumgarner,592178,Kris Bryant,L,Buster Posey,457763,1,2,3,True,2019-07-23,Stolen,3B,2019,2020,27.9
+44,7526,1B,2B,Stolen Base 2B,595879,Javier Báez,527054,Julio Teheran,575929,Willson Contreras,R,Tyler Flowers,452095,2,0,4,False,2019-06-24,Stolen,2B,2019,2020,27.9
+45,7542,1B,,Caught Stealing 2B,595879,Javier Báez,594798,Jacob deGrom,518792,Jason Heyward,R,Tomás Nido,621512,2,3,6,False,2019-06-23,Caught,2B,2019,2020,27.9
+46,7599,1B,2B,Stolen Base 2B,595879,Javier Báez,450306,Jason Vargas,623520,David Bote,L,Tomás Nido,621512,0,1,2,False,2019-06-21,Stolen,2B,2019,2020,27.9
+47,7629,2B,3B,Stolen Base 3B,595879,Javier Báez,592612,Josh Osich,518792,Jason Heyward,L,James McCann,543510,6,3,5,False,2019-06-19,Stolen,3B,2019,2020,27.9
+48,7956,1B,,Caught Stealing 2B,595879,Javier Báez,571945,Miles Mikolas,518792,Jason Heyward,R,Matt Wieters,446308,1,1,6,True,2019-05-31,Caught,2B,2019,2020,27.9
+49,8311,2B,,Caught Stealing 3B,595879,Javier Báez,461829,Gio González,623520,David Bote,L,Yasmani Grandal,518735,0,0,2,False,2019-05-10,Caught,3B,2019,2020,27.9
+50,8537,1B,,Caught Stealing 2B,595879,Javier Báez,548389,Ross Stripling,518614,Daniel Descalso,R,Rocky Gale,502570,0,0,1,False,2019-04-25,Caught,2B,2019,2020,27.9
+51,138,1B,2B,Stolen Base 2B,595879,Javier Báez,519242,Chris Sale,643446,Jeff McNeil,L,Christian Vázquez,543877,2,1,2,True,2021-09-22,Stolen,2B,2021,2022,27.9
+52,279,1B,,Caught Stealing 2B,595879,Javier Báez,663765,Jake Woodford,621512,Tomás Nido,R,Yadier Molina,425877,2,2,4,False,2021-09-14,Caught,2B,2021,2022,27.9
+53,304,1B,2B,Stolen Base 2B,595879,Javier Báez,446372,Corey Kluber,643446,Jeff McNeil,R,Kyle Higashioka,543309,0,5,2,False,2021-09-11,Stolen,2B,2021,2022,27.9
+54,337,1B,2B,Stolen Base 2B,595879,Javier Báez,666200,Jesús Luzardo,605204,J.D. Davis,L,Alex Jackson,656577,0,2,6,True,2021-09-09,Stolen,2B,2021,2022,27.9
+55,338,2B,3B,Stolen Base 3B,595879,Javier Báez,666200,Jesús Luzardo,624424,Michael Conforto,L,Alex Jackson,656577,0,2,6,True,2021-09-09,Stolen,3B,2021,2022,27.9
+56,409,2B,3B,Stolen Base 3B,595879,Javier Báez,680686,Josiah Gray,664850,Patrick Mazeika,R,Riley Adams,656180,0,4,1,True,2021-09-05,Stolen,3B,2021,2022,27.9
+57,992,1B,,Caught Stealing 2B,595879,Javier Báez,622491,Luis Castillo,664023,Ian Happ,R,Tucker Barnhart,571466,3,4,6,False,2021-07-29,Caught,2B,2021,2022,27.9
+58,1131,1B,2B,Stolen Base 2B,595879,Javier Báez,650893,Génesis Cabrera,664023,Ian Happ,L,Yadier Molina,425877,4,1,6,True,2021-07-20,Stolen,2B,2021,2022,27.9
+59,1204,1B,2B,Stolen Base 2B,595879,Javier Báez,598287,Noé Ramirez,592178,Kris Bryant,R,Daulton Varsho,662139,2,1,8,True,2021-07-17,Stolen,2B,2021,2022,27.9
+60,1208,1B,2B,Stolen Base 2B,595879,Javier Báez,518516,Madison Bumgarner,545350,Jake Marisnick,L,Bryan Holaday,592407,0,1,2,True,2021-07-16,Stolen,2B,2021,2022,27.9
+61,1347,1B,2B,Stolen Base 2B,595879,Javier Báez,489119,Wade Miley,545350,Jake Marisnick,L,Tyler Stephenson,663886,1,2,6,True,2021-07-04,Stolen,2B,2021,2022,27.9
+62,1449,1B,,Caught Stealing 2B,595879,Javier Báez,642547,Freddy Peralta,592178,Kris Bryant,R,Omar Narváez,553882,3,2,5,True,2021-06-28,Caught,2B,2021,2022,27.9
+63,1797,2B,3B,Stolen Base 3B,595879,Javier Báez,643511,Tyler Rogers,518792,Jason Heyward,R,Chadwick Tromp,644433,4,3,9,True,2021-06-05,Stolen,3B,2021,2022,27.9
+64,1937,1B,2B,Stolen Base 2B,595879,Javier Báez,661269,Vladimir Gutierrez,664023,Ian Happ,R,Tucker Barnhart,571466,0,0,4,False,2021-05-28,Stolen,2B,2021,2022,27.9
+65,2068,1B,2B,Stolen Base 2B,595879,Javier Báez,605452,Joe Ross,664023,Ian Happ,R,Alex Avila,488671,3,2,3,False,2021-05-20,Stolen,2B,2021,2022,27.9
+66,2100,1B,,Caught Stealing 2B,595879,Javier Báez,608723,Austin Voth,622110,Matt Duffy,R,Yan Gomes,543228,5,3,7,False,2021-05-18,Caught,2B,2021,2022,27.9
+67,2383,2B,3B,Stolen Base 3B,595879,Javier Báez,448281,Sean Doolittle,518792,Jason Heyward,L,Tyler Stephenson,663886,2,2,6,True,2021-05-01,Stolen,3B,2021,2022,27.9
+68,2573,1B,2B,Stolen Base 2B,595879,Javier Báez,669060,Bryse Wilson,518792,Jason Heyward,R,Travis d'Arnaud,518595,2,6,1,False,2021-04-18,Stolen,2B,2021,2022,27.9
+69,2615,1B,2B,Stolen Base 2B,595879,Javier Báez,657140,Kyle Wright,519299,Eric Sogard,R,Travis d'Arnaud,518595,1,4,4,False,2021-04-16,Stolen,2B,2021,2022,27.9
+70,2732,1B,2B,Stolen Base 2B,595879,Javier Báez,607572,Sam Howard,592626,Joc Pederson,L,Jacob Stallings,607732,2,4,8,True,2021-04-08,Stolen,2B,2021,2022,27.9
+71,2815,1B,2B,Stolen Base 2B,595879,Javier Báez,542881,Tyler Anderson,592626,Joc Pederson,L,Jacob Stallings,607732,0,1,2,False,2021-04-03,Stolen,2B,2021,2022,27.9
+72,2816,2B,3B,Stolen Base 3B,595879,Javier Báez,542881,Tyler Anderson,545350,Jake Marisnick,L,Jacob Stallings,607732,1,1,2,False,2021-04-03,Stolen,3B,2021,2022,27.9
+73,2062,1B,2B,Stolen Base 2B,595879,Javier Báez,519242,Chris Sale,643446,Jeff McNeil,L,Christian Vázquez,543877,2,1,2,True,2021-09-22,Stolen,2B,2021,2022,27.9
+74,2203,1B,,Caught Stealing 2B,595879,Javier Báez,663765,Jake Woodford,621512,Tomás Nido,R,Yadier Molina,425877,2,2,4,False,2021-09-14,Caught,2B,2021,2022,27.9
+75,2228,1B,2B,Stolen Base 2B,595879,Javier Báez,446372,Corey Kluber,643446,Jeff McNeil,R,Kyle Higashioka,543309,0,5,2,False,2021-09-11,Stolen,2B,2021,2022,27.9
+76,2261,1B,2B,Stolen Base 2B,595879,Javier Báez,666200,Jesús Luzardo,605204,J.D. Davis,L,Alex Jackson,656577,0,2,6,True,2021-09-09,Stolen,2B,2021,2022,27.9
+77,2262,2B,3B,Stolen Base 3B,595879,Javier Báez,666200,Jesús Luzardo,624424,Michael Conforto,L,Alex Jackson,656577,0,2,6,True,2021-09-09,Stolen,3B,2021,2022,27.9
+78,2333,2B,3B,Stolen Base 3B,595879,Javier Báez,680686,Josiah Gray,664850,Patrick Mazeika,R,Riley Adams,656180,0,4,1,True,2021-09-05,Stolen,3B,2021,2022,27.9
+79,2916,1B,,Caught Stealing 2B,595879,Javier Báez,622491,Luis Castillo,664023,Ian Happ,R,Tucker Barnhart,571466,3,4,6,False,2021-07-29,Caught,2B,2021,2022,27.9
+80,3055,1B,2B,Stolen Base 2B,595879,Javier Báez,650893,Génesis Cabrera,664023,Ian Happ,L,Yadier Molina,425877,4,1,6,True,2021-07-20,Stolen,2B,2021,2022,27.9
+81,3128,1B,2B,Stolen Base 2B,595879,Javier Báez,598287,Noé Ramirez,592178,Kris Bryant,R,Daulton Varsho,662139,2,1,8,True,2021-07-17,Stolen,2B,2021,2022,27.9
+82,3132,1B,2B,Stolen Base 2B,595879,Javier Báez,518516,Madison Bumgarner,545350,Jake Marisnick,L,Bryan Holaday,592407,0,1,2,True,2021-07-16,Stolen,2B,2021,2022,27.9
+83,3271,1B,2B,Stolen Base 2B,595879,Javier Báez,489119,Wade Miley,545350,Jake Marisnick,L,Tyler Stephenson,663886,1,2,6,True,2021-07-04,Stolen,2B,2021,2022,27.9
+84,3373,1B,,Caught Stealing 2B,595879,Javier Báez,642547,Freddy Peralta,592178,Kris Bryant,R,Omar Narváez,553882,3,2,5,True,2021-06-28,Caught,2B,2021,2022,27.9
+85,3721,2B,3B,Stolen Base 3B,595879,Javier Báez,643511,Tyler Rogers,518792,Jason Heyward,R,Chadwick Tromp,644433,4,3,9,True,2021-06-05,Stolen,3B,2021,2022,27.9
+86,3861,1B,2B,Stolen Base 2B,595879,Javier Báez,661269,Vladimir Gutierrez,664023,Ian Happ,R,Tucker Barnhart,571466,0,0,4,False,2021-05-28,Stolen,2B,2021,2022,27.9
+87,3992,1B,2B,Stolen Base 2B,595879,Javier Báez,605452,Joe Ross,664023,Ian Happ,R,Alex Avila,488671,3,2,3,False,2021-05-20,Stolen,2B,2021,2022,27.9
+88,4024,1B,,Caught Stealing 2B,595879,Javier Báez,608723,Austin Voth,622110,Matt Duffy,R,Yan Gomes,543228,5,3,7,False,2021-05-18,Caught,2B,2021,2022,27.9
+89,4307,2B,3B,Stolen Base 3B,595879,Javier Báez,448281,Sean Doolittle,518792,Jason Heyward,L,Tyler Stephenson,663886,2,2,6,True,2021-05-01,Stolen,3B,2021,2022,27.9
+90,4497,1B,2B,Stolen Base 2B,595879,Javier Báez,669060,Bryse Wilson,518792,Jason Heyward,R,Travis d'Arnaud,518595,2,6,1,False,2021-04-18,Stolen,2B,2021,2022,27.9
+91,4539,1B,2B,Stolen Base 2B,595879,Javier Báez,657140,Kyle Wright,519299,Eric Sogard,R,Travis d'Arnaud,518595,1,4,4,False,2021-04-16,Stolen,2B,2021,2022,27.9
+92,4656,1B,2B,Stolen Base 2B,595879,Javier Báez,607572,Sam Howard,592626,Joc Pederson,L,Jacob Stallings,607732,2,4,8,True,2021-04-08,Stolen,2B,2021,2022,27.9
+93,4739,1B,2B,Stolen Base 2B,595879,Javier Báez,542881,Tyler Anderson,592626,Joc Pederson,L,Jacob Stallings,607732,0,1,2,False,2021-04-03,Stolen,2B,2021,2022,27.9
+94,4740,2B,3B,Stolen Base 3B,595879,Javier Báez,542881,Tyler Anderson,545350,Jake Marisnick,L,Jacob Stallings,607732,1,1,2,False,2021-04-03,Stolen,3B,2021,2022,27.9
+95,415,1B,2B,Stolen Base 2B,595879,Javier Báez,594902,Ben Lively,663837,Matt Vierling,R,Tyler Stephenson,663886,3,0,4,False,2023-09-14,Stolen,2B,2023,2024,27.5
+96,1083,1B,2B,Stolen Base 2B,595879,Javier Báez,680704,Nick Sandlin,656716,Zach McKinstry,R,Bo Naylor,666310,0,1,7,True,2023-08-18,Stolen,2B,2023,2024,27.5
+97,1089,1B,2B,Stolen Base 2B,595879,Javier Báez,680704,Nick Sandlin,656716,Zach McKinstry,R,Bo Naylor,666310,0,1,7,True,2023-08-17,Stolen,2B,2023,2024,27.5
+98,1542,1B,2B,Stolen Base 2B,595879,Javier Báez,666129,Braxton Garrett,408234,Miguel Cabrera,L,Nick Fortes,663743,2,0,2,True,2023-07-28,Stolen,2B,2023,2024,27.5
+99,1746,1B,2B,Stolen Base 2B,595879,Javier Báez,663738,Daniel Lynch IV,408234,Miguel Cabrera,L,Freddy Fermin,666023,0,2,2,True,2023-07-18,Stolen,2B,2023,2024,27.5
+100,1747,1B,2B,Stolen Base 2B,595879,Javier Báez,663738,Daniel Lynch IV,408234,Miguel Cabrera,L,Freddy Fermin,666023,2,2,4,True,2023-07-18,Stolen,2B,2023,2024,27.5
+101,1836,1B,2B,Stolen Base 2B,595879,Javier Báez,686654,Ty Adcock,665155,Nick Maton,R,Tom Murphy,608596,2,5,7,True,2023-07-14,Stolen,2B,2023,2024,27.5
+102,2451,1B,2B,Stolen Base 2B,595879,Javier Báez,543243,Sonny Gray,665155,Nick Maton,R,Christian Vázquez,543877,4,1,4,True,2023-06-15,Stolen,2B,2023,2024,27.5
+103,2710,1B,2B,Stolen Base 2B,595879,Javier Báez,656629,Michael Kopech,668731,Akil Baddoo,R,Seby Zavala,664874,1,2,6,True,2023-06-04,Stolen,2B,2023,2024,27.5
+104,2711,2B,3B,Stolen Base 3B,595879,Javier Báez,656629,Michael Kopech,668731,Akil Baddoo,R,Seby Zavala,664874,1,2,6,True,2023-06-04,Stolen,3B,2023,2024,27.5
+105,3335,1B,2B,Stolen Base 2B,595879,Javier Báez,669456,Shane Bieber,679529,Spencer Torkelson,R,Cam Gallagher,595956,1,0,3,True,2023-05-09,Stolen,2B,2023,2024,27.5
+106,3757,1B,2B,Stolen Base 2B,595879,Javier Báez,502043,Kyle Gibson,682985,Riley Greene,R,James McCann,543510,0,0,1,True,2023-04-22,Stolen,2B,2023,2024,27.5
+107,3788,1B,2B,Stolen Base 2B,595879,Javier Báez,642585,Félix Bautista,681481,Kerry Carpenter,R,Adley Rutschman,668939,1,1,9,True,2023-04-21,Stolen,2B,2023,2024,27.5
+108,4829,1B,2B,Stolen Base 2B,595879,Javier Báez,594902,Ben Lively,663837,Matt Vierling,R,Tyler Stephenson,663886,3,0,4,False,2023-09-14,Stolen,2B,2023,2024,27.5
+109,5497,1B,2B,Stolen Base 2B,595879,Javier Báez,680704,Nick Sandlin,656716,Zach McKinstry,R,Bo Naylor,666310,0,1,7,True,2023-08-18,Stolen,2B,2023,2024,27.5
+110,5503,1B,2B,Stolen Base 2B,595879,Javier Báez,680704,Nick Sandlin,656716,Zach McKinstry,R,Bo Naylor,666310,0,1,7,True,2023-08-17,Stolen,2B,2023,2024,27.5
+111,5956,1B,2B,Stolen Base 2B,595879,Javier Báez,666129,Braxton Garrett,408234,Miguel Cabrera,L,Nick Fortes,663743,2,0,2,True,2023-07-28,Stolen,2B,2023,2024,27.5
+112,6160,1B,2B,Stolen Base 2B,595879,Javier Báez,663738,Daniel Lynch IV,408234,Miguel Cabrera,L,Freddy Fermin,666023,0,2,2,True,2023-07-18,Stolen,2B,2023,2024,27.5
+113,6161,1B,2B,Stolen Base 2B,595879,Javier Báez,663738,Daniel Lynch IV,408234,Miguel Cabrera,L,Freddy Fermin,666023,2,2,4,True,2023-07-18,Stolen,2B,2023,2024,27.5
+114,6250,1B,2B,Stolen Base 2B,595879,Javier Báez,686654,Ty Adcock,665155,Nick Maton,R,Tom Murphy,608596,2,5,7,True,2023-07-14,Stolen,2B,2023,2024,27.5
+115,6865,1B,2B,Stolen Base 2B,595879,Javier Báez,543243,Sonny Gray,665155,Nick Maton,R,Christian Vázquez,543877,4,1,4,True,2023-06-15,Stolen,2B,2023,2024,27.5
+116,7124,1B,2B,Stolen Base 2B,595879,Javier Báez,656629,Michael Kopech,668731,Akil Baddoo,R,Seby Zavala,664874,1,2,6,True,2023-06-04,Stolen,2B,2023,2024,27.5
+117,7125,2B,3B,Stolen Base 3B,595879,Javier Báez,656629,Michael Kopech,668731,Akil Baddoo,R,Seby Zavala,664874,1,2,6,True,2023-06-04,Stolen,3B,2023,2024,27.5
+118,7749,1B,2B,Stolen Base 2B,595879,Javier Báez,669456,Shane Bieber,679529,Spencer Torkelson,R,Cam Gallagher,595956,1,0,3,True,2023-05-09,Stolen,2B,2023,2024,27.5
+119,8171,1B,2B,Stolen Base 2B,595879,Javier Báez,502043,Kyle Gibson,682985,Riley Greene,R,James McCann,543510,0,0,1,True,2023-04-22,Stolen,2B,2023,2024,27.5
+120,8202,1B,2B,Stolen Base 2B,595879,Javier Báez,642585,Félix Bautista,681481,Kerry Carpenter,R,Adley Rutschman,668939,1,1,9,True,2023-04-21,Stolen,2B,2023,2024,27.5
+121,501,2B,3B,Stolen Base 3B,595879,Javier Báez,641540,Dane Dunning,606992,Eric Haase,R,Jonah Heim,641680,3,1,1,False,2022-06-19,Stolen,3B,2022,2023,28.1
+122,504,1B,2B,Stolen Base 2B,595879,Javier Báez,641540,Dane Dunning,682985,Riley Greene,R,Jonah Heim,641680,3,3,5,False,2022-06-19,Stolen,2B,2022,2023,28.1
+123,732,1B,2B,Stolen Base 2B,595879,Javier Báez,500779,Jose Quintana,679529,Spencer Torkelson,L,Tyler Heineman,623168,1,2,4,True,2022-06-07,Stolen,2B,2022,2023,28.1
+124,129,2B,3B,Stolen Base 3B,595879,Javier Báez,448855,Junior Guerra,592178,Kris Bryant,R,Manny Piña,444489,1,0,3,False,2018-04-28,Stolen,3B,2018,2019,28.6
+125,152,1B,2B,Stolen Base 2B,595879,Javier Báez,608718,Brent Suter,519203,Anthony Rizzo,L,Manny Piña,444489,2,1,1,False,2018-04-27,Stolen,2B,2018,2019,28.6
+126,326,1B,2B,Stolen Base 2B,595879,Javier Báez,594577,Mike Mayers,656941,Kyle Schwarber,R,Yadier Molina,425877,3,1,5,False,2018-04-16,Stolen,2B,2018,2019,28.6
+127,415,2B,3B,Stolen Base 3B,595879,Javier Báez,607192,Tyler Glasnow,600303,Tommy La Stella,R,Elias Díaz,553869,5,4,6,False,2018-04-11,Stolen,3B,2018,2019,28.6
+128,855,1B,2B,Stolen Base 2B,595879,Javier Báez,502042,Chris Archer,445055,Jon Jay,R,Wilson Ramos,467092,0,1,3,True,2017-09-19,Stolen,2B,2017,2018,28.8
+129,1190,1B,2B,Stolen Base 2B,595879,Javier Báez,592314,Mike Foltynewicz,407793,John Lackey,R,Kurt Suzuki,435559,2,0,4,False,2017-09-01,Stolen,2B,2017,2018,28.8
+130,1211,1B,2B,Stolen Base 2B,595879,Javier Báez,467100,Iván Nova,425784,René Rivera,R,Elias Díaz,553869,1,2,2,False,2017-08-30,Stolen,2B,2017,2018,28.8
+131,1212,3B,score,Stolen Base Home,595879,Javier Báez,467100,Iván Nova,500779,Jose Quintana,R,Elias Díaz,553869,2,2,2,False,2017-08-30,Stolen,Home,2017,2018,28.8
+132,1408,1B,2B,Stolen Base 2B,595879,Javier Báez,532077,Roberto Osuna,518792,Jason Heyward,R,Raffy Lopez,607257,4,5,10,False,2017-08-20,Stolen,2B,2017,2018,28.8
+133,1711,1B,2B,Stolen Base 2B,595879,Javier Báez,429719,Edwin Jackson,656941,Kyle Schwarber,R,Jose Lobaton,446653,4,3,5,False,2017-08-05,Stolen,2B,2017,2018,28.8
+134,1748,1B,2B,Stolen Base 2B,595879,Javier Báez,456696,David Hernandez,450314,Ben Zobrist,R,Jeff Mathis,425772,5,6,7,False,2017-08-03,Stolen,2B,2017,2018,28.8
+135,2377,2B,3B,Stolen Base 3B,595879,Javier Báez,595014,Blake Treinen,546991,Albert Almora Jr.,R,Matt Wieters,446308,0,2,8,True,2017-06-26,Stolen,3B,2017,2018,28.8
+136,3046,1B,,Caught Stealing 2B,595879,Javier Báez,621389,Ty Blach,450314,Ben Zobrist,L,Buster Posey,457763,0,3,3,False,2017-05-22,Caught,2B,2017,2018,28.8
+137,3340,1B,2B,Stolen Base 2B,595879,Javier Báez,547973,Aroldis Chapman,656941,Kyle Schwarber,L,Gary Sánchez,596142,3,4,9,False,2017-05-07,Stolen,2B,2017,2018,28.8
+138,3425,1B,2B,Stolen Base 2B,595879,Javier Báez,276542,Joaquín Benoit,546991,Albert Almora Jr.,R,Andrew Knapp,595284,5,4,8,False,2017-05-03,Stolen,2B,2017,2018,28.8
+139,3783,1B,,Caught Stealing 2B,595879,Javier Báez,592866,Trevor Williams,519203,Anthony Rizzo,R,Francisco Cervelli,465041,6,3,6,False,2017-04-15,Caught,2B,2017,2018,28.8
+140,227,1B,2B,Stolen Base 2B,595879,Javier Báez,502042,Chris Archer,445055,Jon Jay,R,Wilson Ramos,467092,0,1,3,True,2017-09-19,Stolen,2B,2017,2018,28.8
+141,562,1B,2B,Stolen Base 2B,595879,Javier Báez,592314,Mike Foltynewicz,407793,John Lackey,R,Kurt Suzuki,435559,2,0,4,False,2017-09-01,Stolen,2B,2017,2018,28.8
+142,583,1B,2B,Stolen Base 2B,595879,Javier Báez,467100,Iván Nova,425784,René Rivera,R,Elias Díaz,553869,1,2,2,False,2017-08-30,Stolen,2B,2017,2018,28.8
+143,584,3B,score,Stolen Base Home,595879,Javier Báez,467100,Iván Nova,500779,Jose Quintana,R,Elias Díaz,553869,2,2,2,False,2017-08-30,Stolen,Home,2017,2018,28.8
+144,780,1B,2B,Stolen Base 2B,595879,Javier Báez,532077,Roberto Osuna,518792,Jason Heyward,R,Raffy Lopez,607257,4,5,10,False,2017-08-20,Stolen,2B,2017,2018,28.8
+145,1083,1B,2B,Stolen Base 2B,595879,Javier Báez,429719,Edwin Jackson,656941,Kyle Schwarber,R,Jose Lobaton,446653,4,3,5,False,2017-08-05,Stolen,2B,2017,2018,28.8
+146,1120,1B,2B,Stolen Base 2B,595879,Javier Báez,456696,David Hernandez,450314,Ben Zobrist,R,Jeff Mathis,425772,5,6,7,False,2017-08-03,Stolen,2B,2017,2018,28.8
+147,1749,2B,3B,Stolen Base 3B,595879,Javier Báez,595014,Blake Treinen,546991,Albert Almora Jr.,R,Matt Wieters,446308,0,2,8,True,2017-06-26,Stolen,3B,2017,2018,28.8
+148,2418,1B,,Caught Stealing 2B,595879,Javier Báez,621389,Ty Blach,450314,Ben Zobrist,L,Buster Posey,457763,0,3,3,False,2017-05-22,Caught,2B,2017,2018,28.8
+149,2712,1B,2B,Stolen Base 2B,595879,Javier Báez,547973,Aroldis Chapman,656941,Kyle Schwarber,L,Gary Sánchez,596142,3,4,9,False,2017-05-07,Stolen,2B,2017,2018,28.8
+150,2797,1B,2B,Stolen Base 2B,595879,Javier Báez,276542,Joaquín Benoit,546991,Albert Almora Jr.,R,Andrew Knapp,595284,5,4,8,False,2017-05-03,Stolen,2B,2017,2018,28.8
+151,3155,1B,,Caught Stealing 2B,595879,Javier Báez,592866,Trevor Williams,519203,Anthony Rizzo,R,Francisco Cervelli,465041,6,3,6,False,2017-04-15,Caught,2B,2017,2018,28.8
+152,4610,1B,2B,Stolen Base 2B,595879,Javier Báez,518516,Madison Bumgarner,519333,Matt Szczur,L,Buster Posey,457763,0,2,5,False,2016-09-03,Stolen,2B,2016,2017,28.5
+153,4804,1B,2B,Stolen Base 2B,595879,Javier Báez,429719,Edwin Jackson,424325,David Ross,R,Christian Bethancourt,542194,0,1,2,True,2016-08-22,Stolen,2B,2016,2017,28.5
+154,4853,2B,3B,Stolen Base 3B,595879,Javier Báez,542881,Tyler Anderson,451594,Dexter Fowler,L,Nick Hundley,460026,1,2,5,True,2016-08-19,Stolen,3B,2016,2017,28.5
+155,5100,1B,,Caught Stealing 2B,595879,Javier Báez,623430,Ryan Dull,519333,Matt Szczur,R,Stephen Vogt,519390,0,2,7,True,2016-08-07,Caught,2B,2016,2017,28.5
+156,5372,2B,3B,Stolen Base 3B,595879,Javier Báez,458006,Matt Albers,451594,Dexter Fowler,R,Dioner Navarro,425900,4,3,9,True,2016-07-25,Stolen,3B,2016,2017,28.5
+157,5450,1B,,Caught Stealing 2B,595879,Javier Báez,608349,Corey Knebel,600303,Tommy La Stella,R,Jonathan Lucroy,518960,2,5,8,True,2016-07-22,Caught,2B,2016,2017,28.5
+158,5540,1B,2B,Stolen Base 2B,595879,Javier Báez,571927,Steven Matz,592178,Kris Bryant,L,Travis d'Arnaud,518595,0,0,3,False,2016-07-18,Stolen,2B,2016,2017,28.5
+159,5547,2B,3B,Stolen Base 3B,595879,Javier Báez,430935,Cole Hamels,592178,Kris Bryant,L,Robinson Chirinos,455139,1,2,3,False,2016-07-17,Stolen,3B,2016,2017,28.5
+160,5669,1B,2B,Stolen Base 2B,595879,Javier Báez,449173,Lucas Harrell,600303,Tommy La Stella,R,Tyler Flowers,452095,0,2,5,False,2016-07-07,Stolen,2B,2016,2017,28.5
+161,5808,1B,2B,Stolen Base 2B,595879,Javier Báez,572102,Keyvius Sampson,519333,Matt Szczur,R,Tucker Barnhart,571466,2,7,5,True,2016-06-29,Stolen,2B,2016,2017,28.5
+162,6006,1B,2B,Stolen Base 2B,595879,Javier Báez,477003,Jonathon Niese,608365,Addison Russell,L,Erik Kratz,456124,1,3,4,False,2016-06-18,Stolen,2B,2016,2017,28.5
+163,6325,1B,2B,Stolen Base 2B,595879,Javier Báez,502211,Mike Bolsinger,424325,David Ross,R,A.J. Ellis,454560,0,1,2,False,2016-06-01,Stolen,2B,2016,2017,28.5
+164,6851,1B,,Caught Stealing 2B,595879,Javier Báez,504379,Juan Nicasio,608365,Addison Russell,R,Francisco Cervelli,465041,0,0,2,True,2016-05-04,Caught,2B,2016,2017,28.5
+165,6920,1B,2B,Stolen Base 2B,595879,Javier Báez,449173,Lucas Harrell,600303,Tommy La Stella,R,Tyler Flowers,452095,0,2,5,False,2016-04-30,Stolen,2B,2016,2017,28.5
+166,7000,1B,2B,Stolen Base 2B,595879,Javier Báez,430641,Blaine Boyer,451594,Dexter Fowler,R,Jonathan Lucroy,518960,3,1,7,False,2016-04-26,Stolen,2B,2016,2017,28.5
+167,7095,1B,2B,Stolen Base 2B,595879,Javier Báez,621209,Jon Moscot,608365,Addison Russell,R,Devin Mesoraco,519023,0,0,2,True,2016-04-22,Stolen,2B,2016,2017,28.5
+168,575,1B,2B,Stolen Base 2B,595879,Javier Báez,518516,Madison Bumgarner,519333,Matt Szczur,L,Buster Posey,457763,0,2,5,False,2016-09-03,Stolen,2B,2016,2017,28.5
+169,769,1B,2B,Stolen Base 2B,595879,Javier Báez,429719,Edwin Jackson,424325,David Ross,R,Christian Bethancourt,542194,0,1,2,True,2016-08-22,Stolen,2B,2016,2017,28.5
+170,818,2B,3B,Stolen Base 3B,595879,Javier Báez,542881,Tyler Anderson,451594,Dexter Fowler,L,Nick Hundley,460026,1,2,5,True,2016-08-19,Stolen,3B,2016,2017,28.5
+171,1065,1B,,Caught Stealing 2B,595879,Javier Báez,623430,Ryan Dull,519333,Matt Szczur,R,Stephen Vogt,519390,0,2,7,True,2016-08-07,Caught,2B,2016,2017,28.5
+172,1337,2B,3B,Stolen Base 3B,595879,Javier Báez,458006,Matt Albers,451594,Dexter Fowler,R,Dioner Navarro,425900,4,3,9,True,2016-07-25,Stolen,3B,2016,2017,28.5
+173,1415,1B,,Caught Stealing 2B,595879,Javier Báez,608349,Corey Knebel,600303,Tommy La Stella,R,Jonathan Lucroy,518960,2,5,8,True,2016-07-22,Caught,2B,2016,2017,28.5
+174,1505,1B,2B,Stolen Base 2B,595879,Javier Báez,571927,Steven Matz,592178,Kris Bryant,L,Travis d'Arnaud,518595,0,0,3,False,2016-07-18,Stolen,2B,2016,2017,28.5
+175,1512,2B,3B,Stolen Base 3B,595879,Javier Báez,430935,Cole Hamels,592178,Kris Bryant,L,Robinson Chirinos,455139,1,2,3,False,2016-07-17,Stolen,3B,2016,2017,28.5
+176,1634,1B,2B,Stolen Base 2B,595879,Javier Báez,449173,Lucas Harrell,600303,Tommy La Stella,R,Tyler Flowers,452095,0,2,5,False,2016-07-07,Stolen,2B,2016,2017,28.5
+177,1773,1B,2B,Stolen Base 2B,595879,Javier Báez,572102,Keyvius Sampson,519333,Matt Szczur,R,Tucker Barnhart,571466,2,7,5,True,2016-06-29,Stolen,2B,2016,2017,28.5
+178,1971,1B,2B,Stolen Base 2B,595879,Javier Báez,477003,Jonathon Niese,608365,Addison Russell,L,Erik Kratz,456124,1,3,4,False,2016-06-18,Stolen,2B,2016,2017,28.5
+179,2290,1B,2B,Stolen Base 2B,595879,Javier Báez,502211,Mike Bolsinger,424325,David Ross,R,A.J. Ellis,454560,0,1,2,False,2016-06-01,Stolen,2B,2016,2017,28.5
+180,2816,1B,,Caught Stealing 2B,595879,Javier Báez,504379,Juan Nicasio,608365,Addison Russell,R,Francisco Cervelli,465041,0,0,2,True,2016-05-04,Caught,2B,2016,2017,28.5
+181,2885,1B,2B,Stolen Base 2B,595879,Javier Báez,449173,Lucas Harrell,600303,Tommy La Stella,R,Tyler Flowers,452095,0,2,5,False,2016-04-30,Stolen,2B,2016,2017,28.5
+182,2965,1B,2B,Stolen Base 2B,595879,Javier Báez,430641,Blaine Boyer,451594,Dexter Fowler,R,Jonathan Lucroy,518960,3,1,7,False,2016-04-26,Stolen,2B,2016,2017,28.5
+183,3060,1B,2B,Stolen Base 2B,595879,Javier Báez,621209,Jon Moscot,608365,Addison Russell,R,Devin Mesoraco,519023,0,0,2,True,2016-04-22,Stolen,2B,2016,2017,28.5
+184,3982,1B,2B,Stolen Base 2B,595879,Javier Báez,518516,Madison Bumgarner,519333,Matt Szczur,L,Buster Posey,457763,0,2,5,False,2016-09-03,Stolen,2B,2016,2017,28.5
+185,4176,1B,2B,Stolen Base 2B,595879,Javier Báez,429719,Edwin Jackson,424325,David Ross,R,Christian Bethancourt,542194,0,1,2,True,2016-08-22,Stolen,2B,2016,2017,28.5
+186,4225,2B,3B,Stolen Base 3B,595879,Javier Báez,542881,Tyler Anderson,451594,Dexter Fowler,L,Nick Hundley,460026,1,2,5,True,2016-08-19,Stolen,3B,2016,2017,28.5
+187,4472,1B,,Caught Stealing 2B,595879,Javier Báez,623430,Ryan Dull,519333,Matt Szczur,R,Stephen Vogt,519390,0,2,7,True,2016-08-07,Caught,2B,2016,2017,28.5
+188,4744,2B,3B,Stolen Base 3B,595879,Javier Báez,458006,Matt Albers,451594,Dexter Fowler,R,Dioner Navarro,425900,4,3,9,True,2016-07-25,Stolen,3B,2016,2017,28.5
+189,4822,1B,,Caught Stealing 2B,595879,Javier Báez,608349,Corey Knebel,600303,Tommy La Stella,R,Jonathan Lucroy,518960,2,5,8,True,2016-07-22,Caught,2B,2016,2017,28.5
+190,4912,1B,2B,Stolen Base 2B,595879,Javier Báez,571927,Steven Matz,592178,Kris Bryant,L,Travis d'Arnaud,518595,0,0,3,False,2016-07-18,Stolen,2B,2016,2017,28.5
+191,4919,2B,3B,Stolen Base 3B,595879,Javier Báez,430935,Cole Hamels,592178,Kris Bryant,L,Robinson Chirinos,455139,1,2,3,False,2016-07-17,Stolen,3B,2016,2017,28.5
+192,5041,1B,2B,Stolen Base 2B,595879,Javier Báez,449173,Lucas Harrell,600303,Tommy La Stella,R,Tyler Flowers,452095,0,2,5,False,2016-07-07,Stolen,2B,2016,2017,28.5
+193,5180,1B,2B,Stolen Base 2B,595879,Javier Báez,572102,Keyvius Sampson,519333,Matt Szczur,R,Tucker Barnhart,571466,2,7,5,True,2016-06-29,Stolen,2B,2016,2017,28.5
+194,5378,1B,2B,Stolen Base 2B,595879,Javier Báez,477003,Jonathon Niese,608365,Addison Russell,L,Erik Kratz,456124,1,3,4,False,2016-06-18,Stolen,2B,2016,2017,28.5
+195,5697,1B,2B,Stolen Base 2B,595879,Javier Báez,502211,Mike Bolsinger,424325,David Ross,R,A.J. Ellis,454560,0,1,2,False,2016-06-01,Stolen,2B,2016,2017,28.5
+196,6223,1B,,Caught Stealing 2B,595879,Javier Báez,504379,Juan Nicasio,608365,Addison Russell,R,Francisco Cervelli,465041,0,0,2,True,2016-05-04,Caught,2B,2016,2017,28.5
+197,6292,1B,2B,Stolen Base 2B,595879,Javier Báez,449173,Lucas Harrell,600303,Tommy La Stella,R,Tyler Flowers,452095,0,2,5,False,2016-04-30,Stolen,2B,2016,2017,28.5
+198,6372,1B,2B,Stolen Base 2B,595879,Javier Báez,430641,Blaine Boyer,451594,Dexter Fowler,R,Jonathan Lucroy,518960,3,1,7,False,2016-04-26,Stolen,2B,2016,2017,28.5
+199,6467,1B,2B,Stolen Base 2B,595879,Javier Báez,621209,Jon Moscot,608365,Addison Russell,R,Devin Mesoraco,519023,0,0,2,True,2016-04-22,Stolen,2B,2016,2017,28.5

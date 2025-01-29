@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+86,1B,2B,Stolen Base 2B,430631,Reggie Abercrombie,Henry Blanco,5,4,8,False,2007-09-27,Stolen,2B,2007
+2317,1B,2B,Stolen Base 2B,430631,Reggie Abercrombie,Jason LaRue,5,4,9,True,2007-06-17,Stolen,2B,2007
+2571,1B,2B,Stolen Base 2B,430631,Reggie Abercrombie,Jarrod Saltalamacchia,2,6,8,True,2007-06-06,Stolen,2B,2007
+2729,1B,2B,Stolen Base 2B,430631,Reggie Abercrombie,Michael Barrett,0,5,9,True,2007-05-28,Stolen,2B,2007
+2730,2B,3B,Stolen Base 3B,430631,Reggie Abercrombie,Michael Barrett,0,5,9,True,2007-05-28,Stolen,3B,2007
+2758,1B,2B,Stolen Base 2B,430631,Reggie Abercrombie,Ramon Castro,0,0,3,False,2007-05-27,Stolen,2B,2007
+2904,1B,2B,Stolen Base 2B,430631,Reggie Abercrombie,Josh Paul,0,0,1,True,2007-05-19,Stolen,2B,2007
+14,1B,2B,Stolen Base 2B,430631,Reggie Abercrombie,Clint Sammons,2,1,5,False,2008-09-28,Stolen,2B,2008
+15,1B,,Caught Stealing 2B,430631,Reggie Abercrombie,Clint Sammons,3,1,7,False,2008-09-28,Caught,2B,2008
+133,1B,2B,Stolen Base 2B,430631,Reggie Abercrombie,Ryan Hanigan,1,2,9,False,2008-09-23,Stolen,2B,2008
+369,1B,2B,Stolen Base 2B,430631,Reggie Abercrombie,Ryan Doumit,2,0,2,False,2008-09-10,Stolen,2B,2008
+441,1B,2B,Stolen Base 2B,430631,Reggie Abercrombie,Chris Iannetta,0,0,2,True,2008-09-07,Stolen,2B,2008
+443,1B,2B,Stolen Base 2B,430631,Reggie Abercrombie,Chris Iannetta,0,3,3,True,2008-09-07,Stolen,2B,2008
+2022,1B,,Caught Stealing 2B,430631,Reggie Abercrombie,Ramon Hernandez,4,5,8,True,2008-06-17,Caught,2B,2008

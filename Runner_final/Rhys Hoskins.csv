@@ -1,0 +1,32 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,735,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,621345,A.J. Minter,547180,Bryce Harper,L,Tyler Flowers,452095,0,2,5,True,2020-08-22,Stolen,2B,2020,2021,26.4
+1,3578,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,621345,A.J. Minter,547180,Bryce Harper,L,Tyler Flowers,452095,0,2,5,True,2020-08-22,Stolen,2B,2020,2021,26.4
+2,5502,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,621345,A.J. Minter,547180,Bryce Harper,L,Tyler Flowers,452095,0,2,5,True,2020-08-22,Stolen,2B,2020,2021,26.4
+3,1676,2B,3B,Stolen Base 3B,656555,Rhys Hoskins,571927,Steven Matz,596748,Maikel Franco,L,Wilson Ramos,467092,2,2,6,True,2019-09-06,Stolen,3B,2019,2020,25.7
+4,3124,1B,,Caught Stealing 2B,656555,Rhys Hoskins,606131,Luis Perdomo,457803,Jay Bruce,R,Austin Hedges,595978,6,9,9,True,2019-06-04,Caught,2B,2019,2020,25.7
+5,3297,2B,3B,Stolen Base 3B,656555,Rhys Hoskins,468504,Jhoulys Chacín,514917,César Hernández,R,Yasmani Grandal,518735,0,4,5,True,2019-05-25,Stolen,3B,2019,2020,25.7
+6,3947,1B,,Caught Stealing 2B,656555,Rhys Hoskins,592789,Noah Syndergaard,592663,J.T. Realmuto,R,Wilson Ramos,467092,0,0,1,False,2019-04-15,Caught,2B,2019,2020,25.7
+7,4519,2B,3B,Stolen Base 3B,656555,Rhys Hoskins,571927,Steven Matz,596748,Maikel Franco,L,Wilson Ramos,467092,2,2,6,True,2019-09-06,Stolen,3B,2019,2020,25.7
+8,5967,1B,,Caught Stealing 2B,656555,Rhys Hoskins,606131,Luis Perdomo,457803,Jay Bruce,R,Austin Hedges,595978,6,9,9,True,2019-06-04,Caught,2B,2019,2020,25.7
+9,6140,2B,3B,Stolen Base 3B,656555,Rhys Hoskins,468504,Jhoulys Chacín,514917,César Hernández,R,Yasmani Grandal,518735,0,4,5,True,2019-05-25,Stolen,3B,2019,2020,25.7
+10,6790,1B,,Caught Stealing 2B,656555,Rhys Hoskins,592789,Noah Syndergaard,592663,J.T. Realmuto,R,Wilson Ramos,467092,0,0,1,False,2019-04-15,Caught,2B,2019,2020,25.7
+11,6443,2B,3B,Stolen Base 3B,656555,Rhys Hoskins,571927,Steven Matz,596748,Maikel Franco,L,Wilson Ramos,467092,2,2,6,True,2019-09-06,Stolen,3B,2019,2020,25.7
+12,7891,1B,,Caught Stealing 2B,656555,Rhys Hoskins,606131,Luis Perdomo,457803,Jay Bruce,R,Austin Hedges,595978,6,9,9,True,2019-06-04,Caught,2B,2019,2020,25.7
+13,8064,2B,3B,Stolen Base 3B,656555,Rhys Hoskins,468504,Jhoulys Chacín,514917,César Hernández,R,Yasmani Grandal,518735,0,4,5,True,2019-05-25,Stolen,3B,2019,2020,25.7
+14,8714,1B,,Caught Stealing 2B,656555,Rhys Hoskins,592789,Noah Syndergaard,592663,J.T. Realmuto,R,Wilson Ramos,467092,0,0,1,False,2019-04-15,Caught,2B,2019,2020,25.7
+15,1082,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,608331,Max Fried,591720,Ronald Torreyes,L,Stephen Vogt,519390,4,1,5,False,2021-07-23,Stolen,2B,2021,2022,25.9
+16,1083,2B,,Caught Stealing 3B,656555,Rhys Hoskins,608331,Max Fried,591720,Ronald Torreyes,L,Stephen Vogt,519390,4,1,5,False,2021-07-23,Caught,3B,2021,2022,25.9
+17,1112,1B,,Caught Stealing 2B,656555,Rhys Hoskins,547973,Aroldis Chapman,543543,Brad Miller,L,Gary Sánchez,596142,5,5,9,True,2021-07-21,Caught,2B,2021,2022,25.9
+18,2028,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,593958,Eduardo Rodriguez,664761,Alec Bohm,L,Christian Vázquez,543877,1,0,1,False,2021-05-23,Stolen,2B,2021,2022,25.9
+19,2403,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,612434,Miguel Castro,543543,Brad Miller,R,James McCann,543510,2,1,8,False,2021-04-30,Stolen,2B,2021,2022,25.9
+20,3006,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,608331,Max Fried,591720,Ronald Torreyes,L,Stephen Vogt,519390,4,1,5,False,2021-07-23,Stolen,2B,2021,2022,25.9
+21,3007,2B,,Caught Stealing 3B,656555,Rhys Hoskins,608331,Max Fried,591720,Ronald Torreyes,L,Stephen Vogt,519390,4,1,5,False,2021-07-23,Caught,3B,2021,2022,25.9
+22,3036,1B,,Caught Stealing 2B,656555,Rhys Hoskins,547973,Aroldis Chapman,543543,Brad Miller,L,Gary Sánchez,596142,5,5,9,True,2021-07-21,Caught,2B,2021,2022,25.9
+23,3952,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,593958,Eduardo Rodriguez,664761,Alec Bohm,L,Christian Vázquez,543877,1,0,1,False,2021-05-23,Stolen,2B,2021,2022,25.9
+24,4327,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,612434,Miguel Castro,543543,Brad Miller,R,James McCann,543510,2,1,8,False,2021-04-30,Stolen,2B,2021,2022,25.9
+25,232,1B,,Caught Stealing 2B,656555,Rhys Hoskins,592866,Trevor Williams,608384,Nick Williams,R,Elias Díaz,553869,0,0,4,False,2018-04-22,Caught,2B,2018,2019,25.9
+26,359,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,542882,Matt Andriese,664068,Scott Kingery,R,Jesús Sucre,491696,3,5,5,True,2018-04-15,Stolen,2B,2018,2019,25.9
+27,487,2B,,Caught Stealing 3B,656555,Rhys Hoskins,670950,Trevor Richards,608384,Nick Williams,R,Bryan Holaday,592407,3,3,3,False,2018-04-08,Caught,3B,2018,2019,25.9
+28,570,2B,3B,Stolen Base 3B,656555,Rhys Hoskins,592789,Noah Syndergaard,596748,Maikel Franco,R,Kevin Plawecki,608700,2,0,2,True,2018-04-04,Stolen,3B,2018,2019,25.9
+29,1026,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,595918,A.J. Cole,547957,Hyun Soo Kim,R,Raudy Read,600466,4,5,7,True,2017-09-09,Stolen,2B,2017,2018,26.3
+30,398,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,595918,A.J. Cole,547957,Hyun Soo Kim,R,Raudy Read,600466,4,5,7,True,2017-09-09,Stolen,2B,2017,2018,26.3

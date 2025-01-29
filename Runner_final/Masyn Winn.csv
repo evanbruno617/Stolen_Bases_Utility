@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,536,1B,2B,Stolen Base 2B,691026,Masyn Winn,594580,Sam Moll,663457,Lars Nootbaar,L,Tyler Stephenson,663886,3,4,4,True,2023-09-09,Stolen,2B,2023,2024,28.8
+1,977,1B,2B,Stolen Base 2B,691026,Masyn Winn,669796,Jose E. Hernandez,669242,Tommy Edman,L,Jason Delay,641511,3,5,7,True,2023-08-23,Stolen,2B,2023,2024,28.8
+2,4950,1B,2B,Stolen Base 2B,691026,Masyn Winn,594580,Sam Moll,663457,Lars Nootbaar,L,Tyler Stephenson,663886,3,4,4,True,2023-09-09,Stolen,2B,2023,2024,28.8
+3,5391,1B,2B,Stolen Base 2B,691026,Masyn Winn,669796,Jose E. Hernandez,669242,Tommy Edman,L,Jason Delay,641511,3,5,7,True,2023-08-23,Stolen,2B,2023,2024,28.8

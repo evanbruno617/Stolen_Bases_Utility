@@ -1,0 +1,10 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,112155,Roger Cedeno,Steve Torrealba,0,1,1,False,2002-09-28,Stolen,2B,2002
+1B,2B,Stolen Base 2B,150353,Dave Roberts,Steve Torrealba,3,3,9,False,2002-08-23,Stolen,2B,2002
+1B,2B,Stolen Base 2B,334393,Juan Pierre,Steve Torrealba,0,0,1,True,2002-08-18,Stolen,2B,2002
+1B,2B,Stolen Base 2B,123833,Larry Walker,Steve Torrealba,2,1,3,True,2002-08-18,Stolen,2B,2002
+1B,2B,Stolen Base 2B,334393,Juan Pierre,Steve Torrealba,2,2,4,True,2002-08-18,Stolen,2B,2002
+1B,2B,Stolen Base 2B,334393,Juan Pierre,Steve Torrealba,0,0,1,True,2002-08-17,Stolen,2B,2002
+1B,2B,Stolen Base 2B,334393,Juan Pierre,Steve Torrealba,0,5,2,True,2002-08-17,Stolen,2B,2002
+1B,,Caught Stealing 2B,111188,Barry Bonds,Steve Torrealba,1,3,6,True,2002-08-15,Caught,2B,2002
+1B,2B,Stolen Base 2B,114961,Tom Goodwin,Steve Torrealba,1,0,8,True,2002-08-14,Stolen,2B,2002

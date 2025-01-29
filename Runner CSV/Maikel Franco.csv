@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2461,1B,2B,Stolen Base 2B,596748,Maikel Franco,Michael McKenry,0,0,2,True,2015-05-21,Stolen,2B,2015
+1251,1B,,Caught Stealing 2B,596748,Maikel Franco,David Ross,0,1,2,False,2016-06-06,Caught,2B,2016
+889,1B,2B,Stolen Base 2B,596748,Maikel Franco,Kevin Plawecki,3,0,1,False,2018-08-17,Stolen,2B,2018
+714,1B,2B,Stolen Base 2B,596748,Maikel Franco,Ryan Jeffers,3,4,7,False,2020-08-23,Stolen,2B,2020
+1052,1B,2B,Stolen Base 2B,596748,Maikel Franco,J.T. Realmuto,1,2,2,True,2022-08-04,Stolen,2B,2022

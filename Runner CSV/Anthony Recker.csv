@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+920,1B,,Caught Stealing 2B,489232,Anthony Recker,René Rivera,1,5,7,True,2013-08-16,Caught,2B,2013
+2560,1B,,Caught Stealing 2B,489232,Anthony Recker,Tuffy Gosewisch,3,2,7,False,2014-05-25,Caught,2B,2014
+2588,1B,,Caught Stealing 2B,489232,Anthony Recker,Tuffy Gosewisch,3,2,7,False,2014-05-23,Caught,2B,2014
+3460,1B,2B,Stolen Base 2B,489232,Anthony Recker,Chris Iannetta,3,4,7,True,2014-04-12,Stolen,2B,2014
+2371,1B,2B,Stolen Base 2B,489232,Anthony Recker,Carlos Ruiz,6,3,6,False,2015-05-25,Stolen,2B,2015
+545,1B,2B,Stolen Base 2B,489232,Anthony Recker,Tucker Barnhart,5,1,5,True,2016-07-18,Stolen,2B,2016

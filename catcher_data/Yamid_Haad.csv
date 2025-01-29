@@ -1,0 +1,7 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,116423,Damian Jackson,Yamid Haad,0,0,2,False,2005-09-29,Stolen,2B,2005
+1B,,Caught Stealing 2B,124695,Eric Young Sr.,Yamid Haad,0,0,3,False,2005-09-29,Caught,2B,2005
+1B,,Caught Stealing 2B,425547,Brad Hawpe,Yamid Haad,1,2,4,False,2005-09-25,Caught,2B,2005
+1B,2B,Stolen Base 2B,276055,Adam Dunn,Yamid Haad,2,0,1,False,2005-08-18,Stolen,2B,2005
+1B,,Caught Stealing 2B,334393,Juan Pierre,Yamid Haad,0,0,1,False,2005-08-14,Caught,2B,2005
+1B,,Caught Stealing 2B,430840,Luis Gonzalez,Yamid Haad,2,1,4,True,2005-08-02,Caught,2B,2005

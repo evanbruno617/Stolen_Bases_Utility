@@ -1,0 +1,143 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,756,1B,,Caught Stealing 2B,624428,Adam Frazier,605288,Adrian Houser,571974,John Ryan Murphy,R,Omar Narváez,553882,1,1,2,False,2020-08-21,Caught,2B,2020,2021,27.1
+1,892,1B,,Caught Stealing 2B,624428,Adam Frazier,547179,Michael Lorenzen,621028,Kevin Newman,R,Tucker Barnhart,571466,4,9,8,True,2020-08-13,Caught,2B,2020,2021,27.1
+2,957,1B,2B,Stolen Base 2B,624428,Adam Frazier,605513,Spencer Turnbull,605137,Josh Bell,R,Austin Romine,519222,0,0,1,False,2020-08-09,Stolen,2B,2020,2021,27.1
+3,3599,1B,,Caught Stealing 2B,624428,Adam Frazier,605288,Adrian Houser,571974,John Ryan Murphy,R,Omar Narváez,553882,1,1,2,False,2020-08-21,Caught,2B,2020,2021,27.1
+4,3735,1B,,Caught Stealing 2B,624428,Adam Frazier,547179,Michael Lorenzen,621028,Kevin Newman,R,Tucker Barnhart,571466,4,9,8,True,2020-08-13,Caught,2B,2020,2021,27.1
+5,3800,1B,2B,Stolen Base 2B,624428,Adam Frazier,605513,Spencer Turnbull,605137,Josh Bell,R,Austin Romine,519222,0,0,1,False,2020-08-09,Stolen,2B,2020,2021,27.1
+6,5523,1B,,Caught Stealing 2B,624428,Adam Frazier,605288,Adrian Houser,571974,John Ryan Murphy,R,Omar Narváez,553882,1,1,2,False,2020-08-21,Caught,2B,2020,2021,27.1
+7,5659,1B,,Caught Stealing 2B,624428,Adam Frazier,547179,Michael Lorenzen,621028,Kevin Newman,R,Tucker Barnhart,571466,4,9,8,True,2020-08-13,Caught,2B,2020,2021,27.1
+8,5724,1B,2B,Stolen Base 2B,624428,Adam Frazier,605513,Spencer Turnbull,605137,Josh Bell,R,Austin Romine,519222,0,0,1,False,2020-08-09,Stolen,2B,2020,2021,27.1
+9,1327,1B,,Caught Stealing 2B,624428,Adam Frazier,547179,Michael Lorenzen,591741,José Osuna,R,Curt Casali,592200,4,4,7,False,2019-09-27,Caught,2B,2019,2020,27.2
+10,1335,1B,2B,Stolen Base 2B,624428,Adam Frazier,621249,Duane Underwood Jr.,466320,Melky Cabrera,R,Jonathan Lucroy,518960,9,3,6,False,2019-09-26,Stolen,2B,2019,2020,27.2
+11,1904,1B,2B,Stolen Base 2B,624428,Adam Frazier,596112,Robert Stephenson,607732,Jacob Stallings,R,Tucker Barnhart,571466,1,1,7,False,2019-08-23,Stolen,2B,2019,2020,27.2
+12,2272,1B,,Caught Stealing 2B,624428,Adam Frazier,543243,Sonny Gray,516782,Starling Marte,R,Tucker Barnhart,571466,0,1,1,True,2019-07-29,Caught,2B,2019,2020,27.2
+13,2638,1B,2B,Stolen Base 2B,624428,Adam Frazier,506433,Yu Darvish,572816,Corey Dickerson,R,Victor Caratini,605170,0,1,3,False,2019-07-03,Stolen,2B,2019,2020,27.2
+14,3498,1B,,Caught Stealing 2B,624428,Adam Frazier,502381,Luke Gregerson,668804,Bryan Reynolds,R,Yadier Molina,425877,6,10,9,True,2019-05-12,Caught,2B,2019,2020,27.2
+15,4143,1B,2B,Stolen Base 2B,624428,Adam Frazier,641816,Tyler Mahle,516782,Starling Marte,R,Tucker Barnhart,571466,0,0,3,False,2019-04-04,Stolen,2B,2019,2020,27.2
+16,4157,1B,2B,Stolen Base 2B,624428,Adam Frazier,571945,Miles Mikolas,516782,Starling Marte,R,Yadier Molina,425877,2,0,2,False,2019-04-03,Stolen,2B,2019,2020,27.2
+17,4170,1B,,Caught Stealing 2B,624428,Adam Frazier,547179,Michael Lorenzen,591741,José Osuna,R,Curt Casali,592200,4,4,7,False,2019-09-27,Caught,2B,2019,2020,27.2
+18,4178,1B,2B,Stolen Base 2B,624428,Adam Frazier,621249,Duane Underwood Jr.,466320,Melky Cabrera,R,Jonathan Lucroy,518960,9,3,6,False,2019-09-26,Stolen,2B,2019,2020,27.2
+19,4747,1B,2B,Stolen Base 2B,624428,Adam Frazier,596112,Robert Stephenson,607732,Jacob Stallings,R,Tucker Barnhart,571466,1,1,7,False,2019-08-23,Stolen,2B,2019,2020,27.2
+20,5115,1B,,Caught Stealing 2B,624428,Adam Frazier,543243,Sonny Gray,516782,Starling Marte,R,Tucker Barnhart,571466,0,1,1,True,2019-07-29,Caught,2B,2019,2020,27.2
+21,5481,1B,2B,Stolen Base 2B,624428,Adam Frazier,506433,Yu Darvish,572816,Corey Dickerson,R,Victor Caratini,605170,0,1,3,False,2019-07-03,Stolen,2B,2019,2020,27.2
+22,6341,1B,,Caught Stealing 2B,624428,Adam Frazier,502381,Luke Gregerson,668804,Bryan Reynolds,R,Yadier Molina,425877,6,10,9,True,2019-05-12,Caught,2B,2019,2020,27.2
+23,6986,1B,2B,Stolen Base 2B,624428,Adam Frazier,641816,Tyler Mahle,516782,Starling Marte,R,Tucker Barnhart,571466,0,0,3,False,2019-04-04,Stolen,2B,2019,2020,27.2
+24,7000,1B,2B,Stolen Base 2B,624428,Adam Frazier,571945,Miles Mikolas,516782,Starling Marte,R,Yadier Molina,425877,2,0,2,False,2019-04-03,Stolen,2B,2019,2020,27.2
+25,6094,1B,,Caught Stealing 2B,624428,Adam Frazier,547179,Michael Lorenzen,591741,José Osuna,R,Curt Casali,592200,4,4,7,False,2019-09-27,Caught,2B,2019,2020,27.2
+26,6102,1B,2B,Stolen Base 2B,624428,Adam Frazier,621249,Duane Underwood Jr.,466320,Melky Cabrera,R,Jonathan Lucroy,518960,9,3,6,False,2019-09-26,Stolen,2B,2019,2020,27.2
+27,6671,1B,2B,Stolen Base 2B,624428,Adam Frazier,596112,Robert Stephenson,607732,Jacob Stallings,R,Tucker Barnhart,571466,1,1,7,False,2019-08-23,Stolen,2B,2019,2020,27.2
+28,7039,1B,,Caught Stealing 2B,624428,Adam Frazier,543243,Sonny Gray,516782,Starling Marte,R,Tucker Barnhart,571466,0,1,1,True,2019-07-29,Caught,2B,2019,2020,27.2
+29,7405,1B,2B,Stolen Base 2B,624428,Adam Frazier,506433,Yu Darvish,572816,Corey Dickerson,R,Victor Caratini,605170,0,1,3,False,2019-07-03,Stolen,2B,2019,2020,27.2
+30,8265,1B,,Caught Stealing 2B,624428,Adam Frazier,502381,Luke Gregerson,668804,Bryan Reynolds,R,Yadier Molina,425877,6,10,9,True,2019-05-12,Caught,2B,2019,2020,27.2
+31,8910,1B,2B,Stolen Base 2B,624428,Adam Frazier,641816,Tyler Mahle,516782,Starling Marte,R,Tucker Barnhart,571466,0,0,3,False,2019-04-04,Stolen,2B,2019,2020,27.2
+32,8924,1B,2B,Stolen Base 2B,624428,Adam Frazier,571945,Miles Mikolas,516782,Starling Marte,R,Yadier Molina,425877,2,0,2,False,2019-04-03,Stolen,2B,2019,2020,27.2
+33,83,1B,2B,Stolen Base 2B,624428,Adam Frazier,660623,Huascar Ynoa,665487,Fernando Tatis Jr.,R,Travis d'Arnaud,518595,3,3,5,False,2021-09-25,Stolen,2B,2021,2022,26.8
+34,243,1B,2B,Stolen Base 2B,624428,Adam Frazier,592332,Kevin Gausman,502054,Tommy Pham,R,Curt Casali,592200,0,4,5,True,2021-09-16,Stolen,2B,2021,2022,26.8
+35,302,1B,2B,Stolen Base 2B,624428,Adam Frazier,595014,Blake Treinen,592518,Manny Machado,R,Will Smith,669257,5,3,8,True,2021-09-11,Stolen,2B,2021,2022,26.8
+36,430,2B,3B,Stolen Base 3B,624428,Adam Frazier,608665,Kendall Graveman,630105,Jake Cronenworth,R,Martín Maldonado,455117,3,3,7,False,2021-09-03,Stolen,3B,2021,2022,26.8
+37,699,1B,,Caught Stealing 2B,624428,Adam Frazier,608566,Germán Márquez,665487,Fernando Tatis Jr.,R,Elias Díaz,553869,1,0,3,True,2021-08-17,Caught,2B,2021,2022,26.8
+38,850,1B,2B,Stolen Base 2B,624428,Adam Frazier,676969,Brett de Geus,592518,Manny Machado,R,Daulton Varsho,662139,3,2,8,False,2021-08-07,Stolen,2B,2021,2022,26.8
+39,1298,2B,3B,Stolen Base 3B,624428,Adam Frazier,592767,Drew Smyly,668804,Bryan Reynolds,L,Jonathan Lucroy,518960,3,2,4,False,2021-07-07,Stolen,3B,2021,2022,26.8
+40,1709,1B,2B,Stolen Base 2B,624428,Adam Frazier,669203,Corbin Burnes,595943,Phillip Evans,R,Omar Narváez,553882,0,0,1,True,2021-06-12,Stolen,2B,2021,2022,26.8
+41,1956,1B,,Caught Stealing 2B,624428,Adam Frazier,543294,Kyle Hendricks,592325,Ben Gamel,R,Willson Contreras,575929,2,4,6,False,2021-05-27,Caught,2B,2021,2022,26.8
+42,2140,3B,,Caught Stealing Home,624428,Adam Frazier,622072,Alex Wood,607732,Jacob Stallings,L,Buster Posey,457763,1,1,5,False,2021-05-16,Caught,Home,2021,2022,26.8
+43,2249,1B,2B,Stolen Base 2B,624428,Adam Frazier,592866,Trevor Williams,595943,Phillip Evans,R,Willson Contreras,575929,0,0,1,True,2021-05-08,Stolen,2B,2021,2022,26.8
+44,2521,1B,2B,Stolen Base 2B,624428,Adam Frazier,570632,José Ureña,595943,Phillip Evans,R,Wilson Ramos,467092,1,2,5,True,2021-04-22,Stolen,2B,2021,2022,26.8
+45,2609,1B,,Caught Stealing 2B,624428,Adam Frazier,605288,Adrian Houser,595943,Phillip Evans,R,Omar Narváez,553882,0,1,3,True,2021-04-16,Caught,2B,2021,2022,26.8
+46,2839,1B,2B,Stolen Base 2B,624428,Adam Frazier,519443,Brandon Workman,663647,Ke'Bryan Hayes,R,Willson Contreras,575929,2,3,4,True,2021-04-01,Stolen,2B,2021,2022,26.8
+47,2007,1B,2B,Stolen Base 2B,624428,Adam Frazier,660623,Huascar Ynoa,665487,Fernando Tatis Jr.,R,Travis d'Arnaud,518595,3,3,5,False,2021-09-25,Stolen,2B,2021,2022,26.8
+48,2167,1B,2B,Stolen Base 2B,624428,Adam Frazier,592332,Kevin Gausman,502054,Tommy Pham,R,Curt Casali,592200,0,4,5,True,2021-09-16,Stolen,2B,2021,2022,26.8
+49,2226,1B,2B,Stolen Base 2B,624428,Adam Frazier,595014,Blake Treinen,592518,Manny Machado,R,Will Smith,669257,5,3,8,True,2021-09-11,Stolen,2B,2021,2022,26.8
+50,2354,2B,3B,Stolen Base 3B,624428,Adam Frazier,608665,Kendall Graveman,630105,Jake Cronenworth,R,Martín Maldonado,455117,3,3,7,False,2021-09-03,Stolen,3B,2021,2022,26.8
+51,2623,1B,,Caught Stealing 2B,624428,Adam Frazier,608566,Germán Márquez,665487,Fernando Tatis Jr.,R,Elias Díaz,553869,1,0,3,True,2021-08-17,Caught,2B,2021,2022,26.8
+52,2774,1B,2B,Stolen Base 2B,624428,Adam Frazier,676969,Brett de Geus,592518,Manny Machado,R,Daulton Varsho,662139,3,2,8,False,2021-08-07,Stolen,2B,2021,2022,26.8
+53,3222,2B,3B,Stolen Base 3B,624428,Adam Frazier,592767,Drew Smyly,668804,Bryan Reynolds,L,Jonathan Lucroy,518960,3,2,4,False,2021-07-07,Stolen,3B,2021,2022,26.8
+54,3633,1B,2B,Stolen Base 2B,624428,Adam Frazier,669203,Corbin Burnes,595943,Phillip Evans,R,Omar Narváez,553882,0,0,1,True,2021-06-12,Stolen,2B,2021,2022,26.8
+55,3880,1B,,Caught Stealing 2B,624428,Adam Frazier,543294,Kyle Hendricks,592325,Ben Gamel,R,Willson Contreras,575929,2,4,6,False,2021-05-27,Caught,2B,2021,2022,26.8
+56,4064,3B,,Caught Stealing Home,624428,Adam Frazier,622072,Alex Wood,607732,Jacob Stallings,L,Buster Posey,457763,1,1,5,False,2021-05-16,Caught,Home,2021,2022,26.8
+57,4173,1B,2B,Stolen Base 2B,624428,Adam Frazier,592866,Trevor Williams,595943,Phillip Evans,R,Willson Contreras,575929,0,0,1,True,2021-05-08,Stolen,2B,2021,2022,26.8
+58,4445,1B,2B,Stolen Base 2B,624428,Adam Frazier,570632,José Ureña,595943,Phillip Evans,R,Wilson Ramos,467092,1,2,5,True,2021-04-22,Stolen,2B,2021,2022,26.8
+59,4533,1B,,Caught Stealing 2B,624428,Adam Frazier,605288,Adrian Houser,595943,Phillip Evans,R,Omar Narváez,553882,0,1,3,True,2021-04-16,Caught,2B,2021,2022,26.8
+60,4763,1B,2B,Stolen Base 2B,624428,Adam Frazier,519443,Brandon Workman,663647,Ke'Bryan Hayes,R,Willson Contreras,575929,2,3,4,True,2021-04-01,Stolen,2B,2021,2022,26.8
+61,126,1B,2B,Stolen Base 2B,624428,Adam Frazier,680686,Josiah Gray,602104,Ramón Urías,R,Keibert Ruiz,660688,1,0,2,False,2023-09-26,Stolen,2B,2023,2024,26.7
+62,288,1B,2B,Stolen Base 2B,624428,Adam Frazier,664353,José Urquidy,543510,James McCann,R,Yainer Diaz,673237,5,9,7,True,2023-09-19,Stolen,2B,2023,2024,26.7
+63,816,1B,2B,Stolen Base 2B,624428,Adam Frazier,656302,Dylan Cease,676059,Jordan Westburg,R,Yasmani Grandal,518735,4,0,1,False,2023-08-30,Stolen,2B,2023,2024,26.7
+64,1248,1B,,Caught Stealing 2B,624428,Adam Frazier,664208,Phil Maton,669720,Austin Hays,R,Yainer Diaz,673237,5,2,7,False,2023-08-10,Caught,2B,2023,2024,26.7
+65,1265,1B,2B,Stolen Base 2B,624428,Adam Frazier,606160,Rafael Montero,676059,Jordan Westburg,R,Martín Maldonado,455117,2,3,6,False,2023-08-09,Stolen,2B,2023,2024,26.7
+66,2251,1B,2B,Stolen Base 2B,624428,Adam Frazier,682243,Bryce Miller,668939,Adley Rutschman,R,Cal Raleigh,663728,2,2,5,False,2023-06-24,Stolen,2B,2023,2024,26.7
+67,3270,1B,,Caught Stealing 2B,624428,Adam Frazier,670912,Johan Oviedo,683002,Gunnar Henderson,R,Jason Delay,641511,0,1,4,False,2023-05-12,Caught,2B,2023,2024,26.7
+68,3390,1B,2B,Stolen Base 2B,624428,Adam Frazier,675911,Spencer Strider,622761,Jorge Mateo,R,Sean Murphy,669221,1,2,4,True,2023-05-06,Stolen,2B,2023,2024,26.7
+69,3391,1B,,Caught Stealing 2B,624428,Adam Frazier,623433,Nick Anderson,622761,Jorge Mateo,R,Sean Murphy,669221,3,4,6,True,2023-05-06,Caught,2B,2023,2024,26.7
+70,3455,2B,3B,Stolen Base 3B,624428,Adam Frazier,547973,Aroldis Chapman,622761,Jorge Mateo,L,Freddy Fermin,666023,9,8,8,True,2023-05-04,Stolen,3B,2023,2024,26.7
+71,3624,1B,2B,Stolen Base 2B,624428,Adam Frazier,666214,Joey Wentz,663630,Ryan McKenna,L,Jake Rogers,668670,3,0,5,True,2023-04-27,Stolen,2B,2023,2024,26.7
+72,3837,1B,,Caught Stealing 2B,624428,Adam Frazier,666168,Mason Thompson,669720,Austin Hays,R,Keibert Ruiz,660688,0,1,6,True,2023-04-18,Caught,2B,2023,2024,26.7
+73,3884,1B,2B,Stolen Base 2B,624428,Adam Frazier,656302,Dylan Cease,669720,Austin Hays,R,Seby Zavala,664874,4,0,4,True,2023-04-16,Stolen,2B,2023,2024,26.7
+74,4067,1B,2B,Stolen Base 2B,624428,Adam Frazier,676760,Ron Marinaccio,679631,Terrin Vavra,R,Jose Trevino,624431,2,4,7,False,2023-04-09,Stolen,2B,2023,2024,26.7
+75,4540,1B,2B,Stolen Base 2B,624428,Adam Frazier,680686,Josiah Gray,602104,Ramón Urías,R,Keibert Ruiz,660688,1,0,2,False,2023-09-26,Stolen,2B,2023,2024,26.7
+76,4702,1B,2B,Stolen Base 2B,624428,Adam Frazier,664353,José Urquidy,543510,James McCann,R,Yainer Diaz,673237,5,9,7,True,2023-09-19,Stolen,2B,2023,2024,26.7
+77,5230,1B,2B,Stolen Base 2B,624428,Adam Frazier,656302,Dylan Cease,676059,Jordan Westburg,R,Yasmani Grandal,518735,4,0,1,False,2023-08-30,Stolen,2B,2023,2024,26.7
+78,5662,1B,,Caught Stealing 2B,624428,Adam Frazier,664208,Phil Maton,669720,Austin Hays,R,Yainer Diaz,673237,5,2,7,False,2023-08-10,Caught,2B,2023,2024,26.7
+79,5679,1B,2B,Stolen Base 2B,624428,Adam Frazier,606160,Rafael Montero,676059,Jordan Westburg,R,Martín Maldonado,455117,2,3,6,False,2023-08-09,Stolen,2B,2023,2024,26.7
+80,6665,1B,2B,Stolen Base 2B,624428,Adam Frazier,682243,Bryce Miller,668939,Adley Rutschman,R,Cal Raleigh,663728,2,2,5,False,2023-06-24,Stolen,2B,2023,2024,26.7
+81,7684,1B,,Caught Stealing 2B,624428,Adam Frazier,670912,Johan Oviedo,683002,Gunnar Henderson,R,Jason Delay,641511,0,1,4,False,2023-05-12,Caught,2B,2023,2024,26.7
+82,7804,1B,2B,Stolen Base 2B,624428,Adam Frazier,675911,Spencer Strider,622761,Jorge Mateo,R,Sean Murphy,669221,1,2,4,True,2023-05-06,Stolen,2B,2023,2024,26.7
+83,7805,1B,,Caught Stealing 2B,624428,Adam Frazier,623433,Nick Anderson,622761,Jorge Mateo,R,Sean Murphy,669221,3,4,6,True,2023-05-06,Caught,2B,2023,2024,26.7
+84,7869,2B,3B,Stolen Base 3B,624428,Adam Frazier,547973,Aroldis Chapman,622761,Jorge Mateo,L,Freddy Fermin,666023,9,8,8,True,2023-05-04,Stolen,3B,2023,2024,26.7
+85,8038,1B,2B,Stolen Base 2B,624428,Adam Frazier,666214,Joey Wentz,663630,Ryan McKenna,L,Jake Rogers,668670,3,0,5,True,2023-04-27,Stolen,2B,2023,2024,26.7
+86,8251,1B,,Caught Stealing 2B,624428,Adam Frazier,666168,Mason Thompson,669720,Austin Hays,R,Keibert Ruiz,660688,0,1,6,True,2023-04-18,Caught,2B,2023,2024,26.7
+87,8298,1B,2B,Stolen Base 2B,624428,Adam Frazier,656302,Dylan Cease,669720,Austin Hays,R,Seby Zavala,664874,4,0,4,True,2023-04-16,Stolen,2B,2023,2024,26.7
+88,8481,1B,2B,Stolen Base 2B,624428,Adam Frazier,676760,Ron Marinaccio,679631,Terrin Vavra,R,Jose Trevino,624431,2,4,7,False,2023-04-09,Stolen,2B,2023,2024,26.7
+89,53,1B,2B,Stolen Base 2B,624428,Adam Frazier,607200,Erick Fedde,457708,Justin Upton,R,Keibert Ruiz,660688,0,0,2,True,2022-07-13,Stolen,2B,2022,2023,26.5
+90,55,1B,2B,Stolen Base 2B,624428,Adam Frazier,607200,Erick Fedde,457708,Justin Upton,R,Keibert Ruiz,660688,0,0,2,True,2022-07-12,Stolen,2B,2022,2023,26.5
+91,378,1B,,Caught Stealing 2B,624428,Adam Frazier,661383,Oliver Ortega,663728,Cal Raleigh,R,Max Stassi,545358,2,1,9,True,2022-06-26,Caught,2B,2022,2023,26.5
+92,614,1B,2B,Stolen Base 2B,624428,Adam Frazier,676710,Kutter Crawford,647351,Abraham Toro,R,Kevin Plawecki,608700,0,0,2,False,2022-06-12,Stolen,2B,2022,2023,26.5
+93,992,1B,,Caught Stealing 2B,624428,Adam Frazier,621076,James Kaprielian,677594,Julio Rodríguez,R,Sean Murphy,669221,0,1,1,False,2022-05-24,Caught,2B,2022,2023,26.5
+94,1307,2B,,Caught Stealing 3B,624428,Adam Frazier,656876,Drew Rasmussen,641487,J.P. Crawford,R,Mike Zunino,572287,0,0,1,False,2022-05-07,Caught,3B,2022,2023,26.5
+95,1416,1B,,Caught Stealing 2B,624428,Adam Frazier,645261,Sandy Alcantara,664034,Ty France,R,Jacob Stallings,607732,0,1,3,True,2022-05-01,Caught,2B,2022,2023,26.5
+96,1593,1B,2B,Stolen Base 2B,624428,Adam Frazier,641540,Dane Dunning,664034,Ty France,R,Jonah Heim,641680,1,0,3,False,2022-04-20,Stolen,2B,2022,2023,26.5
+97,379,1B,,Caught Stealing 2B,624428,Adam Frazier,608716,Drew Steckenrider,543281,Josh Harrison,R,Bryan Holaday,592407,0,0,8,True,2018-04-14,Caught,2B,2018,2019,27.2
+98,627,1B,,Caught Stealing 2B,624428,Adam Frazier,572888,Shane Greene,543281,Josh Harrison,R,John Hicks,543308,0,1,9,True,2018-04-01,Caught,2B,2018,2019,27.2
+99,996,1B,2B,Stolen Base 2B,624428,Adam Frazier,605540,Brandon Woodruff,457705,Andrew McCutchen,R,Manny Piña,444489,0,2,3,True,2017-09-11,Stolen,2B,2017,2018,27.3
+100,1316,1B,,Caught Stealing 2B,624428,Adam Frazier,596112,Robert Stephenson,543281,Josh Harrison,R,Tucker Barnhart,571466,4,2,5,True,2017-08-25,Caught,2B,2017,2018,27.3
+101,1989,1B,2B,Stolen Base 2B,624428,Adam Frazier,519076,Jimmy Nelson,621559,Max Moroff,R,Manny Piña,444489,0,0,2,False,2017-07-20,Stolen,2B,2017,2018,27.3
+102,2065,1B,2B,Stolen Base 2B,624428,Adam Frazier,593372,Carlos Martinez,444379,John Jaso,R,Yadier Molina,425877,0,0,1,False,2017-07-16,Stolen,2B,2017,2018,27.3
+103,2233,1B,2B,Stolen Base 2B,624428,Adam Frazier,605400,Aaron Nola,457705,Andrew McCutchen,R,Cameron Rupp,519237,0,0,1,True,2017-07-03,Stolen,2B,2017,2018,27.3
+104,2603,1B,2B,Stolen Base 2B,624428,Adam Frazier,608566,Germán Márquez,570256,Gregory Polanco,R,Tony Wolters,547172,0,0,1,False,2017-06-14,Stolen,2B,2017,2018,27.3
+105,2665,1B,2B,Stolen Base 2B,624428,Adam Frazier,502046,Jeff Locke,543281,Josh Harrison,L,J.T. Realmuto,592663,2,0,5,False,2017-06-11,Stolen,2B,2017,2018,27.3
+106,2666,2B,3B,Stolen Base 3B,624428,Adam Frazier,502046,Jeff Locke,591741,José Osuna,L,J.T. Realmuto,592663,2,0,5,False,2017-06-11,Stolen,3B,2017,2018,27.3
+107,3007,1B,2B,Stolen Base 2B,624428,Adam Frazier,527054,Julio Teheran,543281,Josh Harrison,R,Tyler Flowers,452095,0,0,1,True,2017-05-24,Stolen,2B,2017,2018,27.3
+108,3066,1B,,Caught Stealing 2B,624428,Adam Frazier,591693,Edubray Ramos,457705,Andrew McCutchen,R,Andrew Knapp,595284,1,0,8,False,2017-05-21,Caught,2B,2017,2018,27.3
+109,3093,2B,3B,Stolen Base 3B,624428,Adam Frazier,643410,Mark Leiter Jr.,457705,Andrew McCutchen,R,Cameron Rupp,519237,6,1,6,False,2017-05-20,Stolen,3B,2017,2018,27.3
+110,3823,1B,,Caught Stealing 2B,624428,Adam Frazier,518886,Craig Kimbrel,474568,Jordy Mercer,R,Christian Vázquez,543877,4,3,9,True,2017-04-13,Caught,2B,2017,2018,27.3
+111,3894,1B,,Caught Stealing 2B,624428,Adam Frazier,527054,Julio Teheran,516782,Starling Marte,R,Tyler Flowers,452095,2,3,5,False,2017-04-09,Caught,2B,2017,2018,27.3
+112,3945,1B,,Caught Stealing 2B,624428,Adam Frazier,518886,Craig Kimbrel,474568,Jordy Mercer,R,Christian Vázquez,543877,4,3,9,True,2017-04-06,Caught,2B,2017,2018,27.3
+113,368,1B,2B,Stolen Base 2B,624428,Adam Frazier,605540,Brandon Woodruff,457705,Andrew McCutchen,R,Manny Piña,444489,0,2,3,True,2017-09-11,Stolen,2B,2017,2018,27.3
+114,688,1B,,Caught Stealing 2B,624428,Adam Frazier,596112,Robert Stephenson,543281,Josh Harrison,R,Tucker Barnhart,571466,4,2,5,True,2017-08-25,Caught,2B,2017,2018,27.3
+115,1361,1B,2B,Stolen Base 2B,624428,Adam Frazier,519076,Jimmy Nelson,621559,Max Moroff,R,Manny Piña,444489,0,0,2,False,2017-07-20,Stolen,2B,2017,2018,27.3
+116,1437,1B,2B,Stolen Base 2B,624428,Adam Frazier,593372,Carlos Martinez,444379,John Jaso,R,Yadier Molina,425877,0,0,1,False,2017-07-16,Stolen,2B,2017,2018,27.3
+117,1605,1B,2B,Stolen Base 2B,624428,Adam Frazier,605400,Aaron Nola,457705,Andrew McCutchen,R,Cameron Rupp,519237,0,0,1,True,2017-07-03,Stolen,2B,2017,2018,27.3
+118,1975,1B,2B,Stolen Base 2B,624428,Adam Frazier,608566,Germán Márquez,570256,Gregory Polanco,R,Tony Wolters,547172,0,0,1,False,2017-06-14,Stolen,2B,2017,2018,27.3
+119,2037,1B,2B,Stolen Base 2B,624428,Adam Frazier,502046,Jeff Locke,543281,Josh Harrison,L,J.T. Realmuto,592663,2,0,5,False,2017-06-11,Stolen,2B,2017,2018,27.3
+120,2038,2B,3B,Stolen Base 3B,624428,Adam Frazier,502046,Jeff Locke,591741,José Osuna,L,J.T. Realmuto,592663,2,0,5,False,2017-06-11,Stolen,3B,2017,2018,27.3
+121,2379,1B,2B,Stolen Base 2B,624428,Adam Frazier,527054,Julio Teheran,543281,Josh Harrison,R,Tyler Flowers,452095,0,0,1,True,2017-05-24,Stolen,2B,2017,2018,27.3
+122,2438,1B,,Caught Stealing 2B,624428,Adam Frazier,591693,Edubray Ramos,457705,Andrew McCutchen,R,Andrew Knapp,595284,1,0,8,False,2017-05-21,Caught,2B,2017,2018,27.3
+123,2465,2B,3B,Stolen Base 3B,624428,Adam Frazier,643410,Mark Leiter Jr.,457705,Andrew McCutchen,R,Cameron Rupp,519237,6,1,6,False,2017-05-20,Stolen,3B,2017,2018,27.3
+124,3195,1B,,Caught Stealing 2B,624428,Adam Frazier,518886,Craig Kimbrel,474568,Jordy Mercer,R,Christian Vázquez,543877,4,3,9,True,2017-04-13,Caught,2B,2017,2018,27.3
+125,3266,1B,,Caught Stealing 2B,624428,Adam Frazier,527054,Julio Teheran,516782,Starling Marte,R,Tyler Flowers,452095,2,3,5,False,2017-04-09,Caught,2B,2017,2018,27.3
+126,3317,1B,,Caught Stealing 2B,624428,Adam Frazier,518886,Craig Kimbrel,474568,Jordy Mercer,R,Christian Vázquez,543877,4,3,9,True,2017-04-06,Caught,2B,2017,2018,27.3
+127,5211,1B,2B,Stolen Base 2B,624428,Adam Frazier,542432,José Ramirez,474568,Jordy Mercer,R,A.J. Pierzynski,150229,2,5,6,True,2016-08-02,Stolen,2B,2016,2017,27.5
+128,5562,1B,,Caught Stealing 2B,624428,Adam Frazier,279571,Matt Belisle,457705,Andrew McCutchen,R,Wilson Ramos,467092,1,1,12,True,2016-07-17,Caught,2B,2016,2017,27.5
+129,5745,1B,2B,Stolen Base 2B,624428,Adam Frazier,425492,Ryan Madson,570256,Gregory Polanco,R,Stephen Vogt,519390,2,2,9,True,2016-07-02,Stolen,2B,2016,2017,27.5
+130,5746,2B,3B,Stolen Base 3B,624428,Adam Frazier,425492,Ryan Madson,446481,Sean Rodríguez,R,Stephen Vogt,519390,2,2,9,True,2016-07-02,Stolen,3B,2016,2017,27.5
+131,5858,1B,2B,Stolen Base 2B,624428,Adam Frazier,445276,Kenley Jansen,474568,Jordy Mercer,R,A.J. Ellis,454560,4,5,9,False,2016-06-27,Stolen,2B,2016,2017,27.5
+132,1176,1B,2B,Stolen Base 2B,624428,Adam Frazier,542432,José Ramirez,474568,Jordy Mercer,R,A.J. Pierzynski,150229,2,5,6,True,2016-08-02,Stolen,2B,2016,2017,27.5
+133,1527,1B,,Caught Stealing 2B,624428,Adam Frazier,279571,Matt Belisle,457705,Andrew McCutchen,R,Wilson Ramos,467092,1,1,12,True,2016-07-17,Caught,2B,2016,2017,27.5
+134,1710,1B,2B,Stolen Base 2B,624428,Adam Frazier,425492,Ryan Madson,570256,Gregory Polanco,R,Stephen Vogt,519390,2,2,9,True,2016-07-02,Stolen,2B,2016,2017,27.5
+135,1711,2B,3B,Stolen Base 3B,624428,Adam Frazier,425492,Ryan Madson,446481,Sean Rodríguez,R,Stephen Vogt,519390,2,2,9,True,2016-07-02,Stolen,3B,2016,2017,27.5
+136,1823,1B,2B,Stolen Base 2B,624428,Adam Frazier,445276,Kenley Jansen,474568,Jordy Mercer,R,A.J. Ellis,454560,4,5,9,False,2016-06-27,Stolen,2B,2016,2017,27.5
+137,4583,1B,2B,Stolen Base 2B,624428,Adam Frazier,542432,José Ramirez,474568,Jordy Mercer,R,A.J. Pierzynski,150229,2,5,6,True,2016-08-02,Stolen,2B,2016,2017,27.5
+138,4934,1B,,Caught Stealing 2B,624428,Adam Frazier,279571,Matt Belisle,457705,Andrew McCutchen,R,Wilson Ramos,467092,1,1,12,True,2016-07-17,Caught,2B,2016,2017,27.5
+139,5117,1B,2B,Stolen Base 2B,624428,Adam Frazier,425492,Ryan Madson,570256,Gregory Polanco,R,Stephen Vogt,519390,2,2,9,True,2016-07-02,Stolen,2B,2016,2017,27.5
+140,5118,2B,3B,Stolen Base 3B,624428,Adam Frazier,425492,Ryan Madson,446481,Sean Rodríguez,R,Stephen Vogt,519390,2,2,9,True,2016-07-02,Stolen,3B,2016,2017,27.5
+141,5230,1B,2B,Stolen Base 2B,624428,Adam Frazier,445276,Kenley Jansen,474568,Jordy Mercer,R,A.J. Ellis,454560,4,5,9,False,2016-06-27,Stolen,2B,2016,2017,27.5

@@ -1,0 +1,8 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,429712,Felix Pie,Robinson Cancel,3,3,7,True,2008-09-25,Stolen,2B,2008
+1B,2B,Stolen Base 2B,150217,Cristian Guzman,Robinson Cancel,0,0,1,False,2008-09-16,Stolen,2B,2008
+1B,,Caught Stealing 2B,451186,Lastings Milledge,Robinson Cancel,1,0,6,False,2008-09-16,Caught,2B,2008
+1B,2B,Stolen Base 2B,430001,Rickie Weeks Jr.,Robinson Cancel,1,0,5,False,2008-09-01,Stolen,2B,2008
+1B,2B,Stolen Base 2B,430565,Kazuo Matsui,Robinson Cancel,0,0,1,False,2008-08-03,Stolen,2B,2008
+1B,2B,Stolen Base 2B,452104,Chase Headley,Robinson Cancel,4,2,5,False,2011-06-05,Stolen,2B,2011
+1B,2B,Stolen Base 2B,453531,Rob Johnson,Robinson Cancel,4,2,6,False,2011-06-05,Stolen,2B,2011

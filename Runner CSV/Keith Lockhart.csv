@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+402,1B,2B,Stolen Base 2B,117854,Keith Lockhart,Sandy Martinez,4,0,7,False,2000-09-13,Stolen,2B,2000
+756,1B,2B,Stolen Base 2B,117854,Keith Lockhart,Jason LaRue,2,1,2,False,2000-08-30,Stolen,2B,2000
+1066,1B,2B,Stolen Base 2B,117854,Keith Lockhart,Wiki Gonzalez,0,0,2,False,2000-08-16,Stolen,2B,2000
+1677,1B,,Caught Stealing 2B,117854,Keith Lockhart,Mike Redmond,3,5,9,True,2000-07-20,Caught,2B,2000
+3095,1B,2B,Stolen Base 2B,117854,Keith Lockhart,Mike Lieberthal,0,4,2,True,2000-05-14,Stolen,2B,2000
+155,3B,,Caught Stealing Home,117854,Keith Lockhart,Ramon Castro,4,1,6,False,2002-09-22,Caught,Home,2002
+2283,1B,,Caught Stealing 2B,117854,Keith Lockhart,Matt Walbeck,1,1,4,False,2003-06-05,Caught,2B,2003

@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+397,1B,2B,Stolen Base 2B,686217,Sal Frelick,Keibert Ruiz,5,3,8,False,2023-09-15,Stolen,2B,2023
+810,1B,2B,Stolen Base 2B,686217,Sal Frelick,Yan Gomes,2,1,8,True,2023-08-30,Stolen,2B,2023
+1090,1B,2B,Stolen Base 2B,686217,Sal Frelick,Austin Barnes,0,0,2,True,2023-08-17,Stolen,2B,2023
+1091,1B,2B,Stolen Base 2B,686217,Sal Frelick,Austin Barnes,0,0,4,True,2023-08-17,Stolen,2B,2023
+1092,1B,2B,Stolen Base 2B,686217,Sal Frelick,Austin Barnes,1,0,9,True,2023-08-17,Stolen,2B,2023
+1215,1B,2B,Stolen Base 2B,686217,Sal Frelick,Yasmani Grandal,2,2,3,True,2023-08-11,Stolen,2B,2023
+1364,1B,2B,Stolen Base 2B,686217,Sal Frelick,Jason Delay,2,2,9,False,2023-08-05,Stolen,2B,2023

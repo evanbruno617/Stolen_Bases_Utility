@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+164,1B,2B,Stolen Base 2B,666158,Gavin Lux,Dom Nuñez,9,4,7,False,2019-09-20,Stolen,2B,2019
+305,1B,2B,Stolen Base 2B,666158,Gavin Lux,Pedro Severino,1,1,2,True,2019-09-12,Stolen,2B,2019
+481,1B,2B,Stolen Base 2B,666158,Gavin Lux,Tony Wolters,10,6,8,False,2020-09-04,Stolen,2B,2020
+118,1B,2B,Stolen Base 2B,666158,Gavin Lux,Elias Díaz,0,1,2,True,2021-09-23,Stolen,2B,2021
+1354,1B,2B,Stolen Base 2B,666158,Gavin Lux,Yan Gomes,3,5,9,True,2021-07-03,Stolen,2B,2021
+1455,1B,2B,Stolen Base 2B,666158,Gavin Lux,Jose Lobaton,6,1,5,False,2021-06-27,Stolen,2B,2021
+2015,1B,,Caught Stealing 2B,666158,Gavin Lux,Curt Casali,0,0,1,True,2021-05-23,Caught,2B,2021
+2806,1B,2B,Stolen Base 2B,666158,Gavin Lux,Dom Nuñez,4,5,8,True,2021-04-03,Stolen,2B,2021
+937,1B,2B,Stolen Base 2B,666158,Gavin Lux,Gary Sánchez,1,0,2,False,2022-08-10,Stolen,2B,2022
+1115,2B,3B,Stolen Base 3B,666158,Gavin Lux,Brian Serven,3,6,8,True,2022-07-31,Stolen,3B,2022
+1448,1B,,Caught Stealing 2B,666158,Gavin Lux,Yan Gomes,0,0,2,False,2022-07-09,Caught,2B,2022
+2031,1B,,Caught Stealing 2B,666158,Gavin Lux,Yasmani Grandal,0,0,3,True,2022-06-09,Caught,2B,2022
+2058,1B,2B,Stolen Base 2B,666158,Gavin Lux,Reese McGuire,0,0,3,True,2022-06-07,Stolen,2B,2022
+2152,1B,2B,Stolen Base 2B,666158,Gavin Lux,Patrick Mazeika,0,0,3,False,2022-06-02,Stolen,2B,2022
+2188,1B,2B,Stolen Base 2B,666158,Gavin Lux,Tyler Heineman,2,4,4,False,2022-05-31,Stolen,2B,2022
+2985,1B,2B,Stolen Base 2B,666158,Gavin Lux,Tyler Stephenson,5,0,4,False,2022-04-17,Stolen,2B,2022
+3029,1B,2B,Stolen Base 2B,666158,Gavin Lux,Aramis Garcia,1,0,3,False,2022-04-15,Stolen,2B,2022

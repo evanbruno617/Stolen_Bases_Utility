@@ -1,0 +1,29 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,607680,Kevin Pillar,Tres Barrera,5,3,6,False,2021-08-29,Stolen,2B,2021
+1B,2B,Stolen Base 2B,607043,Brandon Nimmo,Tres Barrera,7,3,6,False,2021-08-29,Stolen,2B,2021
+1B,2B,Stolen Base 2B,621446,Lewis Brinson,Tres Barrera,0,0,1,False,2021-08-26,Stolen,2B,2021
+1B,2B,Stolen Base 2B,642423,Magneuris Sierra,Tres Barrera,7,2,5,False,2021-08-26,Stolen,2B,2021
+1B,2B,Stolen Base 2B,650559,Bryan De La Cruz,Tres Barrera,7,3,6,False,2021-08-26,Stolen,2B,2021
+1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,Tres Barrera,0,0,1,False,2021-08-24,Stolen,2B,2021
+1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,Tres Barrera,0,0,3,False,2021-08-24,Stolen,2B,2021
+1B,2B,Stolen Base 2B,592885,Christian Yelich,Tres Barrera,3,3,5,False,2021-08-21,Stolen,2B,2021
+1B,2B,Stolen Base 2B,518692,Freddie Freeman,Tres Barrera,1,6,5,True,2021-08-14,Stolen,2B,2021
+1B,2B,Stolen Base 2B,542364,Rafael Ortega,Tres Barrera,0,0,1,True,2021-07-31,Stolen,2B,2021
+1B,,Caught Stealing 2B,641561,Johneshwy Fargas,Tres Barrera,1,6,8,True,2021-07-31,Caught,2B,2021
+2B,3B,Stolen Base 3B,516416,Jean Segura,Tres Barrera,0,0,1,False,2021-07-26,Stolen,3B,2021
+1B,2B,Stolen Base 2B,592663,J.T. Realmuto,Tres Barrera,0,0,1,False,2021-07-26,Stolen,2B,2021
+1B,2B,Stolen Base 2B,602104,Ramón Urías,Tres Barrera,2,1,4,False,2021-07-23,Stolen,2B,2021
+1B,2B,Stolen Base 2B,622761,Jorge Mateo,Tres Barrera,7,6,9,True,2021-07-18,Stolen,2B,2021
+2B,3B,Stolen Base 3B,622761,Jorge Mateo,Tres Barrera,7,7,9,True,2021-07-18,Stolen,3B,2021
+1B,2B,Stolen Base 2B,663757,Trent Grisham,Tres Barrera,7,7,9,True,2021-07-18,Stolen,2B,2021
+1B,2B,Stolen Base 2B,596103,Austin Slater,Tres Barrera,7,0,3,False,2021-07-10,Stolen,2B,2021
+1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,Tres Barrera,0,0,3,True,2021-04-07,Stolen,2B,2021
+1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,Tres Barrera,0,0,3,True,2021-04-05,Stolen,2B,2021
+1B,2B,Stolen Base 2B,621020,Dansby Swanson,Tres Barrera,2,1,5,False,2022-09-21,Stolen,2B,2022
+1B,,Caught Stealing 2B,687093,Vaughn Grissom,Tres Barrera,2,3,7,False,2022-09-21,Caught,2B,2022
+1B,2B,Stolen Base 2B,516416,Jean Segura,Tres Barrera,4,0,1,False,2022-08-06,Stolen,2B,2022
+1B,2B,Stolen Base 2B,664983,Jake McCarthy,Tres Barrera,5,1,6,False,2022-07-23,Stolen,2B,2022
+1B,2B,Stolen Base 2B,672695,Geraldo Perdomo,Tres Barrera,5,1,6,False,2022-07-23,Stolen,2B,2022
+1B,2B,Stolen Base 2B,671739,Michael Harris II,Tres Barrera,0,4,4,True,2022-07-16,Stolen,2B,2022
+1B,2B,Stolen Base 2B,671739,Michael Harris II,Tres Barrera,3,5,7,True,2022-07-16,Stolen,2B,2022
+2B,3B,Stolen Base 3B,671739,Michael Harris II,Tres Barrera,3,6,9,True,2022-07-16,Stolen,3B,2022

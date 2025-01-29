@@ -1,0 +1,23 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,641933,Tyler O'Neill,Jacob Nottingham,2,0,3,False,2020-09-27,Stolen,2B,2020
+1B,,Caught Stealing 2B,670084,Nick Heath,Jacob Nottingham,0,0,3,True,2020-09-19,Caught,2B,2020
+1B,2B,Stolen Base 2B,641531,Hunter Dozier,Jacob Nottingham,0,3,1,True,2020-09-18,Stolen,2B,2020
+1B,2B,Stolen Base 2B,521692,Salvador Perez,Jacob Nottingham,0,4,3,True,2020-09-18,Stolen,2B,2020
+2B,3B,Stolen Base 3B,609275,Adalberto Mondesi,Jacob Nottingham,9,4,7,True,2020-09-18,Stolen,3B,2020
+1B,2B,Stolen Base 2B,641933,Tyler O'Neill,Jacob Nottingham,0,0,4,True,2020-09-14,Stolen,2B,2020
+1B,,Caught Stealing 2B,608070,José Ramírez,Jacob Nottingham,1,0,3,False,2020-09-06,Caught,2B,2020
+1B,2B,Stolen Base 2B,592261,Delino DeShields,Jacob Nottingham,1,1,5,False,2020-09-04,Stolen,2B,2020
+1B,2B,Stolen Base 2B,641933,Tyler O'Neill,Jacob Nottingham,0,0,4,True,2020-08-01,Stolen,2B,2020
+1B,2B,Stolen Base 2B,656541,Sam Hilliard,Jacob Nottingham,0,2,1,False,2019-09-29,Stolen,2B,2019
+2B,3B,Stolen Base 3B,656541,Sam Hilliard,Jacob Nottingham,0,2,1,False,2019-09-29,Stolen,3B,2019
+1B,2B,Stolen Base 2B,606132,Raimel Tapia,Jacob Nottingham,1,3,7,False,2019-09-29,Stolen,2B,2019
+1B,,Caught Stealing 2B,451594,Dexter Fowler,Jacob Nottingham,0,0,1,False,2019-09-13,Caught,2B,2019
+2B,3B,Stolen Base 3B,669242,Tommy Edman,Jacob Nottingham,4,0,4,False,2019-09-13,Stolen,3B,2019
+1B,2B,Stolen Base 2B,664056,Harrison Bader,Jacob Nottingham,5,0,6,False,2019-09-13,Stolen,2B,2019
+1B,2B,Stolen Base 2B,516782,Starling Marte,Jacob Nottingham,1,0,1,False,2018-07-13,Stolen,2B,2018
+1B,2B,Stolen Base 2B,457727,Cameron Maybin,Jacob Nottingham,4,2,6,False,2018-07-11,Stolen,2B,2018
+1B,,Caught Stealing 2B,605119,Brian Anderson,Jacob Nottingham,4,4,9,False,2018-07-11,Caught,2B,2018
+1B,2B,Stolen Base 2B,457727,Cameron Maybin,Jacob Nottingham,0,0,2,False,2018-07-09,Stolen,2B,2018
+2B,3B,Stolen Base 3B,500743,Miguel Rojas,Jacob Nottingham,4,3,10,False,2018-07-09,Stolen,3B,2018
+1B,2B,Stolen Base 2B,457727,Cameron Maybin,Jacob Nottingham,4,3,10,False,2018-07-09,Stolen,2B,2018
+1B,,Caught Stealing 2B,514888,Jose Altuve,Jacob Nottingham,1,2,3,False,2016-04-01,Caught,2B,2016

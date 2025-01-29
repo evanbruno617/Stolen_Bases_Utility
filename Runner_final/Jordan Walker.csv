@@ -1,0 +1,21 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,174,2B,3B,Stolen Base 3B,691023,Jordan Walker,605130,Scott Barlow,668800,Andrew Knizner,R,Luis Campusano,669134,2,5,11,True,2023-09-23,Stolen,3B,2023,2024,28.4
+1,1157,1B,2B,Stolen Base 2B,691023,Jordan Walker,676664,JP Sears,669242,Tommy Edman,L,Shea Langeliers,669127,1,0,2,False,2023-08-14,Stolen,2B,2023,2024,28.4
+2,1497,1B,2B,Stolen Base 2B,691023,Jordan Walker,543294,Kyle Hendricks,600301,Taylor Motter,R,Miguel Amaya,665804,1,0,2,False,2023-07-30,Stolen,2B,2023,2024,28.4
+3,1699,1B,2B,Stolen Base 2B,691023,Jordan Walker,643410,Mark Leiter Jr.,680977,Brendan Donovan,R,Miguel Amaya,665804,4,3,8,True,2023-07-21,Stolen,2B,2023,2024,28.4
+4,2370,1B,2B,Stolen Base 2B,691023,Jordan Walker,493603,Adam Ottavino,666185,Dylan Carlson,R,Francisco Alvarez,682626,7,8,9,True,2023-06-18,Stolen,2B,2023,2024,28.4
+5,2436,2B,,Caught Stealing 3B,691023,Jordan Walker,656731,Tylor Megill,669242,Tommy Edman,R,Omar Narváez,553882,5,1,5,True,2023-06-16,Caught,3B,2023,2024,28.4
+6,2533,1B,,Caught Stealing 2B,691023,Jordan Walker,657277,Logan Webb,669242,Tommy Edman,R,Patrick Bailey,672275,0,2,3,False,2023-06-12,Caught,2B,2023,2024,28.4
+7,2644,1B,,Caught Stealing 2B,691023,Jordan Walker,592351,Jon Gray,669242,Tommy Edman,R,Sandy León,506702,0,0,6,True,2023-06-07,Caught,2B,2023,2024,28.4
+8,3819,1B,2B,Stolen Base 2B,691023,Jordan Walker,656981,Peter Solomon,669357,Nolan Gorman,R,Gabriel Moreno,672515,7,4,5,False,2023-04-19,Stolen,2B,2023,2024,28.4
+9,4248,1B,2B,Stolen Base 2B,691023,Jordan Walker,657024,Erik Swanson,668800,Andrew Knizner,R,Danny Jansen,643376,4,1,8,False,2023-04-01,Stolen,2B,2023,2024,28.4
+10,4588,2B,3B,Stolen Base 3B,691023,Jordan Walker,605130,Scott Barlow,668800,Andrew Knizner,R,Luis Campusano,669134,2,5,11,True,2023-09-23,Stolen,3B,2023,2024,28.4
+11,5571,1B,2B,Stolen Base 2B,691023,Jordan Walker,676664,JP Sears,669242,Tommy Edman,L,Shea Langeliers,669127,1,0,2,False,2023-08-14,Stolen,2B,2023,2024,28.4
+12,5911,1B,2B,Stolen Base 2B,691023,Jordan Walker,543294,Kyle Hendricks,600301,Taylor Motter,R,Miguel Amaya,665804,1,0,2,False,2023-07-30,Stolen,2B,2023,2024,28.4
+13,6113,1B,2B,Stolen Base 2B,691023,Jordan Walker,643410,Mark Leiter Jr.,680977,Brendan Donovan,R,Miguel Amaya,665804,4,3,8,True,2023-07-21,Stolen,2B,2023,2024,28.4
+14,6784,1B,2B,Stolen Base 2B,691023,Jordan Walker,493603,Adam Ottavino,666185,Dylan Carlson,R,Francisco Alvarez,682626,7,8,9,True,2023-06-18,Stolen,2B,2023,2024,28.4
+15,6850,2B,,Caught Stealing 3B,691023,Jordan Walker,656731,Tylor Megill,669242,Tommy Edman,R,Omar Narváez,553882,5,1,5,True,2023-06-16,Caught,3B,2023,2024,28.4
+16,6947,1B,,Caught Stealing 2B,691023,Jordan Walker,657277,Logan Webb,669242,Tommy Edman,R,Patrick Bailey,672275,0,2,3,False,2023-06-12,Caught,2B,2023,2024,28.4
+17,7058,1B,,Caught Stealing 2B,691023,Jordan Walker,592351,Jon Gray,669242,Tommy Edman,R,Sandy León,506702,0,0,6,True,2023-06-07,Caught,2B,2023,2024,28.4
+18,8233,1B,2B,Stolen Base 2B,691023,Jordan Walker,656981,Peter Solomon,669357,Nolan Gorman,R,Gabriel Moreno,672515,7,4,5,False,2023-04-19,Stolen,2B,2023,2024,28.4
+19,8662,1B,2B,Stolen Base 2B,691023,Jordan Walker,657024,Erik Swanson,668800,Andrew Knizner,R,Danny Jansen,643376,4,1,8,False,2023-04-01,Stolen,2B,2023,2024,28.4

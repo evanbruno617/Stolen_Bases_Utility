@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+269,1B,2B,Stolen Base 2B,457130,Vinny Rottino,Chris Herrmann,1,2,3,False,2012-09-19,Stolen,2B,2012
+2502,1B,2B,Stolen Base 2B,457130,Vinny Rottino,Jose Lobaton,0,0,2,True,2012-06-13,Stolen,2B,2012
+2572,1B,2B,Stolen Base 2B,457130,Vinny Rottino,Russell Martin,0,1,2,True,2012-06-10,Stolen,2B,2012
+2967,2B,3B,Stolen Base 3B,457130,Vinny Rottino,Nick Hundley,1,0,2,False,2012-05-24,Stolen,3B,2012

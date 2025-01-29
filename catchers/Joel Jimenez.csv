@@ -1,0 +1,2 @@
+Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1B,2B,Stolen Base 2B,643420,Carlos Lopez,592866,Trevor Williams,607311,Ryan Rieger,R,Joel Jimenez,570635,3,6,4,False,2015-04-04,Stolen,2B

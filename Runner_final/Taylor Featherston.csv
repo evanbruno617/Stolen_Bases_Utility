@@ -1,0 +1,10 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,5219,1B,2B,Stolen Base 2B,605227,Taylor Featherston,519326,Hunter Strickland,514917,César Hernández,R,Buster Posey,457763,7,8,6,False,2016-08-02,Stolen,2B,2016,2017,28.2
+1,5274,1B,2B,Stolen Base 2B,605227,Taylor Featherston,543017,Hunter Cervenka,514917,César Hernández,L,Anthony Recker,489232,3,5,8,True,2016-07-30,Stolen,2B,2016,2017,28.2
+2,1184,1B,2B,Stolen Base 2B,605227,Taylor Featherston,519326,Hunter Strickland,514917,César Hernández,R,Buster Posey,457763,7,8,6,False,2016-08-02,Stolen,2B,2016,2017,28.2
+3,1239,1B,2B,Stolen Base 2B,605227,Taylor Featherston,543017,Hunter Cervenka,514917,César Hernández,L,Anthony Recker,489232,3,5,8,True,2016-07-30,Stolen,2B,2016,2017,28.2
+4,4591,1B,2B,Stolen Base 2B,605227,Taylor Featherston,519326,Hunter Strickland,514917,César Hernández,R,Buster Posey,457763,7,8,6,False,2016-08-02,Stolen,2B,2016,2017,28.2
+5,4646,1B,2B,Stolen Base 2B,605227,Taylor Featherston,543017,Hunter Cervenka,514917,César Hernández,L,Anthony Recker,489232,3,5,8,True,2016-07-30,Stolen,2B,2016,2017,28.2
+6,924,1B,,Caught Stealing 2B,605227,Taylor Featherston,502202,Brad Boxberger,519068,Efren Navarro,R,René Rivera,425784,4,5,9,False,2015-06-03,Caught,2B,2015,2016,28.2
+7,1234,1B,2B,Stolen Base 2B,605227,Taylor Featherston,571800,Drew Hutchison,430947,Erick Aybar,R,Russell Martin,431145,3,2,7,True,2015-05-20,Stolen,2B,2015,2016,28.2
+8,1637,1B,2B,Stolen Base 2B,605227,Taylor Featherston,475857,Ryan Cook,430947,Erick Aybar,R,Josh Phegley,572033,2,6,8,True,2015-04-30,Stolen,2B,2015,2016,28.2

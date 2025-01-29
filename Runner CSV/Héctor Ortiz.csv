@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+175,1B,,Caught Stealing 2B,136582,Héctor Ortiz,Ivan Rodriguez,2,0,3,True,2001-05-29,Caught,2B,2001
+349,1B,2B,Caught Stealing 2B,136582,Héctor Ortiz,Ramon Hernandez,0,1,7,False,2001-05-22,Caught,2B,2001
+1427,1B,2B,Stolen Base 2B,136582,Héctor Ortiz,A.J. Pierzynski,1,1,2,False,2001-04-07,Stolen,2B,2001

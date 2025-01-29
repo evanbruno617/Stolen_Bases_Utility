@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+267,1B,2B,Stolen Base 2B,542642,Rymer Liriano,Cameron Rupp,2,1,2,False,2014-09-16,Stolen,2B,2014
+456,1B,2B,Stolen Base 2B,542642,Rymer Liriano,A.J. Ellis,2,0,4,True,2014-09-08,Stolen,2B,2014
+498,1B,2B,Stolen Base 2B,542642,Rymer Liriano,Michael McKenry,6,2,6,True,2014-09-06,Stolen,2B,2014
+935,1B,2B,Stolen Base 2B,542642,Rymer Liriano,A.J. Pierzynski,0,0,2,True,2014-08-16,Stolen,2B,2014
+361,1B,2B,Stolen Base 2B,542642,Rymer Liriano,Salvador Perez,4,0,3,True,2017-09-12,Stolen,2B,2017

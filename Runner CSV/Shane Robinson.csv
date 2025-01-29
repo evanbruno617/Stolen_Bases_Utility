@@ -1,0 +1,23 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1728,1B,2B,Stolen Base 2B,453203,Shane Robinson,Jason Kendall,0,0,1,False,2009-05-16,Stolen,2B,2009
+2734,1B,2B,Stolen Base 2B,453203,Shane Robinson,Yadier Molina,0,0,1,False,2009-04-03,Stolen,2B,2009
+3649,1B,2B,Stolen Base 2B,453203,Shane Robinson,Steve Clevenger,1,5,9,True,2012-04-25,Stolen,2B,2012
+765,1B,2B,Stolen Base 2B,453203,Shane Robinson,Brian McCann,6,1,8,False,2013-08-24,Stolen,2B,2013
+829,1B,2B,Stolen Base 2B,453203,Shane Robinson,Jonathan Lucroy,3,7,5,True,2013-08-21,Stolen,2B,2013
+2947,1B,2B,Stolen Base 2B,453203,Shane Robinson,Blake Lalli,0,0,1,True,2013-05-05,Stolen,2B,2013
+2971,2B,3B,Stolen Base 3B,453203,Shane Robinson,Martín Maldonado,6,7,9,True,2013-05-04,Stolen,3B,2013
+3171,2B,3B,Stolen Base 3B,453203,Shane Robinson,Jhonatan Solano,2,4,9,True,2013-04-24,Stolen,3B,2013
+773,1B,,Caught Stealing 2B,453203,Shane Robinson,Russell Martin,1,3,9,True,2014-08-25,Caught,2B,2014
+652,1B,2B,Stolen Base 2B,453203,Shane Robinson,J.P. Arencibia,1,0,5,True,2015-08-26,Stolen,2B,2015
+1281,1B,2B,Stolen Base 2B,453203,Shane Robinson,Carlos Pérez,0,3,8,True,2015-07-23,Stolen,2B,2015
+1667,2B,3B,Stolen Base 3B,453203,Shane Robinson,Tucker Barnhart,9,7,6,True,2015-06-29,Stolen,3B,2015
+2758,2B,3B,Stolen Base 3B,453203,Shane Robinson,Josh Phegley,3,2,2,False,2015-05-07,Stolen,3B,2015
+3190,1B,2B,Stolen Base 2B,453203,Shane Robinson,Roberto Pérez,2,2,10,False,2015-04-17,Stolen,2B,2015
+3330,1B,2B,Stolen Base 2B,453203,Shane Robinson,Tyler Flowers,0,3,2,True,2015-04-11,Stolen,2B,2015
+3461,1B,,Caught Stealing 2B,453203,Shane Robinson,Sandy León,2,5,7,True,2015-04-03,Caught,2B,2015
+951,1B,2B,Stolen Base 2B,453203,Shane Robinson,Jason Castro,3,1,9,True,2016-06-22,Stolen,2B,2016
+1313,1B,2B,Stolen Base 2B,453203,Shane Robinson,Chris Stewart,2,7,5,True,2016-06-03,Stolen,2B,2016
+1393,1B,,Caught Stealing 2B,453203,Shane Robinson,Evan Gattis,5,5,10,False,2016-05-29,Caught,2B,2016
+1193,1B,2B,Stolen Base 2B,453203,Shane Robinson,Miguel Montero,4,10,9,True,2017-07-30,Stolen,2B,2017
+2243,2B,3B,Stolen Base 3B,453203,Shane Robinson,Kurt Suzuki,0,1,5,False,2017-05-31,Stolen,3B,2017
+3122,1B,2B,Stolen Base 2B,453203,Shane Robinson,Christian Vázquez,6,10,9,True,2018-04-11,Stolen,2B,2018

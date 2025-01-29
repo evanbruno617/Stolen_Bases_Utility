@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3498,1B,2B,Stolen Base 2B,460004,Clete Thomas,A.J. Pierzynski,0,0,1,True,2008-04-12,Stolen,2B,2008
+3680,1B,2B,Stolen Base 2B,460004,Clete Thomas,A.J. Pierzynski,2,2,2,False,2008-04-04,Stolen,2B,2008
+1907,1B,2B,Stolen Base 2B,460004,Clete Thomas,Victor Martinez,0,0,1,True,2009-05-09,Stolen,2B,2009
+1189,3B,score,Stolen Base Home,460004,Clete Thomas,Jason Castro,3,1,2,False,2013-08-03,Stolen,Home,2013
+1915,1B,,Caught Stealing 2B,460004,Clete Thomas,Jeff Mathis,0,3,4,True,2013-06-26,Caught,2B,2013
+2158,1B,,Caught Stealing 2B,460004,Clete Thomas,Alex Avila,0,0,3,False,2013-06-14,Caught,2B,2013

@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2426,1B,2B,Stolen Base 2B,622072,Alex Wood,Pedro Severino,2,3,7,True,2018-05-20,Stolen,2B,2018
+2415,2B,,Caught Stealing 3B,622072,Alex Wood,Elias Díaz,4,0,6,False,2021-04-28,Caught,3B,2021

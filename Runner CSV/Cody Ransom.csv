@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+236,1B,2B,Stolen Base 2B,285068,Cody Ransom,Ramon Hernandez,2,2,8,False,2004-09-19,Stolen,2B,2004
+1957,1B,2B,Stolen Base 2B,285068,Cody Ransom,Paul Lo Duca,2,1,8,False,2004-06-21,Stolen,2B,2004
+2228,1B,,Caught Stealing 2B,285068,Cody Ransom,Toby Hall,0,4,7,True,2004-06-08,Caught,2B,2004
+297,1B,2B,Stolen Base 2B,285068,Cody Ransom,Matt Wieters,5,2,4,False,2009-07-21,Stolen,2B,2009
+2302,1B,2B,Stolen Base 2B,285068,Cody Ransom,Jason Varitek,2,4,8,True,2009-04-24,Stolen,2B,2009
+2714,2B,3B,Stolen Base 3B,285068,Cody Ransom,Koyie Hill,5,1,4,False,2009-04-04,Stolen,3B,2009
+1341,1B,2B,Stolen Base 2B,285068,Cody Ransom,Miguel Montero,0,0,2,False,2010-07-29,Stolen,2B,2010
+1248,1B,2B,Stolen Base 2B,285068,Cody Ransom,Carlos Corporán,0,7,2,False,2011-08-08,Stolen,2B,2011
+1435,1B,2B,Caught Stealing 3B,285068,Cody Ransom,Miguel Montero,2,3,8,True,2013-07-22,Caught,3B,2013

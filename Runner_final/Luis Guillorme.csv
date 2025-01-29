@@ -1,0 +1,14 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,537,1B,2B,Stolen Base 2B,641645,Luis Guillorme,592879,Asher Wojciechowski,665926,Andrés Giménez,R,Chance Sisco,642082,3,2,2,True,2020-09-01,Stolen,2B,2020,2021,25.9
+1,901,1B,2B,Stolen Base 2B,641645,Luis Guillorme,434671,Aníbal Sánchez,605204,J.D. Davis,R,Kurt Suzuki,435559,4,3,2,False,2020-08-12,Stolen,2B,2020,2021,25.9
+2,3380,1B,2B,Stolen Base 2B,641645,Luis Guillorme,592879,Asher Wojciechowski,665926,Andrés Giménez,R,Chance Sisco,642082,3,2,2,True,2020-09-01,Stolen,2B,2020,2021,25.9
+3,3744,1B,2B,Stolen Base 2B,641645,Luis Guillorme,434671,Aníbal Sánchez,605204,J.D. Davis,R,Kurt Suzuki,435559,4,3,2,False,2020-08-12,Stolen,2B,2020,2021,25.9
+4,5304,1B,2B,Stolen Base 2B,641645,Luis Guillorme,592879,Asher Wojciechowski,665926,Andrés Giménez,R,Chance Sisco,642082,3,2,2,True,2020-09-01,Stolen,2B,2020,2021,25.9
+5,5668,1B,2B,Stolen Base 2B,641645,Luis Guillorme,434671,Aníbal Sánchez,605204,J.D. Davis,R,Kurt Suzuki,435559,4,3,2,False,2020-08-12,Stolen,2B,2020,2021,25.9
+6,1620,1B,,Caught Stealing 2B,641645,Luis Guillorme,608723,Austin Voth,592863,Mason Williams,R,Alex Avila,488671,1,5,6,True,2021-06-19,Caught,2B,2021,2022,25.9
+7,1635,1B,,Caught Stealing 2B,641645,Luis Guillorme,607200,Erick Fedde,621512,Tomás Nido,R,Yan Gomes,543228,0,0,5,True,2021-06-18,Caught,2B,2021,2022,25.9
+8,2828,1B,,Caught Stealing 2B,641645,Luis Guillorme,608723,Austin Voth,592863,Mason Williams,R,Alex Avila,488671,1,5,6,True,2021-04-01,Caught,2B,2021,2022,25.9
+9,3544,1B,,Caught Stealing 2B,641645,Luis Guillorme,608723,Austin Voth,592863,Mason Williams,R,Alex Avila,488671,1,5,6,True,2021-06-19,Caught,2B,2021,2022,25.9
+10,3559,1B,,Caught Stealing 2B,641645,Luis Guillorme,607200,Erick Fedde,621512,Tomás Nido,R,Yan Gomes,543228,0,0,5,True,2021-06-18,Caught,2B,2021,2022,25.9
+11,4752,1B,,Caught Stealing 2B,641645,Luis Guillorme,608723,Austin Voth,592863,Mason Williams,R,Alex Avila,488671,1,5,6,True,2021-04-01,Caught,2B,2021,2022,25.9
+12,1084,1B,2B,Stolen Base 2B,641645,Luis Guillorme,641712,Dakota Hudson,621512,Tomás Nido,R,Yadier Molina,425877,2,1,2,False,2022-05-19,Stolen,2B,2022,2023,25.5

@@ -1,0 +1,52 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,2B,3B,Stolen Base 3B,607208,Trea Turner,596133,Luke Weaver,457759,Justin Turner,R,Daulton Varsho,662139,1,0,1,False,2021-09-14,Stolen,3B,2021,2022, 78.9, 0.68
+1,1B,,Caught Stealing 2B,647351,Abraham Toro,656457,Tyler Gilbert,672284,Jarred Kelenic,L,Daulton Varsho,662139,0,2,4,True,2021-09-05,Caught,2B,2021,2022, 78.9, 0.68
+2,1B,2B,Stolen Base 2B,647351,Abraham Toro,461325,Tyler Clippard,608596,Tom Murphy,R,Daulton Varsho,662139,3,3,9,True,2021-09-05,Stolen,2B,2021,2022, 78.9, 0.68
+3,1B,,Caught Stealing 2B,664238,Dylan Moore,573009,Joe Mantiply,620443,Luis Torrens,L,Daulton Varsho,662139,3,3,10,True,2021-09-05,Caught,2B,2021,2022, 78.9, 0.68
+4,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,656457,Tyler Gilbert,660294,Yoshi Tsutsugo,L,Daulton Varsho,662139,0,0,4,False,2021-08-25,Stolen,2B,2021,2022, 78.9, 0.68
+5,1B,2B,Stolen Base 2B,624428,Adam Frazier,676969,Brett de Geus,592518,Manny Machado,R,Daulton Varsho,662139,3,2,8,False,2021-08-07,Stolen,2B,2021,2022, 78.9, 0.68
+6,1B,2B,Stolen Base 2B,663993,Nathaniel Lowe,642203,Taylor Widener,608336,Joey Gallo,R,Daulton Varsho,662139,0,1,3,False,2021-07-27,Stolen,2B,2021,2022, 78.9, 0.68
+7,1B,,Caught Stealing 2B,575929,Willson Contreras,668678,Zac Gallen,519203,Anthony Rizzo,R,Daulton Varsho,662139,1,0,3,True,2021-07-17,Caught,2B,2021,2022, 78.9, 0.68
+8,1B,2B,Stolen Base 2B,595879,Javier Báez,598287,Noé Ramirez,592178,Kris Bryant,R,Daulton Varsho,662139,2,1,8,True,2021-07-17,Stolen,2B,2021,2022, 78.9, 0.68
+9,1B,2B,Stolen Base 2B,596115,Trevor Story,528748,Humberto Castellanos,453568,Charlie Blackmon,R,Daulton Varsho,662139,3,0,3,True,2021-07-07,Stolen,2B,2021,2022, 78.9, 0.68
+10,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,642092,Riley Smith,425877,Yadier Molina,R,Daulton Varsho,662139,4,1,3,False,2021-06-30,Stolen,2B,2021,2022, 78.9, 0.68
+11,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,488748,Ryan Buchter,543333,Eric Hosmer,L,Daulton Varsho,662139,2,1,5,False,2021-06-27,Stolen,2B,2021,2022, 78.9, 0.68
+12,1B,,Caught Stealing 2B,543939,Kolten Wong,573009,Joe Mantiply,596129,Daniel Vogelbach,L,Daulton Varsho,662139,0,1,6,True,2021-06-22,Caught,2B,2021,2022, 78.9, 0.68
+13,3B,,Caught Stealing Home,642715,Willy Adames,488748,Ryan Buchter,598265,Jackie Bradley Jr.,L,Daulton Varsho,662139,0,4,6,True,2021-06-22,Caught,Home,2021,2022, 78.9, 0.68
+14,1B,2B,Stolen Base 2B,645302,Victor Robles,571676,Seth Frankoff,607208,Trea Turner,R,Daulton Varsho,662139,3,2,2,True,2021-05-15,Stolen,2B,2021,2022, 78.9, 0.68
+15,2B,3B,Stolen Base 3B,607208,Trea Turner,596133,Luke Weaver,457759,Justin Turner,R,Daulton Varsho,662139,1,0,1,False,2021-09-14,Stolen,3B,2021,2022, 78.9, 0.68
+16,1B,,Caught Stealing 2B,647351,Abraham Toro,656457,Tyler Gilbert,672284,Jarred Kelenic,L,Daulton Varsho,662139,0,2,4,True,2021-09-05,Caught,2B,2021,2022, 78.9, 0.68
+17,1B,2B,Stolen Base 2B,647351,Abraham Toro,461325,Tyler Clippard,608596,Tom Murphy,R,Daulton Varsho,662139,3,3,9,True,2021-09-05,Stolen,2B,2021,2022, 78.9, 0.68
+18,1B,,Caught Stealing 2B,664238,Dylan Moore,573009,Joe Mantiply,620443,Luis Torrens,L,Daulton Varsho,662139,3,3,10,True,2021-09-05,Caught,2B,2021,2022, 78.9, 0.68
+19,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,656457,Tyler Gilbert,660294,Yoshi Tsutsugo,L,Daulton Varsho,662139,0,0,4,False,2021-08-25,Stolen,2B,2021,2022, 78.9, 0.68
+20,1B,2B,Stolen Base 2B,624428,Adam Frazier,676969,Brett de Geus,592518,Manny Machado,R,Daulton Varsho,662139,3,2,8,False,2021-08-07,Stolen,2B,2021,2022, 78.9, 0.68
+21,1B,2B,Stolen Base 2B,663993,Nathaniel Lowe,642203,Taylor Widener,608336,Joey Gallo,R,Daulton Varsho,662139,0,1,3,False,2021-07-27,Stolen,2B,2021,2022, 78.9, 0.68
+22,1B,,Caught Stealing 2B,575929,Willson Contreras,668678,Zac Gallen,519203,Anthony Rizzo,R,Daulton Varsho,662139,1,0,3,True,2021-07-17,Caught,2B,2021,2022, 78.9, 0.68
+23,1B,2B,Stolen Base 2B,595879,Javier Báez,598287,Noé Ramirez,592178,Kris Bryant,R,Daulton Varsho,662139,2,1,8,True,2021-07-17,Stolen,2B,2021,2022, 78.9, 0.68
+24,1B,2B,Stolen Base 2B,596115,Trevor Story,528748,Humberto Castellanos,453568,Charlie Blackmon,R,Daulton Varsho,662139,3,0,3,True,2021-07-07,Stolen,2B,2021,2022, 78.9, 0.68
+25,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,642092,Riley Smith,425877,Yadier Molina,R,Daulton Varsho,662139,4,1,3,False,2021-06-30,Stolen,2B,2021,2022, 78.9, 0.68
+26,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,488748,Ryan Buchter,543333,Eric Hosmer,L,Daulton Varsho,662139,2,1,5,False,2021-06-27,Stolen,2B,2021,2022, 78.9, 0.68
+27,1B,,Caught Stealing 2B,543939,Kolten Wong,573009,Joe Mantiply,596129,Daniel Vogelbach,L,Daulton Varsho,662139,0,1,6,True,2021-06-22,Caught,2B,2021,2022, 78.9, 0.68
+28,3B,,Caught Stealing Home,642715,Willy Adames,488748,Ryan Buchter,598265,Jackie Bradley Jr.,L,Daulton Varsho,662139,0,4,6,True,2021-06-22,Caught,Home,2021,2022, 78.9, 0.68
+29,1B,2B,Stolen Base 2B,645302,Victor Robles,571676,Seth Frankoff,607208,Trea Turner,R,Daulton Varsho,662139,3,2,2,True,2021-05-15,Stolen,2B,2021,2022, 78.9, 0.68
+30,1B,,Caught Stealing 2B,547180,Bryce Harper,664092,Sean Poppen,592206,Nick Castellanos,R,Daulton Varsho,662139,7,5,7,False,2022-06-10,Caught,2B,2022,2023, --, --
+31,1B,2B,Stolen Base 2B,670770,TJ Friedl,605200,Zach Davies,502054,Tommy Pham,R,Daulton Varsho,662139,3,0,2,False,2022-06-09,Stolen,2B,2022,2023, --, --
+32,1B,2B,Stolen Base 2B,571657,Kyle Farmer,656457,Tyler Gilbert,546991,Albert Almora Jr.,L,Daulton Varsho,662139,4,0,1,False,2022-06-07,Stolen,2B,2022,2023, --, --
+33,1B,,Caught Stealing 2B,668804,Bryan Reynolds,668678,Zac Gallen,656308,Michael Chavis,R,Daulton Varsho,662139,0,0,1,False,2022-06-05,Caught,2B,2022,2023, --, --
+34,2B,3B,Stolen Base 3B,669261,Jack Suwinski,668678,Zac Gallen,660636,Diego A. Castillo,R,Daulton Varsho,662139,2,0,6,False,2022-06-05,Stolen,3B,2022,2023, --, --
+35,1B,2B,Stolen Base 2B,663647,Ke'Bryan Hayes,669459,Kyle Nelson,596129,Daniel Vogelbach,L,Daulton Varsho,662139,3,0,7,False,2022-06-05,Stolen,2B,2022,2023, --, --
+36,1B,,Caught Stealing 2B,593160,Whit Merrifield,598287,Noé Ramirez,643217,Andrew Benintendi,R,Daulton Varsho,662139,8,6,7,True,2022-05-24,Caught,2B,2022,2023, --, --
+37,1B,2B,Stolen Base 2B,542364,Rafael Ortega,518876,Merrill Kelly,542340,Jonathan Villar,R,Daulton Varsho,662139,3,0,2,False,2022-05-22,Stolen,2B,2022,2023, --, --
+38,1B,2B,Stolen Base 2B,575929,Willson Contreras,518516,Madison Bumgarner,542340,Jonathan Villar,L,Daulton Varsho,662139,2,0,3,False,2022-05-21,Stolen,2B,2022,2023, --, --
+39,1B,,Caught Stealing 2B,666624,Christopher Morel,453178,Ian Kennedy,545121,Ildemaro Vargas,R,Daulton Varsho,662139,4,4,9,False,2022-05-21,Caught,2B,2022,2023, --, --
+40,1B,2B,Stolen Base 2B,592743,Andrelton Simmons,453343,Mark Melancon,664023,Ian Happ,R,Daulton Varsho,662139,5,7,10,False,2022-05-21,Stolen,2B,2022,2023, --, --
+41,1B,2B,Stolen Base 2B,666624,Christopher Morel,668678,Zac Gallen,592743,Andrelton Simmons,R,Daulton Varsho,662139,1,3,5,False,2022-05-19,Stolen,2B,2022,2023, --, --
+42,1B,2B,Stolen Base 2B,607208,Trea Turner,573009,Joe Mantiply,669257,Will Smith,L,Daulton Varsho,662139,5,2,5,False,2022-05-18,Stolen,2B,2022,2023, --, --
+43,1B,2B,Stolen Base 2B,641355,Cody Bellinger,453178,Ian Kennedy,621035,Chris Taylor,R,Daulton Varsho,662139,5,2,6,False,2022-05-18,Stolen,2B,2022,2023, --, --
+44,1B,,Caught Stealing 2B,575929,Willson Contreras,605200,Zach Davies,621550,Patrick Wisdom,R,Daulton Varsho,662139,0,0,1,True,2022-05-13,Caught,2B,2022,2023, --, --
+45,1B,,Caught Stealing 2B,500743,Miguel Rojas,598287,Noé Ramirez,607732,Jacob Stallings,R,Daulton Varsho,662139,4,3,7,True,2022-05-09,Caught,2B,2022,2023, --, --
+46,1B,2B,Stolen Base 2B,656541,Sam Hilliard,518876,Merrill Kelly,578428,Jose Iglesias,R,Daulton Varsho,662139,0,1,2,True,2022-05-06,Stolen,2B,2022,2023, --, --
+47,1B,,Caught Stealing 2B,641933,Tyler O'Neill,605200,Zach Davies,571448,Nolan Arenado,R,Daulton Varsho,662139,2,1,3,False,2022-05-01,Caught,2B,2022,2023, --, --
+48,2B,3B,Stolen Base 3B,516782,Starling Marte,605525,J.B. Wendelken,596019,Francisco Lindor,R,Daulton Varsho,662139,1,2,6,True,2022-04-24,Stolen,3B,2022,2023, --, --
+49,1B,2B,Stolen Base 2B,643446,Jeff McNeil,528748,Humberto Castellanos,516782,Starling Marte,R,Daulton Varsho,662139,0,0,1,False,2022-04-17,Stolen,2B,2022,2023, --, --
+50,1B,2B,Stolen Base 2B,605204,J.D. Davis,424144,Oliver Pérez,641645,Luis Guillorme,L,Daulton Varsho,662139,3,0,6,False,2022-04-17,Stolen,2B,2022,2023, --, --

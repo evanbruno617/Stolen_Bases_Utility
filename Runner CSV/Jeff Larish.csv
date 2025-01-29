@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+214,1B,,Caught Stealing 2B,460252,Jeff Larish,Kelly Shoppach,2,4,7,True,2008-09-19,Caught,2B,2008
+474,1B,,Caught Stealing 2B,460252,Jeff Larish,Joe Mauer,1,0,3,True,2008-09-06,Caught,2B,2008
+685,1B,2B,Stolen Base 2B,460252,Jeff Larish,Kelly Shoppach,5,7,8,False,2008-08-27,Stolen,2B,2008
+1417,1B,2B,Stolen Base 2B,460252,Jeff Larish,Ramon Hernandez,2,7,3,True,2008-07-19,Stolen,2B,2008
+1602,1B,,Caught Stealing 2B,460252,Jeff Larish,Jarrod Saltalamacchia,3,1,4,False,2009-05-21,Caught,2B,2009
+208,1B,2B,Stolen Base 2B,460252,Jeff Larish,A.J. Pierzynski,7,2,8,False,2010-09-21,Stolen,2B,2010
+209,2B,3B,Stolen Base 2B,460252,Jeff Larish,A.J. Pierzynski,7,2,8,False,2010-09-21,Stolen,2B,2010

@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1852,1B,,Caught Stealing 2B,473234,Tony Abreu,Russell Martin,0,0,1,False,2010-07-03,Caught,2B,2010
+3583,1B,2B,Stolen Base 2B,473234,Tony Abreu,Nick Hundley,0,0,1,True,2010-04-18,Stolen,2B,2010
+72,3B,,Caught Stealing Home,473234,Tony Abreu,A.J. Ellis,3,0,2,False,2013-09-25,Caught,Home,2013

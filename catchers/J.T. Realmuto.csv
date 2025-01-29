@@ -1,0 +1,966 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,2B,3B,Stolen Base 3B,607208,Trea Turner,605400,Aaron Nola,452678,Asdrúbal Cabrera,R,J.T. Realmuto,592663,2,0,3,False,2020-09-22,Stolen,3B,2020,2021, 87.4, 0.71
+1,1B,2B,Stolen Base 2B,665742,Juan Soto,605400,Aaron Nola,452678,Asdrúbal Cabrera,R,J.T. Realmuto,592663,2,0,3,False,2020-09-22,Stolen,2B,2020,2021, 87.4, 0.71
+2,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,605400,Aaron Nola,595453,Chad Wallach,R,J.T. Realmuto,592663,0,4,3,False,2020-09-11,Stolen,2B,2020,2021, 87.4, 0.71
+3,2B,3B,Stolen Base 3B,656509,Monte Harrison,519443,Brandon Workman,500743,Miguel Rojas,R,J.T. Realmuto,592663,6,6,9,False,2020-09-10,Stolen,3B,2020,2021, 87.4, 0.71
+4,1B,2B,Stolen Base 2B,500743,Miguel Rojas,519443,Brandon Workman,665862,Jazz Chisholm Jr.,R,J.T. Realmuto,592663,6,6,9,False,2020-09-10,Stolen,2B,2020,2021, 87.4, 0.71
+5,1B,2B,Stolen Base 2B,665926,Andrés Giménez,571735,David Hale,607043,Brandon Nimmo,R,J.T. Realmuto,592663,5,1,8,False,2020-09-05,Stolen,2B,2020,2021, 87.4, 0.71
+6,1B,2B,Stolen Base 2B,543228,Yan Gomes,605400,Aaron Nola,671277,Luis García Jr.,R,J.T. Realmuto,592663,0,0,5,True,2020-09-01,Stolen,2B,2020,2021, 87.4, 0.71
+7,2B,3B,Stolen Base 3B,621020,Dansby Swanson,592390,Heath Hembree,518595,Travis d'Arnaud,R,J.T. Realmuto,592663,4,4,10,True,2020-08-28,Stolen,3B,2020,2021, 87.4, 0.71
+8,1B,,Caught Stealing 2B,542255,Ender Inciarte,453284,Blake Parker,588751,Adeiny Hechavarría,R,J.T. Realmuto,592663,4,4,11,True,2020-08-28,Caught,2B,2020,2021, 87.4, 0.71
+9,1B,2B,Stolen Base 2B,671277,Luis García Jr.,605400,Aaron Nola,519346,Eric Thames,R,J.T. Realmuto,592663,2,1,4,False,2020-08-26,Stolen,2B,2020,2021, 87.4, 0.71
+10,1B,2B,Stolen Base 2B,607208,Trea Turner,605400,Aaron Nola,452678,Asdrúbal Cabrera,R,J.T. Realmuto,592663,2,1,5,False,2020-08-26,Stolen,2B,2020,2021, 87.4, 0.71
+11,1B,2B,Stolen Base 2B,657077,Alex Verdugo,665759,Ramón Rosso,607680,Kevin Pillar,R,J.T. Realmuto,592663,4,3,7,False,2020-08-19,Stolen,2B,2020,2021, 87.4, 0.71
+12,1B,2B,Stolen Base 2B,665926,Andrés Giménez,675921,Spencer Howard,641645,Luis Guillorme,R,J.T. Realmuto,592663,0,2,2,True,2020-08-14,Stolen,2B,2020,2021, 87.4, 0.71
+13,1B,2B,Stolen Base 2B,571740,Billy Hamilton,488984,Tommy Hunter,642708,Amed Rosario,R,J.T. Realmuto,592663,5,4,8,True,2020-08-14,Stolen,2B,2020,2021, 87.4, 0.71
+14,1B,,Caught Stealing 2B,623993,Anthony Santander,488984,Tommy Hunter,600524,Renato Núñez,R,J.T. Realmuto,592663,3,5,7,True,2020-08-11,Caught,2B,2020,2021, 87.4, 0.71
+15,3B,,Caught Stealing Home,623205,Andrew Velazquez,501625,Jose Alvarez,448801,Chris Davis,L,J.T. Realmuto,592663,3,5,8,True,2020-08-11,Caught,Home,2020,2021, 87.4, 0.71
+16,1B,,Caught Stealing 2B,458731,Brett Gardner,621107,Zach Eflin,570482,Gio Urshela,R,J.T. Realmuto,592663,5,2,4,True,2020-08-06,Caught,2B,2020,2021, 87.4, 0.71
+17,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,501625,Jose Alvarez,572228,Luke Voit,L,J.T. Realmuto,592663,6,3,8,False,2020-08-03,Stolen,2B,2020,2021, 87.4, 0.71
+18,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,501625,Jose Alvarez,572228,Luke Voit,L,J.T. Realmuto,592663,6,3,8,False,2020-07-29,Stolen,2B,2020,2021, 87.4, 0.71
+19,1B,,Caught Stealing 2B,458731,Brett Gardner,621107,Zach Eflin,570482,Gio Urshela,R,J.T. Realmuto,592663,5,2,4,True,2020-07-28,Caught,2B,2020,2021, 87.4, 0.71
+20,1B,2B,Stolen Base 2B,500743,Miguel Rojas,605400,Aaron Nola,542583,Jesús Aguilar,R,J.T. Realmuto,592663,0,1,3,True,2020-07-24,Stolen,2B,2020,2021, 87.4, 0.71
+21,1B,,Caught Stealing 2B,623912,Harold Ramírez,605400,Aaron Nola,605119,Brian Anderson,R,J.T. Realmuto,592663,0,1,4,True,2020-07-24,Caught,2B,2020,2021, 87.4, 0.71
+22,2B,3B,Stolen Base 3B,607208,Trea Turner,605400,Aaron Nola,452678,Asdrúbal Cabrera,R,J.T. Realmuto,592663,2,0,3,False,2020-09-22,Stolen,3B,2020,2021, 87.4, 0.71
+23,1B,2B,Stolen Base 2B,665742,Juan Soto,605400,Aaron Nola,452678,Asdrúbal Cabrera,R,J.T. Realmuto,592663,2,0,3,False,2020-09-22,Stolen,2B,2020,2021, 87.4, 0.71
+24,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,605400,Aaron Nola,595453,Chad Wallach,R,J.T. Realmuto,592663,0,4,3,False,2020-09-11,Stolen,2B,2020,2021, 87.4, 0.71
+25,2B,3B,Stolen Base 3B,656509,Monte Harrison,519443,Brandon Workman,500743,Miguel Rojas,R,J.T. Realmuto,592663,6,6,9,False,2020-09-10,Stolen,3B,2020,2021, 87.4, 0.71
+26,1B,2B,Stolen Base 2B,500743,Miguel Rojas,519443,Brandon Workman,665862,Jazz Chisholm Jr.,R,J.T. Realmuto,592663,6,6,9,False,2020-09-10,Stolen,2B,2020,2021, 87.4, 0.71
+27,1B,2B,Stolen Base 2B,665926,Andrés Giménez,571735,David Hale,607043,Brandon Nimmo,R,J.T. Realmuto,592663,5,1,8,False,2020-09-05,Stolen,2B,2020,2021, 87.4, 0.71
+28,1B,2B,Stolen Base 2B,543228,Yan Gomes,605400,Aaron Nola,671277,Luis García Jr.,R,J.T. Realmuto,592663,0,0,5,True,2020-09-01,Stolen,2B,2020,2021, 87.4, 0.71
+29,2B,3B,Stolen Base 3B,621020,Dansby Swanson,592390,Heath Hembree,518595,Travis d'Arnaud,R,J.T. Realmuto,592663,4,4,10,True,2020-08-28,Stolen,3B,2020,2021, 87.4, 0.71
+30,1B,,Caught Stealing 2B,542255,Ender Inciarte,453284,Blake Parker,588751,Adeiny Hechavarría,R,J.T. Realmuto,592663,4,4,11,True,2020-08-28,Caught,2B,2020,2021, 87.4, 0.71
+31,1B,2B,Stolen Base 2B,671277,Luis García Jr.,605400,Aaron Nola,519346,Eric Thames,R,J.T. Realmuto,592663,2,1,4,False,2020-08-26,Stolen,2B,2020,2021, 87.4, 0.71
+32,1B,2B,Stolen Base 2B,607208,Trea Turner,605400,Aaron Nola,452678,Asdrúbal Cabrera,R,J.T. Realmuto,592663,2,1,5,False,2020-08-26,Stolen,2B,2020,2021, 87.4, 0.71
+33,1B,2B,Stolen Base 2B,657077,Alex Verdugo,665759,Ramón Rosso,607680,Kevin Pillar,R,J.T. Realmuto,592663,4,3,7,False,2020-08-19,Stolen,2B,2020,2021, 87.4, 0.71
+34,1B,2B,Stolen Base 2B,665926,Andrés Giménez,675921,Spencer Howard,641645,Luis Guillorme,R,J.T. Realmuto,592663,0,2,2,True,2020-08-14,Stolen,2B,2020,2021, 87.4, 0.71
+35,1B,2B,Stolen Base 2B,571740,Billy Hamilton,488984,Tommy Hunter,642708,Amed Rosario,R,J.T. Realmuto,592663,5,4,8,True,2020-08-14,Stolen,2B,2020,2021, 87.4, 0.71
+36,1B,,Caught Stealing 2B,623993,Anthony Santander,488984,Tommy Hunter,600524,Renato Núñez,R,J.T. Realmuto,592663,3,5,7,True,2020-08-11,Caught,2B,2020,2021, 87.4, 0.71
+37,3B,,Caught Stealing Home,623205,Andrew Velazquez,501625,Jose Alvarez,448801,Chris Davis,L,J.T. Realmuto,592663,3,5,8,True,2020-08-11,Caught,Home,2020,2021, 87.4, 0.71
+38,1B,,Caught Stealing 2B,458731,Brett Gardner,621107,Zach Eflin,570482,Gio Urshela,R,J.T. Realmuto,592663,5,2,4,True,2020-08-06,Caught,2B,2020,2021, 87.4, 0.71
+39,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,501625,Jose Alvarez,572228,Luke Voit,L,J.T. Realmuto,592663,6,3,8,False,2020-08-03,Stolen,2B,2020,2021, 87.4, 0.71
+40,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,501625,Jose Alvarez,572228,Luke Voit,L,J.T. Realmuto,592663,6,3,8,False,2020-07-29,Stolen,2B,2020,2021, 87.4, 0.71
+41,1B,,Caught Stealing 2B,458731,Brett Gardner,621107,Zach Eflin,570482,Gio Urshela,R,J.T. Realmuto,592663,5,2,4,True,2020-07-28,Caught,2B,2020,2021, 87.4, 0.71
+42,1B,2B,Stolen Base 2B,500743,Miguel Rojas,605400,Aaron Nola,542583,Jesús Aguilar,R,J.T. Realmuto,592663,0,1,3,True,2020-07-24,Stolen,2B,2020,2021, 87.4, 0.71
+43,1B,,Caught Stealing 2B,623912,Harold Ramírez,605400,Aaron Nola,605119,Brian Anderson,R,J.T. Realmuto,592663,0,1,4,True,2020-07-24,Caught,2B,2020,2021, 87.4, 0.71
+44,2B,3B,Stolen Base 3B,607208,Trea Turner,605400,Aaron Nola,452678,Asdrúbal Cabrera,R,J.T. Realmuto,592663,2,0,3,False,2020-09-22,Stolen,3B,2020,2021, 87.4, 0.71
+45,1B,2B,Stolen Base 2B,665742,Juan Soto,605400,Aaron Nola,452678,Asdrúbal Cabrera,R,J.T. Realmuto,592663,2,0,3,False,2020-09-22,Stolen,2B,2020,2021, 87.4, 0.71
+46,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,605400,Aaron Nola,595453,Chad Wallach,R,J.T. Realmuto,592663,0,4,3,False,2020-09-11,Stolen,2B,2020,2021, 87.4, 0.71
+47,2B,3B,Stolen Base 3B,656509,Monte Harrison,519443,Brandon Workman,500743,Miguel Rojas,R,J.T. Realmuto,592663,6,6,9,False,2020-09-10,Stolen,3B,2020,2021, 87.4, 0.71
+48,1B,2B,Stolen Base 2B,500743,Miguel Rojas,519443,Brandon Workman,665862,Jazz Chisholm Jr.,R,J.T. Realmuto,592663,6,6,9,False,2020-09-10,Stolen,2B,2020,2021, 87.4, 0.71
+49,1B,2B,Stolen Base 2B,665926,Andrés Giménez,571735,David Hale,607043,Brandon Nimmo,R,J.T. Realmuto,592663,5,1,8,False,2020-09-05,Stolen,2B,2020,2021, 87.4, 0.71
+50,1B,2B,Stolen Base 2B,543228,Yan Gomes,605400,Aaron Nola,671277,Luis García Jr.,R,J.T. Realmuto,592663,0,0,5,True,2020-09-01,Stolen,2B,2020,2021, 87.4, 0.71
+51,2B,3B,Stolen Base 3B,621020,Dansby Swanson,592390,Heath Hembree,518595,Travis d'Arnaud,R,J.T. Realmuto,592663,4,4,10,True,2020-08-28,Stolen,3B,2020,2021, 87.4, 0.71
+52,1B,,Caught Stealing 2B,542255,Ender Inciarte,453284,Blake Parker,588751,Adeiny Hechavarría,R,J.T. Realmuto,592663,4,4,11,True,2020-08-28,Caught,2B,2020,2021, 87.4, 0.71
+53,1B,2B,Stolen Base 2B,671277,Luis García Jr.,605400,Aaron Nola,519346,Eric Thames,R,J.T. Realmuto,592663,2,1,4,False,2020-08-26,Stolen,2B,2020,2021, 87.4, 0.71
+54,1B,2B,Stolen Base 2B,607208,Trea Turner,605400,Aaron Nola,452678,Asdrúbal Cabrera,R,J.T. Realmuto,592663,2,1,5,False,2020-08-26,Stolen,2B,2020,2021, 87.4, 0.71
+55,1B,2B,Stolen Base 2B,657077,Alex Verdugo,665759,Ramón Rosso,607680,Kevin Pillar,R,J.T. Realmuto,592663,4,3,7,False,2020-08-19,Stolen,2B,2020,2021, 87.4, 0.71
+56,1B,2B,Stolen Base 2B,665926,Andrés Giménez,675921,Spencer Howard,641645,Luis Guillorme,R,J.T. Realmuto,592663,0,2,2,True,2020-08-14,Stolen,2B,2020,2021, 87.4, 0.71
+57,1B,2B,Stolen Base 2B,571740,Billy Hamilton,488984,Tommy Hunter,642708,Amed Rosario,R,J.T. Realmuto,592663,5,4,8,True,2020-08-14,Stolen,2B,2020,2021, 87.4, 0.71
+58,1B,,Caught Stealing 2B,623993,Anthony Santander,488984,Tommy Hunter,600524,Renato Núñez,R,J.T. Realmuto,592663,3,5,7,True,2020-08-11,Caught,2B,2020,2021, 87.4, 0.71
+59,3B,,Caught Stealing Home,623205,Andrew Velazquez,501625,Jose Alvarez,448801,Chris Davis,L,J.T. Realmuto,592663,3,5,8,True,2020-08-11,Caught,Home,2020,2021, 87.4, 0.71
+60,1B,,Caught Stealing 2B,458731,Brett Gardner,621107,Zach Eflin,570482,Gio Urshela,R,J.T. Realmuto,592663,5,2,4,True,2020-08-06,Caught,2B,2020,2021, 87.4, 0.71
+61,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,501625,Jose Alvarez,572228,Luke Voit,L,J.T. Realmuto,592663,6,3,8,False,2020-08-03,Stolen,2B,2020,2021, 87.4, 0.71
+62,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,501625,Jose Alvarez,572228,Luke Voit,L,J.T. Realmuto,592663,6,3,8,False,2020-07-29,Stolen,2B,2020,2021, 87.4, 0.71
+63,1B,,Caught Stealing 2B,458731,Brett Gardner,621107,Zach Eflin,570482,Gio Urshela,R,J.T. Realmuto,592663,5,2,4,True,2020-07-28,Caught,2B,2020,2021, 87.4, 0.71
+64,1B,2B,Stolen Base 2B,500743,Miguel Rojas,605400,Aaron Nola,542583,Jesús Aguilar,R,J.T. Realmuto,592663,0,1,3,True,2020-07-24,Stolen,2B,2020,2021, 87.4, 0.71
+65,1B,,Caught Stealing 2B,623912,Harold Ramírez,605400,Aaron Nola,605119,Brian Anderson,R,J.T. Realmuto,592663,0,1,4,True,2020-07-24,Caught,2B,2020,2021, 87.4, 0.71
+66,1B,2B,Stolen Base 2B,596019,Francisco Lindor,450306,Jason Vargas,640458,Óscar Mercado,L,J.T. Realmuto,592663,0,0,1,False,2019-09-21,Stolen,2B,2019,2020, 87.2, 0.69
+67,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,593576,Héctor Neris,645277,Ozzie Albies,R,J.T. Realmuto,592663,4,5,9,False,2019-09-17,Stolen,2B,2019,2020, 87.2, 0.69
+68,1B,,Caught Stealing 2B,593428,Xander Bogaerts,605400,Aaron Nola,646240,Rafael Devers,R,J.T. Realmuto,592663,0,0,4,True,2019-09-14,Caught,2B,2019,2020, 87.2, 0.69
+69,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,592767,Drew Smyly,645277,Ozzie Albies,L,J.T. Realmuto,592663,0,2,1,True,2019-09-12,Stolen,2B,2019,2020, 87.2, 0.69
+70,2B,3B,Stolen Base 3B,660670,Ronald Acuña Jr.,592767,Drew Smyly,645277,Ozzie Albies,L,J.T. Realmuto,592663,0,2,1,True,2019-09-12,Stolen,3B,2019,2020, 87.2, 0.69
+71,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,453284,Blake Parker,645277,Ozzie Albies,R,J.T. Realmuto,592663,5,4,6,True,2019-09-10,Caught,2B,2019,2020, 87.2, 0.69
+72,1B,2B,Stolen Base 2B,621020,Dansby Swanson,605400,Aaron Nola,542364,Rafael Ortega,R,J.T. Realmuto,592663,0,4,3,True,2019-09-09,Stolen,2B,2019,2020, 87.2, 0.69
+73,1B,2B,Stolen Base 2B,501571,Juan Lagares,592767,Drew Smyly,621512,Tomás Nido,L,J.T. Realmuto,592663,0,1,2,False,2019-09-07,Stolen,2B,2019,2020, 87.2, 0.69
+74,1B,,Caught Stealing 2B,643446,Jeff McNeil,621107,Zach Eflin,624413,Pete Alonso,R,J.T. Realmuto,592663,1,0,3,False,2019-09-06,Caught,2B,2019,2020, 87.2, 0.69
+75,1B,2B,Stolen Base 2B,606157,Aristides Aquino,453284,Blake Parker,571466,Tucker Barnhart,R,J.T. Realmuto,592663,6,5,7,False,2019-09-04,Stolen,2B,2019,2020, 87.2, 0.69
+76,1B,,Caught Stealing 2B,622569,Pablo Reyes,453284,Blake Parker,621028,Kevin Newman,R,J.T. Realmuto,592663,3,4,6,True,2019-08-27,Caught,2B,2019,2020, 87.2, 0.69
+77,1B,,Caught Stealing 2B,592567,Colin Moran,450306,Jason Vargas,607732,Jacob Stallings,L,J.T. Realmuto,592663,0,0,2,True,2019-08-26,Caught,2B,2019,2020, 87.2, 0.69
+78,1B,,Caught Stealing 2B,621028,Kevin Newman,593576,Héctor Neris,668804,Bryan Reynolds,R,J.T. Realmuto,592663,5,5,9,True,2019-08-26,Caught,2B,2019,2020, 87.2, 0.69
+79,1B,,Caught Stealing 2B,516782,Starling Marte,573046,Mike Morin,466320,Melky Cabrera,R,J.T. Realmuto,592663,5,5,10,True,2019-08-26,Caught,2B,2019,2020, 87.2, 0.69
+80,1B,,Caught Stealing 2B,516770,Starlin Castro,605400,Aaron Nola,643265,Garrett Cooper,R,J.T. Realmuto,592663,0,0,1,False,2019-08-25,Caught,2B,2019,2020, 87.2, 0.69
+81,1B,2B,Stolen Base 2B,542932,Jon Berti,621107,Zach Eflin,435522,Neil Walker,R,J.T. Realmuto,592663,1,0,1,False,2019-08-24,Stolen,2B,2019,2020, 87.2, 0.69
+82,2B,3B,Stolen Base 3B,542932,Jon Berti,601713,Nick Pivetta,434158,Curtis Granderson,R,J.T. Realmuto,592663,7,9,4,False,2019-08-23,Stolen,3B,2019,2020, 87.2, 0.69
+83,1B,,Caught Stealing 2B,593523,Marco Hernández,592767,Drew Smyly,598265,Jackie Bradley Jr.,L,J.T. Realmuto,592663,2,0,2,False,2019-08-21,Caught,2B,2019,2020, 87.2, 0.69
+84,1B,2B,Stolen Base 2B,622534,Manuel Margot,450306,Jason Vargas,592669,Hunter Renfroe,L,J.T. Realmuto,592663,0,0,1,True,2019-08-18,Stolen,2B,2019,2020, 87.2, 0.69
+85,1B,,Caught Stealing 2B,592518,Manny Machado,624133,Ranger Suárez,642336,Francisco Mejía,L,J.T. Realmuto,592663,3,5,6,True,2019-08-17,Caught,2B,2019,2020, 87.2, 0.69
+86,1B,2B,Stolen Base 2B,595879,Javier Báez,450306,Jason Vargas,518960,Jonathan Lucroy,L,J.T. Realmuto,592663,0,0,2,True,2019-08-13,Stolen,2B,2019,2020, 87.2, 0.69
+87,1B,2B,Stolen Base 2B,543063,Brandon Crawford,601713,Nick Pivetta,519293,Will Smith,R,J.T. Realmuto,592663,9,6,8,False,2019-08-11,Stolen,2B,2019,2020, 87.2, 0.69
+88,1B,2B,Stolen Base 2B,606466,Ketel Marte,504379,Juan Nicasio,444482,David Peralta,R,J.T. Realmuto,592663,4,0,7,False,2019-08-07,Stolen,2B,2019,2020, 87.2, 0.69
+89,1B,2B,Stolen Base 2B,500871,Eduardo Escobar,504379,Juan Nicasio,572233,Christian Walker,R,J.T. Realmuto,592663,4,0,7,False,2019-08-07,Stolen,2B,2019,2020, 87.2, 0.69
+90,3B,,Caught Stealing Home,605113,Nick Ahmed,453284,Blake Parker,527038,Wilmer Flores,R,J.T. Realmuto,592663,4,3,6,False,2019-08-06,Caught,Home,2019,2020, 87.2, 0.69
+91,2B,,Caught Stealing 3B,543510,James McCann,573046,Mike Morin,641553,Adam Engel,R,J.T. Realmuto,592663,2,2,7,True,2019-08-02,Caught,3B,2019,2020, 87.2, 0.69
+92,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,605400,Aaron Nola,645277,Ozzie Albies,R,J.T. Realmuto,592663,6,4,7,True,2019-07-28,Stolen,2B,2019,2020, 87.2, 0.69
+93,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,453562,Jake Arrieta,516782,Starling Marte,R,J.T. Realmuto,592663,0,0,1,False,2019-07-19,Stolen,2B,2019,2020, 87.2, 0.69
+94,1B,2B,Stolen Base 2B,572816,Corey Dickerson,453562,Jake Arrieta,621028,Kevin Newman,R,J.T. Realmuto,592663,0,0,2,False,2019-07-19,Stolen,2B,2019,2020, 87.2, 0.69
+95,1B,,Caught Stealing 2B,665742,Juan Soto,453562,Jake Arrieta,571431,Matt Adams,R,J.T. Realmuto,592663,0,0,2,True,2019-07-14,Caught,2B,2019,2020, 87.2, 0.69
+96,1B,2B,Stolen Base 2B,645302,Victor Robles,605400,Aaron Nola,543228,Yan Gomes,R,J.T. Realmuto,592663,2,0,4,True,2019-07-13,Stolen,2B,2019,2020, 87.2, 0.69
+97,1B,,Caught Stealing 2B,642708,Amed Rosario,624133,Ranger Suárez,621512,Tomás Nido,L,J.T. Realmuto,592663,6,5,7,False,2019-07-06,Caught,2B,2019,2020, 87.2, 0.69
+98,1B,,Caught Stealing 2B,453943,Todd Frazier,592826,Vince Velasquez,642708,Amed Rosario,R,J.T. Realmuto,592663,0,1,2,False,2019-07-05,Caught,2B,2019,2020, 87.2, 0.69
+99,1B,2B,Stolen Base 2B,624413,Pete Alonso,601713,Nick Pivetta,453943,Todd Frazier,R,J.T. Realmuto,592663,0,2,5,True,2019-06-26,Stolen,2B,2019,2020, 87.2, 0.69
+100,1B,2B,Stolen Base 2B,642086,Dominic Smith,601713,Nick Pivetta,642708,Amed Rosario,R,J.T. Realmuto,592663,0,2,6,True,2019-06-26,Stolen,2B,2019,2020, 87.2, 0.69
+101,1B,2B,Stolen Base 2B,642708,Amed Rosario,453562,Jake Arrieta,643446,Jeff McNeil,R,J.T. Realmuto,592663,2,5,6,True,2019-06-25,Stolen,2B,2019,2020, 87.2, 0.69
+102,1B,,Caught Stealing 2B,592407,Bryan Holaday,593576,Héctor Neris,592680,Yadiel Rivera,R,J.T. Realmuto,592663,1,2,9,True,2019-06-21,Caught,2B,2019,2020, 87.2, 0.69
+103,1B,2B,Stolen Base 2B,665742,Juan Soto,621107,Zach Eflin,571431,Matt Adams,R,J.T. Realmuto,592663,2,1,6,False,2019-06-19,Stolen,2B,2019,2020, 87.2, 0.69
+104,1B,2B,Stolen Base 2B,665742,Juan Soto,621107,Zach Eflin,571431,Matt Adams,R,J.T. Realmuto,592663,2,1,6,False,2019-06-17,Stolen,2B,2019,2020, 87.2, 0.69
+105,1B,,Caught Stealing 2B,663586,Austin Riley,601713,Nick Pivetta,435263,Brian McCann,R,J.T. Realmuto,592663,1,4,4,False,2019-06-14,Caught,2B,2019,2020, 87.2, 0.69
+106,1B,2B,Stolen Base 2B,572233,Christian Walker,595191,Jerad Eickhoff,488671,Alex Avila,R,J.T. Realmuto,592663,3,7,4,True,2019-06-10,Stolen,2B,2019,2020, 87.2, 0.69
+107,1B,2B,Stolen Base 2B,624577,Yasiel Puig,621107,Zach Eflin,578428,Jose Iglesias,R,J.T. Realmuto,592663,0,1,4,True,2019-06-07,Stolen,2B,2019,2020, 87.2, 0.69
+108,1B,2B,Stolen Base 2B,571976,Wil Myers,453562,Jake Arrieta,664034,Ty France,R,J.T. Realmuto,592663,5,2,5,False,2019-06-05,Stolen,2B,2019,2020, 87.2, 0.69
+109,1B,2B,Stolen Base 2B,621035,Chris Taylor,592826,Vince Velasquez,431145,Russell Martin,R,J.T. Realmuto,592663,1,0,7,False,2019-06-02,Stolen,2B,2019,2020, 87.2, 0.69
+110,1B,,Caught Stealing 2B,641355,Cody Bellinger,622554,Seranthony Domínguez,571771,Enrique Hernández,R,J.T. Realmuto,592663,3,3,8,False,2019-06-01,Caught,2B,2019,2020, 87.2, 0.69
+111,1B,,Caught Stealing 2B,641355,Cody Bellinger,453562,Jake Arrieta,607461,Matt Beaty,R,J.T. Realmuto,592663,2,0,3,False,2019-05-31,Caught,2B,2019,2020, 87.2, 0.69
+112,1B,2B,Stolen Base 2B,669374,Keston Hiura,658305,Edgar García,606115,Orlando Arcia,R,J.T. Realmuto,592663,4,3,4,False,2019-05-24,Stolen,2B,2019,2020, 87.2, 0.69
+113,3B,,Caught Stealing Home,592885,Christian Yelich,592826,Vince Velasquez,519346,Eric Thames,R,J.T. Realmuto,592663,4,4,5,False,2019-05-24,Caught,Home,2019,2020, 87.2, 0.69
+114,1B,2B,Stolen Base 2B,456715,Lorenzo Cain,504379,Juan Nicasio,592885,Christian Yelich,R,J.T. Realmuto,592663,2,5,8,True,2019-05-15,Stolen,2B,2019,2020, 87.2, 0.69
+115,2B,3B,Stolen Base 3B,460075,Ryan Braun,593576,Héctor Neris,669374,Keston Hiura,R,J.T. Realmuto,592663,2,5,9,True,2019-05-15,Stolen,3B,2019,2020, 87.2, 0.69
+116,1B,,Caught Stealing 2B,606115,Orlando Arcia,595191,Jerad Eickhoff,605540,Brandon Woodruff,R,J.T. Realmuto,592663,0,3,2,True,2019-05-14,Caught,2B,2019,2020, 87.2, 0.69
+117,2B,,Caught Stealing 3B,456715,Lorenzo Cain,595191,Jerad Eickhoff,460075,Ryan Braun,R,J.T. Realmuto,592663,0,5,3,True,2019-05-14,Caught,3B,2019,2020, 87.2, 0.69
+118,1B,2B,Caught Stealing 3B,592885,Christian Yelich,595191,Jerad Eickhoff,460075,Ryan Braun,R,J.T. Realmuto,592663,0,5,3,True,2019-05-14,Caught,3B,2019,2020, 87.2, 0.69
+119,2B,3B,Stolen Base 3B,456715,Lorenzo Cain,656354,Austin Davis,519058,Mike Moustakas,L,J.T. Realmuto,592663,2,4,4,True,2019-05-13,Stolen,3B,2019,2020, 87.2, 0.69
+120,1B,2B,Stolen Base 2B,592885,Christian Yelich,656354,Austin Davis,519058,Mike Moustakas,L,J.T. Realmuto,592663,2,4,4,True,2019-05-13,Stolen,2B,2019,2020, 87.2, 0.69
+121,1B,2B,Stolen Base 2B,606115,Orlando Arcia,622554,Seranthony Domínguez,456715,Lorenzo Cain,R,J.T. Realmuto,592663,4,4,7,True,2019-05-13,Stolen,2B,2019,2020, 87.2, 0.69
+122,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,453562,Jake Arrieta,460086,Alex Gordon,R,J.T. Realmuto,592663,2,0,1,False,2019-05-10,Stolen,2B,2019,2020, 87.2, 0.69
+123,1B,,Caught Stealing 2B,593160,Whit Merrifield,453562,Jake Arrieta,609275,Adalberto Mondesi,R,J.T. Realmuto,592663,2,0,3,False,2019-05-10,Caught,2B,2019,2020, 87.2, 0.69
+124,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,453562,Jake Arrieta,641531,Hunter Dozier,R,J.T. Realmuto,592663,2,0,3,False,2019-05-10,Stolen,2B,2019,2020, 87.2, 0.69
+125,1B,,Caught Stealing 2B,656811,Ryan O'Hearn,658305,Edgar García,455117,Martín Maldonado,R,J.T. Realmuto,592663,4,1,6,False,2019-05-10,Caught,2B,2019,2020, 87.2, 0.69
+126,1B,,Caught Stealing 2B,622168,Yairo Muñoz,595191,Jerad Eickhoff,656427,Jack Flaherty,R,J.T. Realmuto,592663,0,0,3,False,2019-05-08,Caught,2B,2019,2020, 87.2, 0.69
+127,1B,2B,Stolen Base 2B,435062,Howie Kendrick,595191,Jerad Eickhoff,571431,Matt Adams,R,J.T. Realmuto,592663,1,1,3,True,2019-05-03,Stolen,2B,2019,2020, 87.2, 0.69
+128,1B,,Caught Stealing 2B,592348,Niko Goodrum,605400,Aaron Nola,500135,Ronny Rodríguez,R,J.T. Realmuto,592663,1,0,6,True,2019-05-01,Caught,2B,2019,2020, 87.2, 0.69
+129,3B,,Caught Stealing Home,434158,Curtis Granderson,605400,Aaron Nola,435522,Neil Walker,R,J.T. Realmuto,592663,1,1,3,True,2019-04-25,Caught,Home,2019,2020, 87.2, 0.69
+130,1B,2B,Stolen Base 2B,453943,Todd Frazier,453562,Jake Arrieta,641645,Luis Guillorme,R,J.T. Realmuto,592663,0,0,2,False,2019-04-22,Stolen,2B,2019,2020, 87.2, 0.69
+131,1B,2B,Stolen Base 2B,607043,Brandon Nimmo,453562,Jake Arrieta,624413,Pete Alonso,R,J.T. Realmuto,592663,1,0,3,False,2019-04-22,Stolen,2B,2019,2020, 87.2, 0.69
+132,1B,,Caught Stealing 2B,501571,Juan Lagares,591693,Edubray Ramos,642086,Dominic Smith,R,J.T. Realmuto,592663,5,1,8,False,2019-04-22,Caught,2B,2019,2020, 87.2, 0.69
+133,1B,,Caught Stealing 2B,453568,Charlie Blackmon,605388,Adam Morgan,621311,David Dahl,L,J.T. Realmuto,592663,2,2,7,False,2019-04-19,Caught,2B,2019,2020, 87.2, 0.69
+134,1B,2B,Stolen Base 2B,641857,Ryan McMahon,504379,Juan Nicasio,435622,Ian Desmond,R,J.T. Realmuto,592663,2,2,11,False,2019-04-19,Stolen,2B,2019,2020, 87.2, 0.69
+135,1B,,Caught Stealing 2B,621311,David Dahl,621107,Zach Eflin,571448,Nolan Arenado,R,J.T. Realmuto,592663,0,0,1,False,2019-04-18,Caught,2B,2019,2020, 87.2, 0.69
+136,1B,,Caught Stealing 2B,606132,Raimel Tapia,644364,Víctor Arano,641658,Garrett Hampson,R,J.T. Realmuto,592663,6,2,7,False,2019-04-18,Caught,2B,2019,2020, 87.2, 0.69
+137,1B,2B,Stolen Base 2B,624424,Michael Conforto,453562,Jake Arrieta,605204,J.D. Davis,R,J.T. Realmuto,592663,0,0,2,True,2019-04-17,Stolen,2B,2019,2020, 87.2, 0.69
+138,1B,2B,Stolen Base 2B,642708,Amed Rosario,605400,Aaron Nola,605204,J.D. Davis,R,J.T. Realmuto,592663,0,0,2,True,2019-04-15,Stolen,2B,2019,2020, 87.2, 0.69
+139,1B,,Caught Stealing 2B,643446,Jeff McNeil,501625,Jose Alvarez,642708,Amed Rosario,L,J.T. Realmuto,592663,5,5,5,True,2019-04-15,Caught,2B,2019,2020, 87.2, 0.69
+140,1B,2B,Stolen Base 2B,605119,Brian Anderson,621107,Zach Eflin,435522,Neil Walker,R,J.T. Realmuto,592663,0,0,1,False,2019-04-13,Stolen,2B,2019,2020, 87.2, 0.69
+141,1B,2B,Stolen Base 2B,594809,Adam Eaton,605400,Aaron Nola,572821,Brian Dozier,R,J.T. Realmuto,592663,3,2,3,False,2019-04-03,Stolen,2B,2019,2020, 87.2, 0.69
+142,1B,2B,Stolen Base 2B,596019,Francisco Lindor,450306,Jason Vargas,640458,Óscar Mercado,L,J.T. Realmuto,592663,0,0,1,False,2019-09-21,Stolen,2B,2019,2020, 87.2, 0.69
+143,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,593576,Héctor Neris,645277,Ozzie Albies,R,J.T. Realmuto,592663,4,5,9,False,2019-09-17,Stolen,2B,2019,2020, 87.2, 0.69
+144,1B,,Caught Stealing 2B,593428,Xander Bogaerts,605400,Aaron Nola,646240,Rafael Devers,R,J.T. Realmuto,592663,0,0,4,True,2019-09-14,Caught,2B,2019,2020, 87.2, 0.69
+145,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,592767,Drew Smyly,645277,Ozzie Albies,L,J.T. Realmuto,592663,0,2,1,True,2019-09-12,Stolen,2B,2019,2020, 87.2, 0.69
+146,2B,3B,Stolen Base 3B,660670,Ronald Acuña Jr.,592767,Drew Smyly,645277,Ozzie Albies,L,J.T. Realmuto,592663,0,2,1,True,2019-09-12,Stolen,3B,2019,2020, 87.2, 0.69
+147,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,453284,Blake Parker,645277,Ozzie Albies,R,J.T. Realmuto,592663,5,4,6,True,2019-09-10,Caught,2B,2019,2020, 87.2, 0.69
+148,1B,2B,Stolen Base 2B,621020,Dansby Swanson,605400,Aaron Nola,542364,Rafael Ortega,R,J.T. Realmuto,592663,0,4,3,True,2019-09-09,Stolen,2B,2019,2020, 87.2, 0.69
+149,1B,2B,Stolen Base 2B,501571,Juan Lagares,592767,Drew Smyly,621512,Tomás Nido,L,J.T. Realmuto,592663,0,1,2,False,2019-09-07,Stolen,2B,2019,2020, 87.2, 0.69
+150,1B,,Caught Stealing 2B,643446,Jeff McNeil,621107,Zach Eflin,624413,Pete Alonso,R,J.T. Realmuto,592663,1,0,3,False,2019-09-06,Caught,2B,2019,2020, 87.2, 0.69
+151,1B,2B,Stolen Base 2B,606157,Aristides Aquino,453284,Blake Parker,571466,Tucker Barnhart,R,J.T. Realmuto,592663,6,5,7,False,2019-09-04,Stolen,2B,2019,2020, 87.2, 0.69
+152,1B,,Caught Stealing 2B,622569,Pablo Reyes,453284,Blake Parker,621028,Kevin Newman,R,J.T. Realmuto,592663,3,4,6,True,2019-08-27,Caught,2B,2019,2020, 87.2, 0.69
+153,1B,,Caught Stealing 2B,592567,Colin Moran,450306,Jason Vargas,607732,Jacob Stallings,L,J.T. Realmuto,592663,0,0,2,True,2019-08-26,Caught,2B,2019,2020, 87.2, 0.69
+154,1B,,Caught Stealing 2B,621028,Kevin Newman,593576,Héctor Neris,668804,Bryan Reynolds,R,J.T. Realmuto,592663,5,5,9,True,2019-08-26,Caught,2B,2019,2020, 87.2, 0.69
+155,1B,,Caught Stealing 2B,516782,Starling Marte,573046,Mike Morin,466320,Melky Cabrera,R,J.T. Realmuto,592663,5,5,10,True,2019-08-26,Caught,2B,2019,2020, 87.2, 0.69
+156,1B,,Caught Stealing 2B,516770,Starlin Castro,605400,Aaron Nola,643265,Garrett Cooper,R,J.T. Realmuto,592663,0,0,1,False,2019-08-25,Caught,2B,2019,2020, 87.2, 0.69
+157,1B,2B,Stolen Base 2B,542932,Jon Berti,621107,Zach Eflin,435522,Neil Walker,R,J.T. Realmuto,592663,1,0,1,False,2019-08-24,Stolen,2B,2019,2020, 87.2, 0.69
+158,2B,3B,Stolen Base 3B,542932,Jon Berti,601713,Nick Pivetta,434158,Curtis Granderson,R,J.T. Realmuto,592663,7,9,4,False,2019-08-23,Stolen,3B,2019,2020, 87.2, 0.69
+159,1B,,Caught Stealing 2B,593523,Marco Hernández,592767,Drew Smyly,598265,Jackie Bradley Jr.,L,J.T. Realmuto,592663,2,0,2,False,2019-08-21,Caught,2B,2019,2020, 87.2, 0.69
+160,1B,2B,Stolen Base 2B,622534,Manuel Margot,450306,Jason Vargas,592669,Hunter Renfroe,L,J.T. Realmuto,592663,0,0,1,True,2019-08-18,Stolen,2B,2019,2020, 87.2, 0.69
+161,1B,,Caught Stealing 2B,592518,Manny Machado,624133,Ranger Suárez,642336,Francisco Mejía,L,J.T. Realmuto,592663,3,5,6,True,2019-08-17,Caught,2B,2019,2020, 87.2, 0.69
+162,1B,2B,Stolen Base 2B,595879,Javier Báez,450306,Jason Vargas,518960,Jonathan Lucroy,L,J.T. Realmuto,592663,0,0,2,True,2019-08-13,Stolen,2B,2019,2020, 87.2, 0.69
+163,1B,2B,Stolen Base 2B,543063,Brandon Crawford,601713,Nick Pivetta,519293,Will Smith,R,J.T. Realmuto,592663,9,6,8,False,2019-08-11,Stolen,2B,2019,2020, 87.2, 0.69
+164,1B,2B,Stolen Base 2B,606466,Ketel Marte,504379,Juan Nicasio,444482,David Peralta,R,J.T. Realmuto,592663,4,0,7,False,2019-08-07,Stolen,2B,2019,2020, 87.2, 0.69
+165,1B,2B,Stolen Base 2B,500871,Eduardo Escobar,504379,Juan Nicasio,572233,Christian Walker,R,J.T. Realmuto,592663,4,0,7,False,2019-08-07,Stolen,2B,2019,2020, 87.2, 0.69
+166,3B,,Caught Stealing Home,605113,Nick Ahmed,453284,Blake Parker,527038,Wilmer Flores,R,J.T. Realmuto,592663,4,3,6,False,2019-08-06,Caught,Home,2019,2020, 87.2, 0.69
+167,2B,,Caught Stealing 3B,543510,James McCann,573046,Mike Morin,641553,Adam Engel,R,J.T. Realmuto,592663,2,2,7,True,2019-08-02,Caught,3B,2019,2020, 87.2, 0.69
+168,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,605400,Aaron Nola,645277,Ozzie Albies,R,J.T. Realmuto,592663,6,4,7,True,2019-07-28,Stolen,2B,2019,2020, 87.2, 0.69
+169,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,453562,Jake Arrieta,516782,Starling Marte,R,J.T. Realmuto,592663,0,0,1,False,2019-07-19,Stolen,2B,2019,2020, 87.2, 0.69
+170,1B,2B,Stolen Base 2B,572816,Corey Dickerson,453562,Jake Arrieta,621028,Kevin Newman,R,J.T. Realmuto,592663,0,0,2,False,2019-07-19,Stolen,2B,2019,2020, 87.2, 0.69
+171,1B,,Caught Stealing 2B,665742,Juan Soto,453562,Jake Arrieta,571431,Matt Adams,R,J.T. Realmuto,592663,0,0,2,True,2019-07-14,Caught,2B,2019,2020, 87.2, 0.69
+172,1B,2B,Stolen Base 2B,645302,Victor Robles,605400,Aaron Nola,543228,Yan Gomes,R,J.T. Realmuto,592663,2,0,4,True,2019-07-13,Stolen,2B,2019,2020, 87.2, 0.69
+173,1B,,Caught Stealing 2B,642708,Amed Rosario,624133,Ranger Suárez,621512,Tomás Nido,L,J.T. Realmuto,592663,6,5,7,False,2019-07-06,Caught,2B,2019,2020, 87.2, 0.69
+174,1B,,Caught Stealing 2B,453943,Todd Frazier,592826,Vince Velasquez,642708,Amed Rosario,R,J.T. Realmuto,592663,0,1,2,False,2019-07-05,Caught,2B,2019,2020, 87.2, 0.69
+175,1B,2B,Stolen Base 2B,624413,Pete Alonso,601713,Nick Pivetta,453943,Todd Frazier,R,J.T. Realmuto,592663,0,2,5,True,2019-06-26,Stolen,2B,2019,2020, 87.2, 0.69
+176,1B,2B,Stolen Base 2B,642086,Dominic Smith,601713,Nick Pivetta,642708,Amed Rosario,R,J.T. Realmuto,592663,0,2,6,True,2019-06-26,Stolen,2B,2019,2020, 87.2, 0.69
+177,1B,2B,Stolen Base 2B,642708,Amed Rosario,453562,Jake Arrieta,643446,Jeff McNeil,R,J.T. Realmuto,592663,2,5,6,True,2019-06-25,Stolen,2B,2019,2020, 87.2, 0.69
+178,1B,,Caught Stealing 2B,592407,Bryan Holaday,593576,Héctor Neris,592680,Yadiel Rivera,R,J.T. Realmuto,592663,1,2,9,True,2019-06-21,Caught,2B,2019,2020, 87.2, 0.69
+179,1B,2B,Stolen Base 2B,665742,Juan Soto,621107,Zach Eflin,571431,Matt Adams,R,J.T. Realmuto,592663,2,1,6,False,2019-06-19,Stolen,2B,2019,2020, 87.2, 0.69
+180,1B,2B,Stolen Base 2B,665742,Juan Soto,621107,Zach Eflin,571431,Matt Adams,R,J.T. Realmuto,592663,2,1,6,False,2019-06-17,Stolen,2B,2019,2020, 87.2, 0.69
+181,1B,,Caught Stealing 2B,663586,Austin Riley,601713,Nick Pivetta,435263,Brian McCann,R,J.T. Realmuto,592663,1,4,4,False,2019-06-14,Caught,2B,2019,2020, 87.2, 0.69
+182,1B,2B,Stolen Base 2B,572233,Christian Walker,595191,Jerad Eickhoff,488671,Alex Avila,R,J.T. Realmuto,592663,3,7,4,True,2019-06-10,Stolen,2B,2019,2020, 87.2, 0.69
+183,1B,2B,Stolen Base 2B,624577,Yasiel Puig,621107,Zach Eflin,578428,Jose Iglesias,R,J.T. Realmuto,592663,0,1,4,True,2019-06-07,Stolen,2B,2019,2020, 87.2, 0.69
+184,1B,2B,Stolen Base 2B,571976,Wil Myers,453562,Jake Arrieta,664034,Ty France,R,J.T. Realmuto,592663,5,2,5,False,2019-06-05,Stolen,2B,2019,2020, 87.2, 0.69
+185,1B,2B,Stolen Base 2B,621035,Chris Taylor,592826,Vince Velasquez,431145,Russell Martin,R,J.T. Realmuto,592663,1,0,7,False,2019-06-02,Stolen,2B,2019,2020, 87.2, 0.69
+186,1B,,Caught Stealing 2B,641355,Cody Bellinger,622554,Seranthony Domínguez,571771,Enrique Hernández,R,J.T. Realmuto,592663,3,3,8,False,2019-06-01,Caught,2B,2019,2020, 87.2, 0.69
+187,1B,,Caught Stealing 2B,641355,Cody Bellinger,453562,Jake Arrieta,607461,Matt Beaty,R,J.T. Realmuto,592663,2,0,3,False,2019-05-31,Caught,2B,2019,2020, 87.2, 0.69
+188,1B,2B,Stolen Base 2B,669374,Keston Hiura,658305,Edgar García,606115,Orlando Arcia,R,J.T. Realmuto,592663,4,3,4,False,2019-05-24,Stolen,2B,2019,2020, 87.2, 0.69
+189,3B,,Caught Stealing Home,592885,Christian Yelich,592826,Vince Velasquez,519346,Eric Thames,R,J.T. Realmuto,592663,4,4,5,False,2019-05-24,Caught,Home,2019,2020, 87.2, 0.69
+190,1B,2B,Stolen Base 2B,456715,Lorenzo Cain,504379,Juan Nicasio,592885,Christian Yelich,R,J.T. Realmuto,592663,2,5,8,True,2019-05-15,Stolen,2B,2019,2020, 87.2, 0.69
+191,2B,3B,Stolen Base 3B,460075,Ryan Braun,593576,Héctor Neris,669374,Keston Hiura,R,J.T. Realmuto,592663,2,5,9,True,2019-05-15,Stolen,3B,2019,2020, 87.2, 0.69
+192,1B,,Caught Stealing 2B,606115,Orlando Arcia,595191,Jerad Eickhoff,605540,Brandon Woodruff,R,J.T. Realmuto,592663,0,3,2,True,2019-05-14,Caught,2B,2019,2020, 87.2, 0.69
+193,2B,,Caught Stealing 3B,456715,Lorenzo Cain,595191,Jerad Eickhoff,460075,Ryan Braun,R,J.T. Realmuto,592663,0,5,3,True,2019-05-14,Caught,3B,2019,2020, 87.2, 0.69
+194,1B,2B,Caught Stealing 3B,592885,Christian Yelich,595191,Jerad Eickhoff,460075,Ryan Braun,R,J.T. Realmuto,592663,0,5,3,True,2019-05-14,Caught,3B,2019,2020, 87.2, 0.69
+195,2B,3B,Stolen Base 3B,456715,Lorenzo Cain,656354,Austin Davis,519058,Mike Moustakas,L,J.T. Realmuto,592663,2,4,4,True,2019-05-13,Stolen,3B,2019,2020, 87.2, 0.69
+196,1B,2B,Stolen Base 2B,592885,Christian Yelich,656354,Austin Davis,519058,Mike Moustakas,L,J.T. Realmuto,592663,2,4,4,True,2019-05-13,Stolen,2B,2019,2020, 87.2, 0.69
+197,1B,2B,Stolen Base 2B,606115,Orlando Arcia,622554,Seranthony Domínguez,456715,Lorenzo Cain,R,J.T. Realmuto,592663,4,4,7,True,2019-05-13,Stolen,2B,2019,2020, 87.2, 0.69
+198,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,453562,Jake Arrieta,460086,Alex Gordon,R,J.T. Realmuto,592663,2,0,1,False,2019-05-10,Stolen,2B,2019,2020, 87.2, 0.69
+199,1B,,Caught Stealing 2B,593160,Whit Merrifield,453562,Jake Arrieta,609275,Adalberto Mondesi,R,J.T. Realmuto,592663,2,0,3,False,2019-05-10,Caught,2B,2019,2020, 87.2, 0.69
+200,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,453562,Jake Arrieta,641531,Hunter Dozier,R,J.T. Realmuto,592663,2,0,3,False,2019-05-10,Stolen,2B,2019,2020, 87.2, 0.69
+201,1B,,Caught Stealing 2B,656811,Ryan O'Hearn,658305,Edgar García,455117,Martín Maldonado,R,J.T. Realmuto,592663,4,1,6,False,2019-05-10,Caught,2B,2019,2020, 87.2, 0.69
+202,1B,,Caught Stealing 2B,622168,Yairo Muñoz,595191,Jerad Eickhoff,656427,Jack Flaherty,R,J.T. Realmuto,592663,0,0,3,False,2019-05-08,Caught,2B,2019,2020, 87.2, 0.69
+203,1B,2B,Stolen Base 2B,435062,Howie Kendrick,595191,Jerad Eickhoff,571431,Matt Adams,R,J.T. Realmuto,592663,1,1,3,True,2019-05-03,Stolen,2B,2019,2020, 87.2, 0.69
+204,1B,,Caught Stealing 2B,592348,Niko Goodrum,605400,Aaron Nola,500135,Ronny Rodríguez,R,J.T. Realmuto,592663,1,0,6,True,2019-05-01,Caught,2B,2019,2020, 87.2, 0.69
+205,3B,,Caught Stealing Home,434158,Curtis Granderson,605400,Aaron Nola,435522,Neil Walker,R,J.T. Realmuto,592663,1,1,3,True,2019-04-25,Caught,Home,2019,2020, 87.2, 0.69
+206,1B,2B,Stolen Base 2B,453943,Todd Frazier,453562,Jake Arrieta,641645,Luis Guillorme,R,J.T. Realmuto,592663,0,0,2,False,2019-04-22,Stolen,2B,2019,2020, 87.2, 0.69
+207,1B,2B,Stolen Base 2B,607043,Brandon Nimmo,453562,Jake Arrieta,624413,Pete Alonso,R,J.T. Realmuto,592663,1,0,3,False,2019-04-22,Stolen,2B,2019,2020, 87.2, 0.69
+208,1B,,Caught Stealing 2B,501571,Juan Lagares,591693,Edubray Ramos,642086,Dominic Smith,R,J.T. Realmuto,592663,5,1,8,False,2019-04-22,Caught,2B,2019,2020, 87.2, 0.69
+209,1B,,Caught Stealing 2B,453568,Charlie Blackmon,605388,Adam Morgan,621311,David Dahl,L,J.T. Realmuto,592663,2,2,7,False,2019-04-19,Caught,2B,2019,2020, 87.2, 0.69
+210,1B,2B,Stolen Base 2B,641857,Ryan McMahon,504379,Juan Nicasio,435622,Ian Desmond,R,J.T. Realmuto,592663,2,2,11,False,2019-04-19,Stolen,2B,2019,2020, 87.2, 0.69
+211,1B,,Caught Stealing 2B,621311,David Dahl,621107,Zach Eflin,571448,Nolan Arenado,R,J.T. Realmuto,592663,0,0,1,False,2019-04-18,Caught,2B,2019,2020, 87.2, 0.69
+212,1B,,Caught Stealing 2B,606132,Raimel Tapia,644364,Víctor Arano,641658,Garrett Hampson,R,J.T. Realmuto,592663,6,2,7,False,2019-04-18,Caught,2B,2019,2020, 87.2, 0.69
+213,1B,2B,Stolen Base 2B,624424,Michael Conforto,453562,Jake Arrieta,605204,J.D. Davis,R,J.T. Realmuto,592663,0,0,2,True,2019-04-17,Stolen,2B,2019,2020, 87.2, 0.69
+214,1B,2B,Stolen Base 2B,642708,Amed Rosario,605400,Aaron Nola,605204,J.D. Davis,R,J.T. Realmuto,592663,0,0,2,True,2019-04-15,Stolen,2B,2019,2020, 87.2, 0.69
+215,1B,,Caught Stealing 2B,643446,Jeff McNeil,501625,Jose Alvarez,642708,Amed Rosario,L,J.T. Realmuto,592663,5,5,5,True,2019-04-15,Caught,2B,2019,2020, 87.2, 0.69
+216,1B,2B,Stolen Base 2B,605119,Brian Anderson,621107,Zach Eflin,435522,Neil Walker,R,J.T. Realmuto,592663,0,0,1,False,2019-04-13,Stolen,2B,2019,2020, 87.2, 0.69
+217,1B,2B,Stolen Base 2B,594809,Adam Eaton,605400,Aaron Nola,572821,Brian Dozier,R,J.T. Realmuto,592663,3,2,3,False,2019-04-03,Stolen,2B,2019,2020, 87.2, 0.69
+218,1B,2B,Stolen Base 2B,596019,Francisco Lindor,450306,Jason Vargas,640458,Óscar Mercado,L,J.T. Realmuto,592663,0,0,1,False,2019-09-21,Stolen,2B,2019,2020, 87.2, 0.69
+219,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,593576,Héctor Neris,645277,Ozzie Albies,R,J.T. Realmuto,592663,4,5,9,False,2019-09-17,Stolen,2B,2019,2020, 87.2, 0.69
+220,1B,,Caught Stealing 2B,593428,Xander Bogaerts,605400,Aaron Nola,646240,Rafael Devers,R,J.T. Realmuto,592663,0,0,4,True,2019-09-14,Caught,2B,2019,2020, 87.2, 0.69
+221,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,592767,Drew Smyly,645277,Ozzie Albies,L,J.T. Realmuto,592663,0,2,1,True,2019-09-12,Stolen,2B,2019,2020, 87.2, 0.69
+222,2B,3B,Stolen Base 3B,660670,Ronald Acuña Jr.,592767,Drew Smyly,645277,Ozzie Albies,L,J.T. Realmuto,592663,0,2,1,True,2019-09-12,Stolen,3B,2019,2020, 87.2, 0.69
+223,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,453284,Blake Parker,645277,Ozzie Albies,R,J.T. Realmuto,592663,5,4,6,True,2019-09-10,Caught,2B,2019,2020, 87.2, 0.69
+224,1B,2B,Stolen Base 2B,621020,Dansby Swanson,605400,Aaron Nola,542364,Rafael Ortega,R,J.T. Realmuto,592663,0,4,3,True,2019-09-09,Stolen,2B,2019,2020, 87.2, 0.69
+225,1B,2B,Stolen Base 2B,501571,Juan Lagares,592767,Drew Smyly,621512,Tomás Nido,L,J.T. Realmuto,592663,0,1,2,False,2019-09-07,Stolen,2B,2019,2020, 87.2, 0.69
+226,1B,,Caught Stealing 2B,643446,Jeff McNeil,621107,Zach Eflin,624413,Pete Alonso,R,J.T. Realmuto,592663,1,0,3,False,2019-09-06,Caught,2B,2019,2020, 87.2, 0.69
+227,1B,2B,Stolen Base 2B,606157,Aristides Aquino,453284,Blake Parker,571466,Tucker Barnhart,R,J.T. Realmuto,592663,6,5,7,False,2019-09-04,Stolen,2B,2019,2020, 87.2, 0.69
+228,1B,,Caught Stealing 2B,622569,Pablo Reyes,453284,Blake Parker,621028,Kevin Newman,R,J.T. Realmuto,592663,3,4,6,True,2019-08-27,Caught,2B,2019,2020, 87.2, 0.69
+229,1B,,Caught Stealing 2B,592567,Colin Moran,450306,Jason Vargas,607732,Jacob Stallings,L,J.T. Realmuto,592663,0,0,2,True,2019-08-26,Caught,2B,2019,2020, 87.2, 0.69
+230,1B,,Caught Stealing 2B,621028,Kevin Newman,593576,Héctor Neris,668804,Bryan Reynolds,R,J.T. Realmuto,592663,5,5,9,True,2019-08-26,Caught,2B,2019,2020, 87.2, 0.69
+231,1B,,Caught Stealing 2B,516782,Starling Marte,573046,Mike Morin,466320,Melky Cabrera,R,J.T. Realmuto,592663,5,5,10,True,2019-08-26,Caught,2B,2019,2020, 87.2, 0.69
+232,1B,,Caught Stealing 2B,516770,Starlin Castro,605400,Aaron Nola,643265,Garrett Cooper,R,J.T. Realmuto,592663,0,0,1,False,2019-08-25,Caught,2B,2019,2020, 87.2, 0.69
+233,1B,2B,Stolen Base 2B,542932,Jon Berti,621107,Zach Eflin,435522,Neil Walker,R,J.T. Realmuto,592663,1,0,1,False,2019-08-24,Stolen,2B,2019,2020, 87.2, 0.69
+234,2B,3B,Stolen Base 3B,542932,Jon Berti,601713,Nick Pivetta,434158,Curtis Granderson,R,J.T. Realmuto,592663,7,9,4,False,2019-08-23,Stolen,3B,2019,2020, 87.2, 0.69
+235,1B,,Caught Stealing 2B,593523,Marco Hernández,592767,Drew Smyly,598265,Jackie Bradley Jr.,L,J.T. Realmuto,592663,2,0,2,False,2019-08-21,Caught,2B,2019,2020, 87.2, 0.69
+236,1B,2B,Stolen Base 2B,622534,Manuel Margot,450306,Jason Vargas,592669,Hunter Renfroe,L,J.T. Realmuto,592663,0,0,1,True,2019-08-18,Stolen,2B,2019,2020, 87.2, 0.69
+237,1B,,Caught Stealing 2B,592518,Manny Machado,624133,Ranger Suárez,642336,Francisco Mejía,L,J.T. Realmuto,592663,3,5,6,True,2019-08-17,Caught,2B,2019,2020, 87.2, 0.69
+238,1B,2B,Stolen Base 2B,595879,Javier Báez,450306,Jason Vargas,518960,Jonathan Lucroy,L,J.T. Realmuto,592663,0,0,2,True,2019-08-13,Stolen,2B,2019,2020, 87.2, 0.69
+239,1B,2B,Stolen Base 2B,543063,Brandon Crawford,601713,Nick Pivetta,519293,Will Smith,R,J.T. Realmuto,592663,9,6,8,False,2019-08-11,Stolen,2B,2019,2020, 87.2, 0.69
+240,1B,2B,Stolen Base 2B,606466,Ketel Marte,504379,Juan Nicasio,444482,David Peralta,R,J.T. Realmuto,592663,4,0,7,False,2019-08-07,Stolen,2B,2019,2020, 87.2, 0.69
+241,1B,2B,Stolen Base 2B,500871,Eduardo Escobar,504379,Juan Nicasio,572233,Christian Walker,R,J.T. Realmuto,592663,4,0,7,False,2019-08-07,Stolen,2B,2019,2020, 87.2, 0.69
+242,3B,,Caught Stealing Home,605113,Nick Ahmed,453284,Blake Parker,527038,Wilmer Flores,R,J.T. Realmuto,592663,4,3,6,False,2019-08-06,Caught,Home,2019,2020, 87.2, 0.69
+243,2B,,Caught Stealing 3B,543510,James McCann,573046,Mike Morin,641553,Adam Engel,R,J.T. Realmuto,592663,2,2,7,True,2019-08-02,Caught,3B,2019,2020, 87.2, 0.69
+244,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,605400,Aaron Nola,645277,Ozzie Albies,R,J.T. Realmuto,592663,6,4,7,True,2019-07-28,Stolen,2B,2019,2020, 87.2, 0.69
+245,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,453562,Jake Arrieta,516782,Starling Marte,R,J.T. Realmuto,592663,0,0,1,False,2019-07-19,Stolen,2B,2019,2020, 87.2, 0.69
+246,1B,2B,Stolen Base 2B,572816,Corey Dickerson,453562,Jake Arrieta,621028,Kevin Newman,R,J.T. Realmuto,592663,0,0,2,False,2019-07-19,Stolen,2B,2019,2020, 87.2, 0.69
+247,1B,,Caught Stealing 2B,665742,Juan Soto,453562,Jake Arrieta,571431,Matt Adams,R,J.T. Realmuto,592663,0,0,2,True,2019-07-14,Caught,2B,2019,2020, 87.2, 0.69
+248,1B,2B,Stolen Base 2B,645302,Victor Robles,605400,Aaron Nola,543228,Yan Gomes,R,J.T. Realmuto,592663,2,0,4,True,2019-07-13,Stolen,2B,2019,2020, 87.2, 0.69
+249,1B,,Caught Stealing 2B,642708,Amed Rosario,624133,Ranger Suárez,621512,Tomás Nido,L,J.T. Realmuto,592663,6,5,7,False,2019-07-06,Caught,2B,2019,2020, 87.2, 0.69
+250,1B,,Caught Stealing 2B,453943,Todd Frazier,592826,Vince Velasquez,642708,Amed Rosario,R,J.T. Realmuto,592663,0,1,2,False,2019-07-05,Caught,2B,2019,2020, 87.2, 0.69
+251,1B,2B,Stolen Base 2B,624413,Pete Alonso,601713,Nick Pivetta,453943,Todd Frazier,R,J.T. Realmuto,592663,0,2,5,True,2019-06-26,Stolen,2B,2019,2020, 87.2, 0.69
+252,1B,2B,Stolen Base 2B,642086,Dominic Smith,601713,Nick Pivetta,642708,Amed Rosario,R,J.T. Realmuto,592663,0,2,6,True,2019-06-26,Stolen,2B,2019,2020, 87.2, 0.69
+253,1B,2B,Stolen Base 2B,642708,Amed Rosario,453562,Jake Arrieta,643446,Jeff McNeil,R,J.T. Realmuto,592663,2,5,6,True,2019-06-25,Stolen,2B,2019,2020, 87.2, 0.69
+254,1B,,Caught Stealing 2B,592407,Bryan Holaday,593576,Héctor Neris,592680,Yadiel Rivera,R,J.T. Realmuto,592663,1,2,9,True,2019-06-21,Caught,2B,2019,2020, 87.2, 0.69
+255,1B,2B,Stolen Base 2B,665742,Juan Soto,621107,Zach Eflin,571431,Matt Adams,R,J.T. Realmuto,592663,2,1,6,False,2019-06-19,Stolen,2B,2019,2020, 87.2, 0.69
+256,1B,2B,Stolen Base 2B,665742,Juan Soto,621107,Zach Eflin,571431,Matt Adams,R,J.T. Realmuto,592663,2,1,6,False,2019-06-17,Stolen,2B,2019,2020, 87.2, 0.69
+257,1B,,Caught Stealing 2B,663586,Austin Riley,601713,Nick Pivetta,435263,Brian McCann,R,J.T. Realmuto,592663,1,4,4,False,2019-06-14,Caught,2B,2019,2020, 87.2, 0.69
+258,1B,2B,Stolen Base 2B,572233,Christian Walker,595191,Jerad Eickhoff,488671,Alex Avila,R,J.T. Realmuto,592663,3,7,4,True,2019-06-10,Stolen,2B,2019,2020, 87.2, 0.69
+259,1B,2B,Stolen Base 2B,624577,Yasiel Puig,621107,Zach Eflin,578428,Jose Iglesias,R,J.T. Realmuto,592663,0,1,4,True,2019-06-07,Stolen,2B,2019,2020, 87.2, 0.69
+260,1B,2B,Stolen Base 2B,571976,Wil Myers,453562,Jake Arrieta,664034,Ty France,R,J.T. Realmuto,592663,5,2,5,False,2019-06-05,Stolen,2B,2019,2020, 87.2, 0.69
+261,1B,2B,Stolen Base 2B,621035,Chris Taylor,592826,Vince Velasquez,431145,Russell Martin,R,J.T. Realmuto,592663,1,0,7,False,2019-06-02,Stolen,2B,2019,2020, 87.2, 0.69
+262,1B,,Caught Stealing 2B,641355,Cody Bellinger,622554,Seranthony Domínguez,571771,Enrique Hernández,R,J.T. Realmuto,592663,3,3,8,False,2019-06-01,Caught,2B,2019,2020, 87.2, 0.69
+263,1B,,Caught Stealing 2B,641355,Cody Bellinger,453562,Jake Arrieta,607461,Matt Beaty,R,J.T. Realmuto,592663,2,0,3,False,2019-05-31,Caught,2B,2019,2020, 87.2, 0.69
+264,1B,2B,Stolen Base 2B,669374,Keston Hiura,658305,Edgar García,606115,Orlando Arcia,R,J.T. Realmuto,592663,4,3,4,False,2019-05-24,Stolen,2B,2019,2020, 87.2, 0.69
+265,3B,,Caught Stealing Home,592885,Christian Yelich,592826,Vince Velasquez,519346,Eric Thames,R,J.T. Realmuto,592663,4,4,5,False,2019-05-24,Caught,Home,2019,2020, 87.2, 0.69
+266,1B,2B,Stolen Base 2B,456715,Lorenzo Cain,504379,Juan Nicasio,592885,Christian Yelich,R,J.T. Realmuto,592663,2,5,8,True,2019-05-15,Stolen,2B,2019,2020, 87.2, 0.69
+267,2B,3B,Stolen Base 3B,460075,Ryan Braun,593576,Héctor Neris,669374,Keston Hiura,R,J.T. Realmuto,592663,2,5,9,True,2019-05-15,Stolen,3B,2019,2020, 87.2, 0.69
+268,1B,,Caught Stealing 2B,606115,Orlando Arcia,595191,Jerad Eickhoff,605540,Brandon Woodruff,R,J.T. Realmuto,592663,0,3,2,True,2019-05-14,Caught,2B,2019,2020, 87.2, 0.69
+269,2B,,Caught Stealing 3B,456715,Lorenzo Cain,595191,Jerad Eickhoff,460075,Ryan Braun,R,J.T. Realmuto,592663,0,5,3,True,2019-05-14,Caught,3B,2019,2020, 87.2, 0.69
+270,1B,2B,Caught Stealing 3B,592885,Christian Yelich,595191,Jerad Eickhoff,460075,Ryan Braun,R,J.T. Realmuto,592663,0,5,3,True,2019-05-14,Caught,3B,2019,2020, 87.2, 0.69
+271,2B,3B,Stolen Base 3B,456715,Lorenzo Cain,656354,Austin Davis,519058,Mike Moustakas,L,J.T. Realmuto,592663,2,4,4,True,2019-05-13,Stolen,3B,2019,2020, 87.2, 0.69
+272,1B,2B,Stolen Base 2B,592885,Christian Yelich,656354,Austin Davis,519058,Mike Moustakas,L,J.T. Realmuto,592663,2,4,4,True,2019-05-13,Stolen,2B,2019,2020, 87.2, 0.69
+273,1B,2B,Stolen Base 2B,606115,Orlando Arcia,622554,Seranthony Domínguez,456715,Lorenzo Cain,R,J.T. Realmuto,592663,4,4,7,True,2019-05-13,Stolen,2B,2019,2020, 87.2, 0.69
+274,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,453562,Jake Arrieta,460086,Alex Gordon,R,J.T. Realmuto,592663,2,0,1,False,2019-05-10,Stolen,2B,2019,2020, 87.2, 0.69
+275,1B,,Caught Stealing 2B,593160,Whit Merrifield,453562,Jake Arrieta,609275,Adalberto Mondesi,R,J.T. Realmuto,592663,2,0,3,False,2019-05-10,Caught,2B,2019,2020, 87.2, 0.69
+276,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,453562,Jake Arrieta,641531,Hunter Dozier,R,J.T. Realmuto,592663,2,0,3,False,2019-05-10,Stolen,2B,2019,2020, 87.2, 0.69
+277,1B,,Caught Stealing 2B,656811,Ryan O'Hearn,658305,Edgar García,455117,Martín Maldonado,R,J.T. Realmuto,592663,4,1,6,False,2019-05-10,Caught,2B,2019,2020, 87.2, 0.69
+278,1B,,Caught Stealing 2B,622168,Yairo Muñoz,595191,Jerad Eickhoff,656427,Jack Flaherty,R,J.T. Realmuto,592663,0,0,3,False,2019-05-08,Caught,2B,2019,2020, 87.2, 0.69
+279,1B,2B,Stolen Base 2B,435062,Howie Kendrick,595191,Jerad Eickhoff,571431,Matt Adams,R,J.T. Realmuto,592663,1,1,3,True,2019-05-03,Stolen,2B,2019,2020, 87.2, 0.69
+280,1B,,Caught Stealing 2B,592348,Niko Goodrum,605400,Aaron Nola,500135,Ronny Rodríguez,R,J.T. Realmuto,592663,1,0,6,True,2019-05-01,Caught,2B,2019,2020, 87.2, 0.69
+281,3B,,Caught Stealing Home,434158,Curtis Granderson,605400,Aaron Nola,435522,Neil Walker,R,J.T. Realmuto,592663,1,1,3,True,2019-04-25,Caught,Home,2019,2020, 87.2, 0.69
+282,1B,2B,Stolen Base 2B,453943,Todd Frazier,453562,Jake Arrieta,641645,Luis Guillorme,R,J.T. Realmuto,592663,0,0,2,False,2019-04-22,Stolen,2B,2019,2020, 87.2, 0.69
+283,1B,2B,Stolen Base 2B,607043,Brandon Nimmo,453562,Jake Arrieta,624413,Pete Alonso,R,J.T. Realmuto,592663,1,0,3,False,2019-04-22,Stolen,2B,2019,2020, 87.2, 0.69
+284,1B,,Caught Stealing 2B,501571,Juan Lagares,591693,Edubray Ramos,642086,Dominic Smith,R,J.T. Realmuto,592663,5,1,8,False,2019-04-22,Caught,2B,2019,2020, 87.2, 0.69
+285,1B,,Caught Stealing 2B,453568,Charlie Blackmon,605388,Adam Morgan,621311,David Dahl,L,J.T. Realmuto,592663,2,2,7,False,2019-04-19,Caught,2B,2019,2020, 87.2, 0.69
+286,1B,2B,Stolen Base 2B,641857,Ryan McMahon,504379,Juan Nicasio,435622,Ian Desmond,R,J.T. Realmuto,592663,2,2,11,False,2019-04-19,Stolen,2B,2019,2020, 87.2, 0.69
+287,1B,,Caught Stealing 2B,621311,David Dahl,621107,Zach Eflin,571448,Nolan Arenado,R,J.T. Realmuto,592663,0,0,1,False,2019-04-18,Caught,2B,2019,2020, 87.2, 0.69
+288,1B,,Caught Stealing 2B,606132,Raimel Tapia,644364,Víctor Arano,641658,Garrett Hampson,R,J.T. Realmuto,592663,6,2,7,False,2019-04-18,Caught,2B,2019,2020, 87.2, 0.69
+289,1B,2B,Stolen Base 2B,624424,Michael Conforto,453562,Jake Arrieta,605204,J.D. Davis,R,J.T. Realmuto,592663,0,0,2,True,2019-04-17,Stolen,2B,2019,2020, 87.2, 0.69
+290,1B,2B,Stolen Base 2B,642708,Amed Rosario,605400,Aaron Nola,605204,J.D. Davis,R,J.T. Realmuto,592663,0,0,2,True,2019-04-15,Stolen,2B,2019,2020, 87.2, 0.69
+291,1B,,Caught Stealing 2B,643446,Jeff McNeil,501625,Jose Alvarez,642708,Amed Rosario,L,J.T. Realmuto,592663,5,5,5,True,2019-04-15,Caught,2B,2019,2020, 87.2, 0.69
+292,1B,2B,Stolen Base 2B,605119,Brian Anderson,621107,Zach Eflin,435522,Neil Walker,R,J.T. Realmuto,592663,0,0,1,False,2019-04-13,Stolen,2B,2019,2020, 87.2, 0.69
+293,1B,2B,Stolen Base 2B,594809,Adam Eaton,605400,Aaron Nola,572821,Brian Dozier,R,J.T. Realmuto,592663,3,2,3,False,2019-04-03,Stolen,2B,2019,2020, 87.2, 0.69
+294,1B,2B,Stolen Base 2B,645277,Ozzie Albies,593576,Héctor Neris,663586,Austin Riley,R,J.T. Realmuto,592663,2,0,8,False,2021-09-28,Stolen,2B,2021,2022, 87.6, 0.66
+295,1B,2B,Stolen Base 2B,663647,Ke'Bryan Hayes,593576,Héctor Neris,660294,Yoshi Tsutsugo,R,J.T. Realmuto,592663,5,6,7,True,2021-09-24,Stolen,2B,2021,2022, 87.6, 0.66
+296,1B,,Caught Stealing 2B,668227,Randy Arozarena,554430,Zack Wheeler,621433,Brett Phillips,R,J.T. Realmuto,592663,3,3,6,True,2021-08-25,Caught,2B,2021,2022, 87.6, 0.66
+297,1B,2B,Stolen Base 2B,621433,Brett Phillips,605151,Archie Bradley,668227,Randy Arozarena,R,J.T. Realmuto,592663,1,1,8,True,2021-08-24,Stolen,2B,2021,2022, 87.6, 0.66
+298,1B,,Caught Stealing 2B,518692,Freddie Freeman,554430,Zack Wheeler,663586,Austin Riley,R,J.T. Realmuto,592663,1,1,3,True,2021-07-23,Caught,2B,2021,2022, 87.6, 0.66
+299,2B,3B,Stolen Base 3B,656185,Greg Allen,650911,Cristopher Sánchez,664314,Estevan Florial,L,J.T. Realmuto,592663,2,2,4,False,2021-07-21,Stolen,3B,2021,2022, 87.6, 0.66
+300,1B,2B,Stolen Base 2B,642180,Tyler Wade,650911,Cristopher Sánchez,664314,Estevan Florial,L,J.T. Realmuto,592663,2,2,4,False,2021-07-21,Stolen,2B,2021,2022, 87.6, 0.66
+301,1B,2B,Stolen Base 2B,664314,Estevan Florial,593576,Héctor Neris,518934,DJ LeMahieu,R,J.T. Realmuto,592663,2,2,7,False,2021-07-21,Stolen,2B,2021,2022, 87.6, 0.66
+302,1B,2B,Stolen Base 2B,656185,Greg Allen,605400,Aaron Nola,664314,Estevan Florial,R,J.T. Realmuto,592663,1,2,5,False,2021-07-20,Stolen,2B,2021,2022, 87.6, 0.66
+303,1B,2B,Stolen Base 2B,516782,Starling Marte,554430,Zack Wheeler,594807,Adam Duvall,R,J.T. Realmuto,592663,0,0,1,True,2021-07-18,Stolen,2B,2021,2022, 87.6, 0.66
+304,1B,,Caught Stealing 2B,516782,Starling Marte,554430,Zack Wheeler,643265,Garrett Cooper,R,J.T. Realmuto,592663,2,4,5,True,2021-07-18,Caught,2B,2021,2022, 87.6, 0.66
+305,1B,,Caught Stealing 2B,665862,Jazz Chisholm Jr.,592826,Vince Velasquez,542583,Jesús Aguilar,R,J.T. Realmuto,592663,0,0,1,True,2021-07-18,Caught,2B,2021,2022, 87.6, 0.66
+306,1B,2B,Stolen Base 2B,516782,Starling Marte,593576,Héctor Neris,542583,Jesús Aguilar,R,J.T. Realmuto,592663,2,0,6,True,2021-07-18,Stolen,2B,2021,2022, 87.6, 0.66
+307,1B,,Caught Stealing 2B,665862,Jazz Chisholm Jr.,592826,Vince Velasquez,542583,Jesús Aguilar,R,J.T. Realmuto,592663,0,0,1,True,2021-07-17,Caught,2B,2021,2022, 87.6, 0.66
+308,1B,2B,Stolen Base 2B,516782,Starling Marte,593576,Héctor Neris,542583,Jesús Aguilar,R,J.T. Realmuto,592663,2,0,6,True,2021-07-17,Stolen,2B,2021,2022, 87.6, 0.66
+309,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,592826,Vince Velasquez,630105,Jake Cronenworth,R,J.T. Realmuto,592663,0,2,3,True,2021-07-04,Stolen,2B,2021,2022, 87.6, 0.66
+310,1B,2B,Stolen Base 2B,542932,Jon Berti,641401,Connor Brogdon,595751,Jorge Alfaro,R,J.T. Realmuto,592663,4,0,8,True,2021-06-29,Stolen,2B,2021,2022, 87.6, 0.66
+311,2B,3B,Stolen Base 3B,596019,Francisco Lindor,621237,José Alvarado,642086,Dominic Smith,L,J.T. Realmuto,592663,0,1,6,False,2021-06-25,Stolen,3B,2021,2022, 87.6, 0.66
+312,1B,2B,Stolen Base 2B,624413,Pete Alonso,621237,José Alvarado,642086,Dominic Smith,L,J.T. Realmuto,592663,0,1,6,False,2021-06-25,Stolen,2B,2021,2022, 87.6, 0.66
+313,1B,2B,Stolen Base 2B,665742,Juan Soto,554430,Zack Wheeler,543228,Yan Gomes,R,J.T. Realmuto,592663,1,3,3,True,2021-06-22,Stolen,2B,2021,2022, 87.6, 0.66
+314,1B,2B,Stolen Base 2B,543281,Josh Harrison,641401,Connor Brogdon,645302,Victor Robles,R,J.T. Realmuto,592663,1,3,6,True,2021-06-22,Stolen,2B,2021,2022, 87.6, 0.66
+315,2B,3B,Stolen Base 3B,645302,Victor Robles,592826,Vince Velasquez,628450,Yadiel Hernandez,R,J.T. Realmuto,592663,0,3,4,True,2021-06-06,Stolen,3B,2021,2022, 87.6, 0.66
+316,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,605400,Aaron Nola,518692,Freddie Freeman,R,J.T. Realmuto,592663,1,1,1,False,2021-05-09,Stolen,2B,2021,2022, 87.6, 0.66
+317,1B,2B,Stolen Base 2B,456715,Lorenzo Cain,621237,José Alvarado,649966,Luis Urías,L,J.T. Realmuto,592663,5,4,9,True,2021-05-05,Stolen,2B,2021,2022, 87.6, 0.66
+318,1B,,Caught Stealing 2B,624641,Edmundo Sosa,605400,Aaron Nola,669242,Tommy Edman,R,J.T. Realmuto,592663,0,1,3,False,2021-04-29,Caught,2B,2021,2022, 87.6, 0.66
+319,1B,2B,Stolen Base 2B,596115,Trevor Story,641401,Connor Brogdon,453568,Charlie Blackmon,R,J.T. Realmuto,592663,5,7,8,False,2021-04-24,Stolen,2B,2021,2022, 87.6, 0.66
+320,1B,2B,Stolen Base 2B,596103,Austin Slater,502624,Chase Anderson,592332,Kevin Gausman,R,J.T. Realmuto,592663,0,0,2,True,2021-04-19,Stolen,2B,2021,2022, 87.6, 0.66
+321,1B,,Caught Stealing 2B,669242,Tommy Edman,592826,Vince Velasquez,425877,Yadier Molina,R,J.T. Realmuto,592663,3,9,5,True,2021-04-17,Caught,2B,2021,2022, 87.6, 0.66
+322,1B,2B,Stolen Base 2B,607043,Brandon Nimmo,445213,Brandon Kintzler,624424,Michael Conforto,R,J.T. Realmuto,592663,1,6,7,True,2021-04-06,Stolen,2B,2021,2022, 87.6, 0.66
+323,3B,score,Stolen Base Home,607680,Kevin Pillar,445213,Brandon Kintzler,624424,Michael Conforto,R,J.T. Realmuto,592663,1,6,7,True,2021-04-06,Stolen,Home,2021,2022, 87.6, 0.66
+324,1B,2B,Stolen Base 2B,645277,Ozzie Albies,593576,Héctor Neris,663586,Austin Riley,R,J.T. Realmuto,592663,2,0,8,False,2021-09-28,Stolen,2B,2021,2022, 87.6, 0.66
+325,1B,2B,Stolen Base 2B,663647,Ke'Bryan Hayes,593576,Héctor Neris,660294,Yoshi Tsutsugo,R,J.T. Realmuto,592663,5,6,7,True,2021-09-24,Stolen,2B,2021,2022, 87.6, 0.66
+326,1B,,Caught Stealing 2B,668227,Randy Arozarena,554430,Zack Wheeler,621433,Brett Phillips,R,J.T. Realmuto,592663,3,3,6,True,2021-08-25,Caught,2B,2021,2022, 87.6, 0.66
+327,1B,2B,Stolen Base 2B,621433,Brett Phillips,605151,Archie Bradley,668227,Randy Arozarena,R,J.T. Realmuto,592663,1,1,8,True,2021-08-24,Stolen,2B,2021,2022, 87.6, 0.66
+328,1B,,Caught Stealing 2B,518692,Freddie Freeman,554430,Zack Wheeler,663586,Austin Riley,R,J.T. Realmuto,592663,1,1,3,True,2021-07-23,Caught,2B,2021,2022, 87.6, 0.66
+329,2B,3B,Stolen Base 3B,656185,Greg Allen,650911,Cristopher Sánchez,664314,Estevan Florial,L,J.T. Realmuto,592663,2,2,4,False,2021-07-21,Stolen,3B,2021,2022, 87.6, 0.66
+330,1B,2B,Stolen Base 2B,642180,Tyler Wade,650911,Cristopher Sánchez,664314,Estevan Florial,L,J.T. Realmuto,592663,2,2,4,False,2021-07-21,Stolen,2B,2021,2022, 87.6, 0.66
+331,1B,2B,Stolen Base 2B,664314,Estevan Florial,593576,Héctor Neris,518934,DJ LeMahieu,R,J.T. Realmuto,592663,2,2,7,False,2021-07-21,Stolen,2B,2021,2022, 87.6, 0.66
+332,1B,2B,Stolen Base 2B,656185,Greg Allen,605400,Aaron Nola,664314,Estevan Florial,R,J.T. Realmuto,592663,1,2,5,False,2021-07-20,Stolen,2B,2021,2022, 87.6, 0.66
+333,1B,2B,Stolen Base 2B,516782,Starling Marte,554430,Zack Wheeler,594807,Adam Duvall,R,J.T. Realmuto,592663,0,0,1,True,2021-07-18,Stolen,2B,2021,2022, 87.6, 0.66
+334,1B,,Caught Stealing 2B,516782,Starling Marte,554430,Zack Wheeler,643265,Garrett Cooper,R,J.T. Realmuto,592663,2,4,5,True,2021-07-18,Caught,2B,2021,2022, 87.6, 0.66
+335,1B,,Caught Stealing 2B,665862,Jazz Chisholm Jr.,592826,Vince Velasquez,542583,Jesús Aguilar,R,J.T. Realmuto,592663,0,0,1,True,2021-07-18,Caught,2B,2021,2022, 87.6, 0.66
+336,1B,2B,Stolen Base 2B,516782,Starling Marte,593576,Héctor Neris,542583,Jesús Aguilar,R,J.T. Realmuto,592663,2,0,6,True,2021-07-18,Stolen,2B,2021,2022, 87.6, 0.66
+337,1B,,Caught Stealing 2B,665862,Jazz Chisholm Jr.,592826,Vince Velasquez,542583,Jesús Aguilar,R,J.T. Realmuto,592663,0,0,1,True,2021-07-17,Caught,2B,2021,2022, 87.6, 0.66
+338,1B,2B,Stolen Base 2B,516782,Starling Marte,593576,Héctor Neris,542583,Jesús Aguilar,R,J.T. Realmuto,592663,2,0,6,True,2021-07-17,Stolen,2B,2021,2022, 87.6, 0.66
+339,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,592826,Vince Velasquez,630105,Jake Cronenworth,R,J.T. Realmuto,592663,0,2,3,True,2021-07-04,Stolen,2B,2021,2022, 87.6, 0.66
+340,1B,2B,Stolen Base 2B,542932,Jon Berti,641401,Connor Brogdon,595751,Jorge Alfaro,R,J.T. Realmuto,592663,4,0,8,True,2021-06-29,Stolen,2B,2021,2022, 87.6, 0.66
+341,2B,3B,Stolen Base 3B,596019,Francisco Lindor,621237,José Alvarado,642086,Dominic Smith,L,J.T. Realmuto,592663,0,1,6,False,2021-06-25,Stolen,3B,2021,2022, 87.6, 0.66
+342,1B,2B,Stolen Base 2B,624413,Pete Alonso,621237,José Alvarado,642086,Dominic Smith,L,J.T. Realmuto,592663,0,1,6,False,2021-06-25,Stolen,2B,2021,2022, 87.6, 0.66
+343,1B,2B,Stolen Base 2B,665742,Juan Soto,554430,Zack Wheeler,543228,Yan Gomes,R,J.T. Realmuto,592663,1,3,3,True,2021-06-22,Stolen,2B,2021,2022, 87.6, 0.66
+344,1B,2B,Stolen Base 2B,543281,Josh Harrison,641401,Connor Brogdon,645302,Victor Robles,R,J.T. Realmuto,592663,1,3,6,True,2021-06-22,Stolen,2B,2021,2022, 87.6, 0.66
+345,2B,3B,Stolen Base 3B,645302,Victor Robles,592826,Vince Velasquez,628450,Yadiel Hernandez,R,J.T. Realmuto,592663,0,3,4,True,2021-06-06,Stolen,3B,2021,2022, 87.6, 0.66
+346,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,605400,Aaron Nola,518692,Freddie Freeman,R,J.T. Realmuto,592663,1,1,1,False,2021-05-09,Stolen,2B,2021,2022, 87.6, 0.66
+347,1B,2B,Stolen Base 2B,456715,Lorenzo Cain,621237,José Alvarado,649966,Luis Urías,L,J.T. Realmuto,592663,5,4,9,True,2021-05-05,Stolen,2B,2021,2022, 87.6, 0.66
+348,1B,,Caught Stealing 2B,624641,Edmundo Sosa,605400,Aaron Nola,669242,Tommy Edman,R,J.T. Realmuto,592663,0,1,3,False,2021-04-29,Caught,2B,2021,2022, 87.6, 0.66
+349,1B,2B,Stolen Base 2B,596115,Trevor Story,641401,Connor Brogdon,453568,Charlie Blackmon,R,J.T. Realmuto,592663,5,7,8,False,2021-04-24,Stolen,2B,2021,2022, 87.6, 0.66
+350,1B,2B,Stolen Base 2B,596103,Austin Slater,502624,Chase Anderson,592332,Kevin Gausman,R,J.T. Realmuto,592663,0,0,2,True,2021-04-19,Stolen,2B,2021,2022, 87.6, 0.66
+351,1B,,Caught Stealing 2B,669242,Tommy Edman,592826,Vince Velasquez,425877,Yadier Molina,R,J.T. Realmuto,592663,3,9,5,True,2021-04-17,Caught,2B,2021,2022, 87.6, 0.66
+352,1B,2B,Stolen Base 2B,607043,Brandon Nimmo,445213,Brandon Kintzler,624424,Michael Conforto,R,J.T. Realmuto,592663,1,6,7,True,2021-04-06,Stolen,2B,2021,2022, 87.6, 0.66
+353,3B,score,Stolen Base Home,607680,Kevin Pillar,445213,Brandon Kintzler,624424,Michael Conforto,R,J.T. Realmuto,592663,1,6,7,True,2021-04-06,Stolen,Home,2021,2022, 87.6, 0.66
+354,1B,2B,Stolen Base 2B,664901,Danny Mendick,592836,Taijuan Walker,677595,Ronny Mauricio,R,J.T. Realmuto,592663,4,0,7,False,2023-09-30,Stolen,2B,2023,2024, 85.1, 0.65
+355,1B,,Caught Stealing 2B,596019,Francisco Lindor,656814,Luis F. Ortiz,621466,DJ Stewart,R,J.T. Realmuto,592663,4,1,8,False,2023-09-30,Caught,2B,2023,2024, 85.1, 0.65
+356,1B,2B,Stolen Base 2B,669707,Jared Triolo,656546,Jeff Hoffman,680779,Henry Davis,R,J.T. Realmuto,592663,2,2,10,True,2023-09-26,Stolen,2B,2023,2024, 85.1, 0.65
+357,1B,,Caught Stealing 2B,621466,DJ Stewart,554430,Zack Wheeler,683146,Brett Baty,R,J.T. Realmuto,592663,3,2,4,True,2023-09-23,Caught,2B,2023,2024, 85.1, 0.65
+358,1B,2B,Stolen Base 2B,596019,Francisco Lindor,624133,Ranger Suárez,643446,Jeff McNeil,L,J.T. Realmuto,592663,2,1,2,True,2023-09-21,Stolen,2B,2023,2024, 85.1, 0.65
+359,1B,2B,Stolen Base 2B,596019,Francisco Lindor,518886,Craig Kimbrel,668901,Mark Vientos,R,J.T. Realmuto,592663,5,4,8,True,2023-09-21,Stolen,2B,2023,2024, 85.1, 0.65
+360,1B,2B,Stolen Base 2B,643446,Jeff McNeil,518886,Craig Kimbrel,683146,Brett Baty,R,J.T. Realmuto,592663,5,4,8,True,2023-09-21,Stolen,2B,2023,2024, 85.1, 0.65
+361,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,547179,Michael Lorenzen,645277,Ozzie Albies,R,J.T. Realmuto,592663,3,0,5,False,2023-09-19,Stolen,2B,2023,2024, 85.1, 0.65
+362,2B,3B,Stolen Base 3B,502671,Paul Goldschmidt,605400,Aaron Nola,571448,Nolan Arenado,R,J.T. Realmuto,592663,2,4,3,False,2023-09-15,Stolen,3B,2023,2024, 85.1, 0.65
+363,1B,2B,Stolen Base 2B,676475,Alec Burleson,605400,Aaron Nola,571448,Nolan Arenado,R,J.T. Realmuto,592663,2,4,3,False,2023-09-15,Stolen,2B,2023,2024, 85.1, 0.65
+364,2B,3B,Stolen Base 3B,542932,Jon Berti,621381,Matt Strahm,641658,Garrett Hampson,L,J.T. Realmuto,592663,3,3,7,True,2023-09-10,Stolen,3B,2023,2024, 85.1, 0.65
+365,1B,2B,Stolen Base 2B,663743,Nick Fortes,621381,Matt Strahm,641658,Garrett Hampson,L,J.T. Realmuto,592663,3,3,7,True,2023-09-10,Stolen,2B,2023,2024, 85.1, 0.65
+366,1B,2B,Stolen Base 2B,663757,Trent Grisham,592836,Taijuan Walker,673490,Ha-Seong Kim,R,J.T. Realmuto,592663,4,8,4,False,2023-09-04,Stolen,2B,2023,2024, 85.1, 0.65
+367,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,518886,Craig Kimbrel,665742,Juan Soto,R,J.T. Realmuto,592663,7,9,8,False,2023-09-04,Stolen,2B,2023,2024, 85.1, 0.65
+368,2B,3B,Stolen Base 3B,665487,Fernando Tatis Jr.,518886,Craig Kimbrel,592518,Manny Machado,R,J.T. Realmuto,592663,7,9,8,False,2023-09-04,Stolen,3B,2023,2024, 85.1, 0.65
+369,1B,2B,Stolen Base 2B,665742,Juan Soto,518886,Craig Kimbrel,592518,Manny Machado,R,J.T. Realmuto,592663,7,9,8,False,2023-09-04,Stolen,2B,2023,2024, 85.1, 0.65
+370,1B,2B,Stolen Base 2B,592192,Mark Canha,621381,Matt Strahm,642715,Willy Adames,L,J.T. Realmuto,592663,2,4,7,False,2023-09-03,Stolen,2B,2023,2024, 85.1, 0.65
+371,1B,2B,Stolen Base 2B,668930,Brice Turang,605400,Aaron Nola,621438,Tyrone Taylor,R,J.T. Realmuto,592663,2,2,2,False,2023-09-02,Stolen,2B,2023,2024, 85.1, 0.65
+372,2B,,Caught Stealing 3B,660271,Shohei Ohtani,547179,Michael Lorenzen,650859,Luis Rengifo,R,J.T. Realmuto,592663,2,4,5,True,2023-08-29,Caught,3B,2023,2024, 85.1, 0.65
+373,1B,2B,Stolen Base 2B,642731,Thairo Estrada,656546,Jeff Hoffman,527038,Wilmer Flores,R,J.T. Realmuto,592663,2,4,7,True,2023-08-23,Stolen,2B,2023,2024, 85.1, 0.65
+374,1B,2B,Stolen Base 2B,624415,Cavan Biggio,605400,Aaron Nola,672386,Alejandro Kirk,R,J.T. Realmuto,592663,0,1,2,False,2023-08-16,Stolen,2B,2023,2024, 85.1, 0.65
+375,1B,2B,Stolen Base 2B,543807,George Springer,605400,Aaron Nola,624415,Cavan Biggio,R,J.T. Realmuto,592663,4,2,3,False,2023-08-16,Stolen,2B,2023,2024, 85.1, 0.65
+376,1B,,Caught Stealing 2B,662139,Daulton Varsho,554430,Zack Wheeler,669289,Santiago Espinal,R,J.T. Realmuto,592663,1,1,7,False,2023-08-15,Caught,2B,2023,2024, 85.1, 0.65
+377,1B,2B,Stolen Base 2B,682928,CJ Abrams,605400,Aaron Nola,657041,Lane Thomas,R,J.T. Realmuto,592663,0,0,3,True,2023-08-10,Stolen,2B,2023,2024, 85.1, 0.65
+378,1B,2B,Stolen Base 2B,672580,Maikel Garcia,650911,Cristopher Sánchez,677951,Bobby Witt Jr.,L,J.T. Realmuto,592663,3,5,5,True,2023-08-05,Stolen,2B,2023,2024, 85.1, 0.65
+379,2B,3B,Stolen Base 3B,672580,Maikel Garcia,650911,Cristopher Sánchez,622110,Matt Duffy,L,J.T. Realmuto,592663,3,6,5,True,2023-08-05,Stolen,3B,2023,2024, 85.1, 0.65
+380,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,605400,Aaron Nola,686681,Michael Massey,R,J.T. Realmuto,592663,4,2,5,True,2023-08-04,Stolen,2B,2023,2024, 85.1, 0.65
+381,1B,2B,Stolen Base 2B,680118,Dairon Blanco,628708,Yunior Marte,672580,Maikel Garcia,R,J.T. Realmuto,592663,4,6,6,True,2023-08-04,Stolen,2B,2023,2024, 85.1, 0.65
+382,1B,2B,Stolen Base 2B,680118,Dairon Blanco,656546,Jeff Hoffman,664728,Kyle Isbel,R,J.T. Realmuto,592663,5,7,8,True,2023-08-04,Stolen,2B,2023,2024, 85.1, 0.65
+383,2B,3B,Stolen Base 3B,680118,Dairon Blanco,656546,Jeff Hoffman,672580,Maikel Garcia,R,J.T. Realmuto,592663,5,7,8,True,2023-08-04,Stolen,3B,2023,2024, 85.1, 0.65
+384,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,592836,Taijuan Walker,542932,Jon Berti,R,J.T. Realmuto,592663,2,2,6,False,2023-07-31,Stolen,2B,2023,2024, 85.1, 0.65
+385,1B,,Caught Stealing 2B,664702,Myles Straw,554430,Zack Wheeler,666310,Bo Naylor,R,J.T. Realmuto,592663,1,0,7,False,2023-07-22,Caught,2B,2023,2024, 85.1, 0.65
+386,1B,2B,Stolen Base 2B,608070,José Ramírez,624133,Ranger Suárez,647304,Josh Naylor,L,J.T. Realmuto,592663,0,0,1,False,2023-07-21,Stolen,2B,2023,2024, 85.1, 0.65
+387,1B,2B,Stolen Base 2B,608070,José Ramírez,624133,Ranger Suárez,647304,Josh Naylor,L,J.T. Realmuto,592663,2,1,3,False,2023-07-21,Stolen,2B,2023,2024, 85.1, 0.65
+388,1B,2B,Stolen Base 2B,663368,Blake Perkins,656546,Jeff Hoffman,686894,Joey Wiemer,R,J.T. Realmuto,592663,3,3,7,True,2023-07-19,Stolen,2B,2023,2024, 85.1, 0.65
+389,1B,2B,Stolen Base 2B,606132,Raimel Tapia,605400,Aaron Nola,655316,Andruw Monasterio,R,J.T. Realmuto,592663,3,1,5,True,2023-07-18,Stolen,2B,2023,2024, 85.1, 0.65
+390,1B,2B,Stolen Base 2B,668930,Brice Turang,605400,Aaron Nola,686894,Joey Wiemer,R,J.T. Realmuto,592663,3,2,5,True,2023-07-18,Stolen,2B,2023,2024, 85.1, 0.65
+391,1B,,Caught Stealing 2B,676946,Matthew Batten,624133,Ranger Suárez,673490,Ha-Seong Kim,L,J.T. Realmuto,592663,0,3,5,True,2023-07-15,Caught,2B,2023,2024, 85.1, 0.65
+392,2B,3B,Stolen Base 3B,593428,Xander Bogaerts,621381,Matt Strahm,596142,Gary Sánchez,L,J.T. Realmuto,592663,3,4,8,True,2023-07-15,Stolen,3B,2023,2024, 85.1, 0.65
+393,1B,2B,Stolen Base 2B,663757,Trent Grisham,650911,Cristopher Sánchez,673490,Ha-Seong Kim,L,J.T. Realmuto,592663,0,1,3,True,2023-07-14,Stolen,2B,2023,2024, 85.1, 0.65
+394,1B,,Caught Stealing 2B,667472,Dane Myers,624133,Ranger Suárez,663743,Nick Fortes,L,J.T. Realmuto,592663,3,1,1,False,2023-07-08,Caught,2B,2023,2024, 85.1, 0.65
+395,1B,2B,Stolen Base 2B,542932,Jon Berti,624133,Ranger Suárez,667472,Dane Myers,L,J.T. Realmuto,592663,4,3,5,False,2023-07-08,Stolen,2B,2023,2024, 85.1, 0.65
+396,1B,2B,Stolen Base 2B,670764,Taylor Walls,592836,Taijuan Walker,642336,Francisco Mejía,R,J.T. Realmuto,592663,3,2,2,False,2023-07-05,Stolen,2B,2023,2024, 85.1, 0.65
+397,1B,2B,Stolen Base 2B,670623,Isaac Paredes,605400,Aaron Nola,664040,Brandon Lowe,R,J.T. Realmuto,592663,0,1,4,False,2023-07-04,Stolen,2B,2023,2024, 85.1, 0.65
+398,1B,2B,Stolen Base 2B,677551,Wander Franco,605400,Aaron Nola,670042,Luke Raley,R,J.T. Realmuto,592663,0,1,6,False,2023-07-04,Stolen,2B,2023,2024, 85.1, 0.65
+399,1B,2B,Stolen Base 2B,596019,Francisco Lindor,518886,Craig Kimbrel,596129,Daniel Vogelbach,R,J.T. Realmuto,592663,5,1,9,True,2023-06-23,Stolen,2B,2023,2024, 85.1, 0.65
+400,1B,2B,Stolen Base 2B,671739,Michael Harris II,628708,Yunior Marte,660670,Ronald Acuña Jr.,R,J.T. Realmuto,592663,0,1,10,True,2023-06-22,Stolen,2B,2023,2024, 85.1, 0.65
+401,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,628708,Yunior Marte,645277,Ozzie Albies,R,J.T. Realmuto,592663,0,1,10,True,2023-06-22,Stolen,2B,2023,2024, 85.1, 0.65
+402,2B,3B,Stolen Base 3B,660670,Ronald Acuña Jr.,592229,Dylan Covey,518595,Travis d'Arnaud,R,J.T. Realmuto,592663,1,4,9,True,2023-06-20,Stolen,3B,2023,2024, 85.1, 0.65
+403,1B,2B,Stolen Base 2B,668709,JJ Bleday,554430,Zack Wheeler,643393,Tony Kemp,R,J.T. Realmuto,592663,0,1,4,False,2023-06-18,Stolen,2B,2023,2024, 85.1, 0.65
+404,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,650911,Cristopher Sánchez,681146,Jonah Bride,L,J.T. Realmuto,592663,0,0,4,False,2023-06-17,Stolen,3B,2023,2024, 85.1, 0.65
+405,1B,2B,Stolen Base 2B,668709,JJ Bleday,650911,Cristopher Sánchez,681146,Jonah Bride,L,J.T. Realmuto,592663,0,0,4,False,2023-06-17,Stolen,2B,2023,2024, 85.1, 0.65
+406,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,592836,Taijuan Walker,676116,Ryan Noda,R,J.T. Realmuto,592663,1,2,3,False,2023-06-16,Stolen,2B,2023,2024, 85.1, 0.65
+407,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,592836,Taijuan Walker,667670,Brent Rooker,R,J.T. Realmuto,592663,1,4,6,False,2023-06-16,Stolen,3B,2023,2024, 85.1, 0.65
+408,2B,3B,Stolen Base 3B,672695,Geraldo Perdomo,518886,Craig Kimbrel,656896,Emmanuel Rivera,R,J.T. Realmuto,592663,3,3,9,False,2023-06-14,Stolen,3B,2023,2024, 85.1, 0.65
+409,1B,2B,Stolen Base 2B,669743,Alex Call,641401,Connor Brogdon,657041,Lane Thomas,R,J.T. Realmuto,592663,8,7,8,False,2023-06-02,Stolen,2B,2023,2024, 85.1, 0.65
+410,1B,2B,Stolen Base 2B,516782,Starling Marte,624133,Ranger Suárez,643446,Jeff McNeil,L,J.T. Realmuto,592663,0,0,2,False,2023-05-30,Stolen,2B,2023,2024, 85.1, 0.65
+411,1B,2B,Stolen Base 2B,671739,Michael Harris II,656546,Jeff Hoffman,660670,Ronald Acuña Jr.,R,J.T. Realmuto,592663,7,0,1,False,2023-05-28,Stolen,2B,2023,2024, 85.1, 0.65
+412,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,656546,Jeff Hoffman,621566,Matt Olson,R,J.T. Realmuto,592663,7,0,1,False,2023-05-28,Caught,2B,2023,2024, 85.1, 0.65
+413,1B,,Caught Stealing 2B,592696,Eddie Rosario,592836,Taijuan Walker,645277,Ozzie Albies,R,J.T. Realmuto,592663,3,4,6,False,2023-05-26,Caught,2B,2023,2024, 85.1, 0.65
+414,2B,3B,Stolen Base 3B,660670,Ronald Acuña Jr.,605400,Aaron Nola,663586,Austin Riley,R,J.T. Realmuto,592663,3,3,3,False,2023-05-25,Stolen,3B,2023,2024, 85.1, 0.65
+415,1B,2B,Stolen Base 2B,621566,Matt Olson,605400,Aaron Nola,663586,Austin Riley,R,J.T. Realmuto,592663,3,3,3,False,2023-05-25,Stolen,2B,2023,2024, 85.1, 0.65
+416,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,656546,Jeff Hoffman,663586,Austin Riley,R,J.T. Realmuto,592663,8,5,8,False,2023-05-25,Stolen,2B,2023,2024, 85.1, 0.65
+417,1B,2B,Stolen Base 2B,672695,Geraldo Perdomo,571479,Andrew Bellatti,656976,Pavin Smith,R,J.T. Realmuto,592663,3,5,9,True,2023-05-22,Stolen,2B,2023,2024, 85.1, 0.65
+418,1B,2B,Stolen Base 2B,643565,Mike Tauchman,621381,Matt Strahm,641820,Trey Mancini,L,J.T. Realmuto,592663,0,0,7,True,2023-05-21,Stolen,2B,2023,2024, 85.1, 0.65
+419,2B,3B,Stolen Base 3B,673548,Seiya Suzuki,657272,Erich Uelmen,543228,Yan Gomes,R,J.T. Realmuto,592663,1,5,5,True,2023-05-19,Stolen,3B,2023,2024, 85.1, 0.65
+420,1B,2B,Stolen Base 2B,670156,Miles Mastrobuoni,657272,Erich Uelmen,543228,Yan Gomes,R,J.T. Realmuto,592663,1,5,5,True,2023-05-19,Stolen,2B,2023,2024, 85.1, 0.65
+421,1B,,Caught Stealing 2B,641857,Ryan McMahon,605400,Aaron Nola,678662,Ezequiel Tovar,R,J.T. Realmuto,592663,2,0,1,False,2023-05-14,Caught,2B,2023,2024, 85.1, 0.65
+422,1B,2B,Stolen Base 2B,686668,Brenton Doyle,605400,Aaron Nola,453568,Charlie Blackmon,R,J.T. Realmuto,592663,2,0,2,False,2023-05-14,Stolen,2B,2023,2024, 85.1, 0.65
+423,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,642397,Gregory Soto,665489,Vladimir Guerrero Jr.,L,J.T. Realmuto,592663,0,1,8,True,2023-05-10,Stolen,2B,2023,2024, 85.1, 0.65
+424,1B,,Caught Stealing 2B,606132,Raimel Tapia,592836,Taijuan Walker,646240,Rafael Devers,R,J.T. Realmuto,592663,0,0,4,True,2023-05-07,Caught,2B,2023,2024, 85.1, 0.65
+425,1B,2B,Stolen Base 2B,606132,Raimel Tapia,656546,Jeff Hoffman,624512,Reese McGuire,R,J.T. Realmuto,592663,4,7,8,True,2023-05-06,Stolen,2B,2023,2024, 85.1, 0.65
+426,1B,2B,Stolen Base 2B,657077,Alex Verdugo,656546,Jeff Hoffman,457759,Justin Turner,R,J.T. Realmuto,592663,4,7,8,True,2023-05-06,Stolen,2B,2023,2024, 85.1, 0.65
+427,1B,2B,Stolen Base 2B,665839,Enmanuel Valdez,641401,Connor Brogdon,657136,Connor Wong,R,J.T. Realmuto,592663,3,5,6,True,2023-05-05,Stolen,2B,2023,2024, 85.1, 0.65
+428,1B,2B,Stolen Base 2B,683737,Michael Busch,518886,Craig Kimbrel,605141,Mookie Betts,R,J.T. Realmuto,592663,11,4,7,False,2023-05-01,Stolen,2B,2023,2024, 85.1, 0.65
+429,1B,2B,Stolen Base 2B,667452,Corey Julks,554430,Zack Wheeler,676694,Jake Meyers,R,J.T. Realmuto,592663,0,0,2,False,2023-04-29,Stolen,2B,2023,2024, 85.1, 0.65
+430,1B,2B,Stolen Base 2B,676609,José Caballero,663559,Bailey Falter,641487,J.P. Crawford,L,J.T. Realmuto,592663,0,2,5,True,2023-04-25,Stolen,2B,2023,2024, 85.1, 0.65
+431,1B,2B,Stolen Base 2B,641487,J.P. Crawford,641401,Connor Brogdon,664034,Ty France,R,J.T. Realmuto,592663,2,5,7,True,2023-04-25,Stolen,2B,2023,2024, 85.1, 0.65
+432,1B,,Caught Stealing 2B,693049,Oscar Colás,592836,Taijuan Walker,462101,Elvis Andrus,R,J.T. Realmuto,592663,2,2,2,False,2023-04-19,Caught,2B,2023,2024, 85.1, 0.65
+433,1B,2B,Stolen Base 2B,462101,Elvis Andrus,518886,Craig Kimbrel,673357,Luis Robert Jr.,R,J.T. Realmuto,592663,2,5,8,False,2023-04-19,Stolen,2B,2023,2024, 85.1, 0.65
+434,1B,2B,Stolen Base 2B,571976,Wil Myers,592836,Taijuan Walker,668715,Spencer Steer,R,J.T. Realmuto,592663,0,2,2,False,2023-04-14,Stolen,2B,2023,2024, 85.1, 0.65
+435,1B,2B,Stolen Base 2B,668715,Spencer Steer,622554,Seranthony Domínguez,669222,Nick Senzel,R,J.T. Realmuto,592663,1,5,7,False,2023-04-14,Stolen,2B,2023,2024, 85.1, 0.65
+436,2B,3B,Stolen Base 3B,663697,Jonathan India,663559,Bailey Falter,668715,Spencer Steer,L,J.T. Realmuto,592663,1,1,1,False,2023-04-13,Stolen,3B,2023,2024, 85.1, 0.65
+437,1B,2B,Stolen Base 2B,542932,Jon Berti,554430,Zack Wheeler,665862,Jazz Chisholm Jr.,R,J.T. Realmuto,592663,1,1,5,True,2023-04-12,Stolen,2B,2023,2024, 85.1, 0.65
+438,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,605400,Aaron Nola,643265,Garrett Cooper,R,J.T. Realmuto,592663,0,1,3,True,2023-04-11,Stolen,2B,2023,2024, 85.1, 0.65
+439,1B,2B,Stolen Base 2B,542932,Jon Berti,571479,Andrew Bellatti,665862,Jazz Chisholm Jr.,R,J.T. Realmuto,592663,3,7,8,True,2023-04-11,Stolen,2B,2023,2024, 85.1, 0.65
+440,1B,,Caught Stealing 2B,571976,Wil Myers,592836,Taijuan Walker,613564,Jason Vosler,R,J.T. Realmuto,592663,1,0,2,True,2023-04-09,Caught,2B,2023,2024, 85.1, 0.65
+441,1B,2B,Stolen Base 2B,656413,Stuart Fairchild,622554,Seranthony Domínguez,663697,Jonathan India,R,J.T. Realmuto,592663,4,3,9,True,2023-04-09,Stolen,2B,2023,2024, 85.1, 0.65
+442,1B,,Caught Stealing 2B,676480,Jose Barrero,554430,Zack Wheeler,663697,Jonathan India,R,J.T. Realmuto,592663,1,0,3,True,2023-04-07,Caught,2B,2023,2024, 85.1, 0.65
+443,1B,,Caught Stealing 2B,676480,Jose Barrero,554430,Zack Wheeler,663697,Jonathan India,R,J.T. Realmuto,592663,1,0,3,True,2023-04-06,Caught,2B,2023,2024, 85.1, 0.65
+444,1B,2B,Stolen Base 2B,592450,Aaron Judge,605400,Aaron Nola,650402,Gleyber Torres,R,J.T. Realmuto,592663,1,0,1,False,2023-04-05,Stolen,2B,2023,2024, 85.1, 0.65
+445,1B,,Caught Stealing 2B,650402,Gleyber Torres,605400,Aaron Nola,518626,Josh Donaldson,R,J.T. Realmuto,592663,1,0,1,False,2023-04-05,Caught,2B,2023,2024, 85.1, 0.65
+446,1B,2B,Stolen Base 2B,650402,Gleyber Torres,605400,Aaron Nola,643396,Isiah Kiner-Falefa,R,J.T. Realmuto,592663,2,0,6,False,2023-04-05,Stolen,2B,2023,2024, 85.1, 0.65
+447,2B,3B,Stolen Base 3B,650402,Gleyber Torres,622554,Seranthony Domínguez,643396,Isiah Kiner-Falefa,R,J.T. Realmuto,592663,4,2,8,False,2023-04-05,Stolen,3B,2023,2024, 85.1, 0.65
+448,1B,2B,Stolen Base 2B,650402,Gleyber Torres,592836,Taijuan Walker,543305,Aaron Hicks,R,J.T. Realmuto,592663,2,0,1,False,2023-04-03,Stolen,2B,2023,2024, 85.1, 0.65
+449,1B,,Caught Stealing 2B,543760,Marcus Semien,663559,Bailey Falter,608369,Corey Seager,L,J.T. Realmuto,592663,0,0,1,False,2023-04-02,Caught,2B,2023,2024, 85.1, 0.65
+450,1B,2B,Stolen Base 2B,664901,Danny Mendick,592836,Taijuan Walker,677595,Ronny Mauricio,R,J.T. Realmuto,592663,4,0,7,False,2023-09-30,Stolen,2B,2023,2024, 85.1, 0.65
+451,1B,,Caught Stealing 2B,596019,Francisco Lindor,656814,Luis F. Ortiz,621466,DJ Stewart,R,J.T. Realmuto,592663,4,1,8,False,2023-09-30,Caught,2B,2023,2024, 85.1, 0.65
+452,1B,2B,Stolen Base 2B,669707,Jared Triolo,656546,Jeff Hoffman,680779,Henry Davis,R,J.T. Realmuto,592663,2,2,10,True,2023-09-26,Stolen,2B,2023,2024, 85.1, 0.65
+453,1B,,Caught Stealing 2B,621466,DJ Stewart,554430,Zack Wheeler,683146,Brett Baty,R,J.T. Realmuto,592663,3,2,4,True,2023-09-23,Caught,2B,2023,2024, 85.1, 0.65
+454,1B,2B,Stolen Base 2B,596019,Francisco Lindor,624133,Ranger Suárez,643446,Jeff McNeil,L,J.T. Realmuto,592663,2,1,2,True,2023-09-21,Stolen,2B,2023,2024, 85.1, 0.65
+455,1B,2B,Stolen Base 2B,596019,Francisco Lindor,518886,Craig Kimbrel,668901,Mark Vientos,R,J.T. Realmuto,592663,5,4,8,True,2023-09-21,Stolen,2B,2023,2024, 85.1, 0.65
+456,1B,2B,Stolen Base 2B,643446,Jeff McNeil,518886,Craig Kimbrel,683146,Brett Baty,R,J.T. Realmuto,592663,5,4,8,True,2023-09-21,Stolen,2B,2023,2024, 85.1, 0.65
+457,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,547179,Michael Lorenzen,645277,Ozzie Albies,R,J.T. Realmuto,592663,3,0,5,False,2023-09-19,Stolen,2B,2023,2024, 85.1, 0.65
+458,2B,3B,Stolen Base 3B,502671,Paul Goldschmidt,605400,Aaron Nola,571448,Nolan Arenado,R,J.T. Realmuto,592663,2,4,3,False,2023-09-15,Stolen,3B,2023,2024, 85.1, 0.65
+459,1B,2B,Stolen Base 2B,676475,Alec Burleson,605400,Aaron Nola,571448,Nolan Arenado,R,J.T. Realmuto,592663,2,4,3,False,2023-09-15,Stolen,2B,2023,2024, 85.1, 0.65
+460,2B,3B,Stolen Base 3B,542932,Jon Berti,621381,Matt Strahm,641658,Garrett Hampson,L,J.T. Realmuto,592663,3,3,7,True,2023-09-10,Stolen,3B,2023,2024, 85.1, 0.65
+461,1B,2B,Stolen Base 2B,663743,Nick Fortes,621381,Matt Strahm,641658,Garrett Hampson,L,J.T. Realmuto,592663,3,3,7,True,2023-09-10,Stolen,2B,2023,2024, 85.1, 0.65
+462,1B,2B,Stolen Base 2B,663757,Trent Grisham,592836,Taijuan Walker,673490,Ha-Seong Kim,R,J.T. Realmuto,592663,4,8,4,False,2023-09-04,Stolen,2B,2023,2024, 85.1, 0.65
+463,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,518886,Craig Kimbrel,665742,Juan Soto,R,J.T. Realmuto,592663,7,9,8,False,2023-09-04,Stolen,2B,2023,2024, 85.1, 0.65
+464,2B,3B,Stolen Base 3B,665487,Fernando Tatis Jr.,518886,Craig Kimbrel,592518,Manny Machado,R,J.T. Realmuto,592663,7,9,8,False,2023-09-04,Stolen,3B,2023,2024, 85.1, 0.65
+465,1B,2B,Stolen Base 2B,665742,Juan Soto,518886,Craig Kimbrel,592518,Manny Machado,R,J.T. Realmuto,592663,7,9,8,False,2023-09-04,Stolen,2B,2023,2024, 85.1, 0.65
+466,1B,2B,Stolen Base 2B,592192,Mark Canha,621381,Matt Strahm,642715,Willy Adames,L,J.T. Realmuto,592663,2,4,7,False,2023-09-03,Stolen,2B,2023,2024, 85.1, 0.65
+467,1B,2B,Stolen Base 2B,668930,Brice Turang,605400,Aaron Nola,621438,Tyrone Taylor,R,J.T. Realmuto,592663,2,2,2,False,2023-09-02,Stolen,2B,2023,2024, 85.1, 0.65
+468,2B,,Caught Stealing 3B,660271,Shohei Ohtani,547179,Michael Lorenzen,650859,Luis Rengifo,R,J.T. Realmuto,592663,2,4,5,True,2023-08-29,Caught,3B,2023,2024, 85.1, 0.65
+469,1B,2B,Stolen Base 2B,642731,Thairo Estrada,656546,Jeff Hoffman,527038,Wilmer Flores,R,J.T. Realmuto,592663,2,4,7,True,2023-08-23,Stolen,2B,2023,2024, 85.1, 0.65
+470,1B,2B,Stolen Base 2B,624415,Cavan Biggio,605400,Aaron Nola,672386,Alejandro Kirk,R,J.T. Realmuto,592663,0,1,2,False,2023-08-16,Stolen,2B,2023,2024, 85.1, 0.65
+471,1B,2B,Stolen Base 2B,543807,George Springer,605400,Aaron Nola,624415,Cavan Biggio,R,J.T. Realmuto,592663,4,2,3,False,2023-08-16,Stolen,2B,2023,2024, 85.1, 0.65
+472,1B,,Caught Stealing 2B,662139,Daulton Varsho,554430,Zack Wheeler,669289,Santiago Espinal,R,J.T. Realmuto,592663,1,1,7,False,2023-08-15,Caught,2B,2023,2024, 85.1, 0.65
+473,1B,2B,Stolen Base 2B,682928,CJ Abrams,605400,Aaron Nola,657041,Lane Thomas,R,J.T. Realmuto,592663,0,0,3,True,2023-08-10,Stolen,2B,2023,2024, 85.1, 0.65
+474,1B,2B,Stolen Base 2B,672580,Maikel Garcia,650911,Cristopher Sánchez,677951,Bobby Witt Jr.,L,J.T. Realmuto,592663,3,5,5,True,2023-08-05,Stolen,2B,2023,2024, 85.1, 0.65
+475,2B,3B,Stolen Base 3B,672580,Maikel Garcia,650911,Cristopher Sánchez,622110,Matt Duffy,L,J.T. Realmuto,592663,3,6,5,True,2023-08-05,Stolen,3B,2023,2024, 85.1, 0.65
+476,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,605400,Aaron Nola,686681,Michael Massey,R,J.T. Realmuto,592663,4,2,5,True,2023-08-04,Stolen,2B,2023,2024, 85.1, 0.65
+477,1B,2B,Stolen Base 2B,680118,Dairon Blanco,628708,Yunior Marte,672580,Maikel Garcia,R,J.T. Realmuto,592663,4,6,6,True,2023-08-04,Stolen,2B,2023,2024, 85.1, 0.65
+478,1B,2B,Stolen Base 2B,680118,Dairon Blanco,656546,Jeff Hoffman,664728,Kyle Isbel,R,J.T. Realmuto,592663,5,7,8,True,2023-08-04,Stolen,2B,2023,2024, 85.1, 0.65
+479,2B,3B,Stolen Base 3B,680118,Dairon Blanco,656546,Jeff Hoffman,672580,Maikel Garcia,R,J.T. Realmuto,592663,5,7,8,True,2023-08-04,Stolen,3B,2023,2024, 85.1, 0.65
+480,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,592836,Taijuan Walker,542932,Jon Berti,R,J.T. Realmuto,592663,2,2,6,False,2023-07-31,Stolen,2B,2023,2024, 85.1, 0.65
+481,1B,,Caught Stealing 2B,664702,Myles Straw,554430,Zack Wheeler,666310,Bo Naylor,R,J.T. Realmuto,592663,1,0,7,False,2023-07-22,Caught,2B,2023,2024, 85.1, 0.65
+482,1B,2B,Stolen Base 2B,608070,José Ramírez,624133,Ranger Suárez,647304,Josh Naylor,L,J.T. Realmuto,592663,0,0,1,False,2023-07-21,Stolen,2B,2023,2024, 85.1, 0.65
+483,1B,2B,Stolen Base 2B,608070,José Ramírez,624133,Ranger Suárez,647304,Josh Naylor,L,J.T. Realmuto,592663,2,1,3,False,2023-07-21,Stolen,2B,2023,2024, 85.1, 0.65
+484,1B,2B,Stolen Base 2B,663368,Blake Perkins,656546,Jeff Hoffman,686894,Joey Wiemer,R,J.T. Realmuto,592663,3,3,7,True,2023-07-19,Stolen,2B,2023,2024, 85.1, 0.65
+485,1B,2B,Stolen Base 2B,606132,Raimel Tapia,605400,Aaron Nola,655316,Andruw Monasterio,R,J.T. Realmuto,592663,3,1,5,True,2023-07-18,Stolen,2B,2023,2024, 85.1, 0.65
+486,1B,2B,Stolen Base 2B,668930,Brice Turang,605400,Aaron Nola,686894,Joey Wiemer,R,J.T. Realmuto,592663,3,2,5,True,2023-07-18,Stolen,2B,2023,2024, 85.1, 0.65
+487,1B,,Caught Stealing 2B,676946,Matthew Batten,624133,Ranger Suárez,673490,Ha-Seong Kim,L,J.T. Realmuto,592663,0,3,5,True,2023-07-15,Caught,2B,2023,2024, 85.1, 0.65
+488,2B,3B,Stolen Base 3B,593428,Xander Bogaerts,621381,Matt Strahm,596142,Gary Sánchez,L,J.T. Realmuto,592663,3,4,8,True,2023-07-15,Stolen,3B,2023,2024, 85.1, 0.65
+489,1B,2B,Stolen Base 2B,663757,Trent Grisham,650911,Cristopher Sánchez,673490,Ha-Seong Kim,L,J.T. Realmuto,592663,0,1,3,True,2023-07-14,Stolen,2B,2023,2024, 85.1, 0.65
+490,1B,,Caught Stealing 2B,667472,Dane Myers,624133,Ranger Suárez,663743,Nick Fortes,L,J.T. Realmuto,592663,3,1,1,False,2023-07-08,Caught,2B,2023,2024, 85.1, 0.65
+491,1B,2B,Stolen Base 2B,542932,Jon Berti,624133,Ranger Suárez,667472,Dane Myers,L,J.T. Realmuto,592663,4,3,5,False,2023-07-08,Stolen,2B,2023,2024, 85.1, 0.65
+492,1B,2B,Stolen Base 2B,670764,Taylor Walls,592836,Taijuan Walker,642336,Francisco Mejía,R,J.T. Realmuto,592663,3,2,2,False,2023-07-05,Stolen,2B,2023,2024, 85.1, 0.65
+493,1B,2B,Stolen Base 2B,670623,Isaac Paredes,605400,Aaron Nola,664040,Brandon Lowe,R,J.T. Realmuto,592663,0,1,4,False,2023-07-04,Stolen,2B,2023,2024, 85.1, 0.65
+494,1B,2B,Stolen Base 2B,677551,Wander Franco,605400,Aaron Nola,670042,Luke Raley,R,J.T. Realmuto,592663,0,1,6,False,2023-07-04,Stolen,2B,2023,2024, 85.1, 0.65
+495,1B,2B,Stolen Base 2B,596019,Francisco Lindor,518886,Craig Kimbrel,596129,Daniel Vogelbach,R,J.T. Realmuto,592663,5,1,9,True,2023-06-23,Stolen,2B,2023,2024, 85.1, 0.65
+496,1B,2B,Stolen Base 2B,671739,Michael Harris II,628708,Yunior Marte,660670,Ronald Acuña Jr.,R,J.T. Realmuto,592663,0,1,10,True,2023-06-22,Stolen,2B,2023,2024, 85.1, 0.65
+497,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,628708,Yunior Marte,645277,Ozzie Albies,R,J.T. Realmuto,592663,0,1,10,True,2023-06-22,Stolen,2B,2023,2024, 85.1, 0.65
+498,2B,3B,Stolen Base 3B,660670,Ronald Acuña Jr.,592229,Dylan Covey,518595,Travis d'Arnaud,R,J.T. Realmuto,592663,1,4,9,True,2023-06-20,Stolen,3B,2023,2024, 85.1, 0.65
+499,1B,2B,Stolen Base 2B,668709,JJ Bleday,554430,Zack Wheeler,643393,Tony Kemp,R,J.T. Realmuto,592663,0,1,4,False,2023-06-18,Stolen,2B,2023,2024, 85.1, 0.65
+500,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,650911,Cristopher Sánchez,681146,Jonah Bride,L,J.T. Realmuto,592663,0,0,4,False,2023-06-17,Stolen,3B,2023,2024, 85.1, 0.65
+501,1B,2B,Stolen Base 2B,668709,JJ Bleday,650911,Cristopher Sánchez,681146,Jonah Bride,L,J.T. Realmuto,592663,0,0,4,False,2023-06-17,Stolen,2B,2023,2024, 85.1, 0.65
+502,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,592836,Taijuan Walker,676116,Ryan Noda,R,J.T. Realmuto,592663,1,2,3,False,2023-06-16,Stolen,2B,2023,2024, 85.1, 0.65
+503,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,592836,Taijuan Walker,667670,Brent Rooker,R,J.T. Realmuto,592663,1,4,6,False,2023-06-16,Stolen,3B,2023,2024, 85.1, 0.65
+504,2B,3B,Stolen Base 3B,672695,Geraldo Perdomo,518886,Craig Kimbrel,656896,Emmanuel Rivera,R,J.T. Realmuto,592663,3,3,9,False,2023-06-14,Stolen,3B,2023,2024, 85.1, 0.65
+505,1B,2B,Stolen Base 2B,669743,Alex Call,641401,Connor Brogdon,657041,Lane Thomas,R,J.T. Realmuto,592663,8,7,8,False,2023-06-02,Stolen,2B,2023,2024, 85.1, 0.65
+506,1B,2B,Stolen Base 2B,516782,Starling Marte,624133,Ranger Suárez,643446,Jeff McNeil,L,J.T. Realmuto,592663,0,0,2,False,2023-05-30,Stolen,2B,2023,2024, 85.1, 0.65
+507,1B,2B,Stolen Base 2B,671739,Michael Harris II,656546,Jeff Hoffman,660670,Ronald Acuña Jr.,R,J.T. Realmuto,592663,7,0,1,False,2023-05-28,Stolen,2B,2023,2024, 85.1, 0.65
+508,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,656546,Jeff Hoffman,621566,Matt Olson,R,J.T. Realmuto,592663,7,0,1,False,2023-05-28,Caught,2B,2023,2024, 85.1, 0.65
+509,1B,,Caught Stealing 2B,592696,Eddie Rosario,592836,Taijuan Walker,645277,Ozzie Albies,R,J.T. Realmuto,592663,3,4,6,False,2023-05-26,Caught,2B,2023,2024, 85.1, 0.65
+510,2B,3B,Stolen Base 3B,660670,Ronald Acuña Jr.,605400,Aaron Nola,663586,Austin Riley,R,J.T. Realmuto,592663,3,3,3,False,2023-05-25,Stolen,3B,2023,2024, 85.1, 0.65
+511,1B,2B,Stolen Base 2B,621566,Matt Olson,605400,Aaron Nola,663586,Austin Riley,R,J.T. Realmuto,592663,3,3,3,False,2023-05-25,Stolen,2B,2023,2024, 85.1, 0.65
+512,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,656546,Jeff Hoffman,663586,Austin Riley,R,J.T. Realmuto,592663,8,5,8,False,2023-05-25,Stolen,2B,2023,2024, 85.1, 0.65
+513,1B,2B,Stolen Base 2B,672695,Geraldo Perdomo,571479,Andrew Bellatti,656976,Pavin Smith,R,J.T. Realmuto,592663,3,5,9,True,2023-05-22,Stolen,2B,2023,2024, 85.1, 0.65
+514,1B,2B,Stolen Base 2B,643565,Mike Tauchman,621381,Matt Strahm,641820,Trey Mancini,L,J.T. Realmuto,592663,0,0,7,True,2023-05-21,Stolen,2B,2023,2024, 85.1, 0.65
+515,2B,3B,Stolen Base 3B,673548,Seiya Suzuki,657272,Erich Uelmen,543228,Yan Gomes,R,J.T. Realmuto,592663,1,5,5,True,2023-05-19,Stolen,3B,2023,2024, 85.1, 0.65
+516,1B,2B,Stolen Base 2B,670156,Miles Mastrobuoni,657272,Erich Uelmen,543228,Yan Gomes,R,J.T. Realmuto,592663,1,5,5,True,2023-05-19,Stolen,2B,2023,2024, 85.1, 0.65
+517,1B,,Caught Stealing 2B,641857,Ryan McMahon,605400,Aaron Nola,678662,Ezequiel Tovar,R,J.T. Realmuto,592663,2,0,1,False,2023-05-14,Caught,2B,2023,2024, 85.1, 0.65
+518,1B,2B,Stolen Base 2B,686668,Brenton Doyle,605400,Aaron Nola,453568,Charlie Blackmon,R,J.T. Realmuto,592663,2,0,2,False,2023-05-14,Stolen,2B,2023,2024, 85.1, 0.65
+519,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,642397,Gregory Soto,665489,Vladimir Guerrero Jr.,L,J.T. Realmuto,592663,0,1,8,True,2023-05-10,Stolen,2B,2023,2024, 85.1, 0.65
+520,1B,,Caught Stealing 2B,606132,Raimel Tapia,592836,Taijuan Walker,646240,Rafael Devers,R,J.T. Realmuto,592663,0,0,4,True,2023-05-07,Caught,2B,2023,2024, 85.1, 0.65
+521,1B,2B,Stolen Base 2B,606132,Raimel Tapia,656546,Jeff Hoffman,624512,Reese McGuire,R,J.T. Realmuto,592663,4,7,8,True,2023-05-06,Stolen,2B,2023,2024, 85.1, 0.65
+522,1B,2B,Stolen Base 2B,657077,Alex Verdugo,656546,Jeff Hoffman,457759,Justin Turner,R,J.T. Realmuto,592663,4,7,8,True,2023-05-06,Stolen,2B,2023,2024, 85.1, 0.65
+523,1B,2B,Stolen Base 2B,665839,Enmanuel Valdez,641401,Connor Brogdon,657136,Connor Wong,R,J.T. Realmuto,592663,3,5,6,True,2023-05-05,Stolen,2B,2023,2024, 85.1, 0.65
+524,1B,2B,Stolen Base 2B,683737,Michael Busch,518886,Craig Kimbrel,605141,Mookie Betts,R,J.T. Realmuto,592663,11,4,7,False,2023-05-01,Stolen,2B,2023,2024, 85.1, 0.65
+525,1B,2B,Stolen Base 2B,667452,Corey Julks,554430,Zack Wheeler,676694,Jake Meyers,R,J.T. Realmuto,592663,0,0,2,False,2023-04-29,Stolen,2B,2023,2024, 85.1, 0.65
+526,1B,2B,Stolen Base 2B,676609,José Caballero,663559,Bailey Falter,641487,J.P. Crawford,L,J.T. Realmuto,592663,0,2,5,True,2023-04-25,Stolen,2B,2023,2024, 85.1, 0.65
+527,1B,2B,Stolen Base 2B,641487,J.P. Crawford,641401,Connor Brogdon,664034,Ty France,R,J.T. Realmuto,592663,2,5,7,True,2023-04-25,Stolen,2B,2023,2024, 85.1, 0.65
+528,1B,,Caught Stealing 2B,693049,Oscar Colás,592836,Taijuan Walker,462101,Elvis Andrus,R,J.T. Realmuto,592663,2,2,2,False,2023-04-19,Caught,2B,2023,2024, 85.1, 0.65
+529,1B,2B,Stolen Base 2B,462101,Elvis Andrus,518886,Craig Kimbrel,673357,Luis Robert Jr.,R,J.T. Realmuto,592663,2,5,8,False,2023-04-19,Stolen,2B,2023,2024, 85.1, 0.65
+530,1B,2B,Stolen Base 2B,571976,Wil Myers,592836,Taijuan Walker,668715,Spencer Steer,R,J.T. Realmuto,592663,0,2,2,False,2023-04-14,Stolen,2B,2023,2024, 85.1, 0.65
+531,1B,2B,Stolen Base 2B,668715,Spencer Steer,622554,Seranthony Domínguez,669222,Nick Senzel,R,J.T. Realmuto,592663,1,5,7,False,2023-04-14,Stolen,2B,2023,2024, 85.1, 0.65
+532,2B,3B,Stolen Base 3B,663697,Jonathan India,663559,Bailey Falter,668715,Spencer Steer,L,J.T. Realmuto,592663,1,1,1,False,2023-04-13,Stolen,3B,2023,2024, 85.1, 0.65
+533,1B,2B,Stolen Base 2B,542932,Jon Berti,554430,Zack Wheeler,665862,Jazz Chisholm Jr.,R,J.T. Realmuto,592663,1,1,5,True,2023-04-12,Stolen,2B,2023,2024, 85.1, 0.65
+534,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,605400,Aaron Nola,643265,Garrett Cooper,R,J.T. Realmuto,592663,0,1,3,True,2023-04-11,Stolen,2B,2023,2024, 85.1, 0.65
+535,1B,2B,Stolen Base 2B,542932,Jon Berti,571479,Andrew Bellatti,665862,Jazz Chisholm Jr.,R,J.T. Realmuto,592663,3,7,8,True,2023-04-11,Stolen,2B,2023,2024, 85.1, 0.65
+536,1B,,Caught Stealing 2B,571976,Wil Myers,592836,Taijuan Walker,613564,Jason Vosler,R,J.T. Realmuto,592663,1,0,2,True,2023-04-09,Caught,2B,2023,2024, 85.1, 0.65
+537,1B,2B,Stolen Base 2B,656413,Stuart Fairchild,622554,Seranthony Domínguez,663697,Jonathan India,R,J.T. Realmuto,592663,4,3,9,True,2023-04-09,Stolen,2B,2023,2024, 85.1, 0.65
+538,1B,,Caught Stealing 2B,676480,Jose Barrero,554430,Zack Wheeler,663697,Jonathan India,R,J.T. Realmuto,592663,1,0,3,True,2023-04-07,Caught,2B,2023,2024, 85.1, 0.65
+539,1B,,Caught Stealing 2B,676480,Jose Barrero,554430,Zack Wheeler,663697,Jonathan India,R,J.T. Realmuto,592663,1,0,3,True,2023-04-06,Caught,2B,2023,2024, 85.1, 0.65
+540,1B,2B,Stolen Base 2B,592450,Aaron Judge,605400,Aaron Nola,650402,Gleyber Torres,R,J.T. Realmuto,592663,1,0,1,False,2023-04-05,Stolen,2B,2023,2024, 85.1, 0.65
+541,1B,,Caught Stealing 2B,650402,Gleyber Torres,605400,Aaron Nola,518626,Josh Donaldson,R,J.T. Realmuto,592663,1,0,1,False,2023-04-05,Caught,2B,2023,2024, 85.1, 0.65
+542,1B,2B,Stolen Base 2B,650402,Gleyber Torres,605400,Aaron Nola,643396,Isiah Kiner-Falefa,R,J.T. Realmuto,592663,2,0,6,False,2023-04-05,Stolen,2B,2023,2024, 85.1, 0.65
+543,2B,3B,Stolen Base 3B,650402,Gleyber Torres,622554,Seranthony Domínguez,643396,Isiah Kiner-Falefa,R,J.T. Realmuto,592663,4,2,8,False,2023-04-05,Stolen,3B,2023,2024, 85.1, 0.65
+544,1B,2B,Stolen Base 2B,650402,Gleyber Torres,592836,Taijuan Walker,543305,Aaron Hicks,R,J.T. Realmuto,592663,2,0,1,False,2023-04-03,Stolen,2B,2023,2024, 85.1, 0.65
+545,1B,,Caught Stealing 2B,543760,Marcus Semien,663559,Bailey Falter,608369,Corey Seager,L,J.T. Realmuto,592663,0,0,1,False,2023-04-02,Caught,2B,2023,2024, 85.1, 0.65
+546,2B,3B,Stolen Base 3B,571740,Billy Hamilton,622554,Seranthony Domínguez,605119,Brian Anderson,R,J.T. Realmuto,592663,1,2,9,False,2022-07-15,Stolen,3B,2022,2023, 86.6, 0.59
+547,1B,2B,Stolen Base 2B,541645,Avisaíl García,622554,Seranthony Domínguez,605119,Brian Anderson,R,J.T. Realmuto,592663,1,2,9,False,2022-07-15,Stolen,2B,2022,2023, 86.6, 0.59
+548,1B,2B,Stolen Base 2B,571448,Nolan Arenado,571479,Andrew Bellatti,572816,Corey Dickerson,R,J.T. Realmuto,592663,3,3,7,False,2022-07-10,Stolen,2B,2022,2023, 86.6, 0.59
+549,1B,,Caught Stealing 2B,671277,Luis García Jr.,605400,Aaron Nola,657041,Lane Thomas,R,J.T. Realmuto,592663,1,1,5,True,2022-07-06,Caught,2B,2022,2023, 86.6, 0.59
+550,1B,,Caught Stealing 2B,571448,Nolan Arenado,554430,Zack Wheeler,666185,Dylan Carlson,R,J.T. Realmuto,592663,0,0,4,True,2022-07-03,Caught,2B,2022,2023, 86.6, 0.59
+551,1B,,Caught Stealing 2B,594807,Adam Duvall,624133,Ranger Suárez,594838,Phil Gosselin,L,J.T. Realmuto,592663,1,2,4,True,2022-06-29,Caught,2B,2022,2023, 86.6, 0.59
+552,1B,2B,Stolen Base 2B,671739,Michael Harris II,621237,José Alvarado,621020,Dansby Swanson,L,J.T. Realmuto,592663,1,4,7,True,2022-06-29,Stolen,2B,2022,2023, 86.6, 0.59
+553,1B,,Caught Stealing 2B,640492,José Azocar,605400,Aaron Nola,595777,Jurickson Profar,R,J.T. Realmuto,592663,0,0,5,False,2022-06-24,Caught,2B,2022,2023, 86.6, 0.59
+554,1B,,Caught Stealing 2B,663993,Nathaniel Lowe,544727,Jeurys Familia,641680,Jonah Heim,R,J.T. Realmuto,592663,3,0,7,False,2022-06-21,Caught,2B,2022,2023, 86.6, 0.59
+555,1B,2B,Stolen Base 2B,514917,César Hernández,656793,Nick Nelson,665742,Juan Soto,R,J.T. Realmuto,592663,8,3,5,False,2022-06-19,Stolen,2B,2022,2023, 86.6, 0.59
+556,1B,,Caught Stealing 2B,665742,Juan Soto,605400,Aaron Nola,605137,Josh Bell,R,J.T. Realmuto,592663,0,0,1,False,2022-06-18,Caught,2B,2022,2023, 86.6, 0.59
+557,1B,2B,Stolen Base 2B,660821,Jesús Sánchez,621107,Zach Eflin,541645,Avisaíl García,R,J.T. Realmuto,592663,0,4,1,True,2022-06-14,Stolen,2B,2022,2023, 86.6, 0.59
+558,1B,2B,Stolen Base 2B,663897,Luke Williams,608349,Corey Knebel,607732,Jacob Stallings,R,J.T. Realmuto,592663,9,8,9,True,2022-06-14,Stolen,2B,2022,2023, 86.6, 0.59
+559,1B,2B,Stolen Base 2B,542932,Jon Berti,605400,Aaron Nola,500743,Miguel Rojas,R,J.T. Realmuto,592663,1,2,7,True,2022-06-13,Stolen,2B,2022,2023, 86.6, 0.59
+560,1B,2B,Stolen Base 2B,592885,Christian Yelich,605400,Aaron Nola,649966,Luis Urías,R,J.T. Realmuto,592663,0,5,6,False,2022-06-08,Stolen,2B,2022,2023, 86.6, 0.59
+561,1B,,Caught Stealing 2B,642180,Tyler Wade,502043,Kyle Gibson,623205,Andrew Velazquez,R,J.T. Realmuto,592663,0,0,3,True,2022-06-05,Caught,2B,2022,2023, 86.6, 0.59
+562,1B,2B,Stolen Base 2B,642180,Tyler Wade,608349,Corey Knebel,650859,Luis Rengifo,R,J.T. Realmuto,592663,6,6,9,True,2022-06-05,Stolen,2B,2022,2023, 86.6, 0.59
+563,1B,,Caught Stealing 2B,660271,Shohei Ohtani,554430,Zack Wheeler,665120,Jared Walsh,R,J.T. Realmuto,592663,0,0,1,True,2022-06-04,Caught,2B,2022,2023, 86.6, 0.59
+564,1B,,Caught Stealing 2B,645277,Ozzie Albies,502043,Kyle Gibson,663586,Austin Riley,R,J.T. Realmuto,592663,2,1,4,False,2022-05-24,Caught,2B,2022,2023, 86.6, 0.59
+565,1B,,Caught Stealing 2B,645277,Ozzie Albies,656793,Nick Nelson,663586,Austin Riley,R,J.T. Realmuto,592663,4,3,8,False,2022-05-24,Caught,2B,2022,2023, 86.6, 0.59
+566,1B,2B,Stolen Base 2B,607208,Trea Turner,656803,James Norwood,669257,Will Smith,R,J.T. Realmuto,592663,0,3,7,True,2022-05-20,Stolen,2B,2022,2023, 86.6, 0.59
+567,1B,2B,Stolen Base 2B,518692,Freddie Freeman,571479,Andrew Bellatti,607208,Trea Turner,R,J.T. Realmuto,592663,0,4,9,True,2022-05-20,Stolen,2B,2022,2023, 86.6, 0.59
+568,1B,,Caught Stealing 2B,543760,Marcus Semien,608349,Corey Knebel,594777,Kole Calhoun,R,J.T. Realmuto,592663,0,0,9,True,2022-05-04,Caught,2B,2022,2023, 86.6, 0.59
+569,1B,2B,Stolen Base 2B,642201,Eli White,543272,Brad Hand,543543,Brad Miller,L,J.T. Realmuto,592663,0,2,10,True,2022-05-04,Stolen,2B,2022,2023, 86.6, 0.59
+570,1B,2B,Stolen Base 2B,543543,Brad Miller,543272,Brad Hand,641680,Jonah Heim,L,J.T. Realmuto,592663,0,2,10,True,2022-05-04,Stolen,2B,2022,2023, 86.6, 0.59
+571,1B,,Caught Stealing 2B,516782,Starling Marte,605400,Aaron Nola,596019,Francisco Lindor,R,J.T. Realmuto,592663,2,0,6,False,2022-04-29,Caught,2B,2022,2023, 86.6, 0.59
+572,1B,2B,Stolen Base 2B,592885,Christian Yelich,554430,Zack Wheeler,457705,Andrew McCutchen,R,J.T. Realmuto,592663,3,4,5,True,2022-04-23,Stolen,2B,2022,2023, 86.6, 0.59
+573,3B,score,Stolen Base Home,642715,Willy Adames,554430,Zack Wheeler,457705,Andrew McCutchen,R,J.T. Realmuto,592663,3,4,5,True,2022-04-23,Stolen,Home,2022,2023, 86.6, 0.59
+574,1B,,Caught Stealing 2B,456715,Lorenzo Cain,650911,Cristopher Sánchez,607054,Jace Peterson,L,J.T. Realmuto,592663,3,5,6,True,2022-04-23,Caught,2B,2022,2023, 86.6, 0.59
+575,1B,2B,Stolen Base 2B,592885,Christian Yelich,622554,Seranthony Domínguez,592669,Hunter Renfroe,R,J.T. Realmuto,592663,1,1,5,True,2022-04-22,Stolen,2B,2022,2023, 86.6, 0.59
+576,1B,,Caught Stealing 2B,656541,Sam Hilliard,605400,Aaron Nola,578428,Jose Iglesias,R,J.T. Realmuto,592663,0,0,5,False,2022-04-18,Caught,2B,2022,2023, 86.6, 0.59
+577,1B,2B,Stolen Base 2B,516782,Starling Marte,641401,Connor Brogdon,596019,Francisco Lindor,R,J.T. Realmuto,592663,0,2,8,True,2022-04-12,Stolen,2B,2022,2023, 86.6, 0.59
+578,1B,,Caught Stealing 2B,596019,Francisco Lindor,641401,Connor Brogdon,500871,Eduardo Escobar,R,J.T. Realmuto,592663,0,2,8,True,2022-04-12,Caught,2B,2022,2023, 86.6, 0.59
+579,1B,2B,Stolen Base 2B,543510,James McCann,656793,Nick Nelson,516782,Starling Marte,R,J.T. Realmuto,592663,0,3,7,True,2022-04-11,Stolen,2B,2022,2023, 86.6, 0.59
+580,1B,2B,Stolen Base 2B,665489,Vladimir Guerrero Jr.,571479,Andrew Bellatti,666182,Bo Bichette,R,J.T. Realmuto,592663,1,2,1,False,2022-04-02,Stolen,2B,2022,2023, 86.6, 0.59
+581,1B,,Caught Stealing 2B,546318,Odúbel Herrera,573185,Dan Straily,467793,Carlos Santana,R,J.T. Realmuto,592663,1,2,3,True,2018-04-30,Caught,2B,2018,2019, 88.4, 0.68
+582,1B,2B,Stolen Base 2B,435622,Ian Desmond,612672,Wei-Yin Chen,571448,Nolan Arenado,L,J.T. Realmuto,592663,0,0,1,True,2018-04-28,Stolen,2B,2018,2019, 88.4, 0.68
+583,1B,,Caught Stealing 2B,621311,David Dahl,570632,José Ureña,596115,Trevor Story,R,J.T. Realmuto,592663,0,1,6,True,2018-04-27,Caught,2B,2018,2019, 88.4, 0.68
+584,1B,2B,Stolen Base 2B,456715,Lorenzo Cain,642571,Merandy Gonzalez,592885,Christian Yelich,R,J.T. Realmuto,592663,3,2,8,False,2018-04-22,Stolen,2B,2018,2019, 88.4, 0.68
+585,1B,2B,Stolen Base 2B,519346,Eric Thames,594027,Tayron Guerrero,542340,Jonathan Villar,R,J.T. Realmuto,592663,5,0,4,False,2018-04-20,Stolen,2B,2018,2019, 88.4, 0.68
+586,1B,2B,Stolen Base 2B,645277,Ozzie Albies,573185,Dan Straily,435559,Kurt Suzuki,R,J.T. Realmuto,592663,0,5,2,True,2017-09-29,Stolen,2B,2017,2018, 87.8, 0.69
+587,1B,2B,Stolen Base 2B,518614,Daniel Descalso,446899,Brad Ziegler,572041,AJ Pollock,R,J.T. Realmuto,592663,2,2,8,False,2017-09-24,Stolen,2B,2017,2018, 87.8, 0.69
+588,1B,2B,Stolen Base 2B,621433,Brett Phillips,570632,José Ureña,542340,Jonathan Villar,R,J.T. Realmuto,592663,2,2,4,True,2017-09-15,Stolen,2B,2017,2018, 87.8, 0.69
+589,2B,,Caught Stealing 3B,572191,Michael A. Taylor,596071,Dillon Peters,461829,Gio González,L,J.T. Realmuto,592663,0,2,2,True,2017-09-06,Caught,3B,2017,2018, 87.8, 0.69
+590,1B,2B,Caught Stealing 3B,446653,Jose Lobaton,596071,Dillon Peters,461829,Gio González,L,J.T. Realmuto,592663,0,2,2,True,2017-09-06,Caught,3B,2017,2018, 87.8, 0.69
+591,1B,,Caught Stealing 2B,514917,César Hernández,573185,Dan Straily,608384,Nick Williams,R,J.T. Realmuto,592663,0,0,1,True,2017-09-02,Caught,2B,2017,2018, 87.8, 0.69
+592,1B,2B,Stolen Base 2B,502517,Daniel Murphy,570632,José Ureña,475582,Ryan Zimmerman,R,J.T. Realmuto,592663,0,0,1,False,2017-08-28,Stolen,2B,2017,2018, 87.8, 0.69
+593,3B,score,Stolen Base Home,605486,Cory Spangenberg,628333,Odrisamer Despaigne,659275,Dinelson Lamet,R,J.T. Realmuto,592663,0,1,2,True,2017-08-26,Stolen,Home,2017,2018, 87.8, 0.69
+594,1B,2B,Stolen Base 2B,518466,Jabari Blash,628333,Odrisamer Despaigne,659275,Dinelson Lamet,R,J.T. Realmuto,592663,0,1,2,True,2017-08-26,Stolen,2B,2017,2018, 87.8, 0.69
+595,1B,2B,Stolen Base 2B,571976,Wil Myers,606424,Jarlín García,516949,Héctor Sánchez,L,J.T. Realmuto,592663,1,1,9,True,2017-08-26,Stolen,2B,2017,2018, 87.8, 0.69
+596,1B,2B,Stolen Base 2B,642708,Amed Rosario,430661,Dustin McGowan,608703,Matt Reynolds,R,J.T. Realmuto,592663,1,3,6,False,2017-08-18,Stolen,2B,2017,2018, 87.8, 0.69
+597,1B,2B,Stolen Base 2B,453568,Charlie Blackmon,592593,Justin Nicolino,518934,DJ LeMahieu,L,J.T. Realmuto,592663,0,0,1,True,2017-08-12,Stolen,2B,2017,2018, 87.8, 0.69
+598,1B,2B,Stolen Base 2B,453568,Charlie Blackmon,592593,Justin Nicolino,518934,DJ LeMahieu,L,J.T. Realmuto,592663,4,2,5,True,2017-08-12,Stolen,2B,2017,2018, 87.8, 0.69
+599,1B,,Caught Stealing 2B,453568,Charlie Blackmon,608716,Drew Steckenrider,518934,DJ LeMahieu,R,J.T. Realmuto,592663,4,2,7,True,2017-08-12,Caught,2B,2017,2018, 87.8, 0.69
+600,1B,,Caught Stealing 2B,571448,Nolan Arenado,606424,Jarlín García,467827,Gerardo Parra,L,J.T. Realmuto,592663,3,3,7,True,2017-08-11,Caught,2B,2017,2018, 87.8, 0.69
+601,2B,,Caught Stealing 3B,506703,Adrián Sanchez,474699,Vance Worley,475582,Ryan Zimmerman,R,J.T. Realmuto,592663,0,0,1,False,2017-08-08,Caught,3B,2017,2018, 87.8, 0.69
+602,1B,2B,Stolen Base 2B,594694,Wilmer Difo,474699,Vance Worley,446653,Jose Lobaton,R,J.T. Realmuto,592663,0,0,2,False,2017-08-08,Stolen,2B,2017,2018, 87.8, 0.69
+603,1B,2B,Stolen Base 2B,542255,Ender Inciarte,573185,Dan Straily,408252,Brandon Phillips,R,J.T. Realmuto,592663,0,1,6,False,2017-08-05,Stolen,2B,2017,2018, 87.8, 0.69
+604,1B,,Caught Stealing 2B,435062,Howie Kendrick,623395,Brian Ellington,475582,Ryan Zimmerman,R,J.T. Realmuto,592663,1,6,4,True,2017-08-01,Caught,2B,2017,2018, 87.8, 0.69
+605,1B,2B,Stolen Base 2B,571740,Billy Hamilton,474699,Vance Worley,571697,Scooter Gennett,R,J.T. Realmuto,592663,0,0,1,True,2017-07-28,Stolen,2B,2017,2018, 87.8, 0.69
+606,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,573109,AJ Ramos,608577,Nomar Mazara,R,J.T. Realmuto,592663,0,4,9,False,2017-07-24,Stolen,2B,2017,2018, 87.8, 0.69
+607,2B,3B,Stolen Base 3B,571740,Billy Hamilton,622217,Chris O'Grady,458015,Joey Votto,L,J.T. Realmuto,592663,0,1,1,False,2017-07-22,Stolen,3B,2017,2018, 87.8, 0.69
+608,1B,2B,Caught Stealing 2B,518735,Yasmani Grandal,573185,Dan Straily,621035,Chris Taylor,R,J.T. Realmuto,592663,0,1,2,True,2017-07-14,Caught,2B,2017,2018, 87.8, 0.69
+609,3B,score,Caught Stealing 2B,592626,Joc Pederson,573185,Dan Straily,621035,Chris Taylor,R,J.T. Realmuto,592663,0,1,2,True,2017-07-14,Caught,2B,2017,2018, 87.8, 0.69
+610,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,502046,Jeff Locke,545341,Randal Grichuk,L,J.T. Realmuto,592663,3,0,1,False,2017-07-03,Stolen,2B,2017,2018, 87.8, 0.69
+611,1B,,Caught Stealing 2B,502054,Tommy Pham,430661,Dustin McGowan,622270,Alex D. Mejia,R,J.T. Realmuto,592663,11,6,5,False,2017-07-03,Caught,2B,2017,2018, 87.8, 0.69
+612,1B,2B,Stolen Base 2B,570267,Domingo Santana,573185,Dan Straily,542979,Keon Broxton,R,J.T. Realmuto,592663,2,3,4,False,2017-07-02,Stolen,2B,2017,2018, 87.8, 0.69
+613,1B,2B,Stolen Base 2B,542340,Jonathan Villar,450172,Edinson Volquez,543768,Travis Shaw,R,J.T. Realmuto,592663,1,2,6,False,2017-06-30,Stolen,2B,2017,2018, 87.8, 0.69
+614,1B,2B,Stolen Base 2B,575929,Willson Contreras,450172,Edinson Volquez,471083,Miguel Montero,R,J.T. Realmuto,592663,3,1,5,True,2017-06-25,Stolen,2B,2017,2018, 87.8, 0.69
+615,1B,,Caught Stealing 2B,664023,Ian Happ,475479,David Phelps,575929,Willson Contreras,R,J.T. Realmuto,592663,3,2,7,True,2017-06-25,Caught,2B,2017,2018, 87.8, 0.69
+616,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,450172,Edinson Volquez,607208,Trea Turner,R,J.T. Realmuto,592663,0,0,3,True,2017-06-20,Stolen,2B,2017,2018, 87.8, 0.69
+617,2B,3B,Stolen Base 3B,572191,Michael A. Taylor,450172,Edinson Volquez,571718,Brian Goodwin,R,J.T. Realmuto,592663,0,0,3,True,2017-06-20,Stolen,3B,2017,2018, 87.8, 0.69
+618,1B,2B,Stolen Base 2B,607208,Trea Turner,450172,Edinson Volquez,571718,Brian Goodwin,R,J.T. Realmuto,592663,0,0,3,True,2017-06-20,Stolen,2B,2017,2018, 87.8, 0.69
+619,1B,2B,Stolen Base 2B,624428,Adam Frazier,502046,Jeff Locke,543281,Josh Harrison,L,J.T. Realmuto,592663,2,0,5,False,2017-06-11,Stolen,2B,2017,2018, 87.8, 0.69
+620,2B,3B,Stolen Base 3B,624428,Adam Frazier,502046,Jeff Locke,591741,José Osuna,L,J.T. Realmuto,592663,2,0,5,False,2017-06-11,Stolen,3B,2017,2018, 87.8, 0.69
+621,1B,2B,Stolen Base 2B,543281,Josh Harrison,502046,Jeff Locke,591741,José Osuna,L,J.T. Realmuto,592663,2,0,5,False,2017-06-11,Stolen,2B,2017,2018, 87.8, 0.69
+622,1B,2B,Stolen Base 2B,543302,Chris Herrmann,607457,Kyle Barraclough,518614,Daniel Descalso,R,J.T. Realmuto,592663,2,1,8,True,2017-06-01,Stolen,2B,2017,2018, 87.8, 0.69
+623,1B,2B,Stolen Base 2B,435062,Howie Kendrick,450172,Edinson Volquez,571830,Tommy Joseph,R,J.T. Realmuto,592663,0,0,1,True,2017-05-29,Stolen,2B,2017,2018, 87.8, 0.69
+624,1B,,Caught Stealing 2B,571437,Aaron Altherr,450172,Edinson Volquez,571830,Tommy Joseph,R,J.T. Realmuto,592663,2,1,6,True,2017-05-29,Caught,2B,2017,2018, 87.8, 0.69
+625,2B,3B,Stolen Base 3B,527043,Jefry Marte,570632,José Ureña,533167,Matt Shoemaker,R,J.T. Realmuto,592663,1,2,4,True,2017-05-28,Stolen,3B,2017,2018, 87.8, 0.69
+626,1B,2B,Stolen Base 2B,545337,Nolan Fontana,570632,José Ureña,533167,Matt Shoemaker,R,J.T. Realmuto,592663,1,2,4,True,2017-05-28,Stolen,2B,2017,2018, 87.8, 0.69
+627,1B,2B,Stolen Base 2B,545361,Mike Trout,570632,José Ureña,594777,Kole Calhoun,R,J.T. Realmuto,592663,1,2,5,True,2017-05-28,Stolen,2B,2017,2018, 87.8, 0.69
+628,1B,2B,Stolen Base 2B,457727,Cameron Maybin,607457,Kyle Barraclough,592743,Andrelton Simmons,R,J.T. Realmuto,592663,1,2,8,True,2017-05-27,Stolen,2B,2017,2018, 87.8, 0.69
+629,1B,2B,Stolen Base 2B,457727,Cameron Maybin,446899,Brad Ziegler,592743,Andrelton Simmons,R,J.T. Realmuto,592663,1,5,9,True,2017-05-27,Stolen,2B,2017,2018, 87.8, 0.69
+630,1B,,Caught Stealing 2B,572033,Josh Phegley,450172,Edinson Volquez,489267,Adam Rosales,R,J.T. Realmuto,592663,2,0,2,False,2017-05-24,Caught,2B,2017,2018, 87.8, 0.69
+631,1B,2B,Stolen Base 2B,400284,Chase Utley,450172,Edinson Volquez,608369,Corey Seager,R,J.T. Realmuto,592663,4,1,2,False,2017-05-18,Stolen,2B,2017,2018, 87.8, 0.69
+632,1B,2B,Stolen Base 2B,457759,Justin Turner,450172,Edinson Volquez,641355,Cody Bellinger,R,J.T. Realmuto,592663,4,2,3,False,2017-05-18,Stolen,2B,2017,2018, 87.8, 0.69
+633,1B,,Caught Stealing 2B,400284,Chase Utley,623395,Brian Ellington,608369,Corey Seager,R,J.T. Realmuto,592663,5,2,7,False,2017-05-18,Caught,2B,2017,2018, 87.8, 0.69
+634,1B,2B,Stolen Base 2B,607054,Jace Peterson,475479,David Phelps,621020,Dansby Swanson,R,J.T. Realmuto,592663,1,3,9,True,2017-05-13,Stolen,2B,2017,2018, 87.8, 0.69
+635,1B,,Caught Stealing 2B,461314,Matt Kemp,570632,José Ureña,455976,Nick Markakis,R,J.T. Realmuto,592663,1,2,6,True,2017-05-12,Caught,2B,2017,2018, 87.8, 0.69
+636,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,543408,Tom Koehler,425877,Yadier Molina,R,J.T. Realmuto,592663,4,3,5,True,2017-05-10,Stolen,2B,2017,2018, 87.8, 0.69
+637,2B,3B,Stolen Base 3B,425877,Yadier Molina,547749,Junichi Tazawa,642423,Magneuris Sierra,R,J.T. Realmuto,592663,5,7,7,True,2017-05-10,Stolen,3B,2017,2018, 87.8, 0.69
+638,1B,2B,Stolen Base 2B,649557,Aledmys Díaz,547749,Junichi Tazawa,642423,Magneuris Sierra,R,J.T. Realmuto,592663,5,7,7,True,2017-05-10,Stolen,2B,2017,2018, 87.8, 0.69
+639,1B,,Caught Stealing 2B,642423,Magneuris Sierra,573185,Dan Straily,543939,Kolten Wong,R,J.T. Realmuto,592663,0,0,3,True,2017-05-09,Caught,2B,2017,2018, 87.8, 0.69
+640,1B,,Caught Stealing 2B,457803,Jay Bruce,543408,Tom Koehler,435522,Neil Walker,R,J.T. Realmuto,592663,1,0,1,False,2017-05-05,Caught,2B,2017,2018, 87.8, 0.69
+641,1B,,Caught Stealing 2B,572816,Corey Dickerson,450172,Edinson Volquez,595281,Kevin Kiermaier,R,J.T. Realmuto,592663,0,0,1,True,2017-05-02,Caught,2B,2017,2018, 87.8, 0.69
+642,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,450172,Edinson Volquez,543543,Brad Miller,R,J.T. Realmuto,592663,0,1,5,True,2017-05-02,Stolen,2B,2017,2018, 87.8, 0.69
+643,1B,2B,Stolen Base 2B,543543,Brad Miller,547749,Junichi Tazawa,519083,Derek Norris,R,J.T. Realmuto,592663,2,3,8,True,2017-05-01,Stolen,2B,2017,2018, 87.8, 0.69
+644,2B,3B,Stolen Base 3B,543543,Brad Miller,547749,Junichi Tazawa,621002,Daniel Robertson,R,J.T. Realmuto,592663,2,4,8,True,2017-05-01,Stolen,3B,2017,2018, 87.8, 0.69
+645,1B,2B,Stolen Base 2B,546318,Odúbel Herrera,450172,Edinson Volquez,596748,Maikel Franco,R,J.T. Realmuto,592663,1,0,1,False,2017-04-27,Stolen,2B,2017,2018, 87.8, 0.69
+646,2B,,Caught Stealing 3B,546318,Odúbel Herrera,450172,Edinson Volquez,596748,Maikel Franco,R,J.T. Realmuto,592663,1,0,1,False,2017-04-27,Caught,3B,2017,2018, 87.8, 0.69
+647,1B,,Caught Stealing 2B,622534,Manuel Margot,543408,Tom Koehler,430947,Erick Aybar,R,J.T. Realmuto,592663,1,0,3,False,2017-04-23,Caught,2B,2017,2018, 87.8, 0.69
+648,1B,2B,Stolen Base 2B,571976,Wil Myers,607457,Kyle Barraclough,500208,Yangervis Solarte,R,J.T. Realmuto,592663,2,2,9,False,2017-04-22,Stolen,2B,2017,2018, 87.8, 0.69
+649,1B,2B,Stolen Base 2B,500208,Yangervis Solarte,475479,David Phelps,595978,Austin Hedges,R,J.T. Realmuto,592663,5,1,7,False,2017-04-21,Stolen,2B,2017,2018, 87.8, 0.69
+650,1B,,Caught Stealing 2B,571745,Mitch Haniger,450172,Edinson Volquez,429664,Robinson Canó,R,J.T. Realmuto,592663,3,2,2,False,2017-04-19,Caught,2B,2017,2018, 87.8, 0.69
+651,1B,2B,Stolen Base 2B,547982,Leonys Martin,543408,Tom Koehler,572287,Mike Zunino,R,J.T. Realmuto,592663,3,0,4,False,2017-04-17,Stolen,2B,2017,2018, 87.8, 0.69
+652,1B,,Caught Stealing 2B,455976,Nick Markakis,543408,Tom Koehler,408252,Brandon Phillips,R,J.T. Realmuto,592663,2,3,4,True,2017-04-12,Caught,2B,2017,2018, 87.8, 0.69
+653,2B,3B,Stolen Base 3B,408252,Brandon Phillips,573185,Dan Straily,452095,Tyler Flowers,R,J.T. Realmuto,592663,3,0,2,True,2017-04-11,Stolen,3B,2017,2018, 87.8, 0.69
+654,1B,2B,Stolen Base 2B,408252,Brandon Phillips,573185,Dan Straily,452095,Tyler Flowers,R,J.T. Realmuto,592663,6,1,5,True,2017-04-11,Stolen,2B,2017,2018, 87.8, 0.69
+655,1B,2B,Stolen Base 2B,542255,Ender Inciarte,607457,Kyle Barraclough,621020,Dansby Swanson,R,J.T. Realmuto,592663,8,4,7,True,2017-04-11,Stolen,2B,2017,2018, 87.8, 0.69
+656,1B,2B,Stolen Base 2B,607208,Trea Turner,543408,Tom Koehler,594809,Adam Eaton,R,J.T. Realmuto,592663,1,0,3,False,2017-04-06,Stolen,2B,2017,2018, 87.8, 0.69
+657,1B,,Caught Stealing 2B,547180,Bryce Harper,621295,Nick Wittgren,475582,Ryan Zimmerman,R,J.T. Realmuto,592663,6,2,5,False,2017-04-05,Caught,2B,2017,2018, 87.8, 0.69
+658,2B,3B,Stolen Base 3B,607208,Trea Turner,450172,Edinson Volquez,502517,Daniel Murphy,R,J.T. Realmuto,592663,0,0,1,False,2017-04-03,Stolen,3B,2017,2018, 87.8, 0.69
+659,1B,2B,Stolen Base 2B,594809,Adam Eaton,450172,Edinson Volquez,502517,Daniel Murphy,R,J.T. Realmuto,592663,0,0,1,False,2017-04-03,Stolen,2B,2017,2018, 87.8, 0.69
+660,1B,2B,Stolen Base 2B,645277,Ozzie Albies,573185,Dan Straily,435559,Kurt Suzuki,R,J.T. Realmuto,592663,0,5,2,True,2017-09-29,Stolen,2B,2017,2018, 87.8, 0.69
+661,1B,2B,Stolen Base 2B,518614,Daniel Descalso,446899,Brad Ziegler,572041,AJ Pollock,R,J.T. Realmuto,592663,2,2,8,False,2017-09-24,Stolen,2B,2017,2018, 87.8, 0.69
+662,1B,2B,Stolen Base 2B,621433,Brett Phillips,570632,José Ureña,542340,Jonathan Villar,R,J.T. Realmuto,592663,2,2,4,True,2017-09-15,Stolen,2B,2017,2018, 87.8, 0.69
+663,2B,,Caught Stealing 3B,572191,Michael A. Taylor,596071,Dillon Peters,461829,Gio González,L,J.T. Realmuto,592663,0,2,2,True,2017-09-06,Caught,3B,2017,2018, 87.8, 0.69
+664,1B,2B,Caught Stealing 3B,446653,Jose Lobaton,596071,Dillon Peters,461829,Gio González,L,J.T. Realmuto,592663,0,2,2,True,2017-09-06,Caught,3B,2017,2018, 87.8, 0.69
+665,1B,,Caught Stealing 2B,514917,César Hernández,573185,Dan Straily,608384,Nick Williams,R,J.T. Realmuto,592663,0,0,1,True,2017-09-02,Caught,2B,2017,2018, 87.8, 0.69
+666,1B,2B,Stolen Base 2B,502517,Daniel Murphy,570632,José Ureña,475582,Ryan Zimmerman,R,J.T. Realmuto,592663,0,0,1,False,2017-08-28,Stolen,2B,2017,2018, 87.8, 0.69
+667,3B,score,Stolen Base Home,605486,Cory Spangenberg,628333,Odrisamer Despaigne,659275,Dinelson Lamet,R,J.T. Realmuto,592663,0,1,2,True,2017-08-26,Stolen,Home,2017,2018, 87.8, 0.69
+668,1B,2B,Stolen Base 2B,518466,Jabari Blash,628333,Odrisamer Despaigne,659275,Dinelson Lamet,R,J.T. Realmuto,592663,0,1,2,True,2017-08-26,Stolen,2B,2017,2018, 87.8, 0.69
+669,1B,2B,Stolen Base 2B,571976,Wil Myers,606424,Jarlín García,516949,Héctor Sánchez,L,J.T. Realmuto,592663,1,1,9,True,2017-08-26,Stolen,2B,2017,2018, 87.8, 0.69
+670,1B,2B,Stolen Base 2B,642708,Amed Rosario,430661,Dustin McGowan,608703,Matt Reynolds,R,J.T. Realmuto,592663,1,3,6,False,2017-08-18,Stolen,2B,2017,2018, 87.8, 0.69
+671,1B,2B,Stolen Base 2B,453568,Charlie Blackmon,592593,Justin Nicolino,518934,DJ LeMahieu,L,J.T. Realmuto,592663,0,0,1,True,2017-08-12,Stolen,2B,2017,2018, 87.8, 0.69
+672,1B,2B,Stolen Base 2B,453568,Charlie Blackmon,592593,Justin Nicolino,518934,DJ LeMahieu,L,J.T. Realmuto,592663,4,2,5,True,2017-08-12,Stolen,2B,2017,2018, 87.8, 0.69
+673,1B,,Caught Stealing 2B,453568,Charlie Blackmon,608716,Drew Steckenrider,518934,DJ LeMahieu,R,J.T. Realmuto,592663,4,2,7,True,2017-08-12,Caught,2B,2017,2018, 87.8, 0.69
+674,1B,,Caught Stealing 2B,571448,Nolan Arenado,606424,Jarlín García,467827,Gerardo Parra,L,J.T. Realmuto,592663,3,3,7,True,2017-08-11,Caught,2B,2017,2018, 87.8, 0.69
+675,2B,,Caught Stealing 3B,506703,Adrián Sanchez,474699,Vance Worley,475582,Ryan Zimmerman,R,J.T. Realmuto,592663,0,0,1,False,2017-08-08,Caught,3B,2017,2018, 87.8, 0.69
+676,1B,2B,Stolen Base 2B,594694,Wilmer Difo,474699,Vance Worley,446653,Jose Lobaton,R,J.T. Realmuto,592663,0,0,2,False,2017-08-08,Stolen,2B,2017,2018, 87.8, 0.69
+677,1B,2B,Stolen Base 2B,542255,Ender Inciarte,573185,Dan Straily,408252,Brandon Phillips,R,J.T. Realmuto,592663,0,1,6,False,2017-08-05,Stolen,2B,2017,2018, 87.8, 0.69
+678,1B,,Caught Stealing 2B,435062,Howie Kendrick,623395,Brian Ellington,475582,Ryan Zimmerman,R,J.T. Realmuto,592663,1,6,4,True,2017-08-01,Caught,2B,2017,2018, 87.8, 0.69
+679,1B,2B,Stolen Base 2B,571740,Billy Hamilton,474699,Vance Worley,571697,Scooter Gennett,R,J.T. Realmuto,592663,0,0,1,True,2017-07-28,Stolen,2B,2017,2018, 87.8, 0.69
+680,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,573109,AJ Ramos,608577,Nomar Mazara,R,J.T. Realmuto,592663,0,4,9,False,2017-07-24,Stolen,2B,2017,2018, 87.8, 0.69
+681,2B,3B,Stolen Base 3B,571740,Billy Hamilton,622217,Chris O'Grady,458015,Joey Votto,L,J.T. Realmuto,592663,0,1,1,False,2017-07-22,Stolen,3B,2017,2018, 87.8, 0.69
+682,1B,2B,Caught Stealing 2B,518735,Yasmani Grandal,573185,Dan Straily,621035,Chris Taylor,R,J.T. Realmuto,592663,0,1,2,True,2017-07-14,Caught,2B,2017,2018, 87.8, 0.69
+683,3B,score,Caught Stealing 2B,592626,Joc Pederson,573185,Dan Straily,621035,Chris Taylor,R,J.T. Realmuto,592663,0,1,2,True,2017-07-14,Caught,2B,2017,2018, 87.8, 0.69
+684,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,502046,Jeff Locke,545341,Randal Grichuk,L,J.T. Realmuto,592663,3,0,1,False,2017-07-03,Stolen,2B,2017,2018, 87.8, 0.69
+685,1B,,Caught Stealing 2B,502054,Tommy Pham,430661,Dustin McGowan,622270,Alex D. Mejia,R,J.T. Realmuto,592663,11,6,5,False,2017-07-03,Caught,2B,2017,2018, 87.8, 0.69
+686,1B,2B,Stolen Base 2B,570267,Domingo Santana,573185,Dan Straily,542979,Keon Broxton,R,J.T. Realmuto,592663,2,3,4,False,2017-07-02,Stolen,2B,2017,2018, 87.8, 0.69
+687,1B,2B,Stolen Base 2B,542340,Jonathan Villar,450172,Edinson Volquez,543768,Travis Shaw,R,J.T. Realmuto,592663,1,2,6,False,2017-06-30,Stolen,2B,2017,2018, 87.8, 0.69
+688,1B,2B,Stolen Base 2B,575929,Willson Contreras,450172,Edinson Volquez,471083,Miguel Montero,R,J.T. Realmuto,592663,3,1,5,True,2017-06-25,Stolen,2B,2017,2018, 87.8, 0.69
+689,1B,,Caught Stealing 2B,664023,Ian Happ,475479,David Phelps,575929,Willson Contreras,R,J.T. Realmuto,592663,3,2,7,True,2017-06-25,Caught,2B,2017,2018, 87.8, 0.69
+690,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,450172,Edinson Volquez,607208,Trea Turner,R,J.T. Realmuto,592663,0,0,3,True,2017-06-20,Stolen,2B,2017,2018, 87.8, 0.69
+691,2B,3B,Stolen Base 3B,572191,Michael A. Taylor,450172,Edinson Volquez,571718,Brian Goodwin,R,J.T. Realmuto,592663,0,0,3,True,2017-06-20,Stolen,3B,2017,2018, 87.8, 0.69
+692,1B,2B,Stolen Base 2B,607208,Trea Turner,450172,Edinson Volquez,571718,Brian Goodwin,R,J.T. Realmuto,592663,0,0,3,True,2017-06-20,Stolen,2B,2017,2018, 87.8, 0.69
+693,1B,2B,Stolen Base 2B,624428,Adam Frazier,502046,Jeff Locke,543281,Josh Harrison,L,J.T. Realmuto,592663,2,0,5,False,2017-06-11,Stolen,2B,2017,2018, 87.8, 0.69
+694,2B,3B,Stolen Base 3B,624428,Adam Frazier,502046,Jeff Locke,591741,José Osuna,L,J.T. Realmuto,592663,2,0,5,False,2017-06-11,Stolen,3B,2017,2018, 87.8, 0.69
+695,1B,2B,Stolen Base 2B,543281,Josh Harrison,502046,Jeff Locke,591741,José Osuna,L,J.T. Realmuto,592663,2,0,5,False,2017-06-11,Stolen,2B,2017,2018, 87.8, 0.69
+696,1B,2B,Stolen Base 2B,543302,Chris Herrmann,607457,Kyle Barraclough,518614,Daniel Descalso,R,J.T. Realmuto,592663,2,1,8,True,2017-06-01,Stolen,2B,2017,2018, 87.8, 0.69
+697,1B,2B,Stolen Base 2B,435062,Howie Kendrick,450172,Edinson Volquez,571830,Tommy Joseph,R,J.T. Realmuto,592663,0,0,1,True,2017-05-29,Stolen,2B,2017,2018, 87.8, 0.69
+698,1B,,Caught Stealing 2B,571437,Aaron Altherr,450172,Edinson Volquez,571830,Tommy Joseph,R,J.T. Realmuto,592663,2,1,6,True,2017-05-29,Caught,2B,2017,2018, 87.8, 0.69
+699,2B,3B,Stolen Base 3B,527043,Jefry Marte,570632,José Ureña,533167,Matt Shoemaker,R,J.T. Realmuto,592663,1,2,4,True,2017-05-28,Stolen,3B,2017,2018, 87.8, 0.69
+700,1B,2B,Stolen Base 2B,545337,Nolan Fontana,570632,José Ureña,533167,Matt Shoemaker,R,J.T. Realmuto,592663,1,2,4,True,2017-05-28,Stolen,2B,2017,2018, 87.8, 0.69
+701,1B,2B,Stolen Base 2B,545361,Mike Trout,570632,José Ureña,594777,Kole Calhoun,R,J.T. Realmuto,592663,1,2,5,True,2017-05-28,Stolen,2B,2017,2018, 87.8, 0.69
+702,1B,2B,Stolen Base 2B,457727,Cameron Maybin,607457,Kyle Barraclough,592743,Andrelton Simmons,R,J.T. Realmuto,592663,1,2,8,True,2017-05-27,Stolen,2B,2017,2018, 87.8, 0.69
+703,1B,2B,Stolen Base 2B,457727,Cameron Maybin,446899,Brad Ziegler,592743,Andrelton Simmons,R,J.T. Realmuto,592663,1,5,9,True,2017-05-27,Stolen,2B,2017,2018, 87.8, 0.69
+704,1B,,Caught Stealing 2B,572033,Josh Phegley,450172,Edinson Volquez,489267,Adam Rosales,R,J.T. Realmuto,592663,2,0,2,False,2017-05-24,Caught,2B,2017,2018, 87.8, 0.69
+705,1B,2B,Stolen Base 2B,400284,Chase Utley,450172,Edinson Volquez,608369,Corey Seager,R,J.T. Realmuto,592663,4,1,2,False,2017-05-18,Stolen,2B,2017,2018, 87.8, 0.69
+706,1B,2B,Stolen Base 2B,457759,Justin Turner,450172,Edinson Volquez,641355,Cody Bellinger,R,J.T. Realmuto,592663,4,2,3,False,2017-05-18,Stolen,2B,2017,2018, 87.8, 0.69
+707,1B,,Caught Stealing 2B,400284,Chase Utley,623395,Brian Ellington,608369,Corey Seager,R,J.T. Realmuto,592663,5,2,7,False,2017-05-18,Caught,2B,2017,2018, 87.8, 0.69
+708,1B,2B,Stolen Base 2B,607054,Jace Peterson,475479,David Phelps,621020,Dansby Swanson,R,J.T. Realmuto,592663,1,3,9,True,2017-05-13,Stolen,2B,2017,2018, 87.8, 0.69
+709,1B,,Caught Stealing 2B,461314,Matt Kemp,570632,José Ureña,455976,Nick Markakis,R,J.T. Realmuto,592663,1,2,6,True,2017-05-12,Caught,2B,2017,2018, 87.8, 0.69
+710,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,543408,Tom Koehler,425877,Yadier Molina,R,J.T. Realmuto,592663,4,3,5,True,2017-05-10,Stolen,2B,2017,2018, 87.8, 0.69
+711,2B,3B,Stolen Base 3B,425877,Yadier Molina,547749,Junichi Tazawa,642423,Magneuris Sierra,R,J.T. Realmuto,592663,5,7,7,True,2017-05-10,Stolen,3B,2017,2018, 87.8, 0.69
+712,1B,2B,Stolen Base 2B,649557,Aledmys Díaz,547749,Junichi Tazawa,642423,Magneuris Sierra,R,J.T. Realmuto,592663,5,7,7,True,2017-05-10,Stolen,2B,2017,2018, 87.8, 0.69
+713,1B,,Caught Stealing 2B,642423,Magneuris Sierra,573185,Dan Straily,543939,Kolten Wong,R,J.T. Realmuto,592663,0,0,3,True,2017-05-09,Caught,2B,2017,2018, 87.8, 0.69
+714,1B,,Caught Stealing 2B,457803,Jay Bruce,543408,Tom Koehler,435522,Neil Walker,R,J.T. Realmuto,592663,1,0,1,False,2017-05-05,Caught,2B,2017,2018, 87.8, 0.69
+715,1B,,Caught Stealing 2B,572816,Corey Dickerson,450172,Edinson Volquez,595281,Kevin Kiermaier,R,J.T. Realmuto,592663,0,0,1,True,2017-05-02,Caught,2B,2017,2018, 87.8, 0.69
+716,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,450172,Edinson Volquez,543543,Brad Miller,R,J.T. Realmuto,592663,0,1,5,True,2017-05-02,Stolen,2B,2017,2018, 87.8, 0.69
+717,1B,2B,Stolen Base 2B,543543,Brad Miller,547749,Junichi Tazawa,519083,Derek Norris,R,J.T. Realmuto,592663,2,3,8,True,2017-05-01,Stolen,2B,2017,2018, 87.8, 0.69
+718,2B,3B,Stolen Base 3B,543543,Brad Miller,547749,Junichi Tazawa,621002,Daniel Robertson,R,J.T. Realmuto,592663,2,4,8,True,2017-05-01,Stolen,3B,2017,2018, 87.8, 0.69
+719,1B,2B,Stolen Base 2B,546318,Odúbel Herrera,450172,Edinson Volquez,596748,Maikel Franco,R,J.T. Realmuto,592663,1,0,1,False,2017-04-27,Stolen,2B,2017,2018, 87.8, 0.69
+720,2B,,Caught Stealing 3B,546318,Odúbel Herrera,450172,Edinson Volquez,596748,Maikel Franco,R,J.T. Realmuto,592663,1,0,1,False,2017-04-27,Caught,3B,2017,2018, 87.8, 0.69
+721,1B,,Caught Stealing 2B,622534,Manuel Margot,543408,Tom Koehler,430947,Erick Aybar,R,J.T. Realmuto,592663,1,0,3,False,2017-04-23,Caught,2B,2017,2018, 87.8, 0.69
+722,1B,2B,Stolen Base 2B,571976,Wil Myers,607457,Kyle Barraclough,500208,Yangervis Solarte,R,J.T. Realmuto,592663,2,2,9,False,2017-04-22,Stolen,2B,2017,2018, 87.8, 0.69
+723,1B,2B,Stolen Base 2B,500208,Yangervis Solarte,475479,David Phelps,595978,Austin Hedges,R,J.T. Realmuto,592663,5,1,7,False,2017-04-21,Stolen,2B,2017,2018, 87.8, 0.69
+724,1B,,Caught Stealing 2B,571745,Mitch Haniger,450172,Edinson Volquez,429664,Robinson Canó,R,J.T. Realmuto,592663,3,2,2,False,2017-04-19,Caught,2B,2017,2018, 87.8, 0.69
+725,1B,2B,Stolen Base 2B,547982,Leonys Martin,543408,Tom Koehler,572287,Mike Zunino,R,J.T. Realmuto,592663,3,0,4,False,2017-04-17,Stolen,2B,2017,2018, 87.8, 0.69
+726,1B,,Caught Stealing 2B,455976,Nick Markakis,543408,Tom Koehler,408252,Brandon Phillips,R,J.T. Realmuto,592663,2,3,4,True,2017-04-12,Caught,2B,2017,2018, 87.8, 0.69
+727,2B,3B,Stolen Base 3B,408252,Brandon Phillips,573185,Dan Straily,452095,Tyler Flowers,R,J.T. Realmuto,592663,3,0,2,True,2017-04-11,Stolen,3B,2017,2018, 87.8, 0.69
+728,1B,2B,Stolen Base 2B,408252,Brandon Phillips,573185,Dan Straily,452095,Tyler Flowers,R,J.T. Realmuto,592663,6,1,5,True,2017-04-11,Stolen,2B,2017,2018, 87.8, 0.69
+729,1B,2B,Stolen Base 2B,542255,Ender Inciarte,607457,Kyle Barraclough,621020,Dansby Swanson,R,J.T. Realmuto,592663,8,4,7,True,2017-04-11,Stolen,2B,2017,2018, 87.8, 0.69
+730,1B,2B,Stolen Base 2B,607208,Trea Turner,543408,Tom Koehler,594809,Adam Eaton,R,J.T. Realmuto,592663,1,0,3,False,2017-04-06,Stolen,2B,2017,2018, 87.8, 0.69
+731,1B,,Caught Stealing 2B,547180,Bryce Harper,621295,Nick Wittgren,475582,Ryan Zimmerman,R,J.T. Realmuto,592663,6,2,5,False,2017-04-05,Caught,2B,2017,2018, 87.8, 0.69
+732,2B,3B,Stolen Base 3B,607208,Trea Turner,450172,Edinson Volquez,502517,Daniel Murphy,R,J.T. Realmuto,592663,0,0,1,False,2017-04-03,Stolen,3B,2017,2018, 87.8, 0.69
+733,1B,2B,Stolen Base 2B,594809,Adam Eaton,450172,Edinson Volquez,502517,Daniel Murphy,R,J.T. Realmuto,592663,0,0,1,False,2017-04-03,Stolen,2B,2017,2018, 87.8, 0.69
+734,1B,2B,Stolen Base 2B,607208,Trea Turner,488768,Andrew Cashner,547180,Bryce Harper,R,J.T. Realmuto,592663,0,0,1,False,2016-09-30,Stolen,2B,2016,2017, 87.0, 0.68
+735,1B,2B,Stolen Base 2B,607208,Trea Turner,488768,Andrew Cashner,150029,Jayson Werth,R,J.T. Realmuto,592663,4,4,4,False,2016-09-30,Stolen,2B,2016,2017, 87.0, 0.68
+736,1B,2B,Stolen Base 2B,605480,Mallex Smith,407845,Fernando Rodney,542255,Ender Inciarte,R,J.T. Realmuto,592663,5,3,7,True,2016-09-24,Stolen,2B,2016,2017, 87.0, 0.68
+737,1B,2B,Stolen Base 2B,466988,Emilio Bonifácio,573109,AJ Ramos,611177,Adonis García,R,J.T. Realmuto,592663,2,3,9,True,2016-09-23,Stolen,2B,2016,2017, 87.0, 0.68
+738,1B,,Caught Stealing 2B,518692,Freddie Freeman,596331,Nefi Ogando,461314,Matt Kemp,R,J.T. Realmuto,592663,2,6,8,True,2016-09-22,Caught,2B,2016,2017, 87.0, 0.68
+739,2B,3B,Stolen Base 3B,542255,Ender Inciarte,607457,Kyle Barraclough,455976,Nick Markakis,R,J.T. Realmuto,592663,5,6,7,False,2016-09-13,Stolen,3B,2016,2017, 87.0, 0.68
+740,1B,2B,Stolen Base 2B,514917,César Hernández,488768,Andrew Cashner,571437,Aaron Altherr,R,J.T. Realmuto,592663,2,0,3,True,2016-09-07,Stolen,2B,2016,2017, 87.0, 0.68
+741,1B,,Caught Stealing 2B,571437,Aaron Altherr,488768,Andrew Cashner,546318,Odúbel Herrera,R,J.T. Realmuto,592663,2,0,5,True,2016-09-07,Caught,2B,2016,2017, 87.0, 0.68
+742,1B,2B,Stolen Base 2B,546318,Odúbel Herrera,605222,Jake Esch,429667,Ryan Howard,R,J.T. Realmuto,592663,2,0,4,True,2016-09-05,Stolen,2B,2016,2017, 87.0, 0.68
+743,1B,,Caught Stealing 2B,514917,César Hernández,605222,Jake Esch,546318,Odúbel Herrera,R,J.T. Realmuto,592663,2,3,5,True,2016-09-05,Caught,2B,2016,2017, 87.0, 0.68
+744,1B,2B,Stolen Base 2B,488721,Peter Bourjos,623395,Brian Ellington,517370,Jimmy Paredes,R,J.T. Realmuto,592663,2,6,7,True,2016-09-05,Stolen,2B,2016,2017, 87.0, 0.68
+745,1B,,Caught Stealing 2B,517370,Jimmy Paredes,623395,Brian Ellington,514917,César Hernández,R,J.T. Realmuto,592663,2,6,7,True,2016-09-05,Caught,2B,2016,2017, 87.0, 0.68
+746,1B,2B,Stolen Base 2B,434658,Rajai Davis,607457,Kyle Barraclough,571980,Tyler Naquin,R,J.T. Realmuto,592663,1,2,7,False,2016-09-04,Stolen,2B,2016,2017, 87.0, 0.68
+747,1B,2B,Stolen Base 2B,424825,Coco Crisp,607457,Kyle Barraclough,467793,Carlos Santana,R,J.T. Realmuto,592663,1,2,7,False,2016-09-04,Stolen,2B,2016,2017, 87.0, 0.68
+748,1B,2B,Stolen Base 2B,489267,Adam Rosales,592593,Justin Nicolino,596143,Luis Sardinas,L,J.T. Realmuto,592663,1,2,4,True,2016-08-28,Stolen,2B,2016,2017, 87.0, 0.68
+749,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,543017,Hunter Cervenka,449181,Paulo Orlando,L,J.T. Realmuto,592663,2,4,9,True,2016-08-25,Stolen,2B,2016,2017, 87.0, 0.68
+750,2B,3B,Stolen Base 3B,609275,Adalberto Mondesi,543017,Hunter Cervenka,502481,Jarrod Dyson,L,J.T. Realmuto,592663,2,5,9,True,2016-08-25,Stolen,3B,2016,2017, 87.0, 0.68
+751,1B,2B,Stolen Base 2B,449181,Paulo Orlando,488768,Andrew Cashner,596144,Cheslor Cuthbert,R,J.T. Realmuto,592663,0,0,6,True,2016-08-23,Stolen,2B,2016,2017, 87.0, 0.68
+752,1B,,Caught Stealing 2B,456715,Lorenzo Cain,488768,Andrew Cashner,543333,Eric Hosmer,R,J.T. Realmuto,592663,0,1,6,True,2016-08-23,Caught,2B,2016,2017, 87.0, 0.68
+753,1B,,Caught Stealing 2B,543281,Josh Harrison,543408,Tom Koehler,516782,Starling Marte,R,J.T. Realmuto,592663,0,0,1,False,2016-08-19,Caught,2B,2016,2017, 87.0, 0.68
+754,1B,2B,Stolen Base 2B,628356,Jung Ho Kang,430661,Dustin McGowan,465041,Francisco Cervelli,R,J.T. Realmuto,592663,2,3,7,False,2016-08-19,Stolen,2B,2016,2017, 87.0, 0.68
+755,1B,2B,Stolen Base 2B,408252,Brandon Phillips,488768,Andrew Cashner,553993,Eugenio Suárez,R,J.T. Realmuto,592663,0,0,1,False,2016-08-17,Stolen,2B,2016,2017, 87.0, 0.68
+756,2B,3B,Stolen Base 3B,641313,Tim Anderson,407845,Fernando Rodney,425900,Dioner Navarro,R,J.T. Realmuto,592663,7,8,9,True,2016-08-13,Stolen,3B,2016,2017, 87.0, 0.68
+757,1B,2B,Stolen Base 2B,605183,Jason Coats,407845,Fernando Rodney,425900,Dioner Navarro,R,J.T. Realmuto,592663,7,8,9,True,2016-08-13,Stolen,2B,2016,2017, 87.0, 0.68
+758,1B,2B,Stolen Base 2B,573135,Tyler Saladino,488768,Andrew Cashner,466320,Melky Cabrera,R,J.T. Realmuto,592663,0,3,2,True,2016-08-12,Stolen,2B,2016,2017, 87.0, 0.68
+759,1B,2B,Stolen Base 2B,434636,Ángel Pagán,475479,David Phelps,474832,Brandon Belt,R,J.T. Realmuto,592663,0,0,3,True,2016-08-10,Stolen,2B,2016,2017, 87.0, 0.68
+760,1B,2B,Stolen Base 2B,452655,Denard Span,607457,Kyle Barraclough,434636,Ángel Pagán,R,J.T. Realmuto,592663,7,6,8,True,2016-08-08,Stolen,2B,2016,2017, 87.0, 0.68
+761,1B,2B,Stolen Base 2B,543063,Brandon Crawford,607457,Kyle Barraclough,452254,Hunter Pence,R,J.T. Realmuto,592663,7,7,8,True,2016-08-08,Stolen,2B,2016,2017, 87.0, 0.68
+762,1B,,Caught Stealing 2B,501303,Ehire Adrianza,407845,Fernando Rodney,452655,Denard Span,R,J.T. Realmuto,592663,7,7,9,True,2016-08-08,Caught,2B,2016,2017, 87.0, 0.68
+763,1B,,Caught Stealing 2B,434636,Ángel Pagán,430661,Dustin McGowan,474832,Brandon Belt,R,J.T. Realmuto,592663,7,7,12,True,2016-08-08,Caught,2B,2016,2017, 87.0, 0.68
+764,1B,2B,Stolen Base 2B,451594,Dexter Fowler,605228,José Fernández,575929,Willson Contreras,R,J.T. Realmuto,592663,1,0,3,False,2016-08-02,Stolen,2B,2016,2017, 87.0, 0.68
+765,1B,2B,Stolen Base 2B,519333,Matt Szczur,430661,Dustin McGowan,543294,Kyle Hendricks,R,J.T. Realmuto,592663,3,0,5,False,2016-08-01,Stolen,2B,2016,2017, 87.0, 0.68
+766,1B,2B,Stolen Base 2B,543939,Kolten Wong,488768,Andrew Cashner,502054,Tommy Pham,R,J.T. Realmuto,592663,4,2,5,True,2016-07-31,Stolen,2B,2016,2017, 87.0, 0.68
+767,1B,2B,Stolen Base 2B,514917,César Hernández,573109,AJ Ramos,546318,Odúbel Herrera,R,J.T. Realmuto,592663,0,4,9,True,2016-07-25,Stolen,2B,2016,2017, 87.0, 0.68
+768,2B,3B,Stolen Base 3B,546318,Odúbel Herrera,573109,AJ Ramos,596748,Maikel Franco,R,J.T. Realmuto,592663,0,4,9,True,2016-07-25,Stolen,3B,2016,2017, 87.0, 0.68
+769,2B,3B,Stolen Base 3B,408314,José Reyes,543045,Adam Conley,493316,Yoenis Cespedes,L,J.T. Realmuto,592663,0,1,1,True,2016-07-22,Stolen,3B,2016,2017, 87.0, 0.68
+770,1B,,Caught Stealing 2B,457477,Alejandro De Aza,607457,Kyle Barraclough,408314,José Reyes,R,J.T. Realmuto,592663,2,3,8,True,2016-07-22,Caught,2B,2016,2017, 87.0, 0.68
+771,1B,2B,Stolen Base 2B,595963,Tyler Goeddel,612672,Wei-Yin Chen,596748,Maikel Franco,L,J.T. Realmuto,592663,3,0,2,False,2016-07-20,Stolen,2B,2016,2017, 87.0, 0.68
+772,1B,2B,Stolen Base 2B,514917,César Hernández,430661,Dustin McGowan,433217,Andrés Blanco,R,J.T. Realmuto,592663,4,1,8,False,2016-07-20,Stolen,2B,2016,2017, 87.0, 0.68
+773,1B,2B,Stolen Base 2B,488721,Peter Bourjos,570632,José Ureña,519237,Cameron Rupp,R,J.T. Realmuto,592663,1,1,6,False,2016-07-19,Stolen,2B,2016,2017, 87.0, 0.68
+774,1B,2B,Stolen Base 2B,452678,Asdrúbal Cabrera,475479,David Phelps,607043,Brandon Nimmo,R,J.T. Realmuto,592663,6,6,7,False,2016-07-04,Stolen,2B,2016,2017, 87.0, 0.68
+775,1B,2B,Stolen Base 2B,542255,Ender Inciarte,592593,Justin Nicolino,488818,Chase d'Arnaud,L,J.T. Realmuto,592663,4,3,5,False,2016-07-01,Stolen,2B,2016,2017, 87.0, 0.68
+776,1B,2B,Stolen Base 2B,488818,Chase d'Arnaud,445197,Mike Dunn,518692,Freddie Freeman,L,J.T. Realmuto,592663,6,3,6,False,2016-06-30,Stolen,2B,2016,2017, 87.0, 0.68
+777,1B,,Caught Stealing 2B,542194,Christian Bethancourt,445197,Mike Dunn,445055,Jon Jay,L,J.T. Realmuto,592663,6,3,8,False,2016-06-15,Caught,2B,2016,2017, 87.0, 0.68
+778,1B,,Caught Stealing 2B,456488,Eduardo Núñez,543408,Tom Koehler,408045,Joe Mauer,R,J.T. Realmuto,592663,0,2,4,False,2016-06-09,Caught,2B,2016,2017, 87.0, 0.68
+779,1B,,Caught Stealing 2B,543257,Robbie Grossman,430661,Dustin McGowan,408045,Joe Mauer,R,J.T. Realmuto,592663,4,4,11,False,2016-06-07,Caught,2B,2016,2017, 87.0, 0.68
+780,1B,2B,Stolen Base 2B,501571,Juan Lagares,607457,Kyle Barraclough,435522,Neil Walker,R,J.T. Realmuto,592663,3,2,7,True,2016-06-04,Stolen,2B,2016,2017, 87.0, 0.68
+781,1B,,Caught Stealing 2B,435522,Neil Walker,543408,Tom Koehler,624424,Michael Conforto,R,J.T. Realmuto,592663,1,2,6,True,2016-06-03,Caught,2B,2016,2017, 87.0, 0.68
+782,1B,,Caught Stealing 2B,516782,Starling Marte,605228,José Fernández,465041,Francisco Cervelli,R,J.T. Realmuto,592663,0,0,2,True,2016-05-31,Caught,2B,2016,2017, 87.0, 0.68
+783,1B,2B,Stolen Base 2B,543281,Josh Harrison,592593,Justin Nicolino,501896,David Freese,L,J.T. Realmuto,592663,0,2,3,True,2016-05-30,Stolen,2B,2016,2017, 87.0, 0.68
+784,1B,,Caught Stealing 2B,516782,Starling Marte,592593,Justin Nicolino,465041,Francisco Cervelli,L,J.T. Realmuto,592663,0,2,4,True,2016-05-30,Caught,2B,2016,2017, 87.0, 0.68
+785,1B,,Caught Stealing 2B,446334,Evan Longoria,592593,Justin Nicolino,456665,Steve Pearce,L,J.T. Realmuto,592663,0,0,1,False,2016-05-25,Caught,2B,2016,2017, 87.0, 0.68
+786,1B,2B,Stolen Base 2B,489149,Logan Morrison,543408,Tom Koehler,572816,Corey Dickerson,R,J.T. Realmuto,592663,0,0,2,True,2016-05-24,Stolen,2B,2016,2017, 87.0, 0.68
+787,1B,2B,Stolen Base 2B,543543,Brad Miller,457768,Bryan Morris,456665,Steve Pearce,R,J.T. Realmuto,592663,2,4,7,True,2016-05-24,Stolen,2B,2016,2017, 87.0, 0.68
+788,1B,2B,Stolen Base 2B,543543,Brad Miller,429719,Edwin Jackson,446334,Evan Longoria,R,J.T. Realmuto,592663,3,4,9,True,2016-05-24,Stolen,2B,2016,2017, 87.0, 0.68
+789,1B,2B,Stolen Base 2B,519184,Ben Revere,543045,Adam Conley,150029,Jayson Werth,L,J.T. Realmuto,592663,0,0,1,True,2016-05-22,Stolen,2B,2016,2017, 87.0, 0.68
+790,2B,3B,Stolen Base 3B,519184,Ben Revere,543045,Adam Conley,502517,Daniel Murphy,L,J.T. Realmuto,592663,0,2,3,True,2016-05-22,Stolen,3B,2016,2017, 87.0, 0.68
+791,1B,,Caught Stealing 2B,502517,Daniel Murphy,605228,José Fernández,519208,Clint Robinson,R,J.T. Realmuto,592663,0,0,2,True,2016-05-21,Caught,2B,2016,2017, 87.0, 0.68
+792,1B,,Caught Stealing 2B,518953,David Lough,543408,Tom Koehler,514917,César Hernández,R,J.T. Realmuto,592663,0,2,1,False,2016-05-18,Caught,2B,2016,2017, 87.0, 0.68
+793,1B,,Caught Stealing 2B,519184,Ben Revere,543408,Tom Koehler,543685,Anthony Rendon,R,J.T. Realmuto,592663,0,0,1,False,2016-05-13,Caught,2B,2016,2017, 87.0, 0.68
+794,1B,2B,Stolen Base 2B,542340,Jonathan Villar,543045,Adam Conley,460075,Ryan Braun,L,J.T. Realmuto,592663,0,1,1,True,2016-05-10,Stolen,2B,2016,2017, 87.0, 0.68
+795,1B,2B,Stolen Base 2B,541650,Hernán Pérez,543045,Adam Conley,474892,Chris Carter,L,J.T. Realmuto,592663,1,1,3,True,2016-05-10,Stolen,2B,2016,2017, 87.0, 0.68
+796,2B,3B,Stolen Base 3B,542340,Jonathan Villar,543045,Adam Conley,541650,Hernán Pérez,L,J.T. Realmuto,592663,2,4,4,True,2016-05-10,Stolen,3B,2016,2017, 87.0, 0.68
+797,1B,2B,Stolen Base 2B,541650,Hernán Pérez,543045,Adam Conley,460075,Ryan Braun,L,J.T. Realmuto,592663,2,4,4,True,2016-05-10,Stolen,2B,2016,2017, 87.0, 0.68
+798,1B,2B,Stolen Base 2B,542340,Jonathan Villar,605228,José Fernández,502100,Alex Presley,R,J.T. Realmuto,592663,1,0,3,True,2016-05-09,Stolen,2B,2016,2017, 87.0, 0.68
+799,1B,,Caught Stealing 2B,543590,Kirk Nieuwenhuis,605228,José Fernández,595023,Colin Walsh,R,J.T. Realmuto,592663,1,0,4,True,2016-05-09,Caught,2B,2016,2017, 87.0, 0.68
+800,1B,2B,Stolen Base 2B,546318,Odúbel Herrera,596331,Nefi Ogando,514917,César Hernández,R,J.T. Realmuto,592663,3,4,7,True,2016-05-08,Stolen,2B,2016,2017, 87.0, 0.68
+801,1B,2B,Stolen Base 2B,520471,Freddy Galvis,596331,Nefi Ogando,519237,Cameron Rupp,R,J.T. Realmuto,592663,4,4,7,True,2016-05-06,Stolen,2B,2016,2017, 87.0, 0.68
+802,1B,,Caught Stealing 2B,488721,Peter Bourjos,607457,Kyle Barraclough,546318,Odúbel Herrera,R,J.T. Realmuto,592663,4,4,8,True,2016-05-06,Caught,2B,2016,2017, 87.0, 0.68
+803,1B,,Caught Stealing 2B,571875,Jake Lamb,605228,José Fernández,502671,Paul Goldschmidt,R,J.T. Realmuto,592663,0,0,1,True,2016-05-04,Caught,2B,2016,2017, 87.0, 0.68
+804,1B,2B,Stolen Base 2B,542340,Jonathan Villar,543408,Tom Koehler,460075,Ryan Braun,R,J.T. Realmuto,592663,3,1,3,False,2016-05-01,Stolen,2B,2016,2017, 87.0, 0.68
+805,1B,2B,Stolen Base 2B,543590,Kirk Nieuwenhuis,543408,Tom Koehler,595023,Colin Walsh,R,J.T. Realmuto,592663,5,1,3,False,2016-05-01,Stolen,2B,2016,2017, 87.0, 0.68
+806,1B,,Caught Stealing 2B,572191,Michael A. Taylor,457768,Bryan Morris,543685,Anthony Rendon,R,J.T. Realmuto,592663,5,1,7,True,2016-04-18,Caught,2B,2016,2017, 87.0, 0.68
+807,1B,2B,Stolen Base 2B,150229,A.J. Pierzynski,543054,Jarred Cosart,430637,Kelly Johnson,R,J.T. Realmuto,592663,0,1,1,True,2016-04-17,Stolen,2B,2016,2017, 87.0, 0.68
+808,1B,2B,Stolen Base 2B,605480,Mallex Smith,475479,David Phelps,150229,A.J. Pierzynski,R,J.T. Realmuto,592663,3,2,8,True,2016-04-15,Stolen,2B,2016,2017, 87.0, 0.68
+809,1B,,Caught Stealing 2B,502517,Daniel Murphy,543408,Tom Koehler,150029,Jayson Werth,R,J.T. Realmuto,592663,1,1,3,False,2016-04-10,Caught,2B,2016,2017, 87.0, 0.68
+810,1B,2B,Stolen Base 2B,502517,Daniel Murphy,457768,Bryan Morris,467092,Wilson Ramos,R,J.T. Realmuto,592663,3,5,6,False,2016-04-07,Stolen,2B,2016,2017, 87.0, 0.68
+811,1B,2B,Stolen Base 2B,607208,Trea Turner,488768,Andrew Cashner,547180,Bryce Harper,R,J.T. Realmuto,592663,0,0,1,False,2016-09-30,Stolen,2B,2016,2017, 87.0, 0.68
+812,1B,2B,Stolen Base 2B,607208,Trea Turner,488768,Andrew Cashner,150029,Jayson Werth,R,J.T. Realmuto,592663,4,4,4,False,2016-09-30,Stolen,2B,2016,2017, 87.0, 0.68
+813,1B,2B,Stolen Base 2B,605480,Mallex Smith,407845,Fernando Rodney,542255,Ender Inciarte,R,J.T. Realmuto,592663,5,3,7,True,2016-09-24,Stolen,2B,2016,2017, 87.0, 0.68
+814,1B,2B,Stolen Base 2B,466988,Emilio Bonifácio,573109,AJ Ramos,611177,Adonis García,R,J.T. Realmuto,592663,2,3,9,True,2016-09-23,Stolen,2B,2016,2017, 87.0, 0.68
+815,1B,,Caught Stealing 2B,518692,Freddie Freeman,596331,Nefi Ogando,461314,Matt Kemp,R,J.T. Realmuto,592663,2,6,8,True,2016-09-22,Caught,2B,2016,2017, 87.0, 0.68
+816,2B,3B,Stolen Base 3B,542255,Ender Inciarte,607457,Kyle Barraclough,455976,Nick Markakis,R,J.T. Realmuto,592663,5,6,7,False,2016-09-13,Stolen,3B,2016,2017, 87.0, 0.68
+817,1B,2B,Stolen Base 2B,514917,César Hernández,488768,Andrew Cashner,571437,Aaron Altherr,R,J.T. Realmuto,592663,2,0,3,True,2016-09-07,Stolen,2B,2016,2017, 87.0, 0.68
+818,1B,,Caught Stealing 2B,571437,Aaron Altherr,488768,Andrew Cashner,546318,Odúbel Herrera,R,J.T. Realmuto,592663,2,0,5,True,2016-09-07,Caught,2B,2016,2017, 87.0, 0.68
+819,1B,2B,Stolen Base 2B,546318,Odúbel Herrera,605222,Jake Esch,429667,Ryan Howard,R,J.T. Realmuto,592663,2,0,4,True,2016-09-05,Stolen,2B,2016,2017, 87.0, 0.68
+820,1B,,Caught Stealing 2B,514917,César Hernández,605222,Jake Esch,546318,Odúbel Herrera,R,J.T. Realmuto,592663,2,3,5,True,2016-09-05,Caught,2B,2016,2017, 87.0, 0.68
+821,1B,2B,Stolen Base 2B,488721,Peter Bourjos,623395,Brian Ellington,517370,Jimmy Paredes,R,J.T. Realmuto,592663,2,6,7,True,2016-09-05,Stolen,2B,2016,2017, 87.0, 0.68
+822,1B,,Caught Stealing 2B,517370,Jimmy Paredes,623395,Brian Ellington,514917,César Hernández,R,J.T. Realmuto,592663,2,6,7,True,2016-09-05,Caught,2B,2016,2017, 87.0, 0.68
+823,1B,2B,Stolen Base 2B,434658,Rajai Davis,607457,Kyle Barraclough,571980,Tyler Naquin,R,J.T. Realmuto,592663,1,2,7,False,2016-09-04,Stolen,2B,2016,2017, 87.0, 0.68
+824,1B,2B,Stolen Base 2B,424825,Coco Crisp,607457,Kyle Barraclough,467793,Carlos Santana,R,J.T. Realmuto,592663,1,2,7,False,2016-09-04,Stolen,2B,2016,2017, 87.0, 0.68
+825,1B,2B,Stolen Base 2B,489267,Adam Rosales,592593,Justin Nicolino,596143,Luis Sardinas,L,J.T. Realmuto,592663,1,2,4,True,2016-08-28,Stolen,2B,2016,2017, 87.0, 0.68
+826,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,543017,Hunter Cervenka,449181,Paulo Orlando,L,J.T. Realmuto,592663,2,4,9,True,2016-08-25,Stolen,2B,2016,2017, 87.0, 0.68
+827,2B,3B,Stolen Base 3B,609275,Adalberto Mondesi,543017,Hunter Cervenka,502481,Jarrod Dyson,L,J.T. Realmuto,592663,2,5,9,True,2016-08-25,Stolen,3B,2016,2017, 87.0, 0.68
+828,1B,2B,Stolen Base 2B,449181,Paulo Orlando,488768,Andrew Cashner,596144,Cheslor Cuthbert,R,J.T. Realmuto,592663,0,0,6,True,2016-08-23,Stolen,2B,2016,2017, 87.0, 0.68
+829,1B,,Caught Stealing 2B,456715,Lorenzo Cain,488768,Andrew Cashner,543333,Eric Hosmer,R,J.T. Realmuto,592663,0,1,6,True,2016-08-23,Caught,2B,2016,2017, 87.0, 0.68
+830,1B,,Caught Stealing 2B,543281,Josh Harrison,543408,Tom Koehler,516782,Starling Marte,R,J.T. Realmuto,592663,0,0,1,False,2016-08-19,Caught,2B,2016,2017, 87.0, 0.68
+831,1B,2B,Stolen Base 2B,628356,Jung Ho Kang,430661,Dustin McGowan,465041,Francisco Cervelli,R,J.T. Realmuto,592663,2,3,7,False,2016-08-19,Stolen,2B,2016,2017, 87.0, 0.68
+832,1B,2B,Stolen Base 2B,408252,Brandon Phillips,488768,Andrew Cashner,553993,Eugenio Suárez,R,J.T. Realmuto,592663,0,0,1,False,2016-08-17,Stolen,2B,2016,2017, 87.0, 0.68
+833,2B,3B,Stolen Base 3B,641313,Tim Anderson,407845,Fernando Rodney,425900,Dioner Navarro,R,J.T. Realmuto,592663,7,8,9,True,2016-08-13,Stolen,3B,2016,2017, 87.0, 0.68
+834,1B,2B,Stolen Base 2B,605183,Jason Coats,407845,Fernando Rodney,425900,Dioner Navarro,R,J.T. Realmuto,592663,7,8,9,True,2016-08-13,Stolen,2B,2016,2017, 87.0, 0.68
+835,1B,2B,Stolen Base 2B,573135,Tyler Saladino,488768,Andrew Cashner,466320,Melky Cabrera,R,J.T. Realmuto,592663,0,3,2,True,2016-08-12,Stolen,2B,2016,2017, 87.0, 0.68
+836,1B,2B,Stolen Base 2B,434636,Ángel Pagán,475479,David Phelps,474832,Brandon Belt,R,J.T. Realmuto,592663,0,0,3,True,2016-08-10,Stolen,2B,2016,2017, 87.0, 0.68
+837,1B,2B,Stolen Base 2B,452655,Denard Span,607457,Kyle Barraclough,434636,Ángel Pagán,R,J.T. Realmuto,592663,7,6,8,True,2016-08-08,Stolen,2B,2016,2017, 87.0, 0.68
+838,1B,2B,Stolen Base 2B,543063,Brandon Crawford,607457,Kyle Barraclough,452254,Hunter Pence,R,J.T. Realmuto,592663,7,7,8,True,2016-08-08,Stolen,2B,2016,2017, 87.0, 0.68
+839,1B,,Caught Stealing 2B,501303,Ehire Adrianza,407845,Fernando Rodney,452655,Denard Span,R,J.T. Realmuto,592663,7,7,9,True,2016-08-08,Caught,2B,2016,2017, 87.0, 0.68
+840,1B,,Caught Stealing 2B,434636,Ángel Pagán,430661,Dustin McGowan,474832,Brandon Belt,R,J.T. Realmuto,592663,7,7,12,True,2016-08-08,Caught,2B,2016,2017, 87.0, 0.68
+841,1B,2B,Stolen Base 2B,451594,Dexter Fowler,605228,José Fernández,575929,Willson Contreras,R,J.T. Realmuto,592663,1,0,3,False,2016-08-02,Stolen,2B,2016,2017, 87.0, 0.68
+842,1B,2B,Stolen Base 2B,519333,Matt Szczur,430661,Dustin McGowan,543294,Kyle Hendricks,R,J.T. Realmuto,592663,3,0,5,False,2016-08-01,Stolen,2B,2016,2017, 87.0, 0.68
+843,1B,2B,Stolen Base 2B,543939,Kolten Wong,488768,Andrew Cashner,502054,Tommy Pham,R,J.T. Realmuto,592663,4,2,5,True,2016-07-31,Stolen,2B,2016,2017, 87.0, 0.68
+844,1B,2B,Stolen Base 2B,514917,César Hernández,573109,AJ Ramos,546318,Odúbel Herrera,R,J.T. Realmuto,592663,0,4,9,True,2016-07-25,Stolen,2B,2016,2017, 87.0, 0.68
+845,2B,3B,Stolen Base 3B,546318,Odúbel Herrera,573109,AJ Ramos,596748,Maikel Franco,R,J.T. Realmuto,592663,0,4,9,True,2016-07-25,Stolen,3B,2016,2017, 87.0, 0.68
+846,2B,3B,Stolen Base 3B,408314,José Reyes,543045,Adam Conley,493316,Yoenis Cespedes,L,J.T. Realmuto,592663,0,1,1,True,2016-07-22,Stolen,3B,2016,2017, 87.0, 0.68
+847,1B,,Caught Stealing 2B,457477,Alejandro De Aza,607457,Kyle Barraclough,408314,José Reyes,R,J.T. Realmuto,592663,2,3,8,True,2016-07-22,Caught,2B,2016,2017, 87.0, 0.68
+848,1B,2B,Stolen Base 2B,595963,Tyler Goeddel,612672,Wei-Yin Chen,596748,Maikel Franco,L,J.T. Realmuto,592663,3,0,2,False,2016-07-20,Stolen,2B,2016,2017, 87.0, 0.68
+849,1B,2B,Stolen Base 2B,514917,César Hernández,430661,Dustin McGowan,433217,Andrés Blanco,R,J.T. Realmuto,592663,4,1,8,False,2016-07-20,Stolen,2B,2016,2017, 87.0, 0.68
+850,1B,2B,Stolen Base 2B,488721,Peter Bourjos,570632,José Ureña,519237,Cameron Rupp,R,J.T. Realmuto,592663,1,1,6,False,2016-07-19,Stolen,2B,2016,2017, 87.0, 0.68
+851,1B,2B,Stolen Base 2B,452678,Asdrúbal Cabrera,475479,David Phelps,607043,Brandon Nimmo,R,J.T. Realmuto,592663,6,6,7,False,2016-07-04,Stolen,2B,2016,2017, 87.0, 0.68
+852,1B,2B,Stolen Base 2B,542255,Ender Inciarte,592593,Justin Nicolino,488818,Chase d'Arnaud,L,J.T. Realmuto,592663,4,3,5,False,2016-07-01,Stolen,2B,2016,2017, 87.0, 0.68
+853,1B,2B,Stolen Base 2B,488818,Chase d'Arnaud,445197,Mike Dunn,518692,Freddie Freeman,L,J.T. Realmuto,592663,6,3,6,False,2016-06-30,Stolen,2B,2016,2017, 87.0, 0.68
+854,1B,,Caught Stealing 2B,542194,Christian Bethancourt,445197,Mike Dunn,445055,Jon Jay,L,J.T. Realmuto,592663,6,3,8,False,2016-06-15,Caught,2B,2016,2017, 87.0, 0.68
+855,1B,,Caught Stealing 2B,456488,Eduardo Núñez,543408,Tom Koehler,408045,Joe Mauer,R,J.T. Realmuto,592663,0,2,4,False,2016-06-09,Caught,2B,2016,2017, 87.0, 0.68
+856,1B,,Caught Stealing 2B,543257,Robbie Grossman,430661,Dustin McGowan,408045,Joe Mauer,R,J.T. Realmuto,592663,4,4,11,False,2016-06-07,Caught,2B,2016,2017, 87.0, 0.68
+857,1B,2B,Stolen Base 2B,501571,Juan Lagares,607457,Kyle Barraclough,435522,Neil Walker,R,J.T. Realmuto,592663,3,2,7,True,2016-06-04,Stolen,2B,2016,2017, 87.0, 0.68
+858,1B,,Caught Stealing 2B,435522,Neil Walker,543408,Tom Koehler,624424,Michael Conforto,R,J.T. Realmuto,592663,1,2,6,True,2016-06-03,Caught,2B,2016,2017, 87.0, 0.68
+859,1B,,Caught Stealing 2B,516782,Starling Marte,605228,José Fernández,465041,Francisco Cervelli,R,J.T. Realmuto,592663,0,0,2,True,2016-05-31,Caught,2B,2016,2017, 87.0, 0.68
+860,1B,2B,Stolen Base 2B,543281,Josh Harrison,592593,Justin Nicolino,501896,David Freese,L,J.T. Realmuto,592663,0,2,3,True,2016-05-30,Stolen,2B,2016,2017, 87.0, 0.68
+861,1B,,Caught Stealing 2B,516782,Starling Marte,592593,Justin Nicolino,465041,Francisco Cervelli,L,J.T. Realmuto,592663,0,2,4,True,2016-05-30,Caught,2B,2016,2017, 87.0, 0.68
+862,1B,,Caught Stealing 2B,446334,Evan Longoria,592593,Justin Nicolino,456665,Steve Pearce,L,J.T. Realmuto,592663,0,0,1,False,2016-05-25,Caught,2B,2016,2017, 87.0, 0.68
+863,1B,2B,Stolen Base 2B,489149,Logan Morrison,543408,Tom Koehler,572816,Corey Dickerson,R,J.T. Realmuto,592663,0,0,2,True,2016-05-24,Stolen,2B,2016,2017, 87.0, 0.68
+864,1B,2B,Stolen Base 2B,543543,Brad Miller,457768,Bryan Morris,456665,Steve Pearce,R,J.T. Realmuto,592663,2,4,7,True,2016-05-24,Stolen,2B,2016,2017, 87.0, 0.68
+865,1B,2B,Stolen Base 2B,543543,Brad Miller,429719,Edwin Jackson,446334,Evan Longoria,R,J.T. Realmuto,592663,3,4,9,True,2016-05-24,Stolen,2B,2016,2017, 87.0, 0.68
+866,1B,2B,Stolen Base 2B,519184,Ben Revere,543045,Adam Conley,150029,Jayson Werth,L,J.T. Realmuto,592663,0,0,1,True,2016-05-22,Stolen,2B,2016,2017, 87.0, 0.68
+867,2B,3B,Stolen Base 3B,519184,Ben Revere,543045,Adam Conley,502517,Daniel Murphy,L,J.T. Realmuto,592663,0,2,3,True,2016-05-22,Stolen,3B,2016,2017, 87.0, 0.68
+868,1B,,Caught Stealing 2B,502517,Daniel Murphy,605228,José Fernández,519208,Clint Robinson,R,J.T. Realmuto,592663,0,0,2,True,2016-05-21,Caught,2B,2016,2017, 87.0, 0.68
+869,1B,,Caught Stealing 2B,518953,David Lough,543408,Tom Koehler,514917,César Hernández,R,J.T. Realmuto,592663,0,2,1,False,2016-05-18,Caught,2B,2016,2017, 87.0, 0.68
+870,1B,,Caught Stealing 2B,519184,Ben Revere,543408,Tom Koehler,543685,Anthony Rendon,R,J.T. Realmuto,592663,0,0,1,False,2016-05-13,Caught,2B,2016,2017, 87.0, 0.68
+871,1B,2B,Stolen Base 2B,542340,Jonathan Villar,543045,Adam Conley,460075,Ryan Braun,L,J.T. Realmuto,592663,0,1,1,True,2016-05-10,Stolen,2B,2016,2017, 87.0, 0.68
+872,1B,2B,Stolen Base 2B,541650,Hernán Pérez,543045,Adam Conley,474892,Chris Carter,L,J.T. Realmuto,592663,1,1,3,True,2016-05-10,Stolen,2B,2016,2017, 87.0, 0.68
+873,2B,3B,Stolen Base 3B,542340,Jonathan Villar,543045,Adam Conley,541650,Hernán Pérez,L,J.T. Realmuto,592663,2,4,4,True,2016-05-10,Stolen,3B,2016,2017, 87.0, 0.68
+874,1B,2B,Stolen Base 2B,541650,Hernán Pérez,543045,Adam Conley,460075,Ryan Braun,L,J.T. Realmuto,592663,2,4,4,True,2016-05-10,Stolen,2B,2016,2017, 87.0, 0.68
+875,1B,2B,Stolen Base 2B,542340,Jonathan Villar,605228,José Fernández,502100,Alex Presley,R,J.T. Realmuto,592663,1,0,3,True,2016-05-09,Stolen,2B,2016,2017, 87.0, 0.68
+876,1B,,Caught Stealing 2B,543590,Kirk Nieuwenhuis,605228,José Fernández,595023,Colin Walsh,R,J.T. Realmuto,592663,1,0,4,True,2016-05-09,Caught,2B,2016,2017, 87.0, 0.68
+877,1B,2B,Stolen Base 2B,546318,Odúbel Herrera,596331,Nefi Ogando,514917,César Hernández,R,J.T. Realmuto,592663,3,4,7,True,2016-05-08,Stolen,2B,2016,2017, 87.0, 0.68
+878,1B,2B,Stolen Base 2B,520471,Freddy Galvis,596331,Nefi Ogando,519237,Cameron Rupp,R,J.T. Realmuto,592663,4,4,7,True,2016-05-06,Stolen,2B,2016,2017, 87.0, 0.68
+879,1B,,Caught Stealing 2B,488721,Peter Bourjos,607457,Kyle Barraclough,546318,Odúbel Herrera,R,J.T. Realmuto,592663,4,4,8,True,2016-05-06,Caught,2B,2016,2017, 87.0, 0.68
+880,1B,,Caught Stealing 2B,571875,Jake Lamb,605228,José Fernández,502671,Paul Goldschmidt,R,J.T. Realmuto,592663,0,0,1,True,2016-05-04,Caught,2B,2016,2017, 87.0, 0.68
+881,1B,2B,Stolen Base 2B,542340,Jonathan Villar,543408,Tom Koehler,460075,Ryan Braun,R,J.T. Realmuto,592663,3,1,3,False,2016-05-01,Stolen,2B,2016,2017, 87.0, 0.68
+882,1B,2B,Stolen Base 2B,543590,Kirk Nieuwenhuis,543408,Tom Koehler,595023,Colin Walsh,R,J.T. Realmuto,592663,5,1,3,False,2016-05-01,Stolen,2B,2016,2017, 87.0, 0.68
+883,1B,,Caught Stealing 2B,572191,Michael A. Taylor,457768,Bryan Morris,543685,Anthony Rendon,R,J.T. Realmuto,592663,5,1,7,True,2016-04-18,Caught,2B,2016,2017, 87.0, 0.68
+884,1B,2B,Stolen Base 2B,150229,A.J. Pierzynski,543054,Jarred Cosart,430637,Kelly Johnson,R,J.T. Realmuto,592663,0,1,1,True,2016-04-17,Stolen,2B,2016,2017, 87.0, 0.68
+885,1B,2B,Stolen Base 2B,605480,Mallex Smith,475479,David Phelps,150229,A.J. Pierzynski,R,J.T. Realmuto,592663,3,2,8,True,2016-04-15,Stolen,2B,2016,2017, 87.0, 0.68
+886,1B,,Caught Stealing 2B,502517,Daniel Murphy,543408,Tom Koehler,150029,Jayson Werth,R,J.T. Realmuto,592663,1,1,3,False,2016-04-10,Caught,2B,2016,2017, 87.0, 0.68
+887,1B,2B,Stolen Base 2B,502517,Daniel Murphy,457768,Bryan Morris,467092,Wilson Ramos,R,J.T. Realmuto,592663,3,5,6,False,2016-04-07,Stolen,2B,2016,2017, 87.0, 0.68
+888,1B,2B,Stolen Base 2B,607208,Trea Turner,488768,Andrew Cashner,547180,Bryce Harper,R,J.T. Realmuto,592663,0,0,1,False,2016-09-30,Stolen,2B,2016,2017, 87.0, 0.68
+889,1B,2B,Stolen Base 2B,607208,Trea Turner,488768,Andrew Cashner,150029,Jayson Werth,R,J.T. Realmuto,592663,4,4,4,False,2016-09-30,Stolen,2B,2016,2017, 87.0, 0.68
+890,1B,2B,Stolen Base 2B,605480,Mallex Smith,407845,Fernando Rodney,542255,Ender Inciarte,R,J.T. Realmuto,592663,5,3,7,True,2016-09-24,Stolen,2B,2016,2017, 87.0, 0.68
+891,1B,2B,Stolen Base 2B,466988,Emilio Bonifácio,573109,AJ Ramos,611177,Adonis García,R,J.T. Realmuto,592663,2,3,9,True,2016-09-23,Stolen,2B,2016,2017, 87.0, 0.68
+892,1B,,Caught Stealing 2B,518692,Freddie Freeman,596331,Nefi Ogando,461314,Matt Kemp,R,J.T. Realmuto,592663,2,6,8,True,2016-09-22,Caught,2B,2016,2017, 87.0, 0.68
+893,2B,3B,Stolen Base 3B,542255,Ender Inciarte,607457,Kyle Barraclough,455976,Nick Markakis,R,J.T. Realmuto,592663,5,6,7,False,2016-09-13,Stolen,3B,2016,2017, 87.0, 0.68
+894,1B,2B,Stolen Base 2B,514917,César Hernández,488768,Andrew Cashner,571437,Aaron Altherr,R,J.T. Realmuto,592663,2,0,3,True,2016-09-07,Stolen,2B,2016,2017, 87.0, 0.68
+895,1B,,Caught Stealing 2B,571437,Aaron Altherr,488768,Andrew Cashner,546318,Odúbel Herrera,R,J.T. Realmuto,592663,2,0,5,True,2016-09-07,Caught,2B,2016,2017, 87.0, 0.68
+896,1B,2B,Stolen Base 2B,546318,Odúbel Herrera,605222,Jake Esch,429667,Ryan Howard,R,J.T. Realmuto,592663,2,0,4,True,2016-09-05,Stolen,2B,2016,2017, 87.0, 0.68
+897,1B,,Caught Stealing 2B,514917,César Hernández,605222,Jake Esch,546318,Odúbel Herrera,R,J.T. Realmuto,592663,2,3,5,True,2016-09-05,Caught,2B,2016,2017, 87.0, 0.68
+898,1B,2B,Stolen Base 2B,488721,Peter Bourjos,623395,Brian Ellington,517370,Jimmy Paredes,R,J.T. Realmuto,592663,2,6,7,True,2016-09-05,Stolen,2B,2016,2017, 87.0, 0.68
+899,1B,,Caught Stealing 2B,517370,Jimmy Paredes,623395,Brian Ellington,514917,César Hernández,R,J.T. Realmuto,592663,2,6,7,True,2016-09-05,Caught,2B,2016,2017, 87.0, 0.68
+900,1B,2B,Stolen Base 2B,434658,Rajai Davis,607457,Kyle Barraclough,571980,Tyler Naquin,R,J.T. Realmuto,592663,1,2,7,False,2016-09-04,Stolen,2B,2016,2017, 87.0, 0.68
+901,1B,2B,Stolen Base 2B,424825,Coco Crisp,607457,Kyle Barraclough,467793,Carlos Santana,R,J.T. Realmuto,592663,1,2,7,False,2016-09-04,Stolen,2B,2016,2017, 87.0, 0.68
+902,1B,2B,Stolen Base 2B,489267,Adam Rosales,592593,Justin Nicolino,596143,Luis Sardinas,L,J.T. Realmuto,592663,1,2,4,True,2016-08-28,Stolen,2B,2016,2017, 87.0, 0.68
+903,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,543017,Hunter Cervenka,449181,Paulo Orlando,L,J.T. Realmuto,592663,2,4,9,True,2016-08-25,Stolen,2B,2016,2017, 87.0, 0.68
+904,2B,3B,Stolen Base 3B,609275,Adalberto Mondesi,543017,Hunter Cervenka,502481,Jarrod Dyson,L,J.T. Realmuto,592663,2,5,9,True,2016-08-25,Stolen,3B,2016,2017, 87.0, 0.68
+905,1B,2B,Stolen Base 2B,449181,Paulo Orlando,488768,Andrew Cashner,596144,Cheslor Cuthbert,R,J.T. Realmuto,592663,0,0,6,True,2016-08-23,Stolen,2B,2016,2017, 87.0, 0.68
+906,1B,,Caught Stealing 2B,456715,Lorenzo Cain,488768,Andrew Cashner,543333,Eric Hosmer,R,J.T. Realmuto,592663,0,1,6,True,2016-08-23,Caught,2B,2016,2017, 87.0, 0.68
+907,1B,,Caught Stealing 2B,543281,Josh Harrison,543408,Tom Koehler,516782,Starling Marte,R,J.T. Realmuto,592663,0,0,1,False,2016-08-19,Caught,2B,2016,2017, 87.0, 0.68
+908,1B,2B,Stolen Base 2B,628356,Jung Ho Kang,430661,Dustin McGowan,465041,Francisco Cervelli,R,J.T. Realmuto,592663,2,3,7,False,2016-08-19,Stolen,2B,2016,2017, 87.0, 0.68
+909,1B,2B,Stolen Base 2B,408252,Brandon Phillips,488768,Andrew Cashner,553993,Eugenio Suárez,R,J.T. Realmuto,592663,0,0,1,False,2016-08-17,Stolen,2B,2016,2017, 87.0, 0.68
+910,2B,3B,Stolen Base 3B,641313,Tim Anderson,407845,Fernando Rodney,425900,Dioner Navarro,R,J.T. Realmuto,592663,7,8,9,True,2016-08-13,Stolen,3B,2016,2017, 87.0, 0.68
+911,1B,2B,Stolen Base 2B,605183,Jason Coats,407845,Fernando Rodney,425900,Dioner Navarro,R,J.T. Realmuto,592663,7,8,9,True,2016-08-13,Stolen,2B,2016,2017, 87.0, 0.68
+912,1B,2B,Stolen Base 2B,573135,Tyler Saladino,488768,Andrew Cashner,466320,Melky Cabrera,R,J.T. Realmuto,592663,0,3,2,True,2016-08-12,Stolen,2B,2016,2017, 87.0, 0.68
+913,1B,2B,Stolen Base 2B,434636,Ángel Pagán,475479,David Phelps,474832,Brandon Belt,R,J.T. Realmuto,592663,0,0,3,True,2016-08-10,Stolen,2B,2016,2017, 87.0, 0.68
+914,1B,2B,Stolen Base 2B,452655,Denard Span,607457,Kyle Barraclough,434636,Ángel Pagán,R,J.T. Realmuto,592663,7,6,8,True,2016-08-08,Stolen,2B,2016,2017, 87.0, 0.68
+915,1B,2B,Stolen Base 2B,543063,Brandon Crawford,607457,Kyle Barraclough,452254,Hunter Pence,R,J.T. Realmuto,592663,7,7,8,True,2016-08-08,Stolen,2B,2016,2017, 87.0, 0.68
+916,1B,,Caught Stealing 2B,501303,Ehire Adrianza,407845,Fernando Rodney,452655,Denard Span,R,J.T. Realmuto,592663,7,7,9,True,2016-08-08,Caught,2B,2016,2017, 87.0, 0.68
+917,1B,,Caught Stealing 2B,434636,Ángel Pagán,430661,Dustin McGowan,474832,Brandon Belt,R,J.T. Realmuto,592663,7,7,12,True,2016-08-08,Caught,2B,2016,2017, 87.0, 0.68
+918,1B,2B,Stolen Base 2B,451594,Dexter Fowler,605228,José Fernández,575929,Willson Contreras,R,J.T. Realmuto,592663,1,0,3,False,2016-08-02,Stolen,2B,2016,2017, 87.0, 0.68
+919,1B,2B,Stolen Base 2B,519333,Matt Szczur,430661,Dustin McGowan,543294,Kyle Hendricks,R,J.T. Realmuto,592663,3,0,5,False,2016-08-01,Stolen,2B,2016,2017, 87.0, 0.68
+920,1B,2B,Stolen Base 2B,543939,Kolten Wong,488768,Andrew Cashner,502054,Tommy Pham,R,J.T. Realmuto,592663,4,2,5,True,2016-07-31,Stolen,2B,2016,2017, 87.0, 0.68
+921,1B,2B,Stolen Base 2B,514917,César Hernández,573109,AJ Ramos,546318,Odúbel Herrera,R,J.T. Realmuto,592663,0,4,9,True,2016-07-25,Stolen,2B,2016,2017, 87.0, 0.68
+922,2B,3B,Stolen Base 3B,546318,Odúbel Herrera,573109,AJ Ramos,596748,Maikel Franco,R,J.T. Realmuto,592663,0,4,9,True,2016-07-25,Stolen,3B,2016,2017, 87.0, 0.68
+923,2B,3B,Stolen Base 3B,408314,José Reyes,543045,Adam Conley,493316,Yoenis Cespedes,L,J.T. Realmuto,592663,0,1,1,True,2016-07-22,Stolen,3B,2016,2017, 87.0, 0.68
+924,1B,,Caught Stealing 2B,457477,Alejandro De Aza,607457,Kyle Barraclough,408314,José Reyes,R,J.T. Realmuto,592663,2,3,8,True,2016-07-22,Caught,2B,2016,2017, 87.0, 0.68
+925,1B,2B,Stolen Base 2B,595963,Tyler Goeddel,612672,Wei-Yin Chen,596748,Maikel Franco,L,J.T. Realmuto,592663,3,0,2,False,2016-07-20,Stolen,2B,2016,2017, 87.0, 0.68
+926,1B,2B,Stolen Base 2B,514917,César Hernández,430661,Dustin McGowan,433217,Andrés Blanco,R,J.T. Realmuto,592663,4,1,8,False,2016-07-20,Stolen,2B,2016,2017, 87.0, 0.68
+927,1B,2B,Stolen Base 2B,488721,Peter Bourjos,570632,José Ureña,519237,Cameron Rupp,R,J.T. Realmuto,592663,1,1,6,False,2016-07-19,Stolen,2B,2016,2017, 87.0, 0.68
+928,1B,2B,Stolen Base 2B,452678,Asdrúbal Cabrera,475479,David Phelps,607043,Brandon Nimmo,R,J.T. Realmuto,592663,6,6,7,False,2016-07-04,Stolen,2B,2016,2017, 87.0, 0.68
+929,1B,2B,Stolen Base 2B,542255,Ender Inciarte,592593,Justin Nicolino,488818,Chase d'Arnaud,L,J.T. Realmuto,592663,4,3,5,False,2016-07-01,Stolen,2B,2016,2017, 87.0, 0.68
+930,1B,2B,Stolen Base 2B,488818,Chase d'Arnaud,445197,Mike Dunn,518692,Freddie Freeman,L,J.T. Realmuto,592663,6,3,6,False,2016-06-30,Stolen,2B,2016,2017, 87.0, 0.68
+931,1B,,Caught Stealing 2B,542194,Christian Bethancourt,445197,Mike Dunn,445055,Jon Jay,L,J.T. Realmuto,592663,6,3,8,False,2016-06-15,Caught,2B,2016,2017, 87.0, 0.68
+932,1B,,Caught Stealing 2B,456488,Eduardo Núñez,543408,Tom Koehler,408045,Joe Mauer,R,J.T. Realmuto,592663,0,2,4,False,2016-06-09,Caught,2B,2016,2017, 87.0, 0.68
+933,1B,,Caught Stealing 2B,543257,Robbie Grossman,430661,Dustin McGowan,408045,Joe Mauer,R,J.T. Realmuto,592663,4,4,11,False,2016-06-07,Caught,2B,2016,2017, 87.0, 0.68
+934,1B,2B,Stolen Base 2B,501571,Juan Lagares,607457,Kyle Barraclough,435522,Neil Walker,R,J.T. Realmuto,592663,3,2,7,True,2016-06-04,Stolen,2B,2016,2017, 87.0, 0.68
+935,1B,,Caught Stealing 2B,435522,Neil Walker,543408,Tom Koehler,624424,Michael Conforto,R,J.T. Realmuto,592663,1,2,6,True,2016-06-03,Caught,2B,2016,2017, 87.0, 0.68
+936,1B,,Caught Stealing 2B,516782,Starling Marte,605228,José Fernández,465041,Francisco Cervelli,R,J.T. Realmuto,592663,0,0,2,True,2016-05-31,Caught,2B,2016,2017, 87.0, 0.68
+937,1B,2B,Stolen Base 2B,543281,Josh Harrison,592593,Justin Nicolino,501896,David Freese,L,J.T. Realmuto,592663,0,2,3,True,2016-05-30,Stolen,2B,2016,2017, 87.0, 0.68
+938,1B,,Caught Stealing 2B,516782,Starling Marte,592593,Justin Nicolino,465041,Francisco Cervelli,L,J.T. Realmuto,592663,0,2,4,True,2016-05-30,Caught,2B,2016,2017, 87.0, 0.68
+939,1B,,Caught Stealing 2B,446334,Evan Longoria,592593,Justin Nicolino,456665,Steve Pearce,L,J.T. Realmuto,592663,0,0,1,False,2016-05-25,Caught,2B,2016,2017, 87.0, 0.68
+940,1B,2B,Stolen Base 2B,489149,Logan Morrison,543408,Tom Koehler,572816,Corey Dickerson,R,J.T. Realmuto,592663,0,0,2,True,2016-05-24,Stolen,2B,2016,2017, 87.0, 0.68
+941,1B,2B,Stolen Base 2B,543543,Brad Miller,457768,Bryan Morris,456665,Steve Pearce,R,J.T. Realmuto,592663,2,4,7,True,2016-05-24,Stolen,2B,2016,2017, 87.0, 0.68
+942,1B,2B,Stolen Base 2B,543543,Brad Miller,429719,Edwin Jackson,446334,Evan Longoria,R,J.T. Realmuto,592663,3,4,9,True,2016-05-24,Stolen,2B,2016,2017, 87.0, 0.68
+943,1B,2B,Stolen Base 2B,519184,Ben Revere,543045,Adam Conley,150029,Jayson Werth,L,J.T. Realmuto,592663,0,0,1,True,2016-05-22,Stolen,2B,2016,2017, 87.0, 0.68
+944,2B,3B,Stolen Base 3B,519184,Ben Revere,543045,Adam Conley,502517,Daniel Murphy,L,J.T. Realmuto,592663,0,2,3,True,2016-05-22,Stolen,3B,2016,2017, 87.0, 0.68
+945,1B,,Caught Stealing 2B,502517,Daniel Murphy,605228,José Fernández,519208,Clint Robinson,R,J.T. Realmuto,592663,0,0,2,True,2016-05-21,Caught,2B,2016,2017, 87.0, 0.68
+946,1B,,Caught Stealing 2B,518953,David Lough,543408,Tom Koehler,514917,César Hernández,R,J.T. Realmuto,592663,0,2,1,False,2016-05-18,Caught,2B,2016,2017, 87.0, 0.68
+947,1B,,Caught Stealing 2B,519184,Ben Revere,543408,Tom Koehler,543685,Anthony Rendon,R,J.T. Realmuto,592663,0,0,1,False,2016-05-13,Caught,2B,2016,2017, 87.0, 0.68
+948,1B,2B,Stolen Base 2B,542340,Jonathan Villar,543045,Adam Conley,460075,Ryan Braun,L,J.T. Realmuto,592663,0,1,1,True,2016-05-10,Stolen,2B,2016,2017, 87.0, 0.68
+949,1B,2B,Stolen Base 2B,541650,Hernán Pérez,543045,Adam Conley,474892,Chris Carter,L,J.T. Realmuto,592663,1,1,3,True,2016-05-10,Stolen,2B,2016,2017, 87.0, 0.68
+950,2B,3B,Stolen Base 3B,542340,Jonathan Villar,543045,Adam Conley,541650,Hernán Pérez,L,J.T. Realmuto,592663,2,4,4,True,2016-05-10,Stolen,3B,2016,2017, 87.0, 0.68
+951,1B,2B,Stolen Base 2B,541650,Hernán Pérez,543045,Adam Conley,460075,Ryan Braun,L,J.T. Realmuto,592663,2,4,4,True,2016-05-10,Stolen,2B,2016,2017, 87.0, 0.68
+952,1B,2B,Stolen Base 2B,542340,Jonathan Villar,605228,José Fernández,502100,Alex Presley,R,J.T. Realmuto,592663,1,0,3,True,2016-05-09,Stolen,2B,2016,2017, 87.0, 0.68
+953,1B,,Caught Stealing 2B,543590,Kirk Nieuwenhuis,605228,José Fernández,595023,Colin Walsh,R,J.T. Realmuto,592663,1,0,4,True,2016-05-09,Caught,2B,2016,2017, 87.0, 0.68
+954,1B,2B,Stolen Base 2B,546318,Odúbel Herrera,596331,Nefi Ogando,514917,César Hernández,R,J.T. Realmuto,592663,3,4,7,True,2016-05-08,Stolen,2B,2016,2017, 87.0, 0.68
+955,1B,2B,Stolen Base 2B,520471,Freddy Galvis,596331,Nefi Ogando,519237,Cameron Rupp,R,J.T. Realmuto,592663,4,4,7,True,2016-05-06,Stolen,2B,2016,2017, 87.0, 0.68
+956,1B,,Caught Stealing 2B,488721,Peter Bourjos,607457,Kyle Barraclough,546318,Odúbel Herrera,R,J.T. Realmuto,592663,4,4,8,True,2016-05-06,Caught,2B,2016,2017, 87.0, 0.68
+957,1B,,Caught Stealing 2B,571875,Jake Lamb,605228,José Fernández,502671,Paul Goldschmidt,R,J.T. Realmuto,592663,0,0,1,True,2016-05-04,Caught,2B,2016,2017, 87.0, 0.68
+958,1B,2B,Stolen Base 2B,542340,Jonathan Villar,543408,Tom Koehler,460075,Ryan Braun,R,J.T. Realmuto,592663,3,1,3,False,2016-05-01,Stolen,2B,2016,2017, 87.0, 0.68
+959,1B,2B,Stolen Base 2B,543590,Kirk Nieuwenhuis,543408,Tom Koehler,595023,Colin Walsh,R,J.T. Realmuto,592663,5,1,3,False,2016-05-01,Stolen,2B,2016,2017, 87.0, 0.68
+960,1B,,Caught Stealing 2B,572191,Michael A. Taylor,457768,Bryan Morris,543685,Anthony Rendon,R,J.T. Realmuto,592663,5,1,7,True,2016-04-18,Caught,2B,2016,2017, 87.0, 0.68
+961,1B,2B,Stolen Base 2B,150229,A.J. Pierzynski,543054,Jarred Cosart,430637,Kelly Johnson,R,J.T. Realmuto,592663,0,1,1,True,2016-04-17,Stolen,2B,2016,2017, 87.0, 0.68
+962,1B,2B,Stolen Base 2B,605480,Mallex Smith,475479,David Phelps,150229,A.J. Pierzynski,R,J.T. Realmuto,592663,3,2,8,True,2016-04-15,Stolen,2B,2016,2017, 87.0, 0.68
+963,1B,,Caught Stealing 2B,502517,Daniel Murphy,543408,Tom Koehler,150029,Jayson Werth,R,J.T. Realmuto,592663,1,1,3,False,2016-04-10,Caught,2B,2016,2017, 87.0, 0.68
+964,1B,2B,Stolen Base 2B,502517,Daniel Murphy,457768,Bryan Morris,467092,Wilson Ramos,R,J.T. Realmuto,592663,3,5,6,False,2016-04-07,Stolen,2B,2016,2017, 87.0, 0.68

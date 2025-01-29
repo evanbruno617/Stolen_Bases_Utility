@@ -1,0 +1,27 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+61,1B,2B,Stolen Base 2B,669720,Austin Hays,Juan Centeno,0,3,9,True,2019-09-27,Stolen,2B,2019
+130,1B,2B,Stolen Base 2B,669720,Austin Hays,Danny Jansen,7,9,8,True,2019-09-23,Stolen,2B,2019
+178,1B,,Caught Stealing 2B,669720,Austin Hays,Michael Pérez,1,1,4,False,2020-09-19,Caught,2B,2020
+1036,1B,2B,Stolen Base 2B,669720,Austin Hays,Francisco Cervelli,0,1,5,False,2020-08-04,Stolen,2B,2020
+1089,1B,,Caught Stealing 2B,669720,Austin Hays,Mike Zunino,2,0,5,False,2020-08-01,Caught,2B,2020
+1133,1B,2B,Stolen Base 2B,669720,Austin Hays,Gary Sánchez,4,5,2,False,2020-07-30,Stolen,2B,2020
+1137,1B,2B,Stolen Base 2B,669720,Austin Hays,Francisco Cervelli,0,1,5,False,2020-07-29,Stolen,2B,2020
+1193,1B,,Caught Stealing 2B,669720,Austin Hays,Christian Vázquez,2,6,6,True,2020-07-26,Caught,2B,2020
+10,1B,,Caught Stealing 2B,669720,Austin Hays,Christian Vázquez,6,2,7,False,2021-09-30,Caught,2B,2021
+107,1B,,Caught Stealing 2B,669720,Austin Hays,Jose Trevino,4,2,3,False,2021-09-24,Caught,2B,2021
+198,1B,2B,Stolen Base 2B,669720,Austin Hays,Kevin Plawecki,4,3,3,True,2021-09-19,Stolen,2B,2021
+685,1B,2B,Stolen Base 2B,669720,Austin Hays,Francisco Mejía,0,2,1,True,2021-08-18,Stolen,2B,2021
+809,1B,,Caught Stealing 2B,669720,Austin Hays,Grayson Greiner,1,2,2,False,2021-08-10,Caught,2B,2021
+901,1B,2B,Stolen Base 2B,669720,Austin Hays,Gary Sánchez,0,2,1,True,2021-08-04,Stolen,2B,2021
+1628,1B,2B,Stolen Base 2B,669720,Austin Hays,Reese McGuire,2,1,5,False,2021-06-18,Stolen,2B,2021
+633,1B,,Caught Stealing 2B,669720,Austin Hays,Christian Vázquez,0,3,6,True,2022-08-27,Caught,2B,2022
+1170,1B,2B,Stolen Base 2B,669720,Austin Hays,René Pinto,1,0,3,False,2022-07-28,Stolen,2B,2022
+1983,1B,,Caught Stealing 2B,669720,Austin Hays,MJ Melendez,3,5,7,True,2022-06-11,Caught,2B,2022
+2262,1B,2B,Stolen Base 2B,669720,Austin Hays,Christian Vázquez,0,0,3,True,2022-05-28,Stolen,2B,2022
+3127,1B,,Caught Stealing 2B,669720,Austin Hays,Mike Zunino,0,0,2,True,2022-04-10,Caught,2B,2022
+89,1B,2B,Stolen Base 2B,669720,Austin Hays,Keibert Ruiz,0,0,1,False,2023-09-27,Stolen,2B,2023
+891,1B,2B,Stolen Base 2B,669720,Austin Hays,Elias Díaz,0,2,5,False,2023-08-26,Stolen,2B,2023
+1040,1B,2B,Stolen Base 2B,669720,Austin Hays,Shea Langeliers,2,7,10,True,2023-08-19,Stolen,2B,2023
+2488,1B,,Caught Stealing 2B,669720,Austin Hays,Alejandro Kirk,0,0,5,False,2023-06-14,Caught,2B,2023
+2706,1B,2B,Stolen Base 2B,669720,Austin Hays,Patrick Bailey,0,2,3,True,2023-06-04,Stolen,2B,2023
+4241,1B,2B,Stolen Base 2B,669720,Austin Hays,Reese McGuire,7,8,9,True,2023-04-01,Stolen,2B,2023

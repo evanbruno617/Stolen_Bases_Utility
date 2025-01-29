@@ -1,0 +1,38 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2B,3B,Stolen Base 3B,114844,Doug Glanville,Jeff Reed,0,0,1,True,2000-09-28,Stolen,3B,2000
+1B,2B,Stolen Base 2B,114844,Doug Glanville,Jeff Reed,1,3,7,True,2000-09-28,Stolen,2B,2000
+1B,,Caught Stealing 2B,136770,J.D. Drew,Jeff Reed,3,4,6,True,2000-09-22,Caught,2B,2000
+1B,2B,Stolen Base 2B,134002,Ramon Martinez,Jeff Reed,2,2,4,False,2000-09-03,Stolen,2B,2000
+1B,2B,Stolen Base 2B,116999,Jeff Kent,Jeff Reed,4,2,6,False,2000-09-03,Stolen,2B,2000
+1B,,Caught Stealing 2B,119482,Bill Mueller,Jeff Reed,7,2,6,False,2000-09-01,Caught,2B,2000
+1B,2B,Stolen Base 2B,116852,Eric Karros,Jeff Reed,3,1,4,True,2000-08-26,Stolen,2B,2000
+1B,,Caught Stealing 2B,114961,Tom Goodwin,Jeff Reed,3,1,5,True,2000-08-26,Caught,2B,2000
+1B,2B,Stolen Base 2B,115094,Shawn Green,Jeff Reed,3,1,6,True,2000-08-26,Stolen,2B,2000
+1B,2B,Stolen Base 2B,136770,J.D. Drew,Jeff Reed,2,3,4,True,2000-08-15,Stolen,2B,2000
+3B,,Caught Stealing Home,121074,Edgar Renteria,Jeff Reed,2,4,7,True,2000-08-15,Caught,Home,2000
+1B,,Caught Stealing 2B,114961,Tom Goodwin,Jeff Reed,2,3,5,False,2000-08-07,Caught,2B,2000
+1B,2B,Stolen Base 2B,117148,Ryan Klesko,Jeff Reed,4,1,5,False,2000-08-06,Stolen,2B,2000
+1B,2B,Stolen Base 2B,116423,Damian Jackson,Jeff Reed,5,2,6,False,2000-08-06,Stolen,2B,2000
+2B,3B,Stolen Base 3B,116423,Damian Jackson,Jeff Reed,5,2,6,False,2000-08-06,Stolen,3B,2000
+1B,2B,Stolen Base 2B,284566,Adam Eaton,Jeff Reed,5,2,6,False,2000-08-06,Stolen,2B,2000
+1B,2B,Stolen Base 2B,117148,Ryan Klesko,Jeff Reed,4,0,2,False,2000-08-03,Stolen,2B,2000
+1B,2B,Stolen Base 2B,116423,Damian Jackson,Jeff Reed,4,5,8,False,2000-08-03,Stolen,2B,2000
+2B,3B,Stolen Base 3B,116326,Brian L. Hunter,Jeff Reed,0,1,1,True,2000-08-01,Stolen,3B,2000
+1B,2B,Stolen Base 2B,111742,Jeromy Burnitz,Jeff Reed,2,1,4,True,2000-07-21,Stolen,2B,2000
+1B,2B,Stolen Base 2B,117566,Matt Lawton,Jeff Reed,1,0,1,False,2000-07-15,Stolen,2B,2000
+1B,2B,Stolen Base 2B,150218,Jacque Jones,Jeff Reed,1,2,2,False,2000-07-15,Stolen,2B,2000
+1B,2B,Stolen Base 2B,123639,John Vander Wal,Jeff Reed,1,0,5,False,2000-06-27,Stolen,2B,2000
+1B,2B,Stolen Base 2B,118897,Pat Meares,Jeff Reed,1,0,5,False,2000-06-27,Stolen,2B,2000
+1B,2B,Stolen Base 2B,112116,Luis Castillo,Jeff Reed,0,0,1,False,2000-06-24,Stolen,2B,2000
+2B,,Caught Stealing 3B,112116,Luis Castillo,Jeff Reed,0,0,1,False,2000-06-24,Caught,3B,2000
+1B,,Caught Stealing 2B,117276,Mark Kotsay,Jeff Reed,0,1,4,False,2000-06-24,Caught,2B,2000
+1B,2B,Stolen Base 2B,150395,Peter Bergeron,Jeff Reed,0,0,1,True,2000-06-16,Stolen,2B,2000
+1B,,Caught Stealing 2B,110383,Rich Aurilia,Jeff Reed,2,0,5,False,2000-05-27,Caught,2B,2000
+1B,2B,Stolen Base 2B,116999,Jeff Kent,Jeff Reed,2,2,8,False,2000-05-27,Stolen,2B,2000
+1B,,Caught Stealing 2B,115394,Jeffrey Hammonds,Jeff Reed,0,3,2,False,2000-05-23,Caught,2B,2000
+1B,2B,Stolen Base 2B,116852,Eric Karros,Jeff Reed,0,2,1,True,2000-05-16,Stolen,2B,2000
+1B,2B,Stolen Base 2B,115094,Shawn Green,Jeff Reed,1,3,3,True,2000-05-16,Stolen,2B,2000
+1B,2B,Stolen Base 2B,150070,Kevin Barker,Jeff Reed,0,1,4,True,2000-05-10,Stolen,2B,2000
+1B,2B,Stolen Base 2B,150255,Warren Morris,Jeff Reed,1,4,5,True,2000-05-05,Stolen,2B,2000
+1B,2B,Stolen Base 2B,110987,Craig Biggio,Jeff Reed,4,0,3,True,2000-05-03,Stolen,2B,2000
+1B,,Caught Stealing 2B,110189,Moises Alou,Jeff Reed,7,6,7,False,2000-04-25,Caught,2B,2000

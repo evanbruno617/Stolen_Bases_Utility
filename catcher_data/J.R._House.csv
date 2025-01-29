@@ -1,0 +1,7 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,,Caught Stealing 2B,431094,Aaron Hill,J.R. House,0,0,2,True,2007-09-27,Caught,2B,2007
+1B,2B,Stolen Base 2B,424825,Coco Crisp,J.R. House,1,0,2,False,2007-09-01,Stolen,2B,2007
+1B,2B,Stolen Base 2B,408042,Gerald Laird,J.R. House,3,5,4,True,2007-08-22,Stolen,2B,2007
+1B,2B,Stolen Base 2B,276545,Michael Young,J.R. House,4,5,5,True,2007-08-22,Stolen,2B,2007
+1B,2B,Stolen Base 2B,408042,Gerald Laird,J.R. House,3,5,4,True,2007-08-20,Stolen,2B,2007
+1B,2B,Stolen Base 2B,276545,Michael Young,J.R. House,4,5,5,True,2007-08-20,Stolen,2B,2007

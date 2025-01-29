@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2205,1B,2B,Stolen Base 2B,593523,Marco Hernández,Russell Martin,1,2,5,False,2016-04-17,Stolen,2B,2016
+3008,1B,,Caught Stealing 2B,593523,Marco Hernández,Welington Castillo,0,5,6,True,2017-04-23,Caught,2B,2017
+660,1B,,Caught Stealing 2B,593523,Marco Hernández,J.T. Realmuto,2,0,2,False,2019-08-21,Caught,2B,2019
+762,1B,,Caught Stealing 2B,593523,Marco Hernández,Kevin Plawecki,1,5,8,True,2019-08-14,Caught,2B,2019
+1320,1B,2B,Stolen Base 2B,593523,Marco Hernández,John Hicks,1,2,5,True,2019-07-07,Stolen,2B,2019

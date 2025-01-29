@@ -1,0 +1,24 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+352,1B,2B,Stolen Base 2B,123639,John Vander Wal,Mitch Meluskey,6,7,4,True,2000-09-15,Stolen,2B,2000
+676,2B,3B,Stolen Base 3B,123639,John Vander Wal,George Williams,0,2,3,True,2000-09-02,Stolen,3B,2000
+1129,1B,2B,Stolen Base 2B,123639,John Vander Wal,Kelly Stinnett,6,7,8,False,2000-08-13,Stolen,2B,2000
+1751,2B,3B,Stolen Base 3B,123639,John Vander Wal,Paul Lo Duca,0,3,6,True,2000-07-16,Stolen,3B,2000
+1819,1B,,Caught Stealing 2B,123639,John Vander Wal,Sandy Alomar Jr.,0,1,2,True,2000-07-13,Caught,2B,2000
+2109,1B,2B,Stolen Base 2B,123639,John Vander Wal,Jeff Reed,1,0,5,False,2000-06-27,Stolen,2B,2000
+2290,1B,2B,Stolen Base 2B,123639,John Vander Wal,Paul Bako,2,0,1,False,2000-06-18,Stolen,2B,2000
+2604,1B,2B,Stolen Base 2B,123639,John Vander Wal,Javier Cardona,1,0,1,False,2000-06-05,Stolen,2B,2000
+2689,2B,3B,Stolen Base 3B,123639,John Vander Wal,Gregg Zaun,7,3,8,False,2000-06-02,Stolen,3B,2000
+2756,1B,2B,Stolen Base 2B,123639,John Vander Wal,Paul Bako,4,0,1,False,2000-05-29,Stolen,2B,2000
+3429,2B,3B,Stolen Base 3B,123639,John Vander Wal,Eddie Taubensee,0,0,2,False,2000-04-30,Stolen,3B,2000
+3525,1B,2B,Stolen Base 2B,123639,John Vander Wal,Wiki Gonzalez,8,8,9,False,2000-04-26,Stolen,2B,2000
+278,2B,,Caught Stealing 3B,123639,John Vander Wal,Javy Lopez,0,0,8,True,2001-05-25,Caught,3B,2001
+532,1B,2B,Stolen Base 2B,123639,John Vander Wal,Mike Matheny,2,3,3,False,2001-05-15,Stolen,2B,2001
+974,3B,,Caught Stealing Home,123639,John Vander Wal,Ben Davis,0,3,6,True,2001-04-27,Caught,Home,2001
+1255,1B,2B,Stolen Base 2B,123639,John Vander Wal,Todd Hundley,0,1,4,True,2001-04-15,Stolen,2B,2001
+1256,2B,,Caught Stealing 3B,123639,John Vander Wal,Todd Hundley,0,1,4,True,2001-04-15,Caught,3B,2001
+1286,1B,2B,Stolen Base 2B,123639,John Vander Wal,Todd Hundley,0,0,1,True,2001-04-14,Stolen,2B,2001
+2223,1B,2B,Stolen Base 2B,123639,John Vander Wal,Rod Barajas,0,2,3,False,2002-06-12,Stolen,2B,2002
+2446,2B,,Caught Stealing 3B,123639,John Vander Wal,Doug Mirabelli,1,7,7,False,2002-06-02,Caught,3B,2002
+1169,1B,,Caught Stealing 2B,123639,John Vander Wal,Brian Schneider,0,0,2,True,2003-08-01,Caught,2B,2003
+2708,1B,,Caught Stealing 2B,123639,John Vander Wal,Damian Miller,0,0,4,False,2003-05-15,Caught,2B,2003
+3275,1B,2B,Stolen Base 2B,123639,John Vander Wal,Brad Ausmus,2,0,1,False,2003-04-17,Stolen,2B,2003

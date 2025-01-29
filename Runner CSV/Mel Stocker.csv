@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+40,1B,2B,Stolen Base 2B,444116,Mel Stocker,Josh Bard,2,3,8,False,2007-09-29,Stolen,2B,2007
+186,1B,2B,Stolen Base 2B,444116,Mel Stocker,Brian McCann,2,3,10,True,2007-09-22,Stolen,2B,2007
+211,1B,2B,Stolen Base 2B,444116,Mel Stocker,Brian McCann,1,0,7,True,2007-09-21,Stolen,2B,2007
+385,1B,2B,Stolen Base 2B,444116,Mel Stocker,Ryan Hanigan,3,5,7,False,2007-09-14,Stolen,2B,2007

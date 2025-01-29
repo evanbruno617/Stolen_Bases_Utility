@@ -1,0 +1,25 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,737,1B,2B,Stolen Base 2B,572669,Lane Adams,607625,Seth Lugo,542255,Ender Inciarte,R,Travis d'Arnaud,518595,0,0,3,True,2017-09-25,Stolen,2B,2017,2018,29.5
+1,850,1B,2B,Stolen Base 2B,572669,Lane Adams,453286,Max Scherzer,621020,Dansby Swanson,R,Matt Wieters,446308,2,3,5,False,2017-09-19,Stolen,2B,2017,2018,29.5
+2,1311,2B,3B,Stolen Base 3B,572669,Lane Adams,493603,Adam Ottavino,435559,Kurt Suzuki,R,Jonathan Lucroy,518960,5,2,8,False,2017-08-25,Stolen,3B,2017,2018,29.5
+3,1390,1B,2B,Stolen Base 2B,572669,Lane Adams,519240,Marc Rzepczynski,542255,Ender Inciarte,L,Mike Zunino,572287,5,6,6,False,2017-08-21,Stolen,2B,2017,2018,29.5
+4,1804,1B,2B,Stolen Base 2B,572669,Lane Adams,605388,Adam Morgan,408252,Brandon Phillips,L,Andrew Knapp,595284,6,4,7,True,2017-07-31,Stolen,2B,2017,2018,29.5
+5,2046,1B,2B,Stolen Base 2B,572669,Lane Adams,451584,Wade Davis,452095,Tyler Flowers,R,Willson Contreras,575929,3,4,9,False,2017-07-17,Stolen,2B,2017,2018,29.5
+6,2171,1B,2B,Stolen Base 2B,572669,Lane Adams,594840,Matt Grace,542255,Ender Inciarte,L,Matt Wieters,446308,2,5,8,True,2017-07-06,Stolen,2B,2017,2018,29.5
+7,2468,1B,2B,Stolen Base 2B,572669,Lane Adams,473879,Sam Dyson,621020,Dansby Swanson,R,Buster Posey,457763,3,3,9,False,2017-06-21,Stolen,2B,2017,2018,29.5
+8,3370,1B,2B,Stolen Base 2B,572669,Lane Adams,502190,Mike Leake,542255,Ender Inciarte,R,Eric Fryer,518700,0,4,6,False,2017-05-06,Stolen,2B,2017,2018,29.5
+9,3372,2B,3B,Caught Stealing 2B,572669,Lane Adams,502190,Mike Leake,408252,Brandon Phillips,R,Eric Fryer,518700,0,4,6,False,2017-05-06,Caught,2B,2017,2018,29.5
+10,3524,1B,2B,Stolen Base 2B,572669,Lane Adams,606930,Jacob Barnes,542255,Ender Inciarte,R,Jett Bandy,542908,8,6,7,True,2017-04-28,Stolen,2B,2017,2018,29.5
+11,3590,1B,2B,Stolen Base 2B,572669,Lane Adams,607625,Seth Lugo,542255,Ender Inciarte,R,Travis d'Arnaud,518595,0,0,3,True,2017-04-25,Stolen,2B,2017,2018,29.5
+12,109,1B,2B,Stolen Base 2B,572669,Lane Adams,607625,Seth Lugo,542255,Ender Inciarte,R,Travis d'Arnaud,518595,0,0,3,True,2017-09-25,Stolen,2B,2017,2018,29.5
+13,222,1B,2B,Stolen Base 2B,572669,Lane Adams,453286,Max Scherzer,621020,Dansby Swanson,R,Matt Wieters,446308,2,3,5,False,2017-09-19,Stolen,2B,2017,2018,29.5
+14,683,2B,3B,Stolen Base 3B,572669,Lane Adams,493603,Adam Ottavino,435559,Kurt Suzuki,R,Jonathan Lucroy,518960,5,2,8,False,2017-08-25,Stolen,3B,2017,2018,29.5
+15,762,1B,2B,Stolen Base 2B,572669,Lane Adams,519240,Marc Rzepczynski,542255,Ender Inciarte,L,Mike Zunino,572287,5,6,6,False,2017-08-21,Stolen,2B,2017,2018,29.5
+16,1176,1B,2B,Stolen Base 2B,572669,Lane Adams,605388,Adam Morgan,408252,Brandon Phillips,L,Andrew Knapp,595284,6,4,7,True,2017-07-31,Stolen,2B,2017,2018,29.5
+17,1418,1B,2B,Stolen Base 2B,572669,Lane Adams,451584,Wade Davis,452095,Tyler Flowers,R,Willson Contreras,575929,3,4,9,False,2017-07-17,Stolen,2B,2017,2018,29.5
+18,1543,1B,2B,Stolen Base 2B,572669,Lane Adams,594840,Matt Grace,542255,Ender Inciarte,L,Matt Wieters,446308,2,5,8,True,2017-07-06,Stolen,2B,2017,2018,29.5
+19,1840,1B,2B,Stolen Base 2B,572669,Lane Adams,473879,Sam Dyson,621020,Dansby Swanson,R,Buster Posey,457763,3,3,9,False,2017-06-21,Stolen,2B,2017,2018,29.5
+20,2742,1B,2B,Stolen Base 2B,572669,Lane Adams,502190,Mike Leake,542255,Ender Inciarte,R,Eric Fryer,518700,0,4,6,False,2017-05-06,Stolen,2B,2017,2018,29.5
+21,2744,2B,3B,Caught Stealing 2B,572669,Lane Adams,502190,Mike Leake,408252,Brandon Phillips,R,Eric Fryer,518700,0,4,6,False,2017-05-06,Caught,2B,2017,2018,29.5
+22,2896,1B,2B,Stolen Base 2B,572669,Lane Adams,606930,Jacob Barnes,542255,Ender Inciarte,R,Jett Bandy,542908,8,6,7,True,2017-04-28,Stolen,2B,2017,2018,29.5
+23,2962,1B,2B,Stolen Base 2B,572669,Lane Adams,607625,Seth Lugo,542255,Ender Inciarte,R,Travis d'Arnaud,518595,0,0,3,True,2017-04-25,Stolen,2B,2017,2018,29.5

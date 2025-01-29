@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+312,1B,2B,Stolen Base 2B,453974,Lou Marson,Bobby Wilson,2,2,7,False,2010-09-16,Stolen,2B,2010
+425,1B,2B,Stolen Base 2B,453974,Lou Marson,Joe Mauer,0,0,10,False,2010-09-11,Stolen,2B,2010
+769,1B,2B,Stolen Base 2B,453974,Lou Marson,Kurt Suzuki,1,1,5,False,2010-08-26,Stolen,2B,2010
+1199,1B,2B,Stolen Base 2B,453974,Lou Marson,Victor Martinez,0,1,3,True,2010-08-05,Stolen,2B,2010
+2371,1B,2B,Stolen Base 2B,453974,Lou Marson,Victor Martinez,6,5,6,False,2010-06-10,Stolen,2B,2010
+2876,1B,2B,Stolen Base 2B,453974,Lou Marson,Jason Kendall,2,2,5,False,2010-05-19,Stolen,2B,2010
+3109,1B,2B,Stolen Base 2B,453974,Lou Marson,Alex Avila,3,1,2,False,2010-05-09,Stolen,2B,2010
+3713,1B,2B,Stolen Base 2B,453974,Lou Marson,Matt Treanor,2,6,8,False,2010-04-14,Stolen,2B,2010
+348,1B,2B,Stolen Base 2B,453974,Lou Marson,Drew Butera,0,5,4,True,2011-09-16,Stolen,2B,2011
+501,1B,,Caught Stealing 2B,453974,Lou Marson,A.J. Pierzynski,1,0,3,True,2011-09-10,Caught,2B,2011
+526,1B,2B,Stolen Base 2B,453974,Lou Marson,Tyler Flowers,2,4,6,True,2011-09-09,Stolen,2B,2011
+1180,1B,2B,Stolen Base 2B,453974,Lou Marson,Alex Avila,3,4,5,False,2011-08-11,Stolen,2B,2011
+3488,1B,2B,Stolen Base 2B,453974,Lou Marson,Jeff Mathis,3,4,9,True,2011-05-07,Stolen,2B,2011
+124,1B,,Caught Stealing 2B,453974,Lou Marson,A.J. Pierzynski,0,0,2,True,2012-09-24,Caught,2B,2012
+127,1B,,Caught Stealing 2B,453974,Lou Marson,A.J. Pierzynski,1,3,6,True,2012-09-24,Caught,2B,2012
+656,1B,2B,Stolen Base 2B,453974,Lou Marson,Alex Avila,2,2,7,True,2012-09-03,Stolen,2B,2012
+2089,1B,2B,Stolen Base 2B,453974,Lou Marson,Ronny Paulino,0,5,4,True,2012-07-01,Stolen,2B,2012
+2976,1B,2B,Stolen Base 2B,453974,Lou Marson,Alex Avila,2,1,5,False,2012-05-24,Stolen,2B,2012
+3373,1B,2B,Stolen Base 2B,453974,Lou Marson,Tyler Flowers,1,1,5,False,2012-05-07,Stolen,2B,2012

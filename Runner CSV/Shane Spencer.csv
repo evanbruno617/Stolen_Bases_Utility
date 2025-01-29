@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3409,1B,,Caught Stealing 2B,133341,Shane Spencer,Einar Díaz,1,2,7,True,2000-05-01,Caught,2B,2000
+3601,1B,2B,Stolen Base 2B,133341,Shane Spencer,Darrin Fletcher,7,10,7,True,2000-04-23,Stolen,2B,2000
+3794,1B,,Caught Stealing 2B,133341,Shane Spencer,Brian Johnson,7,5,7,False,2000-04-14,Caught,2B,2000
+238,2B,,Caught Stealing 3B,133341,Shane Spencer,Toby Hall,0,2,3,True,2002-09-18,Caught,3B,2002
+2261,1B,,Caught Stealing 2B,133341,Shane Spencer,Damian Miller,3,4,6,False,2002-06-10,Caught,2B,2002
+3926,1B,,Caught Stealing 2B,133341,Shane Spencer,Geronimo Gil,0,1,2,True,2002-04-01,Caught,2B,2002
+1769,1B,2B,Caught Stealing 3B,133341,Shane Spencer,Mike DiFelice,5,8,5,True,2003-06-30,Caught,3B,2003
+2578,1B,2B,Stolen Base 2B,133341,Shane Spencer,Brandon Inge,4,0,8,False,2003-05-21,Stolen,2B,2003
+3111,1B,2B,Stolen Base 2B,133341,Shane Spencer,Ramon Hernandez,1,0,2,True,2003-04-25,Stolen,2B,2003
+3468,1B,2B,Caught Stealing 3B,133341,Shane Spencer,Mike DiFelice,5,8,5,True,2003-04-06,Caught,3B,2003
+2180,1B,2B,Stolen Base 2B,133341,Shane Spencer,Henry Blanco,2,2,11,True,2004-06-10,Stolen,2B,2004
+2392,1B,2B,Stolen Base 2B,133341,Shane Spencer,Todd Pratt,0,0,7,True,2004-06-01,Stolen,2B,2004
+2571,1B,2B,Stolen Base 2B,133341,Shane Spencer,Charles Johnson,3,0,6,False,2004-05-23,Stolen,2B,2004
+2572,2B,3B,Stolen Base 3B,133341,Shane Spencer,Charles Johnson,3,0,6,False,2004-05-23,Stolen,3B,2004
+3040,1B,2B,Stolen Base 2B,133341,Shane Spencer,Paul Lo Duca,3,2,8,True,2004-04-28,Stolen,2B,2004
+3169,1B,2B,Stolen Base 2B,133341,Shane Spencer,Paul Bako,0,0,1,True,2004-04-23,Stolen,2B,2004

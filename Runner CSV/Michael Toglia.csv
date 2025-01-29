@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+201,1B,2B,Stolen Base 2B,669911,Michael Toglia,Austin Wynns,7,5,7,False,2022-09-19,Stolen,2B,2022
+499,1B,,Caught Stealing 2B,669911,Michael Toglia,Chuckie Robinson,0,0,2,True,2022-09-04,Caught,2B,2022
+509,1B,,Caught Stealing 2B,669911,Michael Toglia,Chuckie Robinson,0,0,2,True,2022-09-03,Caught,2B,2022
+1125,2B,3B,Stolen Base 3B,669911,Michael Toglia,Gabriel Moreno,3,3,7,False,2023-08-15,Stolen,3B,2023
+1727,1B,,Caught Stealing 2B,669911,Michael Toglia,Martín Maldonado,0,1,5,False,2023-07-19,Caught,2B,2023

@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+54,1B,2B,Stolen Base 2B,621005,Tim Lopes,Josh Phegley,2,1,6,False,2019-09-27,Stolen,2B,2019
+323,1B,2B,Stolen Base 2B,621005,Tim Lopes,Curt Casali,3,2,7,False,2019-09-11,Stolen,2B,2019
+409,1B,2B,Stolen Base 2B,621005,Tim Lopes,Martín Maldonado,3,2,4,True,2019-09-06,Stolen,2B,2019
+554,1B,,Caught Stealing 2B,621005,Tim Lopes,Gary Sánchez,0,2,4,False,2019-08-28,Caught,2B,2019
+679,1B,2B,Stolen Base 2B,621005,Tim Lopes,Mike Zunino,4,6,6,True,2019-08-20,Stolen,2B,2019
+695,1B,2B,Stolen Base 2B,621005,Tim Lopes,Travis d'Arnaud,1,7,4,True,2019-08-19,Stolen,2B,2019
+733,1B,,Caught Stealing 2B,621005,Tim Lopes,Danny Jansen,0,2,2,True,2019-08-16,Caught,2B,2019
+1057,1B,2B,Stolen Base 2B,621005,Tim Lopes,John Hicks,5,1,4,False,2019-07-25,Stolen,2B,2019
+747,1B,2B,Stolen Base 2B,621005,Tim Lopes,Jose Trevino,5,0,3,False,2020-08-21,Stolen,2B,2020
+919,1B,2B,Stolen Base 2B,621005,Tim Lopes,Jeff Mathis,2,0,3,True,2020-08-11,Stolen,2B,2020
+948,1B,2B,Stolen Base 2B,621005,Tim Lopes,Elias Díaz,5,0,7,False,2020-08-09,Stolen,2B,2020
+1127,1B,2B,Stolen Base 2B,621005,Tim Lopes,Max Stassi,2,8,9,True,2020-07-30,Stolen,2B,2020
+1191,1B,2B,Stolen Base 2B,621005,Tim Lopes,Martín Maldonado,5,4,8,True,2020-07-26,Stolen,2B,2020
+1708,1B,,Caught Stealing 2B,621005,Tim Lopes,Jacob Stallings,7,4,8,False,2021-06-12,Caught,2B,2021

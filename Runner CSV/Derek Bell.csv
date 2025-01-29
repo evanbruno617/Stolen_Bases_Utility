@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+289,1B,2B,Stolen Base 2B,110818,Derek Bell,Paul Bako,4,0,4,True,2000-09-18,Stolen,2B,2000
+520,1B,,Caught Stealing 2B,110818,Derek Bell,Gary Bennett,0,0,3,False,2000-09-08,Caught,2B,2000
+1263,1B,2B,Stolen Base 2B,110818,Derek Bell,Tony Eusebio,5,6,11,True,2000-08-07,Stolen,2B,2000
+1870,1B,2B,Stolen Base 2B,110818,Derek Bell,Jorge Posada,0,2,1,False,2000-07-08,Stolen,2B,2000
+3109,1B,2B,Stolen Base 2B,110818,Derek Bell,Mike Redmond,1,0,6,False,2000-05-14,Stolen,2B,2000
+3133,1B,2B,Stolen Base 2B,110818,Derek Bell,Paul Bako,2,0,3,False,2000-05-13,Stolen,2B,2000
+3268,1B,,Caught Stealing 2B,110818,Derek Bell,Mike Redmond,0,0,1,True,2000-05-06,Caught,2B,2000
+3476,1B,,Caught Stealing 2B,110818,Derek Bell,Brent Mayne,0,0,3,True,2000-04-28,Caught,2B,2000
+3776,2B,3B,Stolen Base 3B,110818,Derek Bell,Keith Osik,0,0,1,True,2000-04-15,Stolen,3B,2000
+3778,1B,,Caught Stealing 2B,110818,Derek Bell,Keith Osik,0,0,3,True,2000-04-15,Caught,2B,2000
+3812,2B,3B,Stolen Base 3B,110818,Derek Bell,Mike Lieberthal,1,1,8,True,2000-04-13,Stolen,3B,2000
+3854,1B,2B,Stolen Base 2B,110818,Derek Bell,Mike Lieberthal,8,4,9,True,2000-04-12,Stolen,2B,2000
+910,1B,,Caught Stealing 2B,110818,Derek Bell,Ben Davis,0,0,2,True,2001-04-29,Caught,2B,2001

@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+102,1B,,Caught Stealing 2B,435623,Kevin Frandsen,Josh Bard,4,0,4,False,2007-09-25,Caught,2B,2007
+127,1B,2B,Stolen Base 2B,435623,Kevin Frandsen,Josh Bard,2,2,3,False,2007-09-24,Stolen,2B,2007
+238,1B,2B,Stolen Base 2B,435623,Kevin Frandsen,Chris Snyder,1,2,3,True,2007-09-19,Stolen,2B,2007
+311,1B,2B,Stolen Base 2B,435623,Kevin Frandsen,Josh Bard,0,0,1,True,2007-09-16,Stolen,2B,2007
+1340,1B,,Caught Stealing 2B,435623,Kevin Frandsen,Russell Martin,2,3,7,True,2007-08-01,Caught,2B,2007
+1486,1B,2B,Stolen Base 2B,435623,Kevin Frandsen,Brian McCann,4,2,8,False,2007-07-26,Stolen,2B,2007
+2611,1B,,Caught Stealing 2B,435623,Kevin Frandsen,Carlos Ruiz,3,7,7,True,2007-06-03,Caught,2B,2007
+1868,1B,2B,Stolen Base 2B,435623,Kevin Frandsen,Jason Kendall,1,0,7,False,2010-07-02,Stolen,2B,2010
+2156,1B,2B,Stolen Base 2B,435623,Kevin Frandsen,Geovany Soto,8,0,4,True,2010-06-20,Stolen,2B,2010
+30,1B,,Caught Stealing 2B,435623,Kevin Frandsen,Rob Brantly,4,7,8,True,2012-09-29,Caught,2B,2012
+2475,1B,2B,Stolen Base 2B,435623,Kevin Frandsen,Jarrod Saltalamacchia,1,1,3,False,2013-05-29,Stolen,2B,2013

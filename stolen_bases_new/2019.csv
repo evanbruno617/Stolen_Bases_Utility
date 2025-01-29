@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,Respon_Pitcher,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+35,1B,2B,Stolen Base 2B,,643217,Andrew Benintendi,664353,José Urquidy,650391,Eloy Jiménez,R,Yainer Diaz,673237,2,1,3,True,2023-04-01,Stolen,2B
+48,1B,2B,Stolen Base 2B,,641313,Tim Anderson,664353,José Urquidy,673357,Luis Robert Jr.,R,Yainer Diaz,673237,2,3,4,True,2023-04-01,Stolen,2B
+71,1B,2B,Stolen Base 2B,,676801,Chas McCormick,669424,Jimmy Lambert,673237,Yainer Diaz,R,Seby Zavala,664874,3,3,6,False,2023-04-01,Stolen,2B

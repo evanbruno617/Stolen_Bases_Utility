@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+387,1B,,Caught Stealing 2B,150316,McKay Christensen,Brad Ausmus,1,0,2,False,2000-09-13,Caught,2B,2000
+3693,1B,2B,Stolen Base 2B,150316,McKay Christensen,Dan Wilson,5,2,7,False,2000-04-19,Stolen,2B,2000

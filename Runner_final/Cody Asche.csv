@@ -1,0 +1,15 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,6109,1B,,Caught Stealing 2B,605125,Cody Asche,285079,R.A. Dickey,514917,César Hernández,R,Josh Thole,489365,0,0,2,True,2016-06-13,Caught,2B,2016,2017,26.3
+1,6110,1B,2B,Stolen Base 2B,605125,Cody Asche,607352,Joe Biagini,514917,César Hernández,R,Josh Thole,489365,0,2,7,True,2016-06-13,Stolen,2B,2016,2017,26.3
+2,6224,1B,2B,Stolen Base 2B,605125,Cody Asche,543294,Kyle Hendricks,434563,Carlos Ruiz,R,David Ross,424325,2,0,4,False,2016-06-07,Stolen,2B,2016,2017,26.3
+3,6250,1B,2B,Stolen Base 2B,605125,Cody Asche,503449,Wily Peralta,514917,César Hernández,R,Jonathan Lucroy,518960,3,0,4,False,2016-06-05,Stolen,2B,2016,2017,26.3
+4,2074,1B,,Caught Stealing 2B,605125,Cody Asche,285079,R.A. Dickey,514917,César Hernández,R,Josh Thole,489365,0,0,2,True,2016-06-13,Caught,2B,2016,2017,26.3
+5,2075,1B,2B,Stolen Base 2B,605125,Cody Asche,607352,Joe Biagini,514917,César Hernández,R,Josh Thole,489365,0,2,7,True,2016-06-13,Stolen,2B,2016,2017,26.3
+6,2189,1B,2B,Stolen Base 2B,605125,Cody Asche,543294,Kyle Hendricks,434563,Carlos Ruiz,R,David Ross,424325,2,0,4,False,2016-06-07,Stolen,2B,2016,2017,26.3
+7,2215,1B,2B,Stolen Base 2B,605125,Cody Asche,503449,Wily Peralta,514917,César Hernández,R,Jonathan Lucroy,518960,3,0,4,False,2016-06-05,Stolen,2B,2016,2017,26.3
+8,5481,1B,,Caught Stealing 2B,605125,Cody Asche,285079,R.A. Dickey,514917,César Hernández,R,Josh Thole,489365,0,0,2,True,2016-06-13,Caught,2B,2016,2017,26.3
+9,5482,1B,2B,Stolen Base 2B,605125,Cody Asche,607352,Joe Biagini,514917,César Hernández,R,Josh Thole,489365,0,2,7,True,2016-06-13,Stolen,2B,2016,2017,26.3
+10,5596,1B,2B,Stolen Base 2B,605125,Cody Asche,543294,Kyle Hendricks,434563,Carlos Ruiz,R,David Ross,424325,2,0,4,False,2016-06-07,Stolen,2B,2016,2017,26.3
+11,5622,1B,2B,Stolen Base 2B,605125,Cody Asche,503449,Wily Peralta,514917,César Hernández,R,Jonathan Lucroy,518960,3,0,4,False,2016-06-05,Stolen,2B,2016,2017,26.3
+12,152,1B,,Caught Stealing 2B,605125,Cody Asche,518790,Chris Heston,502126,Domonic Brown,R,Andrew Susac,572180,0,0,2,True,2015-07-12,Caught,2B,2015,2016,26.9
+13,413,1B,,Caught Stealing 2B,605125,Cody Asche,518468,Michael Blazek,519237,Cameron Rupp,R,Jonathan Lucroy,518960,4,6,6,False,2015-06-29,Caught,2B,2015,2016,26.9

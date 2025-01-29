@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2693,1B,,Caught Stealing 2B,150411,Brian Schneider,Charles Johnson,5,2,6,False,2000-06-02,Caught,2B,2000
+2303,1B,,Caught Stealing 2B,150411,Brian Schneider,Mark Johnson,1,1,6,True,2002-06-08,Caught,2B,2002
+2974,2B,,Caught Stealing 3B,150411,Brian Schneider,Yorvit Torrealba,1,0,2,False,2002-05-12,Caught,3B,2002
+3615,1B,2B,Stolen Base 2B,150411,Brian Schneider,Joe Girardi,2,4,8,False,2002-04-15,Stolen,2B,2002
+596,1B,,Caught Stealing 2B,150411,Brian Schneider,Ivan Rodriguez,0,2,4,True,2003-08-29,Caught,2B,2003
+3236,1B,2B,Stolen Base 2B,150411,Brian Schneider,Koyie Hill,4,3,7,False,2005-04-17,Stolen,2B,2005

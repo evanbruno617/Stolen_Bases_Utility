@@ -1,0 +1,19 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1879,1B,2B,Stolen Base 2B,605612,Harold Castro,502043,Kyle Gibson,641525,Brandon Dixon,R,Mitch Garver,641598,1,2,3,True,2019-08-24,Stolen,2B,2019,2020,25.3
+1,1966,1B,,Caught Stealing 2B,605612,Harold Castro,670950,Trevor Richards,641525,Brandon Dixon,R,Mike Zunino,572287,1,2,3,True,2019-08-18,Caught,2B,2019,2020,25.3
+2,2201,1B,2B,Stolen Base 2B,605612,Harold Castro,458681,Lance Lynn,622682,Victor Reyes,R,Jeff Mathis,425772,0,1,1,True,2019-08-02,Stolen,2B,2019,2020,25.3
+3,2826,1B,2B,Stolen Base 2B,605612,Harold Castro,545333,Trevor Bauer,493596,Gordon Beckham,R,Roberto Pérez,547379,2,3,4,True,2019-06-21,Stolen,2B,2019,2020,25.3
+4,2891,1B,,Caught Stealing 2B,605612,Harold Castro,656605,Mitch Keller,592444,JaCoby Jones,R,Elias Díaz,553869,0,0,2,True,2019-06-18,Caught,2B,2019,2020,25.3
+5,3116,1B,2B,Stolen Base 2B,605612,Harold Castro,450203,Charlie Morton,543308,John Hicks,R,Mike Zunino,572287,0,1,4,False,2019-06-05,Stolen,2B,2019,2020,25.3
+6,4722,1B,2B,Stolen Base 2B,605612,Harold Castro,502043,Kyle Gibson,641525,Brandon Dixon,R,Mitch Garver,641598,1,2,3,True,2019-08-24,Stolen,2B,2019,2020,25.3
+7,4809,1B,,Caught Stealing 2B,605612,Harold Castro,670950,Trevor Richards,641525,Brandon Dixon,R,Mike Zunino,572287,1,2,3,True,2019-08-18,Caught,2B,2019,2020,25.3
+8,5044,1B,2B,Stolen Base 2B,605612,Harold Castro,458681,Lance Lynn,622682,Victor Reyes,R,Jeff Mathis,425772,0,1,1,True,2019-08-02,Stolen,2B,2019,2020,25.3
+9,5669,1B,2B,Stolen Base 2B,605612,Harold Castro,545333,Trevor Bauer,493596,Gordon Beckham,R,Roberto Pérez,547379,2,3,4,True,2019-06-21,Stolen,2B,2019,2020,25.3
+10,5734,1B,,Caught Stealing 2B,605612,Harold Castro,656605,Mitch Keller,592444,JaCoby Jones,R,Elias Díaz,553869,0,0,2,True,2019-06-18,Caught,2B,2019,2020,25.3
+11,5959,1B,2B,Stolen Base 2B,605612,Harold Castro,450203,Charlie Morton,543308,John Hicks,R,Mike Zunino,572287,0,1,4,False,2019-06-05,Stolen,2B,2019,2020,25.3
+12,6646,1B,2B,Stolen Base 2B,605612,Harold Castro,502043,Kyle Gibson,641525,Brandon Dixon,R,Mitch Garver,641598,1,2,3,True,2019-08-24,Stolen,2B,2019,2020,25.3
+13,6733,1B,,Caught Stealing 2B,605612,Harold Castro,670950,Trevor Richards,641525,Brandon Dixon,R,Mike Zunino,572287,1,2,3,True,2019-08-18,Caught,2B,2019,2020,25.3
+14,6968,1B,2B,Stolen Base 2B,605612,Harold Castro,458681,Lance Lynn,622682,Victor Reyes,R,Jeff Mathis,425772,0,1,1,True,2019-08-02,Stolen,2B,2019,2020,25.3
+15,7593,1B,2B,Stolen Base 2B,605612,Harold Castro,545333,Trevor Bauer,493596,Gordon Beckham,R,Roberto Pérez,547379,2,3,4,True,2019-06-21,Stolen,2B,2019,2020,25.3
+16,7658,1B,,Caught Stealing 2B,605612,Harold Castro,656605,Mitch Keller,592444,JaCoby Jones,R,Elias Díaz,553869,0,0,2,True,2019-06-18,Caught,2B,2019,2020,25.3
+17,7883,1B,2B,Stolen Base 2B,605612,Harold Castro,450203,Charlie Morton,543308,John Hicks,R,Mike Zunino,572287,0,1,4,False,2019-06-05,Stolen,2B,2019,2020,25.3

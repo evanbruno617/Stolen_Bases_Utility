@@ -1,0 +1,24 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,228,1B,2B,Stolen Base 2B,621493,Taylor Ward,622065,Alex Young,621532,Anthony Bemboom,L,Carson Kelly,608348,6,0,3,False,2020-09-17,Stolen,2B,2020,2021,28.2
+1,378,1B,2B,Stolen Base 2B,621493,Taylor Ward,502043,Kyle Gibson,650859,Luis Rengifo,R,Jeff Mathis,425772,1,3,2,True,2020-09-10,Stolen,2B,2020,2021,28.2
+2,3071,1B,2B,Stolen Base 2B,621493,Taylor Ward,622065,Alex Young,621532,Anthony Bemboom,L,Carson Kelly,608348,6,0,3,False,2020-09-17,Stolen,2B,2020,2021,28.2
+3,3221,1B,2B,Stolen Base 2B,621493,Taylor Ward,502043,Kyle Gibson,650859,Luis Rengifo,R,Jeff Mathis,425772,1,3,2,True,2020-09-10,Stolen,2B,2020,2021,28.2
+4,4995,1B,2B,Stolen Base 2B,621493,Taylor Ward,622065,Alex Young,621532,Anthony Bemboom,L,Carson Kelly,608348,6,0,3,False,2020-09-17,Stolen,2B,2020,2021,28.2
+5,5145,1B,2B,Stolen Base 2B,621493,Taylor Ward,502043,Kyle Gibson,650859,Luis Rengifo,R,Jeff Mathis,425772,1,3,2,True,2020-09-10,Stolen,2B,2020,2021,28.2
+6,1915,1B,2B,Stolen Base 2B,621493,Taylor Ward,500610,Deolis Guerra,642221,Kean Wong,R,Aramis Garcia,605244,0,4,8,True,2021-05-29,Stolen,2B,2021,2022,28.4
+7,2207,1B,,Caught Stealing 2B,621493,Taylor Ward,621121,Lance McCullers Jr.,594838,Phil Gosselin,R,Martín Maldonado,455117,0,0,3,True,2021-05-11,Caught,2B,2021,2022,28.4
+8,3839,1B,2B,Stolen Base 2B,621493,Taylor Ward,500610,Deolis Guerra,642221,Kean Wong,R,Aramis Garcia,605244,0,4,8,True,2021-05-29,Stolen,2B,2021,2022,28.4
+9,4131,1B,,Caught Stealing 2B,621493,Taylor Ward,621121,Lance McCullers Jr.,594838,Phil Gosselin,R,Martín Maldonado,455117,0,0,3,True,2021-05-11,Caught,2B,2021,2022,28.4
+10,1652,1B,2B,Stolen Base 2B,621493,Taylor Ward,674370,Osvaldo Bido,592669,Hunter Renfroe,R,Endy Rodríguez,682848,0,0,2,False,2023-07-22,Stolen,2B,2023,2024,26.8
+11,2393,1B,2B,Stolen Base 2B,621493,Taylor Ward,663804,Jackson Kowar,683021,Michael Stefanic,R,Salvador Perez,521692,2,7,6,True,2023-06-17,Stolen,2B,2023,2024,26.8
+12,2628,1B,2B,Stolen Base 2B,621493,Taylor Ward,592767,Drew Smyly,660271,Shohei Ohtani,L,Yan Gomes,543228,3,1,6,False,2023-06-08,Stolen,2B,2023,2024,26.8
+13,2837,2B,,Caught Stealing 3B,621493,Taylor Ward,458681,Lance Lynn,570482,Gio Urshela,R,Yasmani Grandal,518735,0,2,1,True,2023-05-31,Caught,3B,2023,2024,26.8
+14,3341,1B,,Caught Stealing 2B,621493,Taylor Ward,686613,Hunter Brown,543685,Anthony Rendon,R,Yainer Diaz,673237,0,0,1,False,2023-05-08,Caught,2B,2023,2024,26.8
+15,6066,1B,2B,Stolen Base 2B,621493,Taylor Ward,674370,Osvaldo Bido,592669,Hunter Renfroe,R,Endy Rodríguez,682848,0,0,2,False,2023-07-22,Stolen,2B,2023,2024,26.8
+16,6807,1B,2B,Stolen Base 2B,621493,Taylor Ward,663804,Jackson Kowar,683021,Michael Stefanic,R,Salvador Perez,521692,2,7,6,True,2023-06-17,Stolen,2B,2023,2024,26.8
+17,7042,1B,2B,Stolen Base 2B,621493,Taylor Ward,592767,Drew Smyly,660271,Shohei Ohtani,L,Yan Gomes,543228,3,1,6,False,2023-06-08,Stolen,2B,2023,2024,26.8
+18,7251,2B,,Caught Stealing 3B,621493,Taylor Ward,458681,Lance Lynn,570482,Gio Urshela,R,Yasmani Grandal,518735,0,2,1,True,2023-05-31,Caught,3B,2023,2024,26.8
+19,7755,1B,,Caught Stealing 2B,621493,Taylor Ward,686613,Hunter Brown,543685,Anthony Rendon,R,Yainer Diaz,673237,0,0,1,False,2023-05-08,Caught,2B,2023,2024,26.8
+20,360,2B,3B,Stolen Base 3B,621493,Taylor Ward,625643,Reynaldo López,642180,Tyler Wade,R,Seby Zavala,664874,4,3,7,False,2022-06-27,Stolen,3B,2022,2023,28.0
+21,1607,1B,,Caught Stealing 2B,621493,Taylor Ward,664299,Cristian Javier,543685,Anthony Rendon,R,Jason Castro,488771,0,6,4,True,2022-04-20,Caught,2B,2022,2023,28.0
+22,1680,1B,2B,Stolen Base 2B,621493,Taylor Ward,572070,Garrett Richards,545358,Max Stassi,R,Jonah Heim,641680,2,3,5,True,2022-04-16,Stolen,2B,2022,2023,28.0

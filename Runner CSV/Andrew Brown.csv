@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+83,1B,2B,Stolen Base 2B,518500,Andrew Brown,Welington Castillo,6,0,6,False,2012-09-26,Stolen,2B,2012
+568,1B,,Caught Stealing 2B,518500,Andrew Brown,Erik Kratz,2,2,9,True,2012-09-07,Caught,2B,2012
+718,1B,2B,Stolen Base 2B,518500,Andrew Brown,Yasmani Grandal,3,4,6,False,2012-08-31,Stolen,2B,2012
+670,1B,2B,Stolen Base 2B,518500,Andrew Brown,Carlos Ruiz,4,0,5,False,2013-08-29,Stolen,2B,2013

@@ -1,0 +1,4 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,111531,Adrian Brown,George Williams,0,0,1,True,2000-09-02,Stolen,2B,2000
+2B,3B,Stolen Base 3B,123639,John Vander Wal,George Williams,0,2,3,True,2000-09-02,Stolen,3B,2000
+1B,2B,Stolen Base 2B,150255,Warren Morris,George Williams,0,2,3,True,2000-09-02,Stolen,2B,2000

@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+96,1B,,Caught Stealing 2B,406428,Tim Raines,Brandon Inge,3,0,6,False,2004-09-26,Caught,2B,2004
+290,1B,2B,Stolen Base 2B,406428,Tim Raines,Pat Borders,2,1,6,True,2004-09-17,Stolen,2B,2004
+606,1B,2B,Stolen Base 2B,406428,Tim Raines,Brook Fordyce,0,4,6,True,2004-09-01,Stolen,2B,2004
+656,1B,2B,Stolen Base 2B,406428,Tim Raines,Gerald Laird,1,0,3,True,2004-08-29,Stolen,2B,2004
+1711,1B,2B,Stolen Base 2B,406428,Tim Raines,Toby Hall,2,0,5,False,2004-07-05,Stolen,2B,2004
+1824,2B,3B,Stolen Base 3B,406428,Tim Raines,Alberto Castillo,0,7,7,True,2004-06-28,Stolen,3B,2004
+2239,1B,,Caught Stealing 2B,406428,Tim Raines,Robby Hammock,0,2,3,False,2004-06-08,Caught,2B,2004
+2360,2B,3B,Stolen Base 3B,406428,Tim Raines,Jorge Posada,6,5,9,True,2004-06-02,Stolen,3B,2004
+3289,1B,,Caught Stealing 2B,406428,Tim Raines,Greg Myers,3,3,8,True,2004-04-17,Caught,2B,2004
+3328,1B,2B,Stolen Base 2B,406428,Tim Raines,Jason Varitek,7,7,9,True,2004-04-15,Stolen,2B,2004

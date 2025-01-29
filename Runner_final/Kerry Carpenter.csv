@@ -1,0 +1,13 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,31,1B,2B,Stolen Base 2B,681481,Kerry Carpenter,675916,James Karinchak,663837,Matt Vierling,R,Bo Naylor,666310,4,0,7,False,2023-09-30,Stolen,2B,2023,2024,27.7
+1,537,1B,2B,Stolen Base 2B,681481,Kerry Carpenter,570632,José Ureña,663837,Matt Vierling,R,Korey Lee,686676,0,0,1,False,2023-09-09,Stolen,2B,2023,2024,27.7
+2,605,1B,2B,Stolen Base 2B,681481,Kerry Carpenter,607074,Carlos Rodón,663527,Tyler Nevin,L,Kyle Higashioka,543309,1,5,4,True,2023-09-07,Stolen,2B,2023,2024,27.7
+3,708,1B,2B,Stolen Base 2B,681481,Kerry Carpenter,621383,Tanner Banks,663837,Matt Vierling,L,Korey Lee,686676,2,2,3,True,2023-09-03,Stolen,2B,2023,2024,27.7
+4,784,1B,2B,Stolen Base 2B,681481,Kerry Carpenter,657376,Clarke Schmidt,678009,Parker Meadows,R,Kyle Higashioka,543309,0,0,4,False,2023-08-31,Stolen,2B,2023,2024,27.7
+5,893,1B,2B,Stolen Base 2B,681481,Kerry Carpenter,686613,Hunter Brown,663837,Matt Vierling,R,Yainer Diaz,673237,0,1,4,False,2023-08-26,Stolen,2B,2023,2024,27.7
+6,4445,1B,2B,Stolen Base 2B,681481,Kerry Carpenter,675916,James Karinchak,663837,Matt Vierling,R,Bo Naylor,666310,4,0,7,False,2023-09-30,Stolen,2B,2023,2024,27.7
+7,4951,1B,2B,Stolen Base 2B,681481,Kerry Carpenter,570632,José Ureña,663837,Matt Vierling,R,Korey Lee,686676,0,0,1,False,2023-09-09,Stolen,2B,2023,2024,27.7
+8,5019,1B,2B,Stolen Base 2B,681481,Kerry Carpenter,607074,Carlos Rodón,663527,Tyler Nevin,L,Kyle Higashioka,543309,1,5,4,True,2023-09-07,Stolen,2B,2023,2024,27.7
+9,5122,1B,2B,Stolen Base 2B,681481,Kerry Carpenter,621383,Tanner Banks,663837,Matt Vierling,L,Korey Lee,686676,2,2,3,True,2023-09-03,Stolen,2B,2023,2024,27.7
+10,5198,1B,2B,Stolen Base 2B,681481,Kerry Carpenter,657376,Clarke Schmidt,678009,Parker Meadows,R,Kyle Higashioka,543309,0,0,4,False,2023-08-31,Stolen,2B,2023,2024,27.7
+11,5307,1B,2B,Stolen Base 2B,681481,Kerry Carpenter,686613,Hunter Brown,663837,Matt Vierling,R,Yainer Diaz,673237,0,1,4,False,2023-08-26,Stolen,2B,2023,2024,27.7

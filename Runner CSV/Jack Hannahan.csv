@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+904,1B,2B,Stolen Base 2B,435219,Jack Hannahan,Gregg Zaun,0,0,3,True,2007-08-22,Stolen,2B,2007
+1716,1B,2B,Stolen Base 2B,435219,Jack Hannahan,Jeff Mathis,2,2,6,True,2008-07-01,Stolen,2B,2008
+2835,1B,2B,Stolen Base 2B,435219,Jack Hannahan,Jarrod Saltalamacchia,6,10,9,True,2008-05-11,Stolen,2B,2008
+31,1B,,Caught Stealing 2B,435219,Jack Hannahan,Jarrod Saltalamacchia,1,5,5,True,2009-08-01,Caught,2B,2009
+404,1B,2B,Stolen Base 2B,435219,Jack Hannahan,Victor Martinez,0,4,6,True,2009-07-17,Stolen,2B,2009
+2907,1B,2B,Stolen Base 2B,435219,Jack Hannahan,J.P. Arencibia,0,3,4,True,2011-05-31,Stolen,2B,2011
+3120,1B,,Caught Stealing 2B,435219,Jack Hannahan,Jarrod Saltalamacchia,1,2,5,False,2011-05-23,Caught,2B,2011
+3529,1B,2B,Caught Stealing 3B,435219,Jack Hannahan,Kurt Suzuki,2,4,12,True,2011-05-05,Caught,3B,2011
+3746,1B,2B,Stolen Base 2B,435219,Jack Hannahan,Brayan Peña,6,2,3,False,2011-04-27,Stolen,2B,2011
+2288,1B,,Caught Stealing 2B,435219,Jack Hannahan,Jason Castro,0,0,3,True,2012-06-23,Caught,2B,2012
+3705,2B,,Caught Stealing 3B,435219,Jack Hannahan,Kurt Suzuki,0,1,2,True,2012-04-22,Caught,3B,2012

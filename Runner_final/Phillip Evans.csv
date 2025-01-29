@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1193,1B,,Caught Stealing 2B,595943,Phillip Evans,641712,Dakota Hudson,591741,José Osuna,R,Yadier Molina,425877,0,0,2,True,2020-07-26,Caught,2B,2020,2021,27.6
+1,4036,1B,,Caught Stealing 2B,595943,Phillip Evans,641712,Dakota Hudson,591741,José Osuna,R,Yadier Molina,425877,0,0,2,True,2020-07-26,Caught,2B,2020,2021,27.6
+2,5960,1B,,Caught Stealing 2B,595943,Phillip Evans,641712,Dakota Hudson,591741,José Osuna,R,Yadier Molina,425877,0,0,2,True,2020-07-26,Caught,2B,2020,2021,27.6

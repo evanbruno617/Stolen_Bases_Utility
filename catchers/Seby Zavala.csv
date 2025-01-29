@@ -1,0 +1,228 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,516782,Starling Marte,625643,Reynaldo López,621566,Matt Olson,R,Seby Zavala,664874,1,1,3,False,2021-09-09,Stolen,2B,2021,2022, 82.2, 0.74
+1,2B,3B,Stolen Base 3B,670032,Nicky Lopez,656302,Dylan Cease,643217,Andrew Benintendi,R,Seby Zavala,664874,4,0,5,False,2021-09-05,Stolen,3B,2021,2022, 82.2, 0.74
+2,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,641582,Matt Foster,572191,Michael A. Taylor,R,Seby Zavala,664874,4,0,6,False,2021-09-05,Stolen,2B,2021,2022, 82.2, 0.74
+3,2B,3B,Stolen Base 3B,609275,Adalberto Mondesi,641582,Matt Foster,658668,Edward Olivares,R,Seby Zavala,664874,4,0,6,False,2021-09-05,Stolen,3B,2021,2022, 82.2, 0.74
+4,2B,3B,Stolen Base 3B,609275,Adalberto Mondesi,572971,Dallas Keuchel,572191,Michael A. Taylor,L,Seby Zavala,664874,6,0,3,False,2021-09-03,Stolen,3B,2021,2022, 82.2, 0.74
+5,1B,,Caught Stealing 2B,572191,Michael A. Taylor,572971,Dallas Keuchel,643217,Andrew Benintendi,L,Seby Zavala,664874,6,0,3,False,2021-09-03,Caught,2B,2021,2022, 82.2, 0.74
+6,1B,2B,Stolen Base 2B,669289,Santiago Espinal,458681,Lance Lynn,624512,Reese McGuire,R,Seby Zavala,664874,0,0,3,False,2021-08-23,Stolen,2B,2021,2022, 82.2, 0.74
+7,1B,2B,Stolen Base 2B,665489,Vladimir Guerrero Jr.,518886,Craig Kimbrel,606192,Teoscar Hernández,R,Seby Zavala,664874,2,1,8,False,2021-08-23,Stolen,2B,2021,2022, 82.2, 0.74
+8,1B,,Caught Stealing 2B,650490,Yandy Díaz,605541,Mike Wright Jr.,677551,Wander Franco,R,Seby Zavala,664874,6,2,7,False,2021-08-21,Caught,2B,2021,2022, 82.2, 0.74
+9,1B,2B,Stolen Base 2B,622534,Manuel Margot,518886,Craig Kimbrel,572287,Mike Zunino,R,Seby Zavala,664874,2,4,8,False,2021-08-20,Stolen,2B,2021,2022, 82.2, 0.74
+10,1B,2B,Stolen Base 2B,516782,Starling Marte,458681,Lance Lynn,621566,Matt Olson,R,Seby Zavala,664874,0,0,1,True,2021-08-18,Stolen,2B,2021,2022, 82.2, 0.74
+11,1B,2B,Stolen Base 2B,592192,Mark Canha,607481,Aaron Bummer,476704,Jed Lowrie,L,Seby Zavala,664874,3,2,7,True,2021-08-18,Stolen,2B,2021,2022, 82.2, 0.74
+12,1B,2B,Stolen Base 2B,592450,Aaron Judge,614179,José Ruiz,608336,Joey Gallo,R,Seby Zavala,664874,0,3,6,True,2021-08-15,Stolen,2B,2021,2022, 82.2, 0.74
+13,1B,2B,Stolen Base 2B,642180,Tyler Wade,656629,Michael Kopech,518934,DJ LeMahieu,R,Seby Zavala,664874,7,4,7,True,2021-08-12,Stolen,2B,2021,2022, 82.2, 0.74
+14,1B,2B,Stolen Base 2B,542364,Rafael Ortega,656302,Dylan Cease,622110,Matt Duffy,R,Seby Zavala,664874,2,7,2,False,2021-08-08,Stolen,2B,2021,2022, 82.2, 0.74
+15,1B,2B,Stolen Base 2B,641561,Johneshwy Fargas,521230,Liam Hendriks,642727,Sergio Alcántara,R,Seby Zavala,664874,4,4,8,False,2021-08-06,Stolen,2B,2021,2022, 82.2, 0.74
+16,1B,2B,Stolen Base 2B,622110,Matt Duffy,521230,Liam Hendriks,664023,Ian Happ,R,Seby Zavala,664874,4,4,9,False,2021-08-06,Stolen,2B,2021,2022, 82.2, 0.74
+17,1B,2B,Stolen Base 2B,593160,Whit Merrifield,625643,Reynaldo López,467793,Carlos Santana,R,Seby Zavala,664874,1,3,7,True,2021-08-05,Stolen,2B,2021,2022, 82.2, 0.74
+18,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,676979,Garrett Crochet,670032,Nicky Lopez,L,Seby Zavala,664874,2,3,9,True,2021-08-05,Stolen,2B,2021,2022, 82.2, 0.74
+19,1B,2B,Stolen Base 2B,658668,Edward Olivares,656302,Dylan Cease,593160,Whit Merrifield,R,Seby Zavala,664874,1,0,3,True,2021-08-03,Stolen,2B,2021,2022, 82.2, 0.74
+20,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,656302,Dylan Cease,656811,Ryan O'Hearn,R,Seby Zavala,664874,3,0,4,True,2021-08-03,Stolen,2B,2021,2022, 82.2, 0.74
+21,1B,2B,Stolen Base 2B,605548,Bradley Zimmer,669424,Jimmy Lambert,642708,Amed Rosario,R,Seby Zavala,664874,0,1,3,True,2021-08-01,Stolen,2B,2021,2022, 82.2, 0.74
+22,1B,2B,Stolen Base 2B,614177,Franmil Reyes,521230,Liam Hendriks,640458,Óscar Mercado,R,Seby Zavala,664874,1,1,9,True,2021-08-01,Stolen,2B,2021,2022, 82.2, 0.74
+23,1B,2B,Stolen Base 2B,608070,José Ramírez,656629,Michael Kopech,614177,Franmil Reyes,R,Seby Zavala,664874,6,8,7,True,2021-07-31,Stolen,2B,2021,2022, 82.2, 0.74
+24,1B,2B,Stolen Base 2B,669288,Daniel Johnson,458681,Lance Lynn,547379,Roberto Pérez,R,Seby Zavala,664874,1,2,4,True,2021-07-30,Stolen,2B,2021,2022, 82.2, 0.74
+25,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,656302,Dylan Cease,670032,Nicky Lopez,R,Seby Zavala,664874,2,0,2,False,2021-07-27,Stolen,2B,2021,2022, 82.2, 0.74
+26,1B,,Caught Stealing 2B,641531,Hunter Dozier,625643,Reynaldo López,572191,Michael A. Taylor,R,Seby Zavala,664874,3,1,7,False,2021-07-27,Caught,2B,2021,2022, 82.2, 0.74
+27,1B,,Caught Stealing 2B,572191,Michael A. Taylor,572971,Dallas Keuchel,502481,Jarrod Dyson,L,Seby Zavala,664874,2,0,5,False,2021-07-26,Caught,2B,2021,2022, 82.2, 0.74
+28,1B,2B,Stolen Base 2B,596146,Max Kepler,621114,Ryan Burr,593934,Miguel Sanó,R,Seby Zavala,664874,4,5,8,True,2021-07-20,Stolen,2B,2021,2022, 82.2, 0.74
+29,1B,2B,Stolen Base 2B,593871,Jorge Polanco,621114,Ryan Burr,596146,Max Kepler,R,Seby Zavala,664874,1,3,8,True,2021-07-19,Stolen,2B,2021,2022, 82.2, 0.74
+30,1B,2B,Stolen Base 2B,656775,Cedric Mullins,656302,Dylan Cease,623993,Anthony Santander,R,Seby Zavala,664874,2,0,3,False,2021-07-11,Stolen,2B,2021,2022, 82.2, 0.74
+31,1B,2B,Stolen Base 2B,516782,Starling Marte,625643,Reynaldo López,621566,Matt Olson,R,Seby Zavala,664874,1,1,3,False,2021-09-09,Stolen,2B,2021,2022, 82.2, 0.74
+32,2B,3B,Stolen Base 3B,670032,Nicky Lopez,656302,Dylan Cease,643217,Andrew Benintendi,R,Seby Zavala,664874,4,0,5,False,2021-09-05,Stolen,3B,2021,2022, 82.2, 0.74
+33,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,641582,Matt Foster,572191,Michael A. Taylor,R,Seby Zavala,664874,4,0,6,False,2021-09-05,Stolen,2B,2021,2022, 82.2, 0.74
+34,2B,3B,Stolen Base 3B,609275,Adalberto Mondesi,641582,Matt Foster,658668,Edward Olivares,R,Seby Zavala,664874,4,0,6,False,2021-09-05,Stolen,3B,2021,2022, 82.2, 0.74
+35,2B,3B,Stolen Base 3B,609275,Adalberto Mondesi,572971,Dallas Keuchel,572191,Michael A. Taylor,L,Seby Zavala,664874,6,0,3,False,2021-09-03,Stolen,3B,2021,2022, 82.2, 0.74
+36,1B,,Caught Stealing 2B,572191,Michael A. Taylor,572971,Dallas Keuchel,643217,Andrew Benintendi,L,Seby Zavala,664874,6,0,3,False,2021-09-03,Caught,2B,2021,2022, 82.2, 0.74
+37,1B,2B,Stolen Base 2B,669289,Santiago Espinal,458681,Lance Lynn,624512,Reese McGuire,R,Seby Zavala,664874,0,0,3,False,2021-08-23,Stolen,2B,2021,2022, 82.2, 0.74
+38,1B,2B,Stolen Base 2B,665489,Vladimir Guerrero Jr.,518886,Craig Kimbrel,606192,Teoscar Hernández,R,Seby Zavala,664874,2,1,8,False,2021-08-23,Stolen,2B,2021,2022, 82.2, 0.74
+39,1B,,Caught Stealing 2B,650490,Yandy Díaz,605541,Mike Wright Jr.,677551,Wander Franco,R,Seby Zavala,664874,6,2,7,False,2021-08-21,Caught,2B,2021,2022, 82.2, 0.74
+40,1B,2B,Stolen Base 2B,622534,Manuel Margot,518886,Craig Kimbrel,572287,Mike Zunino,R,Seby Zavala,664874,2,4,8,False,2021-08-20,Stolen,2B,2021,2022, 82.2, 0.74
+41,1B,2B,Stolen Base 2B,516782,Starling Marte,458681,Lance Lynn,621566,Matt Olson,R,Seby Zavala,664874,0,0,1,True,2021-08-18,Stolen,2B,2021,2022, 82.2, 0.74
+42,1B,2B,Stolen Base 2B,592192,Mark Canha,607481,Aaron Bummer,476704,Jed Lowrie,L,Seby Zavala,664874,3,2,7,True,2021-08-18,Stolen,2B,2021,2022, 82.2, 0.74
+43,1B,2B,Stolen Base 2B,592450,Aaron Judge,614179,José Ruiz,608336,Joey Gallo,R,Seby Zavala,664874,0,3,6,True,2021-08-15,Stolen,2B,2021,2022, 82.2, 0.74
+44,1B,2B,Stolen Base 2B,642180,Tyler Wade,656629,Michael Kopech,518934,DJ LeMahieu,R,Seby Zavala,664874,7,4,7,True,2021-08-12,Stolen,2B,2021,2022, 82.2, 0.74
+45,1B,2B,Stolen Base 2B,542364,Rafael Ortega,656302,Dylan Cease,622110,Matt Duffy,R,Seby Zavala,664874,2,7,2,False,2021-08-08,Stolen,2B,2021,2022, 82.2, 0.74
+46,1B,2B,Stolen Base 2B,641561,Johneshwy Fargas,521230,Liam Hendriks,642727,Sergio Alcántara,R,Seby Zavala,664874,4,4,8,False,2021-08-06,Stolen,2B,2021,2022, 82.2, 0.74
+47,1B,2B,Stolen Base 2B,622110,Matt Duffy,521230,Liam Hendriks,664023,Ian Happ,R,Seby Zavala,664874,4,4,9,False,2021-08-06,Stolen,2B,2021,2022, 82.2, 0.74
+48,1B,2B,Stolen Base 2B,593160,Whit Merrifield,625643,Reynaldo López,467793,Carlos Santana,R,Seby Zavala,664874,1,3,7,True,2021-08-05,Stolen,2B,2021,2022, 82.2, 0.74
+49,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,676979,Garrett Crochet,670032,Nicky Lopez,L,Seby Zavala,664874,2,3,9,True,2021-08-05,Stolen,2B,2021,2022, 82.2, 0.74
+50,1B,2B,Stolen Base 2B,658668,Edward Olivares,656302,Dylan Cease,593160,Whit Merrifield,R,Seby Zavala,664874,1,0,3,True,2021-08-03,Stolen,2B,2021,2022, 82.2, 0.74
+51,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,656302,Dylan Cease,656811,Ryan O'Hearn,R,Seby Zavala,664874,3,0,4,True,2021-08-03,Stolen,2B,2021,2022, 82.2, 0.74
+52,1B,2B,Stolen Base 2B,605548,Bradley Zimmer,669424,Jimmy Lambert,642708,Amed Rosario,R,Seby Zavala,664874,0,1,3,True,2021-08-01,Stolen,2B,2021,2022, 82.2, 0.74
+53,1B,2B,Stolen Base 2B,614177,Franmil Reyes,521230,Liam Hendriks,640458,Óscar Mercado,R,Seby Zavala,664874,1,1,9,True,2021-08-01,Stolen,2B,2021,2022, 82.2, 0.74
+54,1B,2B,Stolen Base 2B,608070,José Ramírez,656629,Michael Kopech,614177,Franmil Reyes,R,Seby Zavala,664874,6,8,7,True,2021-07-31,Stolen,2B,2021,2022, 82.2, 0.74
+55,1B,2B,Stolen Base 2B,669288,Daniel Johnson,458681,Lance Lynn,547379,Roberto Pérez,R,Seby Zavala,664874,1,2,4,True,2021-07-30,Stolen,2B,2021,2022, 82.2, 0.74
+56,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,656302,Dylan Cease,670032,Nicky Lopez,R,Seby Zavala,664874,2,0,2,False,2021-07-27,Stolen,2B,2021,2022, 82.2, 0.74
+57,1B,,Caught Stealing 2B,641531,Hunter Dozier,625643,Reynaldo López,572191,Michael A. Taylor,R,Seby Zavala,664874,3,1,7,False,2021-07-27,Caught,2B,2021,2022, 82.2, 0.74
+58,1B,,Caught Stealing 2B,572191,Michael A. Taylor,572971,Dallas Keuchel,502481,Jarrod Dyson,L,Seby Zavala,664874,2,0,5,False,2021-07-26,Caught,2B,2021,2022, 82.2, 0.74
+59,1B,2B,Stolen Base 2B,596146,Max Kepler,621114,Ryan Burr,593934,Miguel Sanó,R,Seby Zavala,664874,4,5,8,True,2021-07-20,Stolen,2B,2021,2022, 82.2, 0.74
+60,1B,2B,Stolen Base 2B,593871,Jorge Polanco,621114,Ryan Burr,596146,Max Kepler,R,Seby Zavala,664874,1,3,8,True,2021-07-19,Stolen,2B,2021,2022, 82.2, 0.74
+61,1B,2B,Stolen Base 2B,656775,Cedric Mullins,656302,Dylan Cease,623993,Anthony Santander,R,Seby Zavala,664874,2,0,3,False,2021-07-11,Stolen,2B,2021,2022, 82.2, 0.74
+62,1B,2B,Stolen Base 2B,682626,Francisco Alvarez,573009,Joe Mantiply,607043,Brandon Nimmo,L,Seby Zavala,664874,6,2,6,False,2023-09-12,Stolen,2B,2023,2024, 82.3, 0.62
+63,2B,3B,Stolen Base 3B,677595,Ronny Mauricio,623149,Paul Sewald,596129,Daniel Vogelbach,R,Seby Zavala,664874,3,4,9,False,2023-09-11,Stolen,3B,2023,2024, 82.3, 0.62
+64,1B,2B,Stolen Base 2B,641796,Tim Locastro,623149,Paul Sewald,607043,Brandon Nimmo,R,Seby Zavala,664874,3,4,9,False,2023-09-11,Stolen,2B,2023,2024, 82.3, 0.62
+65,1B,2B,Stolen Base 2B,663538,Nico Hoerner,573009,Joe Mantiply,673548,Seiya Suzuki,L,Seby Zavala,664874,1,0,1,False,2023-09-10,Stolen,2B,2023,2024, 82.3, 0.62
+66,1B,2B,Stolen Base 2B,663611,Nick Madrigal,694297,Brandon Pfaadt,666624,Christopher Morel,R,Seby Zavala,664874,4,0,4,False,2023-09-10,Stolen,2B,2023,2024, 82.3, 0.62
+67,1B,2B,Stolen Base 2B,663538,Nico Hoerner,694297,Brandon Pfaadt,621020,Dansby Swanson,R,Seby Zavala,664874,5,1,5,False,2023-09-10,Stolen,2B,2023,2024, 82.3, 0.62
+68,1B,2B,Stolen Base 2B,666310,Bo Naylor,656302,Dylan Cease,664702,Myles Straw,R,Seby Zavala,664874,3,4,6,True,2023-07-27,Stolen,2B,2023,2024, 82.3, 0.62
+69,1B,2B,Stolen Base 2B,665926,Andrés Giménez,607481,Aaron Bummer,608070,José Ramírez,L,Seby Zavala,664874,3,4,7,True,2023-07-27,Stolen,2B,2023,2024, 82.3, 0.62
+70,1B,2B,Stolen Base 2B,663538,Nico Hoerner,458681,Lance Lynn,664023,Ian Happ,R,Seby Zavala,664874,2,2,2,True,2023-07-26,Stolen,2B,2023,2024, 82.3, 0.62
+71,1B,2B,Stolen Base 2B,666624,Christopher Morel,523260,Joe Kelly,670156,Miles Mastrobuoni,R,Seby Zavala,664874,7,6,5,True,2023-07-26,Stolen,2B,2023,2024, 82.3, 0.62
+72,1B,2B,Stolen Base 2B,670156,Miles Mastrobuoni,523260,Joe Kelly,543228,Yan Gomes,R,Seby Zavala,664874,7,6,5,True,2023-07-26,Stolen,2B,2023,2024, 82.3, 0.62
+73,1B,2B,Stolen Base 2B,673548,Seiya Suzuki,607481,Aaron Bummer,621020,Dansby Swanson,L,Seby Zavala,664874,7,8,6,True,2023-07-26,Stolen,2B,2023,2024, 82.3, 0.62
+74,1B,,Caught Stealing 2B,673548,Seiya Suzuki,641871,Keynan Middleton,666624,Christopher Morel,R,Seby Zavala,664874,7,10,8,True,2023-07-26,Caught,2B,2023,2024, 82.3, 0.62
+75,2B,3B,Stolen Base 3B,650489,Willi Castro,621383,Tanner Banks,666135,Alex Kirilloff,L,Seby Zavala,664874,4,4,11,False,2023-07-23,Stolen,3B,2023,2024, 82.3, 0.62
+76,1B,2B,Stolen Base 2B,621439,Byron Buxton,641871,Keynan Middleton,571657,Kyle Farmer,R,Seby Zavala,664874,1,2,7,False,2023-07-22,Stolen,2B,2023,2024, 82.3, 0.62
+77,1B,2B,Stolen Base 2B,502054,Tommy Pham,608337,Lucas Giolito,624413,Pete Alonso,R,Seby Zavala,664874,7,2,4,False,2023-07-18,Stolen,2B,2023,2024, 82.3, 0.62
+78,1B,2B,Stolen Base 2B,671739,Michael Harris II,625643,Reynaldo López,606115,Orlando Arcia,R,Seby Zavala,664874,1,8,6,False,2023-07-16,Stolen,2B,2023,2024, 82.3, 0.62
+79,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,666619,Gregory Santos,645277,Ozzie Albies,R,Seby Zavala,664874,4,6,7,False,2023-07-15,Stolen,2B,2023,2024, 82.3, 0.62
+80,1B,2B,Stolen Base 2B,645277,Ozzie Albies,608665,Kendall Graveman,663586,Austin Riley,R,Seby Zavala,664874,5,6,9,False,2023-07-15,Stolen,2B,2023,2024, 82.3, 0.62
+81,1B,,Caught Stealing 2B,502671,Paul Goldschmidt,608337,Lucas Giolito,571448,Nolan Arenado,R,Seby Zavala,664874,1,0,4,True,2023-07-09,Caught,2B,2023,2024, 82.3, 0.62
+82,1B,,Caught Stealing 2B,657557,Paul DeJong,666619,Gregory Santos,665877,José Fermín,R,Seby Zavala,664874,2,2,8,True,2023-07-09,Caught,2B,2023,2024, 82.3, 0.62
+83,1B,2B,Stolen Base 2B,593160,Whit Merrifield,625643,Reynaldo López,595281,Kevin Kiermaier,R,Seby Zavala,664874,3,2,7,True,2023-07-04,Stolen,2B,2023,2024, 82.3, 0.62
+84,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,625643,Reynaldo López,666182,Bo Bichette,R,Seby Zavala,664874,3,2,7,True,2023-07-04,Stolen,2B,2023,2024, 82.3, 0.62
+85,1B,2B,Stolen Base 2B,643393,Tony Kemp,657053,Touki Toussaint,676116,Ryan Noda,R,Seby Zavala,664874,1,5,3,False,2023-07-02,Stolen,2B,2023,2024, 82.3, 0.62
+86,1B,,Caught Stealing 2B,650859,Luis Rengifo,656629,Michael Kopech,595453,Chad Wallach,R,Seby Zavala,664874,1,0,2,False,2023-06-27,Caught,2B,2023,2024, 82.3, 0.62
+87,1B,,Caught Stealing 2B,595453,Chad Wallach,656629,Michael Kopech,664058,David Fletcher,R,Seby Zavala,664874,1,0,2,False,2023-06-27,Caught,2B,2023,2024, 82.3, 0.62
+88,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,666619,Gregory Santos,519058,Mike Moustakas,R,Seby Zavala,664874,4,1,7,False,2023-06-27,Stolen,2B,2023,2024, 82.3, 0.62
+89,2B,3B,Stolen Base 3B,545361,Mike Trout,607481,Aaron Bummer,592273,Brandon Drury,L,Seby Zavala,664874,1,1,9,False,2023-06-26,Stolen,3B,2023,2024, 82.3, 0.62
+90,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,607481,Aaron Bummer,592273,Brandon Drury,L,Seby Zavala,664874,1,1,9,False,2023-06-26,Stolen,2B,2023,2024, 82.3, 0.62
+91,1B,2B,Stolen Base 2B,666152,David Hamilton,608337,Lucas Giolito,608701,Rob Refsnyder,R,Seby Zavala,664874,0,1,3,True,2023-06-23,Stolen,2B,2023,2024, 82.3, 0.62
+92,1B,2B,Stolen Base 2B,571771,Enrique Hernández,608337,Lucas Giolito,666152,David Hamilton,R,Seby Zavala,664874,1,3,5,True,2023-06-23,Stolen,2B,2023,2024, 82.3, 0.62
+93,1B,2B,Stolen Base 2B,677649,Ezequiel Duran,669424,Jimmy Lambert,608671,Travis Jankowski,R,Seby Zavala,664874,1,6,5,True,2023-06-21,Stolen,2B,2023,2024, 82.3, 0.62
+94,1B,,Caught Stealing 2B,664238,Dylan Moore,608337,Lucas Giolito,676609,José Caballero,R,Seby Zavala,664874,2,1,2,False,2023-06-17,Caught,2B,2023,2024, 82.3, 0.62
+95,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,608337,Lucas Giolito,606192,Teoscar Hernández,R,Seby Zavala,664874,3,2,5,False,2023-06-17,Stolen,2B,2023,2024, 82.3, 0.62
+96,2B,3B,Stolen Base 3B,677594,Julio Rodríguez,607481,Aaron Bummer,663728,Cal Raleigh,L,Seby Zavala,664874,3,3,10,False,2023-06-17,Stolen,3B,2023,2024, 82.3, 0.62
+97,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,607481,Aaron Bummer,663728,Cal Raleigh,L,Seby Zavala,664874,3,3,10,False,2023-06-17,Stolen,2B,2023,2024, 82.3, 0.62
+98,1B,2B,Stolen Base 2B,676609,José Caballero,656629,Michael Kopech,641487,J.P. Crawford,R,Seby Zavala,664874,0,0,4,False,2023-06-16,Stolen,2B,2023,2024, 82.3, 0.62
+99,1B,2B,Stolen Base 2B,683011,Anthony Volpe,608337,Lucas Giolito,641432,Willie Calhoun,R,Seby Zavala,664874,0,1,4,False,2023-06-06,Stolen,2B,2023,2024, 82.3, 0.62
+100,1B,2B,Stolen Base 2B,668731,Akil Baddoo,656629,Michael Kopech,679529,Spencer Torkelson,R,Seby Zavala,664874,0,2,4,True,2023-06-04,Stolen,2B,2023,2024, 82.3, 0.62
+101,1B,2B,Stolen Base 2B,595879,Javier Báez,656629,Michael Kopech,668731,Akil Baddoo,R,Seby Zavala,664874,1,2,6,True,2023-06-04,Stolen,2B,2023,2024, 82.3, 0.62
+102,2B,3B,Stolen Base 3B,595879,Javier Báez,656629,Michael Kopech,668731,Akil Baddoo,R,Seby Zavala,664874,1,2,6,True,2023-06-04,Stolen,3B,2023,2024, 82.3, 0.62
+103,1B,2B,Stolen Base 2B,679529,Spencer Torkelson,605182,Mike Clevinger,665155,Nick Maton,R,Seby Zavala,664874,0,0,4,True,2023-06-02,Stolen,2B,2023,2024, 82.3, 0.62
+104,1B,2B,Stolen Base 2B,642136,Matt Thaiss,521230,Liam Hendriks,570482,Gio Urshela,R,Seby Zavala,664874,3,4,8,True,2023-05-29,Stolen,2B,2023,2024, 82.3, 0.62
+105,1B,2B,Stolen Base 2B,656716,Zach McKinstry,608337,Lucas Giolito,682985,Riley Greene,R,Seby Zavala,664874,0,1,3,False,2023-05-25,Stolen,2B,2023,2024, 82.3, 0.62
+106,1B,,Caught Stealing 2B,677951,Bobby Witt Jr.,608337,Lucas Giolito,686469,Vinnie Pasquantino,R,Seby Zavala,664874,0,0,1,True,2023-05-20,Caught,2B,2023,2024, 82.3, 0.62
+107,1B,2B,Stolen Base 2B,664702,Myles Straw,666619,Gregory Santos,680757,Steven Kwan,R,Seby Zavala,664874,1,3,7,True,2023-05-18,Stolen,2B,2023,2024, 82.3, 0.62
+108,1B,2B,Stolen Base 2B,665926,Andrés Giménez,605182,Mike Clevinger,605137,Josh Bell,R,Seby Zavala,664874,1,1,3,True,2023-05-17,Stolen,2B,2023,2024, 82.3, 0.62
+109,1B,,Caught Stealing 2B,665161,Jeremy Peña,656302,Dylan Cease,667452,Corey Julks,R,Seby Zavala,664874,0,0,4,True,2023-05-13,Caught,2B,2023,2024, 82.3, 0.62
+110,1B,2B,Stolen Base 2B,663656,Kyle Tucker,656629,Michael Kopech,547989,José Abreu,R,Seby Zavala,664874,1,0,4,True,2023-05-12,Stolen,2B,2023,2024, 82.3, 0.62
+111,1B,2B,Stolen Base 2B,667452,Corey Julks,656629,Michael Kopech,676694,Jake Meyers,R,Seby Zavala,664874,1,1,4,True,2023-05-12,Stolen,2B,2023,2024, 82.3, 0.62
+112,1B,2B,Stolen Base 2B,667452,Corey Julks,666619,Gregory Santos,676694,Jake Meyers,R,Seby Zavala,664874,1,2,6,True,2023-05-12,Stolen,2B,2023,2024, 82.3, 0.62
+113,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,605182,Mike Clevinger,686469,Vinnie Pasquantino,R,Seby Zavala,664874,0,0,1,False,2023-05-11,Stolen,2B,2023,2024, 82.3, 0.62
+114,2B,3B,Stolen Base 3B,677951,Bobby Witt Jr.,605182,Mike Clevinger,658668,Edward Olivares,R,Seby Zavala,664874,0,0,1,False,2023-05-11,Stolen,3B,2023,2024, 82.3, 0.62
+115,1B,2B,Stolen Base 2B,663697,Jonathan India,605182,Mike Clevinger,668715,Spencer Steer,R,Seby Zavala,664874,1,0,1,False,2023-05-06,Stolen,2B,2023,2024, 82.3, 0.62
+116,2B,3B,Stolen Base 3B,663697,Jonathan India,605182,Mike Clevinger,663886,Tyler Stephenson,R,Seby Zavala,664874,1,2,3,False,2023-05-06,Stolen,3B,2023,2024, 82.3, 0.62
+117,1B,2B,Stolen Base 2B,621028,Kevin Newman,458681,Lance Lynn,663697,Jonathan India,R,Seby Zavala,664874,0,0,3,False,2023-05-05,Stolen,2B,2023,2024, 82.3, 0.62
+118,1B,2B,Stolen Base 2B,621439,Byron Buxton,656302,Dylan Cease,663616,Trevor Larnach,R,Seby Zavala,664874,4,4,5,True,2023-05-03,Stolen,2B,2023,2024, 82.3, 0.62
+119,1B,,Caught Stealing 2B,650489,Willi Castro,666619,Gregory Santos,680777,Ryan Jeffers,R,Seby Zavala,664874,4,4,6,True,2023-05-03,Caught,2B,2023,2024, 82.3, 0.62
+120,1B,2B,Stolen Base 2B,621439,Byron Buxton,656629,Michael Kopech,593871,Jorge Polanco,R,Seby Zavala,664874,0,0,3,True,2023-05-02,Stolen,2B,2023,2024, 82.3, 0.62
+121,1B,,Caught Stealing 2B,663616,Trevor Larnach,656629,Michael Kopech,669304,Jose Miranda,R,Seby Zavala,664874,0,0,4,True,2023-05-02,Caught,2B,2023,2024, 82.3, 0.62
+122,2B,3B,Stolen Base 3B,593160,Whit Merrifield,656629,Michael Kopech,624415,Cavan Biggio,R,Seby Zavala,664874,4,0,4,False,2023-04-26,Stolen,3B,2023,2024, 82.3, 0.62
+123,1B,2B,Stolen Base 2B,669289,Santiago Espinal,656629,Michael Kopech,624415,Cavan Biggio,R,Seby Zavala,664874,4,0,4,False,2023-04-26,Stolen,2B,2023,2024, 82.3, 0.62
+124,1B,2B,Stolen Base 2B,543807,George Springer,605182,Mike Clevinger,666182,Bo Bichette,R,Seby Zavala,664874,0,0,1,False,2023-04-25,Stolen,2B,2023,2024, 82.3, 0.62
+125,2B,3B,Stolen Base 3B,593160,Whit Merrifield,605182,Mike Clevinger,595281,Kevin Kiermaier,R,Seby Zavala,664874,5,0,4,False,2023-04-25,Stolen,3B,2023,2024, 82.3, 0.62
+126,1B,,Caught Stealing 2B,668227,Randy Arozarena,608337,Lucas Giolito,664040,Brandon Lowe,R,Seby Zavala,664874,3,0,3,False,2023-04-23,Caught,2B,2023,2024, 82.3, 0.62
+127,1B,2B,Stolen Base 2B,677551,Wander Franco,621383,Tanner Banks,664040,Brandon Lowe,L,Seby Zavala,664874,4,1,8,False,2023-04-23,Stolen,2B,2023,2024, 82.3, 0.62
+128,1B,2B,Stolen Base 2B,670764,Taylor Walls,656302,Dylan Cease,666139,Josh Lowe,R,Seby Zavala,664874,2,0,1,False,2023-04-22,Stolen,2B,2023,2024, 82.3, 0.62
+129,1B,,Caught Stealing 2B,677551,Wander Franco,641871,Keynan Middleton,668227,Randy Arozarena,R,Seby Zavala,664874,3,2,5,False,2023-04-22,Caught,2B,2023,2024, 82.3, 0.62
+130,1B,2B,Stolen Base 2B,624428,Adam Frazier,656302,Dylan Cease,669720,Austin Hays,R,Seby Zavala,664874,4,0,4,True,2023-04-16,Stolen,2B,2023,2024, 82.3, 0.62
+131,2B,3B,Stolen Base 3B,622761,Jorge Mateo,607481,Aaron Bummer,663630,Ryan McKenna,L,Seby Zavala,664874,4,4,8,True,2023-04-16,Stolen,3B,2023,2024, 82.3, 0.62
+132,1B,2B,Stolen Base 2B,665833,Oneil Cruz,656629,Michael Kopech,668804,Bryan Reynolds,R,Seby Zavala,664874,1,0,6,False,2023-04-09,Stolen,2B,2023,2024, 82.3, 0.62
+133,1B,2B,Stolen Base 2B,676801,Chas McCormick,669424,Jimmy Lambert,673237,Yainer Diaz,R,Seby Zavala,664874,3,3,6,False,2023-04-01,Stolen,2B,2023,2024, 82.3, 0.62
+134,1B,2B,Stolen Base 2B,676801,Chas McCormick,669424,Jimmy Lambert,673237,Yainer Diaz,R,Seby Zavala,664874,3,3,6,False,2023-04-01,Stolen,2B,2023,2024, 82.3, 0.62
+135,1B,2B,Stolen Base 2B,682626,Francisco Alvarez,573009,Joe Mantiply,607043,Brandon Nimmo,L,Seby Zavala,664874,6,2,6,False,2023-09-12,Stolen,2B,2023,2024, 82.3, 0.62
+136,2B,3B,Stolen Base 3B,677595,Ronny Mauricio,623149,Paul Sewald,596129,Daniel Vogelbach,R,Seby Zavala,664874,3,4,9,False,2023-09-11,Stolen,3B,2023,2024, 82.3, 0.62
+137,1B,2B,Stolen Base 2B,641796,Tim Locastro,623149,Paul Sewald,607043,Brandon Nimmo,R,Seby Zavala,664874,3,4,9,False,2023-09-11,Stolen,2B,2023,2024, 82.3, 0.62
+138,1B,2B,Stolen Base 2B,663538,Nico Hoerner,573009,Joe Mantiply,673548,Seiya Suzuki,L,Seby Zavala,664874,1,0,1,False,2023-09-10,Stolen,2B,2023,2024, 82.3, 0.62
+139,1B,2B,Stolen Base 2B,663611,Nick Madrigal,694297,Brandon Pfaadt,666624,Christopher Morel,R,Seby Zavala,664874,4,0,4,False,2023-09-10,Stolen,2B,2023,2024, 82.3, 0.62
+140,1B,2B,Stolen Base 2B,663538,Nico Hoerner,694297,Brandon Pfaadt,621020,Dansby Swanson,R,Seby Zavala,664874,5,1,5,False,2023-09-10,Stolen,2B,2023,2024, 82.3, 0.62
+141,1B,2B,Stolen Base 2B,666310,Bo Naylor,656302,Dylan Cease,664702,Myles Straw,R,Seby Zavala,664874,3,4,6,True,2023-07-27,Stolen,2B,2023,2024, 82.3, 0.62
+142,1B,2B,Stolen Base 2B,665926,Andrés Giménez,607481,Aaron Bummer,608070,José Ramírez,L,Seby Zavala,664874,3,4,7,True,2023-07-27,Stolen,2B,2023,2024, 82.3, 0.62
+143,1B,2B,Stolen Base 2B,663538,Nico Hoerner,458681,Lance Lynn,664023,Ian Happ,R,Seby Zavala,664874,2,2,2,True,2023-07-26,Stolen,2B,2023,2024, 82.3, 0.62
+144,1B,2B,Stolen Base 2B,666624,Christopher Morel,523260,Joe Kelly,670156,Miles Mastrobuoni,R,Seby Zavala,664874,7,6,5,True,2023-07-26,Stolen,2B,2023,2024, 82.3, 0.62
+145,1B,2B,Stolen Base 2B,670156,Miles Mastrobuoni,523260,Joe Kelly,543228,Yan Gomes,R,Seby Zavala,664874,7,6,5,True,2023-07-26,Stolen,2B,2023,2024, 82.3, 0.62
+146,1B,2B,Stolen Base 2B,673548,Seiya Suzuki,607481,Aaron Bummer,621020,Dansby Swanson,L,Seby Zavala,664874,7,8,6,True,2023-07-26,Stolen,2B,2023,2024, 82.3, 0.62
+147,1B,,Caught Stealing 2B,673548,Seiya Suzuki,641871,Keynan Middleton,666624,Christopher Morel,R,Seby Zavala,664874,7,10,8,True,2023-07-26,Caught,2B,2023,2024, 82.3, 0.62
+148,2B,3B,Stolen Base 3B,650489,Willi Castro,621383,Tanner Banks,666135,Alex Kirilloff,L,Seby Zavala,664874,4,4,11,False,2023-07-23,Stolen,3B,2023,2024, 82.3, 0.62
+149,1B,2B,Stolen Base 2B,621439,Byron Buxton,641871,Keynan Middleton,571657,Kyle Farmer,R,Seby Zavala,664874,1,2,7,False,2023-07-22,Stolen,2B,2023,2024, 82.3, 0.62
+150,1B,2B,Stolen Base 2B,502054,Tommy Pham,608337,Lucas Giolito,624413,Pete Alonso,R,Seby Zavala,664874,7,2,4,False,2023-07-18,Stolen,2B,2023,2024, 82.3, 0.62
+151,1B,2B,Stolen Base 2B,671739,Michael Harris II,625643,Reynaldo López,606115,Orlando Arcia,R,Seby Zavala,664874,1,8,6,False,2023-07-16,Stolen,2B,2023,2024, 82.3, 0.62
+152,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,666619,Gregory Santos,645277,Ozzie Albies,R,Seby Zavala,664874,4,6,7,False,2023-07-15,Stolen,2B,2023,2024, 82.3, 0.62
+153,1B,2B,Stolen Base 2B,645277,Ozzie Albies,608665,Kendall Graveman,663586,Austin Riley,R,Seby Zavala,664874,5,6,9,False,2023-07-15,Stolen,2B,2023,2024, 82.3, 0.62
+154,1B,,Caught Stealing 2B,502671,Paul Goldschmidt,608337,Lucas Giolito,571448,Nolan Arenado,R,Seby Zavala,664874,1,0,4,True,2023-07-09,Caught,2B,2023,2024, 82.3, 0.62
+155,1B,,Caught Stealing 2B,657557,Paul DeJong,666619,Gregory Santos,665877,José Fermín,R,Seby Zavala,664874,2,2,8,True,2023-07-09,Caught,2B,2023,2024, 82.3, 0.62
+156,1B,2B,Stolen Base 2B,593160,Whit Merrifield,625643,Reynaldo López,595281,Kevin Kiermaier,R,Seby Zavala,664874,3,2,7,True,2023-07-04,Stolen,2B,2023,2024, 82.3, 0.62
+157,1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,625643,Reynaldo López,666182,Bo Bichette,R,Seby Zavala,664874,3,2,7,True,2023-07-04,Stolen,2B,2023,2024, 82.3, 0.62
+158,1B,2B,Stolen Base 2B,643393,Tony Kemp,657053,Touki Toussaint,676116,Ryan Noda,R,Seby Zavala,664874,1,5,3,False,2023-07-02,Stolen,2B,2023,2024, 82.3, 0.62
+159,1B,,Caught Stealing 2B,650859,Luis Rengifo,656629,Michael Kopech,595453,Chad Wallach,R,Seby Zavala,664874,1,0,2,False,2023-06-27,Caught,2B,2023,2024, 82.3, 0.62
+160,1B,,Caught Stealing 2B,595453,Chad Wallach,656629,Michael Kopech,664058,David Fletcher,R,Seby Zavala,664874,1,0,2,False,2023-06-27,Caught,2B,2023,2024, 82.3, 0.62
+161,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,666619,Gregory Santos,519058,Mike Moustakas,R,Seby Zavala,664874,4,1,7,False,2023-06-27,Stolen,2B,2023,2024, 82.3, 0.62
+162,2B,3B,Stolen Base 3B,545361,Mike Trout,607481,Aaron Bummer,592273,Brandon Drury,L,Seby Zavala,664874,1,1,9,False,2023-06-26,Stolen,3B,2023,2024, 82.3, 0.62
+163,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,607481,Aaron Bummer,592273,Brandon Drury,L,Seby Zavala,664874,1,1,9,False,2023-06-26,Stolen,2B,2023,2024, 82.3, 0.62
+164,1B,2B,Stolen Base 2B,666152,David Hamilton,608337,Lucas Giolito,608701,Rob Refsnyder,R,Seby Zavala,664874,0,1,3,True,2023-06-23,Stolen,2B,2023,2024, 82.3, 0.62
+165,1B,2B,Stolen Base 2B,571771,Enrique Hernández,608337,Lucas Giolito,666152,David Hamilton,R,Seby Zavala,664874,1,3,5,True,2023-06-23,Stolen,2B,2023,2024, 82.3, 0.62
+166,1B,2B,Stolen Base 2B,677649,Ezequiel Duran,669424,Jimmy Lambert,608671,Travis Jankowski,R,Seby Zavala,664874,1,6,5,True,2023-06-21,Stolen,2B,2023,2024, 82.3, 0.62
+167,1B,,Caught Stealing 2B,664238,Dylan Moore,608337,Lucas Giolito,676609,José Caballero,R,Seby Zavala,664874,2,1,2,False,2023-06-17,Caught,2B,2023,2024, 82.3, 0.62
+168,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,608337,Lucas Giolito,606192,Teoscar Hernández,R,Seby Zavala,664874,3,2,5,False,2023-06-17,Stolen,2B,2023,2024, 82.3, 0.62
+169,2B,3B,Stolen Base 3B,677594,Julio Rodríguez,607481,Aaron Bummer,663728,Cal Raleigh,L,Seby Zavala,664874,3,3,10,False,2023-06-17,Stolen,3B,2023,2024, 82.3, 0.62
+170,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,607481,Aaron Bummer,663728,Cal Raleigh,L,Seby Zavala,664874,3,3,10,False,2023-06-17,Stolen,2B,2023,2024, 82.3, 0.62
+171,1B,2B,Stolen Base 2B,676609,José Caballero,656629,Michael Kopech,641487,J.P. Crawford,R,Seby Zavala,664874,0,0,4,False,2023-06-16,Stolen,2B,2023,2024, 82.3, 0.62
+172,1B,2B,Stolen Base 2B,683011,Anthony Volpe,608337,Lucas Giolito,641432,Willie Calhoun,R,Seby Zavala,664874,0,1,4,False,2023-06-06,Stolen,2B,2023,2024, 82.3, 0.62
+173,1B,2B,Stolen Base 2B,668731,Akil Baddoo,656629,Michael Kopech,679529,Spencer Torkelson,R,Seby Zavala,664874,0,2,4,True,2023-06-04,Stolen,2B,2023,2024, 82.3, 0.62
+174,1B,2B,Stolen Base 2B,595879,Javier Báez,656629,Michael Kopech,668731,Akil Baddoo,R,Seby Zavala,664874,1,2,6,True,2023-06-04,Stolen,2B,2023,2024, 82.3, 0.62
+175,2B,3B,Stolen Base 3B,595879,Javier Báez,656629,Michael Kopech,668731,Akil Baddoo,R,Seby Zavala,664874,1,2,6,True,2023-06-04,Stolen,3B,2023,2024, 82.3, 0.62
+176,1B,2B,Stolen Base 2B,679529,Spencer Torkelson,605182,Mike Clevinger,665155,Nick Maton,R,Seby Zavala,664874,0,0,4,True,2023-06-02,Stolen,2B,2023,2024, 82.3, 0.62
+177,1B,2B,Stolen Base 2B,642136,Matt Thaiss,521230,Liam Hendriks,570482,Gio Urshela,R,Seby Zavala,664874,3,4,8,True,2023-05-29,Stolen,2B,2023,2024, 82.3, 0.62
+178,1B,2B,Stolen Base 2B,656716,Zach McKinstry,608337,Lucas Giolito,682985,Riley Greene,R,Seby Zavala,664874,0,1,3,False,2023-05-25,Stolen,2B,2023,2024, 82.3, 0.62
+179,1B,,Caught Stealing 2B,677951,Bobby Witt Jr.,608337,Lucas Giolito,686469,Vinnie Pasquantino,R,Seby Zavala,664874,0,0,1,True,2023-05-20,Caught,2B,2023,2024, 82.3, 0.62
+180,1B,2B,Stolen Base 2B,664702,Myles Straw,666619,Gregory Santos,680757,Steven Kwan,R,Seby Zavala,664874,1,3,7,True,2023-05-18,Stolen,2B,2023,2024, 82.3, 0.62
+181,1B,2B,Stolen Base 2B,665926,Andrés Giménez,605182,Mike Clevinger,605137,Josh Bell,R,Seby Zavala,664874,1,1,3,True,2023-05-17,Stolen,2B,2023,2024, 82.3, 0.62
+182,1B,,Caught Stealing 2B,665161,Jeremy Peña,656302,Dylan Cease,667452,Corey Julks,R,Seby Zavala,664874,0,0,4,True,2023-05-13,Caught,2B,2023,2024, 82.3, 0.62
+183,1B,2B,Stolen Base 2B,663656,Kyle Tucker,656629,Michael Kopech,547989,José Abreu,R,Seby Zavala,664874,1,0,4,True,2023-05-12,Stolen,2B,2023,2024, 82.3, 0.62
+184,1B,2B,Stolen Base 2B,667452,Corey Julks,656629,Michael Kopech,676694,Jake Meyers,R,Seby Zavala,664874,1,1,4,True,2023-05-12,Stolen,2B,2023,2024, 82.3, 0.62
+185,1B,2B,Stolen Base 2B,667452,Corey Julks,666619,Gregory Santos,676694,Jake Meyers,R,Seby Zavala,664874,1,2,6,True,2023-05-12,Stolen,2B,2023,2024, 82.3, 0.62
+186,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,605182,Mike Clevinger,686469,Vinnie Pasquantino,R,Seby Zavala,664874,0,0,1,False,2023-05-11,Stolen,2B,2023,2024, 82.3, 0.62
+187,2B,3B,Stolen Base 3B,677951,Bobby Witt Jr.,605182,Mike Clevinger,658668,Edward Olivares,R,Seby Zavala,664874,0,0,1,False,2023-05-11,Stolen,3B,2023,2024, 82.3, 0.62
+188,1B,2B,Stolen Base 2B,663697,Jonathan India,605182,Mike Clevinger,668715,Spencer Steer,R,Seby Zavala,664874,1,0,1,False,2023-05-06,Stolen,2B,2023,2024, 82.3, 0.62
+189,2B,3B,Stolen Base 3B,663697,Jonathan India,605182,Mike Clevinger,663886,Tyler Stephenson,R,Seby Zavala,664874,1,2,3,False,2023-05-06,Stolen,3B,2023,2024, 82.3, 0.62
+190,1B,2B,Stolen Base 2B,621028,Kevin Newman,458681,Lance Lynn,663697,Jonathan India,R,Seby Zavala,664874,0,0,3,False,2023-05-05,Stolen,2B,2023,2024, 82.3, 0.62
+191,1B,2B,Stolen Base 2B,621439,Byron Buxton,656302,Dylan Cease,663616,Trevor Larnach,R,Seby Zavala,664874,4,4,5,True,2023-05-03,Stolen,2B,2023,2024, 82.3, 0.62
+192,1B,,Caught Stealing 2B,650489,Willi Castro,666619,Gregory Santos,680777,Ryan Jeffers,R,Seby Zavala,664874,4,4,6,True,2023-05-03,Caught,2B,2023,2024, 82.3, 0.62
+193,1B,2B,Stolen Base 2B,621439,Byron Buxton,656629,Michael Kopech,593871,Jorge Polanco,R,Seby Zavala,664874,0,0,3,True,2023-05-02,Stolen,2B,2023,2024, 82.3, 0.62
+194,1B,,Caught Stealing 2B,663616,Trevor Larnach,656629,Michael Kopech,669304,Jose Miranda,R,Seby Zavala,664874,0,0,4,True,2023-05-02,Caught,2B,2023,2024, 82.3, 0.62
+195,2B,3B,Stolen Base 3B,593160,Whit Merrifield,656629,Michael Kopech,624415,Cavan Biggio,R,Seby Zavala,664874,4,0,4,False,2023-04-26,Stolen,3B,2023,2024, 82.3, 0.62
+196,1B,2B,Stolen Base 2B,669289,Santiago Espinal,656629,Michael Kopech,624415,Cavan Biggio,R,Seby Zavala,664874,4,0,4,False,2023-04-26,Stolen,2B,2023,2024, 82.3, 0.62
+197,1B,2B,Stolen Base 2B,543807,George Springer,605182,Mike Clevinger,666182,Bo Bichette,R,Seby Zavala,664874,0,0,1,False,2023-04-25,Stolen,2B,2023,2024, 82.3, 0.62
+198,2B,3B,Stolen Base 3B,593160,Whit Merrifield,605182,Mike Clevinger,595281,Kevin Kiermaier,R,Seby Zavala,664874,5,0,4,False,2023-04-25,Stolen,3B,2023,2024, 82.3, 0.62
+199,1B,,Caught Stealing 2B,668227,Randy Arozarena,608337,Lucas Giolito,664040,Brandon Lowe,R,Seby Zavala,664874,3,0,3,False,2023-04-23,Caught,2B,2023,2024, 82.3, 0.62
+200,1B,2B,Stolen Base 2B,677551,Wander Franco,621383,Tanner Banks,664040,Brandon Lowe,L,Seby Zavala,664874,4,1,8,False,2023-04-23,Stolen,2B,2023,2024, 82.3, 0.62
+201,1B,2B,Stolen Base 2B,670764,Taylor Walls,656302,Dylan Cease,666139,Josh Lowe,R,Seby Zavala,664874,2,0,1,False,2023-04-22,Stolen,2B,2023,2024, 82.3, 0.62
+202,1B,,Caught Stealing 2B,677551,Wander Franco,641871,Keynan Middleton,668227,Randy Arozarena,R,Seby Zavala,664874,3,2,5,False,2023-04-22,Caught,2B,2023,2024, 82.3, 0.62
+203,1B,2B,Stolen Base 2B,624428,Adam Frazier,656302,Dylan Cease,669720,Austin Hays,R,Seby Zavala,664874,4,0,4,True,2023-04-16,Stolen,2B,2023,2024, 82.3, 0.62
+204,2B,3B,Stolen Base 3B,622761,Jorge Mateo,607481,Aaron Bummer,663630,Ryan McKenna,L,Seby Zavala,664874,4,4,8,True,2023-04-16,Stolen,3B,2023,2024, 82.3, 0.62
+205,1B,2B,Stolen Base 2B,665833,Oneil Cruz,656629,Michael Kopech,668804,Bryan Reynolds,R,Seby Zavala,664874,1,0,6,False,2023-04-09,Stolen,2B,2023,2024, 82.3, 0.62
+206,1B,2B,Stolen Base 2B,676801,Chas McCormick,669424,Jimmy Lambert,673237,Yainer Diaz,R,Seby Zavala,664874,3,3,6,False,2023-04-01,Stolen,2B,2023,2024, 82.3, 0.62
+207,1B,2B,Stolen Base 2B,614177,Franmil Reyes,523260,Joe Kelly,665926,Andrés Giménez,R,Seby Zavala,664874,8,4,6,False,2022-07-11,Stolen,2B,2022,2023, 81.9, 0.68
+208,1B,,Caught Stealing 2B,608070,José Ramírez,621383,Tanner Banks,647304,Josh Naylor,L,Seby Zavala,664874,8,4,8,False,2022-07-11,Caught,2B,2022,2023, 81.9, 0.68
+209,1B,2B,Stolen Base 2B,650489,Willi Castro,523260,Joe Kelly,682985,Riley Greene,R,Seby Zavala,664874,2,4,7,True,2022-07-08,Stolen,2B,2022,2023, 81.9, 0.68
+210,1B,2B,Stolen Base 2B,573262,Mike Yastrzemski,523260,Joe Kelly,573131,Darin Ruf,R,Seby Zavala,664874,2,5,8,False,2022-07-02,Stolen,2B,2022,2023, 81.9, 0.68
+211,1B,2B,Stolen Base 2B,642180,Tyler Wade,656629,Michael Kopech,621493,Taylor Ward,R,Seby Zavala,664874,2,0,5,False,2022-06-29,Stolen,2B,2022,2023, 81.9, 0.68
+212,2B,3B,Stolen Base 3B,621493,Taylor Ward,625643,Reynaldo López,642180,Tyler Wade,R,Seby Zavala,664874,4,3,7,False,2022-06-27,Stolen,3B,2022,2023, 81.9, 0.68
+213,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,625643,Reynaldo López,642180,Tyler Wade,R,Seby Zavala,664874,4,3,7,False,2022-06-27,Stolen,2B,2022,2023, 81.9, 0.68
+214,1B,,Caught Stealing 2B,663624,Ryan Mountcastle,458681,Lance Lynn,663527,Tyler Nevin,R,Seby Zavala,664874,1,1,4,True,2022-06-25,Caught,2B,2022,2023, 81.9, 0.68
+215,1B,2B,Stolen Base 2B,656775,Cedric Mullins,656629,Michael Kopech,641820,Trey Mancini,R,Seby Zavala,664874,0,0,1,True,2022-06-24,Stolen,2B,2022,2023, 81.9, 0.68
+216,1B,2B,Stolen Base 2B,622761,Jorge Mateo,656629,Michael Kopech,621006,Richie Martin,R,Seby Zavala,664874,0,2,2,True,2022-06-24,Stolen,2B,2022,2023, 81.9, 0.68
+217,1B,2B,Stolen Base 2B,621006,Richie Martin,656629,Michael Kopech,656775,Cedric Mullins,R,Seby Zavala,664874,0,2,2,True,2022-06-24,Stolen,2B,2022,2023, 81.9, 0.68
+218,2B,3B,Stolen Base 3B,621006,Richie Martin,656629,Michael Kopech,656775,Cedric Mullins,R,Seby Zavala,664874,0,2,2,True,2022-06-24,Stolen,3B,2022,2023, 81.9, 0.68
+219,1B,2B,Stolen Base 2B,622761,Jorge Mateo,656629,Michael Kopech,621006,Richie Martin,R,Seby Zavala,664874,1,3,4,True,2022-06-24,Stolen,2B,2022,2023, 81.9, 0.68
+220,1B,2B,Stolen Base 2B,666182,Bo Bichette,656302,Dylan Cease,665489,Vladimir Guerrero Jr.,R,Seby Zavala,664874,1,0,4,True,2022-06-21,Stolen,2B,2022,2023, 81.9, 0.68
+221,2B,,Caught Stealing 3B,666182,Bo Bichette,656302,Dylan Cease,665489,Vladimir Guerrero Jr.,R,Seby Zavala,664874,1,0,4,True,2022-06-21,Caught,3B,2022,2023, 81.9, 0.68
+222,1B,2B,Stolen Base 2B,606132,Raimel Tapia,614179,José Ruiz,624415,Cavan Biggio,R,Seby Zavala,664874,2,4,9,True,2022-06-21,Stolen,2B,2022,2023, 81.9, 0.68
+223,3B,,Caught Stealing Home,677649,Ezequiel Duran,456501,Johnny Cueto,543760,Marcus Semien,R,Seby Zavala,664874,1,3,4,True,2022-06-12,Caught,Home,2022,2023, 81.9, 0.68
+224,1B,2B,Caught Stealing Home,676646,Zach Reks,456501,Johnny Cueto,543760,Marcus Semien,R,Seby Zavala,664874,1,3,4,True,2022-06-12,Caught,Home,2022,2023, 81.9, 0.68
+225,1B,2B,Stolen Base 2B,666969,Adolis García,641582,Matt Foster,594777,Kole Calhoun,R,Seby Zavala,664874,6,6,12,True,2022-06-12,Stolen,2B,2022,2023, 81.9, 0.68
+226,1B,2B,Stolen Base 2B,642708,Amed Rosario,521230,Liam Hendriks,614177,Franmil Reyes,R,Seby Zavala,664874,4,7,9,True,2022-05-11,Stolen,2B,2022,2023, 81.9, 0.68

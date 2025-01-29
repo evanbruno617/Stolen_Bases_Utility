@@ -1,0 +1,2 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,664983,Jake McCarthy,Juan Garcia,2,8,5,False,2022-04-03,Stolen,2B,2022

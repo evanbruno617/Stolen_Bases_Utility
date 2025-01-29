@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+476,1B,2B,Stolen Base 2B,647351,Abraham Toro,Yasmani Grandal,1,0,2,True,2019-09-02,Stolen,2B,2019
+634,1B,,Caught Stealing 2B,647351,Abraham Toro,Anthony Bemboom,4,3,6,False,2019-08-23,Caught,2B,2019
+474,1B,,Caught Stealing 2B,647351,Abraham Toro,Anthony Bemboom,6,6,6,True,2020-09-05,Caught,2B,2020
+508,1B,2B,Stolen Base 2B,647351,Abraham Toro,Jose Trevino,4,2,5,False,2020-09-03,Stolen,2B,2020
+380,1B,,Caught Stealing 2B,647351,Abraham Toro,Daulton Varsho,0,2,4,True,2021-09-05,Caught,2B,2021
+381,1B,2B,Stolen Base 2B,647351,Abraham Toro,Daulton Varsho,3,3,9,True,2021-09-05,Stolen,2B,2021
+682,1B,,Caught Stealing 2B,647351,Abraham Toro,Jose Trevino,1,3,9,True,2021-08-18,Caught,2B,2021
+1001,1B,2B,Stolen Base 2B,647351,Abraham Toro,Jason Castro,0,1,2,False,2021-07-28,Stolen,2B,2021
+1226,1B,2B,Stolen Base 2B,647351,Abraham Toro,Gary Sánchez,1,2,4,False,2021-07-11,Stolen,2B,2021
+1245,1B,2B,Stolen Base 2B,647351,Abraham Toro,Kyle Higashioka,0,1,5,False,2021-07-10,Stolen,2B,2021
+1580,1B,,Caught Stealing 2B,647351,Abraham Toro,Zack Collins,7,2,4,False,2021-06-20,Caught,2B,2021
+1640,1B,2B,Stolen Base 2B,647351,Abraham Toro,Yasmani Grandal,6,0,4,False,2021-06-17,Stolen,2B,2021
+25,2B,3B,Stolen Base 3B,647351,Abraham Toro,Kevin Plawecki,8,8,10,False,2022-09-29,Stolen,3B,2022
+1768,1B,2B,Stolen Base 2B,647351,Abraham Toro,Christian Bethancourt,1,2,9,True,2022-06-23,Stolen,2B,2022

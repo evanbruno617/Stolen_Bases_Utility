@@ -1,0 +1,12 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,844,1B,,Caught Stealing 2B,472528,Luis Valbuena,605182,Mike Clevinger,455117,Martín Maldonado,R,Roberto Pérez,547379,1,2,5,False,2017-09-19,Caught,2B,2017,2018,24.0
+1,3309,1B,,Caught Stealing 2B,472528,Luis Valbuena,595001,Josh A. Smith,592743,Andrelton Simmons,R,Stephen Vogt,519390,3,7,8,True,2017-05-09,Caught,2B,2017,2018,24.0
+2,216,1B,,Caught Stealing 2B,472528,Luis Valbuena,605182,Mike Clevinger,455117,Martín Maldonado,R,Roberto Pérez,547379,1,2,5,False,2017-09-19,Caught,2B,2017,2018,24.0
+3,2681,1B,,Caught Stealing 2B,472528,Luis Valbuena,595001,Josh A. Smith,592743,Andrelton Simmons,R,Stephen Vogt,519390,3,7,8,True,2017-05-09,Caught,2B,2017,2018,24.0
+4,5369,1B,2B,Stolen Base 2B,472528,Luis Valbuena,501381,Michael Pineda,608324,Alex Bregman,R,Austin Romine,519222,1,0,4,False,2016-07-25,Stolen,2B,2016,2017,23.6
+5,5986,1B,,Caught Stealing 2B,472528,Luis Valbuena,605232,Brandon Finnegan,545350,Jake Marisnick,L,Tucker Barnhart,571466,2,0,2,False,2016-06-19,Caught,2B,2016,2017,23.6
+6,1334,1B,2B,Stolen Base 2B,472528,Luis Valbuena,501381,Michael Pineda,608324,Alex Bregman,R,Austin Romine,519222,1,0,4,False,2016-07-25,Stolen,2B,2016,2017,23.6
+7,1951,1B,,Caught Stealing 2B,472528,Luis Valbuena,605232,Brandon Finnegan,545350,Jake Marisnick,L,Tucker Barnhart,571466,2,0,2,False,2016-06-19,Caught,2B,2016,2017,23.6
+8,4741,1B,2B,Stolen Base 2B,472528,Luis Valbuena,501381,Michael Pineda,608324,Alex Bregman,R,Austin Romine,519222,1,0,4,False,2016-07-25,Stolen,2B,2016,2017,23.6
+9,5358,1B,,Caught Stealing 2B,472528,Luis Valbuena,605232,Brandon Finnegan,545350,Jake Marisnick,L,Tucker Barnhart,571466,2,0,2,False,2016-06-19,Caught,2B,2016,2017,23.6
+10,1894,1B,2B,Stolen Base 2B,472528,Luis Valbuena,502260,Vinnie Pestano,543807,George Springer,R,Chris Iannetta,455104,4,2,7,False,2015-04-19,Stolen,2B,2015,2016,25.6

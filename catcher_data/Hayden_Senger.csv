@@ -1,0 +1,5 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2B,3B,Stolen Base 3B,670298,Kramer Robertson,Hayden Senger,3,0,2,False,2022-04-01,Stolen,3B,2022
+1B,,Caught Stealing 2B,680977,Brendan Donovan,Hayden Senger,3,1,3,False,2022-04-01,Caught,2B,2022
+2B,3B,Stolen Base 3B,605486,Cory Spangenberg,Hayden Senger,4,1,4,False,2022-04-01,Stolen,3B,2022
+1B,2B,Stolen Base 2B,670298,Kramer Robertson,Hayden Senger,5,2,6,False,2022-04-01,Stolen,2B,2022

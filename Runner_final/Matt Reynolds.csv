@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1013,1B,,Caught Stealing 2B,608703,Matt Reynolds,607219,Sal Romano,594798,Jacob deGrom,R,Tucker Barnhart,571466,2,2,4,False,2017-09-10,Caught,2B,2017,2018,25.4
+1,385,1B,,Caught Stealing 2B,608703,Matt Reynolds,607219,Sal Romano,594798,Jacob deGrom,R,Tucker Barnhart,571466,2,2,4,False,2017-09-10,Caught,2B,2017,2018,25.4
+2,5067,1B,,Caught Stealing 2B,608703,Matt Reynolds,425844,Zack Greinke,571927,Steven Matz,R,Tuffy Gosewisch,488912,1,1,5,False,2016-08-09,Caught,2B,2016,2017,27.3
+3,1032,1B,,Caught Stealing 2B,608703,Matt Reynolds,425844,Zack Greinke,571927,Steven Matz,R,Tuffy Gosewisch,488912,1,1,5,False,2016-08-09,Caught,2B,2016,2017,27.3
+4,4439,1B,,Caught Stealing 2B,608703,Matt Reynolds,425844,Zack Greinke,571927,Steven Matz,R,Tuffy Gosewisch,488912,1,1,5,False,2016-08-09,Caught,2B,2016,2017,27.3

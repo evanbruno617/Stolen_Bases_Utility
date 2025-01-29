@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1673,1B,2B,Stolen Base 2B,613564,Jason Vosler,Carson Kelly,3,1,5,False,2021-06-14,Stolen,2B,2021
+2466,1B,2B,Stolen Base 2B,613564,Jason Vosler,Chad Wallach,4,0,5,False,2021-04-25,Stolen,2B,2021
+2097,1B,2B,Stolen Base 2B,613564,Jason Vosler,Jacob Stallings,0,0,4,True,2022-06-05,Stolen,2B,2022
+2962,1B,,Caught Stealing 2B,613564,Jason Vosler,James McCann,1,2,2,True,2022-04-19,Caught,2B,2022
+3245,1B,2B,Stolen Base 2B,613564,Jason Vosler,Jose Trevino,4,1,4,False,2022-04-01,Stolen,2B,2022

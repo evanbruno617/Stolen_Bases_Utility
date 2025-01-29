@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+59,1B,,Caught Stealing 2B,400075,Jermaine Clark,Tom Gregorio,0,3,4,True,2003-09-26,Caught,2B,2003
+122,1B,2B,Stolen Base 2B,400075,Jermaine Clark,Adam Melhuse,2,3,9,True,2003-09-23,Stolen,2B,2003
+272,1B,2B,Stolen Base 2B,400075,Jermaine Clark,Ramon Hernandez,5,6,9,False,2003-09-14,Stolen,2B,2003
+2424,1B,,Caught Stealing 2B,400075,Jermaine Clark,Eddie Pérez,1,0,4,False,2003-05-29,Caught,2B,2003
+1899,1B,2B,Stolen Base 2B,400075,Jermaine Clark,Jason Kendall,2,4,7,False,2004-06-25,Stolen,2B,2004

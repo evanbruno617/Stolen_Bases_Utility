@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+146,1B,2B,Caught Stealing 3B,592273,Brandon Drury,A.J. Ellis,0,3,8,True,2015-09-22,Caught,3B,2015
+2280,2B,,Caught Stealing 3B,592273,Brandon Drury,Yasmani Grandal,0,1,4,True,2016-04-13,Caught,3B,2016
+2985,1B,2B,Stolen Base 2B,592273,Brandon Drury,Austin Hedges,1,0,2,False,2017-04-24,Stolen,2B,2017
+3072,1B,,Caught Stealing 2B,592273,Brandon Drury,Austin Hedges,0,0,2,True,2017-04-19,Caught,2B,2017
+47,1B,,Caught Stealing 2B,592273,Brandon Drury,Michael Pérez,3,0,6,False,2019-09-28,Caught,2B,2019
+578,1B,,Caught Stealing 2B,592273,Brandon Drury,Austin Wynns,0,0,2,True,2022-08-30,Caught,2B,2022
+1518,1B,2B,Stolen Base 2B,592273,Brandon Drury,James McCann,2,1,3,False,2022-07-06,Stolen,2B,2022
+2120,1B,2B,Stolen Base 2B,592273,Brandon Drury,Keibert Ruiz,0,0,1,False,2022-06-04,Stolen,2B,2022
+2587,1B,,Caught Stealing 2B,592273,Brandon Drury,Victor Caratini,1,0,3,False,2022-05-10,Caught,2B,2022
+3005,1B,,Caught Stealing 2B,592273,Brandon Drury,Austin Barnes,0,0,3,True,2022-04-16,Caught,2B,2022
+2425,1B,,Caught Stealing 2B,592273,Brandon Drury,Freddy Fermin,0,1,1,True,2023-06-16,Caught,2B,2023
+3892,1B,,Caught Stealing 2B,592273,Brandon Drury,Connor Wong,0,1,2,True,2023-04-16,Caught,2B,2023

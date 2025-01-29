@@ -1,0 +1,2 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,225,2B,3B,Stolen Base 3B,663728,Cal Raleigh,489334,Craig Stammen,457708,Justin Upton,R,Jorge Alfaro,595751,0,7,6,True,2022-07-04,Stolen,3B,2022,2023,27.0

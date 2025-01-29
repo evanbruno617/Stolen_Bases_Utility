@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+814,1B,,Caught Stealing 2B,407777,Ben Broussard,Toby Hall,3,3,8,False,2003-08-18,Caught,2B,2003
+879,1B,2B,Stolen Base 2B,407777,Ben Broussard,Toby Hall,0,0,6,False,2003-08-15,Stolen,2B,2003
+903,1B,2B,Stolen Base 2B,407777,Ben Broussard,A.J. Pierzynski,0,0,2,True,2003-08-13,Stolen,2B,2003
+1010,1B,2B,Stolen Base 2B,407777,Ben Broussard,Shawn Wooten,0,0,2,False,2003-08-09,Stolen,2B,2003
+1012,1B,2B,Caught Stealing 3B,407777,Ben Broussard,Shawn Wooten,1,0,6,False,2003-08-09,Caught,3B,2003
+1063,1B,2B,Stolen Base 2B,407777,Ben Broussard,Ben Davis,10,6,6,False,2003-08-06,Stolen,2B,2003
+2172,1B,,Caught Stealing 2B,407777,Ben Broussard,Gary Bennett,3,0,6,False,2003-06-11,Caught,2B,2003
+2402,1B,2B,Stolen Base 2B,407777,Ben Broussard,Sandy Alomar Jr.,1,2,2,False,2003-05-30,Stolen,2B,2003
+668,1B,2B,Stolen Base 2B,407777,Ben Broussard,Ben Davis,0,0,2,False,2004-08-28,Stolen,2B,2004
+734,2B,,Caught Stealing 3B,407777,Ben Broussard,Jorge Posada,2,1,4,False,2004-08-25,Caught,3B,2004
+1188,1B,2B,Stolen Base 2B,407777,Ben Broussard,Gregg Zaun,3,5,8,True,2004-08-03,Stolen,2B,2004
+1478,1B,,Caught Stealing 2B,407777,Ben Broussard,Josh Paul,0,4,3,True,2004-07-19,Caught,2B,2004
+1681,1B,2B,Stolen Base 2B,407777,Ben Broussard,Rod Barajas,2,2,2,False,2004-07-07,Stolen,2B,2004
+2773,1B,2B,Stolen Base 2B,407777,Ben Broussard,Doug Mirabelli,1,1,2,True,2004-05-12,Stolen,2B,2004
+741,1B,,Caught Stealing 2B,407777,Ben Broussard,Toby Hall,5,2,4,True,2005-08-24,Caught,2B,2005
+1264,3B,,Caught Stealing Home,407777,Ben Broussard,Jason Kendall,1,2,2,True,2005-07-27,Caught,Home,2005
+3093,2B,3B,Stolen Base 3B,407777,Ben Broussard,Dan Wilson,0,4,8,True,2005-04-23,Stolen,3B,2005
+3294,1B,2B,Stolen Base 2B,407777,Ben Broussard,A.J. Pierzynski,3,0,3,False,2005-04-13,Stolen,2B,2005
+1278,1B,2B,Stolen Base 2B,407777,Ben Broussard,Jason Varitek,3,4,8,False,2007-08-04,Stolen,2B,2007
+3133,1B,2B,Stolen Base 2B,407777,Ben Broussard,Ivan Rodriguez,6,5,6,True,2007-05-08,Stolen,2B,2007

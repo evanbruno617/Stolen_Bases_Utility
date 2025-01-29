@@ -1,0 +1,22 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+42,1B,,Caught Stealing 2B,112897,Deivi Cruz,A.J. Pierzynski,1,0,2,False,2000-09-29,Caught,2B,2000
+611,1B,,Caught Stealing 2B,112897,Deivi Cruz,Bengie Molina,1,0,2,False,2000-09-04,Caught,2B,2000
+1595,1B,,Caught Stealing 2B,112897,Deivi Cruz,John Flaherty,0,0,2,False,2000-07-24,Caught,2B,2000
+2953,1B,2B,Stolen Base 2B,112897,Deivi Cruz,Scott Hatteberg,0,0,3,True,2000-05-20,Stolen,2B,2000
+3944,1B,,Caught Stealing 2B,112897,Deivi Cruz,Charles Johnson,0,1,5,True,2000-04-08,Caught,2B,2000
+56,1B,2B,Stolen Base 2B,112897,Deivi Cruz,Josh Paul,0,0,5,True,2001-06-03,Stolen,2B,2001
+618,1B,2B,Stolen Base 2B,112897,Deivi Cruz,Shawn Wooten,4,1,8,False,2001-05-12,Stolen,2B,2001
+349,1B,2B,Stolen Base 2B,112897,Deivi Cruz,Trey Lunsford,0,0,4,False,2002-09-12,Stolen,2B,2002
+886,1B,,Caught Stealing 2B,112897,Deivi Cruz,Michael Barrett,0,1,2,True,2002-08-17,Caught,2B,2002
+2097,1B,,Caught Stealing 2B,112897,Deivi Cruz,Jason Varitek,0,0,1,False,2002-06-18,Caught,2B,2002
+2334,1B,,Caught Stealing 2B,112897,Deivi Cruz,John Flaherty,3,6,6,True,2002-06-07,Caught,2B,2002
+3025,1B,2B,Stolen Base 2B,112897,Deivi Cruz,Henry Blanco,0,1,4,True,2002-05-10,Stolen,2B,2002
+235,1B,,Caught Stealing 2B,112897,Deivi Cruz,Jorge Posada,5,1,4,False,2003-09-17,Caught,2B,2003
+1292,1B,,Caught Stealing 2B,112897,Deivi Cruz,Tom Wilson,2,3,4,True,2003-07-26,Caught,2B,2003
+1786,1B,2B,Stolen Base 2B,112897,Deivi Cruz,Todd Pratt,3,4,7,False,2003-06-29,Stolen,2B,2003
+2440,1B,2B,Caught Stealing Home,112897,Deivi Cruz,Bengie Molina,6,2,7,False,2003-05-28,Caught,Home,2003
+285,1B,2B,Stolen Base 2B,112897,Deivi Cruz,Ramon Hernandez,4,0,6,False,2004-09-17,Stolen,2B,2004
+646,1B,,Caught Stealing 2B,112897,Deivi Cruz,Eddie Pérez,3,1,5,True,2004-08-30,Caught,2B,2004
+647,1B,,Caught Stealing 2B,112897,Deivi Cruz,Eddie Pérez,4,3,7,True,2004-08-30,Caught,2B,2004
+1910,1B,,Caught Stealing 2B,112897,Deivi Cruz,Paul Lo Duca,3,1,4,False,2004-06-24,Caught,2B,2004
+1609,3B,,Caught Stealing Home,112897,Deivi Cruz,Javier Valentin,0,0,2,False,2005-07-07,Caught,Home,2005

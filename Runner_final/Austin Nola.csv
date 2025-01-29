@@ -1,0 +1,8 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1601,1B,2B,Stolen Base 2B,543592,Austin Nola,545333,Trevor Bauer,608596,Tom Murphy,R,Tucker Barnhart,571466,0,0,1,False,2019-09-10,Stolen,2B,2019,2020,26.4
+1,4444,1B,2B,Stolen Base 2B,543592,Austin Nola,545333,Trevor Bauer,608596,Tom Murphy,R,Tucker Barnhart,571466,0,0,1,False,2019-09-10,Stolen,2B,2019,2020,26.4
+2,6368,1B,2B,Stolen Base 2B,543592,Austin Nola,545333,Trevor Bauer,608596,Tom Murphy,R,Tucker Barnhart,571466,0,0,1,False,2019-09-10,Stolen,2B,2019,2020,26.4
+3,429,1B,,Caught Stealing 2B,543592,Austin Nola,664353,José Urquidy,663757,Trent Grisham,R,Martín Maldonado,455117,0,0,2,False,2021-09-03,Caught,2B,2021,2022,26.4
+4,2353,1B,,Caught Stealing 2B,543592,Austin Nola,664353,José Urquidy,663757,Trent Grisham,R,Martín Maldonado,455117,0,0,2,False,2021-09-03,Caught,2B,2021,2022,26.4
+5,1724,2B,3B,Stolen Base 3B,543592,Austin Nola,656794,Sean Newcomb,572228,Luke Voit,L,Travis d'Arnaud,518595,7,0,6,False,2022-04-14,Stolen,3B,2022,2023,26.2
+6,1857,1B,2B,Stolen Base 2B,543592,Austin Nola,641540,Dane Dunning,608577,Nomar Mazara,R,Mitch Garver,641598,0,1,1,True,2022-04-04,Stolen,2B,2022,2023,26.2

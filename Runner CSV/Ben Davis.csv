@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1756,1B,,Caught Stealing 2B,150433,Ben Davis,Bengie Molina,4,0,6,False,2000-07-16,Caught,2B,2000
+522,1B,,Caught Stealing 2B,150433,Ben Davis,Mike Piazza,0,0,4,True,2001-05-15,Caught,2B,2001
+1006,1B,2B,Stolen Base 2B,150433,Ben Davis,Mike Lieberthal,1,0,2,False,2001-04-26,Stolen,2B,2001
+1276,1B,,Caught Stealing 2B,150433,Ben Davis,Paul Lo Duca,2,2,5,False,2001-04-14,Caught,2B,2001
+1468,1B,2B,Caught Stealing Home,150433,Ben Davis,Bobby Estalella,0,2,2,True,2001-04-04,Caught,Home,2001
+1571,1B,,Caught Stealing 2B,150433,Ben Davis,Geronimo Gil,6,5,7,True,2002-07-15,Caught,2B,2002
+3045,1B,2B,Stolen Base 2B,150433,Ben Davis,Tom Wilson,3,3,6,False,2002-05-09,Stolen,2B,2002
+1410,1B,2B,Stolen Base 2B,150433,Ben Davis,Victor Martinez,0,3,7,True,2004-07-22,Stolen,2B,2004

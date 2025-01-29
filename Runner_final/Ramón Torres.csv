@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2519,1B,2B,Stolen Base 2B,593527,Ramón Torres,500724,JC Ramírez,593528,Jorge Bonifacio,R,Juan Graterol,492802,0,0,1,True,2017-06-18,Stolen,2B,2017,2018,27.9
+1,1891,1B,2B,Stolen Base 2B,593527,Ramón Torres,500724,JC Ramírez,593528,Jorge Bonifacio,R,Juan Graterol,492802,0,0,1,True,2017-06-18,Stolen,2B,2017,2018,27.9

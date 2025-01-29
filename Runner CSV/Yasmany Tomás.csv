@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1512,2B,3B,Stolen Base 3B,630111,Yasmany Tomás,Robinson Chirinos,0,3,7,True,2015-07-07,Stolen,3B,2015
+1717,1B,,Caught Stealing 2B,630111,Yasmany Tomás,Derek Norris,1,0,2,True,2015-06-26,Caught,2B,2015
+1892,2B,3B,Stolen Base 3B,630111,Yasmany Tomás,Chris Iannetta,1,0,1,False,2015-06-17,Stolen,3B,2015
+1993,1B,,Caught Stealing 2B,630111,Yasmany Tomás,Buster Posey,2,4,7,True,2015-06-13,Caught,2B,2015
+2247,1B,2B,Stolen Base 2B,630111,Yasmany Tomás,Martín Maldonado,6,6,10,True,2015-05-31,Stolen,2B,2015
+2723,1B,2B,Stolen Base 2B,630111,Yasmany Tomás,Derek Norris,5,5,6,False,2015-05-08,Stolen,2B,2015
+3042,1B,2B,Stolen Base 2B,630111,Yasmany Tomás,Francisco Cervelli,1,4,8,False,2015-04-24,Stolen,2B,2015
+270,2B,,Caught Stealing 3B,630111,Yasmany Tomás,Yasmani Grandal,0,3,4,True,2016-07-30,Caught,3B,2016
+910,2B,3B,Stolen Base 3B,630111,Yasmany Tomás,Nick Hundley,1,2,4,True,2016-06-24,Stolen,3B,2016
+1334,1B,,Caught Stealing 2B,630111,Yasmany Tomás,Evan Gattis,0,1,5,True,2016-06-01,Caught,2B,2016
+1636,1B,2B,Stolen Base 2B,630111,Yasmany Tomás,Austin Romine,1,0,1,False,2016-05-16,Stolen,2B,2016
+1957,1B,,Caught Stealing 2B,630111,Yasmany Tomás,Nick Hundley,0,0,2,False,2016-04-29,Caught,2B,2016

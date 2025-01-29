@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1367,1B,2B,Stolen Base 2B,641583,Dustin Fowler,Nick Hundley,5,5,9,False,2018-07-22,Stolen,2B,2018
+1523,1B,,Caught Stealing 2B,641583,Dustin Fowler,Max Stassi,0,0,1,True,2018-07-10,Caught,2B,2018
+1807,1B,,Caught Stealing 2B,641583,Dustin Fowler,Grayson Greiner,0,0,3,True,2018-06-25,Caught,2B,2018
+1852,1B,2B,Stolen Base 2B,641583,Dustin Fowler,Kevan Smith,6,7,9,True,2018-06-23,Stolen,2B,2018
+2178,1B,2B,Stolen Base 2B,641583,Dustin Fowler,Salvador Perez,1,2,8,True,2018-06-03,Stolen,2B,2018
+2358,1B,2B,Stolen Base 2B,641583,Dustin Fowler,David Freitas,4,2,4,False,2018-05-24,Stolen,2B,2018
+2364,1B,,Caught Stealing 2B,641583,Dustin Fowler,Mike Zunino,0,1,8,False,2018-05-23,Caught,2B,2018
+2430,1B,,Caught Stealing 2B,641583,Dustin Fowler,Luke Maile,0,1,3,True,2018-05-20,Caught,2B,2018
+2473,1B,2B,Stolen Base 2B,641583,Dustin Fowler,Luke Maile,1,3,9,True,2018-05-18,Stolen,2B,2018
+2490,1B,2B,Stolen Base 2B,641583,Dustin Fowler,Russell Martin,1,3,4,True,2018-05-17,Stolen,2B,2018
+2834,2B,3B,Stolen Base 3B,641583,Dustin Fowler,Willson Contreras,2,3,4,True,2021-04-01,Stolen,3B,2021

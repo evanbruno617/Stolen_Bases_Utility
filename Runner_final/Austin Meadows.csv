@@ -1,0 +1,84 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,268,1B,2B,Stolen Base 2B,640457,Austin Meadows,434671,Aníbal Sánchez,664040,Brandon Lowe,R,Kurt Suzuki,435559,2,0,5,False,2020-09-15,Stolen,2B,2020,2021,27.5
+1,945,1B,2B,Stolen Base 2B,640457,Austin Meadows,605155,Colten Brewer,664040,Brandon Lowe,R,Kevin Plawecki,608700,3,1,3,True,2020-08-10,Stolen,2B,2020,2021,27.5
+2,949,1B,,Caught Stealing 2B,640457,Austin Meadows,570488,Phillips Valdez,650490,Yandy Díaz,R,Kevin Plawecki,608700,5,7,7,True,2020-08-10,Caught,2B,2020,2021,27.5
+3,3111,1B,2B,Stolen Base 2B,640457,Austin Meadows,434671,Aníbal Sánchez,664040,Brandon Lowe,R,Kurt Suzuki,435559,2,0,5,False,2020-09-15,Stolen,2B,2020,2021,27.5
+4,3788,1B,2B,Stolen Base 2B,640457,Austin Meadows,605155,Colten Brewer,664040,Brandon Lowe,R,Kevin Plawecki,608700,3,1,3,True,2020-08-10,Stolen,2B,2020,2021,27.5
+5,3792,1B,,Caught Stealing 2B,640457,Austin Meadows,570488,Phillips Valdez,650490,Yandy Díaz,R,Kevin Plawecki,608700,5,7,7,True,2020-08-10,Caught,2B,2020,2021,27.5
+6,5035,1B,2B,Stolen Base 2B,640457,Austin Meadows,434671,Aníbal Sánchez,664040,Brandon Lowe,R,Kurt Suzuki,435559,2,0,5,False,2020-09-15,Stolen,2B,2020,2021,27.5
+7,5712,1B,2B,Stolen Base 2B,640457,Austin Meadows,605155,Colten Brewer,664040,Brandon Lowe,R,Kevin Plawecki,608700,3,1,3,True,2020-08-10,Stolen,2B,2020,2021,27.5
+8,5716,1B,,Caught Stealing 2B,640457,Austin Meadows,570488,Phillips Valdez,650490,Yandy Díaz,R,Kevin Plawecki,608700,5,7,7,True,2020-08-10,Caught,2B,2020,2021,27.5
+9,1376,1B,,Caught Stealing 2B,640457,Austin Meadows,621294,Ben Heller,542583,Jesús Aguilar,R,Kyle Higashioka,543309,0,1,3,False,2019-09-24,Caught,2B,2019,2020,26.5
+10,1416,1B,,Caught Stealing 2B,640457,Austin Meadows,519443,Brandon Workman,518595,Travis d'Arnaud,R,Christian Vázquez,543877,3,3,10,False,2019-09-21,Caught,2B,2019,2020,26.5
+11,1471,1B,2B,Stolen Base 2B,640457,Austin Meadows,571670,Dylan Floro,518595,Travis d'Arnaud,R,Will Smith,669257,0,1,3,True,2019-09-17,Stolen,2B,2019,2020,26.5
+12,1515,1B,2B,Stolen Base 2B,640457,Austin Meadows,600887,Miguel Del Pozo,596847,Ji Man Choi,L,Anthony Bemboom,621532,0,0,6,True,2019-09-14,Stolen,2B,2019,2020,26.5
+13,1729,1B,2B,Stolen Base 2B,640457,Austin Meadows,571710,Mychal Givens,502054,Tommy Pham,R,Chance Sisco,642082,2,3,8,False,2019-09-03,Stolen,2B,2019,2020,26.5
+14,1991,1B,,Caught Stealing 2B,640457,Austin Meadows,572403,Drew VerHagen,542583,Jesús Aguilar,R,Jake Rogers,668670,0,1,6,False,2019-08-16,Caught,2B,2019,2020,26.5
+15,2440,1B,2B,Stolen Base 2B,640457,Austin Meadows,643338,Chad Green,502054,Tommy Pham,R,Austin Romine,519222,0,0,1,True,2019-07-18,Stolen,2B,2019,2020,26.5
+16,2445,1B,2B,Stolen Base 2B,640457,Austin Meadows,643338,Chad Green,502054,Tommy Pham,R,Austin Romine,519222,0,0,1,True,2019-07-17,Stolen,2B,2019,2020,26.5
+17,2901,1B,,Caught Stealing 2B,640457,Austin Meadows,547888,Masahiro Tanaka,502054,Tommy Pham,R,Gary Sánchez,596142,3,0,6,True,2019-06-17,Caught,2B,2019,2020,26.5
+18,3058,1B,2B,Stolen Base 2B,640457,Austin Meadows,595001,Josh A. Smith,502054,Tommy Pham,R,Sandy León,506702,0,0,1,True,2019-06-08,Stolen,2B,2019,2020,26.5
+19,3068,1B,,Caught Stealing 2B,640457,Austin Meadows,657031,Josh Taylor,664040,Brandon Lowe,L,Christian Vázquez,543877,0,4,7,True,2019-06-07,Caught,2B,2019,2020,26.5
+20,3198,3B,score,Stolen Base Home,640457,Austin Meadows,621244,José Berríos,624414,Christian Arroyo,R,Willians Astudillo,553902,3,1,3,False,2019-05-31,Stolen,Home,2019,2020,26.5
+21,3264,1B,2B,Stolen Base 2B,640457,Austin Meadows,592717,Aaron Sanchez,502054,Tommy Pham,R,Luke Maile,571912,1,0,2,False,2019-05-27,Stolen,2B,2019,2020,26.5
+22,3284,1B,2B,Stolen Base 2B,640457,Austin Meadows,545333,Trevor Bauer,502054,Tommy Pham,R,Kevin Plawecki,608700,0,4,5,True,2019-05-26,Stolen,2B,2019,2020,26.5
+23,3393,1B,,Caught Stealing 2B,640457,Austin Meadows,643338,Chad Green,502054,Tommy Pham,R,Gary Sánchez,596142,0,0,1,True,2019-05-19,Caught,2B,2019,2020,26.5
+24,3422,1B,2B,Stolen Base 2B,640457,Austin Meadows,282332,CC Sabathia,541645,Avisaíl García,L,Gary Sánchez,596142,0,0,1,True,2019-05-17,Stolen,2B,2019,2020,26.5
+25,3444,3B,,Caught Stealing Home,640457,Austin Meadows,543045,Adam Conley,596847,Ji Man Choi,L,Jorge Alfaro,595751,0,1,7,True,2019-05-15,Caught,Home,2019,2020,26.5
+26,3928,1B,2B,Stolen Base 2B,640457,Austin Meadows,605164,Dylan Bundy,502054,Tommy Pham,R,Jesús Sucre,491696,3,2,5,False,2019-04-16,Stolen,2B,2019,2020,26.5
+27,4068,1B,2B,Stolen Base 2B,640457,Austin Meadows,429722,Ervin Santana,502054,Tommy Pham,R,Welington Castillo,456078,0,0,1,True,2019-04-09,Stolen,2B,2019,2020,26.5
+28,4219,1B,,Caught Stealing 2B,640457,Austin Meadows,621294,Ben Heller,542583,Jesús Aguilar,R,Kyle Higashioka,543309,0,1,3,False,2019-09-24,Caught,2B,2019,2020,26.5
+29,4259,1B,,Caught Stealing 2B,640457,Austin Meadows,519443,Brandon Workman,518595,Travis d'Arnaud,R,Christian Vázquez,543877,3,3,10,False,2019-09-21,Caught,2B,2019,2020,26.5
+30,4314,1B,2B,Stolen Base 2B,640457,Austin Meadows,571670,Dylan Floro,518595,Travis d'Arnaud,R,Will Smith,669257,0,1,3,True,2019-09-17,Stolen,2B,2019,2020,26.5
+31,4358,1B,2B,Stolen Base 2B,640457,Austin Meadows,600887,Miguel Del Pozo,596847,Ji Man Choi,L,Anthony Bemboom,621532,0,0,6,True,2019-09-14,Stolen,2B,2019,2020,26.5
+32,4572,1B,2B,Stolen Base 2B,640457,Austin Meadows,571710,Mychal Givens,502054,Tommy Pham,R,Chance Sisco,642082,2,3,8,False,2019-09-03,Stolen,2B,2019,2020,26.5
+33,4834,1B,,Caught Stealing 2B,640457,Austin Meadows,572403,Drew VerHagen,542583,Jesús Aguilar,R,Jake Rogers,668670,0,1,6,False,2019-08-16,Caught,2B,2019,2020,26.5
+34,5283,1B,2B,Stolen Base 2B,640457,Austin Meadows,643338,Chad Green,502054,Tommy Pham,R,Austin Romine,519222,0,0,1,True,2019-07-18,Stolen,2B,2019,2020,26.5
+35,5288,1B,2B,Stolen Base 2B,640457,Austin Meadows,643338,Chad Green,502054,Tommy Pham,R,Austin Romine,519222,0,0,1,True,2019-07-17,Stolen,2B,2019,2020,26.5
+36,5744,1B,,Caught Stealing 2B,640457,Austin Meadows,547888,Masahiro Tanaka,502054,Tommy Pham,R,Gary Sánchez,596142,3,0,6,True,2019-06-17,Caught,2B,2019,2020,26.5
+37,5901,1B,2B,Stolen Base 2B,640457,Austin Meadows,595001,Josh A. Smith,502054,Tommy Pham,R,Sandy León,506702,0,0,1,True,2019-06-08,Stolen,2B,2019,2020,26.5
+38,5911,1B,,Caught Stealing 2B,640457,Austin Meadows,657031,Josh Taylor,664040,Brandon Lowe,L,Christian Vázquez,543877,0,4,7,True,2019-06-07,Caught,2B,2019,2020,26.5
+39,6041,3B,score,Stolen Base Home,640457,Austin Meadows,621244,José Berríos,624414,Christian Arroyo,R,Willians Astudillo,553902,3,1,3,False,2019-05-31,Stolen,Home,2019,2020,26.5
+40,6107,1B,2B,Stolen Base 2B,640457,Austin Meadows,592717,Aaron Sanchez,502054,Tommy Pham,R,Luke Maile,571912,1,0,2,False,2019-05-27,Stolen,2B,2019,2020,26.5
+41,6127,1B,2B,Stolen Base 2B,640457,Austin Meadows,545333,Trevor Bauer,502054,Tommy Pham,R,Kevin Plawecki,608700,0,4,5,True,2019-05-26,Stolen,2B,2019,2020,26.5
+42,6236,1B,,Caught Stealing 2B,640457,Austin Meadows,643338,Chad Green,502054,Tommy Pham,R,Gary Sánchez,596142,0,0,1,True,2019-05-19,Caught,2B,2019,2020,26.5
+43,6265,1B,2B,Stolen Base 2B,640457,Austin Meadows,282332,CC Sabathia,541645,Avisaíl García,L,Gary Sánchez,596142,0,0,1,True,2019-05-17,Stolen,2B,2019,2020,26.5
+44,6287,3B,,Caught Stealing Home,640457,Austin Meadows,543045,Adam Conley,596847,Ji Man Choi,L,Jorge Alfaro,595751,0,1,7,True,2019-05-15,Caught,Home,2019,2020,26.5
+45,6771,1B,2B,Stolen Base 2B,640457,Austin Meadows,605164,Dylan Bundy,502054,Tommy Pham,R,Jesús Sucre,491696,3,2,5,False,2019-04-16,Stolen,2B,2019,2020,26.5
+46,6911,1B,2B,Stolen Base 2B,640457,Austin Meadows,429722,Ervin Santana,502054,Tommy Pham,R,Welington Castillo,456078,0,0,1,True,2019-04-09,Stolen,2B,2019,2020,26.5
+47,6143,1B,,Caught Stealing 2B,640457,Austin Meadows,621294,Ben Heller,542583,Jesús Aguilar,R,Kyle Higashioka,543309,0,1,3,False,2019-09-24,Caught,2B,2019,2020,26.5
+48,6183,1B,,Caught Stealing 2B,640457,Austin Meadows,519443,Brandon Workman,518595,Travis d'Arnaud,R,Christian Vázquez,543877,3,3,10,False,2019-09-21,Caught,2B,2019,2020,26.5
+49,6238,1B,2B,Stolen Base 2B,640457,Austin Meadows,571670,Dylan Floro,518595,Travis d'Arnaud,R,Will Smith,669257,0,1,3,True,2019-09-17,Stolen,2B,2019,2020,26.5
+50,6282,1B,2B,Stolen Base 2B,640457,Austin Meadows,600887,Miguel Del Pozo,596847,Ji Man Choi,L,Anthony Bemboom,621532,0,0,6,True,2019-09-14,Stolen,2B,2019,2020,26.5
+51,6496,1B,2B,Stolen Base 2B,640457,Austin Meadows,571710,Mychal Givens,502054,Tommy Pham,R,Chance Sisco,642082,2,3,8,False,2019-09-03,Stolen,2B,2019,2020,26.5
+52,6758,1B,,Caught Stealing 2B,640457,Austin Meadows,572403,Drew VerHagen,542583,Jesús Aguilar,R,Jake Rogers,668670,0,1,6,False,2019-08-16,Caught,2B,2019,2020,26.5
+53,7207,1B,2B,Stolen Base 2B,640457,Austin Meadows,643338,Chad Green,502054,Tommy Pham,R,Austin Romine,519222,0,0,1,True,2019-07-18,Stolen,2B,2019,2020,26.5
+54,7212,1B,2B,Stolen Base 2B,640457,Austin Meadows,643338,Chad Green,502054,Tommy Pham,R,Austin Romine,519222,0,0,1,True,2019-07-17,Stolen,2B,2019,2020,26.5
+55,7668,1B,,Caught Stealing 2B,640457,Austin Meadows,547888,Masahiro Tanaka,502054,Tommy Pham,R,Gary Sánchez,596142,3,0,6,True,2019-06-17,Caught,2B,2019,2020,26.5
+56,7825,1B,2B,Stolen Base 2B,640457,Austin Meadows,595001,Josh A. Smith,502054,Tommy Pham,R,Sandy León,506702,0,0,1,True,2019-06-08,Stolen,2B,2019,2020,26.5
+57,7835,1B,,Caught Stealing 2B,640457,Austin Meadows,657031,Josh Taylor,664040,Brandon Lowe,L,Christian Vázquez,543877,0,4,7,True,2019-06-07,Caught,2B,2019,2020,26.5
+58,7965,3B,score,Stolen Base Home,640457,Austin Meadows,621244,José Berríos,624414,Christian Arroyo,R,Willians Astudillo,553902,3,1,3,False,2019-05-31,Stolen,Home,2019,2020,26.5
+59,8031,1B,2B,Stolen Base 2B,640457,Austin Meadows,592717,Aaron Sanchez,502054,Tommy Pham,R,Luke Maile,571912,1,0,2,False,2019-05-27,Stolen,2B,2019,2020,26.5
+60,8051,1B,2B,Stolen Base 2B,640457,Austin Meadows,545333,Trevor Bauer,502054,Tommy Pham,R,Kevin Plawecki,608700,0,4,5,True,2019-05-26,Stolen,2B,2019,2020,26.5
+61,8160,1B,,Caught Stealing 2B,640457,Austin Meadows,643338,Chad Green,502054,Tommy Pham,R,Gary Sánchez,596142,0,0,1,True,2019-05-19,Caught,2B,2019,2020,26.5
+62,8189,1B,2B,Stolen Base 2B,640457,Austin Meadows,282332,CC Sabathia,541645,Avisaíl García,L,Gary Sánchez,596142,0,0,1,True,2019-05-17,Stolen,2B,2019,2020,26.5
+63,8211,3B,,Caught Stealing Home,640457,Austin Meadows,543045,Adam Conley,596847,Ji Man Choi,L,Jorge Alfaro,595751,0,1,7,True,2019-05-15,Caught,Home,2019,2020,26.5
+64,8695,1B,2B,Stolen Base 2B,640457,Austin Meadows,605164,Dylan Bundy,502054,Tommy Pham,R,Jesús Sucre,491696,3,2,5,False,2019-04-16,Stolen,2B,2019,2020,26.5
+65,8835,1B,2B,Stolen Base 2B,640457,Austin Meadows,429722,Ervin Santana,502054,Tommy Pham,R,Welington Castillo,456078,0,0,1,True,2019-04-09,Stolen,2B,2019,2020,26.5
+66,158,1B,,Caught Stealing 2B,640457,Austin Meadows,666201,Alek Manoah,595281,Kevin Kiermaier,R,Alejandro Kirk,672386,1,1,3,False,2021-09-21,Caught,2B,2021,2022,27.2
+67,236,1B,2B,Stolen Base 2B,640457,Austin Meadows,605242,Michael Fulmer,621563,Joey Wendle,R,Eric Haase,606992,4,4,9,False,2021-09-17,Stolen,2B,2021,2022,27.2
+68,1096,1B,,Caught Stealing 2B,640457,Austin Meadows,615698,Cal Quantrill,621563,Joey Wendle,R,Austin Hedges,595978,4,1,6,True,2021-07-22,Caught,2B,2021,2022,27.2
+69,1125,1B,,Caught Stealing 2B,640457,Austin Meadows,649144,Alex Wells,664040,Brandon Lowe,L,Austin Wynns,642851,3,3,5,False,2021-07-21,Caught,2B,2021,2022,27.2
+70,1265,1B,2B,Stolen Base 2B,640457,Austin Meadows,605447,Jordan Romano,668227,Randy Arozarena,R,Danny Jansen,643376,5,2,8,False,2021-07-10,Stolen,2B,2021,2022,27.2
+71,1867,1B,2B,Stolen Base 2B,640457,Austin Meadows,643338,Chad Green,650490,Yandy Díaz,R,Gary Sánchez,596142,3,3,8,True,2021-06-01,Stolen,2B,2021,2022,27.2
+72,2271,1B,2B,Stolen Base 2B,640457,Austin Meadows,642083,Aaron Slegers,650490,Yandy Díaz,R,Kurt Suzuki,435559,3,5,8,True,2021-05-06,Stolen,2B,2021,2022,27.2
+73,2272,2B,3B,Stolen Base 2B,640457,Austin Meadows,642083,Aaron Slegers,650490,Yandy Díaz,R,Kurt Suzuki,435559,3,5,8,True,2021-05-06,Stolen,2B,2021,2022,27.2
+74,2082,1B,,Caught Stealing 2B,640457,Austin Meadows,666201,Alek Manoah,595281,Kevin Kiermaier,R,Alejandro Kirk,672386,1,1,3,False,2021-09-21,Caught,2B,2021,2022,27.2
+75,2160,1B,2B,Stolen Base 2B,640457,Austin Meadows,605242,Michael Fulmer,621563,Joey Wendle,R,Eric Haase,606992,4,4,9,False,2021-09-17,Stolen,2B,2021,2022,27.2
+76,3020,1B,,Caught Stealing 2B,640457,Austin Meadows,615698,Cal Quantrill,621563,Joey Wendle,R,Austin Hedges,595978,4,1,6,True,2021-07-22,Caught,2B,2021,2022,27.2
+77,3049,1B,,Caught Stealing 2B,640457,Austin Meadows,649144,Alex Wells,664040,Brandon Lowe,L,Austin Wynns,642851,3,3,5,False,2021-07-21,Caught,2B,2021,2022,27.2
+78,3189,1B,2B,Stolen Base 2B,640457,Austin Meadows,605447,Jordan Romano,668227,Randy Arozarena,R,Danny Jansen,643376,5,2,8,False,2021-07-10,Stolen,2B,2021,2022,27.2
+79,3791,1B,2B,Stolen Base 2B,640457,Austin Meadows,643338,Chad Green,650490,Yandy Díaz,R,Gary Sánchez,596142,3,3,8,True,2021-06-01,Stolen,2B,2021,2022,27.2
+80,4195,1B,2B,Stolen Base 2B,640457,Austin Meadows,642083,Aaron Slegers,650490,Yandy Díaz,R,Kurt Suzuki,435559,3,5,8,True,2021-05-06,Stolen,2B,2021,2022,27.2
+81,4196,2B,3B,Stolen Base 2B,640457,Austin Meadows,642083,Aaron Slegers,650490,Yandy Díaz,R,Kurt Suzuki,435559,3,5,8,True,2021-05-06,Stolen,2B,2021,2022,27.2
+82,1794,1B,,Caught Stealing 2B,640457,Austin Meadows,656629,Michael Kopech,600869,Jeimer Candelario,R,Reese McGuire,624512,0,2,1,False,2022-04-10,Caught,2B,2022,2023,26.0

@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+690,1B,2B,Stolen Base 2B,425489,Jose Castillo,Mike Matheny,4,5,4,False,2004-08-28,Stolen,2B,2004
+912,1B,2B,Stolen Base 2B,425489,Jose Castillo,Koyie Hill,7,7,10,True,2004-08-16,Stolen,2B,2004
+1365,1B,,Caught Stealing 2B,425489,Jose Castillo,Jason LaRue,6,5,8,False,2004-07-25,Caught,2B,2004
+1377,1B,2B,Stolen Base 2B,425489,Jose Castillo,Jason LaRue,0,3,3,False,2004-07-24,Stolen,2B,2004
+803,1B,,Caught Stealing 2B,425489,Jose Castillo,Mike Lieberthal,5,1,7,True,2005-08-20,Caught,2B,2005
+924,1B,2B,Stolen Base 2B,425489,Jose Castillo,Humberto Quintero,0,2,4,True,2005-08-14,Stolen,2B,2005
+1068,1B,2B,Stolen Base 2B,425489,Jose Castillo,Dioner Navarro,1,1,1,False,2005-08-06,Stolen,2B,2005
+1789,1B,,Caught Stealing 2B,425489,Jose Castillo,Brian Schneider,1,2,4,True,2005-06-29,Caught,2B,2005
+2792,3B,,Caught Stealing Home,425489,Jose Castillo,Chris Snyder,0,3,5,True,2005-05-07,Caught,Home,2005
+1422,1B,2B,Stolen Base 2B,425489,Jose Castillo,Jason Kendall,2,1,4,False,2008-07-19,Stolen,2B,2008
+1940,1B,,Caught Stealing 2B,425489,Jose Castillo,Miguel Olivo,4,8,8,True,2008-06-20,Caught,2B,2008
+2331,1B,,Caught Stealing 2B,425489,Jose Castillo,Ramon Castro,6,1,2,False,2008-06-02,Caught,2B,2008
+3430,1B,2B,Stolen Base 2B,425489,Jose Castillo,Robby Hammock,3,4,6,False,2008-04-14,Stolen,2B,2008

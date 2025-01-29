@@ -1,0 +1,26 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1822,1B,2B,Stolen Base 2B,453203,Shane Robinson,571616,Matt Dermody,472528,Luis Valbuena,L,Miguel Montero,471083,4,10,9,True,2017-07-30,Stolen,2B,2017,2018,28.6
+1,2872,2B,3B,Stolen Base 3B,453203,Shane Robinson,448802,Jaime García,460060,Cliff Pennington,L,Kurt Suzuki,435559,0,1,5,False,2017-05-31,Stolen,3B,2017,2018,28.6
+2,1194,1B,2B,Stolen Base 2B,453203,Shane Robinson,571616,Matt Dermody,472528,Luis Valbuena,L,Miguel Montero,471083,4,10,9,True,2017-07-30,Stolen,2B,2017,2018,28.6
+3,2244,2B,3B,Stolen Base 3B,453203,Shane Robinson,448802,Jaime García,460060,Cliff Pennington,L,Kurt Suzuki,435559,0,1,5,False,2017-05-31,Stolen,3B,2017,2018,28.6
+4,4266,1B,,Caught Stealing 2B,453203,Shane Robinson,605309,Keone Kela,592743,Andrelton Simmons,R,Jonathan Lucroy,518960,5,4,7,True,2016-09-20,Caught,2B,2016,2017,29.0
+5,4313,1B,2B,Stolen Base 2B,453203,Shane Robinson,434538,Francisco Liriano,488862,Yunel Escobar,L,Russell Martin,431145,2,0,5,False,2016-09-17,Stolen,2B,2016,2017,29.0
+6,5940,1B,2B,Stolen Base 2B,453203,Shane Robinson,501789,Will Harris,488862,Yunel Escobar,R,Jason Castro,488771,3,1,9,True,2016-06-22,Stolen,2B,2016,2017,29.0
+7,6302,1B,2B,Stolen Base 2B,453203,Shane Robinson,543746,Rob Scahill,488862,Yunel Escobar,R,Chris Stewart,455755,2,7,5,True,2016-06-03,Stolen,2B,2016,2017,29.0
+8,6382,1B,,Caught Stealing 2B,453203,Shane Robinson,450212,Pat Neshek,543068,C.J. Cron,R,Evan Gattis,594828,5,5,10,False,2016-05-29,Caught,2B,2016,2017,29.0
+9,231,1B,,Caught Stealing 2B,453203,Shane Robinson,605309,Keone Kela,592743,Andrelton Simmons,R,Jonathan Lucroy,518960,5,4,7,True,2016-09-20,Caught,2B,2016,2017,29.0
+10,278,1B,2B,Stolen Base 2B,453203,Shane Robinson,434538,Francisco Liriano,488862,Yunel Escobar,L,Russell Martin,431145,2,0,5,False,2016-09-17,Stolen,2B,2016,2017,29.0
+11,1905,1B,2B,Stolen Base 2B,453203,Shane Robinson,501789,Will Harris,488862,Yunel Escobar,R,Jason Castro,488771,3,1,9,True,2016-06-22,Stolen,2B,2016,2017,29.0
+12,2267,1B,2B,Stolen Base 2B,453203,Shane Robinson,543746,Rob Scahill,488862,Yunel Escobar,R,Chris Stewart,455755,2,7,5,True,2016-06-03,Stolen,2B,2016,2017,29.0
+13,2347,1B,,Caught Stealing 2B,453203,Shane Robinson,450212,Pat Neshek,543068,C.J. Cron,R,Evan Gattis,594828,5,5,10,False,2016-05-29,Caught,2B,2016,2017,29.0
+14,3638,1B,,Caught Stealing 2B,453203,Shane Robinson,605309,Keone Kela,592743,Andrelton Simmons,R,Jonathan Lucroy,518960,5,4,7,True,2016-09-20,Caught,2B,2016,2017,29.0
+15,3685,1B,2B,Stolen Base 2B,453203,Shane Robinson,434538,Francisco Liriano,488862,Yunel Escobar,L,Russell Martin,431145,2,0,5,False,2016-09-17,Stolen,2B,2016,2017,29.0
+16,5312,1B,2B,Stolen Base 2B,453203,Shane Robinson,501789,Will Harris,488862,Yunel Escobar,R,Jason Castro,488771,3,1,9,True,2016-06-22,Stolen,2B,2016,2017,29.0
+17,5674,1B,2B,Stolen Base 2B,453203,Shane Robinson,543746,Rob Scahill,488862,Yunel Escobar,R,Chris Stewart,455755,2,7,5,True,2016-06-03,Stolen,2B,2016,2017,29.0
+18,5754,1B,,Caught Stealing 2B,453203,Shane Robinson,450212,Pat Neshek,543068,C.J. Cron,R,Evan Gattis,594828,5,5,10,False,2016-05-29,Caught,2B,2016,2017,29.0
+19,22,1B,2B,Stolen Base 2B,453203,Shane Robinson,572070,Garrett Richards,435559,Kurt Suzuki,R,Carlos Pérez,542208,0,3,8,True,2015-07-23,Stolen,2B,2015,2016,28.9
+20,408,2B,3B,Stolen Base 3B,453203,Shane Robinson,502264,Nate Adcock,408045,Joe Mauer,R,Tucker Barnhart,571466,9,7,6,True,2015-06-29,Stolen,3B,2015,2016,28.9
+21,1499,2B,3B,Stolen Base 3B,453203,Shane Robinson,519141,Drew Pomeranz,592696,Eddie Rosario,L,Josh Phegley,572033,3,2,2,False,2015-05-07,Stolen,3B,2015,2016,28.9
+22,1931,1B,2B,Stolen Base 2B,453203,Shane Robinson,519240,Marc Rzepczynski,408045,Joe Mauer,L,Roberto Pérez,547379,2,2,10,False,2015-04-17,Stolen,2B,2015,2016,28.9
+23,2071,1B,2B,Stolen Base 2B,453203,Shane Robinson,502188,Jeff Samardzija,542454,Danny Santana,R,Tyler Flowers,452095,0,3,2,True,2015-04-11,Stolen,2B,2015,2016,28.9
+24,2202,1B,,Caught Stealing 2B,453203,Shane Robinson,465629,Edward Mujica,456488,Eduardo Núñez,R,Sandy León,506702,2,5,7,True,2015-04-03,Caught,2B,2015,2016,28.9

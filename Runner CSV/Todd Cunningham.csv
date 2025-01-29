@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+4140,1B,2B,Stolen Base 2B,592239,Todd Cunningham,David Ross,1,1,3,True,2012-04-03,Stolen,2B,2012
+2195,1B,,Caught Stealing 2B,592239,Todd Cunningham,Jarrod Saltalamacchia,3,7,5,True,2015-06-03,Caught,2B,2015
+2231,2B,3B,Stolen Base 3B,592239,Todd Cunningham,Jarrod Saltalamacchia,1,6,6,True,2015-06-01,Stolen,3B,2015
+2582,1B,2B,Stolen Base 2B,592239,Todd Cunningham,J.T. Realmuto,3,5,8,True,2015-05-15,Stolen,2B,2015
+648,1B,,Caught Stealing 2B,592239,Todd Cunningham,Caleb Joseph,2,2,8,True,2016-07-09,Caught,2B,2016

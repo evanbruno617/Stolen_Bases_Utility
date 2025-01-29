@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1803,1B,,Caught Stealing 2B,641432,Willie Calhoun,664126,Pete Fairbanks,641829,Jason Martin,R,Mike Zunino,572287,0,3,8,False,2021-06-05,Caught,2B,2021,2022,25.8
+1,2020,1B,,Caught Stealing 2B,641432,Willie Calhoun,664299,Cristian Javier,663993,Nathaniel Lowe,R,Jason Castro,488771,0,0,1,False,2021-05-23,Caught,2B,2021,2022,25.8
+2,3727,1B,,Caught Stealing 2B,641432,Willie Calhoun,664126,Pete Fairbanks,641829,Jason Martin,R,Mike Zunino,572287,0,3,8,False,2021-06-05,Caught,2B,2021,2022,25.8
+3,3944,1B,,Caught Stealing 2B,641432,Willie Calhoun,664299,Cristian Javier,663993,Nathaniel Lowe,R,Jason Castro,488771,0,0,1,False,2021-05-23,Caught,2B,2021,2022,25.8

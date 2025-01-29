@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1783,1B,2B,Stolen Base 2B,661388,William Contreras,Austin Wynns,3,3,9,False,2022-06-22,Stolen,2B,2022
+2624,1B,2B,Stolen Base 2B,661388,William Contreras,Omar Narváez,5,0,4,False,2022-05-08,Stolen,2B,2022
+291,1B,2B,Stolen Base 2B,661388,William Contreras,Andrew Knizner,3,6,9,True,2023-09-19,Stolen,2B,2023
+577,1B,2B,Stolen Base 2B,661388,William Contreras,Austin Wells,2,4,7,True,2023-09-08,Stolen,2B,2023
+640,1B,2B,Stolen Base 2B,661388,William Contreras,Jason Delay,1,3,5,True,2023-09-06,Stolen,2B,2023
+809,1B,2B,Stolen Base 2B,661388,William Contreras,Yan Gomes,2,1,5,True,2023-08-30,Stolen,2B,2023
+1607,3B,,Caught Stealing Home,661388,William Contreras,Tyler Stephenson,1,2,3,False,2023-07-24,Caught,Home,2023
+2191,1B,2B,Stolen Base 2B,661388,William Contreras,Francisco Alvarez,1,0,5,True,2023-06-26,Stolen,2B,2023

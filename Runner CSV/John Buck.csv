@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1207,1B,2B,Stolen Base 2B,407833,John Buck,Tim Laker,2,2,3,False,2004-08-01,Stolen,2B,2004
+1642,3B,,Caught Stealing Home,407833,John Buck,Javy Lopez,0,0,3,True,2004-07-09,Caught,Home,2004
+449,1B,2B,Stolen Base 2B,407833,John Buck,A.J. Pierzynski,0,0,5,True,2005-09-08,Stolen,2B,2005
+3141,1B,2B,Stolen Base 2B,407833,John Buck,Joe Mauer,3,5,3,True,2005-04-21,Stolen,2B,2005
+89,1B,,Caught Stealing 2B,407833,John Buck,Toby Hall,3,0,5,True,2007-09-26,Caught,2B,2007
+1840,2B,,Caught Stealing 3B,407833,John Buck,Chris Iannetta,2,1,4,False,2008-06-25,Caught,3B,2008
+3421,1B,,Caught Stealing 2B,407833,John Buck,Kenji Johjima,4,4,4,True,2008-04-15,Caught,2B,2008
+3508,3B,,Caught Stealing Home,407833,John Buck,Ivan Rodriguez,1,2,5,False,2011-05-06,Caught,Home,2011
+2446,1B,2B,Stolen Base 2B,407833,John Buck,Austin Romine,1,3,8,True,2013-05-30,Stolen,2B,2013
+2742,1B,,Caught Stealing 2B,407833,John Buck,Tony Cruz,0,0,4,True,2013-05-15,Caught,2B,2013
+2818,1B,2B,Stolen Base 2B,407833,John Buck,Michael McKenry,1,0,2,False,2013-05-12,Stolen,2B,2013

@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+192,1B,,Caught Stealing 2B,650559,Bryan De La Cruz,Jacob Stallings,3,1,5,False,2021-09-19,Caught,2B,2021
+550,1B,2B,Stolen Base 2B,650559,Bryan De La Cruz,Tres Barrera,7,3,6,False,2021-08-26,Stolen,2B,2021
+1206,1B,2B,Stolen Base 2B,650559,Bryan De La Cruz,Michael Papierski,1,2,6,True,2022-07-26,Stolen,2B,2022
+1829,1B,2B,Stolen Base 2B,650559,Bryan De La Cruz,Tomás Nido,0,0,2,True,2022-06-19,Stolen,2B,2022
+1971,1B,2B,Stolen Base 2B,650559,Bryan De La Cruz,Martín Maldonado,1,4,6,True,2022-06-11,Stolen,2B,2022
+188,1B,2B,Stolen Base 2B,650559,Bryan De La Cruz,William Contreras,5,4,8,False,2023-09-23,Stolen,2B,2023
+2181,1B,,Caught Stealing 2B,650559,Bryan De La Cruz,Connor Wong,1,6,6,True,2023-06-27,Caught,2B,2023
+2987,3B,score,Stolen Base Home,650559,Bryan De La Cruz,Elias Díaz,1,2,4,True,2023-05-24,Stolen,Home,2023
+3090,1B,2B,Stolen Base 2B,650559,Bryan De La Cruz,Patrick Bailey,0,1,9,True,2023-05-20,Stolen,2B,2023
+3764,2B,3B,Stolen Base 3B,650559,Bryan De La Cruz,Cam Gallagher,1,3,7,True,2023-04-22,Stolen,3B,2023
+3775,2B,3B,Stolen Base 3B,650559,Bryan De La Cruz,Cam Gallagher,1,3,7,True,2023-04-21,Stolen,3B,2023

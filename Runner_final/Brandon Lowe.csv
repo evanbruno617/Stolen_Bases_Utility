@@ -1,0 +1,56 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,254,1B,2B,Stolen Base 2B,664040,Brandon Lowe,608723,Austin Voth,668227,Randy Arozarena,R,Yan Gomes,543228,1,0,3,False,2020-09-16,Stolen,2B,2020,2021,27.6
+1,342,1B,2B,Stolen Base 2B,664040,Brandon Lowe,592811,Andrew Triggs,596847,Ji Man Choi,R,Christian Vázquez,543877,0,0,1,False,2020-09-11,Stolen,2B,2020,2021,27.6
+2,344,1B,2B,Stolen Base 2B,664040,Brandon Lowe,664180,Matt Hall,595281,Kevin Kiermaier,L,Christian Vázquez,543877,2,0,3,False,2020-09-11,Stolen,2B,2020,2021,27.6
+3,3097,1B,2B,Stolen Base 2B,664040,Brandon Lowe,608723,Austin Voth,668227,Randy Arozarena,R,Yan Gomes,543228,1,0,3,False,2020-09-16,Stolen,2B,2020,2021,27.6
+4,3185,1B,2B,Stolen Base 2B,664040,Brandon Lowe,592811,Andrew Triggs,596847,Ji Man Choi,R,Christian Vázquez,543877,0,0,1,False,2020-09-11,Stolen,2B,2020,2021,27.6
+5,3187,1B,2B,Stolen Base 2B,664040,Brandon Lowe,664180,Matt Hall,595281,Kevin Kiermaier,L,Christian Vázquez,543877,2,0,3,False,2020-09-11,Stolen,2B,2020,2021,27.6
+6,5021,1B,2B,Stolen Base 2B,664040,Brandon Lowe,608723,Austin Voth,668227,Randy Arozarena,R,Yan Gomes,543228,1,0,3,False,2020-09-16,Stolen,2B,2020,2021,27.6
+7,5109,1B,2B,Stolen Base 2B,664040,Brandon Lowe,592811,Andrew Triggs,596847,Ji Man Choi,R,Christian Vázquez,543877,0,0,1,False,2020-09-11,Stolen,2B,2020,2021,27.6
+8,5111,1B,2B,Stolen Base 2B,664040,Brandon Lowe,664180,Matt Hall,595281,Kevin Kiermaier,L,Christian Vázquez,543877,2,0,3,False,2020-09-11,Stolen,2B,2020,2021,27.6
+9,2658,1B,2B,Stolen Base 2B,664040,Brandon Lowe,592879,Asher Wojciechowski,502054,Tommy Pham,R,Chance Sisco,642082,2,1,3,False,2019-07-02,Stolen,2B,2019,2020,27.4
+10,2840,1B,2B,Stolen Base 2B,664040,Brandon Lowe,595014,Blake Treinen,541645,Avisaíl García,R,Josh Phegley,572033,1,2,9,True,2019-06-20,Stolen,2B,2019,2020,27.4
+11,3705,1B,2B,Stolen Base 2B,664040,Brandon Lowe,503449,Wily Peralta,502054,Tommy Pham,R,Martín Maldonado,455117,4,6,9,True,2019-04-29,Stolen,2B,2019,2020,27.4
+12,3970,1B,2B,Stolen Base 2B,664040,Brandon Lowe,573186,Marcus Stroman,595281,Kevin Kiermaier,R,Danny Jansen,643376,1,0,2,True,2019-04-14,Stolen,2B,2019,2020,27.4
+13,4170,1B,2B,Stolen Base 2B,664040,Brandon Lowe,608566,Germán Márquez,541645,Avisaíl García,R,Tony Wolters,547172,0,0,4,False,2019-04-03,Stolen,2B,2019,2020,27.4
+14,5501,1B,2B,Stolen Base 2B,664040,Brandon Lowe,592879,Asher Wojciechowski,502054,Tommy Pham,R,Chance Sisco,642082,2,1,3,False,2019-07-02,Stolen,2B,2019,2020,27.4
+15,5683,1B,2B,Stolen Base 2B,664040,Brandon Lowe,595014,Blake Treinen,541645,Avisaíl García,R,Josh Phegley,572033,1,2,9,True,2019-06-20,Stolen,2B,2019,2020,27.4
+16,6548,1B,2B,Stolen Base 2B,664040,Brandon Lowe,503449,Wily Peralta,502054,Tommy Pham,R,Martín Maldonado,455117,4,6,9,True,2019-04-29,Stolen,2B,2019,2020,27.4
+17,6813,1B,2B,Stolen Base 2B,664040,Brandon Lowe,573186,Marcus Stroman,595281,Kevin Kiermaier,R,Danny Jansen,643376,1,0,2,True,2019-04-14,Stolen,2B,2019,2020,27.4
+18,7013,1B,2B,Stolen Base 2B,664040,Brandon Lowe,608566,Germán Márquez,541645,Avisaíl García,R,Tony Wolters,547172,0,0,4,False,2019-04-03,Stolen,2B,2019,2020,27.4
+19,7425,1B,2B,Stolen Base 2B,664040,Brandon Lowe,592879,Asher Wojciechowski,502054,Tommy Pham,R,Chance Sisco,642082,2,1,3,False,2019-07-02,Stolen,2B,2019,2020,27.4
+20,7607,1B,2B,Stolen Base 2B,664040,Brandon Lowe,595014,Blake Treinen,541645,Avisaíl García,R,Josh Phegley,572033,1,2,9,True,2019-06-20,Stolen,2B,2019,2020,27.4
+21,8472,1B,2B,Stolen Base 2B,664040,Brandon Lowe,503449,Wily Peralta,502054,Tommy Pham,R,Martín Maldonado,455117,4,6,9,True,2019-04-29,Stolen,2B,2019,2020,27.4
+22,8737,1B,2B,Stolen Base 2B,664040,Brandon Lowe,573186,Marcus Stroman,595281,Kevin Kiermaier,R,Danny Jansen,643376,1,0,2,True,2019-04-14,Stolen,2B,2019,2020,27.4
+23,8937,1B,2B,Stolen Base 2B,664040,Brandon Lowe,608566,Germán Márquez,541645,Avisaíl García,R,Tony Wolters,547172,0,0,4,False,2019-04-03,Stolen,2B,2019,2020,27.4
+24,197,1B,2B,Stolen Base 2B,664040,Brandon Lowe,503449,Wily Peralta,640457,Austin Meadows,R,Dustin Garneau,572863,0,0,3,False,2021-09-19,Stolen,2B,2021,2022,27.5
+25,690,1B,2B,Stolen Base 2B,664040,Brandon Lowe,657093,Spenser Watkins,677551,Wander Franco,R,Austin Wynns,642851,4,2,4,False,2021-08-18,Stolen,2B,2021,2022,27.5
+26,847,1B,2B,Stolen Base 2B,664040,Brandon Lowe,605347,Jorge López,443558,Nelson Cruz,R,Austin Wynns,642851,3,1,3,True,2021-08-08,Stolen,2B,2021,2022,27.5
+27,1730,1B,2B,Stolen Base 2B,664040,Brandon Lowe,643316,Paul Fry,670764,Taylor Walls,L,Pedro Severino,600474,4,2,8,False,2021-06-11,Stolen,2B,2021,2022,27.5
+28,1943,1B,2B,Stolen Base 2B,664040,Brandon Lowe,663903,Brady Singer,596847,Ji Man Choi,R,Cam Gallagher,595956,0,0,1,False,2021-05-27,Stolen,2B,2021,2022,27.5
+29,1945,1B,2B,Stolen Base 2B,664040,Brandon Lowe,663903,Brady Singer,596847,Ji Man Choi,R,Cam Gallagher,595956,3,0,3,False,2021-05-27,Stolen,2B,2021,2022,27.5
+30,2015,1B,,Caught Stealing 2B,664040,Brandon Lowe,548389,Ross Stripling,670712,Mike Brosseau,R,Danny Jansen,643376,3,5,8,True,2021-05-24,Caught,2B,2021,2022,27.5
+31,2055,1B,2B,Stolen Base 2B,664040,Brandon Lowe,676886,Jeremy Beasley,622534,Manuel Margot,R,Reese McGuire,624512,5,5,12,True,2021-05-21,Stolen,2B,2021,2022,27.5
+32,2121,1B,2B,Stolen Base 2B,664040,Brandon Lowe,503449,Wily Peralta,640457,Austin Meadows,R,Dustin Garneau,572863,0,0,3,False,2021-09-19,Stolen,2B,2021,2022,27.5
+33,2614,1B,2B,Stolen Base 2B,664040,Brandon Lowe,657093,Spenser Watkins,677551,Wander Franco,R,Austin Wynns,642851,4,2,4,False,2021-08-18,Stolen,2B,2021,2022,27.5
+34,2771,1B,2B,Stolen Base 2B,664040,Brandon Lowe,605347,Jorge López,443558,Nelson Cruz,R,Austin Wynns,642851,3,1,3,True,2021-08-08,Stolen,2B,2021,2022,27.5
+35,3654,1B,2B,Stolen Base 2B,664040,Brandon Lowe,643316,Paul Fry,670764,Taylor Walls,L,Pedro Severino,600474,4,2,8,False,2021-06-11,Stolen,2B,2021,2022,27.5
+36,3867,1B,2B,Stolen Base 2B,664040,Brandon Lowe,663903,Brady Singer,596847,Ji Man Choi,R,Cam Gallagher,595956,0,0,1,False,2021-05-27,Stolen,2B,2021,2022,27.5
+37,3869,1B,2B,Stolen Base 2B,664040,Brandon Lowe,663903,Brady Singer,596847,Ji Man Choi,R,Cam Gallagher,595956,3,0,3,False,2021-05-27,Stolen,2B,2021,2022,27.5
+38,3939,1B,,Caught Stealing 2B,664040,Brandon Lowe,548389,Ross Stripling,670712,Mike Brosseau,R,Danny Jansen,643376,3,5,8,True,2021-05-24,Caught,2B,2021,2022,27.5
+39,3979,1B,2B,Stolen Base 2B,664040,Brandon Lowe,676886,Jeremy Beasley,622534,Manuel Margot,R,Reese McGuire,624512,5,5,12,True,2021-05-21,Stolen,2B,2021,2022,27.5
+40,685,1B,2B,Stolen Base 2B,664040,Brandon Lowe,669212,Eli Morgan,670623,Isaac Paredes,R,Bo Naylor,666310,2,5,9,True,2023-09-03,Stolen,2B,2023,2024,27.2
+41,1200,1B,2B,Stolen Base 2B,664040,Brandon Lowe,661403,Emmanuel Clase,668227,Randy Arozarena,R,Cam Gallagher,595956,6,5,9,False,2023-08-12,Stolen,2B,2023,2024,27.2
+42,1536,1B,2B,Stolen Base 2B,664040,Brandon Lowe,664299,Cristian Javier,670623,Isaac Paredes,R,Martín Maldonado,455117,3,3,6,True,2023-07-28,Stolen,2B,2023,2024,27.2
+43,1935,1B,2B,Stolen Base 2B,664040,Brandon Lowe,450203,Charlie Morton,642350,Jose Siri,R,Sean Murphy,669221,1,2,5,False,2023-07-07,Stolen,2B,2023,2024,27.2
+44,2903,1B,2B,Stolen Base 2B,664040,Brandon Lowe,571946,Shelby Miller,623912,Harold Ramírez,R,Austin Barnes,605131,10,8,5,False,2023-05-28,Stolen,2B,2023,2024,27.2
+45,3030,1B,2B,Stolen Base 2B,664040,Brandon Lowe,641672,Thomas Hatch,668227,Randy Arozarena,R,Alejandro Kirk,672386,6,2,8,False,2023-05-22,Stolen,2B,2023,2024,27.2
+46,3945,1B,2B,Stolen Base 2B,664040,Brandon Lowe,621244,José Berríos,677551,Wander Franco,R,Danny Jansen,643376,2,0,4,True,2023-04-14,Stolen,2B,2023,2024,27.2
+47,5099,1B,2B,Stolen Base 2B,664040,Brandon Lowe,669212,Eli Morgan,670623,Isaac Paredes,R,Bo Naylor,666310,2,5,9,True,2023-09-03,Stolen,2B,2023,2024,27.2
+48,5614,1B,2B,Stolen Base 2B,664040,Brandon Lowe,661403,Emmanuel Clase,668227,Randy Arozarena,R,Cam Gallagher,595956,6,5,9,False,2023-08-12,Stolen,2B,2023,2024,27.2
+49,5950,1B,2B,Stolen Base 2B,664040,Brandon Lowe,664299,Cristian Javier,670623,Isaac Paredes,R,Martín Maldonado,455117,3,3,6,True,2023-07-28,Stolen,2B,2023,2024,27.2
+50,6349,1B,2B,Stolen Base 2B,664040,Brandon Lowe,450203,Charlie Morton,642350,Jose Siri,R,Sean Murphy,669221,1,2,5,False,2023-07-07,Stolen,2B,2023,2024,27.2
+51,7317,1B,2B,Stolen Base 2B,664040,Brandon Lowe,571946,Shelby Miller,623912,Harold Ramírez,R,Austin Barnes,605131,10,8,5,False,2023-05-28,Stolen,2B,2023,2024,27.2
+52,7444,1B,2B,Stolen Base 2B,664040,Brandon Lowe,641672,Thomas Hatch,668227,Randy Arozarena,R,Alejandro Kirk,672386,6,2,8,False,2023-05-22,Stolen,2B,2023,2024,27.2
+53,8359,1B,2B,Stolen Base 2B,664040,Brandon Lowe,621244,José Berríos,677551,Wander Franco,R,Danny Jansen,643376,2,0,4,True,2023-04-14,Stolen,2B,2023,2024,27.2
+54,1451,2B,3B,Stolen Base 3B,664040,Brandon Lowe,543056,Danny Coulombe,650490,Yandy Díaz,L,Gary Sánchez,596142,6,1,7,False,2022-04-29,Stolen,3B,2022,2023,27.3

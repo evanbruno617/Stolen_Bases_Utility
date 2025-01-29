@@ -1,0 +1,60 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,383,1B,2B,Stolen Base 2B,571718,Brian Goodwin,506433,Yu Darvish,520471,Freddy Galvis,R,Victor Caratini,605170,0,3,4,True,2020-09-09,Stolen,2B,2020,2021,27.4
+1,451,1B,2B,Stolen Base 2B,571718,Brian Goodwin,641771,Chad Kuhl,571657,Kyle Farmer,R,John Ryan Murphy,571974,0,0,2,True,2020-09-06,Stolen,2B,2020,2021,27.4
+2,478,1B,2B,Stolen Base 2B,571718,Brian Goodwin,592866,Trevor Williams,673451,Shogo Akiyama,R,Jacob Stallings,607732,0,0,2,True,2020-09-05,Stolen,2B,2020,2021,27.4
+3,479,1B,2B,Stolen Base 2B,571718,Brian Goodwin,592866,Trevor Williams,673451,Shogo Akiyama,R,Jacob Stallings,607732,0,4,3,True,2020-09-05,Stolen,2B,2020,2021,27.4
+4,1032,1B,2B,Stolen Base 2B,571718,Brian Goodwin,643290,Justin Dunn,405395,Albert Pujols,R,Austin Nola,543592,0,3,1,True,2020-08-04,Stolen,2B,2020,2021,27.4
+5,3226,1B,2B,Stolen Base 2B,571718,Brian Goodwin,506433,Yu Darvish,520471,Freddy Galvis,R,Victor Caratini,605170,0,3,4,True,2020-09-09,Stolen,2B,2020,2021,27.4
+6,3294,1B,2B,Stolen Base 2B,571718,Brian Goodwin,641771,Chad Kuhl,571657,Kyle Farmer,R,John Ryan Murphy,571974,0,0,2,True,2020-09-06,Stolen,2B,2020,2021,27.4
+7,3321,1B,2B,Stolen Base 2B,571718,Brian Goodwin,592866,Trevor Williams,673451,Shogo Akiyama,R,Jacob Stallings,607732,0,0,2,True,2020-09-05,Stolen,2B,2020,2021,27.4
+8,3322,1B,2B,Stolen Base 2B,571718,Brian Goodwin,592866,Trevor Williams,673451,Shogo Akiyama,R,Jacob Stallings,607732,0,4,3,True,2020-09-05,Stolen,2B,2020,2021,27.4
+9,3875,1B,2B,Stolen Base 2B,571718,Brian Goodwin,643290,Justin Dunn,405395,Albert Pujols,R,Austin Nola,543592,0,3,1,True,2020-08-04,Stolen,2B,2020,2021,27.4
+10,5150,1B,2B,Stolen Base 2B,571718,Brian Goodwin,506433,Yu Darvish,520471,Freddy Galvis,R,Victor Caratini,605170,0,3,4,True,2020-09-09,Stolen,2B,2020,2021,27.4
+11,5218,1B,2B,Stolen Base 2B,571718,Brian Goodwin,641771,Chad Kuhl,571657,Kyle Farmer,R,John Ryan Murphy,571974,0,0,2,True,2020-09-06,Stolen,2B,2020,2021,27.4
+12,5245,1B,2B,Stolen Base 2B,571718,Brian Goodwin,592866,Trevor Williams,673451,Shogo Akiyama,R,Jacob Stallings,607732,0,0,2,True,2020-09-05,Stolen,2B,2020,2021,27.4
+13,5246,1B,2B,Stolen Base 2B,571718,Brian Goodwin,592866,Trevor Williams,673451,Shogo Akiyama,R,Jacob Stallings,607732,0,4,3,True,2020-09-05,Stolen,2B,2020,2021,27.4
+14,5799,1B,2B,Stolen Base 2B,571718,Brian Goodwin,643290,Justin Dunn,405395,Albert Pujols,R,Austin Nola,543592,0,3,1,True,2020-08-04,Stolen,2B,2020,2021,27.4
+15,1409,1B,2B,Stolen Base 2B,571718,Brian Goodwin,607352,Joe Biagini,571506,Justin Bour,R,Garrett Stubbs,596117,4,8,9,True,2019-09-21,Stolen,2B,2019,2020,28.0
+16,1503,1B,2B,Stolen Base 2B,571718,Brian Goodwin,642232,Ryan Yarbrough,641684,Michael Hermosillo,L,Michael Pérez,605421,6,1,5,False,2019-09-15,Stolen,2B,2019,2020,28.0
+17,1766,1B,2B,Stolen Base 2B,571718,Brian Goodwin,595001,Josh A. Smith,405395,Albert Pujols,R,Sandy León,506702,10,4,8,False,2019-08-31,Stolen,2B,2019,2020,28.0
+18,1820,1B,,Caught Stealing 2B,571718,Brian Goodwin,606160,Rafael Montero,664058,David Fletcher,R,Jeff Mathis,425772,4,1,7,False,2019-08-27,Caught,2B,2019,2020,28.0
+19,1946,1B,2B,Stolen Base 2B,571718,Brian Goodwin,570488,Phillips Valdez,650859,Luis Rengifo,R,Jose Trevino,624431,0,5,5,True,2019-08-20,Stolen,2B,2019,2020,28.0
+20,2662,1B,2B,Stolen Base 2B,571718,Brian Goodwin,570488,Phillips Valdez,650859,Luis Rengifo,R,Jose Trevino,624431,0,5,5,True,2019-07-01,Stolen,2B,2019,2020,28.0
+21,3105,1B,2B,Stolen Base 2B,571718,Brian Goodwin,642152,Lou Trivino,572863,Dustin Garneau,R,Josh Phegley,572033,10,9,9,False,2019-06-05,Stolen,2B,2019,2020,28.0
+22,3184,1B,,Caught Stealing 2B,571718,Brian Goodwin,502190,Mike Leake,664058,David Fletcher,R,Tom Murphy,608596,3,2,7,True,2019-05-31,Caught,2B,2019,2020,28.0
+23,3397,1B,2B,Stolen Base 2B,571718,Brian Goodwin,596001,Jakob Junis,664058,David Fletcher,R,Martín Maldonado,455117,2,0,2,False,2019-05-18,Stolen,2B,2019,2020,28.0
+24,3659,1B,2B,Stolen Base 2B,571718,Brian Goodwin,592717,Aaron Sanchez,592743,Andrelton Simmons,R,Danny Jansen,643376,0,0,1,False,2019-05-02,Stolen,2B,2019,2020,28.0
+25,4252,1B,2B,Stolen Base 2B,571718,Brian Goodwin,607352,Joe Biagini,571506,Justin Bour,R,Garrett Stubbs,596117,4,8,9,True,2019-09-21,Stolen,2B,2019,2020,28.0
+26,4346,1B,2B,Stolen Base 2B,571718,Brian Goodwin,642232,Ryan Yarbrough,641684,Michael Hermosillo,L,Michael Pérez,605421,6,1,5,False,2019-09-15,Stolen,2B,2019,2020,28.0
+27,4609,1B,2B,Stolen Base 2B,571718,Brian Goodwin,595001,Josh A. Smith,405395,Albert Pujols,R,Sandy León,506702,10,4,8,False,2019-08-31,Stolen,2B,2019,2020,28.0
+28,4663,1B,,Caught Stealing 2B,571718,Brian Goodwin,606160,Rafael Montero,664058,David Fletcher,R,Jeff Mathis,425772,4,1,7,False,2019-08-27,Caught,2B,2019,2020,28.0
+29,4789,1B,2B,Stolen Base 2B,571718,Brian Goodwin,570488,Phillips Valdez,650859,Luis Rengifo,R,Jose Trevino,624431,0,5,5,True,2019-08-20,Stolen,2B,2019,2020,28.0
+30,5505,1B,2B,Stolen Base 2B,571718,Brian Goodwin,570488,Phillips Valdez,650859,Luis Rengifo,R,Jose Trevino,624431,0,5,5,True,2019-07-01,Stolen,2B,2019,2020,28.0
+31,5948,1B,2B,Stolen Base 2B,571718,Brian Goodwin,642152,Lou Trivino,572863,Dustin Garneau,R,Josh Phegley,572033,10,9,9,False,2019-06-05,Stolen,2B,2019,2020,28.0
+32,6027,1B,,Caught Stealing 2B,571718,Brian Goodwin,502190,Mike Leake,664058,David Fletcher,R,Tom Murphy,608596,3,2,7,True,2019-05-31,Caught,2B,2019,2020,28.0
+33,6240,1B,2B,Stolen Base 2B,571718,Brian Goodwin,596001,Jakob Junis,664058,David Fletcher,R,Martín Maldonado,455117,2,0,2,False,2019-05-18,Stolen,2B,2019,2020,28.0
+34,6502,1B,2B,Stolen Base 2B,571718,Brian Goodwin,592717,Aaron Sanchez,592743,Andrelton Simmons,R,Danny Jansen,643376,0,0,1,False,2019-05-02,Stolen,2B,2019,2020,28.0
+35,6176,1B,2B,Stolen Base 2B,571718,Brian Goodwin,607352,Joe Biagini,571506,Justin Bour,R,Garrett Stubbs,596117,4,8,9,True,2019-09-21,Stolen,2B,2019,2020,28.0
+36,6270,1B,2B,Stolen Base 2B,571718,Brian Goodwin,642232,Ryan Yarbrough,641684,Michael Hermosillo,L,Michael Pérez,605421,6,1,5,False,2019-09-15,Stolen,2B,2019,2020,28.0
+37,6533,1B,2B,Stolen Base 2B,571718,Brian Goodwin,595001,Josh A. Smith,405395,Albert Pujols,R,Sandy León,506702,10,4,8,False,2019-08-31,Stolen,2B,2019,2020,28.0
+38,6587,1B,,Caught Stealing 2B,571718,Brian Goodwin,606160,Rafael Montero,664058,David Fletcher,R,Jeff Mathis,425772,4,1,7,False,2019-08-27,Caught,2B,2019,2020,28.0
+39,6713,1B,2B,Stolen Base 2B,571718,Brian Goodwin,570488,Phillips Valdez,650859,Luis Rengifo,R,Jose Trevino,624431,0,5,5,True,2019-08-20,Stolen,2B,2019,2020,28.0
+40,7429,1B,2B,Stolen Base 2B,571718,Brian Goodwin,570488,Phillips Valdez,650859,Luis Rengifo,R,Jose Trevino,624431,0,5,5,True,2019-07-01,Stolen,2B,2019,2020,28.0
+41,7872,1B,2B,Stolen Base 2B,571718,Brian Goodwin,642152,Lou Trivino,572863,Dustin Garneau,R,Josh Phegley,572033,10,9,9,False,2019-06-05,Stolen,2B,2019,2020,28.0
+42,7951,1B,,Caught Stealing 2B,571718,Brian Goodwin,502190,Mike Leake,664058,David Fletcher,R,Tom Murphy,608596,3,2,7,True,2019-05-31,Caught,2B,2019,2020,28.0
+43,8164,1B,2B,Stolen Base 2B,571718,Brian Goodwin,596001,Jakob Junis,664058,David Fletcher,R,Martín Maldonado,455117,2,0,2,False,2019-05-18,Stolen,2B,2019,2020,28.0
+44,8426,1B,2B,Stolen Base 2B,571718,Brian Goodwin,592717,Aaron Sanchez,592743,Andrelton Simmons,R,Danny Jansen,643376,0,0,1,False,2019-05-02,Stolen,2B,2019,2020,28.0
+45,474,1B,2B,Stolen Base 2B,571718,Brian Goodwin,607229,Robert Gsellman,594809,Adam Eaton,R,Travis d'Arnaud,518595,4,5,6,False,2018-04-08,Stolen,2B,2018,2019,27.9
+46,521,1B,2B,Stolen Base 2B,571718,Brian Goodwin,571927,Steven Matz,600474,Pedro Severino,L,Travis d'Arnaud,518595,0,0,2,False,2018-04-07,Stolen,2B,2018,2019,27.9
+47,1552,1B,2B,Stolen Base 2B,571718,Brian Goodwin,519326,Hunter Strickland,543685,Anthony Rendon,R,Nick Hundley,460026,2,4,8,False,2017-08-13,Stolen,2B,2017,2018,27.6
+48,1601,1B,2B,Stolen Base 2B,571718,Brian Goodwin,573185,Dan Straily,594694,Wilmer Difo,R,A.J. Ellis,454560,1,2,6,False,2017-08-10,Stolen,2B,2017,2018,27.6
+49,1671,1B,2B,Stolen Base 2B,571718,Brian Goodwin,452657,Jon Lester,547180,Bryce Harper,L,Willson Contreras,575929,1,1,3,True,2017-08-06,Stolen,2B,2017,2018,27.6
+50,1947,1B,2B,Stolen Base 2B,571718,Brian Goodwin,605177,Andrew Chafin,547180,Bryce Harper,L,Chris Iannetta,455104,2,4,9,True,2017-07-22,Stolen,2B,2017,2018,27.6
+51,2088,1B,2B,Stolen Base 2B,571718,Brian Goodwin,547179,Michael Lorenzen,452220,Stephen Drew,R,Stuart Turner,642156,0,4,7,True,2017-07-15,Stolen,2B,2017,2018,27.6
+52,3324,1B,2B,Stolen Base 2B,571718,Brian Goodwin,548337,Logan Verrett,607208,Trea Turner,R,Caleb Joseph,543376,4,4,10,True,2017-05-09,Stolen,2B,2017,2018,27.6
+53,924,1B,2B,Stolen Base 2B,571718,Brian Goodwin,519326,Hunter Strickland,543685,Anthony Rendon,R,Nick Hundley,460026,2,4,8,False,2017-08-13,Stolen,2B,2017,2018,27.6
+54,973,1B,2B,Stolen Base 2B,571718,Brian Goodwin,573185,Dan Straily,594694,Wilmer Difo,R,A.J. Ellis,454560,1,2,6,False,2017-08-10,Stolen,2B,2017,2018,27.6
+55,1043,1B,2B,Stolen Base 2B,571718,Brian Goodwin,452657,Jon Lester,547180,Bryce Harper,L,Willson Contreras,575929,1,1,3,True,2017-08-06,Stolen,2B,2017,2018,27.6
+56,1319,1B,2B,Stolen Base 2B,571718,Brian Goodwin,605177,Andrew Chafin,547180,Bryce Harper,L,Chris Iannetta,455104,2,4,9,True,2017-07-22,Stolen,2B,2017,2018,27.6
+57,1460,1B,2B,Stolen Base 2B,571718,Brian Goodwin,547179,Michael Lorenzen,452220,Stephen Drew,R,Stuart Turner,642156,0,4,7,True,2017-07-15,Stolen,2B,2017,2018,27.6
+58,2696,1B,2B,Stolen Base 2B,571718,Brian Goodwin,548337,Logan Verrett,607208,Trea Turner,R,Caleb Joseph,543376,4,4,10,True,2017-05-09,Stolen,2B,2017,2018,27.6

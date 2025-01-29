@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+379,1B,2B,Stolen Base 2B,677800,Wilyer Abreu,Alejandro Kirk,0,2,6,True,2023-09-16,Stolen,2B,2023
+411,1B,2B,Stolen Base 2B,677800,Wilyer Abreu,Austin Wells,1,0,6,False,2023-09-14,Stolen,2B,2023
+416,1B,2B,Stolen Base 2B,677800,Wilyer Abreu,Austin Wells,1,0,6,False,2023-09-13,Stolen,2B,2023
+540,1B,2B,Stolen Base 2B,677800,Wilyer Abreu,James McCann,6,7,5,False,2023-09-09,Stolen,2B,2023
+942,1B,,Caught Stealing 2B,677800,Wilyer Abreu,Yainer Diaz,4,7,10,True,2023-08-23,Caught,2B,2023

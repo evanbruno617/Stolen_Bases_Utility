@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+44,1B,2B,Stolen Base 2B,341235,Rod Lindsey,A.J. Pierzynski,1,0,8,False,2000-09-29,Stolen,2B,2000
+388,1B,,Caught Stealing 2B,341235,Rod Lindsey,Mark Johnson,1,0,8,True,2000-09-13,Caught,2B,2000
+485,1B,2B,Stolen Base 2B,341235,Rod Lindsey,Darrin Fletcher,5,4,7,True,2000-09-09,Stolen,2B,2000

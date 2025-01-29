@@ -1,0 +1,36 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,665923,Esteury Ruiz,Logan O'Hoppe,3,1,8,True,2023-09-30,Stolen,2B,2023
+1B,2B,Stolen Base 2B,666139,Josh Lowe,Logan O'Hoppe,3,4,6,False,2023-09-21,Stolen,2B,2023
+2B,3B,Stolen Base 3B,622534,Manuel Margot,Logan O'Hoppe,3,4,6,False,2023-09-21,Stolen,3B,2023
+1B,2B,Stolen Base 2B,628451,Andy Ibáñez,Logan O'Hoppe,0,0,1,True,2023-09-16,Stolen,2B,2023
+1B,2B,Stolen Base 2B,670097,Zack Short,Logan O'Hoppe,1,4,9,True,2023-09-16,Stolen,2B,2023
+1B,2B,Stolen Base 2B,678009,Parker Meadows,Logan O'Hoppe,4,5,10,True,2023-09-16,Stolen,2B,2023
+1B,2B,Stolen Base 2B,608070,José Ramírez,Logan O'Hoppe,3,6,8,True,2023-09-08,Stolen,2B,2023
+1B,2B,Stolen Base 2B,622761,Jorge Mateo,Logan O'Hoppe,0,1,3,True,2023-09-06,Stolen,2B,2023
+1B,2B,Stolen Base 2B,622761,Jorge Mateo,Logan O'Hoppe,0,1,3,True,2023-09-05,Stolen,2B,2023
+2B,3B,Stolen Base 3B,665923,Esteury Ruiz,Logan O'Hoppe,5,0,6,False,2023-09-01,Stolen,3B,2023
+1B,2B,Stolen Base 2B,681082,Bryson Stott,Logan O'Hoppe,3,3,4,False,2023-08-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,669016,Brandon Marsh,Logan O'Hoppe,6,4,8,False,2023-08-28,Stolen,2B,2023
+2B,3B,Stolen Base 3B,596019,Francisco Lindor,Logan O'Hoppe,1,5,4,False,2023-08-26,Stolen,3B,2023
+1B,2B,Stolen Base 2B,643446,Jeff McNeil,Logan O'Hoppe,1,5,4,False,2023-08-26,Stolen,2B,2023
+2B,3B,Stolen Base 2B,643446,Jeff McNeil,Logan O'Hoppe,1,5,4,False,2023-08-26,Stolen,2B,2023
+2B,3B,Stolen Base 3B,542364,Rafael Ortega,Logan O'Hoppe,2,5,5,False,2023-08-26,Stolen,3B,2023
+1B,2B,Stolen Base 2B,680574,Matt McLain,Logan O'Hoppe,4,8,9,True,2023-08-23,Stolen,2B,2023
+1B,2B,Stolen Base 2B,682829,Elly De La Cruz,Logan O'Hoppe,0,1,1,True,2023-08-22,Stolen,2B,2023
+1B,2B,Stolen Base 2B,666181,Will Benson,Logan O'Hoppe,0,1,2,True,2023-08-22,Stolen,2B,2023
+1B,2B,Stolen Base 2B,682622,Noelvi Marte,Logan O'Hoppe,3,4,6,True,2023-08-22,Stolen,2B,2023
+1B,,Caught Stealing 2B,682829,Elly De La Cruz,Logan O'Hoppe,3,4,7,True,2023-08-22,Caught,2B,2023
+1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,Logan O'Hoppe,5,2,6,False,2023-04-20,Stolen,2B,2023
+2B,3B,Stolen Base 3B,683011,Anthony Volpe,Logan O'Hoppe,2,0,3,False,2023-04-19,Stolen,3B,2023
+1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,Logan O'Hoppe,2,2,9,False,2023-04-19,Stolen,2B,2023
+1B,2B,Stolen Base 2B,680776,Jarren Duran,Logan O'Hoppe,3,5,7,False,2023-04-17,Stolen,2B,2023
+1B,2B,Stolen Base 2B,657077,Alex Verdugo,Logan O'Hoppe,2,1,3,False,2023-04-16,Stolen,2B,2023
+1B,2B,Stolen Base 2B,682928,CJ Abrams,Logan O'Hoppe,4,5,5,True,2023-04-10,Stolen,2B,2023
+1B,2B,Stolen Base 2B,645302,Victor Robles,Logan O'Hoppe,4,6,7,True,2023-04-10,Stolen,2B,2023
+2B,3B,Stolen Base 3B,656305,Matt Chapman,Logan O'Hoppe,6,8,7,True,2023-04-09,Stolen,3B,2023
+1B,2B,Stolen Base 2B,593160,Whit Merrifield,Logan O'Hoppe,6,8,7,True,2023-04-09,Stolen,2B,2023
+3B,,Caught Stealing Home,656305,Matt Chapman,Logan O'Hoppe,2,1,4,True,2023-04-07,Caught,Home,2023
+1B,2B,Stolen Base 2B,677594,Julio Rodríguez,Logan O'Hoppe,0,0,1,False,2023-04-03,Stolen,2B,2023
+2B,3B,Stolen Base 3B,664034,Ty France,Logan O'Hoppe,2,1,3,False,2023-04-03,Stolen,3B,2023
+1B,2B,Stolen Base 2B,664913,Seth Brown,Logan O'Hoppe,0,1,1,True,2022-09-28,Stolen,2B,2022
+1B,2B,Stolen Base 2B,643393,Tony Kemp,Logan O'Hoppe,3,1,5,True,2022-09-28,Stolen,2B,2022

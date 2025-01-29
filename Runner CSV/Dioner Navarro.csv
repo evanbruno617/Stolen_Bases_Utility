@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1086,1B,,Caught Stealing 2B,425900,Dioner Navarro,Doug Mirabelli,1,0,6,True,2007-08-13,Caught,2B,2007
+1691,1B,2B,Stolen Base 2B,425900,Dioner Navarro,José Molina,7,2,5,False,2007-07-17,Stolen,2B,2007
+1754,1B,2B,Stolen Base 2B,425900,Dioner Navarro,Wil Nieves,3,0,4,False,2007-07-15,Stolen,2B,2007
+2150,1B,2B,Stolen Base 2B,425900,Dioner Navarro,Toby Hall,4,3,4,False,2007-06-25,Stolen,2B,2007
+1234,1B,,Caught Stealing 2B,425900,Dioner Navarro,Rod Barajas,0,1,5,True,2008-07-29,Caught,2B,2008
+1792,1B,,Caught Stealing 2B,425900,Dioner Navarro,Ryan Doumit,2,2,6,True,2008-06-28,Caught,2B,2008
+3266,1B,,Caught Stealing 2B,425900,Dioner Navarro,Gregg Zaun,2,2,2,False,2008-04-22,Caught,2B,2008
+637,1B,2B,Stolen Base 2B,425900,Dioner Navarro,Jarrod Saltalamacchia,0,0,3,True,2009-07-03,Stolen,2B,2009
+732,1B,,Caught Stealing 2B,425900,Dioner Navarro,Raul Chavez,0,4,7,True,2009-06-29,Caught,2B,2009
+2284,1B,2B,Stolen Base 2B,425900,Dioner Navarro,Kurt Suzuki,0,7,3,True,2009-04-24,Stolen,2B,2009
+2662,1B,,Caught Stealing 2B,425900,Dioner Navarro,A.J. Pierzynski,7,2,5,False,2010-05-29,Caught,2B,2010
+3544,1B,,Caught Stealing 2B,425900,Dioner Navarro,Evan Gattis,4,1,8,True,2013-04-05,Caught,2B,2013
+419,1B,2B,Stolen Base 2B,425900,Dioner Navarro,Welington Castillo,1,0,5,False,2014-09-10,Stolen,2B,2014
+653,1B,2B,Stolen Base 2B,425900,Dioner Navarro,Francisco Cervelli,0,1,2,False,2014-08-31,Stolen,2B,2014
+3533,1B,2B,Stolen Base 2B,425900,Dioner Navarro,Jason Castro,7,3,7,False,2014-04-09,Stolen,2B,2014
+962,1B,,Caught Stealing 2B,425900,Dioner Navarro,Sandy León,0,2,2,True,2016-06-21,Caught,2B,2016
+1396,1B,2B,Stolen Base 2B,425900,Dioner Navarro,Drew Butera,2,1,2,True,2016-05-29,Stolen,2B,2016

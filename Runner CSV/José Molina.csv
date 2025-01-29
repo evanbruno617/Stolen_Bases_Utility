@@ -1,0 +1,27 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+47,1B,,Caught Stealing 2B,150040,José Molina,Ben Davis,3,4,6,False,2002-09-27,Caught,2B,2002
+1250,1B,,Caught Stealing 2B,150040,José Molina,Jason Varitek,2,1,2,False,2002-07-29,Caught,2B,2002
+2214,1B,2B,Stolen Base 2B,150040,José Molina,Chad Moeller,0,0,13,False,2004-06-08,Stolen,2B,2004
+2595,1B,2B,Stolen Base 2B,150040,José Molina,Javy Lopez,5,3,8,False,2004-05-21,Stolen,2B,2004
+2988,1B,,Caught Stealing 2B,150040,José Molina,Henry Blanco,0,0,5,True,2004-05-01,Caught,2B,2004
+3334,1B,2B,Stolen Base 2B,150040,José Molina,Ben Davis,5,4,6,False,2004-04-14,Stolen,2B,2004
+3500,1B,2B,Stolen Base 2B,150040,José Molina,Dan Wilson,1,6,8,True,2004-04-06,Stolen,2B,2004
+522,1B,2B,Stolen Base 2B,150040,José Molina,Yorvit Torrealba,3,0,2,False,2005-09-04,Stolen,2B,2005
+3022,1B,2B,Stolen Base 2B,150040,José Molina,Jorge Posada,1,5,9,True,2005-04-27,Stolen,2B,2005
+2358,1B,,Caught Stealing 2B,150040,José Molina,Russell Martin,0,0,3,True,2007-06-15,Caught,2B,2007
+2391,1B,2B,Stolen Base 2B,150040,José Molina,Chad Moeller,5,9,7,True,2007-06-14,Stolen,2B,2007
+3095,3B,score,Stolen Base Home,150040,José Molina,Victor Martinez,6,0,4,False,2007-05-10,Stolen,Home,2007
+1152,1B,2B,Stolen Base 2B,150040,José Molina,John Jaso,1,0,5,False,2010-08-08,Stolen,2B,2010
+855,1B,,Caught Stealing 2B,150040,José Molina,John Jaso,1,5,7,False,2011-08-26,Caught,2B,2011
+2775,1B,2B,Stolen Base 2B,150040,José Molina,Craig Tatum,3,7,8,True,2011-06-05,Stolen,2B,2011
+3028,1B,2B,Stolen Base 2B,150040,José Molina,A.J. Pierzynski,4,2,8,False,2011-05-27,Stolen,2B,2011
+978,1B,2B,Stolen Base 2B,150040,José Molina,Bobby Wilson,2,6,8,True,2012-08-19,Stolen,2B,2012
+1103,1B,2B,Stolen Base 2B,150040,José Molina,Jesus Montero,1,4,9,True,2012-08-13,Stolen,2B,2012
+1439,1B,,Caught Stealing 2B,150040,José Molina,Kurt Suzuki,2,3,7,True,2012-07-30,Caught,2B,2012
+1744,1B,2B,Stolen Base 2B,150040,José Molina,Lou Marson,0,0,2,False,2012-07-19,Stolen,2B,2012
+1782,1B,,Caught Stealing 2B,150040,José Molina,Jason Castro,1,1,5,True,2013-07-03,Caught,2B,2013
+1971,1B,2B,Stolen Base 2B,150040,José Molina,Austin Romine,1,3,8,True,2013-06-23,Stolen,2B,2013
+3483,1B,2B,Stolen Base 2B,150040,José Molina,A.J. Pierzynski,5,3,9,True,2013-04-08,Stolen,2B,2013
+1402,1B,2B,Stolen Base 2B,150040,José Molina,Tony Cruz,1,1,4,True,2014-07-22,Stolen,2B,2014
+1560,1B,2B,Stolen Base 2B,150040,José Molina,Dioner Navarro,2,2,4,False,2014-07-12,Stolen,2B,2014
+2035,1B,2B,Stolen Base 2B,150040,José Molina,Jason Castro,0,2,3,False,2014-06-20,Stolen,2B,2014

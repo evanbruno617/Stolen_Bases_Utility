@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1226,1B,,Caught Stealing 2B,113137,Russ Davis,Raul Casanova,7,1,7,False,2000-08-09,Caught,2B,2000
+3610,1B,,Caught Stealing 2B,113137,Russ Davis,Damian Miller,4,3,4,True,2000-04-22,Caught,2B,2000
+76,1B,2B,Stolen Base 2B,113137,Russ Davis,Brent Mayne,3,4,9,True,2001-06-02,Stolen,2B,2001

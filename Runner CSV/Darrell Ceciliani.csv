@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1566,1B,2B,Stolen Base 2B,571553,Darrell Ceciliani,Yasmani Grandal,1,0,4,True,2015-07-04,Stolen,2B,2015
+1757,1B,,Caught Stealing 2B,571553,Darrell Ceciliani,Jonathan Lucroy,0,0,4,True,2015-06-25,Caught,2B,2015
+1781,1B,2B,Stolen Base 2B,571553,Darrell Ceciliani,Jonathan Lucroy,2,2,7,True,2015-06-23,Stolen,2B,2015
+2022,1B,2B,Stolen Base 2B,571553,Darrell Ceciliani,A.J. Pierzynski,4,3,7,False,2015-06-12,Stolen,2B,2015
+2095,1B,2B,Stolen Base 2B,571553,Darrell Ceciliani,Jarrod Saltalamacchia,3,6,9,True,2015-06-07,Stolen,2B,2015
+2227,1B,2B,Stolen Base 2B,571553,Darrell Ceciliani,Austin Hedges,0,6,5,True,2015-06-01,Stolen,2B,2015

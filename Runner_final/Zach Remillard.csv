@@ -1,0 +1,13 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,461,1B,,Caught Stealing 2B,621545,Zach Remillard,641745,Brad Keller,657757,Gavin Sheets,R,Salvador Perez,521692,6,2,8,False,2023-09-12,Caught,2B,2023,2024,28.0
+1,1131,1B,2B,Stolen Base 2B,621545,Zach Remillard,543294,Kyle Hendricks,462101,Elvis Andrus,R,Yan Gomes,543228,2,3,2,True,2023-08-15,Stolen,2B,2023,2024,28.0
+2,1372,1B,,Caught Stealing 2B,621545,Zach Remillard,547184,Michael Kelly,660162,Yoán Moncada,R,Bo Naylor,666310,2,7,8,True,2023-08-05,Caught,2B,2023,2024,28.0
+3,1925,2B,3B,Stolen Base 3B,621545,Zach Remillard,669467,Andre Pallante,643217,Andrew Benintendi,R,Iván Herrera,671056,6,5,6,False,2023-07-07,Stolen,3B,2023,2024,28.0
+4,2141,1B,2B,Stolen Base 2B,621545,Zach Remillard,656353,Tucker Davidson,664874,Seby Zavala,L,Matt Thaiss,642136,5,11,9,True,2023-06-28,Stolen,2B,2023,2024,28.0
+5,2239,1B,2B,Stolen Base 2B,621545,Zach Remillard,445276,Kenley Jansen,462101,Elvis Andrus,R,Connor Wong,657136,5,4,9,False,2023-06-24,Stolen,2B,2023,2024,28.0
+6,4875,1B,,Caught Stealing 2B,621545,Zach Remillard,641745,Brad Keller,657757,Gavin Sheets,R,Salvador Perez,521692,6,2,8,False,2023-09-12,Caught,2B,2023,2024,28.0
+7,5545,1B,2B,Stolen Base 2B,621545,Zach Remillard,543294,Kyle Hendricks,462101,Elvis Andrus,R,Yan Gomes,543228,2,3,2,True,2023-08-15,Stolen,2B,2023,2024,28.0
+8,5786,1B,,Caught Stealing 2B,621545,Zach Remillard,547184,Michael Kelly,660162,Yoán Moncada,R,Bo Naylor,666310,2,7,8,True,2023-08-05,Caught,2B,2023,2024,28.0
+9,6339,2B,3B,Stolen Base 3B,621545,Zach Remillard,669467,Andre Pallante,643217,Andrew Benintendi,R,Iván Herrera,671056,6,5,6,False,2023-07-07,Stolen,3B,2023,2024,28.0
+10,6555,1B,2B,Stolen Base 2B,621545,Zach Remillard,656353,Tucker Davidson,664874,Seby Zavala,L,Matt Thaiss,642136,5,11,9,True,2023-06-28,Stolen,2B,2023,2024,28.0
+11,6653,1B,2B,Stolen Base 2B,621545,Zach Remillard,445276,Kenley Jansen,462101,Elvis Andrus,R,Connor Wong,657136,5,4,9,False,2023-06-24,Stolen,2B,2023,2024,28.0

@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,26,1B,2B,Stolen Base 2B,642215,Weston Wilson,493603,Adam Ottavino,595909,Jake Cave,R,Omar Narváez,553882,4,3,9,True,2023-09-30,Stolen,2B,2023,2024,28.1
+1,27,2B,3B,Stolen Base 3B,642215,Weston Wilson,493603,Adam Ottavino,595909,Jake Cave,R,Omar Narváez,553882,4,3,9,True,2023-09-30,Stolen,3B,2023,2024,28.1
+2,1267,1B,2B,Stolen Base 2B,642215,Weston Wilson,669022,MacKenzie Gore,679032,Johan Rojas,L,Keibert Ruiz,660688,6,0,4,False,2023-08-09,Stolen,2B,2023,2024,28.1
+3,4440,1B,2B,Stolen Base 2B,642215,Weston Wilson,493603,Adam Ottavino,595909,Jake Cave,R,Omar Narváez,553882,4,3,9,True,2023-09-30,Stolen,2B,2023,2024,28.1
+4,4441,2B,3B,Stolen Base 3B,642215,Weston Wilson,493603,Adam Ottavino,595909,Jake Cave,R,Omar Narváez,553882,4,3,9,True,2023-09-30,Stolen,3B,2023,2024,28.1
+5,5681,1B,2B,Stolen Base 2B,642215,Weston Wilson,669022,MacKenzie Gore,679032,Johan Rojas,L,Keibert Ruiz,660688,6,0,4,False,2023-08-09,Stolen,2B,2023,2024,28.1

@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+74,1B,2B,Stolen Base 2B,663662,Daz Cameron,Salvador Perez,4,4,6,True,2020-09-24,Stolen,2B,2020
+164,1B,2B,Stolen Base 2B,663662,Daz Cameron,Yasmani Grandal,3,2,7,False,2021-09-21,Stolen,2B,2021
+1342,1B,2B,Stolen Base 2B,663662,Daz Cameron,Zack Collins,6,2,8,False,2021-07-04,Stolen,2B,2021
+1540,1B,2B,Stolen Base 2B,663662,Daz Cameron,Yadier Molina,5,2,8,False,2021-06-23,Stolen,2B,2021
+1576,1B,2B,Stolen Base 2B,663662,Daz Cameron,Max Stassi,3,5,10,True,2021-06-20,Stolen,2B,2021
+1734,1B,2B,Stolen Base 2B,663662,Daz Cameron,Tom Murphy,7,3,7,False,2021-06-10,Stolen,2B,2021
+2210,1B,2B,Stolen Base 2B,663662,Daz Cameron,Ryan Jeffers,4,0,6,False,2022-05-31,Stolen,2B,2022
+3019,1B,2B,Stolen Base 2B,663662,Daz Cameron,Salvador Perez,1,1,2,True,2022-04-16,Stolen,2B,2022

@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+578,1B,2B,Stolen Base 2B,400148,Donaldo Mendez,Charles Johnson,0,3,7,False,2001-05-12,Stolen,2B,2001
+846,1B,,Caught Stealing 2B,400148,Donaldo Mendez,Joe Girardi,2,4,8,True,2001-05-03,Caught,2B,2001
+1195,3B,,Caught Stealing Home,400148,Donaldo Mendez,Ben Petrick,2,0,2,False,2001-04-17,Caught,Home,2001
+1670,1B,2B,Stolen Base 2B,400148,Donaldo Mendez,Benito Santiago,5,7,6,False,2003-07-04,Stolen,2B,2003

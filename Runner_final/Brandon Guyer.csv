@@ -1,0 +1,34 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1722,1B,2B,Stolen Base 2B,446386,Brandon Guyer,448802,Jaime García,488726,Michael Brantley,L,Gary Sánchez,596142,5,1,5,False,2017-08-04,Stolen,2B,2017,2018,27.9
+1,1812,1B,2B,Stolen Base 2B,446386,Brandon Guyer,607074,Carlos Rodón,547379,Roberto Pérez,L,Kevan Smith,607345,0,0,2,True,2017-07-30,Stolen,2B,2017,2018,27.9
+2,1094,1B,2B,Stolen Base 2B,446386,Brandon Guyer,448802,Jaime García,488726,Michael Brantley,L,Gary Sánchez,596142,5,1,5,False,2017-08-04,Stolen,2B,2017,2018,27.9
+3,1184,1B,2B,Stolen Base 2B,446386,Brandon Guyer,607074,Carlos Rodón,547379,Roberto Pérez,L,Kevan Smith,607345,0,0,2,True,2017-07-30,Stolen,2B,2017,2018,27.9
+4,4119,1B,,Caught Stealing 2B,446386,Brandon Guyer,434378,Justin Verlander,542583,Jesús Aguilar,R,James McCann,543510,2,0,2,True,2016-09-27,Caught,2B,2016,2017,27.8
+5,4678,2B,3B,Stolen Base 3B,446386,Brandon Guyer,573124,Taylor Rogers,434658,Rajai Davis,L,Kurt Suzuki,435559,5,4,8,False,2016-08-30,Stolen,3B,2016,2017,27.8
+6,5298,1B,2B,Stolen Base 2B,446386,Brandon Guyer,467100,Iván Nova,571912,Luke Maile,R,Brian McCann,435263,2,0,2,False,2016-07-29,Stolen,2B,2016,2017,27.8
+7,6616,1B,2B,Stolen Base 2B,446386,Brandon Guyer,573186,Marcus Stroman,543543,Brad Miller,R,Russell Martin,431145,2,4,2,True,2016-05-17,Stolen,2B,2016,2017,27.8
+8,7197,1B,,Caught Stealing 2B,446386,Brandon Guyer,458006,Matt Albers,446334,Evan Longoria,R,Dioner Navarro,425900,3,2,8,False,2016-04-17,Caught,2B,2016,2017,27.8
+9,84,1B,,Caught Stealing 2B,446386,Brandon Guyer,434378,Justin Verlander,542583,Jesús Aguilar,R,James McCann,543510,2,0,2,True,2016-09-27,Caught,2B,2016,2017,27.8
+10,643,2B,3B,Stolen Base 3B,446386,Brandon Guyer,573124,Taylor Rogers,434658,Rajai Davis,L,Kurt Suzuki,435559,5,4,8,False,2016-08-30,Stolen,3B,2016,2017,27.8
+11,1263,1B,2B,Stolen Base 2B,446386,Brandon Guyer,467100,Iván Nova,571912,Luke Maile,R,Brian McCann,435263,2,0,2,False,2016-07-29,Stolen,2B,2016,2017,27.8
+12,2581,1B,2B,Stolen Base 2B,446386,Brandon Guyer,573186,Marcus Stroman,543543,Brad Miller,R,Russell Martin,431145,2,4,2,True,2016-05-17,Stolen,2B,2016,2017,27.8
+13,3162,1B,,Caught Stealing 2B,446386,Brandon Guyer,458006,Matt Albers,446334,Evan Longoria,R,Dioner Navarro,425900,3,2,8,False,2016-04-17,Caught,2B,2016,2017,27.8
+14,3491,1B,,Caught Stealing 2B,446386,Brandon Guyer,434378,Justin Verlander,542583,Jesús Aguilar,R,James McCann,543510,2,0,2,True,2016-09-27,Caught,2B,2016,2017,27.8
+15,4050,2B,3B,Stolen Base 3B,446386,Brandon Guyer,573124,Taylor Rogers,434658,Rajai Davis,L,Kurt Suzuki,435559,5,4,8,False,2016-08-30,Stolen,3B,2016,2017,27.8
+16,4670,1B,2B,Stolen Base 2B,446386,Brandon Guyer,467100,Iván Nova,571912,Luke Maile,R,Brian McCann,435263,2,0,2,False,2016-07-29,Stolen,2B,2016,2017,27.8
+17,5988,1B,2B,Stolen Base 2B,446386,Brandon Guyer,573186,Marcus Stroman,543543,Brad Miller,R,Russell Martin,431145,2,4,2,True,2016-05-17,Stolen,2B,2016,2017,27.8
+18,6569,1B,,Caught Stealing 2B,446386,Brandon Guyer,458006,Matt Albers,446334,Evan Longoria,R,Dioner Navarro,425900,3,2,8,False,2016-04-17,Caught,2B,2016,2017,27.8
+19,89,1B,2B,Stolen Base 2B,446386,Brandon Guyer,472610,Luis García,523253,Logan Forsythe,R,Cameron Rupp,519237,5,3,7,True,2015-07-20,Stolen,2B,2015,2016,27.9
+20,442,1B,2B,Stolen Base 2B,446386,Brandon Guyer,598264,Matt Barnes,542994,Joey Butler,R,Sandy León,506702,3,0,7,False,2015-06-27,Stolen,2B,2015,2016,27.9
+21,443,2B,3B,Stolen Base 3B,446386,Brandon Guyer,598264,Matt Barnes,542994,Joey Butler,R,Sandy León,506702,3,0,7,False,2015-06-27,Stolen,3B,2015,2016,27.9
+22,722,2B,3B,Stolen Base 3B,446386,Brandon Guyer,519242,Chris Sale,446334,Evan Longoria,L,Tyler Flowers,452095,0,1,3,False,2015-06-14,Stolen,3B,2015,2016,27.9
+23,876,2B,,Caught Stealing 3B,446386,Brandon Guyer,457918,J.A. Happ,523253,Logan Forsythe,L,Mike Zunino,572287,0,0,1,True,2015-06-05,Caught,3B,2015,2016,27.9
+24,922,2B,3B,Stolen Base 3B,446386,Brandon Guyer,502327,Héctor Santiago,523253,Logan Forsythe,L,Chris Iannetta,455104,0,0,1,True,2015-06-03,Stolen,3B,2015,2016,27.9
+25,1199,1B,2B,Stolen Base 2B,446386,Brandon Guyer,465629,Edward Mujica,435064,Bobby Wilson,R,Stephen Vogt,519390,3,0,7,False,2015-05-21,Stolen,2B,2015,2016,27.9
+26,1200,2B,3B,Stolen Base 3B,446386,Brandon Guyer,465629,Edward Mujica,435064,Bobby Wilson,R,Stephen Vogt,519390,3,0,7,False,2015-05-21,Stolen,3B,2015,2016,27.9
+27,1439,2B,3B,Stolen Base 3B,446386,Brandon Guyer,446321,Ross Detwiler,446334,Evan Longoria,L,Robinson Chirinos,455139,3,0,1,False,2015-05-09,Stolen,3B,2015,2016,27.9
+28,1626,1B,,Caught Stealing 2B,446386,Brandon Guyer,501957,Chris Tillman,425784,René Rivera,R,Caleb Joseph,543376,0,2,5,True,2015-05-01,Caught,2B,2015,2016,27.9
+29,1997,1B,2B,Stolen Base 2B,446386,Brandon Guyer,596057,Daniel Norris,519306,Steven Souza Jr.,L,Russell Martin,431145,2,2,5,True,2015-04-14,Stolen,2B,2015,2016,27.9
+30,2143,2B,3B,Stolen Base 3B,446386,Brandon Guyer,592332,Kevin Gausman,452678,Asdrúbal Cabrera,R,Caleb Joseph,543376,3,6,5,False,2015-04-07,Stolen,3B,2015,2016,27.9
+31,2190,1B,2B,Stolen Base 2B,446386,Brandon Guyer,572308,José A. Váldez,542921,Tim Beckham,R,Alex Avila,488671,0,1,9,False,2015-04-04,Stolen,2B,2015,2016,27.9
+32,2238,1B,2B,Stolen Base 2B,446386,Brandon Guyer,469134,Esmil Rogers,464433,Juan Francisco,R,Brian McCann,435263,0,1,5,True,2015-04-01,Stolen,2B,2015,2016,27.9

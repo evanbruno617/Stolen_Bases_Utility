@@ -1,0 +1,3 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,,Caught Stealing 2B,642719,Jonathan Piron,Tyler Marlette,1,0,5,False,2017-04-01,Caught,2B,2017
+1B,,Caught Stealing 2B,570557,Wilson Soriano,Tyler Marlette,1,0,6,False,2017-04-01,Caught,2B,2017

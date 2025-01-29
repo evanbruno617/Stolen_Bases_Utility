@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+487,1B,2B,Stolen Base 2B,121252,Ruben Rivera,Doug Mirabelli,2,6,6,True,2000-09-09,Stolen,2B,2000
+843,1B,2B,Stolen Base 2B,121252,Ruben Rivera,Raul Casanova,0,0,2,True,2000-08-26,Stolen,2B,2000
+953,1B,2B,Stolen Base 2B,121252,Ruben Rivera,Todd Pratt,0,0,2,False,2000-08-22,Stolen,2B,2000
+1182,1B,2B,Stolen Base 2B,121252,Ruben Rivera,Ramon Castro,0,2,4,True,2000-08-11,Stolen,2B,2000
+1184,1B,,Caught Stealing 2B,121252,Ruben Rivera,Ramon Castro,0,2,7,True,2000-08-11,Caught,2B,2000
+1330,1B,2B,Stolen Base 2B,121252,Ruben Rivera,Joe Girardi,7,7,5,False,2000-08-04,Stolen,2B,2000
+2064,1B,,Caught Stealing 2B,121252,Ruben Rivera,Chad Kreuter,2,2,4,True,2000-06-28,Caught,2B,2000
+2112,2B,3B,Stolen Base 3B,121252,Ruben Rivera,Todd Hundley,1,3,2,True,2000-06-26,Stolen,3B,2000
+2284,1B,2B,Stolen Base 2B,121252,Ruben Rivera,Eddie Taubensee,3,0,1,False,2000-06-18,Stolen,2B,2000
+2574,1B,2B,Stolen Base 2B,121252,Ruben Rivera,Ramon Hernandez,0,0,5,True,2000-06-05,Stolen,2B,2000
+402,1B,,Caught Stealing 2B,121252,Ruben Rivera,Brad Ausmus,0,0,2,True,2001-05-19,Caught,2B,2001
+900,1B,2B,Stolen Base 2B,121252,Ruben Rivera,Angel Pena,2,1,2,False,2001-05-01,Stolen,2B,2001
+914,1B,2B,Stolen Base 2B,121252,Ruben Rivera,Brent Mayne,1,3,5,True,2001-04-29,Stolen,2B,2001
+517,1B,2B,Stolen Base 2B,121252,Ruben Rivera,Geronimo Gil,0,2,2,True,2002-09-05,Stolen,2B,2002
+539,1B,,Caught Stealing 2B,121252,Ruben Rivera,Brook Fordyce,0,3,2,True,2002-09-03,Caught,2B,2002
+832,1B,2B,Stolen Base 2B,121252,Ruben Rivera,Jason Varitek,2,2,9,True,2002-08-20,Stolen,2B,2002
+874,1B,2B,Stolen Base 2B,121252,Ruben Rivera,Ken Huckaby,6,5,6,False,2002-08-17,Stolen,2B,2002
+945,1B,2B,Stolen Base 2B,121252,Ruben Rivera,Josh Paul,8,6,5,False,2002-08-14,Stolen,2B,2002
+2656,1B,2B,Stolen Base 2B,121252,Ruben Rivera,Vance Wilson,1,3,6,False,2003-05-17,Stolen,2B,2003

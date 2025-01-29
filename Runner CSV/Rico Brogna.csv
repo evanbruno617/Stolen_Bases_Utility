@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3644,1B,2B,Stolen Base 2B,111502,Rico Brogna,Paul Bako,3,2,3,True,2000-04-21,Stolen,2B,2000
+456,1B,2B,Stolen Base 2B,111502,Rico Brogna,Brent Mayne,2,5,4,False,2001-05-17,Stolen,2B,2001
+621,1B,2B,Stolen Base 2B,111502,Rico Brogna,Brian Johnson,0,0,5,True,2001-05-11,Stolen,2B,2001
+1119,1B,2B,Stolen Base 2B,111502,Rico Brogna,Mike Lieberthal,0,0,4,True,2001-04-21,Stolen,2B,2001

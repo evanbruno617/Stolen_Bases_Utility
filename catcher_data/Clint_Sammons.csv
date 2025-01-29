@@ -1,0 +1,23 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,430631,Reggie Abercrombie,Clint Sammons,2,1,5,False,2008-09-28,Stolen,2B,2008
+1B,,Caught Stealing 2B,430631,Reggie Abercrombie,Clint Sammons,3,1,7,False,2008-09-28,Caught,2B,2008
+1B,2B,Stolen Base 2B,204020,Lance Berkman,Clint Sammons,5,9,7,False,2008-09-27,Stolen,2B,2008
+1B,2B,Stolen Base 2B,150029,Jayson Werth,Clint Sammons,2,2,6,False,2008-09-22,Stolen,2B,2008
+2B,3B,Stolen Base 3B,408314,José Reyes,Clint Sammons,2,2,3,True,2008-09-19,Stolen,3B,2008
+1B,2B,Stolen Base 2B,112116,Luis Castillo,Clint Sammons,4,5,7,True,2008-09-19,Stolen,2B,2008
+2B,3B,Stolen Base 3B,136860,Carlos Beltrán,Clint Sammons,3,0,1,False,2008-09-13,Stolen,3B,2008
+2B,3B,Stolen Base 3B,136860,Carlos Beltrán,Clint Sammons,3,0,1,False,2008-09-12,Stolen,3B,2008
+2B,,Caught Stealing 3B,502034,Emmanuel Burriss,Clint Sammons,0,0,1,True,2008-08-17,Caught,3B,2008
+1B,2B,Stolen Base 2B,502034,Emmanuel Burriss,Clint Sammons,0,3,5,True,2008-08-17,Stolen,2B,2008
+1B,2B,Stolen Base 2B,430611,Corey Hart,Clint Sammons,2,0,2,True,2008-08-03,Stolen,2B,2008
+2B,3B,Stolen Base 3B,430611,Corey Hart,Clint Sammons,2,0,2,True,2008-08-03,Stolen,3B,2008
+1B,2B,Stolen Base 2B,285131,Cesar Izturis,Clint Sammons,0,0,1,True,2008-07-31,Stolen,2B,2008
+1B,2B,Stolen Base 2B,150456,Adam Kennedy,Clint Sammons,2,5,9,True,2008-07-30,Stolen,2B,2008
+2B,3B,Stolen Base 3B,405395,Albert Pujols,Clint Sammons,2,3,8,True,2008-07-29,Stolen,3B,2008
+1B,2B,Stolen Base 2B,136860,Carlos Beltrán,Clint Sammons,0,1,3,True,2009-05-05,Stolen,2B,2009
+1B,,Caught Stealing 2B,431151,David Wright,Clint Sammons,0,2,7,True,2009-05-05,Caught,2B,2009
+1B,2B,Stolen Base 2B,456422,Michael Bourn,Clint Sammons,4,5,7,True,2009-05-03,Stolen,2B,2009
+2B,3B,Stolen Base 3B,456422,Michael Bourn,Clint Sammons,4,6,7,True,2009-05-03,Stolen,3B,2009
+1B,,Caught Stealing 2B,150324,Carlos Lee,Clint Sammons,2,2,5,True,2009-05-01,Caught,2B,2009
+1B,2B,Stolen Base 2B,518784,Justin Henry,Clint Sammons,2,5,6,True,2009-04-04,Stolen,2B,2009
+1B,,Caught Stealing 2B,453525,J.R. Towles,Clint Sammons,3,0,6,False,2007-09-30,Caught,2B,2007

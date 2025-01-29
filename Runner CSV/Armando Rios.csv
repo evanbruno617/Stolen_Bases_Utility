@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1029,1B,2B,Stolen Base 2B,136608,Armando Rios,Paul Bako,2,0,4,False,2000-08-18,Stolen,2B,2000
+2138,1B,,Caught Stealing 2B,136608,Armando Rios,Tony Eusebio,2,4,9,True,2000-06-25,Caught,2B,2000
+2317,2B,3B,Stolen Base 3B,136608,Armando Rios,Tony Eusebio,3,4,6,False,2000-06-17,Stolen,3B,2000
+2731,1B,,Caught Stealing 2B,136608,Armando Rios,Mike Lieberthal,4,1,6,False,2000-05-30,Caught,2B,2000
+3769,1B,2B,Stolen Base 2B,136608,Armando Rios,Kelly Stinnett,1,0,2,False,2000-04-15,Stolen,2B,2000
+911,1B,2B,Stolen Base 2B,136608,Armando Rios,Todd Hundley,1,5,5,False,2001-04-29,Stolen,2B,2001
+1312,1B,2B,Stolen Base 2B,136608,Armando Rios,Henry Blanco,3,6,7,True,2001-04-13,Stolen,2B,2001
+1313,1B,,Caught Stealing 2B,136608,Armando Rios,Henry Blanco,3,7,9,True,2001-04-13,Caught,2B,2001
+164,2B,3B,Stolen Base 3B,136608,Armando Rios,Todd Hundley,2,1,6,False,2002-09-21,Stolen,3B,2002
+3934,1B,,Caught Stealing 2B,136608,Armando Rios,Mike Piazza,0,0,2,True,2002-04-01,Caught,2B,2002
+2088,2B,,Caught Stealing 3B,136608,Armando Rios,Gary Bennett,1,0,2,False,2003-06-14,Caught,3B,2003

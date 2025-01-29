@@ -1,0 +1,27 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1051,1B,2B,Stolen Base 2B,572073,Joey Rickard,Sandy León,0,5,6,True,2016-06-16,Stolen,2B,2016
+1447,1B,2B,Stolen Base 2B,572073,Joey Rickard,Evan Gattis,4,3,8,True,2016-05-25,Stolen,2B,2016
+1516,1B,2B,Stolen Base 2B,572073,Joey Rickard,Carlos Pérez,0,0,1,True,2016-05-22,Stolen,2B,2016
+1708,1B,,Caught Stealing 2B,572073,Joey Rickard,James McCann,0,0,3,False,2016-05-13,Caught,2B,2016
+2126,1B,2B,Stolen Base 2B,572073,Joey Rickard,Russell Martin,1,2,1,False,2016-04-21,Stolen,2B,2016
+291,1B,2B,Stolen Base 2B,572073,Joey Rickard,Austin Romine,0,0,3,True,2017-09-16,Stolen,2B,2017
+1022,1B,2B,Stolen Base 2B,572073,Joey Rickard,Martín Maldonado,1,2,5,True,2017-08-07,Stolen,2B,2017
+1055,1B,2B,Stolen Base 2B,572073,Joey Rickard,John Hicks,4,0,2,False,2017-08-06,Stolen,2B,2017
+1584,1B,2B,Stolen Base 2B,572073,Joey Rickard,Stephen Vogt,5,1,7,True,2017-07-04,Stolen,2B,2017
+2180,2B,3B,Stolen Base 3B,572073,Joey Rickard,Sandy León,0,2,1,False,2017-06-04,Stolen,3B,2017
+2569,1B,2B,Stolen Base 2B,572073,Joey Rickard,Drew Butera,0,3,4,True,2017-05-14,Stolen,2B,2017
+2728,1B,2B,Stolen Base 2B,572073,Joey Rickard,Geovany Soto,4,0,8,False,2017-05-07,Stolen,2B,2017
+2866,1B,2B,Stolen Base 2B,572073,Joey Rickard,Kyle Higashioka,4,4,11,True,2017-04-30,Stolen,2B,2017
+3285,1B,,Caught Stealing 2B,572073,Joey Rickard,Gary Sánchez,5,4,7,False,2017-04-08,Caught,2B,2017
+348,1B,,Caught Stealing 2B,572073,Joey Rickard,Josh Phegley,4,2,7,False,2018-09-13,Caught,2B,2018
+477,1B,2B,Stolen Base 2B,572073,Joey Rickard,Jesús Sucre,7,5,7,True,2018-09-08,Stolen,2B,2018
+576,1B,2B,Stolen Base 2B,572073,Joey Rickard,Meibrys Viloria,5,1,6,True,2018-09-02,Stolen,2B,2018
+1061,1B,2B,Stolen Base 2B,572073,Joey Rickard,Michael Pérez,4,5,9,True,2018-08-08,Stolen,2B,2018
+1551,1B,2B,Stolen Base 2B,572073,Joey Rickard,Kyle Higashioka,5,4,6,False,2018-07-09,Stolen,2B,2018
+2235,1B,2B,Stolen Base 2B,572073,Joey Rickard,Kyle Higashioka,5,4,6,False,2018-05-31,Stolen,2B,2018
+197,1B,2B,Stolen Base 2B,572073,Joey Rickard,Sandy León,2,5,8,True,2019-09-18,Stolen,2B,2019
+2199,1B,2B,Stolen Base 2B,572073,Joey Rickard,Gary Sánchez,5,3,7,True,2019-05-15,Stolen,2B,2019
+2308,1B,2B,Stolen Base 2B,572073,Joey Rickard,Sandy León,0,1,4,False,2019-05-08,Stolen,2B,2019
+2629,1B,2B,Stolen Base 2B,572073,Joey Rickard,Michael Pérez,1,0,2,True,2019-04-18,Stolen,2B,2019
+2719,2B,,Caught Stealing 3B,572073,Joey Rickard,Christian Vázquez,0,0,4,True,2019-04-14,Caught,3B,2019
+2805,1B,,Caught Stealing 2B,572073,Joey Rickard,Josh Phegley,0,5,3,False,2019-04-09,Caught,2B,2019

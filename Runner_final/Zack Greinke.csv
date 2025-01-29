@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,5914,1B,2B,Stolen Base 2B,425844,Zack Greinke,572750,Eddie Butler,516416,Jean Segura,R,Nick Hundley,460026,3,4,4,True,2016-06-23,Stolen,2B,2016,2017,24.2
+1,1879,1B,2B,Stolen Base 2B,425844,Zack Greinke,572750,Eddie Butler,516416,Jean Segura,R,Nick Hundley,460026,3,4,4,True,2016-06-23,Stolen,2B,2016,2017,24.2
+2,5286,1B,2B,Stolen Base 2B,425844,Zack Greinke,572750,Eddie Butler,516416,Jean Segura,R,Nick Hundley,460026,3,4,4,True,2016-06-23,Stolen,2B,2016,2017,24.2
+3,1049,1B,2B,Stolen Base 2B,425844,Zack Greinke,622072,Alex Wood,592626,Joc Pederson,L,A.J. Pierzynski,150229,1,1,5,False,2015-05-27,Stolen,2B,2015,2016,22.9

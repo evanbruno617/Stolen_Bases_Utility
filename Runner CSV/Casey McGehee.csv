@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1974,1B,,Caught Stealing 2B,431171,Casey McGehee,Jason Castro,5,2,5,False,2010-06-28,Caught,2B,2010
+2910,1B,2B,Stolen Base 2B,431171,Casey McGehee,Ryan Hanigan,1,4,8,True,2010-05-18,Stolen,2B,2010
+813,1B,,Caught Stealing 2B,431171,Casey McGehee,Geovany Soto,5,1,3,False,2011-08-27,Caught,2B,2011
+1664,3B,,Caught Stealing Home,431171,Casey McGehee,Chris Stewart,0,1,4,True,2011-07-23,Caught,Home,2011
+4097,1B,,Caught Stealing 2B,431171,Casey McGehee,Ryan Doumit,0,0,5,True,2011-04-13,Caught,2B,2011
+2173,1B,,Caught Stealing 2B,431171,Casey McGehee,Carlos Ruiz,2,0,2,True,2012-06-27,Caught,2B,2012
+3282,1B,2B,Stolen Base 2B,431171,Casey McGehee,Chris Snyder,1,0,1,False,2012-05-12,Stolen,2B,2012
+93,2B,,Caught Stealing 3B,431171,Casey McGehee,Carlos Ruiz,6,4,7,False,2014-09-25,Caught,3B,2014
+429,1B,2B,Caught Stealing 2B,431171,Casey McGehee,Jonathan Lucroy,0,2,3,True,2014-09-09,Caught,2B,2014
+663,1B,2B,Stolen Base 2B,431171,Casey McGehee,Evan Gattis,0,4,7,True,2014-08-30,Stolen,2B,2014
+1030,1B,2B,Stolen Base 2B,431171,Casey McGehee,A.J. Pierzynski,6,3,7,False,2014-08-11,Stolen,2B,2014
+1475,1B,2B,Stolen Base 2B,431171,Casey McGehee,Buster Posey,1,0,1,False,2014-07-19,Stolen,2B,2014
+1838,1B,2B,Stolen Base 2B,431171,Casey McGehee,John Jaso,6,6,9,False,2014-06-28,Stolen,2B,2014
+1289,1B,2B,Stolen Base 2B,431171,Casey McGehee,Óscar Hernández,2,5,5,True,2015-07-22,Stolen,2B,2015
+3362,2B,,Caught Stealing 3B,431171,Casey McGehee,Derek Norris,0,0,2,True,2015-04-09,Caught,3B,2015

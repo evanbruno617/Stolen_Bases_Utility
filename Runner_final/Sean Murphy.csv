@@ -1,0 +1,2 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,353,1B,2B,Stolen Base 2B,669221,Sean Murphy,605280,Clay Holmes,519390,Stephen Vogt,R,Jose Trevino,624431,2,0,9,True,2022-06-28,Stolen,2B,2022,2023,26.0

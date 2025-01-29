@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1194,1B,2B,Stolen Base 2B,640449,Clint Frazier,Jesús Sucre,0,1,1,False,2017-07-30,Stolen,2B,2017
+1706,1B,,Caught Stealing 2B,640449,Clint Frazier,James McCann,0,2,2,True,2019-06-13,Caught,2B,2019
+1779,1B,,Caught Stealing 2B,640449,Clint Frazier,Roberto Pérez,0,5,3,True,2019-06-09,Caught,2B,2019
+2047,1B,2B,Stolen Base 2B,640449,Clint Frazier,Cam Gallagher,4,6,7,True,2019-05-25,Stolen,2B,2019
+2051,1B,2B,Stolen Base 2B,640449,Clint Frazier,Cam Gallagher,4,6,7,True,2019-05-24,Stolen,2B,2019
+52,1B,2B,Stolen Base 2B,640449,Clint Frazier,Jorge Alfaro,5,3,6,False,2020-09-26,Stolen,2B,2020
+389,1B,2B,Stolen Base 2B,640449,Clint Frazier,Caleb Joseph,2,7,9,True,2020-09-09,Stolen,2B,2020
+541,1B,2B,Stolen Base 2B,640449,Clint Frazier,Michael Pérez,3,5,8,False,2020-08-31,Stolen,2B,2020
+2020,1B,2B,Stolen Base 2B,640449,Clint Frazier,Zack Collins,2,0,2,False,2021-05-23,Stolen,2B,2021
+2022,1B,2B,Stolen Base 2B,640449,Clint Frazier,Zack Collins,4,4,9,False,2021-05-23,Stolen,2B,2021
+2192,1B,2B,Stolen Base 2B,640449,Clint Frazier,Victor Caratini,1,0,2,False,2022-05-31,Stolen,2B,2022
+3200,1B,2B,Stolen Base 2B,640449,Clint Frazier,Mike Rivera,0,1,3,True,2022-04-03,Stolen,2B,2022
+2234,1B,,Caught Stealing 2B,640449,Clint Frazier,Connor Wong,2,1,5,False,2023-06-24,Caught,2B,2023
+2329,1B,2B,Stolen Base 2B,640449,Clint Frazier,Jonah Heim,2,0,2,False,2023-06-20,Stolen,2B,2023
+2542,1B,2B,Stolen Base 2B,640449,Clint Frazier,Nick Fortes,5,1,7,False,2023-06-11,Stolen,2B,2023
+2997,1B,2B,Stolen Base 2B,640449,Clint Frazier,David Fry,0,0,3,True,2023-05-24,Stolen,2B,2023
+3022,1B,2B,Stolen Base 2B,640449,Clint Frazier,Mike Zunino,2,4,9,True,2023-05-23,Stolen,2B,2023

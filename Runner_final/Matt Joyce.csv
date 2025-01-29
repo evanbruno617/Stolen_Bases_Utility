@@ -1,0 +1,27 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,553,1B,2B,Stolen Base 2B,459964,Matt Joyce,594798,Jacob deGrom,605119,Brian Anderson,R,Wilson Ramos,467092,2,1,6,True,2020-08-31,Stolen,2B,2020,2021,26.3
+1,624,1B,2B,Stolen Base 2B,459964,Matt Joyce,594798,Jacob deGrom,605119,Brian Anderson,R,Wilson Ramos,467092,2,1,6,True,2020-08-27,Stolen,2B,2020,2021,26.3
+2,3396,1B,2B,Stolen Base 2B,459964,Matt Joyce,594798,Jacob deGrom,605119,Brian Anderson,R,Wilson Ramos,467092,2,1,6,True,2020-08-31,Stolen,2B,2020,2021,26.3
+3,3467,1B,2B,Stolen Base 2B,459964,Matt Joyce,594798,Jacob deGrom,605119,Brian Anderson,R,Wilson Ramos,467092,2,1,6,True,2020-08-27,Stolen,2B,2020,2021,26.3
+4,5320,1B,2B,Stolen Base 2B,459964,Matt Joyce,594798,Jacob deGrom,605119,Brian Anderson,R,Wilson Ramos,467092,2,1,6,True,2020-08-31,Stolen,2B,2020,2021,26.3
+5,5391,1B,2B,Stolen Base 2B,459964,Matt Joyce,594798,Jacob deGrom,605119,Brian Anderson,R,Wilson Ramos,467092,2,1,6,True,2020-08-27,Stolen,2B,2020,2021,26.3
+6,314,1B,,Caught Stealing 2B,459964,Matt Joyce,456068,Miguel González,501981,Khris Davis,R,Omar Narváez,553882,5,0,2,False,2018-04-17,Caught,2B,2018,2019,25.9
+7,1415,1B,2B,Stolen Base 2B,459964,Matt Joyce,461325,Tyler Clippard,476704,Jed Lowrie,R,Juan Centeno,518542,2,3,9,True,2017-08-20,Stolen,2B,2017,2018,26.1
+8,1538,2B,3B,Stolen Base 3B,459964,Matt Joyce,476451,Jeremy Hellickson,543760,Marcus Semien,R,Caleb Joseph,543376,6,2,5,False,2017-08-13,Stolen,3B,2017,2018,26.1
+9,2202,1B,2B,Stolen Base 2B,459964,Matt Joyce,500872,Gregory Infante,476704,Jed Lowrie,R,Kevan Smith,607345,6,0,4,False,2017-07-05,Stolen,2B,2017,2018,26.1
+10,3438,1B,2B,Stolen Base 2B,459964,Matt Joyce,429722,Ervin Santana,476704,Jed Lowrie,R,Jason Castro,488771,0,0,1,True,2017-05-02,Stolen,2B,2017,2018,26.1
+11,3664,1B,,Caught Stealing 2B,459964,Matt Joyce,608328,Chase De Jong,543094,Jaff Decker,R,Mike Zunino,572287,4,2,4,False,2017-04-22,Caught,2B,2017,2018,26.1
+12,787,1B,2B,Stolen Base 2B,459964,Matt Joyce,461325,Tyler Clippard,476704,Jed Lowrie,R,Juan Centeno,518542,2,3,9,True,2017-08-20,Stolen,2B,2017,2018,26.1
+13,910,2B,3B,Stolen Base 3B,459964,Matt Joyce,476451,Jeremy Hellickson,543760,Marcus Semien,R,Caleb Joseph,543376,6,2,5,False,2017-08-13,Stolen,3B,2017,2018,26.1
+14,1574,1B,2B,Stolen Base 2B,459964,Matt Joyce,500872,Gregory Infante,476704,Jed Lowrie,R,Kevan Smith,607345,6,0,4,False,2017-07-05,Stolen,2B,2017,2018,26.1
+15,2810,1B,2B,Stolen Base 2B,459964,Matt Joyce,429722,Ervin Santana,476704,Jed Lowrie,R,Jason Castro,488771,0,0,1,True,2017-05-02,Stolen,2B,2017,2018,26.1
+16,3036,1B,,Caught Stealing 2B,459964,Matt Joyce,608328,Chase De Jong,543094,Jaff Decker,R,Mike Zunino,572287,4,2,4,False,2017-04-22,Caught,2B,2017,2018,26.1
+17,5882,1B,2B,Stolen Base 2B,459964,Matt Joyce,430599,Joe Blanton,543281,Josh Harrison,R,A.J. Ellis,454560,4,1,6,False,2016-06-25,Stolen,2B,2016,2017,26.5
+18,7321,1B,,Caught Stealing 2B,459964,Matt Joyce,434378,Justin Verlander,516782,Starling Marte,R,James McCann,543510,0,1,1,True,2016-04-11,Caught,2B,2016,2017,26.5
+19,1847,1B,2B,Stolen Base 2B,459964,Matt Joyce,430599,Joe Blanton,543281,Josh Harrison,R,A.J. Ellis,454560,4,1,6,False,2016-06-25,Stolen,2B,2016,2017,26.5
+20,3286,1B,,Caught Stealing 2B,459964,Matt Joyce,434378,Justin Verlander,516782,Starling Marte,R,James McCann,543510,0,1,1,True,2016-04-11,Caught,2B,2016,2017,26.5
+21,5254,1B,2B,Stolen Base 2B,459964,Matt Joyce,430599,Joe Blanton,543281,Josh Harrison,R,A.J. Ellis,454560,4,1,6,False,2016-06-25,Stolen,2B,2016,2017,26.5
+22,6693,1B,,Caught Stealing 2B,459964,Matt Joyce,434378,Justin Verlander,516782,Starling Marte,R,James McCann,543510,0,1,1,True,2016-04-11,Caught,2B,2016,2017,26.5
+23,1177,3B,,Caught Stealing Home,459964,Matt Joyce,519144,Rick Porcello,543213,Johnny Giavotella,R,Blake Swihart,596119,1,2,4,True,2015-05-22,Caught,Home,2015,2016,26.0
+24,1669,1B,,Caught Stealing 2B,459964,Matt Joyce,543243,Sonny Gray,460077,Drew Butera,R,Stephen Vogt,519390,5,2,2,True,2015-04-28,Caught,2B,2015,2016,26.0
+25,2213,1B,2B,Stolen Base 2B,459964,Matt Joyce,435045,Sergio Santos,501896,David Freese,R,Shawn Zarraga,519452,1,0,1,False,2015-04-02,Stolen,2B,2015,2016,26.0

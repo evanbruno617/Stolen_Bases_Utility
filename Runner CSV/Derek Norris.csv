@@ -1,0 +1,27 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1057,1B,2B,Stolen Base 2B,519083,Derek Norris,Salvador Perez,0,2,8,True,2012-08-16,Stolen,2B,2012
+1152,1B,2B,Stolen Base 2B,519083,Derek Norris,Tyler Flowers,3,6,5,True,2012-08-11,Stolen,2B,2012
+1672,1B,2B,Stolen Base 2B,519083,Derek Norris,Russell Martin,1,1,6,False,2012-07-21,Stolen,2B,2012
+1895,1B,2B,Stolen Base 2B,519083,Derek Norris,Miguel Olivo,1,0,2,False,2012-07-08,Stolen,2B,2012
+2049,1B,2B,Stolen Base 2B,519083,Derek Norris,Jarrod Saltalamacchia,5,1,6,False,2012-07-02,Stolen,2B,2012
+184,1B,2B,Stolen Base 2B,519083,Derek Norris,Chris Herrmann,4,0,4,False,2013-09-20,Stolen,2B,2013
+337,1B,2B,Stolen Base 2B,519083,Derek Norris,A.J. Pierzynski,2,3,2,True,2013-09-13,Stolen,2B,2013
+2801,1B,2B,Stolen Base 2B,519083,Derek Norris,Jesus Montero,5,1,6,True,2013-05-12,Stolen,2B,2013
+3032,1B,2B,Stolen Base 2B,519083,Derek Norris,Hank Conger,0,1,3,False,2013-04-30,Stolen,2B,2013
+3430,1B,2B,Stolen Base 2B,519083,Derek Norris,Chris Iannetta,0,1,4,True,2013-04-11,Stolen,2B,2013
+574,1B,,Caught Stealing 2B,519083,Derek Norris,Mike Zunino,1,0,5,False,2014-09-03,Caught,2B,2014
+2662,1B,2B,Stolen Base 2B,519083,Derek Norris,Ryan Hanigan,0,3,4,True,2014-05-20,Stolen,2B,2014
+2908,1B,2B,Stolen Base 2B,519083,Derek Norris,John Buck,2,0,7,False,2014-05-07,Stolen,2B,2014
+3633,1B,2B,Stolen Base 2B,519083,Derek Norris,John Buck,2,0,7,False,2014-04-04,Stolen,2B,2014
+297,1B,2B,Stolen Base 2B,519083,Derek Norris,Welington Castillo,0,5,1,True,2015-09-14,Stolen,2B,2015
+657,1B,,Caught Stealing 2B,519083,Derek Norris,Wilson Ramos,0,0,2,True,2015-08-26,Caught,2B,2015
+1296,1B,2B,Stolen Base 2B,519083,Derek Norris,Buster Posey,1,0,2,False,2015-07-22,Stolen,2B,2015
+1384,2B,3B,Stolen Base 3B,519083,Derek Norris,Michael McKenry,3,0,3,False,2015-07-17,Stolen,3B,2015
+2692,1B,2B,Stolen Base 2B,519083,Derek Norris,Jordan Pacheco,0,1,4,True,2015-05-09,Stolen,2B,2015
+210,1B,,Caught Stealing 2B,519083,Derek Norris,Martín Maldonado,1,1,4,False,2016-08-02,Caught,2B,2016
+584,1B,2B,Stolen Base 2B,519083,Derek Norris,Buster Posey,6,6,10,False,2016-07-16,Stolen,2B,2016
+752,1B,2B,Stolen Base 2B,519083,Derek Norris,Austin Romine,1,1,7,False,2016-07-02,Stolen,2B,2016
+898,1B,2B,Stolen Base 2B,519083,Derek Norris,Ramón Cabrera,0,2,7,True,2016-06-25,Stolen,2B,2016
+918,1B,2B,Stolen Base 2B,519083,Derek Norris,Tucker Barnhart,0,3,3,True,2016-06-24,Stolen,2B,2016
+1241,1B,2B,Stolen Base 2B,519083,Derek Norris,Tyler Flowers,6,1,6,False,2016-06-06,Stolen,2B,2016
+3346,1B,2B,Stolen Base 2B,519083,Derek Norris,Gary Sánchez,4,1,2,False,2017-04-05,Stolen,2B,2017

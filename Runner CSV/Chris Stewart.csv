@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+282,1B,2B,Stolen Base 2B,455755,Chris Stewart,Jeff Mathis,2,1,8,False,2012-09-19,Stolen,2B,2012
+1293,1B,2B,Stolen Base 2B,455755,Chris Stewart,Jesus Montero,3,1,4,False,2012-08-05,Stolen,2B,2012
+1691,1B,2B,Stolen Base 2B,455755,Chris Stewart,Matt Wieters,1,0,7,False,2013-07-07,Stolen,2B,2013
+2127,1B,2B,Stolen Base 2B,455755,Chris Stewart,Hank Conger,2,2,5,True,2013-06-15,Stolen,2B,2013
+2899,1B,2B,Stolen Base 2B,455755,Chris Stewart,Yorvit Torrealba,0,0,5,True,2013-05-07,Stolen,2B,2013
+3488,1B,2B,Stolen Base 2B,455755,Chris Stewart,Carlos Santana,3,5,4,True,2013-04-08,Stolen,2B,2013
+978,1B,,Caught Stealing 2B,455755,Chris Stewart,Alex Avila,0,0,3,True,2014-08-14,Caught,2B,2014

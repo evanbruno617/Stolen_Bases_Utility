@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+289,2B,3B,Stolen Base 3B,111232,Pat Borders,Geronimo Gil,2,1,5,False,2004-09-17,Stolen,3B,2004
+408,1B,2B,Stolen Base 2B,111232,Pat Borders,Brandon Inge,4,7,8,True,2004-09-12,Stolen,2B,2004
+2096,1B,2B,Stolen Base 2B,111232,Pat Borders,Brian Schneider,6,1,6,False,2004-06-13,Stolen,2B,2004

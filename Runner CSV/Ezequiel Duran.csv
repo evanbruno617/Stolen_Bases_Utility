@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+947,1B,2B,Stolen Base 2B,677649,Ezequiel Duran,Christian Vázquez,2,3,7,True,2022-08-10,Stolen,2B,2022
+1210,1B,2B,Stolen Base 2B,677649,Ezequiel Duran,Cal Raleigh,0,1,4,True,2022-07-25,Stolen,2B,2022
+1915,2B,3B,Stolen Base 3B,677649,Ezequiel Duran,Jason Castro,3,0,7,False,2022-06-14,Stolen,3B,2022
+1936,1B,2B,Stolen Base 2B,677649,Ezequiel Duran,Martín Maldonado,4,3,8,False,2022-06-13,Stolen,2B,2022
+1954,3B,,Caught Stealing Home,677649,Ezequiel Duran,Seby Zavala,1,3,4,True,2022-06-12,Caught,Home,2022
+932,1B,2B,Stolen Base 2B,677649,Ezequiel Duran,Christian Vázquez,4,5,8,True,2023-08-24,Stolen,2B,2023
+1168,1B,2B,Stolen Base 2B,677649,Ezequiel Duran,Patrick Bailey,0,0,2,True,2023-08-13,Stolen,2B,2023
+1169,1B,,Caught Stealing 2B,677649,Ezequiel Duran,Patrick Bailey,1,1,9,True,2023-08-13,Caught,2B,2023
+1488,1B,2B,Stolen Base 2B,677649,Ezequiel Duran,Gary Sánchez,1,1,4,True,2023-07-30,Stolen,2B,2023
+1611,1B,2B,Stolen Base 2B,677649,Ezequiel Duran,Martín Maldonado,4,5,3,True,2023-07-24,Stolen,2B,2023
+2299,1B,2B,Stolen Base 2B,677649,Ezequiel Duran,Seby Zavala,1,6,5,True,2023-06-21,Stolen,2B,2023
+2407,1B,,Caught Stealing 2B,677649,Ezequiel Duran,Danny Jansen,4,2,8,False,2023-06-17,Caught,2B,2023
+3108,1B,2B,Stolen Base 2B,677649,Ezequiel Duran,Elias Díaz,7,2,8,False,2023-05-19,Stolen,2B,2023
+3672,1B,,Caught Stealing 2B,677649,Ezequiel Duran,Curt Casali,3,2,8,True,2023-04-26,Caught,2B,2023
+3692,1B,2B,Stolen Base 2B,677649,Ezequiel Duran,Tyler Stephenson,0,2,4,True,2023-04-25,Stolen,2B,2023
+3713,1B,2B,Stolen Base 2B,677649,Ezequiel Duran,Tyler Stephenson,4,6,5,True,2023-04-24,Stolen,2B,2023
+3780,1B,,Caught Stealing 2B,677649,Ezequiel Duran,Shea Langeliers,4,1,4,False,2023-04-21,Caught,2B,2023

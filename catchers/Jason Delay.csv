@@ -1,0 +1,135 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,2B,3B,Stolen Base 3B,607208,Trea Turner,669387,Carmen Mlodzinski,666801,Rodolfo Castro,R,Jason Delay,641511,2,3,8,False,2023-09-28,Stolen,3B,2023,2024, 77.4, 0.60
+1,1B,2B,Stolen Base 2B,645277,Ozzie Albies,641672,Thomas Hatch,663586,Austin Riley,R,Jason Delay,641511,3,2,7,False,2023-09-10,Stolen,2B,2023,2024, 77.4, 0.60
+2,1B,2B,Stolen Base 2B,661388,William Contreras,675989,Cody Bolton,467793,Carlos Santana,R,Jason Delay,641511,1,3,5,True,2023-09-06,Stolen,2B,2023,2024, 77.4, 0.60
+3,1B,2B,Stolen Base 2B,669242,Tommy Edman,670912,Johan Oviedo,663457,Lars Nootbaar,R,Jason Delay,641511,0,1,2,False,2023-09-03,Stolen,2B,2023,2024, 77.4, 0.60
+4,2B,3B,Stolen Base 3B,669242,Tommy Edman,669796,Jose E. Hernandez,669357,Nolan Gorman,L,Jason Delay,641511,6,4,8,False,2023-09-03,Stolen,3B,2023,2024, 77.4, 0.60
+5,1B,2B,Stolen Base 2B,663457,Lars Nootbaar,669796,Jose E. Hernandez,669357,Nolan Gorman,L,Jason Delay,641511,6,4,8,False,2023-09-03,Stolen,2B,2023,2024, 77.4, 0.60
+6,1B,2B,Stolen Base 2B,641355,Cody Bellinger,663559,Bailey Falter,673548,Seiya Suzuki,L,Jason Delay,641511,0,1,1,True,2023-08-27,Stolen,2B,2023,2024, 77.4, 0.60
+7,2B,3B,Stolen Base 3B,663538,Nico Hoerner,663559,Bailey Falter,641355,Cody Bellinger,L,Jason Delay,641511,1,5,5,True,2023-08-27,Stolen,3B,2023,2024, 77.4, 0.60
+8,1B,2B,Stolen Base 2B,621020,Dansby Swanson,663559,Bailey Falter,641355,Cody Bellinger,L,Jason Delay,641511,1,5,5,True,2023-08-27,Stolen,2B,2023,2024, 77.4, 0.60
+9,1B,2B,Stolen Base 2B,691026,Masyn Winn,669796,Jose E. Hernandez,669242,Tommy Edman,L,Jason Delay,641511,3,5,7,True,2023-08-23,Stolen,2B,2023,2024, 77.4, 0.60
+10,1B,2B,Stolen Base 2B,593871,Jorge Polanco,656605,Mitch Keller,621043,Carlos Correa,R,Jason Delay,641511,0,0,1,False,2023-08-19,Stolen,2B,2023,2024, 77.4, 0.60
+11,2B,3B,Stolen Base 3B,668715,Spencer Steer,656605,Mitch Keller,687952,Christian Encarnacion-Strand,R,Jason Delay,641511,0,0,2,True,2023-08-13,Stolen,3B,2023,2024, 77.4, 0.60
+12,1B,2B,Stolen Base 2B,666181,Will Benson,656605,Mitch Keller,656413,Stuart Fairchild,R,Jason Delay,641511,0,1,5,True,2023-08-13,Stolen,2B,2023,2024, 77.4, 0.60
+13,1B,2B,Stolen Base 2B,670770,TJ Friedl,622780,Angel Perdomo,680574,Matt McLain,L,Jason Delay,641511,1,2,7,True,2023-08-13,Stolen,2B,2023,2024, 77.4, 0.60
+14,1B,2B,Stolen Base 2B,645277,Ozzie Albies,663559,Bailey Falter,663586,Austin Riley,L,Jason Delay,641511,0,1,1,True,2023-08-10,Stolen,2B,2023,2024, 77.4, 0.60
+15,1B,2B,Stolen Base 2B,671739,Michael Harris II,670059,Colin Holderman,660670,Ronald Acuña Jr.,R,Jason Delay,641511,7,5,9,True,2023-08-10,Stolen,2B,2023,2024, 77.4, 0.60
+16,1B,2B,Stolen Base 2B,592885,Christian Yelich,663559,Bailey Falter,467793,Carlos Santana,L,Jason Delay,641511,0,0,1,False,2023-08-05,Stolen,2B,2023,2024, 77.4, 0.60
+17,1B,2B,Stolen Base 2B,686217,Sal Frelick,670280,David Bednar,605170,Victor Caratini,R,Jason Delay,641511,2,2,9,False,2023-08-05,Stolen,2B,2023,2024, 77.4, 0.60
+18,1B,2B,Stolen Base 2B,670097,Zack Short,621366,Ryan Borucki,606992,Eric Haase,L,Jason Delay,641511,1,4,4,True,2023-08-02,Stolen,2B,2023,2024, 77.4, 0.60
+19,1B,2B,Stolen Base 2B,624424,Michael Conforto,674370,Osvaldo Bido,573262,Mike Yastrzemski,R,Jason Delay,641511,0,0,1,True,2023-07-16,Stolen,2B,2023,2024, 77.4, 0.60
+20,1B,2B,Stolen Base 2B,624424,Michael Conforto,448179,Rich Hill,605204,J.D. Davis,L,Jason Delay,641511,0,2,5,True,2023-07-14,Stolen,2B,2023,2024, 77.4, 0.60
+21,1B,2B,Stolen Base 2B,672275,Patrick Bailey,621366,Ryan Borucki,592626,Joc Pederson,L,Jason Delay,641511,4,5,7,True,2023-07-14,Stolen,2B,2023,2024, 77.4, 0.60
+22,1B,2B,Stolen Base 2B,682641,Luis Matos,621366,Ryan Borucki,669477,Casey Schmitt,L,Jason Delay,641511,4,6,7,True,2023-07-14,Stolen,2B,2023,2024, 77.4, 0.60
+23,1B,,Caught Stealing 2B,689172,Brett Wisely,660787,Yerry De Los Santos,605204,J.D. Davis,R,Jason Delay,641511,4,6,9,True,2023-07-14,Caught,2B,2023,2024, 77.4, 0.60
+24,1B,2B,Stolen Base 2B,672695,Geraldo Perdomo,670059,Colin Holderman,572233,Christian Walker,R,Jason Delay,641511,1,1,8,False,2023-07-08,Stolen,2B,2023,2024, 77.4, 0.60
+25,1B,2B,Stolen Base 2B,518692,Freddie Freeman,622780,Angel Perdomo,571970,Max Muncy,L,Jason Delay,641511,5,2,7,False,2023-07-06,Stolen,2B,2023,2024, 77.4, 0.60
+26,1B,,Caught Stealing 2B,686894,Joey Wiemer,622780,Angel Perdomo,606132,Raimel Tapia,L,Jason Delay,641511,3,4,6,True,2023-06-30,Caught,2B,2023,2024, 77.4, 0.60
+27,1B,,Caught Stealing 2B,673548,Seiya Suzuki,448179,Rich Hill,641820,Trey Mancini,L,Jason Delay,641511,0,0,1,True,2023-06-21,Caught,2B,2023,2024, 77.4, 0.60
+28,1B,2B,Stolen Base 2B,663611,Nick Madrigal,660787,Yerry De Los Santos,663538,Nico Hoerner,R,Jason Delay,641511,3,8,8,True,2023-06-21,Stolen,2B,2023,2024, 77.4, 0.60
+29,1B,2B,Stolen Base 2B,641355,Cody Bellinger,622780,Angel Perdomo,663611,Nick Madrigal,L,Jason Delay,641511,0,4,9,True,2023-06-20,Stolen,2B,2023,2024, 77.4, 0.60
+30,1B,2B,Stolen Base 2B,663611,Nick Madrigal,621366,Ryan Borucki,643565,Mike Tauchman,L,Jason Delay,641511,0,4,7,True,2023-06-19,Stolen,2B,2023,2024, 77.4, 0.60
+31,1B,2B,Stolen Base 2B,664023,Ian Happ,670990,Yohan Ramírez,621020,Dansby Swanson,R,Jason Delay,641511,0,5,7,True,2023-06-19,Stolen,2B,2023,2024, 77.4, 0.60
+32,1B,2B,Stolen Base 2B,663538,Nico Hoerner,670912,Johan Oviedo,673548,Seiya Suzuki,R,Jason Delay,641511,0,2,3,False,2023-06-15,Stolen,2B,2023,2024, 77.4, 0.60
+33,1B,2B,Stolen Base 2B,663611,Nick Madrigal,670912,Johan Oviedo,643565,Mike Tauchman,R,Jason Delay,641511,1,2,4,False,2023-06-15,Stolen,2B,2023,2024, 77.4, 0.60
+34,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,669796,Jose E. Hernandez,643565,Mike Tauchman,L,Jason Delay,641511,5,2,5,False,2023-06-15,Stolen,2B,2023,2024, 77.4, 0.60
+35,1B,2B,Stolen Base 2B,516782,Starling Marte,670912,Johan Oviedo,683146,Brett Baty,R,Jason Delay,641511,1,1,7,True,2023-06-10,Stolen,2B,2023,2024, 77.4, 0.60
+36,1B,2B,Stolen Base 2B,502054,Tommy Pham,622780,Angel Perdomo,592192,Mark Canha,L,Jason Delay,641511,1,5,9,True,2023-06-10,Stolen,2B,2023,2024, 77.4, 0.60
+37,1B,2B,Stolen Base 2B,657656,Ramón Laureano,682847,Luis L. Ortiz,607054,Jace Peterson,R,Jason Delay,641511,1,7,4,True,2023-06-07,Stolen,2B,2023,2024, 77.4, 0.60
+38,1B,2B,Stolen Base 2B,668709,JJ Bleday,682847,Luis L. Ortiz,669127,Shea Langeliers,R,Jason Delay,641511,3,7,6,True,2023-06-07,Stolen,2B,2023,2024, 77.4, 0.60
+39,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,672710,Roansy Contreras,608596,Tom Murphy,R,Jason Delay,641511,3,1,6,False,2023-05-28,Stolen,2B,2023,2024, 77.4, 0.60
+40,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,664294,Dauri Moreta,672284,Jarred Kelenic,R,Jason Delay,641511,4,0,7,False,2023-05-27,Stolen,2B,2023,2024, 77.4, 0.60
+41,1B,2B,Stolen Base 2B,641680,Jonah Heim,670912,Johan Oviedo,669701,Josh Smith,R,Jason Delay,641511,0,3,1,True,2023-05-24,Stolen,2B,2023,2024, 77.4, 0.60
+42,1B,2B,Stolen Base 2B,682998,Corbin Carroll,672710,Roansy Contreras,572233,Christian Walker,R,Jason Delay,641511,1,2,3,True,2023-05-21,Stolen,2B,2023,2024, 77.4, 0.60
+43,1B,2B,Stolen Base 2B,682998,Corbin Carroll,670990,Yohan Ramírez,572233,Christian Walker,R,Jason Delay,641511,3,8,9,True,2023-05-21,Stolen,2B,2023,2024, 77.4, 0.60
+44,1B,,Caught Stealing 2B,624428,Adam Frazier,670912,Johan Oviedo,683002,Gunnar Henderson,R,Jason Delay,641511,0,1,4,False,2023-05-12,Caught,2B,2023,2024, 77.4, 0.60
+45,2B,3B,Stolen Base 3B,593160,Whit Merrifield,448179,Rich Hill,662139,Daulton Varsho,L,Jason Delay,641511,0,2,4,True,2023-05-05,Stolen,3B,2023,2024, 77.4, 0.60
+46,1B,2B,Stolen Base 2B,593160,Whit Merrifield,448179,Rich Hill,662139,Daulton Varsho,L,Jason Delay,641511,0,4,6,True,2023-05-05,Stolen,2B,2023,2024, 77.4, 0.60
+47,2B,3B,Stolen Base 3B,593160,Whit Merrifield,664294,Dauri Moreta,643376,Danny Jansen,R,Jason Delay,641511,0,4,6,True,2023-05-05,Stolen,3B,2023,2024, 77.4, 0.60
+48,1B,2B,Stolen Base 2B,662139,Daulton Varsho,664294,Dauri Moreta,643376,Danny Jansen,R,Jason Delay,641511,0,4,6,True,2023-05-05,Stolen,2B,2023,2024, 77.4, 0.60
+49,1B,,Caught Stealing 2B,666139,Josh Lowe,621249,Duane Underwood Jr.,670623,Isaac Paredes,R,Jason Delay,641511,2,0,6,False,2023-05-04,Caught,2B,2023,2024, 77.4, 0.60
+50,1B,,Caught Stealing 2B,668227,Randy Arozarena,596112,Robert Stephenson,666139,Josh Lowe,R,Jason Delay,641511,3,0,8,False,2023-05-04,Caught,2B,2023,2024, 77.4, 0.60
+51,1B,2B,Stolen Base 2B,669743,Alex Call,592826,Vince Velasquez,608841,Joey Meneses,R,Jason Delay,641511,0,1,1,False,2023-04-29,Stolen,2B,2023,2024, 77.4, 0.60
+52,1B,2B,Stolen Base 2B,669743,Alex Call,592826,Vince Velasquez,608841,Joey Meneses,R,Jason Delay,641511,0,1,1,False,2023-04-28,Stolen,2B,2023,2024, 77.4, 0.60
+53,1B,2B,Stolen Base 2B,678246,Miguel Vargas,672710,Roansy Contreras,621035,Chris Taylor,R,Jason Delay,641511,0,0,5,True,2023-04-26,Stolen,2B,2023,2024, 77.4, 0.60
+54,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,672710,Roansy Contreras,571448,Nolan Arenado,R,Jason Delay,641511,1,1,1,False,2023-04-15,Stolen,2B,2023,2024, 77.4, 0.60
+55,1B,2B,Stolen Base 2B,680977,Brendan Donovan,672710,Roansy Contreras,502671,Paul Goldschmidt,R,Jason Delay,641511,2,2,3,False,2023-04-15,Stolen,2B,2023,2024, 77.4, 0.60
+56,1B,2B,Stolen Base 2B,663457,Lars Nootbaar,672710,Roansy Contreras,669242,Tommy Edman,R,Jason Delay,641511,2,2,4,False,2023-04-15,Stolen,2B,2023,2024, 77.4, 0.60
+57,2B,3B,Stolen Base 3B,680977,Brendan Donovan,672710,Roansy Contreras,502671,Paul Goldschmidt,R,Jason Delay,641511,2,2,5,False,2023-04-15,Stolen,3B,2023,2024, 77.4, 0.60
+58,2B,3B,Stolen Base 3B,575929,Willson Contreras,592826,Vince Velasquez,641933,Tyler O'Neill,R,Jason Delay,641511,0,0,4,False,2023-04-13,Stolen,3B,2023,2024, 77.4, 0.60
+59,1B,2B,Stolen Base 2B,669357,Nolan Gorman,592826,Vince Velasquez,641933,Tyler O'Neill,R,Jason Delay,641511,0,0,4,False,2023-04-13,Stolen,2B,2023,2024, 77.4, 0.60
+60,1B,2B,Stolen Base 2B,663656,Kyle Tucker,656605,Mitch Keller,643289,Mauricio Dubón,R,Jason Delay,641511,2,2,4,True,2023-04-11,Stolen,2B,2023,2024, 77.4, 0.60
+61,1B,2B,Stolen Base 2B,693049,Oscar Colás,592826,Vince Velasquez,462101,Elvis Andrus,R,Jason Delay,641511,1,1,2,True,2023-04-08,Stolen,2B,2023,2024, 77.4, 0.60
+62,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,592826,Vince Velasquez,660162,Yoán Moncada,R,Jason Delay,641511,1,2,3,True,2023-04-08,Stolen,2B,2023,2024, 77.4, 0.60
+63,1B,2B,Stolen Base 2B,641313,Tim Anderson,621249,Duane Underwood Jr.,673357,Luis Robert Jr.,R,Jason Delay,641511,4,11,7,True,2023-04-08,Stolen,2B,2023,2024, 77.4, 0.60
+64,2B,3B,Stolen Base 3B,641313,Tim Anderson,448179,Rich Hill,683734,Andrew Vaughn,L,Jason Delay,641511,0,1,1,True,2023-04-07,Stolen,3B,2023,2024, 77.4, 0.60
+65,1B,2B,Stolen Base 2B,641313,Tim Anderson,448179,Rich Hill,673357,Luis Robert Jr.,L,Jason Delay,641511,7,7,5,True,2023-04-07,Stolen,2B,2023,2024, 77.4, 0.60
+66,1B,2B,Stolen Base 2B,624414,Christian Arroyo,656605,Mitch Keller,606132,Raimel Tapia,R,Jason Delay,641511,1,4,7,False,2023-04-05,Stolen,2B,2023,2024, 77.4, 0.60
+67,2B,3B,Stolen Base 3B,607208,Trea Turner,669387,Carmen Mlodzinski,666801,Rodolfo Castro,R,Jason Delay,641511,2,3,8,False,2023-09-28,Stolen,3B,2023,2024, 77.4, 0.60
+68,1B,2B,Stolen Base 2B,645277,Ozzie Albies,641672,Thomas Hatch,663586,Austin Riley,R,Jason Delay,641511,3,2,7,False,2023-09-10,Stolen,2B,2023,2024, 77.4, 0.60
+69,1B,2B,Stolen Base 2B,661388,William Contreras,675989,Cody Bolton,467793,Carlos Santana,R,Jason Delay,641511,1,3,5,True,2023-09-06,Stolen,2B,2023,2024, 77.4, 0.60
+70,1B,2B,Stolen Base 2B,669242,Tommy Edman,670912,Johan Oviedo,663457,Lars Nootbaar,R,Jason Delay,641511,0,1,2,False,2023-09-03,Stolen,2B,2023,2024, 77.4, 0.60
+71,2B,3B,Stolen Base 3B,669242,Tommy Edman,669796,Jose E. Hernandez,669357,Nolan Gorman,L,Jason Delay,641511,6,4,8,False,2023-09-03,Stolen,3B,2023,2024, 77.4, 0.60
+72,1B,2B,Stolen Base 2B,663457,Lars Nootbaar,669796,Jose E. Hernandez,669357,Nolan Gorman,L,Jason Delay,641511,6,4,8,False,2023-09-03,Stolen,2B,2023,2024, 77.4, 0.60
+73,1B,2B,Stolen Base 2B,641355,Cody Bellinger,663559,Bailey Falter,673548,Seiya Suzuki,L,Jason Delay,641511,0,1,1,True,2023-08-27,Stolen,2B,2023,2024, 77.4, 0.60
+74,2B,3B,Stolen Base 3B,663538,Nico Hoerner,663559,Bailey Falter,641355,Cody Bellinger,L,Jason Delay,641511,1,5,5,True,2023-08-27,Stolen,3B,2023,2024, 77.4, 0.60
+75,1B,2B,Stolen Base 2B,621020,Dansby Swanson,663559,Bailey Falter,641355,Cody Bellinger,L,Jason Delay,641511,1,5,5,True,2023-08-27,Stolen,2B,2023,2024, 77.4, 0.60
+76,1B,2B,Stolen Base 2B,691026,Masyn Winn,669796,Jose E. Hernandez,669242,Tommy Edman,L,Jason Delay,641511,3,5,7,True,2023-08-23,Stolen,2B,2023,2024, 77.4, 0.60
+77,1B,2B,Stolen Base 2B,593871,Jorge Polanco,656605,Mitch Keller,621043,Carlos Correa,R,Jason Delay,641511,0,0,1,False,2023-08-19,Stolen,2B,2023,2024, 77.4, 0.60
+78,2B,3B,Stolen Base 3B,668715,Spencer Steer,656605,Mitch Keller,687952,Christian Encarnacion-Strand,R,Jason Delay,641511,0,0,2,True,2023-08-13,Stolen,3B,2023,2024, 77.4, 0.60
+79,1B,2B,Stolen Base 2B,666181,Will Benson,656605,Mitch Keller,656413,Stuart Fairchild,R,Jason Delay,641511,0,1,5,True,2023-08-13,Stolen,2B,2023,2024, 77.4, 0.60
+80,1B,2B,Stolen Base 2B,670770,TJ Friedl,622780,Angel Perdomo,680574,Matt McLain,L,Jason Delay,641511,1,2,7,True,2023-08-13,Stolen,2B,2023,2024, 77.4, 0.60
+81,1B,2B,Stolen Base 2B,645277,Ozzie Albies,663559,Bailey Falter,663586,Austin Riley,L,Jason Delay,641511,0,1,1,True,2023-08-10,Stolen,2B,2023,2024, 77.4, 0.60
+82,1B,2B,Stolen Base 2B,671739,Michael Harris II,670059,Colin Holderman,660670,Ronald Acuña Jr.,R,Jason Delay,641511,7,5,9,True,2023-08-10,Stolen,2B,2023,2024, 77.4, 0.60
+83,1B,2B,Stolen Base 2B,592885,Christian Yelich,663559,Bailey Falter,467793,Carlos Santana,L,Jason Delay,641511,0,0,1,False,2023-08-05,Stolen,2B,2023,2024, 77.4, 0.60
+84,1B,2B,Stolen Base 2B,686217,Sal Frelick,670280,David Bednar,605170,Victor Caratini,R,Jason Delay,641511,2,2,9,False,2023-08-05,Stolen,2B,2023,2024, 77.4, 0.60
+85,1B,2B,Stolen Base 2B,670097,Zack Short,621366,Ryan Borucki,606992,Eric Haase,L,Jason Delay,641511,1,4,4,True,2023-08-02,Stolen,2B,2023,2024, 77.4, 0.60
+86,1B,2B,Stolen Base 2B,624424,Michael Conforto,674370,Osvaldo Bido,573262,Mike Yastrzemski,R,Jason Delay,641511,0,0,1,True,2023-07-16,Stolen,2B,2023,2024, 77.4, 0.60
+87,1B,2B,Stolen Base 2B,624424,Michael Conforto,448179,Rich Hill,605204,J.D. Davis,L,Jason Delay,641511,0,2,5,True,2023-07-14,Stolen,2B,2023,2024, 77.4, 0.60
+88,1B,2B,Stolen Base 2B,672275,Patrick Bailey,621366,Ryan Borucki,592626,Joc Pederson,L,Jason Delay,641511,4,5,7,True,2023-07-14,Stolen,2B,2023,2024, 77.4, 0.60
+89,1B,2B,Stolen Base 2B,682641,Luis Matos,621366,Ryan Borucki,669477,Casey Schmitt,L,Jason Delay,641511,4,6,7,True,2023-07-14,Stolen,2B,2023,2024, 77.4, 0.60
+90,1B,,Caught Stealing 2B,689172,Brett Wisely,660787,Yerry De Los Santos,605204,J.D. Davis,R,Jason Delay,641511,4,6,9,True,2023-07-14,Caught,2B,2023,2024, 77.4, 0.60
+91,1B,2B,Stolen Base 2B,672695,Geraldo Perdomo,670059,Colin Holderman,572233,Christian Walker,R,Jason Delay,641511,1,1,8,False,2023-07-08,Stolen,2B,2023,2024, 77.4, 0.60
+92,1B,2B,Stolen Base 2B,518692,Freddie Freeman,622780,Angel Perdomo,571970,Max Muncy,L,Jason Delay,641511,5,2,7,False,2023-07-06,Stolen,2B,2023,2024, 77.4, 0.60
+93,1B,,Caught Stealing 2B,686894,Joey Wiemer,622780,Angel Perdomo,606132,Raimel Tapia,L,Jason Delay,641511,3,4,6,True,2023-06-30,Caught,2B,2023,2024, 77.4, 0.60
+94,1B,,Caught Stealing 2B,673548,Seiya Suzuki,448179,Rich Hill,641820,Trey Mancini,L,Jason Delay,641511,0,0,1,True,2023-06-21,Caught,2B,2023,2024, 77.4, 0.60
+95,1B,2B,Stolen Base 2B,663611,Nick Madrigal,660787,Yerry De Los Santos,663538,Nico Hoerner,R,Jason Delay,641511,3,8,8,True,2023-06-21,Stolen,2B,2023,2024, 77.4, 0.60
+96,1B,2B,Stolen Base 2B,641355,Cody Bellinger,622780,Angel Perdomo,663611,Nick Madrigal,L,Jason Delay,641511,0,4,9,True,2023-06-20,Stolen,2B,2023,2024, 77.4, 0.60
+97,1B,2B,Stolen Base 2B,663611,Nick Madrigal,621366,Ryan Borucki,643565,Mike Tauchman,L,Jason Delay,641511,0,4,7,True,2023-06-19,Stolen,2B,2023,2024, 77.4, 0.60
+98,1B,2B,Stolen Base 2B,664023,Ian Happ,670990,Yohan Ramírez,621020,Dansby Swanson,R,Jason Delay,641511,0,5,7,True,2023-06-19,Stolen,2B,2023,2024, 77.4, 0.60
+99,1B,2B,Stolen Base 2B,663538,Nico Hoerner,670912,Johan Oviedo,673548,Seiya Suzuki,R,Jason Delay,641511,0,2,3,False,2023-06-15,Stolen,2B,2023,2024, 77.4, 0.60
+100,1B,2B,Stolen Base 2B,663611,Nick Madrigal,670912,Johan Oviedo,643565,Mike Tauchman,R,Jason Delay,641511,1,2,4,False,2023-06-15,Stolen,2B,2023,2024, 77.4, 0.60
+101,1B,2B,Stolen Base 2B,571466,Tucker Barnhart,669796,Jose E. Hernandez,643565,Mike Tauchman,L,Jason Delay,641511,5,2,5,False,2023-06-15,Stolen,2B,2023,2024, 77.4, 0.60
+102,1B,2B,Stolen Base 2B,516782,Starling Marte,670912,Johan Oviedo,683146,Brett Baty,R,Jason Delay,641511,1,1,7,True,2023-06-10,Stolen,2B,2023,2024, 77.4, 0.60
+103,1B,2B,Stolen Base 2B,502054,Tommy Pham,622780,Angel Perdomo,592192,Mark Canha,L,Jason Delay,641511,1,5,9,True,2023-06-10,Stolen,2B,2023,2024, 77.4, 0.60
+104,1B,2B,Stolen Base 2B,657656,Ramón Laureano,682847,Luis L. Ortiz,607054,Jace Peterson,R,Jason Delay,641511,1,7,4,True,2023-06-07,Stolen,2B,2023,2024, 77.4, 0.60
+105,1B,2B,Stolen Base 2B,668709,JJ Bleday,682847,Luis L. Ortiz,669127,Shea Langeliers,R,Jason Delay,641511,3,7,6,True,2023-06-07,Stolen,2B,2023,2024, 77.4, 0.60
+106,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,672710,Roansy Contreras,608596,Tom Murphy,R,Jason Delay,641511,3,1,6,False,2023-05-28,Stolen,2B,2023,2024, 77.4, 0.60
+107,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,664294,Dauri Moreta,672284,Jarred Kelenic,R,Jason Delay,641511,4,0,7,False,2023-05-27,Stolen,2B,2023,2024, 77.4, 0.60
+108,1B,2B,Stolen Base 2B,641680,Jonah Heim,670912,Johan Oviedo,669701,Josh Smith,R,Jason Delay,641511,0,3,1,True,2023-05-24,Stolen,2B,2023,2024, 77.4, 0.60
+109,1B,2B,Stolen Base 2B,682998,Corbin Carroll,672710,Roansy Contreras,572233,Christian Walker,R,Jason Delay,641511,1,2,3,True,2023-05-21,Stolen,2B,2023,2024, 77.4, 0.60
+110,1B,2B,Stolen Base 2B,682998,Corbin Carroll,670990,Yohan Ramírez,572233,Christian Walker,R,Jason Delay,641511,3,8,9,True,2023-05-21,Stolen,2B,2023,2024, 77.4, 0.60
+111,1B,,Caught Stealing 2B,624428,Adam Frazier,670912,Johan Oviedo,683002,Gunnar Henderson,R,Jason Delay,641511,0,1,4,False,2023-05-12,Caught,2B,2023,2024, 77.4, 0.60
+112,2B,3B,Stolen Base 3B,593160,Whit Merrifield,448179,Rich Hill,662139,Daulton Varsho,L,Jason Delay,641511,0,2,4,True,2023-05-05,Stolen,3B,2023,2024, 77.4, 0.60
+113,1B,2B,Stolen Base 2B,593160,Whit Merrifield,448179,Rich Hill,662139,Daulton Varsho,L,Jason Delay,641511,0,4,6,True,2023-05-05,Stolen,2B,2023,2024, 77.4, 0.60
+114,2B,3B,Stolen Base 3B,593160,Whit Merrifield,664294,Dauri Moreta,643376,Danny Jansen,R,Jason Delay,641511,0,4,6,True,2023-05-05,Stolen,3B,2023,2024, 77.4, 0.60
+115,1B,2B,Stolen Base 2B,662139,Daulton Varsho,664294,Dauri Moreta,643376,Danny Jansen,R,Jason Delay,641511,0,4,6,True,2023-05-05,Stolen,2B,2023,2024, 77.4, 0.60
+116,1B,,Caught Stealing 2B,666139,Josh Lowe,621249,Duane Underwood Jr.,670623,Isaac Paredes,R,Jason Delay,641511,2,0,6,False,2023-05-04,Caught,2B,2023,2024, 77.4, 0.60
+117,1B,,Caught Stealing 2B,668227,Randy Arozarena,596112,Robert Stephenson,666139,Josh Lowe,R,Jason Delay,641511,3,0,8,False,2023-05-04,Caught,2B,2023,2024, 77.4, 0.60
+118,1B,2B,Stolen Base 2B,669743,Alex Call,592826,Vince Velasquez,608841,Joey Meneses,R,Jason Delay,641511,0,1,1,False,2023-04-29,Stolen,2B,2023,2024, 77.4, 0.60
+119,1B,2B,Stolen Base 2B,669743,Alex Call,592826,Vince Velasquez,608841,Joey Meneses,R,Jason Delay,641511,0,1,1,False,2023-04-28,Stolen,2B,2023,2024, 77.4, 0.60
+120,1B,2B,Stolen Base 2B,678246,Miguel Vargas,672710,Roansy Contreras,621035,Chris Taylor,R,Jason Delay,641511,0,0,5,True,2023-04-26,Stolen,2B,2023,2024, 77.4, 0.60
+121,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,672710,Roansy Contreras,571448,Nolan Arenado,R,Jason Delay,641511,1,1,1,False,2023-04-15,Stolen,2B,2023,2024, 77.4, 0.60
+122,1B,2B,Stolen Base 2B,680977,Brendan Donovan,672710,Roansy Contreras,502671,Paul Goldschmidt,R,Jason Delay,641511,2,2,3,False,2023-04-15,Stolen,2B,2023,2024, 77.4, 0.60
+123,1B,2B,Stolen Base 2B,663457,Lars Nootbaar,672710,Roansy Contreras,669242,Tommy Edman,R,Jason Delay,641511,2,2,4,False,2023-04-15,Stolen,2B,2023,2024, 77.4, 0.60
+124,2B,3B,Stolen Base 3B,680977,Brendan Donovan,672710,Roansy Contreras,502671,Paul Goldschmidt,R,Jason Delay,641511,2,2,5,False,2023-04-15,Stolen,3B,2023,2024, 77.4, 0.60
+125,2B,3B,Stolen Base 3B,575929,Willson Contreras,592826,Vince Velasquez,641933,Tyler O'Neill,R,Jason Delay,641511,0,0,4,False,2023-04-13,Stolen,3B,2023,2024, 77.4, 0.60
+126,1B,2B,Stolen Base 2B,669357,Nolan Gorman,592826,Vince Velasquez,641933,Tyler O'Neill,R,Jason Delay,641511,0,0,4,False,2023-04-13,Stolen,2B,2023,2024, 77.4, 0.60
+127,1B,2B,Stolen Base 2B,663656,Kyle Tucker,656605,Mitch Keller,643289,Mauricio Dubón,R,Jason Delay,641511,2,2,4,True,2023-04-11,Stolen,2B,2023,2024, 77.4, 0.60
+128,1B,2B,Stolen Base 2B,693049,Oscar Colás,592826,Vince Velasquez,462101,Elvis Andrus,R,Jason Delay,641511,1,1,2,True,2023-04-08,Stolen,2B,2023,2024, 77.4, 0.60
+129,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,592826,Vince Velasquez,660162,Yoán Moncada,R,Jason Delay,641511,1,2,3,True,2023-04-08,Stolen,2B,2023,2024, 77.4, 0.60
+130,1B,2B,Stolen Base 2B,641313,Tim Anderson,621249,Duane Underwood Jr.,673357,Luis Robert Jr.,R,Jason Delay,641511,4,11,7,True,2023-04-08,Stolen,2B,2023,2024, 77.4, 0.60
+131,2B,3B,Stolen Base 3B,641313,Tim Anderson,448179,Rich Hill,683734,Andrew Vaughn,L,Jason Delay,641511,0,1,1,True,2023-04-07,Stolen,3B,2023,2024, 77.4, 0.60
+132,1B,2B,Stolen Base 2B,641313,Tim Anderson,448179,Rich Hill,673357,Luis Robert Jr.,L,Jason Delay,641511,7,7,5,True,2023-04-07,Stolen,2B,2023,2024, 77.4, 0.60
+133,1B,2B,Stolen Base 2B,624414,Christian Arroyo,656605,Mitch Keller,606132,Raimel Tapia,R,Jason Delay,641511,1,4,7,False,2023-04-05,Stolen,2B,2023,2024, 77.4, 0.60

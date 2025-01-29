@@ -1,0 +1,34 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3597,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,600917,José Leclerc,621028,Kevin Newman,R,Jeff Mathis,425772,5,4,8,False,2019-05-07,Stolen,2B,2019,2020,24.5
+1,6440,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,600917,José Leclerc,621028,Kevin Newman,R,Jeff Mathis,425772,5,4,8,False,2019-05-07,Stolen,2B,2019,2020,24.5
+2,8364,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,600917,José Leclerc,621028,Kevin Newman,R,Jeff Mathis,425772,5,4,8,False,2019-05-07,Stolen,2B,2019,2020,24.5
+3,3182,1B,,Caught Stealing 2B,465041,Francisco Cervelli,592662,Robbie Ray,474568,Jordy Mercer,L,Chris Herrmann,543302,2,4,3,True,2017-05-14,Caught,2B,2017,2018,25.8
+4,3585,1B,,Caught Stealing 2B,465041,Francisco Cervelli,543557,Mike Montgomery,591741,José Osuna,L,Willson Contreras,575929,6,3,7,False,2017-04-26,Caught,2B,2017,2018,25.8
+5,2554,1B,,Caught Stealing 2B,465041,Francisco Cervelli,592662,Robbie Ray,474568,Jordy Mercer,L,Chris Herrmann,543302,2,4,3,True,2017-05-14,Caught,2B,2017,2018,25.8
+6,2957,1B,,Caught Stealing 2B,465041,Francisco Cervelli,543557,Mike Montgomery,591741,José Osuna,L,Willson Contreras,575929,6,3,7,False,2017-04-26,Caught,2B,2017,2018,25.8
+7,4341,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,572102,Keyvius Sampson,446481,Sean Rodríguez,R,Tucker Barnhart,571466,3,6,5,True,2016-09-17,Stolen,2B,2016,2017,25.3
+8,4972,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,451661,Josh Fields,474568,Jordy Mercer,R,A.J. Ellis,454560,2,3,3,True,2016-08-13,Stolen,2B,2016,2017,25.3
+9,5512,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,448855,Junior Guerra,543281,Josh Harrison,R,Jonathan Lucroy,518960,2,1,4,False,2016-07-19,Stolen,2B,2016,2017,25.3
+10,6397,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,506433,Yu Darvish,474568,Jordy Mercer,R,Bobby Wilson,435064,4,0,5,True,2016-05-28,Stolen,2B,2016,2017,25.3
+11,6619,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,543017,Hunter Cervenka,459964,Matt Joyce,L,A.J. Pierzynski,150229,12,9,8,False,2016-05-17,Stolen,2B,2016,2017,25.3
+12,6737,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,572102,Keyvius Sampson,446481,Sean Rodríguez,R,Tucker Barnhart,571466,3,6,5,True,2016-05-10,Stolen,2B,2016,2017,25.3
+13,6997,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,407822,Jorge De La Rosa,543281,Josh Harrison,L,Tony Wolters,547172,1,4,3,True,2016-04-26,Stolen,2B,2016,2017,25.3
+14,7211,1B,,Caught Stealing 2B,465041,Francisco Cervelli,543380,Taylor Jungmann,570256,Gregory Polanco,R,Jonathan Lucroy,518960,4,0,6,False,2016-04-16,Caught,2B,2016,2017,25.3
+15,306,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,572102,Keyvius Sampson,446481,Sean Rodríguez,R,Tucker Barnhart,571466,3,6,5,True,2016-09-17,Stolen,2B,2016,2017,25.3
+16,937,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,451661,Josh Fields,474568,Jordy Mercer,R,A.J. Ellis,454560,2,3,3,True,2016-08-13,Stolen,2B,2016,2017,25.3
+17,1477,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,448855,Junior Guerra,543281,Josh Harrison,R,Jonathan Lucroy,518960,2,1,4,False,2016-07-19,Stolen,2B,2016,2017,25.3
+18,2362,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,506433,Yu Darvish,474568,Jordy Mercer,R,Bobby Wilson,435064,4,0,5,True,2016-05-28,Stolen,2B,2016,2017,25.3
+19,2584,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,543017,Hunter Cervenka,459964,Matt Joyce,L,A.J. Pierzynski,150229,12,9,8,False,2016-05-17,Stolen,2B,2016,2017,25.3
+20,2702,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,572102,Keyvius Sampson,446481,Sean Rodríguez,R,Tucker Barnhart,571466,3,6,5,True,2016-05-10,Stolen,2B,2016,2017,25.3
+21,2962,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,407822,Jorge De La Rosa,543281,Josh Harrison,L,Tony Wolters,547172,1,4,3,True,2016-04-26,Stolen,2B,2016,2017,25.3
+22,3176,1B,,Caught Stealing 2B,465041,Francisco Cervelli,543380,Taylor Jungmann,570256,Gregory Polanco,R,Jonathan Lucroy,518960,4,0,6,False,2016-04-16,Caught,2B,2016,2017,25.3
+23,3713,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,572102,Keyvius Sampson,446481,Sean Rodríguez,R,Tucker Barnhart,571466,3,6,5,True,2016-09-17,Stolen,2B,2016,2017,25.3
+24,4344,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,451661,Josh Fields,474568,Jordy Mercer,R,A.J. Ellis,454560,2,3,3,True,2016-08-13,Stolen,2B,2016,2017,25.3
+25,4884,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,448855,Junior Guerra,543281,Josh Harrison,R,Jonathan Lucroy,518960,2,1,4,False,2016-07-19,Stolen,2B,2016,2017,25.3
+26,5769,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,506433,Yu Darvish,474568,Jordy Mercer,R,Bobby Wilson,435064,4,0,5,True,2016-05-28,Stolen,2B,2016,2017,25.3
+27,5991,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,543017,Hunter Cervenka,459964,Matt Joyce,L,A.J. Pierzynski,150229,12,9,8,False,2016-05-17,Stolen,2B,2016,2017,25.3
+28,6109,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,572102,Keyvius Sampson,446481,Sean Rodríguez,R,Tucker Barnhart,571466,3,6,5,True,2016-05-10,Stolen,2B,2016,2017,25.3
+29,6369,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,407822,Jorge De La Rosa,543281,Josh Harrison,L,Tony Wolters,547172,1,4,3,True,2016-04-26,Stolen,2B,2016,2017,25.3
+30,6583,1B,,Caught Stealing 2B,465041,Francisco Cervelli,543380,Taylor Jungmann,570256,Gregory Polanco,R,Jonathan Lucroy,518960,4,0,6,False,2016-04-16,Caught,2B,2016,2017,25.3
+31,814,2B,3B,Stolen Base 3B,465041,Francisco Cervelli,543380,Taylor Jungmann,434538,Francisco Liriano,R,Jonathan Lucroy,518960,1,1,2,False,2015-06-09,Stolen,3B,2015,2016,25.7
+32,2061,1B,,Caught Stealing 2B,465041,Francisco Cervelli,519076,Jimmy Nelson,516782,Starling Marte,R,Jonathan Lucroy,518960,0,0,1,True,2015-04-11,Caught,2B,2015,2016,25.7

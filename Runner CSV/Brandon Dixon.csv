@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+826,1B,,Caught Stealing 2B,641525,Brandon Dixon,Meibrys Viloria,0,2,5,False,2019-08-10,Caught,2B,2019
+908,1B,2B,Stolen Base 2B,641525,Brandon Dixon,Jeff Mathis,2,0,2,True,2019-08-04,Stolen,2B,2019
+1083,1B,2B,Stolen Base 2B,641525,Brandon Dixon,Andrew Knapp,0,1,4,False,2019-07-24,Stolen,2B,2019
+1835,1B,2B,Stolen Base 2B,641525,Brandon Dixon,Travis d'Arnaud,1,1,1,False,2019-06-06,Stolen,2B,2019
+1936,1B,2B,Stolen Base 2B,641525,Brandon Dixon,Brian McCann,1,2,4,True,2019-05-31,Stolen,2B,2019
+2031,1B,2B,Stolen Base 2B,641525,Brandon Dixon,Wilson Ramos,4,3,9,True,2019-05-26,Stolen,2B,2019
+2945,1B,2B,Stolen Base 2B,641525,Brandon Dixon,Kyle Higashioka,1,4,8,True,2023-05-26,Stolen,2B,2023

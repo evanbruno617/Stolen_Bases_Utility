@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+89,2B,,Caught Stealing 3B,150067,Chris Truby,Jason Kendall,0,2,2,True,2000-09-27,Caught,3B,2000
+324,1B,2B,Stolen Base 2B,150067,Chris Truby,Jason Kendall,9,4,5,False,2000-09-16,Stolen,2B,2000
+777,1B,2B,Stolen Base 2B,150067,Chris Truby,Mike Piazza,1,6,5,True,2000-08-29,Stolen,2B,2000
+956,3B,,Caught Stealing Home,150067,Chris Truby,Charles Johnson,4,2,6,False,2001-04-28,Caught,Home,2001
+1363,1B,2B,Stolen Base 2B,150067,Chris Truby,Henry Blanco,0,0,3,True,2001-04-10,Stolen,2B,2001
+1472,1B,,Caught Stealing 2B,150067,Chris Truby,Raul Casanova,5,2,4,False,2001-04-04,Caught,2B,2001
+2051,1B,,Caught Stealing 2B,150067,Chris Truby,Henry Blanco,0,2,8,True,2002-06-20,Caught,2B,2002
+2209,1B,2B,Stolen Base 2B,150067,Chris Truby,Brian Schneider,0,0,3,False,2002-06-12,Stolen,2B,2002
+3857,1B,2B,Stolen Base 2B,150067,Chris Truby,Kelly Stinnett,0,2,2,True,2002-04-05,Stolen,2B,2002
+3874,1B,,Caught Stealing 2B,150067,Chris Truby,Mike Redmond,0,0,2,False,2002-04-04,Caught,2B,2002

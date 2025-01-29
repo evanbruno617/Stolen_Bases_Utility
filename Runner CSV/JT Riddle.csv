@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1902,3B,,Caught Stealing Home,595375,JT Riddle,Kurt Suzuki,0,0,3,True,2017-06-18,Caught,Home,2017
+2452,3B,,Caught Stealing Home,595375,JT Riddle,Yasmani Grandal,0,7,3,True,2017-05-20,Caught,Home,2017
+305,2B,,Caught Stealing 3B,595375,JT Riddle,Wilson Ramos,0,4,2,True,2018-09-15,Caught,3B,2018
+647,1B,,Caught Stealing 2B,595375,JT Riddle,Sandy León,2,3,4,True,2018-08-29,Caught,2B,2018
+1718,1B,,Caught Stealing 2B,595375,JT Riddle,Devin Mesoraco,5,2,8,False,2018-06-30,Caught,2B,2018
+511,1B,2B,Stolen Base 2B,595375,JT Riddle,Willson Contreras,4,2,6,False,2020-09-03,Stolen,2B,2020

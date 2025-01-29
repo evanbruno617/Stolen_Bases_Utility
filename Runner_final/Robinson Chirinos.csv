@@ -1,0 +1,12 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1525,1B,2B,Stolen Base 2B,455139,Robinson Chirinos,543557,Mike Montgomery,647351,Abraham Toro,L,Meibrys Viloria,650619,1,1,4,True,2019-09-14,Stolen,2B,2019,2020,23.3
+1,2727,3B,,Caught Stealing Home,455139,Robinson Chirinos,642607,Dario Agrazal,608324,Alex Bregman,R,Elias Díaz,553869,1,6,3,False,2019-06-26,Caught,Home,2019,2020,23.3
+2,4368,1B,2B,Stolen Base 2B,455139,Robinson Chirinos,543557,Mike Montgomery,647351,Abraham Toro,L,Meibrys Viloria,650619,1,1,4,True,2019-09-14,Stolen,2B,2019,2020,23.3
+3,5570,3B,,Caught Stealing Home,455139,Robinson Chirinos,642607,Dario Agrazal,608324,Alex Bregman,R,Elias Díaz,553869,1,6,3,False,2019-06-26,Caught,Home,2019,2020,23.3
+4,6292,1B,2B,Stolen Base 2B,455139,Robinson Chirinos,543557,Mike Montgomery,647351,Abraham Toro,L,Meibrys Viloria,650619,1,1,4,True,2019-09-14,Stolen,2B,2019,2020,23.3
+5,7494,3B,,Caught Stealing Home,455139,Robinson Chirinos,642607,Dario Agrazal,608324,Alex Bregman,R,Elias Díaz,553869,1,6,3,False,2019-06-26,Caught,Home,2019,2020,23.3
+6,2249,1B,2B,Stolen Base 2B,455139,Robinson Chirinos,500779,Jose Quintana,592261,Delino DeShields,L,Kevan Smith,607345,4,3,4,True,2017-07-02,Stolen,2B,2017,2018,25.3
+7,1621,1B,2B,Stolen Base 2B,455139,Robinson Chirinos,500779,Jose Quintana,592261,Delino DeShields,L,Kevan Smith,607345,4,3,4,True,2017-07-02,Stolen,2B,2017,2018,25.3
+8,5313,1B,,Caught Stealing 2B,455139,Robinson Chirinos,570649,Yordano Ventura,592261,Delino DeShields,R,Drew Butera,460077,1,1,3,False,2016-07-28,Caught,2B,2016,2017,24.7
+9,1278,1B,,Caught Stealing 2B,455139,Robinson Chirinos,570649,Yordano Ventura,592261,Delino DeShields,R,Drew Butera,460077,1,1,3,False,2016-07-28,Caught,2B,2016,2017,24.7
+10,4685,1B,,Caught Stealing 2B,455139,Robinson Chirinos,570649,Yordano Ventura,592261,Delino DeShields,R,Drew Butera,460077,1,1,3,False,2016-07-28,Caught,2B,2016,2017,24.7

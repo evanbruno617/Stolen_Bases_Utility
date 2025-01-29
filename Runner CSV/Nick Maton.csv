@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2130,1B,2B,Stolen Base 2B,665155,Nick Maton,Danny Jansen,9,6,8,True,2021-05-16,Stolen,2B,2021
+2186,1B,2B,Stolen Base 2B,665155,Nick Maton,Alex Avila,2,5,10,True,2021-05-12,Stolen,2B,2021
+1542,1B,2B,Stolen Base 2B,665155,Nick Maton,Nick Fortes,4,1,7,True,2023-07-28,Stolen,2B,2023
+2223,1B,,Caught Stealing 2B,665155,Nick Maton,Ryan Jeffers,3,2,4,False,2023-06-25,Caught,2B,2023
+2749,1B,,Caught Stealing 2B,665155,Nick Maton,Yasmani Grandal,0,0,2,True,2023-06-03,Caught,2B,2023

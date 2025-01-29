@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,936,1B,,Caught Stealing 2B,592239,Todd Cunningham,523989,Rubby De La Rosa,542194,Christian Bethancourt,R,Jarrod Saltalamacchia,457454,3,7,5,True,2015-06-03,Caught,2B,2015,2016,28.1
+1,972,2B,3B,Stolen Base 3B,592239,Todd Cunningham,424144,Oliver Pérez,607054,Jace Peterson,L,Jarrod Saltalamacchia,457454,1,6,6,True,2015-06-01,Stolen,3B,2015,2016,28.1
+2,1323,1B,2B,Stolen Base 2B,592239,Todd Cunningham,457768,Bryan Morris,542194,Christian Bethancourt,R,J.T. Realmuto,592663,3,5,8,True,2015-05-15,Stolen,2B,2015,2016,28.1

@@ -1,0 +1,40 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1922,1B,2B,Stolen Base 2B,452254,Hunter Pence,472610,Luis García,641432,Willie Calhoun,R,Max Stassi,545358,6,7,7,False,2019-08-21,Stolen,2B,2019,2020,27.8
+1,2039,1B,2B,Stolen Base 2B,452254,Hunter Pence,571882,Derek Law,596059,Rougned Odor,R,Reese McGuire,624512,3,0,8,True,2019-08-13,Stolen,2B,2019,2020,27.8
+2,2231,1B,2B,Stolen Base 2B,452254,Hunter Pence,657024,Erik Swanson,596059,Rougned Odor,R,Omar Narváez,553882,9,7,8,False,2019-07-31,Stolen,2B,2019,2020,27.8
+3,3057,1B,2B,Stolen Base 2B,452254,Hunter Pence,621112,Paul Blackburn,452678,Asdrúbal Cabrera,R,Josh Phegley,572033,3,0,1,False,2019-06-08,Stolen,2B,2019,2020,27.8
+4,3235,1B,2B,Stolen Base 2B,452254,Hunter Pence,594835,Marco Gonzales,608577,Nomar Mazara,L,Omar Narváez,553882,0,2,1,True,2019-05-28,Stolen,2B,2019,2020,27.8
+5,3236,2B,score,Stolen Base 2B,452254,Hunter Pence,594835,Marco Gonzales,608577,Nomar Mazara,L,Omar Narváez,553882,0,2,1,True,2019-05-28,Stolen,2B,2019,2020,27.8
+6,3981,1B,2B,Stolen Base 2B,452254,Hunter Pence,621112,Paul Blackburn,452678,Asdrúbal Cabrera,R,Josh Phegley,572033,3,0,1,False,2019-04-13,Stolen,2B,2019,2020,27.8
+7,4765,1B,2B,Stolen Base 2B,452254,Hunter Pence,472610,Luis García,641432,Willie Calhoun,R,Max Stassi,545358,6,7,7,False,2019-08-21,Stolen,2B,2019,2020,27.8
+8,4882,1B,2B,Stolen Base 2B,452254,Hunter Pence,571882,Derek Law,596059,Rougned Odor,R,Reese McGuire,624512,3,0,8,True,2019-08-13,Stolen,2B,2019,2020,27.8
+9,5074,1B,2B,Stolen Base 2B,452254,Hunter Pence,657024,Erik Swanson,596059,Rougned Odor,R,Omar Narváez,553882,9,7,8,False,2019-07-31,Stolen,2B,2019,2020,27.8
+10,5900,1B,2B,Stolen Base 2B,452254,Hunter Pence,621112,Paul Blackburn,452678,Asdrúbal Cabrera,R,Josh Phegley,572033,3,0,1,False,2019-06-08,Stolen,2B,2019,2020,27.8
+11,6078,1B,2B,Stolen Base 2B,452254,Hunter Pence,594835,Marco Gonzales,608577,Nomar Mazara,L,Omar Narváez,553882,0,2,1,True,2019-05-28,Stolen,2B,2019,2020,27.8
+12,6079,2B,score,Stolen Base 2B,452254,Hunter Pence,594835,Marco Gonzales,608577,Nomar Mazara,L,Omar Narváez,553882,0,2,1,True,2019-05-28,Stolen,2B,2019,2020,27.8
+13,6824,1B,2B,Stolen Base 2B,452254,Hunter Pence,621112,Paul Blackburn,452678,Asdrúbal Cabrera,R,Josh Phegley,572033,3,0,1,False,2019-04-13,Stolen,2B,2019,2020,27.8
+14,6689,1B,2B,Stolen Base 2B,452254,Hunter Pence,472610,Luis García,641432,Willie Calhoun,R,Max Stassi,545358,6,7,7,False,2019-08-21,Stolen,2B,2019,2020,27.8
+15,6806,1B,2B,Stolen Base 2B,452254,Hunter Pence,571882,Derek Law,596059,Rougned Odor,R,Reese McGuire,624512,3,0,8,True,2019-08-13,Stolen,2B,2019,2020,27.8
+16,6998,1B,2B,Stolen Base 2B,452254,Hunter Pence,657024,Erik Swanson,596059,Rougned Odor,R,Omar Narváez,553882,9,7,8,False,2019-07-31,Stolen,2B,2019,2020,27.8
+17,7824,1B,2B,Stolen Base 2B,452254,Hunter Pence,621112,Paul Blackburn,452678,Asdrúbal Cabrera,R,Josh Phegley,572033,3,0,1,False,2019-06-08,Stolen,2B,2019,2020,27.8
+18,8002,1B,2B,Stolen Base 2B,452254,Hunter Pence,594835,Marco Gonzales,608577,Nomar Mazara,L,Omar Narváez,553882,0,2,1,True,2019-05-28,Stolen,2B,2019,2020,27.8
+19,8003,2B,score,Stolen Base 2B,452254,Hunter Pence,594835,Marco Gonzales,608577,Nomar Mazara,L,Omar Narváez,553882,0,2,1,True,2019-05-28,Stolen,2B,2019,2020,27.8
+20,8748,1B,2B,Stolen Base 2B,452254,Hunter Pence,621112,Paul Blackburn,452678,Asdrúbal Cabrera,R,Josh Phegley,572033,3,0,1,False,2019-04-13,Stolen,2B,2019,2020,27.8
+21,478,1B,2B,Stolen Base 2B,452254,Hunter Pence,445276,Kenley Jansen,543063,Brandon Crawford,R,Yasmani Grandal,518735,1,2,10,False,2018-04-08,Stolen,2B,2018,2019,28.6
+22,1251,1B,,Caught Stealing 2B,452254,Hunter Pence,605169,Carter Capps,592620,Jarrett Parker,R,Héctor Sánchez,516949,0,3,9,True,2017-08-28,Caught,2B,2017,2018,28.2
+23,1892,1B,2B,Stolen Base 2B,452254,Hunter Pence,592791,Jameson Taillon,491676,Gorkys Hernández,R,Francisco Cervelli,465041,2,0,2,False,2017-07-25,Stolen,2B,2017,2018,28.2
+24,1963,1B,2B,Stolen Base 2B,452254,Hunter Pence,502239,Trevor Cahill,605412,Joe Panik,R,Héctor Sánchez,516949,5,1,3,False,2017-07-21,Stolen,2B,2017,2018,28.2
+25,2392,1B,,Caught Stealing 2B,452254,Hunter Pence,606160,Rafael Montero,474832,Brandon Belt,R,René Rivera,425784,1,3,3,False,2017-06-25,Caught,2B,2017,2018,28.2
+26,2558,1B,,Caught Stealing 2B,452254,Hunter Pence,622608,Antonio Senzatela,543063,Brandon Crawford,R,Tony Wolters,547172,1,2,4,True,2017-06-16,Caught,2B,2017,2018,28.2
+27,623,1B,,Caught Stealing 2B,452254,Hunter Pence,605169,Carter Capps,592620,Jarrett Parker,R,Héctor Sánchez,516949,0,3,9,True,2017-08-28,Caught,2B,2017,2018,28.2
+28,1264,1B,2B,Stolen Base 2B,452254,Hunter Pence,592791,Jameson Taillon,491676,Gorkys Hernández,R,Francisco Cervelli,465041,2,0,2,False,2017-07-25,Stolen,2B,2017,2018,28.2
+29,1335,1B,2B,Stolen Base 2B,452254,Hunter Pence,502239,Trevor Cahill,605412,Joe Panik,R,Héctor Sánchez,516949,5,1,3,False,2017-07-21,Stolen,2B,2017,2018,28.2
+30,1764,1B,,Caught Stealing 2B,452254,Hunter Pence,606160,Rafael Montero,474832,Brandon Belt,R,René Rivera,425784,1,3,3,False,2017-06-25,Caught,2B,2017,2018,28.2
+31,1930,1B,,Caught Stealing 2B,452254,Hunter Pence,622608,Antonio Senzatela,543063,Brandon Crawford,R,Tony Wolters,547172,1,2,4,True,2017-06-16,Caught,2B,2017,2018,28.2
+32,4390,1B,2B,Stolen Base 2B,452254,Hunter Pence,543272,Brad Hand,474832,Brandon Belt,L,Derek Norris,519083,1,3,7,False,2016-09-14,Stolen,2B,2016,2017,28.6
+33,4500,1B,,Caught Stealing 2B,452254,Hunter Pence,407822,Jorge De La Rosa,491676,Gorkys Hernández,L,Tom Murphy,608596,0,1,1,True,2016-09-07,Caught,2B,2016,2017,28.6
+34,355,1B,2B,Stolen Base 2B,452254,Hunter Pence,543272,Brad Hand,474832,Brandon Belt,L,Derek Norris,519083,1,3,7,False,2016-09-14,Stolen,2B,2016,2017,28.6
+35,465,1B,,Caught Stealing 2B,452254,Hunter Pence,407822,Jorge De La Rosa,491676,Gorkys Hernández,L,Tom Murphy,608596,0,1,1,True,2016-09-07,Caught,2B,2016,2017,28.6
+36,3762,1B,2B,Stolen Base 2B,452254,Hunter Pence,543272,Brad Hand,474832,Brandon Belt,L,Derek Norris,519083,1,3,7,False,2016-09-14,Stolen,2B,2016,2017,28.6
+37,3872,1B,,Caught Stealing 2B,452254,Hunter Pence,407822,Jorge De La Rosa,491676,Gorkys Hernández,L,Tom Murphy,608596,0,1,1,True,2016-09-07,Caught,2B,2016,2017,28.6
+38,1109,1B,2B,Stolen Base 2B,452254,Hunter Pence,408061,Francisco Rodríguez,622110,Matt Duffy,R,Martín Maldonado,455117,4,8,9,True,2015-05-25,Stolen,2B,2015,2016,28.5

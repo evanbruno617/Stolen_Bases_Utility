@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,663,1B,,Caught Stealing 2B,681351,Logan O'Hoppe,680570,Grayson Rodriguez,683021,Michael Stefanic,R,James McCann,543510,0,0,2,False,2023-09-04,Caught,2B,2023,2024,28.1
+1,5077,1B,,Caught Stealing 2B,681351,Logan O'Hoppe,680570,Grayson Rodriguez,683021,Michael Stefanic,R,James McCann,543510,0,0,2,False,2023-09-04,Caught,2B,2023,2024,28.1

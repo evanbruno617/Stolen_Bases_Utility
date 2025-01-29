@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+88,1B,,Caught Stealing 2B,407835,Jason Lane,Robert Machado,6,5,7,False,2002-09-25,Caught,2B,2002
+233,1B,2B,Stolen Base 2B,407835,Jason Lane,Robert Machado,1,3,9,True,2002-09-18,Stolen,2B,2002
+2016,1B,2B,Stolen Base 2B,407835,Jason Lane,Josh Paul,0,0,4,False,2004-06-18,Stolen,2B,2004
+1635,1B,2B,Stolen Base 2B,407835,Jason Lane,Robert Fick,5,3,7,False,2005-07-06,Stolen,2B,2005
+2689,2B,,Caught Stealing 3B,407835,Jason Lane,Mike Matheny,3,4,8,False,2005-05-12,Caught,3B,2005
+2898,1B,,Caught Stealing 2B,407835,Jason Lane,Humberto Cota,4,4,7,False,2005-05-03,Caught,2B,2005
+3160,1B,2B,Stolen Base 2B,407835,Jason Lane,Chad Moeller,6,1,7,False,2005-04-20,Stolen,2B,2005
+3178,1B,2B,Stolen Base 2B,407835,Jason Lane,Eddie Pérez,0,1,2,False,2005-04-19,Stolen,2B,2005
+3208,1B,2B,Stolen Base 2B,407835,Jason Lane,Johnny Estrada,0,0,5,False,2005-04-18,Stolen,2B,2005
+3209,1B,2B,Stolen Base 2B,407835,Jason Lane,Johnny Estrada,0,1,12,False,2005-04-18,Stolen,2B,2005
+3276,2B,3B,Stolen Base 3B,407835,Jason Lane,Ramon Castro,1,2,5,True,2005-04-14,Stolen,3B,2005
+943,1B,2B,Stolen Base 2B,407835,Jason Lane,Josh Bard,5,2,7,True,2007-08-19,Stolen,2B,2007
+982,1B,,Caught Stealing 2B,407835,Jason Lane,Josh Bard,1,3,9,True,2007-08-17,Caught,2B,2007

@@ -1,0 +1,8 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1677,1B,2B,Stolen Base 2B,613564,Jason Vosler,676840,Matt Peacock,622072,Alex Wood,R,Carson Kelly,608348,3,1,5,False,2021-06-14,Stolen,2B,2021,2022,26.7
+1,2470,1B,2B,Stolen Base 2B,613564,Jason Vosler,542947,Richard Bleier,600303,Tommy La Stella,L,Chad Wallach,595453,4,0,5,False,2021-04-25,Stolen,2B,2021,2022,26.7
+2,3601,1B,2B,Stolen Base 2B,613564,Jason Vosler,676840,Matt Peacock,622072,Alex Wood,R,Carson Kelly,608348,3,1,5,False,2021-06-14,Stolen,2B,2021,2022,26.7
+3,4394,1B,2B,Stolen Base 2B,613564,Jason Vosler,542947,Richard Bleier,600303,Tommy La Stella,L,Chad Wallach,595453,4,0,5,False,2021-04-25,Stolen,2B,2021,2022,26.7
+4,766,1B,2B,Stolen Base 2B,613564,Jason Vosler,666129,Braxton Garrett,592200,Curt Casali,L,Jacob Stallings,607732,0,0,4,True,2022-06-05,Stolen,2B,2022,2023,26.0
+5,1631,1B,,Caught Stealing 2B,613564,Jason Vosler,656731,Tylor Megill,663698,Joey Bart,R,James McCann,543510,1,2,2,True,2022-04-19,Caught,2B,2022,2023,26.0
+6,1914,1B,2B,Stolen Base 2B,613564,Jason Vosler,663465,Kolby Allard,596103,Austin Slater,L,Jose Trevino,624431,4,1,4,False,2022-04-01,Stolen,2B,2022,2023,26.0

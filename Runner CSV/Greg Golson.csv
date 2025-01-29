@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+511,1B,2B,Stolen Base 2B,449172,Greg Golson,Wil Nieves,5,5,8,True,2008-09-03,Stolen,2B,2008
+525,1B,,Caught Stealing 2B,449172,Greg Golson,Matt Wieters,3,4,7,False,2010-09-06,Caught,2B,2010
+121,1B,2B,Stolen Base 2B,449172,Greg Golson,Jason Varitek,4,4,13,False,2011-09-25,Stolen,2B,2011
+174,1B,2B,Stolen Base 2B,449172,Greg Golson,Jason Varitek,4,4,13,False,2011-09-23,Stolen,2B,2011

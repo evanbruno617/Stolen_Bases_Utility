@@ -1,0 +1,10 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,6710,1B,2B,Stolen Base 2B,493472,Eric Campbell,628317,Kenta Maeda,425784,René Rivera,R,Yasmani Grandal,518735,2,1,5,True,2016-05-11,Stolen,2B,2016,2021,25.7
+1,2675,1B,2B,Stolen Base 2B,493472,Eric Campbell,628317,Kenta Maeda,425784,René Rivera,R,Yasmani Grandal,518735,2,1,5,True,2016-05-11,Stolen,2B,2016,2021,25.7
+2,6082,1B,2B,Stolen Base 2B,493472,Eric Campbell,628317,Kenta Maeda,425784,René Rivera,R,Yasmani Grandal,518735,2,1,5,True,2016-05-11,Stolen,2B,2016,2021,25.7
+3,368,1B,2B,Stolen Base 2B,493472,Eric Campbell,452657,Jon Lester,434158,Curtis Granderson,L,David Ross,424325,0,0,7,False,2015-07-01,Stolen,2B,2015,2016,27.7
+4,834,1B,2B,Stolen Base 2B,493472,Eric Campbell,500724,JC Ramírez,608700,Kevin Plawecki,R,Jarrod Saltalamacchia,457454,3,5,9,True,2015-06-07,Stolen,2B,2015,2016,27.7
+5,835,2B,3B,Stolen Base 3B,493472,Eric Campbell,500724,JC Ramírez,571553,Darrell Ceciliani,R,Jarrod Saltalamacchia,457454,3,6,9,True,2015-06-07,Stolen,3B,2015,2016,27.7
+6,1188,1B,,Caught Stealing 2B,493472,Eric Campbell,543037,Gerrit Cole,446263,Lucas Duda,R,Chris Stewart,455755,0,0,1,True,2015-05-22,Caught,2B,2015,2016,27.7
+7,1712,2B,3B,Stolen Base 3B,493472,Eric Campbell,518553,Steve Cishek,527038,Wilmer Flores,R,J.T. Realmuto,592663,1,3,9,True,2015-04-27,Stolen,3B,2015,2016,27.7
+8,1909,1B,2B,Stolen Base 2B,493472,Eric Campbell,502009,Mat Latos,501571,Juan Lagares,R,Jarrod Saltalamacchia,457454,1,0,2,False,2015-04-18,Stolen,2B,2015,2016,27.7

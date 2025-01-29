@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+4184,1B,2B,Stolen Base 2B,446263,Lucas Duda,Wilson Ramos,3,1,6,False,2011-04-10,Stolen,2B,2011
+758,1B,2B,Stolen Base 2B,446263,Lucas Duda,Erik Kratz,2,3,8,True,2012-08-29,Stolen,2B,2012
+2008,1B,,Caught Stealing 2B,446263,Lucas Duda,Carlos Ruiz,0,0,2,True,2013-06-21,Caught,2B,2013
+2099,1B,,Caught Stealing 2B,446263,Lucas Duda,Evan Gattis,0,0,4,True,2013-06-17,Caught,2B,2013
+2735,1B,,Caught Stealing 2B,446263,Lucas Duda,Yadier Molina,1,2,4,True,2013-05-16,Caught,2B,2013
+1396,1B,2B,Stolen Base 2B,446263,Lucas Duda,Mike Zunino,1,2,6,True,2014-07-22,Stolen,2B,2014
+1688,1B,,Caught Stealing 2B,446263,Lucas Duda,Robinson Chirinos,5,0,3,False,2014-07-06,Caught,2B,2014
+2617,1B,2B,Stolen Base 2B,446263,Lucas Duda,A.J. Ellis,5,3,8,False,2014-05-22,Stolen,2B,2014
+2946,1B,,Caught Stealing 2B,446263,Lucas Duda,Jarrod Saltalamacchia,3,3,9,True,2014-05-05,Caught,2B,2014
+3280,1B,2B,Stolen Base 2B,446263,Lucas Duda,Gerald Laird,3,3,13,False,2014-04-20,Stolen,2B,2014
+780,1B,,Caught Stealing 2B,446263,Lucas Duda,Caleb Joseph,0,1,4,True,2015-08-19,Caught,2B,2015
+1128,1B,2B,Stolen Base 2B,446263,Lucas Duda,Mitch Garver,6,5,9,True,2018-08-05,Stolen,2B,2018

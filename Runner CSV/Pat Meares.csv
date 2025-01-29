@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2110,1B,2B,Stolen Base 2B,118897,Pat Meares,Jeff Reed,1,0,5,False,2000-06-27,Stolen,2B,2000
+3176,1B,2B,Caught Stealing Home,118897,Pat Meares,Mike Piazza,1,2,2,False,2000-05-11,Caught,Home,2000
+1237,1B,,Caught Stealing 2B,118897,Pat Meares,Brad Ausmus,0,0,5,False,2001-04-16,Caught,2B,2001

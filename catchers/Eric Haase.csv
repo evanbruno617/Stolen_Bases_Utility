@@ -1,0 +1,242 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,,Caught Stealing 2B,670084,Nick Heath,650530,Bryan Garcia,658668,Edward Olivares,R,Eric Haase,606992,3,4,9,False,2020-09-26,Caught,2B,2020,2021, 83.4, 0.75
+1,2B,3B,Stolen Base 3B,593160,Whit Merrifield,605513,Spencer Turnbull,521692,Salvador Perez,R,Eric Haase,606992,0,0,1,False,2020-09-25,Stolen,3B,2020,2021, 83.4, 0.75
+2,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,605513,Spencer Turnbull,521692,Salvador Perez,R,Eric Haase,606992,0,0,1,False,2020-09-25,Stolen,2B,2020,2021, 83.4, 0.75
+3,2B,3B,Stolen Base 3B,609275,Adalberto Mondesi,605513,Spencer Turnbull,596748,Maikel Franco,R,Eric Haase,606992,3,0,5,False,2020-09-25,Stolen,3B,2020,2021, 83.4, 0.75
+4,1B,2B,Stolen Base 2B,593871,Jorge Polanco,663554,Casey Mize,503556,Marwin Gonzalez,R,Eric Haase,606992,1,0,3,False,2020-09-23,Stolen,2B,2020,2021, 83.4, 0.75
+5,1B,2B,Stolen Base 2B,621439,Byron Buxton,663554,Casey Mize,596146,Max Kepler,R,Eric Haase,606992,2,0,3,False,2020-09-23,Stolen,2B,2020,2021, 83.4, 0.75
+6,1B,2B,Stolen Base 2B,596019,Francisco Lindor,605242,Michael Fulmer,467793,Carlos Santana,R,Eric Haase,606992,0,0,1,True,2020-09-18,Stolen,2B,2020,2021, 83.4, 0.75
+7,3B,,Caught Stealing Home,608070,José Ramírez,641302,Tyler Alexander,547379,Roberto Pérez,L,Eric Haase,606992,0,0,4,True,2020-09-18,Caught,Home,2020,2021, 83.4, 0.75
+8,1B,2B,Stolen Base 2B,593160,Whit Merrifield,669373,Tarik Skubal,521692,Salvador Perez,L,Eric Haase,606992,0,3,6,True,2020-09-16,Stolen,2B,2020,2021, 83.4, 0.75
+9,2B,3B,Stolen Base 3B,593160,Whit Merrifield,642397,Gregory Soto,521692,Salvador Perez,L,Eric Haase,606992,0,3,8,True,2020-09-16,Stolen,3B,2020,2021, 83.4, 0.75
+10,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,642397,Gregory Soto,521692,Salvador Perez,L,Eric Haase,606992,0,3,8,True,2020-09-16,Stolen,2B,2020,2021, 83.4, 0.75
+11,1B,2B,Stolen Base 2B,625510,Erick Mejia,596057,Daniel Norris,670032,Nicky Lopez,L,Eric Haase,606992,0,4,9,True,2020-09-16,Stolen,2B,2020,2021, 83.4, 0.75
+12,1B,2B,Stolen Base 2B,640447,Phillip Ervin,670167,John Schreiber,642165,Josh VanMeter,R,Eric Haase,606992,1,0,5,False,2020-07-22,Stolen,2B,2020,2021, 83.4, 0.75
+13,1B,,Caught Stealing 2B,606157,Aristides Aquino,598286,Nick Ramirez,592200,Curt Casali,L,Eric Haase,606992,1,0,7,False,2020-07-22,Caught,2B,2020,2021, 83.4, 0.75
+14,1B,,Caught Stealing 2B,670084,Nick Heath,650530,Bryan Garcia,658668,Edward Olivares,R,Eric Haase,606992,3,4,9,False,2020-09-26,Caught,2B,2020,2021, 83.4, 0.75
+15,2B,3B,Stolen Base 3B,593160,Whit Merrifield,605513,Spencer Turnbull,521692,Salvador Perez,R,Eric Haase,606992,0,0,1,False,2020-09-25,Stolen,3B,2020,2021, 83.4, 0.75
+16,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,605513,Spencer Turnbull,521692,Salvador Perez,R,Eric Haase,606992,0,0,1,False,2020-09-25,Stolen,2B,2020,2021, 83.4, 0.75
+17,2B,3B,Stolen Base 3B,609275,Adalberto Mondesi,605513,Spencer Turnbull,596748,Maikel Franco,R,Eric Haase,606992,3,0,5,False,2020-09-25,Stolen,3B,2020,2021, 83.4, 0.75
+18,1B,2B,Stolen Base 2B,593871,Jorge Polanco,663554,Casey Mize,503556,Marwin Gonzalez,R,Eric Haase,606992,1,0,3,False,2020-09-23,Stolen,2B,2020,2021, 83.4, 0.75
+19,1B,2B,Stolen Base 2B,621439,Byron Buxton,663554,Casey Mize,596146,Max Kepler,R,Eric Haase,606992,2,0,3,False,2020-09-23,Stolen,2B,2020,2021, 83.4, 0.75
+20,1B,2B,Stolen Base 2B,596019,Francisco Lindor,605242,Michael Fulmer,467793,Carlos Santana,R,Eric Haase,606992,0,0,1,True,2020-09-18,Stolen,2B,2020,2021, 83.4, 0.75
+21,3B,,Caught Stealing Home,608070,José Ramírez,641302,Tyler Alexander,547379,Roberto Pérez,L,Eric Haase,606992,0,0,4,True,2020-09-18,Caught,Home,2020,2021, 83.4, 0.75
+22,1B,2B,Stolen Base 2B,593160,Whit Merrifield,669373,Tarik Skubal,521692,Salvador Perez,L,Eric Haase,606992,0,3,6,True,2020-09-16,Stolen,2B,2020,2021, 83.4, 0.75
+23,2B,3B,Stolen Base 3B,593160,Whit Merrifield,642397,Gregory Soto,521692,Salvador Perez,L,Eric Haase,606992,0,3,8,True,2020-09-16,Stolen,3B,2020,2021, 83.4, 0.75
+24,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,642397,Gregory Soto,521692,Salvador Perez,L,Eric Haase,606992,0,3,8,True,2020-09-16,Stolen,2B,2020,2021, 83.4, 0.75
+25,1B,2B,Stolen Base 2B,625510,Erick Mejia,596057,Daniel Norris,670032,Nicky Lopez,L,Eric Haase,606992,0,4,9,True,2020-09-16,Stolen,2B,2020,2021, 83.4, 0.75
+26,1B,2B,Stolen Base 2B,640447,Phillip Ervin,670167,John Schreiber,642165,Josh VanMeter,R,Eric Haase,606992,1,0,5,False,2020-07-22,Stolen,2B,2020,2021, 83.4, 0.75
+27,1B,,Caught Stealing 2B,606157,Aristides Aquino,598286,Nick Ramirez,592200,Curt Casali,L,Eric Haase,606992,1,0,7,False,2020-07-22,Caught,2B,2020,2021, 83.4, 0.75
+28,1B,,Caught Stealing 2B,670084,Nick Heath,650530,Bryan Garcia,658668,Edward Olivares,R,Eric Haase,606992,3,4,9,False,2020-09-26,Caught,2B,2020,2021, 83.4, 0.75
+29,2B,3B,Stolen Base 3B,593160,Whit Merrifield,605513,Spencer Turnbull,521692,Salvador Perez,R,Eric Haase,606992,0,0,1,False,2020-09-25,Stolen,3B,2020,2021, 83.4, 0.75
+30,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,605513,Spencer Turnbull,521692,Salvador Perez,R,Eric Haase,606992,0,0,1,False,2020-09-25,Stolen,2B,2020,2021, 83.4, 0.75
+31,2B,3B,Stolen Base 3B,609275,Adalberto Mondesi,605513,Spencer Turnbull,596748,Maikel Franco,R,Eric Haase,606992,3,0,5,False,2020-09-25,Stolen,3B,2020,2021, 83.4, 0.75
+32,1B,2B,Stolen Base 2B,593871,Jorge Polanco,663554,Casey Mize,503556,Marwin Gonzalez,R,Eric Haase,606992,1,0,3,False,2020-09-23,Stolen,2B,2020,2021, 83.4, 0.75
+33,1B,2B,Stolen Base 2B,621439,Byron Buxton,663554,Casey Mize,596146,Max Kepler,R,Eric Haase,606992,2,0,3,False,2020-09-23,Stolen,2B,2020,2021, 83.4, 0.75
+34,1B,2B,Stolen Base 2B,596019,Francisco Lindor,605242,Michael Fulmer,467793,Carlos Santana,R,Eric Haase,606992,0,0,1,True,2020-09-18,Stolen,2B,2020,2021, 83.4, 0.75
+35,3B,,Caught Stealing Home,608070,José Ramírez,641302,Tyler Alexander,547379,Roberto Pérez,L,Eric Haase,606992,0,0,4,True,2020-09-18,Caught,Home,2020,2021, 83.4, 0.75
+36,1B,2B,Stolen Base 2B,593160,Whit Merrifield,669373,Tarik Skubal,521692,Salvador Perez,L,Eric Haase,606992,0,3,6,True,2020-09-16,Stolen,2B,2020,2021, 83.4, 0.75
+37,2B,3B,Stolen Base 3B,593160,Whit Merrifield,642397,Gregory Soto,521692,Salvador Perez,L,Eric Haase,606992,0,3,8,True,2020-09-16,Stolen,3B,2020,2021, 83.4, 0.75
+38,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,642397,Gregory Soto,521692,Salvador Perez,L,Eric Haase,606992,0,3,8,True,2020-09-16,Stolen,2B,2020,2021, 83.4, 0.75
+39,1B,2B,Stolen Base 2B,625510,Erick Mejia,596057,Daniel Norris,670032,Nicky Lopez,L,Eric Haase,606992,0,4,9,True,2020-09-16,Stolen,2B,2020,2021, 83.4, 0.75
+40,1B,2B,Stolen Base 2B,640447,Phillip Ervin,670167,John Schreiber,642165,Josh VanMeter,R,Eric Haase,606992,1,0,5,False,2020-07-22,Stolen,2B,2020,2021, 83.4, 0.75
+41,1B,,Caught Stealing 2B,606157,Aristides Aquino,598286,Nick Ramirez,592200,Curt Casali,L,Eric Haase,606992,1,0,7,False,2020-07-22,Caught,2B,2020,2021, 83.4, 0.75
+42,1B,2B,Stolen Base 2B,607208,Trea Turner,605182,Mike Clevinger,594809,Adam Eaton,R,Eric Haase,606992,0,0,1,False,2019-09-29,Stolen,2B,2019,2020, 82.6, 0.69
+43,1B,2B,Stolen Base 2B,594809,Adam Eaton,605182,Mike Clevinger,435559,Kurt Suzuki,R,Eric Haase,606992,3,1,3,False,2019-09-29,Stolen,2B,2019,2020, 82.6, 0.69
+44,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,605182,Mike Clevinger,571431,Matt Adams,R,Eric Haase,606992,3,1,6,False,2019-09-29,Stolen,2B,2019,2020, 82.6, 0.69
+45,2B,3B,Stolen Base 3B,572191,Michael A. Taylor,605182,Mike Clevinger,572821,Brian Dozier,R,Eric Haase,606992,5,1,6,False,2019-09-29,Stolen,3B,2019,2020, 82.6, 0.69
+46,1B,2B,Stolen Base 2B,645302,Victor Robles,605182,Mike Clevinger,572821,Brian Dozier,R,Eric Haase,606992,5,1,6,False,2019-09-29,Stolen,2B,2019,2020, 82.6, 0.69
+47,1B,,Caught Stealing 2B,664057,Andrew Stevenson,624586,James Hoyt,607208,Trea Turner,R,Eric Haase,606992,10,6,5,False,2019-09-28,Caught,2B,2019,2020, 82.6, 0.69
+48,2B,3B,Stolen Base 3B,502054,Tommy Pham,592644,Adam Plutko,642715,Willy Adames,R,Eric Haase,606992,1,0,1,False,2019-09-01,Stolen,3B,2019,2020, 82.6, 0.69
+49,1B,2B,Stolen Base 2B,621563,Joey Wendle,592644,Adam Plutko,642715,Willy Adames,R,Eric Haase,606992,1,0,1,False,2019-09-01,Stolen,2B,2019,2020, 82.6, 0.69
+50,1B,,Caught Stealing 2B,642715,Willy Adames,592644,Adam Plutko,595281,Kevin Kiermaier,R,Eric Haase,606992,1,1,4,False,2019-09-01,Caught,2B,2019,2020, 82.6, 0.69
+51,1B,2B,Stolen Base 2B,607208,Trea Turner,605182,Mike Clevinger,594809,Adam Eaton,R,Eric Haase,606992,0,0,1,False,2019-09-29,Stolen,2B,2019,2020, 82.6, 0.69
+52,1B,2B,Stolen Base 2B,594809,Adam Eaton,605182,Mike Clevinger,435559,Kurt Suzuki,R,Eric Haase,606992,3,1,3,False,2019-09-29,Stolen,2B,2019,2020, 82.6, 0.69
+53,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,605182,Mike Clevinger,571431,Matt Adams,R,Eric Haase,606992,3,1,6,False,2019-09-29,Stolen,2B,2019,2020, 82.6, 0.69
+54,2B,3B,Stolen Base 3B,572191,Michael A. Taylor,605182,Mike Clevinger,572821,Brian Dozier,R,Eric Haase,606992,5,1,6,False,2019-09-29,Stolen,3B,2019,2020, 82.6, 0.69
+55,1B,2B,Stolen Base 2B,645302,Victor Robles,605182,Mike Clevinger,572821,Brian Dozier,R,Eric Haase,606992,5,1,6,False,2019-09-29,Stolen,2B,2019,2020, 82.6, 0.69
+56,1B,,Caught Stealing 2B,664057,Andrew Stevenson,624586,James Hoyt,607208,Trea Turner,R,Eric Haase,606992,10,6,5,False,2019-09-28,Caught,2B,2019,2020, 82.6, 0.69
+57,2B,3B,Stolen Base 3B,502054,Tommy Pham,592644,Adam Plutko,642715,Willy Adames,R,Eric Haase,606992,1,0,1,False,2019-09-01,Stolen,3B,2019,2020, 82.6, 0.69
+58,1B,2B,Stolen Base 2B,621563,Joey Wendle,592644,Adam Plutko,642715,Willy Adames,R,Eric Haase,606992,1,0,1,False,2019-09-01,Stolen,2B,2019,2020, 82.6, 0.69
+59,1B,,Caught Stealing 2B,642715,Willy Adames,592644,Adam Plutko,595281,Kevin Kiermaier,R,Eric Haase,606992,1,1,4,False,2019-09-01,Caught,2B,2019,2020, 82.6, 0.69
+60,1B,2B,Stolen Base 2B,607208,Trea Turner,605182,Mike Clevinger,594809,Adam Eaton,R,Eric Haase,606992,0,0,1,False,2019-09-29,Stolen,2B,2019,2020, 82.6, 0.69
+61,1B,2B,Stolen Base 2B,594809,Adam Eaton,605182,Mike Clevinger,435559,Kurt Suzuki,R,Eric Haase,606992,3,1,3,False,2019-09-29,Stolen,2B,2019,2020, 82.6, 0.69
+62,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,605182,Mike Clevinger,571431,Matt Adams,R,Eric Haase,606992,3,1,6,False,2019-09-29,Stolen,2B,2019,2020, 82.6, 0.69
+63,2B,3B,Stolen Base 3B,572191,Michael A. Taylor,605182,Mike Clevinger,572821,Brian Dozier,R,Eric Haase,606992,5,1,6,False,2019-09-29,Stolen,3B,2019,2020, 82.6, 0.69
+64,1B,2B,Stolen Base 2B,645302,Victor Robles,605182,Mike Clevinger,572821,Brian Dozier,R,Eric Haase,606992,5,1,6,False,2019-09-29,Stolen,2B,2019,2020, 82.6, 0.69
+65,1B,,Caught Stealing 2B,664057,Andrew Stevenson,624586,James Hoyt,607208,Trea Turner,R,Eric Haase,606992,10,6,5,False,2019-09-28,Caught,2B,2019,2020, 82.6, 0.69
+66,2B,3B,Stolen Base 3B,502054,Tommy Pham,592644,Adam Plutko,642715,Willy Adames,R,Eric Haase,606992,1,0,1,False,2019-09-01,Stolen,3B,2019,2020, 82.6, 0.69
+67,1B,2B,Stolen Base 2B,621563,Joey Wendle,592644,Adam Plutko,642715,Willy Adames,R,Eric Haase,606992,1,0,1,False,2019-09-01,Stolen,2B,2019,2020, 82.6, 0.69
+68,1B,,Caught Stealing 2B,642715,Willy Adames,592644,Adam Plutko,595281,Kevin Kiermaier,R,Eric Haase,606992,1,1,4,False,2019-09-01,Caught,2B,2019,2020, 82.6, 0.69
+69,1B,2B,Stolen Base 2B,621439,Byron Buxton,641729,Joe Jiménez,593871,Jorge Polanco,R,Eric Haase,606992,3,1,8,False,2021-09-29,Stolen,2B,2021,2022, 83.2, 0.73
+70,2B,,Caught Stealing 3B,544725,Leury García,666159,Matt Manning,518735,Yasmani Grandal,R,Eric Haase,606992,0,0,1,True,2021-09-27,Caught,3B,2021,2022, 83.2, 0.73
+71,1B,,Caught Stealing 2B,641531,Hunter Dozier,502706,Derek Holland,664728,Kyle Isbel,L,Eric Haase,606992,0,2,5,True,2021-09-26,Caught,2B,2021,2022, 83.2, 0.73
+72,2B,,Caught Stealing 3B,544725,Leury García,666159,Matt Manning,518735,Yasmani Grandal,R,Eric Haase,606992,0,0,1,True,2021-09-22,Caught,3B,2021,2022, 83.2, 0.73
+73,1B,2B,Stolen Base 2B,640457,Austin Meadows,605242,Michael Fulmer,621563,Joey Wendle,R,Eric Haase,606992,4,4,9,False,2021-09-17,Stolen,2B,2021,2022, 83.2, 0.73
+74,1B,2B,Stolen Base 2B,541645,Avisaíl García,503449,Wily Peralta,649966,Luis Urías,R,Eric Haase,606992,0,0,4,True,2021-09-14,Stolen,2B,2021,2022, 83.2, 0.73
+75,1B,2B,Stolen Base 2B,621433,Brett Phillips,570632,José Ureña,668227,Randy Arozarena,R,Eric Haase,606992,2,1,5,True,2021-09-12,Stolen,2B,2021,2022, 83.2, 0.73
+76,1B,,Caught Stealing 2B,622534,Manuel Margot,570632,José Ureña,443558,Nelson Cruz,R,Eric Haase,606992,2,1,6,True,2021-09-12,Caught,2B,2021,2022, 83.2, 0.73
+77,1B,2B,Stolen Base 2B,670764,Taylor Walls,663554,Casey Mize,640457,Austin Meadows,R,Eric Haase,606992,0,3,2,True,2021-09-11,Stolen,2B,2021,2022, 83.2, 0.73
+78,1B,2B,Stolen Base 2B,621563,Joey Wendle,608335,Kyle Funkhouser,443558,Nelson Cruz,R,Eric Haase,606992,0,1,5,True,2021-09-10,Stolen,2B,2021,2022, 83.2, 0.73
+79,1B,2B,Stolen Base 2B,656669,Jordan Luplow,656638,Alex Lange,595281,Kevin Kiermaier,R,Eric Haase,606992,1,1,6,True,2021-09-10,Stolen,2B,2021,2022, 83.2, 0.73
+80,1B,2B,Stolen Base 2B,663647,Ke'Bryan Hayes,503449,Wily Peralta,660294,Yoshi Tsutsugo,R,Eric Haase,606992,1,2,4,False,2021-09-07,Stolen,2B,2021,2022, 83.2, 0.73
+81,1B,,Caught Stealing 2B,592325,Ben Gamel,656290,Drew Carlton,657061,Cole Tucker,R,Eric Haase,606992,2,0,4,False,2021-09-06,Caught,2B,2021,2022, 83.2, 0.73
+82,1B,2B,Stolen Base 2B,621450,Skye Bolt,656638,Alex Lange,592192,Mark Canha,R,Eric Haase,606992,6,8,9,True,2021-09-02,Stolen,2B,2021,2022, 83.2, 0.73
+83,1B,2B,Stolen Base 2B,666182,Bo Bichette,570632,José Ureña,665489,Vladimir Guerrero Jr.,R,Eric Haase,606992,0,0,1,True,2021-08-28,Stolen,2B,2021,2022, 83.2, 0.73
+84,2B,,Caught Stealing 3B,666182,Bo Bichette,570632,José Ureña,665489,Vladimir Guerrero Jr.,R,Eric Haase,606992,0,0,1,True,2021-08-28,Caught,3B,2021,2022, 83.2, 0.73
+85,1B,2B,Stolen Base 2B,608070,José Ramírez,503449,Wily Peralta,614177,Franmil Reyes,R,Eric Haase,606992,0,0,1,True,2021-08-14,Stolen,2B,2021,2022, 83.2, 0.73
+86,1B,2B,Stolen Base 2B,665926,Andrés Giménez,503449,Wily Peralta,676391,Ernie Clement,R,Eric Haase,606992,3,1,4,True,2021-08-14,Stolen,2B,2021,2022, 83.2, 0.73
+87,1B,2B,Stolen Base 2B,664702,Myles Straw,503449,Wily Peralta,605548,Bradley Zimmer,R,Eric Haase,606992,4,1,5,True,2021-08-14,Stolen,2B,2021,2022, 83.2, 0.73
+88,2B,3B,Stolen Base 3B,640458,Óscar Mercado,641729,Joe Jiménez,680911,Owen Miller,R,Eric Haase,606992,2,5,6,True,2021-08-13,Stolen,3B,2021,2022, 83.2, 0.73
+89,3B,score,Stolen Base Home,656775,Cedric Mullins,666159,Matt Manning,621466,DJ Stewart,R,Eric Haase,606992,1,0,1,False,2021-08-12,Stolen,Home,2021,2022, 83.2, 0.73
+90,1B,2B,Stolen Base 2B,623993,Anthony Santander,666159,Matt Manning,621466,DJ Stewart,R,Eric Haase,606992,1,0,1,False,2021-08-12,Stolen,2B,2021,2022, 83.2, 0.73
+91,1B,2B,Stolen Base 2B,622761,Jorge Mateo,666159,Matt Manning,642851,Austin Wynns,R,Eric Haase,606992,1,0,2,False,2021-08-12,Stolen,2B,2021,2022, 83.2, 0.73
+92,1B,,Caught Stealing 2B,622761,Jorge Mateo,669373,Tarik Skubal,621006,Richie Martin,L,Eric Haase,606992,0,3,5,False,2021-08-11,Caught,2B,2021,2022, 83.2, 0.73
+93,1B,2B,Stolen Base 2B,664702,Myles Straw,666159,Matt Manning,608070,José Ramírez,R,Eric Haase,606992,6,0,4,False,2021-08-06,Stolen,2B,2021,2022, 83.2, 0.73
+94,1B,,Caught Stealing 2B,543877,Christian Vázquez,663554,Casey Mize,680776,Jarren Duran,R,Eric Haase,606992,0,1,3,True,2021-08-04,Caught,2B,2021,2022, 83.2, 0.73
+95,1B,2B,Stolen Base 2B,680776,Jarren Duran,605242,Michael Fulmer,502110,J.D. Martinez,R,Eric Haase,606992,3,2,7,True,2021-08-03,Stolen,2B,2021,2022, 83.2, 0.73
+96,1B,2B,Stolen Base 2B,656775,Cedric Mullins,666159,Matt Manning,663624,Ryan Mountcastle,R,Eric Haase,606992,0,1,3,True,2021-07-31,Stolen,2B,2021,2022, 83.2, 0.73
+97,1B,,Caught Stealing 2B,593934,Miguel Sanó,666159,Matt Manning,595909,Jake Cave,R,Eric Haase,606992,2,0,4,False,2021-07-26,Caught,2B,2021,2022, 83.2, 0.73
+98,1B,,Caught Stealing 2B,641598,Mitch Garver,641729,Joe Jiménez,593934,Miguel Sanó,R,Eric Haase,606992,5,3,8,False,2021-07-26,Caught,2B,2021,2022, 83.2, 0.73
+99,3B,,Caught Stealing Home,642201,Eli White,669373,Tarik Skubal,641680,Jonah Heim,L,Eric Haase,606992,0,0,1,True,2021-07-20,Caught,Home,2021,2022, 83.2, 0.73
+100,1B,2B,Stolen Base 2B,443558,Nelson Cruz,641729,Joe Jiménez,680777,Ryan Jeffers,R,Eric Haase,606992,3,4,8,True,2021-07-17,Stolen,2B,2021,2022, 83.2, 0.73
+101,1B,2B,Stolen Base 2B,443558,Nelson Cruz,596057,Daniel Norris,666135,Alex Kirilloff,L,Eric Haase,606992,0,2,3,False,2021-07-10,Stolen,2B,2021,2022, 83.2, 0.73
+102,1B,2B,Stolen Base 2B,664702,Myles Straw,570632,José Ureña,493329,Yuli Gurriel,R,Eric Haase,606992,1,5,4,True,2021-06-24,Stolen,2B,2021,2022, 83.2, 0.73
+103,1B,,Caught Stealing 2B,642221,Kean Wong,570632,José Ureña,650859,Luis Rengifo,R,Eric Haase,606992,1,0,2,False,2021-06-18,Caught,2B,2021,2022, 83.2, 0.73
+104,1B,2B,Stolen Base 2B,641553,Adam Engel,671345,Jason Foley,641313,Tim Anderson,R,Eric Haase,606992,3,0,6,False,2021-06-06,Stolen,2B,2021,2022, 83.2, 0.73
+105,1B,,Caught Stealing 2B,641313,Tim Anderson,663554,Casey Mize,594809,Adam Eaton,R,Eric Haase,606992,2,0,3,False,2021-06-03,Caught,2B,2021,2022, 83.2, 0.73
+106,1B,2B,Stolen Base 2B,644374,Yu Chang,650530,Bryan Garcia,605548,Bradley Zimmer,R,Eric Haase,606992,0,4,6,True,2021-05-27,Stolen,2B,2021,2022, 83.2, 0.73
+107,1B,2B,Stolen Base 2B,642708,Amed Rosario,605513,Spencer Turnbull,608070,José Ramírez,R,Eric Haase,606992,3,2,6,True,2021-05-24,Stolen,2B,2021,2022, 83.2, 0.73
+108,1B,2B,Stolen Base 2B,623912,Harold Ramírez,605513,Spencer Turnbull,647304,Josh Naylor,R,Eric Haase,606992,3,3,6,True,2021-05-24,Stolen,2B,2021,2022, 83.2, 0.73
+109,1B,,Caught Stealing 2B,592696,Eddie Rosario,596057,Daniel Norris,623912,Harold Ramírez,L,Eric Haase,606992,3,6,7,True,2021-05-24,Caught,2B,2021,2022, 83.2, 0.73
+110,1B,2B,Stolen Base 2B,641786,Kyle Lewis,669373,Tarik Skubal,572122,Kyle Seager,L,Eric Haase,606992,2,0,1,False,2021-05-19,Stolen,2B,2021,2022, 83.2, 0.73
+111,1B,2B,Stolen Base 2B,672284,Jarred Kelenic,605513,Spencer Turnbull,641786,Kyle Lewis,R,Eric Haase,606992,0,2,4,False,2021-05-18,Stolen,2B,2021,2022, 83.2, 0.73
+112,1B,2B,Stolen Base 2B,621439,Byron Buxton,641729,Joe Jiménez,593871,Jorge Polanco,R,Eric Haase,606992,3,1,8,False,2021-09-29,Stolen,2B,2021,2022, 83.2, 0.73
+113,2B,,Caught Stealing 3B,544725,Leury García,666159,Matt Manning,518735,Yasmani Grandal,R,Eric Haase,606992,0,0,1,True,2021-09-27,Caught,3B,2021,2022, 83.2, 0.73
+114,1B,,Caught Stealing 2B,641531,Hunter Dozier,502706,Derek Holland,664728,Kyle Isbel,L,Eric Haase,606992,0,2,5,True,2021-09-26,Caught,2B,2021,2022, 83.2, 0.73
+115,2B,,Caught Stealing 3B,544725,Leury García,666159,Matt Manning,518735,Yasmani Grandal,R,Eric Haase,606992,0,0,1,True,2021-09-22,Caught,3B,2021,2022, 83.2, 0.73
+116,1B,2B,Stolen Base 2B,640457,Austin Meadows,605242,Michael Fulmer,621563,Joey Wendle,R,Eric Haase,606992,4,4,9,False,2021-09-17,Stolen,2B,2021,2022, 83.2, 0.73
+117,1B,2B,Stolen Base 2B,541645,Avisaíl García,503449,Wily Peralta,649966,Luis Urías,R,Eric Haase,606992,0,0,4,True,2021-09-14,Stolen,2B,2021,2022, 83.2, 0.73
+118,1B,2B,Stolen Base 2B,621433,Brett Phillips,570632,José Ureña,668227,Randy Arozarena,R,Eric Haase,606992,2,1,5,True,2021-09-12,Stolen,2B,2021,2022, 83.2, 0.73
+119,1B,,Caught Stealing 2B,622534,Manuel Margot,570632,José Ureña,443558,Nelson Cruz,R,Eric Haase,606992,2,1,6,True,2021-09-12,Caught,2B,2021,2022, 83.2, 0.73
+120,1B,2B,Stolen Base 2B,670764,Taylor Walls,663554,Casey Mize,640457,Austin Meadows,R,Eric Haase,606992,0,3,2,True,2021-09-11,Stolen,2B,2021,2022, 83.2, 0.73
+121,1B,2B,Stolen Base 2B,621563,Joey Wendle,608335,Kyle Funkhouser,443558,Nelson Cruz,R,Eric Haase,606992,0,1,5,True,2021-09-10,Stolen,2B,2021,2022, 83.2, 0.73
+122,1B,2B,Stolen Base 2B,656669,Jordan Luplow,656638,Alex Lange,595281,Kevin Kiermaier,R,Eric Haase,606992,1,1,6,True,2021-09-10,Stolen,2B,2021,2022, 83.2, 0.73
+123,1B,2B,Stolen Base 2B,663647,Ke'Bryan Hayes,503449,Wily Peralta,660294,Yoshi Tsutsugo,R,Eric Haase,606992,1,2,4,False,2021-09-07,Stolen,2B,2021,2022, 83.2, 0.73
+124,1B,,Caught Stealing 2B,592325,Ben Gamel,656290,Drew Carlton,657061,Cole Tucker,R,Eric Haase,606992,2,0,4,False,2021-09-06,Caught,2B,2021,2022, 83.2, 0.73
+125,1B,2B,Stolen Base 2B,621450,Skye Bolt,656638,Alex Lange,592192,Mark Canha,R,Eric Haase,606992,6,8,9,True,2021-09-02,Stolen,2B,2021,2022, 83.2, 0.73
+126,1B,2B,Stolen Base 2B,666182,Bo Bichette,570632,José Ureña,665489,Vladimir Guerrero Jr.,R,Eric Haase,606992,0,0,1,True,2021-08-28,Stolen,2B,2021,2022, 83.2, 0.73
+127,2B,,Caught Stealing 3B,666182,Bo Bichette,570632,José Ureña,665489,Vladimir Guerrero Jr.,R,Eric Haase,606992,0,0,1,True,2021-08-28,Caught,3B,2021,2022, 83.2, 0.73
+128,1B,2B,Stolen Base 2B,608070,José Ramírez,503449,Wily Peralta,614177,Franmil Reyes,R,Eric Haase,606992,0,0,1,True,2021-08-14,Stolen,2B,2021,2022, 83.2, 0.73
+129,1B,2B,Stolen Base 2B,665926,Andrés Giménez,503449,Wily Peralta,676391,Ernie Clement,R,Eric Haase,606992,3,1,4,True,2021-08-14,Stolen,2B,2021,2022, 83.2, 0.73
+130,1B,2B,Stolen Base 2B,664702,Myles Straw,503449,Wily Peralta,605548,Bradley Zimmer,R,Eric Haase,606992,4,1,5,True,2021-08-14,Stolen,2B,2021,2022, 83.2, 0.73
+131,2B,3B,Stolen Base 3B,640458,Óscar Mercado,641729,Joe Jiménez,680911,Owen Miller,R,Eric Haase,606992,2,5,6,True,2021-08-13,Stolen,3B,2021,2022, 83.2, 0.73
+132,3B,score,Stolen Base Home,656775,Cedric Mullins,666159,Matt Manning,621466,DJ Stewart,R,Eric Haase,606992,1,0,1,False,2021-08-12,Stolen,Home,2021,2022, 83.2, 0.73
+133,1B,2B,Stolen Base 2B,623993,Anthony Santander,666159,Matt Manning,621466,DJ Stewart,R,Eric Haase,606992,1,0,1,False,2021-08-12,Stolen,2B,2021,2022, 83.2, 0.73
+134,1B,2B,Stolen Base 2B,622761,Jorge Mateo,666159,Matt Manning,642851,Austin Wynns,R,Eric Haase,606992,1,0,2,False,2021-08-12,Stolen,2B,2021,2022, 83.2, 0.73
+135,1B,,Caught Stealing 2B,622761,Jorge Mateo,669373,Tarik Skubal,621006,Richie Martin,L,Eric Haase,606992,0,3,5,False,2021-08-11,Caught,2B,2021,2022, 83.2, 0.73
+136,1B,2B,Stolen Base 2B,664702,Myles Straw,666159,Matt Manning,608070,José Ramírez,R,Eric Haase,606992,6,0,4,False,2021-08-06,Stolen,2B,2021,2022, 83.2, 0.73
+137,1B,,Caught Stealing 2B,543877,Christian Vázquez,663554,Casey Mize,680776,Jarren Duran,R,Eric Haase,606992,0,1,3,True,2021-08-04,Caught,2B,2021,2022, 83.2, 0.73
+138,1B,2B,Stolen Base 2B,680776,Jarren Duran,605242,Michael Fulmer,502110,J.D. Martinez,R,Eric Haase,606992,3,2,7,True,2021-08-03,Stolen,2B,2021,2022, 83.2, 0.73
+139,1B,2B,Stolen Base 2B,656775,Cedric Mullins,666159,Matt Manning,663624,Ryan Mountcastle,R,Eric Haase,606992,0,1,3,True,2021-07-31,Stolen,2B,2021,2022, 83.2, 0.73
+140,1B,,Caught Stealing 2B,593934,Miguel Sanó,666159,Matt Manning,595909,Jake Cave,R,Eric Haase,606992,2,0,4,False,2021-07-26,Caught,2B,2021,2022, 83.2, 0.73
+141,1B,,Caught Stealing 2B,641598,Mitch Garver,641729,Joe Jiménez,593934,Miguel Sanó,R,Eric Haase,606992,5,3,8,False,2021-07-26,Caught,2B,2021,2022, 83.2, 0.73
+142,3B,,Caught Stealing Home,642201,Eli White,669373,Tarik Skubal,641680,Jonah Heim,L,Eric Haase,606992,0,0,1,True,2021-07-20,Caught,Home,2021,2022, 83.2, 0.73
+143,1B,2B,Stolen Base 2B,443558,Nelson Cruz,641729,Joe Jiménez,680777,Ryan Jeffers,R,Eric Haase,606992,3,4,8,True,2021-07-17,Stolen,2B,2021,2022, 83.2, 0.73
+144,1B,2B,Stolen Base 2B,443558,Nelson Cruz,596057,Daniel Norris,666135,Alex Kirilloff,L,Eric Haase,606992,0,2,3,False,2021-07-10,Stolen,2B,2021,2022, 83.2, 0.73
+145,1B,2B,Stolen Base 2B,664702,Myles Straw,570632,José Ureña,493329,Yuli Gurriel,R,Eric Haase,606992,1,5,4,True,2021-06-24,Stolen,2B,2021,2022, 83.2, 0.73
+146,1B,,Caught Stealing 2B,642221,Kean Wong,570632,José Ureña,650859,Luis Rengifo,R,Eric Haase,606992,1,0,2,False,2021-06-18,Caught,2B,2021,2022, 83.2, 0.73
+147,1B,2B,Stolen Base 2B,641553,Adam Engel,671345,Jason Foley,641313,Tim Anderson,R,Eric Haase,606992,3,0,6,False,2021-06-06,Stolen,2B,2021,2022, 83.2, 0.73
+148,1B,,Caught Stealing 2B,641313,Tim Anderson,663554,Casey Mize,594809,Adam Eaton,R,Eric Haase,606992,2,0,3,False,2021-06-03,Caught,2B,2021,2022, 83.2, 0.73
+149,1B,2B,Stolen Base 2B,644374,Yu Chang,650530,Bryan Garcia,605548,Bradley Zimmer,R,Eric Haase,606992,0,4,6,True,2021-05-27,Stolen,2B,2021,2022, 83.2, 0.73
+150,1B,2B,Stolen Base 2B,642708,Amed Rosario,605513,Spencer Turnbull,608070,José Ramírez,R,Eric Haase,606992,3,2,6,True,2021-05-24,Stolen,2B,2021,2022, 83.2, 0.73
+151,1B,2B,Stolen Base 2B,623912,Harold Ramírez,605513,Spencer Turnbull,647304,Josh Naylor,R,Eric Haase,606992,3,3,6,True,2021-05-24,Stolen,2B,2021,2022, 83.2, 0.73
+152,1B,,Caught Stealing 2B,592696,Eddie Rosario,596057,Daniel Norris,623912,Harold Ramírez,L,Eric Haase,606992,3,6,7,True,2021-05-24,Caught,2B,2021,2022, 83.2, 0.73
+153,1B,2B,Stolen Base 2B,641786,Kyle Lewis,669373,Tarik Skubal,572122,Kyle Seager,L,Eric Haase,606992,2,0,1,False,2021-05-19,Stolen,2B,2021,2022, 83.2, 0.73
+154,1B,2B,Stolen Base 2B,672284,Jarred Kelenic,605513,Spencer Turnbull,641786,Kyle Lewis,R,Eric Haase,606992,0,2,4,False,2021-05-18,Stolen,2B,2021,2022, 83.2, 0.73
+155,1B,,Caught Stealing 2B,672356,Gabriel Arias,542585,José Cisnero,666310,Bo Naylor,R,Eric Haase,606992,4,1,8,False,2023-08-18,Caught,2B,2023,2024, 82.9, 0.65
+156,1B,,Caught Stealing 2B,672356,Gabriel Arias,542585,José Cisnero,666310,Bo Naylor,R,Eric Haase,606992,4,1,8,False,2023-08-17,Caught,2B,2023,2024, 82.9, 0.65
+157,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,656412,Alex Faedo,593871,Jorge Polanco,R,Eric Haase,606992,0,2,3,False,2023-08-15,Stolen,2B,2023,2024, 82.9, 0.65
+158,2B,3B,Stolen Base 3B,593871,Jorge Polanco,686839,Brendan White,668904,Royce Lewis,R,Eric Haase,606992,5,2,7,False,2023-08-15,Stolen,3B,2023,2024, 82.9, 0.65
+159,2B,3B,Stolen Base 3B,650489,Willi Castro,686839,Brendan White,680777,Ryan Jeffers,R,Eric Haase,606992,5,4,6,True,2023-08-09,Stolen,3B,2023,2024, 82.9, 0.65
+160,1B,2B,Stolen Base 2B,656669,Jordan Luplow,663947,Tyler Holton,571657,Kyle Farmer,L,Eric Haase,606992,5,4,6,True,2023-08-09,Stolen,2B,2023,2024, 82.9, 0.65
+161,1B,,Caught Stealing 2B,663550,Trey Cabbage,547179,Michael Lorenzen,595453,Chad Wallach,R,Eric Haase,606992,0,3,4,True,2023-07-27,Caught,2B,2023,2024, 82.9, 0.65
+162,1B,2B,Stolen Base 2B,669392,Samad Taylor,671345,Jason Foley,664728,Kyle Isbel,R,Eric Haase,606992,2,3,8,False,2023-07-17,Stolen,2B,2023,2024, 82.9, 0.65
+163,2B,,Caught Stealing 3B,593160,Whit Merrifield,666159,Matt Manning,672386,Alejandro Kirk,R,Eric Haase,606992,2,0,2,True,2023-07-08,Caught,3B,2023,2024, 82.9, 0.65
+164,1B,2B,Stolen Base 2B,686668,Brenton Doyle,669438,Mason Englert,595777,Jurickson Profar,R,Eric Haase,606992,8,5,8,False,2023-06-30,Stolen,2B,2023,2024, 82.9, 0.65
+165,1B,2B,Stolen Base 2B,658668,Edward Olivares,571510,Matthew Boyd,666023,Freddy Fermin,L,Eric Haase,606992,4,2,4,True,2023-06-21,Stolen,2B,2023,2024, 82.9, 0.65
+166,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,686839,Brendan White,621566,Matt Olson,R,Eric Haase,606992,5,8,7,True,2023-06-14,Stolen,2B,2023,2024, 82.9, 0.65
+167,1B,2B,Stolen Base 2B,671739,Michael Harris II,668754,Braden Bristo,660670,Ronald Acuña Jr.,R,Eric Haase,606992,5,10,8,True,2023-06-14,Stolen,2B,2023,2024, 82.9, 0.65
+168,2B,3B,Stolen Base 3B,682998,Corbin Carroll,656638,Alex Lange,666971,Lourdes Gurriel Jr.,R,Eric Haase,606992,5,3,8,True,2023-06-11,Stolen,3B,2023,2024, 82.9, 0.65
+169,1B,,Caught Stealing 2B,656941,Kyle Schwarber,666214,Joey Wentz,592206,Nick Castellanos,L,Eric Haase,606992,3,0,4,False,2023-06-05,Caught,2B,2023,2024, 82.9, 0.65
+170,2B,3B,Stolen Base 3B,592663,J.T. Realmuto,669438,Mason Englert,656403,Drew Ellis,R,Eric Haase,606992,7,3,7,False,2023-06-05,Stolen,3B,2023,2024, 82.9, 0.65
+171,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,547179,Michael Lorenzen,650391,Eloy Jiménez,R,Eric Haase,606992,0,0,4,False,2023-06-03,Stolen,2B,2023,2024, 82.9, 0.65
+172,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,671345,Jason Foley,518735,Yasmani Grandal,R,Eric Haase,606992,1,1,8,False,2023-06-03,Stolen,2B,2023,2024, 82.9, 0.65
+173,2B,3B,Stolen Base 3B,608671,Travis Jankowski,669438,Mason Englert,663993,Nathaniel Lowe,R,Eric Haase,606992,0,5,7,True,2023-05-29,Stolen,3B,2023,2024, 82.9, 0.65
+174,1B,2B,Stolen Base 2B,669394,Jake Burger,656412,Alex Faedo,641313,Tim Anderson,R,Eric Haase,606992,0,1,3,True,2023-05-25,Stolen,2B,2023,2024, 82.9, 0.65
+175,2B,3B,Stolen Base 3B,672580,Maikel Garcia,571510,Matthew Boyd,686469,Vinnie Pasquantino,L,Eric Haase,606992,1,1,5,False,2023-05-24,Stolen,3B,2023,2024, 82.9, 0.65
+176,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,676684,Will Vest,553993,Eugenio Suárez,R,Eric Haase,606992,0,3,9,True,2023-05-13,Stolen,2B,2023,2024, 82.9, 0.65
+177,1B,2B,Stolen Base 2B,663457,Lars Nootbaar,605513,Spencer Turnbull,502671,Paul Goldschmidt,R,Eric Haase,606992,3,0,2,False,2023-05-06,Stolen,2B,2023,2024, 82.9, 0.65
+178,1B,,Caught Stealing 2B,683002,Gunnar Henderson,671345,Jason Foley,663630,Ryan McKenna,R,Eric Haase,606992,4,6,8,True,2023-04-29,Caught,2B,2023,2024, 82.9, 0.65
+179,1B,,Caught Stealing 2B,683002,Gunnar Henderson,671345,Jason Foley,663630,Ryan McKenna,R,Eric Haase,606992,4,6,8,True,2023-04-28,Caught,2B,2023,2024, 82.9, 0.65
+180,1B,2B,Stolen Base 2B,665926,Andrés Giménez,656638,Alex Lange,605137,Josh Bell,R,Eric Haase,606992,1,3,8,True,2023-04-19,Stolen,2B,2023,2024, 82.9, 0.65
+181,1B,,Caught Stealing 2B,672356,Gabriel Arias,542585,José Cisnero,666310,Bo Naylor,R,Eric Haase,606992,4,1,8,False,2023-08-18,Caught,2B,2023,2024, 82.9, 0.65
+182,1B,,Caught Stealing 2B,672356,Gabriel Arias,542585,José Cisnero,666310,Bo Naylor,R,Eric Haase,606992,4,1,8,False,2023-08-17,Caught,2B,2023,2024, 82.9, 0.65
+183,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,656412,Alex Faedo,593871,Jorge Polanco,R,Eric Haase,606992,0,2,3,False,2023-08-15,Stolen,2B,2023,2024, 82.9, 0.65
+184,2B,3B,Stolen Base 3B,593871,Jorge Polanco,686839,Brendan White,668904,Royce Lewis,R,Eric Haase,606992,5,2,7,False,2023-08-15,Stolen,3B,2023,2024, 82.9, 0.65
+185,2B,3B,Stolen Base 3B,650489,Willi Castro,686839,Brendan White,680777,Ryan Jeffers,R,Eric Haase,606992,5,4,6,True,2023-08-09,Stolen,3B,2023,2024, 82.9, 0.65
+186,1B,2B,Stolen Base 2B,656669,Jordan Luplow,663947,Tyler Holton,571657,Kyle Farmer,L,Eric Haase,606992,5,4,6,True,2023-08-09,Stolen,2B,2023,2024, 82.9, 0.65
+187,1B,,Caught Stealing 2B,663550,Trey Cabbage,547179,Michael Lorenzen,595453,Chad Wallach,R,Eric Haase,606992,0,3,4,True,2023-07-27,Caught,2B,2023,2024, 82.9, 0.65
+188,1B,2B,Stolen Base 2B,669392,Samad Taylor,671345,Jason Foley,664728,Kyle Isbel,R,Eric Haase,606992,2,3,8,False,2023-07-17,Stolen,2B,2023,2024, 82.9, 0.65
+189,2B,,Caught Stealing 3B,593160,Whit Merrifield,666159,Matt Manning,672386,Alejandro Kirk,R,Eric Haase,606992,2,0,2,True,2023-07-08,Caught,3B,2023,2024, 82.9, 0.65
+190,1B,2B,Stolen Base 2B,686668,Brenton Doyle,669438,Mason Englert,595777,Jurickson Profar,R,Eric Haase,606992,8,5,8,False,2023-06-30,Stolen,2B,2023,2024, 82.9, 0.65
+191,1B,2B,Stolen Base 2B,658668,Edward Olivares,571510,Matthew Boyd,666023,Freddy Fermin,L,Eric Haase,606992,4,2,4,True,2023-06-21,Stolen,2B,2023,2024, 82.9, 0.65
+192,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,686839,Brendan White,621566,Matt Olson,R,Eric Haase,606992,5,8,7,True,2023-06-14,Stolen,2B,2023,2024, 82.9, 0.65
+193,1B,2B,Stolen Base 2B,671739,Michael Harris II,668754,Braden Bristo,660670,Ronald Acuña Jr.,R,Eric Haase,606992,5,10,8,True,2023-06-14,Stolen,2B,2023,2024, 82.9, 0.65
+194,2B,3B,Stolen Base 3B,682998,Corbin Carroll,656638,Alex Lange,666971,Lourdes Gurriel Jr.,R,Eric Haase,606992,5,3,8,True,2023-06-11,Stolen,3B,2023,2024, 82.9, 0.65
+195,1B,,Caught Stealing 2B,656941,Kyle Schwarber,666214,Joey Wentz,592206,Nick Castellanos,L,Eric Haase,606992,3,0,4,False,2023-06-05,Caught,2B,2023,2024, 82.9, 0.65
+196,2B,3B,Stolen Base 3B,592663,J.T. Realmuto,669438,Mason Englert,656403,Drew Ellis,R,Eric Haase,606992,7,3,7,False,2023-06-05,Stolen,3B,2023,2024, 82.9, 0.65
+197,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,547179,Michael Lorenzen,650391,Eloy Jiménez,R,Eric Haase,606992,0,0,4,False,2023-06-03,Stolen,2B,2023,2024, 82.9, 0.65
+198,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,671345,Jason Foley,518735,Yasmani Grandal,R,Eric Haase,606992,1,1,8,False,2023-06-03,Stolen,2B,2023,2024, 82.9, 0.65
+199,2B,3B,Stolen Base 3B,608671,Travis Jankowski,669438,Mason Englert,663993,Nathaniel Lowe,R,Eric Haase,606992,0,5,7,True,2023-05-29,Stolen,3B,2023,2024, 82.9, 0.65
+200,1B,2B,Stolen Base 2B,669394,Jake Burger,656412,Alex Faedo,641313,Tim Anderson,R,Eric Haase,606992,0,1,3,True,2023-05-25,Stolen,2B,2023,2024, 82.9, 0.65
+201,2B,3B,Stolen Base 3B,672580,Maikel Garcia,571510,Matthew Boyd,686469,Vinnie Pasquantino,L,Eric Haase,606992,1,1,5,False,2023-05-24,Stolen,3B,2023,2024, 82.9, 0.65
+202,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,676684,Will Vest,553993,Eugenio Suárez,R,Eric Haase,606992,0,3,9,True,2023-05-13,Stolen,2B,2023,2024, 82.9, 0.65
+203,1B,2B,Stolen Base 2B,663457,Lars Nootbaar,605513,Spencer Turnbull,502671,Paul Goldschmidt,R,Eric Haase,606992,3,0,2,False,2023-05-06,Stolen,2B,2023,2024, 82.9, 0.65
+204,1B,,Caught Stealing 2B,683002,Gunnar Henderson,671345,Jason Foley,663630,Ryan McKenna,R,Eric Haase,606992,4,6,8,True,2023-04-29,Caught,2B,2023,2024, 82.9, 0.65
+205,1B,,Caught Stealing 2B,683002,Gunnar Henderson,671345,Jason Foley,663630,Ryan McKenna,R,Eric Haase,606992,4,6,8,True,2023-04-28,Caught,2B,2023,2024, 82.9, 0.65
+206,1B,2B,Stolen Base 2B,665926,Andrés Giménez,656638,Alex Lange,605137,Josh Bell,R,Eric Haase,606992,1,3,8,True,2023-04-19,Stolen,2B,2023,2024, 82.9, 0.65
+207,2B,3B,Stolen Base 3B,677951,Bobby Witt Jr.,641302,Tyler Alexander,641531,Hunter Dozier,L,Eric Haase,606992,5,1,3,False,2022-07-11,Stolen,3B,2022,2023, 83.1, 0.71
+208,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,501381,Michael Pineda,686469,Vinnie Pasquantino,R,Eric Haase,606992,0,0,1,False,2022-07-11,Stolen,2B,2022,2023, 83.1, 0.71
+209,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,501381,Michael Pineda,686469,Vinnie Pasquantino,R,Eric Haase,606992,2,1,6,False,2022-07-11,Stolen,2B,2022,2023, 83.1, 0.71
+210,1B,,Caught Stealing 2B,658668,Edward Olivares,676684,Will Vest,664728,Kyle Isbel,R,Eric Haase,606992,3,1,8,False,2022-07-11,Caught,2B,2022,2023, 83.1, 0.71
+211,1B,,Caught Stealing 2B,665926,Andrés Giménez,656412,Alex Faedo,680700,Richie Palacios,R,Eric Haase,606992,0,0,2,True,2022-07-04,Caught,2B,2022,2023, 83.1, 0.71
+212,1B,2B,Stolen Base 2B,593160,Whit Merrifield,689225,Beau Brieske,643217,Andrew Benintendi,R,Eric Haase,606992,0,0,1,True,2022-07-02,Stolen,2B,2022,2023, 83.1, 0.71
+213,2B,3B,Stolen Base 3B,593160,Whit Merrifield,501381,Michael Pineda,643217,Andrew Benintendi,R,Eric Haase,606992,0,1,3,True,2022-07-01,Stolen,3B,2022,2023, 83.1, 0.71
+214,1B,,Caught Stealing 2B,643217,Andrew Benintendi,501381,Michael Pineda,686469,Vinnie Pasquantino,R,Eric Haase,606992,0,1,3,True,2022-07-01,Caught,2B,2022,2023, 83.1, 0.71
+215,1B,2B,Stolen Base 2B,680776,Jarren Duran,656412,Alex Faedo,646240,Rafael Devers,R,Eric Haase,606992,0,0,1,False,2022-06-20,Stolen,2B,2022,2023, 83.1, 0.71
+216,2B,3B,Stolen Base 3B,598265,Jackie Bradley Jr.,656412,Alex Faedo,646240,Rafael Devers,R,Eric Haase,606992,3,1,4,False,2022-06-20,Stolen,3B,2022,2023, 83.1, 0.71
+217,1B,2B,Stolen Base 2B,680776,Jarren Duran,656412,Alex Faedo,646240,Rafael Devers,R,Eric Haase,606992,3,1,4,False,2022-06-20,Stolen,2B,2022,2023, 83.1, 0.71
+218,1B,,Caught Stealing 2B,644374,Yu Chang,656412,Alex Faedo,663647,Ke'Bryan Hayes,R,Eric Haase,606992,1,1,5,False,2022-06-08,Caught,2B,2022,2023, 83.1, 0.71
+219,1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,665621,Rony García,624431,Jose Trevino,R,Eric Haase,606992,0,2,5,False,2022-06-05,Stolen,2B,2022,2023, 83.1, 0.71
+220,1B,2B,Stolen Base 2B,519203,Anthony Rizzo,605242,Michael Fulmer,650402,Gleyber Torres,R,Eric Haase,606992,4,4,8,False,2022-06-05,Stolen,2B,2022,2023, 83.1, 0.71
+221,1B,2B,Stolen Base 2B,624503,Nick Gordon,671345,Jason Foley,570482,Gio Urshela,R,Eric Haase,606992,1,2,6,True,2022-06-02,Stolen,2B,2022,2023, 83.1, 0.71
+222,1B,2B,Stolen Base 2B,593871,Jorge Polanco,656638,Alex Lange,596142,Gary Sánchez,R,Eric Haase,606992,1,2,8,True,2022-06-02,Stolen,2B,2022,2023, 83.1, 0.71
+223,1B,2B,Stolen Base 2B,608070,José Ramírez,605242,Michael Fulmer,647304,Josh Naylor,R,Eric Haase,606992,2,1,8,True,2022-05-29,Stolen,2B,2022,2023, 83.1, 0.71
+224,1B,,Caught Stealing 2B,665926,Andrés Giménez,656412,Alex Faedo,680700,Richie Palacios,R,Eric Haase,606992,0,0,2,True,2022-05-27,Caught,2B,2022,2023, 83.1, 0.71
+225,1B,2B,Stolen Base 2B,642456,Luis Barrera,656412,Alex Faedo,665506,Cristian Pache,R,Eric Haase,606992,0,0,3,True,2022-05-10,Stolen,2B,2022,2023, 83.1, 0.71
+226,1B,2B,Stolen Base 2B,641914,Sheldon Neuse,656412,Alex Faedo,476704,Jed Lowrie,R,Eric Haase,606992,0,1,4,True,2022-05-10,Stolen,2B,2022,2023, 83.1, 0.71
+227,1B,2B,Stolen Base 2B,675656,Kevin Smith,605177,Andrew Chafin,642456,Luis Barrera,L,Eric Haase,606992,0,2,7,True,2022-05-10,Stolen,2B,2022,2023, 83.1, 0.71
+228,1B,,Caught Stealing 2B,663647,Ke'Bryan Hayes,676684,Will Vest,642165,Josh VanMeter,R,Eric Haase,606992,2,4,7,True,2022-05-04,Caught,2B,2022,2023, 83.1, 0.71
+229,1B,2B,Stolen Base 2B,545350,Jake Marisnick,641729,Joe Jiménez,592325,Ben Gamel,R,Eric Haase,606992,2,5,9,True,2022-05-04,Stolen,2B,2022,2023, 83.1, 0.71
+230,1B,,Caught Stealing 2B,663647,Ke'Bryan Hayes,676684,Will Vest,642165,Josh VanMeter,R,Eric Haase,606992,2,4,7,True,2022-05-03,Caught,2B,2022,2023, 83.1, 0.71
+231,1B,2B,Stolen Base 2B,545350,Jake Marisnick,641729,Joe Jiménez,592325,Ben Gamel,R,Eric Haase,606992,2,5,9,True,2022-05-03,Stolen,2B,2022,2023, 83.1, 0.71
+232,1B,,Caught Stealing 2B,624503,Nick Gordon,501381,Michael Pineda,621439,Byron Buxton,R,Eric Haase,606992,4,0,5,False,2022-04-27,Caught,2B,2022,2023, 83.1, 0.71
+233,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,501381,Michael Pineda,686469,Vinnie Pasquantino,R,Eric Haase,606992,0,0,1,False,2022-04-17,Stolen,2B,2022,2023, 83.1, 0.71
+234,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,501381,Michael Pineda,686469,Vinnie Pasquantino,R,Eric Haase,606992,2,1,6,False,2022-04-17,Stolen,2B,2022,2023, 83.1, 0.71
+235,1B,,Caught Stealing 2B,658668,Edward Olivares,676684,Will Vest,664728,Kyle Isbel,R,Eric Haase,606992,3,1,8,False,2022-04-17,Caught,2B,2022,2023, 83.1, 0.71
+236,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,663554,Casey Mize,572191,Michael A. Taylor,R,Eric Haase,606992,0,2,2,False,2022-04-14,Stolen,2B,2022,2023, 83.1, 0.71
+237,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,663554,Casey Mize,572191,Michael A. Taylor,R,Eric Haase,606992,1,2,4,False,2022-04-14,Stolen,2B,2022,2023, 83.1, 0.71
+238,1B,2B,Stolen Base 2B,593160,Whit Merrifield,663554,Casey Mize,677951,Bobby Witt Jr.,R,Eric Haase,606992,2,2,4,False,2022-04-14,Stolen,2B,2022,2023, 83.1, 0.71
+239,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,671345,Jason Foley,547989,José Abreu,R,Eric Haase,606992,2,5,7,True,2022-04-09,Stolen,2B,2022,2023, 83.1, 0.71
+240,1B,2B,Stolen Base 2B,683061,Alexander Vargas,605242,Michael Fulmer,503556,Marwin Gonzalez,R,Eric Haase,606992,1,3,6,False,2022-04-05,Stolen,2B,2022,2023, 83.1, 0.71

@@ -1,0 +1,31 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+0,1B,2B,Stolen Base 2B,425533,Jason Ellison,Ramon Hernandez,1,4,9,True,2004-09-30,Stolen,2B,2004
+324,1B,2B,Stolen Base 2B,425533,Jason Ellison,Gary Bennett,0,4,8,True,2004-09-16,Stolen,2B,2004
+370,1B,2B,Stolen Base 2B,425533,Jason Ellison,Ramon Hernandez,4,3,7,False,2005-09-12,Stolen,2B,2005
+604,1B,,Caught Stealing 2B,425533,Jason Ellison,JD Closser,2,1,3,False,2005-08-31,Caught,2B,2005
+1047,1B,2B,Stolen Base 2B,425533,Jason Ellison,Brad Ausmus,1,1,5,False,2005-08-07,Stolen,2B,2005
+1266,1B,,Caught Stealing 2B,425533,Jason Ellison,Michael Barrett,0,0,1,True,2005-07-27,Caught,2B,2005
+1268,1B,2B,Caught Stealing Home,425533,Jason Ellison,Michael Barrett,2,3,8,True,2005-07-27,Caught,Home,2005
+1357,1B,2B,Stolen Base 2B,425533,Jason Ellison,Paul Lo Duca,8,4,6,False,2005-07-22,Stolen,2B,2005
+1645,2B,3B,Stolen Base 3B,425533,Jason Ellison,Jason LaRue,3,3,2,False,2005-07-05,Stolen,3B,2005
+1780,1B,2B,Stolen Base 2B,425533,Jason Ellison,Chris Snyder,2,2,7,True,2005-06-29,Stolen,2B,2005
+1804,2B,3B,Stolen Base 3B,425533,Jason Ellison,Chris Snyder,3,4,5,True,2005-06-28,Stolen,3B,2005
+1993,1B,,Caught Stealing 2B,425533,Jason Ellison,Vance Wilson,4,2,5,True,2005-06-18,Caught,2B,2005
+2050,1B,,Caught Stealing 2B,425533,Jason Ellison,Joe Mauer,4,5,6,True,2005-06-15,Caught,2B,2005
+2147,1B,,Caught Stealing 2B,425533,Jason Ellison,John Buck,9,5,7,False,2005-06-09,Caught,2B,2005
+2373,1B,2B,Stolen Base 2B,425533,Jason Ellison,Ramon Hernandez,1,0,3,False,2005-05-28,Stolen,2B,2005
+2516,1B,2B,Stolen Base 2B,425533,Jason Ellison,Jason Kendall,0,0,1,False,2005-05-21,Stolen,2B,2005
+2520,1B,2B,Stolen Base 2B,425533,Jason Ellison,Jason Kendall,3,2,5,False,2005-05-21,Stolen,2B,2005
+2651,1B,2B,Stolen Base 2B,425533,Jason Ellison,Brad Ausmus,0,0,1,True,2005-05-14,Stolen,2B,2005
+3025,2B,3B,Stolen Base 3B,425533,Jason Ellison,Ramon Hernandez,6,1,6,False,2005-04-27,Stolen,3B,2005
+3034,1B,2B,Stolen Base 2B,425533,Jason Ellison,Ramon Hernandez,5,5,8,False,2005-04-26,Stolen,2B,2005
+3095,1B,2B,Stolen Base 2B,425533,Jason Ellison,Chad Moeller,5,2,8,False,2005-04-23,Stolen,2B,2005
+3357,1B,2B,Stolen Base 2B,425533,Jason Ellison,JD Closser,0,0,1,False,2005-04-10,Stolen,2B,2005
+20,1B,2B,Stolen Base 2B,425533,Jason Ellison,Jason Kendall,0,4,3,False,2007-09-30,Stolen,2B,2007
+1615,1B,,Caught Stealing 2B,425533,Jason Ellison,Gregg Zaun,2,4,8,True,2007-07-20,Caught,2B,2007
+1708,1B,,Caught Stealing 2B,425533,Jason Ellison,Ramon Hernandez,1,1,3,False,2007-07-16,Caught,2B,2007
+1819,1B,2B,Stolen Base 2B,425533,Jason Ellison,Mike Rabelo,3,2,8,False,2007-07-12,Stolen,2B,2007
+1835,1B,2B,Stolen Base 2B,425533,Jason Ellison,Jason Kendall,3,6,8,True,2007-07-08,Stolen,2B,2007
+2097,1B,2B,Stolen Base 2B,425533,Jason Ellison,Jason Varitek,1,1,8,False,2007-06-27,Stolen,2B,2007
+3074,1B,,Caught Stealing 2B,425533,Jason Ellison,Jorge Posada,3,0,8,False,2007-05-11,Caught,2B,2007
+2791,1B,2B,Stolen Base 2B,425533,Jason Ellison,Jorge Posada,5,2,4,True,2009-04-01,Stolen,2B,2009

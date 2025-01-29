@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+49,1B,2B,Stolen Base 2B,678882,Ceddanne Rafaela,James McCann,0,3,9,True,2023-09-29,Stolen,2B,2023
+520,1B,2B,Stolen Base 2B,678882,Ceddanne Rafaela,Adley Rutschman,7,3,8,False,2023-09-10,Stolen,2B,2023
+652,1B,,Caught Stealing 2B,678882,Ceddanne Rafaela,René Pinto,0,0,1,True,2023-09-05,Caught,2B,2023

@@ -1,0 +1,10 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,52,1B,2B,Stolen Base 2B,435559,Kurt Suzuki,519144,Rick Porcello,671277,Luis García Jr.,R,Robinson Chirinos,455139,3,0,3,False,2020-09-26,Stolen,2B,2020,2021,24.6
+1,57,1B,2B,Stolen Base 2B,435559,Kurt Suzuki,519144,Rick Porcello,671277,Luis García Jr.,R,Robinson Chirinos,455139,3,0,3,False,2020-09-25,Stolen,2B,2020,2021,24.6
+2,2895,1B,2B,Stolen Base 2B,435559,Kurt Suzuki,519144,Rick Porcello,671277,Luis García Jr.,R,Robinson Chirinos,455139,3,0,3,False,2020-09-26,Stolen,2B,2020,2021,24.6
+3,2900,1B,2B,Stolen Base 2B,435559,Kurt Suzuki,519144,Rick Porcello,671277,Luis García Jr.,R,Robinson Chirinos,455139,3,0,3,False,2020-09-25,Stolen,2B,2020,2021,24.6
+4,4819,1B,2B,Stolen Base 2B,435559,Kurt Suzuki,519144,Rick Porcello,671277,Luis García Jr.,R,Robinson Chirinos,455139,3,0,3,False,2020-09-26,Stolen,2B,2020,2021,24.6
+5,4824,1B,2B,Stolen Base 2B,435559,Kurt Suzuki,519144,Rick Porcello,671277,Luis García Jr.,R,Robinson Chirinos,455139,3,0,3,False,2020-09-25,Stolen,2B,2020,2021,24.6
+6,3830,1B,,Caught Stealing 2B,435559,Kurt Suzuki,670950,Trevor Richards,572821,Brian Dozier,R,Chad Wallach,595453,0,0,2,True,2019-04-21,Caught,2B,2019,2020,24.3
+7,6673,1B,,Caught Stealing 2B,435559,Kurt Suzuki,670950,Trevor Richards,572821,Brian Dozier,R,Chad Wallach,595453,0,0,2,True,2019-04-21,Caught,2B,2019,2020,24.3
+8,8597,1B,,Caught Stealing 2B,435559,Kurt Suzuki,670950,Trevor Richards,572821,Brian Dozier,R,Chad Wallach,595453,0,0,2,True,2019-04-21,Caught,2B,2019,2020,24.3

@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+126,1B,2B,Stolen Base 2B,673962,Josh Jung,Luke Maile,3,6,6,False,2022-09-23,Stolen,2B,2022
+400,1B,2B,Stolen Base 2B,673962,Josh Jung,Danny Jansen,2,3,7,False,2022-09-09,Stolen,2B,2022
+1685,1B,,Caught Stealing 2B,673962,Josh Jung,Will Smith,4,3,4,False,2023-07-21,Caught,2B,2023
+3232,1B,,Caught Stealing 2B,673962,Josh Jung,Shea Langeliers,0,1,2,True,2023-05-13,Caught,2B,2023
+3833,1B,2B,Stolen Base 2B,673962,Josh Jung,Salvador Perez,1,1,4,True,2023-04-18,Stolen,2B,2023

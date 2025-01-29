@@ -1,0 +1,18 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,679,1B,2B,Stolen Base 2B,592230,Kaleb Cowart,592229,Dylan Covey,458913,Eric Young Jr.,R,Rob Brantly,542963,0,1,5,True,2017-09-28,Stolen,2B,2017,2018,26.8
+1,1456,1B,,Caught Stealing 2B,592230,Kaleb Cowart,503285,Darren O'Day,519184,Ben Revere,R,Caleb Joseph,543376,5,7,9,True,2017-08-18,Caught,2B,2017,2018,26.8
+2,1554,1B,2B,Stolen Base 2B,592230,Kaleb Cowart,541640,Erasmo Ramírez,519184,Ben Revere,R,Mike Zunino,572287,2,1,5,True,2017-08-12,Stolen,2B,2017,2018,26.8
+3,1652,1B,2B,Stolen Base 2B,592230,Kaleb Cowart,571710,Mychal Givens,545361,Mike Trout,R,Welington Castillo,456078,2,6,8,False,2017-08-07,Stolen,2B,2017,2018,26.8
+4,1777,1B,2B,Stolen Base 2B,592230,Kaleb Cowart,623454,Drew Anderson,453203,Shane Robinson,R,Andrew Knapp,595284,7,1,8,False,2017-08-01,Stolen,2B,2017,2018,26.8
+5,1778,2B,3B,Stolen Base 2B,592230,Kaleb Cowart,623454,Drew Anderson,453203,Shane Robinson,R,Andrew Knapp,595284,7,1,8,False,2017-08-01,Stolen,2B,2017,2018,26.8
+6,2396,1B,,Caught Stealing 2B,592230,Kaleb Cowart,450729,Doug Fister,492802,Juan Graterol,R,Christian Vázquez,543877,1,3,5,True,2017-06-25,Caught,2B,2017,2018,26.8
+7,51,1B,2B,Stolen Base 2B,592230,Kaleb Cowart,592229,Dylan Covey,458913,Eric Young Jr.,R,Rob Brantly,542963,0,1,5,True,2017-09-28,Stolen,2B,2017,2018,26.8
+8,828,1B,,Caught Stealing 2B,592230,Kaleb Cowart,503285,Darren O'Day,519184,Ben Revere,R,Caleb Joseph,543376,5,7,9,True,2017-08-18,Caught,2B,2017,2018,26.8
+9,926,1B,2B,Stolen Base 2B,592230,Kaleb Cowart,541640,Erasmo Ramírez,519184,Ben Revere,R,Mike Zunino,572287,2,1,5,True,2017-08-12,Stolen,2B,2017,2018,26.8
+10,1024,1B,2B,Stolen Base 2B,592230,Kaleb Cowart,571710,Mychal Givens,545361,Mike Trout,R,Welington Castillo,456078,2,6,8,False,2017-08-07,Stolen,2B,2017,2018,26.8
+11,1149,1B,2B,Stolen Base 2B,592230,Kaleb Cowart,623454,Drew Anderson,453203,Shane Robinson,R,Andrew Knapp,595284,7,1,8,False,2017-08-01,Stolen,2B,2017,2018,26.8
+12,1150,2B,3B,Stolen Base 2B,592230,Kaleb Cowart,623454,Drew Anderson,453203,Shane Robinson,R,Andrew Knapp,595284,7,1,8,False,2017-08-01,Stolen,2B,2017,2018,26.8
+13,1768,1B,,Caught Stealing 2B,592230,Kaleb Cowart,450729,Doug Fister,492802,Juan Graterol,R,Christian Vázquez,543877,1,3,5,True,2017-06-25,Caught,2B,2017,2018,26.8
+14,4042,3B,score,Caught Stealing 2B,592230,Kaleb Cowart,502748,Brad Peacock,543068,C.J. Cron,R,Jason Castro,488771,4,1,2,False,2016-09-30,Caught,2B,2016,2017,27.4
+15,7,3B,score,Caught Stealing 2B,592230,Kaleb Cowart,502748,Brad Peacock,543068,C.J. Cron,R,Jason Castro,488771,4,1,2,False,2016-09-30,Caught,2B,2016,2017,27.4
+16,3414,3B,score,Caught Stealing 2B,592230,Kaleb Cowart,502748,Brad Peacock,543068,C.J. Cron,R,Jason Castro,488771,4,1,2,False,2016-09-30,Caught,2B,2016,2017,27.4

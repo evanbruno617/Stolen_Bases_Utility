@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1819,1B,2B,Stolen Base 2B,542994,Joey Butler,Roberto Pérez,0,0,1,True,2015-06-21,Stolen,2B,2015
+1944,2B,3B,Stolen Base 3B,542994,Joey Butler,Wilson Ramos,5,0,4,False,2015-06-15,Stolen,3B,2015
+2034,1B,,Caught Stealing 2B,542994,Joey Butler,Chris Iannetta,0,0,1,False,2015-06-11,Caught,2B,2015
+2160,1B,2B,Stolen Base 2B,542994,Joey Butler,Mike Zunino,0,0,1,True,2015-06-04,Stolen,2B,2015
+2161,2B,3B,Stolen Base 3B,542994,Joey Butler,Mike Zunino,0,1,4,True,2015-06-04,Stolen,3B,2015
+2182,1B,2B,Stolen Base 2B,542994,Joey Butler,Chris Iannetta,0,0,1,True,2015-06-03,Stolen,2B,2015
+2622,1B,2B,Caught Stealing 3B,542994,Joey Butler,Brian McCann,3,2,4,False,2015-05-13,Caught,3B,2015
+2700,1B,,Caught Stealing 2B,542994,Joey Butler,Robinson Chirinos,6,2,7,False,2015-05-09,Caught,2B,2015

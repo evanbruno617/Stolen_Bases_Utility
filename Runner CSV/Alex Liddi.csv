@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+154,1B,2B,Stolen Base 2B,499926,Alex Liddi,Matt Treanor,7,2,5,True,2011-09-24,Stolen,2B,2011
+477,1B,2B,Stolen Base 2B,499926,Alex Liddi,Derek Norris,1,3,5,False,2012-09-09,Stolen,2B,2012
+3627,1B,,Caught Stealing 2B,499926,Alex Liddi,Alex Avila,0,3,4,True,2012-04-26,Caught,2B,2012
+3673,1B,2B,Stolen Base 2B,499926,Alex Liddi,Alex Avila,3,4,5,True,2012-04-24,Stolen,2B,2012

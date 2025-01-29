@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+922,1B,,Caught Stealing 2B,600301,Taylor Motter,Matt Wieters,0,3,4,True,2016-06-24,Caught,2B,2016
+482,1B,2B,Stolen Base 2B,600301,Taylor Motter,Brian McCann,1,0,2,False,2017-09-04,Stolen,2B,2017
+670,1B,2B,Stolen Base 2B,600301,Taylor Motter,Austin Romine,4,1,7,True,2017-08-26,Stolen,2B,2017
+729,1B,2B,Stolen Base 2B,600301,Taylor Motter,Tyler Flowers,5,6,8,True,2017-08-23,Stolen,2B,2017
+1874,1B,2B,Stolen Base 2B,600301,Taylor Motter,Alex Avila,2,2,5,False,2017-06-19,Stolen,2B,2017
+1957,1B,2B,Stolen Base 2B,600301,Taylor Motter,Chris Gimenez,5,1,3,True,2017-06-15,Stolen,2B,2017
+2135,1B,2B,Stolen Base 2B,600301,Taylor Motter,Eduardo Escobar,3,0,1,False,2017-06-06,Stolen,2B,2017
+2170,1B,2B,Stolen Base 2B,600301,Taylor Motter,Jesús Sucre,6,0,6,False,2017-06-04,Stolen,2B,2017
+2193,1B,2B,Stolen Base 2B,600301,Taylor Motter,Jesús Sucre,3,1,4,False,2017-06-03,Stolen,2B,2017
+2549,1B,2B,Stolen Base 2B,600301,Taylor Motter,Stephen Vogt,6,3,8,False,2017-05-15,Stolen,2B,2017
+2607,1B,2B,Stolen Base 2B,600301,Taylor Motter,Luke Maile,0,0,2,True,2017-05-13,Stolen,2B,2017
+2976,1B,2B,Stolen Base 2B,600301,Taylor Motter,James McCann,0,2,1,True,2017-04-25,Stolen,2B,2017
+3040,1B,2B,Stolen Base 2B,600301,Taylor Motter,Stephen Vogt,0,1,4,True,2017-04-21,Stolen,2B,2017
+3393,1B,,Caught Stealing 2B,600301,Taylor Motter,Tony Wolters,1,0,5,True,2017-04-01,Caught,2B,2017
+1342,1B,2B,Stolen Base 2B,600301,Taylor Motter,Russell Martin,0,0,5,True,2018-07-24,Stolen,2B,2018

@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+110,1B,2B,Stolen Base 2B,572033,Josh Phegley,Yan Gomes,1,0,3,True,2013-09-24,Stolen,2B,2013
+375,1B,2B,Stolen Base 2B,572033,Josh Phegley,Alex Avila,0,0,5,False,2013-09-11,Stolen,2B,2013
+2395,1B,,Caught Stealing 2B,572033,Josh Phegley,J.T. Realmuto,2,0,2,False,2017-05-24,Caught,2B,2017
+1058,1B,,Caught Stealing 2B,572033,Josh Phegley,Tim Federowicz,3,0,2,False,2019-07-25,Caught,2B,2019

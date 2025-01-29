@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1228,1B,,Caught Stealing 2B,672356,Gabriel Arias,Taylor Ward,3,5,5,True,2020-07-22,Caught,2B,2020
+76,1B,2B,Stolen Base 2B,672356,Gabriel Arias,Christian Bethancourt,3,4,8,False,2022-09-27,Stolen,2B,2022
+402,1B,2B,Stolen Base 2B,672356,Gabriel Arias,Sam Huff,2,0,4,False,2023-09-15,Stolen,2B,2023
+936,3B,score,Stolen Base Home,672356,Gabriel Arias,Austin Barnes,2,0,2,False,2023-08-24,Stolen,Home,2023
+1083,1B,,Caught Stealing 2B,672356,Gabriel Arias,Eric Haase,4,1,8,False,2023-08-18,Caught,2B,2023
+1089,1B,,Caught Stealing 2B,672356,Gabriel Arias,Eric Haase,4,1,8,False,2023-08-17,Caught,2B,2023
+1564,1B,2B,Stolen Base 2B,672356,Gabriel Arias,Freddy Fermin,2,0,2,False,2023-07-26,Stolen,2B,2023
+2048,1B,,Caught Stealing 2B,672356,Gabriel Arias,Yan Gomes,6,8,10,True,2023-07-02,Caught,2B,2023
+3040,2B,3B,Caught Stealing 2B,672356,Gabriel Arias,Yasmani Grandal,1,0,2,False,2023-05-22,Caught,2B,2023
+3847,1B,,Caught Stealing 2B,672356,Gabriel Arias,Jake Rogers,0,0,3,True,2023-04-18,Caught,2B,2023
+3851,1B,,Caught Stealing 2B,672356,Gabriel Arias,Jake Rogers,0,0,3,True,2023-04-17,Caught,2B,2023

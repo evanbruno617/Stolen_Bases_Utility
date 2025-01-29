@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+273,1B,,Caught Stealing 2B,450317,J.P. Arencibia,Bobby Wilson,2,1,4,False,2011-09-19,Caught,2B,2011
+768,1B,2B,Stolen Base 2B,450317,J.P. Arencibia,John Jaso,6,3,5,False,2011-08-29,Stolen,2B,2011
+3721,1B,2B,Stolen Base 2B,450317,J.P. Arencibia,Humberto Quintero,2,5,8,True,2012-04-22,Stolen,2B,2012
+2049,1B,,Caught Stealing 2B,450317,J.P. Arencibia,Yorvit Torrealba,5,2,8,False,2013-06-19,Caught,2B,2013
+2415,1B,,Caught Stealing 2B,450317,J.P. Arencibia,Nick Hundley,3,3,13,True,2013-05-31,Caught,2B,2013

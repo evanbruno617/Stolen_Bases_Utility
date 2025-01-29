@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+787,1B,2B,Stolen Base 2B,124383,Dan Wilson,Jorge Posada,0,3,2,False,2000-08-28,Stolen,2B,2000
+921,1B,,Caught Stealing 2B,124383,Dan Wilson,Brad Ausmus,0,3,4,True,2000-08-23,Caught,2B,2000
+2467,1B,,Caught Stealing 2B,124383,Dan Wilson,Doug Mirabelli,0,0,2,True,2000-06-10,Caught,2B,2000
+427,1B,2B,Stolen Base 2B,124383,Dan Wilson,Jorge Posada,3,4,1,False,2001-05-18,Stolen,2B,2001
+3788,1B,2B,Stolen Base 2B,124383,Dan Wilson,Bengie Molina,3,0,7,True,2002-04-08,Stolen,2B,2002
+3498,1B,,Caught Stealing 2B,124383,Dan Wilson,José Molina,1,2,4,False,2004-04-06,Caught,2B,2004
+3355,2B,,Caught Stealing 3B,124383,Dan Wilson,Rod Barajas,0,0,3,False,2005-04-10,Caught,3B,2005

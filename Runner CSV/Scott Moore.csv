@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+59,1B,,Caught Stealing 2B,445599,Scott Moore,Jorge Posada,1,0,2,False,2007-09-28,Caught,2B,2007
+2348,1B,2B,Stolen Base 2B,445599,Scott Moore,Rod Barajas,0,4,5,False,2010-06-11,Stolen,2B,2010
+2366,1B,2B,Stolen Base 2B,445599,Scott Moore,Chad Moeller,4,3,6,False,2010-06-10,Stolen,2B,2010
+2489,1B,2B,Stolen Base 2B,445599,Scott Moore,Jason Varitek,0,2,2,False,2010-06-06,Stolen,2B,2010
+1443,1B,,Caught Stealing 2B,445599,Scott Moore,Jonathan Lucroy,0,1,2,True,2012-07-30,Caught,2B,2012

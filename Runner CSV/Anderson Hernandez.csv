@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+222,1B,,Caught Stealing 2B,435038,Anderson Hernandez,Paul Lo Duca,0,1,3,False,2005-09-20,Caught,2B,2005
+764,1B,,Caught Stealing 2B,435038,Anderson Hernandez,Matt Wieters,1,0,3,True,2009-06-28,Caught,2B,2009
+1091,1B,,Caught Stealing 2B,435038,Anderson Hernandez,Dioner Navarro,0,3,2,True,2009-06-12,Caught,2B,2009
+1347,1B,2B,Stolen Base 2B,435038,Anderson Hernandez,Bengie Molina,1,1,2,False,2009-06-02,Stolen,2B,2009
+1348,2B,3B,Stolen Base 3B,435038,Anderson Hernandez,Bengie Molina,4,5,6,False,2009-06-02,Stolen,3B,2009
+1695,1B,,Caught Stealing 2B,435038,Anderson Hernandez,Carlos Ruiz,5,3,3,False,2009-05-17,Caught,2B,2009
+1736,1B,2B,Stolen Base 2B,435038,Anderson Hernandez,Chris Coste,2,6,5,False,2009-05-16,Stolen,2B,2009
+2041,1B,2B,Stolen Base 2B,435038,Anderson Hernandez,Carlos Ruiz,1,0,7,True,2009-05-03,Stolen,2B,2009
+2155,1B,2B,Stolen Base 2B,435038,Anderson Hernandez,Chris Coste,1,3,6,True,2009-04-29,Stolen,2B,2009
+2424,1B,2B,Stolen Base 2B,435038,Anderson Hernandez,John Baker,6,3,7,False,2009-04-18,Stolen,2B,2009
+2482,1B,2B,Stolen Base 2B,435038,Anderson Hernandez,Chris Coste,2,6,5,False,2009-04-15,Stolen,2B,2009
+222,2B,3B,Stolen Base 3B,435038,Anderson Hernandez,Ivan Rodriguez,1,3,8,True,2010-09-21,Stolen,3B,2010
+819,1B,2B,Stolen Base 2B,435038,Anderson Hernandez,Carlos Ruiz,2,3,9,True,2010-08-23,Stolen,2B,2010
+2431,2B,3B,Stolen Base 3B,435038,Anderson Hernandez,Victor Martinez,2,3,8,False,2010-06-08,Stolen,3B,2010

@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+256,1B,2B,Stolen Base 2B,501961,Derrick Robinson,Cody Clark,0,5,4,True,2013-09-17,Stolen,2B,2013
+1138,1B,,Caught Stealing 2B,501961,Derrick Robinson,Stephen Vogt,3,0,5,False,2013-08-06,Caught,2B,2013
+1259,2B,,Caught Stealing 3B,501961,Derrick Robinson,René Rivera,0,1,3,True,2013-07-31,Caught,3B,2013
+1430,1B,2B,Stolen Base 2B,501961,Derrick Robinson,Buster Posey,0,0,1,True,2013-07-22,Stolen,2B,2013
+1912,2B,3B,Stolen Base 3B,501961,Derrick Robinson,Stephen Vogt,0,0,1,True,2013-06-26,Stolen,3B,2013
+2727,1B,,Caught Stealing 2B,501961,Derrick Robinson,Jeff Mathis,1,2,9,True,2013-05-16,Caught,2B,2013
+3214,1B,2B,Stolen Base 2B,501961,Derrick Robinson,Welington Castillo,2,2,10,False,2013-04-22,Stolen,2B,2013

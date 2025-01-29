@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+305,1B,2B,Stolen Base 2B,425774,Dallas McPherson,Dan Wilson,1,6,8,True,2004-09-16,Stolen,2B,2004
+306,2B,3B,Stolen Base 2B,425774,Dallas McPherson,Dan Wilson,1,6,8,True,2004-09-16,Stolen,2B,2004
+1749,1B,2B,Stolen Base 2B,425774,Dallas McPherson,John Buck,0,1,2,True,2005-07-01,Stolen,2B,2005
+1946,2B,,Caught Stealing 3B,425774,Dallas McPherson,Rod Barajas,3,1,4,False,2005-06-20,Caught,3B,2005
+2163,1B,2B,Stolen Base 2B,425774,Dallas McPherson,Brayan Peña,0,3,3,True,2005-06-08,Stolen,2B,2005
+2871,1B,,Caught Stealing 2B,425774,Dallas McPherson,Miguel Olivo,2,4,3,True,2005-05-04,Caught,2B,2005
+3044,2B,3B,Stolen Base 3B,425774,Dallas McPherson,Jorge Posada,5,2,4,True,2005-04-26,Stolen,3B,2005
+3198,1B,,Caught Stealing 2B,425774,Dallas McPherson,Miguel Olivo,3,0,4,False,2005-04-18,Caught,2B,2005

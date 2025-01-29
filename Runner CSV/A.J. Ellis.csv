@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3884,1B,,Caught Stealing 2B,454560,A.J. Ellis,Geovany Soto,1,8,5,True,2011-04-22,Caught,2B,2011
+162,1B,,Caught Stealing 2B,454560,A.J. Ellis,Nick Hundley,0,4,8,True,2013-09-21,Caught,2B,2013
+571,1B,,Caught Stealing 2B,454560,A.J. Ellis,Wilin Rosario,3,2,3,True,2013-09-02,Caught,2B,2013
+343,1B,2B,Stolen Base 2B,454560,A.J. Ellis,Luke Maile,1,0,2,False,2016-07-27,Stolen,2B,2016

@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1866,1B,,Caught Stealing 2B,133226,Mike Redmond,Toby Hall,4,4,7,True,2002-06-30,Caught,2B,2002
+2927,1B,,Caught Stealing 2B,133226,Mike Redmond,Gary Bennett,2,6,9,True,2002-05-14,Caught,2B,2002
+398,1B,2B,Caught Stealing 3B,133226,Mike Redmond,Mike Piazza,0,0,1,True,2003-09-10,Caught,3B,2003
+2520,1B,2B,Stolen Base 2B,133226,Mike Redmond,Jason LaRue,0,3,9,True,2004-05-26,Stolen,2B,2004

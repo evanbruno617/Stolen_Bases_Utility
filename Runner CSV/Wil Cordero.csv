@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3523,1B,,Caught Stealing 2B,112680,Wil Cordero,Wiki Gonzalez,2,4,4,False,2000-04-26,Caught,2B,2000
+3856,1B,,Caught Stealing 2B,112680,Wil Cordero,Chris Widger,6,4,7,False,2000-04-12,Caught,2B,2000
+3982,1B,2B,Stolen Base 2B,112680,Wil Cordero,Mitch Meluskey,2,0,5,False,2000-04-06,Stolen,2B,2000
+75,1B,2B,Stolen Base 2B,112680,Wil Cordero,Ramon Castro,3,3,6,False,2002-09-26,Stolen,2B,2002
+1932,1B,2B,Stolen Base 2B,112680,Wil Cordero,Jason Kendall,2,1,4,True,2002-06-27,Stolen,2B,2002
+1120,1B,,Caught Stealing 2B,112680,Wil Cordero,Keith Osik,1,0,2,False,2003-08-03,Caught,2B,2003
+1965,1B,2B,Stolen Base 2B,112680,Wil Cordero,Greg Myers,0,2,2,False,2003-06-20,Stolen,2B,2003
+2660,2B,3B,Caught Stealing Home,112680,Wil Cordero,Charles Johnson,4,6,10,True,2003-05-17,Caught,Home,2003
+3131,1B,2B,Stolen Base 2B,112680,Wil Cordero,Johnny Estrada,6,3,7,False,2004-04-24,Stolen,2B,2004

@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+834,1B,2B,Stolen Base 2B,642707,Allen Córdoba,Matt Wieters,1,1,7,False,2017-08-17,Stolen,2B,2017
+2066,1B,,Caught Stealing 2B,642707,Allen Córdoba,Salvador Perez,3,2,8,False,2017-06-09,Caught,2B,2017
+2507,1B,2B,Stolen Base 2B,642707,Allen Córdoba,Jett Bandy,1,1,7,False,2017-05-17,Stolen,2B,2017
+3230,1B,,Caught Stealing 2B,642707,Allen Córdoba,Dustin Garneau,0,1,5,True,2017-04-10,Caught,2B,2017
+3163,3B,score,Stolen Base Home,642707,Allen Córdoba,Cal Raleigh,8,9,8,False,2022-04-05,Stolen,Home,2022

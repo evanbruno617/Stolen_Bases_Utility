@@ -1,0 +1,299 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4,2B,3B,Stolen Base 3B,502054,Tommy Pham,650893,Génesis Cabrera,543592,Austin Nola,L,Yadier Molina,425877,4,6,6,False,2020-09-30,Stolen,3B,2020,2021,27.8
+1,830,1B,2B,Stolen Base 2B,502054,Tommy Pham,592662,Robbie Ray,630105,Jake Cronenworth,L,Stephen Vogt,519390,0,0,2,True,2020-08-16,Stolen,2B,2020,2021,27.8
+2,1110,2B,3B,Stolen Base 3B,502054,Tommy Pham,453268,Daniel Bard,571976,Wil Myers,R,Tony Wolters,547172,2,3,6,True,2020-07-31,Stolen,3B,2020,2021,27.8
+3,1204,1B,2B,Stolen Base 2B,502054,Tommy Pham,592662,Robbie Ray,664034,Ty France,L,Stephen Vogt,519390,0,1,4,False,2020-07-25,Stolen,2B,2020,2021,27.8
+4,1205,1B,2B,Stolen Base 2B,502054,Tommy Pham,592233,Stefan Crichton,595777,Jurickson Profar,R,Stephen Vogt,519390,3,1,5,False,2020-07-25,Stolen,2B,2020,2021,27.8
+5,1222,1B,2B,Stolen Base 2B,502054,Tommy Pham,518516,Madison Bumgarner,595777,Jurickson Profar,L,Carson Kelly,608348,0,0,6,False,2020-07-24,Stolen,2B,2020,2021,27.8
+6,1223,1B,2B,Stolen Base 2B,502054,Tommy Pham,656464,Kevin Ginkel,595777,Jurickson Profar,R,Carson Kelly,608348,4,1,7,False,2020-07-24,Stolen,2B,2020,2021,27.8
+7,2847,2B,3B,Stolen Base 3B,502054,Tommy Pham,650893,Génesis Cabrera,543592,Austin Nola,L,Yadier Molina,425877,4,6,6,False,2020-09-30,Stolen,3B,2020,2021,27.8
+8,3673,1B,2B,Stolen Base 2B,502054,Tommy Pham,592662,Robbie Ray,630105,Jake Cronenworth,L,Stephen Vogt,519390,0,0,2,True,2020-08-16,Stolen,2B,2020,2021,27.8
+9,3953,2B,3B,Stolen Base 3B,502054,Tommy Pham,453268,Daniel Bard,571976,Wil Myers,R,Tony Wolters,547172,2,3,6,True,2020-07-31,Stolen,3B,2020,2021,27.8
+10,4047,1B,2B,Stolen Base 2B,502054,Tommy Pham,592662,Robbie Ray,664034,Ty France,L,Stephen Vogt,519390,0,1,4,False,2020-07-25,Stolen,2B,2020,2021,27.8
+11,4048,1B,2B,Stolen Base 2B,502054,Tommy Pham,592233,Stefan Crichton,595777,Jurickson Profar,R,Stephen Vogt,519390,3,1,5,False,2020-07-25,Stolen,2B,2020,2021,27.8
+12,4065,1B,2B,Stolen Base 2B,502054,Tommy Pham,518516,Madison Bumgarner,595777,Jurickson Profar,L,Carson Kelly,608348,0,0,6,False,2020-07-24,Stolen,2B,2020,2021,27.8
+13,4066,1B,2B,Stolen Base 2B,502054,Tommy Pham,656464,Kevin Ginkel,595777,Jurickson Profar,R,Carson Kelly,608348,4,1,7,False,2020-07-24,Stolen,2B,2020,2021,27.8
+14,4771,2B,3B,Stolen Base 3B,502054,Tommy Pham,650893,Génesis Cabrera,543592,Austin Nola,L,Yadier Molina,425877,4,6,6,False,2020-09-30,Stolen,3B,2020,2021,27.8
+15,5597,1B,2B,Stolen Base 2B,502054,Tommy Pham,592662,Robbie Ray,630105,Jake Cronenworth,L,Stephen Vogt,519390,0,0,2,True,2020-08-16,Stolen,2B,2020,2021,27.8
+16,5877,2B,3B,Stolen Base 3B,502054,Tommy Pham,453268,Daniel Bard,571976,Wil Myers,R,Tony Wolters,547172,2,3,6,True,2020-07-31,Stolen,3B,2020,2021,27.8
+17,5971,1B,2B,Stolen Base 2B,502054,Tommy Pham,592662,Robbie Ray,664034,Ty France,L,Stephen Vogt,519390,0,1,4,False,2020-07-25,Stolen,2B,2020,2021,27.8
+18,5972,1B,2B,Stolen Base 2B,502054,Tommy Pham,592233,Stefan Crichton,595777,Jurickson Profar,R,Stephen Vogt,519390,3,1,5,False,2020-07-25,Stolen,2B,2020,2021,27.8
+19,5989,1B,2B,Stolen Base 2B,502054,Tommy Pham,518516,Madison Bumgarner,595777,Jurickson Profar,L,Carson Kelly,608348,0,0,6,False,2020-07-24,Stolen,2B,2020,2021,27.8
+20,5990,1B,2B,Stolen Base 2B,502054,Tommy Pham,656464,Kevin Ginkel,595777,Jurickson Profar,R,Carson Kelly,608348,4,1,7,False,2020-07-24,Stolen,2B,2020,2021,27.8
+21,1270,2B,3B,Stolen Base 3B,502054,Tommy Pham,605447,Jordan Romano,628338,Guillermo Heredia,R,Luke Maile,571912,8,3,8,True,2019-09-29,Stolen,3B,2019,2020,28.2
+22,1304,1B,2B,Stolen Base 2B,502054,Tommy Pham,663423,Trent Thornton,664040,Brandon Lowe,R,Danny Jansen,643376,0,0,1,True,2019-09-28,Stolen,2B,2019,2020,28.2
+23,1448,1B,2B,Stolen Base 2B,502054,Tommy Pham,445276,Kenley Jansen,622110,Matt Duffy,R,Will Smith,669257,6,4,9,True,2019-09-18,Stolen,2B,2019,2020,28.2
+24,1502,1B,2B,Stolen Base 2B,502054,Tommy Pham,663776,Patrick Sandoval,541645,Avisaíl García,L,Kevan Smith,607345,3,1,3,True,2019-09-15,Stolen,2B,2019,2020,28.2
+25,1540,1B,2B,Stolen Base 2B,502054,Tommy Pham,518566,Taylor Cole,640457,Austin Meadows,R,Kevan Smith,607345,3,7,7,True,2019-09-13,Stolen,2B,2019,2020,28.2
+26,1688,2B,3B,Stolen Base 3B,502054,Tommy Pham,592094,Jason Adam,518595,Travis d'Arnaud,R,Reese McGuire,624512,5,4,7,False,2019-09-05,Stolen,3B,2019,2020,28.2
+27,1727,1B,2B,Stolen Base 2B,502054,Tommy Pham,542888,Shawn Armstrong,518595,Travis d'Arnaud,R,Chance Sisco,642082,2,3,6,False,2019-09-03,Stolen,2B,2019,2020,28.2
+28,1742,1B,2B,Stolen Base 2B,502054,Tommy Pham,656945,Tanner Scott,596847,Ji Man Choi,L,Pedro Severino,600474,4,4,8,False,2019-09-02,Stolen,2B,2019,2020,28.2
+29,1759,2B,3B,Stolen Base 3B,502054,Tommy Pham,592644,Adam Plutko,642715,Willy Adames,R,Eric Haase,606992,1,0,1,False,2019-09-01,Stolen,3B,2019,2020,28.2
+30,1926,1B,2B,Stolen Base 2B,502054,Tommy Pham,518715,Cory Gearrin,640457,Austin Meadows,R,Omar Narváez,553882,0,0,1,False,2019-08-21,Stolen,2B,2019,2020,28.2
+31,1927,2B,3B,Stolen Base 3B,502054,Tommy Pham,518715,Cory Gearrin,518595,Travis d'Arnaud,R,Omar Narváez,553882,1,0,1,False,2019-08-21,Stolen,3B,2019,2020,28.2
+32,1937,1B,2B,Stolen Base 2B,502054,Tommy Pham,543548,Tommy Milone,596847,Ji Man Choi,L,Tom Murphy,608596,4,2,4,False,2019-08-20,Stolen,2B,2019,2020,28.2
+33,2176,1B,2B,Stolen Base 2B,502054,Tommy Pham,592761,Caleb Smith,518595,Travis d'Arnaud,L,Bryan Holaday,592407,1,0,1,False,2019-08-04,Stolen,2B,2019,2020,28.2
+34,2309,1B,2B,Stolen Base 2B,502054,Tommy Pham,621097,Jacob Waguespack,640457,Austin Meadows,R,Danny Jansen,643376,0,0,1,True,2019-07-26,Stolen,2B,2019,2020,28.2
+35,2346,1B,2B,Stolen Base 2B,502054,Tommy Pham,456034,David Price,640457,Austin Meadows,L,Christian Vázquez,543877,0,0,1,False,2019-07-24,Stolen,2B,2019,2020,28.2
+36,2490,1B,2B,Stolen Base 2B,502054,Tommy Pham,572020,James Paxton,650490,Yandy Díaz,L,Gary Sánchez,596142,0,1,1,True,2019-07-15,Stolen,2B,2019,2020,28.2
+37,2542,1B,2B,Stolen Base 2B,502054,Tommy Pham,642231,Jimmy Yacabonis,595281,Kevin Kiermaier,R,Pedro Severino,600474,0,1,3,True,2019-07-13,Stolen,2B,2019,2020,28.2
+38,2591,1B,2B,Stolen Base 2B,502054,Tommy Pham,493603,Adam Ottavino,650490,Yandy Díaz,R,Gary Sánchez,596142,3,2,8,False,2019-07-06,Stolen,2B,2019,2020,28.2
+39,2839,2B,3B,Stolen Base 3B,502054,Tommy Pham,595014,Blake Treinen,541645,Avisaíl García,R,Josh Phegley,572033,1,2,9,True,2019-06-20,Stolen,3B,2019,2020,28.2
+40,3467,1B,,Caught Stealing 2B,502054,Tommy Pham,592761,Caleb Smith,621002,Daniel Robertson,L,Jorge Alfaro,595751,0,1,4,True,2019-05-14,Caught,2B,2019,2020,28.2
+41,3614,1B,2B,Stolen Base 2B,502054,Tommy Pham,642231,Jimmy Yacabonis,595281,Kevin Kiermaier,R,Pedro Severino,600474,0,1,3,True,2019-05-05,Stolen,2B,2019,2020,28.2
+42,3873,1B,,Caught Stealing 2B,502054,Tommy Pham,519443,Brandon Workman,640457,Austin Meadows,R,Christian Vázquez,543877,4,4,7,False,2019-04-19,Caught,2B,2019,2020,28.2
+43,3890,1B,2B,Stolen Base 2B,502054,Tommy Pham,488768,Andrew Cashner,596847,Ji Man Choi,R,Pedro Severino,600474,2,3,5,False,2019-04-18,Stolen,2B,2019,2020,28.2
+44,3891,2B,,Caught Stealing 3B,502054,Tommy Pham,571710,Mychal Givens,596847,Ji Man Choi,R,Pedro Severino,600474,5,5,9,False,2019-04-18,Caught,3B,2019,2020,28.2
+45,3987,2B,3B,Caught Stealing 2B,502054,Tommy Pham,453329,Clay Buchholz,650490,Yandy Díaz,R,Luke Maile,571912,0,0,1,True,2019-04-13,Caught,2B,2019,2020,28.2
+46,4088,2B,3B,Stolen Base 3B,502054,Tommy Pham,607074,Carlos Rodón,541645,Avisaíl García,L,James McCann,543510,0,4,2,True,2019-04-08,Stolen,3B,2019,2020,28.2
+47,4090,1B,2B,Stolen Base 2B,502054,Tommy Pham,607074,Carlos Rodón,621002,Daniel Robertson,L,James McCann,543510,0,4,4,True,2019-04-08,Stolen,2B,2019,2020,28.2
+48,4189,1B,2B,Stolen Base 2B,502054,Tommy Pham,543766,Bryan Shaw,664040,Brandon Lowe,R,Chris Iannetta,455104,4,0,8,False,2019-04-02,Stolen,2B,2019,2020,28.2
+49,4113,2B,3B,Stolen Base 3B,502054,Tommy Pham,605447,Jordan Romano,628338,Guillermo Heredia,R,Luke Maile,571912,8,3,8,True,2019-09-29,Stolen,3B,2019,2020,28.2
+50,4147,1B,2B,Stolen Base 2B,502054,Tommy Pham,663423,Trent Thornton,664040,Brandon Lowe,R,Danny Jansen,643376,0,0,1,True,2019-09-28,Stolen,2B,2019,2020,28.2
+51,4291,1B,2B,Stolen Base 2B,502054,Tommy Pham,445276,Kenley Jansen,622110,Matt Duffy,R,Will Smith,669257,6,4,9,True,2019-09-18,Stolen,2B,2019,2020,28.2
+52,4345,1B,2B,Stolen Base 2B,502054,Tommy Pham,663776,Patrick Sandoval,541645,Avisaíl García,L,Kevan Smith,607345,3,1,3,True,2019-09-15,Stolen,2B,2019,2020,28.2
+53,4383,1B,2B,Stolen Base 2B,502054,Tommy Pham,518566,Taylor Cole,640457,Austin Meadows,R,Kevan Smith,607345,3,7,7,True,2019-09-13,Stolen,2B,2019,2020,28.2
+54,4531,2B,3B,Stolen Base 3B,502054,Tommy Pham,592094,Jason Adam,518595,Travis d'Arnaud,R,Reese McGuire,624512,5,4,7,False,2019-09-05,Stolen,3B,2019,2020,28.2
+55,4570,1B,2B,Stolen Base 2B,502054,Tommy Pham,542888,Shawn Armstrong,518595,Travis d'Arnaud,R,Chance Sisco,642082,2,3,6,False,2019-09-03,Stolen,2B,2019,2020,28.2
+56,4585,1B,2B,Stolen Base 2B,502054,Tommy Pham,656945,Tanner Scott,596847,Ji Man Choi,L,Pedro Severino,600474,4,4,8,False,2019-09-02,Stolen,2B,2019,2020,28.2
+57,4602,2B,3B,Stolen Base 3B,502054,Tommy Pham,592644,Adam Plutko,642715,Willy Adames,R,Eric Haase,606992,1,0,1,False,2019-09-01,Stolen,3B,2019,2020,28.2
+58,4769,1B,2B,Stolen Base 2B,502054,Tommy Pham,518715,Cory Gearrin,640457,Austin Meadows,R,Omar Narváez,553882,0,0,1,False,2019-08-21,Stolen,2B,2019,2020,28.2
+59,4770,2B,3B,Stolen Base 3B,502054,Tommy Pham,518715,Cory Gearrin,518595,Travis d'Arnaud,R,Omar Narváez,553882,1,0,1,False,2019-08-21,Stolen,3B,2019,2020,28.2
+60,4780,1B,2B,Stolen Base 2B,502054,Tommy Pham,543548,Tommy Milone,596847,Ji Man Choi,L,Tom Murphy,608596,4,2,4,False,2019-08-20,Stolen,2B,2019,2020,28.2
+61,5019,1B,2B,Stolen Base 2B,502054,Tommy Pham,592761,Caleb Smith,518595,Travis d'Arnaud,L,Bryan Holaday,592407,1,0,1,False,2019-08-04,Stolen,2B,2019,2020,28.2
+62,5152,1B,2B,Stolen Base 2B,502054,Tommy Pham,621097,Jacob Waguespack,640457,Austin Meadows,R,Danny Jansen,643376,0,0,1,True,2019-07-26,Stolen,2B,2019,2020,28.2
+63,5189,1B,2B,Stolen Base 2B,502054,Tommy Pham,456034,David Price,640457,Austin Meadows,L,Christian Vázquez,543877,0,0,1,False,2019-07-24,Stolen,2B,2019,2020,28.2
+64,5333,1B,2B,Stolen Base 2B,502054,Tommy Pham,572020,James Paxton,650490,Yandy Díaz,L,Gary Sánchez,596142,0,1,1,True,2019-07-15,Stolen,2B,2019,2020,28.2
+65,5385,1B,2B,Stolen Base 2B,502054,Tommy Pham,642231,Jimmy Yacabonis,595281,Kevin Kiermaier,R,Pedro Severino,600474,0,1,3,True,2019-07-13,Stolen,2B,2019,2020,28.2
+66,5434,1B,2B,Stolen Base 2B,502054,Tommy Pham,493603,Adam Ottavino,650490,Yandy Díaz,R,Gary Sánchez,596142,3,2,8,False,2019-07-06,Stolen,2B,2019,2020,28.2
+67,5682,2B,3B,Stolen Base 3B,502054,Tommy Pham,595014,Blake Treinen,541645,Avisaíl García,R,Josh Phegley,572033,1,2,9,True,2019-06-20,Stolen,3B,2019,2020,28.2
+68,6310,1B,,Caught Stealing 2B,502054,Tommy Pham,592761,Caleb Smith,621002,Daniel Robertson,L,Jorge Alfaro,595751,0,1,4,True,2019-05-14,Caught,2B,2019,2020,28.2
+69,6457,1B,2B,Stolen Base 2B,502054,Tommy Pham,642231,Jimmy Yacabonis,595281,Kevin Kiermaier,R,Pedro Severino,600474,0,1,3,True,2019-05-05,Stolen,2B,2019,2020,28.2
+70,6716,1B,,Caught Stealing 2B,502054,Tommy Pham,519443,Brandon Workman,640457,Austin Meadows,R,Christian Vázquez,543877,4,4,7,False,2019-04-19,Caught,2B,2019,2020,28.2
+71,6733,1B,2B,Stolen Base 2B,502054,Tommy Pham,488768,Andrew Cashner,596847,Ji Man Choi,R,Pedro Severino,600474,2,3,5,False,2019-04-18,Stolen,2B,2019,2020,28.2
+72,6734,2B,,Caught Stealing 3B,502054,Tommy Pham,571710,Mychal Givens,596847,Ji Man Choi,R,Pedro Severino,600474,5,5,9,False,2019-04-18,Caught,3B,2019,2020,28.2
+73,6830,2B,3B,Caught Stealing 2B,502054,Tommy Pham,453329,Clay Buchholz,650490,Yandy Díaz,R,Luke Maile,571912,0,0,1,True,2019-04-13,Caught,2B,2019,2020,28.2
+74,6931,2B,3B,Stolen Base 3B,502054,Tommy Pham,607074,Carlos Rodón,541645,Avisaíl García,L,James McCann,543510,0,4,2,True,2019-04-08,Stolen,3B,2019,2020,28.2
+75,6933,1B,2B,Stolen Base 2B,502054,Tommy Pham,607074,Carlos Rodón,621002,Daniel Robertson,L,James McCann,543510,0,4,4,True,2019-04-08,Stolen,2B,2019,2020,28.2
+76,7032,1B,2B,Stolen Base 2B,502054,Tommy Pham,543766,Bryan Shaw,664040,Brandon Lowe,R,Chris Iannetta,455104,4,0,8,False,2019-04-02,Stolen,2B,2019,2020,28.2
+77,6037,2B,3B,Stolen Base 3B,502054,Tommy Pham,605447,Jordan Romano,628338,Guillermo Heredia,R,Luke Maile,571912,8,3,8,True,2019-09-29,Stolen,3B,2019,2020,28.2
+78,6071,1B,2B,Stolen Base 2B,502054,Tommy Pham,663423,Trent Thornton,664040,Brandon Lowe,R,Danny Jansen,643376,0,0,1,True,2019-09-28,Stolen,2B,2019,2020,28.2
+79,6215,1B,2B,Stolen Base 2B,502054,Tommy Pham,445276,Kenley Jansen,622110,Matt Duffy,R,Will Smith,669257,6,4,9,True,2019-09-18,Stolen,2B,2019,2020,28.2
+80,6269,1B,2B,Stolen Base 2B,502054,Tommy Pham,663776,Patrick Sandoval,541645,Avisaíl García,L,Kevan Smith,607345,3,1,3,True,2019-09-15,Stolen,2B,2019,2020,28.2
+81,6307,1B,2B,Stolen Base 2B,502054,Tommy Pham,518566,Taylor Cole,640457,Austin Meadows,R,Kevan Smith,607345,3,7,7,True,2019-09-13,Stolen,2B,2019,2020,28.2
+82,6455,2B,3B,Stolen Base 3B,502054,Tommy Pham,592094,Jason Adam,518595,Travis d'Arnaud,R,Reese McGuire,624512,5,4,7,False,2019-09-05,Stolen,3B,2019,2020,28.2
+83,6494,1B,2B,Stolen Base 2B,502054,Tommy Pham,542888,Shawn Armstrong,518595,Travis d'Arnaud,R,Chance Sisco,642082,2,3,6,False,2019-09-03,Stolen,2B,2019,2020,28.2
+84,6509,1B,2B,Stolen Base 2B,502054,Tommy Pham,656945,Tanner Scott,596847,Ji Man Choi,L,Pedro Severino,600474,4,4,8,False,2019-09-02,Stolen,2B,2019,2020,28.2
+85,6526,2B,3B,Stolen Base 3B,502054,Tommy Pham,592644,Adam Plutko,642715,Willy Adames,R,Eric Haase,606992,1,0,1,False,2019-09-01,Stolen,3B,2019,2020,28.2
+86,6693,1B,2B,Stolen Base 2B,502054,Tommy Pham,518715,Cory Gearrin,640457,Austin Meadows,R,Omar Narváez,553882,0,0,1,False,2019-08-21,Stolen,2B,2019,2020,28.2
+87,6694,2B,3B,Stolen Base 3B,502054,Tommy Pham,518715,Cory Gearrin,518595,Travis d'Arnaud,R,Omar Narváez,553882,1,0,1,False,2019-08-21,Stolen,3B,2019,2020,28.2
+88,6704,1B,2B,Stolen Base 2B,502054,Tommy Pham,543548,Tommy Milone,596847,Ji Man Choi,L,Tom Murphy,608596,4,2,4,False,2019-08-20,Stolen,2B,2019,2020,28.2
+89,6943,1B,2B,Stolen Base 2B,502054,Tommy Pham,592761,Caleb Smith,518595,Travis d'Arnaud,L,Bryan Holaday,592407,1,0,1,False,2019-08-04,Stolen,2B,2019,2020,28.2
+90,7076,1B,2B,Stolen Base 2B,502054,Tommy Pham,621097,Jacob Waguespack,640457,Austin Meadows,R,Danny Jansen,643376,0,0,1,True,2019-07-26,Stolen,2B,2019,2020,28.2
+91,7113,1B,2B,Stolen Base 2B,502054,Tommy Pham,456034,David Price,640457,Austin Meadows,L,Christian Vázquez,543877,0,0,1,False,2019-07-24,Stolen,2B,2019,2020,28.2
+92,7257,1B,2B,Stolen Base 2B,502054,Tommy Pham,572020,James Paxton,650490,Yandy Díaz,L,Gary Sánchez,596142,0,1,1,True,2019-07-15,Stolen,2B,2019,2020,28.2
+93,7309,1B,2B,Stolen Base 2B,502054,Tommy Pham,642231,Jimmy Yacabonis,595281,Kevin Kiermaier,R,Pedro Severino,600474,0,1,3,True,2019-07-13,Stolen,2B,2019,2020,28.2
+94,7358,1B,2B,Stolen Base 2B,502054,Tommy Pham,493603,Adam Ottavino,650490,Yandy Díaz,R,Gary Sánchez,596142,3,2,8,False,2019-07-06,Stolen,2B,2019,2020,28.2
+95,7606,2B,3B,Stolen Base 3B,502054,Tommy Pham,595014,Blake Treinen,541645,Avisaíl García,R,Josh Phegley,572033,1,2,9,True,2019-06-20,Stolen,3B,2019,2020,28.2
+96,8234,1B,,Caught Stealing 2B,502054,Tommy Pham,592761,Caleb Smith,621002,Daniel Robertson,L,Jorge Alfaro,595751,0,1,4,True,2019-05-14,Caught,2B,2019,2020,28.2
+97,8381,1B,2B,Stolen Base 2B,502054,Tommy Pham,642231,Jimmy Yacabonis,595281,Kevin Kiermaier,R,Pedro Severino,600474,0,1,3,True,2019-05-05,Stolen,2B,2019,2020,28.2
+98,8640,1B,,Caught Stealing 2B,502054,Tommy Pham,519443,Brandon Workman,640457,Austin Meadows,R,Christian Vázquez,543877,4,4,7,False,2019-04-19,Caught,2B,2019,2020,28.2
+99,8657,1B,2B,Stolen Base 2B,502054,Tommy Pham,488768,Andrew Cashner,596847,Ji Man Choi,R,Pedro Severino,600474,2,3,5,False,2019-04-18,Stolen,2B,2019,2020,28.2
+100,8658,2B,,Caught Stealing 3B,502054,Tommy Pham,571710,Mychal Givens,596847,Ji Man Choi,R,Pedro Severino,600474,5,5,9,False,2019-04-18,Caught,3B,2019,2020,28.2
+101,8754,2B,3B,Caught Stealing 2B,502054,Tommy Pham,453329,Clay Buchholz,650490,Yandy Díaz,R,Luke Maile,571912,0,0,1,True,2019-04-13,Caught,2B,2019,2020,28.2
+102,8855,2B,3B,Stolen Base 3B,502054,Tommy Pham,607074,Carlos Rodón,541645,Avisaíl García,L,James McCann,543510,0,4,2,True,2019-04-08,Stolen,3B,2019,2020,28.2
+103,8857,1B,2B,Stolen Base 2B,502054,Tommy Pham,607074,Carlos Rodón,621002,Daniel Robertson,L,James McCann,543510,0,4,4,True,2019-04-08,Stolen,2B,2019,2020,28.2
+104,8956,1B,2B,Stolen Base 2B,502054,Tommy Pham,543766,Bryan Shaw,664040,Brandon Lowe,R,Chris Iannetta,455104,4,0,8,False,2019-04-02,Stolen,2B,2019,2020,28.2
+105,242,1B,2B,Stolen Base 2B,502054,Tommy Pham,592332,Kevin Gausman,543592,Austin Nola,R,Curt Casali,592200,0,0,2,True,2021-09-16,Stolen,2B,2021,2022,27.9
+106,1187,1B,,Caught Stealing 2B,502054,Tommy Pham,571578,Patrick Corbin,665487,Fernando Tatis Jr.,L,René Rivera,425784,4,5,4,True,2021-07-18,Caught,2B,2021,2022,27.9
+107,1196,1B,,Caught Stealing 2B,502054,Tommy Pham,571578,Patrick Corbin,665487,Fernando Tatis Jr.,L,René Rivera,425784,4,5,4,True,2021-07-17,Caught,2B,2021,2022,27.9
+108,1218,3B,score,Stolen Base Home,502054,Tommy Pham,607200,Erick Fedde,571976,Wil Myers,R,René Rivera,425784,0,3,1,True,2021-07-16,Stolen,Home,2021,2022,27.9
+109,1244,1B,,Caught Stealing 2B,502054,Tommy Pham,608566,Germán Márquez,665487,Fernando Tatis Jr.,R,Dom Nuñez,624513,0,2,6,False,2021-07-10,Caught,2B,2021,2022,27.9
+110,1305,1B,,Caught Stealing 2B,502054,Tommy Pham,640448,Kyle Finnegan,665487,Fernando Tatis Jr.,R,Yan Gomes,543228,6,4,6,False,2021-07-06,Caught,2B,2021,2022,27.9
+111,1440,1B,2B,Stolen Base 2B,502054,Tommy Pham,592390,Heath Hembree,665487,Fernando Tatis Jr.,R,Tyler Stephenson,663886,4,5,9,True,2021-06-29,Stolen,2B,2021,2022,27.9
+112,1662,1B,,Caught Stealing 2B,502054,Tommy Pham,571710,Mychal Givens,592518,Manny Machado,R,Dom Nuñez,624513,6,4,8,True,2021-06-15,Caught,2B,2021,2022,27.9
+113,1722,1B,2B,Stolen Base 2B,502054,Tommy Pham,573186,Marcus Stroman,663757,Trent Grisham,R,James McCann,543510,2,0,6,True,2021-06-12,Stolen,2B,2021,2022,27.9
+114,1753,1B,2B,Stolen Base 2B,502054,Tommy Pham,453562,Jake Arrieta,592518,Manny Machado,R,P.J. Higgins,664731,1,0,3,False,2021-06-09,Stolen,2B,2021,2022,27.9
+115,1770,1B,2B,Stolen Base 2B,502054,Tommy Pham,640470,Adbert Alzolay,592518,Manny Machado,R,Willson Contreras,575929,2,0,2,False,2021-06-07,Stolen,2B,2021,2022,27.9
+116,1777,1B,2B,Stolen Base 2B,502054,Tommy Pham,573186,Marcus Stroman,595777,Jurickson Profar,R,James McCann,543510,0,1,3,False,2021-06-06,Stolen,2B,2021,2022,27.9
+117,1778,1B,2B,Stolen Base 2B,502054,Tommy Pham,573186,Marcus Stroman,630105,Jake Cronenworth,R,James McCann,543510,0,2,5,False,2021-06-06,Stolen,2B,2021,2022,27.9
+118,1965,1B,2B,Stolen Base 2B,502054,Tommy Pham,641778,Eric Lauer,622761,Jorge Mateo,L,Manny Piña,444489,0,0,1,True,2021-05-26,Stolen,2B,2021,2022,27.9
+119,1987,1B,2B,Stolen Base 2B,502054,Tommy Pham,669203,Corbin Burnes,595777,Jurickson Profar,R,Omar Narváez,553882,0,2,6,True,2021-05-25,Stolen,2B,2021,2022,27.9
+120,2048,1B,2B,Stolen Base 2B,502054,Tommy Pham,623167,Chris Flexen,663978,Chris Paddack,R,Tom Murphy,608596,4,1,1,False,2021-05-21,Stolen,2B,2021,2022,27.9
+121,2203,1B,2B,Stolen Base 2B,502054,Tommy Pham,641755,Tyler Kinley,543592,Austin Nola,R,Elias Díaz,553869,1,3,6,True,2021-05-11,Stolen,2B,2021,2022,27.9
+122,2562,1B,,Caught Stealing 2B,502054,Tommy Pham,656420,J.P. Feyereisen,605170,Victor Caratini,R,Omar Narváez,553882,1,2,7,False,2021-04-19,Caught,2B,2021,2022,27.9
+123,2638,1B,2B,Stolen Base 2B,502054,Tommy Pham,621249,Duane Underwood Jr.,595777,Jurickson Profar,R,Michael Pérez,605421,2,1,6,True,2021-04-14,Stolen,2B,2021,2022,27.9
+124,2796,1B,2B,Stolen Base 2B,502054,Tommy Pham,642203,Taylor Widener,669134,Luis Campusano,R,Carson Kelly,608348,0,2,2,False,2021-04-04,Stolen,2B,2021,2022,27.9
+125,2166,1B,2B,Stolen Base 2B,502054,Tommy Pham,592332,Kevin Gausman,543592,Austin Nola,R,Curt Casali,592200,0,0,2,True,2021-09-16,Stolen,2B,2021,2022,27.9
+126,3111,1B,,Caught Stealing 2B,502054,Tommy Pham,571578,Patrick Corbin,665487,Fernando Tatis Jr.,L,René Rivera,425784,4,5,4,True,2021-07-18,Caught,2B,2021,2022,27.9
+127,3120,1B,,Caught Stealing 2B,502054,Tommy Pham,571578,Patrick Corbin,665487,Fernando Tatis Jr.,L,René Rivera,425784,4,5,4,True,2021-07-17,Caught,2B,2021,2022,27.9
+128,3142,3B,score,Stolen Base Home,502054,Tommy Pham,607200,Erick Fedde,571976,Wil Myers,R,René Rivera,425784,0,3,1,True,2021-07-16,Stolen,Home,2021,2022,27.9
+129,3168,1B,,Caught Stealing 2B,502054,Tommy Pham,608566,Germán Márquez,665487,Fernando Tatis Jr.,R,Dom Nuñez,624513,0,2,6,False,2021-07-10,Caught,2B,2021,2022,27.9
+130,3229,1B,,Caught Stealing 2B,502054,Tommy Pham,640448,Kyle Finnegan,665487,Fernando Tatis Jr.,R,Yan Gomes,543228,6,4,6,False,2021-07-06,Caught,2B,2021,2022,27.9
+131,3364,1B,2B,Stolen Base 2B,502054,Tommy Pham,592390,Heath Hembree,665487,Fernando Tatis Jr.,R,Tyler Stephenson,663886,4,5,9,True,2021-06-29,Stolen,2B,2021,2022,27.9
+132,3586,1B,,Caught Stealing 2B,502054,Tommy Pham,571710,Mychal Givens,592518,Manny Machado,R,Dom Nuñez,624513,6,4,8,True,2021-06-15,Caught,2B,2021,2022,27.9
+133,3646,1B,2B,Stolen Base 2B,502054,Tommy Pham,573186,Marcus Stroman,663757,Trent Grisham,R,James McCann,543510,2,0,6,True,2021-06-12,Stolen,2B,2021,2022,27.9
+134,3677,1B,2B,Stolen Base 2B,502054,Tommy Pham,453562,Jake Arrieta,592518,Manny Machado,R,P.J. Higgins,664731,1,0,3,False,2021-06-09,Stolen,2B,2021,2022,27.9
+135,3694,1B,2B,Stolen Base 2B,502054,Tommy Pham,640470,Adbert Alzolay,592518,Manny Machado,R,Willson Contreras,575929,2,0,2,False,2021-06-07,Stolen,2B,2021,2022,27.9
+136,3701,1B,2B,Stolen Base 2B,502054,Tommy Pham,573186,Marcus Stroman,595777,Jurickson Profar,R,James McCann,543510,0,1,3,False,2021-06-06,Stolen,2B,2021,2022,27.9
+137,3702,1B,2B,Stolen Base 2B,502054,Tommy Pham,573186,Marcus Stroman,630105,Jake Cronenworth,R,James McCann,543510,0,2,5,False,2021-06-06,Stolen,2B,2021,2022,27.9
+138,3889,1B,2B,Stolen Base 2B,502054,Tommy Pham,641778,Eric Lauer,622761,Jorge Mateo,L,Manny Piña,444489,0,0,1,True,2021-05-26,Stolen,2B,2021,2022,27.9
+139,3911,1B,2B,Stolen Base 2B,502054,Tommy Pham,669203,Corbin Burnes,595777,Jurickson Profar,R,Omar Narváez,553882,0,2,6,True,2021-05-25,Stolen,2B,2021,2022,27.9
+140,3972,1B,2B,Stolen Base 2B,502054,Tommy Pham,623167,Chris Flexen,663978,Chris Paddack,R,Tom Murphy,608596,4,1,1,False,2021-05-21,Stolen,2B,2021,2022,27.9
+141,4127,1B,2B,Stolen Base 2B,502054,Tommy Pham,641755,Tyler Kinley,543592,Austin Nola,R,Elias Díaz,553869,1,3,6,True,2021-05-11,Stolen,2B,2021,2022,27.9
+142,4486,1B,,Caught Stealing 2B,502054,Tommy Pham,656420,J.P. Feyereisen,605170,Victor Caratini,R,Omar Narváez,553882,1,2,7,False,2021-04-19,Caught,2B,2021,2022,27.9
+143,4562,1B,2B,Stolen Base 2B,502054,Tommy Pham,621249,Duane Underwood Jr.,595777,Jurickson Profar,R,Michael Pérez,605421,2,1,6,True,2021-04-14,Stolen,2B,2021,2022,27.9
+144,4720,1B,2B,Stolen Base 2B,502054,Tommy Pham,642203,Taylor Widener,669134,Luis Campusano,R,Carson Kelly,608348,0,2,2,False,2021-04-04,Stolen,2B,2021,2022,27.9
+145,69,1B,2B,Stolen Base 2B,502054,Tommy Pham,657053,Touki Toussaint,677950,Alek Thomas,R,Korey Lee,686676,0,0,1,True,2023-09-28,Stolen,2B,2023,2024,27.2
+146,137,1B,2B,Stolen Base 2B,502054,Tommy Pham,657053,Touki Toussaint,677950,Alek Thomas,R,Korey Lee,686676,0,0,1,True,2023-09-25,Stolen,2B,2023,2024,27.2
+147,324,1B,2B,Stolen Base 2B,502054,Tommy Pham,502202,Brad Boxberger,677950,Alek Thomas,R,Miguel Amaya,665804,6,2,8,False,2023-09-17,Stolen,2B,2023,2024,27.2
+148,423,1B,2B,Stolen Base 2B,502054,Tommy Pham,664192,Joey Lucchesi,572233,Christian Walker,L,Omar Narváez,553882,0,0,1,True,2023-09-13,Stolen,2B,2023,2024,27.2
+149,443,1B,2B,Stolen Base 2B,502054,Tommy Pham,676130,José Buttó,572233,Christian Walker,R,Francisco Alvarez,682626,0,1,3,True,2023-09-12,Stolen,2B,2023,2024,27.2
+150,502,2B,3B,Stolen Base 3B,502054,Tommy Pham,543294,Kyle Hendricks,666971,Lourdes Gurriel Jr.,R,Yan Gomes,543228,5,2,6,True,2023-09-10,Stolen,3B,2023,2024,27.2
+151,555,2B,,Caught Stealing 3B,502054,Tommy Pham,694037,Daniel Palencia,666971,Lourdes Gurriel Jr.,R,Yan Gomes,543228,1,3,10,True,2023-09-09,Caught,3B,2023,2024,27.2
+152,858,1B,2B,Stolen Base 2B,502054,Tommy Pham,608371,Lucas Sims,666971,Lourdes Gurriel Jr.,R,Tyler Stephenson,663886,3,2,8,False,2023-08-27,Stolen,2B,2023,2024,27.2
+153,880,1B,2B,Stolen Base 2B,502054,Tommy Pham,664747,Alexis Díaz,572233,Christian Walker,R,Tyler Stephenson,663886,7,7,10,False,2023-08-26,Stolen,2B,2023,2024,27.2
+154,980,1B,2B,Stolen Base 2B,502054,Tommy Pham,681982,Grant Anderson,677950,Alek Thomas,R,Jonah Heim,641680,5,0,5,False,2023-08-22,Stolen,2B,2023,2024,27.2
+155,1196,2B,3B,Stolen Base 3B,502054,Tommy Pham,448179,Rich Hill,671083,Buddy Kennedy,L,Luis Campusano,669134,1,0,1,False,2023-08-12,Stolen,3B,2023,2024,27.2
+156,1279,1B,,Caught Stealing 2B,502054,Tommy Pham,628711,Julio Urías,572233,Christian Walker,L,Will Smith,669257,0,0,1,False,2023-08-08,Caught,2B,2023,2024,27.2
+157,1336,1B,2B,Stolen Base 2B,502054,Tommy Pham,572971,Dallas Keuchel,572233,Christian Walker,L,Christian Vázquez,543877,0,0,3,True,2023-08-06,Stolen,2B,2023,2024,27.2
+158,1337,2B,3B,Stolen Base 3B,502054,Tommy Pham,572971,Dallas Keuchel,666971,Lourdes Gurriel Jr.,L,Christian Vázquez,543877,0,1,5,True,2023-08-06,Stolen,3B,2023,2024,27.2
+159,1757,1B,2B,Stolen Base 2B,502054,Tommy Pham,608337,Lucas Giolito,624413,Pete Alonso,R,Seby Zavala,664874,7,2,4,False,2023-07-18,Stolen,2B,2023,2024,27.2
+160,1964,2B,3B,Stolen Base 3B,502054,Tommy Pham,674072,Tommy Henry,643446,Jeff McNeil,L,Carson Kelly,608348,0,0,4,True,2023-07-05,Stolen,3B,2023,2024,27.2
+161,2149,1B,2B,Stolen Base 2B,502054,Tommy Pham,606303,Joel Payamps,682626,Francisco Alvarez,R,William Contreras,661388,2,5,8,False,2023-06-28,Stolen,2B,2023,2024,27.2
+162,2315,1B,2B,Stolen Base 2B,502054,Tommy Pham,664299,Cristian Javier,596129,Daniel Vogelbach,R,Martín Maldonado,455117,2,4,3,True,2023-06-21,Stolen,2B,2023,2024,27.2
+163,2321,1B,2B,Stolen Base 2B,502054,Tommy Pham,606160,Rafael Montero,596129,Daniel Vogelbach,R,Martín Maldonado,455117,9,8,6,True,2023-06-21,Stolen,2B,2023,2024,27.2
+164,2578,1B,2B,Stolen Base 2B,502054,Tommy Pham,622780,Angel Perdomo,592192,Mark Canha,L,Jason Delay,641511,1,5,9,True,2023-06-10,Stolen,2B,2023,2024,27.2
+165,2884,1B,2B,Stolen Base 2B,502054,Tommy Pham,596295,Austin Gomber,592192,Mark Canha,L,Austin Wynns,642851,0,0,2,True,2023-05-28,Stolen,2B,2023,2024,27.2
+166,2885,2B,3B,Stolen Base 3B,502054,Tommy Pham,596295,Austin Gomber,592192,Mark Canha,L,Austin Wynns,642851,2,2,4,True,2023-05-28,Stolen,3B,2023,2024,27.2
+167,3057,1B,2B,Stolen Base 2B,502054,Tommy Pham,663986,Trevor Stephan,596142,Gary Sánchez,R,Bo Naylor,666310,5,4,8,False,2023-05-21,Stolen,2B,2023,2024,27.2
+168,3075,1B,2B,Stolen Base 2B,502054,Tommy Pham,663986,Trevor Stephan,596142,Gary Sánchez,R,Bo Naylor,666310,5,4,8,False,2023-05-20,Stolen,2B,2023,2024,27.2
+169,3462,1B,,Caught Stealing 2B,502054,Tommy Pham,593958,Eduardo Rodriguez,592192,Mark Canha,L,Jake Rogers,668670,2,0,2,True,2023-05-04,Caught,2B,2023,2024,27.2
+170,3989,1B,2B,Stolen Base 2B,502054,Tommy Pham,605483,Blake Snell,607043,Brandon Nimmo,L,Austin Nola,543592,1,2,2,False,2023-04-12,Stolen,2B,2023,2024,27.2
+171,4223,1B,2B,Stolen Base 2B,502054,Tommy Pham,598264,Matt Barnes,516782,Starling Marte,R,Jacob Stallings,607732,1,5,9,True,2023-04-02,Stolen,2B,2023,2024,27.2
+172,4483,1B,2B,Stolen Base 2B,502054,Tommy Pham,657053,Touki Toussaint,677950,Alek Thomas,R,Korey Lee,686676,0,0,1,True,2023-09-28,Stolen,2B,2023,2024,27.2
+173,4551,1B,2B,Stolen Base 2B,502054,Tommy Pham,657053,Touki Toussaint,677950,Alek Thomas,R,Korey Lee,686676,0,0,1,True,2023-09-25,Stolen,2B,2023,2024,27.2
+174,4738,1B,2B,Stolen Base 2B,502054,Tommy Pham,502202,Brad Boxberger,677950,Alek Thomas,R,Miguel Amaya,665804,6,2,8,False,2023-09-17,Stolen,2B,2023,2024,27.2
+175,4837,1B,2B,Stolen Base 2B,502054,Tommy Pham,664192,Joey Lucchesi,572233,Christian Walker,L,Omar Narváez,553882,0,0,1,True,2023-09-13,Stolen,2B,2023,2024,27.2
+176,4857,1B,2B,Stolen Base 2B,502054,Tommy Pham,676130,José Buttó,572233,Christian Walker,R,Francisco Alvarez,682626,0,1,3,True,2023-09-12,Stolen,2B,2023,2024,27.2
+177,4916,2B,3B,Stolen Base 3B,502054,Tommy Pham,543294,Kyle Hendricks,666971,Lourdes Gurriel Jr.,R,Yan Gomes,543228,5,2,6,True,2023-09-10,Stolen,3B,2023,2024,27.2
+178,4969,2B,,Caught Stealing 3B,502054,Tommy Pham,694037,Daniel Palencia,666971,Lourdes Gurriel Jr.,R,Yan Gomes,543228,1,3,10,True,2023-09-09,Caught,3B,2023,2024,27.2
+179,5272,1B,2B,Stolen Base 2B,502054,Tommy Pham,608371,Lucas Sims,666971,Lourdes Gurriel Jr.,R,Tyler Stephenson,663886,3,2,8,False,2023-08-27,Stolen,2B,2023,2024,27.2
+180,5294,1B,2B,Stolen Base 2B,502054,Tommy Pham,664747,Alexis Díaz,572233,Christian Walker,R,Tyler Stephenson,663886,7,7,10,False,2023-08-26,Stolen,2B,2023,2024,27.2
+181,5394,1B,2B,Stolen Base 2B,502054,Tommy Pham,681982,Grant Anderson,677950,Alek Thomas,R,Jonah Heim,641680,5,0,5,False,2023-08-22,Stolen,2B,2023,2024,27.2
+182,5610,2B,3B,Stolen Base 3B,502054,Tommy Pham,448179,Rich Hill,671083,Buddy Kennedy,L,Luis Campusano,669134,1,0,1,False,2023-08-12,Stolen,3B,2023,2024,27.2
+183,5693,1B,,Caught Stealing 2B,502054,Tommy Pham,628711,Julio Urías,572233,Christian Walker,L,Will Smith,669257,0,0,1,False,2023-08-08,Caught,2B,2023,2024,27.2
+184,5750,1B,2B,Stolen Base 2B,502054,Tommy Pham,572971,Dallas Keuchel,572233,Christian Walker,L,Christian Vázquez,543877,0,0,3,True,2023-08-06,Stolen,2B,2023,2024,27.2
+185,5751,2B,3B,Stolen Base 3B,502054,Tommy Pham,572971,Dallas Keuchel,666971,Lourdes Gurriel Jr.,L,Christian Vázquez,543877,0,1,5,True,2023-08-06,Stolen,3B,2023,2024,27.2
+186,6171,1B,2B,Stolen Base 2B,502054,Tommy Pham,608337,Lucas Giolito,624413,Pete Alonso,R,Seby Zavala,664874,7,2,4,False,2023-07-18,Stolen,2B,2023,2024,27.2
+187,6378,2B,3B,Stolen Base 3B,502054,Tommy Pham,674072,Tommy Henry,643446,Jeff McNeil,L,Carson Kelly,608348,0,0,4,True,2023-07-05,Stolen,3B,2023,2024,27.2
+188,6563,1B,2B,Stolen Base 2B,502054,Tommy Pham,606303,Joel Payamps,682626,Francisco Alvarez,R,William Contreras,661388,2,5,8,False,2023-06-28,Stolen,2B,2023,2024,27.2
+189,6729,1B,2B,Stolen Base 2B,502054,Tommy Pham,664299,Cristian Javier,596129,Daniel Vogelbach,R,Martín Maldonado,455117,2,4,3,True,2023-06-21,Stolen,2B,2023,2024,27.2
+190,6735,1B,2B,Stolen Base 2B,502054,Tommy Pham,606160,Rafael Montero,596129,Daniel Vogelbach,R,Martín Maldonado,455117,9,8,6,True,2023-06-21,Stolen,2B,2023,2024,27.2
+191,6992,1B,2B,Stolen Base 2B,502054,Tommy Pham,622780,Angel Perdomo,592192,Mark Canha,L,Jason Delay,641511,1,5,9,True,2023-06-10,Stolen,2B,2023,2024,27.2
+192,7298,1B,2B,Stolen Base 2B,502054,Tommy Pham,596295,Austin Gomber,592192,Mark Canha,L,Austin Wynns,642851,0,0,2,True,2023-05-28,Stolen,2B,2023,2024,27.2
+193,7299,2B,3B,Stolen Base 3B,502054,Tommy Pham,596295,Austin Gomber,592192,Mark Canha,L,Austin Wynns,642851,2,2,4,True,2023-05-28,Stolen,3B,2023,2024,27.2
+194,7471,1B,2B,Stolen Base 2B,502054,Tommy Pham,663986,Trevor Stephan,596142,Gary Sánchez,R,Bo Naylor,666310,5,4,8,False,2023-05-21,Stolen,2B,2023,2024,27.2
+195,7489,1B,2B,Stolen Base 2B,502054,Tommy Pham,663986,Trevor Stephan,596142,Gary Sánchez,R,Bo Naylor,666310,5,4,8,False,2023-05-20,Stolen,2B,2023,2024,27.2
+196,7876,1B,,Caught Stealing 2B,502054,Tommy Pham,593958,Eduardo Rodriguez,592192,Mark Canha,L,Jake Rogers,668670,2,0,2,True,2023-05-04,Caught,2B,2023,2024,27.2
+197,8403,1B,2B,Stolen Base 2B,502054,Tommy Pham,605483,Blake Snell,607043,Brandon Nimmo,L,Austin Nola,543592,1,2,2,False,2023-04-12,Stolen,2B,2023,2024,27.2
+198,8637,1B,2B,Stolen Base 2B,502054,Tommy Pham,598264,Matt Barnes,516782,Starling Marte,R,Jacob Stallings,607732,1,5,9,True,2023-04-02,Stolen,2B,2023,2024,27.2
+199,173,1B,,Caught Stealing 2B,502054,Tommy Pham,672710,Roansy Contreras,571980,Tyler Naquin,R,Jason Delay,641511,0,0,1,False,2022-07-07,Caught,2B,2022,2023,27.8
+200,261,1B,2B,Stolen Base 2B,502054,Tommy Pham,621345,A.J. Minter,458015,Joey Votto,L,William Contreras,661388,3,3,9,False,2022-07-03,Stolen,2B,2022,2023,27.8
+201,317,1B,2B,Stolen Base 2B,502054,Tommy Pham,657006,Justin Steele,458015,Joey Votto,L,Willson Contreras,575929,1,0,4,True,2022-06-29,Stolen,2B,2022,2023,27.8
+202,578,1B,2B,Stolen Base 2B,502054,Tommy Pham,453178,Ian Kennedy,458015,Joey Votto,R,Carson Kelly,608348,1,1,11,True,2022-06-14,Stolen,2B,2022,2023,27.8
+203,770,1B,2B,Stolen Base 2B,502054,Tommy Pham,571578,Patrick Corbin,458015,Joey Votto,L,Keibert Ruiz,660688,3,2,3,False,2022-06-05,Stolen,2B,2022,2023,27.8
+204,1178,1B,2B,Stolen Base 2B,502054,Tommy Pham,670280,David Bednar,519058,Mike Moustakas,R,Andrew Knapp,595284,3,1,8,True,2022-05-14,Stolen,2B,2022,2023,27.8
+205,1277,1B,2B,Stolen Base 2B,502054,Tommy Pham,605540,Brandon Woodruff,592567,Colin Moran,R,Omar Narváez,553882,5,3,5,False,2022-05-09,Stolen,2B,2022,2023,27.8
+206,1339,1B,,Caught Stealing 2B,502054,Tommy Pham,672710,Roansy Contreras,571980,Tyler Naquin,R,Jason Delay,641511,0,0,1,False,2022-05-06,Caught,2B,2022,2023,27.8
+207,1804,1B,2B,Stolen Base 2B,502054,Tommy Pham,621345,A.J. Minter,606157,Aristides Aquino,L,William Contreras,661388,2,0,7,True,2022-04-09,Stolen,2B,2022,2023,27.8
+208,32,1B,2B,Stolen Base 2B,502054,Tommy Pham,608337,Lucas Giolito,572761,Matt Carpenter,R,Omar Narváez,553882,1,0,6,False,2018-05-02,Stolen,2B,2018,2019,28.7
+209,161,1B,,Caught Stealing 2B,502054,Tommy Pham,592789,Noah Syndergaard,500874,José A. Martínez,R,Jose Lobaton,446653,0,1,4,False,2018-04-26,Caught,2B,2018,2019,28.7
+210,325,1B,2B,Stolen Base 2B,502054,Tommy Pham,543022,Tyler Chatwood,543939,Kolten Wong,R,Victor Caratini,605170,1,0,2,True,2018-04-16,Stolen,2B,2018,2019,28.7
+211,363,1B,,Caught Stealing 2B,502054,Tommy Pham,607237,Amir Garrett,572761,Matt Carpenter,L,Tucker Barnhart,571466,1,3,9,True,2018-04-15,Caught,2B,2018,2019,28.7
+212,380,1B,2B,Stolen Base 2B,502054,Tommy Pham,605232,Brandon Finnegan,500874,José A. Martínez,L,Tucker Barnhart,571466,0,2,3,True,2018-04-14,Stolen,2B,2018,2019,28.7
+213,382,2B,3B,Stolen Base 3B,502054,Tommy Pham,605232,Brandon Finnegan,500874,José A. Martínez,L,Tucker Barnhart,571466,0,5,5,True,2018-04-14,Stolen,3B,2018,2019,28.7
+214,402,1B,2B,Stolen Base 2B,502054,Tommy Pham,593974,Wandy Peralta,572761,Matt Carpenter,L,Devin Mesoraco,519023,3,5,9,True,2018-04-13,Stolen,2B,2018,2019,28.7
+215,427,1B,,Caught Stealing 2B,502054,Tommy Pham,448855,Junior Guerra,572761,Matt Carpenter,R,Jett Bandy,542908,0,0,1,False,2018-04-11,Caught,2B,2018,2019,28.7
+216,585,1B,2B,Stolen Base 2B,502054,Tommy Pham,502624,Chase Anderson,572761,Matt Carpenter,R,Manny Piña,444489,0,4,4,True,2018-04-03,Stolen,2B,2018,2019,28.7
+217,612,1B,,Caught Stealing 2B,502054,Tommy Pham,605200,Zach Davies,572761,Matt Carpenter,R,Manny Piña,444489,2,4,6,True,2018-04-02,Caught,2B,2018,2019,28.7
+218,622,1B,2B,Stolen Base 2B,502054,Tommy Pham,571927,Steven Matz,572761,Matt Carpenter,L,Kevin Plawecki,608700,1,1,3,True,2018-04-01,Stolen,2B,2018,2019,28.7
+219,680,1B,2B,Stolen Base 2B,502054,Tommy Pham,543294,Kyle Hendricks,451594,Dexter Fowler,R,Alex Avila,488671,0,1,3,False,2017-09-28,Stolen,2B,2017,2018,28.6
+220,682,1B,2B,Stolen Base 2B,502054,Tommy Pham,518748,Justin Grimm,451594,Dexter Fowler,R,Alex Avila,488671,1,1,6,False,2017-09-28,Stolen,2B,2017,2018,28.6
+221,803,2B,3B,Stolen Base 3B,502054,Tommy Pham,553878,Felipe Vázquez,504379,Juan Nicasio,L,Elias Díaz,553869,3,4,9,True,2017-09-22,Stolen,3B,2017,2018,28.6
+222,812,2B,3B,Stolen Base 3B,502054,Tommy Pham,554374,Ariel Hernández,500874,José A. Martínez,R,Tucker Barnhart,571466,4,6,8,True,2017-09-21,Stolen,3B,2017,2018,28.6
+223,935,1B,,Caught Stealing 2B,502054,Tommy Pham,407793,John Lackey,500874,José A. Martínez,R,Alex Avila,488671,0,1,4,True,2017-09-15,Caught,2B,2017,2018,28.6
+224,947,1B,2B,Stolen Base 2B,502054,Tommy Pham,607237,Amir Garrett,657557,Paul DeJong,L,Tucker Barnhart,571466,0,1,3,False,2017-09-14,Stolen,2B,2017,2018,28.6
+225,948,2B,3B,Stolen Base 3B,502054,Tommy Pham,607237,Amir Garrett,500874,José A. Martínez,L,Tucker Barnhart,571466,2,1,3,False,2017-09-14,Stolen,3B,2017,2018,28.6
+226,1067,1B,2B,Stolen Base 2B,502054,Tommy Pham,489446,Kirby Yates,451594,Dexter Fowler,R,Héctor Sánchez,516949,1,2,8,True,2017-09-06,Stolen,2B,2017,2018,28.6
+227,1113,1B,2B,Stolen Base 2B,502054,Tommy Pham,606131,Luis Perdomo,657557,Paul DeJong,R,Héctor Sánchez,516949,0,0,4,True,2017-09-04,Stolen,2B,2017,2018,28.6
+228,1238,2B,,Caught Stealing 3B,502054,Tommy Pham,448614,Carlos Torres,451594,Dexter Fowler,R,Stephen Vogt,519390,1,5,4,True,2017-08-29,Caught,3B,2017,2018,28.6
+229,1354,1B,2B,Stolen Base 2B,502054,Tommy Pham,489446,Kirby Yates,657557,Paul DeJong,R,Austin Hedges,595978,5,1,8,False,2017-08-23,Stolen,2B,2017,2018,28.6
+230,1597,1B,2B,Stolen Base 2B,502054,Tommy Pham,491703,Neftalí Feliz,657557,Paul DeJong,R,Drew Butera,460077,3,3,7,False,2017-08-10,Stolen,2B,2017,2018,28.6
+231,1728,2B,3B,Stolen Base 3B,502054,Tommy Pham,547179,Michael Lorenzen,608348,Carson Kelly,R,Tucker Barnhart,571466,3,2,8,True,2017-08-04,Stolen,3B,2017,2018,28.6
+232,1756,1B,,Caught Stealing 2B,502054,Tommy Pham,453172,Jared Hughes,657557,Paul DeJong,R,Manny Piña,444489,4,5,9,True,2017-08-02,Caught,2B,2017,2018,28.6
+233,1852,1B,2B,Stolen Base 2B,502054,Tommy Pham,519008,T.J. McFarland,657557,Paul DeJong,L,Chris Herrmann,543302,0,0,6,False,2017-07-28,Stolen,2B,2017,2018,28.6
+234,2035,1B,2B,Stolen Base 2B,502054,Tommy Pham,606160,Rafael Montero,451594,Dexter Fowler,R,René Rivera,425784,0,0,1,True,2017-07-18,Stolen,2B,2017,2018,28.6
+235,2109,1B,2B,Stolen Base 2B,502054,Tommy Pham,543037,Gerrit Cole,451594,Dexter Fowler,R,Francisco Cervelli,465041,2,2,6,True,2017-07-14,Stolen,2B,2017,2018,28.6
+236,2145,1B,,Caught Stealing 2B,502054,Tommy Pham,554430,Zack Wheeler,576397,Jedd Gyorko,R,Travis d'Arnaud,518595,1,0,3,False,2017-07-08,Caught,2B,2017,2018,28.6
+237,2147,1B,2B,Stolen Base 2B,502054,Tommy Pham,554430,Zack Wheeler,425877,Yadier Molina,R,Travis d'Arnaud,518595,2,0,6,False,2017-07-08,Stolen,2B,2017,2018,28.6
+238,2148,1B,2B,Stolen Base 2B,502054,Tommy Pham,477569,Fernando Salas,576397,Jedd Gyorko,R,Travis d'Arnaud,518595,3,1,7,False,2017-07-08,Stolen,2B,2017,2018,28.6
+239,2230,1B,,Caught Stealing 2B,502054,Tommy Pham,430661,Dustin McGowan,622270,Alex D. Mejia,R,J.T. Realmuto,592663,11,6,5,False,2017-07-03,Caught,2B,2017,2018,28.6
+240,2315,1B,2B,Stolen Base 2B,502054,Tommy Pham,517414,Randall Delgado,572761,Matt Carpenter,R,Chris Iannetta,455104,3,7,8,True,2017-06-29,Stolen,2B,2017,2018,28.6
+241,2347,1B,2B,Stolen Base 2B,502054,Tommy Pham,592836,Taijuan Walker,576397,Jedd Gyorko,R,Chris Iannetta,455104,0,1,1,True,2017-06-27,Stolen,2B,2017,2018,28.6
+242,2381,2B,3B,Stolen Base 3B,502054,Tommy Pham,605232,Brandon Finnegan,572039,Stephen Piscotty,L,Devin Mesoraco,519023,1,0,1,False,2017-06-26,Stolen,3B,2017,2018,28.6
+243,2660,2B,3B,Stolen Base 3B,502054,Tommy Pham,276542,Joaquín Benoit,543939,Kolten Wong,R,Andrew Knapp,595284,4,2,6,False,2017-06-11,Stolen,3B,2017,2018,28.6
+244,2756,1B,2B,Stolen Base 2B,502054,Tommy Pham,276520,Bronson Arroyo,572039,Stephen Piscotty,R,Devin Mesoraco,519023,0,0,1,True,2017-06-07,Stolen,2B,2017,2018,28.6
+245,2926,2B,3B,Stolen Base 3B,502054,Tommy Pham,448179,Rich Hill,576397,Jedd Gyorko,L,Yasmani Grandal,518735,1,3,4,False,2017-05-29,Stolen,3B,2017,2018,28.6
+246,3140,1B,,Caught Stealing 2B,502054,Tommy Pham,472551,Fernando Abad,576397,Jedd Gyorko,L,Christian Vázquez,543877,4,4,12,False,2017-05-17,Caught,2B,2017,2018,28.6
+247,3197,1B,2B,Stolen Base 2B,502054,Tommy Pham,453562,Jake Arrieta,572761,Matt Carpenter,R,Miguel Montero,471083,4,0,5,False,2017-05-14,Stolen,2B,2017,2018,28.6
+248,3228,1B,2B,Stolen Base 2B,502054,Tommy Pham,452657,Jon Lester,642423,Magneuris Sierra,L,Willson Contreras,575929,0,1,3,False,2017-05-13,Stolen,2B,2017,2018,28.6
+249,3230,1B,,Caught Stealing 2B,502054,Tommy Pham,452657,Jon Lester,642423,Magneuris Sierra,L,Willson Contreras,575929,3,1,4,False,2017-05-13,Caught,2B,2017,2018,28.6
+250,3361,1B,2B,Stolen Base 2B,502054,Tommy Pham,447714,Eric O'Flaherty,543939,Kolten Wong,L,Kurt Suzuki,435559,4,4,12,True,2017-05-07,Stolen,2B,2017,2018,28.6
+251,3499,2B,3B,Stolen Base 3B,502054,Tommy Pham,605232,Brandon Finnegan,572039,Stephen Piscotty,L,Devin Mesoraco,519023,1,0,1,False,2017-04-29,Stolen,3B,2017,2018,28.6
+252,52,1B,2B,Stolen Base 2B,502054,Tommy Pham,543294,Kyle Hendricks,451594,Dexter Fowler,R,Alex Avila,488671,0,1,3,False,2017-09-28,Stolen,2B,2017,2018,28.6
+253,54,1B,2B,Stolen Base 2B,502054,Tommy Pham,518748,Justin Grimm,451594,Dexter Fowler,R,Alex Avila,488671,1,1,6,False,2017-09-28,Stolen,2B,2017,2018,28.6
+254,175,2B,3B,Stolen Base 3B,502054,Tommy Pham,553878,Felipe Vázquez,504379,Juan Nicasio,L,Elias Díaz,553869,3,4,9,True,2017-09-22,Stolen,3B,2017,2018,28.6
+255,184,2B,3B,Stolen Base 3B,502054,Tommy Pham,554374,Ariel Hernández,500874,José A. Martínez,R,Tucker Barnhart,571466,4,6,8,True,2017-09-21,Stolen,3B,2017,2018,28.6
+256,307,1B,,Caught Stealing 2B,502054,Tommy Pham,407793,John Lackey,500874,José A. Martínez,R,Alex Avila,488671,0,1,4,True,2017-09-15,Caught,2B,2017,2018,28.6
+257,319,1B,2B,Stolen Base 2B,502054,Tommy Pham,607237,Amir Garrett,657557,Paul DeJong,L,Tucker Barnhart,571466,0,1,3,False,2017-09-14,Stolen,2B,2017,2018,28.6
+258,320,2B,3B,Stolen Base 3B,502054,Tommy Pham,607237,Amir Garrett,500874,José A. Martínez,L,Tucker Barnhart,571466,2,1,3,False,2017-09-14,Stolen,3B,2017,2018,28.6
+259,439,1B,2B,Stolen Base 2B,502054,Tommy Pham,489446,Kirby Yates,451594,Dexter Fowler,R,Héctor Sánchez,516949,1,2,8,True,2017-09-06,Stolen,2B,2017,2018,28.6
+260,485,1B,2B,Stolen Base 2B,502054,Tommy Pham,606131,Luis Perdomo,657557,Paul DeJong,R,Héctor Sánchez,516949,0,0,4,True,2017-09-04,Stolen,2B,2017,2018,28.6
+261,610,2B,,Caught Stealing 3B,502054,Tommy Pham,448614,Carlos Torres,451594,Dexter Fowler,R,Stephen Vogt,519390,1,5,4,True,2017-08-29,Caught,3B,2017,2018,28.6
+262,726,1B,2B,Stolen Base 2B,502054,Tommy Pham,489446,Kirby Yates,657557,Paul DeJong,R,Austin Hedges,595978,5,1,8,False,2017-08-23,Stolen,2B,2017,2018,28.6
+263,969,1B,2B,Stolen Base 2B,502054,Tommy Pham,491703,Neftalí Feliz,657557,Paul DeJong,R,Drew Butera,460077,3,3,7,False,2017-08-10,Stolen,2B,2017,2018,28.6
+264,1100,2B,3B,Stolen Base 3B,502054,Tommy Pham,547179,Michael Lorenzen,608348,Carson Kelly,R,Tucker Barnhart,571466,3,2,8,True,2017-08-04,Stolen,3B,2017,2018,28.6
+265,1128,1B,,Caught Stealing 2B,502054,Tommy Pham,453172,Jared Hughes,657557,Paul DeJong,R,Manny Piña,444489,4,5,9,True,2017-08-02,Caught,2B,2017,2018,28.6
+266,1224,1B,2B,Stolen Base 2B,502054,Tommy Pham,519008,T.J. McFarland,657557,Paul DeJong,L,Chris Herrmann,543302,0,0,6,False,2017-07-28,Stolen,2B,2017,2018,28.6
+267,1407,1B,2B,Stolen Base 2B,502054,Tommy Pham,606160,Rafael Montero,451594,Dexter Fowler,R,René Rivera,425784,0,0,1,True,2017-07-18,Stolen,2B,2017,2018,28.6
+268,1481,1B,2B,Stolen Base 2B,502054,Tommy Pham,543037,Gerrit Cole,451594,Dexter Fowler,R,Francisco Cervelli,465041,2,2,6,True,2017-07-14,Stolen,2B,2017,2018,28.6
+269,1517,1B,,Caught Stealing 2B,502054,Tommy Pham,554430,Zack Wheeler,576397,Jedd Gyorko,R,Travis d'Arnaud,518595,1,0,3,False,2017-07-08,Caught,2B,2017,2018,28.6
+270,1519,1B,2B,Stolen Base 2B,502054,Tommy Pham,554430,Zack Wheeler,425877,Yadier Molina,R,Travis d'Arnaud,518595,2,0,6,False,2017-07-08,Stolen,2B,2017,2018,28.6
+271,1520,1B,2B,Stolen Base 2B,502054,Tommy Pham,477569,Fernando Salas,576397,Jedd Gyorko,R,Travis d'Arnaud,518595,3,1,7,False,2017-07-08,Stolen,2B,2017,2018,28.6
+272,1602,1B,,Caught Stealing 2B,502054,Tommy Pham,430661,Dustin McGowan,622270,Alex D. Mejia,R,J.T. Realmuto,592663,11,6,5,False,2017-07-03,Caught,2B,2017,2018,28.6
+273,1687,1B,2B,Stolen Base 2B,502054,Tommy Pham,517414,Randall Delgado,572761,Matt Carpenter,R,Chris Iannetta,455104,3,7,8,True,2017-06-29,Stolen,2B,2017,2018,28.6
+274,1719,1B,2B,Stolen Base 2B,502054,Tommy Pham,592836,Taijuan Walker,576397,Jedd Gyorko,R,Chris Iannetta,455104,0,1,1,True,2017-06-27,Stolen,2B,2017,2018,28.6
+275,1753,2B,3B,Stolen Base 3B,502054,Tommy Pham,605232,Brandon Finnegan,572039,Stephen Piscotty,L,Devin Mesoraco,519023,1,0,1,False,2017-06-26,Stolen,3B,2017,2018,28.6
+276,2032,2B,3B,Stolen Base 3B,502054,Tommy Pham,276542,Joaquín Benoit,543939,Kolten Wong,R,Andrew Knapp,595284,4,2,6,False,2017-06-11,Stolen,3B,2017,2018,28.6
+277,2128,1B,2B,Stolen Base 2B,502054,Tommy Pham,276520,Bronson Arroyo,572039,Stephen Piscotty,R,Devin Mesoraco,519023,0,0,1,True,2017-06-07,Stolen,2B,2017,2018,28.6
+278,2298,2B,3B,Stolen Base 3B,502054,Tommy Pham,448179,Rich Hill,576397,Jedd Gyorko,L,Yasmani Grandal,518735,1,3,4,False,2017-05-29,Stolen,3B,2017,2018,28.6
+279,2512,1B,,Caught Stealing 2B,502054,Tommy Pham,472551,Fernando Abad,576397,Jedd Gyorko,L,Christian Vázquez,543877,4,4,12,False,2017-05-17,Caught,2B,2017,2018,28.6
+280,2569,1B,2B,Stolen Base 2B,502054,Tommy Pham,453562,Jake Arrieta,572761,Matt Carpenter,R,Miguel Montero,471083,4,0,5,False,2017-05-14,Stolen,2B,2017,2018,28.6
+281,2600,1B,2B,Stolen Base 2B,502054,Tommy Pham,452657,Jon Lester,642423,Magneuris Sierra,L,Willson Contreras,575929,0,1,3,False,2017-05-13,Stolen,2B,2017,2018,28.6
+282,2602,1B,,Caught Stealing 2B,502054,Tommy Pham,452657,Jon Lester,642423,Magneuris Sierra,L,Willson Contreras,575929,3,1,4,False,2017-05-13,Caught,2B,2017,2018,28.6
+283,2733,1B,2B,Stolen Base 2B,502054,Tommy Pham,447714,Eric O'Flaherty,543939,Kolten Wong,L,Kurt Suzuki,435559,4,4,12,True,2017-05-07,Stolen,2B,2017,2018,28.6
+284,2871,2B,3B,Stolen Base 3B,502054,Tommy Pham,605232,Brandon Finnegan,572039,Stephen Piscotty,L,Devin Mesoraco,519023,1,0,1,False,2017-04-29,Stolen,3B,2017,2018,28.6
+285,4318,1B,2B,Stolen Base 2B,502054,Tommy Pham,433586,Santiago Casilla,425877,Yadier Molina,R,Buster Posey,457763,2,1,9,True,2016-09-17,Stolen,2B,2016,2017,28.7
+286,5327,1B,,Caught Stealing 2B,502054,Tommy Pham,548337,Logan Verrett,425794,Adam Wainwright,R,Travis d'Arnaud,518595,1,3,7,True,2016-07-27,Caught,2B,2016,2017,28.7
+287,5365,2B,,Caught Stealing 3B,502054,Tommy Pham,592789,Noah Syndergaard,649557,Aledmys Díaz,R,Travis d'Arnaud,518595,0,3,4,True,2016-07-26,Caught,3B,2016,2017,28.7
+288,5493,1B,2B,Stolen Base 2B,502054,Tommy Pham,518560,Paul Clemens,571757,Jeremy Hazelbaker,R,Derek Norris,519083,1,0,4,False,2016-07-20,Stolen,2B,2016,2017,28.7
+289,283,1B,2B,Stolen Base 2B,502054,Tommy Pham,433586,Santiago Casilla,425877,Yadier Molina,R,Buster Posey,457763,2,1,9,True,2016-09-17,Stolen,2B,2016,2017,28.7
+290,1292,1B,,Caught Stealing 2B,502054,Tommy Pham,548337,Logan Verrett,425794,Adam Wainwright,R,Travis d'Arnaud,518595,1,3,7,True,2016-07-27,Caught,2B,2016,2017,28.7
+291,1330,2B,,Caught Stealing 3B,502054,Tommy Pham,592789,Noah Syndergaard,649557,Aledmys Díaz,R,Travis d'Arnaud,518595,0,3,4,True,2016-07-26,Caught,3B,2016,2017,28.7
+292,1458,1B,2B,Stolen Base 2B,502054,Tommy Pham,518560,Paul Clemens,571757,Jeremy Hazelbaker,R,Derek Norris,519083,1,0,4,False,2016-07-20,Stolen,2B,2016,2017,28.7
+293,3690,1B,2B,Stolen Base 2B,502054,Tommy Pham,433586,Santiago Casilla,425877,Yadier Molina,R,Buster Posey,457763,2,1,9,True,2016-09-17,Stolen,2B,2016,2017,28.7
+294,4699,1B,,Caught Stealing 2B,502054,Tommy Pham,548337,Logan Verrett,425794,Adam Wainwright,R,Travis d'Arnaud,518595,1,3,7,True,2016-07-27,Caught,2B,2016,2017,28.7
+295,4737,2B,,Caught Stealing 3B,502054,Tommy Pham,592789,Noah Syndergaard,649557,Aledmys Díaz,R,Travis d'Arnaud,518595,0,3,4,True,2016-07-26,Caught,3B,2016,2017,28.7
+296,4865,1B,2B,Stolen Base 2B,502054,Tommy Pham,518560,Paul Clemens,571757,Jeremy Hazelbaker,R,Derek Norris,519083,1,0,4,False,2016-07-20,Stolen,2B,2016,2017,28.7
+297,314,1B,2B,Stolen Base 2B,502054,Tommy Pham,543506,Brandon Maurer,572761,Matt Carpenter,R,Derek Norris,519083,1,1,8,False,2015-07-04,Stolen,2B,2015,2016,28.6

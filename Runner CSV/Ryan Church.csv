@@ -1,0 +1,24 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+183,1B,,Caught Stealing 2B,425508,Ryan Church,Mike Matheny,0,0,5,False,2005-09-22,Caught,2B,2005
+1104,1B,2B,Stolen Base 2B,425508,Ryan Church,Dioner Navarro,1,0,4,False,2005-08-04,Stolen,2B,2005
+1347,1B,,Caught Stealing 2B,425508,Ryan Church,Humberto Quintero,4,0,3,False,2005-07-23,Caught,2B,2005
+1376,1B,2B,Stolen Base 2B,425508,Ryan Church,Brad Ausmus,0,3,4,False,2005-07-22,Stolen,2B,2005
+1409,2B,3B,Stolen Base 3B,425508,Ryan Church,Danny Ardoin,2,3,7,False,2005-07-20,Stolen,3B,2005
+2689,1B,,Caught Stealing 2B,425508,Ryan Church,Russell Martin,0,0,2,False,2007-05-30,Caught,2B,2007
+3282,1B,2B,Stolen Base 2B,425508,Ryan Church,Josh Bard,1,2,4,True,2007-04-30,Stolen,2B,2007
+3329,1B,2B,Stolen Base 2B,425508,Ryan Church,Ramon Castro,0,0,2,False,2007-04-29,Stolen,2B,2007
+3525,1B,2B,Stolen Base 2B,425508,Ryan Church,Miguel Olivo,5,5,14,True,2007-04-20,Stolen,2B,2007
+82,1B,,Caught Stealing 2B,425508,Ryan Church,Koyie Hill,1,2,2,False,2008-09-25,Caught,2B,2008
+397,1B,,Caught Stealing 2B,425508,Ryan Church,Wil Nieves,0,0,1,False,2008-09-09,Caught,2B,2008
+682,1B,2B,Stolen Base 2B,425508,Ryan Church,Chris Coste,2,1,2,True,2008-08-27,Stolen,2B,2008
+3214,1B,2B,Stolen Base 2B,425508,Ryan Church,Wil Nieves,0,1,4,True,2008-04-24,Stolen,2B,2008
+3286,1B,,Caught Stealing 2B,425508,Ryan Church,Geovany Soto,0,0,2,True,2008-04-21,Caught,2B,2008
+687,1B,2B,Stolen Base 2B,425508,Ryan Church,Jason Kendall,0,0,1,True,2009-07-01,Stolen,2B,2009
+688,1B,,Caught Stealing 2B,425508,Ryan Church,Jason Kendall,0,1,6,True,2009-07-01,Caught,2B,2009
+953,1B,2B,Stolen Base 2B,425508,Ryan Church,Dioner Navarro,4,1,6,False,2009-06-19,Stolen,2B,2009
+955,1B,2B,Stolen Base 2B,425508,Ryan Church,Dioner Navarro,5,3,8,False,2009-06-19,Stolen,2B,2009
+1102,1B,2B,Stolen Base 2B,425508,Ryan Church,Jorge Posada,0,0,2,True,2009-06-12,Stolen,2B,2009
+1740,1B,2B,Stolen Base 2B,425508,Ryan Church,Bengie Molina,5,1,4,True,2009-05-15,Stolen,2B,2009
+1743,1B,,Caught Stealing 2B,425508,Ryan Church,Bengie Molina,6,8,9,True,2009-05-15,Caught,2B,2009
+2676,1B,2B,Stolen Base 2B,425508,Ryan Church,Ramon Hernandez,0,0,2,True,2009-04-06,Stolen,2B,2009
+2103,1B,2B,Stolen Base 2B,425508,Ryan Church,Matt Treanor,2,0,2,True,2010-06-23,Stolen,2B,2010

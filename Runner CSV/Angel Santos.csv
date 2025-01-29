@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+848,1B,,Caught Stealing 2B,407488,Angel Santos,Toby Hall,3,4,6,False,2003-08-16,Caught,2B,2003
+899,1B,2B,Stolen Base 2B,407488,Angel Santos,Matthew LeCroy,0,2,5,True,2003-08-14,Stolen,2B,2003

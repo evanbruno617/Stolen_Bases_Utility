@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+32,1B,,Caught Stealing 2B,464433,Juan Francisco,Jason Castro,0,1,6,False,2010-09-29,Caught,2B,2010
+391,1B,2B,Stolen Base 2B,464433,Juan Francisco,Geovany Soto,5,0,3,False,2011-09-14,Stolen,2B,2011
+2347,1B,2B,Stolen Base 2B,464433,Juan Francisco,Russell Martin,5,9,9,True,2012-06-20,Stolen,2B,2012
+3388,3B,,Caught Stealing Home,464433,Juan Francisco,Ramon Hernandez,0,4,4,True,2012-05-06,Caught,Home,2012
+626,1B,,Caught Stealing 2B,464433,Juan Francisco,Chris Iannetta,3,4,4,False,2013-08-31,Caught,2B,2013
+1777,1B,,Caught Stealing 2B,464433,Juan Francisco,Jonathan Lucroy,2,0,5,False,2014-07-01,Caught,2B,2014
+2801,1B,,Caught Stealing 2B,464433,Juan Francisco,Chris Iannetta,7,3,8,False,2014-05-12,Caught,2B,2014

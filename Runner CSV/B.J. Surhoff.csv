@@ -1,0 +1,24 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+757,1B,2B,Stolen Base 2B,122989,B.J. Surhoff,Jason LaRue,2,1,3,False,2000-08-30,Stolen,2B,2000
+877,1B,2B,Stolen Base 2B,122989,B.J. Surhoff,Mike Matheny,7,4,7,False,2000-08-25,Stolen,2B,2000
+935,1B,2B,Stolen Base 2B,122989,B.J. Surhoff,Ben Petrick,6,5,7,True,2000-08-22,Stolen,2B,2000
+1577,2B,3B,Stolen Base 3B,122989,B.J. Surhoff,Jorge Posada,0,1,2,False,2000-07-25,Stolen,3B,2000
+1763,1B,,Caught Stealing 2B,122989,B.J. Surhoff,Mike Redmond,0,1,2,False,2000-07-16,Caught,2B,2000
+1836,1B,2B,Stolen Base 2B,122989,B.J. Surhoff,Mike Lieberthal,3,2,4,True,2000-07-09,Stolen,2B,2000
+1994,1B,2B,Stolen Base 2B,122989,B.J. Surhoff,Alberto Castillo,1,2,4,False,2000-07-02,Stolen,2B,2000
+2262,1B,2B,Stolen Base 2B,122989,B.J. Surhoff,Ramon Hernandez,1,2,5,True,2000-06-20,Stolen,2B,2000
+2263,1B,2B,Stolen Base 2B,122989,B.J. Surhoff,Ramon Hernandez,8,5,9,True,2000-06-20,Stolen,2B,2000
+2596,1B,,Caught Stealing 2B,122989,B.J. Surhoff,Mike Piazza,0,0,2,True,2000-06-05,Caught,2B,2000
+3017,1B,2B,Stolen Base 2B,122989,B.J. Surhoff,Matt Walbeck,3,5,6,True,2000-05-17,Stolen,2B,2000
+3179,1B,2B,Stolen Base 2B,122989,B.J. Surhoff,Jason Varitek,1,3,3,False,2000-05-11,Stolen,2B,2000
+1205,1B,2B,Caught Stealing 3B,122989,B.J. Surhoff,Charles Johnson,2,3,8,False,2001-04-17,Caught,3B,2001
+3346,1B,2B,Stolen Base 2B,122989,B.J. Surhoff,Brad Ausmus,4,0,5,False,2002-04-26,Stolen,2B,2002
+3645,1B,,Caught Stealing 2B,122989,B.J. Surhoff,Mike Redmond,3,4,5,True,2002-04-13,Caught,2B,2002
+3689,1B,,Caught Stealing 2B,122989,B.J. Surhoff,Charles Johnson,0,2,6,True,2002-04-12,Caught,2B,2002
+3833,1B,,Caught Stealing 2B,122989,B.J. Surhoff,Vance Wilson,2,2,6,False,2002-04-06,Caught,2B,2002
+1844,1B,2B,Stolen Base 2B,122989,B.J. Surhoff,Mike Lieberthal,1,1,15,False,2003-06-27,Stolen,2B,2003
+2067,1B,,Caught Stealing 2B,122989,B.J. Surhoff,Keith Osik,1,0,2,False,2003-06-15,Caught,2B,2003
+2178,1B,2B,Stolen Base 2B,122989,B.J. Surhoff,Damian Miller,2,6,7,False,2003-06-11,Stolen,2B,2003
+3094,1B,,Caught Stealing 2B,122989,B.J. Surhoff,Toby Hall,7,5,5,True,2003-04-26,Caught,2B,2003
+2146,1B,2B,Stolen Base 2B,122989,B.J. Surhoff,A.J. Pierzynski,5,5,8,False,2004-06-12,Stolen,2B,2004
+2482,1B,2B,Stolen Base 2B,122989,B.J. Surhoff,Ivan Rodriguez,0,0,2,True,2004-05-28,Stolen,2B,2004

@@ -1,0 +1,15 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,,Caught Stealing 2B,657656,Ramón Laureano,Francisco Arcia,5,0,5,True,2018-09-28,Caught,2B,2018
+1B,2B,Stolen Base 2B,596115,Trevor Story,Francisco Arcia,0,0,2,True,2018-08-27,Stolen,2B,2018
+1B,2B,Stolen Base 2B,471865,Carlos González,Francisco Arcia,4,2,5,True,2018-08-27,Stolen,2B,2018
+1B,2B,Stolen Base 2B,608324,Alex Bregman,Francisco Arcia,3,7,9,True,2018-08-24,Stolen,2B,2018
+1B,2B,Stolen Base 2B,519306,Steven Souza Jr.,Francisco Arcia,4,2,3,False,2018-08-21,Stolen,2B,2018
+1B,,Caught Stealing 2B,596059,Rougned Odor,Francisco Arcia,1,0,1,False,2018-08-19,Caught,2B,2018
+1B,,Caught Stealing 2B,462101,Elvis Andrus,Francisco Arcia,1,0,1,False,2018-08-18,Caught,2B,2018
+1B,,Caught Stealing 2B,596059,Rougned Odor,Francisco Arcia,6,6,6,False,2018-08-18,Caught,2B,2018
+1B,2B,Stolen Base 2B,608671,Travis Jankowski,Francisco Arcia,0,2,3,False,2018-08-14,Stolen,2B,2018
+1B,,Caught Stealing 2B,596019,Francisco Lindor,Francisco Arcia,0,0,1,False,2018-08-04,Caught,2B,2018
+1B,2B,Stolen Base 2B,608070,José Ramírez,Francisco Arcia,3,0,8,False,2018-08-04,Stolen,2B,2018
+1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,Francisco Arcia,4,2,6,False,2018-08-01,Stolen,2B,2018
+1B,2B,Stolen Base 2B,605480,Mallex Smith,Francisco Arcia,4,2,8,False,2018-08-01,Stolen,2B,2018
+2B,3B,Stolen Base 3B,605480,Mallex Smith,Francisco Arcia,5,2,8,False,2018-08-01,Stolen,3B,2018

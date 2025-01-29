@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+452,1B,2B,Stolen Base 2B,120416,Tomas Perez,Brian Schneider,5,4,6,False,2000-09-11,Stolen,2B,2000
+453,3B,,Caught Stealing Home,120416,Tomas Perez,Brian Schneider,5,4,6,False,2000-09-11,Caught,Home,2000
+22,1B,2B,Stolen Base 2B,120416,Tomas Perez,Ramon Castro,2,7,5,True,2002-09-28,Stolen,2B,2002
+664,1B,,Caught Stealing 2B,120416,Tomas Perez,Brian Schneider,4,10,7,True,2003-08-26,Caught,2B,2003
+2676,1B,2B,Stolen Base 2B,120416,Tomas Perez,Jason LaRue,5,0,4,False,2005-05-13,Stolen,2B,2005

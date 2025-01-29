@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+274,1B,2B,Caught Stealing 3B,400090,Alex Cintron,Charles Johnson,0,0,2,False,2003-09-14,Caught,3B,2003
+655,1B,2B,Stolen Base 2B,400090,Alex Cintron,Gary Bennett,2,0,3,False,2003-08-26,Stolen,2B,2003
+945,1B,,Caught Stealing 2B,400090,Alex Cintron,Jason LaRue,0,0,2,True,2003-08-12,Caught,2B,2003
+1151,3B,,Caught Stealing Home,400090,Alex Cintron,Damian Miller,2,2,6,True,2003-08-02,Caught,Home,2003
+1250,1B,,Caught Stealing 2B,400090,Alex Cintron,Paul Lo Duca,0,1,4,False,2003-07-27,Caught,2B,2003
+1817,1B,2B,Stolen Base 2B,400090,Alex Cintron,A.J. Hinch,0,3,3,True,2003-06-28,Stolen,2B,2003
+502,1B,2B,Stolen Base 2B,400090,Alex Cintron,David Ross,2,2,5,True,2004-09-07,Stolen,2B,2004
+1700,1B,,Caught Stealing 2B,400090,Alex Cintron,David Ross,0,0,2,True,2004-07-05,Caught,2B,2004
+2410,1B,2B,Stolen Base 2B,400090,Alex Cintron,David Ross,0,0,1,True,2004-05-30,Stolen,2B,2004
+2535,1B,2B,Stolen Base 2B,400090,Alex Cintron,A.J. Pierzynski,0,0,1,True,2004-05-25,Stolen,2B,2004
+3194,1B,,Caught Stealing 2B,400090,Alex Cintron,Gary Bennett,9,9,13,True,2004-04-22,Caught,2B,2004
+3248,1B,,Caught Stealing 2B,400090,Alex Cintron,Ramon Hernandez,0,3,3,True,2004-04-18,Caught,2B,2004
+176,1B,2B,Stolen Base 2B,400090,Alex Cintron,Jason Phillips,4,4,11,False,2005-09-22,Stolen,2B,2005
+1473,1B,,Caught Stealing 2B,400090,Alex Cintron,Ramon Hernandez,2,1,2,True,2005-07-16,Caught,2B,2005
+3091,1B,,Caught Stealing 2B,400090,Alex Cintron,Ramon Hernandez,0,1,5,False,2005-04-23,Caught,2B,2005
+502,1B,2B,Stolen Base 2B,400090,Alex Cintron,Joe Mauer,1,0,2,False,2007-09-09,Stolen,2B,2007
+1989,1B,2B,Stolen Base 2B,400090,Alex Cintron,John Buck,1,0,2,True,2007-07-01,Stolen,2B,2007
+2261,1B,,Caught Stealing 2B,400090,Alex Cintron,Matt Treanor,0,0,1,False,2007-06-20,Caught,2B,2007
+376,1B,,Caught Stealing 2B,400090,Alex Cintron,Kelly Shoppach,0,5,6,False,2008-09-10,Caught,2B,2008

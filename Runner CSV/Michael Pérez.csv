@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+214,1B,,Caught Stealing 2B,605421,Michael Pérez,Nick Fortes,2,6,7,True,2021-09-18,Caught,2B,2021
+2243,1B,2B,Stolen Base 2B,605421,Michael Pérez,Austin Nola,1,1,4,True,2022-05-28,Stolen,2B,2022

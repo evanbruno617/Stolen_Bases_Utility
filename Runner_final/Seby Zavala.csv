@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4135,1B,2B,Stolen Base 2B,664874,Seby Zavala,622072,Alex Wood,663853,Romy Gonzalez,L,Blake Sabol,666165,0,4,2,False,2023-04-06,Stolen,2B,2023,2024,26.0
+1,8549,1B,2B,Stolen Base 2B,664874,Seby Zavala,622072,Alex Wood,663853,Romy Gonzalez,L,Blake Sabol,666165,0,4,2,False,2023-04-06,Stolen,2B,2023,2024,26.0

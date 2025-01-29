@@ -1,0 +1,11 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1108,1B,2B,Stolen Base 2B,657061,Cole Tucker,506433,Yu Darvish,607732,Jacob Stallings,R,Victor Caratini,605170,2,0,5,True,2020-07-31,Stolen,2B,2020,2021,27.6
+1,3951,1B,2B,Stolen Base 2B,657061,Cole Tucker,506433,Yu Darvish,607732,Jacob Stallings,R,Victor Caratini,605170,2,0,5,True,2020-07-31,Stolen,2B,2020,2021,27.6
+2,5875,1B,2B,Stolen Base 2B,657061,Cole Tucker,506433,Yu Darvish,607732,Jacob Stallings,R,Victor Caratini,605170,2,0,5,True,2020-07-31,Stolen,2B,2020,2021,27.6
+3,194,1B,2B,Stolen Base 2B,657061,Cole Tucker,645261,Sandy Alcantara,546990,Anthony Alford,R,Alex Jackson,656577,0,1,2,True,2021-09-19,Stolen,2B,2021,2022,27.7
+4,446,1B,2B,Stolen Base 2B,657061,Cole Tucker,621219,Alec Mills,592567,Colin Moran,R,Austin Romine,519222,0,0,1,True,2021-09-03,Stolen,2B,2021,2022,27.7
+5,1319,1B,,Caught Stealing 2B,657061,Cole Tucker,455119,Chris Martin,668804,Bryan Reynolds,R,Kevan Smith,607345,1,1,7,False,2021-07-06,Caught,2B,2021,2022,27.7
+6,2118,1B,2B,Stolen Base 2B,657061,Cole Tucker,645261,Sandy Alcantara,546990,Anthony Alford,R,Alex Jackson,656577,0,1,2,True,2021-09-19,Stolen,2B,2021,2022,27.7
+7,2370,1B,2B,Stolen Base 2B,657061,Cole Tucker,621219,Alec Mills,592567,Colin Moran,R,Austin Romine,519222,0,0,1,True,2021-09-03,Stolen,2B,2021,2022,27.7
+8,3243,1B,,Caught Stealing 2B,657061,Cole Tucker,455119,Chris Martin,668804,Bryan Reynolds,R,Kevan Smith,607345,1,1,7,False,2021-07-06,Caught,2B,2021,2022,27.7
+9,1732,1B,2B,Stolen Base 2B,657061,Cole Tucker,644364,Víctor Arano,547379,Roberto Pérez,R,Keibert Ruiz,660688,9,4,8,False,2022-04-14,Stolen,2B,2022,2023,28.3

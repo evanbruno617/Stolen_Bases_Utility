@@ -1,0 +1,26 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3676,3B,,Caught Stealing Home,547989,José Abreu,605276,David Hess,547170,Nicky Delmonico,R,Pedro Severino,600474,4,0,3,False,2019-05-01,Caught,Home,2019,2020,26.8
+1,3974,1B,2B,Stolen Base 2B,547989,José Abreu,493603,Adam Ottavino,475174,Yonder Alonso,R,Kyle Higashioka,543309,2,5,7,True,2019-04-14,Stolen,2B,2019,2020,26.8
+2,3975,2B,3B,Stolen Base 3B,547989,José Abreu,493603,Adam Ottavino,650391,Eloy Jiménez,R,Kyle Higashioka,543309,2,5,7,True,2019-04-14,Stolen,3B,2019,2020,26.8
+3,6519,3B,,Caught Stealing Home,547989,José Abreu,605276,David Hess,547170,Nicky Delmonico,R,Pedro Severino,600474,4,0,3,False,2019-05-01,Caught,Home,2019,2020,26.8
+4,6817,1B,2B,Stolen Base 2B,547989,José Abreu,493603,Adam Ottavino,475174,Yonder Alonso,R,Kyle Higashioka,543309,2,5,7,True,2019-04-14,Stolen,2B,2019,2020,26.8
+5,6818,2B,3B,Stolen Base 3B,547989,José Abreu,493603,Adam Ottavino,650391,Eloy Jiménez,R,Kyle Higashioka,543309,2,5,7,True,2019-04-14,Stolen,3B,2019,2020,26.8
+6,8443,3B,,Caught Stealing Home,547989,José Abreu,605276,David Hess,547170,Nicky Delmonico,R,Pedro Severino,600474,4,0,3,False,2019-05-01,Caught,Home,2019,2020,26.8
+7,8741,1B,2B,Stolen Base 2B,547989,José Abreu,493603,Adam Ottavino,475174,Yonder Alonso,R,Kyle Higashioka,543309,2,5,7,True,2019-04-14,Stolen,2B,2019,2020,26.8
+8,8742,2B,3B,Stolen Base 3B,547989,José Abreu,493603,Adam Ottavino,650391,Eloy Jiménez,R,Kyle Higashioka,543309,2,5,7,True,2019-04-14,Stolen,3B,2019,2020,26.8
+9,2737,1B,2B,Stolen Base 2B,547989,José Abreu,643290,Justin Dunn,518735,Yasmani Grandal,R,Tom Murphy,608596,0,0,1,True,2021-04-07,Stolen,2B,2021,2022,26.1
+10,4661,1B,2B,Stolen Base 2B,547989,José Abreu,643290,Justin Dunn,518735,Yasmani Grandal,R,Tom Murphy,608596,0,0,1,True,2021-04-07,Stolen,2B,2021,2022,26.1
+11,97,1B,2B,Stolen Base 2B,547989,José Abreu,543169,Brian Flynn,547170,Nicky Delmonico,L,Drew Butera,460077,4,4,7,True,2018-04-29,Stolen,2B,2018,2019,26.6
+12,348,2B,3B,Stolen Base 3B,547989,José Abreu,641427,Alan Busenitz,547170,Nicky Delmonico,R,Mitch Garver,641598,1,5,4,True,2018-04-15,Stolen,3B,2018,2019,26.6
+13,849,1B,2B,Stolen Base 2B,547989,José Abreu,606965,Chris Devenski,547170,Nicky Delmonico,R,Brian McCann,435263,2,1,8,True,2017-09-19,Stolen,2B,2017,2018,26.7
+14,927,1B,2B,Stolen Base 2B,547989,José Abreu,434671,Aníbal Sánchez,547170,Nicky Delmonico,R,James McCann,543510,1,1,6,True,2017-09-15,Stolen,2B,2017,2018,26.7
+15,1910,1B,2B,Stolen Base 2B,547989,José Abreu,407793,John Lackey,541645,Avisaíl García,R,Willson Contreras,575929,4,2,5,True,2017-07-25,Stolen,2B,2017,2018,26.7
+16,221,1B,2B,Stolen Base 2B,547989,José Abreu,606965,Chris Devenski,547170,Nicky Delmonico,R,Brian McCann,435263,2,1,8,True,2017-09-19,Stolen,2B,2017,2018,26.7
+17,299,1B,2B,Stolen Base 2B,547989,José Abreu,434671,Aníbal Sánchez,547170,Nicky Delmonico,R,James McCann,543510,1,1,6,True,2017-09-15,Stolen,2B,2017,2018,26.7
+18,1282,1B,2B,Stolen Base 2B,547989,José Abreu,407793,John Lackey,541645,Avisaíl García,R,Willson Contreras,575929,4,2,5,True,2017-07-25,Stolen,2B,2017,2018,26.7
+19,6332,1B,,Caught Stealing 2B,547989,José Abreu,594798,Jacob deGrom,453943,Todd Frazier,R,René Rivera,425784,1,0,4,True,2016-06-01,Caught,2B,2016,2017,26.9
+20,6732,1B,,Caught Stealing 2B,547989,José Abreu,473879,Sam Dyson,570560,Yolmer Sánchez,R,Bobby Wilson,435064,6,5,9,True,2016-05-11,Caught,2B,2016,2017,26.9
+21,2297,1B,,Caught Stealing 2B,547989,José Abreu,594798,Jacob deGrom,453943,Todd Frazier,R,René Rivera,425784,1,0,4,True,2016-06-01,Caught,2B,2016,2017,26.9
+22,2697,1B,,Caught Stealing 2B,547989,José Abreu,473879,Sam Dyson,570560,Yolmer Sánchez,R,Bobby Wilson,435064,6,5,9,True,2016-05-11,Caught,2B,2016,2017,26.9
+23,5704,1B,,Caught Stealing 2B,547989,José Abreu,594798,Jacob deGrom,453943,Todd Frazier,R,René Rivera,425784,1,0,4,True,2016-06-01,Caught,2B,2016,2017,26.9
+24,6104,1B,,Caught Stealing 2B,547989,José Abreu,473879,Sam Dyson,570560,Yolmer Sánchez,R,Bobby Wilson,435064,6,5,9,True,2016-05-11,Caught,2B,2016,2017,26.9

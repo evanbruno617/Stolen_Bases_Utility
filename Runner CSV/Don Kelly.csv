@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+754,1B,2B,Stolen Base 2B,430603,Don Kelly,John Buck,1,1,6,True,2010-08-27,Stolen,2B,2010
+1223,1B,2B,Stolen Base 2B,430603,Don Kelly,A.J. Pierzynski,0,3,4,False,2010-08-04,Stolen,2B,2010
+2959,1B,2B,Stolen Base 2B,430603,Don Kelly,Jason Varitek,5,1,5,False,2010-05-16,Stolen,2B,2010
+1239,1B,,Caught Stealing 2B,430603,Don Kelly,Carlos Santana,2,2,5,True,2011-08-09,Caught,2B,2011
+3462,1B,2B,Stolen Base 2B,430603,Don Kelly,José Molina,1,0,2,True,2011-05-09,Stolen,2B,2011
+4137,1B,2B,Stolen Base 2B,430603,Don Kelly,Yorvit Torrealba,4,4,8,False,2011-04-12,Stolen,2B,2011
+105,1B,2B,Stolen Base 2B,430603,Don Kelly,Salvador Perez,4,4,8,False,2012-09-26,Stolen,2B,2012
+3087,1B,2B,Stolen Base 2B,430603,Don Kelly,Rod Barajas,2,2,4,False,2012-05-19,Stolen,2B,2012
+2546,1B,2B,Stolen Base 2B,430603,Don Kelly,Ryan Doumit,1,0,3,False,2013-05-26,Stolen,2B,2013
+2612,3B,score,Caught Stealing 2B,430603,Don Kelly,Yan Gomes,2,9,5,True,2013-05-22,Caught,2B,2013
+2986,1B,2B,Stolen Base 2B,430603,Don Kelly,Carlos Corporán,0,1,2,True,2013-05-03,Stolen,2B,2013
+466,1B,2B,Stolen Base 2B,430603,Don Kelly,Buster Posey,0,0,2,False,2014-09-07,Stolen,2B,2014
+1067,1B,2B,Stolen Base 2B,430603,Don Kelly,Josh Thole,5,5,19,True,2014-08-10,Stolen,2B,2014
+1557,1B,2B,Stolen Base 2B,430603,Don Kelly,Salvador Perez,1,5,9,True,2014-07-12,Stolen,2B,2014
+2043,2B,,Caught Stealing 3B,430603,Don Kelly,Yan Gomes,0,0,3,True,2014-06-20,Caught,3B,2014
+2184,1B,2B,Stolen Base 2B,430603,Don Kelly,Tyler Flowers,0,3,9,True,2014-06-12,Stolen,2B,2014
+2767,1B,2B,Stolen Base 2B,430603,Don Kelly,Steve Clevenger,0,3,4,True,2014-05-14,Stolen,2B,2014
+2901,1B,2B,Stolen Base 2B,430603,Don Kelly,Jason Castro,3,2,8,False,2014-05-07,Stolen,2B,2014

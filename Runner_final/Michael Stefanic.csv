@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,139,1B,,Caught Stealing 2B,683021,Michael Stefanic,592351,Jon Gray,694384,Nolan Schanuel,R,Jonah Heim,641680,1,0,5,False,2023-09-25,Caught,2B,2023,2024,25.6
+1,4553,1B,,Caught Stealing 2B,683021,Michael Stefanic,592351,Jon Gray,694384,Nolan Schanuel,R,Jonah Heim,641680,1,0,5,False,2023-09-25,Caught,2B,2023,2024,25.6
+2,1905,1B,2B,Stolen Base 2B,683021,Michael Stefanic,676617,Riley O'Brien,664058,David Fletcher,R,Aramis Garcia,605244,3,0,2,False,2022-04-01,Stolen,2B,2022,2023,26.0

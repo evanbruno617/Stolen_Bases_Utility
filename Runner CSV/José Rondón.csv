@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+363,1B,,Caught Stealing 2B,602922,José Rondón,Salvador Perez,2,2,9,True,2018-09-12,Caught,2B,2018
+2368,1B,2B,Stolen Base 2B,602922,José Rondón,Chance Sisco,7,1,5,False,2018-05-23,Stolen,2B,2018
+2390,1B,2B,Stolen Base 2B,602922,José Rondón,Chance Sisco,1,2,8,False,2018-05-22,Stolen,2B,2018
+1019,1B,2B,Stolen Base 2B,602922,José Rondón,Roberto Pérez,2,3,9,True,2021-07-27,Stolen,2B,2021
+1660,1B,2B,Stolen Base 2B,602922,José Rondón,Jorge Alfaro,0,1,6,False,2021-06-15,Stolen,2B,2021

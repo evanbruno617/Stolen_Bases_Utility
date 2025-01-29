@@ -1,0 +1,16 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3863,1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,425794,Adam Wainwright,150029,Jayson Werth,R,Yadier Molina,425877,2,3,3,False,2017-04-10,Stolen,2B,2017,2018,26.7
+1,3235,1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,425794,Adam Wainwright,150029,Jayson Werth,R,Yadier Molina,425877,2,3,3,False,2017-04-10,Stolen,2B,2017,2018,26.7
+2,4337,1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,518567,Josh Collmenter,457787,Danny Espinosa,R,Anthony Recker,489232,3,1,4,True,2016-09-17,Stolen,2B,2016,2017,26.9
+3,4731,1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,407822,Jorge De La Rosa,457787,Danny Espinosa,L,Nick Hundley,460026,0,0,2,False,2016-08-27,Stolen,2B,2016,2017,26.9
+4,5336,1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,471911,Carlos Carrasco,519184,Ben Revere,R,Roberto Pérez,547379,0,0,2,True,2016-07-27,Stolen,2B,2016,2017,26.9
+5,6488,1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,112526,Bartolo Colon,543685,Anthony Rendon,R,Kevin Plawecki,608700,1,7,6,False,2016-05-23,Stolen,2B,2016,2017,26.9
+6,302,1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,518567,Josh Collmenter,457787,Danny Espinosa,R,Anthony Recker,489232,3,1,4,True,2016-09-17,Stolen,2B,2016,2017,26.9
+7,696,1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,407822,Jorge De La Rosa,457787,Danny Espinosa,L,Nick Hundley,460026,0,0,2,False,2016-08-27,Stolen,2B,2016,2017,26.9
+8,1301,1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,471911,Carlos Carrasco,519184,Ben Revere,R,Roberto Pérez,547379,0,0,2,True,2016-07-27,Stolen,2B,2016,2017,26.9
+9,2453,1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,112526,Bartolo Colon,543685,Anthony Rendon,R,Kevin Plawecki,608700,1,7,6,False,2016-05-23,Stolen,2B,2016,2017,26.9
+10,3709,1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,518567,Josh Collmenter,457787,Danny Espinosa,R,Anthony Recker,489232,3,1,4,True,2016-09-17,Stolen,2B,2016,2017,26.9
+11,4103,1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,407822,Jorge De La Rosa,457787,Danny Espinosa,L,Nick Hundley,460026,0,0,2,False,2016-08-27,Stolen,2B,2016,2017,26.9
+12,4708,1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,471911,Carlos Carrasco,519184,Ben Revere,R,Roberto Pérez,547379,0,0,2,True,2016-07-27,Stolen,2B,2016,2017,26.9
+13,5860,1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,112526,Bartolo Colon,543685,Anthony Rendon,R,Kevin Plawecki,608700,1,7,6,False,2016-05-23,Stolen,2B,2016,2017,26.9
+14,1235,1B,2B,Stolen Base 2B,475582,Ryan Zimmerman,469134,Esmil Rogers,467092,Wilson Ramos,R,Brian McCann,435263,3,2,8,False,2015-05-20,Stolen,2B,2015,2016,27.1

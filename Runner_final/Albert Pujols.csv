@@ -1,0 +1,35 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1459,1B,2B,Stolen Base 2B,405395,Albert Pujols,593334,Domingo Germán,571718,Brian Goodwin,R,Kyle Higashioka,543309,2,2,5,True,2019-09-18,Stolen,2B,2019,2020,22.1
+1,1501,2B,3B,Stolen Base 3B,405395,Albert Pujols,642232,Ryan Yarbrough,594777,Kole Calhoun,L,Michael Pérez,605421,1,1,1,False,2019-09-15,Stolen,3B,2019,2020,22.1
+2,1953,1B,2B,Stolen Base 2B,405395,Albert Pujols,606160,Rafael Montero,650859,Luis Rengifo,R,Jose Trevino,624431,7,7,11,True,2019-08-19,Stolen,2B,2019,2020,22.1
+3,4302,1B,2B,Stolen Base 2B,405395,Albert Pujols,593334,Domingo Germán,571718,Brian Goodwin,R,Kyle Higashioka,543309,2,2,5,True,2019-09-18,Stolen,2B,2019,2020,22.1
+4,4344,2B,3B,Stolen Base 3B,405395,Albert Pujols,642232,Ryan Yarbrough,594777,Kole Calhoun,L,Michael Pérez,605421,1,1,1,False,2019-09-15,Stolen,3B,2019,2020,22.1
+5,4796,1B,2B,Stolen Base 2B,405395,Albert Pujols,606160,Rafael Montero,650859,Luis Rengifo,R,Jose Trevino,624431,7,7,11,True,2019-08-19,Stolen,2B,2019,2020,22.1
+6,6226,1B,2B,Stolen Base 2B,405395,Albert Pujols,593334,Domingo Germán,571718,Brian Goodwin,R,Kyle Higashioka,543309,2,2,5,True,2019-09-18,Stolen,2B,2019,2020,22.1
+7,6268,2B,3B,Stolen Base 3B,405395,Albert Pujols,642232,Ryan Yarbrough,594777,Kole Calhoun,L,Michael Pérez,605421,1,1,1,False,2019-09-15,Stolen,3B,2019,2020,22.1
+8,6720,1B,2B,Stolen Base 2B,405395,Albert Pujols,606160,Rafael Montero,650859,Luis Rengifo,R,Jose Trevino,624431,7,7,11,True,2019-08-19,Stolen,2B,2019,2020,22.1
+9,973,1B,2B,Stolen Base 2B,405395,Albert Pujols,676969,Brett de Geus,621035,Chris Taylor,R,Carson Kelly,608348,5,5,8,True,2021-07-30,Stolen,2B,2021,2022,22.7
+10,2565,2B,3B,Stolen Base 3B,405395,Albert Pujols,621129,Kyle Cody,435559,Kurt Suzuki,R,Jose Trevino,624431,3,6,7,False,2021-04-19,Stolen,3B,2021,2022,22.7
+11,2897,1B,2B,Stolen Base 2B,405395,Albert Pujols,676969,Brett de Geus,621035,Chris Taylor,R,Carson Kelly,608348,5,5,8,True,2021-07-30,Stolen,2B,2021,2022,22.7
+12,4489,2B,3B,Stolen Base 3B,405395,Albert Pujols,621129,Kyle Cody,435559,Kurt Suzuki,R,Jose Trevino,624431,3,6,7,False,2021-04-19,Stolen,3B,2021,2022,22.7
+13,656,1B,2B,Stolen Base 2B,405395,Albert Pujols,594835,Marco Gonzales,543068,C.J. Cron,L,Mike Zunino,572287,1,0,1,False,2017-09-29,Stolen,2B,2017,2018,22.2
+14,1001,1B,2B,Stolen Base 2B,405395,Albert Pujols,541640,Erasmo Ramírez,594777,Kole Calhoun,R,Mike Zunino,572287,0,1,1,True,2017-09-10,Stolen,2B,2017,2018,22.2
+15,3435,2B,3B,Stolen Base 3B,405395,Albert Pujols,572021,James Pazos,472528,Luis Valbuena,L,Carlos Ruiz,434563,4,5,11,True,2017-05-02,Stolen,3B,2017,2018,22.2
+16,28,1B,2B,Stolen Base 2B,405395,Albert Pujols,594835,Marco Gonzales,543068,C.J. Cron,L,Mike Zunino,572287,1,0,1,False,2017-09-29,Stolen,2B,2017,2018,22.2
+17,373,1B,2B,Stolen Base 2B,405395,Albert Pujols,541640,Erasmo Ramírez,594777,Kole Calhoun,R,Mike Zunino,572287,0,1,1,True,2017-09-10,Stolen,2B,2017,2018,22.2
+18,2807,2B,3B,Stolen Base 3B,405395,Albert Pujols,572021,James Pazos,472528,Luis Valbuena,L,Carlos Ruiz,434563,4,5,11,True,2017-05-02,Stolen,3B,2017,2018,22.2
+19,5676,1B,2B,Stolen Base 2B,405395,Albert Pujols,571670,Dylan Floro,592239,Todd Cunningham,R,Hank Conger,474233,0,4,8,True,2016-07-07,Stolen,2B,2016,2017,21.9
+20,5814,1B,2B,Stolen Base 2B,405395,Albert Pujols,444857,Scott Feldman,537953,Daniel Nava,R,Jason Castro,488771,1,3,3,False,2016-06-28,Stolen,2B,2016,2017,21.9
+21,6381,1B,2B,Stolen Base 2B,405395,Albert Pujols,501789,Will Harris,543213,Johnny Giavotella,R,Evan Gattis,594828,5,5,9,False,2016-05-29,Stolen,2B,2016,2017,21.9
+22,7308,1B,2B,Stolen Base 2B,405395,Albert Pujols,521230,Liam Hendriks,543068,C.J. Cron,R,Stephen Vogt,519390,0,3,8,True,2016-04-11,Stolen,2B,2016,2017,21.9
+23,1641,1B,2B,Stolen Base 2B,405395,Albert Pujols,571670,Dylan Floro,592239,Todd Cunningham,R,Hank Conger,474233,0,4,8,True,2016-07-07,Stolen,2B,2016,2017,21.9
+24,1779,1B,2B,Stolen Base 2B,405395,Albert Pujols,444857,Scott Feldman,537953,Daniel Nava,R,Jason Castro,488771,1,3,3,False,2016-06-28,Stolen,2B,2016,2017,21.9
+25,2346,1B,2B,Stolen Base 2B,405395,Albert Pujols,501789,Will Harris,543213,Johnny Giavotella,R,Evan Gattis,594828,5,5,9,False,2016-05-29,Stolen,2B,2016,2017,21.9
+26,3273,1B,2B,Stolen Base 2B,405395,Albert Pujols,521230,Liam Hendriks,543068,C.J. Cron,R,Stephen Vogt,519390,0,3,8,True,2016-04-11,Stolen,2B,2016,2017,21.9
+27,5048,1B,2B,Stolen Base 2B,405395,Albert Pujols,571670,Dylan Floro,592239,Todd Cunningham,R,Hank Conger,474233,0,4,8,True,2016-07-07,Stolen,2B,2016,2017,21.9
+28,5186,1B,2B,Stolen Base 2B,405395,Albert Pujols,444857,Scott Feldman,537953,Daniel Nava,R,Jason Castro,488771,1,3,3,False,2016-06-28,Stolen,2B,2016,2017,21.9
+29,5753,1B,2B,Stolen Base 2B,405395,Albert Pujols,501789,Will Harris,543213,Johnny Giavotella,R,Evan Gattis,594828,5,5,9,False,2016-05-29,Stolen,2B,2016,2017,21.9
+30,6680,1B,2B,Stolen Base 2B,405395,Albert Pujols,521230,Liam Hendriks,543068,C.J. Cron,R,Stephen Vogt,519390,0,3,8,True,2016-04-11,Stolen,2B,2016,2017,21.9
+31,732,1B,,Caught Stealing 2B,405395,Albert Pujols,608665,Kendall Graveman,594777,Kole Calhoun,R,Josh Phegley,572033,1,0,6,False,2015-06-13,Caught,2B,2015,2016,22.6
+32,1372,1B,2B,Stolen Base 2B,405395,Albert Pujols,429783,Rafael Betancourt,501896,David Freese,R,Nick Hundley,460026,2,2,8,False,2015-05-12,Stolen,2B,2015,2016,22.6
+33,2034,2B,,Caught Stealing 3B,405395,Albert Pujols,570649,Yordano Ventura,459964,Matt Joyce,R,Salvador Perez,521692,2,7,6,False,2015-04-12,Caught,3B,2015,2016,22.6

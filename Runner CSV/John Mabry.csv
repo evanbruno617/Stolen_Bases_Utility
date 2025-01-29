@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2396,1B,,Caught Stealing 2B,118065,John Mabry,Gregg Zaun,0,6,4,True,2000-06-13,Caught,2B,2000
+1266,1B,2B,Stolen Base 2B,118065,John Mabry,Randy Knorr,0,4,4,True,2001-04-15,Stolen,2B,2001
+1159,1B,2B,Stolen Base 2B,118065,John Mabry,Brandon Inge,3,1,4,False,2002-08-03,Stolen,2B,2002
+1333,1B,,Caught Stealing 2B,118065,John Mabry,Jorge Fabregas,0,0,3,True,2002-07-24,Caught,2B,2002
+1158,1B,,Caught Stealing 2B,118065,John Mabry,Brian Schneider,2,3,6,False,2004-08-04,Caught,2B,2004

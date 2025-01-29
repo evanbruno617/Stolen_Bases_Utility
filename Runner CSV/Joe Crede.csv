@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+340,1B,,Caught Stealing 2B,150317,Joe Crede,Jorge Posada,0,1,3,True,2002-09-13,Caught,2B,2002
+1056,1B,,Caught Stealing 2B,150317,Joe Crede,José Molina,2,2,2,False,2002-08-08,Caught,2B,2002
+1447,1B,2B,Stolen Base 2B,150317,Joe Crede,Matt Walbeck,6,2,8,False,2003-07-19,Stolen,2B,2003
+2859,1B,,Caught Stealing 2B,150317,Joe Crede,Ramon Hernandez,1,5,5,True,2003-05-07,Caught,2B,2003
+178,1B,,Caught Stealing 2B,150317,Joe Crede,Pat Borders,3,4,5,False,2004-09-22,Caught,2B,2004
+1790,1B,2B,Stolen Base 2B,150317,Joe Crede,Joe Mauer,5,9,8,True,2004-06-30,Stolen,2B,2004
+2836,1B,,Caught Stealing 2B,150317,Joe Crede,Gregg Zaun,2,2,4,True,2004-05-09,Caught,2B,2004
+2230,1B,2B,Stolen Base 2B,150317,Joe Crede,Victor Martinez,3,1,4,False,2005-06-04,Stolen,2B,2005
+2781,1B,,Caught Stealing 2B,150317,Joe Crede,Gregg Zaun,0,3,2,True,2005-05-08,Caught,2B,2005
+3185,1B,,Caught Stealing 2B,150317,Joe Crede,José Molina,3,4,6,True,2007-05-05,Caught,2B,2007
+2061,1B,,Caught Stealing 2B,150317,Joe Crede,Yorvit Torrealba,0,0,5,False,2008-06-14,Caught,2B,2008
+2492,1B,,Caught Stealing 2B,150317,Joe Crede,Kelly Shoppach,3,3,9,True,2008-05-26,Caught,2B,2008
+2953,1B,,Caught Stealing 2B,150317,Joe Crede,Joe Mauer,2,0,2,False,2008-05-06,Caught,2B,2008

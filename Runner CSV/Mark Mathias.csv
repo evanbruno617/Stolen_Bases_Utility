@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+951,1B,2B,Stolen Base 2B,664029,Mark Mathias,Tucker Barnhart,2,2,6,False,2020-08-09,Stolen,2B,2020
+290,1B,2B,Stolen Base 2B,664029,Mark Mathias,Stephen Vogt,7,6,7,False,2022-09-14,Stolen,2B,2022
+454,1B,2B,Stolen Base 2B,664029,Mark Mathias,Martín Maldonado,3,4,7,True,2022-09-06,Stolen,2B,2022
+1984,1B,2B,Stolen Base 2B,664029,Mark Mathias,Riley Adams,0,1,3,True,2022-06-11,Stolen,2B,2022
+2689,1B,2B,Stolen Base 2B,664029,Mark Mathias,Shea Langeliers,0,1,2,False,2023-06-05,Stolen,2B,2023
+2690,1B,2B,Stolen Base 2B,664029,Mark Mathias,Shea Langeliers,0,3,5,False,2023-06-05,Stolen,2B,2023
+3789,1B,2B,Stolen Base 2B,664029,Mark Mathias,Tyler Stephenson,3,2,6,False,2023-04-21,Stolen,2B,2023

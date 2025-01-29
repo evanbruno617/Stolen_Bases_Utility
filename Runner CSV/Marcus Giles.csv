@@ -1,0 +1,74 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2883,1B,2B,Stolen Base 2B,279578,Marcus Giles,Benito Santiago,1,1,8,True,2002-05-16,Stolen,2B,2002
+3344,3B,,Caught Stealing Home,279578,Marcus Giles,Brad Ausmus,4,0,3,False,2002-04-26,Caught,Home,2002
+200,1B,,Caught Stealing 2B,279578,Marcus Giles,Ivan Rodriguez,1,0,3,False,2003-09-19,Caught,2B,2003
+348,2B,,Caught Stealing 3B,279578,Marcus Giles,Mike Lieberthal,0,2,1,False,2003-09-11,Caught,3B,2003
+390,1B,2B,Stolen Base 2B,279578,Marcus Giles,Mike Lieberthal,4,2,8,False,2003-09-10,Stolen,2B,2003
+551,1B,2B,Stolen Base 2B,279578,Marcus Giles,Mike Piazza,2,2,5,True,2003-09-01,Stolen,2B,2003
+642,1B,2B,Stolen Base 2B,279578,Marcus Giles,Mike Piazza,0,0,1,False,2003-08-27,Stolen,2B,2003
+886,1B,2B,Stolen Base 2B,279578,Marcus Giles,Gary Bennett,5,1,7,False,2003-08-14,Stolen,2B,2003
+968,1B,,Caught Stealing 2B,279578,Marcus Giles,Mike Matheny,0,0,1,True,2003-08-10,Caught,2B,2003
+1150,1B,2B,Stolen Base 2B,279578,Marcus Giles,David Ross,1,0,1,False,2003-08-02,Stolen,2B,2003
+1243,1B,2B,Stolen Base 2B,279578,Marcus Giles,Brian Schneider,0,0,3,True,2003-07-28,Stolen,2B,2003
+1649,1B,2B,Stolen Base 2B,279578,Marcus Giles,Michael Barrett,3,4,5,False,2003-07-06,Stolen,2B,2003
+1893,2B,3B,Stolen Base 3B,279578,Marcus Giles,Mike Lieberthal,1,0,1,False,2003-06-24,Stolen,3B,2003
+2336,1B,2B,Stolen Base 2B,279578,Marcus Giles,Vance Wilson,0,1,1,True,2003-06-01,Stolen,2B,2003
+2458,1B,2B,Stolen Base 2B,279578,Marcus Giles,Kelly Stinnett,1,2,3,False,2003-05-27,Stolen,2B,2003
+2741,1B,2B,Stolen Base 2B,279578,Marcus Giles,Paul Lo Duca,0,1,3,True,2003-05-13,Stolen,2B,2003
+2765,1B,2B,Stolen Base 2B,279578,Marcus Giles,Paul Lo Duca,0,1,1,True,2003-05-12,Stolen,2B,2003
+2916,1B,,Caught Stealing 2B,279578,Marcus Giles,Chad Moeller,2,1,3,True,2003-05-04,Caught,2B,2003
+3169,1B,2B,Stolen Base 2B,279578,Marcus Giles,Mike Matheny,0,0,1,False,2003-04-22,Stolen,2B,2003
+3465,1B,2B,Stolen Base 2B,279578,Marcus Giles,Ivan Rodriguez,0,0,3,False,2003-04-07,Stolen,2B,2003
+139,1B,2B,Stolen Base 2B,279578,Marcus Giles,Paul Lo Duca,8,7,8,False,2004-09-24,Stolen,2B,2004
+154,1B,2B,Stolen Base 2B,279578,Marcus Giles,Javier Valentin,0,0,1,False,2004-09-23,Stolen,2B,2004
+204,1B,2B,Stolen Base 2B,279578,Marcus Giles,Jason LaRue,2,1,4,False,2004-09-21,Stolen,2B,2004
+294,1B,2B,Stolen Base 2B,279578,Marcus Giles,Paul Lo Duca,1,0,4,True,2004-09-17,Stolen,2B,2004
+295,2B,3B,Stolen Base 3B,279578,Marcus Giles,Paul Lo Duca,1,4,5,True,2004-09-17,Stolen,3B,2004
+688,1B,2B,Stolen Base 2B,279578,Marcus Giles,Yorvit Torrealba,2,1,3,False,2004-08-28,Stolen,2B,2004
+971,1B,,Caught Stealing 2B,279578,Marcus Giles,Mike Matheny,0,0,1,False,2004-08-13,Caught,2B,2004
+1183,1B,2B,Stolen Base 2B,279578,Marcus Giles,Brad Ausmus,0,1,6,True,2004-08-03,Stolen,2B,2004
+1224,1B,2B,Stolen Base 2B,279578,Marcus Giles,Jason Phillips,3,0,2,False,2004-08-01,Stolen,2B,2004
+1235,1B,2B,Stolen Base 2B,279578,Marcus Giles,Vance Wilson,3,0,5,False,2004-07-31,Stolen,2B,2004
+1266,1B,2B,Stolen Base 2B,279578,Marcus Giles,Mike Piazza,2,1,5,False,2004-07-30,Stolen,2B,2004
+1298,1B,,Caught Stealing 2B,279578,Marcus Giles,Jason Kendall,0,0,1,True,2004-07-28,Caught,2B,2004
+1371,1B,2B,Stolen Base 2B,279578,Marcus Giles,Vance Wilson,0,0,1,True,2004-07-24,Stolen,2B,2004
+2712,1B,,Caught Stealing 2B,279578,Marcus Giles,Chad Moeller,0,0,6,True,2004-05-14,Caught,2B,2004
+2747,1B,2B,Stolen Base 2B,279578,Marcus Giles,Cody McKay,2,3,3,True,2004-05-13,Stolen,2B,2004
+3002,1B,2B,Caught Stealing 3B,279578,Marcus Giles,Charles Johnson,0,2,4,True,2004-05-01,Caught,3B,2004
+3092,1B,2B,Stolen Base 2B,279578,Marcus Giles,A.J. Pierzynski,3,2,5,True,2004-04-26,Stolen,2B,2004
+3311,2B,,Caught Stealing 3B,279578,Marcus Giles,Mike Redmond,0,2,1,False,2004-04-16,Caught,3B,2004
+3320,1B,2B,Stolen Base 2B,279578,Marcus Giles,Vance Wilson,2,0,4,True,2004-04-15,Stolen,2B,2004
+3389,1B,2B,Stolen Base 2B,279578,Marcus Giles,Jason Phillips,0,0,1,True,2004-04-12,Stolen,2B,2004
+3410,1B,2B,Stolen Base 2B,279578,Marcus Giles,Michael Barrett,0,3,3,False,2004-04-11,Stolen,2B,2004
+3443,1B,2B,Stolen Base 2B,279578,Marcus Giles,Michael Barrett,1,2,15,False,2004-04-09,Stolen,2B,2004
+286,1B,2B,Stolen Base 2B,279578,Marcus Giles,Mike Piazza,0,1,1,True,2005-09-17,Stolen,2B,2005
+537,1B,2B,Stolen Base 2B,279578,Marcus Giles,Javier Valentin,3,3,11,False,2005-09-04,Stolen,2B,2005
+884,2B,3B,Stolen Base 3B,279578,Marcus Giles,Jason Phillips,4,3,7,False,2005-08-16,Stolen,3B,2005
+1049,1B,2B,Stolen Base 2B,279578,Marcus Giles,Mike Mahoney,1,2,9,True,2005-08-07,Stolen,2B,2005
+1183,1B,,Caught Stealing 2B,279578,Marcus Giles,Ryan Doumit,3,3,5,False,2005-07-31,Caught,2B,2005
+1659,1B,2B,Stolen Base 2B,279578,Marcus Giles,Henry Blanco,1,0,1,False,2005-07-05,Stolen,2B,2005
+1827,1B,2B,Stolen Base 2B,279578,Marcus Giles,Paul Lo Duca,1,3,8,True,2005-06-27,Stolen,2B,2005
+1851,2B,3B,Stolen Base 3B,279578,Marcus Giles,Sal Fasano,4,1,8,False,2005-06-26,Stolen,3B,2005
+1916,1B,,Caught Stealing 2B,279578,Marcus Giles,Matt Treanor,1,0,3,False,2005-06-22,Caught,2B,2005
+2072,1B,2B,Stolen Base 2B,279578,Marcus Giles,Rod Barajas,2,1,3,True,2005-06-14,Stolen,2B,2005
+2074,1B,2B,Stolen Base 2B,279578,Marcus Giles,Rod Barajas,2,6,5,True,2005-06-14,Stolen,2B,2005
+2128,1B,,Caught Stealing 2B,279578,Marcus Giles,Adam Melhuse,0,0,4,False,2005-06-11,Caught,2B,2005
+2164,2B,3B,Stolen Base 3B,279578,Marcus Giles,Bengie Molina,2,3,4,False,2005-06-08,Stolen,3B,2005
+2435,1B,2B,Stolen Base 2B,279578,Marcus Giles,Mike Piazza,0,0,4,False,2005-05-25,Stolen,2B,2005
+2436,2B,3B,Stolen Base 3B,279578,Marcus Giles,Mike Piazza,0,0,4,False,2005-05-25,Stolen,3B,2005
+2439,1B,2B,Stolen Base 2B,279578,Marcus Giles,Mike Piazza,3,0,7,False,2005-05-25,Stolen,2B,2005
+2637,2B,3B,Stolen Base 3B,279578,Marcus Giles,Jason Phillips,0,1,1,True,2005-05-14,Stolen,3B,2005
+3218,2B,3B,Stolen Base 3B,279578,Marcus Giles,Mike Lieberthal,0,0,9,True,2005-04-17,Stolen,3B,2005
+3416,1B,2B,Stolen Base 2B,279578,Marcus Giles,Mike Piazza,0,0,1,False,2005-04-08,Stolen,2B,2005
+1160,1B,2B,Stolen Base 2B,279578,Marcus Giles,David Ross,7,10,11,True,2007-08-10,Stolen,2B,2007
+1277,1B,2B,Stolen Base 2B,279578,Marcus Giles,Bengie Molina,2,2,12,False,2007-08-04,Stolen,2B,2007
+1772,1B,2B,Stolen Base 2B,279578,Marcus Giles,Miguel Montero,0,4,5,True,2007-07-14,Stolen,2B,2007
+2763,2B,3B,Stolen Base 3B,279578,Marcus Giles,Johnny Estrada,2,0,1,False,2007-05-26,Stolen,3B,2007
+2789,1B,2B,Stolen Base 2B,279578,Marcus Giles,Damian Miller,2,0,5,False,2007-05-25,Stolen,2B,2007
+2846,1B,2B,Stolen Base 2B,279578,Marcus Giles,Michael Barrett,0,1,1,False,2007-05-22,Stolen,2B,2007
+2923,1B,,Caught Stealing 2B,279578,Marcus Giles,Kenji Johjima,0,0,3,True,2007-05-18,Caught,2B,2007
+2928,1B,,Caught Stealing 2B,279578,Marcus Giles,Kenji Johjima,1,3,7,True,2007-05-18,Caught,2B,2007
+3362,1B,2B,Stolen Base 2B,279578,Marcus Giles,Russell Martin,0,0,1,False,2007-04-27,Stolen,2B,2007
+3585,1B,2B,Stolen Base 2B,279578,Marcus Giles,Henry Blanco,1,3,2,True,2007-04-17,Stolen,2B,2007
+3610,1B,2B,Stolen Base 2B,279578,Marcus Giles,Russell Martin,0,0,1,True,2007-04-15,Stolen,2B,2007
+3762,1B,2B,Stolen Base 2B,279578,Marcus Giles,Chris Iannetta,1,2,5,False,2007-04-07,Stolen,2B,2007

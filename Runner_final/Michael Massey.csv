@@ -1,0 +1,15 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1019,1B,,Caught Stealing 2B,686681,Michael Massey,666204,Dany Jiménez,521692,Salvador Perez,R,Shea Langeliers,669127,4,4,8,True,2023-08-21,Caught,2B,2023,2024,26.8
+1,1026,1B,2B,Stolen Base 2B,686681,Michael Massey,543294,Kyle Hendricks,676369,Nelson Velázquez,R,Miguel Amaya,665804,0,1,1,True,2023-08-20,Stolen,2B,2023,2024,26.8
+2,1498,1B,2B,Stolen Base 2B,686681,Michael Massey,628317,Kenta Maeda,666023,Freddy Fermin,R,Christian Vázquez,543877,2,1,4,False,2023-07-30,Stolen,2B,2023,2024,26.8
+3,1595,1B,2B,Stolen Base 2B,686681,Michael Massey,650644,Aaron Civale,671221,Drew Waters,R,Bo Naylor,666310,1,0,5,True,2023-07-25,Stolen,2B,2023,2024,26.8
+4,2920,1B,2B,Stolen Base 2B,686681,Michael Massey,680686,Josiah Gray,671221,Drew Waters,R,Keibert Ruiz,660688,2,0,4,False,2023-05-27,Stolen,2B,2023,2024,26.8
+5,3397,1B,2B,Stolen Base 2B,686681,Michael Massey,686610,Ken Waldichuk,598265,Jackie Bradley Jr.,L,Shea Langeliers,669127,4,5,5,False,2023-05-06,Stolen,2B,2023,2024,26.8
+6,3725,1B,2B,Stolen Base 2B,686681,Michael Massey,672282,Reid Detmers,622110,Matt Duffy,L,Chad Wallach,595453,1,1,2,True,2023-04-23,Stolen,2B,2023,2024,26.8
+7,5433,1B,,Caught Stealing 2B,686681,Michael Massey,666204,Dany Jiménez,521692,Salvador Perez,R,Shea Langeliers,669127,4,4,8,True,2023-08-21,Caught,2B,2023,2024,26.8
+8,5440,1B,2B,Stolen Base 2B,686681,Michael Massey,543294,Kyle Hendricks,676369,Nelson Velázquez,R,Miguel Amaya,665804,0,1,1,True,2023-08-20,Stolen,2B,2023,2024,26.8
+9,5912,1B,2B,Stolen Base 2B,686681,Michael Massey,628317,Kenta Maeda,666023,Freddy Fermin,R,Christian Vázquez,543877,2,1,4,False,2023-07-30,Stolen,2B,2023,2024,26.8
+10,6009,1B,2B,Stolen Base 2B,686681,Michael Massey,650644,Aaron Civale,671221,Drew Waters,R,Bo Naylor,666310,1,0,5,True,2023-07-25,Stolen,2B,2023,2024,26.8
+11,7334,1B,2B,Stolen Base 2B,686681,Michael Massey,680686,Josiah Gray,671221,Drew Waters,R,Keibert Ruiz,660688,2,0,4,False,2023-05-27,Stolen,2B,2023,2024,26.8
+12,7811,1B,2B,Stolen Base 2B,686681,Michael Massey,686610,Ken Waldichuk,598265,Jackie Bradley Jr.,L,Shea Langeliers,669127,4,5,5,False,2023-05-06,Stolen,2B,2023,2024,26.8
+13,8139,1B,2B,Stolen Base 2B,686681,Michael Massey,672282,Reid Detmers,622110,Matt Duffy,L,Chad Wallach,595453,1,1,2,True,2023-04-23,Stolen,2B,2023,2024,26.8

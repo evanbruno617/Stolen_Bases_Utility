@@ -1,0 +1,28 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,326,1B,2B,Stolen Base 2B,640492,José Azocar,671212,Joe Boyle,676946,Matthew Batten,R,Shea Langeliers,669127,0,0,2,True,2023-09-17,Stolen,2B,2023,2024,29.0
+1,472,1B,2B,Stolen Base 2B,640492,José Azocar,571946,Shelby Miller,669134,Luis Campusano,R,Will Smith,669257,7,7,8,True,2023-09-11,Stolen,2B,2023,2024,29.0
+2,724,1B,,Caught Stealing 2B,640492,José Azocar,690986,Kyle Harrison,673490,Ha-Seong Kim,L,Patrick Bailey,672275,3,0,5,False,2023-09-02,Caught,2B,2023,2024,29.0
+3,2854,1B,,Caught Stealing 2B,640492,José Azocar,608638,JT Chargois,663757,Trent Grisham,R,Nick Fortes,663743,4,4,8,True,2023-05-30,Caught,2B,2023,2024,29.0
+4,2897,1B,2B,Stolen Base 2B,640492,José Azocar,622772,Jimmy Cordero,664954,Brett Sullivan,R,Kyle Higashioka,543309,8,6,7,True,2023-05-28,Stolen,2B,2023,2024,29.0
+5,3648,1B,2B,Stolen Base 2B,640492,José Azocar,592767,Drew Smyly,665487,Fernando Tatis Jr.,L,Yan Gomes,543228,0,0,3,True,2023-04-26,Stolen,2B,2023,2024,29.0
+6,3856,2B,3B,Stolen Base 3B,640492,José Azocar,608331,Max Fried,593428,Xander Bogaerts,L,Sean Murphy,669221,0,2,2,False,2023-04-17,Stolen,3B,2023,2024,29.0
+7,3911,1B,2B,Stolen Base 2B,640492,José Azocar,681402,Gus Varland,592518,Manny Machado,R,Victor Caratini,605170,8,3,8,False,2023-04-15,Stolen,2B,2023,2024,29.0
+8,4104,1B,2B,Stolen Base 2B,640492,José Azocar,694363,Jared Shuster,665742,Juan Soto,L,Sean Murphy,669221,0,2,2,True,2023-04-07,Stolen,2B,2023,2024,29.0
+9,4210,2B,3B,Stolen Base 3B,640492,José Azocar,596295,Austin Gomber,593428,Xander Bogaerts,L,Elias Díaz,553869,3,0,3,False,2023-04-02,Stolen,3B,2023,2024,29.0
+10,4740,1B,2B,Stolen Base 2B,640492,José Azocar,671212,Joe Boyle,676946,Matthew Batten,R,Shea Langeliers,669127,0,0,2,True,2023-09-17,Stolen,2B,2023,2024,29.0
+11,4886,1B,2B,Stolen Base 2B,640492,José Azocar,571946,Shelby Miller,669134,Luis Campusano,R,Will Smith,669257,7,7,8,True,2023-09-11,Stolen,2B,2023,2024,29.0
+12,5138,1B,,Caught Stealing 2B,640492,José Azocar,690986,Kyle Harrison,673490,Ha-Seong Kim,L,Patrick Bailey,672275,3,0,5,False,2023-09-02,Caught,2B,2023,2024,29.0
+13,7268,1B,,Caught Stealing 2B,640492,José Azocar,608638,JT Chargois,663757,Trent Grisham,R,Nick Fortes,663743,4,4,8,True,2023-05-30,Caught,2B,2023,2024,29.0
+14,7311,1B,2B,Stolen Base 2B,640492,José Azocar,622772,Jimmy Cordero,664954,Brett Sullivan,R,Kyle Higashioka,543309,8,6,7,True,2023-05-28,Stolen,2B,2023,2024,29.0
+15,8062,1B,2B,Stolen Base 2B,640492,José Azocar,592767,Drew Smyly,665487,Fernando Tatis Jr.,L,Yan Gomes,543228,0,0,3,True,2023-04-26,Stolen,2B,2023,2024,29.0
+16,8270,2B,3B,Stolen Base 3B,640492,José Azocar,608331,Max Fried,593428,Xander Bogaerts,L,Sean Murphy,669221,0,2,2,False,2023-04-17,Stolen,3B,2023,2024,29.0
+17,8325,1B,2B,Stolen Base 2B,640492,José Azocar,681402,Gus Varland,592518,Manny Machado,R,Victor Caratini,605170,8,3,8,False,2023-04-15,Stolen,2B,2023,2024,29.0
+18,8518,1B,2B,Stolen Base 2B,640492,José Azocar,694363,Jared Shuster,665742,Juan Soto,L,Sean Murphy,669221,0,2,2,True,2023-04-07,Stolen,2B,2023,2024,29.0
+19,8624,2B,3B,Stolen Base 3B,640492,José Azocar,596295,Austin Gomber,593428,Xander Bogaerts,L,Elias Díaz,553869,3,0,3,False,2023-04-02,Stolen,3B,2023,2024,29.0
+20,416,1B,,Caught Stealing 2B,640492,José Azocar,605400,Aaron Nola,595777,Jurickson Profar,R,J.T. Realmuto,592663,0,0,5,False,2022-06-24,Caught,2B,2022,2023,29.6
+21,585,1B,2B,Stolen Base 2B,640492,José Azocar,543294,Kyle Hendricks,630105,Jake Cronenworth,R,Willson Contreras,575929,1,0,3,True,2022-06-14,Stolen,2B,2022,2023,29.6
+22,1268,1B,,Caught Stealing 2B,640492,José Azocar,543294,Kyle Hendricks,630105,Jake Cronenworth,R,Yan Gomes,543228,0,1,3,False,2022-05-09,Caught,2B,2022,2023,29.6
+23,1545,1B,2B,Stolen Base 2B,640492,José Azocar,542881,Tyler Anderson,630105,Jake Cronenworth,L,Will Smith,669257,2,0,5,False,2022-04-23,Stolen,2B,2022,2023,29.6
+24,1640,1B,,Caught Stealing 2B,640492,José Azocar,571656,Buck Farmer,543592,Austin Nola,R,Tyler Stephenson,663886,4,1,8,False,2022-04-18,Caught,2B,2022,2023,29.6
+25,1651,1B,2B,Stolen Base 2B,640492,José Azocar,675911,Spencer Strider,673490,Ha-Seong Kim,R,Travis d'Arnaud,518595,2,1,8,False,2022-04-17,Stolen,2B,2022,2023,29.6
+26,1803,1B,,Caught Stealing 2B,640492,José Azocar,453343,Mark Melancon,630105,Jake Cronenworth,R,Jose Herrera,645444,2,5,9,True,2022-04-09,Caught,2B,2022,2023,29.6

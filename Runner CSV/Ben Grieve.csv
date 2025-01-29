@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+895,1B,2B,Stolen Base 2B,115132,Ben Grieve,Sandy Alomar Jr.,2,8,4,True,2000-08-24,Stolen,2B,2000
+2430,1B,2B,Stolen Base 2B,115132,Ben Grieve,Paul Lo Duca,0,6,5,True,2000-06-11,Stolen,2B,2000
+3227,1B,2B,Stolen Base 2B,115132,Ben Grieve,Bengie Molina,8,8,7,True,2000-05-08,Stolen,2B,2000
+970,1B,,Caught Stealing 2B,115132,Ben Grieve,Robert Fick,1,1,2,True,2001-04-28,Caught,2B,2001
+195,1B,2B,Stolen Base 2B,115132,Ben Grieve,Kevin Cash,11,5,4,False,2002-09-20,Stolen,2B,2002
+441,1B,2B,Stolen Base 2B,115132,Ben Grieve,Jason Varitek,0,1,1,False,2002-09-09,Stolen,2B,2002
+470,1B,2B,Stolen Base 2B,115132,Ben Grieve,Todd Greene,1,0,2,False,2002-09-08,Stolen,2B,2002
+736,1B,2B,Stolen Base 2B,115132,Ben Grieve,Josh Paul,0,1,2,True,2002-08-24,Stolen,2B,2002
+1017,1B,,Caught Stealing 2B,115132,Ben Grieve,Brent Mayne,3,9,5,True,2002-08-10,Caught,2B,2002
+1433,3B,,Caught Stealing Home,115132,Ben Grieve,Tom Wilson,5,7,9,True,2002-07-21,Caught,Home,2002
+1636,1B,2B,Stolen Base 2B,115132,Ben Grieve,Dan Wilson,1,0,2,False,2002-07-12,Stolen,2B,2002
+1880,1B,2B,Stolen Base 2B,115132,Ben Grieve,Charles Johnson,1,1,5,False,2002-06-29,Stolen,2B,2002
+2551,1B,2B,Stolen Base 2B,115132,Ben Grieve,Dan Wilson,0,0,2,False,2002-05-28,Stolen,2B,2002
+3525,1B,2B,Stolen Base 2B,115132,Ben Grieve,Brook Fordyce,4,2,7,False,2002-04-19,Stolen,2B,2002

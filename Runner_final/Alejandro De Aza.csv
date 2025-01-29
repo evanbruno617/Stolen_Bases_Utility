@@ -1,0 +1,28 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4240,1B,,Caught Stealing 2B,457477,Alejandro De Aza,543901,Ryan Weber,425766,James Loney,R,Anthony Recker,489232,2,0,2,False,2016-09-21,Caught,2B,2016,2017,27.6
+1,4721,1B,2B,Stolen Base 2B,457477,Alejandro De Aza,476451,Jeremy Hellickson,434158,Curtis Granderson,R,Cameron Rupp,519237,2,1,3,False,2016-08-27,Stolen,2B,2016,2017,27.6
+2,5328,1B,2B,Stolen Base 2B,457477,Alejandro De Aza,425794,Adam Wainwright,493316,Yoenis Cespedes,R,Yadier Molina,425877,4,3,7,False,2016-07-27,Stolen,2B,2016,2017,27.6
+3,5456,1B,,Caught Stealing 2B,457477,Alejandro De Aza,607457,Kyle Barraclough,408314,José Reyes,R,J.T. Realmuto,592663,2,3,8,True,2016-07-22,Caught,2B,2016,2017,27.6
+4,6991,1B,2B,Stolen Base 2B,457477,Alejandro De Aza,621209,Jon Moscot,431151,David Wright,R,Devin Mesoraco,519023,2,1,2,False,2016-04-27,Stolen,2B,2016,2017,27.6
+5,7356,1B,2B,Stolen Base 2B,457477,Alejandro De Aza,621385,Daniel Stumpf,434158,Curtis Granderson,L,Cameron Rupp,519237,0,1,7,False,2016-04-09,Stolen,2B,2016,2017,27.6
+6,205,1B,,Caught Stealing 2B,457477,Alejandro De Aza,543901,Ryan Weber,425766,James Loney,R,Anthony Recker,489232,2,0,2,False,2016-09-21,Caught,2B,2016,2017,27.6
+7,686,1B,2B,Stolen Base 2B,457477,Alejandro De Aza,476451,Jeremy Hellickson,434158,Curtis Granderson,R,Cameron Rupp,519237,2,1,3,False,2016-08-27,Stolen,2B,2016,2017,27.6
+8,1293,1B,2B,Stolen Base 2B,457477,Alejandro De Aza,425794,Adam Wainwright,493316,Yoenis Cespedes,R,Yadier Molina,425877,4,3,7,False,2016-07-27,Stolen,2B,2016,2017,27.6
+9,1421,1B,,Caught Stealing 2B,457477,Alejandro De Aza,607457,Kyle Barraclough,408314,José Reyes,R,J.T. Realmuto,592663,2,3,8,True,2016-07-22,Caught,2B,2016,2017,27.6
+10,2956,1B,2B,Stolen Base 2B,457477,Alejandro De Aza,621209,Jon Moscot,431151,David Wright,R,Devin Mesoraco,519023,2,1,2,False,2016-04-27,Stolen,2B,2016,2017,27.6
+11,3321,1B,2B,Stolen Base 2B,457477,Alejandro De Aza,621385,Daniel Stumpf,434158,Curtis Granderson,L,Cameron Rupp,519237,0,1,7,False,2016-04-09,Stolen,2B,2016,2017,27.6
+12,3612,1B,,Caught Stealing 2B,457477,Alejandro De Aza,543901,Ryan Weber,425766,James Loney,R,Anthony Recker,489232,2,0,2,False,2016-09-21,Caught,2B,2016,2017,27.6
+13,4093,1B,2B,Stolen Base 2B,457477,Alejandro De Aza,476451,Jeremy Hellickson,434158,Curtis Granderson,R,Cameron Rupp,519237,2,1,3,False,2016-08-27,Stolen,2B,2016,2017,27.6
+14,4700,1B,2B,Stolen Base 2B,457477,Alejandro De Aza,425794,Adam Wainwright,493316,Yoenis Cespedes,R,Yadier Molina,425877,4,3,7,False,2016-07-27,Stolen,2B,2016,2017,27.6
+15,4828,1B,,Caught Stealing 2B,457477,Alejandro De Aza,607457,Kyle Barraclough,408314,José Reyes,R,J.T. Realmuto,592663,2,3,8,True,2016-07-22,Caught,2B,2016,2017,27.6
+16,6363,1B,2B,Stolen Base 2B,457477,Alejandro De Aza,621209,Jon Moscot,431151,David Wright,R,Devin Mesoraco,519023,2,1,2,False,2016-04-27,Stolen,2B,2016,2017,27.6
+17,6728,1B,2B,Stolen Base 2B,457477,Alejandro De Aza,621385,Daniel Stumpf,434158,Curtis Granderson,L,Cameron Rupp,519237,0,1,7,False,2016-04-09,Stolen,2B,2016,2017,27.6
+18,167,1B,2B,Stolen Base 2B,457477,Alejandro De Aza,467100,Iván Nova,452672,Ryan Hanigan,R,Brian McCann,435263,1,1,3,False,2015-07-11,Stolen,2B,2015,2016,27.6
+19,232,2B,3B,Stolen Base 3B,457477,Alejandro De Aza,473879,Sam Dyson,605141,Mookie Betts,R,J.T. Realmuto,592663,6,2,7,False,2015-07-08,Stolen,3B,2015,2016,27.6
+20,428,1B,,Caught Stealing 2B,457477,Alejandro De Aza,489446,Kirby Yates,596119,Blake Swihart,R,René Rivera,425784,3,5,9,True,2015-06-28,Caught,2B,2015,2016,27.6
+21,617,1B,2B,Stolen Base 2B,457477,Alejandro De Aza,571946,Shelby Miller,543768,Travis Shaw,R,A.J. Pierzynski,150229,0,1,5,True,2015-06-18,Stolen,2B,2015,2016,27.6
+22,1837,2B,,Caught Stealing 3B,457477,Alejandro De Aza,532077,Roberto Osuna,448801,Chris Davis,R,Russell Martin,431145,4,2,7,True,2015-04-22,Caught,3B,2015,2016,27.6
+23,1881,1B,2B,Stolen Base 2B,457477,Alejandro De Aza,475416,Justin Masterson,517370,Jimmy Paredes,R,Ryan Hanigan,452672,5,1,5,True,2015-04-20,Stolen,2B,2015,2016,27.6
+24,2017,1B,,Caught Stealing 2B,457477,Alejandro De Aza,501381,Michael Pineda,456665,Steve Pearce,R,John Ryan Murphy,571974,0,0,1,False,2015-04-13,Caught,2B,2015,2016,27.6
+25,2018,1B,2B,Stolen Base 2B,457477,Alejandro De Aza,476454,Dellin Betances,456665,Steve Pearce,R,John Ryan Murphy,571974,5,6,7,False,2015-04-13,Stolen,2B,2015,2016,27.6
+26,2228,1B,2B,Stolen Base 2B,457477,Alejandro De Aza,491708,Arquimedes Caminero,501983,Travis Snider,R,Wilkin Castillo,446868,3,2,7,False,2015-04-01,Stolen,2B,2015,2016,27.6

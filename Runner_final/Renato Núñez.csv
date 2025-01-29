@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1880,1B,2B,Stolen Base 2B,600524,Renato Núñez,643493,Austin Pruitt,621466,DJ Stewart,R,Travis d'Arnaud,518595,1,0,3,False,2019-08-24,Stolen,2B,2019,2020,26.6
+1,4159,1B,,Caught Stealing 2B,600524,Renato Núñez,533167,Matt Shoemaker,547004,Rio Ruiz,R,Luke Maile,571912,1,0,2,True,2019-04-03,Caught,2B,2019,2020,26.6
+2,4723,1B,2B,Stolen Base 2B,600524,Renato Núñez,643493,Austin Pruitt,621466,DJ Stewart,R,Travis d'Arnaud,518595,1,0,3,False,2019-08-24,Stolen,2B,2019,2020,26.6
+3,7002,1B,,Caught Stealing 2B,600524,Renato Núñez,533167,Matt Shoemaker,547004,Rio Ruiz,R,Luke Maile,571912,1,0,2,True,2019-04-03,Caught,2B,2019,2020,26.6
+4,6647,1B,2B,Stolen Base 2B,600524,Renato Núñez,643493,Austin Pruitt,621466,DJ Stewart,R,Travis d'Arnaud,518595,1,0,3,False,2019-08-24,Stolen,2B,2019,2020,26.6
+5,8926,1B,,Caught Stealing 2B,600524,Renato Núñez,533167,Matt Shoemaker,547004,Rio Ruiz,R,Luke Maile,571912,1,0,2,True,2019-04-03,Caught,2B,2019,2020,26.6

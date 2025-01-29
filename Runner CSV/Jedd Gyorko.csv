@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1382,1B,,Caught Stealing 2B,576397,Jedd Gyorko,Jonathan Lucroy,0,0,2,True,2013-07-24,Caught,2B,2013
+2369,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,J.P. Arencibia,4,4,6,False,2013-06-02,Stolen,2B,2013
+369,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,Miguel Montero,5,6,9,True,2014-09-12,Stolen,2B,2014
+2780,1B,,Caught Stealing 2B,576397,Jedd Gyorko,Brayan Peña,1,2,9,True,2014-05-13,Caught,2B,2014
+3174,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,Jose Lobaton,3,4,12,True,2014-04-24,Stolen,2B,2014
+3185,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,Jonathan Lucroy,5,2,9,True,2014-04-23,Stolen,2B,2014
+1414,1B,,Caught Stealing 2B,576397,Jedd Gyorko,Carlos Corporán,0,2,7,True,2015-07-12,Caught,2B,2015
+52,1B,,Caught Stealing 2B,576397,Jedd Gyorko,Alex Avila,0,1,4,False,2017-09-28,Caught,2B,2017
+1407,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,René Rivera,0,4,3,True,2017-07-18,Stolen,2B,2017
+1600,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,J.T. Realmuto,3,0,1,False,2017-07-03,Stolen,2B,2017
+1720,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,Chris Iannetta,0,1,6,True,2017-06-27,Stolen,2B,2017
+2168,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,Miguel Montero,1,3,4,True,2017-06-04,Stolen,2B,2017
+2665,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,J.T. Realmuto,4,3,5,True,2017-05-10,Stolen,2B,2017
+3210,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,Matt Wieters,0,3,8,True,2017-04-12,Stolen,2B,2017
+230,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,Tyler Flowers,0,0,4,True,2018-09-19,Stolen,2B,2018
+3328,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,Kevin Plawecki,1,5,8,True,2018-04-01,Stolen,2B,2018
+1901,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,Willson Contreras,1,0,5,False,2019-06-02,Stolen,2B,2019
+2403,2B,3B,Stolen Base 3B,576397,Jedd Gyorko,Yan Gomes,2,1,6,True,2019-05-02,Stolen,3B,2019

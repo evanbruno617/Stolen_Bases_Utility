@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1095,1B,,Caught Stealing 2B,660636,Diego A. Castillo,455119,Chris Martin,669261,Jack Suwinski,R,Willson Contreras,575929,2,3,6,True,2022-05-18,Caught,2B,2022,2024,26.2
+1,1526,1B,2B,Stolen Base 2B,660636,Diego A. Castillo,592858,Rowan Wick,668804,Bryan Reynolds,R,Willson Contreras,575929,2,3,4,True,2022-04-24,Stolen,2B,2022,2024,26.2

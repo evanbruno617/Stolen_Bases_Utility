@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2478,1B,,Caught Stealing 2B,435520,Jesus Flores,Joe Mauer,1,3,7,True,2007-06-09,Caught,2B,2007
+1946,1B,,Caught Stealing 2B,435520,Jesus Flores,Gerald Laird,2,3,6,False,2008-06-20,Caught,2B,2008
+2676,1B,2B,Stolen Base 2B,435520,Jesus Flores,Josh Thole,6,6,12,False,2012-06-05,Stolen,2B,2012
+2983,1B,,Caught Stealing 2B,435520,Jesus Flores,Carlos Ruiz,1,0,3,True,2012-05-23,Caught,2B,2012
+3124,1B,,Caught Stealing 2B,435520,Jesus Flores,Matt Wieters,0,1,5,False,2012-05-18,Caught,2B,2012

@@ -1,0 +1,81 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,755,1B,2B,Stolen Base 2B,543543,Brad Miller,547179,Michael Lorenzen,641933,Tyler O'Neill,R,Tucker Barnhart,571466,2,0,5,False,2020-08-21,Stolen,2B,2020,2021,27.4
+1,3598,1B,2B,Stolen Base 2B,543543,Brad Miller,547179,Michael Lorenzen,641933,Tyler O'Neill,R,Tucker Barnhart,571466,2,0,5,False,2020-08-21,Stolen,2B,2020,2021,27.4
+2,5522,1B,2B,Stolen Base 2B,543543,Brad Miller,547179,Michael Lorenzen,641933,Tyler O'Neill,R,Tucker Barnhart,571466,2,0,5,False,2020-08-21,Stolen,2B,2020,2021,27.4
+3,2443,1B,2B,Stolen Base 2B,543543,Brad Miller,608638,JT Chargois,664068,Scott Kingery,R,Austin Barnes,605131,7,5,8,False,2019-07-18,Stolen,2B,2019,2020,27.2
+4,4075,1B,2B,Stolen Base 2B,543543,Brad Miller,519455,Jordan Zimmermann,608715,Eric Stamets,R,Grayson Greiner,606988,1,5,5,True,2019-04-09,Stolen,2B,2019,2020,27.2
+5,5286,1B,2B,Stolen Base 2B,543543,Brad Miller,608638,JT Chargois,664068,Scott Kingery,R,Austin Barnes,605131,7,5,8,False,2019-07-18,Stolen,2B,2019,2020,27.2
+6,6918,1B,2B,Stolen Base 2B,543543,Brad Miller,519455,Jordan Zimmermann,608715,Eric Stamets,R,Grayson Greiner,606988,1,5,5,True,2019-04-09,Stolen,2B,2019,2020,27.2
+7,7210,1B,2B,Stolen Base 2B,543543,Brad Miller,608638,JT Chargois,664068,Scott Kingery,R,Austin Barnes,605131,7,5,8,False,2019-07-18,Stolen,2B,2019,2020,27.2
+8,8842,1B,2B,Stolen Base 2B,543543,Brad Miller,519455,Jordan Zimmermann,608715,Eric Stamets,R,Grayson Greiner,606988,1,5,5,True,2019-04-09,Stolen,2B,2019,2020,27.2
+9,2011,1B,2B,Stolen Base 2B,543543,Brad Miller,669432,Trevor Rogers,595284,Andrew Knapp,L,Sandy León,506702,0,0,2,True,2021-05-24,Stolen,2B,2021,2022,27.1
+10,2132,2B,3B,Stolen Base 3B,543543,Brad Miller,641835,Tim Mayza,665155,Nick Maton,L,Danny Jansen,643376,9,6,8,True,2021-05-16,Stolen,3B,2021,2022,27.1
+11,2136,1B,2B,Stolen Base 2B,543543,Brad Miller,676886,Jeremy Beasley,665561,Rafael Marchán,R,Danny Jansen,643376,10,7,9,True,2021-05-16,Stolen,2B,2021,2022,27.1
+12,3935,1B,2B,Stolen Base 2B,543543,Brad Miller,669432,Trevor Rogers,595284,Andrew Knapp,L,Sandy León,506702,0,0,2,True,2021-05-24,Stolen,2B,2021,2022,27.1
+13,4056,2B,3B,Stolen Base 3B,543543,Brad Miller,641835,Tim Mayza,665155,Nick Maton,L,Danny Jansen,643376,9,6,8,True,2021-05-16,Stolen,3B,2021,2022,27.1
+14,4060,1B,2B,Stolen Base 2B,543543,Brad Miller,676886,Jeremy Beasley,665561,Rafael Marchán,R,Danny Jansen,643376,10,7,9,True,2021-05-16,Stolen,2B,2021,2022,27.1
+15,104,1B,,Caught Stealing 2B,543543,Brad Miller,605164,Dylan Bundy,650619,Meibrys Viloria,R,Ryan Jeffers,680777,3,4,4,False,2022-07-10,Caught,2B,2022,2023,25.9
+16,1192,1B,2B,Stolen Base 2B,543543,Brad Miller,601713,Nick Pivetta,608369,Corey Seager,R,Christian Vázquez,543877,0,5,6,False,2022-05-13,Stolen,2B,2022,2023,25.9
+17,1280,1B,2B,Stolen Base 2B,543543,Brad Miller,547973,Aroldis Chapman,669256,Nick Solak,L,Jose Trevino,624431,1,0,9,True,2022-05-09,Stolen,2B,2022,2023,25.9
+18,1306,1B,2B,Stolen Base 2B,543543,Brad Miller,547973,Aroldis Chapman,669256,Nick Solak,L,Jose Trevino,624431,1,0,9,True,2022-05-07,Stolen,2B,2022,2023,25.9
+19,1371,1B,2B,Stolen Base 2B,543543,Brad Miller,543272,Brad Hand,641680,Jonah Heim,L,J.T. Realmuto,592663,0,2,10,True,2022-05-04,Stolen,2B,2022,2023,25.9
+20,1559,2B,3B,Stolen Base 3B,543543,Brad Miller,642758,Domingo Acevedo,543760,Marcus Semien,R,Sean Murphy,669221,0,2,8,True,2022-04-23,Stolen,3B,2022,2023,25.9
+21,1909,1B,2B,Stolen Base 2B,543543,Brad Miller,502171,Alex Cobb,543760,Marcus Semien,R,Curt Casali,592200,0,0,1,True,2022-04-01,Stolen,2B,2022,2023,25.9
+22,1910,2B,3B,Stolen Base 3B,543543,Brad Miller,502171,Alex Cobb,608369,Corey Seager,R,Curt Casali,592200,0,1,1,True,2022-04-01,Stolen,3B,2022,2023,25.9
+23,648,1B,2B,Stolen Base 2B,543543,Brad Miller,503285,Darren O'Day,621002,Daniel Robertson,R,Chance Sisco,642082,4,2,8,False,2017-09-30,Stolen,2B,2017,2018,27.7
+24,1572,2B,,Caught Stealing 3B,543543,Brad Miller,605182,Mike Clevinger,461858,Trevor Plouffe,R,Roberto Pérez,547379,0,2,5,False,2017-08-12,Caught,3B,2017,2018,27.7
+25,2058,1B,,Caught Stealing 2B,543543,Brad Miller,453284,Blake Parker,542921,Tim Beckham,R,Martín Maldonado,455117,2,2,7,True,2017-07-16,Caught,2B,2017,2018,27.7
+26,2781,1B,2B,Stolen Base 2B,543543,Brad Miller,592454,Tommy Kahnle,519306,Steven Souza Jr.,R,Omar Narváez,553882,2,3,8,False,2017-06-06,Stolen,2B,2017,2018,27.7
+27,3378,2B,3B,Stolen Base 3B,543543,Brad Miller,462136,Marco Estrada,489149,Logan Morrison,R,Luke Maile,571912,0,1,1,False,2017-05-06,Stolen,3B,2017,2018,27.7
+28,3458,1B,2B,Stolen Base 2B,543543,Brad Miller,547749,Junichi Tazawa,519083,Derek Norris,R,J.T. Realmuto,592663,2,3,8,True,2017-05-01,Stolen,2B,2017,2018,27.7
+29,3459,2B,3B,Stolen Base 3B,543543,Brad Miller,547749,Junichi Tazawa,621002,Daniel Robertson,R,J.T. Realmuto,592663,2,4,8,True,2017-05-01,Stolen,3B,2017,2018,27.7
+30,3675,1B,,Caught Stealing 2B,543543,Brad Miller,571666,Mike Fiers,519306,Steven Souza Jr.,R,Brian McCann,435263,3,1,3,False,2017-04-21,Caught,2B,2017,2018,27.7
+31,20,1B,2B,Stolen Base 2B,543543,Brad Miller,503285,Darren O'Day,621002,Daniel Robertson,R,Chance Sisco,642082,4,2,8,False,2017-09-30,Stolen,2B,2017,2018,27.7
+32,944,2B,,Caught Stealing 3B,543543,Brad Miller,605182,Mike Clevinger,461858,Trevor Plouffe,R,Roberto Pérez,547379,0,2,5,False,2017-08-12,Caught,3B,2017,2018,27.7
+33,1430,1B,,Caught Stealing 2B,543543,Brad Miller,453284,Blake Parker,542921,Tim Beckham,R,Martín Maldonado,455117,2,2,7,True,2017-07-16,Caught,2B,2017,2018,27.7
+34,2153,1B,2B,Stolen Base 2B,543543,Brad Miller,592454,Tommy Kahnle,519306,Steven Souza Jr.,R,Omar Narváez,553882,2,3,8,False,2017-06-06,Stolen,2B,2017,2018,27.7
+35,2750,2B,3B,Stolen Base 3B,543543,Brad Miller,462136,Marco Estrada,489149,Logan Morrison,R,Luke Maile,571912,0,1,1,False,2017-05-06,Stolen,3B,2017,2018,27.7
+36,2830,1B,2B,Stolen Base 2B,543543,Brad Miller,547749,Junichi Tazawa,519083,Derek Norris,R,J.T. Realmuto,592663,2,3,8,True,2017-05-01,Stolen,2B,2017,2018,27.7
+37,2831,2B,3B,Stolen Base 3B,543543,Brad Miller,547749,Junichi Tazawa,621002,Daniel Robertson,R,J.T. Realmuto,592663,2,4,8,True,2017-05-01,Stolen,3B,2017,2018,27.7
+38,3047,1B,,Caught Stealing 2B,543543,Brad Miller,571666,Mike Fiers,519306,Steven Souza Jr.,R,Brian McCann,435263,3,1,3,False,2017-04-21,Caught,2B,2017,2018,27.7
+39,5130,1B,2B,Stolen Base 2B,543543,Brad Miller,542953,Buddy Boshers,545338,Nick Franklin,L,Kurt Suzuki,435559,4,1,6,False,2016-08-06,Stolen,2B,2016,2017,27.7
+40,5131,2B,3B,Stolen Base 3B,543543,Brad Miller,542953,Buddy Boshers,545338,Nick Franklin,L,Kurt Suzuki,435559,4,1,6,False,2016-08-06,Stolen,3B,2016,2017,27.7
+41,5177,1B,,Caught Stealing 2B,543543,Brad Miller,453178,Ian Kennedy,519306,Steven Souza Jr.,R,Salvador Perez,521692,0,0,2,False,2016-08-04,Caught,2B,2016,2017,27.7
+42,6234,1B,,Caught Stealing 2B,543543,Brad Miller,518567,Josh Collmenter,592200,Curt Casali,R,Welington Castillo,456078,4,6,9,True,2016-06-06,Caught,2B,2016,2017,27.7
+43,6476,1B,2B,Stolen Base 2B,543543,Brad Miller,457768,Bryan Morris,456665,Steve Pearce,R,J.T. Realmuto,592663,2,4,7,True,2016-05-24,Stolen,2B,2016,2017,27.7
+44,6477,1B,2B,Stolen Base 2B,543543,Brad Miller,429719,Edwin Jackson,446334,Evan Longoria,R,J.T. Realmuto,592663,3,4,9,True,2016-05-24,Stolen,2B,2016,2017,27.7
+45,6758,1B,2B,Stolen Base 2B,543543,Brad Miller,433587,Félix Hernández,572816,Corey Dickerson,R,Chris Iannetta,455104,0,0,1,True,2016-05-09,Stolen,2B,2016,2017,27.7
+46,6816,1B,,Caught Stealing 2B,543543,Brad Miller,592135,Cam Bedrosian,456665,Steve Pearce,R,Carlos Pérez,542208,0,5,6,True,2016-05-06,Caught,2B,2016,2017,27.7
+47,7005,1B,2B,Stolen Base 2B,543543,Brad Miller,434622,Ubaldo Jiménez,446334,Evan Longoria,R,Caleb Joseph,543376,1,1,5,False,2016-04-26,Stolen,2B,2016,2017,27.7
+48,7425,1B,,Caught Stealing 2B,543543,Brad Miller,592717,Aaron Sanchez,595281,Kevin Kiermaier,R,Russell Martin,431145,0,0,2,False,2016-04-05,Caught,2B,2016,2017,27.7
+49,1095,1B,2B,Stolen Base 2B,543543,Brad Miller,542953,Buddy Boshers,545338,Nick Franklin,L,Kurt Suzuki,435559,4,1,6,False,2016-08-06,Stolen,2B,2016,2017,27.7
+50,1096,2B,3B,Stolen Base 3B,543543,Brad Miller,542953,Buddy Boshers,545338,Nick Franklin,L,Kurt Suzuki,435559,4,1,6,False,2016-08-06,Stolen,3B,2016,2017,27.7
+51,1142,1B,,Caught Stealing 2B,543543,Brad Miller,453178,Ian Kennedy,519306,Steven Souza Jr.,R,Salvador Perez,521692,0,0,2,False,2016-08-04,Caught,2B,2016,2017,27.7
+52,2199,1B,,Caught Stealing 2B,543543,Brad Miller,518567,Josh Collmenter,592200,Curt Casali,R,Welington Castillo,456078,4,6,9,True,2016-06-06,Caught,2B,2016,2017,27.7
+53,2441,1B,2B,Stolen Base 2B,543543,Brad Miller,457768,Bryan Morris,456665,Steve Pearce,R,J.T. Realmuto,592663,2,4,7,True,2016-05-24,Stolen,2B,2016,2017,27.7
+54,2442,1B,2B,Stolen Base 2B,543543,Brad Miller,429719,Edwin Jackson,446334,Evan Longoria,R,J.T. Realmuto,592663,3,4,9,True,2016-05-24,Stolen,2B,2016,2017,27.7
+55,2723,1B,2B,Stolen Base 2B,543543,Brad Miller,433587,Félix Hernández,572816,Corey Dickerson,R,Chris Iannetta,455104,0,0,1,True,2016-05-09,Stolen,2B,2016,2017,27.7
+56,2781,1B,,Caught Stealing 2B,543543,Brad Miller,592135,Cam Bedrosian,456665,Steve Pearce,R,Carlos Pérez,542208,0,5,6,True,2016-05-06,Caught,2B,2016,2017,27.7
+57,2970,1B,2B,Stolen Base 2B,543543,Brad Miller,434622,Ubaldo Jiménez,446334,Evan Longoria,R,Caleb Joseph,543376,1,1,5,False,2016-04-26,Stolen,2B,2016,2017,27.7
+58,3390,1B,,Caught Stealing 2B,543543,Brad Miller,592717,Aaron Sanchez,595281,Kevin Kiermaier,R,Russell Martin,431145,0,0,2,False,2016-04-05,Caught,2B,2016,2017,27.7
+59,4502,1B,2B,Stolen Base 2B,543543,Brad Miller,542953,Buddy Boshers,545338,Nick Franklin,L,Kurt Suzuki,435559,4,1,6,False,2016-08-06,Stolen,2B,2016,2017,27.7
+60,4503,2B,3B,Stolen Base 3B,543543,Brad Miller,542953,Buddy Boshers,545338,Nick Franklin,L,Kurt Suzuki,435559,4,1,6,False,2016-08-06,Stolen,3B,2016,2017,27.7
+61,4549,1B,,Caught Stealing 2B,543543,Brad Miller,453178,Ian Kennedy,519306,Steven Souza Jr.,R,Salvador Perez,521692,0,0,2,False,2016-08-04,Caught,2B,2016,2017,27.7
+62,5606,1B,,Caught Stealing 2B,543543,Brad Miller,518567,Josh Collmenter,592200,Curt Casali,R,Welington Castillo,456078,4,6,9,True,2016-06-06,Caught,2B,2016,2017,27.7
+63,5848,1B,2B,Stolen Base 2B,543543,Brad Miller,457768,Bryan Morris,456665,Steve Pearce,R,J.T. Realmuto,592663,2,4,7,True,2016-05-24,Stolen,2B,2016,2017,27.7
+64,5849,1B,2B,Stolen Base 2B,543543,Brad Miller,429719,Edwin Jackson,446334,Evan Longoria,R,J.T. Realmuto,592663,3,4,9,True,2016-05-24,Stolen,2B,2016,2017,27.7
+65,6130,1B,2B,Stolen Base 2B,543543,Brad Miller,433587,Félix Hernández,572816,Corey Dickerson,R,Chris Iannetta,455104,0,0,1,True,2016-05-09,Stolen,2B,2016,2017,27.7
+66,6188,1B,,Caught Stealing 2B,543543,Brad Miller,592135,Cam Bedrosian,456665,Steve Pearce,R,Carlos Pérez,542208,0,5,6,True,2016-05-06,Caught,2B,2016,2017,27.7
+67,6377,1B,2B,Stolen Base 2B,543543,Brad Miller,434622,Ubaldo Jiménez,446334,Evan Longoria,R,Caleb Joseph,543376,1,1,5,False,2016-04-26,Stolen,2B,2016,2017,27.7
+68,6797,1B,,Caught Stealing 2B,543543,Brad Miller,592717,Aaron Sanchez,595281,Kevin Kiermaier,R,Russell Martin,431145,0,0,2,False,2016-04-05,Caught,2B,2016,2017,27.7
+69,34,1B,2B,Stolen Base 2B,543543,Brad Miller,434671,Aníbal Sánchez,572122,Kyle Seager,R,James McCann,543510,8,4,7,True,2015-07-22,Stolen,2B,2015,2016,27.8
+70,238,2B,3B,Stolen Base 3B,543543,Brad Miller,434671,Aníbal Sánchez,489149,Logan Morrison,R,James McCann,543510,4,4,6,False,2015-07-08,Stolen,3B,2015,2016,27.8
+71,266,2B,3B,Stolen Base 3B,543543,Brad Miller,430580,Alfredo Simon,572287,Mike Zunino,R,Alex Avila,488671,2,3,4,False,2015-07-06,Stolen,3B,2015,2016,27.8
+72,374,1B,2B,Stolen Base 2B,543543,Brad Miller,448306,James Shields,572287,Mike Zunino,R,Derek Norris,519083,0,1,7,True,2015-07-01,Stolen,2B,2015,2016,27.8
+73,588,1B,2B,Stolen Base 2B,543543,Brad Miller,433584,Roberto Hernandez,572287,Mike Zunino,R,Hank Conger,474233,5,1,6,False,2015-06-19,Stolen,2B,2015,2016,27.8
+74,811,1B,2B,Stolen Base 2B,543543,Brad Miller,446372,Corey Kluber,489149,Logan Morrison,R,Yan Gomes,543228,0,2,2,True,2015-06-09,Stolen,2B,2015,2016,27.8
+75,1085,1B,2B,Stolen Base 2B,543543,Brad Miller,457117,Ernesto Frieri,621035,Chris Taylor,R,Bobby Wilson,435064,3,6,8,True,2015-05-26,Stolen,2B,2015,2016,27.8
+76,1649,2B,,Caught Stealing 3B,543543,Brad Miller,516935,Stolmy Pimentel,448605,Justin Ruggiano,R,Carlos Corporán,449786,2,4,6,True,2015-04-29,Caught,3B,2015,2016,27.8
+77,1707,1B,2B,Stolen Base 2B,543543,Brad Miller,516935,Stolmy Pimentel,217100,Willie Bloomquist,R,Robinson Chirinos,455139,1,3,7,True,2015-04-27,Stolen,2B,2015,2016,27.8
+78,1902,1B,2B,Stolen Base 2B,543543,Brad Miller,407890,Colby Lewis,572287,Mike Zunino,R,Robinson Chirinos,455139,0,0,3,False,2015-04-18,Stolen,2B,2015,2016,27.8
+79,2069,1B,2B,Stolen Base 2B,543543,Brad Miller,461325,Tyler Clippard,572287,Mike Zunino,R,Josh Phegley,572033,4,4,9,True,2015-04-11,Stolen,2B,2015,2016,27.8

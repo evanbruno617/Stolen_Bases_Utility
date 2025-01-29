@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+726,1B,2B,Stolen Base 2B,150421,Ramon Hernandez,Darrin Fletcher,0,3,2,True,2000-09-01,Stolen,2B,2000
+1384,1B,,Caught Stealing 2B,150421,Ramon Hernandez,Bengie Molina,1,2,5,False,2001-04-08,Caught,2B,2001
+3124,1B,2B,Stolen Base 2B,150421,Ramon Hernandez,Robby Hammock,0,0,2,True,2004-04-24,Stolen,2B,2004
+3477,1B,2B,Stolen Base 2B,150421,Ramon Hernandez,JD Closser,8,10,9,True,2005-04-04,Stolen,2B,2005
+255,1B,,Caught Stealing 2B,150421,Ramon Hernandez,Jorge Posada,1,0,5,True,2007-09-19,Caught,2B,2007
+1432,1B,,Caught Stealing 2B,150421,Ramon Hernandez,Jorge Posada,3,0,6,False,2007-07-28,Caught,2B,2007
+1672,1B,,Caught Stealing 2B,150421,Ramon Hernandez,Kenji Johjima,0,0,2,True,2007-07-17,Caught,2B,2007
+3163,1B,2B,Stolen Base 2B,150421,Ramon Hernandez,Victor Martinez,0,1,2,False,2007-05-06,Stolen,2B,2007
+1328,1B,2B,Stolen Base 2B,150421,Ramon Hernandez,Yadier Molina,1,1,4,True,2009-06-02,Stolen,2B,2009
+2187,1B,2B,Stolen Base 2B,150421,Ramon Hernandez,Miguel Montero,4,3,6,False,2013-06-12,Stolen,2B,2013

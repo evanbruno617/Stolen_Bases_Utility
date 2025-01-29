@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+33,1B,2B,Stolen Base 2B,123245,Frank Thomas,Gregg Zaun,3,3,5,False,2000-09-29,Stolen,2B,2000
+1729,1B,,Caught Stealing 2B,123245,Frank Thomas,Henry Blanco,0,0,1,False,2000-07-17,Caught,2B,2000
+3956,1B,,Caught Stealing 2B,123245,Frank Thomas,Ramon Hernandez,6,3,7,True,2000-04-07,Caught,2B,2000
+256,1B,2B,Stolen Base 2B,123245,Frank Thomas,A.J. Hinch,2,1,5,False,2002-09-17,Stolen,2B,2002
+3108,1B,2B,Stolen Base 2B,123245,Frank Thomas,Bill Haselman,4,3,5,True,2002-05-07,Stolen,2B,2002
+3557,1B,2B,Stolen Base 2B,123245,Frank Thomas,Eddie Pérez,4,2,3,False,2002-04-17,Stolen,2B,2002
+3346,1B,,Caught Stealing 2B,123245,Frank Thomas,Benito Santiago,0,0,2,False,2004-04-14,Caught,2B,2004

@@ -1,0 +1,9 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,452655,Denard Span,Lucas May,0,0,1,True,2010-09-28,Stolen,2B,2010
+1B,2B,Stolen Base 2B,460067,Trevor Crowe,Lucas May,0,3,3,False,2010-09-23,Stolen,2B,2010
+1B,2B,Stolen Base 2B,460067,Trevor Crowe,Lucas May,0,3,6,False,2010-09-23,Stolen,2B,2010
+1B,2B,Stolen Base 2B,457706,Austin Jackson,Lucas May,4,0,8,False,2010-09-22,Stolen,2B,2010
+1B,,Caught Stealing 2B,489242,Will Rhymes,Lucas May,3,5,7,False,2010-09-21,Caught,2B,2010
+1B,2B,Stolen Base 2B,424825,Coco Crisp,Lucas May,0,0,1,True,2010-09-13,Stolen,2B,2010
+1B,2B,Stolen Base 2B,424825,Coco Crisp,Lucas May,1,2,5,True,2010-09-13,Stolen,2B,2010
+2B,,Caught Stealing 3B,424825,Coco Crisp,Lucas May,1,2,5,True,2010-09-13,Caught,3B,2010

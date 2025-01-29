@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+488,1B,,Caught Stealing 2B,452989,Edgar Gonzalez,Jason Kendall,2,1,5,True,2008-09-05,Caught,2B,2008
+585,1B,,Caught Stealing 2B,452989,Edgar Gonzalez,Adam Melhuse,1,0,6,False,2008-08-31,Caught,2B,2008
+762,1B,2B,Stolen Base 2B,452989,Edgar Gonzalez,Pablo Sandoval,3,2,6,True,2008-08-23,Stolen,2B,2008
+1694,1B,,Caught Stealing 2B,452989,Edgar Gonzalez,Yorvit Torrealba,0,0,1,True,2008-07-02,Caught,2B,2008
+1492,1B,,Caught Stealing 2B,452989,Edgar Gonzalez,Chris Snyder,7,9,10,True,2009-05-25,Caught,2B,2009
+2075,1B,,Caught Stealing 2B,452989,Edgar Gonzalez,Russell Martin,1,1,4,True,2009-05-02,Caught,2B,2009

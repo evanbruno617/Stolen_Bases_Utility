@@ -1,0 +1,20 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2B,3B,Stolen Base 3B,679845,Nick Loftin,Austin Wells,5,0,1,False,2023-09-29,Stolen,3B,2023
+1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,Austin Wells,0,0,2,False,2023-09-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,666182,Bo Bichette,Austin Wells,3,0,5,False,2023-09-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,662139,Daulton Varsho,Austin Wells,0,0,7,False,2023-09-26,Stolen,2B,2023
+1B,2B,Stolen Base 2B,572233,Christian Walker,Austin Wells,2,2,5,True,2023-09-25,Stolen,2B,2023
+1B,2B,Stolen Base 2B,682998,Corbin Carroll,Austin Wells,2,3,7,True,2023-09-25,Stolen,2B,2023
+1B,2B,Stolen Base 2B,572233,Christian Walker,Austin Wells,2,2,5,True,2023-09-23,Stolen,2B,2023
+1B,2B,Stolen Base 2B,682998,Corbin Carroll,Austin Wells,2,3,7,True,2023-09-23,Stolen,2B,2023
+1B,2B,Stolen Base 2B,593160,Whit Merrifield,Austin Wells,0,1,7,True,2023-09-20,Stolen,2B,2023
+1B,2B,Stolen Base 2B,678894,Liover Peguero,Austin Wells,3,2,7,False,2023-09-17,Stolen,2B,2023
+1B,2B,Stolen Base 2B,677800,Wilyer Abreu,Austin Wells,1,0,6,False,2023-09-14,Stolen,2B,2023
+1B,2B,Stolen Base 2B,677800,Wilyer Abreu,Austin Wells,1,0,6,False,2023-09-13,Stolen,2B,2023
+1B,2B,Stolen Base 2B,622569,Pablo Reyes,Austin Wells,1,2,6,False,2023-09-12,Stolen,2B,2023
+2B,3B,Stolen Base 3B,668930,Brice Turang,Austin Wells,2,5,9,True,2023-09-09,Stolen,3B,2023
+1B,2B,Stolen Base 2B,621438,Tyrone Taylor,Austin Wells,2,5,9,True,2023-09-09,Stolen,2B,2023
+1B,2B,Stolen Base 2B,668930,Brice Turang,Austin Wells,2,2,5,True,2023-09-08,Stolen,2B,2023
+1B,2B,Stolen Base 2B,661388,William Contreras,Austin Wells,2,4,7,True,2023-09-08,Stolen,2B,2023
+1B,2B,Stolen Base 2B,668930,Brice Turang,Austin Wells,2,7,8,True,2023-09-08,Stolen,2B,2023
+1B,,Caught Stealing 2B,643289,Mauricio Dubón,Austin Wells,1,0,5,False,2023-09-03,Caught,2B,2023

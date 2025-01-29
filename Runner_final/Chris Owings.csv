@@ -1,0 +1,139 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1089,1B,2B,Stolen Base 2B,572008,Chris Owings,615698,Cal Quantrill,460077,Drew Butera,R,Francisco Mejía,642336,4,0,3,False,2020-08-01,Stolen,2B,2020,2021,28.1
+1,3932,1B,2B,Stolen Base 2B,572008,Chris Owings,615698,Cal Quantrill,460077,Drew Butera,R,Francisco Mejía,642336,4,0,3,False,2020-08-01,Stolen,2B,2020,2021,28.1
+2,5856,1B,2B,Stolen Base 2B,572008,Chris Owings,615698,Cal Quantrill,460077,Drew Butera,R,Francisco Mejía,642336,4,0,3,False,2020-08-01,Stolen,2B,2020,2021,28.1
+3,1283,1B,2B,Stolen Base 2B,572008,Chris Owings,571710,Mychal Givens,571788,Brock Holt,R,Austin Wynns,642851,4,4,8,False,2019-09-29,Stolen,2B,2019,2020,28.3
+4,1341,1B,,Caught Stealing 2B,572008,Chris Owings,501985,Mike Minor,593523,Marco Hernández,L,Jose Trevino,624431,1,3,5,True,2019-09-26,Caught,2B,2019,2020,28.3
+5,3785,1B,2B,Stolen Base 2B,572008,Chris Owings,605483,Blake Snell,656811,Ryan O'Hearn,L,Mike Zunino,572287,1,2,4,True,2019-04-24,Stolen,2B,2019,2020,28.3
+6,3964,1B,,Caught Stealing 2B,572008,Chris Owings,446372,Corey Kluber,593160,Whit Merrifield,R,Roberto Pérez,547379,4,3,2,False,2019-04-14,Caught,2B,2019,2020,28.3
+7,4004,3B,score,Stolen Base Home,572008,Chris Owings,424144,Oliver Pérez,624585,Jorge Soler,L,Roberto Pérez,547379,8,1,6,False,2019-04-12,Stolen,Home,2019,2020,28.3
+8,4058,2B,3B,Stolen Base 3B,572008,Chris Owings,594835,Marco Gonzales,455117,Martín Maldonado,L,Omar Narváez,553882,2,6,7,False,2019-04-09,Stolen,3B,2019,2020,28.3
+9,4126,1B,2B,Stolen Base 2B,572008,Chris Owings,571710,Mychal Givens,571788,Brock Holt,R,Austin Wynns,642851,4,4,8,False,2019-09-29,Stolen,2B,2019,2020,28.3
+10,4184,1B,,Caught Stealing 2B,572008,Chris Owings,501985,Mike Minor,593523,Marco Hernández,L,Jose Trevino,624431,1,3,5,True,2019-09-26,Caught,2B,2019,2020,28.3
+11,6628,1B,2B,Stolen Base 2B,572008,Chris Owings,605483,Blake Snell,656811,Ryan O'Hearn,L,Mike Zunino,572287,1,2,4,True,2019-04-24,Stolen,2B,2019,2020,28.3
+12,6807,1B,,Caught Stealing 2B,572008,Chris Owings,446372,Corey Kluber,593160,Whit Merrifield,R,Roberto Pérez,547379,4,3,2,False,2019-04-14,Caught,2B,2019,2020,28.3
+13,6847,3B,score,Stolen Base Home,572008,Chris Owings,424144,Oliver Pérez,624585,Jorge Soler,L,Roberto Pérez,547379,8,1,6,False,2019-04-12,Stolen,Home,2019,2020,28.3
+14,6901,2B,3B,Stolen Base 3B,572008,Chris Owings,594835,Marco Gonzales,455117,Martín Maldonado,L,Omar Narváez,553882,2,6,7,False,2019-04-09,Stolen,3B,2019,2020,28.3
+15,6050,1B,2B,Stolen Base 2B,572008,Chris Owings,571710,Mychal Givens,571788,Brock Holt,R,Austin Wynns,642851,4,4,8,False,2019-09-29,Stolen,2B,2019,2020,28.3
+16,6108,1B,,Caught Stealing 2B,572008,Chris Owings,501985,Mike Minor,593523,Marco Hernández,L,Jose Trevino,624431,1,3,5,True,2019-09-26,Caught,2B,2019,2020,28.3
+17,8552,1B,2B,Stolen Base 2B,572008,Chris Owings,605483,Blake Snell,656811,Ryan O'Hearn,L,Mike Zunino,572287,1,2,4,True,2019-04-24,Stolen,2B,2019,2020,28.3
+18,8731,1B,,Caught Stealing 2B,572008,Chris Owings,446372,Corey Kluber,593160,Whit Merrifield,R,Roberto Pérez,547379,4,3,2,False,2019-04-14,Caught,2B,2019,2020,28.3
+19,8771,3B,score,Stolen Base Home,572008,Chris Owings,424144,Oliver Pérez,624585,Jorge Soler,L,Roberto Pérez,547379,8,1,6,False,2019-04-12,Stolen,Home,2019,2020,28.3
+20,8825,2B,3B,Stolen Base 3B,572008,Chris Owings,594835,Marco Gonzales,455117,Martín Maldonado,L,Omar Narváez,553882,2,6,7,False,2019-04-09,Stolen,3B,2019,2020,28.3
+21,1243,1B,,Caught Stealing 2B,572008,Chris Owings,489334,Craig Stammen,624513,Dom Nuñez,R,Victor Caratini,605170,0,2,6,True,2021-07-10,Caught,2B,2021,2022,27.8
+22,2834,1B,2B,Stolen Base 2B,572008,Chris Owings,477132,Clayton Kershaw,641658,Garrett Hampson,L,Austin Barnes,605131,5,4,6,False,2021-04-01,Stolen,2B,2021,2022,27.8
+23,2835,1B,2B,Stolen Base 2B,572008,Chris Owings,518397,Scott Alexander,641658,Garrett Hampson,L,Austin Barnes,605131,8,4,7,False,2021-04-01,Stolen,2B,2021,2022,27.8
+24,3167,1B,,Caught Stealing 2B,572008,Chris Owings,489334,Craig Stammen,624513,Dom Nuñez,R,Victor Caratini,605170,0,2,6,True,2021-07-10,Caught,2B,2021,2022,27.8
+25,4758,1B,2B,Stolen Base 2B,572008,Chris Owings,477132,Clayton Kershaw,641658,Garrett Hampson,L,Austin Barnes,605131,5,4,6,False,2021-04-01,Stolen,2B,2021,2022,27.8
+26,4759,1B,2B,Stolen Base 2B,572008,Chris Owings,518397,Scott Alexander,641658,Garrett Hampson,L,Austin Barnes,605131,8,4,7,False,2021-04-01,Stolen,2B,2021,2022,27.8
+27,1206,1B,2B,Stolen Base 2B,572008,Chris Owings,650893,Génesis Cabrera,656775,Cedric Mullins,L,Andrew Knizner,668800,0,3,7,True,2022-05-12,Stolen,2B,2022,2023,26.8
+28,149,1B,,Caught Stealing 2B,572008,Chris Owings,519301,Sammy Solís,444482,David Peralta,L,Matt Wieters,446308,4,5,7,True,2018-04-27,Caught,2B,2018,2019,28.1
+29,243,1B,,Caught Stealing 2B,572008,Chris Owings,643256,Adam Cimber,571918,Deven Marrero,R,Austin Hedges,595978,3,2,6,False,2018-04-21,Caught,2B,2018,2019,28.1
+30,453,1B,,Caught Stealing 2B,572008,Chris Owings,596816,Roberto Gómez,605113,Nick Ahmed,R,Buster Posey,457763,0,2,7,True,2018-04-09,Caught,2B,2018,2019,28.1
+31,566,2B,3B,Stolen Base 3B,572008,Chris Owings,622072,Alex Wood,571918,Deven Marrero,L,Yasmani Grandal,518735,2,0,2,False,2018-04-04,Stolen,3B,2018,2019,28.1
+32,2103,1B,2B,Stolen Base 2B,572008,Chris Owings,542432,José Ramirez,592273,Brandon Drury,R,Tyler Flowers,452095,2,2,8,True,2017-07-14,Stolen,2B,2017,2018,28.2
+33,2321,2B,3B,Stolen Base 3B,572008,Chris Owings,425794,Adam Wainwright,571681,Rey Fuentes,R,Yadier Molina,425877,1,3,4,False,2017-06-28,Stolen,3B,2017,2018,28.2
+34,2421,1B,2B,Stolen Base 2B,572008,Chris Owings,450212,Pat Neshek,455104,Chris Iannetta,R,Cameron Rupp,519237,0,1,7,False,2017-06-23,Stolen,2B,2017,2018,28.2
+35,3163,1B,2B,Stolen Base 2B,572008,Chris Owings,543548,Tommy Milone,630111,Yasmany Tomás,L,René Rivera,425784,4,1,3,False,2017-05-16,Stolen,2B,2017,2018,28.2
+36,3430,2B,,Caught Stealing 3B,572008,Chris Owings,461829,Gio González,571875,Jake Lamb,L,Matt Wieters,446308,1,1,5,True,2017-05-03,Caught,3B,2017,2018,28.2
+37,3451,1B,2B,Stolen Base 2B,572008,Chris Owings,543699,Tanner Roark,502671,Paul Goldschmidt,R,Jose Lobaton,446653,1,1,3,True,2017-05-02,Stolen,2B,2017,2018,28.2
+38,3518,1B,2B,Stolen Base 2B,572008,Chris Owings,607536,Kyle Freeland,502671,Paul Goldschmidt,L,Dustin Garneau,572863,1,2,5,False,2017-04-28,Stolen,2B,2017,2018,28.2
+39,3537,1B,2B,Stolen Base 2B,572008,Chris Owings,489446,Kirby Yates,605113,Nick Ahmed,R,Héctor Sánchez,516949,5,1,6,False,2017-04-27,Stolen,2B,2017,2018,28.2
+40,3617,1B,2B,Stolen Base 2B,572008,Chris Owings,600526,José Torres,571875,Jake Lamb,L,Austin Hedges,595978,7,5,7,False,2017-04-24,Stolen,2B,2017,2018,28.2
+41,3877,2B,3B,Stolen Base 3B,572008,Chris Owings,446372,Corey Kluber,592273,Brandon Drury,R,Yan Gomes,543228,2,0,4,False,2017-04-09,Stolen,3B,2017,2018,28.2
+42,3881,1B,2B,Stolen Base 2B,572008,Chris Owings,592102,Cody Allen,455104,Chris Iannetta,R,Yan Gomes,543228,3,1,8,False,2017-04-09,Stolen,2B,2017,2018,28.2
+43,3963,2B,3B,Stolen Base 3B,572008,Chris Owings,519043,Matt Moore,571875,Jake Lamb,L,Buster Posey,457763,3,4,5,False,2017-04-05,Stolen,3B,2017,2018,28.2
+44,3966,1B,2B,Stolen Base 2B,572008,Chris Owings,518715,Cory Gearrin,502671,Paul Goldschmidt,R,Buster Posey,457763,6,4,6,False,2017-04-05,Stolen,2B,2017,2018,28.2
+45,1475,1B,2B,Stolen Base 2B,572008,Chris Owings,542432,José Ramirez,592273,Brandon Drury,R,Tyler Flowers,452095,2,2,8,True,2017-07-14,Stolen,2B,2017,2018,28.2
+46,1693,2B,3B,Stolen Base 3B,572008,Chris Owings,425794,Adam Wainwright,571681,Rey Fuentes,R,Yadier Molina,425877,1,3,4,False,2017-06-28,Stolen,3B,2017,2018,28.2
+47,1793,1B,2B,Stolen Base 2B,572008,Chris Owings,450212,Pat Neshek,455104,Chris Iannetta,R,Cameron Rupp,519237,0,1,7,False,2017-06-23,Stolen,2B,2017,2018,28.2
+48,2535,1B,2B,Stolen Base 2B,572008,Chris Owings,543548,Tommy Milone,630111,Yasmany Tomás,L,René Rivera,425784,4,1,3,False,2017-05-16,Stolen,2B,2017,2018,28.2
+49,2802,2B,,Caught Stealing 3B,572008,Chris Owings,461829,Gio González,571875,Jake Lamb,L,Matt Wieters,446308,1,1,5,True,2017-05-03,Caught,3B,2017,2018,28.2
+50,2823,1B,2B,Stolen Base 2B,572008,Chris Owings,543699,Tanner Roark,502671,Paul Goldschmidt,R,Jose Lobaton,446653,1,1,3,True,2017-05-02,Stolen,2B,2017,2018,28.2
+51,2890,1B,2B,Stolen Base 2B,572008,Chris Owings,607536,Kyle Freeland,502671,Paul Goldschmidt,L,Dustin Garneau,572863,1,2,5,False,2017-04-28,Stolen,2B,2017,2018,28.2
+52,2909,1B,2B,Stolen Base 2B,572008,Chris Owings,489446,Kirby Yates,605113,Nick Ahmed,R,Héctor Sánchez,516949,5,1,6,False,2017-04-27,Stolen,2B,2017,2018,28.2
+53,2989,1B,2B,Stolen Base 2B,572008,Chris Owings,600526,José Torres,571875,Jake Lamb,L,Austin Hedges,595978,7,5,7,False,2017-04-24,Stolen,2B,2017,2018,28.2
+54,3249,2B,3B,Stolen Base 3B,572008,Chris Owings,446372,Corey Kluber,592273,Brandon Drury,R,Yan Gomes,543228,2,0,4,False,2017-04-09,Stolen,3B,2017,2018,28.2
+55,3253,1B,2B,Stolen Base 2B,572008,Chris Owings,592102,Cody Allen,455104,Chris Iannetta,R,Yan Gomes,543228,3,1,8,False,2017-04-09,Stolen,2B,2017,2018,28.2
+56,3335,2B,3B,Stolen Base 3B,572008,Chris Owings,519043,Matt Moore,571875,Jake Lamb,L,Buster Posey,457763,3,4,5,False,2017-04-05,Stolen,3B,2017,2018,28.2
+57,3338,1B,2B,Stolen Base 2B,572008,Chris Owings,518715,Cory Gearrin,502671,Paul Goldschmidt,R,Buster Posey,457763,6,4,6,False,2017-04-05,Stolen,2B,2017,2018,28.2
+58,4095,1B,2B,Stolen Base 2B,572008,Chris Owings,461829,Gio González,502671,Paul Goldschmidt,L,Jose Lobaton,446653,0,1,1,True,2016-09-28,Stolen,2B,2016,2017,28.3
+59,4096,1B,2B,Stolen Base 2B,572008,Chris Owings,461829,Gio González,456078,Welington Castillo,L,Jose Lobaton,446653,0,1,3,True,2016-09-28,Stolen,2B,2016,2017,28.3
+60,4161,1B,2B,Stolen Base 2B,572008,Chris Owings,542960,Brad Brach,502671,Paul Goldschmidt,R,Caleb Joseph,543376,2,1,8,True,2016-09-25,Stolen,2B,2016,2017,28.3
+61,4395,2B,3B,Stolen Base 3B,572008,Chris Owings,407822,Jorge De La Rosa,502671,Paul Goldschmidt,L,Dustin Garneau,572863,1,3,1,False,2016-09-13,Stolen,3B,2016,2017,28.3
+62,4496,1B,,Caught Stealing 2B,572008,Chris Owings,592779,Brock Stewart,502671,Paul Goldschmidt,R,Carlos Ruiz,434563,2,1,5,True,2016-09-07,Caught,2B,2016,2017,28.3
+63,4573,1B,2B,Stolen Base 2B,572008,Chris Owings,608032,Carlos Estévez,502671,Paul Goldschmidt,R,Tom Murphy,608596,3,5,8,True,2016-09-04,Stolen,2B,2016,2017,28.3
+64,4593,1B,,Caught Stealing 2B,572008,Chris Owings,459429,Jake McGee,593647,Sócrates Brito,L,Tom Murphy,608596,4,9,7,True,2016-09-03,Caught,2B,2016,2017,28.3
+65,4702,1B,2B,Stolen Base 2B,572008,Chris Owings,595001,Josh A. Smith,594838,Phil Gosselin,R,Ramón Cabrera,541608,5,2,4,False,2016-08-28,Stolen,2B,2016,2017,28.3
+66,4734,1B,2B,Stolen Base 2B,572008,Chris Owings,547179,Michael Lorenzen,571875,Jake Lamb,R,Ramón Cabrera,541608,2,1,7,False,2016-08-26,Stolen,2B,2016,2017,28.3
+67,4767,1B,2B,Stolen Base 2B,572008,Chris Owings,572283,Madison Younginer,571745,Mitch Haniger,R,Tyler Flowers,452095,9,4,7,False,2016-08-24,Stolen,2B,2016,2017,28.3
+68,4918,2B,3B,Stolen Base 3B,572008,Chris Owings,112526,Bartolo Colon,592662,Robbie Ray,R,Travis d'Arnaud,518595,4,1,3,False,2016-08-15,Stolen,3B,2016,2017,28.3
+69,5037,1B,2B,Stolen Base 2B,572008,Chris Owings,112526,Bartolo Colon,593647,Sócrates Brito,R,Travis d'Arnaud,518595,0,1,4,True,2016-08-10,Stolen,2B,2016,2017,28.3
+70,5068,2B,3B,Stolen Base 3B,572008,Chris Owings,570663,Hansel Robles,516416,Jean Segura,R,Travis d'Arnaud,518595,3,2,7,True,2016-08-09,Stolen,3B,2016,2017,28.3
+71,5431,1B,2B,Stolen Base 2B,572008,Chris Owings,572102,Keyvius Sampson,630111,Yasmany Tomás,R,Tucker Barnhart,571466,0,1,1,True,2016-07-23,Stolen,2B,2016,2017,28.3
+72,6243,1B,2B,Stolen Base 2B,572008,Chris Owings,453562,Jake Arrieta,630111,Yasmany Tomás,R,Miguel Montero,471083,1,2,4,True,2016-06-05,Stolen,2B,2016,2017,28.3
+73,6393,2B,3B,Stolen Base 3B,572008,Chris Owings,407819,Matt Thornton,430001,Rickie Weeks Jr.,L,Derek Norris,519083,8,4,7,False,2016-05-28,Stolen,3B,2016,2017,28.3
+74,6655,1B,2B,Stolen Base 2B,572008,Chris Owings,408241,Jake Peavy,605113,Nick Ahmed,R,Buster Posey,457763,1,3,4,False,2016-05-14,Stolen,2B,2016,2017,28.3
+75,6955,1B,2B,Stolen Base 2B,572008,Chris Owings,608379,Michael Wacha,605113,Nick Ahmed,R,Yadier Molina,425877,3,0,7,False,2016-04-28,Stolen,2B,2016,2017,28.3
+76,7087,1B,2B,Stolen Base 2B,572008,Chris Owings,491703,Neftalí Feliz,594838,Phil Gosselin,R,Francisco Cervelli,465041,4,5,6,False,2016-04-22,Stolen,2B,2016,2017,28.3
+77,7118,1B,2B,Stolen Base 2B,572008,Chris Owings,518715,Cory Gearrin,543302,Chris Herrmann,R,Trevor Brown,623143,2,3,9,True,2016-04-21,Stolen,2B,2016,2017,28.3
+78,7119,2B,3B,Stolen Base 3B,572008,Chris Owings,518715,Cory Gearrin,430001,Rickie Weeks Jr.,R,Trevor Brown,623143,2,4,9,True,2016-04-21,Stolen,3B,2016,2017,28.3
+79,7349,1B,2B,Stolen Base 2B,572008,Chris Owings,543294,Kyle Hendricks,502671,Paul Goldschmidt,R,Miguel Montero,471083,0,4,4,False,2016-04-09,Stolen,2B,2016,2017,28.3
+80,60,1B,2B,Stolen Base 2B,572008,Chris Owings,461829,Gio González,502671,Paul Goldschmidt,L,Jose Lobaton,446653,0,1,1,True,2016-09-28,Stolen,2B,2016,2017,28.3
+81,61,1B,2B,Stolen Base 2B,572008,Chris Owings,461829,Gio González,456078,Welington Castillo,L,Jose Lobaton,446653,0,1,3,True,2016-09-28,Stolen,2B,2016,2017,28.3
+82,126,1B,2B,Stolen Base 2B,572008,Chris Owings,542960,Brad Brach,502671,Paul Goldschmidt,R,Caleb Joseph,543376,2,1,8,True,2016-09-25,Stolen,2B,2016,2017,28.3
+83,360,2B,3B,Stolen Base 3B,572008,Chris Owings,407822,Jorge De La Rosa,502671,Paul Goldschmidt,L,Dustin Garneau,572863,1,3,1,False,2016-09-13,Stolen,3B,2016,2017,28.3
+84,461,1B,,Caught Stealing 2B,572008,Chris Owings,592779,Brock Stewart,502671,Paul Goldschmidt,R,Carlos Ruiz,434563,2,1,5,True,2016-09-07,Caught,2B,2016,2017,28.3
+85,538,1B,2B,Stolen Base 2B,572008,Chris Owings,608032,Carlos Estévez,502671,Paul Goldschmidt,R,Tom Murphy,608596,3,5,8,True,2016-09-04,Stolen,2B,2016,2017,28.3
+86,558,1B,,Caught Stealing 2B,572008,Chris Owings,459429,Jake McGee,593647,Sócrates Brito,L,Tom Murphy,608596,4,9,7,True,2016-09-03,Caught,2B,2016,2017,28.3
+87,667,1B,2B,Stolen Base 2B,572008,Chris Owings,595001,Josh A. Smith,594838,Phil Gosselin,R,Ramón Cabrera,541608,5,2,4,False,2016-08-28,Stolen,2B,2016,2017,28.3
+88,699,1B,2B,Stolen Base 2B,572008,Chris Owings,547179,Michael Lorenzen,571875,Jake Lamb,R,Ramón Cabrera,541608,2,1,7,False,2016-08-26,Stolen,2B,2016,2017,28.3
+89,732,1B,2B,Stolen Base 2B,572008,Chris Owings,572283,Madison Younginer,571745,Mitch Haniger,R,Tyler Flowers,452095,9,4,7,False,2016-08-24,Stolen,2B,2016,2017,28.3
+90,883,2B,3B,Stolen Base 3B,572008,Chris Owings,112526,Bartolo Colon,592662,Robbie Ray,R,Travis d'Arnaud,518595,4,1,3,False,2016-08-15,Stolen,3B,2016,2017,28.3
+91,1002,1B,2B,Stolen Base 2B,572008,Chris Owings,112526,Bartolo Colon,593647,Sócrates Brito,R,Travis d'Arnaud,518595,0,1,4,True,2016-08-10,Stolen,2B,2016,2017,28.3
+92,1033,2B,3B,Stolen Base 3B,572008,Chris Owings,570663,Hansel Robles,516416,Jean Segura,R,Travis d'Arnaud,518595,3,2,7,True,2016-08-09,Stolen,3B,2016,2017,28.3
+93,1396,1B,2B,Stolen Base 2B,572008,Chris Owings,572102,Keyvius Sampson,630111,Yasmany Tomás,R,Tucker Barnhart,571466,0,1,1,True,2016-07-23,Stolen,2B,2016,2017,28.3
+94,2208,1B,2B,Stolen Base 2B,572008,Chris Owings,453562,Jake Arrieta,630111,Yasmany Tomás,R,Miguel Montero,471083,1,2,4,True,2016-06-05,Stolen,2B,2016,2017,28.3
+95,2358,2B,3B,Stolen Base 3B,572008,Chris Owings,407819,Matt Thornton,430001,Rickie Weeks Jr.,L,Derek Norris,519083,8,4,7,False,2016-05-28,Stolen,3B,2016,2017,28.3
+96,2620,1B,2B,Stolen Base 2B,572008,Chris Owings,408241,Jake Peavy,605113,Nick Ahmed,R,Buster Posey,457763,1,3,4,False,2016-05-14,Stolen,2B,2016,2017,28.3
+97,2920,1B,2B,Stolen Base 2B,572008,Chris Owings,608379,Michael Wacha,605113,Nick Ahmed,R,Yadier Molina,425877,3,0,7,False,2016-04-28,Stolen,2B,2016,2017,28.3
+98,3052,1B,2B,Stolen Base 2B,572008,Chris Owings,491703,Neftalí Feliz,594838,Phil Gosselin,R,Francisco Cervelli,465041,4,5,6,False,2016-04-22,Stolen,2B,2016,2017,28.3
+99,3083,1B,2B,Stolen Base 2B,572008,Chris Owings,518715,Cory Gearrin,543302,Chris Herrmann,R,Trevor Brown,623143,2,3,9,True,2016-04-21,Stolen,2B,2016,2017,28.3
+100,3084,2B,3B,Stolen Base 3B,572008,Chris Owings,518715,Cory Gearrin,430001,Rickie Weeks Jr.,R,Trevor Brown,623143,2,4,9,True,2016-04-21,Stolen,3B,2016,2017,28.3
+101,3314,1B,2B,Stolen Base 2B,572008,Chris Owings,543294,Kyle Hendricks,502671,Paul Goldschmidt,R,Miguel Montero,471083,0,4,4,False,2016-04-09,Stolen,2B,2016,2017,28.3
+102,3467,1B,2B,Stolen Base 2B,572008,Chris Owings,461829,Gio González,502671,Paul Goldschmidt,L,Jose Lobaton,446653,0,1,1,True,2016-09-28,Stolen,2B,2016,2017,28.3
+103,3468,1B,2B,Stolen Base 2B,572008,Chris Owings,461829,Gio González,456078,Welington Castillo,L,Jose Lobaton,446653,0,1,3,True,2016-09-28,Stolen,2B,2016,2017,28.3
+104,3533,1B,2B,Stolen Base 2B,572008,Chris Owings,542960,Brad Brach,502671,Paul Goldschmidt,R,Caleb Joseph,543376,2,1,8,True,2016-09-25,Stolen,2B,2016,2017,28.3
+105,3767,2B,3B,Stolen Base 3B,572008,Chris Owings,407822,Jorge De La Rosa,502671,Paul Goldschmidt,L,Dustin Garneau,572863,1,3,1,False,2016-09-13,Stolen,3B,2016,2017,28.3
+106,3868,1B,,Caught Stealing 2B,572008,Chris Owings,592779,Brock Stewart,502671,Paul Goldschmidt,R,Carlos Ruiz,434563,2,1,5,True,2016-09-07,Caught,2B,2016,2017,28.3
+107,3945,1B,2B,Stolen Base 2B,572008,Chris Owings,608032,Carlos Estévez,502671,Paul Goldschmidt,R,Tom Murphy,608596,3,5,8,True,2016-09-04,Stolen,2B,2016,2017,28.3
+108,3965,1B,,Caught Stealing 2B,572008,Chris Owings,459429,Jake McGee,593647,Sócrates Brito,L,Tom Murphy,608596,4,9,7,True,2016-09-03,Caught,2B,2016,2017,28.3
+109,4074,1B,2B,Stolen Base 2B,572008,Chris Owings,595001,Josh A. Smith,594838,Phil Gosselin,R,Ramón Cabrera,541608,5,2,4,False,2016-08-28,Stolen,2B,2016,2017,28.3
+110,4106,1B,2B,Stolen Base 2B,572008,Chris Owings,547179,Michael Lorenzen,571875,Jake Lamb,R,Ramón Cabrera,541608,2,1,7,False,2016-08-26,Stolen,2B,2016,2017,28.3
+111,4139,1B,2B,Stolen Base 2B,572008,Chris Owings,572283,Madison Younginer,571745,Mitch Haniger,R,Tyler Flowers,452095,9,4,7,False,2016-08-24,Stolen,2B,2016,2017,28.3
+112,4290,2B,3B,Stolen Base 3B,572008,Chris Owings,112526,Bartolo Colon,592662,Robbie Ray,R,Travis d'Arnaud,518595,4,1,3,False,2016-08-15,Stolen,3B,2016,2017,28.3
+113,4409,1B,2B,Stolen Base 2B,572008,Chris Owings,112526,Bartolo Colon,593647,Sócrates Brito,R,Travis d'Arnaud,518595,0,1,4,True,2016-08-10,Stolen,2B,2016,2017,28.3
+114,4440,2B,3B,Stolen Base 3B,572008,Chris Owings,570663,Hansel Robles,516416,Jean Segura,R,Travis d'Arnaud,518595,3,2,7,True,2016-08-09,Stolen,3B,2016,2017,28.3
+115,4803,1B,2B,Stolen Base 2B,572008,Chris Owings,572102,Keyvius Sampson,630111,Yasmany Tomás,R,Tucker Barnhart,571466,0,1,1,True,2016-07-23,Stolen,2B,2016,2017,28.3
+116,5615,1B,2B,Stolen Base 2B,572008,Chris Owings,453562,Jake Arrieta,630111,Yasmany Tomás,R,Miguel Montero,471083,1,2,4,True,2016-06-05,Stolen,2B,2016,2017,28.3
+117,5765,2B,3B,Stolen Base 3B,572008,Chris Owings,407819,Matt Thornton,430001,Rickie Weeks Jr.,L,Derek Norris,519083,8,4,7,False,2016-05-28,Stolen,3B,2016,2017,28.3
+118,6027,1B,2B,Stolen Base 2B,572008,Chris Owings,408241,Jake Peavy,605113,Nick Ahmed,R,Buster Posey,457763,1,3,4,False,2016-05-14,Stolen,2B,2016,2017,28.3
+119,6327,1B,2B,Stolen Base 2B,572008,Chris Owings,608379,Michael Wacha,605113,Nick Ahmed,R,Yadier Molina,425877,3,0,7,False,2016-04-28,Stolen,2B,2016,2017,28.3
+120,6459,1B,2B,Stolen Base 2B,572008,Chris Owings,491703,Neftalí Feliz,594838,Phil Gosselin,R,Francisco Cervelli,465041,4,5,6,False,2016-04-22,Stolen,2B,2016,2017,28.3
+121,6490,1B,2B,Stolen Base 2B,572008,Chris Owings,518715,Cory Gearrin,543302,Chris Herrmann,R,Trevor Brown,623143,2,3,9,True,2016-04-21,Stolen,2B,2016,2017,28.3
+122,6491,2B,3B,Stolen Base 3B,572008,Chris Owings,518715,Cory Gearrin,430001,Rickie Weeks Jr.,R,Trevor Brown,623143,2,4,9,True,2016-04-21,Stolen,3B,2016,2017,28.3
+123,6721,1B,2B,Stolen Base 2B,572008,Chris Owings,543294,Kyle Hendricks,502671,Paul Goldschmidt,R,Miguel Montero,471083,0,4,4,False,2016-04-09,Stolen,2B,2016,2017,28.3
+124,79,1B,,Caught Stealing 2B,572008,Chris Owings,518553,Steve Cishek,605113,Nick Ahmed,R,J.T. Realmuto,592663,3,1,8,False,2015-07-20,Caught,2B,2015,2016,28.9
+125,133,1B,2B,Stolen Base 2B,572008,Chris Owings,430912,Matt Cain,605113,Nick Ahmed,R,Buster Posey,457763,1,1,2,False,2015-07-17,Stolen,2B,2015,2016,28.9
+126,179,1B,2B,Stolen Base 2B,572008,Chris Owings,518774,Matt Harvey,460060,Cliff Pennington,R,Kevin Plawecki,608700,0,2,2,True,2015-07-11,Stolen,2B,2015,2016,28.9
+127,252,1B,2B,Stolen Base 2B,572008,Chris Owings,451596,Yovani Gallardo,572041,AJ Pollock,R,Robinson Chirinos,455139,0,3,6,True,2015-07-07,Stolen,2B,2015,2016,28.9
+128,459,1B,2B,Stolen Base 2B,572008,Chris Owings,475115,Tyson Ross,572041,AJ Pollock,R,Derek Norris,519083,1,0,3,True,2015-06-26,Stolen,2B,2015,2016,28.9
+129,460,2B,3B,Stolen Base 3B,572008,Chris Owings,475115,Tyson Ross,444482,David Peralta,R,Derek Norris,519083,1,0,3,True,2015-06-26,Stolen,3B,2015,2016,28.9
+130,937,1B,2B,Stolen Base 2B,572008,Chris Owings,462382,Jim Johnson,460060,Cliff Pennington,R,Christian Bethancourt,542194,8,7,7,False,2015-06-03,Stolen,2B,2015,2016,28.9
+131,1032,1B,2B,Stolen Base 2B,572008,Chris Owings,519076,Jimmy Nelson,605113,Nick Ahmed,R,Juan Centeno,518542,4,4,6,True,2015-05-29,Stolen,2B,2015,2016,28.9
+132,1262,1B,2B,Stolen Base 2B,572008,Chris Owings,518553,Steve Cishek,488912,Tuffy Gosewisch,R,J.T. Realmuto,592663,2,2,13,True,2015-05-18,Stolen,2B,2015,2016,28.9
+133,1761,1B,2B,Stolen Base 2B,572008,Chris Owings,150359,A.J. Burnett,488912,Tuffy Gosewisch,R,Francisco Cervelli,465041,1,0,2,False,2015-04-25,Stolen,2B,2015,2016,28.9
+134,1763,1B,2B,Stolen Base 2B,572008,Chris Owings,150359,A.J. Burnett,488912,Tuffy Gosewisch,R,Francisco Cervelli,465041,1,1,4,False,2015-04-25,Stolen,2B,2015,2016,28.9
+135,1885,1B,2B,Stolen Base 2B,572008,Chris Owings,218596,Tim Hudson,605113,Nick Ahmed,R,Andrew Susac,572180,1,5,3,True,2015-04-19,Stolen,2B,2015,2016,28.9
+136,1925,1B,2B,Stolen Base 2B,572008,Chris Owings,408241,Jake Peavy,605113,Nick Ahmed,R,Buster Posey,457763,0,3,4,True,2015-04-17,Stolen,2B,2015,2016,28.9
+137,2191,1B,2B,Stolen Base 2B,572008,Chris Owings,429719,Edwin Jackson,502671,Paul Goldschmidt,R,Welington Castillo,456078,0,0,1,False,2015-04-03,Stolen,2B,2015,2016,28.9

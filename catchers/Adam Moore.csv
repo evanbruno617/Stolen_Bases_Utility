@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,,Caught Stealing 2B,457708,Justin Upton,592330,Perci Garner,430947,Erick Aybar,R,Adam Moore,446192,5,0,3,False,2016-09-27,Caught,2B,2016,2018, 84.2, 0.81
+1,1B,2B,Stolen Base 2B,453943,Todd Frazier,458708,Josh Tomlin,570560,Yolmer Sánchez,R,Adam Moore,446192,0,1,5,True,2016-09-25,Stolen,2B,2016,2018, 84.2, 0.81
+2,1B,2B,Stolen Base 2B,453943,Todd Frazier,502083,Zach McAllister,541645,Avisaíl García,R,Adam Moore,446192,0,2,9,True,2016-09-25,Stolen,2B,2016,2018, 84.2, 0.81
+3,1B,,Caught Stealing 2B,457708,Justin Upton,592330,Perci Garner,430947,Erick Aybar,R,Adam Moore,446192,5,0,3,False,2016-09-27,Caught,2B,2016,2018, 84.2, 0.81
+4,1B,2B,Stolen Base 2B,453943,Todd Frazier,458708,Josh Tomlin,570560,Yolmer Sánchez,R,Adam Moore,446192,0,1,5,True,2016-09-25,Stolen,2B,2016,2018, 84.2, 0.81
+5,1B,2B,Stolen Base 2B,453943,Todd Frazier,502083,Zach McAllister,541645,Avisaíl García,R,Adam Moore,446192,0,2,9,True,2016-09-25,Stolen,2B,2016,2018, 84.2, 0.81
+6,1B,,Caught Stealing 2B,457708,Justin Upton,592330,Perci Garner,430947,Erick Aybar,R,Adam Moore,446192,5,0,3,False,2016-09-27,Caught,2B,2016,2018, 84.2, 0.81
+7,1B,2B,Stolen Base 2B,453943,Todd Frazier,458708,Josh Tomlin,570560,Yolmer Sánchez,R,Adam Moore,446192,0,1,5,True,2016-09-25,Stolen,2B,2016,2018, 84.2, 0.81
+8,1B,2B,Stolen Base 2B,453943,Todd Frazier,502083,Zach McAllister,541645,Avisaíl García,R,Adam Moore,446192,0,2,9,True,2016-09-25,Stolen,2B,2016,2018, 84.2, 0.81

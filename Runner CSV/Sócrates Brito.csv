@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+29,2B,3B,Stolen Base 3B,593647,Sócrates Brito,René Rivera,0,2,4,True,2016-08-11,Stolen,3B,2016
+2260,1B,2B,Stolen Base 2B,593647,Sócrates Brito,A.J. Ellis,0,1,6,True,2016-04-14,Stolen,2B,2016
+2486,1B,2B,Stolen Base 2B,593647,Sócrates Brito,Salvador Perez,5,2,4,False,2016-04-01,Stolen,2B,2016

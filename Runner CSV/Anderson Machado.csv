@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+51,1B,2B,Stolen Base 2B,407785,Anderson Machado,Henry Blanco,3,5,7,False,2003-09-27,Stolen,2B,2003
+59,1B,2B,Stolen Base 2B,407785,Anderson Machado,Paul Bako,2,6,6,True,2004-09-28,Stolen,2B,2004
+156,1B,2B,Stolen Base 2B,407785,Anderson Machado,Johnny Estrada,1,2,7,True,2004-09-23,Stolen,2B,2004
+356,1B,2B,Stolen Base 2B,407785,Anderson Machado,Mike Lieberthal,5,5,6,False,2004-09-14,Stolen,2B,2004

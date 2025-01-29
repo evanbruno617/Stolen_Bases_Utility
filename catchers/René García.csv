@@ -1,0 +1,3 @@
+Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1B,2B,Stolen Base 2B,516782,Starling Marte,518603,Justin De Fratus,465041,Francisco Cervelli,R,René García,543200,4,4,7,True,2015-04-03,Stolen,2B
+1B,,Caught Stealing 2B,607054,Jace Peterson,430935,Cole Hamels,501994,Joe Benson,L,René García,543200,7,2,6,True,2015-04-01,Caught,2B

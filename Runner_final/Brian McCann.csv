@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2859,1B,2B,Stolen Base 2B,435263,Brian McCann,506433,Yu Darvish,608324,Alex Bregman,R,Robinson Chirinos,455139,0,0,2,True,2017-06-02,Stolen,2B,2017,2018,22.7
+1,2231,1B,2B,Stolen Base 2B,435263,Brian McCann,506433,Yu Darvish,608324,Alex Bregman,R,Robinson Chirinos,455139,0,0,2,True,2017-06-02,Stolen,2B,2017,2018,22.7
+2,4829,1B,2B,Stolen Base 2B,435263,Brian McCann,445060,Ricky Nolasco,592450,Aaron Judge,R,Jett Bandy,542908,0,5,6,True,2016-08-20,Stolen,2B,2016,2017,22.8
+3,794,1B,2B,Stolen Base 2B,435263,Brian McCann,445060,Ricky Nolasco,592450,Aaron Judge,R,Jett Bandy,542908,0,5,6,True,2016-08-20,Stolen,2B,2016,2017,22.8
+4,4201,1B,2B,Stolen Base 2B,435263,Brian McCann,445060,Ricky Nolasco,592450,Aaron Judge,R,Jett Bandy,542908,0,5,6,True,2016-08-20,Stolen,2B,2016,2017,22.8

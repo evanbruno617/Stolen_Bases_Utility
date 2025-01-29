@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+549,1B,,Caught Stealing 2B,110383,Rich Aurilia,Tom Prince,4,1,4,False,2000-09-06,Caught,2B,2000
+2819,1B,,Caught Stealing 2B,110383,Rich Aurilia,Jeff Reed,2,0,5,False,2000-05-27,Caught,2B,2000
+158,2B,,Caught Stealing 3B,110383,Rich Aurilia,Damian Miller,0,0,11,False,2001-05-29,Caught,3B,2001
+437,1B,,Caught Stealing 2B,110383,Rich Aurilia,Paul Bako,4,4,5,True,2001-05-18,Caught,2B,2001
+330,2B,,Caught Stealing 3B,110383,Rich Aurilia,Tom Lampkin,2,2,3,True,2002-09-13,Caught,3B,2002
+853,1B,,Caught Stealing 2B,110383,Rich Aurilia,Mike Redmond,1,0,3,True,2002-08-18,Caught,2B,2002
+1287,1B,2B,Stolen Base 2B,110383,Rich Aurilia,Paul Lo Duca,1,3,7,False,2002-07-27,Stolen,2B,2002
+635,1B,,Caught Stealing 2B,110383,Rich Aurilia,Gregg Zaun,0,3,4,True,2003-08-27,Caught,2B,2003
+1999,1B,,Caught Stealing 2B,110383,Rich Aurilia,Paul Lo Duca,2,1,6,True,2003-06-18,Caught,2B,2003
+2516,1B,2B,Stolen Base 2B,110383,Rich Aurilia,Bobby Estalella,0,4,7,True,2003-05-24,Stolen,2B,2003
+3534,2B,3B,Stolen Base 3B,110383,Rich Aurilia,Keith Osik,1,1,3,True,2003-04-04,Stolen,3B,2003
+2058,2B,3B,Stolen Base 3B,110383,Rich Aurilia,Chad Moeller,2,1,6,True,2004-06-16,Stolen,3B,2004
+170,1B,2B,Stolen Base 2B,110383,Rich Aurilia,Mike Lieberthal,10,6,8,False,2005-09-23,Stolen,2B,2005
+274,1B,2B,Caught Stealing 3B,110383,Rich Aurilia,Ryan Doumit,0,0,1,True,2005-09-17,Caught,3B,2005
+714,1B,2B,Stolen Base 2B,110383,Rich Aurilia,Humberto Cota,0,0,1,True,2005-08-26,Stolen,2B,2005
+2649,1B,2B,Caught Stealing Home,110383,Rich Aurilia,Yorvit Torrealba,1,3,6,True,2008-05-19,Caught,Home,2008
+3152,1B,2B,Stolen Base 2B,110383,Rich Aurilia,Paul Bako,3,4,4,False,2008-04-26,Stolen,2B,2008
+3527,1B,,Caught Stealing 2B,110383,Rich Aurilia,Yadier Molina,4,0,7,False,2008-04-10,Caught,2B,2008

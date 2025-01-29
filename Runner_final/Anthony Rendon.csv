@@ -1,0 +1,96 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1337,1B,2B,Stolen Base 2B,543685,Anthony Rendon,450306,Jason Vargas,452678,Asdrúbal Cabrera,L,Andrew Knapp,595284,1,0,1,False,2019-09-26,Stolen,2B,2019,2020,26.4
+1,1414,1B,2B,Stolen Base 2B,543685,Anthony Rendon,657141,Jordan Yamamoto,452678,Asdrúbal Cabrera,R,Jorge Alfaro,595751,0,0,1,True,2019-09-21,Stolen,2B,2019,2020,26.4
+2,1942,1B,2B,Stolen Base 2B,543685,Anthony Rendon,502042,Chris Archer,665742,Juan Soto,R,Jacob Stallings,607732,0,0,1,True,2019-08-20,Stolen,2B,2019,2020,26.4
+3,2149,3B,score,Stolen Base Home,543685,Anthony Rendon,572125,Sam Selman,571431,Matt Adams,L,Buster Posey,457763,0,4,9,True,2019-08-05,Stolen,Home,2019,2020,26.4
+4,2698,1B,,Caught Stealing 2B,543685,Anthony Rendon,622505,Victor Alcántara,665742,Juan Soto,R,John Hicks,543308,3,5,7,True,2019-06-29,Caught,2B,2019,2020,26.4
+5,3546,1B,2B,Stolen Base 2B,543685,Anthony Rendon,448179,Rich Hill,435062,Howie Kendrick,L,Russell Martin,431145,0,3,1,True,2019-05-09,Stolen,2B,2019,2020,26.4
+6,4180,1B,2B,Stolen Base 2B,543685,Anthony Rendon,450306,Jason Vargas,452678,Asdrúbal Cabrera,L,Andrew Knapp,595284,1,0,1,False,2019-09-26,Stolen,2B,2019,2020,26.4
+7,4257,1B,2B,Stolen Base 2B,543685,Anthony Rendon,657141,Jordan Yamamoto,452678,Asdrúbal Cabrera,R,Jorge Alfaro,595751,0,0,1,True,2019-09-21,Stolen,2B,2019,2020,26.4
+8,4785,1B,2B,Stolen Base 2B,543685,Anthony Rendon,502042,Chris Archer,665742,Juan Soto,R,Jacob Stallings,607732,0,0,1,True,2019-08-20,Stolen,2B,2019,2020,26.4
+9,4992,3B,score,Stolen Base Home,543685,Anthony Rendon,572125,Sam Selman,571431,Matt Adams,L,Buster Posey,457763,0,4,9,True,2019-08-05,Stolen,Home,2019,2020,26.4
+10,5541,1B,,Caught Stealing 2B,543685,Anthony Rendon,622505,Victor Alcántara,665742,Juan Soto,R,John Hicks,543308,3,5,7,True,2019-06-29,Caught,2B,2019,2020,26.4
+11,6389,1B,2B,Stolen Base 2B,543685,Anthony Rendon,448179,Rich Hill,435062,Howie Kendrick,L,Russell Martin,431145,0,3,1,True,2019-05-09,Stolen,2B,2019,2020,26.4
+12,6104,1B,2B,Stolen Base 2B,543685,Anthony Rendon,450306,Jason Vargas,452678,Asdrúbal Cabrera,L,Andrew Knapp,595284,1,0,1,False,2019-09-26,Stolen,2B,2019,2020,26.4
+13,6181,1B,2B,Stolen Base 2B,543685,Anthony Rendon,657141,Jordan Yamamoto,452678,Asdrúbal Cabrera,R,Jorge Alfaro,595751,0,0,1,True,2019-09-21,Stolen,2B,2019,2020,26.4
+14,6709,1B,2B,Stolen Base 2B,543685,Anthony Rendon,502042,Chris Archer,665742,Juan Soto,R,Jacob Stallings,607732,0,0,1,True,2019-08-20,Stolen,2B,2019,2020,26.4
+15,6916,3B,score,Stolen Base Home,543685,Anthony Rendon,572125,Sam Selman,571431,Matt Adams,L,Buster Posey,457763,0,4,9,True,2019-08-05,Stolen,Home,2019,2020,26.4
+16,7465,1B,,Caught Stealing 2B,543685,Anthony Rendon,622505,Victor Alcántara,665742,Juan Soto,R,John Hicks,543308,3,5,7,True,2019-06-29,Caught,2B,2019,2020,26.4
+17,8313,1B,2B,Stolen Base 2B,543685,Anthony Rendon,448179,Rich Hill,435062,Howie Kendrick,L,Russell Martin,431145,0,3,1,True,2019-05-09,Stolen,2B,2019,2020,26.4
+18,3560,1B,2B,Stolen Base 2B,543685,Anthony Rendon,657265,Peter Strzelecki,592273,Brandon Drury,R,Victor Caratini,605170,7,3,8,True,2023-04-29,Stolen,2B,2023,2024,26.8
+19,3683,1B,2B,Stolen Base 2B,543685,Anthony Rendon,663992,Richard Lovelady,592273,Brandon Drury,L,Shea Langeliers,669127,4,2,5,False,2023-04-25,Stolen,2B,2023,2024,26.8
+20,7974,1B,2B,Stolen Base 2B,543685,Anthony Rendon,657265,Peter Strzelecki,592273,Brandon Drury,R,Victor Caratini,605170,7,3,8,True,2023-04-29,Stolen,2B,2023,2024,26.8
+21,8097,1B,2B,Stolen Base 2B,543685,Anthony Rendon,663992,Richard Lovelady,592273,Brandon Drury,L,Shea Langeliers,669127,4,2,5,False,2023-04-25,Stolen,2B,2023,2024,26.8
+22,1682,1B,2B,Stolen Base 2B,543685,Anthony Rendon,519043,Matt Moore,621493,Taylor Ward,L,Jonah Heim,641680,2,3,7,True,2022-04-16,Stolen,2B,2022,2023,26.5
+23,1709,1B,2B,Stolen Base 2B,543685,Anthony Rendon,518813,Greg Holland,666176,Jo Adell,R,Mitch Garver,641598,6,7,5,True,2022-04-15,Stolen,2B,2022,2023,26.5
+24,1904,2B,3B,Stolen Base 3B,543685,Anthony Rendon,676617,Riley O'Brien,665120,Jared Walsh,R,Aramis Garcia,605244,2,0,1,False,2022-04-01,Stolen,3B,2022,2023,26.5
+25,1273,1B,2B,Stolen Base 2B,543685,Anthony Rendon,607625,Seth Lugo,572191,Michael A. Taylor,R,Kevin Plawecki,608700,2,0,4,False,2017-08-27,Stolen,2B,2017,2018,27.3
+26,1376,1B,2B,Stolen Base 2B,543685,Anthony Rendon,502381,Luke Gregerson,446308,Matt Wieters,R,Max Stassi,545358,3,4,9,True,2017-08-22,Stolen,2B,2017,2018,27.3
+27,2125,1B,2B,Stolen Base 2B,543685,Anthony Rendon,542432,José Ramirez,446308,Matt Wieters,R,Tyler Flowers,452095,7,5,7,False,2017-07-09,Stolen,2B,2017,2018,27.3
+28,2183,1B,2B,Stolen Base 2B,543685,Anthony Rendon,607625,Seth Lugo,572191,Michael A. Taylor,R,Kevin Plawecki,608700,2,0,4,False,2017-07-05,Stolen,2B,2017,2018,27.3
+29,2366,1B,2B,Stolen Base 2B,543685,Anthony Rendon,453562,Jake Arrieta,446308,Matt Wieters,R,Miguel Montero,471083,2,1,4,False,2017-06-27,Stolen,2B,2017,2018,27.3
+30,2968,1B,2B,Stolen Base 2B,543685,Anthony Rendon,489334,Craig Stammen,572191,Michael A. Taylor,R,Austin Hedges,595978,3,0,8,False,2017-05-27,Stolen,2B,2017,2018,27.3
+31,3086,1B,,Caught Stealing 2B,543685,Anthony Rendon,112526,Bartolo Colon,446308,Matt Wieters,R,Tyler Flowers,452095,0,0,2,True,2017-05-20,Caught,2B,2017,2018,27.3
+32,3205,1B,2B,Stolen Base 2B,543685,Anthony Rendon,472610,Luis García,572191,Michael A. Taylor,R,Andrew Knapp,595284,3,3,6,False,2017-05-14,Stolen,2B,2017,2018,27.3
+33,3244,1B,2B,Stolen Base 2B,543685,Anthony Rendon,472610,Luis García,572191,Michael A. Taylor,R,Andrew Knapp,595284,3,3,6,False,2017-05-12,Stolen,2B,2017,2018,27.3
+34,3323,1B,2B,Stolen Base 2B,543685,Anthony Rendon,434622,Ubaldo Jiménez,446308,Matt Wieters,R,Caleb Joseph,543376,0,1,5,True,2017-05-09,Stolen,2B,2017,2018,27.3
+35,645,1B,2B,Stolen Base 2B,543685,Anthony Rendon,607625,Seth Lugo,572191,Michael A. Taylor,R,Kevin Plawecki,608700,2,0,4,False,2017-08-27,Stolen,2B,2017,2018,27.3
+36,748,1B,2B,Stolen Base 2B,543685,Anthony Rendon,502381,Luke Gregerson,446308,Matt Wieters,R,Max Stassi,545358,3,4,9,True,2017-08-22,Stolen,2B,2017,2018,27.3
+37,1497,1B,2B,Stolen Base 2B,543685,Anthony Rendon,542432,José Ramirez,446308,Matt Wieters,R,Tyler Flowers,452095,7,5,7,False,2017-07-09,Stolen,2B,2017,2018,27.3
+38,1555,1B,2B,Stolen Base 2B,543685,Anthony Rendon,607625,Seth Lugo,572191,Michael A. Taylor,R,Kevin Plawecki,608700,2,0,4,False,2017-07-05,Stolen,2B,2017,2018,27.3
+39,1738,1B,2B,Stolen Base 2B,543685,Anthony Rendon,453562,Jake Arrieta,446308,Matt Wieters,R,Miguel Montero,471083,2,1,4,False,2017-06-27,Stolen,2B,2017,2018,27.3
+40,2340,1B,2B,Stolen Base 2B,543685,Anthony Rendon,489334,Craig Stammen,572191,Michael A. Taylor,R,Austin Hedges,595978,3,0,8,False,2017-05-27,Stolen,2B,2017,2018,27.3
+41,2458,1B,,Caught Stealing 2B,543685,Anthony Rendon,112526,Bartolo Colon,446308,Matt Wieters,R,Tyler Flowers,452095,0,0,2,True,2017-05-20,Caught,2B,2017,2018,27.3
+42,2577,1B,2B,Stolen Base 2B,543685,Anthony Rendon,472610,Luis García,572191,Michael A. Taylor,R,Andrew Knapp,595284,3,3,6,False,2017-05-14,Stolen,2B,2017,2018,27.3
+43,2616,1B,2B,Stolen Base 2B,543685,Anthony Rendon,472610,Luis García,572191,Michael A. Taylor,R,Andrew Knapp,595284,3,3,6,False,2017-05-12,Stolen,2B,2017,2018,27.3
+44,2695,1B,2B,Stolen Base 2B,543685,Anthony Rendon,434622,Ubaldo Jiménez,446308,Matt Wieters,R,Caleb Joseph,543376,0,1,5,True,2017-05-09,Stolen,2B,2017,2018,27.3
+45,5289,1B,2B,Stolen Base 2B,543685,Anthony Rendon,502188,Jeff Samardzija,594694,Wilmer Difo,R,Trevor Brown,623143,1,4,6,True,2016-07-29,Stolen,2B,2016,2017,27.5
+46,5308,1B,2B,Stolen Base 2B,543685,Anthony Rendon,502004,George Kontos,475582,Ryan Zimmerman,R,Buster Posey,457763,1,4,9,True,2016-07-28,Stolen,2B,2016,2017,27.5
+47,5407,1B,2B,Stolen Base 2B,543685,Anthony Rendon,488748,Ryan Buchter,572191,Michael A. Taylor,L,Derek Norris,519083,6,6,8,False,2016-07-24,Stolen,2B,2016,2017,27.5
+48,5434,1B,,Caught Stealing 2B,543685,Anthony Rendon,429719,Edwin Jackson,457787,Danny Espinosa,R,Christian Bethancourt,542194,1,2,4,False,2016-07-23,Caught,2B,2016,2017,27.5
+49,5751,1B,2B,Stolen Base 2B,543685,Anthony Rendon,502028,Blake Wood,519184,Ben Revere,R,Tucker Barnhart,571466,3,4,8,False,2016-07-02,Stolen,2B,2016,2017,27.5
+50,5853,1B,2B,Stolen Base 2B,543685,Anthony Rendon,592789,Noah Syndergaard,457787,Danny Espinosa,R,Travis d'Arnaud,518595,5,4,3,False,2016-06-27,Stolen,2B,2016,2017,27.5
+51,5869,1B,,Caught Stealing 2B,543685,Anthony Rendon,606930,Jacob Barnes,519208,Clint Robinson,R,Jonathan Lucroy,518960,0,0,6,True,2016-06-26,Caught,2B,2016,2017,27.5
+52,5924,1B,,Caught Stealing 2B,543685,Anthony Rendon,502272,Casey Fien,457787,Danny Espinosa,R,A.J. Ellis,454560,2,2,7,True,2016-06-22,Caught,2B,2016,2017,27.5
+53,6111,1B,2B,Stolen Base 2B,543685,Anthony Rendon,543294,Kyle Hendricks,457787,Danny Espinosa,R,David Ross,424325,0,0,2,False,2016-06-13,Stolen,2B,2016,2017,27.5
+54,6429,1B,2B,Stolen Base 2B,543685,Anthony Rendon,448802,Jaime García,467092,Wilson Ramos,L,Yadier Molina,425877,0,0,2,False,2016-05-27,Stolen,2B,2016,2017,27.5
+55,6581,1B,,Caught Stealing 2B,543685,Anthony Rendon,570663,Hansel Robles,457787,Danny Espinosa,R,Kevin Plawecki,608700,1,3,5,True,2016-05-18,Caught,2B,2016,2017,27.5
+56,6583,1B,2B,Stolen Base 2B,543685,Anthony Rendon,449104,Jim Henderson,519208,Clint Robinson,R,Kevin Plawecki,608700,1,5,9,True,2016-05-18,Stolen,2B,2016,2017,27.5
+57,6719,1B,2B,Stolen Base 2B,543685,Anthony Rendon,519455,Jordan Zimmermann,547180,Bryce Harper,R,James McCann,543510,1,1,6,False,2016-05-11,Stolen,2B,2016,2017,27.5
+58,6771,1B,2B,Stolen Base 2B,543685,Anthony Rendon,434671,Aníbal Sánchez,547180,Bryce Harper,R,James McCann,543510,0,2,4,False,2016-05-09,Stolen,2B,2016,2017,27.5
+59,6807,1B,2B,Stolen Base 2B,543685,Anthony Rendon,607359,Spencer Patton,452220,Stephen Drew,R,David Ross,424325,2,4,6,True,2016-05-07,Stolen,2B,2016,2017,27.5
+60,6947,1B,2B,Stolen Base 2B,543685,Anthony Rendon,502190,Mike Leake,475582,Ryan Zimmerman,R,Eric Fryer,518700,2,1,4,True,2016-04-29,Stolen,2B,2016,2017,27.5
+61,1254,1B,2B,Stolen Base 2B,543685,Anthony Rendon,502188,Jeff Samardzija,594694,Wilmer Difo,R,Trevor Brown,623143,1,4,6,True,2016-07-29,Stolen,2B,2016,2017,27.5
+62,1273,1B,2B,Stolen Base 2B,543685,Anthony Rendon,502004,George Kontos,475582,Ryan Zimmerman,R,Buster Posey,457763,1,4,9,True,2016-07-28,Stolen,2B,2016,2017,27.5
+63,1372,1B,2B,Stolen Base 2B,543685,Anthony Rendon,488748,Ryan Buchter,572191,Michael A. Taylor,L,Derek Norris,519083,6,6,8,False,2016-07-24,Stolen,2B,2016,2017,27.5
+64,1399,1B,,Caught Stealing 2B,543685,Anthony Rendon,429719,Edwin Jackson,457787,Danny Espinosa,R,Christian Bethancourt,542194,1,2,4,False,2016-07-23,Caught,2B,2016,2017,27.5
+65,1716,1B,2B,Stolen Base 2B,543685,Anthony Rendon,502028,Blake Wood,519184,Ben Revere,R,Tucker Barnhart,571466,3,4,8,False,2016-07-02,Stolen,2B,2016,2017,27.5
+66,1818,1B,2B,Stolen Base 2B,543685,Anthony Rendon,592789,Noah Syndergaard,457787,Danny Espinosa,R,Travis d'Arnaud,518595,5,4,3,False,2016-06-27,Stolen,2B,2016,2017,27.5
+67,1834,1B,,Caught Stealing 2B,543685,Anthony Rendon,606930,Jacob Barnes,519208,Clint Robinson,R,Jonathan Lucroy,518960,0,0,6,True,2016-06-26,Caught,2B,2016,2017,27.5
+68,1889,1B,,Caught Stealing 2B,543685,Anthony Rendon,502272,Casey Fien,457787,Danny Espinosa,R,A.J. Ellis,454560,2,2,7,True,2016-06-22,Caught,2B,2016,2017,27.5
+69,2076,1B,2B,Stolen Base 2B,543685,Anthony Rendon,543294,Kyle Hendricks,457787,Danny Espinosa,R,David Ross,424325,0,0,2,False,2016-06-13,Stolen,2B,2016,2017,27.5
+70,2394,1B,2B,Stolen Base 2B,543685,Anthony Rendon,448802,Jaime García,467092,Wilson Ramos,L,Yadier Molina,425877,0,0,2,False,2016-05-27,Stolen,2B,2016,2017,27.5
+71,2546,1B,,Caught Stealing 2B,543685,Anthony Rendon,570663,Hansel Robles,457787,Danny Espinosa,R,Kevin Plawecki,608700,1,3,5,True,2016-05-18,Caught,2B,2016,2017,27.5
+72,2548,1B,2B,Stolen Base 2B,543685,Anthony Rendon,449104,Jim Henderson,519208,Clint Robinson,R,Kevin Plawecki,608700,1,5,9,True,2016-05-18,Stolen,2B,2016,2017,27.5
+73,2684,1B,2B,Stolen Base 2B,543685,Anthony Rendon,519455,Jordan Zimmermann,547180,Bryce Harper,R,James McCann,543510,1,1,6,False,2016-05-11,Stolen,2B,2016,2017,27.5
+74,2736,1B,2B,Stolen Base 2B,543685,Anthony Rendon,434671,Aníbal Sánchez,547180,Bryce Harper,R,James McCann,543510,0,2,4,False,2016-05-09,Stolen,2B,2016,2017,27.5
+75,2772,1B,2B,Stolen Base 2B,543685,Anthony Rendon,607359,Spencer Patton,452220,Stephen Drew,R,David Ross,424325,2,4,6,True,2016-05-07,Stolen,2B,2016,2017,27.5
+76,2912,1B,2B,Stolen Base 2B,543685,Anthony Rendon,502190,Mike Leake,475582,Ryan Zimmerman,R,Eric Fryer,518700,2,1,4,True,2016-04-29,Stolen,2B,2016,2017,27.5
+77,4661,1B,2B,Stolen Base 2B,543685,Anthony Rendon,502188,Jeff Samardzija,594694,Wilmer Difo,R,Trevor Brown,623143,1,4,6,True,2016-07-29,Stolen,2B,2016,2017,27.5
+78,4680,1B,2B,Stolen Base 2B,543685,Anthony Rendon,502004,George Kontos,475582,Ryan Zimmerman,R,Buster Posey,457763,1,4,9,True,2016-07-28,Stolen,2B,2016,2017,27.5
+79,4779,1B,2B,Stolen Base 2B,543685,Anthony Rendon,488748,Ryan Buchter,572191,Michael A. Taylor,L,Derek Norris,519083,6,6,8,False,2016-07-24,Stolen,2B,2016,2017,27.5
+80,4806,1B,,Caught Stealing 2B,543685,Anthony Rendon,429719,Edwin Jackson,457787,Danny Espinosa,R,Christian Bethancourt,542194,1,2,4,False,2016-07-23,Caught,2B,2016,2017,27.5
+81,5123,1B,2B,Stolen Base 2B,543685,Anthony Rendon,502028,Blake Wood,519184,Ben Revere,R,Tucker Barnhart,571466,3,4,8,False,2016-07-02,Stolen,2B,2016,2017,27.5
+82,5225,1B,2B,Stolen Base 2B,543685,Anthony Rendon,592789,Noah Syndergaard,457787,Danny Espinosa,R,Travis d'Arnaud,518595,5,4,3,False,2016-06-27,Stolen,2B,2016,2017,27.5
+83,5241,1B,,Caught Stealing 2B,543685,Anthony Rendon,606930,Jacob Barnes,519208,Clint Robinson,R,Jonathan Lucroy,518960,0,0,6,True,2016-06-26,Caught,2B,2016,2017,27.5
+84,5296,1B,,Caught Stealing 2B,543685,Anthony Rendon,502272,Casey Fien,457787,Danny Espinosa,R,A.J. Ellis,454560,2,2,7,True,2016-06-22,Caught,2B,2016,2017,27.5
+85,5483,1B,2B,Stolen Base 2B,543685,Anthony Rendon,543294,Kyle Hendricks,457787,Danny Espinosa,R,David Ross,424325,0,0,2,False,2016-06-13,Stolen,2B,2016,2017,27.5
+86,5801,1B,2B,Stolen Base 2B,543685,Anthony Rendon,448802,Jaime García,467092,Wilson Ramos,L,Yadier Molina,425877,0,0,2,False,2016-05-27,Stolen,2B,2016,2017,27.5
+87,5953,1B,,Caught Stealing 2B,543685,Anthony Rendon,570663,Hansel Robles,457787,Danny Espinosa,R,Kevin Plawecki,608700,1,3,5,True,2016-05-18,Caught,2B,2016,2017,27.5
+88,5955,1B,2B,Stolen Base 2B,543685,Anthony Rendon,449104,Jim Henderson,519208,Clint Robinson,R,Kevin Plawecki,608700,1,5,9,True,2016-05-18,Stolen,2B,2016,2017,27.5
+89,6091,1B,2B,Stolen Base 2B,543685,Anthony Rendon,519455,Jordan Zimmermann,547180,Bryce Harper,R,James McCann,543510,1,1,6,False,2016-05-11,Stolen,2B,2016,2017,27.5
+90,6143,1B,2B,Stolen Base 2B,543685,Anthony Rendon,434671,Aníbal Sánchez,547180,Bryce Harper,R,James McCann,543510,0,2,4,False,2016-05-09,Stolen,2B,2016,2017,27.5
+91,6179,1B,2B,Stolen Base 2B,543685,Anthony Rendon,607359,Spencer Patton,452220,Stephen Drew,R,David Ross,424325,2,4,6,True,2016-05-07,Stolen,2B,2016,2017,27.5
+92,6319,1B,2B,Stolen Base 2B,543685,Anthony Rendon,502190,Mike Leake,475582,Ryan Zimmerman,R,Eric Fryer,518700,2,1,4,True,2016-04-29,Stolen,2B,2016,2017,27.5
+93,773,1B,,Caught Stealing 2B,543685,Anthony Rendon,518468,Michael Blazek,488862,Yunel Escobar,R,Jonathan Lucroy,518960,4,5,7,True,2015-06-11,Caught,2B,2015,2016,28.1
+94,913,1B,,Caught Stealing 2B,543685,Anthony Rendon,453562,Jake Arrieta,488862,Yunel Escobar,R,David Ross,424325,0,2,1,False,2015-06-04,Caught,2B,2015,2016,28.1

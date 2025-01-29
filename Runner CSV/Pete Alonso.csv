@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1302,1B,2B,Stolen Base 2B,624413,Pete Alonso,James McCann,4,3,8,True,2019-07-09,Stolen,2B,2019
+1473,1B,2B,Stolen Base 2B,624413,Pete Alonso,J.T. Realmuto,0,2,5,True,2019-06-26,Stolen,2B,2019
+48,1B,2B,Stolen Base 2B,624413,Pete Alonso,Kurt Suzuki,0,0,2,True,2020-09-26,Stolen,2B,2020
+53,1B,2B,Stolen Base 2B,624413,Pete Alonso,Kurt Suzuki,0,0,2,True,2020-09-25,Stolen,2B,2020
+775,1B,2B,Stolen Base 2B,624413,Pete Alonso,Riley Adams,0,0,3,False,2021-08-12,Stolen,2B,2021
+778,1B,2B,Stolen Base 2B,624413,Pete Alonso,Riley Adams,0,0,3,False,2021-08-11,Stolen,2B,2021
+898,1B,2B,Stolen Base 2B,624413,Pete Alonso,Alex Jackson,0,3,3,True,2021-08-04,Stolen,2B,2021
+1514,1B,2B,Stolen Base 2B,624413,Pete Alonso,J.T. Realmuto,0,1,6,False,2021-06-25,Stolen,2B,2021
+202,1B,2B,Stolen Base 2B,624413,Pete Alonso,Victor Caratini,2,5,8,True,2022-09-19,Stolen,2B,2022
+224,1B,2B,Stolen Base 2B,624413,Pete Alonso,Jason Delay,3,0,2,False,2022-09-18,Stolen,2B,2022
+802,1B,2B,Stolen Base 2B,624413,Pete Alonso,William Contreras,5,9,9,True,2022-08-17,Stolen,2B,2022
+1917,1B,,Caught Stealing 2B,624413,Pete Alonso,Omar Narváez,3,0,3,False,2022-06-14,Caught,2B,2022
+2001,1B,2B,Stolen Base 2B,624413,Pete Alonso,Max Stassi,2,4,5,True,2022-06-10,Stolen,2B,2022
+2413,1B,2B,Stolen Base 2B,624413,Pete Alonso,Yadier Molina,2,0,1,False,2022-05-19,Stolen,2B,2022
+1124,1B,,Caught Stealing 2B,624413,Pete Alonso,Endy Rodríguez,4,2,5,False,2023-08-16,Caught,2B,2023
+1259,1B,2B,Stolen Base 2B,624413,Pete Alonso,Miguel Amaya,0,2,2,False,2023-08-09,Stolen,2B,2023
+2178,1B,2B,Stolen Base 2B,624413,Pete Alonso,William Contreras,4,0,6,False,2023-06-27,Stolen,2B,2023
+2743,1B,2B,Stolen Base 2B,624413,Pete Alonso,Alejandro Kirk,1,1,8,False,2023-06-03,Stolen,2B,2023
+2959,1B,2B,Stolen Base 2B,624413,Pete Alonso,Yan Gomes,1,5,5,True,2023-05-25,Stolen,2B,2023

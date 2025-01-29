@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2115,1B,,Caught Stealing 2B,672779,Tucupita Marcano,606149,Giovanny Gallegos,673490,Ha-Seong Kim,R,Yadier Molina,425877,5,3,7,False,2021-05-16,Caught,2B,2021,2022,28.8
+1,4039,1B,,Caught Stealing 2B,672779,Tucupita Marcano,606149,Giovanny Gallegos,673490,Ha-Seong Kim,R,Yadier Molina,425877,5,3,7,False,2021-05-16,Caught,2B,2021,2022,28.8
+2,839,1B,2B,Stolen Base 2B,672779,Tucupita Marcano,675627,Michael Grove,623168,Tyler Heineman,R,Austin Barnes,605131,2,5,9,True,2022-06-01,Stolen,2B,2022,2023,27.6

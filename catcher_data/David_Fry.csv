@@ -1,0 +1,34 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,543305,Aaron Hicks,David Fry,1,5,7,True,2023-09-24,Stolen,2B,2023
+1B,2B,Stolen Base 2B,656811,Ryan O'Hearn,David Fry,0,1,1,True,2023-09-23,Stolen,2B,2023
+1B,2B,Stolen Base 2B,683002,Gunnar Henderson,David Fry,0,1,4,True,2023-09-23,Stolen,2B,2023
+1B,2B,Stolen Base 2B,543305,Aaron Hicks,David Fry,6,5,6,True,2023-09-22,Stolen,2B,2023
+1B,2B,Stolen Base 2B,658668,Edward Olivares,David Fry,3,0,3,False,2023-09-20,Stolen,2B,2023
+1B,,Caught Stealing 2B,677951,Bobby Witt Jr.,David Fry,4,2,4,False,2023-09-20,Caught,2B,2023
+1B,2B,Stolen Base 2B,671221,Drew Waters,David Fry,4,2,6,False,2023-09-20,Stolen,2B,2023
+2B,3B,Stolen Base 3B,671221,Drew Waters,David Fry,4,2,6,False,2023-09-20,Stolen,3B,2023
+1B,2B,Stolen Base 2B,677347,Kyren Paris,David Fry,0,0,3,False,2023-09-07,Stolen,2B,2023
+1B,2B,Stolen Base 2B,677347,Kyren Paris,David Fry,0,0,5,False,2023-09-07,Stolen,2B,2023
+1B,2B,Stolen Base 2B,663550,Trey Cabbage,David Fry,0,2,7,False,2023-09-07,Stolen,2B,2023
+1B,2B,Stolen Base 2B,680118,Dairon Blanco,David Fry,3,5,9,True,2023-07-24,Stolen,2B,2023
+1B,,Caught Stealing 2B,672580,Maikel Garcia,David Fry,1,4,7,True,2023-07-09,Caught,2B,2023
+1B,,Caught Stealing 2B,680118,Dairon Blanco,David Fry,1,4,8,True,2023-07-09,Caught,2B,2023
+1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,David Fry,2,2,5,True,2023-07-04,Stolen,2B,2023
+1B,2B,Stolen Base 2B,665923,Esteury Ruiz,David Fry,0,2,7,True,2023-06-20,Stolen,2B,2023
+1B,2B,Stolen Base 2B,664983,Jake McCarthy,David Fry,1,0,2,False,2023-06-16,Stolen,2B,2023
+2B,,Caught Stealing 3B,665742,Juan Soto,David Fry,6,7,6,False,2023-06-15,Caught,3B,2023
+1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,David Fry,6,8,8,False,2023-06-15,Stolen,2B,2023
+1B,2B,Stolen Base 2B,663757,Trent Grisham,David Fry,5,1,4,False,2023-06-13,Stolen,2B,2023
+1B,,Caught Stealing 2B,665161,Jeremy Peña,David Fry,4,5,6,True,2023-06-09,Caught,2B,2023
+1B,2B,Stolen Base 2B,514888,Jose Altuve,David Fry,4,5,7,True,2023-06-09,Stolen,2B,2023
+1B,2B,Stolen Base 2B,663656,Kyle Tucker,David Fry,8,9,14,True,2023-06-09,Stolen,2B,2023
+2B,3B,Stolen Base 3B,663656,Kyle Tucker,David Fry,8,9,14,True,2023-06-09,Stolen,3B,2023
+1B,2B,Stolen Base 2B,650489,Willi Castro,David Fry,0,0,4,False,2023-06-02,Stolen,2B,2023
+2B,3B,Stolen Base 3B,680977,Brendan Donovan,David Fry,1,1,10,True,2023-05-27,Stolen,3B,2023
+1B,2B,Stolen Base 2B,640449,Clint Frazier,David Fry,0,0,3,True,2023-05-24,Stolen,2B,2023
+1B,2B,Stolen Base 2B,641313,Tim Anderson,David Fry,1,1,3,False,2023-05-17,Stolen,2B,2023
+1B,2B,Stolen Base 2B,660162,Yoán Moncada,David Fry,5,1,5,False,2023-05-17,Stolen,2B,2023
+1B,2B,Stolen Base 2B,656514,Adam Haseley,David Fry,5,1,6,False,2023-05-17,Stolen,2B,2023
+1B,2B,Stolen Base 2B,666160,Mickey Moniak,David Fry,0,1,3,True,2023-05-13,Stolen,2B,2023
+1B,2B,Stolen Base 2B,666160,Mickey Moniak,David Fry,2,4,7,True,2023-05-13,Stolen,2B,2023
+1B,2B,Stolen Base 2B,621433,Brett Phillips,David Fry,8,6,9,True,2023-05-13,Stolen,2B,2023

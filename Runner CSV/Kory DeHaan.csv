@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+180,1B,2B,Stolen Base 2B,276527,Kory DeHaan,Chad Kreuter,1,2,4,True,2000-09-22,Stolen,2B,2000
+1543,1B,2B,Stolen Base 2B,276527,Kory DeHaan,Bobby Estalella,1,3,9,False,2000-07-26,Stolen,2B,2000
+1615,1B,2B,Stolen Base 2B,276527,Kory DeHaan,Brent Mayne,8,4,6,True,2000-07-22,Stolen,2B,2000
+2241,1B,2B,Stolen Base 2B,276527,Kory DeHaan,Kelly Stinnett,1,3,8,True,2000-06-20,Stolen,2B,2000
+2965,1B,,Caught Stealing 2B,276527,Kory DeHaan,Javy Lopez,6,11,8,True,2000-05-19,Caught,2B,2000

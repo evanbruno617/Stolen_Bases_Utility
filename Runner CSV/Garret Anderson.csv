@@ -1,0 +1,57 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+184,1B,,Caught Stealing 2B,110236,Garret Anderson,Randy Knorr,1,1,6,True,2000-09-22,Caught,2B,2000
+565,1B,,Caught Stealing 2B,110236,Garret Anderson,Brad Ausmus,0,1,8,True,2000-09-06,Caught,2B,2000
+791,1B,2B,Stolen Base 2B,110236,Garret Anderson,Darrin Fletcher,0,1,2,False,2000-08-28,Stolen,2B,2000
+923,1B,2B,Stolen Base 2B,110236,Garret Anderson,Jason Varitek,3,1,8,True,2000-08-23,Stolen,2B,2000
+1568,1B,2B,Stolen Base 2B,110236,Garret Anderson,Bill Haselman,0,1,1,True,2000-07-25,Stolen,2B,2000
+1790,1B,,Caught Stealing 2B,110236,Garret Anderson,Paul Lo Duca,1,1,4,True,2000-07-14,Caught,2B,2000
+2753,1B,2B,Stolen Base 2B,110236,Garret Anderson,Sandy Alomar Jr.,4,0,4,True,2000-05-30,Stolen,2B,2000
+3141,2B,3B,Stolen Base 3B,110236,Garret Anderson,Ivan Rodriguez,2,0,1,False,2000-05-12,Stolen,3B,2000
+3284,1B,,Caught Stealing 2B,110236,Garret Anderson,Dan Wilson,0,0,2,True,2000-05-06,Caught,2B,2000
+3441,1B,2B,Stolen Base 2B,110236,Garret Anderson,Mike DiFelice,2,1,4,False,2000-04-29,Stolen,2B,2000
+3715,1B,2B,Stolen Base 2B,110236,Garret Anderson,Darrin Fletcher,0,1,3,True,2000-04-18,Stolen,2B,2000
+3837,1B,,Caught Stealing 2B,110236,Garret Anderson,Darrin Fletcher,1,0,1,False,2000-04-12,Caught,2B,2000
+3921,1B,,Caught Stealing 2B,110236,Garret Anderson,Jason Varitek,2,0,1,False,2000-04-08,Caught,2B,2000
+280,1B,2B,Stolen Base 2B,110236,Garret Anderson,John Flaherty,0,1,2,True,2001-05-25,Stolen,2B,2001
+303,2B,3B,Stolen Base 3B,110236,Garret Anderson,Brook Fordyce,0,1,2,True,2001-05-24,Stolen,3B,2001
+373,1B,2B,Stolen Base 2B,110236,Garret Anderson,Einar Díaz,6,2,5,False,2001-05-20,Stolen,2B,2001
+615,1B,,Caught Stealing 2B,110236,Garret Anderson,Brandon Inge,1,0,5,True,2001-05-12,Caught,2B,2001
+925,1B,2B,Stolen Base 2B,110236,Garret Anderson,Darrin Fletcher,0,0,1,True,2001-04-29,Stolen,2B,2001
+1385,2B,3B,Stolen Base 3B,110236,Garret Anderson,Ramon Hernandez,1,4,6,True,2001-04-08,Stolen,3B,2001
+1439,1B,2B,Stolen Base 2B,110236,Garret Anderson,Ramon Hernandez,1,0,4,True,2001-04-06,Stolen,2B,2001
+184,1B,,Caught Stealing 2B,110236,Garret Anderson,Ben Davis,1,7,5,True,2002-09-20,Caught,2B,2002
+1141,2B,,Caught Stealing 3B,110236,Garret Anderson,Jorge Posada,5,4,8,False,2002-08-03,Caught,3B,2002
+1939,1B,2B,Stolen Base 2B,110236,Garret Anderson,Ivan Rodriguez,3,2,6,True,2002-06-26,Stolen,2B,2002
+2004,1B,,Caught Stealing 2B,110236,Garret Anderson,Marcus Jensen,0,2,1,True,2002-06-23,Caught,2B,2002
+2276,1B,,Caught Stealing 2B,110236,Garret Anderson,Jason LaRue,7,1,5,False,2002-06-09,Caught,2B,2002
+2435,1B,2B,Stolen Base 2B,110236,Garret Anderson,A.J. Pierzynski,1,4,7,True,2002-06-02,Stolen,2B,2002
+2436,1B,2B,Stolen Base 2B,110236,Garret Anderson,A.J. Pierzynski,4,5,9,True,2002-06-02,Stolen,2B,2002
+2518,2B,3B,Stolen Base 3B,110236,Garret Anderson,A.J. Hinch,1,6,5,True,2002-05-29,Stolen,3B,2002
+3264,1B,2B,Stolen Base 2B,110236,Garret Anderson,Einar Díaz,1,3,5,True,2002-04-30,Stolen,2B,2002
+3500,1B,2B,Stolen Base 2B,110236,Garret Anderson,Ramon Hernandez,6,5,5,True,2002-04-20,Stolen,2B,2002
+840,1B,2B,Stolen Base 2B,110236,Garret Anderson,Brandon Inge,7,5,7,False,2003-08-16,Stolen,2B,2003
+1504,1B,2B,Stolen Base 2B,110236,Garret Anderson,A.J. Pierzynski,5,3,8,False,2003-07-13,Stolen,2B,2003
+1778,1B,2B,Stolen Base 2B,110236,Garret Anderson,Paul Lo Duca,3,0,5,False,2003-06-29,Stolen,2B,2003
+2469,1B,,Caught Stealing 2B,110236,Garret Anderson,Geronimo Gil,6,0,5,True,2003-05-27,Caught,2B,2003
+2721,1B,2B,Stolen Base 2B,110236,Garret Anderson,Jorge Posada,1,0,4,True,2003-05-14,Stolen,2B,2003
+2722,1B,2B,Stolen Base 2B,110236,Garret Anderson,Jorge Posada,2,0,6,True,2003-05-14,Stolen,2B,2003
+2935,2B,3B,Stolen Base 3B,110236,Garret Anderson,Tom Wilson,0,1,1,True,2003-05-04,Stolen,3B,2003
+3214,1B,,Caught Stealing 2B,110236,Garret Anderson,Ben Davis,4,6,7,False,2003-04-19,Caught,2B,2003
+343,1B,2B,Stolen Base 2B,110236,Garret Anderson,Dan Wilson,3,1,9,True,2004-09-14,Stolen,2B,2004
+554,1B,2B,Stolen Base 2B,110236,Garret Anderson,Victor Martinez,0,0,2,True,2004-09-04,Stolen,2B,2004
+2100,1B,,Caught Stealing 2B,110236,Garret Anderson,Michael Barrett,1,1,6,False,2004-06-13,Caught,2B,2004
+683,1B,2B,Stolen Base 2B,110236,Garret Anderson,Toby Hall,6,3,9,True,2005-08-27,Stolen,2B,2005
+1587,3B,,Caught Stealing Home,110236,Garret Anderson,Pat Borders,4,8,8,False,2005-07-08,Caught,Home,2005
+582,1B,2B,Stolen Base 2B,110236,Garret Anderson,Rob Bowen,4,2,8,False,2007-09-04,Stolen,2B,2007
+193,1B,,Caught Stealing 2B,110236,Garret Anderson,Gerald Laird,12,14,7,True,2008-09-19,Caught,2B,2008
+471,1B,2B,Stolen Base 2B,110236,Garret Anderson,A.J. Pierzynski,2,2,3,True,2008-09-06,Stolen,2B,2008
+1715,1B,2B,Stolen Base 2B,110236,Garret Anderson,Kurt Suzuki,2,2,4,False,2008-07-01,Stolen,2B,2008
+1861,1B,,Caught Stealing 2B,110236,Garret Anderson,Jesus Flores,0,6,2,True,2008-06-24,Caught,2B,2008
+1875,1B,2B,Stolen Base 2B,110236,Garret Anderson,Jesus Flores,2,3,8,True,2008-06-23,Stolen,2B,2008
+2201,1B,2B,Stolen Base 2B,110236,Garret Anderson,Kurt Suzuki,3,3,9,True,2008-06-08,Stolen,2B,2008
+2350,1B,2B,Stolen Base 2B,110236,Garret Anderson,Rod Barajas,2,3,6,False,2008-06-01,Stolen,2B,2008
+2460,2B,,Caught Stealing 3B,110236,Garret Anderson,Ivan Rodriguez,0,2,5,False,2008-05-27,Caught,3B,2008
+2791,1B,2B,Stolen Base 2B,110236,Garret Anderson,A.J. Pierzynski,0,0,6,False,2008-05-13,Stolen,2B,2008
+3224,1B,2B,Stolen Base 2B,110236,Garret Anderson,Kevin Cash,3,6,9,True,2008-04-24,Stolen,2B,2008
+1242,2B,3B,Stolen Base 3B,110236,Garret Anderson,Jason Kendall,0,2,6,False,2009-06-06,Stolen,3B,2009
+1875,1B,2B,Stolen Base 2B,110236,Garret Anderson,Miguel Montero,12,5,8,True,2010-07-02,Stolen,2B,2010

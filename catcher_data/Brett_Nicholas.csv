@@ -1,0 +1,15 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2B,3B,Stolen Base 3B,503556,Marwin Gonzalez,Brett Nicholas,3,2,2,True,2016-04-19,Stolen,3B,2016
+1B,2B,Stolen Base 2B,458675,Colby Rasmus,Brett Nicholas,7,4,9,True,2016-04-19,Stolen,2B,2016
+1B,2B,Stolen Base 2B,547982,Leonys Martin,Brett Nicholas,1,1,4,False,2016-04-13,Stolen,2B,2016
+1B,,Caught Stealing 2B,493114,Norichika Aoki,Brett Nicholas,0,0,1,False,2016-04-11,Caught,2B,2016
+1B,2B,Stolen Base 2B,543760,Marcus Semien,Brett Nicholas,2,1,3,False,2017-09-22,Stolen,2B,2017
+1B,2B,Stolen Base 2B,545361,Mike Trout,Brett Nicholas,0,0,1,False,2017-09-15,Stolen,2B,2017
+1B,2B,Stolen Base 2B,608324,Alex Bregman,Brett Nicholas,2,1,4,False,2017-08-31,Stolen,2B,2017
+1B,2B,Stolen Base 2B,605204,J.D. Davis,Brett Nicholas,2,1,5,False,2017-08-31,Stolen,2B,2017
+1B,2B,Stolen Base 2B,545350,Jake Marisnick,Brett Nicholas,2,1,8,False,2017-08-31,Stolen,2B,2017
+1B,2B,Stolen Base 2B,457727,Cameron Maybin,Brett Nicholas,0,3,8,False,2017-08-24,Stolen,2B,2017
+1B,2B,Stolen Base 2B,593700,Alen Hanson,Brett Nicholas,4,4,4,True,2017-08-17,Stolen,2B,2017
+2B,3B,Stolen Base 3B,593700,Alen Hanson,Brett Nicholas,4,4,4,True,2017-08-17,Stolen,3B,2017
+1B,2B,Stolen Base 2B,514888,Jose Altuve,Brett Nicholas,3,0,4,True,2017-08-12,Stolen,2B,2017
+1B,2B,Stolen Base 2B,502481,Jarrod Dyson,Brett Nicholas,0,3,3,True,2017-08-01,Stolen,2B,2017

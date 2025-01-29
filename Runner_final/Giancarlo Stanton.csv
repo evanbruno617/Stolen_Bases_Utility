@@ -1,0 +1,25 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1060,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,501625,Jose Alvarez,572228,Luke Voit,L,J.T. Realmuto,592663,6,3,8,False,2020-08-03,Stolen,2B,2020,2021,24.7
+1,1120,1B,,Caught Stealing 2B,519317,Giancarlo Stanton,592169,Austin Brice,543305,Aaron Hicks,R,Christian Vázquez,543877,3,1,7,False,2020-07-31,Caught,2B,2020,2021,24.7
+2,1141,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,501625,Jose Alvarez,572228,Luke Voit,L,J.T. Realmuto,592663,6,3,8,False,2020-07-29,Stolen,2B,2020,2021,24.7
+3,3903,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,501625,Jose Alvarez,572228,Luke Voit,L,J.T. Realmuto,592663,6,3,8,False,2020-08-03,Stolen,2B,2020,2021,24.7
+4,3963,1B,,Caught Stealing 2B,519317,Giancarlo Stanton,592169,Austin Brice,543305,Aaron Hicks,R,Christian Vázquez,543877,3,1,7,False,2020-07-31,Caught,2B,2020,2021,24.7
+5,3984,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,501625,Jose Alvarez,572228,Luke Voit,L,J.T. Realmuto,592663,6,3,8,False,2020-07-29,Stolen,2B,2020,2021,24.7
+6,5827,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,501625,Jose Alvarez,572228,Luke Voit,L,J.T. Realmuto,592663,6,3,8,False,2020-08-03,Stolen,2B,2020,2021,24.7
+7,5887,1B,,Caught Stealing 2B,519317,Giancarlo Stanton,592169,Austin Brice,543305,Aaron Hicks,R,Christian Vázquez,543877,3,1,7,False,2020-07-31,Caught,2B,2020,2021,24.7
+8,5908,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,501625,Jose Alvarez,572228,Luke Voit,L,J.T. Realmuto,592663,6,3,8,False,2020-07-29,Stolen,2B,2020,2021,24.7
+9,407,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,519393,Marcus Walden,544369,Didi Gregorius,R,Sandy León,506702,6,0,9,True,2018-04-12,Stolen,2B,2018,2019,27.1
+10,1501,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,430912,Matt Cain,592885,Christian Yelich,R,Nick Hundley,460026,0,0,1,False,2017-08-16,Stolen,2B,2017,2018,27.8
+11,1799,1B,,Caught Stealing 2B,519317,Giancarlo Stanton,461829,Gio González,592885,Christian Yelich,L,Matt Wieters,446308,0,0,1,False,2017-07-31,Caught,2B,2017,2018,27.8
+12,1955,1B,,Caught Stealing 2B,519317,Giancarlo Stanton,596112,Robert Stephenson,592885,Christian Yelich,R,Devin Mesoraco,519023,2,3,5,True,2017-07-22,Caught,2B,2017,2018,27.8
+13,2510,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,544836,Enny Romero,592885,Christian Yelich,L,Matt Wieters,446308,7,7,9,False,2017-06-19,Stolen,2B,2017,2018,27.8
+14,873,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,430912,Matt Cain,592885,Christian Yelich,R,Nick Hundley,460026,0,0,1,False,2017-08-16,Stolen,2B,2017,2018,27.8
+15,1171,1B,,Caught Stealing 2B,519317,Giancarlo Stanton,461829,Gio González,592885,Christian Yelich,L,Matt Wieters,446308,0,0,1,False,2017-07-31,Caught,2B,2017,2018,27.8
+16,1327,1B,,Caught Stealing 2B,519317,Giancarlo Stanton,596112,Robert Stephenson,592885,Christian Yelich,R,Devin Mesoraco,519023,2,3,5,True,2017-07-22,Caught,2B,2017,2018,27.8
+17,1882,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,544836,Enny Romero,592885,Christian Yelich,L,Matt Wieters,446308,7,7,9,False,2017-06-19,Stolen,2B,2017,2018,27.8
+18,975,2B,3B,Stolen Base 3B,519317,Giancarlo Stanton,434628,Jason Hammel,571506,Justin Bour,R,Miguel Montero,471083,1,3,4,False,2015-06-01,Stolen,3B,2015,2016,27.5
+19,1261,1B,,Caught Stealing 2B,519317,Giancarlo Stanton,592665,Addison Reed,592663,J.T. Realmuto,R,Tuffy Gosewisch,488912,2,2,12,False,2015-05-18,Caught,2B,2015,2016,27.5
+20,1541,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,595014,Blake Treinen,542303,Marcell Ozuna,R,Wilson Ramos,467092,1,2,7,True,2015-05-05,Stolen,2B,2015,2016,27.5
+21,1813,1B,,Caught Stealing 2B,519317,Giancarlo Stanton,430661,Dustin McGowan,434604,Michael Morse,R,Cameron Rupp,519237,0,0,1,True,2015-04-23,Caught,2B,2015,2016,27.5
+22,1988,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,502239,Trevor Cahill,445988,Martín Prado,R,A.J. Pierzynski,150229,0,3,3,True,2015-04-14,Stolen,2B,2015,2016,27.5
+23,2089,1B,2B,Stolen Base 2B,519317,Giancarlo Stanton,457117,Ernesto Frieri,434604,Michael Morse,R,Bobby Wilson,435064,9,8,8,False,2015-04-10,Stolen,2B,2015,2016,27.5

@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+301,1B,2B,Stolen Base 2B,407905,Felix Escalona,Kevin Cash,2,0,3,True,2002-09-15,Stolen,2B,2002
+442,1B,2B,Stolen Base 2B,407905,Felix Escalona,Jason Varitek,3,4,7,False,2002-09-09,Stolen,2B,2002
+1058,1B,2B,Stolen Base 2B,407905,Felix Escalona,Einar Díaz,1,4,8,True,2002-08-08,Stolen,2B,2002
+1150,1B,2B,Stolen Base 2B,407905,Felix Escalona,Mark Johnson,1,0,1,False,2002-08-03,Stolen,2B,2002
+2444,1B,2B,Stolen Base 2B,407905,Felix Escalona,Greg Myers,0,0,3,False,2002-06-02,Stolen,2B,2002
+2800,1B,2B,Stolen Base 2B,407905,Felix Escalona,Brook Fordyce,0,0,3,True,2002-05-19,Stolen,2B,2002
+3170,1B,,Caught Stealing 2B,407905,Felix Escalona,Jason Varitek,3,0,5,False,2002-05-04,Caught,2B,2002
+3218,1B,2B,Stolen Base 2B,407905,Felix Escalona,A.J. Pierzynski,0,3,7,True,2002-05-02,Stolen,2B,2002
+3220,1B,,Caught Stealing 2B,407905,Felix Escalona,A.J. Pierzynski,4,6,8,True,2002-05-02,Caught,2B,2002
+2758,1B,2B,Stolen Base 2B,407905,Felix Escalona,Tom Wilson,0,3,2,True,2003-05-13,Stolen,2B,2003

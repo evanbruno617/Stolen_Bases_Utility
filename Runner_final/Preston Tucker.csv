@@ -1,0 +1,2 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,219,2B,,Caught Stealing 3B,605512,Preston Tucker,594736,Cody Anderson,472528,Luis Valbuena,R,Yan Gomes,543228,0,1,4,True,2015-07-09,Caught,3B,2015,2016,27.2

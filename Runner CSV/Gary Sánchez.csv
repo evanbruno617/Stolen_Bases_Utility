@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1948,1B,2B,Stolen Base 2B,596142,Gary Sánchez,Josh Phegley,6,6,9,True,2017-06-15,Stolen,2B,2017
+2384,1B,2B,Stolen Base 2B,596142,Gary Sánchez,Salvador Perez,2,0,6,False,2017-05-24,Stolen,2B,2017
+3308,1B,,Caught Stealing 2B,596142,Gary Sánchez,Welington Castillo,4,5,7,True,2017-04-07,Caught,2B,2017
+365,1B,2B,Stolen Base 2B,596142,Gary Sánchez,Willians Astudillo,0,0,5,True,2018-09-12,Stolen,2B,2018
+318,1B,,Caught Stealing 2B,596142,Gary Sánchez,Grayson Greiner,0,3,3,True,2019-09-12,Caught,2B,2019
+321,1B,,Caught Stealing 2B,596142,Gary Sánchez,Grayson Greiner,0,3,3,True,2019-09-11,Caught,2B,2019
+1179,1B,2B,Stolen Base 2B,596142,Gary Sánchez,Victor Caratini,3,3,2,True,2022-07-27,Stolen,2B,2022
+2977,1B,2B,Stolen Base 2B,596142,Gary Sánchez,Christian Vázquez,2,5,8,True,2022-04-18,Stolen,2B,2022

@@ -1,0 +1,156 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,643446,Jeff McNeil,Nick Fortes,6,3,8,False,2021-09-30,Stolen,2B,2021
+1B,2B,Stolen Base 2B,573186,Marcus Stroman,Nick Fortes,1,0,2,False,2021-09-28,Stolen,2B,2021
+1B,2B,Stolen Base 2B,542340,Jonathan Villar,Nick Fortes,3,0,3,False,2021-09-28,Stolen,2B,2021
+1B,,Caught Stealing 2B,665742,Juan Soto,Nick Fortes,1,4,7,True,2021-09-21,Caught,2B,2021
+1B,2B,Stolen Base 2B,657041,Lane Thomas,Nick Fortes,1,6,9,True,2021-09-21,Stolen,2B,2021
+1B,2B,Stolen Base 2B,621028,Kevin Newman,Nick Fortes,0,3,4,True,2021-09-18,Stolen,2B,2021
+1B,,Caught Stealing 2B,605421,Michael Pérez,Nick Fortes,2,6,7,True,2021-09-18,Caught,2B,2021
+1B,2B,Stolen Base 2B,678894,Liover Peguero,Nick Fortes,2,0,4,False,2023-09-29,Stolen,2B,2023
+1B,2B,Stolen Base 2B,596019,Francisco Lindor,Nick Fortes,0,0,4,False,2023-09-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,668930,Brice Turang,Nick Fortes,0,10,2,True,2023-09-22,Stolen,2B,2023
+2B,3B,Stolen Base 3B,596019,Francisco Lindor,Nick Fortes,0,1,3,True,2023-09-19,Stolen,3B,2023
+1B,2B,Stolen Base 2B,547180,Bryce Harper,Nick Fortes,2,0,1,False,2023-09-10,Stolen,2B,2023
+1B,2B,Stolen Base 2B,669016,Brandon Marsh,Nick Fortes,3,0,4,False,2023-09-10,Stolen,2B,2023
+1B,2B,Stolen Base 2B,605141,Mookie Betts,Nick Fortes,0,0,3,True,2023-09-07,Stolen,2B,2023
+1B,,Caught Stealing 2B,642708,Amed Rosario,Nick Fortes,0,6,6,True,2023-09-07,Caught,2B,2023
+1B,2B,Stolen Base 2B,669257,Will Smith,Nick Fortes,0,2,3,True,2023-09-05,Stolen,2B,2023
+1B,2B,Stolen Base 2B,666139,Josh Lowe,Nick Fortes,0,1,10,True,2023-08-30,Stolen,2B,2023
+1B,2B,Stolen Base 2B,668227,Randy Arozarena,Nick Fortes,0,3,10,True,2023-08-30,Stolen,2B,2023
+2B,3B,Stolen Base 3B,668227,Randy Arozarena,Nick Fortes,0,3,10,True,2023-08-30,Stolen,3B,2023
+2B,3B,Stolen Base 3B,682928,CJ Abrams,Nick Fortes,0,1,1,True,2023-08-25,Stolen,3B,2023
+1B,2B,Stolen Base 2B,657041,Lane Thomas,Nick Fortes,0,5,7,True,2023-08-25,Stolen,2B,2023
+1B,2B,Stolen Base 2B,656308,Michael Chavis,Nick Fortes,4,7,8,True,2023-08-25,Stolen,2B,2023
+1B,,Caught Stealing 2B,673490,Ha-Seong Kim,Nick Fortes,0,3,6,False,2023-08-22,Caught,2B,2023
+2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,Nick Fortes,1,0,1,False,2023-08-21,Stolen,3B,2023
+1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,Nick Fortes,1,0,1,False,2023-08-21,Stolen,2B,2023
+1B,2B,Stolen Base 2B,514888,Jose Altuve,Nick Fortes,0,0,1,True,2023-08-14,Stolen,2B,2023
+1B,2B,Stolen Base 2B,664056,Harrison Bader,Nick Fortes,0,0,2,True,2023-08-13,Stolen,2B,2023
+1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,Nick Fortes,0,1,2,True,2023-08-13,Stolen,2B,2023
+1B,2B,Stolen Base 2B,650402,Gleyber Torres,Nick Fortes,1,4,5,True,2023-08-13,Stolen,2B,2023
+2B,3B,Stolen Base 3B,650402,Gleyber Torres,Nick Fortes,1,4,5,True,2023-08-13,Stolen,3B,2023
+1B,2B,Stolen Base 2B,650402,Gleyber Torres,Nick Fortes,2,7,7,True,2023-08-13,Stolen,2B,2023
+1B,2B,Stolen Base 2B,664056,Harrison Bader,Nick Fortes,4,7,9,True,2023-08-11,Stolen,2B,2023
+2B,,Caught Stealing 3B,670770,TJ Friedl,Nick Fortes,1,1,2,False,2023-08-08,Caught,3B,2023
+1B,2B,Stolen Base 2B,666181,Will Benson,Nick Fortes,0,1,3,False,2023-08-07,Stolen,2B,2023
+1B,2B,Stolen Base 2B,621028,Kevin Newman,Nick Fortes,4,1,4,False,2023-08-07,Stolen,2B,2023
+1B,2B,Stolen Base 2B,670770,TJ Friedl,Nick Fortes,5,1,7,False,2023-08-07,Stolen,2B,2023
+1B,2B,Stolen Base 2B,679032,Johan Rojas,Nick Fortes,2,5,8,True,2023-08-02,Stolen,2B,2023
+1B,2B,Stolen Base 2B,681082,Bryson Stott,Nick Fortes,4,5,9,True,2023-08-02,Stolen,2B,2023
+1B,2B,Stolen Base 2B,664761,Alec Bohm,Nick Fortes,0,0,1,True,2023-07-31,Stolen,2B,2023
+1B,2B,Stolen Base 2B,595879,Javier Báez,Nick Fortes,2,0,2,True,2023-07-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,665155,Nick Maton,Nick Fortes,4,1,7,True,2023-07-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,666134,Nolan Jones,Nick Fortes,2,2,9,True,2023-07-23,Stolen,2B,2023
+1B,2B,Stolen Base 2B,663457,Lars Nootbaar,Nick Fortes,0,0,4,False,2023-07-18,Stolen,2B,2023
+1B,,Caught Stealing 2B,657557,Paul DeJong,Nick Fortes,6,4,7,False,2023-07-17,Caught,2B,2023
+1B,2B,Stolen Base 2B,623993,Anthony Santander,Nick Fortes,6,5,7,False,2023-07-15,Stolen,2B,2023
+1B,2B,Stolen Base 2B,681082,Bryson Stott,Nick Fortes,2,0,2,True,2023-07-09,Stolen,2B,2023
+1B,2B,Stolen Base 2B,665506,Cristian Pache,Nick Fortes,2,0,3,True,2023-07-09,Stolen,2B,2023
+2B,,Caught Stealing 3B,547180,Bryce Harper,Nick Fortes,3,3,3,True,2023-07-08,Caught,3B,2023
+1B,2B,Stolen Base 2B,666185,Dylan Carlson,Nick Fortes,0,0,3,True,2023-07-06,Stolen,2B,2023
+1B,2B,Stolen Base 2B,657557,Paul DeJong,Nick Fortes,2,2,4,True,2023-07-03,Stolen,2B,2023
+1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,Nick Fortes,0,0,1,False,2023-07-02,Stolen,2B,2023
+1B,2B,Stolen Base 2B,671739,Michael Harris II,Nick Fortes,2,2,5,False,2023-07-02,Stolen,2B,2023
+2B,3B,Stolen Base 3B,660670,Ronald Acuña Jr.,Nick Fortes,4,3,7,False,2023-07-02,Stolen,3B,2023
+1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,Nick Fortes,7,3,4,False,2023-06-30,Stolen,2B,2023
+2B,,Caught Stealing 3B,660670,Ronald Acuña Jr.,Nick Fortes,7,3,4,False,2023-06-30,Caught,3B,2023
+1B,,Caught Stealing 2B,666152,David Hamilton,Nick Fortes,0,1,3,False,2023-06-28,Caught,2B,2023
+1B,2B,Stolen Base 2B,680776,Jarren Duran,Nick Fortes,1,4,7,False,2023-06-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,680779,Henry Davis,Nick Fortes,1,0,8,True,2023-06-23,Stolen,2B,2023
+2B,3B,Stolen Base 3B,641943,Joshua Palacios,Nick Fortes,1,1,9,True,2023-06-23,Stolen,3B,2023
+1B,2B,Stolen Base 2B,457705,Andrew McCutchen,Nick Fortes,1,1,9,True,2023-06-23,Stolen,2B,2023
+2B,3B,Stolen Base 3B,457705,Andrew McCutchen,Nick Fortes,1,2,9,True,2023-06-23,Stolen,3B,2023
+1B,,Caught Stealing 2B,672779,Tucupita Marcano,Nick Fortes,1,3,9,True,2023-06-23,Caught,2B,2023
+2B,3B,Stolen Base 3B,467793,Carlos Santana,Nick Fortes,1,2,4,True,2023-06-22,Stolen,3B,2023
+1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,Nick Fortes,0,4,2,True,2023-06-21,Stolen,2B,2023
+1B,2B,Stolen Base 2B,543807,George Springer,Nick Fortes,0,2,8,True,2023-06-20,Stolen,2B,2023
+1B,2B,Stolen Base 2B,640449,Clint Frazier,Nick Fortes,5,1,7,False,2023-06-11,Stolen,2B,2023
+1B,2B,Stolen Base 2B,641313,Tim Anderson,Nick Fortes,1,0,3,False,2023-06-09,Stolen,2B,2023
+1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,Nick Fortes,0,4,3,True,2023-06-05,Stolen,2B,2023
+1B,2B,Stolen Base 2B,669004,MJ Melendez,Nick Fortes,0,4,3,True,2023-06-05,Stolen,2B,2023
+1B,2B,Stolen Base 2B,672580,Maikel Garcia,Nick Fortes,7,4,6,True,2023-06-05,Stolen,2B,2023
+1B,2B,Stolen Base 2B,607054,Jace Peterson,Nick Fortes,1,0,3,True,2023-06-04,Stolen,2B,2023
+2B,3B,Stolen Base 3B,657656,Ramón Laureano,Nick Fortes,1,5,3,True,2023-06-04,Stolen,3B,2023
+2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,Nick Fortes,1,1,4,True,2023-06-01,Stolen,3B,2023
+1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,Nick Fortes,1,3,6,True,2023-06-01,Stolen,2B,2023
+1B,2B,Stolen Base 2B,630105,Jake Cronenworth,Nick Fortes,1,7,6,True,2023-06-01,Stolen,2B,2023
+1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,Nick Fortes,0,1,3,True,2023-05-31,Stolen,2B,2023
+1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,Nick Fortes,3,2,5,True,2023-05-30,Stolen,2B,2023
+1B,2B,Stolen Base 2B,663757,Trent Grisham,Nick Fortes,4,2,7,True,2023-05-30,Stolen,2B,2023
+1B,2B,Stolen Base 2B,665742,Juan Soto,Nick Fortes,4,4,7,True,2023-05-30,Stolen,2B,2023
+1B,,Caught Stealing 2B,640492,José Azocar,Nick Fortes,4,4,8,True,2023-05-30,Caught,2B,2023
+1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,Nick Fortes,4,4,9,True,2023-05-30,Stolen,2B,2023
+1B,2B,Stolen Base 2B,663757,Trent Grisham,Nick Fortes,4,9,9,True,2023-05-30,Stolen,2B,2023
+1B,2B,Stolen Base 2B,570482,Gio Urshela,Nick Fortes,2,3,6,False,2023-05-26,Stolen,2B,2023
+1B,,Caught Stealing 2B,545341,Randal Grichuk,Nick Fortes,2,2,6,False,2023-05-25,Caught,2B,2023
+2B,3B,Stolen Base 3B,676701,Alan Trejo,Nick Fortes,2,2,7,False,2023-05-25,Stolen,3B,2023
+1B,2B,Stolen Base 2B,642851,Austin Wynns,Nick Fortes,2,2,7,False,2023-05-25,Stolen,2B,2023
+1B,2B,Stolen Base 2B,641857,Ryan McMahon,Nick Fortes,5,1,5,False,2023-05-23,Stolen,2B,2023
+1B,2B,Stolen Base 2B,571745,Mitch Haniger,Nick Fortes,6,4,8,False,2023-05-21,Stolen,2B,2023
+1B,2B,Stolen Base 2B,669477,Casey Schmitt,Nick Fortes,7,4,8,False,2023-05-21,Stolen,2B,2023
+1B,2B,Stolen Base 2B,642731,Thairo Estrada,Nick Fortes,0,0,1,False,2023-05-20,Stolen,2B,2023
+1B,2B,Stolen Base 2B,672515,Gabriel Moreno,Nick Fortes,1,1,5,False,2023-05-08,Stolen,2B,2023
+1B,2B,Stolen Base 2B,641355,Cody Bellinger,Nick Fortes,0,0,4,False,2023-05-07,Stolen,2B,2023
+1B,2B,Stolen Base 2B,621550,Patrick Wisdom,Nick Fortes,2,2,9,False,2023-05-07,Stolen,2B,2023
+1B,2B,Stolen Base 2B,641355,Cody Bellinger,Nick Fortes,4,4,13,False,2023-05-07,Stolen,2B,2023
+1B,2B,Stolen Base 2B,641355,Cody Bellinger,Nick Fortes,1,2,8,False,2023-05-06,Stolen,2B,2023
+1B,2B,Stolen Base 2B,663538,Nico Hoerner,Nick Fortes,4,2,8,False,2023-05-06,Stolen,2B,2023
+1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,Nick Fortes,2,3,2,True,2023-05-04,Stolen,2B,2023
+1B,2B,Stolen Base 2B,607680,Kevin Pillar,Nick Fortes,3,4,6,True,2023-05-04,Stolen,2B,2023
+1B,2B,Stolen Base 2B,607680,Kevin Pillar,Nick Fortes,0,0,3,False,2023-04-27,Stolen,2B,2023
+2B,3B,Stolen Base 3B,660670,Ronald Acuña Jr.,Nick Fortes,1,0,1,False,2023-04-25,Stolen,3B,2023
+1B,2B,Stolen Base 2B,647304,Josh Naylor,Nick Fortes,3,1,3,False,2023-04-23,Stolen,2B,2023
+2B,3B,Stolen Base 3B,642708,Amed Rosario,Nick Fortes,4,1,5,False,2023-04-23,Stolen,3B,2023
+2B,3B,Stolen Base 3B,516782,Starling Marte,Nick Fortes,0,3,1,False,2023-04-09,Stolen,3B,2023
+1B,2B,Stolen Base 2B,607043,Brandon Nimmo,Nick Fortes,0,0,1,False,2023-04-07,Stolen,2B,2023
+1B,2B,Stolen Base 2B,596019,Francisco Lindor,Nick Fortes,4,0,6,False,2023-04-07,Stolen,2B,2023
+1B,2B,Stolen Base 2B,607043,Brandon Nimmo,Nick Fortes,0,0,1,False,2023-04-06,Stolen,2B,2023
+1B,2B,Stolen Base 2B,596019,Francisco Lindor,Nick Fortes,4,0,6,False,2023-04-06,Stolen,2B,2023
+1B,,Caught Stealing 2B,650489,Willi Castro,Nick Fortes,1,0,3,True,2023-04-05,Caught,2B,2023
+1B,2B,Stolen Base 2B,572191,Michael A. Taylor,Nick Fortes,1,0,6,True,2023-04-05,Stolen,2B,2023
+1B,2B,Stolen Base 2B,607043,Brandon Nimmo,Nick Fortes,2,4,6,True,2023-04-01,Stolen,2B,2023
+2B,,Caught Stealing 3B,669374,Keston Hiura,Nick Fortes,2,0,2,False,2022-09-29,Caught,3B,2022
+1B,2B,Stolen Base 2B,657041,Lane Thomas,Nick Fortes,0,0,1,True,2022-09-25,Stolen,2B,2022
+1B,2B,Stolen Base 2B,682928,CJ Abrams,Nick Fortes,0,2,2,True,2022-09-25,Stolen,2B,2022
+1B,2B,Stolen Base 2B,645302,Victor Robles,Nick Fortes,0,3,4,True,2022-09-25,Stolen,2B,2022
+3B,score,Stolen Base Home,682928,CJ Abrams,Nick Fortes,0,3,4,True,2022-09-25,Stolen,Home,2022
+1B,,Caught Stealing 2B,543760,Marcus Semien,Nick Fortes,0,0,1,True,2022-09-12,Caught,2B,2022
+1B,2B,Stolen Base 2B,669352,Bubba Thompson,Nick Fortes,1,3,5,True,2022-09-12,Stolen,2B,2022
+1B,2B,Stolen Base 2B,643446,Jeff McNeil,Nick Fortes,0,0,2,True,2022-09-11,Stolen,2B,2022
+1B,2B,Stolen Base 2B,607043,Brandon Nimmo,Nick Fortes,1,7,5,True,2022-09-11,Stolen,2B,2022
+2B,3B,Stolen Base 3B,687093,Vaughn Grissom,Nick Fortes,1,0,7,False,2022-09-03,Stolen,3B,2022
+2B,3B,Stolen Base 3B,668227,Randy Arozarena,Nick Fortes,0,5,5,True,2022-08-30,Stolen,3B,2022
+1B,2B,Stolen Base 2B,668227,Randy Arozarena,Nick Fortes,0,6,7,True,2022-08-30,Stolen,2B,2022
+1B,2B,Stolen Base 2B,607208,Trea Turner,Nick Fortes,1,3,5,True,2022-08-28,Stolen,2B,2022
+1B,2B,Stolen Base 2B,605141,Mookie Betts,Nick Fortes,0,0,1,True,2022-08-26,Stolen,2B,2022
+1B,2B,Stolen Base 2B,592696,Eddie Rosario,Nick Fortes,0,0,2,True,2022-08-14,Stolen,2B,2022
+1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,Nick Fortes,2,4,7,True,2022-08-13,Stolen,2B,2022
+1B,2B,Stolen Base 2B,671739,Michael Harris II,Nick Fortes,2,5,8,True,2022-08-13,Stolen,2B,2022
+1B,,Caught Stealing 2B,669016,Brandon Marsh,Nick Fortes,0,1,5,False,2022-08-11,Caught,2B,2022
+1B,2B,Stolen Base 2B,663538,Nico Hoerner,Nick Fortes,0,0,2,False,2022-08-06,Stolen,2B,2022
+2B,,Caught Stealing 3B,663697,Jonathan India,Nick Fortes,0,0,1,False,2022-07-27,Caught,3B,2022
+1B,2B,Stolen Base 2B,663647,Ke'Bryan Hayes,Nick Fortes,2,3,6,False,2022-07-24,Stolen,2B,2022
+1B,2B,Stolen Base 2B,544369,Didi Gregorius,Nick Fortes,1,2,8,True,2022-07-15,Stolen,2B,2022
+1B,2B,Stolen Base 2B,592663,J.T. Realmuto,Nick Fortes,1,2,9,True,2022-07-15,Stolen,2B,2022
+1B,2B,Stolen Base 2B,621028,Kevin Newman,Nick Fortes,0,0,5,True,2022-07-14,Stolen,2B,2022
+1B,,Caught Stealing 2B,665833,Oneil Cruz,Nick Fortes,1,0,7,True,2022-07-14,Caught,2B,2022
+1B,,Caught Stealing 2B,665833,Oneil Cruz,Nick Fortes,1,1,9,True,2022-07-14,Caught,2B,2022
+1B,2B,Stolen Base 2B,665833,Oneil Cruz,Nick Fortes,0,1,5,True,2022-07-13,Stolen,2B,2022
+1B,,Caught Stealing 2B,669261,Jack Suwinski,Nick Fortes,0,1,5,True,2022-07-13,Caught,2B,2022
+1B,2B,Stolen Base 2B,663647,Ke'Bryan Hayes,Nick Fortes,0,0,1,True,2022-07-11,Stolen,2B,2022
+1B,2B,Stolen Base 2B,545350,Jake Marisnick,Nick Fortes,0,3,2,True,2022-07-11,Stolen,2B,2022
+1B,,Caught Stealing 2B,500871,Eduardo Escobar,Nick Fortes,3,2,7,False,2022-07-09,Caught,2B,2022
+2B,3B,Stolen Base 3B,542340,Jonathan Villar,Nick Fortes,1,4,7,True,2022-07-06,Stolen,3B,2022
+1B,2B,Stolen Base 2B,660271,Shohei Ohtani,Nick Fortes,1,4,7,True,2022-07-06,Stolen,2B,2022
+1B,2B,Stolen Base 2B,501303,Ehire Adrianza,Nick Fortes,1,1,8,False,2022-07-04,Stolen,2B,2022
+1B,2B,Stolen Base 2B,666185,Dylan Carlson,Nick Fortes,1,3,4,False,2022-06-28,Stolen,2B,2022
+1B,2B,Stolen Base 2B,669242,Tommy Edman,Nick Fortes,4,3,5,False,2022-06-28,Stolen,2B,2022
+1B,,Caught Stealing 2B,664761,Alec Bohm,Nick Fortes,0,0,4,False,2022-06-15,Caught,2B,2022
+1B,,Caught Stealing 2B,663837,Matt Vierling,Nick Fortes,0,1,8,False,2022-06-15,Caught,2B,2022
+1B,2B,Stolen Base 2B,665161,Jeremy Peña,Nick Fortes,5,0,5,False,2022-06-12,Stolen,2B,2022
+1B,2B,Caught Stealing Home,663656,Kyle Tucker,Nick Fortes,5,4,7,False,2022-06-12,Caught,Home,2022
+3B,,Caught Stealing Home,670541,Yordan Alvarez,Nick Fortes,5,4,7,False,2022-06-12,Caught,Home,2022
+1B,2B,Stolen Base 2B,665161,Jeremy Peña,Nick Fortes,0,4,5,False,2022-06-11,Stolen,2B,2022
+1B,2B,Stolen Base 2B,665742,Juan Soto,Nick Fortes,0,0,1,True,2022-06-07,Stolen,2B,2022
+1B,2B,Stolen Base 2B,621020,Dansby Swanson,Nick Fortes,4,1,5,False,2022-05-29,Stolen,2B,2022
+2B,3B,Stolen Base 3B,621020,Dansby Swanson,Nick Fortes,5,1,5,False,2022-05-29,Stolen,3B,2022

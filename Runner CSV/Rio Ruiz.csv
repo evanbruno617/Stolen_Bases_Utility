@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+501,1B,2B,Stolen Base 2B,547004,Rio Ruiz,René Rivera,1,5,9,True,2017-09-03,Stolen,2B,2017
+1130,1B,,Caught Stealing 2B,547004,Rio Ruiz,Christian Vázquez,4,0,5,False,2019-07-21,Caught,2B,2019
+297,2B,,Caught Stealing 3B,547004,Rio Ruiz,Kyle Higashioka,1,1,5,True,2020-09-13,Caught,3B,2020
+972,1B,,Caught Stealing 2B,547004,Rio Ruiz,Kurt Suzuki,0,0,2,True,2020-08-08,Caught,2B,2020
+1088,1B,2B,Stolen Base 2B,547004,Rio Ruiz,Mike Zunino,2,0,4,False,2020-08-01,Stolen,2B,2020
+2549,2B,3B,Stolen Base 3B,547004,Rio Ruiz,Jorge Alfaro,5,7,8,True,2021-04-20,Stolen,3B,2021
+2702,1B,2B,Stolen Base 2B,547004,Rio Ruiz,Christian Vázquez,2,2,2,False,2021-04-10,Stolen,2B,2021

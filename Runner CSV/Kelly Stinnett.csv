@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+643,1B,,Caught Stealing 2B,122803,Kelly Stinnett,Ramon Castro,4,3,4,False,2000-09-03,Caught,2B,2000
+975,1B,2B,Stolen Base 2B,122803,Kelly Stinnett,Brent Mayne,9,7,8,True,2001-04-27,Stolen,2B,2001
+1009,1B,2B,Stolen Base 2B,122803,Kelly Stinnett,Benito Santiago,3,1,7,True,2001-04-26,Stolen,2B,2001
+1268,1B,,Caught Stealing 2B,122803,Kelly Stinnett,Mike Piazza,0,1,2,True,2001-04-15,Caught,2B,2001
+911,1B,2B,Stolen Base 2B,122803,Kelly Stinnett,Gregg Zaun,0,0,2,False,2002-08-16,Stolen,2B,2002
+1427,1B,2B,Stolen Base 2B,122803,Kelly Stinnett,Vance Wilson,5,0,3,False,2002-07-21,Stolen,2B,2002

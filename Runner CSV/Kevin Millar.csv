@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1501,1B,,Caught Stealing 2B,132788,Kevin Millar,Henry Blanco,3,0,4,True,2002-07-18,Caught,2B,2002
+170,1B,,Caught Stealing 2B,132788,Kevin Millar,Josh Bard,0,2,9,True,2003-09-21,Caught,2B,2003
+724,1B,2B,Stolen Base 2B,132788,Kevin Millar,Ben Davis,5,5,7,False,2003-08-23,Stolen,2B,2003
+1136,1B,2B,Stolen Base 2B,132788,Kevin Millar,Brook Fordyce,1,0,2,True,2003-08-02,Stolen,2B,2003
+2123,1B,,Caught Stealing 2B,132788,Kevin Millar,Brad Ausmus,0,0,2,False,2003-06-13,Caught,2B,2003
+2567,1B,2B,Stolen Base 2B,132788,Kevin Millar,Jorge Posada,2,1,1,False,2003-05-21,Stolen,2B,2003
+1650,1B,2B,Stolen Base 2B,132788,Kevin Millar,Rod Barajas,1,0,2,False,2004-07-09,Stolen,2B,2004
+3117,1B,,Caught Stealing 2B,132788,Kevin Millar,Jorge Posada,0,0,2,True,2004-04-25,Caught,2B,2004
+1440,1B,,Caught Stealing 2B,132788,Kevin Millar,Toby Hall,2,1,4,False,2005-07-19,Caught,2B,2005
+150,1B,2B,Stolen Base 2B,132788,Kevin Millar,Gerald Laird,3,0,7,True,2007-09-23,Stolen,2B,2007
+1472,1B,,Caught Stealing 2B,132788,Kevin Millar,Jorge Posada,2,3,4,False,2007-07-27,Caught,2B,2007
+2068,1B,,Caught Stealing 2B,132788,Kevin Millar,Jorge Posada,2,3,4,False,2007-06-28,Caught,2B,2007
+3257,1B,2B,Caught Stealing Home,132788,Kevin Millar,Kenji Johjima,0,1,1,True,2008-04-22,Caught,Home,2008
+3368,1B,,Caught Stealing 2B,132788,Kevin Millar,A.J. Pierzynski,0,2,5,False,2008-04-17,Caught,2B,2008
+2719,1B,2B,Stolen Base 2B,132788,Kevin Millar,Miguel Fermin,1,0,7,True,2009-04-04,Stolen,2B,2009

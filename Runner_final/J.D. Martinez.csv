@@ -1,0 +1,32 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,207,2B,3B,Stolen Base 3B,502110,J.D. Martinez,547973,Aroldis Chapman,598265,Jackie Bradley Jr.,L,Gary Sánchez,596142,4,4,10,False,2020-09-18,Stolen,3B,2020,2021,26.1
+1,3050,2B,3B,Stolen Base 3B,502110,J.D. Martinez,547973,Aroldis Chapman,598265,Jackie Bradley Jr.,L,Gary Sánchez,596142,4,4,10,False,2020-09-18,Stolen,3B,2020,2021,26.1
+2,4974,2B,3B,Stolen Base 3B,502110,J.D. Martinez,547973,Aroldis Chapman,598265,Jackie Bradley Jr.,L,Gary Sánchez,596142,4,4,10,False,2020-09-18,Stolen,3B,2020,2021,26.1
+3,1346,1B,2B,Stolen Base 2B,502110,J.D. Martinez,501985,Mike Minor,607752,Sam Travis,L,Jose Trevino,624431,5,5,7,True,2019-09-26,Stolen,2B,2019,2020,25.9
+4,3826,1B,2B,Stolen Base 2B,502110,J.D. Martinez,607192,Tyler Glasnow,593428,Xander Bogaerts,R,Michael Pérez,605421,0,0,1,True,2019-04-21,Stolen,2B,2019,2020,25.9
+5,4189,1B,2B,Stolen Base 2B,502110,J.D. Martinez,501985,Mike Minor,607752,Sam Travis,L,Jose Trevino,624431,5,5,7,True,2019-09-26,Stolen,2B,2019,2020,25.9
+6,6669,1B,2B,Stolen Base 2B,502110,J.D. Martinez,607192,Tyler Glasnow,593428,Xander Bogaerts,R,Michael Pérez,605421,0,0,1,True,2019-04-21,Stolen,2B,2019,2020,25.9
+7,6113,1B,2B,Stolen Base 2B,502110,J.D. Martinez,501985,Mike Minor,607752,Sam Travis,L,Jose Trevino,624431,5,5,7,True,2019-09-26,Stolen,2B,2019,2020,25.9
+8,8593,1B,2B,Stolen Base 2B,502110,J.D. Martinez,607192,Tyler Glasnow,593428,Xander Bogaerts,R,Michael Pérez,605421,0,0,1,True,2019-04-21,Stolen,2B,2019,2020,25.9
+9,2145,1B,2B,Stolen Base 2B,502110,J.D. Martinez,607536,Kyle Freeland,500743,Miguel Rojas,L,Elias Díaz,553869,4,6,5,True,2023-06-28,Stolen,2B,2023,2024,25.8
+10,6559,1B,2B,Stolen Base 2B,502110,J.D. Martinez,607536,Kyle Freeland,500743,Miguel Rojas,L,Elias Díaz,553869,4,6,5,True,2023-06-28,Stolen,2B,2023,2024,25.8
+11,993,2B,3B,Stolen Base 3B,502110,J.D. Martinez,542881,Tyler Anderson,489267,Adam Rosales,L,Jonathan Lucroy,518960,2,1,4,False,2017-09-11,Stolen,3B,2017,2018,26.7
+12,1632,1B,2B,Stolen Base 2B,502110,J.D. Martinez,453265,Tony Watson,518614,Daniel Descalso,L,Yasmani Grandal,518735,6,3,7,False,2017-08-08,Stolen,2B,2017,2018,26.7
+13,2071,1B,2B,Stolen Base 2B,502110,J.D. Martinez,532077,Roberto Osuna,461865,Andrew Romine,R,Miguel Montero,471083,5,5,10,False,2017-07-16,Stolen,2B,2017,2018,26.7
+14,2112,1B,2B,Stolen Base 2B,502110,J.D. Martinez,519096,Dan Otero,400121,Victor Martinez,R,Yan Gomes,543228,1,4,7,True,2017-07-09,Stolen,2B,2017,2018,26.7
+15,365,2B,3B,Stolen Base 3B,502110,J.D. Martinez,542881,Tyler Anderson,489267,Adam Rosales,L,Jonathan Lucroy,518960,2,1,4,False,2017-09-11,Stolen,3B,2017,2018,26.7
+16,1004,1B,2B,Stolen Base 2B,502110,J.D. Martinez,453265,Tony Watson,518614,Daniel Descalso,L,Yasmani Grandal,518735,6,3,7,False,2017-08-08,Stolen,2B,2017,2018,26.7
+17,1443,1B,2B,Stolen Base 2B,502110,J.D. Martinez,532077,Roberto Osuna,461865,Andrew Romine,R,Miguel Montero,471083,5,5,10,False,2017-07-16,Stolen,2B,2017,2018,26.7
+18,1484,1B,2B,Stolen Base 2B,502110,J.D. Martinez,519096,Dan Otero,400121,Victor Martinez,R,Yan Gomes,543228,1,4,7,True,2017-07-09,Stolen,2B,2017,2018,26.7
+19,4261,1B,,Caught Stealing 2B,502110,J.D. Martinez,502327,Héctor Santiago,592444,JaCoby Jones,L,John Ryan Murphy,571974,0,0,2,True,2016-09-20,Caught,2B,2016,2017,26.9
+20,6296,1B,2B,Stolen Base 2B,502110,J.D. Martinez,607074,Carlos Rodón,457708,Justin Upton,L,Alex Avila,488671,3,2,6,False,2016-06-03,Stolen,2B,2016,2017,26.9
+21,7051,1B,,Caught Stealing 2B,502110,J.D. Martinez,471911,Carlos Carrasco,457454,Jarrod Saltalamacchia,R,Roberto Pérez,547379,0,0,2,False,2016-04-24,Caught,2B,2016,2017,26.9
+22,226,1B,,Caught Stealing 2B,502110,J.D. Martinez,502327,Héctor Santiago,592444,JaCoby Jones,L,John Ryan Murphy,571974,0,0,2,True,2016-09-20,Caught,2B,2016,2017,26.9
+23,2261,1B,2B,Stolen Base 2B,502110,J.D. Martinez,607074,Carlos Rodón,457708,Justin Upton,L,Alex Avila,488671,3,2,6,False,2016-06-03,Stolen,2B,2016,2017,26.9
+24,3016,1B,,Caught Stealing 2B,502110,J.D. Martinez,471911,Carlos Carrasco,457454,Jarrod Saltalamacchia,R,Roberto Pérez,547379,0,0,2,False,2016-04-24,Caught,2B,2016,2017,26.9
+25,3633,1B,,Caught Stealing 2B,502110,J.D. Martinez,502327,Héctor Santiago,592444,JaCoby Jones,L,John Ryan Murphy,571974,0,0,2,True,2016-09-20,Caught,2B,2016,2017,26.9
+26,5668,1B,2B,Stolen Base 2B,502110,J.D. Martinez,607074,Carlos Rodón,457708,Justin Upton,L,Alex Avila,488671,3,2,6,False,2016-06-03,Stolen,2B,2016,2017,26.9
+27,6423,1B,,Caught Stealing 2B,502110,J.D. Martinez,471911,Carlos Carrasco,457454,Jarrod Saltalamacchia,R,Roberto Pérez,547379,0,0,2,False,2016-04-24,Caught,2B,2016,2017,26.9
+28,1025,1B,2B,Stolen Base 2B,502110,J.D. Martinez,502327,Héctor Santiago,592206,Nick Castellanos,L,Chris Iannetta,455104,1,0,5,True,2015-05-29,Stolen,2B,2015,2016,27.0
+29,1705,1B,,Caught Stealing 2B,502110,J.D. Martinez,430641,Blaine Boyer,493316,Yoenis Cespedes,R,Kurt Suzuki,435559,3,5,8,True,2015-04-27,Caught,2B,2015,2016,27.0
+30,1972,1B,2B,Stolen Base 2B,502110,J.D. Martinez,434538,Francisco Liriano,592206,Nick Castellanos,L,Francisco Cervelli,465041,0,0,2,True,2015-04-15,Stolen,2B,2015,2016,27.0

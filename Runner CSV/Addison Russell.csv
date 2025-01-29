@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+11,1B,2B,Stolen Base 2B,608365,Addison Russell,Brayan Peña,1,3,4,True,2015-09-30,Stolen,2B,2015
+12,1B,2B,Stolen Base 2B,608365,Addison Russell,Brayan Peña,1,5,6,True,2015-09-30,Stolen,2B,2015
+1122,1B,2B,Stolen Base 2B,608365,Addison Russell,Jonathan Lucroy,1,3,6,True,2015-07-31,Stolen,2B,2015
+2176,3B,,Caught Stealing Home,608365,Addison Russell,Jose Lobaton,0,2,5,True,2015-06-04,Caught,Home,2015
+2564,1B,2B,Stolen Base 2B,608365,Addison Russell,Chris Stewart,2,1,7,False,2015-05-16,Stolen,2B,2015
+3074,2B,,Caught Stealing 3B,608365,Addison Russell,Chris Stewart,1,3,4,True,2015-04-23,Caught,3B,2015
+143,1B,2B,Stolen Base 2B,608365,Addison Russell,Stephen Vogt,0,3,6,True,2016-08-06,Stolen,2B,2016
+429,1B,2B,Stolen Base 2B,608365,Addison Russell,Jonathan Lucroy,2,0,2,True,2016-07-23,Stolen,2B,2016
+630,1B,,Caught Stealing 2B,608365,Addison Russell,Eric Fryer,4,5,7,True,2016-07-10,Caught,2B,2016
+1492,1B,2B,Stolen Base 2B,608365,Addison Russell,Yadier Molina,1,3,6,True,2016-05-23,Stolen,2B,2016
+1895,1B,2B,Stolen Base 2B,608365,Addison Russell,Francisco Cervelli,1,0,2,True,2016-05-02,Stolen,2B,2016
+1641,1B,,Caught Stealing 2B,608365,Addison Russell,Tucker Barnhart,0,0,2,True,2017-07-01,Caught,2B,2017
+3089,1B,2B,Stolen Base 2B,608365,Addison Russell,Jett Bandy,3,4,8,False,2017-04-19,Stolen,2B,2017
+3178,1B,2B,Stolen Base 2B,608365,Addison Russell,Francisco Cervelli,1,1,4,False,2017-04-14,Stolen,2B,2017
+1661,1B,2B,Stolen Base 2B,608365,Addison Russell,James McCann,2,2,4,False,2018-07-04,Stolen,2B,2018
+1782,1B,2B,Stolen Base 2B,608365,Addison Russell,Austin Barnes,4,9,9,True,2018-06-26,Stolen,2B,2018
+2470,1B,2B,Stolen Base 2B,608365,Addison Russell,Tucker Barnhart,1,6,6,True,2018-05-18,Stolen,2B,2018
+370,1B,2B,Stolen Base 2B,608365,Addison Russell,Yasmani Grandal,1,1,3,True,2019-09-08,Stolen,2B,2019
+539,1B,2B,Stolen Base 2B,608365,Addison Russell,Wilson Ramos,1,4,7,True,2019-08-29,Stolen,2B,2019

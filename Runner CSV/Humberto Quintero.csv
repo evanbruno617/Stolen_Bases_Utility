@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1837,1B,,Caught Stealing 2B,279827,Humberto Quintero,Dan Wilson,1,5,9,True,2004-06-27,Caught,2B,2004
+1931,1B,,Caught Stealing 2B,279827,Humberto Quintero,Robby Hammock,0,0,2,False,2004-06-23,Caught,2B,2004
+3833,2B,3B,Stolen Base 3B,279827,Humberto Quintero,Jonathan Lucroy,6,9,10,True,2011-04-23,Stolen,3B,2011
+3347,1B,,Caught Stealing 2B,279827,Humberto Quintero,Kelly Shoppach,3,2,2,False,2012-05-08,Caught,2B,2012

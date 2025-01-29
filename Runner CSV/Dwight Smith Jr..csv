@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1973,2B,3B,Stolen Base 3B,596105,Dwight Smith Jr.,Derek Norris,7,6,8,False,2017-06-14,Stolen,3B,2017
+1064,1B,2B,Stolen Base 2B,596105,Dwight Smith Jr.,Kevan Smith,5,7,15,True,2019-07-25,Stolen,2B,2019
+2418,2B,3B,Stolen Base 3B,596105,Dwight Smith Jr.,James McCann,4,1,4,True,2019-05-01,Stolen,3B,2019
+2668,1B,2B,Stolen Base 2B,596105,Dwight Smith Jr.,Michael Pérez,0,2,3,True,2019-04-16,Stolen,2B,2019
+2807,2B,3B,Stolen Base 3B,596105,Dwight Smith Jr.,Josh Phegley,2,6,7,False,2019-04-09,Stolen,3B,2019
+1087,1B,2B,Stolen Base 2B,596105,Dwight Smith Jr.,Mike Zunino,1,0,4,False,2020-08-01,Stolen,2B,2020

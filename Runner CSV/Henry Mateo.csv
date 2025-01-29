@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1680,1B,2B,Stolen Base 2B,400116,Henry Mateo,Henry Blanco,2,7,5,False,2002-07-11,Stolen,2B,2002
+3408,1B,2B,Stolen Base 2B,400116,Henry Mateo,Raul Casanova,3,3,9,False,2002-04-24,Stolen,2B,2002
+305,1B,2B,Stolen Base 2B,400116,Henry Mateo,Vance Wilson,4,5,7,False,2003-09-13,Stolen,2B,2003
+393,2B,3B,Stolen Base 3B,400116,Henry Mateo,Damian Miller,8,4,8,False,2003-09-10,Stolen,3B,2003
+568,1B,2B,Stolen Base 2B,400116,Henry Mateo,Ivan Rodriguez,5,3,7,True,2003-08-31,Stolen,2B,2003
+645,1B,2B,Stolen Base 2B,400116,Henry Mateo,Mike Lieberthal,7,6,7,False,2003-08-27,Stolen,2B,2003
+646,2B,3B,Stolen Base 3B,400116,Henry Mateo,Mike Lieberthal,7,6,7,False,2003-08-27,Stolen,3B,2003
+1791,2B,3B,Stolen Base 3B,400116,Henry Mateo,Tom Wilson,1,6,8,True,2003-06-29,Stolen,3B,2003
+2158,2B,3B,Stolen Base 3B,400116,Henry Mateo,Ben Davis,1,3,9,True,2003-06-11,Stolen,3B,2003
+2361,1B,2B,Stolen Base 2B,400116,Henry Mateo,Todd Pratt,1,0,3,True,2003-06-01,Stolen,2B,2003
+2367,1B,2B,Stolen Base 2B,400116,Henry Mateo,Todd Pratt,1,0,3,True,2003-05-31,Stolen,2B,2003
+2662,1B,,Caught Stealing 2B,400116,Henry Mateo,Charles Johnson,4,6,10,True,2003-05-17,Caught,2B,2003
+3016,1B,2B,Stolen Base 2B,400116,Henry Mateo,Eddie Pérez,0,5,5,True,2003-05-01,Stolen,2B,2003
+3346,1B,2B,Stolen Base 2B,400116,Henry Mateo,Mike Piazza,3,3,7,False,2003-04-14,Stolen,2B,2003
+3347,2B,3B,Stolen Base 3B,400116,Henry Mateo,Mike Piazza,3,3,7,False,2003-04-14,Stolen,3B,2003
+265,1B,,Caught Stealing 2B,400116,Henry Mateo,A.J. Hinch,5,5,11,True,2004-09-18,Caught,2B,2004
+1070,1B,2B,Stolen Base 2B,400116,Henry Mateo,Brad Ausmus,1,5,9,True,2004-08-08,Stolen,2B,2004
+1113,1B,,Caught Stealing 2B,400116,Henry Mateo,Raul Chavez,2,0,5,True,2004-08-06,Caught,2B,2004
+1159,1B,2B,Stolen Base 2B,400116,Henry Mateo,Mike Matheny,4,4,8,True,2004-08-04,Stolen,2B,2004

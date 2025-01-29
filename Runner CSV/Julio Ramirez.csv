@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+639,1B,2B,Stolen Base 2B,150369,Julio Ramirez,Mike Hubbard,5,2,7,False,2001-05-11,Stolen,2B,2001
+847,2B,3B,Stolen Base 3B,150369,Julio Ramirez,Bengie Molina,0,1,1,True,2001-05-02,Stolen,3B,2001
+2197,1B,,Caught Stealing 2B,150369,Julio Ramirez,Jason Kendall,2,0,2,False,2002-06-12,Caught,2B,2002

@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2587,1B,,Caught Stealing 2B,452252,Adam Lind,Raul Casanova,1,0,2,False,2007-06-05,Caught,2B,2007
+3087,1B,,Caught Stealing 2B,452252,Adam Lind,Josh Paul,3,1,6,False,2007-05-11,Caught,2B,2007
+3154,1B,2B,Stolen Base 2B,452252,Adam Lind,Chris Stewart,0,0,1,True,2007-05-06,Stolen,2B,2007
+413,1B,2B,Stolen Base 2B,452252,Adam Lind,Toby Hall,2,5,6,True,2008-09-09,Stolen,2B,2008
+1328,1B,2B,Stolen Base 2B,452252,Adam Lind,Ramon Hernandez,0,0,3,True,2008-07-24,Stolen,2B,2008
+1339,1B,2B,Stolen Base 2B,452252,Adam Lind,Ramon Hernandez,0,0,3,True,2008-07-23,Stolen,2B,2008
+1343,1B,2B,Stolen Base 2B,452252,Adam Lind,Mike Napoli,4,0,6,False,2009-06-02,Stolen,2B,2009
+1504,1B,,Caught Stealing 2B,452252,Adam Lind,Gregg Zaun,1,1,4,True,2009-05-25,Caught,2B,2009
+3601,1B,,Caught Stealing 2B,452252,Adam Lind,John Jaso,1,2,8,True,2011-05-03,Caught,2B,2011
+4062,1B,2B,Stolen Base 2B,452252,Adam Lind,Jason Varitek,3,7,7,True,2011-04-15,Stolen,2B,2011
+3533,1B,2B,Stolen Base 2B,452252,Adam Lind,David Ross,2,0,6,False,2013-04-06,Stolen,2B,2013
+2095,1B,,Caught Stealing 2B,452252,Adam Lind,Carlos Pérez,2,2,6,True,2016-04-22,Caught,2B,2016
+1244,1B,2B,Stolen Base 2B,452252,Adam Lind,Jett Bandy,9,0,3,False,2017-07-27,Stolen,2B,2017

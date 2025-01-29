@@ -1,0 +1,46 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,656305,Matt Chapman,René Pinto,5,6,8,True,2023-09-24,Stolen,2B,2023
+1B,2B,Stolen Base 2B,543807,George Springer,René Pinto,1,1,6,True,2023-09-22,Stolen,2B,2023
+1B,2B,Stolen Base 2B,666182,Bo Bichette,René Pinto,1,1,6,True,2023-09-22,Stolen,2B,2023
+2B,,Caught Stealing 3B,593160,Whit Merrifield,René Pinto,2,5,9,True,2023-09-22,Caught,3B,2023
+1B,2B,Stolen Base 2B,543305,Aaron Hicks,René Pinto,4,0,4,False,2023-09-16,Stolen,2B,2023
+1B,2B,Stolen Base 2B,668942,Josh Rojas,René Pinto,1,4,4,True,2023-09-09,Stolen,2B,2023
+1B,2B,Stolen Base 2B,664238,Dylan Moore,René Pinto,2,4,7,True,2023-09-08,Stolen,2B,2023
+1B,2B,Stolen Base 2B,596115,Trevor Story,René Pinto,2,1,5,True,2023-09-06,Stolen,2B,2023
+1B,,Caught Stealing 2B,678882,Ceddanne Rafaela,René Pinto,0,0,1,True,2023-09-05,Caught,2B,2023
+1B,,Caught Stealing 2B,596115,Trevor Story,René Pinto,5,6,11,True,2023-09-05,Caught,2B,2023
+1B,2B,Stolen Base 2B,680757,Steven Kwan,René Pinto,2,2,7,False,2023-09-03,Stolen,2B,2023
+1B,2B,Stolen Base 2B,665926,Andrés Giménez,René Pinto,4,4,5,False,2023-09-02,Stolen,2B,2023
+2B,,Caught Stealing 3B,665926,Andrés Giménez,René Pinto,4,4,5,False,2023-09-02,Caught,3B,2023
+2B,3B,Stolen Base 3B,664702,Myles Straw,René Pinto,5,6,11,False,2023-09-02,Stolen,3B,2023
+1B,2B,Stolen Base 2B,680757,Steven Kwan,René Pinto,1,2,3,False,2023-09-01,Stolen,2B,2023
+1B,2B,Stolen Base 2B,665926,Andrés Giménez,René Pinto,1,2,7,False,2023-09-01,Stolen,2B,2023
+1B,2B,Stolen Base 2B,686668,Brenton Doyle,René Pinto,3,2,5,True,2023-08-22,Stolen,2B,2023
+1B,2B,Stolen Base 2B,666160,Mickey Moniak,René Pinto,2,2,2,False,2023-08-19,Stolen,2B,2023
+1B,2B,Stolen Base 2B,623205,Andrew Velazquez,René Pinto,7,6,6,False,2023-08-19,Stolen,2B,2023
+1B,2B,Stolen Base 2B,623205,Andrew Velazquez,René Pinto,6,6,9,False,2023-08-18,Stolen,2B,2023
+2B,3B,Stolen Base 3B,663457,Lars Nootbaar,René Pinto,2,2,3,True,2023-08-09,Stolen,3B,2023
+1B,,Caught Stealing 2B,669242,Tommy Edman,René Pinto,1,1,8,True,2023-08-08,Caught,2B,2023
+2B,3B,Stolen Base 3B,670097,Zack Short,René Pinto,4,2,8,False,2023-08-05,Stolen,3B,2023
+1B,,Caught Stealing 2B,683011,Anthony Volpe,René Pinto,5,2,6,False,2023-08-02,Caught,2B,2023
+1B,2B,Stolen Base 2B,656185,Greg Allen,René Pinto,7,2,7,False,2023-08-02,Stolen,2B,2023
+3B,score,Stolen Base Home,650402,Gleyber Torres,René Pinto,7,2,7,False,2023-08-02,Stolen,Home,2023
+1B,2B,Stolen Base 2B,683011,Anthony Volpe,René Pinto,7,2,8,False,2023-08-02,Stolen,2B,2023
+1B,2B,Stolen Base 2B,665161,Jeremy Peña,René Pinto,1,3,3,False,2023-07-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,676059,Jordan Westburg,René Pinto,5,6,9,True,2023-07-22,Stolen,2B,2023
+1B,2B,Stolen Base 2B,665161,Jeremy Peña,René Pinto,0,0,1,True,2022-09-21,Stolen,2B,2022
+2B,3B,Stolen Base 3B,665489,Vladimir Guerrero Jr.,René Pinto,0,0,1,False,2022-09-15,Stolen,3B,2022
+1B,2B,Stolen Base 2B,666182,Bo Bichette,René Pinto,0,0,1,False,2022-09-15,Stolen,2B,2022
+1B,2B,Stolen Base 2B,665489,Vladimir Guerrero Jr.,René Pinto,3,2,8,True,2022-08-03,Stolen,2B,2022
+2B,3B,Stolen Base 3B,614177,Franmil Reyes,René Pinto,3,3,5,True,2022-07-31,Stolen,3B,2022
+1B,2B,Stolen Base 2B,669720,Austin Hays,René Pinto,1,0,3,False,2022-07-28,Stolen,2B,2022
+1B,2B,Stolen Base 2B,680776,Jarren Duran,René Pinto,3,3,3,False,2022-07-05,Stolen,2B,2022
+1B,2B,Stolen Base 2B,592885,Christian Yelich,René Pinto,1,0,6,True,2022-06-28,Stolen,2B,2022
+1B,2B,Stolen Base 2B,660829,Hoy Park,René Pinto,3,3,10,True,2022-06-24,Stolen,2B,2022
+2B,3B,Stolen Base 3B,650402,Gleyber Torres,René Pinto,0,1,7,True,2022-06-20,Stolen,3B,2022
+1B,2B,Stolen Base 2B,592450,Aaron Judge,René Pinto,0,2,8,True,2022-06-20,Stolen,2B,2022
+1B,2B,Stolen Base 2B,656775,Cedric Mullins,René Pinto,1,0,8,False,2022-06-17,Stolen,2B,2022
+2B,3B,Stolen Base 3B,656775,Cedric Mullins,René Pinto,1,0,8,False,2022-06-17,Stolen,3B,2022
+1B,2B,Stolen Base 2B,663630,Ryan McKenna,René Pinto,1,0,8,False,2022-06-17,Stolen,2B,2022
+1B,2B,Stolen Base 2B,677594,Julio Rodríguez,René Pinto,1,1,4,True,2022-04-28,Stolen,2B,2022
+1B,2B,Stolen Base 2B,677594,Julio Rodríguez,René Pinto,2,1,9,True,2022-04-28,Stolen,2B,2022

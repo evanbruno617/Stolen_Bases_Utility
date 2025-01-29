@@ -1,0 +1,57 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+908,1B,,Caught Stealing 2B,421064,Ty Wigginton,Paul Lo Duca,2,3,8,False,2002-08-16,Caught,2B,2002
+1031,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Mike Matheny,1,1,4,True,2002-08-09,Stolen,2B,2002
+1094,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Paul Bako,1,5,3,True,2002-08-06,Stolen,2B,2002
+72,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Ivan Rodriguez,4,3,9,True,2003-09-26,Stolen,2B,2003
+520,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Javy Lopez,6,1,5,False,2003-09-03,Stolen,2B,2003
+909,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Benito Santiago,5,1,5,False,2003-08-13,Stolen,2B,2003
+1086,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Brad Ausmus,1,6,5,True,2003-08-05,Stolen,2B,2003
+1167,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Mike Matheny,2,1,6,False,2003-08-01,Stolen,2B,2003
+1464,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Javy Lopez,0,1,2,True,2003-07-19,Stolen,2B,2003
+1653,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Kelly Stinnett,0,4,7,True,2003-07-05,Stolen,2B,2003
+1840,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Jorge Posada,0,1,1,True,2003-06-27,Stolen,2B,2003
+1912,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Jorge Posada,1,0,4,False,2003-06-22,Stolen,2B,2003
+2030,1B,,Caught Stealing 2B,421064,Ty Wigginton,Ivan Rodriguez,0,0,1,True,2003-06-17,Caught,2B,2003
+2256,1B,,Caught Stealing 2B,421064,Ty Wigginton,Ben Davis,0,0,1,False,2003-06-06,Caught,2B,2003
+2416,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Mike Lieberthal,0,2,1,True,2003-05-29,Stolen,2B,2003
+2898,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Paul Lo Duca,3,2,5,False,2003-05-06,Stolen,2B,2003
+3080,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Chad Moeller,2,3,5,False,2003-04-27,Stolen,2B,2003
+3085,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Chad Moeller,2,3,5,False,2003-04-26,Stolen,2B,2003
+190,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Michael Barrett,0,1,7,False,2004-09-22,Stolen,2B,2004
+1453,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Matt Treanor,7,6,3,False,2004-07-20,Stolen,2B,2004
+1454,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Matt Treanor,7,7,5,False,2004-07-20,Stolen,2B,2004
+1613,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Mike Redmond,3,0,2,True,2004-07-10,Stolen,2B,2004
+1616,1B,,Caught Stealing 2B,421064,Ty Wigginton,Mike Redmond,3,0,4,True,2004-07-10,Caught,2B,2004
+1887,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Jorge Posada,2,2,4,True,2004-06-26,Stolen,2B,2004
+2404,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Mike Lieberthal,0,2,4,True,2004-05-31,Stolen,2B,2004
+2573,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Charles Johnson,4,0,8,False,2004-05-23,Stolen,2B,2004
+715,3B,,Caught Stealing Home,421064,Ty Wigginton,Jason LaRue,1,1,2,False,2005-08-26,Caught,Home,2005
+648,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Jason Kendall,0,2,1,True,2007-09-02,Stolen,2B,2007
+1383,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Brian McCann,0,1,2,True,2007-07-31,Stolen,2B,2007
+3085,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Jason Phillips,0,1,3,True,2007-05-11,Stolen,2B,2007
+3161,1B,,Caught Stealing 2B,421064,Ty Wigginton,Adam Melhuse,1,3,4,False,2007-05-06,Caught,2B,2007
+3474,1B,,Caught Stealing 2B,421064,Ty Wigginton,Kelly Shoppach,2,2,7,False,2007-04-22,Caught,2B,2007
+3516,2B,,Caught Stealing 3B,421064,Ty Wigginton,Victor Martinez,0,0,2,False,2007-04-20,Caught,3B,2007
+632,1B,,Caught Stealing 2B,421064,Ty Wigginton,Yadier Molina,0,1,4,False,2008-08-29,Caught,2B,2008
+938,1B,,Caught Stealing 2B,421064,Ty Wigginton,Bengie Molina,0,0,1,False,2008-08-13,Caught,2B,2008
+1566,1B,,Caught Stealing 2B,421064,Ty Wigginton,Ryan Doumit,3,4,5,True,2008-07-09,Caught,2B,2008
+1589,1B,,Caught Stealing 2B,421064,Ty Wigginton,Ryan Doumit,0,1,4,True,2008-07-08,Caught,2B,2008
+2094,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Jorge Posada,1,1,4,False,2008-06-13,Stolen,2B,2008
+2098,1B,,Caught Stealing 2B,421064,Ty Wigginton,Jorge Posada,1,2,9,False,2008-06-13,Caught,2B,2008
+2371,1B,,Caught Stealing 2B,421064,Ty Wigginton,Jason Kendall,0,1,5,True,2008-05-31,Caught,2B,2008
+2821,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Russell Martin,2,0,7,True,2008-05-11,Stolen,2B,2008
+2924,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Paul Lo Duca,1,2,4,False,2008-05-07,Stolen,2B,2008
+3684,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Josh Bard,2,0,2,True,2008-04-03,Stolen,2B,2008
+2410,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Jason Varitek,6,4,8,True,2009-04-18,Stolen,2B,2009
+3271,1B,,Caught Stealing 2B,421064,Ty Wigginton,Victor Martinez,1,1,2,False,2010-05-01,Caught,2B,2010
+323,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Héctor Sánchez,0,1,4,False,2011-09-17,Stolen,2B,2011
+1257,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Ramon Hernandez,6,7,7,True,2011-08-08,Stolen,2B,2011
+1413,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Carlos Ruiz,0,0,2,False,2011-08-01,Stolen,2B,2011
+1985,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Wilson Ramos,2,3,7,True,2011-07-08,Stolen,2B,2011
+2028,1B,,Caught Stealing 2B,421064,Ty Wigginton,Brian McCann,5,1,6,True,2011-07-06,Caught,2B,2011
+2588,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Nick Hundley,1,1,4,False,2011-06-13,Stolen,2B,2011
+3350,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Kyle Phillips,4,1,3,False,2011-05-14,Stolen,2B,2011
+3766,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Geovany Soto,2,4,8,True,2011-04-26,Stolen,2B,2011
+4250,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Jason Jaramillo,2,3,6,True,2011-04-08,Stolen,2B,2011
+3159,1B,2B,Stolen Base 2B,421064,Ty Wigginton,Geovany Soto,2,5,9,True,2012-05-16,Stolen,2B,2012
+2635,1B,,Caught Stealing 2B,421064,Ty Wigginton,John Baker,1,2,4,True,2013-05-20,Caught,2B,2013

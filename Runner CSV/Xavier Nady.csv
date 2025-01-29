@@ -1,0 +1,23 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+5,1B,2B,Stolen Base 2B,294558,Xavier Nady,Charles Johnson,4,3,5,False,2003-09-28,Stolen,2B,2003
+144,1B,2B,Stolen Base 2B,294558,Xavier Nady,Paul Lo Duca,4,0,1,False,2003-09-22,Stolen,2B,2003
+1421,1B,2B,Stolen Base 2B,294558,Xavier Nady,Chad Moeller,2,1,4,False,2003-07-20,Stolen,2B,2003
+2293,1B,2B,Stolen Base 2B,294558,Xavier Nady,Brandon Inge,3,1,5,False,2003-06-04,Stolen,2B,2003
+2590,1B,,Caught Stealing 2B,294558,Xavier Nady,Keith Osik,4,0,2,True,2003-05-20,Caught,2B,2003
+2834,1B,2B,Stolen Base 2B,294558,Xavier Nady,Mike Piazza,2,3,6,True,2003-05-09,Stolen,2B,2003
+3471,1B,,Caught Stealing 2B,294558,Xavier Nady,Todd Hundley,3,3,12,False,2003-04-06,Caught,2B,2003
+3540,1B,2B,Stolen Base 2B,294558,Xavier Nady,Todd Hundley,5,1,5,False,2003-04-03,Stolen,2B,2003
+659,2B,,Caught Stealing 3B,294558,Xavier Nady,Todd Greene,2,1,3,False,2005-08-28,Caught,3B,2005
+3238,1B,2B,Stolen Base 2B,294558,Xavier Nady,Jason Phillips,5,2,7,True,2005-04-16,Stolen,2B,2005
+3257,1B,2B,Stolen Base 2B,294558,Xavier Nady,Jason Phillips,3,0,5,True,2005-04-15,Stolen,2B,2005
+151,1B,2B,Stolen Base 2B,294558,Xavier Nady,Geovany Soto,0,0,2,True,2007-09-23,Stolen,2B,2007
+2173,1B,2B,Stolen Base 2B,294558,Xavier Nady,José Molina,3,3,9,True,2007-06-24,Stolen,2B,2007
+3589,1B,2B,Stolen Base 2B,294558,Xavier Nady,Gary Bennett,0,5,5,True,2007-04-17,Stolen,2B,2007
+3705,1B,,Caught Stealing 2B,294558,Xavier Nady,Yadier Molina,1,2,5,False,2007-04-11,Caught,2B,2007
+19,1B,2B,Stolen Base 2B,294558,Xavier Nady,David Ross,1,1,8,True,2008-09-28,Stolen,2B,2008
+29,1B,2B,Stolen Base 2B,294558,Xavier Nady,David Ross,1,1,8,True,2008-09-27,Stolen,2B,2008
+1293,1B,,Caught Stealing 2B,294558,Xavier Nady,Kevin Cash,3,7,7,True,2008-07-26,Caught,2B,2008
+3636,1B,2B,Stolen Base 2B,294558,Xavier Nady,Matt Treanor,1,1,4,True,2008-04-05,Stolen,2B,2008
+3060,1B,2B,Stolen Base 2B,294558,Xavier Nady,Chris Iannetta,1,2,9,True,2011-05-25,Stolen,2B,2011
+3985,1B,2B,Stolen Base 2B,294558,Xavier Nady,Buster Posey,4,5,8,False,2011-04-17,Stolen,2B,2011
+3995,1B,2B,Stolen Base 2B,294558,Xavier Nady,Josh Thole,0,2,8,True,2012-04-11,Stolen,2B,2012

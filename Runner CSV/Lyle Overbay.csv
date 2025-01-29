@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+96,1B,2B,Stolen Base 2B,407489,Lyle Overbay,Gregg Zaun,0,3,1,True,2003-09-25,Stolen,2B,2003
+1601,1B,2B,Stolen Base 2B,407489,Lyle Overbay,Javier Valentin,0,0,2,False,2004-07-10,Stolen,2B,2004
+1770,1B,2B,Stolen Base 2B,407489,Lyle Overbay,Craig Wilson,6,1,7,True,2004-07-02,Stolen,2B,2004
+1982,1B,,Caught Stealing 2B,407489,Lyle Overbay,Joe Mauer,7,6,8,False,2004-06-19,Caught,2B,2004
+2592,1B,2B,Stolen Base 2B,407489,Lyle Overbay,Craig Wilson,6,1,7,True,2004-05-21,Stolen,2B,2004
+196,1B,2B,Stolen Base 2B,407489,Lyle Overbay,Henry Blanco,3,2,5,False,2005-09-21,Stolen,2B,2005
+838,1B,2B,Stolen Base 2B,407489,Lyle Overbay,Jeff Mathis,0,0,1,True,2007-08-24,Stolen,2B,2007
+1361,1B,2B,Stolen Base 2B,407489,Lyle Overbay,Dioner Navarro,0,1,1,True,2007-08-01,Stolen,2B,2007
+2254,1B,2B,Stolen Base 2B,407489,Lyle Overbay,Ramon Hernandez,3,0,6,False,2008-06-06,Stolen,2B,2008
+3053,2B,,Caught Stealing 3B,407489,Lyle Overbay,Kevin Cash,0,3,9,True,2008-05-01,Caught,3B,2008
+3519,1B,,Caught Stealing 2B,407489,Lyle Overbay,Gerald Laird,4,8,9,True,2008-04-11,Caught,2B,2008
+3449,1B,2B,Stolen Base 2B,407489,Lyle Overbay,John Jaso,2,3,7,True,2010-04-24,Stolen,2B,2010
+226,1B,2B,Stolen Base 2B,407489,Lyle Overbay,Jason Jaramillo,3,0,1,False,2011-09-21,Stolen,2B,2011
+3578,1B,2B,Stolen Base 2B,407489,Lyle Overbay,Rob Johnson,5,5,8,True,2011-05-03,Stolen,2B,2011
+3612,1B,,Caught Stealing 2B,407489,Lyle Overbay,Nick Hundley,3,4,9,True,2011-05-02,Caught,2B,2011
+71,1B,2B,Stolen Base 2B,407489,Lyle Overbay,Jose Lobaton,0,4,8,False,2013-09-26,Stolen,2B,2013
+506,1B,2B,Stolen Base 2B,407489,Lyle Overbay,Ryan Lavarnway,2,3,4,False,2013-09-05,Stolen,2B,2013
+200,1B,2B,Stolen Base 2B,407489,Lyle Overbay,Russell Martin,0,0,4,True,2014-09-20,Stolen,2B,2014
+3221,1B,2B,Stolen Base 2B,407489,Lyle Overbay,Yasmani Grandal,1,1,7,False,2014-04-22,Stolen,2B,2014

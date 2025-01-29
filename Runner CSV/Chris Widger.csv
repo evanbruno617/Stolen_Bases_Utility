@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1859,1B,2B,Stolen Base 2B,124234,Chris Widger,Darrin Fletcher,0,0,2,False,2000-07-08,Stolen,2B,2000
+2450,1B,,Caught Stealing 2B,124234,Chris Widger,Alberto Castillo,3,3,7,True,2000-06-11,Caught,2B,2000
+485,1B,,Caught Stealing 2B,124234,Chris Widger,John Buck,6,5,8,False,2005-09-06,Caught,2B,2005
+2427,1B,,Caught Stealing 2B,124234,Chris Widger,José Molina,1,4,7,True,2005-05-25,Caught,2B,2005

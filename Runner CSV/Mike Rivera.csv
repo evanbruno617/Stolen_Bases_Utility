@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1006,1B,2B,Stolen Base 2B,407576,Mike Rivera,Jesus Flores,1,1,7,False,2008-08-10,Stolen,2B,2008
+2900,1B,2B,Stolen Base 2B,407576,Mike Rivera,Matt Treanor,3,1,4,True,2008-05-08,Stolen,2B,2008
+1217,1B,2B,Stolen Base 2B,407576,Mike Rivera,Brian McCann,8,7,9,True,2009-06-07,Stolen,2B,2009

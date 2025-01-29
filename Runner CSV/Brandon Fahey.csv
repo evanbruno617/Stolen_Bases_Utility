@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+415,1B,2B,Stolen Base 2B,454994,Brandon Fahey,Mike Napoli,2,0,2,False,2007-09-13,Stolen,2B,2007
+1584,1B,2B,Stolen Base 2B,454994,Brandon Fahey,Kurt Suzuki,4,3,9,True,2007-07-21,Stolen,2B,2007
+1862,1B,,Caught Stealing 2B,454994,Brandon Fahey,Gerald Laird,0,2,7,True,2007-07-07,Caught,2B,2007

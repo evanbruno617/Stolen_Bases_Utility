@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+121,1B,,Caught Stealing 2B,111673,Damon Buford,Gary Bennett,1,1,2,False,2000-09-25,Caught,2B,2000
+195,1B,2B,Caught Stealing 3B,111673,Damon Buford,Mike Matheny,4,4,8,False,2000-09-22,Caught,3B,2000
+887,1B,2B,Stolen Base 2B,111673,Damon Buford,Chad Kreuter,0,0,4,False,2000-08-25,Stolen,2B,2000
+1192,1B,,Caught Stealing 2B,111673,Damon Buford,Jason LaRue,4,0,6,False,2000-08-11,Caught,2B,2000
+1279,1B,2B,Stolen Base 2B,111673,Damon Buford,Wiki Gonzalez,8,4,8,True,2000-08-06,Stolen,2B,2000
+1607,1B,,Caught Stealing 2B,111673,Damon Buford,Henry Blanco,5,2,3,False,2000-07-23,Caught,2B,2000
+1949,1B,2B,Stolen Base 2B,111673,Damon Buford,Jason Kendall,4,2,4,False,2000-07-04,Stolen,2B,2000
+2151,1B,,Caught Stealing 2B,111673,Damon Buford,Mike Redmond,3,3,3,True,2000-06-25,Caught,2B,2000
+2174,2B,,Caught Stealing 3B,111673,Damon Buford,Mike Redmond,2,3,8,True,2000-06-24,Caught,3B,2000
+2915,2B,3B,Stolen Base 3B,111673,Damon Buford,Eddie Taubensee,3,0,6,False,2000-05-21,Stolen,3B,2000

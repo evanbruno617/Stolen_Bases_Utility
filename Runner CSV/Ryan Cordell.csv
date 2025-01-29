@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+44,1B,2B,Stolen Base 2B,641477,Ryan Cordell,Grayson Greiner,6,1,6,False,2019-09-28,Stolen,2B,2019
+280,1B,,Caught Stealing 2B,641477,Ryan Cordell,Tom Murphy,5,8,5,True,2019-09-13,Caught,2B,2019
+2242,1B,2B,Stolen Base 2B,641477,Ryan Cordell,Danny Jansen,1,5,4,True,2019-05-12,Stolen,2B,2019
+2612,1B,2B,Stolen Base 2B,641477,Ryan Cordell,Grayson Greiner,1,2,7,True,2019-04-19,Stolen,2B,2019
+1132,1B,2B,Stolen Base 2B,641477,Ryan Cordell,Christian Vázquez,2,3,8,False,2020-07-30,Stolen,2B,2020

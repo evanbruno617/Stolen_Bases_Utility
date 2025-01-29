@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2718,1B,,Caught Stealing 2B,448276,Brett Carroll,Michael Barrett,1,0,4,False,2009-04-04,Caught,2B,2009
+2781,1B,2B,Stolen Base 2B,448276,Brett Carroll,A.J. Pierzynski,0,7,4,True,2010-05-23,Stolen,2B,2010
+3218,1B,2B,Stolen Base 2B,448276,Brett Carroll,Bengie Molina,6,6,9,False,2010-05-04,Stolen,2B,2010
+3452,3B,,Caught Stealing Home,448276,Brett Carroll,Chris Iannetta,1,4,9,True,2010-04-24,Caught,Home,2010

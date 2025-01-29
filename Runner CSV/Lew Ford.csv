@@ -1,0 +1,46 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+90,2B,3B,Stolen Base 3B,217915,Lew Ford,Brandon Inge,3,1,8,True,2003-09-25,Stolen,3B,2003
+247,1B,2B,Stolen Base 2B,217915,Lew Ford,Sandy Alomar Jr.,5,1,7,False,2003-09-16,Stolen,2B,2003
+163,1B,2B,Stolen Base 2B,217915,Lew Ford,Josh Bard,8,6,8,True,2004-09-23,Stolen,2B,2004
+621,1B,2B,Stolen Base 2B,217915,Lew Ford,Rod Barajas,5,5,8,False,2004-08-31,Stolen,2B,2004
+758,1B,2B,Stolen Base 2B,217915,Lew Ford,Rod Barajas,0,3,6,True,2004-08-24,Stolen,2B,2004
+836,1B,2B,Stolen Base 2B,217915,Lew Ford,Victor Martinez,4,1,7,False,2004-08-20,Stolen,2B,2004
+1067,1B,2B,Stolen Base 2B,217915,Lew Ford,Damian Miller,0,0,1,False,2004-08-08,Stolen,2B,2004
+1206,1B,2B,Stolen Base 2B,217915,Lew Ford,Jason Varitek,4,3,8,False,2004-08-01,Stolen,2B,2004
+1415,1B,2B,Stolen Base 2B,217915,Lew Ford,Toby Hall,5,1,7,False,2004-07-22,Stolen,2B,2004
+1544,1B,2B,Stolen Base 2B,217915,Lew Ford,Alberto Castillo,0,0,4,True,2004-07-17,Stolen,2B,2004
+1573,1B,2B,Stolen Base 2B,217915,Lew Ford,John Buck,3,1,9,True,2004-07-15,Stolen,2B,2004
+1729,1B,2B,Stolen Base 2B,217915,Lew Ford,Juan Brito,4,6,7,True,2004-07-03,Stolen,2B,2004
+1894,1B,2B,Stolen Base 2B,217915,Lew Ford,Gary Bennett,1,0,1,False,2004-06-25,Stolen,2B,2004
+1925,1B,2B,Stolen Base 2B,217915,Lew Ford,Jason Varitek,1,3,4,True,2004-06-24,Stolen,2B,2004
+1981,1B,2B,Stolen Base 2B,217915,Lew Ford,Gary Bennett,0,5,7,True,2004-06-19,Stolen,2B,2004
+2129,1B,2B,Stolen Base 2B,217915,Lew Ford,Mike Lieberthal,4,1,7,False,2004-06-12,Stolen,2B,2004
+2401,1B,2B,Stolen Base 2B,217915,Lew Ford,Toby Hall,0,0,1,False,2004-05-31,Stolen,2B,2004
+2459,1B,2B,Stolen Base 2B,217915,Lew Ford,Benito Santiago,1,2,5,True,2004-05-29,Stolen,2B,2004
+2885,1B,2B,Stolen Base 2B,217915,Lew Ford,Dan Wilson,0,1,4,True,2004-05-06,Stolen,2B,2004
+3076,1B,2B,Stolen Base 2B,217915,Lew Ford,Kevin Cash,0,3,2,False,2004-04-27,Stolen,2B,2004
+3324,1B,2B,Stolen Base 2B,217915,Lew Ford,Victor Martinez,0,1,5,True,2004-04-15,Stolen,2B,2004
+177,1B,2B,Stolen Base 2B,217915,Lew Ford,A.J. Pierzynski,1,1,9,True,2005-09-22,Stolen,2B,2005
+479,1B,2B,Stolen Base 2B,217915,Lew Ford,Gerald Laird,0,0,1,False,2005-09-07,Stolen,2B,2005
+542,1B,,Caught Stealing 2B,217915,Lew Ford,Victor Martinez,0,0,4,False,2005-09-03,Caught,2B,2005
+616,1B,2B,Stolen Base 2B,217915,Lew Ford,John Buck,2,7,6,True,2005-08-30,Stolen,2B,2005
+841,1B,2B,Stolen Base 2B,217915,Lew Ford,Miguel Ojeda,4,3,6,False,2005-08-18,Stolen,2B,2005
+856,2B,3B,Stolen Base 3B,217915,Lew Ford,Chris Widger,0,4,5,True,2005-08-17,Stolen,3B,2005
+874,1B,,Caught Stealing 2B,217915,Lew Ford,A.J. Pierzynski,0,1,2,True,2005-08-16,Caught,2B,2005
+956,1B,2B,Stolen Base 2B,217915,Lew Ford,Jason Kendall,0,0,5,True,2005-08-12,Stolen,2B,2005
+1050,1B,2B,Stolen Base 2B,217915,Lew Ford,Doug Mirabelli,3,5,3,False,2005-08-07,Stolen,2B,2005
+1062,1B,2B,Stolen Base 2B,217915,Lew Ford,Jason Varitek,3,3,8,False,2005-08-06,Stolen,2B,2005
+1168,1B,2B,Stolen Base 2B,217915,Lew Ford,Jason Varitek,2,2,6,True,2005-07-31,Stolen,2B,2005
+1926,1B,,Caught Stealing 2B,217915,Lew Ford,Ivan Rodriguez,1,3,4,False,2005-06-21,Caught,2B,2005
+2269,1B,2B,Stolen Base 2B,217915,Lew Ford,Josh Bard,3,3,10,False,2005-06-02,Stolen,2B,2005
+2485,1B,2B,Stolen Base 2B,217915,Lew Ford,Victor Martinez,1,1,6,True,2005-05-24,Stolen,2B,2005
+2499,1B,2B,Stolen Base 2B,217915,Lew Ford,Victor Martinez,2,1,9,True,2005-05-23,Stolen,2B,2005
+2562,1B,,Caught Stealing 2B,217915,Lew Ford,Ken Huckaby,4,0,7,False,2005-05-19,Caught,2B,2005
+2630,1B,,Caught Stealing 2B,217915,Lew Ford,Rod Barajas,5,2,7,False,2005-05-15,Caught,2B,2005
+2957,1B,2B,Stolen Base 2B,217915,Lew Ford,José Molina,4,1,4,False,2005-04-30,Stolen,2B,2005
+3131,1B,,Caught Stealing 2B,217915,Lew Ford,Ivan Rodriguez,3,2,4,True,2005-04-22,Caught,2B,2005
+378,1B,,Caught Stealing 2B,217915,Lew Ford,Ivan Rodriguez,2,4,8,False,2007-09-14,Caught,2B,2007
+1374,2B,3B,Stolen Base 3B,217915,Lew Ford,Jason LaRue,3,0,2,False,2007-07-31,Stolen,3B,2007
+2254,2B,3B,Stolen Base 3B,217915,Lew Ford,Paul Lo Duca,1,0,2,True,2007-06-20,Stolen,3B,2007
+2479,1B,2B,Stolen Base 2B,217915,Lew Ford,Jesus Flores,1,3,7,False,2007-06-09,Stolen,2B,2007
+529,1B,2B,Stolen Base 2B,217915,Lew Ford,Russell Martin,5,3,8,False,2012-09-08,Stolen,2B,2012

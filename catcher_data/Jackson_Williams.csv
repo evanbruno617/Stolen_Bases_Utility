@@ -1,0 +1,6 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2B,,Caught Stealing 3B,542255,Ender Inciarte,Jackson Williams,2,1,7,False,2015-09-09,Caught,3B,2015
+1B,2B,Stolen Base 2B,605486,Cory Spangenberg,Jackson Williams,3,0,3,True,2014-09-07,Stolen,2B,2014
+1B,2B,Stolen Base 2B,452254,Hunter Pence,Jackson Williams,7,12,8,True,2014-09-02,Stolen,2B,2014
+1B,2B,Stolen Base 2B,542255,Ender Inciarte,Jackson Williams,0,0,1,False,2014-08-31,Stolen,2B,2014
+1B,2B,Stolen Base 2B,434636,Ángel Pagán,Jackson Williams,2,1,6,False,2014-08-28,Stolen,2B,2014

@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2251,1B,2B,Stolen Base 2B,519023,Devin Mesoraco,Drew Butera,1,2,7,False,2012-06-24,Stolen,2B,2012
+3847,1B,,Caught Stealing 2B,519023,Devin Mesoraco,Yadier Molina,1,1,10,True,2012-04-17,Caught,2B,2012
+1533,1B,,Caught Stealing 2B,519023,Devin Mesoraco,Gerald Laird,2,5,8,True,2013-07-14,Caught,2B,2013
+3212,1B,,Caught Stealing 2B,519023,Devin Mesoraco,Welington Castillo,0,2,5,False,2013-04-22,Caught,2B,2013
+1538,3B,,Caught Stealing Home,519023,Devin Mesoraco,Russell Martin,4,2,5,False,2014-07-13,Caught,Home,2014
+2396,3B,,Caught Stealing Home,519023,Devin Mesoraco,Miguel Montero,0,0,2,True,2014-06-01,Caught,Home,2014
+3255,1B,,Caught Stealing 2B,519023,Devin Mesoraco,Russell Martin,0,2,4,True,2014-04-21,Caught,2B,2014
+3331,1B,2B,Stolen Base 2B,519023,Devin Mesoraco,Welington Castillo,0,0,5,True,2014-04-18,Stolen,2B,2014
+3332,1B,2B,Stolen Base 2B,519023,Devin Mesoraco,Yadier Molina,1,2,4,False,2015-04-11,Stolen,2B,2015
+2231,1B,,Caught Stealing 2B,519023,Devin Mesoraco,Yadier Molina,5,8,7,True,2016-04-16,Caught,2B,2016
+2603,1B,2B,Stolen Base 2B,519023,Devin Mesoraco,Nick Hundley,2,1,6,True,2017-05-13,Stolen,2B,2017

@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+192,1B,,Caught Stealing 2B,642336,Francisco Mejía,Yasmani Grandal,0,2,5,True,2019-09-18,Caught,2B,2019
+903,1B,2B,Stolen Base 2B,642336,Francisco Mejía,Russell Martin,6,6,6,True,2019-08-04,Stolen,2B,2019
+2454,1B,,Caught Stealing 2B,642336,Francisco Mejía,Carlos Pérez,3,3,6,True,2023-06-15,Caught,2B,2023

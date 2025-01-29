@@ -1,0 +1,14 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,5428,1B,,Caught Stealing 2B,488862,Yunel Escobar,543521,Collin McHugh,594777,Kole Calhoun,R,Evan Gattis,594828,0,0,1,True,2016-07-23,Caught,2B,2016,2017,25.4
+1,6486,1B,,Caught Stealing 2B,488862,Yunel Escobar,474521,Shawn Tolleson,405395,Albert Pujols,R,Bobby Wilson,435064,0,2,8,True,2016-05-23,Caught,2B,2016,2017,25.4
+2,7223,1B,,Caught Stealing 2B,488862,Yunel Escobar,445060,Ricky Nolasco,542364,Rafael Ortega,R,John Ryan Murphy,571974,3,4,5,True,2016-04-16,Caught,2B,2016,2017,25.4
+3,1393,1B,,Caught Stealing 2B,488862,Yunel Escobar,543521,Collin McHugh,594777,Kole Calhoun,R,Evan Gattis,594828,0,0,1,True,2016-07-23,Caught,2B,2016,2017,25.4
+4,2451,1B,,Caught Stealing 2B,488862,Yunel Escobar,474521,Shawn Tolleson,405395,Albert Pujols,R,Bobby Wilson,435064,0,2,8,True,2016-05-23,Caught,2B,2016,2017,25.4
+5,3188,1B,,Caught Stealing 2B,488862,Yunel Escobar,445060,Ricky Nolasco,542364,Rafael Ortega,R,John Ryan Murphy,571974,3,4,5,True,2016-04-16,Caught,2B,2016,2017,25.4
+6,4800,1B,,Caught Stealing 2B,488862,Yunel Escobar,543521,Collin McHugh,594777,Kole Calhoun,R,Evan Gattis,594828,0,0,1,True,2016-07-23,Caught,2B,2016,2017,25.4
+7,5858,1B,,Caught Stealing 2B,488862,Yunel Escobar,474521,Shawn Tolleson,405395,Albert Pujols,R,Bobby Wilson,435064,0,2,8,True,2016-05-23,Caught,2B,2016,2017,25.4
+8,6595,1B,,Caught Stealing 2B,488862,Yunel Escobar,445060,Ricky Nolasco,542364,Rafael Ortega,R,John Ryan Murphy,571974,3,4,5,True,2016-04-16,Caught,2B,2016,2017,25.4
+9,1089,1B,2B,Stolen Base 2B,488862,Yunel Escobar,444468,Héctor Rondón,475582,Ryan Zimmerman,R,Miguel Montero,471083,2,2,9,True,2015-05-26,Stolen,2B,2015,2016,25.6
+10,1090,2B,,Caught Stealing 3B,488862,Yunel Escobar,444468,Héctor Rondón,467092,Wilson Ramos,R,Miguel Montero,471083,2,2,9,True,2015-05-26,Caught,3B,2015,2016,25.6
+11,2111,1B,,Caught Stealing 2B,488862,Yunel Escobar,518774,Matt Harvey,475582,Ryan Zimmerman,R,Travis d'Arnaud,518595,0,0,1,False,2015-04-09,Caught,2B,2015,2016,25.6
+12,2209,1B,,Caught Stealing 2B,488862,Yunel Escobar,282332,CC Sabathia,547180,Bryce Harper,L,John Ryan Murphy,571974,0,3,2,True,2015-04-03,Caught,2B,2015,2016,25.6

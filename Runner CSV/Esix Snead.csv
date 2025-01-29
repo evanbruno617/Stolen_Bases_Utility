@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+15,1B,2B,Stolen Base 2B,400109,Esix Snead,Henry Blanco,6,1,6,False,2002-09-29,Stolen,2B,2002
+63,1B,2B,Stolen Base 2B,400109,Esix Snead,Javy Lopez,0,0,1,False,2002-09-27,Stolen,2B,2002
+209,1B,,Caught Stealing 2B,400109,Esix Snead,Mike Mahoney,1,2,8,False,2002-09-19,Caught,2B,2002
+261,1B,,Caught Stealing 2B,400109,Esix Snead,Joe Girardi,1,1,8,False,2002-09-17,Caught,2B,2002
+507,1B,2B,Stolen Base 2B,400109,Esix Snead,Mike Lieberthal,2,7,9,True,2002-09-06,Stolen,2B,2002
+523,1B,2B,Stolen Base 2B,400109,Esix Snead,Charles Johnson,6,3,6,False,2002-09-04,Stolen,2B,2002
+1913,1B,2B,Stolen Base 2B,400109,Esix Snead,Javy Lopez,0,0,1,False,2002-06-27,Stolen,2B,2002

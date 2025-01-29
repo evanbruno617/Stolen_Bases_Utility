@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3078,1B,2B,Stolen Base 2B,572228,Luke Voit,Joey Bart,6,0,2,True,2022-04-12,Stolen,2B,2022
+3258,1B,2B,Stolen Base 2B,572228,Luke Voit,Freddy Fermin,3,0,6,False,2023-05-12,Stolen,2B,2023
+4150,1B,2B,Stolen Base 2B,572228,Luke Voit,Omar Narváez,6,6,5,False,2023-04-05,Stolen,2B,2023

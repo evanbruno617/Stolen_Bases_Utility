@@ -1,0 +1,10 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2691,1B,2B,Stolen Base 2B,134181,Adrian Beltré,458006,Matt Albers,596059,Rougned Odor,R,Jose Lobaton,446653,3,1,7,True,2017-06-10,Stolen,2B,2017,2018,24.9
+1,2063,1B,2B,Stolen Base 2B,134181,Adrian Beltré,458006,Matt Albers,596059,Rougned Odor,R,Jose Lobaton,446653,3,1,7,True,2017-06-10,Stolen,2B,2017,2018,24.9
+2,4436,1B,2B,Stolen Base 2B,134181,Adrian Beltré,450308,Jered Weaver,608577,Nomar Mazara,R,Carlos Pérez,542208,2,1,4,True,2016-09-11,Stolen,2B,2016,2017,24.2
+3,4936,1B,,Caught Stealing 2B,134181,Adrian Beltré,605242,Michael Fulmer,518960,Jonathan Lucroy,R,James McCann,543510,0,0,2,False,2016-08-14,Caught,2B,2016,2017,24.2
+4,401,1B,2B,Stolen Base 2B,134181,Adrian Beltré,450308,Jered Weaver,608577,Nomar Mazara,R,Carlos Pérez,542208,2,1,4,True,2016-09-11,Stolen,2B,2016,2017,24.2
+5,901,1B,,Caught Stealing 2B,134181,Adrian Beltré,605242,Michael Fulmer,518960,Jonathan Lucroy,R,James McCann,543510,0,0,2,False,2016-08-14,Caught,2B,2016,2017,24.2
+6,3808,1B,2B,Stolen Base 2B,134181,Adrian Beltré,450308,Jered Weaver,608577,Nomar Mazara,R,Carlos Pérez,542208,2,1,4,True,2016-09-11,Stolen,2B,2016,2017,24.2
+7,4308,1B,,Caught Stealing 2B,134181,Adrian Beltré,605242,Michael Fulmer,518960,Jonathan Lucroy,R,James McCann,543510,0,0,2,False,2016-08-14,Caught,2B,2016,2017,24.2
+8,1843,1B,2B,Stolen Base 2B,134181,Adrian Beltré,502624,Chase Anderson,425783,Shin-Soo Choo,R,Tuffy Gosewisch,488912,1,1,4,True,2015-04-21,Stolen,2B,2015,2016,25.9

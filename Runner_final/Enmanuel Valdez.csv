@@ -1,0 +1,11 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2652,1B,2B,Stolen Base 2B,665839,Enmanuel Valdez,676440,Tanner Bibee,657077,Alex Verdugo,R,Mike Zunino,572287,1,2,4,True,2023-06-07,Stolen,2B,2023,2024,26.2
+1,3292,1B,,Caught Stealing 2B,665839,Enmanuel Valdez,664849,Danny Young,657077,Alex Verdugo,L,Travis d'Arnaud,518595,0,2,5,True,2023-05-10,Caught,2B,2023,2024,26.2
+2,3431,1B,2B,Stolen Base 2B,665839,Enmanuel Valdez,641401,Connor Brogdon,657136,Connor Wong,R,J.T. Realmuto,592663,3,5,6,True,2023-05-05,Stolen,2B,2023,2024,26.2
+3,3474,1B,2B,Stolen Base 2B,665839,Enmanuel Valdez,666201,Alek Manoah,571771,Enrique Hernández,R,Alejandro Kirk,672386,5,3,5,False,2023-05-03,Stolen,2B,2023,2024,26.2
+4,3521,1B,2B,Stolen Base 2B,665839,Enmanuel Valdez,621244,José Berríos,657077,Alex Verdugo,R,Danny Jansen,643376,2,3,2,False,2023-05-01,Stolen,2B,2023,2024,26.2
+5,7066,1B,2B,Stolen Base 2B,665839,Enmanuel Valdez,676440,Tanner Bibee,657077,Alex Verdugo,R,Mike Zunino,572287,1,2,4,True,2023-06-07,Stolen,2B,2023,2024,26.2
+6,7706,1B,,Caught Stealing 2B,665839,Enmanuel Valdez,664849,Danny Young,657077,Alex Verdugo,L,Travis d'Arnaud,518595,0,2,5,True,2023-05-10,Caught,2B,2023,2024,26.2
+7,7845,1B,2B,Stolen Base 2B,665839,Enmanuel Valdez,641401,Connor Brogdon,657136,Connor Wong,R,J.T. Realmuto,592663,3,5,6,True,2023-05-05,Stolen,2B,2023,2024,26.2
+8,7888,1B,2B,Stolen Base 2B,665839,Enmanuel Valdez,666201,Alek Manoah,571771,Enrique Hernández,R,Alejandro Kirk,672386,5,3,5,False,2023-05-03,Stolen,2B,2023,2024,26.2
+9,7935,1B,2B,Stolen Base 2B,665839,Enmanuel Valdez,621244,José Berríos,657077,Alex Verdugo,R,Danny Jansen,643376,2,3,2,False,2023-05-01,Stolen,2B,2023,2024,26.2

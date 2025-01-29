@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+113,1B,,Caught Stealing 2B,593528,Jorge Bonifacio,Gary Sánchez,3,0,5,True,2017-09-25,Caught,2B,2017
+1431,1B,2B,Stolen Base 2B,593528,Jorge Bonifacio,Jonathan Lucroy,3,2,7,False,2017-07-16,Stolen,2B,2017
+2359,1B,,Caught Stealing 2B,593528,Jorge Bonifacio,Gary Sánchez,3,0,5,True,2017-05-25,Caught,2B,2017

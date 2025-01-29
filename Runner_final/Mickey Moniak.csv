@@ -1,0 +1,20 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,987,1B,,Caught Stealing 2B,666160,Mickey Moniak,664747,Alexis Díaz,545341,Randal Grichuk,R,Tyler Stephenson,663886,3,4,9,False,2023-08-22,Caught,2B,2023,2024,28.6
+1,1054,1B,2B,Stolen Base 2B,666160,Mickey Moniak,607192,Tyler Glasnow,650859,Luis Rengifo,R,René Pinto,650907,2,2,2,False,2023-08-19,Stolen,2B,2023,2024,28.6
+2,1357,1B,2B,Stolen Base 2B,666160,Mickey Moniak,669923,George Kirby,545341,Randal Grichuk,R,Tom Murphy,608596,1,2,5,False,2023-08-05,Stolen,2B,2023,2024,28.6
+3,1506,1B,2B,Stolen Base 2B,666160,Mickey Moniak,621244,José Berríos,642136,Matt Thaiss,R,Danny Jansen,643376,0,0,1,True,2023-07-30,Stolen,2B,2023,2024,28.6
+4,1539,1B,,Caught Stealing 2B,666160,Mickey Moniak,592332,Kevin Gausman,621493,Taylor Ward,R,Danny Jansen,643376,1,1,3,True,2023-07-28,Caught,2B,2023,2024,28.6
+5,1744,1B,2B,Stolen Base 2B,666160,Mickey Moniak,593334,Domingo Germán,519058,Mike Moustakas,R,Kyle Higashioka,543309,5,1,5,False,2023-07-18,Stolen,2B,2023,2024,28.6
+6,2427,2B,,Caught Stealing 3B,666160,Mickey Moniak,663903,Brady Singer,545361,Mike Trout,R,Freddy Fermin,666023,0,1,3,True,2023-06-16,Caught,3B,2023,2024,28.6
+7,3224,1B,2B,Stolen Base 2B,666160,Mickey Moniak,615698,Cal Quantrill,545361,Mike Trout,R,David Fry,681807,0,1,3,True,2023-05-13,Stolen,2B,2023,2024,28.6
+8,3226,1B,2B,Stolen Base 2B,666160,Mickey Moniak,660853,Enyel De Los Santos,650859,Luis Rengifo,R,David Fry,681807,2,4,7,True,2023-05-13,Stolen,2B,2023,2024,28.6
+9,5401,1B,,Caught Stealing 2B,666160,Mickey Moniak,664747,Alexis Díaz,545341,Randal Grichuk,R,Tyler Stephenson,663886,3,4,9,False,2023-08-22,Caught,2B,2023,2024,28.6
+10,5468,1B,2B,Stolen Base 2B,666160,Mickey Moniak,607192,Tyler Glasnow,650859,Luis Rengifo,R,René Pinto,650907,2,2,2,False,2023-08-19,Stolen,2B,2023,2024,28.6
+11,5771,1B,2B,Stolen Base 2B,666160,Mickey Moniak,669923,George Kirby,545341,Randal Grichuk,R,Tom Murphy,608596,1,2,5,False,2023-08-05,Stolen,2B,2023,2024,28.6
+12,5920,1B,2B,Stolen Base 2B,666160,Mickey Moniak,621244,José Berríos,642136,Matt Thaiss,R,Danny Jansen,643376,0,0,1,True,2023-07-30,Stolen,2B,2023,2024,28.6
+13,5953,1B,,Caught Stealing 2B,666160,Mickey Moniak,592332,Kevin Gausman,621493,Taylor Ward,R,Danny Jansen,643376,1,1,3,True,2023-07-28,Caught,2B,2023,2024,28.6
+14,6158,1B,2B,Stolen Base 2B,666160,Mickey Moniak,593334,Domingo Germán,519058,Mike Moustakas,R,Kyle Higashioka,543309,5,1,5,False,2023-07-18,Stolen,2B,2023,2024,28.6
+15,6841,2B,,Caught Stealing 3B,666160,Mickey Moniak,663903,Brady Singer,545361,Mike Trout,R,Freddy Fermin,666023,0,1,3,True,2023-06-16,Caught,3B,2023,2024,28.6
+16,7638,1B,2B,Stolen Base 2B,666160,Mickey Moniak,615698,Cal Quantrill,545361,Mike Trout,R,David Fry,681807,0,1,3,True,2023-05-13,Stolen,2B,2023,2024,28.6
+17,7640,1B,2B,Stolen Base 2B,666160,Mickey Moniak,660853,Enyel De Los Santos,650859,Luis Rengifo,R,David Fry,681807,2,4,7,True,2023-05-13,Stolen,2B,2023,2024,28.6
+18,1863,1B,2B,Stolen Base 2B,666160,Mickey Moniak,676664,JP Sears,596117,Garrett Stubbs,L,Jose Trevino,624431,0,0,3,True,2022-04-04,Stolen,2B,2022,2023,28.6

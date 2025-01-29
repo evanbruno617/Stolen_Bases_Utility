@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+738,1B,2B,Stolen Base 2B,240494,Mark Quinn,Mike DiFelice,0,1,6,True,2000-08-31,Stolen,2B,2000
+827,1B,2B,Stolen Base 2B,240494,Mark Quinn,Scott Hatteberg,0,0,2,False,2000-08-27,Stolen,2B,2000
+918,1B,2B,Stolen Base 2B,240494,Mark Quinn,Darrin Fletcher,2,1,2,True,2000-08-23,Stolen,2B,2000
+1144,1B,,Caught Stealing 2B,240494,Mark Quinn,Brook Fordyce,8,8,7,False,2000-08-12,Caught,2B,2000
+2135,1B,2B,Stolen Base 2B,240494,Mark Quinn,Ramon Hernandez,4,3,8,True,2000-06-25,Stolen,2B,2000
+3073,1B,2B,Stolen Base 2B,240494,Mark Quinn,Ramon Hernandez,0,2,1,True,2000-05-15,Stolen,2B,2000
+314,1B,,Caught Stealing 2B,240494,Mark Quinn,Ramon Hernandez,4,1,6,False,2001-05-23,Caught,2B,2001
+544,1B,,Caught Stealing 2B,240494,Mark Quinn,A.J. Pierzynski,2,1,6,True,2001-05-14,Caught,2B,2001
+640,1B,,Caught Stealing 2B,240494,Mark Quinn,A.J. Pierzynski,0,1,2,True,2001-05-11,Caught,2B,2001
+1067,1B,2B,Stolen Base 2B,240494,Mark Quinn,John Flaherty,0,2,3,True,2001-04-24,Stolen,2B,2001
+1271,2B,3B,Stolen Base 3B,240494,Mark Quinn,Darrin Fletcher,1,4,5,True,2001-04-15,Stolen,3B,2001
+1299,1B,2B,Stolen Base 2B,240494,Mark Quinn,Darrin Fletcher,1,3,6,True,2001-04-14,Stolen,2B,2001
+1365,1B,,Caught Stealing 2B,240494,Mark Quinn,Joe Oliver,1,3,2,False,2001-04-10,Caught,2B,2001
+1426,2B,3B,Stolen Base 3B,240494,Mark Quinn,A.J. Pierzynski,1,1,2,False,2001-04-07,Stolen,3B,2001
+2618,1B,2B,Stolen Base 2B,240494,Mark Quinn,Todd Greene,5,1,3,False,2002-05-26,Stolen,2B,2002
+2675,1B,2B,Stolen Base 2B,240494,Mark Quinn,Todd Greene,5,1,3,False,2002-05-23,Stolen,2B,2002
+2859,1B,2B,Stolen Base 2B,240494,Mark Quinn,Einar Díaz,0,2,1,True,2002-05-17,Stolen,2B,2002

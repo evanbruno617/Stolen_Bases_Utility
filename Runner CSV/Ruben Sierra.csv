@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+233,1B,2B,Stolen Base 2B,122218,Ruben Sierra,Chad Moeller,4,6,12,True,2000-09-20,Stolen,2B,2000
+1157,1B,2B,Stolen Base 2B,122218,Ruben Sierra,Eddie Pérez,3,0,1,False,2002-08-03,Stolen,2B,2002
+1259,1B,2B,Stolen Base 2B,122218,Ruben Sierra,José Molina,0,0,2,False,2002-07-28,Stolen,2B,2002
+2695,1B,2B,Stolen Base 2B,122218,Ruben Sierra,John Flaherty,0,2,5,False,2002-05-22,Stolen,2B,2002
+3488,1B,2B,Stolen Base 2B,122218,Ruben Sierra,Bill Haselman,1,2,7,False,2002-04-20,Stolen,2B,2002
+325,1B,2B,Stolen Base 2B,122218,Ruben Sierra,Javier Valentin,5,4,6,False,2003-09-13,Stolen,2B,2003
+3088,1B,2B,Stolen Base 2B,122218,Ruben Sierra,Jorge Posada,4,4,4,False,2003-04-26,Stolen,2B,2003
+2003,1B,2B,Stolen Base 2B,122218,Ruben Sierra,David Ross,2,6,9,True,2004-06-19,Stolen,2B,2004

@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+73,1B,,Caught Stealing 2B,471868,Alberto Gonzalez,Dioner Navarro,1,3,8,True,2007-09-27,Caught,2B,2007
+246,2B,,Caught Stealing 3B,471868,Alberto Gonzalez,Brian Schneider,3,8,6,False,2008-09-17,Caught,3B,2008
+2371,1B,2B,Stolen Base 2B,471868,Alberto Gonzalez,Brian McCann,4,3,8,False,2009-04-21,Stolen,2B,2009
+1853,1B,,Caught Stealing 2B,471868,Alberto Gonzalez,Eli Whiteside,3,0,2,False,2011-07-16,Caught,2B,2011
+2213,1B,2B,Stolen Base 2B,471868,Alberto Gonzalez,Brayan Peña,0,0,2,False,2011-06-29,Stolen,2B,2011
+3925,1B,,Caught Stealing 2B,471868,Alberto Gonzalez,Geovany Soto,4,5,9,True,2011-04-20,Caught,2B,2011
+3942,1B,,Caught Stealing 2B,471868,Alberto Gonzalez,Geovany Soto,4,5,9,True,2011-04-19,Caught,2B,2011

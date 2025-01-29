@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+114,1B,2B,Stolen Base 2B,572019,Ben Paulsen,Chris Stewart,4,2,6,False,2015-09-24,Stolen,2B,2015
+1386,1B,,Caught Stealing 2B,572019,Ben Paulsen,Derek Norris,3,1,5,True,2015-07-17,Caught,2B,2015
+1454,1B,,Caught Stealing 2B,572019,Ben Paulsen,A.J. Pierzynski,5,0,5,False,2015-07-10,Caught,2B,2015

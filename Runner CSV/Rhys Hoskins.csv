@@ -1,0 +1,22 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+397,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,Raudy Read,4,5,7,True,2017-09-09,Stolen,2B,2017
+860,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,Devin Mesoraco,0,1,4,False,2018-08-18,Stolen,2B,2018
+1745,1B,,Caught Stealing 2B,656555,Rhys Hoskins,Pedro Severino,2,1,5,False,2018-06-28,Caught,2B,2018
+1812,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,Pedro Severino,2,6,6,True,2018-06-24,Stolen,2B,2018
+2937,1B,,Caught Stealing 2B,656555,Rhys Hoskins,Elias Díaz,0,0,4,False,2018-04-22,Caught,2B,2018
+3064,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,Jesús Sucre,3,5,5,True,2018-04-15,Stolen,2B,2018
+3192,2B,,Caught Stealing 3B,656555,Rhys Hoskins,Bryan Holaday,3,3,3,False,2018-04-08,Caught,3B,2018
+3275,2B,3B,Stolen Base 3B,656555,Rhys Hoskins,Kevin Plawecki,2,0,2,True,2018-04-04,Stolen,3B,2018
+417,2B,3B,Stolen Base 3B,656555,Rhys Hoskins,Wilson Ramos,2,2,6,True,2019-09-06,Stolen,3B,2019
+1865,1B,,Caught Stealing 2B,656555,Rhys Hoskins,Austin Hedges,6,9,9,True,2019-06-04,Caught,2B,2019
+2038,2B,3B,Stolen Base 3B,656555,Rhys Hoskins,Yasmani Grandal,0,4,5,True,2019-05-25,Stolen,3B,2019
+2688,1B,,Caught Stealing 2B,656555,Rhys Hoskins,Wilson Ramos,0,0,1,False,2019-04-15,Caught,2B,2019
+732,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,Tyler Flowers,0,2,5,True,2020-08-22,Stolen,2B,2020
+1078,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,Stephen Vogt,4,1,5,False,2021-07-23,Stolen,2B,2021
+1079,2B,,Caught Stealing 3B,656555,Rhys Hoskins,Stephen Vogt,4,1,5,False,2021-07-23,Caught,3B,2021
+1108,1B,,Caught Stealing 2B,656555,Rhys Hoskins,Gary Sánchez,5,5,9,True,2021-07-21,Caught,2B,2021
+2024,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,Christian Vázquez,1,0,1,False,2021-05-23,Stolen,2B,2021
+2399,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,James McCann,2,1,8,False,2021-04-30,Stolen,2B,2021
+762,1B,,Caught Stealing 2B,656555,Rhys Hoskins,James McCann,4,1,8,False,2022-08-20,Caught,2B,2022
+826,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,Michael Papierski,0,0,1,True,2022-08-16,Stolen,2B,2022
+1184,1B,2B,Stolen Base 2B,656555,Rhys Hoskins,William Contreras,5,0,5,False,2022-07-27,Stolen,2B,2022

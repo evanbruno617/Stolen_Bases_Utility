@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1301,1B,2B,Stolen Base 2B,547887,Kensuke Tanaka,Welington Castillo,1,2,9,False,2013-07-28,Stolen,2B,2013
+1596,1B,2B,Stolen Base 2B,547887,Kensuke Tanaka,Nick Hundley,2,2,8,True,2013-07-11,Stolen,2B,2013

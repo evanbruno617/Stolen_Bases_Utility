@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,435622,Ian Desmond,606131,Luis Perdomo,596115,Trevor Story,R,Rocky Gale,502570,2,2,2,True,2017-09-24,Stolen,2B,2017,2018, --, --
+1,1B,2B,Stolen Base 2B,596115,Trevor Story,657681,Kyle McGrath,547172,Tony Wolters,L,Rocky Gale,502570,2,4,6,True,2017-09-24,Stolen,2B,2017,2018, --, --
+2,1B,2B,Stolen Base 2B,435622,Ian Desmond,606131,Luis Perdomo,596115,Trevor Story,R,Rocky Gale,502570,2,2,2,True,2017-09-24,Stolen,2B,2017,2018, --, --
+3,1B,2B,Stolen Base 2B,596115,Trevor Story,657681,Kyle McGrath,547172,Tony Wolters,L,Rocky Gale,502570,2,4,6,True,2017-09-24,Stolen,2B,2017,2018, --, --

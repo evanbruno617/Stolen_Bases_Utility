@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+149,1B,2B,Stolen Base 2B,680869,Zack Gelof,Jake Rogers,0,2,4,False,2023-09-24,Stolen,2B,2023
+253,1B,2B,Stolen Base 2B,680869,Zack Gelof,Cal Raleigh,0,0,1,False,2023-09-20,Stolen,2B,2023
+304,1B,2B,Stolen Base 2B,680869,Zack Gelof,Luis Torrens,0,1,3,False,2023-09-18,Stolen,2B,2023
+390,1B,2B,Stolen Base 2B,680869,Zack Gelof,Luis Campusano,3,5,8,False,2023-09-15,Stolen,2B,2023
+572,2B,,Caught Stealing 3B,680869,Zack Gelof,Jonah Heim,3,6,7,True,2023-09-08,Caught,3B,2023
+673,1B,2B,Stolen Base 2B,680869,Zack Gelof,Alejandro Kirk,2,3,6,False,2023-09-04,Stolen,2B,2023
+834,1B,2B,Stolen Base 2B,680869,Zack Gelof,Brian O'Keefe,0,0,1,True,2023-08-28,Stolen,2B,2023
+981,1B,2B,Stolen Base 2B,680869,Zack Gelof,Salvador Perez,5,4,7,False,2023-08-22,Stolen,2B,2023
+1109,2B,3B,Stolen Base 3B,680869,Zack Gelof,Andrew Knizner,0,1,1,True,2023-08-16,Stolen,3B,2023
+1322,1B,2B,Stolen Base 2B,680869,Zack Gelof,Patrick Bailey,7,6,7,False,2023-08-06,Stolen,2B,2023
+1510,1B,2B,Stolen Base 2B,680869,Zack Gelof,Elias Díaz,2,6,6,True,2023-07-29,Stolen,2B,2023
+1511,2B,3B,Stolen Base 3B,680869,Zack Gelof,Elias Díaz,2,6,6,True,2023-07-29,Stolen,3B,2023
+1568,1B,2B,Stolen Base 2B,680869,Zack Gelof,Patrick Bailey,1,0,6,True,2023-07-25,Stolen,2B,2023
+1653,1B,,Caught Stealing 2B,680869,Zack Gelof,Martín Maldonado,0,0,4,False,2023-07-22,Caught,2B,2023
+1805,1B,2B,Stolen Base 2B,680869,Zack Gelof,Ryan Jeffers,6,7,6,False,2023-07-15,Stolen,2B,2023
+1806,2B,3B,Stolen Base 3B,680869,Zack Gelof,Ryan Jeffers,7,7,6,False,2023-07-15,Stolen,3B,2023

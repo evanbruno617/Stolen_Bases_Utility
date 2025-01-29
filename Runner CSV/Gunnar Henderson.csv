@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+316,1B,,Caught Stealing 2B,683002,Gunnar Henderson,Israel Pineda,3,4,9,True,2022-09-13,Caught,2B,2022
+556,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,Luke Maile,0,3,9,True,2022-09-01,Stolen,2B,2022
+126,3B,,Caught Stealing Home,683002,Gunnar Henderson,Keibert Ruiz,1,0,8,False,2023-09-26,Caught,Home,2023
+187,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,David Fry,0,1,4,True,2023-09-23,Stolen,2B,2023
+849,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,Korey Lee,0,0,1,False,2023-08-28,Stolen,2B,2023
+851,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,Korey Lee,3,0,4,False,2023-08-28,Stolen,2B,2023
+1000,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,Danny Jansen,1,0,1,False,2023-08-22,Stolen,2B,2023
+1477,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,Alejandro Kirk,1,4,7,True,2023-07-31,Stolen,2B,2023
+2248,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,Cal Raleigh,0,0,2,False,2023-06-24,Stolen,2B,2023
+2614,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,Salvador Perez,2,0,2,False,2023-06-09,Stolen,2B,2023
+2618,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,Salvador Perez,2,1,4,False,2023-06-09,Stolen,2B,2023
+2964,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,Kyle Higashioka,0,1,6,True,2023-05-25,Stolen,2B,2023
+3591,1B,,Caught Stealing 2B,683002,Gunnar Henderson,Eric Haase,4,6,8,True,2023-04-29,Caught,2B,2023
+3596,1B,,Caught Stealing 2B,683002,Gunnar Henderson,Eric Haase,4,6,8,True,2023-04-28,Caught,2B,2023
+4080,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,Kyle Higashioka,1,1,4,False,2023-04-08,Stolen,2B,2023

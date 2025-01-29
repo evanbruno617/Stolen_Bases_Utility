@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1902,1B,,Caught Stealing 2B,435403,Glenn Williams,Vance Wilson,4,0,4,False,2005-06-23,Caught,2B,2005
+2035,1B,2B,Stolen Base 2B,435403,Glenn Williams,Yorvit Torrealba,7,6,6,False,2005-06-16,Stolen,2B,2005
+2036,3B,,Caught Stealing Home,435403,Glenn Williams,Yorvit Torrealba,7,6,6,False,2005-06-16,Caught,Home,2005

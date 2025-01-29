@@ -1,0 +1,22 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,880,1B,,Caught Stealing 2B,502226,Craig Gentry,598264,Matt Barnes,669720,Austin Hays,R,Sandy León,506702,8,8,10,False,2017-09-18,Caught,2B,2017,2018,28.9
+1,1249,1B,,Caught Stealing 2B,502226,Craig Gentry,572021,James Pazos,592518,Manny Machado,L,Mike Zunino,572287,3,0,7,False,2017-08-29,Caught,2B,2017,2018,28.9
+2,1744,2B,3B,Stolen Base 3B,502226,Craig Gentry,571510,Matthew Boyd,592518,Manny Machado,L,James McCann,543510,1,7,3,False,2017-08-03,Stolen,3B,2017,2018,28.9
+3,1746,2B,3B,Stolen Base 3B,502226,Craig Gentry,599683,Warwick Saupold,430945,Adam Jones,R,James McCann,543510,3,7,7,False,2017-08-03,Stolen,3B,2017,2018,28.9
+4,2446,1B,,Caught Stealing 2B,502226,Craig Gentry,605182,Mike Clevinger,452234,Seth Smith,R,Yan Gomes,543228,2,4,4,False,2017-06-22,Caught,2B,2017,2018,28.9
+5,3493,1B,2B,Stolen Base 2B,502226,Craig Gentry,656756,Jordan Montgomery,429666,J.J. Hardy,L,Kyle Higashioka,543309,1,0,3,True,2017-04-30,Stolen,2B,2017,2018,28.9
+6,3494,1B,2B,Stolen Base 2B,502226,Craig Gentry,476454,Dellin Betances,429666,J.J. Hardy,R,Kyle Higashioka,543309,2,4,8,True,2017-04-30,Stolen,2B,2017,2018,28.9
+7,3785,1B,2B,Stolen Base 2B,502226,Craig Gentry,532077,Roberto Osuna,547957,Hyun Soo Kim,R,Jarrod Saltalamacchia,457454,1,0,9,True,2017-04-15,Stolen,2B,2017,2018,28.9
+8,252,1B,,Caught Stealing 2B,502226,Craig Gentry,598264,Matt Barnes,669720,Austin Hays,R,Sandy León,506702,8,8,10,False,2017-09-18,Caught,2B,2017,2018,28.9
+9,621,1B,,Caught Stealing 2B,502226,Craig Gentry,572021,James Pazos,592518,Manny Machado,L,Mike Zunino,572287,3,0,7,False,2017-08-29,Caught,2B,2017,2018,28.9
+10,1116,2B,3B,Stolen Base 3B,502226,Craig Gentry,571510,Matthew Boyd,592518,Manny Machado,L,James McCann,543510,1,7,3,False,2017-08-03,Stolen,3B,2017,2018,28.9
+11,1118,2B,3B,Stolen Base 3B,502226,Craig Gentry,599683,Warwick Saupold,430945,Adam Jones,R,James McCann,543510,3,7,7,False,2017-08-03,Stolen,3B,2017,2018,28.9
+12,1818,1B,,Caught Stealing 2B,502226,Craig Gentry,605182,Mike Clevinger,452234,Seth Smith,R,Yan Gomes,543228,2,4,4,False,2017-06-22,Caught,2B,2017,2018,28.9
+13,2865,1B,2B,Stolen Base 2B,502226,Craig Gentry,656756,Jordan Montgomery,429666,J.J. Hardy,L,Kyle Higashioka,543309,1,0,3,True,2017-04-30,Stolen,2B,2017,2018,28.9
+14,2866,1B,2B,Stolen Base 2B,502226,Craig Gentry,476454,Dellin Betances,429666,J.J. Hardy,R,Kyle Higashioka,543309,2,4,8,True,2017-04-30,Stolen,2B,2017,2018,28.9
+15,3157,1B,2B,Stolen Base 2B,502226,Craig Gentry,532077,Roberto Osuna,547957,Hyun Soo Kim,R,Jarrod Saltalamacchia,457454,1,0,9,True,2017-04-15,Stolen,2B,2017,2018,28.9
+16,7449,1B,,Caught Stealing 2B,502226,Craig Gentry,622072,Alex Wood,545361,Mike Trout,L,Austin Barnes,605131,0,0,1,False,2016-04-02,Caught,2B,2016,2017,29.2
+17,3414,1B,,Caught Stealing 2B,502226,Craig Gentry,622072,Alex Wood,545361,Mike Trout,L,Austin Barnes,605131,0,0,1,False,2016-04-02,Caught,2B,2016,2017,29.2
+18,6821,1B,,Caught Stealing 2B,502226,Craig Gentry,622072,Alex Wood,545361,Mike Trout,L,Austin Barnes,605131,0,0,1,False,2016-04-02,Caught,2B,2016,2017,29.2
+19,1671,1B,2B,Stolen Base 2B,502226,Craig Gentry,450308,Jered Weaver,453539,Sam Fuld,R,Drew Butera,460077,6,2,7,False,2015-04-28,Stolen,2B,2015,2016,29.6
+20,2212,1B,2B,Stolen Base 2B,502226,Craig Gentry,595345,Steven Okert,456714,Billy Butler,L,Buster Posey,457763,0,7,4,True,2015-04-02,Stolen,2B,2015,2016,29.6

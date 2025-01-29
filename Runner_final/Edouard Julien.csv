@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1341,1B,2B,Stolen Base 2B,666397,Edouard Julien,668678,Zac Gallen,621043,Carlos Correa,R,Carson Kelly,608348,2,1,6,False,2023-08-06,Stolen,2B,2023,2024,26.7
+1,1767,1B,2B,Stolen Base 2B,666397,Edouard Julien,669302,Logan Gilbert,666135,Alex Kirilloff,R,Cal Raleigh,663728,0,0,1,True,2023-07-17,Stolen,2B,2023,2024,26.7
+2,2582,1B,2B,Stolen Base 2B,666397,Edouard Julien,670950,Trevor Richards,456781,Donovan Solano,R,Alejandro Kirk,672386,1,0,3,True,2023-06-10,Stolen,2B,2023,2024,26.7
+3,5755,1B,2B,Stolen Base 2B,666397,Edouard Julien,668678,Zac Gallen,621043,Carlos Correa,R,Carson Kelly,608348,2,1,6,False,2023-08-06,Stolen,2B,2023,2024,26.7
+4,6181,1B,2B,Stolen Base 2B,666397,Edouard Julien,669302,Logan Gilbert,666135,Alex Kirilloff,R,Cal Raleigh,663728,0,0,1,True,2023-07-17,Stolen,2B,2023,2024,26.7
+5,6996,1B,2B,Stolen Base 2B,666397,Edouard Julien,670950,Trevor Richards,456781,Donovan Solano,R,Alejandro Kirk,672386,1,0,3,True,2023-06-10,Stolen,2B,2023,2024,26.7

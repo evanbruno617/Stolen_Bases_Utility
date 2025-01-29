@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+542,1B,2B,Stolen Base 2B,656896,Emmanuel Rivera,Cal Raleigh,4,6,7,True,2021-08-26,Stolen,2B,2021
+619,1B,2B,Stolen Base 2B,656896,Emmanuel Rivera,Austin Romine,0,5,4,True,2021-08-22,Stolen,2B,2021
+356,1B,2B,Stolen Base 2B,656896,Emmanuel Rivera,Brian Serven,3,5,7,True,2022-09-11,Stolen,2B,2022
+968,1B,,Caught Stealing 2B,656896,Emmanuel Rivera,Jason Delay,2,1,6,False,2022-08-09,Caught,2B,2022
+2682,1B,2B,Stolen Base 2B,656896,Emmanuel Rivera,Keibert Ruiz,5,10,8,True,2023-06-06,Stolen,2B,2023

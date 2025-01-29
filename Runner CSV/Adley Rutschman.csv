@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+134,1B,2B,Stolen Base 2B,668939,Adley Rutschman,Martín Maldonado,1,0,6,False,2022-09-23,Stolen,2B,2022
+614,1B,2B,Stolen Base 2B,668939,Adley Rutschman,Martín Maldonado,0,0,1,True,2022-08-28,Stolen,2B,2022
+1042,1B,2B,Stolen Base 2B,668939,Adley Rutschman,Jason Delay,0,0,1,False,2022-08-05,Stolen,2B,2022
+1666,1B,2B,Stolen Base 2B,668939,Adley Rutschman,Cal Raleigh,0,0,4,True,2022-06-28,Stolen,2B,2022
+689,3B,,Caught Stealing Home,668939,Adley Rutschman,Jose Herrera,1,4,2,True,2023-09-03,Caught,Home,2023
+1002,1B,2B,Stolen Base 2B,668939,Adley Rutschman,Danny Jansen,2,3,5,False,2023-08-22,Stolen,2B,2023
+4148,1B,,Caught Stealing 2B,668939,Adley Rutschman,Jonah Heim,2,2,6,True,2023-04-05,Caught,2B,2023

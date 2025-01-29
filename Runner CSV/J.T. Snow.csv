@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1323,1B,,Caught Stealing 2B,122497,J.T. Snow,Jason Kendall,0,0,2,False,2000-08-04,Caught,2B,2000
+3090,1B,,Caught Stealing 2B,122497,J.T. Snow,Brent Mayne,1,3,4,True,2000-05-14,Caught,2B,2000
+3556,1B,2B,Stolen Base 2B,122497,J.T. Snow,Mike Redmond,0,0,2,True,2000-04-25,Stolen,2B,2000
+3557,2B,,Caught Stealing 3B,122497,J.T. Snow,Mike Redmond,0,0,2,True,2000-04-25,Caught,3B,2000
+13,1B,2B,Stolen Base 2B,122497,J.T. Snow,David Ross,7,3,4,False,2003-09-28,Stolen,2B,2003
+1373,1B,,Caught Stealing 2B,122497,J.T. Snow,Chad Moeller,2,1,5,False,2003-07-22,Caught,2B,2003
+3477,1B,,Caught Stealing 2B,122497,J.T. Snow,Eddie Pérez,0,5,8,True,2003-04-06,Caught,2B,2003
+888,2B,3B,Stolen Base 3B,122497,J.T. Snow,Brian Schneider,3,1,5,False,2004-08-17,Stolen,3B,2004
+1567,1B,2B,Stolen Base 2B,122497,J.T. Snow,Charles Johnson,2,1,3,True,2004-07-15,Stolen,2B,2004
+2998,1B,2B,Stolen Base 2B,122497,J.T. Snow,Ramon Castro,2,3,7,False,2004-05-01,Stolen,2B,2004
+3041,2B,3B,Stolen Base 3B,122497,J.T. Snow,Eddie Pérez,5,2,4,False,2004-04-28,Stolen,3B,2004
+2968,1B,2B,Caught Stealing 3B,122497,J.T. Snow,Humberto Cota,4,6,6,True,2005-04-30,Caught,3B,2005
+3067,1B,2B,Stolen Base 2B,122497,J.T. Snow,Chad Moeller,4,6,5,False,2005-04-24,Stolen,2B,2005

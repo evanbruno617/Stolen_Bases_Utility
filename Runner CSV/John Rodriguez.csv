@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+628,1B,2B,Stolen Base 2B,431138,John Rodriguez,Paul Lo Duca,4,1,4,True,2005-08-30,Stolen,2B,2005
+671,2B,3B,Stolen Base 3B,431138,John Rodriguez,Gary Bennett,0,4,8,True,2005-08-28,Stolen,3B,2005

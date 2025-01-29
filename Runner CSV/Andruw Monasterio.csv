@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+243,1B,,Caught Stealing 2B,655316,Andruw Monasterio,Iván Herrera,1,4,7,True,2023-09-20,Caught,2B,2023
+858,1B,2B,Stolen Base 2B,655316,Andruw Monasterio,Gary Sánchez,9,6,7,False,2023-08-27,Stolen,2B,2023
+883,2B,3B,Stolen Base 3B,655316,Andruw Monasterio,Luis Campusano,2,1,5,False,2023-08-26,Stolen,3B,2023
+1283,1B,2B,Stolen Base 2B,655316,Andruw Monasterio,Elias Díaz,0,0,2,False,2023-08-08,Stolen,2B,2023
+1609,1B,2B,Stolen Base 2B,655316,Andruw Monasterio,Tyler Stephenson,2,2,6,False,2023-07-24,Stolen,2B,2023
+2037,2B,3B,Stolen Base 3B,655316,Andruw Monasterio,Tucker Barnhart,3,6,4,False,2023-07-03,Stolen,3B,2023
+2539,1B,2B,Stolen Base 2B,655316,Andruw Monasterio,Carlos Pérez,2,0,3,False,2023-06-11,Stolen,2B,2023
+2781,1B,2B,Stolen Base 2B,655316,Andruw Monasterio,Curt Casali,3,3,9,True,2023-06-02,Stolen,2B,2023

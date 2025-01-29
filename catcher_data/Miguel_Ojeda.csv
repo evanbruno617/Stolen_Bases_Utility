@@ -1,0 +1,57 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,111851,Orlando Cabrera,Miguel Ojeda,0,4,5,True,2003-08-24,Stolen,2B,2003
+1B,2B,Stolen Base 2B,279577,Rafael Furcal,Miguel Ojeda,2,0,2,False,2003-08-13,Stolen,2B,2003
+1B,2B,Stolen Base 2B,117863,Kenny Lofton,Miguel Ojeda,0,0,1,True,2003-08-07,Stolen,2B,2003
+1B,2B,Stolen Base 2B,117863,Kenny Lofton,Miguel Ojeda,0,7,4,True,2003-08-07,Stolen,2B,2003
+1B,2B,Stolen Base 2B,110029,Bobby Abreu,Miguel Ojeda,1,0,1,False,2003-08-02,Stolen,2B,2003
+1B,2B,Stolen Base 2B,110029,Bobby Abreu,Miguel Ojeda,6,3,4,False,2003-08-02,Stolen,2B,2003
+2B,,Caught Stealing 3B,110029,Bobby Abreu,Miguel Ojeda,6,3,4,False,2003-08-02,Caught,3B,2003
+1B,2B,Stolen Base 2B,276519,Jimmy Rollins,Miguel Ojeda,6,3,5,False,2003-08-02,Stolen,2B,2003
+1B,2B,Stolen Base 2B,110029,Bobby Abreu,Miguel Ojeda,1,0,1,False,2003-08-01,Stolen,2B,2003
+1B,,Caught Stealing 2B,112903,José Cruz Jr.,Miguel Ojeda,0,2,5,False,2003-07-26,Caught,2B,2003
+1B,,Caught Stealing 2B,136770,J.D. Drew,Miguel Ojeda,2,2,3,True,2003-07-23,Caught,2B,2003
+1B,2B,Stolen Base 2B,112736,Craig Counsell,Miguel Ojeda,0,1,3,True,2003-07-20,Stolen,2B,2003
+1B,2B,Stolen Base 2B,110712,Danny Bautista,Miguel Ojeda,3,0,1,False,2003-05-25,Stolen,2B,2003
+1B,2B,Stolen Base 2B,325392,Scott Podsednik,Miguel Ojeda,3,0,5,False,2003-05-21,Stolen,2B,2003
+1B,2B,Stolen Base 2B,124695,Eric Young Sr.,Miguel Ojeda,0,0,1,False,2003-05-20,Stolen,2B,2003
+1B,2B,Stolen Base 2B,325392,Scott Podsednik,Miguel Ojeda,4,4,5,False,2003-05-20,Stolen,2B,2003
+1B,2B,Stolen Base 2B,400128,Alex Sanchez,Miguel Ojeda,6,6,6,False,2003-05-20,Stolen,2B,2003
+1B,2B,Stolen Base 2B,124695,Eric Young Sr.,Miguel Ojeda,2,0,1,False,2003-05-19,Stolen,2B,2003
+2B,3B,Stolen Base 3B,124695,Eric Young Sr.,Miguel Ojeda,2,0,2,False,2003-05-19,Stolen,3B,2003
+1B,2B,Stolen Base 2B,279577,Rafael Furcal,Miguel Ojeda,2,0,3,True,2003-05-17,Stolen,2B,2003
+2B,,Caught Stealing 3B,122111,Gary Sheffield,Miguel Ojeda,2,4,7,True,2003-05-17,Caught,3B,2003
+1B,2B,Caught Stealing 3B,116706,Chipper Jones,Miguel Ojeda,2,4,7,True,2003-05-17,Caught,3B,2003
+1B,2B,Stolen Base 2B,406670,Rob Mackowiak,Miguel Ojeda,2,3,7,True,2004-08-08,Stolen,2B,2004
+1B,,Caught Stealing 2B,285131,Cesar Izturis,Miguel Ojeda,0,1,1,False,2004-07-23,Caught,2B,2004
+1B,2B,Stolen Base 2B,276361,Adam Everett,Miguel Ojeda,3,0,6,False,2004-07-18,Stolen,2B,2004
+1B,2B,Stolen Base 2B,425446,Aaron Miles,Miguel Ojeda,0,3,4,True,2004-07-10,Stolen,2B,2004
+1B,2B,Stolen Base 2B,115732,Todd Helton,Miguel Ojeda,0,3,5,True,2004-07-10,Stolen,2B,2004
+1B,,Caught Stealing 2B,133160,Randy Winn,Miguel Ojeda,0,0,1,False,2004-06-26,Caught,2B,2004
+1B,,Caught Stealing 2B,114935,Luis Gonzalez,Miguel Ojeda,1,1,9,True,2004-06-22,Caught,2B,2004
+2B,3B,Stolen Base 3B,408307,Carl Crawford,Miguel Ojeda,0,1,1,True,2004-06-16,Stolen,3B,2004
+1B,2B,Stolen Base 2B,348562,Keith Ginter,Miguel Ojeda,2,5,8,False,2004-05-30,Stolen,2B,2004
+1B,2B,Stolen Base 2B,111904,Mike Cameron,Miguel Ojeda,2,5,7,True,2004-05-02,Stolen,2B,2004
+1B,2B,Stolen Base 2B,110682,Tony Batista,Miguel Ojeda,0,0,2,True,2004-04-29,Stolen,2B,2004
+1B,2B,Stolen Base 2B,150415,Brad Wilkerson,Miguel Ojeda,0,1,2,True,2004-04-29,Stolen,2B,2004
+1B,2B,Stolen Base 2B,150093,Alfonso Soriano,Miguel Ojeda,2,0,2,True,2005-09-29,Stolen,2B,2005
+1B,,Caught Stealing 2B,113240,David Dellucci,Miguel Ojeda,3,2,7,False,2005-09-15,Caught,2B,2005
+1B,2B,Stolen Base 2B,408244,Bernie Castro,Miguel Ojeda,0,0,1,True,2005-09-11,Stolen,2B,2005
+1B,,Caught Stealing 2B,275928,Luis Matos,Miguel Ojeda,0,4,8,True,2005-09-10,Caught,2B,2005
+2B,,Caught Stealing 3B,121347,Alex Rodriguez,Miguel Ojeda,1,0,2,True,2005-08-29,Caught,3B,2005
+1B,2B,Caught Stealing 3B,114739,Jason Giambi,Miguel Ojeda,1,0,2,True,2005-08-29,Caught,3B,2005
+1B,,Caught Stealing 2B,124288,Bernie Williams,Miguel Ojeda,4,1,5,True,2005-08-29,Caught,2B,2005
+1B,2B,Stolen Base 2B,276545,Michael Young,Miguel Ojeda,0,2,1,False,2005-08-25,Stolen,2B,2005
+2B,3B,Stolen Base 3B,150093,Alfonso Soriano,Miguel Ojeda,1,2,2,False,2005-08-25,Stolen,3B,2005
+1B,2B,Stolen Base 2B,407891,Kevin Mench,Miguel Ojeda,4,1,6,False,2005-08-23,Stolen,2B,2005
+1B,2B,Stolen Base 2B,119732,Phil Nevin,Miguel Ojeda,5,4,8,False,2005-08-23,Stolen,2B,2005
+1B,2B,Stolen Base 2B,150466,Brent Abernathy,Miguel Ojeda,4,3,4,False,2005-08-18,Stolen,2B,2005
+1B,2B,Stolen Base 2B,217915,Lew Ford,Miguel Ojeda,4,3,6,False,2005-08-18,Stolen,2B,2005
+1B,2B,Stolen Base 2B,123744,Omar Vizquel,Miguel Ojeda,8,5,7,True,2005-07-03,Stolen,2B,2005
+1B,2B,Stolen Base 2B,122784,Shannon Stewart,Miguel Ojeda,0,0,1,False,2005-06-19,Stolen,2B,2005
+1B,2B,Stolen Base 2B,150472,Ryan Freel,Miguel Ojeda,2,7,7,False,2005-05-11,Stolen,2B,2005
+1B,2B,Stolen Base 2B,118609,Quinton McCracken,Miguel Ojeda,0,3,5,True,2005-05-01,Stolen,2B,2005
+1B,2B,Stolen Base 2B,136267,Troy Glaus,Miguel Ojeda,0,4,7,True,2005-05-01,Stolen,2B,2005
+1B,2B,Stolen Base 2B,279913,Corey Patterson,Miguel Ojeda,7,0,2,False,2005-04-13,Stolen,2B,2005
+2B,3B,Stolen Base 2B,279913,Corey Patterson,Miguel Ojeda,7,0,2,False,2005-04-13,Stolen,2B,2005
+1B,2B,Stolen Base 2B,279913,Corey Patterson,Miguel Ojeda,7,0,2,False,2005-04-12,Stolen,2B,2005
+2B,3B,Stolen Base 2B,279913,Corey Patterson,Miguel Ojeda,7,0,2,False,2005-04-12,Stolen,2B,2005

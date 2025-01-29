@@ -1,0 +1,27 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,484,1B,2B,Stolen Base 2B,666158,Gavin Lux,656546,Jeff Hoffman,605141,Mookie Betts,R,Tony Wolters,547172,10,6,8,False,2020-09-04,Stolen,2B,2020,2021,29.1
+1,3327,1B,2B,Stolen Base 2B,666158,Gavin Lux,656546,Jeff Hoffman,605141,Mookie Betts,R,Tony Wolters,547172,10,6,8,False,2020-09-04,Stolen,2B,2020,2021,29.1
+2,5251,1B,2B,Stolen Base 2B,666158,Gavin Lux,656546,Jeff Hoffman,605141,Mookie Betts,R,Tony Wolters,547172,10,6,8,False,2020-09-04,Stolen,2B,2020,2021,29.1
+3,1423,1B,2B,Stolen Base 2B,666158,Gavin Lux,451584,Wade Davis,669257,Will Smith,R,Dom Nuñez,624513,9,4,7,False,2019-09-20,Stolen,2B,2019,2020,27.7
+4,1564,1B,2B,Stolen Base 2B,666158,Gavin Lux,605164,Dylan Bundy,571771,Enrique Hernández,R,Pedro Severino,600474,1,1,2,True,2019-09-12,Stolen,2B,2019,2020,27.7
+5,4266,1B,2B,Stolen Base 2B,666158,Gavin Lux,451584,Wade Davis,669257,Will Smith,R,Dom Nuñez,624513,9,4,7,False,2019-09-20,Stolen,2B,2019,2020,27.7
+6,4407,1B,2B,Stolen Base 2B,666158,Gavin Lux,605164,Dylan Bundy,571771,Enrique Hernández,R,Pedro Severino,600474,1,1,2,True,2019-09-12,Stolen,2B,2019,2020,27.7
+7,6190,1B,2B,Stolen Base 2B,666158,Gavin Lux,451584,Wade Davis,669257,Will Smith,R,Dom Nuñez,624513,9,4,7,False,2019-09-20,Stolen,2B,2019,2020,27.7
+8,6331,1B,2B,Stolen Base 2B,666158,Gavin Lux,605164,Dylan Bundy,571771,Enrique Hernández,R,Pedro Severino,600474,1,1,2,True,2019-09-12,Stolen,2B,2019,2020,27.7
+9,122,1B,2B,Stolen Base 2B,666158,Gavin Lux,607536,Kyle Freeland,453286,Max Scherzer,L,Elias Díaz,553869,0,1,2,True,2021-09-23,Stolen,2B,2021,2022,28.8
+10,1358,1B,2B,Stolen Base 2B,666158,Gavin Lux,641851,Kyle McGowin,621035,Chris Taylor,R,Yan Gomes,543228,3,5,9,True,2021-07-03,Stolen,2B,2021,2022,28.8
+11,1459,1B,2B,Stolen Base 2B,666158,Gavin Lux,667297,Tommy Nance,605131,Austin Barnes,R,Jose Lobaton,446653,6,1,5,False,2021-06-27,Stolen,2B,2021,2022,28.8
+12,2019,1B,,Caught Stealing 2B,666158,Gavin Lux,543101,Anthony DeSclafani,457759,Justin Turner,R,Curt Casali,592200,0,0,1,True,2021-05-23,Caught,2B,2021,2022,28.8
+13,2810,1B,2B,Stolen Base 2B,666158,Gavin Lux,571710,Mychal Givens,608369,Corey Seager,R,Dom Nuñez,624513,4,5,8,True,2021-04-03,Stolen,2B,2021,2022,28.8
+14,2046,1B,2B,Stolen Base 2B,666158,Gavin Lux,607536,Kyle Freeland,453286,Max Scherzer,L,Elias Díaz,553869,0,1,2,True,2021-09-23,Stolen,2B,2021,2022,28.8
+15,3282,1B,2B,Stolen Base 2B,666158,Gavin Lux,641851,Kyle McGowin,621035,Chris Taylor,R,Yan Gomes,543228,3,5,9,True,2021-07-03,Stolen,2B,2021,2022,28.8
+16,3383,1B,2B,Stolen Base 2B,666158,Gavin Lux,667297,Tommy Nance,605131,Austin Barnes,R,Jose Lobaton,446653,6,1,5,False,2021-06-27,Stolen,2B,2021,2022,28.8
+17,3943,1B,,Caught Stealing 2B,666158,Gavin Lux,543101,Anthony DeSclafani,457759,Justin Turner,R,Curt Casali,592200,0,0,1,True,2021-05-23,Caught,2B,2021,2022,28.8
+18,4734,1B,2B,Stolen Base 2B,666158,Gavin Lux,571710,Mychal Givens,608369,Corey Seager,R,Dom Nuñez,624513,4,5,8,True,2021-04-03,Stolen,2B,2021,2022,28.8
+19,117,1B,,Caught Stealing 2B,666158,Gavin Lux,573186,Marcus Stroman,641355,Cody Bellinger,R,Yan Gomes,543228,0,0,2,False,2022-07-09,Caught,2B,2022,2024,27.7
+20,700,1B,,Caught Stealing 2B,666158,Gavin Lux,656302,Dylan Cease,605131,Austin Barnes,R,Yasmani Grandal,518735,0,0,3,True,2022-06-09,Caught,2B,2022,2024,27.7
+21,727,1B,2B,Stolen Base 2B,666158,Gavin Lux,656629,Michael Kopech,605141,Mookie Betts,R,Reese McGuire,624512,0,0,3,True,2022-06-07,Stolen,2B,2022,2024,27.7
+22,821,1B,2B,Stolen Base 2B,666158,Gavin Lux,592836,Taijuan Walker,605141,Mookie Betts,R,Patrick Mazeika,664850,0,0,3,False,2022-06-02,Stolen,2B,2022,2024,27.7
+23,857,1B,2B,Stolen Base 2B,666158,Gavin Lux,656605,Mitch Keller,605141,Mookie Betts,R,Tyler Heineman,623168,2,4,4,False,2022-05-31,Stolen,2B,2022,2024,27.7
+24,1654,1B,2B,Stolen Base 2B,666158,Gavin Lux,641816,Tyler Mahle,605141,Mookie Betts,R,Tyler Stephenson,663886,5,0,4,False,2022-04-17,Stolen,2B,2022,2024,27.7
+25,1698,1B,2B,Stolen Base 2B,666158,Gavin Lux,661269,Vladimir Gutierrez,518692,Freddie Freeman,R,Aramis Garcia,605244,1,0,3,False,2022-04-15,Stolen,2B,2022,2024,27.7

@@ -1,0 +1,26 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,452121,Brent Lillibridge,Luis Martinez,0,0,2,False,2012-09-02,Stolen,2B,2012
+1B,2B,Stolen Base 2B,453539,Sam Fuld,Luis Martinez,4,7,6,True,2012-08-29,Stolen,2B,2012
+1B,2B,Stolen Base 2B,425834,B.J. Upton,Luis Martinez,4,7,9,True,2012-08-29,Stolen,2B,2012
+1B,2B,Stolen Base 2B,424825,Coco Crisp,Luis Martinez,1,1,5,False,2012-07-18,Stolen,2B,2012
+2B,3B,Stolen Base 3B,424825,Coco Crisp,Luis Martinez,1,1,5,False,2012-07-18,Stolen,3B,2012
+1B,,Caught Stealing 2B,516770,Starlin Castro,Luis Martinez,0,0,1,True,2011-09-27,Caught,2B,2011
+1B,2B,Stolen Base 2B,542999,Tony Campana,Luis Martinez,2,1,8,True,2011-09-27,Stolen,2B,2011
+1B,2B,Stolen Base 2B,425766,James Loney,Luis Martinez,0,0,2,True,2011-09-24,Stolen,2B,2011
+1B,2B,Stolen Base 2B,455104,Chris Iannetta,Luis Martinez,0,4,6,False,2011-09-21,Stolen,2B,2011
+1B,2B,Stolen Base 2B,458913,Eric Young Jr.,Luis Martinez,0,4,6,False,2011-09-21,Stolen,2B,2011
+1B,2B,Stolen Base 2B,452096,Darren Ford,Luis Martinez,3,1,7,False,2011-09-14,Stolen,2B,2011
+1B,2B,Stolen Base 2B,457759,Justin Turner,Luis Martinez,0,0,3,False,2011-08-11,Stolen,2B,2011
+1B,2B,Stolen Base 2B,434636,Ángel Pagán,Luis Martinez,0,1,1,False,2011-08-10,Stolen,2B,2011
+1B,,Caught Stealing 2B,449082,Xavier Paul,Luis Martinez,0,1,3,False,2011-08-07,Caught,2B,2011
+1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,Luis Martinez,0,0,1,True,2011-08-02,Stolen,2B,2011
+2B,,Caught Stealing 3B,461314,Matt Kemp,Luis Martinez,0,1,4,True,2011-08-02,Caught,3B,2011
+1B,2B,Stolen Base 2B,453064,Troy Tulowitzki,Luis Martinez,0,0,2,True,2011-07-31,Stolen,2B,2011
+2B,3B,Stolen Base 3B,456655,Ian Stewart,Luis Martinez,0,3,2,True,2011-07-29,Stolen,3B,2011
+1B,2B,Stolen Base 2B,455104,Chris Iannetta,Luis Martinez,0,3,2,True,2011-07-29,Stolen,2B,2011
+3B,,Caught Stealing Home,455104,Chris Iannetta,Luis Martinez,0,3,2,True,2011-07-29,Caught,Home,2011
+2B,3B,Stolen Base 3B,457708,Justin Upton,Luis Martinez,1,2,4,True,2011-07-28,Stolen,3B,2011
+1B,2B,Stolen Base 2B,450315,Brandon Allen,Luis Martinez,1,2,4,True,2011-07-28,Stolen,2B,2011
+1B,2B,Stolen Base 2B,518577,Collin Cowgill,Luis Martinez,2,4,7,True,2011-07-27,Stolen,2B,2011
+1B,2B,Stolen Base 2B,455759,Chris Young,Luis Martinez,0,3,6,True,2011-07-26,Stolen,2B,2011
+1B,2B,Stolen Base 2B,430637,Kelly Johnson,Luis Martinez,0,5,7,True,2011-07-26,Stolen,2B,2011

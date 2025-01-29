@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+491,1B,,Caught Stealing 2B,114588,Karim Garcia,Josh Paul,0,0,4,True,2002-09-07,Caught,2B,2002
+1220,1B,,Caught Stealing 2B,114588,Karim Garcia,Bengie Molina,1,6,8,True,2003-07-29,Caught,2B,2003
+1761,1B,,Caught Stealing 2B,114588,Karim Garcia,Brook Fordyce,4,6,8,True,2003-06-30,Caught,2B,2003
+2105,1B,2B,Stolen Base 2B,114588,Karim Garcia,Benito Santiago,0,3,7,True,2004-06-13,Stolen,2B,2004
+2270,1B,2B,Stolen Base 2B,114588,Karim Garcia,Mike Redmond,3,0,1,False,2004-06-06,Stolen,2B,2004
+2272,1B,2B,Stolen Base 2B,114588,Karim Garcia,Mike Redmond,5,0,5,False,2004-06-06,Stolen,2B,2004

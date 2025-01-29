@@ -1,0 +1,22 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+74,1B,,Caught Stealing 2B,686823,Will Brennan,Christian Bethancourt,0,0,2,False,2022-09-27,Caught,2B,2022
+125,1B,2B,Stolen Base 2B,686823,Will Brennan,Kevin Plawecki,2,6,6,True,2022-09-23,Stolen,2B,2022
+127,1B,2B,Stolen Base 2B,686823,Will Brennan,Kevin Plawecki,3,6,9,True,2022-09-23,Stolen,2B,2022
+209,1B,2B,Stolen Base 2B,686823,Will Brennan,Adley Rutschman,7,6,7,False,2023-09-22,Stolen,2B,2023
+370,1B,,Caught Stealing 2B,686823,Will Brennan,Jonah Heim,0,0,2,False,2023-09-16,Caught,2B,2023
+636,1B,2B,Stolen Base 2B,686823,Will Brennan,Ryan Jeffers,1,0,2,False,2023-09-06,Stolen,2B,2023
+822,1B,2B,Stolen Base 2B,686823,Will Brennan,Christian Vázquez,1,4,7,True,2023-08-29,Stolen,2B,2023
+935,1B,2B,Stolen Base 2B,686823,Will Brennan,Austin Barnes,2,0,2,False,2023-08-24,Stolen,2B,2023
+998,1B,2B,Stolen Base 2B,686823,Will Brennan,Will Smith,2,3,7,False,2023-08-22,Stolen,2B,2023
+1146,1B,2B,Stolen Base 2B,686823,Will Brennan,Tyler Stephenson,0,2,1,True,2023-08-15,Stolen,2B,2023
+1370,1B,,Caught Stealing 2B,686823,Will Brennan,Yasmani Grandal,0,3,5,False,2023-08-05,Caught,2B,2023
+1566,1B,2B,Stolen Base 2B,686823,Will Brennan,Freddy Fermin,7,0,4,False,2023-07-26,Stolen,2B,2023
+2472,1B,,Caught Stealing 2B,686823,Will Brennan,Gary Sánchez,1,0,3,True,2023-06-14,Caught,2B,2023
+2555,1B,2B,Stolen Base 2B,686823,Will Brennan,César Salazar,2,0,2,False,2023-06-11,Stolen,2B,2023
+2712,1B,,Caught Stealing 2B,686823,Will Brennan,Ryan Jeffers,0,0,3,True,2023-06-04,Caught,2B,2023
+2765,1B,2B,Stolen Base 2B,686823,Will Brennan,Ryan Jeffers,0,0,3,True,2023-06-02,Stolen,2B,2023
+3041,1B,,Caught Stealing 2B,686823,Will Brennan,Yasmani Grandal,1,0,2,False,2023-05-22,Caught,2B,2023
+3110,1B,2B,Stolen Base 2B,686823,Will Brennan,Francisco Alvarez,0,4,5,True,2023-05-19,Stolen,2B,2023
+3336,1B,2B,Stolen Base 2B,686823,Will Brennan,Jake Rogers,1,0,8,False,2023-05-09,Stolen,2B,2023
+3607,1B,2B,Stolen Base 2B,686823,Will Brennan,Reese McGuire,0,3,2,True,2023-04-28,Stolen,2B,2023
+3950,1B,2B,Stolen Base 2B,686823,Will Brennan,Keibert Ruiz,3,2,7,True,2023-04-14,Stolen,2B,2023

@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1747,1B,,Caught Stealing 2B,666211,Taylor Trammell,Jake Rogers,3,3,6,True,2021-06-09,Caught,2B,2021
+2344,1B,2B,Stolen Base 2B,666211,Taylor Trammell,Max Stassi,2,0,8,False,2021-05-02,Stolen,2B,2021
+2623,1B,,Caught Stealing 2B,666211,Taylor Trammell,Chance Sisco,1,2,6,True,2021-04-15,Caught,2B,2021
+2624,1B,2B,Stolen Base 2B,666211,Taylor Trammell,Pedro Severino,2,0,2,True,2021-04-15,Stolen,2B,2021
+2630,1B,,Caught Stealing 2B,666211,Taylor Trammell,Chance Sisco,1,2,6,True,2021-04-14,Caught,2B,2021
+1748,1B,2B,Stolen Base 2B,666211,Taylor Trammell,Max Stassi,1,4,6,True,2022-06-24,Stolen,2B,2022
+1946,1B,2B,Stolen Base 2B,666211,Taylor Trammell,Kevin Plawecki,0,0,3,False,2022-06-12,Stolen,2B,2022
+2157,1B,,Caught Stealing 2B,666211,Taylor Trammell,Adley Rutschman,3,2,4,True,2022-06-02,Caught,2B,2022
+3544,1B,,Caught Stealing 2B,666211,Taylor Trammell,Alejandro Kirk,8,4,4,True,2023-04-30,Caught,2B,2023

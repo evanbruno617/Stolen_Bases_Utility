@@ -1,0 +1,18 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,224,1B,2B,Stolen Base 2B,670712,Mike Brosseau,642121,Cole Sulser,642715,Willy Adames,R,Chance Sisco,642082,6,6,5,False,2020-09-17,Stolen,2B,2020,2021,27.9
+1,265,1B,2B,Stolen Base 2B,670712,Mike Brosseau,434671,Aníbal Sánchez,660294,Yoshi Tsutsugo,R,Kurt Suzuki,435559,0,0,1,False,2020-09-15,Stolen,2B,2020,2021,27.9
+2,629,1B,2B,Stolen Base 2B,670712,Mike Brosseau,642121,Cole Sulser,642715,Willy Adames,R,Chance Sisco,642082,6,6,5,False,2020-08-27,Stolen,2B,2020,2021,27.9
+3,3067,1B,2B,Stolen Base 2B,670712,Mike Brosseau,642121,Cole Sulser,642715,Willy Adames,R,Chance Sisco,642082,6,6,5,False,2020-09-17,Stolen,2B,2020,2021,27.9
+4,3108,1B,2B,Stolen Base 2B,670712,Mike Brosseau,434671,Aníbal Sánchez,660294,Yoshi Tsutsugo,R,Kurt Suzuki,435559,0,0,1,False,2020-09-15,Stolen,2B,2020,2021,27.9
+5,3472,1B,2B,Stolen Base 2B,670712,Mike Brosseau,642121,Cole Sulser,642715,Willy Adames,R,Chance Sisco,642082,6,6,5,False,2020-08-27,Stolen,2B,2020,2021,27.9
+6,4991,1B,2B,Stolen Base 2B,670712,Mike Brosseau,642121,Cole Sulser,642715,Willy Adames,R,Chance Sisco,642082,6,6,5,False,2020-09-17,Stolen,2B,2020,2021,27.9
+7,5032,1B,2B,Stolen Base 2B,670712,Mike Brosseau,434671,Aníbal Sánchez,660294,Yoshi Tsutsugo,R,Kurt Suzuki,435559,0,0,1,False,2020-09-15,Stolen,2B,2020,2021,27.9
+8,5396,1B,2B,Stolen Base 2B,670712,Mike Brosseau,642121,Cole Sulser,642715,Willy Adames,R,Chance Sisco,642082,6,6,5,False,2020-08-27,Stolen,2B,2020,2021,27.9
+9,2127,1B,2B,Stolen Base 2B,670712,Mike Brosseau,521655,Wilmer Font,572287,Mike Zunino,R,Reese McGuire,624512,0,0,2,False,2019-08-07,Stolen,2B,2019,2020,27.8
+10,4970,1B,2B,Stolen Base 2B,670712,Mike Brosseau,521655,Wilmer Font,572287,Mike Zunino,R,Reese McGuire,624512,0,0,2,False,2019-08-07,Stolen,2B,2019,2020,27.8
+11,6894,1B,2B,Stolen Base 2B,670712,Mike Brosseau,521655,Wilmer Font,572287,Mike Zunino,R,Reese McGuire,624512,0,0,2,False,2019-08-07,Stolen,2B,2019,2020,27.8
+12,1421,1B,2B,Stolen Base 2B,670712,Mike Brosseau,452657,Jon Lester,621433,Brett Phillips,L,Yan Gomes,543228,6,4,4,True,2021-06-30,Stolen,2B,2021,2022,27.7
+13,1782,1B,2B,Stolen Base 2B,670712,Mike Brosseau,656685,Brett Martin,640457,Austin Meadows,L,Jonah Heim,641680,1,5,9,True,2021-06-06,Stolen,2B,2021,2022,27.7
+14,3345,1B,2B,Stolen Base 2B,670712,Mike Brosseau,452657,Jon Lester,621433,Brett Phillips,L,Yan Gomes,543228,6,4,4,True,2021-06-30,Stolen,2B,2021,2022,27.7
+15,3706,1B,2B,Stolen Base 2B,670712,Mike Brosseau,656685,Brett Martin,640457,Austin Meadows,L,Jonah Heim,641680,1,5,9,True,2021-06-06,Stolen,2B,2021,2022,27.7
+16,1110,1B,2B,Stolen Base 2B,670712,Mike Brosseau,621345,A.J. Minter,543939,Kolten Wong,L,William Contreras,661388,0,1,7,False,2022-05-17,Stolen,2B,2022,2023,27.6

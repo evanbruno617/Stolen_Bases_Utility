@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1253,1B,,Caught Stealing 2B,683734,Andrew Vaughn,Austin Wynns,0,1,2,True,2021-07-10,Caught,2B,2021
+1462,1B,2B,Stolen Base 2B,683734,Andrew Vaughn,Luis Torrens,2,2,6,False,2021-06-27,Stolen,2B,2021
+1490,1B,2B,Stolen Base 2B,683734,Andrew Vaughn,Luis Torrens,2,2,6,False,2021-06-26,Stolen,2B,2021

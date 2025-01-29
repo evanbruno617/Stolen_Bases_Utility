@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+647,1B,,Caught Stealing 2B,547957,Hyun Soo Kim,Jett Bandy,0,0,1,False,2016-07-09,Caught,2B,2016
+1069,1B,,Caught Stealing 2B,547957,Hyun Soo Kim,Christian Vázquez,0,0,1,True,2016-06-15,Caught,2B,2016
+1212,1B,2B,Stolen Base 2B,547957,Hyun Soo Kim,Salvador Perez,4,0,5,False,2016-06-08,Stolen,2B,2016

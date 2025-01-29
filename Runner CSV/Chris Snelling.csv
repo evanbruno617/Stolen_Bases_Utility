@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1016,1B,,Caught Stealing 2B,421684,Chris Snelling,Joe Mauer,0,0,5,False,2005-08-09,Caught,2B,2005
+1627,1B,,Caught Stealing 2B,421684,Chris Snelling,John Buck,1,0,3,True,2005-07-06,Caught,2B,2005
+3524,1B,,Caught Stealing 2B,421684,Chris Snelling,Miguel Olivo,5,5,12,True,2007-04-20,Caught,2B,2007

@@ -1,0 +1,15 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,5755,1B,,Caught Stealing 2B,449107,Mike Aviles,623439,Ryan Garton,578428,Jose Iglesias,R,Curt Casali,592200,1,3,6,True,2016-07-02,Caught,2B,2016,2017,27.8
+1,5756,1B,2B,Stolen Base 2B,449107,Mike Aviles,541640,Erasmo Ramírez,543510,James McCann,R,Curt Casali,592200,2,3,9,True,2016-07-02,Stolen,2B,2016,2017,27.8
+2,5773,1B,2B,Stolen Base 2B,449107,Mike Aviles,592767,Drew Smyly,543510,James McCann,L,Hank Conger,474233,0,1,5,True,2016-07-01,Stolen,2B,2016,2017,27.8
+3,6471,1B,,Caught Stealing 2B,449107,Mike Aviles,476451,Jeremy Hellickson,578428,Jose Iglesias,R,Carlos Ruiz,434563,1,0,5,False,2016-05-24,Caught,2B,2016,2017,27.8
+4,1720,1B,,Caught Stealing 2B,449107,Mike Aviles,623439,Ryan Garton,578428,Jose Iglesias,R,Curt Casali,592200,1,3,6,True,2016-07-02,Caught,2B,2016,2017,27.8
+5,1721,1B,2B,Stolen Base 2B,449107,Mike Aviles,541640,Erasmo Ramírez,543510,James McCann,R,Curt Casali,592200,2,3,9,True,2016-07-02,Stolen,2B,2016,2017,27.8
+6,1738,1B,2B,Stolen Base 2B,449107,Mike Aviles,592767,Drew Smyly,543510,James McCann,L,Hank Conger,474233,0,1,5,True,2016-07-01,Stolen,2B,2016,2017,27.8
+7,2436,1B,,Caught Stealing 2B,449107,Mike Aviles,476451,Jeremy Hellickson,578428,Jose Iglesias,R,Carlos Ruiz,434563,1,0,5,False,2016-05-24,Caught,2B,2016,2017,27.8
+8,5127,1B,,Caught Stealing 2B,449107,Mike Aviles,623439,Ryan Garton,578428,Jose Iglesias,R,Curt Casali,592200,1,3,6,True,2016-07-02,Caught,2B,2016,2017,27.8
+9,5128,1B,2B,Stolen Base 2B,449107,Mike Aviles,541640,Erasmo Ramírez,543510,James McCann,R,Curt Casali,592200,2,3,9,True,2016-07-02,Stolen,2B,2016,2017,27.8
+10,5145,1B,2B,Stolen Base 2B,449107,Mike Aviles,592767,Drew Smyly,543510,James McCann,L,Hank Conger,474233,0,1,5,True,2016-07-01,Stolen,2B,2016,2017,27.8
+11,5843,1B,,Caught Stealing 2B,449107,Mike Aviles,476451,Jeremy Hellickson,578428,Jose Iglesias,R,Carlos Ruiz,434563,1,0,5,False,2016-05-24,Caught,2B,2016,2017,27.8
+12,42,1B,2B,Stolen Base 2B,449107,Mike Aviles,425840,Neal Cotts,467793,Carlos Santana,L,Jonathan Lucroy,518960,4,7,9,True,2015-07-22,Stolen,2B,2015,2016,28.0
+13,1215,1B,2B,Stolen Base 2B,449107,Mike Aviles,607074,Carlos Rodón,456422,Michael Bourn,L,Tyler Flowers,452095,0,0,2,True,2015-05-20,Stolen,2B,2015,2016,28.0

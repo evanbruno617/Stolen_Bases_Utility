@@ -1,0 +1,27 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+651,1B,,Caught Stealing 2B,465041,Francisco Cervelli,Raul Chavez,3,2,6,False,2009-07-03,Caught,2B,2009
+1659,1B,,Caught Stealing 2B,465041,Francisco Cervelli,Gregg Zaun,2,1,6,False,2009-05-19,Caught,2B,2009
+696,1B,,Caught Stealing 2B,465041,Francisco Cervelli,A.J. Pierzynski,0,2,5,True,2010-08-29,Caught,2B,2010
+1650,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,John Jaso,2,4,4,False,2010-07-17,Stolen,2B,2010
+1879,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,J.P. Arencibia,1,2,2,True,2011-07-16,Stolen,2B,2011
+2541,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,Yorvit Torrealba,9,4,7,False,2011-06-15,Stolen,2B,2011
+2931,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,Kurt Suzuki,0,3,2,True,2011-05-30,Stolen,2B,2011
+2934,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,Kurt Suzuki,0,4,7,True,2011-05-30,Stolen,2B,2011
+995,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,Nick Hundley,1,2,8,True,2014-08-13,Stolen,2B,2014
+2073,2B,3B,Stolen Base 3B,465041,Francisco Cervelli,Jonathan Lucroy,1,1,2,False,2015-06-09,Stolen,3B,2015
+3320,1B,,Caught Stealing 2B,465041,Francisco Cervelli,Jonathan Lucroy,0,0,1,True,2015-04-11,Caught,2B,2015
+523,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,Jonathan Lucroy,2,1,4,False,2016-07-19,Stolen,2B,2016
+1408,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,Bobby Wilson,4,0,5,True,2016-05-28,Stolen,2B,2016
+1630,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,A.J. Pierzynski,12,9,8,False,2016-05-17,Stolen,2B,2016
+1748,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,Tucker Barnhart,3,6,5,True,2016-05-10,Stolen,2B,2016
+2008,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,Tony Wolters,1,4,3,True,2016-04-26,Stolen,2B,2016
+2222,1B,,Caught Stealing 2B,465041,Francisco Cervelli,Jonathan Lucroy,4,0,6,False,2016-04-16,Caught,2B,2016
+2553,1B,,Caught Stealing 2B,465041,Francisco Cervelli,Chris Herrmann,2,4,3,True,2017-05-14,Caught,2B,2017
+2956,1B,,Caught Stealing 2B,465041,Francisco Cervelli,Willson Contreras,6,3,7,False,2017-04-26,Caught,2B,2017
+541,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,Tucker Barnhart,4,0,3,False,2018-09-04,Stolen,2B,2018
+588,1B,,Caught Stealing 2B,465041,Francisco Cervelli,Tyler Flowers,0,0,4,True,2018-09-01,Caught,2B,2018
+1573,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,Andrew Knapp,4,1,8,False,2018-07-08,Stolen,2B,2018
+2572,1B,,Caught Stealing 2B,465041,Francisco Cervelli,Buster Posey,3,3,4,False,2018-05-12,Caught,2B,2018
+2606,1B,,Caught Stealing 2B,465041,Francisco Cervelli,Buster Posey,2,0,3,False,2018-05-11,Caught,2B,2018
+2338,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,Jeff Mathis,5,4,8,False,2019-05-07,Stolen,2B,2019
+908,1B,2B,Stolen Base 2B,465041,Francisco Cervelli,Danny Jansen,11,11,9,True,2020-08-12,Stolen,2B,2020

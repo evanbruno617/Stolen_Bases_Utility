@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1314,1B,2B,Stolen Base 2B,112682,Marty Cordova,Bill Haselman,7,4,8,False,2000-08-05,Stolen,2B,2000
+3220,1B,2B,Stolen Base 2B,112682,Marty Cordova,Charles Johnson,2,0,4,False,2000-05-09,Stolen,2B,2000
+3243,1B,2B,Stolen Base 2B,112682,Marty Cordova,Charles Johnson,6,2,4,False,2000-05-08,Stolen,2B,2000
+3923,1B,,Caught Stealing 2B,112682,Marty Cordova,Ivan Rodriguez,0,4,8,True,2000-04-08,Caught,2B,2000
+860,1B,,Caught Stealing 2B,112682,Marty Cordova,Héctor Ortiz,1,5,5,True,2001-05-02,Caught,2B,2001
+1182,1B,,Caught Stealing 2B,112682,Marty Cordova,Greg Myers,0,2,4,True,2001-04-18,Caught,2B,2001
+1569,1B,,Caught Stealing 2B,112682,Marty Cordova,Ben Davis,0,1,2,False,2002-07-15,Caught,2B,2002
+2193,1B,,Caught Stealing 2B,112682,Marty Cordova,Eddie Pérez,0,0,2,True,2002-06-13,Caught,2B,2002
+2854,1B,2B,Stolen Base 2B,112682,Marty Cordova,Toby Hall,0,0,2,False,2002-05-17,Stolen,2B,2002
+2865,1B,,Caught Stealing 2B,112682,Marty Cordova,Eddie Pérez,0,0,2,True,2002-05-16,Caught,2B,2002
+3341,1B,,Caught Stealing 2B,112682,Marty Cordova,Brent Mayne,5,4,6,True,2002-04-26,Caught,2B,2002
+3282,1B,2B,Stolen Base 2B,112682,Marty Cordova,Tim Laker,4,4,11,True,2003-04-17,Stolen,2B,2003

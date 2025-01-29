@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2486,1B,,Caught Stealing 2B,110136,Luis Alicea,Scott Servais,1,1,5,True,2000-06-09,Caught,2B,2000
+3085,1B,,Caught Stealing 2B,110136,Luis Alicea,Matt Walbeck,0,0,1,True,2000-05-14,Caught,2B,2000
+3758,1B,2B,Stolen Base 2B,110136,Luis Alicea,Einar Díaz,0,0,3,True,2000-04-16,Stolen,2B,2000
+516,1B,,Caught Stealing 2B,110136,Luis Alicea,John Flaherty,6,2,8,False,2001-05-15,Caught,2B,2001
+1068,1B,2B,Stolen Base 2B,110136,Luis Alicea,John Flaherty,2,2,4,True,2001-04-24,Stolen,2B,2001
+1112,1B,2B,Stolen Base 2B,110136,Luis Alicea,Darrin Fletcher,2,4,5,False,2001-04-21,Stolen,2B,2001
+1266,1B,2B,Stolen Base 2B,110136,Luis Alicea,Mark Johnson,1,1,3,True,2002-07-28,Stolen,2B,2002
+1471,1B,,Caught Stealing 2B,110136,Luis Alicea,Einar Díaz,8,5,8,False,2002-07-19,Caught,2B,2002
+1940,1B,,Caught Stealing 2B,110136,Luis Alicea,Brandon Inge,0,0,1,False,2002-06-26,Caught,2B,2002
+2040,1B,2B,Stolen Base 2B,110136,Luis Alicea,Vance Wilson,3,3,9,True,2002-06-21,Stolen,2B,2002

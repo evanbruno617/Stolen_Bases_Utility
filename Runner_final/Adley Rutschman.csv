@@ -1,0 +1,8 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,690,3B,,Caught Stealing Home,668939,Adley Rutschman,668678,Zac Gallen,663624,Ryan Mountcastle,R,Jose Herrera,645444,1,4,2,True,2023-09-03,Caught,Home,2023,2024,26.6
+1,1003,1B,2B,Stolen Base 2B,668939,Adley Rutschman,579328,Yusei Kikuchi,683002,Gunnar Henderson,L,Danny Jansen,643376,2,3,5,False,2023-08-22,Stolen,2B,2023,2024,26.6
+2,4149,1B,,Caught Stealing 2B,668939,Adley Rutschman,594798,Jacob deGrom,623993,Anthony Santander,R,Jonah Heim,641680,2,2,6,True,2023-04-05,Caught,2B,2023,2024,26.6
+3,5104,3B,,Caught Stealing Home,668939,Adley Rutschman,668678,Zac Gallen,663624,Ryan Mountcastle,R,Jose Herrera,645444,1,4,2,True,2023-09-03,Caught,Home,2023,2024,26.6
+4,5417,1B,2B,Stolen Base 2B,668939,Adley Rutschman,579328,Yusei Kikuchi,683002,Gunnar Henderson,L,Danny Jansen,643376,2,3,5,False,2023-08-22,Stolen,2B,2023,2024,26.6
+5,8563,1B,,Caught Stealing 2B,668939,Adley Rutschman,594798,Jacob deGrom,623993,Anthony Santander,R,Jonah Heim,641680,2,2,6,True,2023-04-05,Caught,2B,2023,2024,26.6
+6,335,1B,2B,Stolen Base 2B,668939,Adley Rutschman,592662,Robbie Ray,663527,Tyler Nevin,L,Cal Raleigh,663728,0,0,4,True,2022-06-28,Stolen,2B,2022,2023,27.0

@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,496,1B,,Caught Stealing 2B,677941,Jordyn Adams,669212,Eli Morgan,621433,Brett Phillips,R,Bo Naylor,666310,2,1,8,False,2023-09-10,Caught,2B,2023,2024,29.7
+1,563,1B,2B,Stolen Base 2B,677941,Jordyn Adams,656529,Sam Hentges,621433,Brett Phillips,L,Bo Naylor,666310,3,4,6,False,2023-09-08,Stolen,2B,2023,2024,29.7
+2,4910,1B,,Caught Stealing 2B,677941,Jordyn Adams,669212,Eli Morgan,621433,Brett Phillips,R,Bo Naylor,666310,2,1,8,False,2023-09-10,Caught,2B,2023,2024,29.7
+3,4977,1B,2B,Stolen Base 2B,677941,Jordyn Adams,656529,Sam Hentges,621433,Brett Phillips,L,Bo Naylor,666310,3,4,6,False,2023-09-08,Stolen,2B,2023,2024,29.7

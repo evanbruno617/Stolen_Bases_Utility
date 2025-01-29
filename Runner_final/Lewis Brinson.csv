@@ -1,0 +1,30 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,190,1B,2B,Stolen Base 2B,621446,Lewis Brinson,640448,Kyle Finnegan,572816,Corey Dickerson,R,Yan Gomes,543228,7,3,7,False,2020-09-19,Stolen,2B,2020,2021,28.6
+1,213,1B,2B,Stolen Base 2B,621446,Lewis Brinson,641851,Kyle McGowin,446481,Sean Rodríguez,R,Kurt Suzuki,435559,6,2,3,False,2020-09-18,Stolen,2B,2020,2021,28.6
+2,551,1B,2B,Stolen Base 2B,621446,Lewis Brinson,594798,Jacob deGrom,572816,Corey Dickerson,R,Wilson Ramos,467092,0,0,3,True,2020-08-31,Stolen,2B,2020,2021,28.6
+3,622,1B,2B,Stolen Base 2B,621446,Lewis Brinson,594798,Jacob deGrom,572816,Corey Dickerson,R,Wilson Ramos,467092,0,0,3,True,2020-08-27,Stolen,2B,2020,2021,28.6
+4,932,1B,2B,Stolen Base 2B,621446,Lewis Brinson,547943,Hyun Jin Ryu,542340,Jonathan Villar,L,Danny Jansen,643376,0,1,5,True,2020-08-11,Stolen,2B,2020,2021,28.6
+5,1080,1B,2B,Stolen Base 2B,621446,Lewis Brinson,641851,Kyle McGowin,446481,Sean Rodríguez,R,Kurt Suzuki,435559,6,2,3,False,2020-08-01,Stolen,2B,2020,2021,28.6
+6,3033,1B,2B,Stolen Base 2B,621446,Lewis Brinson,640448,Kyle Finnegan,572816,Corey Dickerson,R,Yan Gomes,543228,7,3,7,False,2020-09-19,Stolen,2B,2020,2021,28.6
+7,3056,1B,2B,Stolen Base 2B,621446,Lewis Brinson,641851,Kyle McGowin,446481,Sean Rodríguez,R,Kurt Suzuki,435559,6,2,3,False,2020-09-18,Stolen,2B,2020,2021,28.6
+8,3394,1B,2B,Stolen Base 2B,621446,Lewis Brinson,594798,Jacob deGrom,572816,Corey Dickerson,R,Wilson Ramos,467092,0,0,3,True,2020-08-31,Stolen,2B,2020,2021,28.6
+9,3465,1B,2B,Stolen Base 2B,621446,Lewis Brinson,594798,Jacob deGrom,572816,Corey Dickerson,R,Wilson Ramos,467092,0,0,3,True,2020-08-27,Stolen,2B,2020,2021,28.6
+10,3775,1B,2B,Stolen Base 2B,621446,Lewis Brinson,547943,Hyun Jin Ryu,542340,Jonathan Villar,L,Danny Jansen,643376,0,1,5,True,2020-08-11,Stolen,2B,2020,2021,28.6
+11,3923,1B,2B,Stolen Base 2B,621446,Lewis Brinson,641851,Kyle McGowin,446481,Sean Rodríguez,R,Kurt Suzuki,435559,6,2,3,False,2020-08-01,Stolen,2B,2020,2021,28.6
+12,4957,1B,2B,Stolen Base 2B,621446,Lewis Brinson,640448,Kyle Finnegan,572816,Corey Dickerson,R,Yan Gomes,543228,7,3,7,False,2020-09-19,Stolen,2B,2020,2021,28.6
+13,4980,1B,2B,Stolen Base 2B,621446,Lewis Brinson,641851,Kyle McGowin,446481,Sean Rodríguez,R,Kurt Suzuki,435559,6,2,3,False,2020-09-18,Stolen,2B,2020,2021,28.6
+14,5318,1B,2B,Stolen Base 2B,621446,Lewis Brinson,594798,Jacob deGrom,572816,Corey Dickerson,R,Wilson Ramos,467092,0,0,3,True,2020-08-31,Stolen,2B,2020,2021,28.6
+15,5389,1B,2B,Stolen Base 2B,621446,Lewis Brinson,594798,Jacob deGrom,572816,Corey Dickerson,R,Wilson Ramos,467092,0,0,3,True,2020-08-27,Stolen,2B,2020,2021,28.6
+16,5699,1B,2B,Stolen Base 2B,621446,Lewis Brinson,547943,Hyun Jin Ryu,542340,Jonathan Villar,L,Danny Jansen,643376,0,1,5,True,2020-08-11,Stolen,2B,2020,2021,28.6
+17,5847,1B,2B,Stolen Base 2B,621446,Lewis Brinson,641851,Kyle McGowin,446481,Sean Rodríguez,R,Kurt Suzuki,435559,6,2,3,False,2020-08-01,Stolen,2B,2020,2021,28.6
+18,2061,1B,2B,Stolen Base 2B,621446,Lewis Brinson,656794,Sean Newcomb,434158,Curtis Granderson,L,Tyler Flowers,452095,4,5,8,False,2019-08-11,Stolen,2B,2019,2020,28.5
+19,4904,1B,2B,Stolen Base 2B,621446,Lewis Brinson,656794,Sean Newcomb,434158,Curtis Granderson,L,Tyler Flowers,452095,4,5,8,False,2019-08-11,Stolen,2B,2019,2020,28.5
+20,6828,1B,2B,Stolen Base 2B,621446,Lewis Brinson,656794,Sean Newcomb,434158,Curtis Granderson,L,Tyler Flowers,452095,4,5,8,False,2019-08-11,Stolen,2B,2019,2020,28.5
+21,440,1B,,Caught Stealing 2B,621446,Lewis Brinson,502043,Kyle Gibson,605412,Joe Panik,R,Rafael Marchán,665561,3,2,4,False,2021-09-03,Caught,2B,2021,2022,28.9
+22,552,1B,2B,Stolen Base 2B,621446,Lewis Brinson,571578,Patrick Corbin,660821,Jesús Sánchez,L,Tres Barrera,668663,0,0,1,False,2021-08-26,Stolen,2B,2021,2022,28.9
+23,2364,1B,,Caught Stealing 2B,621446,Lewis Brinson,502043,Kyle Gibson,605412,Joe Panik,R,Rafael Marchán,665561,3,2,4,False,2021-09-03,Caught,2B,2021,2022,28.9
+24,2476,1B,2B,Stolen Base 2B,621446,Lewis Brinson,571578,Patrick Corbin,660821,Jesús Sánchez,L,Tres Barrera,668663,0,0,1,False,2021-08-26,Stolen,2B,2021,2022,28.9
+25,25,1B,,Caught Stealing 2B,621446,Lewis Brinson,605400,Aaron Nola,592680,Yadiel Rivera,R,Jorge Alfaro,595751,0,2,2,False,2018-05-02,Caught,2B,2018,2019,29.5
+26,393,1B,2B,Stolen Base 2B,621446,Lewis Brinson,641771,Chad Kuhl,596071,Dillon Peters,R,Elias Díaz,553869,1,0,2,False,2018-04-13,Stolen,2B,2018,2019,29.5
+27,2647,1B,2B,Stolen Base 2B,621446,Lewis Brinson,592662,Robbie Ray,570267,Domingo Santana,L,Chris Herrmann,543302,1,0,3,True,2017-06-11,Stolen,2B,2017,2018,29.3
+28,2019,1B,2B,Stolen Base 2B,621446,Lewis Brinson,592662,Robbie Ray,570267,Domingo Santana,L,Chris Herrmann,543302,1,0,3,True,2017-06-11,Stolen,2B,2017,2018,29.3

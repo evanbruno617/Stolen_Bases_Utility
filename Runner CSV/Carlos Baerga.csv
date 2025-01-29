@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1951,1B,2B,Stolen Base 2B,110427,Carlos Baerga,Einar Díaz,0,2,1,False,2002-06-26,Stolen,2B,2002
+1952,1B,2B,Stolen Base 2B,110427,Carlos Baerga,Einar Díaz,5,4,5,False,2002-06-26,Stolen,2B,2002
+2031,1B,2B,Stolen Base 2B,110427,Carlos Baerga,Paul Lo Duca,3,1,7,True,2002-06-21,Stolen,2B,2002
+2393,1B,2B,Stolen Base 2B,110427,Carlos Baerga,Brandon Inge,4,3,3,True,2002-06-04,Stolen,2B,2002
+2558,1B,2B,Stolen Base 2B,110427,Carlos Baerga,Darrin Fletcher,4,2,4,True,2002-05-28,Stolen,2B,2002
+3370,1B,2B,Stolen Base 2B,110427,Carlos Baerga,John Flaherty,2,0,4,False,2002-04-26,Stolen,2B,2002
+3443,1B,2B,Stolen Base 2B,110427,Carlos Baerga,Todd Hundley,5,2,8,True,2003-04-09,Stolen,2B,2003

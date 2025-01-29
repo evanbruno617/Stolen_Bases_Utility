@@ -1,0 +1,26 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,6035,1B,2B,Stolen Base 2B,431094,Aaron Hill,431148,Scott Kazmir,460075,Ryan Braun,L,Yasmani Grandal,518735,0,0,3,True,2016-06-16,Stolen,2B,2016,2017,27.2
+1,6148,1B,,Caught Stealing 2B,431094,Aaron Hill,570663,Hansel Robles,570717,Ramón Flores,R,René Rivera,425784,5,3,6,False,2016-06-11,Caught,2B,2016,2017,27.2
+2,6520,1B,2B,Stolen Base 2B,431094,Aaron Hill,570663,Hansel Robles,502100,Alex Presley,R,Kevin Plawecki,608700,2,4,6,True,2016-05-21,Stolen,2B,2016,2017,27.2
+3,6789,1B,,Caught Stealing 2B,431094,Aaron Hill,456027,Ross Ohlendorf,541650,Hernán Pérez,R,Ramón Cabrera,541608,4,5,8,True,2016-05-08,Caught,2B,2016,2017,27.2
+4,7130,1B,2B,Stolen Base 2B,431094,Aaron Hill,502272,Casey Fien,592680,Yadiel Rivera,R,Kurt Suzuki,435559,8,4,7,False,2016-04-20,Stolen,2B,2016,2017,27.2
+5,7240,1B,2B,Stolen Base 2B,431094,Aaron Hill,502046,Jeff Locke,571697,Scooter Gennett,L,Francisco Cervelli,465041,0,3,5,True,2016-04-15,Stolen,2B,2016,2017,27.2
+6,2000,1B,2B,Stolen Base 2B,431094,Aaron Hill,431148,Scott Kazmir,460075,Ryan Braun,L,Yasmani Grandal,518735,0,0,3,True,2016-06-16,Stolen,2B,2016,2017,27.2
+7,2113,1B,,Caught Stealing 2B,431094,Aaron Hill,570663,Hansel Robles,570717,Ramón Flores,R,René Rivera,425784,5,3,6,False,2016-06-11,Caught,2B,2016,2017,27.2
+8,2485,1B,2B,Stolen Base 2B,431094,Aaron Hill,570663,Hansel Robles,502100,Alex Presley,R,Kevin Plawecki,608700,2,4,6,True,2016-05-21,Stolen,2B,2016,2017,27.2
+9,2754,1B,,Caught Stealing 2B,431094,Aaron Hill,456027,Ross Ohlendorf,541650,Hernán Pérez,R,Ramón Cabrera,541608,4,5,8,True,2016-05-08,Caught,2B,2016,2017,27.2
+10,3095,1B,2B,Stolen Base 2B,431094,Aaron Hill,502272,Casey Fien,592680,Yadiel Rivera,R,Kurt Suzuki,435559,8,4,7,False,2016-04-20,Stolen,2B,2016,2017,27.2
+11,3205,1B,2B,Stolen Base 2B,431094,Aaron Hill,502046,Jeff Locke,571697,Scooter Gennett,L,Francisco Cervelli,465041,0,3,5,True,2016-04-15,Stolen,2B,2016,2017,27.2
+12,5407,1B,2B,Stolen Base 2B,431094,Aaron Hill,431148,Scott Kazmir,460075,Ryan Braun,L,Yasmani Grandal,518735,0,0,3,True,2016-06-16,Stolen,2B,2016,2017,27.2
+13,5520,1B,,Caught Stealing 2B,431094,Aaron Hill,570663,Hansel Robles,570717,Ramón Flores,R,René Rivera,425784,5,3,6,False,2016-06-11,Caught,2B,2016,2017,27.2
+14,5892,1B,2B,Stolen Base 2B,431094,Aaron Hill,570663,Hansel Robles,502100,Alex Presley,R,Kevin Plawecki,608700,2,4,6,True,2016-05-21,Stolen,2B,2016,2017,27.2
+15,6161,1B,,Caught Stealing 2B,431094,Aaron Hill,456027,Ross Ohlendorf,541650,Hernán Pérez,R,Ramón Cabrera,541608,4,5,8,True,2016-05-08,Caught,2B,2016,2017,27.2
+16,6502,1B,2B,Stolen Base 2B,431094,Aaron Hill,502272,Casey Fien,592680,Yadiel Rivera,R,Kurt Suzuki,435559,8,4,7,False,2016-04-20,Stolen,2B,2016,2017,27.2
+17,6612,1B,2B,Stolen Base 2B,431094,Aaron Hill,502046,Jeff Locke,571697,Scooter Gennett,L,Francisco Cervelli,465041,0,3,5,True,2016-04-15,Stolen,2B,2016,2017,27.2
+18,96,1B,2B,Stolen Base 2B,431094,Aaron Hill,502004,George Kontos,460060,Cliff Pennington,R,Buster Posey,457763,1,2,7,False,2015-07-19,Stolen,2B,2015,2016,27.3
+19,417,1B,2B,Stolen Base 2B,431094,Aaron Hill,534812,Kevin Quackenbush,456078,Welington Castillo,R,Derek Norris,519083,3,6,6,True,2015-06-28,Stolen,2B,2015,2016,27.3
+20,634,1B,2B,Stolen Base 2B,431094,Aaron Hill,502327,Héctor Santiago,572008,Chris Owings,L,Chris Iannetta,455104,1,0,1,False,2015-06-17,Stolen,2B,2015,2016,27.3
+21,1140,1B,,Caught Stealing 2B,431094,Aaron Hill,453562,Jake Arrieta,488912,Tuffy Gosewisch,R,Miguel Montero,471083,2,0,4,False,2015-05-23,Caught,2B,2015,2016,27.3
+22,1219,1B,2B,Stolen Base 2B,431094,Aaron Hill,475479,David Phelps,488912,Tuffy Gosewisch,R,Jhonatan Solano,500207,0,1,2,True,2015-05-20,Stolen,2B,2015,2016,27.3
+23,1522,2B,3B,Stolen Base 3B,431094,Aaron Hill,429783,Rafael Betancourt,460060,Cliff Pennington,R,Michael McKenry,502374,1,5,8,True,2015-05-06,Stolen,3B,2015,2016,27.3
+24,1528,2B,3B,Stolen Base 3B,431094,Aaron Hill,429783,Rafael Betancourt,460060,Cliff Pennington,R,Michael McKenry,502374,1,5,8,True,2015-05-05,Stolen,3B,2015,2016,27.3

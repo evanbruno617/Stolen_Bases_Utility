@@ -1,0 +1,13 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3914,1B,,Caught Stealing 2B,446308,Matt Wieters,502026,Jeremy Jeffress,576397,Jedd Gyorko,R,Yasmani Grandal,518735,2,6,8,True,2019-04-17,Caught,2B,2019,2020,23.7
+1,4022,1B,2B,Stolen Base 2B,446308,Matt Wieters,520980,Pedro Báez,543939,Kolten Wong,R,Rocky Gale,502570,9,7,5,False,2019-04-11,Stolen,2B,2019,2020,23.7
+2,6757,1B,,Caught Stealing 2B,446308,Matt Wieters,502026,Jeremy Jeffress,576397,Jedd Gyorko,R,Yasmani Grandal,518735,2,6,8,True,2019-04-17,Caught,2B,2019,2020,23.7
+3,6865,1B,2B,Stolen Base 2B,446308,Matt Wieters,520980,Pedro Báez,543939,Kolten Wong,R,Rocky Gale,502570,9,7,5,False,2019-04-11,Stolen,2B,2019,2020,23.7
+4,8681,1B,,Caught Stealing 2B,446308,Matt Wieters,502026,Jeremy Jeffress,576397,Jedd Gyorko,R,Yasmani Grandal,518735,2,6,8,True,2019-04-17,Caught,2B,2019,2020,23.7
+5,8789,1B,2B,Stolen Base 2B,446308,Matt Wieters,520980,Pedro Báez,543939,Kolten Wong,R,Rocky Gale,502570,9,7,5,False,2019-04-11,Stolen,2B,2019,2020,23.7
+6,355,1B,,Caught Stealing 2B,446308,Matt Wieters,493603,Adam Ottavino,501213,Moisés Sierra,R,Chris Iannetta,455104,4,5,8,False,2018-04-15,Caught,2B,2018,2019,23.7
+7,3544,1B,2B,Stolen Base 2B,446308,Matt Wieters,622608,Antonio Senzatela,594694,Wilmer Difo,R,Dustin Garneau,572863,2,3,6,True,2017-04-27,Stolen,2B,2017,2018,24.2
+8,2916,1B,2B,Stolen Base 2B,446308,Matt Wieters,622608,Antonio Senzatela,594694,Wilmer Difo,R,Dustin Garneau,572863,2,3,6,True,2017-04-27,Stolen,2B,2017,2018,24.2
+9,6464,1B,2B,Stolen Base 2B,446308,Matt Wieters,502381,Luke Gregerson,570731,Jonathan Schoop,R,Jason Castro,488771,2,2,9,True,2016-05-24,Stolen,2B,2016,2017,24.8
+10,2429,1B,2B,Stolen Base 2B,446308,Matt Wieters,502381,Luke Gregerson,570731,Jonathan Schoop,R,Jason Castro,488771,2,2,9,True,2016-05-24,Stolen,2B,2016,2017,24.8
+11,5836,1B,2B,Stolen Base 2B,446308,Matt Wieters,502381,Luke Gregerson,570731,Jonathan Schoop,R,Jason Castro,488771,2,2,9,True,2016-05-24,Stolen,2B,2016,2017,24.8

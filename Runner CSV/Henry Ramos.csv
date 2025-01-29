@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3120,2B,,Caught Stealing 3B,592656,Henry Ramos,Kyle Higashioka,0,1,3,False,2023-05-19,Caught,3B,2023
+3186,2B,3B,Stolen Base 3B,592656,Henry Ramos,Austin Wynns,8,7,8,True,2023-05-15,Stolen,3B,2023
+3273,1B,2B,Stolen Base 2B,592656,Henry Ramos,Jacob Stallings,0,0,2,True,2023-05-12,Stolen,2B,2023

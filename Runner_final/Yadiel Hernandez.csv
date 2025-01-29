@@ -1,0 +1,9 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,793,1B,2B,Stolen Base 2B,628450,Yadiel Hernandez,471911,Carlos Carrasco,671277,Luis García Jr.,R,James McCann,543510,0,3,1,True,2021-08-11,Stolen,2B,2021,2022,25.6
+1,811,1B,2B,Stolen Base 2B,628450,Yadiel Hernandez,471911,Carlos Carrasco,671277,Luis García Jr.,R,James McCann,543510,0,3,1,True,2021-08-10,Stolen,2B,2021,2022,25.6
+2,2391,1B,2B,Stolen Base 2B,628450,Yadiel Hernandez,446321,Ross Detwiler,656941,Kyle Schwarber,L,Chad Wallach,595453,4,0,4,False,2021-05-01,Stolen,2B,2021,2022,25.6
+3,2402,1B,2B,Stolen Base 2B,628450,Yadiel Hernandez,571670,Dylan Floro,516770,Starlin Castro,R,Sandy León,506702,0,0,9,False,2021-04-30,Stolen,2B,2021,2022,25.6
+4,2717,1B,2B,Stolen Base 2B,628450,Yadiel Hernandez,471911,Carlos Carrasco,671277,Luis García Jr.,R,James McCann,543510,0,3,1,True,2021-08-11,Stolen,2B,2021,2022,25.6
+5,2735,1B,2B,Stolen Base 2B,628450,Yadiel Hernandez,471911,Carlos Carrasco,671277,Luis García Jr.,R,James McCann,543510,0,3,1,True,2021-08-10,Stolen,2B,2021,2022,25.6
+6,4315,1B,2B,Stolen Base 2B,628450,Yadiel Hernandez,446321,Ross Detwiler,656941,Kyle Schwarber,L,Chad Wallach,595453,4,0,4,False,2021-05-01,Stolen,2B,2021,2022,25.6
+7,4326,1B,2B,Stolen Base 2B,628450,Yadiel Hernandez,571670,Dylan Floro,516770,Starlin Castro,R,Sandy León,506702,0,0,9,False,2021-04-30,Stolen,2B,2021,2022,25.6

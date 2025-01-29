@@ -1,0 +1,148 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,516782,Starling Marte,Seby Zavala,1,1,3,False,2021-09-09,Stolen,2B,2021
+2B,3B,Stolen Base 3B,670032,Nicky Lopez,Seby Zavala,4,0,5,False,2021-09-05,Stolen,3B,2021
+1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,Seby Zavala,4,0,6,False,2021-09-05,Stolen,2B,2021
+2B,3B,Stolen Base 3B,609275,Adalberto Mondesi,Seby Zavala,4,0,6,False,2021-09-05,Stolen,3B,2021
+2B,3B,Stolen Base 3B,609275,Adalberto Mondesi,Seby Zavala,6,0,3,False,2021-09-03,Stolen,3B,2021
+1B,,Caught Stealing 2B,572191,Michael A. Taylor,Seby Zavala,6,0,3,False,2021-09-03,Caught,2B,2021
+1B,2B,Stolen Base 2B,669289,Santiago Espinal,Seby Zavala,0,0,3,False,2021-08-23,Stolen,2B,2021
+1B,2B,Stolen Base 2B,665489,Vladimir Guerrero Jr.,Seby Zavala,2,1,8,False,2021-08-23,Stolen,2B,2021
+1B,,Caught Stealing 2B,650490,Yandy Díaz,Seby Zavala,6,2,7,False,2021-08-21,Caught,2B,2021
+1B,2B,Stolen Base 2B,622534,Manuel Margot,Seby Zavala,2,4,8,False,2021-08-20,Stolen,2B,2021
+1B,2B,Stolen Base 2B,516782,Starling Marte,Seby Zavala,0,0,1,True,2021-08-18,Stolen,2B,2021
+1B,2B,Stolen Base 2B,592192,Mark Canha,Seby Zavala,3,2,7,True,2021-08-18,Stolen,2B,2021
+1B,2B,Stolen Base 2B,592450,Aaron Judge,Seby Zavala,0,3,6,True,2021-08-15,Stolen,2B,2021
+1B,2B,Stolen Base 2B,642180,Tyler Wade,Seby Zavala,7,4,7,True,2021-08-12,Stolen,2B,2021
+1B,2B,Stolen Base 2B,542364,Rafael Ortega,Seby Zavala,2,7,2,False,2021-08-08,Stolen,2B,2021
+1B,2B,Stolen Base 2B,641561,Johneshwy Fargas,Seby Zavala,4,4,8,False,2021-08-06,Stolen,2B,2021
+1B,2B,Stolen Base 2B,622110,Matt Duffy,Seby Zavala,4,4,9,False,2021-08-06,Stolen,2B,2021
+1B,2B,Stolen Base 2B,593160,Whit Merrifield,Seby Zavala,1,3,7,True,2021-08-05,Stolen,2B,2021
+1B,2B,Stolen Base 2B,572191,Michael A. Taylor,Seby Zavala,2,3,9,True,2021-08-05,Stolen,2B,2021
+1B,2B,Stolen Base 2B,658668,Edward Olivares,Seby Zavala,1,0,3,True,2021-08-03,Stolen,2B,2021
+1B,2B,Stolen Base 2B,643217,Andrew Benintendi,Seby Zavala,3,0,4,True,2021-08-03,Stolen,2B,2021
+1B,2B,Stolen Base 2B,605548,Bradley Zimmer,Seby Zavala,0,1,3,True,2021-08-01,Stolen,2B,2021
+1B,2B,Stolen Base 2B,614177,Franmil Reyes,Seby Zavala,1,1,9,True,2021-08-01,Stolen,2B,2021
+1B,2B,Stolen Base 2B,608070,José Ramírez,Seby Zavala,6,8,7,True,2021-07-31,Stolen,2B,2021
+1B,2B,Stolen Base 2B,669288,Daniel Johnson,Seby Zavala,1,2,4,True,2021-07-30,Stolen,2B,2021
+1B,2B,Stolen Base 2B,572191,Michael A. Taylor,Seby Zavala,2,0,2,False,2021-07-27,Stolen,2B,2021
+1B,,Caught Stealing 2B,641531,Hunter Dozier,Seby Zavala,3,1,7,False,2021-07-27,Caught,2B,2021
+1B,,Caught Stealing 2B,572191,Michael A. Taylor,Seby Zavala,2,0,5,False,2021-07-26,Caught,2B,2021
+1B,2B,Stolen Base 2B,596146,Max Kepler,Seby Zavala,4,5,8,True,2021-07-20,Stolen,2B,2021
+1B,2B,Stolen Base 2B,593871,Jorge Polanco,Seby Zavala,1,3,8,True,2021-07-19,Stolen,2B,2021
+1B,2B,Stolen Base 2B,656775,Cedric Mullins,Seby Zavala,2,0,3,False,2021-07-11,Stolen,2B,2021
+1B,2B,Stolen Base 2B,682626,Francisco Alvarez,Seby Zavala,6,2,6,False,2023-09-12,Stolen,2B,2023
+2B,3B,Stolen Base 3B,677595,Ronny Mauricio,Seby Zavala,3,4,9,False,2023-09-11,Stolen,3B,2023
+1B,2B,Stolen Base 2B,641796,Tim Locastro,Seby Zavala,3,4,9,False,2023-09-11,Stolen,2B,2023
+1B,2B,Stolen Base 2B,663538,Nico Hoerner,Seby Zavala,1,0,1,False,2023-09-10,Stolen,2B,2023
+1B,2B,Stolen Base 2B,663611,Nick Madrigal,Seby Zavala,4,0,4,False,2023-09-10,Stolen,2B,2023
+1B,2B,Stolen Base 2B,663538,Nico Hoerner,Seby Zavala,5,1,5,False,2023-09-10,Stolen,2B,2023
+1B,2B,Stolen Base 2B,666310,Bo Naylor,Seby Zavala,3,4,6,True,2023-07-27,Stolen,2B,2023
+1B,2B,Stolen Base 2B,665926,Andrés Giménez,Seby Zavala,3,4,7,True,2023-07-27,Stolen,2B,2023
+1B,2B,Stolen Base 2B,663538,Nico Hoerner,Seby Zavala,2,2,2,True,2023-07-26,Stolen,2B,2023
+1B,2B,Stolen Base 2B,666624,Christopher Morel,Seby Zavala,7,6,5,True,2023-07-26,Stolen,2B,2023
+1B,2B,Stolen Base 2B,670156,Miles Mastrobuoni,Seby Zavala,7,6,5,True,2023-07-26,Stolen,2B,2023
+1B,2B,Stolen Base 2B,673548,Seiya Suzuki,Seby Zavala,7,8,6,True,2023-07-26,Stolen,2B,2023
+1B,,Caught Stealing 2B,673548,Seiya Suzuki,Seby Zavala,7,10,8,True,2023-07-26,Caught,2B,2023
+2B,3B,Stolen Base 3B,650489,Willi Castro,Seby Zavala,4,4,11,False,2023-07-23,Stolen,3B,2023
+1B,2B,Stolen Base 2B,621439,Byron Buxton,Seby Zavala,1,2,7,False,2023-07-22,Stolen,2B,2023
+1B,2B,Stolen Base 2B,502054,Tommy Pham,Seby Zavala,7,2,4,False,2023-07-18,Stolen,2B,2023
+1B,2B,Stolen Base 2B,671739,Michael Harris II,Seby Zavala,1,8,6,False,2023-07-16,Stolen,2B,2023
+1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,Seby Zavala,4,6,7,False,2023-07-15,Stolen,2B,2023
+1B,2B,Stolen Base 2B,645277,Ozzie Albies,Seby Zavala,5,6,9,False,2023-07-15,Stolen,2B,2023
+1B,,Caught Stealing 2B,502671,Paul Goldschmidt,Seby Zavala,1,0,4,True,2023-07-09,Caught,2B,2023
+1B,,Caught Stealing 2B,657557,Paul DeJong,Seby Zavala,2,2,8,True,2023-07-09,Caught,2B,2023
+1B,2B,Stolen Base 2B,593160,Whit Merrifield,Seby Zavala,3,2,7,True,2023-07-04,Stolen,2B,2023
+1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,Seby Zavala,3,2,7,True,2023-07-04,Stolen,2B,2023
+1B,2B,Stolen Base 2B,643393,Tony Kemp,Seby Zavala,1,5,3,False,2023-07-02,Stolen,2B,2023
+1B,,Caught Stealing 2B,650859,Luis Rengifo,Seby Zavala,1,0,2,False,2023-06-27,Caught,2B,2023
+1B,,Caught Stealing 2B,595453,Chad Wallach,Seby Zavala,1,0,2,False,2023-06-27,Caught,2B,2023
+1B,2B,Stolen Base 2B,623205,Andrew Velazquez,Seby Zavala,4,1,7,False,2023-06-27,Stolen,2B,2023
+2B,3B,Stolen Base 3B,545361,Mike Trout,Seby Zavala,1,1,9,False,2023-06-26,Stolen,3B,2023
+1B,2B,Stolen Base 2B,660271,Shohei Ohtani,Seby Zavala,1,1,9,False,2023-06-26,Stolen,2B,2023
+1B,2B,Stolen Base 2B,666152,David Hamilton,Seby Zavala,0,1,3,True,2023-06-23,Stolen,2B,2023
+1B,2B,Stolen Base 2B,571771,Enrique Hernández,Seby Zavala,1,3,5,True,2023-06-23,Stolen,2B,2023
+1B,2B,Stolen Base 2B,677649,Ezequiel Duran,Seby Zavala,1,6,5,True,2023-06-21,Stolen,2B,2023
+1B,,Caught Stealing 2B,664238,Dylan Moore,Seby Zavala,2,1,2,False,2023-06-17,Caught,2B,2023
+1B,2B,Stolen Base 2B,677594,Julio Rodríguez,Seby Zavala,3,2,5,False,2023-06-17,Stolen,2B,2023
+2B,3B,Stolen Base 3B,677594,Julio Rodríguez,Seby Zavala,3,3,10,False,2023-06-17,Stolen,3B,2023
+1B,2B,Stolen Base 2B,606192,Teoscar Hernández,Seby Zavala,3,3,10,False,2023-06-17,Stolen,2B,2023
+1B,2B,Stolen Base 2B,676609,José Caballero,Seby Zavala,0,0,4,False,2023-06-16,Stolen,2B,2023
+1B,2B,Stolen Base 2B,683011,Anthony Volpe,Seby Zavala,0,1,4,False,2023-06-06,Stolen,2B,2023
+1B,2B,Stolen Base 2B,668731,Akil Baddoo,Seby Zavala,0,2,4,True,2023-06-04,Stolen,2B,2023
+1B,2B,Stolen Base 2B,595879,Javier Báez,Seby Zavala,1,2,6,True,2023-06-04,Stolen,2B,2023
+2B,3B,Stolen Base 3B,595879,Javier Báez,Seby Zavala,1,2,6,True,2023-06-04,Stolen,3B,2023
+1B,2B,Stolen Base 2B,679529,Spencer Torkelson,Seby Zavala,0,0,4,True,2023-06-02,Stolen,2B,2023
+1B,2B,Stolen Base 2B,642136,Matt Thaiss,Seby Zavala,3,4,8,True,2023-05-29,Stolen,2B,2023
+1B,2B,Stolen Base 2B,656716,Zach McKinstry,Seby Zavala,0,1,3,False,2023-05-25,Stolen,2B,2023
+1B,,Caught Stealing 2B,677951,Bobby Witt Jr.,Seby Zavala,0,0,1,True,2023-05-20,Caught,2B,2023
+1B,2B,Stolen Base 2B,664702,Myles Straw,Seby Zavala,1,3,7,True,2023-05-18,Stolen,2B,2023
+1B,2B,Stolen Base 2B,665926,Andrés Giménez,Seby Zavala,1,1,3,True,2023-05-17,Stolen,2B,2023
+1B,,Caught Stealing 2B,665161,Jeremy Peña,Seby Zavala,0,0,4,True,2023-05-13,Caught,2B,2023
+1B,2B,Stolen Base 2B,663656,Kyle Tucker,Seby Zavala,1,0,4,True,2023-05-12,Stolen,2B,2023
+1B,2B,Stolen Base 2B,667452,Corey Julks,Seby Zavala,1,1,4,True,2023-05-12,Stolen,2B,2023
+1B,2B,Stolen Base 2B,667452,Corey Julks,Seby Zavala,1,2,6,True,2023-05-12,Stolen,2B,2023
+1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,Seby Zavala,0,0,1,False,2023-05-11,Stolen,2B,2023
+2B,3B,Stolen Base 3B,677951,Bobby Witt Jr.,Seby Zavala,0,0,1,False,2023-05-11,Stolen,3B,2023
+1B,2B,Stolen Base 2B,663697,Jonathan India,Seby Zavala,1,0,1,False,2023-05-06,Stolen,2B,2023
+2B,3B,Stolen Base 3B,663697,Jonathan India,Seby Zavala,1,2,3,False,2023-05-06,Stolen,3B,2023
+1B,2B,Stolen Base 2B,621028,Kevin Newman,Seby Zavala,0,0,3,False,2023-05-05,Stolen,2B,2023
+1B,2B,Stolen Base 2B,621439,Byron Buxton,Seby Zavala,4,4,5,True,2023-05-03,Stolen,2B,2023
+1B,,Caught Stealing 2B,650489,Willi Castro,Seby Zavala,4,4,6,True,2023-05-03,Caught,2B,2023
+1B,2B,Stolen Base 2B,621439,Byron Buxton,Seby Zavala,0,0,3,True,2023-05-02,Stolen,2B,2023
+1B,,Caught Stealing 2B,663616,Trevor Larnach,Seby Zavala,0,0,4,True,2023-05-02,Caught,2B,2023
+2B,3B,Stolen Base 3B,593160,Whit Merrifield,Seby Zavala,4,0,4,False,2023-04-26,Stolen,3B,2023
+1B,2B,Stolen Base 2B,669289,Santiago Espinal,Seby Zavala,4,0,4,False,2023-04-26,Stolen,2B,2023
+1B,2B,Stolen Base 2B,543807,George Springer,Seby Zavala,0,0,1,False,2023-04-25,Stolen,2B,2023
+2B,3B,Stolen Base 3B,593160,Whit Merrifield,Seby Zavala,5,0,4,False,2023-04-25,Stolen,3B,2023
+1B,,Caught Stealing 2B,668227,Randy Arozarena,Seby Zavala,3,0,3,False,2023-04-23,Caught,2B,2023
+1B,2B,Stolen Base 2B,677551,Wander Franco,Seby Zavala,4,1,8,False,2023-04-23,Stolen,2B,2023
+1B,2B,Stolen Base 2B,670764,Taylor Walls,Seby Zavala,2,0,1,False,2023-04-22,Stolen,2B,2023
+1B,,Caught Stealing 2B,677551,Wander Franco,Seby Zavala,3,2,5,False,2023-04-22,Caught,2B,2023
+1B,2B,Stolen Base 2B,624428,Adam Frazier,Seby Zavala,4,0,4,True,2023-04-16,Stolen,2B,2023
+2B,3B,Stolen Base 3B,622761,Jorge Mateo,Seby Zavala,4,4,8,True,2023-04-16,Stolen,3B,2023
+1B,2B,Stolen Base 2B,665833,Oneil Cruz,Seby Zavala,1,0,6,False,2023-04-09,Stolen,2B,2023
+1B,2B,Stolen Base 2B,676801,Chas McCormick,Seby Zavala,3,3,6,False,2023-04-01,Stolen,2B,2023
+1B,2B,Stolen Base 2B,668731,Akil Baddoo,Seby Zavala,3,4,7,True,2022-09-23,Stolen,2B,2022
+1B,2B,Stolen Base 2B,650489,Willi Castro,Seby Zavala,3,4,8,True,2022-09-23,Stolen,2B,2022
+1B,,Caught Stealing 2B,660757,Oscar Gonzalez,Seby Zavala,0,1,4,True,2022-09-20,Caught,2B,2022
+1B,2B,Stolen Base 2B,680911,Owen Miller,Seby Zavala,5,7,11,True,2022-09-20,Stolen,2B,2022
+2B,3B,Stolen Base 3B,680757,Steven Kwan,Seby Zavala,5,9,11,True,2022-09-20,Stolen,3B,2022
+2B,3B,Stolen Base 3B,642708,Amed Rosario,Seby Zavala,5,10,11,True,2022-09-20,Stolen,3B,2022
+1B,,Caught Stealing 2B,668731,Akil Baddoo,Seby Zavala,2,2,2,False,2022-09-18,Caught,2B,2022
+1B,2B,Stolen Base 2B,668731,Akil Baddoo,Seby Zavala,2,2,8,False,2022-09-17,Stolen,2B,2022
+1B,2B,Stolen Base 2B,595879,Javier Báez,Seby Zavala,1,0,3,False,2022-09-16,Stolen,2B,2022
+1B,2B,Stolen Base 2B,572191,Michael A. Taylor,Seby Zavala,4,7,6,True,2022-08-30,Stolen,2B,2022
+1B,,Caught Stealing 2B,656775,Cedric Mullins,Seby Zavala,2,1,3,False,2022-08-25,Caught,2B,2022
+1B,2B,Stolen Base 2B,622761,Jorge Mateo,Seby Zavala,5,3,7,False,2022-08-23,Stolen,2B,2022
+1B,,Caught Stealing 2B,670032,Nicky Lopez,Seby Zavala,4,3,6,False,2022-08-22,Caught,2B,2022
+1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,Seby Zavala,4,4,7,False,2022-08-22,Stolen,2B,2022
+2B,3B,Stolen Base 3B,647304,Josh Naylor,Seby Zavala,5,2,7,False,2022-08-19,Stolen,3B,2022
+2B,3B,Stolen Base 3B,608324,Alex Bregman,Seby Zavala,0,4,3,True,2022-08-18,Stolen,3B,2022
+1B,2B,Stolen Base 2B,681987,Nate Eaton,Seby Zavala,1,0,5,False,2022-08-11,Stolen,2B,2022
+1B,2B,Stolen Base 2B,670032,Nicky Lopez,Seby Zavala,3,0,7,False,2022-08-11,Stolen,2B,2022
+1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,Seby Zavala,4,2,8,False,2022-08-11,Stolen,2B,2022
+1B,2B,Stolen Base 2B,669352,Bubba Thompson,Seby Zavala,1,0,2,False,2022-08-05,Stolen,2B,2022
+1B,2B,Stolen Base 2B,669352,Bubba Thompson,Seby Zavala,1,2,7,False,2022-08-05,Stolen,2B,2022
+1B,2B,Stolen Base 2B,670032,Nicky Lopez,Seby Zavala,0,2,7,True,2022-08-01,Stolen,2B,2022
+1B,2B,Stolen Base 2B,642708,Amed Rosario,Seby Zavala,4,7,9,True,2022-07-23,Stolen,2B,2022
+1B,2B,Stolen Base 2B,614177,Franmil Reyes,Seby Zavala,8,4,6,False,2022-07-11,Stolen,2B,2022
+1B,,Caught Stealing 2B,608070,José Ramírez,Seby Zavala,8,4,8,False,2022-07-11,Caught,2B,2022
+1B,2B,Stolen Base 2B,650489,Willi Castro,Seby Zavala,2,4,7,True,2022-07-08,Stolen,2B,2022
+1B,2B,Stolen Base 2B,573262,Mike Yastrzemski,Seby Zavala,2,5,8,False,2022-07-02,Stolen,2B,2022
+1B,2B,Stolen Base 2B,642180,Tyler Wade,Seby Zavala,2,0,5,False,2022-06-29,Stolen,2B,2022
+2B,3B,Stolen Base 3B,621493,Taylor Ward,Seby Zavala,4,3,7,False,2022-06-27,Stolen,3B,2022
+1B,2B,Stolen Base 2B,660271,Shohei Ohtani,Seby Zavala,4,3,7,False,2022-06-27,Stolen,2B,2022
+1B,,Caught Stealing 2B,663624,Ryan Mountcastle,Seby Zavala,1,1,4,True,2022-06-25,Caught,2B,2022
+1B,2B,Stolen Base 2B,656775,Cedric Mullins,Seby Zavala,0,0,1,True,2022-06-24,Stolen,2B,2022
+1B,2B,Stolen Base 2B,622761,Jorge Mateo,Seby Zavala,0,2,2,True,2022-06-24,Stolen,2B,2022
+1B,2B,Stolen Base 2B,621006,Richie Martin,Seby Zavala,0,2,2,True,2022-06-24,Stolen,2B,2022
+2B,3B,Stolen Base 3B,621006,Richie Martin,Seby Zavala,0,2,2,True,2022-06-24,Stolen,3B,2022
+1B,2B,Stolen Base 2B,622761,Jorge Mateo,Seby Zavala,1,3,4,True,2022-06-24,Stolen,2B,2022
+1B,2B,Stolen Base 2B,666182,Bo Bichette,Seby Zavala,1,0,4,True,2022-06-21,Stolen,2B,2022
+2B,,Caught Stealing 3B,666182,Bo Bichette,Seby Zavala,1,0,4,True,2022-06-21,Caught,3B,2022
+1B,2B,Stolen Base 2B,606132,Raimel Tapia,Seby Zavala,2,4,9,True,2022-06-21,Stolen,2B,2022
+3B,,Caught Stealing Home,677649,Ezequiel Duran,Seby Zavala,1,3,4,True,2022-06-12,Caught,Home,2022
+1B,2B,Caught Stealing Home,676646,Zach Reks,Seby Zavala,1,3,4,True,2022-06-12,Caught,Home,2022
+1B,2B,Stolen Base 2B,666969,Adolis García,Seby Zavala,6,6,12,True,2022-06-12,Stolen,2B,2022
+1B,2B,Stolen Base 2B,642708,Amed Rosario,Seby Zavala,4,7,9,True,2022-05-11,Stolen,2B,2022
+1B,2B,Stolen Base 2B,621439,Byron Buxton,Seby Zavala,1,0,3,False,2019-05-26,Stolen,2B,2019

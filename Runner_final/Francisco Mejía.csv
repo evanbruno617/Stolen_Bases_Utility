@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1451,1B,,Caught Stealing 2B,642336,Francisco Mejía,605288,Adrian Houser,594824,Greg Garcia,R,Yasmani Grandal,518735,0,2,5,True,2019-09-18,Caught,2B,2019,2020,26.1
+1,2162,1B,2B,Stolen Base 2B,642336,Francisco Mejía,628711,Julio Urías,489334,Craig Stammen,L,Russell Martin,431145,6,6,6,True,2019-08-04,Stolen,2B,2019,2020,26.1
+2,4294,1B,,Caught Stealing 2B,642336,Francisco Mejía,605288,Adrian Houser,594824,Greg Garcia,R,Yasmani Grandal,518735,0,2,5,True,2019-09-18,Caught,2B,2019,2020,26.1
+3,5005,1B,2B,Stolen Base 2B,642336,Francisco Mejía,628711,Julio Urías,489334,Craig Stammen,L,Russell Martin,431145,6,6,6,True,2019-08-04,Stolen,2B,2019,2020,26.1
+4,6218,1B,,Caught Stealing 2B,642336,Francisco Mejía,605288,Adrian Houser,594824,Greg Garcia,R,Yasmani Grandal,518735,0,2,5,True,2019-09-18,Caught,2B,2019,2020,26.1
+5,6929,1B,2B,Stolen Base 2B,642336,Francisco Mejía,628711,Julio Urías,489334,Craig Stammen,L,Russell Martin,431145,6,6,6,True,2019-08-04,Stolen,2B,2019,2020,26.1

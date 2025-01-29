@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+609,1B,,Caught Stealing 2B,670042,Luke Raley,Cal Raleigh,0,1,9,False,2023-09-07,Caught,2B,2023
+627,1B,2B,Stolen Base 2B,670042,Luke Raley,Connor Wong,0,0,2,False,2023-09-06,Stolen,2B,2023
+894,1B,2B,Stolen Base 2B,670042,Luke Raley,Kyle Higashioka,3,0,8,False,2023-08-26,Stolen,2B,2023
+1481,1B,2B,Stolen Base 2B,670042,Luke Raley,Ben Rortvedt,1,5,6,True,2023-07-31,Stolen,2B,2023
+1771,1B,2B,Stolen Base 2B,670042,Luke Raley,Mitch Garver,0,1,1,True,2023-07-17,Stolen,2B,2023
+1822,1B,2B,Stolen Base 2B,670042,Luke Raley,Salvador Perez,1,2,6,True,2023-07-15,Stolen,2B,2023
+1833,1B,2B,Stolen Base 2B,670042,Luke Raley,Salvador Perez,1,2,6,True,2023-07-14,Stolen,2B,2023
+2095,1B,2B,Stolen Base 2B,670042,Luke Raley,Cal Raleigh,4,3,5,True,2023-06-30,Stolen,2B,2023
+2521,1B,2B,Stolen Base 2B,670042,Luke Raley,Shea Langeliers,4,0,6,True,2023-06-12,Stolen,2B,2023
+2898,1B,2B,Stolen Base 2B,670042,Luke Raley,Austin Barnes,7,7,3,False,2023-05-28,Stolen,2B,2023
+2974,1B,2B,Stolen Base 2B,670042,Luke Raley,Alejandro Kirk,2,1,2,False,2023-05-25,Stolen,2B,2023
+2977,1B,2B,Stolen Base 2B,670042,Luke Raley,Alejandro Kirk,5,1,3,False,2023-05-25,Stolen,2B,2023
+2978,2B,3B,Stolen Base 2B,670042,Luke Raley,Alejandro Kirk,5,1,3,False,2023-05-25,Stolen,2B,2023
+3054,1B,2B,Stolen Base 2B,670042,Luke Raley,William Contreras,4,6,8,False,2023-05-21,Stolen,2B,2023
+3117,1B,2B,Stolen Base 2B,670042,Luke Raley,William Contreras,1,0,8,False,2023-05-19,Stolen,2B,2023
+3144,1B,2B,Stolen Base 2B,670042,Luke Raley,Francisco Alvarez,2,4,8,True,2023-05-17,Stolen,2B,2023
+3404,1B,2B,Stolen Base 2B,670042,Luke Raley,Kyle Higashioka,2,0,7,False,2023-05-06,Stolen,2B,2023
+4071,1B,,Caught Stealing 2B,670042,Luke Raley,Shea Langeliers,1,0,3,False,2023-04-09,Caught,2B,2023

@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+359,1B,,Caught Stealing 2B,114932,Juan Gonzalez,Scott Hatteberg,3,3,3,False,2000-09-15,Caught,2B,2000
+486,1B,2B,Stolen Base 2B,114932,Juan Gonzalez,Darrin Fletcher,5,4,8,True,2000-09-09,Stolen,2B,2000
+2021,1B,2B,Caught Stealing 3B,114932,Juan Gonzalez,Jason Kendall,2,0,4,True,2002-06-22,Caught,3B,2002
+2395,1B,2B,Stolen Base 2B,114932,Juan Gonzalez,Bengie Molina,4,1,4,True,2002-06-03,Stolen,2B,2002
+2564,1B,2B,Stolen Base 2B,114932,Juan Gonzalez,Tom Prince,0,0,2,False,2002-05-27,Stolen,2B,2002
+2261,1B,2B,Stolen Base 2B,114932,Juan Gonzalez,Brian Schneider,7,3,4,True,2003-06-06,Stolen,2B,2003
+3166,1B,,Caught Stealing 2B,114932,Juan Gonzalez,Jason Varitek,0,2,2,False,2003-04-22,Caught,2B,2003
+2944,1B,,Caught Stealing 2B,114932,Juan Gonzalez,Gregg Zaun,0,0,2,True,2004-05-03,Caught,2B,2004

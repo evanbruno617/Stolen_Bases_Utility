@@ -1,0 +1,18 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3537,1B,,Caught Stealing 2B,656811,Ryan O'Hearn,658305,Edgar García,455117,Martín Maldonado,R,J.T. Realmuto,592663,4,1,6,False,2019-05-10,Caught,2B,2019,2020,26.3
+1,6380,1B,,Caught Stealing 2B,656811,Ryan O'Hearn,658305,Edgar García,455117,Martín Maldonado,R,J.T. Realmuto,592663,4,1,6,False,2019-05-10,Caught,2B,2019,2020,26.3
+2,8304,1B,,Caught Stealing 2B,656811,Ryan O'Hearn,658305,Edgar García,455117,Martín Maldonado,R,J.T. Realmuto,592663,4,1,6,False,2019-05-10,Caught,2B,2019,2020,26.3
+3,2292,2B,3B,Caught Stealing 2B,656811,Ryan O'Hearn,669456,Shane Bieber,670032,Nicky Lopez,R,Austin Hedges,595978,2,0,4,False,2021-05-05,Caught,2B,2021,2022,27.2
+4,4216,2B,3B,Caught Stealing 2B,656811,Ryan O'Hearn,669456,Shane Bieber,670032,Nicky Lopez,R,Austin Hedges,595978,2,0,4,False,2021-05-05,Caught,2B,2021,2022,27.2
+5,187,1B,2B,Stolen Base 2B,656811,Ryan O'Hearn,615698,Cal Quantrill,656775,Cedric Mullins,R,David Fry,681807,0,1,1,True,2023-09-23,Stolen,2B,2023,2024,27.8
+6,1069,1B,2B,Stolen Base 2B,656811,Ryan O'Hearn,666205,Kyle Muller,669720,Austin Hays,L,Shea Langeliers,669127,2,7,5,True,2023-08-18,Stolen,2B,2023,2024,27.8
+7,1194,1B,2B,Stolen Base 2B,656811,Ryan O'Hearn,662253,Andrés Muñoz,624428,Adam Frazier,R,Tom Murphy,608596,0,1,10,True,2023-08-12,Stolen,2B,2023,2024,27.8
+8,1410,1B,2B,Stolen Base 2B,656811,Ryan O'Hearn,595928,John Curtiss,602104,Ramón Urías,R,Francisco Alvarez,682626,0,0,4,False,2023-08-04,Stolen,2B,2023,2024,27.8
+9,1975,1B,2B,Stolen Base 2B,656811,Ryan O'Hearn,681190,Randy Vásquez,656775,Cedric Mullins,R,Jose Trevino,624431,0,0,1,True,2023-07-05,Stolen,2B,2023,2024,27.8
+10,2186,1B,2B,Caught Stealing 2B,656811,Ryan O'Hearn,664747,Alexis Díaz,624428,Adam Frazier,R,Luke Maile,571912,1,3,9,False,2023-06-27,Caught,2B,2023,2024,27.8
+11,4601,1B,2B,Stolen Base 2B,656811,Ryan O'Hearn,615698,Cal Quantrill,656775,Cedric Mullins,R,David Fry,681807,0,1,1,True,2023-09-23,Stolen,2B,2023,2024,27.8
+12,5483,1B,2B,Stolen Base 2B,656811,Ryan O'Hearn,666205,Kyle Muller,669720,Austin Hays,L,Shea Langeliers,669127,2,7,5,True,2023-08-18,Stolen,2B,2023,2024,27.8
+13,5608,1B,2B,Stolen Base 2B,656811,Ryan O'Hearn,662253,Andrés Muñoz,624428,Adam Frazier,R,Tom Murphy,608596,0,1,10,True,2023-08-12,Stolen,2B,2023,2024,27.8
+14,5824,1B,2B,Stolen Base 2B,656811,Ryan O'Hearn,595928,John Curtiss,602104,Ramón Urías,R,Francisco Alvarez,682626,0,0,4,False,2023-08-04,Stolen,2B,2023,2024,27.8
+15,6389,1B,2B,Stolen Base 2B,656811,Ryan O'Hearn,681190,Randy Vásquez,656775,Cedric Mullins,R,Jose Trevino,624431,0,0,1,True,2023-07-05,Stolen,2B,2023,2024,27.8
+16,6600,1B,2B,Caught Stealing 2B,656811,Ryan O'Hearn,664747,Alexis Díaz,624428,Adam Frazier,R,Luke Maile,571912,1,3,9,False,2023-06-27,Caught,2B,2023,2024,27.8

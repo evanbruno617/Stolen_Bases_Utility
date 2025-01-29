@@ -1,0 +1,12 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2626,1B,2B,Stolen Base 2B,624414,Christian Arroyo,570663,Hansel Robles,592669,Hunter Renfroe,R,Ryan Jeffers,680777,3,0,8,True,2021-04-15,Stolen,2B,2021,2022,27.8
+1,4550,1B,2B,Stolen Base 2B,624414,Christian Arroyo,570663,Hansel Robles,592669,Hunter Renfroe,R,Ryan Jeffers,680777,3,0,8,True,2021-04-15,Stolen,2B,2021,2022,27.8
+2,689,1B,2B,Stolen Base 2B,624414,Christian Arroyo,572193,Ryan Tepera,502110,J.D. Martinez,R,Max Stassi,545358,5,1,8,True,2022-06-09,Stolen,2B,2022,2023,27.7
+3,754,1B,2B,Stolen Base 2B,624414,Christian Arroyo,592789,Noah Syndergaard,502110,J.D. Martinez,R,Max Stassi,545358,0,1,5,True,2022-06-06,Stolen,2B,2022,2023,27.7
+4,1467,1B,2B,Stolen Base 2B,624414,Christian Arroyo,666201,Alek Manoah,666915,Bobby Dalbec,R,Alejandro Kirk,672386,1,0,5,True,2022-04-28,Stolen,2B,2022,2023,27.7
+5,3152,1B,,Caught Stealing 2B,624414,Christian Arroyo,451661,Josh Fields,474832,Brandon Belt,R,Austin Barnes,605131,2,1,7,False,2017-05-16,Caught,2B,2017,2018,26.6
+6,3175,1B,2B,Stolen Base 2B,624414,Christian Arroyo,435221,Brandon McCarthy,607776,Mac Williamson,R,Yasmani Grandal,518735,6,1,6,False,2017-05-15,Stolen,2B,2017,2018,26.6
+7,3246,1B,,Caught Stealing 2B,624414,Christian Arroyo,444857,Scott Feldman,457763,Buster Posey,R,Tucker Barnhart,571466,1,2,4,False,2017-05-12,Caught,2B,2017,2018,26.6
+8,2524,1B,,Caught Stealing 2B,624414,Christian Arroyo,451661,Josh Fields,474832,Brandon Belt,R,Austin Barnes,605131,2,1,7,False,2017-05-16,Caught,2B,2017,2018,26.6
+9,2547,1B,2B,Stolen Base 2B,624414,Christian Arroyo,435221,Brandon McCarthy,607776,Mac Williamson,R,Yasmani Grandal,518735,6,1,6,False,2017-05-15,Stolen,2B,2017,2018,26.6
+10,2618,1B,,Caught Stealing 2B,624414,Christian Arroyo,444857,Scott Feldman,457763,Buster Posey,R,Tucker Barnhart,571466,1,2,4,False,2017-05-12,Caught,2B,2017,2018,26.6

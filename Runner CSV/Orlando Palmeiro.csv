@@ -1,0 +1,33 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+381,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,John Flaherty,5,4,5,False,2000-09-13,Stolen,2B,2000
+1001,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Chris Turner,1,0,4,True,2000-08-20,Stolen,2B,2000
+1356,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Sandy Alomar Jr.,9,9,8,True,2000-08-04,Stolen,2B,2000
+1549,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Bill Haselman,5,4,9,True,2000-07-26,Stolen,2B,2000
+1645,1B,,Caught Stealing 2B,120190,Orlando Palmeiro,Ramon Hernandez,0,0,1,True,2000-07-21,Caught,2B,2000
+452,1B,,Caught Stealing 2B,120190,Orlando Palmeiro,Darrin Fletcher,2,2,7,False,2001-05-17,Caught,2B,2001
+576,1B,,Caught Stealing 2B,120190,Orlando Palmeiro,Robert Fick,0,2,4,True,2001-05-13,Caught,2B,2001
+645,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Brandon Inge,0,4,4,True,2001-05-11,Stolen,2B,2001
+761,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Brandon Inge,2,0,2,False,2001-05-05,Stolen,2B,2001
+1273,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Dan Wilson,0,0,1,False,2001-04-14,Stolen,2B,2001
+31,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Ben Davis,0,0,1,False,2002-09-28,Stolen,2B,2002
+646,2B,3B,Stolen Base 3B,120190,Orlando Palmeiro,John Flaherty,2,0,3,False,2002-08-28,Stolen,3B,2002
+800,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Jorge Posada,1,1,3,True,2002-08-21,Stolen,2B,2002
+871,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Einar Díaz,1,0,1,False,2002-08-17,Stolen,2B,2002
+872,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Einar Díaz,2,1,3,False,2002-08-17,Stolen,2B,2002
+1486,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Ramon Hernandez,0,0,1,True,2002-07-18,Stolen,2B,2002
+1709,1B,,Caught Stealing 2B,120190,Orlando Palmeiro,John Flaherty,2,1,5,False,2002-07-06,Caught,2B,2002
+2796,2B,3B,Stolen Base 3B,120190,Orlando Palmeiro,Sandy Alomar Jr.,1,6,9,True,2002-05-19,Stolen,3B,2002
+104,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Eddie Pérez,0,0,1,True,2003-09-24,Stolen,2B,2003
+719,1B,,Caught Stealing 2B,120190,Orlando Palmeiro,Mike Lieberthal,0,0,1,False,2003-08-23,Caught,2B,2003
+752,1B,,Caught Stealing 2B,120190,Orlando Palmeiro,Jason Kendall,3,3,8,False,2003-08-21,Caught,2B,2003
+1508,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Gary Bennett,0,0,4,False,2003-07-13,Stolen,2B,2003
+2250,1B,,Caught Stealing 2B,120190,Orlando Palmeiro,Geronimo Gil,5,5,6,False,2003-06-06,Caught,2B,2003
+3336,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Eddie Pérez,5,7,8,True,2003-04-14,Stolen,2B,2003
+129,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Chad Moeller,0,1,10,True,2004-09-24,Stolen,2B,2004
+1392,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Chad Moeller,6,6,7,False,2004-07-23,Stolen,2B,2004
+2474,1B,,Caught Stealing 2B,120190,Orlando Palmeiro,Mike Matheny,0,1,5,False,2004-05-28,Caught,2B,2004
+1020,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Brian Schneider,1,1,2,False,2005-08-09,Stolen,2B,2005
+1329,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Brian Schneider,0,0,1,True,2005-07-24,Stolen,2B,2005
+2364,1B,,Caught Stealing 2B,120190,Orlando Palmeiro,Chad Moeller,2,4,5,True,2005-05-28,Caught,2B,2005
+3280,1B,2B,Stolen Base 2B,120190,Orlando Palmeiro,Ramon Castro,4,3,8,True,2005-04-14,Stolen,2B,2005
+2487,1B,,Caught Stealing 2B,120190,Orlando Palmeiro,A.J. Pierzynski,0,1,3,True,2007-06-09,Caught,2B,2007

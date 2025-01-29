@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,43,1B,,Caught Stealing 2B,425766,James Loney,518603,Justin De Fratus,518653,Jake Elmore,R,Carlos Ruiz,434563,2,3,5,True,2015-07-22,Caught,2B,2015,2016,24.6
+1,104,1B,,Caught Stealing 2B,425766,James Loney,462136,Marco Estrada,430203,David DeJesus,R,Dioner Navarro,425900,0,0,2,True,2015-07-19,Caught,2B,2015,2016,24.6
+2,257,1B,2B,Stolen Base 2B,425766,James Loney,450172,Edinson Volquez,523253,Logan Forsythe,R,Salvador Perez,521692,0,1,3,True,2015-07-07,Stolen,2B,2015,2016,24.6
+3,330,1B,,Caught Stealing 2B,425766,James Loney,547888,Masahiro Tanaka,430203,David DeJesus,R,Brian McCann,435263,0,2,4,True,2015-07-03,Caught,2B,2015,2016,24.6
+4,1127,2B,3B,Stolen Base 3B,425766,James Loney,519267,Evan Scribner,545338,Nick Franklin,R,Stephen Vogt,519390,2,6,8,False,2015-05-24,Stolen,3B,2015,2016,24.6
+5,1338,1B,,Caught Stealing 2B,425766,James Loney,595032,Chase Whitley,523253,Logan Forsythe,R,Brian McCann,435263,1,0,1,False,2015-05-14,Caught,2B,2015,2016,24.6

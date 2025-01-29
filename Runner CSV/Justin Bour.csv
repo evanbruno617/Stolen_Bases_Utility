@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2234,1B,2B,Stolen Base 2B,571506,Justin Bour,Jeff Mathis,2,0,4,False,2017-06-01,Stolen,2B,2017
+405,2B,3B,Stolen Base 3B,571506,Justin Bour,Spencer Kieboom,0,0,1,False,2018-09-11,Stolen,3B,2018
+1567,1B,2B,Stolen Base 2B,571506,Justin Bour,Pedro Severino,0,0,1,True,2018-07-08,Stolen,2B,2018

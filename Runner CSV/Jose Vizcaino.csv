@@ -1,0 +1,27 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+4,1B,2B,Stolen Base 2B,123743,Jose Vizcaino,Brook Fordyce,5,1,5,True,2000-09-30,Stolen,2B,2000
+868,1B,,Caught Stealing 2B,123743,Jose Vizcaino,Ramon Hernandez,1,0,3,True,2000-08-25,Caught,2B,2000
+944,1B,,Caught Stealing 2B,123743,Jose Vizcaino,Bill Haselman,4,5,8,False,2000-08-22,Caught,2B,2000
+1391,1B,,Caught Stealing 2B,123743,Jose Vizcaino,Héctor Ortiz,0,3,5,False,2000-08-02,Caught,2B,2000
+1409,1B,2B,Stolen Base 2B,123743,Jose Vizcaino,Gregg Zaun,0,0,2,False,2000-08-01,Stolen,2B,2000
+1411,1B,2B,Stolen Base 2B,123743,Jose Vizcaino,Gregg Zaun,0,2,5,False,2000-08-01,Stolen,2B,2000
+1611,1B,,Caught Stealing 2B,123743,Jose Vizcaino,Mike DiFelice,0,0,3,False,2000-07-23,Caught,2B,2000
+1652,1B,2B,Stolen Base 2B,123743,Jose Vizcaino,Mike DiFelice,5,1,4,False,2000-07-21,Stolen,2B,2000
+1845,1B,,Caught Stealing 2B,123743,Jose Vizcaino,Todd Pratt,2,0,8,True,2000-07-09,Caught,2B,2000
+2144,1B,,Caught Stealing 2B,123743,Jose Vizcaino,Brook Fordyce,2,0,3,True,2000-06-25,Caught,2B,2000
+2187,1B,2B,Stolen Base 2B,123743,Jose Vizcaino,Brook Fordyce,2,0,5,True,2000-06-23,Stolen,2B,2000
+3967,1B,2B,Stolen Base 2B,123743,Jose Vizcaino,Mike Piazza,2,1,5,True,2000-04-07,Stolen,2B,2000
+904,1B,2B,Stolen Base 2B,123743,Jose Vizcaino,Mike Piazza,0,1,2,True,2001-04-30,Stolen,2B,2001
+1473,1B,,Caught Stealing 2B,123743,Jose Vizcaino,Raul Casanova,5,5,11,False,2001-04-04,Caught,2B,2001
+336,1B,,Caught Stealing 2B,123743,Jose Vizcaino,Mike Matheny,2,2,8,False,2002-09-13,Caught,2B,2002
+637,1B,,Caught Stealing 2B,123743,Jose Vizcaino,Wiki Gonzalez,2,0,5,False,2002-08-29,Caught,2B,2002
+1964,1B,2B,Stolen Base 2B,123743,Jose Vizcaino,Damian Miller,7,3,8,False,2002-06-25,Stolen,2B,2002
+2529,1B,,Caught Stealing 2B,123743,Jose Vizcaino,Eli Marrero,6,0,3,False,2002-05-29,Caught,2B,2002
+2811,1B,2B,Stolen Base 2B,123743,Jose Vizcaino,Jason Kendall,1,1,2,False,2002-05-18,Stolen,2B,2002
+2876,1B,,Caught Stealing 2B,123743,Jose Vizcaino,Jason Kendall,1,1,6,False,2002-05-16,Caught,2B,2002
+2878,1B,2B,Stolen Base 2B,123743,Jose Vizcaino,Jason Kendall,3,1,8,False,2002-05-16,Stolen,2B,2002
+3296,1B,,Caught Stealing 2B,123743,Jose Vizcaino,Henry Blanco,0,3,7,True,2002-04-28,Caught,2B,2002
+3153,1B,,Caught Stealing 2B,123743,Jose Vizcaino,Vance Wilson,3,2,7,True,2003-04-23,Caught,2B,2003
+1007,1B,,Caught Stealing 2B,123743,Jose Vizcaino,Jason Phillips,1,0,5,True,2004-08-12,Caught,2B,2004
+1331,1B,2B,Stolen Base 2B,123743,Jose Vizcaino,Brian Schneider,1,4,14,True,2005-07-24,Stolen,2B,2005
+1881,1B,2B,Stolen Base 2B,123743,Jose Vizcaino,Rod Barajas,5,2,8,False,2005-06-24,Stolen,2B,2005

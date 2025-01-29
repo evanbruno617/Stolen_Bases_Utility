@@ -1,0 +1,3 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2B,3B,Stolen Base 3B,117566,Matt Lawton,Mike Kinkade,5,2,3,False,2001-04-27,Stolen,3B,2001
+1B,2B,Stolen Base 2B,116000,Denny Hocking,Mike Kinkade,6,2,7,False,2001-04-27,Stolen,2B,2001

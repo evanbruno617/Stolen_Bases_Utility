@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1006,1B,2B,Caught Stealing 3B,119976,John Olerud,Sandy Alomar Jr.,1,0,2,True,2000-08-20,Caught,3B,2000
+1694,1B,,Caught Stealing 2B,119976,John Olerud,Ramon Hernandez,0,3,3,True,2000-07-19,Caught,2B,2000
+3126,1B,,Caught Stealing 2B,119976,John Olerud,Ramon Hernandez,2,4,5,True,2000-05-13,Caught,2B,2000
+818,1B,2B,Stolen Base 2B,119976,John Olerud,Jason Varitek,6,3,7,False,2001-05-03,Stolen,2B,2001
+1248,2B,3B,Stolen Base 3B,119976,John Olerud,Bengie Molina,0,0,2,True,2001-04-15,Stolen,3B,2001
+454,1B,,Caught Stealing 2B,119976,John Olerud,Brook Fordyce,2,1,7,True,2003-09-06,Caught,2B,2003

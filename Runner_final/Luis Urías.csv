@@ -1,0 +1,25 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,394,2B,,Caught Stealing 3B,649966,Luis Urías,571510,Matthew Boyd,621438,Tyrone Taylor,L,Grayson Greiner,606988,0,1,2,True,2020-09-09,Caught,3B,2020,2021,26.5
+1,523,1B,2B,Stolen Base 2B,649966,Luis Urías,641729,Joe Jiménez,606115,Orlando Arcia,R,Austin Romine,519222,6,5,7,False,2020-09-02,Stolen,2B,2020,2021,26.5
+2,634,1B,2B,Stolen Base 2B,649966,Luis Urías,489119,Wade Miley,606115,Orlando Arcia,L,Tucker Barnhart,571466,0,2,3,False,2020-08-27,Stolen,2B,2020,2021,26.5
+3,646,1B,2B,Stolen Base 2B,649966,Luis Urías,489119,Wade Miley,606115,Orlando Arcia,L,Tucker Barnhart,571466,0,2,3,False,2020-08-26,Stolen,2B,2020,2021,26.5
+4,3237,2B,,Caught Stealing 3B,649966,Luis Urías,571510,Matthew Boyd,621438,Tyrone Taylor,L,Grayson Greiner,606988,0,1,2,True,2020-09-09,Caught,3B,2020,2021,26.5
+5,3366,1B,2B,Stolen Base 2B,649966,Luis Urías,641729,Joe Jiménez,606115,Orlando Arcia,R,Austin Romine,519222,6,5,7,False,2020-09-02,Stolen,2B,2020,2021,26.5
+6,3477,1B,2B,Stolen Base 2B,649966,Luis Urías,489119,Wade Miley,606115,Orlando Arcia,L,Tucker Barnhart,571466,0,2,3,False,2020-08-27,Stolen,2B,2020,2021,26.5
+7,3489,1B,2B,Stolen Base 2B,649966,Luis Urías,489119,Wade Miley,606115,Orlando Arcia,L,Tucker Barnhart,571466,0,2,3,False,2020-08-26,Stolen,2B,2020,2021,26.5
+8,5161,2B,,Caught Stealing 3B,649966,Luis Urías,571510,Matthew Boyd,621438,Tyrone Taylor,L,Grayson Greiner,606988,0,1,2,True,2020-09-09,Caught,3B,2020,2021,26.5
+9,5290,1B,2B,Stolen Base 2B,649966,Luis Urías,641729,Joe Jiménez,606115,Orlando Arcia,R,Austin Romine,519222,6,5,7,False,2020-09-02,Stolen,2B,2020,2021,26.5
+10,5401,1B,2B,Stolen Base 2B,649966,Luis Urías,489119,Wade Miley,606115,Orlando Arcia,L,Tucker Barnhart,571466,0,2,3,False,2020-08-27,Stolen,2B,2020,2021,26.5
+11,5413,1B,2B,Stolen Base 2B,649966,Luis Urías,489119,Wade Miley,606115,Orlando Arcia,L,Tucker Barnhart,571466,0,2,3,False,2020-08-26,Stolen,2B,2020,2021,26.5
+12,1246,1B,2B,Stolen Base 2B,649966,Luis Urías,661269,Vladimir Gutierrez,553882,Omar Narváez,R,Tucker Barnhart,571466,0,0,1,False,2021-07-10,Stolen,2B,2021,2022,26.4
+13,1279,1B,2B,Stolen Base 2B,649966,Luis Urías,605521,Art Warren,642715,Willy Adames,R,Tucker Barnhart,571466,3,3,7,False,2021-07-08,Stolen,2B,2021,2022,26.4
+14,1627,1B,2B,Stolen Base 2B,649966,Luis Urías,453268,Daniel Bard,607054,Jace Peterson,R,Dom Nuñez,624513,5,5,9,True,2021-06-18,Stolen,2B,2021,2022,26.4
+15,1922,1B,2B,Stolen Base 2B,649966,Luis Urías,452657,Jon Lester,669374,Keston Hiura,L,Yan Gomes,543228,1,1,4,True,2021-05-29,Stolen,2B,2021,2022,26.4
+16,2687,1B,2B,Stolen Base 2B,649966,Luis Urías,663855,Jordan Hicks,641856,Billy McKinney,R,Yadier Molina,425877,3,7,8,True,2021-04-11,Stolen,2B,2021,2022,26.4
+17,3170,1B,2B,Stolen Base 2B,649966,Luis Urías,661269,Vladimir Gutierrez,553882,Omar Narváez,R,Tucker Barnhart,571466,0,0,1,False,2021-07-10,Stolen,2B,2021,2022,26.4
+18,3203,1B,2B,Stolen Base 2B,649966,Luis Urías,605521,Art Warren,642715,Willy Adames,R,Tucker Barnhart,571466,3,3,7,False,2021-07-08,Stolen,2B,2021,2022,26.4
+19,3551,1B,2B,Stolen Base 2B,649966,Luis Urías,453268,Daniel Bard,607054,Jace Peterson,R,Dom Nuñez,624513,5,5,9,True,2021-06-18,Stolen,2B,2021,2022,26.4
+20,3846,1B,2B,Stolen Base 2B,649966,Luis Urías,452657,Jon Lester,669374,Keston Hiura,L,Yan Gomes,543228,1,1,4,True,2021-05-29,Stolen,2B,2021,2022,26.4
+21,4611,1B,2B,Stolen Base 2B,649966,Luis Urías,663855,Jordan Hicks,641856,Billy McKinney,R,Yadier Molina,425877,3,7,8,True,2021-04-11,Stolen,2B,2021,2022,26.4
+22,517,1B,2B,Stolen Base 2B,649966,Luis Urías,605521,Art Warren,621438,Tyrone Taylor,R,Aramis Garcia,605244,3,7,9,True,2022-06-18,Stolen,2B,2022,2023,26.0
+23,1388,1B,,Caught Stealing 2B,649966,Luis Urías,656546,Jeff Hoffman,543939,Kolten Wong,R,Tyler Stephenson,663886,5,3,7,False,2022-05-03,Caught,2B,2022,2023,26.0

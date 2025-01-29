@@ -1,0 +1,26 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,938,2B,3B,Stolen Base 3B,475174,Yonder Alonso,622795,Yohander Méndez,592325,Ben Gamel,L,A.J. Jimenez,543362,1,5,5,True,2017-09-14,Stolen,3B,2017,2018,23.3
+1,2111,1B,2B,Stolen Base 2B,475174,Yonder Alonso,445276,Kenley Jansen,443558,Nelson Cruz,R,Yadier Molina,425877,1,1,9,True,2017-07-11,Stolen,2B,2017,2018,23.3
+2,2907,1B,2B,Stolen Base 2B,475174,Yonder Alonso,545333,Trevor Bauer,459964,Matt Joyce,R,Roberto Pérez,547379,7,3,6,True,2017-05-30,Stolen,2B,2017,2018,23.3
+3,310,2B,3B,Stolen Base 3B,475174,Yonder Alonso,622795,Yohander Méndez,592325,Ben Gamel,L,A.J. Jimenez,543362,1,5,5,True,2017-09-14,Stolen,3B,2017,2018,23.3
+4,1483,1B,2B,Stolen Base 2B,475174,Yonder Alonso,445276,Kenley Jansen,443558,Nelson Cruz,R,Yadier Molina,425877,1,1,9,True,2017-07-11,Stolen,2B,2017,2018,23.3
+5,2279,1B,2B,Stolen Base 2B,475174,Yonder Alonso,545333,Trevor Bauer,459964,Matt Joyce,R,Roberto Pérez,547379,7,3,6,True,2017-05-30,Stolen,2B,2017,2018,23.3
+6,4423,1B,2B,Stolen Base 2B,475174,Yonder Alonso,432934,Chris Young,592387,Ryon Healy,R,Drew Butera,460077,3,8,6,True,2016-09-12,Stolen,2B,2016,2017,24.6
+7,6021,1B,2B,Stolen Base 2B,475174,Yonder Alonso,533167,Matt Shoemaker,571970,Max Muncy,R,Jett Bandy,542908,2,1,4,False,2016-06-17,Stolen,2B,2016,2017,24.6
+8,6688,2B,3B,Stolen Base 3B,475174,Yonder Alonso,445968,Dana Eveland,424825,Coco Crisp,L,Curt Casali,592200,3,6,6,True,2016-05-13,Stolen,3B,2016,2017,24.6
+9,7056,1B,,Caught Stealing 2B,475174,Yonder Alonso,571800,Drew Hutchison,502285,Tyler Ladendorf,R,Josh Thole,489365,0,1,2,True,2016-04-24,Caught,2B,2016,2017,24.6
+10,388,1B,2B,Stolen Base 2B,475174,Yonder Alonso,432934,Chris Young,592387,Ryon Healy,R,Drew Butera,460077,3,8,6,True,2016-09-12,Stolen,2B,2016,2017,24.6
+11,1986,1B,2B,Stolen Base 2B,475174,Yonder Alonso,533167,Matt Shoemaker,571970,Max Muncy,R,Jett Bandy,542908,2,1,4,False,2016-06-17,Stolen,2B,2016,2017,24.6
+12,2653,2B,3B,Stolen Base 3B,475174,Yonder Alonso,445968,Dana Eveland,424825,Coco Crisp,L,Curt Casali,592200,3,6,6,True,2016-05-13,Stolen,3B,2016,2017,24.6
+13,3021,1B,,Caught Stealing 2B,475174,Yonder Alonso,571800,Drew Hutchison,502285,Tyler Ladendorf,R,Josh Thole,489365,0,1,2,True,2016-04-24,Caught,2B,2016,2017,24.6
+14,3795,1B,2B,Stolen Base 2B,475174,Yonder Alonso,432934,Chris Young,592387,Ryon Healy,R,Drew Butera,460077,3,8,6,True,2016-09-12,Stolen,2B,2016,2017,24.6
+15,5393,1B,2B,Stolen Base 2B,475174,Yonder Alonso,533167,Matt Shoemaker,571970,Max Muncy,R,Jett Bandy,542908,2,1,4,False,2016-06-17,Stolen,2B,2016,2017,24.6
+16,6060,2B,3B,Stolen Base 3B,475174,Yonder Alonso,445968,Dana Eveland,424825,Coco Crisp,L,Curt Casali,592200,3,6,6,True,2016-05-13,Stolen,3B,2016,2017,24.6
+17,6428,1B,,Caught Stealing 2B,475174,Yonder Alonso,571800,Drew Hutchison,502285,Tyler Ladendorf,R,Josh Thole,489365,0,1,2,True,2016-04-24,Caught,2B,2016,2017,24.6
+18,38,1B,,Caught Stealing 2B,475174,Yonder Alonso,430912,Matt Cain,519083,Derek Norris,R,Buster Posey,457763,1,0,4,False,2015-07-22,Caught,2B,2015,2016,24.6
+19,518,3B,,Caught Stealing Home,475174,Yonder Alonso,518516,Madison Bumgarner,425549,Clint Barmes,L,Buster Posey,457763,0,0,5,True,2015-06-23,Caught,Home,2015,2016,24.6
+20,704,1B,,Caught Stealing 2B,475174,Yonder Alonso,502211,Mike Bolsinger,519083,Derek Norris,R,Yasmani Grandal,518735,0,0,2,False,2015-06-14,Caught,2B,2015,2016,24.6
+21,945,1B,,Caught Stealing 2B,475174,Yonder Alonso,605333,Jack Leathersich,605486,Cory Spangenberg,L,Kevin Plawecki,608700,7,1,5,False,2015-06-02,Caught,2B,2015,2016,24.6
+22,1756,1B,2B,Stolen Base 2B,475174,Yonder Alonso,504379,Juan Nicasio,519083,Derek Norris,R,Yasmani Grandal,518735,7,11,8,False,2015-04-25,Stolen,2B,2015,2016,24.6
+23,1804,1B,,Caught Stealing 2B,475174,Yonder Alonso,543475,Jordan Lyles,506560,Alexi Amarista,R,Nick Hundley,460026,1,0,2,True,2015-04-23,Caught,2B,2015,2016,24.6
+24,2077,1B,2B,Stolen Base 2B,475174,Yonder Alonso,453311,Tim Lincecum,576397,Jedd Gyorko,R,Héctor Sánchez,516949,0,0,5,False,2015-04-10,Stolen,2B,2015,2016,24.6

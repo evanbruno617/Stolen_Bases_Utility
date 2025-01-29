@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1693,1B,2B,Stolen Base 2B,609280,Miguel Andujar,Omar Narváez,2,8,8,True,2017-06-28,Stolen,2B,2017
+726,1B,,Caught Stealing 2B,609280,Miguel Andujar,Caleb Joseph,0,4,5,True,2018-08-25,Caught,2B,2018
+1054,1B,2B,Stolen Base 2B,609280,Miguel Andujar,Kevan Smith,3,7,7,True,2018-08-08,Stolen,2B,2018
+2558,1B,2B,Stolen Base 2B,609280,Miguel Andujar,Jonathan Lucroy,4,1,6,False,2018-05-13,Stolen,2B,2018
+1335,1B,,Caught Stealing 2B,609280,Miguel Andujar,James McCann,3,0,2,False,2021-07-04,Caught,2B,2021
+73,2B,,Caught Stealing 3B,609280,Miguel Andujar,Austin Romine,4,1,7,False,2022-09-27,Caught,3B,2022
+849,1B,2B,Stolen Base 2B,609280,Miguel Andujar,Kevin Plawecki,1,0,5,True,2022-08-14,Stolen,2B,2022
+2166,2B,3B,Stolen Base 3B,609280,Miguel Andujar,Kurt Suzuki,0,0,2,False,2022-06-02,Stolen,3B,2022
+2202,1B,2B,Stolen Base 2B,609280,Miguel Andujar,Max Stassi,4,0,1,False,2022-05-31,Stolen,2B,2022
+2305,1B,2B,Stolen Base 2B,609280,Miguel Andujar,Adley Rutschman,2,0,4,False,2022-05-25,Stolen,2B,2022
+230,1B,2B,Stolen Base 2B,609280,Miguel Andujar,Yan Gomes,0,3,5,True,2023-09-21,Stolen,2B,2023
+454,1B,2B,Stolen Base 2B,609280,Miguel Andujar,Keibert Ruiz,3,1,5,False,2023-09-12,Stolen,2B,2023

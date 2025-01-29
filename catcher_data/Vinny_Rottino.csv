@@ -1,0 +1,4 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,408299,Omar Infante,Vinny Rottino,0,2,2,True,2012-09-15,Stolen,2B,2012
+1B,2B,Stolen Base 2B,453269,Brennan Boesch,Vinny Rottino,0,2,3,True,2012-09-15,Stolen,2B,2012
+1B,2B,Stolen Base 2B,408299,Omar Infante,Vinny Rottino,0,3,4,True,2012-09-15,Stolen,2B,2012

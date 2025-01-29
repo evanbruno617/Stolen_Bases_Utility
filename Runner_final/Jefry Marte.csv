@@ -1,0 +1,15 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2943,2B,3B,Stolen Base 3B,527043,Jefry Marte,570632,José Ureña,533167,Matt Shoemaker,R,J.T. Realmuto,592663,1,2,4,True,2017-05-28,Stolen,3B,2017,2018,26.6
+1,2315,2B,3B,Stolen Base 3B,527043,Jefry Marte,570632,José Ureña,533167,Matt Shoemaker,R,J.T. Realmuto,592663,1,2,4,True,2017-05-28,Stolen,3B,2017,2018,26.6
+2,4466,1B,2B,Stolen Base 2B,527043,Jefry Marte,506433,Yu Darvish,592743,Andrelton Simmons,R,Jonathan Lucroy,518960,1,1,7,False,2016-09-09,Stolen,2B,2016,2017,27.6
+3,4663,1B,2B,Stolen Base 2B,527043,Jefry Marte,534947,Tim Adleman,502544,Nick Buss,R,Ramón Cabrera,541608,2,0,1,False,2016-08-30,Stolen,2B,2016,2017,27.6
+4,5310,2B,,Caught Stealing 3B,527043,Jefry Marte,456034,David Price,463610,Gregorio Petit,L,Sandy León,506702,0,1,5,False,2016-07-28,Caught,3B,2016,2017,27.6
+5,5836,1B,,Caught Stealing 2B,527043,Jefry Marte,543521,Collin McHugh,537953,Daniel Nava,R,Jason Castro,488771,0,0,2,False,2016-06-27,Caught,2B,2016,2017,27.6
+6,431,1B,2B,Stolen Base 2B,527043,Jefry Marte,506433,Yu Darvish,592743,Andrelton Simmons,R,Jonathan Lucroy,518960,1,1,7,False,2016-09-09,Stolen,2B,2016,2017,27.6
+7,628,1B,2B,Stolen Base 2B,527043,Jefry Marte,534947,Tim Adleman,502544,Nick Buss,R,Ramón Cabrera,541608,2,0,1,False,2016-08-30,Stolen,2B,2016,2017,27.6
+8,1275,2B,,Caught Stealing 3B,527043,Jefry Marte,456034,David Price,463610,Gregorio Petit,L,Sandy León,506702,0,1,5,False,2016-07-28,Caught,3B,2016,2017,27.6
+9,1801,1B,,Caught Stealing 2B,527043,Jefry Marte,543521,Collin McHugh,537953,Daniel Nava,R,Jason Castro,488771,0,0,2,False,2016-06-27,Caught,2B,2016,2017,27.6
+10,3838,1B,2B,Stolen Base 2B,527043,Jefry Marte,506433,Yu Darvish,592743,Andrelton Simmons,R,Jonathan Lucroy,518960,1,1,7,False,2016-09-09,Stolen,2B,2016,2017,27.6
+11,4035,1B,2B,Stolen Base 2B,527043,Jefry Marte,534947,Tim Adleman,502544,Nick Buss,R,Ramón Cabrera,541608,2,0,1,False,2016-08-30,Stolen,2B,2016,2017,27.6
+12,4682,2B,,Caught Stealing 3B,527043,Jefry Marte,456034,David Price,463610,Gregorio Petit,L,Sandy León,506702,0,1,5,False,2016-07-28,Caught,3B,2016,2017,27.6
+13,5208,1B,,Caught Stealing 2B,527043,Jefry Marte,543521,Collin McHugh,537953,Daniel Nava,R,Jason Castro,488771,0,0,2,False,2016-06-27,Caught,2B,2016,2017,27.6

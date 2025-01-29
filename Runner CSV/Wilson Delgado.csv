@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+721,1B,2B,Stolen Base 2B,113234,Wilson Delgado,John Flaherty,0,4,5,True,2000-09-01,Stolen,2B,2000
+2852,1B,2B,Stolen Base 2B,113234,Wilson Delgado,Mark Johnson,0,6,4,True,2000-05-25,Stolen,2B,2000
+467,1B,2B,Stolen Base 2B,113234,Wilson Delgado,Paul Lo Duca,0,4,9,True,2004-09-09,Stolen,2B,2004

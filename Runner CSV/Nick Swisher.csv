@@ -1,0 +1,23 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1764,1B,,Caught Stealing 2B,430897,Nick Swisher,Pat Borders,1,2,2,False,2005-06-30,Caught,2B,2005
+478,1B,2B,Stolen Base 2B,430897,Nick Swisher,Kenji Johjima,3,5,9,True,2007-09-10,Stolen,2B,2007
+1439,1B,,Caught Stealing 2B,430897,Nick Swisher,Kenji Johjima,3,3,3,True,2007-07-28,Caught,2B,2007
+1954,1B,2B,Stolen Base 2B,430897,Nick Swisher,Gregg Zaun,1,1,1,False,2007-07-03,Stolen,2B,2007
+2401,1B,2B,Stolen Base 2B,430897,Nick Swisher,Eric Munson,3,7,8,True,2007-06-13,Stolen,2B,2007
+2617,1B,,Caught Stealing 2B,430897,Nick Swisher,Mike Redmond,0,0,1,False,2007-06-02,Caught,2B,2007
+161,1B,,Caught Stealing 2B,430897,Nick Swisher,John Buck,0,1,5,True,2008-09-21,Caught,2B,2008
+1185,1B,2B,Stolen Base 2B,430897,Nick Swisher,Joe Mauer,0,2,2,True,2008-07-31,Stolen,2B,2008
+1460,1B,2B,Stolen Base 2B,430897,Nick Swisher,Max Ramirez,7,6,7,True,2008-07-13,Stolen,2B,2008
+3136,2B,3B,Stolen Base 3B,430897,Nick Swisher,Ramon Hernandez,1,1,3,False,2008-04-27,Stolen,3B,2008
+3207,1B,,Caught Stealing 2B,430897,Nick Swisher,José Molina,6,6,7,False,2008-04-24,Caught,2B,2008
+1892,1B,2B,Stolen Base 2B,430897,Nick Swisher,John Buck,1,0,3,False,2010-07-02,Stolen,2B,2010
+2182,1B,2B,Stolen Base 2B,430897,Nick Swisher,George Kottaras,0,0,1,False,2011-06-30,Stolen,2B,2011
+2886,3B,,Caught Stealing Home,430897,Nick Swisher,Landon Powell,1,3,4,True,2011-05-31,Caught,Home,2011
+3443,1B,,Caught Stealing 2B,430897,Nick Swisher,Matt Treanor,3,1,6,False,2011-05-10,Caught,2B,2011
+3916,1B,2B,Stolen Base 2B,430897,Nick Swisher,J.P. Arencibia,2,6,9,True,2011-04-20,Stolen,2B,2011
+969,1B,2B,Stolen Base 2B,430897,Nick Swisher,Ryan Lavarnway,2,0,3,False,2012-08-19,Stolen,2B,2012
+1853,1B,,Caught Stealing 2B,430897,Nick Swisher,John Hester,2,2,2,False,2012-07-14,Caught,2B,2012
+2498,1B,,Caught Stealing 2B,430897,Nick Swisher,Brian McCann,0,1,2,True,2012-06-13,Caught,2B,2012
+2722,1B,2B,Stolen Base 2B,430897,Nick Swisher,Omir Santos,2,2,8,True,2012-06-02,Stolen,2B,2012
+611,1B,2B,Stolen Base 2B,430897,Nick Swisher,Alex Avila,0,0,3,True,2013-09-01,Stolen,2B,2013
+797,1B,2B,Caught Stealing 3B,430897,Nick Swisher,Chris Herrmann,1,2,6,False,2013-08-23,Caught,3B,2013

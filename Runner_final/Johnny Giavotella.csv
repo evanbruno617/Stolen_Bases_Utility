@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,776,1B,,Caught Stealing 2B,543213,Johnny Giavotella,517008,Alex Colomé,519068,Efren Navarro,R,René Rivera,425784,2,0,4,True,2015-06-11,Caught,2B,2015,2016,27.7
+1,1094,1B,2B,Stolen Base 2B,543213,Johnny Giavotella,475115,Tyson Ross,545361,Mike Trout,R,Derek Norris,519083,1,0,3,False,2015-05-25,Stolen,2B,2015,2016,27.7
+2,2168,1B,,Caught Stealing 2B,543213,Johnny Giavotella,474463,Brett Anderson,594777,Kole Calhoun,L,A.J. Ellis,454560,0,1,2,True,2015-04-04,Caught,2B,2015,2016,27.7

@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1296,1B,2B,Stolen Base 2B,660644,Vidal Bruján,Roberto Pérez,3,0,1,False,2021-07-07,Stolen,2B,2021
+480,1B,2B,Stolen Base 2B,660644,Vidal Bruján,Kevin Plawecki,2,3,7,False,2022-09-05,Stolen,2B,2022
+1642,1B,2B,Stolen Base 2B,660644,Vidal Bruján,Gabriel Moreno,2,1,7,True,2022-06-30,Stolen,2B,2022
+1761,2B,3B,Stolen Base 3B,660644,Vidal Bruján,Michael Pérez,4,3,10,False,2022-06-24,Stolen,3B,2022
+1872,1B,,Caught Stealing 2B,660644,Vidal Bruján,Adley Rutschman,0,0,6,True,2022-06-17,Caught,2B,2022
+1994,1B,2B,Stolen Base 2B,660644,Vidal Bruján,Ryan Jeffers,5,3,5,True,2022-06-11,Stolen,2B,2022
+1995,2B,,Caught Stealing 3B,660644,Vidal Bruján,Ryan Jeffers,5,3,5,True,2022-06-11,Caught,3B,2022
+2118,1B,,Caught Stealing 2B,660644,Vidal Bruján,Reese McGuire,0,0,4,False,2022-06-04,Caught,2B,2022
+2467,1B,,Caught Stealing 2B,660644,Vidal Bruján,Tucker Barnhart,0,0,2,False,2022-05-16,Caught,2B,2022
+2551,2B,3B,Stolen Base 3B,660644,Vidal Bruján,Chad Wallach,2,4,10,True,2022-05-11,Stolen,3B,2022
+2865,1B,,Caught Stealing 2B,660644,Vidal Bruján,Christian Vázquez,0,2,4,False,2022-04-24,Caught,2B,2022
+653,1B,2B,Stolen Base 2B,660644,Vidal Bruján,Reese McGuire,5,2,5,False,2023-09-05,Stolen,2B,2023
+671,1B,,Caught Stealing 2B,660644,Vidal Bruján,Reese McGuire,3,1,5,False,2023-09-04,Caught,2B,2023
+2243,2B,3B,Stolen Base 3B,660644,Vidal Bruján,Freddy Fermin,2,0,2,False,2023-06-24,Stolen,3B,2023
+2244,1B,2B,Stolen Base 2B,660644,Vidal Bruján,Freddy Fermin,4,7,4,False,2023-06-24,Stolen,2B,2023
+4012,1B,,Caught Stealing 2B,660644,Vidal Bruján,Reese McGuire,2,0,2,False,2023-04-11,Caught,2B,2023

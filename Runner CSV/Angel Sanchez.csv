@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+69,1B,,Caught Stealing 2B,447816,Angel Sanchez,Ramon Hernandez,1,2,4,True,2010-09-28,Caught,2B,2010
+2110,1B,2B,Stolen Base 2B,447816,Angel Sanchez,Jason Varitek,1,1,5,False,2011-07-03,Stolen,2B,2011
+3112,1B,2B,Stolen Base 2B,447816,Angel Sanchez,Dioner Navarro,3,3,9,False,2011-05-23,Stolen,2B,2011
+4292,1B,2B,Stolen Base 2B,447816,Angel Sanchez,Ramon Hernandez,0,0,1,True,2011-04-06,Stolen,2B,2011

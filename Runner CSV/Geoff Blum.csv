@@ -1,0 +1,26 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+785,1B,2B,Stolen Base 2B,150398,Geoff Blum,Damian Miller,7,8,7,False,2000-08-29,Stolen,2B,2000
+896,1B,,Caught Stealing 2B,150398,Geoff Blum,Chad Kreuter,0,0,2,True,2000-08-24,Caught,2B,2000
+960,1B,,Caught Stealing 2B,150398,Geoff Blum,Todd Hundley,0,4,8,True,2000-08-21,Caught,2B,2000
+1480,1B,,Caught Stealing 2B,150398,Geoff Blum,Eddie Taubensee,3,2,6,False,2000-07-29,Caught,2B,2000
+3368,2B,,Caught Stealing 3B,150398,Geoff Blum,Scott Servais,2,1,2,True,2000-05-03,Caught,3B,2000
+154,1B,2B,Stolen Base 2B,150398,Geoff Blum,Javy Lopez,0,4,6,True,2001-05-30,Stolen,2B,2001
+241,1B,2B,Stolen Base 2B,150398,Geoff Blum,Johnny Estrada,2,3,4,True,2001-05-27,Stolen,2B,2001
+359,1B,2B,Stolen Base 2B,150398,Geoff Blum,Mike Piazza,3,0,6,False,2001-05-22,Stolen,2B,2001
+847,1B,2B,Stolen Base 2B,150398,Geoff Blum,Kelly Stinnett,1,5,4,True,2002-08-19,Stolen,2B,2002
+1963,1B,2B,Stolen Base 2B,150398,Geoff Blum,Damian Miller,3,2,7,False,2002-06-25,Stolen,2B,2002
+1236,1B,,Caught Stealing 2B,150398,Geoff Blum,Gregg Zaun,2,1,2,False,2004-07-31,Caught,2B,2004
+1963,1B,,Caught Stealing 2B,150398,Geoff Blum,Juan Brito,1,2,9,True,2004-06-20,Caught,2B,2004
+2012,1B,,Caught Stealing 2B,150398,Geoff Blum,Robby Hammock,2,3,5,True,2004-06-18,Caught,2B,2004
+2632,1B,2B,Stolen Base 2B,150398,Geoff Blum,Jason Varitek,1,1,2,False,2004-05-19,Stolen,2B,2004
+2975,3B,score,Stolen Base Home,150398,Geoff Blum,Adam Melhuse,8,2,7,False,2004-05-02,Stolen,Home,2004
+678,1B,2B,Caught Stealing Home,150398,Geoff Blum,Yorvit Torrealba,2,4,8,True,2005-08-27,Caught,Home,2005
+1542,1B,2B,Stolen Base 2B,150398,Geoff Blum,JD Closser,4,8,7,True,2005-07-10,Stolen,2B,2005
+1791,1B,2B,Stolen Base 2B,150398,Geoff Blum,Mike Rose,1,0,4,True,2005-06-29,Stolen,2B,2005
+2132,1B,,Caught Stealing 2B,150398,Geoff Blum,A.J. Pierzynski,0,2,4,False,2005-06-10,Caught,2B,2005
+2315,1B,,Caught Stealing 2B,150398,Geoff Blum,Chad Moeller,0,0,1,False,2005-05-30,Caught,2B,2005
+2334,1B,2B,Stolen Base 2B,150398,Geoff Blum,Mike Matheny,0,0,1,True,2005-05-29,Stolen,2B,2005
+395,3B,,Caught Stealing Home,150398,Geoff Blum,Ryan Doumit,5,2,3,False,2008-09-09,Caught,Home,2008
+1105,1B,2B,Caught Stealing 2B,150398,Geoff Blum,Geovany Soto,2,0,2,True,2008-08-05,Caught,2B,2008
+2021,1B,2B,Stolen Base 2B,150398,Geoff Blum,Ramon Hernandez,3,5,6,True,2008-06-17,Stolen,2B,2008
+1935,1B,,Caught Stealing 2B,150398,Geoff Blum,Nick Hundley,0,0,2,False,2009-05-08,Caught,2B,2009

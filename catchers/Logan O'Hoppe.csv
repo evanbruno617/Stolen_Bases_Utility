@@ -1,0 +1,67 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,690829,Ben Joyce,676116,Ryan Noda,R,Logan O'Hoppe,681351,3,1,8,True,2023-09-30,Stolen,2B,2023,2024, 83.7, 0.72
+1,1B,2B,Stolen Base 2B,666139,Josh Lowe,665896,José Marte,622534,Manuel Margot,R,Logan O'Hoppe,681351,3,4,6,False,2023-09-21,Stolen,2B,2023,2024, 83.7, 0.72
+2,2B,3B,Stolen Base 3B,622534,Manuel Margot,665896,José Marte,666018,Jonathan Aranda,R,Logan O'Hoppe,681351,3,4,6,False,2023-09-21,Stolen,3B,2023,2024, 83.7, 0.72
+3,1B,2B,Stolen Base 2B,628451,Andy Ibáñez,542881,Tyler Anderson,681481,Kerry Carpenter,L,Logan O'Hoppe,681351,0,0,1,True,2023-09-16,Stolen,2B,2023,2024, 83.7, 0.72
+4,1B,2B,Stolen Base 2B,670097,Zack Short,608032,Carlos Estévez,668731,Akil Baddoo,R,Logan O'Hoppe,681351,1,4,9,True,2023-09-16,Stolen,2B,2023,2024, 83.7, 0.72
+5,1B,2B,Stolen Base 2B,678009,Parker Meadows,667755,José Soriano,608348,Carson Kelly,R,Logan O'Hoppe,681351,4,5,10,True,2023-09-16,Stolen,2B,2023,2024, 83.7, 0.72
+6,1B,2B,Stolen Base 2B,608070,José Ramírez,665896,José Marte,657656,Ramón Laureano,R,Logan O'Hoppe,681351,3,6,8,True,2023-09-08,Stolen,2B,2023,2024, 83.7, 0.72
+7,1B,2B,Stolen Base 2B,622761,Jorge Mateo,663776,Patrick Sandoval,668939,Adley Rutschman,L,Logan O'Hoppe,681351,0,1,3,True,2023-09-06,Stolen,2B,2023,2024, 83.7, 0.72
+8,1B,2B,Stolen Base 2B,622761,Jorge Mateo,672282,Reid Detmers,668939,Adley Rutschman,L,Logan O'Hoppe,681351,0,1,3,True,2023-09-05,Stolen,2B,2023,2024, 83.7, 0.72
+9,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,622103,Gerardo Reyes,680869,Zack Gelof,R,Logan O'Hoppe,681351,5,0,6,False,2023-09-01,Stolen,3B,2023,2024, 83.7, 0.72
+10,1B,2B,Stolen Base 2B,681082,Bryson Stott,608337,Lucas Giolito,664761,Alec Bohm,R,Logan O'Hoppe,681351,3,3,4,False,2023-08-28,Stolen,2B,2023,2024, 83.7, 0.72
+11,1B,2B,Stolen Base 2B,669016,Brandon Marsh,608678,Dominic Leone,656941,Kyle Schwarber,R,Logan O'Hoppe,681351,6,4,8,False,2023-08-28,Stolen,2B,2023,2024, 83.7, 0.72
+12,2B,3B,Stolen Base 3B,596019,Francisco Lindor,571901,Aaron Loup,596129,Daniel Vogelbach,L,Logan O'Hoppe,681351,1,5,4,False,2023-08-26,Stolen,3B,2023,2024, 83.7, 0.72
+13,1B,2B,Stolen Base 2B,643446,Jeff McNeil,571901,Aaron Loup,596129,Daniel Vogelbach,L,Logan O'Hoppe,681351,1,5,4,False,2023-08-26,Stolen,2B,2023,2024, 83.7, 0.72
+14,2B,3B,Stolen Base 2B,643446,Jeff McNeil,571901,Aaron Loup,596129,Daniel Vogelbach,L,Logan O'Hoppe,681351,1,5,4,False,2023-08-26,Stolen,2B,2023,2024, 83.7, 0.72
+15,2B,3B,Stolen Base 3B,542364,Rafael Ortega,571901,Aaron Loup,596019,Francisco Lindor,L,Logan O'Hoppe,681351,2,5,5,False,2023-08-26,Stolen,3B,2023,2024, 83.7, 0.72
+16,1B,2B,Stolen Base 2B,680574,Matt McLain,670046,Kenny Rosenberg,682829,Elly De La Cruz,L,Logan O'Hoppe,681351,4,8,9,True,2023-08-23,Stolen,2B,2023,2024, 83.7, 0.72
+17,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,608337,Lucas Giolito,668715,Spencer Steer,R,Logan O'Hoppe,681351,0,1,1,True,2023-08-22,Stolen,2B,2023,2024, 83.7, 0.72
+18,1B,2B,Stolen Base 2B,666181,Will Benson,608337,Lucas Giolito,663886,Tyler Stephenson,R,Logan O'Hoppe,681351,0,1,2,True,2023-08-22,Stolen,2B,2023,2024, 83.7, 0.72
+19,1B,2B,Stolen Base 2B,682622,Noelvi Marte,608337,Lucas Giolito,666181,Will Benson,R,Logan O'Hoppe,681351,3,4,6,True,2023-08-22,Stolen,2B,2023,2024, 83.7, 0.72
+20,1B,,Caught Stealing 2B,682829,Elly De La Cruz,667755,José Soriano,668715,Spencer Steer,R,Logan O'Hoppe,681351,3,4,7,True,2023-08-22,Caught,2B,2023,2024, 83.7, 0.72
+21,1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,656353,Tucker Davidson,592450,Aaron Judge,L,Logan O'Hoppe,681351,5,2,6,False,2023-04-20,Stolen,2B,2023,2024, 83.7, 0.72
+22,2B,3B,Stolen Base 3B,683011,Anthony Volpe,656288,Griffin Canning,592450,Aaron Judge,R,Logan O'Hoppe,681351,2,0,3,False,2023-04-19,Stolen,3B,2023,2024, 83.7, 0.72
+23,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,519043,Matt Moore,624431,Jose Trevino,L,Logan O'Hoppe,681351,2,2,9,False,2023-04-19,Stolen,2B,2023,2024, 83.7, 0.72
+24,1B,2B,Stolen Base 2B,680776,Jarren Duran,519043,Matt Moore,606132,Raimel Tapia,L,Logan O'Hoppe,681351,3,5,7,False,2023-04-17,Stolen,2B,2023,2024, 83.7, 0.72
+25,1B,2B,Stolen Base 2B,657077,Alex Verdugo,672282,Reid Detmers,457759,Justin Turner,L,Logan O'Hoppe,681351,2,1,3,False,2023-04-16,Stolen,2B,2023,2024, 83.7, 0.72
+26,1B,2B,Stolen Base 2B,682928,CJ Abrams,656353,Tucker Davidson,669743,Alex Call,L,Logan O'Hoppe,681351,4,5,5,True,2023-04-10,Stolen,2B,2023,2024, 83.7, 0.72
+27,1B,2B,Stolen Base 2B,645302,Victor Robles,656353,Tucker Davidson,682928,CJ Abrams,L,Logan O'Hoppe,681351,4,6,7,True,2023-04-10,Stolen,2B,2023,2024, 83.7, 0.72
+28,2B,3B,Stolen Base 3B,656305,Matt Chapman,571901,Aaron Loup,624415,Cavan Biggio,L,Logan O'Hoppe,681351,6,8,7,True,2023-04-09,Stolen,3B,2023,2024, 83.7, 0.72
+29,1B,2B,Stolen Base 2B,593160,Whit Merrifield,571901,Aaron Loup,624415,Cavan Biggio,L,Logan O'Hoppe,681351,6,8,7,True,2023-04-09,Stolen,2B,2023,2024, 83.7, 0.72
+30,3B,,Caught Stealing Home,656305,Matt Chapman,663776,Patrick Sandoval,656669,Jordan Luplow,L,Logan O'Hoppe,681351,2,1,4,True,2023-04-07,Caught,Home,2023,2024, 83.7, 0.72
+31,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,672282,Reid Detmers,606192,Teoscar Hernández,L,Logan O'Hoppe,681351,0,0,1,False,2023-04-03,Stolen,2B,2023,2024, 83.7, 0.72
+32,2B,3B,Stolen Base 3B,664034,Ty France,672282,Reid Detmers,606192,Teoscar Hernández,L,Logan O'Hoppe,681351,2,1,3,False,2023-04-03,Stolen,3B,2023,2024, 83.7, 0.72
+33,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,690829,Ben Joyce,676116,Ryan Noda,R,Logan O'Hoppe,681351,3,1,8,True,2023-09-30,Stolen,2B,2023,2024, 83.7, 0.72
+34,1B,2B,Stolen Base 2B,666139,Josh Lowe,665896,José Marte,622534,Manuel Margot,R,Logan O'Hoppe,681351,3,4,6,False,2023-09-21,Stolen,2B,2023,2024, 83.7, 0.72
+35,2B,3B,Stolen Base 3B,622534,Manuel Margot,665896,José Marte,666018,Jonathan Aranda,R,Logan O'Hoppe,681351,3,4,6,False,2023-09-21,Stolen,3B,2023,2024, 83.7, 0.72
+36,1B,2B,Stolen Base 2B,628451,Andy Ibáñez,542881,Tyler Anderson,681481,Kerry Carpenter,L,Logan O'Hoppe,681351,0,0,1,True,2023-09-16,Stolen,2B,2023,2024, 83.7, 0.72
+37,1B,2B,Stolen Base 2B,670097,Zack Short,608032,Carlos Estévez,668731,Akil Baddoo,R,Logan O'Hoppe,681351,1,4,9,True,2023-09-16,Stolen,2B,2023,2024, 83.7, 0.72
+38,1B,2B,Stolen Base 2B,678009,Parker Meadows,667755,José Soriano,608348,Carson Kelly,R,Logan O'Hoppe,681351,4,5,10,True,2023-09-16,Stolen,2B,2023,2024, 83.7, 0.72
+39,1B,2B,Stolen Base 2B,608070,José Ramírez,665896,José Marte,657656,Ramón Laureano,R,Logan O'Hoppe,681351,3,6,8,True,2023-09-08,Stolen,2B,2023,2024, 83.7, 0.72
+40,1B,2B,Stolen Base 2B,622761,Jorge Mateo,663776,Patrick Sandoval,668939,Adley Rutschman,L,Logan O'Hoppe,681351,0,1,3,True,2023-09-06,Stolen,2B,2023,2024, 83.7, 0.72
+41,1B,2B,Stolen Base 2B,622761,Jorge Mateo,672282,Reid Detmers,668939,Adley Rutschman,L,Logan O'Hoppe,681351,0,1,3,True,2023-09-05,Stolen,2B,2023,2024, 83.7, 0.72
+42,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,622103,Gerardo Reyes,680869,Zack Gelof,R,Logan O'Hoppe,681351,5,0,6,False,2023-09-01,Stolen,3B,2023,2024, 83.7, 0.72
+43,1B,2B,Stolen Base 2B,681082,Bryson Stott,608337,Lucas Giolito,664761,Alec Bohm,R,Logan O'Hoppe,681351,3,3,4,False,2023-08-28,Stolen,2B,2023,2024, 83.7, 0.72
+44,1B,2B,Stolen Base 2B,669016,Brandon Marsh,608678,Dominic Leone,656941,Kyle Schwarber,R,Logan O'Hoppe,681351,6,4,8,False,2023-08-28,Stolen,2B,2023,2024, 83.7, 0.72
+45,2B,3B,Stolen Base 3B,596019,Francisco Lindor,571901,Aaron Loup,596129,Daniel Vogelbach,L,Logan O'Hoppe,681351,1,5,4,False,2023-08-26,Stolen,3B,2023,2024, 83.7, 0.72
+46,1B,2B,Stolen Base 2B,643446,Jeff McNeil,571901,Aaron Loup,596129,Daniel Vogelbach,L,Logan O'Hoppe,681351,1,5,4,False,2023-08-26,Stolen,2B,2023,2024, 83.7, 0.72
+47,2B,3B,Stolen Base 2B,643446,Jeff McNeil,571901,Aaron Loup,596129,Daniel Vogelbach,L,Logan O'Hoppe,681351,1,5,4,False,2023-08-26,Stolen,2B,2023,2024, 83.7, 0.72
+48,2B,3B,Stolen Base 3B,542364,Rafael Ortega,571901,Aaron Loup,596019,Francisco Lindor,L,Logan O'Hoppe,681351,2,5,5,False,2023-08-26,Stolen,3B,2023,2024, 83.7, 0.72
+49,1B,2B,Stolen Base 2B,680574,Matt McLain,670046,Kenny Rosenberg,682829,Elly De La Cruz,L,Logan O'Hoppe,681351,4,8,9,True,2023-08-23,Stolen,2B,2023,2024, 83.7, 0.72
+50,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,608337,Lucas Giolito,668715,Spencer Steer,R,Logan O'Hoppe,681351,0,1,1,True,2023-08-22,Stolen,2B,2023,2024, 83.7, 0.72
+51,1B,2B,Stolen Base 2B,666181,Will Benson,608337,Lucas Giolito,663886,Tyler Stephenson,R,Logan O'Hoppe,681351,0,1,2,True,2023-08-22,Stolen,2B,2023,2024, 83.7, 0.72
+52,1B,2B,Stolen Base 2B,682622,Noelvi Marte,608337,Lucas Giolito,666181,Will Benson,R,Logan O'Hoppe,681351,3,4,6,True,2023-08-22,Stolen,2B,2023,2024, 83.7, 0.72
+53,1B,,Caught Stealing 2B,682829,Elly De La Cruz,667755,José Soriano,668715,Spencer Steer,R,Logan O'Hoppe,681351,3,4,7,True,2023-08-22,Caught,2B,2023,2024, 83.7, 0.72
+54,1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,656353,Tucker Davidson,592450,Aaron Judge,L,Logan O'Hoppe,681351,5,2,6,False,2023-04-20,Stolen,2B,2023,2024, 83.7, 0.72
+55,2B,3B,Stolen Base 3B,683011,Anthony Volpe,656288,Griffin Canning,592450,Aaron Judge,R,Logan O'Hoppe,681351,2,0,3,False,2023-04-19,Stolen,3B,2023,2024, 83.7, 0.72
+56,1B,2B,Stolen Base 2B,665828,Oswaldo Cabrera,519043,Matt Moore,624431,Jose Trevino,L,Logan O'Hoppe,681351,2,2,9,False,2023-04-19,Stolen,2B,2023,2024, 83.7, 0.72
+57,1B,2B,Stolen Base 2B,680776,Jarren Duran,519043,Matt Moore,606132,Raimel Tapia,L,Logan O'Hoppe,681351,3,5,7,False,2023-04-17,Stolen,2B,2023,2024, 83.7, 0.72
+58,1B,2B,Stolen Base 2B,657077,Alex Verdugo,672282,Reid Detmers,457759,Justin Turner,L,Logan O'Hoppe,681351,2,1,3,False,2023-04-16,Stolen,2B,2023,2024, 83.7, 0.72
+59,1B,2B,Stolen Base 2B,682928,CJ Abrams,656353,Tucker Davidson,669743,Alex Call,L,Logan O'Hoppe,681351,4,5,5,True,2023-04-10,Stolen,2B,2023,2024, 83.7, 0.72
+60,1B,2B,Stolen Base 2B,645302,Victor Robles,656353,Tucker Davidson,682928,CJ Abrams,L,Logan O'Hoppe,681351,4,6,7,True,2023-04-10,Stolen,2B,2023,2024, 83.7, 0.72
+61,2B,3B,Stolen Base 3B,656305,Matt Chapman,571901,Aaron Loup,624415,Cavan Biggio,L,Logan O'Hoppe,681351,6,8,7,True,2023-04-09,Stolen,3B,2023,2024, 83.7, 0.72
+62,1B,2B,Stolen Base 2B,593160,Whit Merrifield,571901,Aaron Loup,624415,Cavan Biggio,L,Logan O'Hoppe,681351,6,8,7,True,2023-04-09,Stolen,2B,2023,2024, 83.7, 0.72
+63,3B,,Caught Stealing Home,656305,Matt Chapman,663776,Patrick Sandoval,656669,Jordan Luplow,L,Logan O'Hoppe,681351,2,1,4,True,2023-04-07,Caught,Home,2023,2024, 83.7, 0.72
+64,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,672282,Reid Detmers,606192,Teoscar Hernández,L,Logan O'Hoppe,681351,0,0,1,False,2023-04-03,Stolen,2B,2023,2024, 83.7, 0.72
+65,2B,3B,Stolen Base 3B,664034,Ty France,672282,Reid Detmers,606192,Teoscar Hernández,L,Logan O'Hoppe,681351,2,1,3,False,2023-04-03,Stolen,3B,2023,2024, 83.7, 0.72

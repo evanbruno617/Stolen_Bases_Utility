@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,501571,Juan Lagares,452657,Jon Lester,527038,Wilmer Flores,L,Kyle Schwarber,656941,0,1,1,False,2017-06-13,Stolen,2B,2017,2018, --, --
+1,1B,2B,Stolen Base 2B,621035,Chris Taylor,444468,Héctor Rondón,624577,Yasiel Puig,R,Kyle Schwarber,656941,9,4,7,False,2017-05-28,Stolen,2B,2017,2018, --, --
+2,1B,2B,Stolen Base 2B,501571,Juan Lagares,452657,Jon Lester,527038,Wilmer Flores,L,Kyle Schwarber,656941,0,1,1,False,2017-06-13,Stolen,2B,2017,2018, --, --
+3,1B,2B,Stolen Base 2B,621035,Chris Taylor,444468,Héctor Rondón,624577,Yasiel Puig,R,Kyle Schwarber,656941,9,4,7,False,2017-05-28,Stolen,2B,2017,2018, --, --

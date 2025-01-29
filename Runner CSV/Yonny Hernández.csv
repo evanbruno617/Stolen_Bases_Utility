@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+86,1B,2B,Stolen Base 2B,660634,Yonny Hernández,Nick Ciuffo,0,0,7,True,2021-09-25,Stolen,2B,2021
+114,1B,2B,Stolen Base 2B,660634,Yonny Hernández,Austin Wynns,2,0,7,True,2021-09-23,Stolen,2B,2021
+287,1B,2B,Stolen Base 2B,660634,Yonny Hernández,Yan Gomes,1,4,6,True,2021-09-12,Stolen,2B,2021
+355,1B,2B,Stolen Base 2B,660634,Yonny Hernández,Carson Kelly,2,3,4,True,2021-09-08,Stolen,2B,2021
+362,1B,2B,Stolen Base 2B,660634,Yonny Hernández,Carson Kelly,1,0,4,True,2021-09-07,Stolen,2B,2021
+384,1B,2B,Stolen Base 2B,660634,Yonny Hernández,Max Stassi,0,5,4,True,2021-09-05,Stolen,2B,2021
+385,1B,2B,Stolen Base 2B,660634,Yonny Hernández,Max Stassi,1,6,6,True,2021-09-05,Stolen,2B,2021
+495,1B,,Caught Stealing 2B,660634,Yonny Hernández,Elias Díaz,0,0,1,False,2021-08-30,Caught,2B,2021
+524,1B,2B,Stolen Base 2B,660634,Yonny Hernández,Martín Maldonado,2,5,8,False,2021-08-28,Stolen,2B,2021
+744,1B,2B,Stolen Base 2B,660634,Yonny Hernández,Sean Murphy,0,1,1,False,2021-08-14,Stolen,2B,2021
+799,1B,2B,Stolen Base 2B,660634,Yonny Hernández,Tom Murphy,0,0,1,True,2021-08-10,Stolen,2B,2021
+801,1B,2B,Stolen Base 2B,660634,Yonny Hernández,Tom Murphy,3,5,10,True,2021-08-10,Stolen,2B,2021
+2930,1B,2B,Stolen Base 2B,660634,Yonny Hernández,Keibert Ruiz,0,6,4,True,2022-04-20,Stolen,2B,2022
+3026,1B,2B,Stolen Base 2B,660634,Yonny Hernández,James McCann,0,0,5,True,2022-04-16,Stolen,2B,2022

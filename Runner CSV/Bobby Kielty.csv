@@ -1,0 +1,24 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1280,1B,2B,Stolen Base 2B,282878,Bobby Kielty,Sandy Alomar Jr.,5,3,6,False,2001-04-14,Stolen,2B,2001
+306,1B,2B,Stolen Base 2B,282878,Bobby Kielty,Victor Martinez,0,0,4,True,2002-09-14,Stolen,2B,2002
+2544,1B,2B,Stolen Base 2B,282878,Bobby Kielty,Bill Haselman,3,7,5,True,2002-05-28,Stolen,2B,2002
+2602,2B,,Caught Stealing 3B,282878,Bobby Kielty,Bengie Molina,0,1,2,True,2002-05-26,Caught,3B,2002
+2888,1B,2B,Stolen Base 2B,282878,Bobby Kielty,Juan Brito,0,6,3,True,2002-05-16,Stolen,2B,2002
+3151,1B,2B,Stolen Base 2B,282878,Bobby Kielty,Brandon Inge,6,7,7,False,2002-05-05,Stolen,2B,2002
+93,1B,,Caught Stealing 2B,282878,Bobby Kielty,Toby Hall,6,6,6,False,2003-09-25,Caught,2B,2003
+163,1B,2B,Stolen Base 2B,282878,Bobby Kielty,Geronimo Gil,1,0,2,True,2003-09-21,Stolen,2B,2003
+166,2B,3B,Stolen Base 3B,282878,Bobby Kielty,Geronimo Gil,4,3,6,True,2003-09-21,Stolen,3B,2003
+1547,1B,,Caught Stealing 2B,282878,Bobby Kielty,Bengie Molina,0,1,6,True,2003-07-12,Caught,2B,2003
+1594,1B,,Caught Stealing 2B,282878,Bobby Kielty,Einar Díaz,0,0,2,True,2003-07-09,Caught,2B,2003
+1595,1B,2B,Stolen Base 2B,282878,Bobby Kielty,Einar Díaz,4,1,9,True,2003-07-09,Stolen,2B,2003
+1728,1B,2B,Stolen Base 2B,282878,Bobby Kielty,Sandy Alomar Jr.,5,6,11,True,2003-07-02,Stolen,2B,2003
+1802,1B,2B,Stolen Base 2B,282878,Bobby Kielty,Eddie Pérez,3,1,6,False,2003-06-28,Stolen,2B,2003
+2028,1B,2B,Stolen Base 2B,282878,Bobby Kielty,Brent Mayne,1,1,6,True,2003-06-17,Stolen,2B,2003
+2484,1B,2B,Stolen Base 2B,282878,Bobby Kielty,Ben Davis,1,3,8,True,2003-05-25,Stolen,2B,2003
+3496,1B,2B,Stolen Base 2B,282878,Bobby Kielty,Greg Myers,2,1,2,False,2003-04-05,Stolen,2B,2003
+1863,1B,2B,Stolen Base 2B,282878,Bobby Kielty,A.J. Pierzynski,7,7,10,False,2004-06-26,Stolen,2B,2004
+981,1B,,Caught Stealing 2B,282878,Bobby Kielty,José Molina,0,2,6,False,2005-08-11,Caught,2B,2005
+1662,1B,2B,Stolen Base 2B,282878,Bobby Kielty,Gregg Zaun,6,7,9,True,2005-07-05,Stolen,2B,2005
+2366,1B,,Caught Stealing 2B,282878,Bobby Kielty,Victor Martinez,3,2,6,True,2005-05-28,Caught,2B,2005
+2518,1B,2B,Stolen Base 2B,282878,Bobby Kielty,Mike Matheny,3,2,4,True,2005-05-21,Stolen,2B,2005
+2836,1B,2B,Stolen Base 2B,282878,Bobby Kielty,Jorge Posada,1,3,6,True,2005-05-06,Stolen,2B,2005

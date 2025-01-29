@@ -1,0 +1,23 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,112116,Luis Castillo,Eric Munson,2,0,5,False,2007-09-08,Stolen,2B,2007
+1B,2B,Stolen Base 2B,444135,Ryan Theriot,Eric Munson,1,3,3,False,2007-09-02,Stolen,2B,2007
+1B,,Caught Stealing 2B,113845,Juan Encarnacion,Eric Munson,2,1,6,True,2007-08-30,Caught,2B,2007
+1B,2B,Stolen Base 2B,150479,Felipe Lopez,Eric Munson,0,1,3,True,2007-08-20,Stolen,2B,2007
+1B,2B,Stolen Base 2B,425496,Cody Ross,Eric Munson,5,5,11,False,2007-08-04,Stolen,2B,2007
+1B,2B,Stolen Base 2B,444135,Ryan Theriot,Eric Munson,0,0,3,False,2007-07-13,Stolen,2B,2007
+1B,2B,Stolen Base 2B,408314,José Reyes,Eric Munson,0,2,2,True,2007-07-05,Stolen,2B,2007
+1B,2B,Stolen Base 2B,133342,Ricky Ledee,Eric Munson,0,5,6,True,2007-07-05,Stolen,2B,2007
+1B,2B,Stolen Base 2B,448676,Ryan Spilborghs,Eric Munson,0,3,5,True,2007-06-30,Stolen,2B,2007
+1B,2B,Stolen Base 2B,430611,Corey Hart,Eric Munson,2,2,2,False,2007-06-26,Stolen,2B,2007
+2B,3B,Stolen Base 3B,460075,Ryan Braun,Eric Munson,2,2,3,False,2007-06-26,Stolen,3B,2007
+1B,2B,Stolen Base 2B,112736,Craig Counsell,Eric Munson,1,0,3,False,2007-06-25,Stolen,2B,2007
+1B,2B,Stolen Base 2B,430611,Corey Hart,Eric Munson,2,0,3,False,2007-06-25,Stolen,2B,2007
+1B,,Caught Stealing 2B,132961,Geoff Jenkins,Eric Munson,3,0,4,False,2007-06-25,Caught,2B,2007
+1B,2B,Stolen Base 2B,460075,Ryan Braun,Eric Munson,3,1,6,False,2007-06-25,Stolen,2B,2007
+1B,2B,Stolen Base 2B,435065,Reggie Willits,Eric Munson,0,0,1,False,2007-06-19,Stolen,2B,2007
+1B,2B,Stolen Base 2B,435065,Reggie Willits,Eric Munson,5,7,6,False,2007-06-19,Stolen,2B,2007
+2B,3B,Stolen Base 3B,111851,Orlando Cabrera,Eric Munson,4,1,4,False,2007-06-18,Stolen,3B,2007
+1B,2B,Stolen Base 2B,408210,Chone Figgins,Eric Munson,9,9,7,False,2007-06-18,Stolen,2B,2007
+1B,2B,Stolen Base 2B,407885,Mark Ellis,Eric Munson,5,5,10,True,2007-06-14,Stolen,2B,2007
+2B,3B,Stolen Base 3B,407885,Mark Ellis,Eric Munson,3,7,8,True,2007-06-13,Stolen,3B,2007
+1B,2B,Stolen Base 2B,430897,Nick Swisher,Eric Munson,3,7,8,True,2007-06-13,Stolen,2B,2007

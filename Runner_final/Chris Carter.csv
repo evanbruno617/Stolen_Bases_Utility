@@ -1,0 +1,18 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4739,1B,2B,Stolen Base 2B,474892,Chris Carter,453265,Tony Watson,570267,Domingo Santana,L,Francisco Cervelli,465041,3,5,9,False,2016-08-26,Stolen,2B,2016,2017,26.4
+1,4851,1B,,Caught Stealing 2B,474892,Chris Carter,452666,Tom Wilhelmsen,570267,Domingo Santana,R,Chris Iannetta,455104,6,4,8,True,2016-08-19,Caught,2B,2016,2017,26.4
+2,4915,1B,2B,Stolen Base 2B,474892,Chris Carter,543557,Mike Montgomery,542979,Keon Broxton,L,Miguel Montero,471083,3,0,7,True,2016-08-16,Stolen,2B,2016,2017,26.4
+3,4940,1B,2B,Stolen Base 2B,474892,Chris Carter,642003,Cody Reed,571697,Scooter Gennett,L,Ramón Cabrera,541608,2,0,1,False,2016-08-14,Stolen,2B,2016,2017,26.4
+4,6976,1B,2B,Stolen Base 2B,474892,Chris Carter,543557,Mike Montgomery,542979,Keon Broxton,L,Miguel Montero,471083,3,0,7,True,2016-04-27,Stolen,2B,2016,2017,26.4
+5,704,1B,2B,Stolen Base 2B,474892,Chris Carter,453265,Tony Watson,570267,Domingo Santana,L,Francisco Cervelli,465041,3,5,9,False,2016-08-26,Stolen,2B,2016,2017,26.4
+6,816,1B,,Caught Stealing 2B,474892,Chris Carter,452666,Tom Wilhelmsen,570267,Domingo Santana,R,Chris Iannetta,455104,6,4,8,True,2016-08-19,Caught,2B,2016,2017,26.4
+7,880,1B,2B,Stolen Base 2B,474892,Chris Carter,543557,Mike Montgomery,542979,Keon Broxton,L,Miguel Montero,471083,3,0,7,True,2016-08-16,Stolen,2B,2016,2017,26.4
+8,905,1B,2B,Stolen Base 2B,474892,Chris Carter,642003,Cody Reed,571697,Scooter Gennett,L,Ramón Cabrera,541608,2,0,1,False,2016-08-14,Stolen,2B,2016,2017,26.4
+9,2941,1B,2B,Stolen Base 2B,474892,Chris Carter,543557,Mike Montgomery,542979,Keon Broxton,L,Miguel Montero,471083,3,0,7,True,2016-04-27,Stolen,2B,2016,2017,26.4
+10,4111,1B,2B,Stolen Base 2B,474892,Chris Carter,453265,Tony Watson,570267,Domingo Santana,L,Francisco Cervelli,465041,3,5,9,False,2016-08-26,Stolen,2B,2016,2017,26.4
+11,4223,1B,,Caught Stealing 2B,474892,Chris Carter,452666,Tom Wilhelmsen,570267,Domingo Santana,R,Chris Iannetta,455104,6,4,8,True,2016-08-19,Caught,2B,2016,2017,26.4
+12,4287,1B,2B,Stolen Base 2B,474892,Chris Carter,543557,Mike Montgomery,542979,Keon Broxton,L,Miguel Montero,471083,3,0,7,True,2016-08-16,Stolen,2B,2016,2017,26.4
+13,4312,1B,2B,Stolen Base 2B,474892,Chris Carter,642003,Cody Reed,571697,Scooter Gennett,L,Ramón Cabrera,541608,2,0,1,False,2016-08-14,Stolen,2B,2016,2017,26.4
+14,6348,1B,2B,Stolen Base 2B,474892,Chris Carter,543557,Mike Montgomery,542979,Keon Broxton,L,Miguel Montero,471083,3,0,7,True,2016-04-27,Stolen,2B,2016,2017,26.4
+15,294,1B,,Caught Stealing 2B,474892,Chris Carter,468396,Alexi Ogando,488771,Jason Castro,R,Ryan Hanigan,452672,1,1,6,True,2015-07-05,Caught,2B,2015,2016,26.6
+16,849,1B,2B,Stolen Base 2B,474892,Chris Carter,521230,Liam Hendriks,472528,Luis Valbuena,R,Russell Martin,431145,4,6,9,True,2015-06-07,Stolen,2B,2015,2016,26.6

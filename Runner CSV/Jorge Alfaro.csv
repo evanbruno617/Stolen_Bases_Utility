@@ -1,0 +1,24 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+255,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Kevin Plawecki,0,0,2,False,2018-09-18,Stolen,2B,2018
+891,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Kevin Plawecki,4,1,4,False,2018-08-17,Stolen,2B,2018
+893,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Kevin Plawecki,4,1,6,False,2018-08-17,Stolen,2B,2018
+121,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Wilson Ramos,0,4,5,True,2019-09-24,Stolen,2B,2019
+349,1B,,Caught Stealing 2B,595751,Jorge Alfaro,Yasmani Grandal,3,3,8,False,2019-09-10,Caught,2B,2019
+528,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Kurt Suzuki,2,1,2,True,2019-08-30,Stolen,2B,2019
+1296,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Wilson Ramos,0,2,3,False,2019-07-12,Stolen,2B,2019
+1587,1B,,Caught Stealing 2B,595751,Jorge Alfaro,Yadier Molina,3,5,8,True,2019-06-20,Caught,2B,2019
+2145,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Wilson Ramos,2,0,4,False,2019-05-18,Stolen,2B,2019
+2808,1B,,Caught Stealing 2B,595751,Jorge Alfaro,Tucker Barnhart,1,0,2,True,2019-04-09,Caught,2B,2019
+403,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Tyler Flowers,0,5,4,True,2020-09-08,Stolen,2B,2020
+552,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Wilson Ramos,3,5,9,True,2020-08-31,Stolen,2B,2020
+623,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Wilson Ramos,3,5,9,True,2020-08-27,Stolen,2B,2020
+526,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Tucker Barnhart,2,0,1,False,2021-08-28,Stolen,2B,2021
+728,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Robinson Chirinos,2,1,6,False,2021-08-15,Stolen,2B,2021
+797,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Austin Nola,3,4,4,True,2021-08-10,Stolen,2B,2021
+964,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Gary Sánchez,0,2,2,False,2021-07-31,Stolen,2B,2021
+1610,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Jose Lobaton,0,4,2,True,2021-06-19,Stolen,2B,2021
+1768,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Kevin Plawecki,1,0,2,True,2021-06-07,Stolen,2B,2021
+1826,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Jacob Stallings,2,3,7,True,2021-06-03,Stolen,2B,2021
+1885,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Kevin Plawecki,1,0,2,True,2021-05-30,Stolen,2B,2021
+2828,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Mike Zunino,0,1,8,False,2021-04-01,Stolen,2B,2021
+2942,1B,2B,Stolen Base 2B,595751,Jorge Alfaro,Aramis Garcia,3,0,5,False,2022-04-20,Stolen,2B,2022

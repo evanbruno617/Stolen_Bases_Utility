@@ -1,0 +1,2 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2216,1B,2B,Stolen Base 2B,474233,Hank Conger,605328,Mitch Lambson,545337,Nolan Fontana,L,Tyler Heineman,623168,2,5,6,True,2015-04-02,Stolen,2B,2015,2016,24.0

@@ -1,0 +1,17 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1,1B,2B,Stolen Base 2B,493351,Alexei Ramirez,446372,Corey Kluber,452095,Tyler Flowers,R,Yan Gomes,543228,0,0,3,True,2015-07-24,Stolen,2B,2015,2016,26.6
+1,2,1B,2B,Stolen Base 2B,493351,Alexei Ramirez,446372,Corey Kluber,570560,Yolmer Sánchez,R,Yan Gomes,543228,0,2,7,True,2015-07-24,Stolen,2B,2015,2016,26.6
+2,32,1B,2B,Stolen Base 2B,493351,Alexei Ramirez,462515,Miguel Socolovich,570560,Yolmer Sánchez,R,Yadier Molina,425877,2,0,7,False,2015-07-22,Stolen,2B,2015,2016,26.6
+3,249,1B,2B,Stolen Base 2B,493351,Alexei Ramirez,467094,Felix Doubront,493596,Gordon Beckham,L,Russell Martin,431145,1,2,6,False,2015-07-07,Stolen,2B,2015,2016,26.6
+4,283,1B,,Caught Stealing 2B,493351,Alexei Ramirez,456068,Miguel González,452095,Tyler Flowers,R,Caleb Joseph,543376,0,2,3,False,2015-07-05,Caught,2B,2015,2016,26.6
+5,315,1B,2B,Stolen Base 2B,493351,Alexei Ramirez,501957,Chris Tillman,594809,Adam Eaton,R,Matt Wieters,446308,1,0,2,False,2015-07-04,Stolen,2B,2015,2016,26.6
+6,721,1B,2B,Stolen Base 2B,493351,Alexei Ramirez,501992,Nate Karns,547989,José Abreu,R,René Rivera,425784,0,1,3,True,2015-06-14,Stolen,2B,2015,2016,26.6
+7,952,1B,2B,Stolen Base 2B,493351,Alexei Ramirez,407890,Colby Lewis,493596,Gordon Beckham,R,Carlos Corporán,449786,4,0,2,True,2015-06-02,Stolen,2B,2015,2016,26.6
+8,989,1B,2B,Stolen Base 2B,493351,Alexei Ramirez,433584,Roberto Hernandez,493596,Gordon Beckham,R,Jason Castro,488771,0,4,3,True,2015-05-31,Stolen,2B,2015,2016,26.6
+9,990,1B,2B,Stolen Base 2B,493351,Alexei Ramirez,433584,Roberto Hernandez,570560,Yolmer Sánchez,R,Jason Castro,488771,0,5,6,True,2015-05-31,Stolen,2B,2015,2016,26.6
+10,1087,1B,2B,Stolen Base 2B,493351,Alexei Ramirez,285079,R.A. Dickey,543776,JB Shuck,R,Josh Thole,489365,3,5,5,True,2015-05-26,Stolen,2B,2015,2016,26.6
+11,1145,1B,,Caught Stealing 2B,493351,Alexei Ramirez,543507,Trevor May,543776,JB Shuck,R,Kurt Suzuki,435559,1,2,2,False,2015-05-23,Caught,2B,2015,2016,26.6
+12,1146,1B,2B,Stolen Base 2B,493351,Alexei Ramirez,450282,Glen Perkins,543776,JB Shuck,L,Kurt Suzuki,435559,3,4,9,False,2015-05-23,Stolen,2B,2015,2016,26.6
+13,1163,1B,2B,Stolen Base 2B,493351,Alexei Ramirez,543859,Michael Tonkin,434567,Geovany Soto,R,Kurt Suzuki,435559,3,2,8,False,2015-05-22,Stolen,2B,2015,2016,26.6
+14,1505,1B,2B,Stolen Base 2B,493351,Alexei Ramirez,456379,Al Alburquerque,452095,Tyler Flowers,R,James McCann,543510,3,5,6,False,2015-05-06,Stolen,2B,2015,2016,26.6
+15,1600,1B,,Caught Stealing 2B,493351,Alexei Ramirez,445060,Ricky Nolasco,543216,Conor Gillaspie,R,Kurt Suzuki,435559,3,3,4,True,2015-05-02,Caught,2B,2015,2016,26.6

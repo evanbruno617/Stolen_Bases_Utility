@@ -1,0 +1,27 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,28,1B,2B,Stolen Base 2B,542993,Billy Burns,467094,Felix Doubront,519390,Stephen Vogt,L,Dioner Navarro,425900,2,1,5,False,2015-07-22,Stolen,2B,2015,2016,29.3
+1,29,1B,,Caught Stealing 2B,542993,Billy Burns,532077,Roberto Osuna,519390,Stephen Vogt,R,Dioner Navarro,425900,3,3,9,False,2015-07-22,Caught,2B,2015,2016,29.3
+2,107,2B,3B,Stolen Base 3B,542993,Billy Burns,502272,Casey Fien,519390,Stephen Vogt,R,Kurt Suzuki,435559,3,2,10,False,2015-07-18,Stolen,3B,2015,2016,29.3
+3,132,1B,2B,Stolen Base 2B,542993,Billy Burns,429722,Ervin Santana,450314,Ben Zobrist,R,Kurt Suzuki,435559,0,5,8,False,2015-07-17,Stolen,2B,2015,2016,29.3
+4,310,1B,2B,Stolen Base 2B,542993,Billy Burns,433587,Félix Hernández,519390,Stephen Vogt,R,Jesús Sucre,491696,0,0,1,False,2015-07-04,Stolen,2B,2015,2016,29.3
+5,378,2B,3B,Stolen Base 3B,542993,Billy Burns,407822,Jorge De La Rosa,519390,Stephen Vogt,L,Michael McKenry,502374,0,1,6,False,2015-06-30,Stolen,3B,2015,2016,29.3
+6,581,1B,2B,Stolen Base 2B,542993,Billy Burns,450308,Jered Weaver,543760,Marcus Semien,R,Carlos Pérez,542208,1,0,5,False,2015-06-20,Stolen,2B,2015,2016,29.3
+7,591,1B,2B,Stolen Base 2B,542993,Billy Burns,533167,Matt Shoemaker,519390,Stephen Vogt,R,Chris Iannetta,455104,0,0,1,False,2015-06-19,Stolen,2B,2015,2016,29.3
+8,632,1B,,Caught Stealing 2B,542993,Billy Burns,628333,Odrisamer Despaigne,502210,Josh Reddick,R,Derek Norris,519083,4,0,2,False,2015-06-17,Caught,2B,2015,2016,29.3
+9,666,1B,2B,Stolen Base 2B,542993,Billy Burns,518886,Craig Kimbrel,519299,Eric Sogard,R,Austin Hedges,595978,5,6,9,True,2015-06-16,Stolen,2B,2015,2016,29.3
+10,709,1B,2B,Stolen Base 2B,542993,Billy Burns,533167,Matt Shoemaker,543760,Marcus Semien,R,Chris Iannetta,455104,0,1,3,True,2015-06-14,Stolen,2B,2015,2016,29.3
+11,778,1B,2B,Stolen Base 2B,542993,Billy Burns,592346,Chi Chi González,543760,Marcus Semien,R,Carlos Corporán,449786,0,0,1,False,2015-06-11,Stolen,2B,2015,2016,29.3
+12,921,1B,2B,Stolen Base 2B,542993,Billy Burns,572888,Shane Greene,450314,Ben Zobrist,R,Bryan Holaday,592407,0,4,5,True,2015-06-04,Stolen,2B,2015,2016,29.3
+13,979,1B,2B,Stolen Base 2B,542993,Billy Burns,476589,Adam Warren,450314,Ben Zobrist,R,John Ryan Murphy,571974,0,0,6,False,2015-05-31,Stolen,2B,2015,2016,29.3
+14,980,2B,3B,Stolen Base 3B,542993,Billy Burns,476589,Adam Warren,450314,Ben Zobrist,R,John Ryan Murphy,571974,0,0,6,False,2015-05-31,Stolen,3B,2015,2016,29.3
+15,1129,1B,2B,Stolen Base 2B,542993,Billy Burns,543258,Preston Guilmet,543760,Marcus Semien,R,Bobby Wilson,435064,2,6,9,True,2015-05-24,Stolen,2B,2015,2016,29.3
+16,1147,1B,2B,Stolen Base 2B,542993,Billy Burns,501992,Nate Karns,502210,Josh Reddick,R,René Rivera,425784,0,0,1,True,2015-05-23,Stolen,2B,2015,2016,29.3
+17,1172,1B,2B,Stolen Base 2B,542993,Billy Burns,502042,Chris Archer,519299,Eric Sogard,R,René Rivera,425784,0,1,5,True,2015-05-22,Stolen,2B,2015,2016,29.3
+18,1246,1B,2B,Stolen Base 2B,542993,Billy Burns,433584,Roberto Hernandez,543760,Marcus Semien,R,Jason Castro,488771,2,1,5,True,2015-05-19,Stolen,2B,2015,2016,29.3
+19,1276,1B,2B,Stolen Base 2B,542993,Billy Burns,502188,Jeff Samardzija,543760,Marcus Semien,R,Geovany Soto,434567,2,5,5,False,2015-05-17,Stolen,2B,2015,2016,29.3
+20,1500,1B,2B,Stolen Base 2B,542993,Billy Burns,445060,Ricky Nolasco,456714,Billy Butler,R,Kurt Suzuki,435559,3,3,3,True,2015-05-07,Stolen,2B,2015,2016,29.3
+21,1533,1B,2B,Stolen Base 2B,542993,Billy Burns,543507,Trevor May,543760,Marcus Semien,R,Kurt Suzuki,435559,0,0,1,True,2015-05-05,Stolen,2B,2015,2016,29.3
+22,1568,2B,3B,Caught Stealing 2B,542993,Billy Burns,451596,Yovani Gallardo,519390,Stephen Vogt,R,Carlos Corporán,449786,0,0,3,True,2015-05-03,Caught,2B,2015,2016,29.3
+23,1570,1B,,Caught Stealing 2B,542993,Billy Burns,542669,Roman Mendez,543760,Marcus Semien,R,Carlos Corporán,449786,0,5,9,True,2015-05-03,Caught,2B,2015,2016,29.3
+24,2173,1B,2B,Stolen Base 2B,542993,Billy Burns,453311,Tim Lincecum,453539,Sam Fuld,R,Héctor Sánchez,516949,1,2,7,False,2015-04-04,Stolen,2B,2015,2016,29.3
+25,2234,1B,,Caught Stealing 2B,542993,Billy Burns,607968,Drew Rucinski,656996,J.P. Sportman,R,Carlos Pérez,542208,1,1,3,False,2015-04-01,Caught,2B,2015,2016,29.3

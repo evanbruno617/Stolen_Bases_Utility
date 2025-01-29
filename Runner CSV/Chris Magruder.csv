@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1642,1B,2B,Stolen Base 2B,285072,Chris Magruder,Jorge Posada,0,0,4,False,2002-07-12,Stolen,2B,2002
+1909,1B,2B,Stolen Base 2B,285072,Chris Magruder,Rod Barajas,0,0,1,False,2002-06-28,Stolen,2B,2002
+205,1B,,Caught Stealing 2B,285072,Chris Magruder,Jason Varitek,0,0,2,False,2003-09-19,Caught,2B,2003
+74,1B,,Caught Stealing 2B,285072,Chris Magruder,Chris Snyder,3,1,4,True,2004-09-27,Caught,2B,2004
+511,1B,2B,Stolen Base 2B,285072,Chris Magruder,Jason LaRue,1,5,9,True,2005-09-05,Stolen,2B,2005
+1678,1B,2B,Stolen Base 2B,285072,Chris Magruder,Paul Lo Duca,2,2,6,True,2005-07-04,Stolen,2B,2005
+2521,1B,2B,Stolen Base 2B,285072,Chris Magruder,Mike Redmond,0,4,4,True,2005-05-21,Stolen,2B,2005

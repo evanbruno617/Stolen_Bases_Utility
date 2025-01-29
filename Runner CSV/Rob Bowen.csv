@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2765,2B,,Caught Stealing 3B,425468,Rob Bowen,Johnny Estrada,4,2,6,False,2007-05-26,Caught,3B,2007
+3426,1B,,Caught Stealing 2B,425468,Rob Bowen,Robby Hammock,5,10,7,True,2007-04-24,Caught,2B,2007
+3692,1B,2B,Stolen Base 2B,425468,Rob Bowen,Bengie Molina,4,0,8,False,2007-04-11,Stolen,2B,2007

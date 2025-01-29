@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+300,1B,,Caught Stealing 2B,570489,Arismendy Alcántara,Devin Mesoraco,0,0,4,False,2014-09-15,Caught,2B,2014
+346,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,Russell Martin,0,3,7,True,2014-09-13,Stolen,2B,2014
+675,1B,,Caught Stealing 2B,570489,Arismendy Alcántara,Yadier Molina,1,1,5,True,2014-08-30,Caught,2B,2014
+777,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,Caleb Joseph,2,1,7,False,2014-08-24,Stolen,2B,2014
+816,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,Nick Hundley,4,2,4,False,2014-08-23,Stolen,2B,2014
+1010,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,Jonathan Lucroy,1,0,2,False,2014-08-12,Stolen,2B,2014
+1012,1B,,Caught Stealing 2B,570489,Arismendy Alcántara,Jonathan Lucroy,2,0,4,False,2014-08-12,Caught,2B,2014
+1112,1B,,Caught Stealing 2B,570489,Arismendy Alcántara,Curt Casali,2,1,6,False,2014-08-08,Caught,2B,2014
+1364,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,René Rivera,1,3,5,False,2014-07-24,Stolen,2B,2014
+1496,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,Miguel Montero,0,2,4,True,2014-07-18,Stolen,2B,2014
+1497,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,Miguel Montero,5,4,8,True,2014-07-18,Stolen,2B,2014
+1586,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,Christian Bethancourt,5,4,9,False,2014-07-11,Stolen,2B,2014
+3289,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,Michael McKenry,4,2,5,True,2015-04-12,Stolen,2B,2015
+452,1B,,Caught Stealing 2B,570489,Arismendy Alcántara,Curt Casali,0,0,3,False,2016-07-22,Caught,2B,2016
+872,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,Jett Bandy,2,6,6,True,2016-06-26,Stolen,2B,2016
+923,1B,,Caught Stealing 2B,570489,Arismendy Alcántara,Jett Bandy,2,5,6,True,2016-06-23,Caught,2B,2016
+949,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,Martín Maldonado,2,3,7,False,2016-06-22,Stolen,2B,2016
+1026,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,Austin Hedges,7,3,8,False,2017-08-07,Stolen,2B,2017
+2785,1B,2B,Stolen Base 2B,570489,Arismendy Alcántara,Francisco Cervelli,2,1,4,False,2017-05-04,Stolen,2B,2017
+2852,1B,2B,Caught Stealing Home,570489,Arismendy Alcántara,Yadier Molina,4,5,9,True,2017-04-30,Caught,Home,2017

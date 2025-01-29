@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1464,1B,,Caught Stealing 2B,624407,Tzu-Wei Lin,Gary Sánchez,1,0,8,False,2017-07-15,Caught,2B,2017
+1580,1B,2B,Stolen Base 2B,624407,Tzu-Wei Lin,Robinson Chirinos,0,2,2,True,2017-07-04,Stolen,2B,2017
+1410,1B,,Caught Stealing 2B,624407,Tzu-Wei Lin,James McCann,0,1,7,True,2018-07-20,Caught,2B,2018
+2391,1B,,Caught Stealing 2B,624407,Tzu-Wei Lin,Welington Castillo,0,3,2,True,2019-05-03,Caught,2B,2019
+2448,1B,2B,Stolen Base 2B,624407,Tzu-Wei Lin,Josh Phegley,6,4,4,False,2019-04-29,Stolen,2B,2019

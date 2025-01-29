@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2710,1B,,Caught Stealing 2B,400140,Wilson Betemit,Chad Moeller,0,0,1,True,2004-05-14,Caught,2B,2004
+17,1B,,Caught Stealing 2B,400140,Wilson Betemit,Matt Treanor,1,1,5,True,2005-09-30,Caught,2B,2005
+1283,1B,,Caught Stealing 2B,400140,Wilson Betemit,Brian Schneider,2,2,9,False,2005-07-26,Caught,2B,2005
+1850,1B,2B,Stolen Base 2B,400140,Wilson Betemit,Sal Fasano,4,1,6,False,2005-06-26,Stolen,2B,2005
+2591,1B,,Caught Stealing 2B,400140,Wilson Betemit,Ramon Hernandez,0,1,7,True,2005-05-17,Caught,2B,2005
+1994,1B,,Caught Stealing 2B,400140,Wilson Betemit,Michael Barrett,5,2,6,False,2008-06-18,Caught,2B,2008
+975,1B,2B,Stolen Base 2B,400140,Wilson Betemit,Lou Marson,8,7,6,False,2011-08-21,Stolen,2B,2011
+3240,1B,,Caught Stealing 2B,400140,Wilson Betemit,Mike Napoli,2,2,7,False,2011-05-18,Caught,2B,2011
+3956,1B,2B,Stolen Base 2B,400140,Wilson Betemit,Lou Marson,2,0,4,False,2011-04-19,Stolen,2B,2011
+4186,1B,2B,Stolen Base 2B,400140,Wilson Betemit,Alex Avila,1,2,4,True,2011-04-10,Stolen,2B,2011
+4369,1B,2B,Stolen Base 2B,400140,Wilson Betemit,Jeff Mathis,9,9,11,False,2011-04-03,Stolen,2B,2011
+3403,1B,,Caught Stealing 2B,400140,Wilson Betemit,Jarrod Saltalamacchia,6,6,17,True,2012-05-06,Caught,2B,2012

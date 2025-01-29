@@ -1,0 +1,13 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,435,1B,2B,Stolen Base 2B,666165,Blake Sabol,661403,Emmanuel Clase,571745,Mitch Haniger,R,Bo Naylor,666310,5,5,9,False,2023-09-13,Stolen,2B,2023,2024,26.6
+1,477,1B,2B,Stolen Base 2B,666165,Blake Sabol,661403,Emmanuel Clase,664774,LaMonte Wade Jr.,R,Bo Naylor,666310,5,4,10,False,2023-09-11,Stolen,2B,2023,2024,26.6
+2,1717,1B,,Caught Stealing 2B,666165,Blake Sabol,668933,Graham Ashcraft,689172,Brett Wisely,R,Tyler Stephenson,663886,0,0,2,True,2023-07-19,Caught,2B,2023,2024,26.6
+3,2128,1B,,Caught Stealing 2B,666165,Blake Sabol,605447,Jordan Romano,596103,Austin Slater,R,Alejandro Kirk,672386,2,1,9,True,2023-06-29,Caught,2B,2023,2024,26.6
+4,3641,1B,2B,Stolen Base 2B,666165,Blake Sabol,571927,Steven Matz,596103,Austin Slater,L,Willson Contreras,575929,2,2,4,False,2023-04-26,Stolen,2B,2023,2024,26.6
+5,3996,1B,2B,Stolen Base 2B,666165,Blake Sabol,571946,Shelby Miller,669369,Bryce Johnson,R,Will Smith,669257,2,0,7,False,2023-04-11,Stolen,2B,2023,2024,26.6
+6,4849,1B,2B,Stolen Base 2B,666165,Blake Sabol,661403,Emmanuel Clase,571745,Mitch Haniger,R,Bo Naylor,666310,5,5,9,False,2023-09-13,Stolen,2B,2023,2024,26.6
+7,4891,1B,2B,Stolen Base 2B,666165,Blake Sabol,661403,Emmanuel Clase,664774,LaMonte Wade Jr.,R,Bo Naylor,666310,5,4,10,False,2023-09-11,Stolen,2B,2023,2024,26.6
+8,6131,1B,,Caught Stealing 2B,666165,Blake Sabol,668933,Graham Ashcraft,689172,Brett Wisely,R,Tyler Stephenson,663886,0,0,2,True,2023-07-19,Caught,2B,2023,2024,26.6
+9,6542,1B,,Caught Stealing 2B,666165,Blake Sabol,605447,Jordan Romano,596103,Austin Slater,R,Alejandro Kirk,672386,2,1,9,True,2023-06-29,Caught,2B,2023,2024,26.6
+10,8055,1B,2B,Stolen Base 2B,666165,Blake Sabol,571927,Steven Matz,596103,Austin Slater,L,Willson Contreras,575929,2,2,4,False,2023-04-26,Stolen,2B,2023,2024,26.6
+11,8410,1B,2B,Stolen Base 2B,666165,Blake Sabol,571946,Shelby Miller,669369,Bryce Johnson,R,Will Smith,669257,2,0,7,False,2023-04-11,Stolen,2B,2023,2024,26.6

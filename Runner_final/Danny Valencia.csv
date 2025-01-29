@@ -1,0 +1,18 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,995,1B,2B,Stolen Base 2B,502143,Danny Valencia,430935,Cole Hamels,572287,Mike Zunino,L,Robinson Chirinos,455139,5,3,6,True,2017-09-11,Stolen,2B,2017,2018,26.5
+1,2526,1B,,Caught Stealing 2B,502143,Danny Valencia,506433,Yu Darvish,502481,Jarrod Dyson,R,Robinson Chirinos,455139,2,5,3,True,2017-06-18,Caught,2B,2017,2018,26.5
+2,3155,1B,,Caught Stealing 2B,502143,Danny Valencia,592811,Andrew Triggs,600301,Taylor Motter,R,Josh Phegley,572033,1,2,2,False,2017-05-16,Caught,2B,2017,2018,26.5
+3,3577,1B,2B,Stolen Base 2B,502143,Danny Valencia,596057,Daniel Norris,592325,Ben Gamel,L,James McCann,543510,0,3,3,True,2017-04-26,Stolen,2B,2017,2018,26.5
+4,367,1B,2B,Stolen Base 2B,502143,Danny Valencia,430935,Cole Hamels,572287,Mike Zunino,L,Robinson Chirinos,455139,5,3,6,True,2017-09-11,Stolen,2B,2017,2018,26.5
+5,1898,1B,,Caught Stealing 2B,502143,Danny Valencia,506433,Yu Darvish,502481,Jarrod Dyson,R,Robinson Chirinos,455139,2,5,3,True,2017-06-18,Caught,2B,2017,2018,26.5
+6,2527,1B,,Caught Stealing 2B,502143,Danny Valencia,592811,Andrew Triggs,600301,Taylor Motter,R,Josh Phegley,572033,1,2,2,False,2017-05-16,Caught,2B,2017,2018,26.5
+7,2949,1B,2B,Stolen Base 2B,502143,Danny Valencia,596057,Daniel Norris,592325,Ben Gamel,L,James McCann,543510,0,3,3,True,2017-04-26,Stolen,2B,2017,2018,26.5
+8,4125,1B,2B,Stolen Base 2B,502143,Danny Valencia,450308,Jered Weaver,543760,Marcus Semien,R,Jett Bandy,542908,1,0,5,True,2016-09-26,Stolen,2B,2016,2017,27.0
+9,4708,1B,,Caught Stealing 2B,502143,Danny Valencia,448802,Jaime García,501981,Khris Davis,L,Alberto Rosario,451705,1,2,3,True,2016-08-28,Caught,2B,2016,2017,27.0
+10,90,1B,2B,Stolen Base 2B,502143,Danny Valencia,450308,Jered Weaver,543760,Marcus Semien,R,Jett Bandy,542908,1,0,5,True,2016-09-26,Stolen,2B,2016,2017,27.0
+11,673,1B,,Caught Stealing 2B,502143,Danny Valencia,448802,Jaime García,501981,Khris Davis,L,Alberto Rosario,451705,1,2,3,True,2016-08-28,Caught,2B,2016,2017,27.0
+12,3497,1B,2B,Stolen Base 2B,502143,Danny Valencia,450308,Jered Weaver,543760,Marcus Semien,R,Jett Bandy,542908,1,0,5,True,2016-09-26,Stolen,2B,2016,2017,27.0
+13,4080,1B,,Caught Stealing 2B,502143,Danny Valencia,448802,Jaime García,501981,Khris Davis,L,Alberto Rosario,451705,1,2,3,True,2016-08-28,Caught,2B,2016,2017,27.0
+14,642,3B,,Caught Stealing Home,502143,Danny Valencia,477003,Jonathon Niese,572365,Ryan Goins,L,Travis d'Arnaud,518595,1,0,2,False,2015-06-17,Caught,Home,2015,2016,27.0
+15,1233,1B,2B,Stolen Base 2B,502143,Danny Valencia,450308,Jered Weaver,572365,Ryan Goins,R,Carlos Pérez,542208,0,0,3,False,2015-05-20,Stolen,2B,2015,2016,27.0
+16,1920,1B,2B,Stolen Base 2B,502143,Danny Valencia,622072,Alex Wood,607680,Kevin Pillar,L,A.J. Pierzynski,150229,0,1,2,False,2015-04-18,Stolen,2B,2015,2016,27.0

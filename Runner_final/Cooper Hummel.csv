@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,229,1B,2B,Stolen Base 2B,669450,Cooper Hummel,607074,Carlos Rodón,606466,Ketel Marte,L,Curt Casali,592200,4,2,2,False,2022-07-04,Stolen,2B,2022,2023,27.2
+1,253,2B,3B,Stolen Base 3B,669450,Cooper Hummel,656458,Lucas Gilbreath,668942,Josh Rojas,L,Elias Díaz,553869,0,5,6,True,2022-07-03,Stolen,3B,2022,2023,27.2
+2,1392,1B,2B,Stolen Base 2B,669450,Cooper Hummel,669432,Trevor Rogers,656669,Jordan Luplow,L,Jacob Stallings,607732,0,2,5,True,2022-05-03,Stolen,2B,2022,2023,27.2
+3,1741,1B,2B,Stolen Base 2B,669450,Cooper Hummel,606160,Rafael Montero,606466,Ketel Marte,R,Jason Castro,488771,1,1,8,False,2022-04-13,Stolen,2B,2022,2023,27.2
+4,1902,1B,2B,Stolen Base 2B,669450,Cooper Hummel,668676,Zach Plesac,608348,Carson Kelly,R,Mike Rivera,657741,0,0,1,True,2022-04-01,Stolen,2B,2022,2023,27.2

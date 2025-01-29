@@ -1,0 +1,17 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2922,1B,,Caught Stealing 2B,474568,Jordy Mercer,517414,Randall Delgado,605137,Josh Bell,R,Jeff Mathis,425772,0,1,1,False,2017-05-29,Caught,2B,2017,2018,27.6
+1,3270,1B,,Caught Stealing 2B,474568,Jordy Mercer,425844,Zack Greinke,547912,Gift Ngoepe,R,Jeff Mathis,425772,1,0,3,True,2017-05-11,Caught,2B,2017,2018,27.6
+2,3757,1B,,Caught Stealing 2B,474568,Jordy Mercer,452657,Jon Lester,516782,Starling Marte,L,Willson Contreras,575929,0,0,1,True,2017-04-16,Caught,2B,2017,2018,27.6
+3,2294,1B,,Caught Stealing 2B,474568,Jordy Mercer,517414,Randall Delgado,605137,Josh Bell,R,Jeff Mathis,425772,0,1,1,False,2017-05-29,Caught,2B,2017,2018,27.6
+4,2642,1B,,Caught Stealing 2B,474568,Jordy Mercer,425844,Zack Greinke,547912,Gift Ngoepe,R,Jeff Mathis,425772,1,0,3,True,2017-05-11,Caught,2B,2017,2018,27.6
+5,3129,1B,,Caught Stealing 2B,474568,Jordy Mercer,452657,Jon Lester,516782,Starling Marte,L,Willson Contreras,575929,0,0,1,True,2017-04-16,Caught,2B,2017,2018,27.6
+6,5162,1B,,Caught Stealing 2B,474568,Jordy Mercer,594792,Brandon Cunniff,518700,Eric Fryer,R,A.J. Pierzynski,150229,1,1,7,True,2016-08-04,Caught,2B,2016,2017,27.6
+7,7104,1B,2B,Stolen Base 2B,474568,Jordy Mercer,448306,James Shields,543037,Gerrit Cole,R,Christian Bethancourt,542194,0,3,4,True,2016-04-21,Stolen,2B,2016,2017,27.6
+8,1127,1B,,Caught Stealing 2B,474568,Jordy Mercer,594792,Brandon Cunniff,518700,Eric Fryer,R,A.J. Pierzynski,150229,1,1,7,True,2016-08-04,Caught,2B,2016,2017,27.6
+9,3069,1B,2B,Stolen Base 2B,474568,Jordy Mercer,448306,James Shields,543037,Gerrit Cole,R,Christian Bethancourt,542194,0,3,4,True,2016-04-21,Stolen,2B,2016,2017,27.6
+10,4534,1B,,Caught Stealing 2B,474568,Jordy Mercer,594792,Brandon Cunniff,518700,Eric Fryer,R,A.J. Pierzynski,150229,1,1,7,True,2016-08-04,Caught,2B,2016,2017,27.6
+11,6476,1B,2B,Stolen Base 2B,474568,Jordy Mercer,448306,James Shields,543037,Gerrit Cole,R,Christian Bethancourt,542194,0,3,4,True,2016-04-21,Stolen,2B,2016,2017,27.6
+12,350,1B,2B,Stolen Base 2B,474568,Jordy Mercer,541652,Bruce Rondón,457705,Andrew McCutchen,R,Bryan Holaday,592407,3,5,9,True,2015-07-02,Stolen,2B,2015,2016,27.6
+13,425,1B,,Caught Stealing 2B,474568,Jordy Mercer,622072,Alex Wood,446481,Sean Rodríguez,L,A.J. Pierzynski,150229,0,1,5,False,2015-06-28,Caught,2B,2015,2016,27.6
+14,999,1B,2B,Stolen Base 2B,474568,Jordy Mercer,475115,Tyson Ross,543281,Josh Harrison,R,Derek Norris,519083,1,2,2,True,2015-05-30,Stolen,2B,2015,2016,27.6
+15,1125,1B,2B,Stolen Base 2B,474568,Jordy Mercer,477003,Jonathon Niese,434538,Francisco Liriano,L,Anthony Recker,489232,0,0,2,False,2015-05-24,Stolen,2B,2015,2016,27.6

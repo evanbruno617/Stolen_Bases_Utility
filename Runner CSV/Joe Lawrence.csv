@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2094,3B,,Caught Stealing Home,150478,Joe Lawrence,Paul Lo Duca,0,1,2,True,2002-06-18,Caught,Home,2002
+2347,1B,2B,Stolen Base 2B,150478,Joe Lawrence,Paul Hoover,0,1,3,False,2002-06-06,Stolen,2B,2002
+3098,1B,2B,Stolen Base 2B,150478,Joe Lawrence,Dan Wilson,0,1,3,True,2002-05-07,Stolen,2B,2002

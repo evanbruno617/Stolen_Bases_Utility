@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3360,1B,2B,Stolen Base 2B,119869,Jon Nunnally,Doug Mirabelli,1,2,3,True,2000-05-03,Stolen,2B,2000
+3362,1B,,Caught Stealing 2B,119869,Jon Nunnally,Doug Mirabelli,2,3,5,True,2000-05-03,Caught,2B,2000
+3709,2B,3B,Stolen Base 3B,119869,Jon Nunnally,Raul Casanova,1,0,1,False,2000-04-18,Stolen,3B,2000
+3750,1B,2B,Stolen Base 2B,119869,Jon Nunnally,Jason Kendall,7,7,4,True,2000-04-16,Stolen,2B,2000

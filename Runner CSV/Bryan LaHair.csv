@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1188,1B,,Caught Stealing 2B,445933,Bryan LaHair,Gerald Laird,0,2,2,True,2008-07-31,Caught,2B,2008
+1019,1B,2B,Stolen Base 2B,445933,Bryan LaHair,Devin Mesoraco,1,1,3,True,2012-08-18,Stolen,2B,2012
+1020,1B,2B,Stolen Base 2B,445933,Bryan LaHair,Devin Mesoraco,2,8,6,True,2012-08-18,Stolen,2B,2012
+1541,1B,,Caught Stealing 2B,445933,Bryan LaHair,Yadier Molina,3,1,1,False,2012-07-27,Caught,2B,2012
+1651,1B,2B,Stolen Base 2B,445933,Bryan LaHair,Tony Cruz,4,0,2,True,2012-07-22,Stolen,2B,2012
+3225,1B,2B,Stolen Base 2B,445933,Bryan LaHair,Yadier Molina,4,4,7,True,2012-05-14,Stolen,2B,2012
+3858,1B,,Caught Stealing 2B,445933,Bryan LaHair,John Buck,2,2,7,True,2012-04-17,Caught,2B,2012

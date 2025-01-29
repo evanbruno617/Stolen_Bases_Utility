@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+34,1B,,Caught Stealing 2B,430910,Brayan Peña,Brad Ausmus,2,1,4,True,2007-09-29,Caught,2B,2007
+1547,1B,2B,Stolen Base 2B,430910,Brayan Peña,José Molina,5,1,5,False,2010-07-21,Stolen,2B,2010
+3003,1B,2B,Stolen Base 2B,430910,Brayan Peña,Lou Marson,6,4,8,False,2010-05-13,Stolen,2B,2010
+1160,1B,,Caught Stealing 2B,430910,Brayan Peña,Yan Gomes,1,6,5,True,2014-08-05,Caught,2B,2014
+2397,1B,2B,Caught Stealing Home,430910,Brayan Peña,Miguel Montero,0,0,2,True,2014-06-01,Caught,Home,2014
+2638,1B,,Caught Stealing 2B,430910,Brayan Peña,Wilson Ramos,1,2,8,True,2014-05-21,Caught,2B,2014
+3233,1B,2B,Stolen Base 2B,430910,Brayan Peña,Russell Martin,0,3,9,True,2014-04-22,Stolen,2B,2014
+3583,1B,,Caught Stealing 2B,430910,Brayan Peña,Yadier Molina,3,1,7,True,2014-04-07,Caught,2B,2014
+3605,1B,2B,Stolen Base 2B,430910,Brayan Peña,Travis d'Arnaud,1,2,9,True,2014-04-06,Stolen,2B,2014
+523,1B,2B,Stolen Base 2B,430910,Brayan Peña,Miguel Montero,2,4,8,True,2015-09-02,Stolen,2B,2015
+942,1B,2B,Stolen Base 2B,430910,Brayan Peña,Austin Hedges,0,1,4,True,2015-08-10,Stolen,2B,2015

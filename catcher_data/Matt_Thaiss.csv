@@ -1,0 +1,44 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,682829,Elly De La Cruz,Matt Thaiss,1,1,3,True,2023-08-23,Stolen,2B,2023
+1B,2B,Stolen Base 2B,666181,Will Benson,Matt Thaiss,1,3,4,True,2023-08-23,Stolen,2B,2023
+1B,2B,Stolen Base 2B,680574,Matt McLain,Matt Thaiss,1,4,4,True,2023-08-23,Stolen,2B,2023
+1B,2B,Stolen Base 2B,670770,TJ Friedl,Matt Thaiss,1,4,5,True,2023-08-23,Stolen,2B,2023
+1B,2B,Stolen Base 2B,682829,Elly De La Cruz,Matt Thaiss,1,1,3,True,2023-08-21,Stolen,2B,2023
+1B,2B,Stolen Base 2B,666181,Will Benson,Matt Thaiss,1,3,4,True,2023-08-21,Stolen,2B,2023
+1B,2B,Stolen Base 2B,680574,Matt McLain,Matt Thaiss,1,4,4,True,2023-08-21,Stolen,2B,2023
+1B,2B,Stolen Base 2B,670770,TJ Friedl,Matt Thaiss,1,4,5,True,2023-08-21,Stolen,2B,2023
+1B,2B,Stolen Base 2B,543760,Marcus Semien,Matt Thaiss,0,0,1,False,2023-08-14,Stolen,2B,2023
+1B,2B,Stolen Base 2B,677594,Julio Rodríguez,Matt Thaiss,2,2,8,True,2023-08-06,Stolen,2B,2023
+1B,2B,Stolen Base 2B,593160,Whit Merrifield,Matt Thaiss,3,1,6,False,2023-07-28,Stolen,2B,2023
+1B,,Caught Stealing 2B,643289,Mauricio Dubón,Matt Thaiss,0,0,1,True,2023-07-15,Caught,2B,2023
+1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,Matt Thaiss,1,2,3,False,2023-07-05,Stolen,2B,2023
+1B,2B,Stolen Base 2B,672515,Gabriel Moreno,Matt Thaiss,1,3,7,True,2023-07-01,Stolen,2B,2023
+1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,Matt Thaiss,5,7,9,True,2023-06-29,Stolen,2B,2023
+2B,3B,Stolen Base 3B,673357,Luis Robert Jr.,Matt Thaiss,5,7,9,True,2023-06-29,Stolen,3B,2023
+1B,2B,Stolen Base 2B,621545,Zach Remillard,Matt Thaiss,5,11,9,True,2023-06-28,Stolen,2B,2023
+2B,,Caught Stealing 3B,572041,AJ Pollock,Matt Thaiss,2,5,6,True,2023-06-10,Caught,3B,2023
+2B,3B,Stolen Base 3B,663656,Kyle Tucker,Matt Thaiss,1,1,2,False,2023-06-01,Stolen,3B,2023
+1B,2B,Stolen Base 2B,663743,Nick Fortes,Matt Thaiss,0,2,9,True,2023-05-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,642708,Amed Rosario,Matt Thaiss,0,1,1,False,2023-05-13,Stolen,2B,2023
+1B,2B,Stolen Base 2B,680757,Steven Kwan,Matt Thaiss,1,3,6,False,2023-05-13,Stolen,2B,2023
+1B,2B,Stolen Base 2B,664702,Myles Straw,Matt Thaiss,8,6,8,False,2023-05-13,Stolen,2B,2023
+1B,2B,Stolen Base 2B,647304,Josh Naylor,Matt Thaiss,1,0,2,False,2023-05-12,Stolen,2B,2023
+1B,2B,Stolen Base 2B,667452,Corey Julks,Matt Thaiss,0,0,2,True,2023-05-09,Stolen,2B,2023
+1B,,Caught Stealing 2B,665161,Jeremy Peña,Matt Thaiss,1,0,4,True,2023-05-09,Caught,2B,2023
+1B,2B,Stolen Base 2B,676694,Jake Meyers,Matt Thaiss,1,2,5,True,2023-05-09,Stolen,2B,2023
+1B,2B,Stolen Base 2B,666969,Adolis García,Matt Thaiss,7,11,6,True,2023-05-07,Stolen,2B,2023
+2B,3B,Stolen Base 3B,665750,Leody Taveras,Matt Thaiss,7,12,7,True,2023-05-07,Stolen,3B,2023
+1B,2B,Stolen Base 2B,669701,Josh Smith,Matt Thaiss,7,12,7,True,2023-05-07,Stolen,2B,2023
+1B,2B,Stolen Base 2B,665923,Esteury Ruiz,Matt Thaiss,0,1,1,True,2023-04-26,Stolen,2B,2023
+1B,2B,Stolen Base 2B,665923,Esteury Ruiz,Matt Thaiss,5,2,3,True,2023-04-26,Stolen,2B,2023
+2B,3B,Stolen Base 3B,665923,Esteury Ruiz,Matt Thaiss,5,2,3,True,2023-04-26,Stolen,3B,2023
+1B,2B,Stolen Base 2B,665923,Esteury Ruiz,Matt Thaiss,6,3,5,True,2023-04-26,Stolen,2B,2023
+1B,2B,Stolen Base 2B,571771,Enrique Hernández,Matt Thaiss,2,4,1,False,2023-04-15,Stolen,2B,2023
+1B,,Caught Stealing 2B,666182,Bo Bichette,Matt Thaiss,7,5,7,True,2023-04-08,Caught,2B,2023
+2B,,Caught Stealing 3B,666969,Adolis García,Matt Thaiss,3,2,3,False,2022-09-21,Caught,3B,2022
+1B,2B,Stolen Base 2B,664238,Dylan Moore,Matt Thaiss,3,1,4,True,2022-09-18,Stolen,2B,2022
+1B,2B,Stolen Base 2B,680757,Steven Kwan,Matt Thaiss,3,1,7,False,2022-09-13,Stolen,2B,2022
+1B,2B,Stolen Base 2B,514888,Jose Altuve,Matt Thaiss,8,3,6,False,2022-09-11,Stolen,2B,2022
+1B,2B,Stolen Base 2B,514888,Jose Altuve,Matt Thaiss,0,2,5,True,2022-09-02,Stolen,2B,2022
+1B,,Caught Stealing 2B,665489,Vladimir Guerrero Jr.,Matt Thaiss,0,0,1,False,2022-08-26,Caught,2B,2022
+1B,2B,Stolen Base 2B,543807,George Springer,Matt Thaiss,0,8,7,False,2022-08-26,Stolen,2B,2022

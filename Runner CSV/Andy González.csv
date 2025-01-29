@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+666,1B,,Caught Stealing 2B,462413,Andy González,Victor Martinez,0,3,3,True,2007-09-02,Caught,2B,2007
+1202,1B,,Caught Stealing 2B,462413,Andy González,Victor Martinez,3,3,8,False,2007-08-08,Caught,2B,2007
+1670,2B,3B,Stolen Base 3B,462413,Andy González,Victor Martinez,1,5,9,True,2007-07-18,Stolen,3B,2007
+1990,1B,,Caught Stealing 2B,462413,Andy González,John Buck,1,3,8,True,2007-07-01,Caught,2B,2007
+1047,1B,,Caught Stealing 2B,462413,Andy González,Rod Barajas,1,3,5,True,2008-08-08,Caught,2B,2008
+2763,1B,2B,Stolen Base 2B,462413,Andy González,Yadier Molina,0,1,3,False,2009-04-02,Stolen,2B,2009

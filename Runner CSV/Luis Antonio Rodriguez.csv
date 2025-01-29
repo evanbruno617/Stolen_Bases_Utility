@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+6,1B,,Caught Stealing 2B,425904,Luis Antonio Rodriguez,Vance Wilson,1,1,3,False,2005-09-30,Caught,2B,2005
+1592,2B,3B,Stolen Base 3B,425904,Luis Antonio Rodriguez,John Buck,4,5,8,True,2005-07-08,Stolen,3B,2005
+1646,1B,,Caught Stealing 2B,425904,Luis Antonio Rodriguez,Bengie Molina,1,1,2,True,2005-07-05,Caught,2B,2005
+2033,1B,2B,Stolen Base 2B,425904,Luis Antonio Rodriguez,Yorvit Torrealba,2,0,1,False,2005-06-16,Stolen,2B,2005
+2075,1B,2B,Stolen Base 2B,425904,Luis Antonio Rodriguez,Jason Phillips,7,5,6,False,2007-06-28,Stolen,2B,2007
+468,1B,2B,Stolen Base 2B,425904,Luis Antonio Rodriguez,Jason Kendall,1,0,4,True,2008-09-06,Stolen,2B,2008
+820,1B,,Caught Stealing 2B,425904,Luis Antonio Rodriguez,Chris Snyder,3,4,2,True,2008-08-20,Caught,2B,2008
+3382,1B,,Caught Stealing 2B,425904,Luis Antonio Rodriguez,Matt Wieters,0,0,5,True,2011-05-12,Caught,2B,2011
+4040,1B,,Caught Stealing 2B,425904,Luis Antonio Rodriguez,Matt Treanor,0,0,2,True,2011-04-16,Caught,2B,2011
+4052,1B,2B,Stolen Base 2B,425904,Luis Antonio Rodriguez,Matt Treanor,1,1,2,True,2011-04-15,Stolen,2B,2011

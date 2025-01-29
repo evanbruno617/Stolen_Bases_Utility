@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+475,1B,2B,Stolen Base 2B,607387,Ryan Rua,Jesús Sucre,0,0,3,False,2014-09-07,Stolen,2B,2014
+602,1B,2B,Stolen Base 2B,607387,Ryan Rua,Miguel Montero,0,0,2,True,2016-07-16,Stolen,2B,2016
+1128,1B,2B,Stolen Base 2B,607387,Ryan Rua,Chris Iannetta,1,3,6,True,2016-06-12,Stolen,2B,2016
+1196,1B,2B,Stolen Base 2B,607387,Ryan Rua,Evan Gattis,5,3,8,False,2016-06-09,Stolen,2B,2016
+1435,1B,2B,Stolen Base 2B,607387,Ryan Rua,Francisco Cervelli,0,1,2,False,2016-05-27,Stolen,2B,2016
+1520,2B,3B,Stolen Base 3B,607387,Ryan Rua,Jason Castro,1,6,4,True,2016-05-22,Stolen,3B,2016
+1646,1B,2B,Stolen Base 2B,607387,Ryan Rua,Russell Martin,0,1,3,False,2016-05-15,Stolen,2B,2016
+1742,1B,2B,Stolen Base 2B,607387,Ryan Rua,Dioner Navarro,4,5,6,False,2016-05-11,Stolen,2B,2016
+2484,1B,,Caught Stealing 2B,607387,Ryan Rua,James McCann,2,5,9,True,2017-05-19,Caught,2B,2017
+2500,1B,,Caught Stealing 2B,607387,Ryan Rua,Andrew Knapp,0,1,2,False,2017-05-18,Caught,2B,2017
+2588,1B,2B,Stolen Base 2B,607387,Ryan Rua,Bruce Maxwell,6,5,8,False,2017-05-13,Stolen,2B,2017
+2943,1B,2B,Caught Stealing 3B,607387,Ryan Rua,Chris Gimenez,6,3,7,False,2017-04-26,Caught,3B,2017
+3003,1B,2B,Stolen Base 2B,607387,Ryan Rua,Drew Butera,1,2,4,False,2017-04-23,Stolen,2B,2017
+2812,1B,2B,Stolen Base 2B,607387,Ryan Rua,Russell Martin,2,1,3,True,2018-04-29,Stolen,2B,2018
+2828,1B,2B,Stolen Base 2B,607387,Ryan Rua,Luke Maile,0,3,4,True,2018-04-28,Stolen,2B,2018
+3285,2B,,Caught Stealing 3B,607387,Ryan Rua,Jonathan Lucroy,0,2,2,True,2018-04-03,Caught,3B,2018
+3306,1B,2B,Stolen Base 2B,607387,Ryan Rua,Jonathan Lucroy,0,0,2,True,2018-04-02,Stolen,2B,2018

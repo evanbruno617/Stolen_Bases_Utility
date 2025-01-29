@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+470,1B,2B,Stolen Base 2B,110772,Rich Becker,Darrin Fletcher,3,1,5,True,2000-09-10,Stolen,2B,2000
+2001,1B,,Caught Stealing 2B,110772,Rich Becker,Jorge Fabregas,0,5,6,True,2000-07-01,Caught,2B,2000
+2647,1B,,Caught Stealing 2B,110772,Rich Becker,Joe Girardi,3,5,9,True,2000-06-03,Caught,2B,2000
+3899,1B,2B,Stolen Base 2B,110772,Rich Becker,Mark Johnson,8,2,6,False,2000-04-09,Stolen,2B,2000

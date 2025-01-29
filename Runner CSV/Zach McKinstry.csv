@@ -1,0 +1,27 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1836,1B,2B,Stolen Base 2B,656716,Zach McKinstry,Andrew Knizner,6,1,1,False,2021-06-02,Stolen,2B,2021
+98,1B,2B,Stolen Base 2B,656716,Zach McKinstry,Jason Delay,0,0,5,True,2022-09-25,Stolen,2B,2022
+752,1B,2B,Stolen Base 2B,656716,Zach McKinstry,Omar Narváez,0,1,5,False,2022-08-20,Stolen,2B,2022
+810,1B,2B,Stolen Base 2B,656716,Zach McKinstry,Keibert Ruiz,0,0,1,True,2022-08-17,Stolen,2B,2022
+837,1B,2B,Stolen Base 2B,656716,Zach McKinstry,Keibert Ruiz,0,2,2,True,2022-08-15,Stolen,2B,2022
+537,1B,,Caught Stealing 2B,656716,Zach McKinstry,Korey Lee,1,0,2,False,2023-09-09,Caught,2B,2023
+706,1B,,Caught Stealing 2B,656716,Zach McKinstry,Korey Lee,0,0,1,True,2023-09-03,Caught,2B,2023
+762,1B,2B,Stolen Base 2B,656716,Zach McKinstry,Korey Lee,1,3,7,True,2023-09-01,Stolen,2B,2023
+974,1B,2B,Stolen Base 2B,656716,Zach McKinstry,Yan Gomes,4,6,9,False,2023-08-23,Stolen,2B,2023
+1006,1B,2B,Stolen Base 2B,656716,Zach McKinstry,Miguel Amaya,7,6,8,False,2023-08-22,Stolen,2B,2023
+1049,1B,2B,Stolen Base 2B,656716,Zach McKinstry,Bo Naylor,3,4,9,True,2023-08-19,Stolen,2B,2023
+1297,1B,,Caught Stealing 2B,656716,Zach McKinstry,Christian Vázquez,3,0,4,False,2023-08-08,Caught,2B,2023
+1650,1B,,Caught Stealing 2B,656716,Zach McKinstry,Gary Sánchez,3,0,5,False,2023-07-23,Caught,2B,2023
+1836,1B,2B,Stolen Base 2B,656716,Zach McKinstry,Tom Murphy,2,5,8,True,2023-07-14,Stolen,2B,2023
+2069,1B,2B,Stolen Base 2B,656716,Zach McKinstry,Austin Wynns,0,0,3,True,2023-07-01,Stolen,2B,2023
+2890,2B,3B,Stolen Base 3B,656716,Zach McKinstry,Yasmani Grandal,0,1,3,False,2023-05-28,Stolen,3B,2023
+2893,1B,2B,Stolen Base 2B,656716,Zach McKinstry,Yasmani Grandal,4,1,6,False,2023-05-28,Stolen,2B,2023
+2923,1B,2B,Stolen Base 2B,656716,Zach McKinstry,Yasmani Grandal,0,0,1,False,2023-05-27,Stolen,2B,2023
+2966,1B,2B,Stolen Base 2B,656716,Zach McKinstry,Seby Zavala,0,1,3,False,2023-05-25,Stolen,2B,2023
+3069,1B,2B,Stolen Base 2B,656716,Zach McKinstry,Riley Adams,0,0,1,True,2023-05-21,Stolen,2B,2023
+3335,1B,2B,Stolen Base 2B,656716,Zach McKinstry,Cam Gallagher,1,0,5,True,2023-05-09,Stolen,2B,2023
+3621,1B,2B,Stolen Base 2B,656716,Zach McKinstry,Adley Rutschman,3,0,4,False,2023-04-27,Stolen,2B,2023
+3707,1B,2B,Stolen Base 2B,656716,Zach McKinstry,William Contreras,2,4,7,True,2023-04-24,Stolen,2B,2023
+3850,1B,,Caught Stealing 2B,656716,Zach McKinstry,Mike Zunino,3,3,6,False,2023-04-18,Caught,2B,2023
+3958,1B,2B,Stolen Base 2B,656716,Zach McKinstry,Joey Bart,4,5,11,False,2023-04-14,Stolen,2B,2023
+4144,1B,2B,Stolen Base 2B,656716,Zach McKinstry,César Salazar,2,0,3,True,2023-04-05,Stolen,2B,2023

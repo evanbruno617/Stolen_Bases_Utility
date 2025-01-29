@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+200,1B,,Caught Stealing 2B,460269,Chris Gimenez,Drew Butera,1,2,4,True,2011-09-22,Caught,2B,2011
+1065,1B,2B,Stolen Base 2B,460269,Chris Gimenez,Jason Castro,2,2,5,False,2015-08-04,Stolen,2B,2015
+1067,1B,2B,Stolen Base 2B,460269,Chris Gimenez,Jason Castro,4,3,8,False,2015-08-04,Stolen,2B,2015
+2053,1B,2B,Stolen Base 2B,460269,Chris Gimenez,Buster Posey,1,1,5,True,2017-06-10,Stolen,2B,2017
+2026,1B,2B,Stolen Base 2B,460269,Chris Gimenez,Erik Kratz,0,0,2,True,2018-06-13,Stolen,2B,2018

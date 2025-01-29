@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2737,1B,2B,Stolen Base 2B,518794,Brandon Hicks,Matt Treanor,0,0,1,False,2009-04-03,Stolen,2B,2009
+1483,1B,2B,Stolen Base 2B,518794,Brandon Hicks,Matt Wieters,0,0,3,True,2012-07-29,Stolen,2B,2012
+3442,1B,,Caught Stealing 2B,518794,Brandon Hicks,Wilin Rosario,4,2,7,False,2014-04-13,Caught,2B,2014

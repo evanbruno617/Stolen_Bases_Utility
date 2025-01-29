@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,199,1B,2B,Stolen Base 2B,680700,Richie Palacios,663362,Matt Waldron,671056,Iván Herrera,R,Brett Sullivan,664954,0,0,2,True,2023-09-22,Stolen,2B,2023,2024,27.9
+1,622,1B,2B,Stolen Base 2B,680700,Richie Palacios,543272,Brad Hand,691023,Jordan Walker,L,Sean Murphy,669221,6,11,9,True,2023-09-06,Stolen,2B,2023,2024,27.9
+2,4613,1B,2B,Stolen Base 2B,680700,Richie Palacios,663362,Matt Waldron,671056,Iván Herrera,R,Brett Sullivan,664954,0,0,2,True,2023-09-22,Stolen,2B,2023,2024,27.9
+3,5036,1B,2B,Stolen Base 2B,680700,Richie Palacios,543272,Brad Hand,691023,Jordan Walker,L,Sean Murphy,669221,6,11,9,True,2023-09-06,Stolen,2B,2023,2024,27.9
+4,1152,1B,2B,Stolen Base 2B,680700,Richie Palacios,657746,Joe Ryan,664702,Myles Straw,R,Ryan Jeffers,680777,1,0,3,True,2022-05-15,Stolen,2B,2022,2023,28.0

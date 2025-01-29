@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,7158,2B,,Caught Stealing 3B,571431,Matt Adams,434628,Jason Hammel,425877,Yadier Molina,R,Miguel Montero,471083,1,0,2,False,2016-04-19,Caught,3B,2016,2017,26.0
+1,3123,2B,,Caught Stealing 3B,571431,Matt Adams,434628,Jason Hammel,425877,Yadier Molina,R,Miguel Montero,471083,1,0,2,False,2016-04-19,Caught,3B,2016,2017,26.0
+2,6530,2B,,Caught Stealing 3B,571431,Matt Adams,434628,Jason Hammel,425877,Yadier Molina,R,Miguel Montero,471083,1,0,2,False,2016-04-19,Caught,3B,2016,2017,26.0
+3,1390,1B,2B,Stolen Base 2B,571431,Matt Adams,543766,Bryan Shaw,425877,Yadier Molina,R,Roberto Pérez,547379,0,4,7,True,2015-05-12,Stolen,2B,2015,2016,25.5

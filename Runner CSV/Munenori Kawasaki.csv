@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2488,1B,2B,Stolen Base 2B,493128,Munenori Kawasaki,Nick Hundley,0,0,3,False,2012-06-13,Stolen,2B,2012
+3612,1B,,Caught Stealing 2B,493128,Munenori Kawasaki,J.P. Arencibia,5,9,10,True,2012-04-27,Caught,2B,2012
+3808,1B,,Caught Stealing 2B,493128,Munenori Kawasaki,Carlos Santana,3,1,3,False,2012-04-18,Caught,2B,2012
+4193,1B,,Caught Stealing 2B,493128,Munenori Kawasaki,Brayan Peña,0,0,1,False,2012-04-01,Caught,2B,2012
+2503,1B,2B,Stolen Base 2B,493128,Munenori Kawasaki,Evan Gattis,6,7,10,False,2013-05-28,Stolen,2B,2013
+2568,2B,3B,Stolen Base 3B,493128,Munenori Kawasaki,Chris Snyder,2,3,2,False,2013-05-25,Stolen,3B,2013
+2811,1B,2B,Stolen Base 2B,493128,Munenori Kawasaki,Jarrod Saltalamacchia,1,8,6,True,2013-05-12,Stolen,2B,2013
+2954,1B,2B,Stolen Base 2B,493128,Munenori Kawasaki,Jesus Montero,3,0,4,False,2013-05-05,Stolen,2B,2013
+2989,1B,2B,Stolen Base 2B,493128,Munenori Kawasaki,Jesus Montero,0,0,3,False,2013-05-03,Stolen,2B,2013
+3005,1B,2B,Stolen Base 2B,493128,Munenori Kawasaki,David Ross,1,2,3,False,2013-05-02,Stolen,2B,2013
+3349,1B,,Caught Stealing 2B,493128,Munenori Kawasaki,Hector Gimenez,1,1,5,False,2013-04-16,Caught,2B,2013
+3375,1B,2B,Stolen Base 2B,493128,Munenori Kawasaki,Salvador Perez,0,1,3,True,2013-04-14,Stolen,2B,2013
+285,1B,2B,Stolen Base 2B,493128,Munenori Kawasaki,Nick Hundley,3,1,2,True,2014-09-16,Stolen,2B,2014
+2251,1B,,Caught Stealing 2B,493128,Munenori Kawasaki,Kurt Suzuki,6,5,8,True,2015-05-31,Caught,2B,2015
+2338,1B,2B,Stolen Base 2B,493128,Munenori Kawasaki,Chris Herrmann,3,7,9,True,2016-04-10,Stolen,2B,2016

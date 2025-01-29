@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+39,2B,3B,Stolen Base 3B,679845,Nick Loftin,Austin Wells,5,0,1,False,2023-09-29,Stolen,3B,2023
+293,1B,2B,Stolen Base 2B,679845,Nick Loftin,Bo Naylor,6,2,5,False,2023-09-19,Stolen,2B,2023

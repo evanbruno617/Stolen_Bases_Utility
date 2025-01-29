@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3,1B,,Caught Stealing 2B,592685,Drew Robinson,Bruce Maxwell,5,0,3,False,2017-09-30,Caught,2B,2017
+1512,1B,,Caught Stealing 2B,592685,Drew Robinson,Martín Maldonado,5,1,8,False,2017-07-08,Caught,2B,2017
+1028,1B,2B,Stolen Base 2B,592685,Drew Robinson,Austin Romine,0,3,5,True,2018-08-10,Stolen,2B,2018
+3256,1B,,Caught Stealing 2B,592685,Drew Robinson,Jonathan Lucroy,0,4,2,True,2018-04-05,Caught,2B,2018
+3307,1B,2B,Stolen Base 2B,592685,Drew Robinson,Jonathan Lucroy,1,0,5,True,2018-04-02,Stolen,2B,2018

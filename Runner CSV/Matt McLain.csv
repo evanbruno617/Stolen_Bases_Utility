@@ -1,0 +1,22 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+875,1B,2B,Stolen Base 2B,680574,Matt McLain,Jose Herrera,0,0,1,True,2023-08-26,Stolen,2B,2023
+953,1B,2B,Stolen Base 2B,680574,Matt McLain,Matt Thaiss,1,4,4,True,2023-08-23,Stolen,2B,2023
+955,1B,2B,Stolen Base 2B,680574,Matt McLain,Logan O'Hoppe,4,8,9,True,2023-08-23,Stolen,2B,2023
+1010,1B,2B,Stolen Base 2B,680574,Matt McLain,Matt Thaiss,1,4,4,True,2023-08-21,Stolen,2B,2023
+1112,1B,2B,Stolen Base 2B,680574,Matt McLain,Bo Naylor,1,1,3,False,2023-08-16,Stolen,2B,2023
+1114,2B,3B,Stolen Base 3B,680574,Matt McLain,Bo Naylor,7,2,8,False,2023-08-16,Stolen,3B,2023
+1182,1B,,Caught Stealing 2B,680574,Matt McLain,Endy Rodríguez,4,3,7,True,2023-08-13,Caught,2B,2023
+1189,1B,,Caught Stealing 2B,680574,Matt McLain,Endy Rodríguez,4,3,7,True,2023-08-12,Caught,2B,2023
+1418,1B,2B,Stolen Base 2B,680574,Matt McLain,Yan Gomes,1,1,3,True,2023-08-03,Stolen,2B,2023
+1642,1B,,Caught Stealing 2B,680574,Matt McLain,Carson Kelly,3,3,6,False,2023-07-23,Caught,2B,2023
+1692,1B,2B,Stolen Base 2B,680574,Matt McLain,Gabriel Moreno,1,1,1,False,2023-07-21,Stolen,2B,2023
+1894,1B,2B,Stolen Base 2B,680574,Matt McLain,William Contreras,5,4,5,True,2023-07-08,Stolen,2B,2023
+1898,1B,2B,Stolen Base 2B,680574,Matt McLain,William Contreras,5,8,9,True,2023-07-08,Stolen,2B,2023
+2018,2B,3B,Stolen Base 3B,680574,Matt McLain,Riley Adams,4,8,8,True,2023-07-04,Stolen,3B,2023
+2276,1B,2B,Stolen Base 2B,680574,Matt McLain,Travis d'Arnaud,11,10,8,False,2023-06-23,Stolen,2B,2023
+2331,1B,,Caught Stealing 2B,680574,Matt McLain,Elias Díaz,3,1,2,False,2023-06-20,Caught,2B,2023
+2428,1B,2B,Stolen Base 2B,680574,Matt McLain,Martín Maldonado,0,0,4,True,2023-06-16,Stolen,2B,2023
+2646,1B,2B,Stolen Base 2B,680574,Matt McLain,Will Smith,0,2,1,False,2023-06-07,Stolen,2B,2023
+2685,1B,,Caught Stealing 2B,680574,Matt McLain,William Contreras,0,0,1,False,2023-06-05,Caught,2B,2023
+2886,1B,2B,Stolen Base 2B,680574,Matt McLain,Yan Gomes,3,3,5,True,2023-05-28,Stolen,2B,2023
+3021,1B,,Caught Stealing 2B,680574,Matt McLain,Willson Contreras,5,7,7,False,2023-05-23,Caught,2B,2023

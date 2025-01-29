@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3917,1B,,Caught Stealing 2B,571602,Matt Davidson,543859,Michael Tonkin,594576,Jacob May,R,Jason Castro,488771,6,2,6,False,2017-04-08,Caught,2B,2017,2018,25.6
+1,3289,1B,,Caught Stealing 2B,571602,Matt Davidson,543859,Michael Tonkin,594576,Jacob May,R,Jason Castro,488771,6,2,6,False,2017-04-08,Caught,2B,2017,2018,25.6

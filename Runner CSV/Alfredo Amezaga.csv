@@ -1,0 +1,45 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2520,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,A.J. Hinch,2,6,6,True,2002-05-29,Stolen,2B,2002
+6,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Todd Greene,0,0,1,False,2003-09-28,Stolen,2B,2003
+293,1B,,Caught Stealing 2B,407792,Alfredo Amezaga,Pat Borders,0,0,6,True,2003-09-13,Caught,2B,2003
+749,1B,,Caught Stealing 2B,407792,Alfredo Amezaga,Brandon Inge,3,6,6,True,2003-08-22,Caught,2B,2003
+819,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Matt Walbeck,2,1,2,False,2003-08-17,Stolen,2B,2003
+1751,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Paul Lo Duca,7,3,8,False,2004-07-02,Stolen,2B,2004
+2313,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Victor Martinez,5,4,6,False,2004-06-04,Stolen,2B,2004
+3015,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Henry Blanco,6,3,8,True,2004-04-30,Stolen,2B,2004
+3098,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Michael Barrett,2,2,8,True,2005-04-23,Stolen,2B,2005
+230,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Ramon Castro,4,3,7,False,2007-09-20,Stolen,2B,2007
+446,1B,,Caught Stealing 2B,407792,Alfredo Amezaga,Brian Schneider,0,0,1,False,2007-09-12,Caught,2B,2007
+1385,2B,3B,Stolen Base 3B,407792,Alfredo Amezaga,Chris Iannetta,1,5,3,False,2007-07-31,Stolen,3B,2007
+1619,1B,,Caught Stealing 2B,407792,Alfredo Amezaga,David Ross,3,1,5,False,2007-07-20,Caught,2B,2007
+1696,1B,,Caught Stealing 2B,407792,Alfredo Amezaga,Yadier Molina,3,0,7,False,2007-07-17,Caught,2B,2007
+1889,2B,,Caught Stealing 3B,407792,Alfredo Amezaga,Mike Lieberthal,0,3,4,True,2007-07-06,Caught,3B,2007
+1929,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Michael Barrett,0,0,3,True,2007-07-04,Stolen,2B,2007
+1930,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Michael Barrett,0,0,8,True,2007-07-04,Stolen,2B,2007
+1998,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Jarrod Saltalamacchia,5,5,9,False,2007-07-01,Stolen,2B,2007
+2092,1B,2B,Caught Stealing Home,407792,Alfredo Amezaga,Ronny Paulino,2,3,4,False,2007-06-27,Caught,Home,2007
+2278,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Toby Hall,5,4,4,True,2007-06-19,Stolen,2B,2007
+2293,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,A.J. Pierzynski,2,2,3,True,2007-06-18,Stolen,2B,2007
+2518,2B,3B,Stolen Base 3B,407792,Alfredo Amezaga,Raul Casanova,9,8,7,False,2007-06-08,Stolen,3B,2007
+2569,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Jarrod Saltalamacchia,2,5,7,True,2007-06-06,Stolen,2B,2007
+2592,1B,,Caught Stealing 2B,407792,Alfredo Amezaga,Jarrod Saltalamacchia,0,0,1,True,2007-06-05,Caught,2B,2007
+2594,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Jarrod Saltalamacchia,3,1,9,True,2007-06-05,Stolen,2B,2007
+2800,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Paul Lo Duca,0,0,1,False,2007-05-25,Stolen,2B,2007
+3004,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Ryan Doumit,1,7,7,True,2007-05-15,Stolen,2B,2007
+3005,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Ryan Doumit,3,7,9,True,2007-05-15,Stolen,2B,2007
+3105,1B,,Caught Stealing 2B,407792,Alfredo Amezaga,Russell Martin,0,0,3,False,2007-05-10,Caught,2B,2007
+3631,1B,,Caught Stealing 2B,407792,Alfredo Amezaga,Jarrod Saltalamacchia,0,0,1,True,2007-04-14,Caught,2B,2007
+3633,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Jarrod Saltalamacchia,3,1,9,True,2007-04-14,Stolen,2B,2007
+3772,1B,,Caught Stealing 2B,407792,Alfredo Amezaga,Carlos Ruiz,6,3,6,False,2007-04-07,Caught,2B,2007
+172,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Carlos Ruiz,2,2,5,False,2008-09-20,Stolen,2B,2008
+173,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Carlos Ruiz,2,3,9,False,2008-09-20,Stolen,2B,2008
+767,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Miguel Montero,2,3,7,True,2008-08-22,Stolen,2B,2008
+1408,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Carlos Ruiz,2,2,8,False,2008-07-20,Stolen,2B,2008
+1592,1B,,Caught Stealing 2B,407792,Alfredo Amezaga,Luke Carlin,0,0,3,True,2008-07-07,Caught,2B,2008
+1753,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Jesus Flores,4,5,8,False,2008-06-30,Stolen,2B,2008
+1913,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Kurt Suzuki,2,1,4,True,2008-06-21,Stolen,2B,2008
+2132,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Carlos Ruiz,2,1,8,False,2008-06-11,Stolen,2B,2008
+2843,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Jesus Flores,4,1,5,True,2008-05-11,Stolen,2B,2008
+2929,1B,,Caught Stealing 2B,407792,Alfredo Amezaga,Jason Kendall,6,2,7,False,2008-05-07,Caught,2B,2008
+1717,1B,2B,Stolen Base 2B,407792,Alfredo Amezaga,Russell Martin,6,3,8,False,2009-05-16,Stolen,2B,2009
+2481,1B,,Caught Stealing 2B,407792,Alfredo Amezaga,David Ross,2,6,9,True,2009-04-16,Caught,2B,2009

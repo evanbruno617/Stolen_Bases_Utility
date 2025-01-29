@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1843,1B,2B,Stolen Base 2B,596117,Garrett Stubbs,Tom Murphy,0,1,4,True,2019-06-05,Stolen,2B,2019
+918,2B,,Caught Stealing 3B,596117,Garrett Stubbs,Tyler Heineman,6,5,8,False,2020-08-11,Caught,3B,2020
+1407,1B,2B,Stolen Base 2B,596117,Garrett Stubbs,Danny Jansen,3,2,5,True,2022-07-12,Stolen,2B,2022
+2470,1B,2B,Stolen Base 2B,596117,Garrett Stubbs,Will Smith,1,4,4,True,2022-05-15,Stolen,2B,2022
+3195,1B,2B,Stolen Base 2B,596117,Garrett Stubbs,Jose Trevino,0,2,4,True,2022-04-04,Stolen,2B,2022
+1302,1B,2B,Stolen Base 2B,596117,Garrett Stubbs,Riley Adams,4,2,6,False,2023-08-08,Stolen,2B,2023
+1308,1B,2B,Stolen Base 2B,596117,Garrett Stubbs,Riley Adams,4,2,6,False,2023-08-07,Stolen,2B,2023

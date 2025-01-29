@@ -1,0 +1,9 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,267,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,594987,Casey Sadler,578428,Jose Iglesias,R,Tom Murphy,608596,3,3,7,True,2021-09-15,Stolen,2B,2021,2022,28.2
+1,2167,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,656288,Griffin Canning,656308,Michael Chavis,R,Drew Butera,460077,2,0,2,False,2021-05-14,Stolen,2B,2021,2022,28.2
+2,2191,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,594987,Casey Sadler,578428,Jose Iglesias,R,Tom Murphy,608596,3,3,7,True,2021-09-15,Stolen,2B,2021,2022,28.2
+3,4091,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,656288,Griffin Canning,656308,Michael Chavis,R,Drew Butera,460077,2,0,2,False,2021-05-14,Stolen,2B,2021,2022,28.2
+4,4015,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,663556,Shane McClanahan,571771,Enrique Hernández,L,Francisco Mejía,642336,3,0,5,True,2023-04-11,Stolen,2B,2023,2024,28.6
+5,8429,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,663556,Shane McClanahan,571771,Enrique Hernández,L,Francisco Mejía,642336,3,0,5,True,2023-04-11,Stolen,2B,2023,2024,28.6
+6,366,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,592332,Kevin Gausman,608701,Rob Refsnyder,R,Alejandro Kirk,672386,1,0,3,True,2022-06-27,Stolen,2B,2022,2023,28.1
+7,726,1B,2B,Stolen Base 2B,666915,Bobby Dalbec,661383,Oliver Ortega,571771,Enrique Hernández,R,Max Stassi,545358,5,4,6,True,2022-06-07,Stolen,2B,2022,2023,28.1

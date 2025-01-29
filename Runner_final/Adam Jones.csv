@@ -1,0 +1,17 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,864,2B,3B,Stolen Base 3B,430945,Adam Jones,519141,Drew Pomeranz,444432,Mark Trumbo,L,Christian Vázquez,543877,0,0,6,False,2017-09-19,Stolen,3B,2017,2018,26.7
+1,3659,1B,2B,Stolen Base 2B,430945,Adam Jones,592390,Heath Hembree,592518,Manny Machado,R,Sandy León,506702,4,2,4,False,2017-04-22,Stolen,2B,2017,2018,26.7
+2,3712,1B,,Caught Stealing 2B,430945,Adam Jones,547179,Michael Lorenzen,592518,Manny Machado,R,Tucker Barnhart,571466,0,2,8,True,2017-04-19,Caught,2B,2017,2018,26.7
+3,236,2B,3B,Stolen Base 3B,430945,Adam Jones,519141,Drew Pomeranz,444432,Mark Trumbo,L,Christian Vázquez,543877,0,0,6,False,2017-09-19,Stolen,3B,2017,2018,26.7
+4,3031,1B,2B,Stolen Base 2B,430945,Adam Jones,592390,Heath Hembree,592518,Manny Machado,R,Sandy León,506702,4,2,4,False,2017-04-22,Stolen,2B,2017,2018,26.7
+5,3084,1B,,Caught Stealing 2B,430945,Adam Jones,547179,Michael Lorenzen,592518,Manny Machado,R,Tucker Barnhart,571466,0,2,8,True,2017-04-19,Caught,2B,2017,2018,26.7
+6,4561,1B,2B,Stolen Base 2B,430945,Adam Jones,542882,Matt Andriese,448801,Chris Davis,R,Luke Maile,571912,3,4,5,True,2016-09-05,Stolen,2B,2016,2017,27.1
+7,6138,1B,2B,Stolen Base 2B,430945,Adam Jones,592717,Aaron Sanchez,592518,Manny Machado,R,Russell Martin,431145,0,0,1,True,2016-06-12,Stolen,2B,2016,2017,27.1
+8,526,1B,2B,Stolen Base 2B,430945,Adam Jones,542882,Matt Andriese,448801,Chris Davis,R,Luke Maile,571912,3,4,5,True,2016-09-05,Stolen,2B,2016,2017,27.1
+9,2103,1B,2B,Stolen Base 2B,430945,Adam Jones,592717,Aaron Sanchez,592518,Manny Machado,R,Russell Martin,431145,0,0,1,True,2016-06-12,Stolen,2B,2016,2017,27.1
+10,3933,1B,2B,Stolen Base 2B,430945,Adam Jones,542882,Matt Andriese,448801,Chris Davis,R,Luke Maile,571912,3,4,5,True,2016-09-05,Stolen,2B,2016,2017,27.1
+11,5510,1B,2B,Stolen Base 2B,430945,Adam Jones,592717,Aaron Sanchez,592518,Manny Machado,R,Russell Martin,431145,0,0,1,True,2016-06-12,Stolen,2B,2016,2017,27.1
+12,1056,1B,2B,Stolen Base 2B,430945,Adam Jones,543521,Collin McHugh,448801,Chris Davis,R,Jason Castro,488771,3,1,4,False,2015-05-27,Stolen,2B,2015,2016,28.0
+13,1092,1B,2B,Stolen Base 2B,430945,Adam Jones,444857,Scott Feldman,456665,Steve Pearce,R,Jason Castro,488771,0,0,4,False,2015-05-26,Stolen,2B,2015,2016,28.0
+14,1207,1B,2B,Stolen Base 2B,430945,Adam Jones,543144,Danny Farquhar,430321,Delmon Young,R,Welington Castillo,456078,4,4,7,False,2015-05-21,Stolen,2B,2015,2016,28.0
+15,2019,1B,,Caught Stealing 2B,430945,Adam Jones,476454,Dellin Betances,501983,Travis Snider,R,John Ryan Murphy,571974,5,6,8,False,2015-04-13,Caught,2B,2015,2016,28.0

@@ -1,0 +1,31 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4407,1B,2B,Stolen Base 2B,453211,Drew Stubbs,519141,Drew Pomeranz,460099,Nolan Reimold,L,Sandy León,506702,0,5,2,True,2016-09-13,Stolen,2B,2016,2017,29.3
+1,4882,1B,2B,Stolen Base 2B,453211,Drew Stubbs,521230,Liam Hendriks,592261,Delino DeShields,R,Stephen Vogt,519390,3,2,7,False,2016-08-17,Stolen,2B,2016,2017,29.3
+2,6590,1B,2B,Stolen Base 2B,453211,Drew Stubbs,448179,Rich Hill,592407,Bryan Holaday,L,Stephen Vogt,519390,3,0,5,True,2016-05-18,Stolen,2B,2016,2017,29.3
+3,6659,1B,2B,Stolen Base 2B,453211,Drew Stubbs,607352,Joe Biagini,607387,Ryan Rua,R,Russell Martin,431145,5,2,8,False,2016-05-14,Stolen,2B,2016,2017,29.3
+4,6749,1B,2B,Stolen Base 2B,453211,Drew Stubbs,607074,Carlos Rodón,596059,Rougned Odor,L,Dioner Navarro,425900,5,10,6,False,2016-05-10,Stolen,2B,2016,2017,29.3
+5,6959,1B,2B,Stolen Base 2B,453211,Drew Stubbs,592390,Heath Hembree,425796,Jeff Francoeur,R,Christian Vázquez,543877,2,5,9,True,2016-04-28,Stolen,2B,2016,2017,29.3
+6,7070,1B,2B,Stolen Base 2B,453211,Drew Stubbs,571927,Steven Matz,455976,Nick Markakis,L,Travis d'Arnaud,518595,2,5,7,False,2016-04-23,Stolen,2B,2016,2017,29.3
+7,7377,1B,2B,Stolen Base 2B,453211,Drew Stubbs,448802,Jaime García,430947,Erick Aybar,L,Yadier Molina,425877,1,0,3,False,2016-04-08,Stolen,2B,2016,2017,29.3
+8,7401,1B,2B,Stolen Base 2B,453211,Drew Stubbs,449097,Jonathan Papelbon,150229,A.J. Pierzynski,R,Wilson Ramos,467092,1,3,9,False,2016-04-06,Stolen,2B,2016,2017,29.3
+9,372,1B,2B,Stolen Base 2B,453211,Drew Stubbs,519141,Drew Pomeranz,460099,Nolan Reimold,L,Sandy León,506702,0,5,2,True,2016-09-13,Stolen,2B,2016,2017,29.3
+10,847,1B,2B,Stolen Base 2B,453211,Drew Stubbs,521230,Liam Hendriks,592261,Delino DeShields,R,Stephen Vogt,519390,3,2,7,False,2016-08-17,Stolen,2B,2016,2017,29.3
+11,2555,1B,2B,Stolen Base 2B,453211,Drew Stubbs,448179,Rich Hill,592407,Bryan Holaday,L,Stephen Vogt,519390,3,0,5,True,2016-05-18,Stolen,2B,2016,2017,29.3
+12,2624,1B,2B,Stolen Base 2B,453211,Drew Stubbs,607352,Joe Biagini,607387,Ryan Rua,R,Russell Martin,431145,5,2,8,False,2016-05-14,Stolen,2B,2016,2017,29.3
+13,2714,1B,2B,Stolen Base 2B,453211,Drew Stubbs,607074,Carlos Rodón,596059,Rougned Odor,L,Dioner Navarro,425900,5,10,6,False,2016-05-10,Stolen,2B,2016,2017,29.3
+14,2924,1B,2B,Stolen Base 2B,453211,Drew Stubbs,592390,Heath Hembree,425796,Jeff Francoeur,R,Christian Vázquez,543877,2,5,9,True,2016-04-28,Stolen,2B,2016,2017,29.3
+15,3035,1B,2B,Stolen Base 2B,453211,Drew Stubbs,571927,Steven Matz,455976,Nick Markakis,L,Travis d'Arnaud,518595,2,5,7,False,2016-04-23,Stolen,2B,2016,2017,29.3
+16,3342,1B,2B,Stolen Base 2B,453211,Drew Stubbs,448802,Jaime García,430947,Erick Aybar,L,Yadier Molina,425877,1,0,3,False,2016-04-08,Stolen,2B,2016,2017,29.3
+17,3366,1B,2B,Stolen Base 2B,453211,Drew Stubbs,449097,Jonathan Papelbon,150229,A.J. Pierzynski,R,Wilson Ramos,467092,1,3,9,False,2016-04-06,Stolen,2B,2016,2017,29.3
+18,3779,1B,2B,Stolen Base 2B,453211,Drew Stubbs,519141,Drew Pomeranz,460099,Nolan Reimold,L,Sandy León,506702,0,5,2,True,2016-09-13,Stolen,2B,2016,2017,29.3
+19,4254,1B,2B,Stolen Base 2B,453211,Drew Stubbs,521230,Liam Hendriks,592261,Delino DeShields,R,Stephen Vogt,519390,3,2,7,False,2016-08-17,Stolen,2B,2016,2017,29.3
+20,5962,1B,2B,Stolen Base 2B,453211,Drew Stubbs,448179,Rich Hill,592407,Bryan Holaday,L,Stephen Vogt,519390,3,0,5,True,2016-05-18,Stolen,2B,2016,2017,29.3
+21,6031,1B,2B,Stolen Base 2B,453211,Drew Stubbs,607352,Joe Biagini,607387,Ryan Rua,R,Russell Martin,431145,5,2,8,False,2016-05-14,Stolen,2B,2016,2017,29.3
+22,6121,1B,2B,Stolen Base 2B,453211,Drew Stubbs,607074,Carlos Rodón,596059,Rougned Odor,L,Dioner Navarro,425900,5,10,6,False,2016-05-10,Stolen,2B,2016,2017,29.3
+23,6331,1B,2B,Stolen Base 2B,453211,Drew Stubbs,592390,Heath Hembree,425796,Jeff Francoeur,R,Christian Vázquez,543877,2,5,9,True,2016-04-28,Stolen,2B,2016,2017,29.3
+24,6442,1B,2B,Stolen Base 2B,453211,Drew Stubbs,571927,Steven Matz,455976,Nick Markakis,L,Travis d'Arnaud,518595,2,5,7,False,2016-04-23,Stolen,2B,2016,2017,29.3
+25,6749,1B,2B,Stolen Base 2B,453211,Drew Stubbs,448802,Jaime García,430947,Erick Aybar,L,Yadier Molina,425877,1,0,3,False,2016-04-08,Stolen,2B,2016,2017,29.3
+26,6773,1B,2B,Stolen Base 2B,453211,Drew Stubbs,449097,Jonathan Papelbon,150229,A.J. Pierzynski,R,Wilson Ramos,467092,1,3,9,False,2016-04-06,Stolen,2B,2016,2017,29.3
+27,126,1B,2B,Stolen Base 2B,453211,Drew Stubbs,448306,James Shields,407822,Jorge De La Rosa,R,Derek Norris,519083,3,0,4,True,2015-07-17,Stolen,2B,2015,2016,29.6
+28,1758,1B,,Caught Stealing 2B,453211,Drew Stubbs,433586,Santiago Casilla,453568,Charlie Blackmon,R,Andrew Susac,572180,4,4,9,False,2015-04-25,Caught,2B,2015,2016,29.6
+29,1929,1B,2B,Stolen Base 2B,453211,Drew Stubbs,477132,Clayton Kershaw,453568,Charlie Blackmon,L,Yasmani Grandal,518735,4,3,5,True,2015-04-17,Stolen,2B,2015,2016,29.6

@@ -1,0 +1,4 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,118808,Mark McLemore,Jim Leyritz,5,0,4,False,2000-07-08,Stolen,2B,2000
+1B,2B,Stolen Base 2B,123041,Mike Sweeney,Jim Leyritz,0,0,2,True,2000-04-16,Stolen,2B,2000
+1B,2B,Stolen Base 2B,113028,Johnny Damon,Jim Leyritz,4,2,7,True,2000-04-16,Stolen,2B,2000

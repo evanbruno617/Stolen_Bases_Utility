@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+730,1B,2B,Stolen Base 2B,115114,Rusty Greer,Einar Díaz,9,6,7,False,2000-08-31,Stolen,2B,2000
+744,1B,2B,Stolen Base 2B,115114,Rusty Greer,Einar Díaz,0,0,3,False,2000-08-30,Stolen,2B,2000
+975,1B,2B,Stolen Base 2B,115114,Rusty Greer,Jason Varitek,1,6,7,True,2000-08-20,Stolen,2B,2000
+1023,1B,2B,Stolen Base 2B,115114,Rusty Greer,Jason Varitek,0,0,1,True,2000-08-19,Stolen,2B,2000
+2328,1B,,Caught Stealing 2B,115114,Rusty Greer,John Flaherty,0,5,7,True,2000-06-17,Caught,2B,2000
+230,1B,2B,Stolen Base 2B,115114,Rusty Greer,Brook Fordyce,0,0,1,True,2001-05-27,Stolen,2B,2001
+717,1B,,Caught Stealing 2B,115114,Rusty Greer,Robert Fick,0,0,1,True,2001-05-08,Caught,2B,2001
+1517,1B,,Caught Stealing 2B,115114,Rusty Greer,Darrin Fletcher,0,0,1,True,2001-04-01,Caught,2B,2001
+2424,1B,2B,Stolen Base 2B,115114,Rusty Greer,Brent Mayne,0,0,1,False,2002-06-02,Stolen,2B,2002

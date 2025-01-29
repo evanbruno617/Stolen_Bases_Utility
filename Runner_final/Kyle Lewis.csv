@@ -1,0 +1,26 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,22,1B,2B,Stolen Base 2B,641786,Kyle Lewis,593423,Frankie Montas,664034,Ty France,R,Sean Murphy,669221,1,2,5,True,2020-09-27,Stolen,2B,2020,2021,27.7
+1,104,1B,2B,Stolen Base 2B,641786,Kyle Lewis,642130,Blake Taylor,664034,Ty France,L,Martín Maldonado,455117,3,0,7,False,2020-09-23,Stolen,2B,2020,2021,27.7
+2,236,1B,,Caught Stealing 2B,641786,Kyle Lewis,502239,Trevor Cahill,620443,Luis Torrens,R,Joey Bart,663698,3,8,5,False,2020-09-16,Caught,2B,2020,2021,27.7
+3,255,1B,,Caught Stealing 2B,641786,Kyle Lewis,502239,Trevor Cahill,620443,Luis Torrens,R,Joey Bart,663698,3,8,5,False,2020-09-15,Caught,2B,2020,2021,27.7
+4,396,1B,2B,Stolen Base 2B,641786,Kyle Lewis,657277,Logan Webb,572122,Kyle Seager,R,Joey Bart,663698,5,5,5,True,2020-09-08,Stolen,2B,2020,2021,27.7
+5,807,1B,2B,Stolen Base 2B,641786,Kyle Lewis,664062,Tony Gonsolin,543592,Austin Nola,R,Austin Barnes,605131,0,0,4,True,2020-08-18,Stolen,2B,2020,2021,27.7
+6,1013,1B,2B,Stolen Base 2B,641786,Kyle Lewis,542882,Matt Andriese,572122,Kyle Seager,R,Max Stassi,545358,4,1,5,False,2020-08-05,Stolen,2B,2020,2021,27.7
+7,2865,1B,2B,Stolen Base 2B,641786,Kyle Lewis,593423,Frankie Montas,664034,Ty France,R,Sean Murphy,669221,1,2,5,True,2020-09-27,Stolen,2B,2020,2021,27.7
+8,2947,1B,2B,Stolen Base 2B,641786,Kyle Lewis,642130,Blake Taylor,664034,Ty France,L,Martín Maldonado,455117,3,0,7,False,2020-09-23,Stolen,2B,2020,2021,27.7
+9,3079,1B,,Caught Stealing 2B,641786,Kyle Lewis,502239,Trevor Cahill,620443,Luis Torrens,R,Joey Bart,663698,3,8,5,False,2020-09-16,Caught,2B,2020,2021,27.7
+10,3098,1B,,Caught Stealing 2B,641786,Kyle Lewis,502239,Trevor Cahill,620443,Luis Torrens,R,Joey Bart,663698,3,8,5,False,2020-09-15,Caught,2B,2020,2021,27.7
+11,3239,1B,2B,Stolen Base 2B,641786,Kyle Lewis,657277,Logan Webb,572122,Kyle Seager,R,Joey Bart,663698,5,5,5,True,2020-09-08,Stolen,2B,2020,2021,27.7
+12,3650,1B,2B,Stolen Base 2B,641786,Kyle Lewis,664062,Tony Gonsolin,543592,Austin Nola,R,Austin Barnes,605131,0,0,4,True,2020-08-18,Stolen,2B,2020,2021,27.7
+13,3856,1B,2B,Stolen Base 2B,641786,Kyle Lewis,542882,Matt Andriese,572122,Kyle Seager,R,Max Stassi,545358,4,1,5,False,2020-08-05,Stolen,2B,2020,2021,27.7
+14,4789,1B,2B,Stolen Base 2B,641786,Kyle Lewis,593423,Frankie Montas,664034,Ty France,R,Sean Murphy,669221,1,2,5,True,2020-09-27,Stolen,2B,2020,2021,27.7
+15,4871,1B,2B,Stolen Base 2B,641786,Kyle Lewis,642130,Blake Taylor,664034,Ty France,L,Martín Maldonado,455117,3,0,7,False,2020-09-23,Stolen,2B,2020,2021,27.7
+16,5003,1B,,Caught Stealing 2B,641786,Kyle Lewis,502239,Trevor Cahill,620443,Luis Torrens,R,Joey Bart,663698,3,8,5,False,2020-09-16,Caught,2B,2020,2021,27.7
+17,5022,1B,,Caught Stealing 2B,641786,Kyle Lewis,502239,Trevor Cahill,620443,Luis Torrens,R,Joey Bart,663698,3,8,5,False,2020-09-15,Caught,2B,2020,2021,27.7
+18,5163,1B,2B,Stolen Base 2B,641786,Kyle Lewis,657277,Logan Webb,572122,Kyle Seager,R,Joey Bart,663698,5,5,5,True,2020-09-08,Stolen,2B,2020,2021,27.7
+19,5574,1B,2B,Stolen Base 2B,641786,Kyle Lewis,664062,Tony Gonsolin,543592,Austin Nola,R,Austin Barnes,605131,0,0,4,True,2020-08-18,Stolen,2B,2020,2021,27.7
+20,5780,1B,2B,Stolen Base 2B,641786,Kyle Lewis,542882,Matt Andriese,572122,Kyle Seager,R,Max Stassi,545358,4,1,5,False,2020-08-05,Stolen,2B,2020,2021,27.7
+21,2017,1B,2B,Stolen Base 2B,641786,Kyle Lewis,506433,Yu Darvish,608422,José Godoy,R,Victor Caratini,605170,0,0,2,True,2021-05-23,Stolen,2B,2021,2022,24.1
+22,2070,1B,2B,Stolen Base 2B,641786,Kyle Lewis,669373,Tarik Skubal,572122,Kyle Seager,L,Eric Haase,606992,2,0,1,False,2021-05-19,Stolen,2B,2021,2022,24.1
+23,3941,1B,2B,Stolen Base 2B,641786,Kyle Lewis,506433,Yu Darvish,608422,José Godoy,R,Victor Caratini,605170,0,0,2,True,2021-05-23,Stolen,2B,2021,2022,24.1
+24,3994,1B,2B,Stolen Base 2B,641786,Kyle Lewis,669373,Tarik Skubal,572122,Kyle Seager,L,Eric Haase,606992,2,0,1,False,2021-05-19,Stolen,2B,2021,2022,24.1

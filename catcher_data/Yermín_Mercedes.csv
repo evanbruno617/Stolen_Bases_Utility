@@ -1,0 +1,3 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,668670,Jake Rogers,Yermín Mercedes,1,2,2,True,2021-06-05,Stolen,2B,2021
+1B,2B,Stolen Base 2B,656537,Derek Hill,Yermín Mercedes,1,3,5,True,2021-06-05,Stolen,2B,2021

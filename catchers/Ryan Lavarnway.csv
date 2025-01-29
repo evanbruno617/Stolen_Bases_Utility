@@ -1,0 +1,42 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,666182,Bo Bichette,657141,Jordan Yamamoto,543768,Travis Shaw,R,Ryan Lavarnway,543432,0,3,1,False,2020-08-12,Stolen,2B,2020,2021, --, --
+1,2B,3B,Stolen Base 3B,624415,Cavan Biggio,572383,Brian Moran,543768,Travis Shaw,L,Ryan Lavarnway,543432,8,11,6,False,2020-08-12,Stolen,3B,2020,2021, --, --
+2,1B,2B,Stolen Base 2B,666182,Bo Bichette,572383,Brian Moran,543768,Travis Shaw,L,Ryan Lavarnway,543432,8,11,6,False,2020-08-12,Stolen,2B,2020,2021, --, --
+3,1B,2B,Stolen Base 2B,665926,Andrés Giménez,641154,Pablo López,621512,Tomás Nido,R,Ryan Lavarnway,543432,0,0,3,False,2020-08-09,Stolen,2B,2020,2021, --, --
+4,1B,,Caught Stealing 2B,624424,Michael Conforto,573046,Mike Morin,605204,J.D. Davis,R,Ryan Lavarnway,543432,4,2,7,False,2020-08-09,Caught,2B,2020,2021, --, --
+5,1B,2B,Stolen Base 2B,666182,Bo Bichette,657141,Jordan Yamamoto,543768,Travis Shaw,R,Ryan Lavarnway,543432,0,3,1,False,2020-08-12,Stolen,2B,2020,2021, --, --
+6,2B,3B,Stolen Base 3B,624415,Cavan Biggio,572383,Brian Moran,543768,Travis Shaw,L,Ryan Lavarnway,543432,8,11,6,False,2020-08-12,Stolen,3B,2020,2021, --, --
+7,1B,2B,Stolen Base 2B,666182,Bo Bichette,572383,Brian Moran,543768,Travis Shaw,L,Ryan Lavarnway,543432,8,11,6,False,2020-08-12,Stolen,2B,2020,2021, --, --
+8,1B,2B,Stolen Base 2B,665926,Andrés Giménez,641154,Pablo López,621512,Tomás Nido,R,Ryan Lavarnway,543432,0,0,3,False,2020-08-09,Stolen,2B,2020,2021, --, --
+9,1B,,Caught Stealing 2B,624424,Michael Conforto,573046,Mike Morin,605204,J.D. Davis,R,Ryan Lavarnway,543432,4,2,7,False,2020-08-09,Caught,2B,2020,2021, --, --
+10,1B,2B,Stolen Base 2B,666182,Bo Bichette,657141,Jordan Yamamoto,543768,Travis Shaw,R,Ryan Lavarnway,543432,0,3,1,False,2020-08-12,Stolen,2B,2020,2021, --, --
+11,2B,3B,Stolen Base 3B,624415,Cavan Biggio,572383,Brian Moran,543768,Travis Shaw,L,Ryan Lavarnway,543432,8,11,6,False,2020-08-12,Stolen,3B,2020,2021, --, --
+12,1B,2B,Stolen Base 2B,666182,Bo Bichette,572383,Brian Moran,543768,Travis Shaw,L,Ryan Lavarnway,543432,8,11,6,False,2020-08-12,Stolen,2B,2020,2021, --, --
+13,1B,2B,Stolen Base 2B,665926,Andrés Giménez,641154,Pablo López,621512,Tomás Nido,R,Ryan Lavarnway,543432,0,0,3,False,2020-08-09,Stolen,2B,2020,2021, --, --
+14,1B,,Caught Stealing 2B,624424,Michael Conforto,573046,Mike Morin,605204,J.D. Davis,R,Ryan Lavarnway,543432,4,2,7,False,2020-08-09,Caught,2B,2020,2021, --, --
+15,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,543101,Anthony DeSclafani,657557,Paul DeJong,R,Ryan Lavarnway,543432,0,0,2,True,2019-07-21,Stolen,2B,2019,2020, 78.7, 0.74
+16,2B,3B,Stolen Base 3B,622168,Yairo Muñoz,543101,Anthony DeSclafani,664056,Harrison Bader,R,Ryan Lavarnway,543432,0,2,2,True,2019-07-21,Stolen,3B,2019,2020, 78.7, 0.74
+17,1B,2B,Stolen Base 2B,668800,Andrew Knizner,543101,Anthony DeSclafani,664056,Harrison Bader,R,Ryan Lavarnway,543432,0,2,2,True,2019-07-21,Stolen,2B,2019,2020, 78.7, 0.74
+18,1B,2B,Stolen Base 2B,664056,Harrison Bader,543101,Anthony DeSclafani,656427,Jack Flaherty,R,Ryan Lavarnway,543432,0,2,2,True,2019-07-21,Stolen,2B,2019,2020, 78.7, 0.74
+19,1B,,Caught Stealing 2B,657557,Paul DeJong,628452,Raisel Iglesias,622168,Yairo Muñoz,R,Ryan Lavarnway,543432,1,3,9,True,2019-07-21,Caught,2B,2019,2020, 78.7, 0.74
+20,1B,2B,Stolen Base 2B,669242,Tommy Edman,453172,Jared Hughes,500874,José A. Martínez,R,Ryan Lavarnway,543432,7,10,6,True,2019-07-19,Stolen,2B,2019,2020, 78.7, 0.74
+21,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,543101,Anthony DeSclafani,657557,Paul DeJong,R,Ryan Lavarnway,543432,0,0,2,True,2019-07-21,Stolen,2B,2019,2020, 78.7, 0.74
+22,2B,3B,Stolen Base 3B,622168,Yairo Muñoz,543101,Anthony DeSclafani,664056,Harrison Bader,R,Ryan Lavarnway,543432,0,2,2,True,2019-07-21,Stolen,3B,2019,2020, 78.7, 0.74
+23,1B,2B,Stolen Base 2B,668800,Andrew Knizner,543101,Anthony DeSclafani,664056,Harrison Bader,R,Ryan Lavarnway,543432,0,2,2,True,2019-07-21,Stolen,2B,2019,2020, 78.7, 0.74
+24,1B,2B,Stolen Base 2B,664056,Harrison Bader,543101,Anthony DeSclafani,656427,Jack Flaherty,R,Ryan Lavarnway,543432,0,2,2,True,2019-07-21,Stolen,2B,2019,2020, 78.7, 0.74
+25,1B,,Caught Stealing 2B,657557,Paul DeJong,628452,Raisel Iglesias,622168,Yairo Muñoz,R,Ryan Lavarnway,543432,1,3,9,True,2019-07-21,Caught,2B,2019,2020, 78.7, 0.74
+26,1B,2B,Stolen Base 2B,669242,Tommy Edman,453172,Jared Hughes,500874,José A. Martínez,R,Ryan Lavarnway,543432,7,10,6,True,2019-07-19,Stolen,2B,2019,2020, 78.7, 0.74
+27,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,543101,Anthony DeSclafani,657557,Paul DeJong,R,Ryan Lavarnway,543432,0,0,2,True,2019-07-21,Stolen,2B,2019,2020, 78.7, 0.74
+28,2B,3B,Stolen Base 3B,622168,Yairo Muñoz,543101,Anthony DeSclafani,664056,Harrison Bader,R,Ryan Lavarnway,543432,0,2,2,True,2019-07-21,Stolen,3B,2019,2020, 78.7, 0.74
+29,1B,2B,Stolen Base 2B,668800,Andrew Knizner,543101,Anthony DeSclafani,664056,Harrison Bader,R,Ryan Lavarnway,543432,0,2,2,True,2019-07-21,Stolen,2B,2019,2020, 78.7, 0.74
+30,1B,2B,Stolen Base 2B,664056,Harrison Bader,543101,Anthony DeSclafani,656427,Jack Flaherty,R,Ryan Lavarnway,543432,0,2,2,True,2019-07-21,Stolen,2B,2019,2020, 78.7, 0.74
+31,1B,,Caught Stealing 2B,657557,Paul DeJong,628452,Raisel Iglesias,622168,Yairo Muñoz,R,Ryan Lavarnway,543432,1,3,9,True,2019-07-21,Caught,2B,2019,2020, 78.7, 0.74
+32,1B,2B,Stolen Base 2B,669242,Tommy Edman,453172,Jared Hughes,500874,José A. Martínez,R,Ryan Lavarnway,543432,7,10,6,True,2019-07-19,Stolen,2B,2019,2020, 78.7, 0.74
+33,1B,,Caught Stealing 2B,592696,Eddie Rosario,605194,Jharel Cotton,501303,Ehire Adrianza,R,Ryan Lavarnway,543432,0,4,4,True,2017-07-30,Caught,2B,2017,2018, --, --
+34,1B,2B,Stolen Base 2B,500871,Eduardo Escobar,521230,Liam Hendriks,592696,Eddie Rosario,R,Ryan Lavarnway,543432,3,5,7,True,2017-07-30,Stolen,2B,2017,2018, --, --
+35,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,623430,Ryan Dull,643335,Zack Granite,R,Ryan Lavarnway,543432,5,5,10,True,2017-07-30,Stolen,2B,2017,2018, --, --
+36,1B,,Caught Stealing 2B,643335,Zack Granite,623430,Ryan Dull,488771,Jason Castro,R,Ryan Lavarnway,543432,2,4,6,True,2017-07-29,Caught,2B,2017,2018, --, --
+37,1B,,Caught Stealing 2B,592696,Eddie Rosario,605194,Jharel Cotton,501303,Ehire Adrianza,R,Ryan Lavarnway,543432,0,4,4,True,2017-07-30,Caught,2B,2017,2018, --, --
+38,1B,2B,Stolen Base 2B,500871,Eduardo Escobar,521230,Liam Hendriks,592696,Eddie Rosario,R,Ryan Lavarnway,543432,3,5,7,True,2017-07-30,Stolen,2B,2017,2018, --, --
+39,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,623430,Ryan Dull,643335,Zack Granite,R,Ryan Lavarnway,543432,5,5,10,True,2017-07-30,Stolen,2B,2017,2018, --, --
+40,1B,,Caught Stealing 2B,643335,Zack Granite,623430,Ryan Dull,488771,Jason Castro,R,Ryan Lavarnway,543432,2,4,6,True,2017-07-29,Caught,2B,2017,2018, --, --

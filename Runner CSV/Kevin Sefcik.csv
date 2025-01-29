@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1739,1B,2B,Stolen Base 2B,121974,Kevin Sefcik,Chris Turner,2,6,5,True,2000-07-17,Stolen,2B,2000
+2176,1B,2B,Stolen Base 2B,121974,Kevin Sefcik,Lenny Webster,1,4,7,True,2000-06-24,Stolen,2B,2000
+2344,1B,2B,Stolen Base 2B,121974,Kevin Sefcik,Javy Lopez,0,0,3,False,2000-06-16,Stolen,2B,2000
+2559,1B,2B,Stolen Base 2B,121974,Kevin Sefcik,Mike DiFelice,3,3,9,False,2000-06-06,Stolen,2B,2000
+2771,2B,,Caught Stealing 3B,121974,Kevin Sefcik,Chad Kreuter,2,4,8,True,2000-05-28,Caught,3B,2000
+3797,1B,,Caught Stealing 2B,121974,Kevin Sefcik,Chris Widger,0,0,1,False,2000-04-14,Caught,2B,2000

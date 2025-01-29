@@ -1,0 +1,32 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,446,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,608335,Kyle Funkhouser,518626,Josh Donaldson,R,Grayson Greiner,606988,7,7,7,False,2020-09-06,Stolen,2B,2020,2021,26.9
+1,3289,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,608335,Kyle Funkhouser,518626,Josh Donaldson,R,Grayson Greiner,606988,7,7,7,False,2020-09-06,Stolen,2B,2020,2021,26.9
+2,5213,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,608335,Kyle Funkhouser,518626,Josh Donaldson,R,Grayson Greiner,606988,7,7,7,False,2020-09-06,Stolen,2B,2020,2021,26.9
+3,1989,1B,,Caught Stealing 2B,501303,Ehire Adrianza,501985,Mike Minor,650333,Luis Arraez,L,Jose Trevino,624431,1,2,5,True,2019-08-16,Caught,2B,2019,2020,26.3
+4,4832,1B,,Caught Stealing 2B,501303,Ehire Adrianza,501985,Mike Minor,650333,Luis Arraez,L,Jose Trevino,624431,1,2,5,True,2019-08-16,Caught,2B,2019,2020,26.3
+5,6756,1B,,Caught Stealing 2B,501303,Ehire Adrianza,501985,Mike Minor,650333,Luis Arraez,L,Jose Trevino,624431,1,2,5,True,2019-08-16,Caught,2B,2019,2020,26.3
+6,246,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,666129,Braxton Garrett,671277,Luis García Jr.,L,Nick Fortes,663743,1,1,8,False,2022-07-04,Stolen,2B,2022,2024,26.6
+7,72,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,592717,Aaron Sanchez,572821,Brian Dozier,R,Russell Martin,431145,4,6,6,False,2018-04-30,Stolen,2B,2018,2019,26.4
+8,1395,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,592229,Dylan Covey,572821,Brian Dozier,R,Kevan Smith,607345,0,6,4,True,2017-08-21,Stolen,2B,2017,2018,26.9
+9,1810,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,623430,Ryan Dull,643335,Zack Granite,R,Ryan Lavarnway,543432,5,5,10,True,2017-07-30,Stolen,2B,2017,2018,26.9
+10,2461,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,571787,David Holmberg,488771,Jason Castro,L,Omar Narváez,553882,4,2,3,False,2017-06-21,Stolen,2B,2017,2018,26.9
+11,2462,2B,3B,Stolen Base 3B,501303,Ehire Adrianza,571787,David Holmberg,488771,Jason Castro,L,Omar Narváez,553882,4,2,3,False,2017-06-21,Stolen,3B,2017,2018,26.9
+12,2464,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,500872,Gregory Infante,488771,Jason Castro,R,Omar Narváez,553882,4,2,5,False,2017-06-21,Stolen,2B,2017,2018,26.9
+13,2592,2B,3B,Stolen Base 3B,501303,Ehire Adrianza,621242,Edwin Díaz,572821,Brian Dozier,R,Mike Zunino,572287,4,6,9,False,2017-06-14,Stolen,3B,2017,2018,26.9
+14,2717,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,548357,Christian Bergman,543257,Robbie Grossman,R,Mike Zunino,572287,0,1,5,True,2017-06-08,Stolen,2B,2017,2018,26.9
+15,2803,1B,,Caught Stealing 2B,501303,Ehire Adrianza,445060,Ricky Nolasco,543257,Robbie Grossman,R,Juan Graterol,492802,2,1,5,True,2017-06-04,Caught,2B,2017,2018,26.9
+16,2895,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,571666,Mike Fiers,572821,Brian Dozier,R,Brian McCann,435263,2,2,4,False,2017-05-30,Stolen,2B,2017,2018,26.9
+17,3284,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,592229,Dylan Covey,572821,Brian Dozier,R,Kevan Smith,607345,0,6,4,True,2017-05-10,Stolen,2B,2017,2018,26.9
+18,767,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,592229,Dylan Covey,572821,Brian Dozier,R,Kevan Smith,607345,0,6,4,True,2017-08-21,Stolen,2B,2017,2018,26.9
+19,1182,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,623430,Ryan Dull,643335,Zack Granite,R,Ryan Lavarnway,543432,5,5,10,True,2017-07-30,Stolen,2B,2017,2018,26.9
+20,1833,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,571787,David Holmberg,488771,Jason Castro,L,Omar Narváez,553882,4,2,3,False,2017-06-21,Stolen,2B,2017,2018,26.9
+21,1834,2B,3B,Stolen Base 3B,501303,Ehire Adrianza,571787,David Holmberg,488771,Jason Castro,L,Omar Narváez,553882,4,2,3,False,2017-06-21,Stolen,3B,2017,2018,26.9
+22,1836,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,500872,Gregory Infante,488771,Jason Castro,R,Omar Narváez,553882,4,2,5,False,2017-06-21,Stolen,2B,2017,2018,26.9
+23,1964,2B,3B,Stolen Base 3B,501303,Ehire Adrianza,621242,Edwin Díaz,572821,Brian Dozier,R,Mike Zunino,572287,4,6,9,False,2017-06-14,Stolen,3B,2017,2018,26.9
+24,2089,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,548357,Christian Bergman,543257,Robbie Grossman,R,Mike Zunino,572287,0,1,5,True,2017-06-08,Stolen,2B,2017,2018,26.9
+25,2175,1B,,Caught Stealing 2B,501303,Ehire Adrianza,445060,Ricky Nolasco,543257,Robbie Grossman,R,Juan Graterol,492802,2,1,5,True,2017-06-04,Caught,2B,2017,2018,26.9
+26,2267,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,571666,Mike Fiers,572821,Brian Dozier,R,Brian McCann,435263,2,2,4,False,2017-05-30,Stolen,2B,2017,2018,26.9
+27,2656,1B,2B,Stolen Base 2B,501303,Ehire Adrianza,592229,Dylan Covey,572821,Brian Dozier,R,Kevan Smith,607345,0,6,4,True,2017-05-10,Stolen,2B,2017,2018,26.9
+28,5088,1B,,Caught Stealing 2B,501303,Ehire Adrianza,407845,Fernando Rodney,452655,Denard Span,R,J.T. Realmuto,592663,7,7,9,True,2016-08-08,Caught,2B,2016,2017,27.1
+29,1053,1B,,Caught Stealing 2B,501303,Ehire Adrianza,407845,Fernando Rodney,452655,Denard Span,R,J.T. Realmuto,592663,7,7,9,True,2016-08-08,Caught,2B,2016,2017,27.1
+30,4460,1B,,Caught Stealing 2B,501303,Ehire Adrianza,407845,Fernando Rodney,452655,Denard Span,R,J.T. Realmuto,592663,7,7,9,True,2016-08-08,Caught,2B,2016,2017,27.1

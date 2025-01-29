@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,475247,Ryan Flaherty,598287,Noé Ramirez,572073,Joey Rickard,R,Blake Swihart,596119,4,5,6,True,2016-04-12,Stolen,2B,2016,2017, --, 0.72
+1,1B,2B,Stolen Base 2B,446381,Darwin Barney,519144,Rick Porcello,489365,Josh Thole,R,Blake Swihart,596119,2,0,2,False,2016-04-09,Stolen,2B,2016,2017, --, 0.72
+2,1B,2B,Stolen Base 2B,434658,Rajai Davis,598264,Matt Barnes,596019,Francisco Lindor,R,Blake Swihart,596119,7,6,8,False,2016-04-06,Stolen,2B,2016,2017, --, 0.72
+3,2B,,Caught Stealing 3B,434658,Rajai Davis,598264,Matt Barnes,608070,José Ramírez,R,Blake Swihart,596119,7,6,8,False,2016-04-06,Caught,3B,2016,2017, --, 0.72
+4,1B,2B,Caught Stealing 3B,596019,Francisco Lindor,598264,Matt Barnes,608070,José Ramírez,R,Blake Swihart,596119,7,6,8,False,2016-04-06,Caught,3B,2016,2017, --, 0.72
+5,1B,2B,Stolen Base 2B,475247,Ryan Flaherty,598287,Noé Ramirez,572073,Joey Rickard,R,Blake Swihart,596119,4,5,6,True,2016-04-12,Stolen,2B,2016,2017, --, 0.72
+6,1B,2B,Stolen Base 2B,446381,Darwin Barney,519144,Rick Porcello,489365,Josh Thole,R,Blake Swihart,596119,2,0,2,False,2016-04-09,Stolen,2B,2016,2017, --, 0.72
+7,1B,2B,Stolen Base 2B,434658,Rajai Davis,598264,Matt Barnes,596019,Francisco Lindor,R,Blake Swihart,596119,7,6,8,False,2016-04-06,Stolen,2B,2016,2017, --, 0.72
+8,2B,,Caught Stealing 3B,434658,Rajai Davis,598264,Matt Barnes,608070,José Ramírez,R,Blake Swihart,596119,7,6,8,False,2016-04-06,Caught,3B,2016,2017, --, 0.72
+9,1B,2B,Caught Stealing 3B,596019,Francisco Lindor,598264,Matt Barnes,608070,José Ramírez,R,Blake Swihart,596119,7,6,8,False,2016-04-06,Caught,3B,2016,2017, --, 0.72
+10,1B,2B,Stolen Base 2B,475247,Ryan Flaherty,598287,Noé Ramirez,572073,Joey Rickard,R,Blake Swihart,596119,4,5,6,True,2016-04-12,Stolen,2B,2016,2017, --, 0.72
+11,1B,2B,Stolen Base 2B,446381,Darwin Barney,519144,Rick Porcello,489365,Josh Thole,R,Blake Swihart,596119,2,0,2,False,2016-04-09,Stolen,2B,2016,2017, --, 0.72
+12,1B,2B,Stolen Base 2B,434658,Rajai Davis,598264,Matt Barnes,596019,Francisco Lindor,R,Blake Swihart,596119,7,6,8,False,2016-04-06,Stolen,2B,2016,2017, --, 0.72
+13,2B,,Caught Stealing 3B,434658,Rajai Davis,598264,Matt Barnes,608070,José Ramírez,R,Blake Swihart,596119,7,6,8,False,2016-04-06,Caught,3B,2016,2017, --, 0.72
+14,1B,2B,Caught Stealing 3B,596019,Francisco Lindor,598264,Matt Barnes,608070,José Ramírez,R,Blake Swihart,596119,7,6,8,False,2016-04-06,Caught,3B,2016,2017, --, 0.72

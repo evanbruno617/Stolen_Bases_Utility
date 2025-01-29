@@ -1,0 +1,84 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,666310,Bo Naylor,605154,John Brebbia,664702,Myles Straw,R,Joey Bart,663698,3,2,7,True,2023-09-11,Stolen,2B,2023,2024, 84.4, 0.69
+1,1B,2B,Stolen Base 2B,665926,Andrés Giménez,643511,Tyler Rogers,686823,Will Brennan,R,Joey Bart,663698,3,3,8,True,2023-09-11,Stolen,2B,2023,2024, 84.4, 0.69
+2,1B,2B,Stolen Base 2B,671289,Tyler Freeman,592426,Luke Jackson,665926,Andrés Giménez,R,Joey Bart,663698,3,4,10,True,2023-09-11,Stolen,2B,2023,2024, 84.4, 0.69
+3,1B,,Caught Stealing 2B,656248,Sean Bouchard,690986,Kyle Harrison,453568,Charlie Blackmon,L,Joey Bart,663698,0,3,2,True,2023-09-08,Caught,2B,2023,2024, 84.4, 0.69
+4,1B,2B,Stolen Base 2B,666134,Nolan Jones,573124,Taylor Rogers,663898,Brendan Rodgers,L,Joey Bart,663698,4,7,7,True,2023-09-08,Stolen,2B,2023,2024, 84.4, 0.69
+5,2B,3B,Stolen Base 3B,547180,Bryce Harper,548389,Ross Stripling,656941,Kyle Schwarber,R,Joey Bart,663698,4,0,4,True,2023-05-17,Stolen,3B,2023,2024, 84.4, 0.69
+6,1B,2B,Stolen Base 2B,592206,Nick Castellanos,548389,Ross Stripling,656941,Kyle Schwarber,R,Joey Bart,663698,4,0,4,True,2023-05-17,Stolen,2B,2023,2024, 84.4, 0.69
+7,2B,3B,Stolen Base 3B,592663,J.T. Realmuto,502171,Alex Cobb,664761,Alec Bohm,R,Joey Bart,663698,0,0,2,True,2023-05-16,Stolen,3B,2023,2024, 84.4, 0.69
+8,1B,2B,Stolen Base 2B,669016,Brandon Marsh,502171,Alex Cobb,665019,Kody Clemens,R,Joey Bart,663698,0,0,2,True,2023-05-16,Stolen,2B,2023,2024, 84.4, 0.69
+9,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,643511,Tyler Rogers,664761,Alec Bohm,R,Joey Bart,663698,4,2,7,True,2023-05-16,Stolen,2B,2023,2024, 84.4, 0.69
+10,1B,2B,Stolen Base 2B,672515,Gabriel Moreno,657277,Logan Webb,672695,Geraldo Perdomo,R,Joey Bart,663698,1,1,7,False,2023-05-14,Stolen,2B,2023,2024, 84.4, 0.69
+11,1B,2B,Stolen Base 2B,606466,Ketel Marte,518397,Scott Alexander,682998,Corbin Carroll,L,Joey Bart,663698,7,5,8,False,2023-05-12,Stolen,2B,2023,2024, 84.4, 0.69
+12,1B,2B,Stolen Base 2B,669743,Alex Call,640455,Sean Manaea,642086,Dominic Smith,L,Joey Bart,663698,0,1,2,True,2023-05-10,Stolen,2B,2023,2024, 84.4, 0.69
+13,3B,score,Caught Stealing 2B,680911,Owen Miller,640455,Sean Manaea,572228,Luke Voit,L,Joey Bart,663698,0,2,1,True,2023-05-05,Caught,2B,2023,2024, 84.4, 0.69
+14,1B,,Caught Stealing 2B,605119,Brian Anderson,640455,Sean Manaea,572228,Luke Voit,L,Joey Bart,663698,0,2,1,True,2023-05-05,Caught,2B,2023,2024, 84.4, 0.69
+15,2B,3B,Stolen Base 3B,621438,Tyrone Taylor,640455,Sean Manaea,661388,William Contreras,L,Joey Bart,663698,2,2,5,True,2023-05-05,Stolen,3B,2023,2024, 84.4, 0.69
+16,1B,2B,Stolen Base 2B,686894,Joey Wiemer,640455,Sean Manaea,661388,William Contreras,L,Joey Bart,663698,2,2,5,True,2023-05-05,Stolen,2B,2023,2024, 84.4, 0.69
+17,1B,,Caught Stealing 2B,516782,Starling Marte,657277,Logan Webb,596019,Francisco Lindor,R,Joey Bart,663698,6,2,3,True,2023-04-22,Caught,2B,2023,2024, 84.4, 0.69
+18,1B,2B,Stolen Base 2B,641658,Garrett Hampson,502171,Alex Cobb,665862,Jazz Chisholm Jr.,R,Joey Bart,663698,0,1,5,False,2023-04-19,Stolen,2B,2023,2024, 84.4, 0.69
+19,2B,3B,Stolen Base 3B,665862,Jazz Chisholm Jr.,666808,Camilo Doval,624585,Jorge Soler,R,Joey Bart,663698,1,1,10,False,2023-04-19,Stolen,3B,2023,2024, 84.4, 0.69
+20,1B,2B,Stolen Base 2B,650333,Luis Arraez,666808,Camilo Doval,624585,Jorge Soler,R,Joey Bart,663698,1,1,10,False,2023-04-19,Stolen,2B,2023,2024, 84.4, 0.69
+21,1B,2B,Stolen Base 2B,541645,Avisaíl García,596001,Jakob Junis,607732,Jacob Stallings,R,Joey Bart,663698,4,2,4,False,2023-04-18,Stolen,2B,2023,2024, 84.4, 0.69
+22,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,573124,Taylor Rogers,541645,Avisaíl García,L,Joey Bart,663698,4,2,8,False,2023-04-18,Stolen,2B,2023,2024, 84.4, 0.69
+23,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,657277,Logan Webb,643265,Garrett Cooper,R,Joey Bart,663698,1,3,3,False,2023-04-17,Stolen,2B,2023,2024, 84.4, 0.69
+24,1B,2B,Stolen Base 2B,668731,Akil Baddoo,663546,Sean Hjelle,656716,Zach McKinstry,R,Joey Bart,663698,6,6,8,False,2023-04-15,Stolen,2B,2023,2024, 84.4, 0.69
+25,1B,2B,Stolen Base 2B,663837,Matt Vierling,640455,Sean Manaea,663527,Tyler Nevin,L,Joey Bart,663698,1,1,3,False,2023-04-14,Stolen,2B,2023,2024, 84.4, 0.69
+26,1B,2B,Stolen Base 2B,656716,Zach McKinstry,666808,Camilo Doval,668670,Jake Rogers,R,Joey Bart,663698,4,5,11,False,2023-04-14,Stolen,2B,2023,2024, 84.4, 0.69
+27,1B,,Caught Stealing 2B,681546,James Outman,502171,Alex Cobb,678246,Miguel Vargas,R,Joey Bart,663698,3,1,4,True,2023-04-12,Caught,2B,2023,2024, 84.4, 0.69
+28,1B,2B,Stolen Base 2B,681546,James Outman,573124,Taylor Rogers,621035,Chris Taylor,L,Joey Bart,663698,1,4,7,True,2023-04-10,Stolen,2B,2023,2024, 84.4, 0.69
+29,1B,2B,Stolen Base 2B,666310,Bo Naylor,605154,John Brebbia,664702,Myles Straw,R,Joey Bart,663698,3,2,7,True,2023-09-11,Stolen,2B,2023,2024, 84.4, 0.69
+30,1B,2B,Stolen Base 2B,665926,Andrés Giménez,643511,Tyler Rogers,686823,Will Brennan,R,Joey Bart,663698,3,3,8,True,2023-09-11,Stolen,2B,2023,2024, 84.4, 0.69
+31,1B,2B,Stolen Base 2B,671289,Tyler Freeman,592426,Luke Jackson,665926,Andrés Giménez,R,Joey Bart,663698,3,4,10,True,2023-09-11,Stolen,2B,2023,2024, 84.4, 0.69
+32,1B,,Caught Stealing 2B,656248,Sean Bouchard,690986,Kyle Harrison,453568,Charlie Blackmon,L,Joey Bart,663698,0,3,2,True,2023-09-08,Caught,2B,2023,2024, 84.4, 0.69
+33,1B,2B,Stolen Base 2B,666134,Nolan Jones,573124,Taylor Rogers,663898,Brendan Rodgers,L,Joey Bart,663698,4,7,7,True,2023-09-08,Stolen,2B,2023,2024, 84.4, 0.69
+34,2B,3B,Stolen Base 3B,547180,Bryce Harper,548389,Ross Stripling,656941,Kyle Schwarber,R,Joey Bart,663698,4,0,4,True,2023-05-17,Stolen,3B,2023,2024, 84.4, 0.69
+35,1B,2B,Stolen Base 2B,592206,Nick Castellanos,548389,Ross Stripling,656941,Kyle Schwarber,R,Joey Bart,663698,4,0,4,True,2023-05-17,Stolen,2B,2023,2024, 84.4, 0.69
+36,2B,3B,Stolen Base 3B,592663,J.T. Realmuto,502171,Alex Cobb,664761,Alec Bohm,R,Joey Bart,663698,0,0,2,True,2023-05-16,Stolen,3B,2023,2024, 84.4, 0.69
+37,1B,2B,Stolen Base 2B,669016,Brandon Marsh,502171,Alex Cobb,665019,Kody Clemens,R,Joey Bart,663698,0,0,2,True,2023-05-16,Stolen,2B,2023,2024, 84.4, 0.69
+38,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,643511,Tyler Rogers,664761,Alec Bohm,R,Joey Bart,663698,4,2,7,True,2023-05-16,Stolen,2B,2023,2024, 84.4, 0.69
+39,1B,2B,Stolen Base 2B,672515,Gabriel Moreno,657277,Logan Webb,672695,Geraldo Perdomo,R,Joey Bart,663698,1,1,7,False,2023-05-14,Stolen,2B,2023,2024, 84.4, 0.69
+40,1B,2B,Stolen Base 2B,606466,Ketel Marte,518397,Scott Alexander,682998,Corbin Carroll,L,Joey Bart,663698,7,5,8,False,2023-05-12,Stolen,2B,2023,2024, 84.4, 0.69
+41,1B,2B,Stolen Base 2B,669743,Alex Call,640455,Sean Manaea,642086,Dominic Smith,L,Joey Bart,663698,0,1,2,True,2023-05-10,Stolen,2B,2023,2024, 84.4, 0.69
+42,3B,score,Caught Stealing 2B,680911,Owen Miller,640455,Sean Manaea,572228,Luke Voit,L,Joey Bart,663698,0,2,1,True,2023-05-05,Caught,2B,2023,2024, 84.4, 0.69
+43,1B,,Caught Stealing 2B,605119,Brian Anderson,640455,Sean Manaea,572228,Luke Voit,L,Joey Bart,663698,0,2,1,True,2023-05-05,Caught,2B,2023,2024, 84.4, 0.69
+44,2B,3B,Stolen Base 3B,621438,Tyrone Taylor,640455,Sean Manaea,661388,William Contreras,L,Joey Bart,663698,2,2,5,True,2023-05-05,Stolen,3B,2023,2024, 84.4, 0.69
+45,1B,2B,Stolen Base 2B,686894,Joey Wiemer,640455,Sean Manaea,661388,William Contreras,L,Joey Bart,663698,2,2,5,True,2023-05-05,Stolen,2B,2023,2024, 84.4, 0.69
+46,1B,,Caught Stealing 2B,516782,Starling Marte,657277,Logan Webb,596019,Francisco Lindor,R,Joey Bart,663698,6,2,3,True,2023-04-22,Caught,2B,2023,2024, 84.4, 0.69
+47,1B,2B,Stolen Base 2B,641658,Garrett Hampson,502171,Alex Cobb,665862,Jazz Chisholm Jr.,R,Joey Bart,663698,0,1,5,False,2023-04-19,Stolen,2B,2023,2024, 84.4, 0.69
+48,2B,3B,Stolen Base 3B,665862,Jazz Chisholm Jr.,666808,Camilo Doval,624585,Jorge Soler,R,Joey Bart,663698,1,1,10,False,2023-04-19,Stolen,3B,2023,2024, 84.4, 0.69
+49,1B,2B,Stolen Base 2B,650333,Luis Arraez,666808,Camilo Doval,624585,Jorge Soler,R,Joey Bart,663698,1,1,10,False,2023-04-19,Stolen,2B,2023,2024, 84.4, 0.69
+50,1B,2B,Stolen Base 2B,541645,Avisaíl García,596001,Jakob Junis,607732,Jacob Stallings,R,Joey Bart,663698,4,2,4,False,2023-04-18,Stolen,2B,2023,2024, 84.4, 0.69
+51,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,573124,Taylor Rogers,541645,Avisaíl García,L,Joey Bart,663698,4,2,8,False,2023-04-18,Stolen,2B,2023,2024, 84.4, 0.69
+52,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,657277,Logan Webb,643265,Garrett Cooper,R,Joey Bart,663698,1,3,3,False,2023-04-17,Stolen,2B,2023,2024, 84.4, 0.69
+53,1B,2B,Stolen Base 2B,668731,Akil Baddoo,663546,Sean Hjelle,656716,Zach McKinstry,R,Joey Bart,663698,6,6,8,False,2023-04-15,Stolen,2B,2023,2024, 84.4, 0.69
+54,1B,2B,Stolen Base 2B,663837,Matt Vierling,640455,Sean Manaea,663527,Tyler Nevin,L,Joey Bart,663698,1,1,3,False,2023-04-14,Stolen,2B,2023,2024, 84.4, 0.69
+55,1B,2B,Stolen Base 2B,656716,Zach McKinstry,666808,Camilo Doval,668670,Jake Rogers,R,Joey Bart,663698,4,5,11,False,2023-04-14,Stolen,2B,2023,2024, 84.4, 0.69
+56,1B,,Caught Stealing 2B,681546,James Outman,502171,Alex Cobb,678246,Miguel Vargas,R,Joey Bart,663698,3,1,4,True,2023-04-12,Caught,2B,2023,2024, 84.4, 0.69
+57,1B,2B,Stolen Base 2B,681546,James Outman,573124,Taylor Rogers,621035,Chris Taylor,L,Joey Bart,663698,1,4,7,True,2023-04-10,Stolen,2B,2023,2024, 84.4, 0.69
+58,1B,2B,Stolen Base 2B,664983,Jake McCarthy,661440,Mauricio Llovera,662139,Daulton Varsho,R,Joey Bart,663698,1,3,8,True,2022-07-11,Stolen,2B,2022,2023, 84.9, 0.76
+59,1B,2B,Stolen Base 2B,542932,Jon Berti,657277,Logan Webb,500743,Miguel Rojas,R,Joey Bart,663698,2,4,5,False,2022-06-04,Stolen,2B,2022,2023, 84.9, 0.76
+60,1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,605154,John Brebbia,643265,Garrett Cooper,R,Joey Bart,663698,4,4,5,False,2022-06-04,Stolen,2B,2022,2023, 84.9, 0.76
+61,1B,,Caught Stealing 2B,663897,Luke Williams,622072,Alex Wood,542932,Jon Berti,L,Joey Bart,663698,1,0,5,False,2022-06-02,Caught,2B,2022,2023, 84.9, 0.76
+62,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,596001,Jakob Junis,664761,Alec Bohm,R,Joey Bart,663698,1,0,4,False,2022-05-31,Stolen,2B,2022,2023, 84.9, 0.76
+63,1B,2B,Stolen Base 2B,664670,Alejo Lopez,607074,Carlos Rodón,608703,Matt Reynolds,L,Joey Bart,663698,1,0,3,False,2022-05-27,Stolen,2B,2022,2023, 84.9, 0.76
+64,1B,2B,Stolen Base 2B,516782,Starling Marte,657277,Logan Webb,596019,Francisco Lindor,R,Joey Bart,663698,0,0,1,True,2022-05-24,Stolen,2B,2022,2023, 84.9, 0.76
+65,2B,3B,Stolen Base 3B,643446,Jeff McNeil,502171,Alex Cobb,500871,Eduardo Escobar,R,Joey Bart,663698,2,5,6,True,2022-05-23,Stolen,3B,2022,2023, 84.9, 0.76
+66,1B,2B,Stolen Base 2B,595777,Jurickson Profar,607074,Carlos Rodón,571976,Wil Myers,L,Joey Bart,663698,0,0,1,True,2022-05-21,Stolen,2B,2022,2023, 84.9, 0.76
+67,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,607074,Carlos Rodón,640492,José Azocar,L,Joey Bart,663698,0,1,4,True,2022-05-21,Stolen,2B,2022,2023, 84.9, 0.76
+68,1B,2B,Stolen Base 2B,664056,Harrison Bader,607074,Carlos Rodón,624641,Edmundo Sosa,L,Joey Bart,663698,6,0,4,False,2022-05-15,Stolen,2B,2022,2023, 84.9, 0.76
+69,1B,2B,Stolen Base 2B,656582,Connor Joe,502171,Alex Cobb,453568,Charlie Blackmon,R,Joey Bart,663698,0,0,1,True,2022-05-11,Stolen,2B,2022,2023, 84.9, 0.76
+70,1B,,Caught Stealing 2B,641658,Garrett Hampson,605154,John Brebbia,624513,Dom Nuñez,R,Joey Bart,663698,5,1,7,True,2022-05-11,Caught,2B,2022,2023, 84.9, 0.76
+71,1B,2B,Stolen Base 2B,669242,Tommy Edman,657277,Logan Webb,502671,Paul Goldschmidt,R,Joey Bart,663698,0,0,1,True,2022-05-07,Stolen,2B,2022,2023, 84.9, 0.76
+72,1B,2B,Stolen Base 2B,664056,Harrison Bader,657277,Logan Webb,657557,Paul DeJong,R,Joey Bart,663698,8,4,4,True,2022-05-07,Stolen,2B,2022,2023, 84.9, 0.76
+73,1B,2B,Stolen Base 2B,665650,Lucius Fox,502171,Alex Cobb,514917,César Hernández,R,Joey Bart,663698,0,5,1,True,2022-05-01,Stolen,2B,2022,2023, 84.9, 0.76
+74,1B,2B,Stolen Base 2B,665742,Juan Soto,459429,Jake McGee,443558,Nelson Cruz,L,Joey Bart,663698,5,8,8,True,2022-05-01,Stolen,2B,2022,2023, 84.9, 0.76
+75,1B,2B,Stolen Base 2B,641914,Sheldon Neuse,607074,Carlos Rodón,669221,Sean Murphy,L,Joey Bart,663698,0,0,1,True,2022-04-26,Stolen,2B,2022,2023, 84.9, 0.76
+76,1B,2B,Stolen Base 2B,641914,Sheldon Neuse,607074,Carlos Rodón,669221,Sean Murphy,L,Joey Bart,663698,2,1,3,True,2022-04-26,Stolen,2B,2022,2023, 84.9, 0.76
+77,1B,2B,Stolen Base 2B,657041,Lane Thomas,657277,Logan Webb,656180,Riley Adams,R,Joey Bart,663698,1,4,2,False,2022-04-24,Stolen,2B,2022,2023, 84.9, 0.76
+78,1B,,Caught Stealing 2B,516782,Starling Marte,608678,Dominic Leone,596019,Francisco Lindor,R,Joey Bart,663698,1,5,7,False,2022-04-20,Caught,2B,2022,2023, 84.9, 0.76
+79,1B,2B,Stolen Base 2B,516782,Starling Marte,502171,Alex Cobb,596019,Francisco Lindor,R,Joey Bart,663698,0,0,1,False,2022-04-19,Stolen,2B,2022,2023, 84.9, 0.76
+80,2B,3B,Stolen Base 3B,596019,Francisco Lindor,608678,Dominic Leone,624413,Pete Alonso,R,Joey Bart,663698,4,4,5,False,2022-04-19,Stolen,3B,2022,2023, 84.9, 0.76
+81,1B,2B,Stolen Base 2B,642708,Amed Rosario,606424,Jarlín García,647304,Josh Naylor,L,Joey Bart,663698,2,2,6,False,2022-04-16,Stolen,2B,2022,2023, 84.9, 0.76
+82,1B,2B,Stolen Base 2B,572228,Luke Voit,502171,Alex Cobb,543333,Eric Hosmer,R,Joey Bart,663698,6,0,2,True,2022-04-12,Stolen,2B,2022,2023, 84.9, 0.76

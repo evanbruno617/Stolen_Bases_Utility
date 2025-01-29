@@ -1,0 +1,10 @@
+Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1B,2B,Stolen Base 2B,592881,Kyle Wren,502624,Chase Anderson,644337,Nate Orf,R,Parker Berberet,607289,1,0,1,False,2016-04-02,Stolen,2B
+1B,,Caught Stealing 2B,644337,Nate Orf,502624,Chase Anderson,621433,Brett Phillips,R,Parker Berberet,607289,1,0,1,False,2016-04-02,Caught,2B
+1B,2B,Stolen Base 2B,592881,Kyle Wren,572687,Tristan Archer,644337,Nate Orf,R,Parker Berberet,607289,2,5,6,False,2016-04-02,Stolen,2B
+1B,2B,Stolen Base 2B,592881,Kyle Wren,502624,Chase Anderson,644337,Nate Orf,R,Parker Berberet,607289,1,0,1,False,2016-04-02,Stolen,2B
+1B,,Caught Stealing 2B,644337,Nate Orf,502624,Chase Anderson,621433,Brett Phillips,R,Parker Berberet,607289,1,0,1,False,2016-04-02,Caught,2B
+1B,2B,Stolen Base 2B,592881,Kyle Wren,572687,Tristan Archer,644337,Nate Orf,R,Parker Berberet,607289,2,5,6,False,2016-04-02,Stolen,2B
+1B,2B,Stolen Base 2B,592881,Kyle Wren,502624,Chase Anderson,644337,Nate Orf,R,Parker Berberet,607289,1,0,1,False,2016-04-02,Stolen,2B
+1B,,Caught Stealing 2B,644337,Nate Orf,502624,Chase Anderson,621433,Brett Phillips,R,Parker Berberet,607289,1,0,1,False,2016-04-02,Caught,2B
+1B,2B,Stolen Base 2B,592881,Kyle Wren,572687,Tristan Archer,644337,Nate Orf,R,Parker Berberet,607289,2,5,6,False,2016-04-02,Stolen,2B

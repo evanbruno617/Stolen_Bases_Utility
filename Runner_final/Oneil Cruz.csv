@@ -1,0 +1,13 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4069,1B,2B,Stolen Base 2B,665833,Oneil Cruz,656629,Michael Kopech,668804,Bryan Reynolds,R,Seby Zavala,664874,1,0,6,False,2023-04-09,Stolen,2B,2023,2024,28.8
+1,4085,1B,2B,Stolen Base 2B,665833,Oneil Cruz,605182,Mike Clevinger,668804,Bryan Reynolds,R,Yasmani Grandal,518735,2,5,3,False,2023-04-08,Stolen,2B,2023,2024,28.8
+2,4175,1B,2B,Stolen Base 2B,665833,Oneil Cruz,601713,Nick Pivetta,467793,Carlos Santana,R,Reese McGuire,624512,0,0,1,True,2023-04-04,Stolen,2B,2023,2024,28.8
+3,8483,1B,2B,Stolen Base 2B,665833,Oneil Cruz,656629,Michael Kopech,668804,Bryan Reynolds,R,Seby Zavala,664874,1,0,6,False,2023-04-09,Stolen,2B,2023,2024,28.8
+4,8499,1B,2B,Stolen Base 2B,665833,Oneil Cruz,605182,Mike Clevinger,668804,Bryan Reynolds,R,Yasmani Grandal,518735,2,5,3,False,2023-04-08,Stolen,2B,2023,2024,28.8
+5,8589,1B,2B,Stolen Base 2B,665833,Oneil Cruz,601713,Nick Pivetta,467793,Carlos Santana,R,Reese McGuire,624512,0,0,1,True,2023-04-04,Stolen,2B,2023,2024,28.8
+6,32,1B,,Caught Stealing 2B,665833,Oneil Cruz,542914,Anthony Bass,621028,Kevin Newman,R,Nick Fortes,663743,1,0,7,True,2022-07-14,Caught,2B,2022,2023,28.7
+7,34,1B,,Caught Stealing 2B,665833,Oneil Cruz,656945,Tanner Scott,605421,Michael Pérez,L,Nick Fortes,663743,1,1,9,True,2022-07-14,Caught,2B,2022,2023,28.7
+8,47,1B,2B,Stolen Base 2B,665833,Oneil Cruz,641154,Pablo López,592325,Ben Gamel,R,Nick Fortes,663743,0,1,5,True,2022-07-13,Stolen,2B,2022,2023,28.7
+9,172,1B,2B,Stolen Base 2B,665833,Oneil Cruz,667498,Robert Dugger,642165,Josh VanMeter,R,Michael Papierski,657709,1,1,7,True,2022-07-07,Stolen,2B,2022,2023,28.7
+10,330,1B,,Caught Stealing 2B,665833,Oneil Cruz,502179,Paolo Espino,669261,Jack Suwinski,R,Keibert Ruiz,660688,2,2,2,True,2022-06-29,Caught,2B,2022,2023,28.7
+11,469,1B,2B,Stolen Base 2B,665833,Oneil Cruz,664161,Matt Swarmer,676632,Bligh Madris,R,P.J. Higgins,664731,5,0,3,False,2022-06-21,Stolen,2B,2022,2023,28.7

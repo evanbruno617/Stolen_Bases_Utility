@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+349,1B,2B,Stolen Base 2B,672515,Gabriel Moreno,Yan Gomes,2,3,5,False,2023-09-16,Stolen,2B,2023
+351,1B,,Caught Stealing 2B,672515,Gabriel Moreno,Yan Gomes,3,3,9,False,2023-09-16,Caught,2B,2023
+600,1B,2B,Stolen Base 2B,672515,Gabriel Moreno,Yan Gomes,0,1,2,True,2023-09-07,Stolen,2B,2023
+1066,3B,,Caught Stealing Home,672515,Gabriel Moreno,Gary Sánchez,0,0,5,True,2023-08-18,Caught,Home,2023
+2068,1B,2B,Stolen Base 2B,672515,Gabriel Moreno,Matt Thaiss,1,3,7,True,2023-07-01,Stolen,2B,2023
+2866,2B,3B,Stolen Base 3B,672515,Gabriel Moreno,Elias Díaz,7,5,8,False,2023-05-29,Stolen,3B,2023
+3198,1B,2B,Stolen Base 2B,672515,Gabriel Moreno,Joey Bart,1,1,7,False,2023-05-14,Stolen,2B,2023
+3337,1B,2B,Stolen Base 2B,672515,Gabriel Moreno,Nick Fortes,1,1,5,False,2023-05-08,Stolen,2B,2023

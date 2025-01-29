@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1942,1B,2B,Stolen Base 2B,471897,Greg Halman,Hank Conger,7,3,6,True,2011-07-09,Stolen,2B,2011
+1963,1B,2B,Stolen Base 2B,471897,Greg Halman,Hank Conger,1,1,3,True,2011-07-08,Stolen,2B,2011
+2120,1B,,Caught Stealing 2B,471897,Greg Halman,Kyle Phillips,0,1,5,False,2011-07-02,Caught,2B,2011
+2220,1B,2B,Stolen Base 2B,471897,Greg Halman,Brian McCann,2,0,2,False,2011-06-28,Stolen,2B,2011
+2448,1B,2B,Stolen Base 2B,471897,Greg Halman,Carlos Ruiz,1,3,7,False,2011-06-18,Stolen,2B,2011
+2695,1B,2B,Stolen Base 2B,471897,Greg Halman,Alex Avila,0,0,5,True,2011-06-09,Stolen,2B,2011

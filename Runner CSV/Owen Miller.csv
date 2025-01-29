@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+631,1B,2B,Stolen Base 2B,680911,Owen Miller,Max Stassi,3,0,3,False,2021-08-21,Stolen,2B,2021
+691,1B,2B,Stolen Base 2B,680911,Owen Miller,Ryan Jeffers,1,1,2,True,2021-08-18,Stolen,2B,2021
+186,1B,2B,Stolen Base 2B,680911,Owen Miller,Seby Zavala,5,7,11,True,2022-09-20,Stolen,2B,2022
+1823,1B,2B,Stolen Base 2B,680911,Owen Miller,Will Smith,2,2,7,True,2022-06-19,Stolen,2B,2022
+1630,1B,2B,Stolen Base 2B,680911,Owen Miller,Travis d'Arnaud,2,1,7,False,2023-07-23,Stolen,2B,2023
+1846,1B,2B,Stolen Base 2B,680911,Owen Miller,Tyler Stephenson,0,1,7,True,2023-07-14,Stolen,2B,2023
+1951,1B,2B,Stolen Base 2B,680911,Owen Miller,Yan Gomes,0,1,2,False,2023-07-06,Stolen,2B,2023
+1999,1B,2B,Stolen Base 2B,680911,Owen Miller,Miguel Amaya,0,4,5,False,2023-07-04,Stolen,2B,2023
+2540,1B,,Caught Stealing 2B,680911,Owen Miller,Carlos Pérez,2,4,5,False,2023-06-11,Caught,2B,2023
+2595,1B,2B,Stolen Base 2B,680911,Owen Miller,Shea Langeliers,0,3,1,False,2023-06-09,Stolen,2B,2023
+2716,1B,2B,Stolen Base 2B,680911,Owen Miller,Tyler Stephenson,0,5,5,True,2023-06-04,Stolen,2B,2023
+2797,1B,2B,Stolen Base 2B,680911,Owen Miller,Tyler Heineman,3,0,6,True,2023-06-01,Stolen,2B,2023
+2913,1B,2B,Stolen Base 2B,680911,Owen Miller,Patrick Bailey,0,1,6,False,2023-05-27,Stolen,2B,2023
+3008,1B,2B,Stolen Base 2B,680911,Owen Miller,Yainer Diaz,2,0,4,False,2023-05-23,Stolen,2B,2023
+3116,1B,2B,Stolen Base 2B,680911,Owen Miller,Francisco Mejía,0,0,8,True,2023-05-19,Stolen,2B,2023
+3410,3B,score,Caught Stealing 2B,680911,Owen Miller,Joey Bart,0,2,1,True,2023-05-05,Caught,2B,2023
+3468,1B,,Caught Stealing 2B,680911,Owen Miller,Elias Díaz,0,0,3,True,2023-05-03,Caught,2B,2023
+3777,1B,2B,Stolen Base 2B,680911,Owen Miller,Reese McGuire,1,2,3,False,2023-04-21,Stolen,2B,2023
+3804,1B,2B,Stolen Base 2B,680911,Owen Miller,Tom Murphy,2,5,9,True,2023-04-19,Stolen,2B,2023
+3935,1B,2B,Stolen Base 2B,680911,Owen Miller,Luis Campusano,0,7,5,True,2023-04-14,Stolen,2B,2023

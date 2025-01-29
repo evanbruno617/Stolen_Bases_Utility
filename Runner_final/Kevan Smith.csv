@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1648,1B,2B,Stolen Base 2B,607345,Kevan Smith,592229,Dylan Covey,664058,David Fletcher,R,Zack Collins,641470,2,2,2,True,2019-09-07,Stolen,2B,2019,2020,24.7
+1,3482,1B,2B,Stolen Base 2B,607345,Kevan Smith,543507,Trevor May,571718,Brian Goodwin,R,Jason Castro,488771,4,5,7,True,2019-05-13,Stolen,2B,2019,2020,24.7
+2,4491,1B,2B,Stolen Base 2B,607345,Kevan Smith,592229,Dylan Covey,664058,David Fletcher,R,Zack Collins,641470,2,2,2,True,2019-09-07,Stolen,2B,2019,2020,24.7
+3,6325,1B,2B,Stolen Base 2B,607345,Kevan Smith,543507,Trevor May,571718,Brian Goodwin,R,Jason Castro,488771,4,5,7,True,2019-05-13,Stolen,2B,2019,2020,24.7
+4,6415,1B,2B,Stolen Base 2B,607345,Kevan Smith,592229,Dylan Covey,664058,David Fletcher,R,Zack Collins,641470,2,2,2,True,2019-09-07,Stolen,2B,2019,2020,24.7
+5,8249,1B,2B,Stolen Base 2B,607345,Kevan Smith,543507,Trevor May,571718,Brian Goodwin,R,Jason Castro,488771,4,5,7,True,2019-05-13,Stolen,2B,2019,2020,24.7

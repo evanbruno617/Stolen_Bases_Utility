@@ -1,0 +1,18 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1918,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,573109,AJ Ramos,608577,Nomar Mazara,R,J.T. Realmuto,592663,0,4,9,False,2017-07-24,Stolen,2B,2017,2018,25.1
+1,1290,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,573109,AJ Ramos,608577,Nomar Mazara,R,J.T. Realmuto,592663,0,4,9,False,2017-07-24,Stolen,2B,2017,2018,25.1
+2,5478,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,502046,Jeff Locke,474892,Chris Carter,L,Francisco Cervelli,465041,3,2,3,True,2016-07-20,Stolen,2B,2016,2017,25.2
+3,5686,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,543699,Tanner Roark,474892,Chris Carter,R,Jose Lobaton,446653,4,4,3,True,2016-07-06,Stolen,2B,2016,2017,25.2
+4,5868,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,543699,Tanner Roark,543590,Kirk Nieuwenhuis,R,Jose Lobaton,446653,0,0,4,False,2016-06-26,Stolen,2B,2016,2017,25.2
+5,6280,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,476451,Jeremy Hellickson,571697,Scooter Gennett,R,Carlos Ruiz,434563,3,1,3,True,2016-06-04,Stolen,2B,2016,2017,25.2
+6,6579,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,453385,Clayton Richard,543590,Kirk Nieuwenhuis,L,David Ross,424325,1,2,13,False,2016-05-18,Stolen,2B,2016,2017,25.2
+7,1443,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,502046,Jeff Locke,474892,Chris Carter,L,Francisco Cervelli,465041,3,2,3,True,2016-07-20,Stolen,2B,2016,2017,25.2
+8,1651,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,543699,Tanner Roark,474892,Chris Carter,R,Jose Lobaton,446653,4,4,3,True,2016-07-06,Stolen,2B,2016,2017,25.2
+9,1833,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,543699,Tanner Roark,543590,Kirk Nieuwenhuis,R,Jose Lobaton,446653,0,0,4,False,2016-06-26,Stolen,2B,2016,2017,25.2
+10,2245,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,476451,Jeremy Hellickson,571697,Scooter Gennett,R,Carlos Ruiz,434563,3,1,3,True,2016-06-04,Stolen,2B,2016,2017,25.2
+11,2544,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,453385,Clayton Richard,543590,Kirk Nieuwenhuis,L,David Ross,424325,1,2,13,False,2016-05-18,Stolen,2B,2016,2017,25.2
+12,4850,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,502046,Jeff Locke,474892,Chris Carter,L,Francisco Cervelli,465041,3,2,3,True,2016-07-20,Stolen,2B,2016,2017,25.2
+13,5058,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,543699,Tanner Roark,474892,Chris Carter,R,Jose Lobaton,446653,4,4,3,True,2016-07-06,Stolen,2B,2016,2017,25.2
+14,5240,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,543699,Tanner Roark,543590,Kirk Nieuwenhuis,R,Jose Lobaton,446653,0,0,4,False,2016-06-26,Stolen,2B,2016,2017,25.2
+15,5652,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,476451,Jeremy Hellickson,571697,Scooter Gennett,R,Carlos Ruiz,434563,3,1,3,True,2016-06-04,Stolen,2B,2016,2017,25.2
+16,5951,1B,2B,Stolen Base 2B,518960,Jonathan Lucroy,453385,Clayton Richard,543590,Kirk Nieuwenhuis,L,David Ross,424325,1,2,13,False,2016-05-18,Stolen,2B,2016,2017,25.2

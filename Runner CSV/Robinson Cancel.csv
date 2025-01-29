@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+531,1B,,Caught Stealing 2B,236155,Robinson Cancel,Jason Kendall,1,5,4,True,2008-09-02,Caught,2B,2008
+1130,2B,,Caught Stealing 3B,236155,Robinson Cancel,Humberto Quintero,1,0,3,True,2008-08-03,Caught,3B,2008
+1280,1B,2B,Stolen Base 2B,236155,Robinson Cancel,Yadier Molina,5,4,5,False,2008-07-26,Stolen,2B,2008

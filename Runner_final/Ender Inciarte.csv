@@ -1,0 +1,202 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,617,1B,,Caught Stealing 2B,542255,Ender Inciarte,453284,Blake Parker,588751,Adeiny Hechavarría,R,J.T. Realmuto,592663,4,4,11,True,2020-08-28,Caught,2B,2020,2021,26.8
+1,827,1B,2B,Stolen Base 2B,542255,Ender Inciarte,434671,Aníbal Sánchez,621020,Dansby Swanson,R,Kurt Suzuki,435559,3,4,4,False,2020-08-17,Stolen,2B,2020,2021,26.8
+2,1041,1B,2B,Stolen Base 2B,542255,Ender Inciarte,621097,Jacob Waguespack,660670,Ronald Acuña Jr.,R,Danny Jansen,643376,6,1,6,False,2020-08-04,Stolen,2B,2020,2021,26.8
+3,1057,1B,2B,Stolen Base 2B,542255,Ender Inciarte,594798,Jacob deGrom,660670,Ronald Acuña Jr.,R,Wilson Ramos,467092,2,7,5,False,2020-08-03,Stolen,2B,2020,2021,26.8
+4,1117,2B,3B,Stolen Base 3B,542255,Ender Inciarte,476454,Dellin Betances,518692,Freddie Freeman,R,Wilson Ramos,467092,8,10,8,False,2020-07-31,Stolen,3B,2020,2021,26.8
+5,3460,1B,,Caught Stealing 2B,542255,Ender Inciarte,453284,Blake Parker,588751,Adeiny Hechavarría,R,J.T. Realmuto,592663,4,4,11,True,2020-08-28,Caught,2B,2020,2021,26.8
+6,3670,1B,2B,Stolen Base 2B,542255,Ender Inciarte,434671,Aníbal Sánchez,621020,Dansby Swanson,R,Kurt Suzuki,435559,3,4,4,False,2020-08-17,Stolen,2B,2020,2021,26.8
+7,3884,1B,2B,Stolen Base 2B,542255,Ender Inciarte,621097,Jacob Waguespack,660670,Ronald Acuña Jr.,R,Danny Jansen,643376,6,1,6,False,2020-08-04,Stolen,2B,2020,2021,26.8
+8,3900,1B,2B,Stolen Base 2B,542255,Ender Inciarte,594798,Jacob deGrom,660670,Ronald Acuña Jr.,R,Wilson Ramos,467092,2,7,5,False,2020-08-03,Stolen,2B,2020,2021,26.8
+9,3960,2B,3B,Stolen Base 3B,542255,Ender Inciarte,476454,Dellin Betances,518692,Freddie Freeman,R,Wilson Ramos,467092,8,10,8,False,2020-07-31,Stolen,3B,2020,2021,26.8
+10,5384,1B,,Caught Stealing 2B,542255,Ender Inciarte,453284,Blake Parker,588751,Adeiny Hechavarría,R,J.T. Realmuto,592663,4,4,11,True,2020-08-28,Caught,2B,2020,2021,26.8
+11,5594,1B,2B,Stolen Base 2B,542255,Ender Inciarte,434671,Aníbal Sánchez,621020,Dansby Swanson,R,Kurt Suzuki,435559,3,4,4,False,2020-08-17,Stolen,2B,2020,2021,26.8
+12,5808,1B,2B,Stolen Base 2B,542255,Ender Inciarte,621097,Jacob Waguespack,660670,Ronald Acuña Jr.,R,Danny Jansen,643376,6,1,6,False,2020-08-04,Stolen,2B,2020,2021,26.8
+13,5824,1B,2B,Stolen Base 2B,542255,Ender Inciarte,594798,Jacob deGrom,660670,Ronald Acuña Jr.,R,Wilson Ramos,467092,2,7,5,False,2020-08-03,Stolen,2B,2020,2021,26.8
+14,5884,2B,3B,Stolen Base 3B,542255,Ender Inciarte,476454,Dellin Betances,518692,Freddie Freeman,R,Wilson Ramos,467092,8,10,8,False,2020-07-31,Stolen,3B,2020,2021,26.8
+15,2062,1B,2B,Stolen Base 2B,542255,Ender Inciarte,650671,José Quijada,452095,Tyler Flowers,L,Jorge Alfaro,595751,4,5,9,True,2019-08-11,Stolen,2B,2019,2020,26.4
+16,2238,1B,2B,Stolen Base 2B,542255,Ender Inciarte,593833,Wander Suero,622666,Johan Camargo,R,Kurt Suzuki,435559,1,4,8,True,2019-07-31,Stolen,2B,2019,2020,26.4
+17,2265,1B,2B,Stolen Base 2B,542255,Ender Inciarte,607200,Erick Fedde,622666,Johan Camargo,R,Yan Gomes,543228,0,0,2,True,2019-07-30,Stolen,2B,2019,2020,26.4
+18,2398,1B,2B,Stolen Base 2B,542255,Ender Inciarte,448281,Sean Doolittle,660670,Ronald Acuña Jr.,L,Kurt Suzuki,435559,3,4,8,False,2019-07-20,Stolen,2B,2019,2020,26.4
+19,3796,1B,2B,Stolen Base 2B,542255,Ender Inciarte,543243,Sonny Gray,592332,Kevin Gausman,R,Tucker Barnhart,571466,2,0,3,True,2019-04-23,Stolen,2B,2019,2020,26.4
+20,3951,1B,2B,Stolen Base 2B,542255,Ender Inciarte,594798,Jacob deGrom,452095,Tyler Flowers,R,Wilson Ramos,467092,1,1,2,False,2019-04-14,Stolen,2B,2019,2020,26.4
+21,4905,1B,2B,Stolen Base 2B,542255,Ender Inciarte,650671,José Quijada,452095,Tyler Flowers,L,Jorge Alfaro,595751,4,5,9,True,2019-08-11,Stolen,2B,2019,2020,26.4
+22,5081,1B,2B,Stolen Base 2B,542255,Ender Inciarte,593833,Wander Suero,622666,Johan Camargo,R,Kurt Suzuki,435559,1,4,8,True,2019-07-31,Stolen,2B,2019,2020,26.4
+23,5108,1B,2B,Stolen Base 2B,542255,Ender Inciarte,607200,Erick Fedde,622666,Johan Camargo,R,Yan Gomes,543228,0,0,2,True,2019-07-30,Stolen,2B,2019,2020,26.4
+24,5241,1B,2B,Stolen Base 2B,542255,Ender Inciarte,448281,Sean Doolittle,660670,Ronald Acuña Jr.,L,Kurt Suzuki,435559,3,4,8,False,2019-07-20,Stolen,2B,2019,2020,26.4
+25,6639,1B,2B,Stolen Base 2B,542255,Ender Inciarte,543243,Sonny Gray,592332,Kevin Gausman,R,Tucker Barnhart,571466,2,0,3,True,2019-04-23,Stolen,2B,2019,2020,26.4
+26,6794,1B,2B,Stolen Base 2B,542255,Ender Inciarte,594798,Jacob deGrom,452095,Tyler Flowers,R,Wilson Ramos,467092,1,1,2,False,2019-04-14,Stolen,2B,2019,2020,26.4
+27,6829,1B,2B,Stolen Base 2B,542255,Ender Inciarte,650671,José Quijada,452095,Tyler Flowers,L,Jorge Alfaro,595751,4,5,9,True,2019-08-11,Stolen,2B,2019,2020,26.4
+28,7005,1B,2B,Stolen Base 2B,542255,Ender Inciarte,593833,Wander Suero,622666,Johan Camargo,R,Kurt Suzuki,435559,1,4,8,True,2019-07-31,Stolen,2B,2019,2020,26.4
+29,7032,1B,2B,Stolen Base 2B,542255,Ender Inciarte,607200,Erick Fedde,622666,Johan Camargo,R,Yan Gomes,543228,0,0,2,True,2019-07-30,Stolen,2B,2019,2020,26.4
+30,7165,1B,2B,Stolen Base 2B,542255,Ender Inciarte,448281,Sean Doolittle,660670,Ronald Acuña Jr.,L,Kurt Suzuki,435559,3,4,8,False,2019-07-20,Stolen,2B,2019,2020,26.4
+31,8563,1B,2B,Stolen Base 2B,542255,Ender Inciarte,543243,Sonny Gray,592332,Kevin Gausman,R,Tucker Barnhart,571466,2,0,3,True,2019-04-23,Stolen,2B,2019,2020,26.4
+32,8718,1B,2B,Stolen Base 2B,542255,Ender Inciarte,594798,Jacob deGrom,452095,Tyler Flowers,R,Wilson Ramos,467092,1,1,2,False,2019-04-14,Stolen,2B,2019,2020,26.4
+33,2041,1B,2B,Stolen Base 2B,542255,Ender Inciarte,665854,Luis Oviedo,467055,Pablo Sandoval,R,Michael Pérez,605421,6,1,8,False,2021-05-22,Stolen,2B,2021,2022,25.6
+34,3965,1B,2B,Stolen Base 2B,542255,Ender Inciarte,665854,Luis Oviedo,467055,Pablo Sandoval,R,Michael Pérez,605421,6,1,8,False,2021-05-22,Stolen,2B,2021,2022,25.6
+35,102,1B,2B,Stolen Base 2B,542255,Ender Inciarte,592826,Vince Velasquez,660670,Ronald Acuña Jr.,R,Andrew Knapp,595284,0,6,4,True,2018-04-29,Stolen,2B,2018,2019,26.9
+36,119,1B,2B,Stolen Base 2B,542255,Ender Inciarte,601713,Nick Pivetta,455976,Nick Markakis,R,Jorge Alfaro,595751,0,3,3,True,2018-04-28,Stolen,2B,2018,2019,26.9
+37,120,2B,3B,Stolen Base 3B,542255,Ender Inciarte,601713,Nick Pivetta,455976,Nick Markakis,R,Jorge Alfaro,595751,0,3,3,True,2018-04-28,Stolen,3B,2018,2019,26.9
+38,144,1B,2B,Stolen Base 2B,542255,Ender Inciarte,605400,Aaron Nola,645277,Ozzie Albies,R,Jorge Alfaro,595751,0,0,1,True,2018-04-27,Stolen,2B,2018,2019,26.9
+39,174,1B,2B,Stolen Base 2B,542255,Ender Inciarte,605232,Brandon Finnegan,645277,Ozzie Albies,L,Tucker Barnhart,571466,0,1,1,True,2018-04-25,Stolen,2B,2018,2019,26.9
+40,175,1B,2B,Stolen Base 2B,542255,Ender Inciarte,592169,Austin Brice,645277,Ozzie Albies,R,Tucker Barnhart,571466,4,3,7,True,2018-04-25,Stolen,2B,2018,2019,26.9
+41,252,1B,2B,Stolen Base 2B,542255,Ender Inciarte,594798,Jacob deGrom,645277,Ozzie Albies,R,Jose Lobaton,446653,0,0,6,False,2018-04-21,Stolen,2B,2018,2019,26.9
+42,253,2B,,Caught Stealing 3B,542255,Ender Inciarte,594798,Jacob deGrom,645277,Ozzie Albies,R,Jose Lobaton,446653,0,0,6,False,2018-04-21,Caught,3B,2018,2019,26.9
+43,274,2B,3B,Stolen Base 3B,542255,Ender Inciarte,592789,Noah Syndergaard,455976,Nick Markakis,R,Tomás Nido,621512,1,2,3,False,2018-04-20,Stolen,3B,2018,2019,26.9
+44,334,1B,2B,Stolen Base 2B,542255,Ender Inciarte,605400,Aaron Nola,645277,Ozzie Albies,R,Jorge Alfaro,595751,0,1,1,False,2018-04-16,Stolen,2B,2018,2019,26.9
+45,428,1B,2B,Stolen Base 2B,542255,Ender Inciarte,448281,Sean Doolittle,645277,Ozzie Albies,L,Pedro Severino,600474,2,2,10,True,2018-04-11,Stolen,2B,2018,2019,26.9
+46,429,2B,3B,Stolen Base 3B,542255,Ender Inciarte,448281,Sean Doolittle,435559,Kurt Suzuki,L,Pedro Severino,600474,2,2,10,True,2018-04-11,Stolen,3B,2018,2019,26.9
+47,431,3B,,Caught Stealing Home,542255,Ender Inciarte,448281,Sean Doolittle,435559,Kurt Suzuki,L,Pedro Severino,600474,2,2,10,True,2018-04-11,Caught,Home,2018,2019,26.9
+48,479,1B,2B,Stolen Base 2B,542255,Ender Inciarte,607536,Kyle Freeland,645277,Ozzie Albies,L,Chris Iannetta,455104,0,1,5,True,2018-04-08,Stolen,2B,2018,2019,26.9
+49,604,1B,2B,Stolen Base 2B,542255,Ender Inciarte,543699,Tanner Roark,518692,Freddie Freeman,R,Pedro Severino,600474,1,5,4,False,2018-04-02,Stolen,2B,2018,2019,26.9
+50,757,1B,,Caught Stealing 2B,542255,Ender Inciarte,601713,Nick Pivetta,518692,Freddie Freeman,R,Jorge Alfaro,595751,0,0,1,False,2017-09-24,Caught,2B,2017,2018,27.8
+51,926,1B,2B,Stolen Base 2B,542255,Ender Inciarte,606160,Rafael Montero,645277,Ozzie Albies,R,Kevin Plawecki,608700,2,2,5,False,2017-09-15,Stolen,2B,2017,2018,27.8
+52,1060,1B,2B,Stolen Base 2B,542255,Ender Inciarte,573185,Dan Straily,461314,Matt Kemp,R,A.J. Ellis,454560,0,3,1,False,2017-09-07,Stolen,2B,2017,2018,27.8
+53,1129,1B,,Caught Stealing 2B,542255,Ender Inciarte,518748,Justin Grimm,645277,Ozzie Albies,R,René Rivera,425784,1,3,7,True,2017-09-03,Caught,2B,2017,2018,27.8
+54,1163,1B,2B,Stolen Base 2B,542255,Ender Inciarte,452657,Jon Lester,645277,Ozzie Albies,L,René Rivera,425784,0,0,1,True,2017-09-02,Stolen,2B,2017,2018,27.8
+55,1227,1B,2B,Stolen Base 2B,542255,Ender Inciarte,643410,Mark Leiter Jr.,645277,Ozzie Albies,R,Cameron Rupp,519237,0,0,1,True,2017-08-30,Stolen,2B,2017,2018,27.8
+56,1229,1B,,Caught Stealing 2B,542255,Ender Inciarte,643410,Mark Leiter Jr.,645277,Ozzie Albies,R,Cameron Rupp,519237,1,3,4,True,2017-08-30,Caught,2B,2017,2018,27.8
+57,1230,1B,2B,Stolen Base 2B,542255,Ender Inciarte,595191,Jerad Eickhoff,408252,Brandon Phillips,R,Jorge Alfaro,595751,0,1,1,True,2017-08-30,Stolen,2B,2017,2018,27.8
+58,1231,1B,2B,Stolen Base 2B,542255,Ender Inciarte,643410,Mark Leiter Jr.,645277,Ozzie Albies,R,Cameron Rupp,519237,0,0,1,True,2017-08-29,Stolen,2B,2017,2018,27.8
+59,1233,1B,,Caught Stealing 2B,542255,Ender Inciarte,643410,Mark Leiter Jr.,645277,Ozzie Albies,R,Cameron Rupp,519237,1,3,4,True,2017-08-29,Caught,2B,2017,2018,27.8
+60,1392,1B,,Caught Stealing 2B,542255,Ender Inciarte,621242,Edwin Díaz,518692,Freddie Freeman,R,Mike Zunino,572287,5,6,9,False,2017-08-21,Caught,2B,2017,2018,27.8
+61,1470,1B,2B,Stolen Base 2B,542255,Ender Inciarte,656546,Jeff Hoffman,518692,Freddie Freeman,R,Jonathan Lucroy,518960,0,0,1,True,2017-08-17,Stolen,2B,2017,2018,27.8
+62,1471,1B,2B,Stolen Base 2B,542255,Ender Inciarte,445197,Mike Dunn,408252,Brandon Phillips,L,Jonathan Lucroy,518960,2,5,7,True,2017-08-17,Stolen,2B,2017,2018,27.8
+63,1540,1B,2B,Stolen Base 2B,542255,Ender Inciarte,592815,Sam Tuivailala,408252,Brandon Phillips,R,Carson Kelly,608348,0,4,7,True,2017-08-13,Stolen,2B,2017,2018,27.8
+64,1695,1B,2B,Stolen Base 2B,542255,Ender Inciarte,573185,Dan Straily,408252,Brandon Phillips,R,J.T. Realmuto,592663,0,1,6,False,2017-08-05,Stolen,2B,2017,2018,27.8
+65,1924,1B,2B,Stolen Base 2B,542255,Ender Inciarte,548389,Ross Stripling,408252,Brandon Phillips,R,Austin Barnes,605131,0,1,3,True,2017-07-23,Stolen,2B,2017,2018,27.8
+66,2042,2B,3B,Stolen Base 3B,542255,Ender Inciarte,452657,Jon Lester,408252,Brandon Phillips,L,Willson Contreras,575929,1,0,3,False,2017-07-17,Stolen,3B,2017,2018,27.8
+67,2285,1B,2B,Stolen Base 2B,542255,Ender Inciarte,448281,Sean Doolittle,408252,Brandon Phillips,L,Bruce Maxwell,622194,0,2,9,True,2017-06-30,Stolen,2B,2017,2018,27.8
+68,2861,2B,3B,Stolen Base 3B,542255,Ender Inciarte,592169,Austin Brice,408252,Brandon Phillips,R,Devin Mesoraco,519023,0,2,7,True,2017-06-02,Stolen,3B,2017,2018,27.8
+69,3008,1B,,Caught Stealing 2B,542255,Ender Inciarte,543339,Daniel Hudson,455976,Nick Markakis,R,Chris Stewart,455755,4,3,7,False,2017-05-24,Caught,2B,2017,2018,27.8
+70,3105,1B,2B,Stolen Base 2B,542255,Ender Inciarte,461829,Gio González,408252,Brandon Phillips,L,Matt Wieters,446308,2,0,2,False,2017-05-19,Stolen,2B,2017,2018,27.8
+71,3107,2B,3B,Stolen Base 3B,542255,Ender Inciarte,594840,Matt Grace,455976,Nick Markakis,L,Matt Wieters,446308,4,4,6,False,2017-05-19,Stolen,3B,2017,2018,27.8
+72,3302,1B,,Caught Stealing 2B,542255,Ender Inciarte,605397,Joe Musgrove,408252,Brandon Phillips,R,Evan Gattis,594828,0,0,1,True,2017-05-10,Caught,2B,2017,2018,27.8
+73,3371,1B,,Caught Stealing 2B,542255,Ender Inciarte,502190,Mike Leake,408252,Brandon Phillips,R,Eric Fryer,518700,0,4,6,False,2017-05-06,Caught,2B,2017,2018,27.8
+74,3482,1B,2B,Stolen Base 2B,542255,Ender Inciarte,490063,Matt Garza,611177,Adonis García,R,Manny Piña,444489,0,0,1,True,2017-04-30,Stolen,2B,2017,2018,27.8
+75,3483,2B,3B,Stolen Base 3B,542255,Ender Inciarte,490063,Matt Garza,518692,Freddie Freeman,R,Manny Piña,444489,0,0,1,True,2017-04-30,Stolen,3B,2017,2018,27.8
+76,3508,1B,2B,Stolen Base 2B,542255,Ender Inciarte,519076,Jimmy Nelson,611177,Adonis García,R,Manny Piña,444489,1,0,3,True,2017-04-29,Stolen,2B,2017,2018,27.8
+77,3550,1B,2B,Stolen Base 2B,542255,Ender Inciarte,544727,Jeurys Familia,611177,Adonis García,R,Travis d'Arnaud,518595,3,6,9,True,2017-04-27,Stolen,2B,2017,2018,27.8
+78,3551,2B,3B,Stolen Base 3B,542255,Ender Inciarte,544727,Jeurys Familia,461314,Matt Kemp,R,Travis d'Arnaud,518595,3,6,9,True,2017-04-27,Stolen,3B,2017,2018,27.8
+79,3681,2B,3B,Stolen Base 3B,542255,Ender Inciarte,476451,Jeremy Hellickson,611177,Adonis García,R,Cameron Rupp,519237,3,1,4,True,2017-04-21,Stolen,3B,2017,2018,27.8
+80,3849,1B,2B,Stolen Base 2B,542255,Ender Inciarte,607457,Kyle Barraclough,621020,Dansby Swanson,R,J.T. Realmuto,592663,8,4,7,True,2017-04-11,Stolen,2B,2017,2018,27.8
+81,129,1B,,Caught Stealing 2B,542255,Ender Inciarte,601713,Nick Pivetta,518692,Freddie Freeman,R,Jorge Alfaro,595751,0,0,1,False,2017-09-24,Caught,2B,2017,2018,27.8
+82,298,1B,2B,Stolen Base 2B,542255,Ender Inciarte,606160,Rafael Montero,645277,Ozzie Albies,R,Kevin Plawecki,608700,2,2,5,False,2017-09-15,Stolen,2B,2017,2018,27.8
+83,432,1B,2B,Stolen Base 2B,542255,Ender Inciarte,573185,Dan Straily,461314,Matt Kemp,R,A.J. Ellis,454560,0,3,1,False,2017-09-07,Stolen,2B,2017,2018,27.8
+84,501,1B,,Caught Stealing 2B,542255,Ender Inciarte,518748,Justin Grimm,645277,Ozzie Albies,R,René Rivera,425784,1,3,7,True,2017-09-03,Caught,2B,2017,2018,27.8
+85,535,1B,2B,Stolen Base 2B,542255,Ender Inciarte,452657,Jon Lester,645277,Ozzie Albies,L,René Rivera,425784,0,0,1,True,2017-09-02,Stolen,2B,2017,2018,27.8
+86,599,1B,2B,Stolen Base 2B,542255,Ender Inciarte,643410,Mark Leiter Jr.,645277,Ozzie Albies,R,Cameron Rupp,519237,0,0,1,True,2017-08-30,Stolen,2B,2017,2018,27.8
+87,601,1B,,Caught Stealing 2B,542255,Ender Inciarte,643410,Mark Leiter Jr.,645277,Ozzie Albies,R,Cameron Rupp,519237,1,3,4,True,2017-08-30,Caught,2B,2017,2018,27.8
+88,602,1B,2B,Stolen Base 2B,542255,Ender Inciarte,595191,Jerad Eickhoff,408252,Brandon Phillips,R,Jorge Alfaro,595751,0,1,1,True,2017-08-30,Stolen,2B,2017,2018,27.8
+89,603,1B,2B,Stolen Base 2B,542255,Ender Inciarte,643410,Mark Leiter Jr.,645277,Ozzie Albies,R,Cameron Rupp,519237,0,0,1,True,2017-08-29,Stolen,2B,2017,2018,27.8
+90,605,1B,,Caught Stealing 2B,542255,Ender Inciarte,643410,Mark Leiter Jr.,645277,Ozzie Albies,R,Cameron Rupp,519237,1,3,4,True,2017-08-29,Caught,2B,2017,2018,27.8
+91,764,1B,,Caught Stealing 2B,542255,Ender Inciarte,621242,Edwin Díaz,518692,Freddie Freeman,R,Mike Zunino,572287,5,6,9,False,2017-08-21,Caught,2B,2017,2018,27.8
+92,842,1B,2B,Stolen Base 2B,542255,Ender Inciarte,656546,Jeff Hoffman,518692,Freddie Freeman,R,Jonathan Lucroy,518960,0,0,1,True,2017-08-17,Stolen,2B,2017,2018,27.8
+93,843,1B,2B,Stolen Base 2B,542255,Ender Inciarte,445197,Mike Dunn,408252,Brandon Phillips,L,Jonathan Lucroy,518960,2,5,7,True,2017-08-17,Stolen,2B,2017,2018,27.8
+94,912,1B,2B,Stolen Base 2B,542255,Ender Inciarte,592815,Sam Tuivailala,408252,Brandon Phillips,R,Carson Kelly,608348,0,4,7,True,2017-08-13,Stolen,2B,2017,2018,27.8
+95,1067,1B,2B,Stolen Base 2B,542255,Ender Inciarte,573185,Dan Straily,408252,Brandon Phillips,R,J.T. Realmuto,592663,0,1,6,False,2017-08-05,Stolen,2B,2017,2018,27.8
+96,1296,1B,2B,Stolen Base 2B,542255,Ender Inciarte,548389,Ross Stripling,408252,Brandon Phillips,R,Austin Barnes,605131,0,1,3,True,2017-07-23,Stolen,2B,2017,2018,27.8
+97,1414,2B,3B,Stolen Base 3B,542255,Ender Inciarte,452657,Jon Lester,408252,Brandon Phillips,L,Willson Contreras,575929,1,0,3,False,2017-07-17,Stolen,3B,2017,2018,27.8
+98,1657,1B,2B,Stolen Base 2B,542255,Ender Inciarte,448281,Sean Doolittle,408252,Brandon Phillips,L,Bruce Maxwell,622194,0,2,9,True,2017-06-30,Stolen,2B,2017,2018,27.8
+99,2233,2B,3B,Stolen Base 3B,542255,Ender Inciarte,592169,Austin Brice,408252,Brandon Phillips,R,Devin Mesoraco,519023,0,2,7,True,2017-06-02,Stolen,3B,2017,2018,27.8
+100,2380,1B,,Caught Stealing 2B,542255,Ender Inciarte,543339,Daniel Hudson,455976,Nick Markakis,R,Chris Stewart,455755,4,3,7,False,2017-05-24,Caught,2B,2017,2018,27.8
+101,2477,1B,2B,Stolen Base 2B,542255,Ender Inciarte,461829,Gio González,408252,Brandon Phillips,L,Matt Wieters,446308,2,0,2,False,2017-05-19,Stolen,2B,2017,2018,27.8
+102,2479,2B,3B,Stolen Base 3B,542255,Ender Inciarte,594840,Matt Grace,455976,Nick Markakis,L,Matt Wieters,446308,4,4,6,False,2017-05-19,Stolen,3B,2017,2018,27.8
+103,2674,1B,,Caught Stealing 2B,542255,Ender Inciarte,605397,Joe Musgrove,408252,Brandon Phillips,R,Evan Gattis,594828,0,0,1,True,2017-05-10,Caught,2B,2017,2018,27.8
+104,2743,1B,,Caught Stealing 2B,542255,Ender Inciarte,502190,Mike Leake,408252,Brandon Phillips,R,Eric Fryer,518700,0,4,6,False,2017-05-06,Caught,2B,2017,2018,27.8
+105,2854,1B,2B,Stolen Base 2B,542255,Ender Inciarte,490063,Matt Garza,611177,Adonis García,R,Manny Piña,444489,0,0,1,True,2017-04-30,Stolen,2B,2017,2018,27.8
+106,2855,2B,3B,Stolen Base 3B,542255,Ender Inciarte,490063,Matt Garza,518692,Freddie Freeman,R,Manny Piña,444489,0,0,1,True,2017-04-30,Stolen,3B,2017,2018,27.8
+107,2880,1B,2B,Stolen Base 2B,542255,Ender Inciarte,519076,Jimmy Nelson,611177,Adonis García,R,Manny Piña,444489,1,0,3,True,2017-04-29,Stolen,2B,2017,2018,27.8
+108,2922,1B,2B,Stolen Base 2B,542255,Ender Inciarte,544727,Jeurys Familia,611177,Adonis García,R,Travis d'Arnaud,518595,3,6,9,True,2017-04-27,Stolen,2B,2017,2018,27.8
+109,2923,2B,3B,Stolen Base 3B,542255,Ender Inciarte,544727,Jeurys Familia,461314,Matt Kemp,R,Travis d'Arnaud,518595,3,6,9,True,2017-04-27,Stolen,3B,2017,2018,27.8
+110,3053,2B,3B,Stolen Base 3B,542255,Ender Inciarte,476451,Jeremy Hellickson,611177,Adonis García,R,Cameron Rupp,519237,3,1,4,True,2017-04-21,Stolen,3B,2017,2018,27.8
+111,3221,1B,2B,Stolen Base 2B,542255,Ender Inciarte,607457,Kyle Barraclough,621020,Dansby Swanson,R,J.T. Realmuto,592663,8,4,7,True,2017-04-11,Stolen,2B,2017,2018,27.8
+112,4241,2B,3B,Stolen Base 3B,542255,Ender Inciarte,544727,Jeurys Familia,461314,Matt Kemp,R,René Rivera,425784,3,3,8,True,2016-09-21,Stolen,3B,2016,2017,27.1
+113,4405,2B,3B,Stolen Base 3B,542255,Ender Inciarte,607457,Kyle Barraclough,455976,Nick Markakis,R,J.T. Realmuto,592663,5,6,7,False,2016-09-13,Stolen,3B,2016,2017,27.1
+114,4439,1B,,Caught Stealing 2B,542255,Ender Inciarte,607625,Seth Lugo,611177,Adonis García,R,René Rivera,425784,0,1,1,False,2016-09-11,Caught,2B,2016,2017,27.1
+115,4511,1B,2B,Stolen Base 2B,542255,Ender Inciarte,502009,Mat Latos,461314,Matt Kemp,R,Wilson Ramos,467092,4,4,11,True,2016-09-07,Stolen,2B,2016,2017,27.1
+116,4648,1B,2B,Stolen Base 2B,542255,Ender Inciarte,518560,Paul Clemens,611177,Adonis García,R,Derek Norris,519083,0,0,1,False,2016-08-31,Stolen,2B,2016,2017,27.1
+117,4649,2B,3B,Stolen Base 3B,542255,Ender Inciarte,518560,Paul Clemens,518692,Freddie Freeman,R,Derek Norris,519083,0,0,1,False,2016-08-31,Stolen,3B,2016,2017,27.1
+118,4748,1B,,Caught Stealing 2B,542255,Ender Inciarte,592662,Robbie Ray,611177,Adonis García,L,Tuffy Gosewisch,488912,0,2,4,True,2016-08-25,Caught,2B,2016,2017,27.1
+119,4857,1B,,Caught Stealing 2B,542255,Ender Inciarte,543699,Tanner Roark,488818,Chase d'Arnaud,R,Wilson Ramos,467092,0,1,4,False,2016-08-19,Caught,2B,2016,2017,27.1
+120,5059,1B,,Caught Stealing 2B,542255,Ender Inciarte,503449,Wily Peralta,518692,Freddie Freeman,R,Manny Piña,444489,0,0,1,True,2016-08-09,Caught,2B,2016,2017,27.1
+121,5164,1B,2B,Caught Stealing 3B,542255,Ender Inciarte,553878,Felipe Vázquez,150229,A.J. Pierzynski,L,Eric Fryer,518700,2,1,7,False,2016-08-04,Caught,3B,2016,2017,27.1
+122,5382,1B,2B,Stolen Base 2B,542255,Ender Inciarte,543022,Tyler Chatwood,430947,Erick Aybar,R,Nick Hundley,460026,4,0,2,True,2016-07-24,Stolen,2B,2016,2017,27.1
+123,5508,1B,2B,Stolen Base 2B,542255,Ender Inciarte,642003,Cody Reed,430947,Erick Aybar,L,Ramón Cabrera,541608,2,2,4,True,2016-07-19,Stolen,2B,2016,2017,27.1
+124,5556,1B,2B,Stolen Base 2B,542255,Ender Inciarte,592351,Jon Gray,489232,Anthony Recker,R,Tony Wolters,547172,0,0,2,False,2016-07-17,Stolen,2B,2016,2017,27.1
+125,5770,1B,2B,Stolen Base 2B,542255,Ender Inciarte,592593,Justin Nicolino,488818,Chase d'Arnaud,L,J.T. Realmuto,592663,4,3,5,False,2016-07-01,Stolen,2B,2016,2017,27.1
+126,5871,2B,3B,Stolen Base 3B,542255,Ender Inciarte,455374,Antonio Bastardo,518692,Freddie Freeman,L,René Rivera,425784,1,0,8,False,2016-06-26,Stolen,3B,2016,2017,27.1
+127,5880,1B,2B,Stolen Base 2B,542255,Ender Inciarte,594798,Jacob deGrom,518692,Freddie Freeman,R,Travis d'Arnaud,518595,0,0,4,False,2016-06-25,Stolen,2B,2016,2017,27.1
+128,6046,1B,2B,Stolen Base 2B,542255,Ender Inciarte,573185,Dan Straily,455976,Nick Markakis,R,Tucker Barnhart,571466,5,2,5,False,2016-06-16,Stolen,2B,2016,2017,27.1
+129,6052,2B,3B,Stolen Base 3B,542255,Ender Inciarte,543101,Anthony DeSclafani,518692,Freddie Freeman,R,Ramón Cabrera,541608,1,0,1,False,2016-06-15,Stolen,3B,2016,2017,27.1
+130,6261,1B,,Caught Stealing 2B,542255,Ender Inciarte,520980,Pedro Báez,488818,Chase d'Arnaud,R,A.J. Ellis,454560,1,0,8,True,2016-06-04,Caught,2B,2016,2017,27.1
+131,6371,2B,3B,Stolen Base 3B,542255,Ender Inciarte,607457,Kyle Barraclough,518692,Freddie Freeman,R,Jeff Mathis,425772,2,6,8,False,2016-05-29,Stolen,3B,2016,2017,27.1
+132,6510,1B,2B,Stolen Base 2B,542255,Ender Inciarte,593576,Héctor Neris,518692,Freddie Freeman,R,Cameron Rupp,519237,5,0,8,True,2016-05-22,Stolen,2B,2016,2017,27.1
+133,6526,2B,3B,Stolen Base 3B,542255,Ender Inciarte,605388,Adam Morgan,554234,Williams Pérez,L,Carlos Ruiz,434563,0,2,4,True,2016-05-21,Stolen,3B,2016,2017,27.1
+134,6661,1B,,Caught Stealing 2B,542255,Ender Inciarte,518716,Dillon Gee,518692,Freddie Freeman,R,Salvador Perez,521692,0,0,4,True,2016-05-14,Caught,2B,2016,2017,27.1
+135,7400,1B,,Caught Stealing 2B,542255,Ender Inciarte,544931,Stephen Strasburg,518692,Freddie Freeman,R,Wilson Ramos,467092,1,0,5,False,2016-04-06,Caught,2B,2016,2017,27.1
+136,206,2B,3B,Stolen Base 3B,542255,Ender Inciarte,544727,Jeurys Familia,461314,Matt Kemp,R,René Rivera,425784,3,3,8,True,2016-09-21,Stolen,3B,2016,2017,27.1
+137,370,2B,3B,Stolen Base 3B,542255,Ender Inciarte,607457,Kyle Barraclough,455976,Nick Markakis,R,J.T. Realmuto,592663,5,6,7,False,2016-09-13,Stolen,3B,2016,2017,27.1
+138,404,1B,,Caught Stealing 2B,542255,Ender Inciarte,607625,Seth Lugo,611177,Adonis García,R,René Rivera,425784,0,1,1,False,2016-09-11,Caught,2B,2016,2017,27.1
+139,476,1B,2B,Stolen Base 2B,542255,Ender Inciarte,502009,Mat Latos,461314,Matt Kemp,R,Wilson Ramos,467092,4,4,11,True,2016-09-07,Stolen,2B,2016,2017,27.1
+140,613,1B,2B,Stolen Base 2B,542255,Ender Inciarte,518560,Paul Clemens,611177,Adonis García,R,Derek Norris,519083,0,0,1,False,2016-08-31,Stolen,2B,2016,2017,27.1
+141,614,2B,3B,Stolen Base 3B,542255,Ender Inciarte,518560,Paul Clemens,518692,Freddie Freeman,R,Derek Norris,519083,0,0,1,False,2016-08-31,Stolen,3B,2016,2017,27.1
+142,713,1B,,Caught Stealing 2B,542255,Ender Inciarte,592662,Robbie Ray,611177,Adonis García,L,Tuffy Gosewisch,488912,0,2,4,True,2016-08-25,Caught,2B,2016,2017,27.1
+143,822,1B,,Caught Stealing 2B,542255,Ender Inciarte,543699,Tanner Roark,488818,Chase d'Arnaud,R,Wilson Ramos,467092,0,1,4,False,2016-08-19,Caught,2B,2016,2017,27.1
+144,1024,1B,,Caught Stealing 2B,542255,Ender Inciarte,503449,Wily Peralta,518692,Freddie Freeman,R,Manny Piña,444489,0,0,1,True,2016-08-09,Caught,2B,2016,2017,27.1
+145,1129,1B,2B,Caught Stealing 3B,542255,Ender Inciarte,553878,Felipe Vázquez,150229,A.J. Pierzynski,L,Eric Fryer,518700,2,1,7,False,2016-08-04,Caught,3B,2016,2017,27.1
+146,1347,1B,2B,Stolen Base 2B,542255,Ender Inciarte,543022,Tyler Chatwood,430947,Erick Aybar,R,Nick Hundley,460026,4,0,2,True,2016-07-24,Stolen,2B,2016,2017,27.1
+147,1473,1B,2B,Stolen Base 2B,542255,Ender Inciarte,642003,Cody Reed,430947,Erick Aybar,L,Ramón Cabrera,541608,2,2,4,True,2016-07-19,Stolen,2B,2016,2017,27.1
+148,1521,1B,2B,Stolen Base 2B,542255,Ender Inciarte,592351,Jon Gray,489232,Anthony Recker,R,Tony Wolters,547172,0,0,2,False,2016-07-17,Stolen,2B,2016,2017,27.1
+149,1735,1B,2B,Stolen Base 2B,542255,Ender Inciarte,592593,Justin Nicolino,488818,Chase d'Arnaud,L,J.T. Realmuto,592663,4,3,5,False,2016-07-01,Stolen,2B,2016,2017,27.1
+150,1836,2B,3B,Stolen Base 3B,542255,Ender Inciarte,455374,Antonio Bastardo,518692,Freddie Freeman,L,René Rivera,425784,1,0,8,False,2016-06-26,Stolen,3B,2016,2017,27.1
+151,1845,1B,2B,Stolen Base 2B,542255,Ender Inciarte,594798,Jacob deGrom,518692,Freddie Freeman,R,Travis d'Arnaud,518595,0,0,4,False,2016-06-25,Stolen,2B,2016,2017,27.1
+152,2011,1B,2B,Stolen Base 2B,542255,Ender Inciarte,573185,Dan Straily,455976,Nick Markakis,R,Tucker Barnhart,571466,5,2,5,False,2016-06-16,Stolen,2B,2016,2017,27.1
+153,2017,2B,3B,Stolen Base 3B,542255,Ender Inciarte,543101,Anthony DeSclafani,518692,Freddie Freeman,R,Ramón Cabrera,541608,1,0,1,False,2016-06-15,Stolen,3B,2016,2017,27.1
+154,2226,1B,,Caught Stealing 2B,542255,Ender Inciarte,520980,Pedro Báez,488818,Chase d'Arnaud,R,A.J. Ellis,454560,1,0,8,True,2016-06-04,Caught,2B,2016,2017,27.1
+155,2336,2B,3B,Stolen Base 3B,542255,Ender Inciarte,607457,Kyle Barraclough,518692,Freddie Freeman,R,Jeff Mathis,425772,2,6,8,False,2016-05-29,Stolen,3B,2016,2017,27.1
+156,2475,1B,2B,Stolen Base 2B,542255,Ender Inciarte,593576,Héctor Neris,518692,Freddie Freeman,R,Cameron Rupp,519237,5,0,8,True,2016-05-22,Stolen,2B,2016,2017,27.1
+157,2491,2B,3B,Stolen Base 3B,542255,Ender Inciarte,605388,Adam Morgan,554234,Williams Pérez,L,Carlos Ruiz,434563,0,2,4,True,2016-05-21,Stolen,3B,2016,2017,27.1
+158,2626,1B,,Caught Stealing 2B,542255,Ender Inciarte,518716,Dillon Gee,518692,Freddie Freeman,R,Salvador Perez,521692,0,0,4,True,2016-05-14,Caught,2B,2016,2017,27.1
+159,3365,1B,,Caught Stealing 2B,542255,Ender Inciarte,544931,Stephen Strasburg,518692,Freddie Freeman,R,Wilson Ramos,467092,1,0,5,False,2016-04-06,Caught,2B,2016,2017,27.1
+160,3613,2B,3B,Stolen Base 3B,542255,Ender Inciarte,544727,Jeurys Familia,461314,Matt Kemp,R,René Rivera,425784,3,3,8,True,2016-09-21,Stolen,3B,2016,2017,27.1
+161,3777,2B,3B,Stolen Base 3B,542255,Ender Inciarte,607457,Kyle Barraclough,455976,Nick Markakis,R,J.T. Realmuto,592663,5,6,7,False,2016-09-13,Stolen,3B,2016,2017,27.1
+162,3811,1B,,Caught Stealing 2B,542255,Ender Inciarte,607625,Seth Lugo,611177,Adonis García,R,René Rivera,425784,0,1,1,False,2016-09-11,Caught,2B,2016,2017,27.1
+163,3883,1B,2B,Stolen Base 2B,542255,Ender Inciarte,502009,Mat Latos,461314,Matt Kemp,R,Wilson Ramos,467092,4,4,11,True,2016-09-07,Stolen,2B,2016,2017,27.1
+164,4020,1B,2B,Stolen Base 2B,542255,Ender Inciarte,518560,Paul Clemens,611177,Adonis García,R,Derek Norris,519083,0,0,1,False,2016-08-31,Stolen,2B,2016,2017,27.1
+165,4021,2B,3B,Stolen Base 3B,542255,Ender Inciarte,518560,Paul Clemens,518692,Freddie Freeman,R,Derek Norris,519083,0,0,1,False,2016-08-31,Stolen,3B,2016,2017,27.1
+166,4120,1B,,Caught Stealing 2B,542255,Ender Inciarte,592662,Robbie Ray,611177,Adonis García,L,Tuffy Gosewisch,488912,0,2,4,True,2016-08-25,Caught,2B,2016,2017,27.1
+167,4229,1B,,Caught Stealing 2B,542255,Ender Inciarte,543699,Tanner Roark,488818,Chase d'Arnaud,R,Wilson Ramos,467092,0,1,4,False,2016-08-19,Caught,2B,2016,2017,27.1
+168,4431,1B,,Caught Stealing 2B,542255,Ender Inciarte,503449,Wily Peralta,518692,Freddie Freeman,R,Manny Piña,444489,0,0,1,True,2016-08-09,Caught,2B,2016,2017,27.1
+169,4536,1B,2B,Caught Stealing 3B,542255,Ender Inciarte,553878,Felipe Vázquez,150229,A.J. Pierzynski,L,Eric Fryer,518700,2,1,7,False,2016-08-04,Caught,3B,2016,2017,27.1
+170,4754,1B,2B,Stolen Base 2B,542255,Ender Inciarte,543022,Tyler Chatwood,430947,Erick Aybar,R,Nick Hundley,460026,4,0,2,True,2016-07-24,Stolen,2B,2016,2017,27.1
+171,4880,1B,2B,Stolen Base 2B,542255,Ender Inciarte,642003,Cody Reed,430947,Erick Aybar,L,Ramón Cabrera,541608,2,2,4,True,2016-07-19,Stolen,2B,2016,2017,27.1
+172,4928,1B,2B,Stolen Base 2B,542255,Ender Inciarte,592351,Jon Gray,489232,Anthony Recker,R,Tony Wolters,547172,0,0,2,False,2016-07-17,Stolen,2B,2016,2017,27.1
+173,5142,1B,2B,Stolen Base 2B,542255,Ender Inciarte,592593,Justin Nicolino,488818,Chase d'Arnaud,L,J.T. Realmuto,592663,4,3,5,False,2016-07-01,Stolen,2B,2016,2017,27.1
+174,5243,2B,3B,Stolen Base 3B,542255,Ender Inciarte,455374,Antonio Bastardo,518692,Freddie Freeman,L,René Rivera,425784,1,0,8,False,2016-06-26,Stolen,3B,2016,2017,27.1
+175,5252,1B,2B,Stolen Base 2B,542255,Ender Inciarte,594798,Jacob deGrom,518692,Freddie Freeman,R,Travis d'Arnaud,518595,0,0,4,False,2016-06-25,Stolen,2B,2016,2017,27.1
+176,5418,1B,2B,Stolen Base 2B,542255,Ender Inciarte,573185,Dan Straily,455976,Nick Markakis,R,Tucker Barnhart,571466,5,2,5,False,2016-06-16,Stolen,2B,2016,2017,27.1
+177,5424,2B,3B,Stolen Base 3B,542255,Ender Inciarte,543101,Anthony DeSclafani,518692,Freddie Freeman,R,Ramón Cabrera,541608,1,0,1,False,2016-06-15,Stolen,3B,2016,2017,27.1
+178,5633,1B,,Caught Stealing 2B,542255,Ender Inciarte,520980,Pedro Báez,488818,Chase d'Arnaud,R,A.J. Ellis,454560,1,0,8,True,2016-06-04,Caught,2B,2016,2017,27.1
+179,5743,2B,3B,Stolen Base 3B,542255,Ender Inciarte,607457,Kyle Barraclough,518692,Freddie Freeman,R,Jeff Mathis,425772,2,6,8,False,2016-05-29,Stolen,3B,2016,2017,27.1
+180,5882,1B,2B,Stolen Base 2B,542255,Ender Inciarte,593576,Héctor Neris,518692,Freddie Freeman,R,Cameron Rupp,519237,5,0,8,True,2016-05-22,Stolen,2B,2016,2017,27.1
+181,5898,2B,3B,Stolen Base 3B,542255,Ender Inciarte,605388,Adam Morgan,554234,Williams Pérez,L,Carlos Ruiz,434563,0,2,4,True,2016-05-21,Stolen,3B,2016,2017,27.1
+182,6033,1B,,Caught Stealing 2B,542255,Ender Inciarte,518716,Dillon Gee,518692,Freddie Freeman,R,Salvador Perez,521692,0,0,4,True,2016-05-14,Caught,2B,2016,2017,27.1
+183,6772,1B,,Caught Stealing 2B,542255,Ender Inciarte,544931,Stephen Strasburg,518692,Freddie Freeman,R,Wilson Ramos,467092,1,0,5,False,2016-04-06,Caught,2B,2016,2017,27.1
+184,707,2B,3B,Stolen Base 3B,542255,Ender Inciarte,502004,George Kontos,572041,AJ Pollock,R,Andrew Susac,572180,0,4,6,True,2015-06-14,Stolen,3B,2015,2016,27.9
+185,797,1B,,Caught Stealing 2B,542255,Ender Inciarte,516910,Carlos Frías,502671,Paul Goldschmidt,R,Yasmani Grandal,518735,0,0,1,True,2015-06-09,Caught,2B,2015,2016,27.9
+186,949,1B,2B,Stolen Base 2B,542255,Ender Inciarte,571946,Shelby Miller,572041,AJ Pollock,R,A.J. Pierzynski,150229,4,1,4,False,2015-06-02,Stolen,2B,2015,2016,27.9
+187,950,1B,2B,Stolen Base 2B,542255,Ender Inciarte,434665,Nick Masset,572041,AJ Pollock,R,A.J. Pierzynski,150229,4,6,6,False,2015-06-02,Stolen,2B,2015,2016,27.9
+188,1076,1B,,Caught Stealing 2B,542255,Ender Inciarte,448802,Jaime García,444432,Mark Trumbo,L,Yadier Molina,425877,5,4,4,True,2015-05-26,Caught,2B,2015,2016,27.9
+189,1123,1B,2B,Stolen Base 2B,542255,Ender Inciarte,434628,Jason Hammel,572041,AJ Pollock,R,Miguel Montero,471083,2,1,3,False,2015-05-24,Stolen,2B,2015,2016,27.9
+190,1249,1B,,Caught Stealing 2B,542255,Ender Inciarte,543408,Tom Koehler,444482,David Peralta,R,J.T. Realmuto,592663,0,0,1,True,2015-05-19,Caught,2B,2015,2016,27.9
+191,1285,1B,2B,Stolen Base 2B,542255,Ender Inciarte,457711,Sean O'Sullivan,444432,Mark Trumbo,R,Cameron Rupp,519237,1,0,3,True,2015-05-17,Stolen,2B,2015,2016,27.9
+192,1369,1B,,Caught Stealing 2B,542255,Ender Inciarte,502578,Aaron Barrett,444432,Mark Trumbo,R,Jose Lobaton,446653,5,5,8,False,2015-05-13,Caught,2B,2015,2016,27.9
+193,1524,1B,2B,Stolen Base 2B,542255,Ender Inciarte,554431,Tyler Matzek,444432,Mark Trumbo,L,Nick Hundley,460026,0,3,2,True,2015-05-06,Stolen,2B,2015,2016,27.9
+194,1543,1B,2B,Stolen Base 2B,542255,Ender Inciarte,456071,Yohan Flande,594838,Phil Gosselin,L,Nick Hundley,460026,0,0,1,True,2015-05-04,Stolen,2B,2015,2016,27.9
+195,1545,2B,3B,Caught Stealing 2B,542255,Ender Inciarte,456071,Yohan Flande,572041,AJ Pollock,L,Nick Hundley,460026,0,0,1,True,2015-05-04,Caught,2B,2015,2016,27.9
+196,1644,2B,3B,Stolen Base 3B,542255,Ender Inciarte,543475,Jordan Lyles,444432,Mark Trumbo,R,Nick Hundley,460026,2,1,1,False,2015-04-29,Stolen,3B,2015,2016,27.9
+197,1947,1B,2B,Stolen Base 2B,542255,Ender Inciarte,489265,Sergio Romo,502671,Paul Goldschmidt,R,Buster Posey,457763,5,5,12,True,2015-04-16,Stolen,2B,2015,2016,27.9
+198,1961,2B,3B,Stolen Base 3B,542255,Ender Inciarte,453344,Brandon Morrow,502671,Paul Goldschmidt,R,Derek Norris,519083,0,2,1,True,2015-04-15,Stolen,3B,2015,2016,27.9
+199,1962,2B,,Caught Stealing 3B,542255,Ender Inciarte,453344,Brandon Morrow,502671,Paul Goldschmidt,R,Derek Norris,519083,1,2,3,True,2015-04-15,Caught,3B,2015,2016,27.9
+200,2058,1B,2B,Caught Stealing 3B,542255,Ender Inciarte,477132,Clayton Kershaw,502671,Paul Goldschmidt,L,A.J. Ellis,454560,2,0,3,False,2015-04-11,Caught,3B,2015,2016,27.9

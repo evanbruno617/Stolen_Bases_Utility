@@ -1,0 +1,13 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1020,1B,2B,Stolen Base 2B,687799,Cade Marlowe,657053,Touki Toussaint,645801,Mike Ford,R,Yasmani Grandal,518735,0,4,1,True,2023-08-21,Stolen,2B,2023,2024,27.6
+1,1097,1B,2B,Stolen Base 2B,687799,Cade Marlowe,666721,Max Castillo,686527,Dominic Canzone,R,Freddy Fermin,666023,1,1,6,True,2023-08-17,Stolen,2B,2023,2024,27.6
+2,1192,1B,,Caught Stealing 2B,687799,Cade Marlowe,642585,Félix Bautista,668942,Josh Rojas,R,Adley Rutschman,668939,0,0,9,False,2023-08-12,Caught,2B,2023,2024,27.6
+3,1416,1B,,Caught Stealing 2B,687799,Cade Marlowe,660271,Shohei Ohtani,668942,Josh Rojas,R,Chad Wallach,595453,0,0,2,True,2023-08-03,Caught,2B,2023,2024,27.6
+4,1588,1B,2B,Stolen Base 2B,687799,Cade Marlowe,661383,Oliver Ortega,543939,Kolten Wong,R,Ryan Jeffers,680777,6,6,9,True,2023-07-25,Stolen,2B,2023,2024,27.6
+5,1614,1B,2B,Stolen Base 2B,687799,Cade Marlowe,628317,Kenta Maeda,641487,J.P. Crawford,R,Christian Vázquez,543877,0,0,3,True,2023-07-24,Stolen,2B,2023,2024,27.6
+6,5434,1B,2B,Stolen Base 2B,687799,Cade Marlowe,657053,Touki Toussaint,645801,Mike Ford,R,Yasmani Grandal,518735,0,4,1,True,2023-08-21,Stolen,2B,2023,2024,27.6
+7,5511,1B,2B,Stolen Base 2B,687799,Cade Marlowe,666721,Max Castillo,686527,Dominic Canzone,R,Freddy Fermin,666023,1,1,6,True,2023-08-17,Stolen,2B,2023,2024,27.6
+8,5606,1B,,Caught Stealing 2B,687799,Cade Marlowe,642585,Félix Bautista,668942,Josh Rojas,R,Adley Rutschman,668939,0,0,9,False,2023-08-12,Caught,2B,2023,2024,27.6
+9,5830,1B,,Caught Stealing 2B,687799,Cade Marlowe,660271,Shohei Ohtani,668942,Josh Rojas,R,Chad Wallach,595453,0,0,2,True,2023-08-03,Caught,2B,2023,2024,27.6
+10,6002,1B,2B,Stolen Base 2B,687799,Cade Marlowe,661383,Oliver Ortega,543939,Kolten Wong,R,Ryan Jeffers,680777,6,6,9,True,2023-07-25,Stolen,2B,2023,2024,27.6
+11,6028,1B,2B,Stolen Base 2B,687799,Cade Marlowe,628317,Kenta Maeda,641487,J.P. Crawford,R,Christian Vázquez,543877,0,0,3,True,2023-07-24,Stolen,2B,2023,2024,27.6

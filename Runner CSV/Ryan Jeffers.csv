@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+130,1B,,Caught Stealing 2B,680777,Ryan Jeffers,Austin Romine,2,5,9,True,2021-09-22,Caught,2B,2021
+639,1B,,Caught Stealing 2B,680777,Ryan Jeffers,Cam Gallagher,2,1,7,True,2023-09-06,Caught,2B,2023
+1527,1B,2B,Stolen Base 2B,680777,Ryan Jeffers,Salvador Perez,1,2,4,True,2023-07-28,Stolen,2B,2023
+1585,1B,2B,Stolen Base 2B,680777,Ryan Jeffers,Cal Raleigh,6,2,6,False,2023-07-25,Stolen,2B,2023
+1804,1B,2B,Stolen Base 2B,680777,Ryan Jeffers,Tyler Soderstrom,4,7,5,True,2023-07-15,Stolen,2B,2023
+3243,1B,,Caught Stealing 2B,680777,Ryan Jeffers,Tucker Barnhart,5,0,4,False,2023-05-13,Caught,2B,2023

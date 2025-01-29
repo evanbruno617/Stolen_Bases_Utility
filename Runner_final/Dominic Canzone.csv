@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1278,2B,3B,Stolen Base 3B,686527,Dominic Canzone,607259,Nick Martinez,608596,Tom Murphy,R,Gary Sánchez,596142,0,0,2,False,2023-08-08,Stolen,3B,2023,2024,27.1
+1,5692,2B,3B,Stolen Base 3B,686527,Dominic Canzone,607259,Nick Martinez,608596,Tom Murphy,R,Gary Sánchez,596142,0,0,2,False,2023-08-08,Stolen,3B,2023,2024,27.1

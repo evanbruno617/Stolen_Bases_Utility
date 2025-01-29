@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1441,1B,2B,Stolen Base 2B,276515,Jose Ortiz,Bengie Molina,4,5,6,False,2001-04-06,Stolen,2B,2001
+2397,1B,2B,Stolen Base 2B,276515,Jose Ortiz,Chad Kreuter,1,2,3,False,2002-06-03,Stolen,2B,2002
+2820,1B,2B,Stolen Base 2B,276515,Jose Ortiz,Javy Lopez,0,0,2,False,2002-05-18,Stolen,2B,2002

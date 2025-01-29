@@ -1,0 +1,33 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,623993,Anthony Santander,668678,Zac Gallen,656811,Ryan O'Hearn,R,Jose Herrera,645444,0,2,1,True,2023-09-03,Stolen,2B,2023,2024, 81.5, 0.64
+1,3B,,Caught Stealing Home,668939,Adley Rutschman,668678,Zac Gallen,663624,Ryan Mountcastle,R,Jose Herrera,645444,1,4,2,True,2023-09-03,Caught,Home,2023,2024, 81.5, 0.64
+2,1B,2B,Stolen Base 2B,680574,Matt McLain,605200,Zach Davies,682829,Elly De La Cruz,R,Jose Herrera,645444,0,0,1,True,2023-08-26,Stolen,2B,2023,2024, 81.5, 0.64
+3,2B,3B,Stolen Base 3B,682829,Elly De La Cruz,656464,Kevin Ginkel,605361,Nick Martini,R,Jose Herrera,645444,4,2,8,True,2023-08-26,Stolen,3B,2023,2024, 81.5, 0.64
+4,1B,2B,Stolen Base 2B,682622,Noelvi Marte,623149,Paul Sewald,666181,Will Benson,R,Jose Herrera,645444,4,2,9,True,2023-08-26,Stolen,2B,2023,2024, 81.5, 0.64
+5,1B,,Caught Stealing 2B,678662,Ezequiel Tovar,677944,Slade Cecconi,641857,Ryan McMahon,R,Jose Herrera,645444,1,2,1,False,2023-08-16,Caught,2B,2023,2024, 81.5, 0.64
+6,1B,,Caught Stealing 2B,621035,Chris Taylor,656464,Kevin Ginkel,681546,James Outman,R,Jose Herrera,645444,0,0,7,True,2023-08-09,Caught,2B,2023,2024, 81.5, 0.64
+7,1B,2B,Stolen Base 2B,444482,David Peralta,612434,Miguel Castro,621035,Chris Taylor,R,Jose Herrera,645444,0,2,8,True,2023-08-09,Stolen,2B,2023,2024, 81.5, 0.64
+8,1B,2B,Stolen Base 2B,650489,Willi Castro,518876,Merrill Kelly,608336,Joey Gallo,R,Jose Herrera,645444,2,2,6,False,2023-08-04,Stolen,2B,2023,2024, 81.5, 0.64
+9,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,674072,Tommy Henry,553993,Eugenio Suárez,L,Jose Herrera,645444,0,0,1,True,2023-07-28,Stolen,2B,2023,2024, 81.5, 0.64
+10,1B,2B,Stolen Base 2B,676609,José Caballero,613534,Austin Adams,641487,J.P. Crawford,R,Jose Herrera,645444,0,4,7,True,2023-07-28,Stolen,2B,2023,2024, 81.5, 0.64
+11,1B,2B,Stolen Base 2B,608701,Rob Refsnyder,666818,Luis Frías,571771,Enrique Hernández,R,Jose Herrera,645444,1,5,5,True,2023-05-26,Stolen,2B,2023,2024, 81.5, 0.64
+12,1B,,Caught Stealing 2B,607054,Jace Peterson,669194,Ryne Nelson,657656,Ramón Laureano,R,Jose Herrera,645444,0,1,2,False,2023-05-17,Caught,2B,2023,2024, 81.5, 0.64
+13,1B,,Caught Stealing 2B,669477,Casey Schmitt,668678,Zac Gallen,663698,Joey Bart,R,Jose Herrera,645444,0,1,5,True,2023-05-13,Caught,2B,2023,2024, 81.5, 0.64
+14,1B,2B,Stolen Base 2B,686668,Brenton Doyle,614179,José Ruiz,676701,Alan Trejo,R,Jose Herrera,645444,4,9,6,False,2023-04-29,Stolen,2B,2023,2024, 81.5, 0.64
+15,1B,2B,Stolen Base 2B,681546,James Outman,612434,Miguel Castro,500743,Miguel Rojas,R,Jose Herrera,645444,1,1,7,False,2023-04-02,Stolen,2B,2023,2024, 81.5, 0.64
+16,1B,2B,Stolen Base 2B,623993,Anthony Santander,668678,Zac Gallen,656811,Ryan O'Hearn,R,Jose Herrera,645444,0,2,1,True,2023-09-03,Stolen,2B,2023,2024, 81.5, 0.64
+17,3B,,Caught Stealing Home,668939,Adley Rutschman,668678,Zac Gallen,663624,Ryan Mountcastle,R,Jose Herrera,645444,1,4,2,True,2023-09-03,Caught,Home,2023,2024, 81.5, 0.64
+18,1B,2B,Stolen Base 2B,680574,Matt McLain,605200,Zach Davies,682829,Elly De La Cruz,R,Jose Herrera,645444,0,0,1,True,2023-08-26,Stolen,2B,2023,2024, 81.5, 0.64
+19,2B,3B,Stolen Base 3B,682829,Elly De La Cruz,656464,Kevin Ginkel,605361,Nick Martini,R,Jose Herrera,645444,4,2,8,True,2023-08-26,Stolen,3B,2023,2024, 81.5, 0.64
+20,1B,2B,Stolen Base 2B,682622,Noelvi Marte,623149,Paul Sewald,666181,Will Benson,R,Jose Herrera,645444,4,2,9,True,2023-08-26,Stolen,2B,2023,2024, 81.5, 0.64
+21,1B,,Caught Stealing 2B,678662,Ezequiel Tovar,677944,Slade Cecconi,641857,Ryan McMahon,R,Jose Herrera,645444,1,2,1,False,2023-08-16,Caught,2B,2023,2024, 81.5, 0.64
+22,1B,,Caught Stealing 2B,621035,Chris Taylor,656464,Kevin Ginkel,681546,James Outman,R,Jose Herrera,645444,0,0,7,True,2023-08-09,Caught,2B,2023,2024, 81.5, 0.64
+23,1B,2B,Stolen Base 2B,444482,David Peralta,612434,Miguel Castro,621035,Chris Taylor,R,Jose Herrera,645444,0,2,8,True,2023-08-09,Stolen,2B,2023,2024, 81.5, 0.64
+24,1B,2B,Stolen Base 2B,650489,Willi Castro,518876,Merrill Kelly,608336,Joey Gallo,R,Jose Herrera,645444,2,2,6,False,2023-08-04,Stolen,2B,2023,2024, 81.5, 0.64
+25,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,674072,Tommy Henry,553993,Eugenio Suárez,L,Jose Herrera,645444,0,0,1,True,2023-07-28,Stolen,2B,2023,2024, 81.5, 0.64
+26,1B,2B,Stolen Base 2B,676609,José Caballero,613534,Austin Adams,641487,J.P. Crawford,R,Jose Herrera,645444,0,4,7,True,2023-07-28,Stolen,2B,2023,2024, 81.5, 0.64
+27,1B,2B,Stolen Base 2B,608701,Rob Refsnyder,666818,Luis Frías,571771,Enrique Hernández,R,Jose Herrera,645444,1,5,5,True,2023-05-26,Stolen,2B,2023,2024, 81.5, 0.64
+28,1B,,Caught Stealing 2B,607054,Jace Peterson,669194,Ryne Nelson,657656,Ramón Laureano,R,Jose Herrera,645444,0,1,2,False,2023-05-17,Caught,2B,2023,2024, 81.5, 0.64
+29,1B,,Caught Stealing 2B,669477,Casey Schmitt,668678,Zac Gallen,663698,Joey Bart,R,Jose Herrera,645444,0,1,5,True,2023-05-13,Caught,2B,2023,2024, 81.5, 0.64
+30,1B,2B,Stolen Base 2B,686668,Brenton Doyle,614179,José Ruiz,676701,Alan Trejo,R,Jose Herrera,645444,4,9,6,False,2023-04-29,Stolen,2B,2023,2024, 81.5, 0.64
+31,1B,2B,Stolen Base 2B,681546,James Outman,612434,Miguel Castro,500743,Miguel Rojas,R,Jose Herrera,645444,1,1,7,False,2023-04-02,Stolen,2B,2023,2024, 81.5, 0.64

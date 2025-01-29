@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1220,2B,,Caught Stealing 3B,519295,Jake Smolinski,Buster Posey,4,3,9,True,2015-07-26,Caught,3B,2015
+3106,1B,2B,Stolen Base 2B,519295,Jake Smolinski,Tuffy Gosewisch,1,7,9,True,2015-04-21,Stolen,2B,2015
+453,1B,,Caught Stealing 2B,519295,Jake Smolinski,Curt Casali,0,0,8,False,2016-07-22,Caught,2B,2016
+513,1B,,Caught Stealing 2B,519295,Jake Smolinski,Evan Gattis,0,3,5,False,2016-07-19,Caught,2B,2016
+708,1B,2B,Stolen Base 2B,519295,Jake Smolinski,Kurt Suzuki,3,1,5,True,2016-07-05,Stolen,2B,2016
+3200,1B,2B,Stolen Base 2B,519295,Jake Smolinski,René Rivera,0,1,2,True,2018-04-07,Stolen,2B,2018

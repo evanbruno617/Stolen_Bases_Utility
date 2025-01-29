@@ -1,0 +1,26 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+514,1B,2B,Stolen Base 2B,132961,Geoff Jenkins,Mike Matheny,0,0,1,False,2000-09-08,Stolen,2B,2000
+740,1B,2B,Stolen Base 2B,132961,Geoff Jenkins,Todd Hundley,6,2,4,False,2000-08-31,Stolen,2B,2000
+962,2B,3B,Stolen Base 3B,132961,Geoff Jenkins,Damian Miller,7,8,5,True,2000-08-21,Stolen,3B,2000
+986,1B,2B,Stolen Base 2B,132961,Geoff Jenkins,Mitch Meluskey,2,4,6,True,2000-08-20,Stolen,2B,2000
+1162,1B,2B,Stolen Base 2B,132961,Geoff Jenkins,Carlos Hernandez,1,1,10,False,2000-08-12,Stolen,2B,2000
+2276,1B,2B,Stolen Base 2B,132961,Geoff Jenkins,Paul Bako,0,2,8,True,2000-06-19,Stolen,2B,2000
+2372,1B,2B,Stolen Base 2B,132961,Geoff Jenkins,Brian Schneider,1,1,3,False,2000-06-14,Stolen,2B,2000
+2373,1B,2B,Stolen Base 2B,132961,Geoff Jenkins,Brian Schneider,6,1,4,False,2000-06-14,Stolen,2B,2000
+2438,1B,2B,Stolen Base 2B,132961,Geoff Jenkins,Matthew LeCroy,3,3,5,True,2000-06-11,Stolen,2B,2000
+2440,1B,2B,Stolen Base 2B,132961,Geoff Jenkins,Matthew LeCroy,3,5,7,True,2000-06-11,Stolen,2B,2000
+2636,1B,2B,Stolen Base 2B,132961,Geoff Jenkins,Scott Servais,1,1,11,False,2000-06-03,Stolen,2B,2000
+1064,1B,,Caught Stealing 2B,132961,Geoff Jenkins,Mike Piazza,6,4,8,False,2001-04-24,Caught,2B,2001
+1122,1B,,Caught Stealing 2B,132961,Geoff Jenkins,Benito Santiago,2,6,7,True,2001-04-21,Caught,2B,2001
+1259,1B,2B,Stolen Base 2B,132961,Geoff Jenkins,Bobby Estalella,4,3,8,False,2001-04-15,Stolen,2B,2001
+2296,1B,,Caught Stealing 2B,132961,Geoff Jenkins,Jason Kendall,8,8,11,True,2002-06-08,Caught,2B,2002
+3459,1B,2B,Stolen Base 2B,132961,Geoff Jenkins,Mike Matheny,4,2,5,False,2002-04-21,Stolen,2B,2002
+3607,1B,,Caught Stealing 2B,132961,Geoff Jenkins,Jason Kendall,1,3,5,False,2002-04-15,Caught,2B,2002
+1500,1B,2B,Stolen Base 2B,132961,Geoff Jenkins,Jason LaRue,0,0,1,True,2004-07-19,Stolen,2B,2004
+1688,1B,2B,Stolen Base 2B,132961,Geoff Jenkins,Michael Barrett,4,2,3,False,2004-07-06,Stolen,2B,2004
+1708,1B,2B,Stolen Base 2B,132961,Geoff Jenkins,Michael Barrett,1,0,1,False,2004-07-05,Stolen,2B,2004
+565,1B,2B,Stolen Base 2B,132961,Geoff Jenkins,J.R. Towles,3,0,1,False,2007-09-05,Stolen,2B,2007
+1501,1B,2B,Stolen Base 2B,132961,Geoff Jenkins,Javier Valentin,0,0,2,True,2007-07-25,Stolen,2B,2007
+2145,1B,,Caught Stealing 2B,132961,Geoff Jenkins,Eric Munson,3,0,4,False,2007-06-25,Caught,2B,2007
+3241,1B,2B,Stolen Base 2B,132961,Geoff Jenkins,Jason Kendall,3,4,6,True,2008-04-23,Stolen,2B,2008
+3645,1B,,Caught Stealing 2B,132961,Geoff Jenkins,Paul Bako,1,0,2,True,2008-04-05,Caught,2B,2008

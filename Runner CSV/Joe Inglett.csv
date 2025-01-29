@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+214,1B,2B,Stolen Base 2B,446928,Joe Inglett,Jorge Posada,4,4,11,True,2007-09-21,Stolen,2B,2007
+459,1B,2B,Stolen Base 2B,446928,Joe Inglett,Shawn Riggans,1,0,3,False,2008-09-07,Stolen,2B,2008
+662,1B,,Caught Stealing 2B,446928,Joe Inglett,Shawn Riggans,1,0,3,True,2008-08-28,Caught,2B,2008
+783,1B,2B,Stolen Base 2B,446928,Joe Inglett,Jason Varitek,0,1,1,False,2008-08-22,Stolen,2B,2008
+1119,1B,2B,Stolen Base 2B,446928,Joe Inglett,Gerald Laird,2,4,5,True,2008-08-03,Stolen,2B,2008
+1149,1B,2B,Stolen Base 2B,446928,Joe Inglett,Gerald Laird,1,2,3,True,2008-08-02,Stolen,2B,2008
+1326,1B,2B,Stolen Base 2B,446928,Joe Inglett,Guillermo Quiroz,0,0,3,True,2008-07-24,Stolen,2B,2008
+1399,1B,2B,Stolen Base 2B,446928,Joe Inglett,Shawn Riggans,1,1,3,True,2008-07-20,Stolen,2B,2008
+1654,1B,2B,Stolen Base 2B,446928,Joe Inglett,Jeff Mathis,0,0,1,True,2008-07-04,Stolen,2B,2008
+3244,1B,2B,Stolen Base 2B,446928,Joe Inglett,Dioner Navarro,0,1,5,True,2008-04-23,Stolen,2B,2008
+3245,2B,3B,Stolen Base 3B,446928,Joe Inglett,Dioner Navarro,0,1,5,True,2008-04-23,Stolen,3B,2008
+3481,1B,,Caught Stealing 2B,446928,Joe Inglett,Gerald Laird,0,1,3,True,2008-04-12,Caught,2B,2008
+26,1B,,Caught Stealing 2B,446928,Joe Inglett,Kurt Suzuki,4,6,6,True,2009-08-01,Caught,2B,2009
+178,2B,3B,Stolen Base 3B,446928,Joe Inglett,Dioner Navarro,5,1,7,False,2009-07-26,Stolen,3B,2009
+1101,1B,2B,Stolen Base 2B,446928,Joe Inglett,John Baker,1,1,5,False,2009-06-12,Stolen,2B,2009
+3691,1B,2B,Stolen Base 2B,446928,Joe Inglett,Geovany Soto,5,6,7,True,2010-04-15,Stolen,2B,2010

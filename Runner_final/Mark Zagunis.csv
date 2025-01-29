@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2314,1B,2B,Stolen Base 2B,657145,Mark Zagunis,594840,Matt Grace,445055,Jon Jay,L,Matt Wieters,446308,1,2,7,True,2017-06-29,Stolen,2B,2017,2019,28.0
+1,2441,1B,2B,Stolen Base 2B,657145,Mark Zagunis,502046,Jeff Locke,519203,Anthony Rizzo,L,A.J. Ellis,454560,0,2,2,True,2017-06-22,Stolen,2B,2017,2019,28.0
+2,1686,1B,2B,Stolen Base 2B,657145,Mark Zagunis,594840,Matt Grace,445055,Jon Jay,L,Matt Wieters,446308,1,2,7,True,2017-06-29,Stolen,2B,2017,2019,28.0
+3,1813,1B,2B,Stolen Base 2B,657145,Mark Zagunis,502046,Jeff Locke,519203,Anthony Rizzo,L,A.J. Ellis,454560,0,2,2,True,2017-06-22,Stolen,2B,2017,2019,28.0

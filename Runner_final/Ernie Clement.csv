@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,839,1B,,Caught Stealing 2B,676391,Ernie Clement,541640,Erasmo Ramírez,664702,Myles Straw,R,Grayson Greiner,606988,5,5,7,False,2021-08-08,Caught,2B,2021,2022,28.2
+1,2763,1B,,Caught Stealing 2B,676391,Ernie Clement,541640,Erasmo Ramírez,664702,Myles Straw,R,Grayson Greiner,606988,5,5,7,False,2021-08-08,Caught,2B,2021,2022,28.2
+2,2092,1B,2B,Stolen Base 2B,676391,Ernie Clement,445276,Kenley Jansen,624415,Cavan Biggio,R,Connor Wong,657136,5,6,8,False,2023-07-01,Stolen,2B,2023,2024,28.4
+3,6506,1B,2B,Stolen Base 2B,676391,Ernie Clement,445276,Kenley Jansen,624415,Cavan Biggio,R,Connor Wong,657136,5,6,8,False,2023-07-01,Stolen,2B,2023,2024,28.4
+4,1062,1B,,Caught Stealing 2B,676391,Ernie Clement,669373,Tarik Skubal,664702,Myles Straw,L,Tucker Barnhart,571466,0,0,3,False,2022-05-20,Caught,2B,2022,2023,28.4

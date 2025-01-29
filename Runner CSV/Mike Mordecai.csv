@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+404,1B,,Caught Stealing 2B,119348,Mike Mordecai,Tom Prince,0,2,2,True,2000-09-13,Caught,2B,2000
+1237,1B,2B,Caught Stealing 3B,119348,Mike Mordecai,Kelly Stinnett,3,7,7,True,2000-08-08,Caught,3B,2000
+2598,1B,2B,Stolen Base 2B,119348,Mike Mordecai,Jorge Posada,6,4,8,False,2000-06-05,Stolen,2B,2000
+2692,1B,2B,Stolen Base 2B,119348,Mike Mordecai,Charles Johnson,5,2,6,False,2000-06-02,Stolen,2B,2000
+192,1B,2B,Stolen Base 2B,119348,Mike Mordecai,Javy Lopez,0,0,3,True,2002-09-20,Stolen,2B,2002
+1549,1B,,Caught Stealing 2B,119348,Mike Mordecai,Vance Wilson,5,2,3,True,2002-07-16,Caught,2B,2002
+2088,2B,,Caught Stealing 3B,119348,Mike Mordecai,Brent Mayne,6,3,8,False,2002-06-19,Caught,3B,2002
+3670,1B,2B,Stolen Base 2B,119348,Mike Mordecai,Vance Wilson,3,7,6,True,2002-04-13,Stolen,2B,2002
+640,1B,2B,Stolen Base 2B,119348,Mike Mordecai,Jason Kendall,4,0,9,True,2003-08-27,Stolen,2B,2003
+2824,1B,2B,Stolen Base 2B,119348,Mike Mordecai,Charles Johnson,1,0,2,False,2003-05-09,Stolen,2B,2003
+3264,1B,2B,Stolen Base 2B,119348,Mike Mordecai,Mike Piazza,1,3,4,True,2003-04-18,Stolen,2B,2003
+3130,1B,,Caught Stealing 2B,119348,Mike Mordecai,Johnny Estrada,4,2,6,False,2004-04-24,Caught,2B,2004

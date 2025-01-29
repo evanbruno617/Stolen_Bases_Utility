@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+240,1B,,Caught Stealing 2B,120536,Mike Piazza,Javy Lopez,0,3,6,True,2000-09-20,Caught,2B,2000
+373,2B,3B,Stolen Base 3B,120536,Mike Piazza,Brian Schneider,2,4,3,True,2000-09-14,Stolen,3B,2000
+1542,1B,,Caught Stealing 2B,120536,Mike Piazza,Lenny Webster,4,3,8,False,2000-07-27,Caught,2B,2000
+3271,1B,2B,Caught Stealing 3B,120536,Mike Piazza,Mike Redmond,0,1,4,True,2000-05-06,Caught,3B,2000
+3328,1B,2B,Stolen Base 2B,120536,Mike Piazza,Doug Mirabelli,1,2,8,True,2000-05-04,Stolen,2B,2000
+3710,1B,2B,Stolen Base 2B,120536,Mike Piazza,Raul Casanova,4,2,3,False,2000-04-18,Stolen,2B,2000
+3885,2B,3B,Stolen Base 3B,120536,Mike Piazza,Mike Lieberthal,0,3,1,True,2000-04-10,Stolen,3B,2000
+393,1B,,Caught Stealing 2B,120536,Mike Piazza,Chad Kreuter,3,0,5,False,2001-05-20,Caught,2B,2001
+1628,1B,,Caught Stealing 2B,120536,Mike Piazza,Todd Pratt,4,6,8,False,2002-07-13,Caught,2B,2002
+2251,3B,,Caught Stealing Home,120536,Mike Piazza,Mark Johnson,1,3,8,True,2002-06-10,Caught,Home,2002
+3637,1B,,Caught Stealing 2B,120536,Mike Piazza,Brian Schneider,5,4,6,False,2002-04-14,Caught,2B,2002

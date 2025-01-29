@@ -1,0 +1,26 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+197,1B,2B,Stolen Base 2B,593700,Alen Hanson,Juan Centeno,4,3,9,True,2017-09-20,Stolen,2B,2017
+280,1B,2B,Stolen Base 2B,593700,Alen Hanson,James McCann,3,6,4,True,2017-09-16,Stolen,2B,2017
+283,1B,2B,Stolen Base 2B,593700,Alen Hanson,James McCann,4,9,7,True,2017-09-16,Stolen,2B,2017
+571,1B,,Caught Stealing 2B,593700,Alen Hanson,Chris Gimenez,3,3,6,True,2017-08-31,Caught,2B,2017
+707,1B,2B,Stolen Base 2B,593700,Alen Hanson,Chris Gimenez,5,1,7,False,2017-08-24,Stolen,2B,2017
+836,1B,2B,Stolen Base 2B,593700,Alen Hanson,Brett Nicholas,4,4,4,True,2017-08-17,Stolen,2B,2017
+837,2B,3B,Stolen Base 3B,593700,Alen Hanson,Brett Nicholas,4,4,4,True,2017-08-17,Stolen,3B,2017
+1203,1B,2B,Stolen Base 2B,593700,Alen Hanson,Yan Gomes,3,4,4,False,2017-07-29,Stolen,2B,2017
+1509,1B,,Caught Stealing 2B,593700,Alen Hanson,Tony Wolters,4,5,9,True,2017-07-08,Caught,2B,2017
+1619,1B,2B,Stolen Base 2B,593700,Alen Hanson,Robinson Chirinos,1,1,3,False,2017-07-02,Stolen,2B,2017
+1944,1B,2B,Stolen Base 2B,593700,Alen Hanson,Luke Maile,0,0,1,True,2017-06-16,Stolen,2B,2017
+2294,1B,,Caught Stealing 2B,593700,Alen Hanson,Jeff Mathis,0,1,3,False,2017-05-29,Caught,2B,2017
+2817,1B,2B,Stolen Base 2B,593700,Alen Hanson,Devin Mesoraco,3,2,4,True,2017-05-02,Stolen,2B,2017
+3155,1B,2B,Stolen Base 2B,593700,Alen Hanson,Willson Contreras,6,5,7,True,2017-04-15,Stolen,2B,2017
+491,1B,2B,Stolen Base 2B,593700,Alen Hanson,Manny Piña,2,0,3,True,2018-09-07,Stolen,2B,2018
+880,1B,,Caught Stealing 2B,593700,Alen Hanson,Curt Casali,1,1,3,True,2018-08-17,Caught,2B,2018
+990,1B,,Caught Stealing 2B,593700,Alen Hanson,Elias Díaz,0,0,2,False,2018-08-11,Caught,2B,2018
+1015,1B,2B,Stolen Base 2B,593700,Alen Hanson,Francisco Cervelli,3,0,1,False,2018-08-10,Stolen,2B,2018
+1366,1B,2B,Stolen Base 2B,593700,Alen Hanson,Josh Phegley,4,4,7,True,2018-07-22,Stolen,2B,2018
+1448,2B,,Caught Stealing 3B,593700,Alen Hanson,Josh Phegley,1,1,2,False,2018-07-14,Caught,3B,2018
+1846,1B,2B,Stolen Base 2B,593700,Alen Hanson,A.J. Ellis,1,1,6,False,2018-06-23,Stolen,2B,2018
+2605,1B,2B,Stolen Base 2B,593700,Alen Hanson,Francisco Cervelli,2,0,3,True,2018-05-11,Stolen,2B,2018
+2743,1B,2B,Stolen Base 2B,593700,Alen Hanson,Raffy Lopez,0,2,5,False,2018-05-01,Stolen,2B,2018
+2772,1B,2B,Stolen Base 2B,593700,Alen Hanson,Austin Hedges,3,1,4,False,2018-04-30,Stolen,2B,2018
+2560,2B,3B,Stolen Base 3B,593700,Alen Hanson,Josh Phegley,0,2,3,True,2019-04-21,Stolen,3B,2019

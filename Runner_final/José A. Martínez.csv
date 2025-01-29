@@ -1,0 +1,19 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1762,1B,2B,Stolen Base 2B,500874,José A. Martínez,596112,Robert Stephenson,664056,Harrison Bader,R,Tucker Barnhart,571466,2,3,7,False,2019-09-01,Stolen,2B,2019,2020,26.6
+1,2219,1B,2B,Stolen Base 2B,500874,José A. Martínez,542960,Brad Brach,502671,Paul Goldschmidt,R,Willson Contreras,575929,6,0,7,False,2019-08-01,Stolen,2B,2019,2020,26.6
+2,3781,1B,2B,Stolen Base 2B,500874,José A. Martínez,502593,Jake Petricka,425877,Yadier Molina,R,Yasmani Grandal,518735,5,1,7,False,2019-04-24,Stolen,2B,2019,2020,26.6
+3,4605,1B,2B,Stolen Base 2B,500874,José A. Martínez,596112,Robert Stephenson,664056,Harrison Bader,R,Tucker Barnhart,571466,2,3,7,False,2019-09-01,Stolen,2B,2019,2020,26.6
+4,5062,1B,2B,Stolen Base 2B,500874,José A. Martínez,542960,Brad Brach,502671,Paul Goldschmidt,R,Willson Contreras,575929,6,0,7,False,2019-08-01,Stolen,2B,2019,2020,26.6
+5,6624,1B,2B,Stolen Base 2B,500874,José A. Martínez,502593,Jake Petricka,425877,Yadier Molina,R,Yasmani Grandal,518735,5,1,7,False,2019-04-24,Stolen,2B,2019,2020,26.6
+6,6529,1B,2B,Stolen Base 2B,500874,José A. Martínez,596112,Robert Stephenson,664056,Harrison Bader,R,Tucker Barnhart,571466,2,3,7,False,2019-09-01,Stolen,2B,2019,2020,26.6
+7,6986,1B,2B,Stolen Base 2B,500874,José A. Martínez,542960,Brad Brach,502671,Paul Goldschmidt,R,Willson Contreras,575929,6,0,7,False,2019-08-01,Stolen,2B,2019,2020,26.6
+8,8548,1B,2B,Stolen Base 2B,500874,José A. Martínez,502593,Jake Petricka,425877,Yadier Molina,R,Yasmani Grandal,518735,5,1,7,False,2019-04-24,Stolen,2B,2019,2020,26.6
+9,401,1B,,Caught Stealing 2B,500874,José A. Martínez,641816,Tyler Mahle,425877,Yadier Molina,R,Devin Mesoraco,519023,0,1,2,True,2018-04-13,Caught,2B,2018,2019,26.2
+10,802,1B,2B,Stolen Base 2B,500874,José A. Martínez,467100,Iván Nova,425877,Yadier Molina,R,Elias Díaz,553869,0,2,3,True,2017-09-22,Stolen,2B,2017,2018,26.5
+11,980,1B,2B,Stolen Base 2B,500874,José A. Martínez,606959,Rookie Davis,425877,Yadier Molina,R,Stuart Turner,642156,10,4,6,False,2017-09-12,Stolen,2B,2017,2018,26.5
+12,1596,1B,2B,Stolen Base 2B,500874,José A. Martínez,434628,Jason Hammel,543939,Kolten Wong,R,Drew Butera,460077,0,1,4,False,2017-08-10,Stolen,2B,2017,2018,26.5
+13,3648,1B,2B,Stolen Base 2B,500874,José A. Martínez,448614,Carlos Torres,572761,Matt Carpenter,R,Jett Bandy,542908,1,2,7,True,2017-04-22,Stolen,2B,2017,2018,26.5
+14,174,1B,2B,Stolen Base 2B,500874,José A. Martínez,467100,Iván Nova,425877,Yadier Molina,R,Elias Díaz,553869,0,2,3,True,2017-09-22,Stolen,2B,2017,2018,26.5
+15,352,1B,2B,Stolen Base 2B,500874,José A. Martínez,606959,Rookie Davis,425877,Yadier Molina,R,Stuart Turner,642156,10,4,6,False,2017-09-12,Stolen,2B,2017,2018,26.5
+16,968,1B,2B,Stolen Base 2B,500874,José A. Martínez,434628,Jason Hammel,543939,Kolten Wong,R,Drew Butera,460077,0,1,4,False,2017-08-10,Stolen,2B,2017,2018,26.5
+17,3020,1B,2B,Stolen Base 2B,500874,José A. Martínez,448614,Carlos Torres,572761,Matt Carpenter,R,Jett Bandy,542908,1,2,7,True,2017-04-22,Stolen,2B,2017,2018,26.5

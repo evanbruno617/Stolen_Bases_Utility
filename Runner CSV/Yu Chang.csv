@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1950,1B,2B,Stolen Base 2B,644374,Yu Chang,Eric Haase,0,4,6,True,2021-05-27,Stolen,2B,2021
+2052,1B,,Caught Stealing 2B,644374,Yu Chang,Eric Haase,1,1,5,False,2022-06-08,Caught,2B,2022
+1438,1B,2B,Stolen Base 2B,644374,Yu Chang,Tom Murphy,0,2,5,True,2023-08-02,Stolen,2B,2023
+1590,1B,2B,Stolen Base 2B,644374,Yu Chang,Sean Murphy,3,1,4,False,2023-07-25,Stolen,2B,2023
+1621,1B,2B,Stolen Base 2B,644374,Yu Chang,Omar Narváez,6,1,8,False,2023-07-23,Stolen,2B,2023
+3732,1B,2B,Stolen Base 2B,644374,Yu Chang,Victor Caratini,4,7,8,True,2023-04-23,Stolen,2B,2023

@@ -1,0 +1,19 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,616,2B,3B,Stolen Base 3B,669357,Nolan Gorman,675911,Spencer Strider,575929,Willson Contreras,R,Sean Murphy,669221,0,3,1,True,2023-09-06,Stolen,3B,2023,2024,26.2
+1,1526,2B,3B,Stolen Base 3B,669357,Nolan Gorman,592767,Drew Smyly,575929,Willson Contreras,L,Miguel Amaya,665804,2,3,6,False,2023-07-28,Stolen,3B,2023,2024,26.2
+2,1731,1B,2B,Stolen Base 2B,669357,Nolan Gorman,623211,Huascar Brazobán,671056,Iván Herrera,R,Jacob Stallings,607732,6,2,7,False,2023-07-19,Stolen,2B,2023,2024,26.2
+3,2982,2B,3B,Stolen Base 3B,669357,Nolan Gorman,608371,Lucas Sims,657557,Paul DeJong,R,Luke Maile,571912,0,1,8,True,2023-05-25,Stolen,3B,2023,2024,26.2
+4,3370,1B,2B,Stolen Base 2B,669357,Nolan Gorman,669438,Mason Englert,571448,Nolan Arenado,R,Jake Rogers,668670,4,6,6,False,2023-05-07,Stolen,2B,2023,2024,26.2
+5,3598,1B,2B,Stolen Base 2B,669357,Nolan Gorman,669160,Dustin May,575929,Willson Contreras,R,Austin Barnes,605131,0,2,1,True,2023-04-28,Stolen,2B,2023,2024,26.2
+6,3720,1B,,Caught Stealing 2B,669357,Nolan Gorman,623167,Chris Flexen,571448,Nolan Arenado,R,Cal Raleigh,663728,0,2,1,True,2023-04-23,Caught,2B,2023,2024,26.2
+7,3722,2B,3B,Caught Stealing 2B,669357,Nolan Gorman,642100,Gabe Speier,666185,Dylan Carlson,L,Cal Raleigh,663728,3,6,6,True,2023-04-23,Caught,2B,2023,2024,26.2
+8,3964,1B,2B,Stolen Base 2B,669357,Nolan Gorman,592826,Vince Velasquez,641933,Tyler O'Neill,R,Jason Delay,641511,0,0,4,False,2023-04-13,Stolen,2B,2023,2024,26.2
+9,5030,2B,3B,Stolen Base 3B,669357,Nolan Gorman,675911,Spencer Strider,575929,Willson Contreras,R,Sean Murphy,669221,0,3,1,True,2023-09-06,Stolen,3B,2023,2024,26.2
+10,5940,2B,3B,Stolen Base 3B,669357,Nolan Gorman,592767,Drew Smyly,575929,Willson Contreras,L,Miguel Amaya,665804,2,3,6,False,2023-07-28,Stolen,3B,2023,2024,26.2
+11,6145,1B,2B,Stolen Base 2B,669357,Nolan Gorman,623211,Huascar Brazobán,671056,Iván Herrera,R,Jacob Stallings,607732,6,2,7,False,2023-07-19,Stolen,2B,2023,2024,26.2
+12,7396,2B,3B,Stolen Base 3B,669357,Nolan Gorman,608371,Lucas Sims,657557,Paul DeJong,R,Luke Maile,571912,0,1,8,True,2023-05-25,Stolen,3B,2023,2024,26.2
+13,7784,1B,2B,Stolen Base 2B,669357,Nolan Gorman,669438,Mason Englert,571448,Nolan Arenado,R,Jake Rogers,668670,4,6,6,False,2023-05-07,Stolen,2B,2023,2024,26.2
+14,8012,1B,2B,Stolen Base 2B,669357,Nolan Gorman,669160,Dustin May,575929,Willson Contreras,R,Austin Barnes,605131,0,2,1,True,2023-04-28,Stolen,2B,2023,2024,26.2
+15,8134,1B,,Caught Stealing 2B,669357,Nolan Gorman,623167,Chris Flexen,571448,Nolan Arenado,R,Cal Raleigh,663728,0,2,1,True,2023-04-23,Caught,2B,2023,2024,26.2
+16,8136,2B,3B,Caught Stealing 2B,669357,Nolan Gorman,642100,Gabe Speier,666185,Dylan Carlson,L,Cal Raleigh,663728,3,6,6,True,2023-04-23,Caught,2B,2023,2024,26.2
+17,8378,1B,2B,Stolen Base 2B,669357,Nolan Gorman,592826,Vince Velasquez,641933,Tyler O'Neill,R,Jason Delay,641511,0,0,4,False,2023-04-13,Stolen,2B,2023,2024,26.2

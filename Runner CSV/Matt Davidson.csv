@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+918,1B,,Caught Stealing 2B,571602,Matt Davidson,Tony Sanchez,4,8,6,True,2013-08-17,Caught,2B,2013
+3288,1B,,Caught Stealing 2B,571602,Matt Davidson,Jason Castro,6,2,6,False,2017-04-08,Caught,2B,2017
+2041,1B,,Caught Stealing 2B,571602,Matt Davidson,William Contreras,0,0,3,True,2022-06-08,Caught,2B,2022

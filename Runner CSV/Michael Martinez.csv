@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1761,1B,2B,Stolen Base 2B,492841,Michael Martinez,Geovany Soto,0,0,1,True,2011-07-20,Stolen,2B,2011
+1762,1B,2B,Stolen Base 2B,492841,Michael Martinez,Geovany Soto,0,5,2,True,2011-07-20,Stolen,2B,2011
+1781,1B,2B,Stolen Base 2B,492841,Michael Martinez,Geovany Soto,2,0,6,True,2011-07-19,Stolen,2B,2011
+1238,1B,2B,Stolen Base 2B,492841,Michael Martinez,Buster Posey,1,0,7,False,2013-08-01,Stolen,2B,2013
+461,1B,,Caught Stealing 2B,492841,Michael Martinez,James McCann,0,3,7,True,2015-09-06,Caught,2B,2015
+1006,1B,,Caught Stealing 2B,492841,Michael Martinez,Alex Avila,2,2,7,False,2016-06-19,Caught,2B,2016
+1169,1B,,Caught Stealing 2B,492841,Michael Martinez,Carlos Pérez,1,6,6,True,2016-06-10,Caught,2B,2016
+2669,1B,,Caught Stealing 2B,492841,Michael Martinez,Luke Maile,7,7,6,True,2017-05-10,Caught,2B,2017

@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+146,1B,2B,Stolen Base 2B,452035,Kyle Blanks,Craig Tatum,3,0,2,True,2009-07-27,Stolen,2B,2009
+3042,1B,2B,Stolen Base 2B,452035,Kyle Blanks,Eli Whiteside,1,3,5,True,2010-05-11,Stolen,2B,2010
+3959,1B,2B,Stolen Base 2B,452035,Kyle Blanks,Bobby Wilson,1,1,2,True,2010-04-01,Stolen,2B,2010
+577,1B,2B,Stolen Base 2B,452035,Kyle Blanks,Chris Stewart,3,4,6,False,2011-09-06,Stolen,2B,2011
+734,1B,2B,Stolen Base 2B,452035,Kyle Blanks,Rod Barajas,4,1,6,True,2011-08-31,Stolen,2B,2011
+3070,1B,2B,Stolen Base 2B,452035,Kyle Blanks,Buster Posey,6,2,7,False,2013-04-28,Stolen,2B,2013
+2828,1B,2B,Stolen Base 2B,452035,Kyle Blanks,Stephen Vogt,0,0,4,False,2015-05-03,Stolen,2B,2015

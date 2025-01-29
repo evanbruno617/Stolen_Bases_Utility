@@ -1,0 +1,2 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,992,1B,,Caught Stealing 2B,493128,Munenori Kawasaki,430641,Blaine Boyer,572365,Ryan Goins,R,Kurt Suzuki,435559,6,5,8,True,2015-05-31,Caught,2B,2015,2016,28.5

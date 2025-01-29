@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+56,1B,2B,Stolen Base 2B,543569,Brent Morel,Jason Varitek,2,3,5,False,2010-09-28,Stolen,2B,2010
+122,1B,2B,Stolen Base 2B,543569,Brent Morel,Bobby Wilson,2,5,7,True,2010-09-25,Stolen,2B,2010
+137,1B,2B,Stolen Base 2B,543569,Brent Morel,Salvador Perez,6,3,8,False,2011-09-24,Stolen,2B,2011
+405,1B,2B,Stolen Base 2B,543569,Brent Morel,Alex Avila,5,2,8,False,2011-09-14,Stolen,2B,2011
+1075,1B,2B,Stolen Base 2B,543569,Brent Morel,Carlos Santana,8,7,14,False,2011-08-16,Stolen,2B,2011
+2733,1B,,Caught Stealing 2B,543569,Brent Morel,Miguel Olivo,5,1,6,False,2011-06-07,Caught,2B,2011
+2770,1B,2B,Stolen Base 2B,543569,Brent Morel,Victor Martinez,2,0,2,False,2011-06-05,Stolen,2B,2011
+2823,1B,,Caught Stealing 2B,543569,Brent Morel,Alex Avila,1,0,4,False,2011-06-03,Caught,2B,2011
+3083,1B,,Caught Stealing 2B,543569,Brent Morel,Yorvit Torrealba,2,4,4,True,2011-05-24,Caught,2B,2011
+4324,1B,,Caught Stealing 2B,543569,Brent Morel,Matt Treanor,4,6,8,True,2011-04-05,Caught,2B,2011
+4395,1B,2B,Stolen Base 2B,543569,Brent Morel,Carlos Santana,3,6,6,True,2011-04-02,Stolen,2B,2011
+3273,1B,2B,Stolen Base 2B,543569,Brent Morel,Humberto Quintero,0,3,3,False,2012-05-12,Stolen,2B,2012
+3513,1B,2B,Stolen Base 2B,543569,Brent Morel,Lou Marson,7,1,5,False,2012-05-01,Stolen,2B,2012
+3601,1B,2B,Stolen Base 2B,543569,Brent Morel,Kelly Shoppach,1,2,2,False,2012-04-27,Stolen,2B,2012
+3654,1B,,Caught Stealing 2B,543569,Brent Morel,Kurt Suzuki,0,0,8,True,2012-04-24,Caught,2B,2012
+3852,1B,2B,Stolen Base 2B,543569,Brent Morel,Matt Wieters,0,3,6,False,2012-04-17,Stolen,2B,2012
+1569,1B,,Caught Stealing 2B,543569,Brent Morel,Carlos Ruiz,3,3,8,True,2013-07-13,Caught,2B,2013
+1880,1B,2B,Stolen Base 2B,543569,Brent Morel,Yan Gomes,5,0,1,False,2013-06-28,Stolen,2B,2013

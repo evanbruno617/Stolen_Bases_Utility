@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+29,1B,2B,Stolen Base 2B,602074,Yonathan Daza,Yasmani Grandal,0,0,2,False,2019-09-28,Stolen,2B,2019
+1479,1B,,Caught Stealing 2B,602074,Yonathan Daza,Manny Piña,3,2,5,True,2021-06-26,Caught,2B,2021
+2122,1B,2B,Stolen Base 2B,602074,Yonathan Daza,Tyler Stephenson,6,5,8,False,2021-05-16,Stolen,2B,2021
+2200,1B,2B,Stolen Base 2B,602074,Yonathan Daza,Austin Nola,1,8,6,False,2021-05-11,Stolen,2B,2021
+1979,1B,,Caught Stealing 2B,602074,Yonathan Daza,Jorge Alfaro,0,0,3,True,2022-06-11,Caught,2B,2022
+2496,1B,,Caught Stealing 2B,602074,Yonathan Daza,MJ Melendez,10,4,8,False,2022-05-14,Caught,2B,2022
+2690,1B,,Caught Stealing 2B,602074,Yonathan Daza,Keibert Ruiz,4,2,2,False,2022-05-05,Caught,2B,2022

@@ -1,0 +1,15 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1611,1B,2B,Stolen Base 2B,663368,Blake Perkins,622065,Alex Young,686894,Joey Wiemer,L,Tyler Stephenson,663886,2,2,7,False,2023-07-24,Stolen,2B,2023,2024,29.6
+1,1722,1B,2B,Stolen Base 2B,663368,Blake Perkins,656546,Jeff Hoffman,686894,Joey Wiemer,R,J.T. Realmuto,592663,3,3,7,True,2023-07-19,Stolen,2B,2023,2024,29.6
+2,1801,1B,2B,Stolen Base 2B,663368,Blake Perkins,571656,Buck Farmer,655316,Andruw Monasterio,R,Luke Maile,571912,0,3,7,True,2023-07-15,Stolen,2B,2023,2024,29.6
+3,2206,1B,,Caught Stealing 2B,663368,Blake Perkins,650644,Aaron Civale,686894,Joey Wiemer,R,Bo Naylor,666310,1,4,4,True,2023-06-25,Caught,2B,2023,2024,29.6
+4,2208,1B,2B,Stolen Base 2B,663368,Blake Perkins,661403,Emmanuel Clase,686894,Joey Wiemer,R,Bo Naylor,666310,4,4,9,True,2023-06-25,Stolen,2B,2023,2024,29.6
+5,2598,1B,,Caught Stealing 2B,663368,Blake Perkins,665622,Luis Medina,655316,Andruw Monasterio,R,Shea Langeliers,669127,2,4,4,False,2023-06-09,Caught,2B,2023,2024,29.6
+6,2670,1B,2B,Stolen Base 2B,663368,Blake Perkins,666974,Yennier Cano,668930,Brice Turang,R,Adley Rutschman,668939,3,3,8,False,2023-06-06,Stolen,2B,2023,2024,29.6
+7,6025,1B,2B,Stolen Base 2B,663368,Blake Perkins,622065,Alex Young,686894,Joey Wiemer,L,Tyler Stephenson,663886,2,2,7,False,2023-07-24,Stolen,2B,2023,2024,29.6
+8,6136,1B,2B,Stolen Base 2B,663368,Blake Perkins,656546,Jeff Hoffman,686894,Joey Wiemer,R,J.T. Realmuto,592663,3,3,7,True,2023-07-19,Stolen,2B,2023,2024,29.6
+9,6215,1B,2B,Stolen Base 2B,663368,Blake Perkins,571656,Buck Farmer,655316,Andruw Monasterio,R,Luke Maile,571912,0,3,7,True,2023-07-15,Stolen,2B,2023,2024,29.6
+10,6620,1B,,Caught Stealing 2B,663368,Blake Perkins,650644,Aaron Civale,686894,Joey Wiemer,R,Bo Naylor,666310,1,4,4,True,2023-06-25,Caught,2B,2023,2024,29.6
+11,6622,1B,2B,Stolen Base 2B,663368,Blake Perkins,661403,Emmanuel Clase,686894,Joey Wiemer,R,Bo Naylor,666310,4,4,9,True,2023-06-25,Stolen,2B,2023,2024,29.6
+12,7012,1B,,Caught Stealing 2B,663368,Blake Perkins,665622,Luis Medina,655316,Andruw Monasterio,R,Shea Langeliers,669127,2,4,4,False,2023-06-09,Caught,2B,2023,2024,29.6
+13,7084,1B,2B,Stolen Base 2B,663368,Blake Perkins,666974,Yennier Cano,668930,Brice Turang,R,Adley Rutschman,668939,3,3,8,False,2023-06-06,Stolen,2B,2023,2024,29.6

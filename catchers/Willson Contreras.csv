@@ -1,0 +1,609 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,542932,Jon Berti,543294,Kyle Hendricks,500743,Miguel Rojas,R,Willson Contreras,575929,0,0,5,True,2020-09-30,Stolen,2B,2020,2021, 84.4, 0.75
+1,1B,2B,Stolen Base 2B,542932,Jon Berti,572193,Ryan Tepera,500743,Miguel Rojas,R,Willson Contreras,575929,1,5,8,True,2020-09-30,Stolen,2B,2020,2021, 84.4, 0.75
+2,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,452657,Jon Lester,641553,Adam Engel,L,Willson Contreras,575929,1,1,2,False,2020-09-26,Stolen,2B,2020,2021, 84.4, 0.75
+3,1B,,Caught Stealing 2B,543510,James McCann,592094,Jason Adam,641553,Adam Engel,R,Willson Contreras,575929,7,5,5,False,2020-09-26,Caught,2B,2020,2021, 84.4, 0.75
+4,1B,2B,Stolen Base 2B,663611,Nick Madrigal,592094,Jason Adam,641313,Tim Anderson,R,Willson Contreras,575929,7,5,6,False,2020-09-26,Stolen,2B,2020,2021, 84.4, 0.75
+5,1B,,Caught Stealing 2B,595909,Jake Cave,543294,Kyle Hendricks,503556,Marwin Gonzalez,R,Willson Contreras,575929,1,0,2,True,2020-09-18,Caught,2B,2020,2021, 84.4, 0.75
+6,1B,2B,Stolen Base 2B,541645,Avisaíl García,452657,Jon Lester,592885,Christian Yelich,L,Willson Contreras,575929,0,0,3,False,2020-09-11,Stolen,2B,2020,2021, 84.4, 0.75
+7,1B,,Caught Stealing 2B,541645,Avisaíl García,452657,Jon Lester,669374,Keston Hiura,L,Willson Contreras,575929,0,0,5,False,2020-09-11,Caught,2B,2020,2021, 84.4, 0.75
+8,1B,2B,Stolen Base 2B,673451,Shogo Akiyama,640470,Adbert Alzolay,571718,Brian Goodwin,R,Willson Contreras,575929,0,3,2,True,2020-09-10,Stolen,2B,2020,2021, 84.4, 0.75
+9,1B,2B,Stolen Base 2B,673451,Shogo Akiyama,640470,Adbert Alzolay,663886,Tyler Stephenson,R,Willson Contreras,575929,0,3,4,True,2020-09-10,Stolen,2B,2020,2021, 84.4, 0.75
+10,1B,2B,Stolen Base 2B,595375,JT Riddle,592094,Jason Adam,571974,John Ryan Murphy,R,Willson Contreras,575929,4,2,6,False,2020-09-03,Stolen,2B,2020,2021, 84.4, 0.75
+11,1B,2B,Stolen Base 2B,673451,Shogo Akiyama,607067,Colin Rea,458015,Joey Votto,R,Willson Contreras,575929,0,0,3,False,2020-08-30,Stolen,2B,2020,2021, 84.4, 0.75
+12,2B,,Caught Stealing 3B,676480,Jose Barrero,640470,Adbert Alzolay,592200,Curt Casali,R,Willson Contreras,575929,4,3,4,False,2020-08-29,Caught,3B,2020,2021, 84.4, 0.75
+13,1B,2B,Caught Stealing 3B,673451,Shogo Akiyama,640470,Adbert Alzolay,592200,Curt Casali,R,Willson Contreras,575929,4,3,4,False,2020-08-29,Caught,3B,2020,2021, 84.4, 0.75
+14,1B,2B,Stolen Base 2B,592348,Niko Goodrum,518886,Craig Kimbrel,457727,Cameron Maybin,R,Willson Contreras,575929,7,3,8,False,2020-08-26,Stolen,2B,2020,2021, 84.4, 0.75
+15,1B,2B,Stolen Base 2B,592348,Niko Goodrum,543022,Tyler Chatwood,457727,Cameron Maybin,R,Willson Contreras,575929,2,0,1,False,2020-08-25,Stolen,2B,2020,2021, 84.4, 0.75
+16,1B,,Caught Stealing 2B,600869,Jeimer Candelario,500779,Jose Quintana,592444,JaCoby Jones,L,Willson Contreras,575929,2,0,5,False,2020-08-25,Caught,2B,2020,2021, 84.4, 0.75
+17,1B,,Caught Stealing 2B,669374,Keston Hiura,452657,Jon Lester,592885,Christian Yelich,L,Willson Contreras,575929,3,5,5,True,2020-08-16,Caught,2B,2020,2021, 84.4, 0.75
+18,1B,2B,Stolen Base 2B,670084,Nick Heath,594986,Kyle Ryan,605490,Bubba Starling,L,Willson Contreras,575929,5,4,9,True,2020-08-04,Stolen,2B,2020,2021, 84.4, 0.75
+19,1B,,Caught Stealing 2B,609275,Adalberto Mondesi,621219,Alec Mills,621433,Brett Phillips,R,Willson Contreras,575929,0,0,4,True,2020-08-03,Caught,2B,2020,2021, 84.4, 0.75
+20,1B,2B,Stolen Base 2B,614173,Franchy Cordero,592858,Rowan Wick,460086,Alex Gordon,R,Willson Contreras,575929,2,0,9,True,2020-08-03,Stolen,2B,2020,2021, 84.4, 0.75
+21,2B,,Caught Stealing 3B,676480,Jose Barrero,640470,Adbert Alzolay,592200,Curt Casali,R,Willson Contreras,575929,4,3,4,False,2020-07-30,Caught,3B,2020,2021, 84.4, 0.75
+22,1B,2B,Caught Stealing 3B,673451,Shogo Akiyama,640470,Adbert Alzolay,592200,Curt Casali,R,Willson Contreras,575929,4,3,4,False,2020-07-30,Caught,3B,2020,2021, 84.4, 0.75
+23,1B,2B,Stolen Base 2B,642165,Josh VanMeter,518886,Craig Kimbrel,673451,Shogo Akiyama,R,Willson Contreras,575929,5,8,9,False,2020-07-27,Stolen,2B,2020,2021, 84.4, 0.75
+24,1B,2B,Stolen Base 2B,669374,Keston Hiura,543022,Tyler Chatwood,475253,Justin Smoak,R,Willson Contreras,575929,0,0,1,True,2020-07-26,Stolen,2B,2020,2021, 84.4, 0.75
+25,1B,2B,Stolen Base 2B,542932,Jon Berti,543294,Kyle Hendricks,500743,Miguel Rojas,R,Willson Contreras,575929,0,0,5,True,2020-09-30,Stolen,2B,2020,2021, 84.4, 0.75
+26,1B,2B,Stolen Base 2B,542932,Jon Berti,572193,Ryan Tepera,500743,Miguel Rojas,R,Willson Contreras,575929,1,5,8,True,2020-09-30,Stolen,2B,2020,2021, 84.4, 0.75
+27,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,452657,Jon Lester,641553,Adam Engel,L,Willson Contreras,575929,1,1,2,False,2020-09-26,Stolen,2B,2020,2021, 84.4, 0.75
+28,1B,,Caught Stealing 2B,543510,James McCann,592094,Jason Adam,641553,Adam Engel,R,Willson Contreras,575929,7,5,5,False,2020-09-26,Caught,2B,2020,2021, 84.4, 0.75
+29,1B,2B,Stolen Base 2B,663611,Nick Madrigal,592094,Jason Adam,641313,Tim Anderson,R,Willson Contreras,575929,7,5,6,False,2020-09-26,Stolen,2B,2020,2021, 84.4, 0.75
+30,1B,,Caught Stealing 2B,595909,Jake Cave,543294,Kyle Hendricks,503556,Marwin Gonzalez,R,Willson Contreras,575929,1,0,2,True,2020-09-18,Caught,2B,2020,2021, 84.4, 0.75
+31,1B,2B,Stolen Base 2B,541645,Avisaíl García,452657,Jon Lester,592885,Christian Yelich,L,Willson Contreras,575929,0,0,3,False,2020-09-11,Stolen,2B,2020,2021, 84.4, 0.75
+32,1B,,Caught Stealing 2B,541645,Avisaíl García,452657,Jon Lester,669374,Keston Hiura,L,Willson Contreras,575929,0,0,5,False,2020-09-11,Caught,2B,2020,2021, 84.4, 0.75
+33,1B,2B,Stolen Base 2B,673451,Shogo Akiyama,640470,Adbert Alzolay,571718,Brian Goodwin,R,Willson Contreras,575929,0,3,2,True,2020-09-10,Stolen,2B,2020,2021, 84.4, 0.75
+34,1B,2B,Stolen Base 2B,673451,Shogo Akiyama,640470,Adbert Alzolay,663886,Tyler Stephenson,R,Willson Contreras,575929,0,3,4,True,2020-09-10,Stolen,2B,2020,2021, 84.4, 0.75
+35,1B,2B,Stolen Base 2B,595375,JT Riddle,592094,Jason Adam,571974,John Ryan Murphy,R,Willson Contreras,575929,4,2,6,False,2020-09-03,Stolen,2B,2020,2021, 84.4, 0.75
+36,1B,2B,Stolen Base 2B,673451,Shogo Akiyama,607067,Colin Rea,458015,Joey Votto,R,Willson Contreras,575929,0,0,3,False,2020-08-30,Stolen,2B,2020,2021, 84.4, 0.75
+37,2B,,Caught Stealing 3B,676480,Jose Barrero,640470,Adbert Alzolay,592200,Curt Casali,R,Willson Contreras,575929,4,3,4,False,2020-08-29,Caught,3B,2020,2021, 84.4, 0.75
+38,1B,2B,Caught Stealing 3B,673451,Shogo Akiyama,640470,Adbert Alzolay,592200,Curt Casali,R,Willson Contreras,575929,4,3,4,False,2020-08-29,Caught,3B,2020,2021, 84.4, 0.75
+39,1B,2B,Stolen Base 2B,592348,Niko Goodrum,518886,Craig Kimbrel,457727,Cameron Maybin,R,Willson Contreras,575929,7,3,8,False,2020-08-26,Stolen,2B,2020,2021, 84.4, 0.75
+40,1B,2B,Stolen Base 2B,592348,Niko Goodrum,543022,Tyler Chatwood,457727,Cameron Maybin,R,Willson Contreras,575929,2,0,1,False,2020-08-25,Stolen,2B,2020,2021, 84.4, 0.75
+41,1B,,Caught Stealing 2B,600869,Jeimer Candelario,500779,Jose Quintana,592444,JaCoby Jones,L,Willson Contreras,575929,2,0,5,False,2020-08-25,Caught,2B,2020,2021, 84.4, 0.75
+42,1B,,Caught Stealing 2B,669374,Keston Hiura,452657,Jon Lester,592885,Christian Yelich,L,Willson Contreras,575929,3,5,5,True,2020-08-16,Caught,2B,2020,2021, 84.4, 0.75
+43,1B,2B,Stolen Base 2B,670084,Nick Heath,594986,Kyle Ryan,605490,Bubba Starling,L,Willson Contreras,575929,5,4,9,True,2020-08-04,Stolen,2B,2020,2021, 84.4, 0.75
+44,1B,,Caught Stealing 2B,609275,Adalberto Mondesi,621219,Alec Mills,621433,Brett Phillips,R,Willson Contreras,575929,0,0,4,True,2020-08-03,Caught,2B,2020,2021, 84.4, 0.75
+45,1B,2B,Stolen Base 2B,614173,Franchy Cordero,592858,Rowan Wick,460086,Alex Gordon,R,Willson Contreras,575929,2,0,9,True,2020-08-03,Stolen,2B,2020,2021, 84.4, 0.75
+46,2B,,Caught Stealing 3B,676480,Jose Barrero,640470,Adbert Alzolay,592200,Curt Casali,R,Willson Contreras,575929,4,3,4,False,2020-07-30,Caught,3B,2020,2021, 84.4, 0.75
+47,1B,2B,Caught Stealing 3B,673451,Shogo Akiyama,640470,Adbert Alzolay,592200,Curt Casali,R,Willson Contreras,575929,4,3,4,False,2020-07-30,Caught,3B,2020,2021, 84.4, 0.75
+48,1B,2B,Stolen Base 2B,642165,Josh VanMeter,518886,Craig Kimbrel,673451,Shogo Akiyama,R,Willson Contreras,575929,5,8,9,False,2020-07-27,Stolen,2B,2020,2021, 84.4, 0.75
+49,1B,2B,Stolen Base 2B,669374,Keston Hiura,543022,Tyler Chatwood,475253,Justin Smoak,R,Willson Contreras,575929,0,0,1,True,2020-07-26,Stolen,2B,2020,2021, 84.4, 0.75
+50,1B,2B,Stolen Base 2B,542932,Jon Berti,543294,Kyle Hendricks,500743,Miguel Rojas,R,Willson Contreras,575929,0,0,5,True,2020-09-30,Stolen,2B,2020,2021, 84.4, 0.75
+51,1B,2B,Stolen Base 2B,542932,Jon Berti,572193,Ryan Tepera,500743,Miguel Rojas,R,Willson Contreras,575929,1,5,8,True,2020-09-30,Stolen,2B,2020,2021, 84.4, 0.75
+52,1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,452657,Jon Lester,641553,Adam Engel,L,Willson Contreras,575929,1,1,2,False,2020-09-26,Stolen,2B,2020,2021, 84.4, 0.75
+53,1B,,Caught Stealing 2B,543510,James McCann,592094,Jason Adam,641553,Adam Engel,R,Willson Contreras,575929,7,5,5,False,2020-09-26,Caught,2B,2020,2021, 84.4, 0.75
+54,1B,2B,Stolen Base 2B,663611,Nick Madrigal,592094,Jason Adam,641313,Tim Anderson,R,Willson Contreras,575929,7,5,6,False,2020-09-26,Stolen,2B,2020,2021, 84.4, 0.75
+55,1B,,Caught Stealing 2B,595909,Jake Cave,543294,Kyle Hendricks,503556,Marwin Gonzalez,R,Willson Contreras,575929,1,0,2,True,2020-09-18,Caught,2B,2020,2021, 84.4, 0.75
+56,1B,2B,Stolen Base 2B,541645,Avisaíl García,452657,Jon Lester,592885,Christian Yelich,L,Willson Contreras,575929,0,0,3,False,2020-09-11,Stolen,2B,2020,2021, 84.4, 0.75
+57,1B,,Caught Stealing 2B,541645,Avisaíl García,452657,Jon Lester,669374,Keston Hiura,L,Willson Contreras,575929,0,0,5,False,2020-09-11,Caught,2B,2020,2021, 84.4, 0.75
+58,1B,2B,Stolen Base 2B,673451,Shogo Akiyama,640470,Adbert Alzolay,571718,Brian Goodwin,R,Willson Contreras,575929,0,3,2,True,2020-09-10,Stolen,2B,2020,2021, 84.4, 0.75
+59,1B,2B,Stolen Base 2B,673451,Shogo Akiyama,640470,Adbert Alzolay,663886,Tyler Stephenson,R,Willson Contreras,575929,0,3,4,True,2020-09-10,Stolen,2B,2020,2021, 84.4, 0.75
+60,1B,2B,Stolen Base 2B,595375,JT Riddle,592094,Jason Adam,571974,John Ryan Murphy,R,Willson Contreras,575929,4,2,6,False,2020-09-03,Stolen,2B,2020,2021, 84.4, 0.75
+61,1B,2B,Stolen Base 2B,673451,Shogo Akiyama,607067,Colin Rea,458015,Joey Votto,R,Willson Contreras,575929,0,0,3,False,2020-08-30,Stolen,2B,2020,2021, 84.4, 0.75
+62,2B,,Caught Stealing 3B,676480,Jose Barrero,640470,Adbert Alzolay,592200,Curt Casali,R,Willson Contreras,575929,4,3,4,False,2020-08-29,Caught,3B,2020,2021, 84.4, 0.75
+63,1B,2B,Caught Stealing 3B,673451,Shogo Akiyama,640470,Adbert Alzolay,592200,Curt Casali,R,Willson Contreras,575929,4,3,4,False,2020-08-29,Caught,3B,2020,2021, 84.4, 0.75
+64,1B,2B,Stolen Base 2B,592348,Niko Goodrum,518886,Craig Kimbrel,457727,Cameron Maybin,R,Willson Contreras,575929,7,3,8,False,2020-08-26,Stolen,2B,2020,2021, 84.4, 0.75
+65,1B,2B,Stolen Base 2B,592348,Niko Goodrum,543022,Tyler Chatwood,457727,Cameron Maybin,R,Willson Contreras,575929,2,0,1,False,2020-08-25,Stolen,2B,2020,2021, 84.4, 0.75
+66,1B,,Caught Stealing 2B,600869,Jeimer Candelario,500779,Jose Quintana,592444,JaCoby Jones,L,Willson Contreras,575929,2,0,5,False,2020-08-25,Caught,2B,2020,2021, 84.4, 0.75
+67,1B,,Caught Stealing 2B,669374,Keston Hiura,452657,Jon Lester,592885,Christian Yelich,L,Willson Contreras,575929,3,5,5,True,2020-08-16,Caught,2B,2020,2021, 84.4, 0.75
+68,1B,2B,Stolen Base 2B,670084,Nick Heath,594986,Kyle Ryan,605490,Bubba Starling,L,Willson Contreras,575929,5,4,9,True,2020-08-04,Stolen,2B,2020,2021, 84.4, 0.75
+69,1B,,Caught Stealing 2B,609275,Adalberto Mondesi,621219,Alec Mills,621433,Brett Phillips,R,Willson Contreras,575929,0,0,4,True,2020-08-03,Caught,2B,2020,2021, 84.4, 0.75
+70,1B,2B,Stolen Base 2B,614173,Franchy Cordero,592858,Rowan Wick,460086,Alex Gordon,R,Willson Contreras,575929,2,0,9,True,2020-08-03,Stolen,2B,2020,2021, 84.4, 0.75
+71,2B,,Caught Stealing 3B,676480,Jose Barrero,640470,Adbert Alzolay,592200,Curt Casali,R,Willson Contreras,575929,4,3,4,False,2020-07-30,Caught,3B,2020,2021, 84.4, 0.75
+72,1B,2B,Caught Stealing 3B,673451,Shogo Akiyama,640470,Adbert Alzolay,592200,Curt Casali,R,Willson Contreras,575929,4,3,4,False,2020-07-30,Caught,3B,2020,2021, 84.4, 0.75
+73,1B,2B,Stolen Base 2B,642165,Josh VanMeter,518886,Craig Kimbrel,673451,Shogo Akiyama,R,Willson Contreras,575929,5,8,9,False,2020-07-27,Stolen,2B,2020,2021, 84.4, 0.75
+74,1B,2B,Stolen Base 2B,669374,Keston Hiura,543022,Tyler Chatwood,475253,Justin Smoak,R,Willson Contreras,575929,0,0,1,True,2020-07-26,Stolen,2B,2020,2021, 84.4, 0.75
+75,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,502706,Derek Holland,542303,Marcell Ozuna,L,Willson Contreras,575929,5,0,3,False,2019-09-29,Stolen,2B,2019,2020, 84.3, 0.75
+76,1B,2B,Stolen Base 2B,669242,Tommy Edman,621219,Alec Mills,502671,Paul Goldschmidt,R,Willson Contreras,575929,1,0,5,False,2019-09-27,Stolen,2B,2019,2020, 84.3, 0.75
+77,1B,2B,Stolen Base 2B,621028,Kevin Newman,543294,Kyle Hendricks,624428,Adam Frazier,R,Willson Contreras,575929,0,0,1,False,2019-09-24,Stolen,2B,2019,2020, 84.3, 0.75
+78,2B,,Caught Stealing 3B,547179,Michael Lorenzen,452657,Jon Lester,607468,Alex Blandino,L,Willson Contreras,575929,0,0,3,True,2019-09-18,Caught,3B,2019,2020, 84.3, 0.75
+79,1B,2B,Stolen Base 2B,547179,Michael Lorenzen,592858,Rowan Wick,606299,José Peraza,R,Willson Contreras,575929,2,2,9,True,2019-09-18,Stolen,2B,2019,2020, 84.3, 0.75
+80,1B,2B,Stolen Base 2B,640447,Phillip Ervin,430935,Cole Hamels,553993,Eugenio Suárez,L,Willson Contreras,575929,0,0,1,True,2019-09-16,Stolen,2B,2019,2020, 84.3, 0.75
+81,1B,2B,Stolen Base 2B,622534,Manuel Margot,621249,Duane Underwood Jr.,605361,Nick Martini,R,Willson Contreras,575929,2,0,7,False,2019-09-11,Stolen,2B,2019,2020, 84.3, 0.75
+82,1B,2B,Stolen Base 2B,571976,Wil Myers,621249,Duane Underwood Jr.,664034,Ty France,R,Willson Contreras,575929,4,0,7,False,2019-09-11,Stolen,2B,2019,2020, 84.3, 0.75
+83,1B,,Caught Stealing 2B,669374,Keston Hiura,500779,Jose Quintana,518735,Yasmani Grandal,L,Willson Contreras,575929,0,0,1,True,2019-08-02,Caught,2B,2019,2020, 84.3, 0.75
+84,1B,2B,Stolen Base 2B,500874,José A. Martínez,542960,Brad Brach,502671,Paul Goldschmidt,R,Willson Contreras,575929,6,0,7,False,2019-08-01,Stolen,2B,2019,2020, 84.3, 0.75
+85,1B,2B,Stolen Base 2B,543939,Kolten Wong,543294,Kyle Hendricks,641933,Tyler O'Neill,R,Willson Contreras,575929,0,1,6,False,2019-07-31,Stolen,2B,2019,2020, 84.3, 0.75
+86,1B,2B,Stolen Base 2B,592325,Ben Gamel,592858,Rowan Wick,456715,Lorenzo Cain,R,Willson Contreras,575929,2,2,9,False,2019-07-27,Stolen,2B,2019,2020, 84.3, 0.75
+87,1B,2B,Stolen Base 2B,669374,Keston Hiura,445213,Brandon Kintzler,519346,Eric Thames,R,Willson Contreras,575929,1,2,8,False,2019-07-26,Stolen,2B,2019,2020, 84.3, 0.75
+88,1B,2B,Stolen Base 2B,605508,Charles Tilson,518886,Craig Kimbrel,660162,Yoán Moncada,R,Willson Contreras,575929,3,6,9,False,2019-07-06,Stolen,2B,2019,2020, 84.3, 0.75
+89,1B,2B,Stolen Base 2B,624577,Yasiel Puig,452657,Jon Lester,578428,Jose Iglesias,L,Willson Contreras,575929,3,0,6,False,2019-06-30,Stolen,2B,2019,2020, 84.3, 0.75
+90,1B,2B,Stolen Base 2B,624577,Yasiel Puig,596027,Dillon Maples,640447,Phillip Ervin,R,Willson Contreras,575929,5,3,8,False,2019-06-30,Stolen,2B,2019,2020, 84.3, 0.75
+91,1B,2B,Stolen Base 2B,571657,Kyle Farmer,594986,Kyle Ryan,592200,Curt Casali,L,Willson Contreras,575929,6,3,8,False,2019-06-30,Stolen,2B,2019,2020, 84.3, 0.75
+92,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,506433,Yu Darvish,621020,Dansby Swanson,R,Willson Contreras,575929,0,0,1,True,2019-06-26,Stolen,2B,2019,2020, 84.3, 0.75
+93,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,452657,Jon Lester,621020,Dansby Swanson,L,Willson Contreras,575929,1,0,4,True,2019-06-24,Stolen,2B,2019,2020, 84.3, 0.75
+94,1B,2B,Stolen Base 2B,570560,Yolmer Sánchez,452657,Jon Lester,608337,Lucas Giolito,L,Willson Contreras,575929,5,3,4,True,2019-06-19,Stolen,2B,2019,2020, 84.3, 0.75
+95,2B,,Caught Stealing 3B,641313,Tim Anderson,452657,Jon Lester,547989,José Abreu,L,Willson Contreras,575929,6,3,5,True,2019-06-19,Caught,3B,2019,2020, 84.3, 0.75
+96,1B,,Caught Stealing 2B,542303,Marcell Ozuna,543294,Kyle Hendricks,543939,Kolten Wong,R,Willson Contreras,575929,1,1,4,True,2019-06-09,Caught,2B,2019,2020, 84.3, 0.75
+97,1B,2B,Stolen Base 2B,596115,Trevor Story,506433,Yu Darvish,571448,Nolan Arenado,R,Willson Contreras,575929,0,0,1,True,2019-06-05,Stolen,2B,2019,2020, 84.3, 0.75
+98,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,430935,Cole Hamels,543939,Kolten Wong,L,Willson Contreras,575929,1,0,5,False,2019-06-02,Stolen,2B,2019,2020, 84.3, 0.75
+99,1B,2B,Stolen Base 2B,543939,Kolten Wong,543557,Mike Montgomery,572761,Matt Carpenter,L,Willson Contreras,575929,2,0,8,False,2019-06-02,Stolen,2B,2019,2020, 84.3, 0.75
+100,1B,2B,Stolen Base 2B,605233,Derek Fisher,452657,Jon Lester,488726,Michael Brantley,L,Willson Contreras,575929,6,3,4,False,2019-05-28,Stolen,2B,2019,2020, 84.3, 0.75
+101,1B,2B,Stolen Base 2B,643393,Tony Kemp,542960,Brad Brach,545350,Jake Marisnick,R,Willson Contreras,575929,9,6,7,False,2019-05-28,Stolen,2B,2019,2020, 84.3, 0.75
+102,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,500779,Jose Quintana,664068,Scott Kingery,L,Willson Contreras,575929,1,0,4,True,2019-05-21,Stolen,2B,2019,2020, 84.3, 0.75
+103,1B,,Caught Stealing 2B,594809,Adam Eaton,452657,Jon Lester,543685,Anthony Rendon,L,Willson Contreras,575929,1,0,3,False,2019-05-18,Caught,2B,2019,2020, 84.3, 0.75
+104,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,458584,Xavier Cedeño,506703,Adrián Sanchez,L,Willson Contreras,575929,5,2,8,False,2019-05-18,Stolen,2B,2019,2020, 84.3, 0.75
+105,1B,2B,Stolen Base 2B,607208,Trea Turner,594986,Kyle Ryan,594809,Adam Eaton,L,Willson Contreras,575929,2,3,6,False,2019-05-17,Stolen,2B,2019,2020, 84.3, 0.75
+106,1B,2B,Stolen Base 2B,669222,Nick Senzel,500779,Jose Quintana,553993,Eugenio Suárez,L,Willson Contreras,575929,0,2,3,False,2019-05-16,Stolen,2B,2019,2020, 84.3, 0.75
+107,1B,,Caught Stealing 2B,606115,Orlando Arcia,452657,Jon Lester,456715,Lorenzo Cain,L,Willson Contreras,575929,1,0,3,True,2019-05-12,Caught,2B,2019,2020, 84.3, 0.75
+108,1B,,Caught Stealing 2B,502671,Paul Goldschmidt,500779,Jose Quintana,657557,Paul DeJong,L,Willson Contreras,575929,0,0,1,True,2019-05-05,Caught,2B,2019,2020, 84.3, 0.75
+109,1B,2B,Stolen Base 2B,656427,Jack Flaherty,543294,Kyle Hendricks,572761,Matt Carpenter,R,Willson Contreras,575929,0,0,3,True,2019-05-03,Stolen,2B,2019,2020, 84.3, 0.75
+110,1B,2B,Stolen Base 2B,545121,Ildemaro Vargas,543903,Allen Webster,430945,Adam Jones,R,Willson Contreras,575929,8,3,8,False,2019-04-26,Stolen,2B,2019,2020, 84.3, 0.75
+111,1B,,Caught Stealing 2B,500871,Eduardo Escobar,543294,Kyle Hendricks,444482,David Peralta,R,Willson Contreras,575929,0,0,1,True,2019-04-19,Caught,2B,2019,2020, 84.3, 0.75
+112,1B,2B,Stolen Base 2B,572233,Christian Walker,543294,Kyle Hendricks,605113,Nick Ahmed,R,Willson Contreras,575929,0,0,2,True,2019-04-19,Stolen,2B,2019,2020, 84.3, 0.75
+113,1B,2B,Stolen Base 2B,516782,Starling Marte,506433,Yu Darvish,465041,Francisco Cervelli,R,Willson Contreras,575929,1,3,6,True,2019-04-10,Stolen,2B,2019,2020, 84.3, 0.75
+114,1B,2B,Stolen Base 2B,641829,Jason Martin,543903,Allen Webster,570481,Erik González,R,Willson Contreras,575929,1,5,7,True,2019-04-10,Stolen,2B,2019,2020, 84.3, 0.75
+115,1B,2B,Stolen Base 2B,645277,Ozzie Albies,452657,Jon Lester,518626,Josh Donaldson,L,Willson Contreras,575929,2,1,5,False,2019-04-03,Stolen,2B,2019,2020, 84.3, 0.75
+116,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,502706,Derek Holland,542303,Marcell Ozuna,L,Willson Contreras,575929,5,0,3,False,2019-09-29,Stolen,2B,2019,2020, 84.3, 0.75
+117,1B,2B,Stolen Base 2B,669242,Tommy Edman,621219,Alec Mills,502671,Paul Goldschmidt,R,Willson Contreras,575929,1,0,5,False,2019-09-27,Stolen,2B,2019,2020, 84.3, 0.75
+118,1B,2B,Stolen Base 2B,621028,Kevin Newman,543294,Kyle Hendricks,624428,Adam Frazier,R,Willson Contreras,575929,0,0,1,False,2019-09-24,Stolen,2B,2019,2020, 84.3, 0.75
+119,2B,,Caught Stealing 3B,547179,Michael Lorenzen,452657,Jon Lester,607468,Alex Blandino,L,Willson Contreras,575929,0,0,3,True,2019-09-18,Caught,3B,2019,2020, 84.3, 0.75
+120,1B,2B,Stolen Base 2B,547179,Michael Lorenzen,592858,Rowan Wick,606299,José Peraza,R,Willson Contreras,575929,2,2,9,True,2019-09-18,Stolen,2B,2019,2020, 84.3, 0.75
+121,1B,2B,Stolen Base 2B,640447,Phillip Ervin,430935,Cole Hamels,553993,Eugenio Suárez,L,Willson Contreras,575929,0,0,1,True,2019-09-16,Stolen,2B,2019,2020, 84.3, 0.75
+122,1B,2B,Stolen Base 2B,622534,Manuel Margot,621249,Duane Underwood Jr.,605361,Nick Martini,R,Willson Contreras,575929,2,0,7,False,2019-09-11,Stolen,2B,2019,2020, 84.3, 0.75
+123,1B,2B,Stolen Base 2B,571976,Wil Myers,621249,Duane Underwood Jr.,664034,Ty France,R,Willson Contreras,575929,4,0,7,False,2019-09-11,Stolen,2B,2019,2020, 84.3, 0.75
+124,1B,,Caught Stealing 2B,669374,Keston Hiura,500779,Jose Quintana,518735,Yasmani Grandal,L,Willson Contreras,575929,0,0,1,True,2019-08-02,Caught,2B,2019,2020, 84.3, 0.75
+125,1B,2B,Stolen Base 2B,500874,José A. Martínez,542960,Brad Brach,502671,Paul Goldschmidt,R,Willson Contreras,575929,6,0,7,False,2019-08-01,Stolen,2B,2019,2020, 84.3, 0.75
+126,1B,2B,Stolen Base 2B,543939,Kolten Wong,543294,Kyle Hendricks,641933,Tyler O'Neill,R,Willson Contreras,575929,0,1,6,False,2019-07-31,Stolen,2B,2019,2020, 84.3, 0.75
+127,1B,2B,Stolen Base 2B,592325,Ben Gamel,592858,Rowan Wick,456715,Lorenzo Cain,R,Willson Contreras,575929,2,2,9,False,2019-07-27,Stolen,2B,2019,2020, 84.3, 0.75
+128,1B,2B,Stolen Base 2B,669374,Keston Hiura,445213,Brandon Kintzler,519346,Eric Thames,R,Willson Contreras,575929,1,2,8,False,2019-07-26,Stolen,2B,2019,2020, 84.3, 0.75
+129,1B,2B,Stolen Base 2B,605508,Charles Tilson,518886,Craig Kimbrel,660162,Yoán Moncada,R,Willson Contreras,575929,3,6,9,False,2019-07-06,Stolen,2B,2019,2020, 84.3, 0.75
+130,1B,2B,Stolen Base 2B,624577,Yasiel Puig,452657,Jon Lester,578428,Jose Iglesias,L,Willson Contreras,575929,3,0,6,False,2019-06-30,Stolen,2B,2019,2020, 84.3, 0.75
+131,1B,2B,Stolen Base 2B,624577,Yasiel Puig,596027,Dillon Maples,640447,Phillip Ervin,R,Willson Contreras,575929,5,3,8,False,2019-06-30,Stolen,2B,2019,2020, 84.3, 0.75
+132,1B,2B,Stolen Base 2B,571657,Kyle Farmer,594986,Kyle Ryan,592200,Curt Casali,L,Willson Contreras,575929,6,3,8,False,2019-06-30,Stolen,2B,2019,2020, 84.3, 0.75
+133,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,506433,Yu Darvish,621020,Dansby Swanson,R,Willson Contreras,575929,0,0,1,True,2019-06-26,Stolen,2B,2019,2020, 84.3, 0.75
+134,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,452657,Jon Lester,621020,Dansby Swanson,L,Willson Contreras,575929,1,0,4,True,2019-06-24,Stolen,2B,2019,2020, 84.3, 0.75
+135,1B,2B,Stolen Base 2B,570560,Yolmer Sánchez,452657,Jon Lester,608337,Lucas Giolito,L,Willson Contreras,575929,5,3,4,True,2019-06-19,Stolen,2B,2019,2020, 84.3, 0.75
+136,2B,,Caught Stealing 3B,641313,Tim Anderson,452657,Jon Lester,547989,José Abreu,L,Willson Contreras,575929,6,3,5,True,2019-06-19,Caught,3B,2019,2020, 84.3, 0.75
+137,1B,,Caught Stealing 2B,542303,Marcell Ozuna,543294,Kyle Hendricks,543939,Kolten Wong,R,Willson Contreras,575929,1,1,4,True,2019-06-09,Caught,2B,2019,2020, 84.3, 0.75
+138,1B,2B,Stolen Base 2B,596115,Trevor Story,506433,Yu Darvish,571448,Nolan Arenado,R,Willson Contreras,575929,0,0,1,True,2019-06-05,Stolen,2B,2019,2020, 84.3, 0.75
+139,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,430935,Cole Hamels,543939,Kolten Wong,L,Willson Contreras,575929,1,0,5,False,2019-06-02,Stolen,2B,2019,2020, 84.3, 0.75
+140,1B,2B,Stolen Base 2B,543939,Kolten Wong,543557,Mike Montgomery,572761,Matt Carpenter,L,Willson Contreras,575929,2,0,8,False,2019-06-02,Stolen,2B,2019,2020, 84.3, 0.75
+141,1B,2B,Stolen Base 2B,605233,Derek Fisher,452657,Jon Lester,488726,Michael Brantley,L,Willson Contreras,575929,6,3,4,False,2019-05-28,Stolen,2B,2019,2020, 84.3, 0.75
+142,1B,2B,Stolen Base 2B,643393,Tony Kemp,542960,Brad Brach,545350,Jake Marisnick,R,Willson Contreras,575929,9,6,7,False,2019-05-28,Stolen,2B,2019,2020, 84.3, 0.75
+143,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,500779,Jose Quintana,664068,Scott Kingery,L,Willson Contreras,575929,1,0,4,True,2019-05-21,Stolen,2B,2019,2020, 84.3, 0.75
+144,1B,,Caught Stealing 2B,594809,Adam Eaton,452657,Jon Lester,543685,Anthony Rendon,L,Willson Contreras,575929,1,0,3,False,2019-05-18,Caught,2B,2019,2020, 84.3, 0.75
+145,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,458584,Xavier Cedeño,506703,Adrián Sanchez,L,Willson Contreras,575929,5,2,8,False,2019-05-18,Stolen,2B,2019,2020, 84.3, 0.75
+146,1B,2B,Stolen Base 2B,607208,Trea Turner,594986,Kyle Ryan,594809,Adam Eaton,L,Willson Contreras,575929,2,3,6,False,2019-05-17,Stolen,2B,2019,2020, 84.3, 0.75
+147,1B,2B,Stolen Base 2B,669222,Nick Senzel,500779,Jose Quintana,553993,Eugenio Suárez,L,Willson Contreras,575929,0,2,3,False,2019-05-16,Stolen,2B,2019,2020, 84.3, 0.75
+148,1B,,Caught Stealing 2B,606115,Orlando Arcia,452657,Jon Lester,456715,Lorenzo Cain,L,Willson Contreras,575929,1,0,3,True,2019-05-12,Caught,2B,2019,2020, 84.3, 0.75
+149,1B,,Caught Stealing 2B,502671,Paul Goldschmidt,500779,Jose Quintana,657557,Paul DeJong,L,Willson Contreras,575929,0,0,1,True,2019-05-05,Caught,2B,2019,2020, 84.3, 0.75
+150,1B,2B,Stolen Base 2B,656427,Jack Flaherty,543294,Kyle Hendricks,572761,Matt Carpenter,R,Willson Contreras,575929,0,0,3,True,2019-05-03,Stolen,2B,2019,2020, 84.3, 0.75
+151,1B,2B,Stolen Base 2B,545121,Ildemaro Vargas,543903,Allen Webster,430945,Adam Jones,R,Willson Contreras,575929,8,3,8,False,2019-04-26,Stolen,2B,2019,2020, 84.3, 0.75
+152,1B,,Caught Stealing 2B,500871,Eduardo Escobar,543294,Kyle Hendricks,444482,David Peralta,R,Willson Contreras,575929,0,0,1,True,2019-04-19,Caught,2B,2019,2020, 84.3, 0.75
+153,1B,2B,Stolen Base 2B,572233,Christian Walker,543294,Kyle Hendricks,605113,Nick Ahmed,R,Willson Contreras,575929,0,0,2,True,2019-04-19,Stolen,2B,2019,2020, 84.3, 0.75
+154,1B,2B,Stolen Base 2B,516782,Starling Marte,506433,Yu Darvish,465041,Francisco Cervelli,R,Willson Contreras,575929,1,3,6,True,2019-04-10,Stolen,2B,2019,2020, 84.3, 0.75
+155,1B,2B,Stolen Base 2B,641829,Jason Martin,543903,Allen Webster,570481,Erik González,R,Willson Contreras,575929,1,5,7,True,2019-04-10,Stolen,2B,2019,2020, 84.3, 0.75
+156,1B,2B,Stolen Base 2B,645277,Ozzie Albies,452657,Jon Lester,518626,Josh Donaldson,L,Willson Contreras,575929,2,1,5,False,2019-04-03,Stolen,2B,2019,2020, 84.3, 0.75
+157,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,502706,Derek Holland,542303,Marcell Ozuna,L,Willson Contreras,575929,5,0,3,False,2019-09-29,Stolen,2B,2019,2020, 84.3, 0.75
+158,1B,2B,Stolen Base 2B,669242,Tommy Edman,621219,Alec Mills,502671,Paul Goldschmidt,R,Willson Contreras,575929,1,0,5,False,2019-09-27,Stolen,2B,2019,2020, 84.3, 0.75
+159,1B,2B,Stolen Base 2B,621028,Kevin Newman,543294,Kyle Hendricks,624428,Adam Frazier,R,Willson Contreras,575929,0,0,1,False,2019-09-24,Stolen,2B,2019,2020, 84.3, 0.75
+160,2B,,Caught Stealing 3B,547179,Michael Lorenzen,452657,Jon Lester,607468,Alex Blandino,L,Willson Contreras,575929,0,0,3,True,2019-09-18,Caught,3B,2019,2020, 84.3, 0.75
+161,1B,2B,Stolen Base 2B,547179,Michael Lorenzen,592858,Rowan Wick,606299,José Peraza,R,Willson Contreras,575929,2,2,9,True,2019-09-18,Stolen,2B,2019,2020, 84.3, 0.75
+162,1B,2B,Stolen Base 2B,640447,Phillip Ervin,430935,Cole Hamels,553993,Eugenio Suárez,L,Willson Contreras,575929,0,0,1,True,2019-09-16,Stolen,2B,2019,2020, 84.3, 0.75
+163,1B,2B,Stolen Base 2B,622534,Manuel Margot,621249,Duane Underwood Jr.,605361,Nick Martini,R,Willson Contreras,575929,2,0,7,False,2019-09-11,Stolen,2B,2019,2020, 84.3, 0.75
+164,1B,2B,Stolen Base 2B,571976,Wil Myers,621249,Duane Underwood Jr.,664034,Ty France,R,Willson Contreras,575929,4,0,7,False,2019-09-11,Stolen,2B,2019,2020, 84.3, 0.75
+165,1B,,Caught Stealing 2B,669374,Keston Hiura,500779,Jose Quintana,518735,Yasmani Grandal,L,Willson Contreras,575929,0,0,1,True,2019-08-02,Caught,2B,2019,2020, 84.3, 0.75
+166,1B,2B,Stolen Base 2B,500874,José A. Martínez,542960,Brad Brach,502671,Paul Goldschmidt,R,Willson Contreras,575929,6,0,7,False,2019-08-01,Stolen,2B,2019,2020, 84.3, 0.75
+167,1B,2B,Stolen Base 2B,543939,Kolten Wong,543294,Kyle Hendricks,641933,Tyler O'Neill,R,Willson Contreras,575929,0,1,6,False,2019-07-31,Stolen,2B,2019,2020, 84.3, 0.75
+168,1B,2B,Stolen Base 2B,592325,Ben Gamel,592858,Rowan Wick,456715,Lorenzo Cain,R,Willson Contreras,575929,2,2,9,False,2019-07-27,Stolen,2B,2019,2020, 84.3, 0.75
+169,1B,2B,Stolen Base 2B,669374,Keston Hiura,445213,Brandon Kintzler,519346,Eric Thames,R,Willson Contreras,575929,1,2,8,False,2019-07-26,Stolen,2B,2019,2020, 84.3, 0.75
+170,1B,2B,Stolen Base 2B,605508,Charles Tilson,518886,Craig Kimbrel,660162,Yoán Moncada,R,Willson Contreras,575929,3,6,9,False,2019-07-06,Stolen,2B,2019,2020, 84.3, 0.75
+171,1B,2B,Stolen Base 2B,624577,Yasiel Puig,452657,Jon Lester,578428,Jose Iglesias,L,Willson Contreras,575929,3,0,6,False,2019-06-30,Stolen,2B,2019,2020, 84.3, 0.75
+172,1B,2B,Stolen Base 2B,624577,Yasiel Puig,596027,Dillon Maples,640447,Phillip Ervin,R,Willson Contreras,575929,5,3,8,False,2019-06-30,Stolen,2B,2019,2020, 84.3, 0.75
+173,1B,2B,Stolen Base 2B,571657,Kyle Farmer,594986,Kyle Ryan,592200,Curt Casali,L,Willson Contreras,575929,6,3,8,False,2019-06-30,Stolen,2B,2019,2020, 84.3, 0.75
+174,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,506433,Yu Darvish,621020,Dansby Swanson,R,Willson Contreras,575929,0,0,1,True,2019-06-26,Stolen,2B,2019,2020, 84.3, 0.75
+175,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,452657,Jon Lester,621020,Dansby Swanson,L,Willson Contreras,575929,1,0,4,True,2019-06-24,Stolen,2B,2019,2020, 84.3, 0.75
+176,1B,2B,Stolen Base 2B,570560,Yolmer Sánchez,452657,Jon Lester,608337,Lucas Giolito,L,Willson Contreras,575929,5,3,4,True,2019-06-19,Stolen,2B,2019,2020, 84.3, 0.75
+177,2B,,Caught Stealing 3B,641313,Tim Anderson,452657,Jon Lester,547989,José Abreu,L,Willson Contreras,575929,6,3,5,True,2019-06-19,Caught,3B,2019,2020, 84.3, 0.75
+178,1B,,Caught Stealing 2B,542303,Marcell Ozuna,543294,Kyle Hendricks,543939,Kolten Wong,R,Willson Contreras,575929,1,1,4,True,2019-06-09,Caught,2B,2019,2020, 84.3, 0.75
+179,1B,2B,Stolen Base 2B,596115,Trevor Story,506433,Yu Darvish,571448,Nolan Arenado,R,Willson Contreras,575929,0,0,1,True,2019-06-05,Stolen,2B,2019,2020, 84.3, 0.75
+180,1B,2B,Stolen Base 2B,576397,Jedd Gyorko,430935,Cole Hamels,543939,Kolten Wong,L,Willson Contreras,575929,1,0,5,False,2019-06-02,Stolen,2B,2019,2020, 84.3, 0.75
+181,1B,2B,Stolen Base 2B,543939,Kolten Wong,543557,Mike Montgomery,572761,Matt Carpenter,L,Willson Contreras,575929,2,0,8,False,2019-06-02,Stolen,2B,2019,2020, 84.3, 0.75
+182,1B,2B,Stolen Base 2B,605233,Derek Fisher,452657,Jon Lester,488726,Michael Brantley,L,Willson Contreras,575929,6,3,4,False,2019-05-28,Stolen,2B,2019,2020, 84.3, 0.75
+183,1B,2B,Stolen Base 2B,643393,Tony Kemp,542960,Brad Brach,545350,Jake Marisnick,R,Willson Contreras,575929,9,6,7,False,2019-05-28,Stolen,2B,2019,2020, 84.3, 0.75
+184,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,500779,Jose Quintana,664068,Scott Kingery,L,Willson Contreras,575929,1,0,4,True,2019-05-21,Stolen,2B,2019,2020, 84.3, 0.75
+185,1B,,Caught Stealing 2B,594809,Adam Eaton,452657,Jon Lester,543685,Anthony Rendon,L,Willson Contreras,575929,1,0,3,False,2019-05-18,Caught,2B,2019,2020, 84.3, 0.75
+186,1B,2B,Stolen Base 2B,572191,Michael A. Taylor,458584,Xavier Cedeño,506703,Adrián Sanchez,L,Willson Contreras,575929,5,2,8,False,2019-05-18,Stolen,2B,2019,2020, 84.3, 0.75
+187,1B,2B,Stolen Base 2B,607208,Trea Turner,594986,Kyle Ryan,594809,Adam Eaton,L,Willson Contreras,575929,2,3,6,False,2019-05-17,Stolen,2B,2019,2020, 84.3, 0.75
+188,1B,2B,Stolen Base 2B,669222,Nick Senzel,500779,Jose Quintana,553993,Eugenio Suárez,L,Willson Contreras,575929,0,2,3,False,2019-05-16,Stolen,2B,2019,2020, 84.3, 0.75
+189,1B,,Caught Stealing 2B,606115,Orlando Arcia,452657,Jon Lester,456715,Lorenzo Cain,L,Willson Contreras,575929,1,0,3,True,2019-05-12,Caught,2B,2019,2020, 84.3, 0.75
+190,1B,,Caught Stealing 2B,502671,Paul Goldschmidt,500779,Jose Quintana,657557,Paul DeJong,L,Willson Contreras,575929,0,0,1,True,2019-05-05,Caught,2B,2019,2020, 84.3, 0.75
+191,1B,2B,Stolen Base 2B,656427,Jack Flaherty,543294,Kyle Hendricks,572761,Matt Carpenter,R,Willson Contreras,575929,0,0,3,True,2019-05-03,Stolen,2B,2019,2020, 84.3, 0.75
+192,1B,2B,Stolen Base 2B,545121,Ildemaro Vargas,543903,Allen Webster,430945,Adam Jones,R,Willson Contreras,575929,8,3,8,False,2019-04-26,Stolen,2B,2019,2020, 84.3, 0.75
+193,1B,,Caught Stealing 2B,500871,Eduardo Escobar,543294,Kyle Hendricks,444482,David Peralta,R,Willson Contreras,575929,0,0,1,True,2019-04-19,Caught,2B,2019,2020, 84.3, 0.75
+194,1B,2B,Stolen Base 2B,572233,Christian Walker,543294,Kyle Hendricks,605113,Nick Ahmed,R,Willson Contreras,575929,0,0,2,True,2019-04-19,Stolen,2B,2019,2020, 84.3, 0.75
+195,1B,2B,Stolen Base 2B,516782,Starling Marte,506433,Yu Darvish,465041,Francisco Cervelli,R,Willson Contreras,575929,1,3,6,True,2019-04-10,Stolen,2B,2019,2020, 84.3, 0.75
+196,1B,2B,Stolen Base 2B,641829,Jason Martin,543903,Allen Webster,570481,Erik González,R,Willson Contreras,575929,1,5,7,True,2019-04-10,Stolen,2B,2019,2020, 84.3, 0.75
+197,1B,2B,Stolen Base 2B,645277,Ozzie Albies,452657,Jon Lester,518626,Josh Donaldson,L,Willson Contreras,575929,2,1,5,False,2019-04-03,Stolen,2B,2019,2020, 84.3, 0.75
+198,1B,2B,Stolen Base 2B,621028,Kevin Newman,543294,Kyle Hendricks,660829,Hoy Park,R,Willson Contreras,575929,0,0,2,False,2021-09-29,Stolen,2B,2021,2022, 86.0, 0.72
+199,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,640470,Adbert Alzolay,571448,Nolan Arenado,R,Willson Contreras,575929,2,1,6,True,2021-09-26,Stolen,2B,2021,2022, 86.0, 0.72
+200,1B,2B,Stolen Base 2B,664056,Harrison Bader,592716,Adrian Sampson,663457,Lars Nootbaar,R,Willson Contreras,575929,4,2,5,True,2021-09-25,Stolen,2B,2021,2022, 86.0, 0.72
+201,2B,3B,Stolen Base 3B,664056,Harrison Bader,667297,Tommy Nance,663457,Lars Nootbaar,R,Willson Contreras,575929,4,6,9,True,2021-09-25,Stolen,3B,2021,2022, 86.0, 0.72
+202,1B,2B,Stolen Base 2B,669242,Tommy Edman,657006,Justin Steele,502671,Paul Goldschmidt,L,Willson Contreras,575929,0,4,5,True,2021-09-24,Stolen,2B,2021,2022, 86.0, 0.72
+203,1B,2B,Stolen Base 2B,621439,Byron Buxton,621219,Alec Mills,593871,Jorge Polanco,R,Willson Contreras,575929,0,1,1,True,2021-09-21,Stolen,2B,2021,2022, 86.0, 0.72
+204,2B,3B,Stolen Base 2B,621439,Byron Buxton,621219,Alec Mills,593871,Jorge Polanco,R,Willson Contreras,575929,0,1,1,True,2021-09-21,Stolen,2B,2021,2022, 86.0, 0.72
+205,2B,3B,Stolen Base 3B,624503,Nick Gordon,571521,Rex Brothers,650333,Luis Arraez,L,Willson Contreras,575929,5,9,9,True,2021-09-21,Stolen,3B,2021,2022, 86.0, 0.72
+206,1B,2B,Stolen Base 2B,543939,Kolten Wong,657006,Justin Steele,649966,Luis Urías,L,Willson Contreras,575929,0,0,1,False,2021-09-18,Stolen,2B,2021,2022, 86.0, 0.72
+207,1B,2B,Stolen Base 2B,622569,Pablo Reyes,640470,Adbert Alzolay,596129,Daniel Vogelbach,R,Willson Contreras,575929,4,3,6,False,2021-09-18,Stolen,2B,2021,2022, 86.0, 0.72
+208,1B,2B,Stolen Base 2B,456715,Lorenzo Cain,592858,Rowan Wick,571912,Luke Maile,R,Willson Contreras,575929,5,5,8,False,2021-09-17,Stolen,2B,2021,2022, 86.0, 0.72
+209,1B,2B,Stolen Base 2B,592178,Kris Bryant,657006,Justin Steele,457763,Buster Posey,L,Willson Contreras,575929,0,2,3,True,2021-09-12,Stolen,2B,2021,2022, 86.0, 0.72
+210,1B,2B,Stolen Base 2B,596103,Austin Slater,657006,Justin Steele,573131,Darin Ruf,L,Willson Contreras,575929,0,3,4,True,2021-09-12,Stolen,2B,2021,2022, 86.0, 0.72
+211,1B,2B,Stolen Base 2B,546990,Anthony Alford,543294,Kyle Hendricks,594694,Wilmer Difo,R,Willson Contreras,575929,0,1,2,True,2021-09-04,Stolen,2B,2021,2022, 86.0, 0.72
+212,1B,2B,Stolen Base 2B,546990,Anthony Alford,664123,Scott Effross,594694,Wilmer Difo,R,Willson Contreras,575929,4,6,9,True,2021-09-04,Stolen,2B,2021,2022, 86.0, 0.72
+213,1B,,Caught Stealing 2B,514917,César Hernández,657228,Jake Jewell,664874,Seby Zavala,R,Willson Contreras,575929,2,7,3,True,2021-08-08,Caught,2B,2021,2022, 86.0, 0.72
+214,1B,2B,Stolen Base 2B,641553,Adam Engel,655889,Manuel Rodríguez,547989,José Abreu,R,Willson Contreras,575929,3,8,7,True,2021-08-08,Stolen,2B,2021,2022, 86.0, 0.72
+215,1B,2B,Stolen Base 2B,544725,Leury García,640470,Adbert Alzolay,641470,Zack Collins,R,Willson Contreras,575929,0,2,7,True,2021-08-07,Stolen,2B,2021,2022, 86.0, 0.72
+216,2B,3B,Stolen Base 3B,641553,Adam Engel,543294,Kyle Hendricks,650391,Eloy Jiménez,R,Willson Contreras,575929,0,0,1,True,2021-08-06,Stolen,3B,2021,2022, 86.0, 0.72
+217,2B,3B,Stolen Base 3B,641553,Adam Engel,543294,Kyle Hendricks,650391,Eloy Jiménez,R,Willson Contreras,575929,0,0,4,True,2021-08-06,Stolen,3B,2021,2022, 86.0, 0.72
+218,1B,2B,Stolen Base 2B,660162,Yoán Moncada,543294,Kyle Hendricks,664874,Seby Zavala,R,Willson Contreras,575929,0,2,6,True,2021-08-06,Stolen,2B,2021,2022, 86.0, 0.72
+219,1B,,Caught Stealing 2B,606132,Raimel Tapia,453562,Jake Arrieta,663898,Brendan Rodgers,R,Willson Contreras,575929,0,0,1,False,2021-08-05,Caught,2B,2021,2022, 86.0, 0.72
+220,1B,,Caught Stealing 2B,669242,Tommy Edman,640470,Adbert Alzolay,624641,Edmundo Sosa,R,Willson Contreras,575929,1,0,2,False,2021-07-22,Caught,2B,2021,2022, 86.0, 0.72
+221,1B,,Caught Stealing 2B,641933,Tyler O'Neill,572193,Ryan Tepera,657557,Paul DeJong,R,Willson Contreras,575929,2,1,8,False,2021-07-21,Caught,2B,2021,2022, 86.0, 0.72
+222,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,592866,Trevor Williams,425877,Yadier Molina,R,Willson Contreras,575929,4,1,5,False,2021-07-20,Stolen,2B,2021,2022, 86.0, 0.72
+223,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,572193,Ryan Tepera,425877,Yadier Molina,R,Willson Contreras,575929,6,1,7,False,2021-07-20,Stolen,2B,2021,2022, 86.0, 0.72
+224,1B,2B,Stolen Base 2B,662139,Daulton Varsho,640470,Adbert Alzolay,668678,Zac Gallen,R,Willson Contreras,575929,1,0,2,False,2021-07-17,Stolen,2B,2021,2022, 86.0, 0.72
+225,1B,2B,Stolen Base 2B,664056,Harrison Bader,605200,Zach Davies,657557,Paul DeJong,R,Willson Contreras,575929,0,1,4,True,2021-07-10,Stolen,2B,2021,2022, 86.0, 0.72
+226,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,605388,Adam Morgan,669242,Tommy Edman,L,Willson Contreras,575929,0,4,5,True,2021-07-10,Stolen,2B,2021,2022, 86.0, 0.72
+227,1B,2B,Stolen Base 2B,608671,Travis Jankowski,453562,Jake Arrieta,516416,Jean Segura,R,Willson Contreras,575929,0,5,2,True,2021-07-06,Stolen,2B,2021,2022, 86.0, 0.72
+228,1B,2B,Stolen Base 2B,642715,Willy Adames,605200,Zach Davies,592885,Christian Yelich,R,Willson Contreras,575929,1,0,1,False,2021-06-29,Stolen,2B,2021,2022, 86.0, 0.72
+229,1B,2B,Stolen Base 2B,592885,Christian Yelich,605200,Zach Davies,621438,Tyrone Taylor,R,Willson Contreras,575929,1,1,4,False,2021-06-29,Stolen,2B,2021,2022, 86.0, 0.72
+230,2B,,Caught Stealing 3B,621035,Chris Taylor,621219,Alec Mills,656716,Zach McKinstry,R,Willson Contreras,575929,2,0,2,False,2021-06-26,Caught,3B,2021,2022, 86.0, 0.72
+231,1B,2B,Stolen Base 2B,641355,Cody Bellinger,453562,Jake Arrieta,669257,Will Smith,R,Willson Contreras,575929,0,1,2,False,2021-06-25,Stolen,2B,2021,2022, 86.0, 0.72
+232,1B,2B,Stolen Base 2B,605141,Mookie Betts,667297,Tommy Nance,571970,Max Muncy,R,Willson Contreras,575929,6,2,8,False,2021-06-25,Stolen,2B,2021,2022, 86.0, 0.72
+233,1B,2B,Stolen Base 2B,596019,Francisco Lindor,571521,Rex Brothers,642086,Dominic Smith,L,Willson Contreras,575929,5,2,7,False,2021-06-14,Stolen,2B,2021,2022, 86.0, 0.72
+234,1B,2B,Stolen Base 2B,502054,Tommy Pham,640470,Adbert Alzolay,592518,Manny Machado,R,Willson Contreras,575929,2,0,2,False,2021-06-07,Stolen,2B,2021,2022, 86.0, 0.72
+235,1B,,Caught Stealing 2B,643565,Mike Tauchman,667297,Tommy Nance,643289,Mauricio Dubón,R,Willson Contreras,575929,8,5,7,False,2021-06-04,Caught,2B,2021,2022, 86.0, 0.72
+236,1B,2B,Stolen Base 2B,643289,Mauricio Dubón,596027,Dillon Maples,543063,Brandon Crawford,R,Willson Contreras,575929,5,2,7,False,2021-06-03,Stolen,2B,2021,2022, 86.0, 0.72
+237,1B,2B,Stolen Base 2B,621453,Steven Duggar,596027,Dillon Maples,643565,Mike Tauchman,R,Willson Contreras,575929,7,2,7,False,2021-06-03,Stolen,2B,2021,2022, 86.0, 0.72
+238,1B,2B,Stolen Base 2B,571980,Tyler Naquin,623364,Brad Wieck,571657,Kyle Farmer,L,Willson Contreras,575929,0,5,4,True,2021-05-30,Stolen,2B,2021,2022, 86.0, 0.72
+239,1B,2B,Stolen Base 2B,673451,Shogo Akiyama,596027,Dillon Maples,553993,Eugenio Suárez,R,Willson Contreras,575929,0,5,8,True,2021-05-30,Stolen,2B,2021,2022, 86.0, 0.72
+240,1B,,Caught Stealing 2B,624428,Adam Frazier,543294,Kyle Hendricks,592325,Ben Gamel,R,Willson Contreras,575929,2,4,6,False,2021-05-27,Caught,2B,2021,2022, 86.0, 0.72
+241,1B,2B,Stolen Base 2B,657041,Lane Thomas,640470,Adbert Alzolay,594965,Daniel Ponce de Leon,R,Willson Contreras,575929,1,1,5,False,2021-05-22,Stolen,2B,2021,2022, 86.0, 0.72
+242,1B,2B,Stolen Base 2B,607208,Trea Turner,453562,Jake Arrieta,665742,Juan Soto,R,Willson Contreras,575929,1,1,3,True,2021-05-19,Stolen,2B,2021,2022, 86.0, 0.72
+243,1B,,Caught Stealing 2B,665742,Juan Soto,596027,Dillon Maples,605137,Josh Bell,R,Willson Contreras,575929,2,4,9,True,2021-05-19,Caught,2B,2021,2022, 86.0, 0.72
+244,1B,,Caught Stealing 2B,641343,Jake Bauers,605200,Zach Davies,665926,Andrés Giménez,R,Willson Contreras,575929,0,0,5,False,2021-05-12,Caught,2B,2021,2022, 86.0, 0.72
+245,1B,2B,Stolen Base 2B,665926,Andrés Giménez,640470,Adbert Alzolay,514917,César Hernández,R,Willson Contreras,575929,3,2,5,False,2021-05-11,Stolen,2B,2021,2022, 86.0, 0.72
+246,1B,2B,Stolen Base 2B,624428,Adam Frazier,592866,Trevor Williams,595943,Phillip Evans,R,Willson Contreras,575929,0,0,1,True,2021-05-08,Stolen,2B,2021,2022, 86.0, 0.72
+247,1B,2B,Stolen Base 2B,664789,Ka'ai Tom,592866,Trevor Williams,605421,Michael Pérez,R,Willson Contreras,575929,1,0,2,True,2021-05-08,Stolen,2B,2021,2022, 86.0, 0.72
+248,1B,,Caught Stealing 2B,669222,Nick Senzel,592866,Trevor Williams,571466,Tucker Barnhart,R,Willson Contreras,575929,2,2,2,False,2021-05-02,Caught,2B,2021,2022, 86.0, 0.72
+249,1B,2B,Stolen Base 2B,621020,Dansby Swanson,519443,Brandon Workman,663586,Austin Riley,R,Willson Contreras,575929,3,0,8,False,2021-04-27,Stolen,2B,2021,2022, 86.0, 0.72
+250,1B,2B,Stolen Base 2B,645277,Ozzie Albies,605200,Zach Davies,518595,Travis d'Arnaud,R,Willson Contreras,575929,3,0,1,False,2021-04-26,Stolen,2B,2021,2022, 86.0, 0.72
+251,2B,,Caught Stealing 3B,621020,Dansby Swanson,592094,Jason Adam,628338,Guillermo Heredia,R,Willson Contreras,575929,1,4,5,True,2021-04-16,Caught,3B,2021,2022, 86.0, 0.72
+252,2B,3B,Stolen Base 3B,669374,Keston Hiura,657006,Justin Steele,621002,Daniel Robertson,L,Willson Contreras,575929,6,1,6,False,2021-04-12,Stolen,3B,2021,2022, 86.0, 0.72
+253,1B,2B,Stolen Base 2B,543939,Kolten Wong,596027,Dillon Maples,592885,Christian Yelich,R,Willson Contreras,575929,0,4,8,True,2021-04-06,Stolen,2B,2021,2022, 86.0, 0.72
+254,2B,3B,Stolen Base 3B,641583,Dustin Fowler,519443,Brandon Workman,663647,Ke'Bryan Hayes,R,Willson Contreras,575929,2,3,4,True,2021-04-01,Stolen,3B,2021,2022, 86.0, 0.72
+255,1B,2B,Stolen Base 2B,624428,Adam Frazier,519443,Brandon Workman,663647,Ke'Bryan Hayes,R,Willson Contreras,575929,2,3,4,True,2021-04-01,Stolen,2B,2021,2022, 86.0, 0.72
+256,1B,2B,Stolen Base 2B,546990,Anthony Alford,595465,Dan Winkler,570481,Erik González,R,Willson Contreras,575929,2,4,7,True,2021-04-01,Stolen,2B,2021,2022, 86.0, 0.72
+257,1B,2B,Stolen Base 2B,621028,Kevin Newman,543294,Kyle Hendricks,660829,Hoy Park,R,Willson Contreras,575929,0,0,2,False,2021-09-29,Stolen,2B,2021,2022, 86.0, 0.72
+258,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,640470,Adbert Alzolay,571448,Nolan Arenado,R,Willson Contreras,575929,2,1,6,True,2021-09-26,Stolen,2B,2021,2022, 86.0, 0.72
+259,1B,2B,Stolen Base 2B,664056,Harrison Bader,592716,Adrian Sampson,663457,Lars Nootbaar,R,Willson Contreras,575929,4,2,5,True,2021-09-25,Stolen,2B,2021,2022, 86.0, 0.72
+260,2B,3B,Stolen Base 3B,664056,Harrison Bader,667297,Tommy Nance,663457,Lars Nootbaar,R,Willson Contreras,575929,4,6,9,True,2021-09-25,Stolen,3B,2021,2022, 86.0, 0.72
+261,1B,2B,Stolen Base 2B,669242,Tommy Edman,657006,Justin Steele,502671,Paul Goldschmidt,L,Willson Contreras,575929,0,4,5,True,2021-09-24,Stolen,2B,2021,2022, 86.0, 0.72
+262,1B,2B,Stolen Base 2B,621439,Byron Buxton,621219,Alec Mills,593871,Jorge Polanco,R,Willson Contreras,575929,0,1,1,True,2021-09-21,Stolen,2B,2021,2022, 86.0, 0.72
+263,2B,3B,Stolen Base 2B,621439,Byron Buxton,621219,Alec Mills,593871,Jorge Polanco,R,Willson Contreras,575929,0,1,1,True,2021-09-21,Stolen,2B,2021,2022, 86.0, 0.72
+264,2B,3B,Stolen Base 3B,624503,Nick Gordon,571521,Rex Brothers,650333,Luis Arraez,L,Willson Contreras,575929,5,9,9,True,2021-09-21,Stolen,3B,2021,2022, 86.0, 0.72
+265,1B,2B,Stolen Base 2B,543939,Kolten Wong,657006,Justin Steele,649966,Luis Urías,L,Willson Contreras,575929,0,0,1,False,2021-09-18,Stolen,2B,2021,2022, 86.0, 0.72
+266,1B,2B,Stolen Base 2B,622569,Pablo Reyes,640470,Adbert Alzolay,596129,Daniel Vogelbach,R,Willson Contreras,575929,4,3,6,False,2021-09-18,Stolen,2B,2021,2022, 86.0, 0.72
+267,1B,2B,Stolen Base 2B,456715,Lorenzo Cain,592858,Rowan Wick,571912,Luke Maile,R,Willson Contreras,575929,5,5,8,False,2021-09-17,Stolen,2B,2021,2022, 86.0, 0.72
+268,1B,2B,Stolen Base 2B,592178,Kris Bryant,657006,Justin Steele,457763,Buster Posey,L,Willson Contreras,575929,0,2,3,True,2021-09-12,Stolen,2B,2021,2022, 86.0, 0.72
+269,1B,2B,Stolen Base 2B,596103,Austin Slater,657006,Justin Steele,573131,Darin Ruf,L,Willson Contreras,575929,0,3,4,True,2021-09-12,Stolen,2B,2021,2022, 86.0, 0.72
+270,1B,2B,Stolen Base 2B,546990,Anthony Alford,543294,Kyle Hendricks,594694,Wilmer Difo,R,Willson Contreras,575929,0,1,2,True,2021-09-04,Stolen,2B,2021,2022, 86.0, 0.72
+271,1B,2B,Stolen Base 2B,546990,Anthony Alford,664123,Scott Effross,594694,Wilmer Difo,R,Willson Contreras,575929,4,6,9,True,2021-09-04,Stolen,2B,2021,2022, 86.0, 0.72
+272,1B,,Caught Stealing 2B,514917,César Hernández,657228,Jake Jewell,664874,Seby Zavala,R,Willson Contreras,575929,2,7,3,True,2021-08-08,Caught,2B,2021,2022, 86.0, 0.72
+273,1B,2B,Stolen Base 2B,641553,Adam Engel,655889,Manuel Rodríguez,547989,José Abreu,R,Willson Contreras,575929,3,8,7,True,2021-08-08,Stolen,2B,2021,2022, 86.0, 0.72
+274,1B,2B,Stolen Base 2B,544725,Leury García,640470,Adbert Alzolay,641470,Zack Collins,R,Willson Contreras,575929,0,2,7,True,2021-08-07,Stolen,2B,2021,2022, 86.0, 0.72
+275,2B,3B,Stolen Base 3B,641553,Adam Engel,543294,Kyle Hendricks,650391,Eloy Jiménez,R,Willson Contreras,575929,0,0,1,True,2021-08-06,Stolen,3B,2021,2022, 86.0, 0.72
+276,2B,3B,Stolen Base 3B,641553,Adam Engel,543294,Kyle Hendricks,650391,Eloy Jiménez,R,Willson Contreras,575929,0,0,4,True,2021-08-06,Stolen,3B,2021,2022, 86.0, 0.72
+277,1B,2B,Stolen Base 2B,660162,Yoán Moncada,543294,Kyle Hendricks,664874,Seby Zavala,R,Willson Contreras,575929,0,2,6,True,2021-08-06,Stolen,2B,2021,2022, 86.0, 0.72
+278,1B,,Caught Stealing 2B,606132,Raimel Tapia,453562,Jake Arrieta,663898,Brendan Rodgers,R,Willson Contreras,575929,0,0,1,False,2021-08-05,Caught,2B,2021,2022, 86.0, 0.72
+279,1B,,Caught Stealing 2B,669242,Tommy Edman,640470,Adbert Alzolay,624641,Edmundo Sosa,R,Willson Contreras,575929,1,0,2,False,2021-07-22,Caught,2B,2021,2022, 86.0, 0.72
+280,1B,,Caught Stealing 2B,641933,Tyler O'Neill,572193,Ryan Tepera,657557,Paul DeJong,R,Willson Contreras,575929,2,1,8,False,2021-07-21,Caught,2B,2021,2022, 86.0, 0.72
+281,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,592866,Trevor Williams,425877,Yadier Molina,R,Willson Contreras,575929,4,1,5,False,2021-07-20,Stolen,2B,2021,2022, 86.0, 0.72
+282,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,572193,Ryan Tepera,425877,Yadier Molina,R,Willson Contreras,575929,6,1,7,False,2021-07-20,Stolen,2B,2021,2022, 86.0, 0.72
+283,1B,2B,Stolen Base 2B,662139,Daulton Varsho,640470,Adbert Alzolay,668678,Zac Gallen,R,Willson Contreras,575929,1,0,2,False,2021-07-17,Stolen,2B,2021,2022, 86.0, 0.72
+284,1B,2B,Stolen Base 2B,664056,Harrison Bader,605200,Zach Davies,657557,Paul DeJong,R,Willson Contreras,575929,0,1,4,True,2021-07-10,Stolen,2B,2021,2022, 86.0, 0.72
+285,1B,2B,Stolen Base 2B,641933,Tyler O'Neill,605388,Adam Morgan,669242,Tommy Edman,L,Willson Contreras,575929,0,4,5,True,2021-07-10,Stolen,2B,2021,2022, 86.0, 0.72
+286,1B,2B,Stolen Base 2B,608671,Travis Jankowski,453562,Jake Arrieta,516416,Jean Segura,R,Willson Contreras,575929,0,5,2,True,2021-07-06,Stolen,2B,2021,2022, 86.0, 0.72
+287,1B,2B,Stolen Base 2B,642715,Willy Adames,605200,Zach Davies,592885,Christian Yelich,R,Willson Contreras,575929,1,0,1,False,2021-06-29,Stolen,2B,2021,2022, 86.0, 0.72
+288,1B,2B,Stolen Base 2B,592885,Christian Yelich,605200,Zach Davies,621438,Tyrone Taylor,R,Willson Contreras,575929,1,1,4,False,2021-06-29,Stolen,2B,2021,2022, 86.0, 0.72
+289,2B,,Caught Stealing 3B,621035,Chris Taylor,621219,Alec Mills,656716,Zach McKinstry,R,Willson Contreras,575929,2,0,2,False,2021-06-26,Caught,3B,2021,2022, 86.0, 0.72
+290,1B,2B,Stolen Base 2B,641355,Cody Bellinger,453562,Jake Arrieta,669257,Will Smith,R,Willson Contreras,575929,0,1,2,False,2021-06-25,Stolen,2B,2021,2022, 86.0, 0.72
+291,1B,2B,Stolen Base 2B,605141,Mookie Betts,667297,Tommy Nance,571970,Max Muncy,R,Willson Contreras,575929,6,2,8,False,2021-06-25,Stolen,2B,2021,2022, 86.0, 0.72
+292,1B,2B,Stolen Base 2B,596019,Francisco Lindor,571521,Rex Brothers,642086,Dominic Smith,L,Willson Contreras,575929,5,2,7,False,2021-06-14,Stolen,2B,2021,2022, 86.0, 0.72
+293,1B,2B,Stolen Base 2B,502054,Tommy Pham,640470,Adbert Alzolay,592518,Manny Machado,R,Willson Contreras,575929,2,0,2,False,2021-06-07,Stolen,2B,2021,2022, 86.0, 0.72
+294,1B,,Caught Stealing 2B,643565,Mike Tauchman,667297,Tommy Nance,643289,Mauricio Dubón,R,Willson Contreras,575929,8,5,7,False,2021-06-04,Caught,2B,2021,2022, 86.0, 0.72
+295,1B,2B,Stolen Base 2B,643289,Mauricio Dubón,596027,Dillon Maples,543063,Brandon Crawford,R,Willson Contreras,575929,5,2,7,False,2021-06-03,Stolen,2B,2021,2022, 86.0, 0.72
+296,1B,2B,Stolen Base 2B,621453,Steven Duggar,596027,Dillon Maples,643565,Mike Tauchman,R,Willson Contreras,575929,7,2,7,False,2021-06-03,Stolen,2B,2021,2022, 86.0, 0.72
+297,1B,2B,Stolen Base 2B,571980,Tyler Naquin,623364,Brad Wieck,571657,Kyle Farmer,L,Willson Contreras,575929,0,5,4,True,2021-05-30,Stolen,2B,2021,2022, 86.0, 0.72
+298,1B,2B,Stolen Base 2B,673451,Shogo Akiyama,596027,Dillon Maples,553993,Eugenio Suárez,R,Willson Contreras,575929,0,5,8,True,2021-05-30,Stolen,2B,2021,2022, 86.0, 0.72
+299,1B,,Caught Stealing 2B,624428,Adam Frazier,543294,Kyle Hendricks,592325,Ben Gamel,R,Willson Contreras,575929,2,4,6,False,2021-05-27,Caught,2B,2021,2022, 86.0, 0.72
+300,1B,2B,Stolen Base 2B,657041,Lane Thomas,640470,Adbert Alzolay,594965,Daniel Ponce de Leon,R,Willson Contreras,575929,1,1,5,False,2021-05-22,Stolen,2B,2021,2022, 86.0, 0.72
+301,1B,2B,Stolen Base 2B,607208,Trea Turner,453562,Jake Arrieta,665742,Juan Soto,R,Willson Contreras,575929,1,1,3,True,2021-05-19,Stolen,2B,2021,2022, 86.0, 0.72
+302,1B,,Caught Stealing 2B,665742,Juan Soto,596027,Dillon Maples,605137,Josh Bell,R,Willson Contreras,575929,2,4,9,True,2021-05-19,Caught,2B,2021,2022, 86.0, 0.72
+303,1B,,Caught Stealing 2B,641343,Jake Bauers,605200,Zach Davies,665926,Andrés Giménez,R,Willson Contreras,575929,0,0,5,False,2021-05-12,Caught,2B,2021,2022, 86.0, 0.72
+304,1B,2B,Stolen Base 2B,665926,Andrés Giménez,640470,Adbert Alzolay,514917,César Hernández,R,Willson Contreras,575929,3,2,5,False,2021-05-11,Stolen,2B,2021,2022, 86.0, 0.72
+305,1B,2B,Stolen Base 2B,624428,Adam Frazier,592866,Trevor Williams,595943,Phillip Evans,R,Willson Contreras,575929,0,0,1,True,2021-05-08,Stolen,2B,2021,2022, 86.0, 0.72
+306,1B,2B,Stolen Base 2B,664789,Ka'ai Tom,592866,Trevor Williams,605421,Michael Pérez,R,Willson Contreras,575929,1,0,2,True,2021-05-08,Stolen,2B,2021,2022, 86.0, 0.72
+307,1B,,Caught Stealing 2B,669222,Nick Senzel,592866,Trevor Williams,571466,Tucker Barnhart,R,Willson Contreras,575929,2,2,2,False,2021-05-02,Caught,2B,2021,2022, 86.0, 0.72
+308,1B,2B,Stolen Base 2B,621020,Dansby Swanson,519443,Brandon Workman,663586,Austin Riley,R,Willson Contreras,575929,3,0,8,False,2021-04-27,Stolen,2B,2021,2022, 86.0, 0.72
+309,1B,2B,Stolen Base 2B,645277,Ozzie Albies,605200,Zach Davies,518595,Travis d'Arnaud,R,Willson Contreras,575929,3,0,1,False,2021-04-26,Stolen,2B,2021,2022, 86.0, 0.72
+310,2B,,Caught Stealing 3B,621020,Dansby Swanson,592094,Jason Adam,628338,Guillermo Heredia,R,Willson Contreras,575929,1,4,5,True,2021-04-16,Caught,3B,2021,2022, 86.0, 0.72
+311,2B,3B,Stolen Base 3B,669374,Keston Hiura,657006,Justin Steele,621002,Daniel Robertson,L,Willson Contreras,575929,6,1,6,False,2021-04-12,Stolen,3B,2021,2022, 86.0, 0.72
+312,1B,2B,Stolen Base 2B,543939,Kolten Wong,596027,Dillon Maples,592885,Christian Yelich,R,Willson Contreras,575929,0,4,8,True,2021-04-06,Stolen,2B,2021,2022, 86.0, 0.72
+313,2B,3B,Stolen Base 3B,641583,Dustin Fowler,519443,Brandon Workman,663647,Ke'Bryan Hayes,R,Willson Contreras,575929,2,3,4,True,2021-04-01,Stolen,3B,2021,2022, 86.0, 0.72
+314,1B,2B,Stolen Base 2B,624428,Adam Frazier,519443,Brandon Workman,663647,Ke'Bryan Hayes,R,Willson Contreras,575929,2,3,4,True,2021-04-01,Stolen,2B,2021,2022, 86.0, 0.72
+315,1B,2B,Stolen Base 2B,546990,Anthony Alford,595465,Dan Winkler,570481,Erik González,R,Willson Contreras,575929,2,4,7,True,2021-04-01,Stolen,2B,2021,2022, 86.0, 0.72
+316,2B,3B,Stolen Base 3B,592192,Mark Canha,425794,Adam Wainwright,518626,Josh Donaldson,R,Willson Contreras,575929,1,0,7,True,2023-09-18,Stolen,3B,2023,2024, 86.3, 0.71
+317,1B,2B,Stolen Base 2B,681082,Bryson Stott,571945,Miles Mikolas,592206,Nick Castellanos,R,Willson Contreras,575929,0,1,2,True,2023-09-16,Stolen,2B,2023,2024, 86.3, 0.71
+318,1B,2B,Stolen Base 2B,679032,Johan Rojas,571945,Miles Mikolas,656941,Kyle Schwarber,R,Willson Contreras,575929,1,5,5,True,2023-09-16,Stolen,2B,2023,2024, 86.3, 0.71
+319,1B,2B,Stolen Base 2B,592206,Nick Castellanos,606930,Jacob Barnes,679032,Johan Rojas,R,Willson Contreras,575929,1,6,9,True,2023-09-16,Stolen,2B,2023,2024, 86.3, 0.71
+320,1B,,Caught Stealing 2B,665506,Cristian Pache,668868,Zack Thompson,607208,Trea Turner,L,Willson Contreras,575929,0,4,2,True,2023-09-15,Caught,2B,2023,2024, 86.3, 0.71
+321,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,596271,Casey Lawrence,592206,Nick Castellanos,R,Willson Contreras,575929,3,5,6,True,2023-09-15,Stolen,2B,2023,2024, 86.3, 0.71
+322,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,572403,Drew VerHagen,592663,J.T. Realmuto,R,Willson Contreras,575929,3,5,8,True,2023-09-15,Stolen,2B,2023,2024, 86.3, 0.71
+323,1B,2B,Stolen Base 2B,664056,Harrison Bader,668868,Zack Thompson,668715,Spencer Steer,L,Willson Contreras,575929,3,1,2,False,2023-09-09,Stolen,2B,2023,2024, 86.3, 0.71
+324,3B,score,Stolen Base Home,682622,Noelvi Marte,572403,Drew VerHagen,592669,Hunter Renfroe,R,Willson Contreras,575929,4,6,4,False,2023-09-08,Stolen,Home,2023,2024, 86.3, 0.71
+325,1B,2B,Stolen Base 2B,668715,Spencer Steer,572403,Drew VerHagen,592669,Hunter Renfroe,R,Willson Contreras,575929,4,6,4,False,2023-09-08,Stolen,2B,2023,2024, 86.3, 0.71
+326,1B,2B,Stolen Base 2B,678225,Ji Hwan Bae,572403,Drew VerHagen,663647,Ke'Bryan Hayes,R,Willson Contreras,575929,1,4,10,True,2023-09-01,Stolen,2B,2023,2024, 86.3, 0.71
+327,1B,2B,Stolen Base 2B,680118,Dairon Blanco,669467,Andre Pallante,664728,Kyle Isbel,R,Willson Contreras,575929,10,6,8,False,2023-08-11,Stolen,2B,2023,2024, 86.3, 0.71
+328,2B,3B,Stolen Base 3B,680118,Dairon Blanco,669467,Andre Pallante,622110,Matt Duffy,R,Willson Contreras,575929,12,6,8,False,2023-08-11,Stolen,3B,2023,2024, 86.3, 0.71
+329,1B,2B,Stolen Base 2B,664728,Kyle Isbel,669467,Andre Pallante,622110,Matt Duffy,R,Willson Contreras,575929,12,6,8,False,2023-08-11,Stolen,2B,2023,2024, 86.3, 0.71
+330,1B,2B,Stolen Base 2B,542932,Jon Berti,608717,Chris Stratton,607732,Jacob Stallings,R,Willson Contreras,575929,1,1,7,True,2023-07-18,Stolen,2B,2023,2024, 86.3, 0.71
+331,1B,2B,Stolen Base 2B,682928,CJ Abrams,669467,Andre Pallante,545121,Ildemaro Vargas,R,Willson Contreras,575929,1,0,4,True,2023-07-15,Stolen,2B,2023,2024, 86.3, 0.71
+332,3B,score,Stolen Base Home,671277,Luis García Jr.,608717,Chris Stratton,657041,Lane Thomas,R,Willson Contreras,575929,1,4,5,True,2023-07-15,Stolen,Home,2023,2024, 86.3, 0.71
+333,1B,2B,Stolen Base 2B,682928,CJ Abrams,608717,Chris Stratton,657041,Lane Thomas,R,Willson Contreras,575929,1,4,5,True,2023-07-15,Stolen,2B,2023,2024, 86.3, 0.71
+334,1B,,Caught Stealing 2B,669743,Alex Call,668941,JoJo Romero,682928,CJ Abrams,L,Willson Contreras,575929,4,4,7,True,2023-07-15,Caught,2B,2023,2024, 86.3, 0.71
+335,1B,2B,Stolen Base 2B,682928,CJ Abrams,669467,Andre Pallante,545121,Ildemaro Vargas,R,Willson Contreras,575929,1,0,4,True,2023-07-14,Stolen,2B,2023,2024, 86.3, 0.71
+336,3B,score,Stolen Base Home,671277,Luis García Jr.,608717,Chris Stratton,657041,Lane Thomas,R,Willson Contreras,575929,1,4,5,True,2023-07-14,Stolen,Home,2023,2024, 86.3, 0.71
+337,1B,2B,Stolen Base 2B,682928,CJ Abrams,608717,Chris Stratton,657041,Lane Thomas,R,Willson Contreras,575929,1,4,5,True,2023-07-14,Stolen,2B,2023,2024, 86.3, 0.71
+338,1B,,Caught Stealing 2B,669743,Alex Call,668941,JoJo Romero,682928,CJ Abrams,L,Willson Contreras,575929,4,4,7,True,2023-07-14,Caught,2B,2023,2024, 86.3, 0.71
+339,1B,,Caught Stealing 2B,663743,Nick Fortes,571945,Miles Mikolas,641505,Jonathan Davis,R,Willson Contreras,575929,2,1,2,False,2023-07-03,Caught,2B,2023,2024, 86.3, 0.71
+340,1B,2B,Stolen Base 2B,663538,Nico Hoerner,669461,Matthew Liberatore,666624,Christopher Morel,L,Willson Contreras,575929,0,0,1,True,2023-06-25,Stolen,2B,2023,2024, 86.3, 0.71
+341,2B,3B,Stolen Base 3B,663538,Nico Hoerner,572403,Drew VerHagen,664023,Ian Happ,R,Willson Contreras,575929,1,7,9,True,2023-06-24,Stolen,3B,2023,2024, 86.3, 0.71
+342,1B,,Caught Stealing 2B,657041,Lane Thomas,571945,Miles Mikolas,671277,Luis García Jr.,R,Willson Contreras,575929,1,0,5,False,2023-06-21,Caught,2B,2023,2024, 86.3, 0.71
+343,2B,3B,Stolen Base 3B,682928,CJ Abrams,650893,Génesis Cabrera,671277,Luis García Jr.,L,Willson Contreras,575929,6,8,7,False,2023-06-19,Stolen,3B,2023,2024, 86.3, 0.71
+344,1B,2B,Stolen Base 2B,657041,Lane Thomas,650893,Génesis Cabrera,671277,Luis García Jr.,L,Willson Contreras,575929,6,8,7,False,2023-06-19,Stolen,2B,2023,2024, 86.3, 0.71
+345,1B,,Caught Stealing 2B,596103,Austin Slater,669461,Matthew Liberatore,527038,Wilmer Flores,L,Willson Contreras,575929,0,0,1,True,2023-06-12,Caught,2B,2023,2024, 86.3, 0.71
+346,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,425794,Adam Wainwright,668715,Spencer Steer,R,Willson Contreras,575929,3,2,6,True,2023-06-11,Stolen,2B,2023,2024, 86.3, 0.71
+347,1B,,Caught Stealing 2B,666181,Will Benson,669467,Andre Pallante,680574,Matt McLain,R,Willson Contreras,575929,5,2,7,True,2023-06-09,Caught,2B,2023,2024, 86.3, 0.71
+348,2B,3B,Stolen Base 3B,672779,Tucupita Marcano,606149,Giovanny Gallegos,669261,Jack Suwinski,R,Willson Contreras,575929,1,5,7,False,2023-06-02,Stolen,3B,2023,2024, 86.3, 0.71
+349,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,606149,Giovanny Gallegos,669261,Jack Suwinski,R,Willson Contreras,575929,1,5,7,False,2023-06-02,Stolen,2B,2023,2024, 86.3, 0.71
+350,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,606149,Giovanny Gallegos,686681,Michael Massey,R,Willson Contreras,575929,2,1,9,True,2023-05-30,Stolen,2B,2023,2024, 86.3, 0.71
+351,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,571927,Steven Matz,669004,MJ Melendez,L,Willson Contreras,575929,0,3,7,True,2023-05-29,Stolen,2B,2023,2024, 86.3, 0.71
+352,1B,2B,Stolen Base 2B,670032,Nicky Lopez,571927,Steven Matz,671221,Drew Waters,L,Willson Contreras,575929,0,3,8,True,2023-05-29,Stolen,2B,2023,2024, 86.3, 0.71
+353,1B,,Caught Stealing 2B,608070,José Ramírez,669467,Andre Pallante,605137,Josh Bell,R,Willson Contreras,575929,4,2,8,False,2023-05-26,Caught,2B,2023,2024, 86.3, 0.71
+354,2B,3B,Stolen Base 3B,656413,Stuart Fairchild,571927,Steven Matz,676480,Jose Barrero,L,Willson Contreras,575929,5,0,3,False,2023-05-24,Stolen,3B,2023,2024, 86.3, 0.71
+355,1B,2B,Stolen Base 2B,621028,Kevin Newman,571927,Steven Matz,676480,Jose Barrero,L,Willson Contreras,575929,5,0,3,False,2023-05-24,Stolen,2B,2023,2024, 86.3, 0.71
+356,1B,,Caught Stealing 2B,680574,Matt McLain,608717,Chris Stratton,663697,Jonathan India,R,Willson Contreras,575929,5,7,7,False,2023-05-23,Caught,2B,2023,2024, 86.3, 0.71
+357,1B,2B,Stolen Base 2B,681546,James Outman,606149,Giovanny Gallegos,678246,Miguel Vargas,R,Willson Contreras,575929,5,3,7,False,2023-04-30,Stolen,2B,2023,2024, 86.3, 0.71
+358,1B,2B,Stolen Base 2B,621035,Chris Taylor,606149,Giovanny Gallegos,605141,Mookie Betts,R,Willson Contreras,575929,5,3,8,False,2023-04-30,Stolen,2B,2023,2024, 86.3, 0.71
+359,1B,2B,Stolen Base 2B,518692,Freddie Freeman,664854,Ryan Helsley,571970,Max Muncy,R,Willson Contreras,575929,6,3,8,False,2023-04-30,Stolen,2B,2023,2024, 86.3, 0.71
+360,2B,3B,Stolen Base 3B,596103,Austin Slater,571927,Steven Matz,642731,Thairo Estrada,L,Willson Contreras,575929,0,1,1,False,2023-04-26,Stolen,3B,2023,2024, 86.3, 0.71
+361,1B,2B,Stolen Base 2B,666165,Blake Sabol,571927,Steven Matz,596103,Austin Slater,L,Willson Contreras,575929,2,2,4,False,2023-04-26,Stolen,2B,2023,2024, 86.3, 0.71
+362,1B,2B,Stolen Base 2B,642731,Thairo Estrada,571927,Steven Matz,624424,Michael Conforto,L,Willson Contreras,575929,2,2,4,False,2023-04-26,Stolen,2B,2023,2024, 86.3, 0.71
+363,1B,2B,Stolen Base 2B,642731,Thairo Estrada,663765,Jake Woodford,666165,Blake Sabol,R,Willson Contreras,575929,1,0,2,False,2023-04-25,Stolen,2B,2023,2024, 86.3, 0.71
+364,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,571927,Steven Matz,553993,Eugenio Suárez,L,Willson Contreras,575929,2,2,6,False,2023-04-21,Stolen,2B,2023,2024, 86.3, 0.71
+365,1B,,Caught Stealing 2B,677950,Alek Thomas,656427,Jack Flaherty,672695,Geraldo Perdomo,R,Willson Contreras,575929,0,1,6,True,2023-04-17,Caught,2B,2023,2024, 86.3, 0.71
+366,1B,2B,Stolen Base 2B,675986,Canaan Smith-Njigba,663765,Jake Woodford,664029,Mark Mathias,R,Willson Contreras,575929,0,0,4,True,2023-04-14,Stolen,2B,2023,2024, 86.3, 0.71
+367,1B,2B,Stolen Base 2B,678225,Ji Hwan Bae,668868,Zack Thompson,668804,Bryan Reynolds,L,Willson Contreras,575929,1,0,7,True,2023-04-14,Stolen,2B,2023,2024, 86.3, 0.71
+368,1B,,Caught Stealing 2B,453568,Charlie Blackmon,571927,Steven Matz,592178,Kris Bryant,L,Willson Contreras,575929,2,0,3,False,2023-04-10,Caught,2B,2023,2024, 86.3, 0.71
+369,3B,score,Caught Stealing 2B,678662,Ezequiel Tovar,571927,Steven Matz,592178,Kris Bryant,L,Willson Contreras,575929,2,0,3,False,2023-04-10,Caught,2B,2023,2024, 86.3, 0.71
+370,1B,,Caught Stealing 2B,605119,Brian Anderson,663855,Jordan Hicks,668930,Brice Turang,R,Willson Contreras,575929,4,0,7,False,2023-04-07,Caught,2B,2023,2024, 86.3, 0.71
+371,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,571927,Steven Matz,663586,Austin Riley,L,Willson Contreras,575929,0,2,1,True,2023-04-04,Stolen,2B,2023,2024, 86.3, 0.71
+372,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,663765,Jake Woodford,621566,Matt Olson,R,Willson Contreras,575929,0,0,1,True,2023-04-03,Caught,2B,2023,2024, 86.3, 0.71
+373,1B,2B,Stolen Base 2B,662139,Daulton Varsho,656756,Jordan Montgomery,672386,Alejandro Kirk,L,Willson Contreras,575929,4,0,2,True,2023-04-02,Stolen,2B,2023,2024, 86.3, 0.71
+374,2B,3B,Stolen Base 3B,592192,Mark Canha,425794,Adam Wainwright,518626,Josh Donaldson,R,Willson Contreras,575929,1,0,7,True,2023-09-18,Stolen,3B,2023,2024, 86.3, 0.71
+375,1B,2B,Stolen Base 2B,681082,Bryson Stott,571945,Miles Mikolas,592206,Nick Castellanos,R,Willson Contreras,575929,0,1,2,True,2023-09-16,Stolen,2B,2023,2024, 86.3, 0.71
+376,1B,2B,Stolen Base 2B,679032,Johan Rojas,571945,Miles Mikolas,656941,Kyle Schwarber,R,Willson Contreras,575929,1,5,5,True,2023-09-16,Stolen,2B,2023,2024, 86.3, 0.71
+377,1B,2B,Stolen Base 2B,592206,Nick Castellanos,606930,Jacob Barnes,679032,Johan Rojas,R,Willson Contreras,575929,1,6,9,True,2023-09-16,Stolen,2B,2023,2024, 86.3, 0.71
+378,1B,,Caught Stealing 2B,665506,Cristian Pache,668868,Zack Thompson,607208,Trea Turner,L,Willson Contreras,575929,0,4,2,True,2023-09-15,Caught,2B,2023,2024, 86.3, 0.71
+379,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,596271,Casey Lawrence,592206,Nick Castellanos,R,Willson Contreras,575929,3,5,6,True,2023-09-15,Stolen,2B,2023,2024, 86.3, 0.71
+380,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,572403,Drew VerHagen,592663,J.T. Realmuto,R,Willson Contreras,575929,3,5,8,True,2023-09-15,Stolen,2B,2023,2024, 86.3, 0.71
+381,1B,2B,Stolen Base 2B,664056,Harrison Bader,668868,Zack Thompson,668715,Spencer Steer,L,Willson Contreras,575929,3,1,2,False,2023-09-09,Stolen,2B,2023,2024, 86.3, 0.71
+382,3B,score,Stolen Base Home,682622,Noelvi Marte,572403,Drew VerHagen,592669,Hunter Renfroe,R,Willson Contreras,575929,4,6,4,False,2023-09-08,Stolen,Home,2023,2024, 86.3, 0.71
+383,1B,2B,Stolen Base 2B,668715,Spencer Steer,572403,Drew VerHagen,592669,Hunter Renfroe,R,Willson Contreras,575929,4,6,4,False,2023-09-08,Stolen,2B,2023,2024, 86.3, 0.71
+384,1B,2B,Stolen Base 2B,678225,Ji Hwan Bae,572403,Drew VerHagen,663647,Ke'Bryan Hayes,R,Willson Contreras,575929,1,4,10,True,2023-09-01,Stolen,2B,2023,2024, 86.3, 0.71
+385,1B,2B,Stolen Base 2B,680118,Dairon Blanco,669467,Andre Pallante,664728,Kyle Isbel,R,Willson Contreras,575929,10,6,8,False,2023-08-11,Stolen,2B,2023,2024, 86.3, 0.71
+386,2B,3B,Stolen Base 3B,680118,Dairon Blanco,669467,Andre Pallante,622110,Matt Duffy,R,Willson Contreras,575929,12,6,8,False,2023-08-11,Stolen,3B,2023,2024, 86.3, 0.71
+387,1B,2B,Stolen Base 2B,664728,Kyle Isbel,669467,Andre Pallante,622110,Matt Duffy,R,Willson Contreras,575929,12,6,8,False,2023-08-11,Stolen,2B,2023,2024, 86.3, 0.71
+388,1B,2B,Stolen Base 2B,542932,Jon Berti,608717,Chris Stratton,607732,Jacob Stallings,R,Willson Contreras,575929,1,1,7,True,2023-07-18,Stolen,2B,2023,2024, 86.3, 0.71
+389,1B,2B,Stolen Base 2B,682928,CJ Abrams,669467,Andre Pallante,545121,Ildemaro Vargas,R,Willson Contreras,575929,1,0,4,True,2023-07-15,Stolen,2B,2023,2024, 86.3, 0.71
+390,3B,score,Stolen Base Home,671277,Luis García Jr.,608717,Chris Stratton,657041,Lane Thomas,R,Willson Contreras,575929,1,4,5,True,2023-07-15,Stolen,Home,2023,2024, 86.3, 0.71
+391,1B,2B,Stolen Base 2B,682928,CJ Abrams,608717,Chris Stratton,657041,Lane Thomas,R,Willson Contreras,575929,1,4,5,True,2023-07-15,Stolen,2B,2023,2024, 86.3, 0.71
+392,1B,,Caught Stealing 2B,669743,Alex Call,668941,JoJo Romero,682928,CJ Abrams,L,Willson Contreras,575929,4,4,7,True,2023-07-15,Caught,2B,2023,2024, 86.3, 0.71
+393,1B,2B,Stolen Base 2B,682928,CJ Abrams,669467,Andre Pallante,545121,Ildemaro Vargas,R,Willson Contreras,575929,1,0,4,True,2023-07-14,Stolen,2B,2023,2024, 86.3, 0.71
+394,3B,score,Stolen Base Home,671277,Luis García Jr.,608717,Chris Stratton,657041,Lane Thomas,R,Willson Contreras,575929,1,4,5,True,2023-07-14,Stolen,Home,2023,2024, 86.3, 0.71
+395,1B,2B,Stolen Base 2B,682928,CJ Abrams,608717,Chris Stratton,657041,Lane Thomas,R,Willson Contreras,575929,1,4,5,True,2023-07-14,Stolen,2B,2023,2024, 86.3, 0.71
+396,1B,,Caught Stealing 2B,669743,Alex Call,668941,JoJo Romero,682928,CJ Abrams,L,Willson Contreras,575929,4,4,7,True,2023-07-14,Caught,2B,2023,2024, 86.3, 0.71
+397,1B,,Caught Stealing 2B,663743,Nick Fortes,571945,Miles Mikolas,641505,Jonathan Davis,R,Willson Contreras,575929,2,1,2,False,2023-07-03,Caught,2B,2023,2024, 86.3, 0.71
+398,1B,2B,Stolen Base 2B,663538,Nico Hoerner,669461,Matthew Liberatore,666624,Christopher Morel,L,Willson Contreras,575929,0,0,1,True,2023-06-25,Stolen,2B,2023,2024, 86.3, 0.71
+399,2B,3B,Stolen Base 3B,663538,Nico Hoerner,572403,Drew VerHagen,664023,Ian Happ,R,Willson Contreras,575929,1,7,9,True,2023-06-24,Stolen,3B,2023,2024, 86.3, 0.71
+400,1B,,Caught Stealing 2B,657041,Lane Thomas,571945,Miles Mikolas,671277,Luis García Jr.,R,Willson Contreras,575929,1,0,5,False,2023-06-21,Caught,2B,2023,2024, 86.3, 0.71
+401,2B,3B,Stolen Base 3B,682928,CJ Abrams,650893,Génesis Cabrera,671277,Luis García Jr.,L,Willson Contreras,575929,6,8,7,False,2023-06-19,Stolen,3B,2023,2024, 86.3, 0.71
+402,1B,2B,Stolen Base 2B,657041,Lane Thomas,650893,Génesis Cabrera,671277,Luis García Jr.,L,Willson Contreras,575929,6,8,7,False,2023-06-19,Stolen,2B,2023,2024, 86.3, 0.71
+403,1B,,Caught Stealing 2B,596103,Austin Slater,669461,Matthew Liberatore,527038,Wilmer Flores,L,Willson Contreras,575929,0,0,1,True,2023-06-12,Caught,2B,2023,2024, 86.3, 0.71
+404,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,425794,Adam Wainwright,668715,Spencer Steer,R,Willson Contreras,575929,3,2,6,True,2023-06-11,Stolen,2B,2023,2024, 86.3, 0.71
+405,1B,,Caught Stealing 2B,666181,Will Benson,669467,Andre Pallante,680574,Matt McLain,R,Willson Contreras,575929,5,2,7,True,2023-06-09,Caught,2B,2023,2024, 86.3, 0.71
+406,2B,3B,Stolen Base 3B,672779,Tucupita Marcano,606149,Giovanny Gallegos,669261,Jack Suwinski,R,Willson Contreras,575929,1,5,7,False,2023-06-02,Stolen,3B,2023,2024, 86.3, 0.71
+407,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,606149,Giovanny Gallegos,669261,Jack Suwinski,R,Willson Contreras,575929,1,5,7,False,2023-06-02,Stolen,2B,2023,2024, 86.3, 0.71
+408,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,606149,Giovanny Gallegos,686681,Michael Massey,R,Willson Contreras,575929,2,1,9,True,2023-05-30,Stolen,2B,2023,2024, 86.3, 0.71
+409,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,571927,Steven Matz,669004,MJ Melendez,L,Willson Contreras,575929,0,3,7,True,2023-05-29,Stolen,2B,2023,2024, 86.3, 0.71
+410,1B,2B,Stolen Base 2B,670032,Nicky Lopez,571927,Steven Matz,671221,Drew Waters,L,Willson Contreras,575929,0,3,8,True,2023-05-29,Stolen,2B,2023,2024, 86.3, 0.71
+411,1B,,Caught Stealing 2B,608070,José Ramírez,669467,Andre Pallante,605137,Josh Bell,R,Willson Contreras,575929,4,2,8,False,2023-05-26,Caught,2B,2023,2024, 86.3, 0.71
+412,2B,3B,Stolen Base 3B,656413,Stuart Fairchild,571927,Steven Matz,676480,Jose Barrero,L,Willson Contreras,575929,5,0,3,False,2023-05-24,Stolen,3B,2023,2024, 86.3, 0.71
+413,1B,2B,Stolen Base 2B,621028,Kevin Newman,571927,Steven Matz,676480,Jose Barrero,L,Willson Contreras,575929,5,0,3,False,2023-05-24,Stolen,2B,2023,2024, 86.3, 0.71
+414,1B,,Caught Stealing 2B,680574,Matt McLain,608717,Chris Stratton,663697,Jonathan India,R,Willson Contreras,575929,5,7,7,False,2023-05-23,Caught,2B,2023,2024, 86.3, 0.71
+415,1B,2B,Stolen Base 2B,681546,James Outman,606149,Giovanny Gallegos,678246,Miguel Vargas,R,Willson Contreras,575929,5,3,7,False,2023-04-30,Stolen,2B,2023,2024, 86.3, 0.71
+416,1B,2B,Stolen Base 2B,621035,Chris Taylor,606149,Giovanny Gallegos,605141,Mookie Betts,R,Willson Contreras,575929,5,3,8,False,2023-04-30,Stolen,2B,2023,2024, 86.3, 0.71
+417,1B,2B,Stolen Base 2B,518692,Freddie Freeman,664854,Ryan Helsley,571970,Max Muncy,R,Willson Contreras,575929,6,3,8,False,2023-04-30,Stolen,2B,2023,2024, 86.3, 0.71
+418,2B,3B,Stolen Base 3B,596103,Austin Slater,571927,Steven Matz,642731,Thairo Estrada,L,Willson Contreras,575929,0,1,1,False,2023-04-26,Stolen,3B,2023,2024, 86.3, 0.71
+419,1B,2B,Stolen Base 2B,666165,Blake Sabol,571927,Steven Matz,596103,Austin Slater,L,Willson Contreras,575929,2,2,4,False,2023-04-26,Stolen,2B,2023,2024, 86.3, 0.71
+420,1B,2B,Stolen Base 2B,642731,Thairo Estrada,571927,Steven Matz,624424,Michael Conforto,L,Willson Contreras,575929,2,2,4,False,2023-04-26,Stolen,2B,2023,2024, 86.3, 0.71
+421,1B,2B,Stolen Base 2B,642731,Thairo Estrada,663765,Jake Woodford,666165,Blake Sabol,R,Willson Contreras,575929,1,0,2,False,2023-04-25,Stolen,2B,2023,2024, 86.3, 0.71
+422,1B,2B,Stolen Base 2B,677594,Julio Rodríguez,571927,Steven Matz,553993,Eugenio Suárez,L,Willson Contreras,575929,2,2,6,False,2023-04-21,Stolen,2B,2023,2024, 86.3, 0.71
+423,1B,,Caught Stealing 2B,677950,Alek Thomas,656427,Jack Flaherty,672695,Geraldo Perdomo,R,Willson Contreras,575929,0,1,6,True,2023-04-17,Caught,2B,2023,2024, 86.3, 0.71
+424,1B,2B,Stolen Base 2B,675986,Canaan Smith-Njigba,663765,Jake Woodford,664029,Mark Mathias,R,Willson Contreras,575929,0,0,4,True,2023-04-14,Stolen,2B,2023,2024, 86.3, 0.71
+425,1B,2B,Stolen Base 2B,678225,Ji Hwan Bae,668868,Zack Thompson,668804,Bryan Reynolds,L,Willson Contreras,575929,1,0,7,True,2023-04-14,Stolen,2B,2023,2024, 86.3, 0.71
+426,1B,,Caught Stealing 2B,453568,Charlie Blackmon,571927,Steven Matz,592178,Kris Bryant,L,Willson Contreras,575929,2,0,3,False,2023-04-10,Caught,2B,2023,2024, 86.3, 0.71
+427,3B,score,Caught Stealing 2B,678662,Ezequiel Tovar,571927,Steven Matz,592178,Kris Bryant,L,Willson Contreras,575929,2,0,3,False,2023-04-10,Caught,2B,2023,2024, 86.3, 0.71
+428,1B,,Caught Stealing 2B,605119,Brian Anderson,663855,Jordan Hicks,668930,Brice Turang,R,Willson Contreras,575929,4,0,7,False,2023-04-07,Caught,2B,2023,2024, 86.3, 0.71
+429,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,571927,Steven Matz,663586,Austin Riley,L,Willson Contreras,575929,0,2,1,True,2023-04-04,Stolen,2B,2023,2024, 86.3, 0.71
+430,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,663765,Jake Woodford,621566,Matt Olson,R,Willson Contreras,575929,0,0,1,True,2023-04-03,Caught,2B,2023,2024, 86.3, 0.71
+431,1B,2B,Stolen Base 2B,662139,Daulton Varsho,656756,Jordan Montgomery,672386,Alejandro Kirk,L,Willson Contreras,575929,4,0,2,True,2023-04-02,Stolen,2B,2023,2024, 86.3, 0.71
+432,1B,2B,Stolen Base 2B,502054,Tommy Pham,657006,Justin Steele,458015,Joey Votto,L,Willson Contreras,575929,1,0,4,True,2022-06-29,Stolen,2B,2022,2023, 86.2, 0.69
+433,1B,2B,Stolen Base 2B,669242,Tommy Edman,643410,Mark Leiter Jr.,669357,Nolan Gorman,R,Willson Contreras,575929,5,3,8,False,2022-06-25,Stolen,2B,2022,2023, 86.2, 0.69
+434,1B,2B,Stolen Base 2B,663757,Trent Grisham,664161,Matt Swarmer,642727,Sergio Alcántara,R,Willson Contreras,575929,1,2,2,True,2022-06-16,Stolen,2B,2022,2023, 86.2, 0.69
+435,1B,2B,Stolen Base 2B,640492,José Azocar,543294,Kyle Hendricks,630105,Jake Cronenworth,R,Willson Contreras,575929,1,0,3,True,2022-06-14,Stolen,2B,2022,2023, 86.2, 0.69
+436,1B,2B,Stolen Base 2B,669374,Keston Hiura,657006,Justin Steele,456715,Lorenzo Cain,L,Willson Contreras,575929,1,0,2,True,2022-05-31,Stolen,2B,2022,2023, 86.2, 0.69
+437,2B,3B,Stolen Base 3B,663647,Ke'Bryan Hayes,592767,Drew Smyly,656308,Michael Chavis,L,Willson Contreras,575929,1,1,3,True,2022-05-18,Stolen,3B,2022,2023, 86.2, 0.69
+438,1B,,Caught Stealing 2B,660636,Diego A. Castillo,455119,Chris Martin,669261,Jack Suwinski,R,Willson Contreras,575929,2,3,6,True,2022-05-18,Caught,2B,2022,2023, 86.2, 0.69
+439,1B,,Caught Stealing 2B,668804,Bryan Reynolds,624522,Keegan Thompson,592325,Ben Gamel,R,Willson Contreras,575929,0,0,1,True,2022-05-17,Caught,2B,2022,2023, 86.2, 0.69
+440,1B,,Caught Stealing 2B,605113,Nick Ahmed,455119,Chris Martin,677950,Alek Thomas,R,Willson Contreras,575929,2,2,7,False,2022-05-15,Caught,2B,2022,2023, 86.2, 0.69
+441,1B,2B,Stolen Base 2B,668942,Josh Rojas,592767,Drew Smyly,672695,Geraldo Perdomo,L,Willson Contreras,575929,3,3,4,False,2022-05-13,Stolen,2B,2022,2023, 86.2, 0.69
+442,1B,2B,Stolen Base 2B,543939,Kolten Wong,543294,Kyle Hendricks,592885,Christian Yelich,R,Willson Contreras,575929,0,0,1,False,2022-04-29,Stolen,2B,2022,2023, 86.2, 0.69
+443,2B,3B,Stolen Base 3B,621020,Dansby Swanson,592767,Drew Smyly,621566,Matt Olson,L,Willson Contreras,575929,2,1,5,False,2022-04-28,Stolen,3B,2022,2023, 86.2, 0.69
+444,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,592767,Drew Smyly,621566,Matt Olson,L,Willson Contreras,575929,2,1,5,False,2022-04-28,Stolen,2B,2022,2023, 86.2, 0.69
+445,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,455119,Chris Martin,621566,Matt Olson,R,Willson Contreras,575929,2,1,7,False,2022-04-28,Stolen,2B,2022,2023, 86.2, 0.69
+446,1B,2B,Stolen Base 2B,660636,Diego A. Castillo,592858,Rowan Wick,668804,Bryan Reynolds,R,Willson Contreras,575929,2,3,4,True,2022-04-24,Stolen,2B,2022,2023, 86.2, 0.69
+447,1B,2B,Stolen Base 2B,592325,Ben Gamel,455119,Chris Martin,668804,Bryan Reynolds,R,Willson Contreras,575929,2,4,6,True,2022-04-24,Stolen,2B,2022,2023, 86.2, 0.69
+448,1B,2B,Stolen Base 2B,666139,Josh Lowe,543294,Kyle Hendricks,668227,Randy Arozarena,R,Willson Contreras,575929,2,0,4,True,2022-04-18,Stolen,2B,2022,2023, 86.2, 0.69
+449,1B,2B,Stolen Base 2B,621433,Brett Phillips,543294,Kyle Hendricks,670764,Taylor Walls,R,Willson Contreras,575929,2,1,5,True,2022-04-18,Stolen,2B,2022,2023, 86.2, 0.69
+450,1B,,Caught Stealing 2B,650490,Yandy Díaz,624522,Keegan Thompson,595281,Kevin Kiermaier,R,Willson Contreras,575929,2,2,6,True,2022-04-18,Caught,2B,2022,2023, 86.2, 0.69
+451,1B,,Caught Stealing 2B,453568,Charlie Blackmon,455119,Chris Martin,592178,Kris Bryant,R,Willson Contreras,575929,5,4,5,False,2022-04-15,Caught,2B,2022,2023, 86.2, 0.69
+452,1B,2B,Stolen Base 2B,663647,Ke'Bryan Hayes,455119,Chris Martin,668804,Bryan Reynolds,R,Willson Contreras,575929,0,1,6,False,2022-04-12,Stolen,2B,2022,2023, 86.2, 0.69
+453,1B,2B,Stolen Base 2B,607054,Jace Peterson,543294,Kyle Hendricks,592885,Christian Yelich,R,Willson Contreras,575929,0,0,3,True,2022-04-07,Stolen,2B,2022,2023, 86.2, 0.69
+454,1B,2B,Stolen Base 2B,664334,Aaron Whitefield,571710,Mychal Givens,608686,Jack Mayfield,R,Willson Contreras,575929,0,2,4,True,2022-04-02,Stolen,2B,2022,2023, 86.2, 0.69
+455,1B,2B,Stolen Base 2B,456715,Lorenzo Cain,543022,Tyler Chatwood,460075,Ryan Braun,R,Willson Contreras,575929,0,0,1,True,2018-04-29,Stolen,2B,2018,2019, 84.7, 0.68
+456,1B,2B,Stolen Base 2B,606115,Orlando Arcia,605218,Carl Edwards Jr.,519299,Eric Sogard,R,Willson Contreras,575929,2,0,8,True,2018-04-29,Stolen,2B,2018,2019, 84.7, 0.68
+457,2B,3B,Stolen Base 3B,456715,Lorenzo Cain,506433,Yu Darvish,542583,Jesús Aguilar,R,Willson Contreras,575929,0,1,1,True,2018-04-27,Stolen,3B,2018,2019, 84.7, 0.68
+458,1B,2B,Stolen Base 2B,467827,Gerardo Parra,506433,Yu Darvish,453568,Charlie Blackmon,R,Willson Contreras,575929,3,2,5,False,2018-04-21,Stolen,2B,2018,2019, 84.7, 0.68
+459,1B,2B,Stolen Base 2B,643565,Mike Tauchman,488846,Brian Duensing,547172,Tony Wolters,L,Willson Contreras,575929,5,2,6,False,2018-04-21,Stolen,2B,2018,2019, 84.7, 0.68
+460,1B,2B,Stolen Base 2B,664056,Harrison Bader,452657,Jon Lester,572761,Matt Carpenter,L,Willson Contreras,575929,0,0,1,True,2018-04-19,Stolen,2B,2018,2019, 84.7, 0.68
+461,1B,2B,Stolen Base 2B,664056,Harrison Bader,452657,Jon Lester,572761,Matt Carpenter,L,Willson Contreras,575929,0,0,1,True,2018-04-18,Stolen,2B,2018,2019, 84.7, 0.68
+462,1B,,Caught Stealing 2B,475247,Ryan Flaherty,543557,Mike Montgomery,572669,Lane Adams,L,Willson Contreras,575929,0,4,7,True,2018-04-13,Caught,2B,2018,2019, 84.7, 0.68
+463,1B,2B,Stolen Base 2B,516782,Starling Marte,452657,Jon Lester,605137,Josh Bell,L,Willson Contreras,575929,0,0,1,True,2018-04-11,Stolen,2B,2018,2019, 84.7, 0.68
+464,1B,2B,Stolen Base 2B,460075,Ryan Braun,452657,Jon Lester,543768,Travis Shaw,L,Willson Contreras,575929,0,0,1,False,2018-04-05,Stolen,2B,2018,2019, 84.7, 0.68
+465,2B,,Caught Stealing 3B,460075,Ryan Braun,452657,Jon Lester,543768,Travis Shaw,L,Willson Contreras,575929,0,0,1,False,2018-04-05,Caught,3B,2018,2019, 84.7, 0.68
+466,1B,,Caught Stealing 2B,606299,José Peraza,452657,Jon Lester,571740,Billy Hamilton,L,Willson Contreras,575929,4,0,5,True,2017-09-30,Caught,2B,2017,2018, 86.3, 0.75
+467,1B,2B,Stolen Base 2B,606299,José Peraza,570240,Félix Peña,571466,Tucker Barnhart,R,Willson Contreras,575929,2,4,6,True,2017-09-29,Stolen,2B,2017,2018, 86.3, 0.75
+468,1B,2B,Stolen Base 2B,542979,Keon Broxton,500779,Jose Quintana,502624,Chase Anderson,L,Willson Contreras,575929,0,1,5,False,2017-09-24,Stolen,2B,2017,2018, 86.3, 0.75
+469,1B,2B,Stolen Base 2B,570267,Domingo Santana,500779,Jose Quintana,543768,Travis Shaw,L,Willson Contreras,575929,0,1,6,False,2017-09-24,Stolen,2B,2017,2018, 86.3, 0.75
+470,1B,2B,Stolen Base 2B,621433,Brett Phillips,543294,Kyle Hendricks,608718,Brent Suter,R,Willson Contreras,575929,1,1,2,False,2017-09-23,Stolen,2B,2017,2018, 86.3, 0.75
+471,1B,2B,Stolen Base 2B,588751,Adeiny Hechavarría,452657,Jon Lester,527049,César Puello,L,Willson Contreras,575929,1,0,2,False,2017-09-20,Stolen,2B,2017,2018, 86.3, 0.75
+472,1B,2B,Stolen Base 2B,519306,Steven Souza Jr.,452657,Jon Lester,446334,Evan Longoria,L,Willson Contreras,575929,4,0,5,False,2017-09-20,Stolen,2B,2017,2018, 86.3, 0.75
+473,2B,3B,Stolen Base 3B,519306,Steven Souza Jr.,452657,Jon Lester,446334,Evan Longoria,L,Willson Contreras,575929,4,0,5,False,2017-09-20,Stolen,3B,2017,2018, 86.3, 0.75
+474,2B,,Caught Stealing 3B,595281,Kevin Kiermaier,543557,Mike Montgomery,489149,Logan Morrison,L,Willson Contreras,575929,0,0,1,False,2017-09-19,Caught,3B,2017,2018, 86.3, 0.75
+475,1B,2B,Stolen Base 2B,642708,Amed Rosario,452657,Jon Lester,607369,Travis Taijeron,L,Willson Contreras,575929,2,1,2,True,2017-09-13,Stolen,2B,2017,2018, 86.3, 0.75
+476,1B,2B,Stolen Base 2B,457763,Buster Posey,458677,Justin Wilson,543063,Brandon Crawford,L,Willson Contreras,575929,6,3,8,False,2017-08-08,Stolen,2B,2017,2018, 86.3, 0.75
+477,1B,2B,Stolen Base 2B,543063,Brandon Crawford,458677,Justin Wilson,605509,Kelby Tomlinson,L,Willson Contreras,575929,6,3,8,False,2017-08-08,Stolen,2B,2017,2018, 86.3, 0.75
+478,1B,2B,Stolen Base 2B,571718,Brian Goodwin,452657,Jon Lester,547180,Bryce Harper,L,Willson Contreras,575929,1,1,3,True,2017-08-06,Stolen,2B,2017,2018, 86.3, 0.75
+479,1B,2B,Stolen Base 2B,435062,Howie Kendrick,543294,Kyle Hendricks,547180,Bryce Harper,R,Willson Contreras,575929,0,2,3,True,2017-08-04,Stolen,2B,2017,2018, 86.3, 0.75
+480,2B,3B,Stolen Base 3B,541650,Hernán Pérez,500779,Jose Quintana,621446,Lewis Brinson,L,Willson Contreras,575929,1,0,4,False,2017-07-28,Stolen,3B,2017,2018, 86.3, 0.75
+481,1B,2B,Stolen Base 2B,606115,Orlando Arcia,500779,Jose Quintana,608718,Brent Suter,L,Willson Contreras,575929,2,0,4,False,2017-07-28,Stolen,2B,2017,2018, 86.3, 0.75
+482,1B,2B,Stolen Base 2B,547989,José Abreu,407793,John Lackey,541645,Avisaíl García,R,Willson Contreras,575929,4,2,5,True,2017-07-25,Stolen,2B,2017,2018, 86.3, 0.75
+483,1B,,Caught Stealing 2B,425877,Yadier Molina,500779,Jose Quintana,657557,Paul DeJong,L,Willson Contreras,575929,2,3,4,True,2017-07-23,Caught,2B,2017,2018, 86.3, 0.75
+484,1B,2B,Stolen Base 2B,451594,Dexter Fowler,453562,Jake Arrieta,657557,Paul DeJong,R,Willson Contreras,575929,3,2,6,True,2017-07-21,Stolen,2B,2017,2018, 86.3, 0.75
+485,2B,3B,Stolen Base 3B,542255,Ender Inciarte,452657,Jon Lester,408252,Brandon Phillips,L,Willson Contreras,575929,1,0,3,False,2017-07-17,Stolen,3B,2017,2018, 86.3, 0.75
+486,1B,2B,Stolen Base 2B,572669,Lane Adams,451584,Wade Davis,452095,Tyler Flowers,R,Willson Contreras,575929,3,4,9,False,2017-07-17,Stolen,2B,2017,2018, 86.3, 0.75
+487,1B,2B,Stolen Base 2B,621020,Dansby Swanson,451584,Wade Davis,446481,Sean Rodríguez,R,Willson Contreras,575929,3,4,9,False,2017-07-17,Stolen,2B,2017,2018, 86.3, 0.75
+488,2B,,Caught Stealing 3B,592518,Manny Machado,453562,Jake Arrieta,448801,Chris Davis,R,Willson Contreras,575929,0,0,1,False,2017-07-15,Caught,3B,2017,2018, 86.3, 0.75
+489,1B,2B,Stolen Base 2B,605480,Mallex Smith,407793,John Lackey,446334,Evan Longoria,R,Willson Contreras,575929,0,1,1,True,2017-07-05,Stolen,2B,2017,2018, 86.3, 0.75
+490,1B,2B,Stolen Base 2B,519306,Steven Souza Jr.,452657,Jon Lester,572816,Corey Dickerson,L,Willson Contreras,575929,1,0,3,True,2017-07-04,Stolen,2B,2017,2018, 86.3, 0.75
+491,1B,2B,Stolen Base 2B,623182,Patrick Kivlehan,605218,Carl Edwards Jr.,571740,Billy Hamilton,R,Willson Contreras,575929,5,3,8,False,2017-07-01,Stolen,2B,2017,2018, 86.3, 0.75
+492,1B,2B,Stolen Base 2B,607208,Trea Turner,452657,Jon Lester,547180,Bryce Harper,L,Willson Contreras,575929,0,1,1,False,2017-06-29,Stolen,2B,2017,2018, 86.3, 0.75
+493,2B,,Caught Stealing 3B,607208,Trea Turner,452657,Jon Lester,547180,Bryce Harper,L,Willson Contreras,575929,0,1,1,False,2017-06-29,Caught,3B,2017,2018, 86.3, 0.75
+494,1B,2B,Stolen Base 2B,607208,Trea Turner,452657,Jon Lester,547180,Bryce Harper,L,Willson Contreras,575929,1,1,3,False,2017-06-29,Stolen,2B,2017,2018, 86.3, 0.75
+495,1B,,Caught Stealing 2B,572191,Michael A. Taylor,452657,Jon Lester,605452,Joe Ross,L,Willson Contreras,575929,1,1,5,False,2017-06-29,Caught,2B,2017,2018, 86.3, 0.75
+496,1B,2B,Stolen Base 2B,607208,Trea Turner,518748,Justin Grimm,571718,Brian Goodwin,R,Willson Contreras,575929,8,4,8,False,2017-06-28,Stolen,2B,2017,2018, 86.3, 0.75
+497,1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,452657,Jon Lester,519317,Giancarlo Stanton,L,Willson Contreras,575929,3,5,6,False,2017-06-24,Stolen,2B,2017,2018, 86.3, 0.75
+498,2B,,Caught Stealing 3B,543829,Dee Strange-Gordon,452657,Jon Lester,592885,Christian Yelich,L,Willson Contreras,575929,3,5,6,False,2017-06-24,Caught,3B,2017,2018, 86.3, 0.75
+499,2B,,Caught Stealing 3B,592663,J.T. Realmuto,453562,Jake Arrieta,518618,Derek Dietrich,R,Willson Contreras,575929,1,2,2,False,2017-06-22,Caught,3B,2017,2018, 86.3, 0.75
+500,1B,2B,Stolen Base 2B,517369,José Pirela,572750,Eddie Butler,614173,Franchy Cordero,R,Willson Contreras,575929,0,0,3,True,2017-06-21,Stolen,2B,2017,2018, 86.3, 0.75
+501,2B,3B,Stolen Base 3B,517369,José Pirela,518748,Justin Grimm,571976,Wil Myers,R,Willson Contreras,575929,2,1,5,True,2017-06-21,Stolen,3B,2017,2018, 86.3, 0.75
+502,1B,,Caught Stealing 2B,519333,Matt Szczur,444468,Héctor Rondón,453385,Clayton Richard,R,Willson Contreras,575929,1,2,7,True,2017-06-19,Caught,2B,2017,2018, 86.3, 0.75
+503,1B,2B,Stolen Base 2B,571976,Wil Myers,453562,Jake Arrieta,592669,Hunter Renfroe,R,Willson Contreras,575929,1,1,3,False,2017-05-31,Stolen,2B,2017,2018, 86.3, 0.75
+504,1B,2B,Stolen Base 2B,400284,Chase Utley,570240,Félix Peña,571771,Enrique Hernández,R,Willson Contreras,575929,4,0,7,False,2017-05-26,Stolen,2B,2017,2018, 86.3, 0.75
+505,1B,,Caught Stealing 2B,456488,Eduardo Núñez,452657,Jon Lester,491676,Gorkys Hernández,L,Willson Contreras,575929,4,1,5,True,2017-05-23,Caught,2B,2017,2018, 86.3, 0.75
+506,1B,2B,Stolen Base 2B,491676,Gorkys Hernández,407793,John Lackey,621389,Ty Blach,R,Willson Contreras,575929,0,1,3,True,2017-05-22,Stolen,2B,2017,2018, 86.3, 0.75
+507,1B,2B,Stolen Base 2B,456488,Eduardo Núñez,407793,John Lackey,448605,Justin Ruggiano,R,Willson Contreras,575929,0,4,4,True,2017-05-22,Stolen,2B,2017,2018, 86.3, 0.75
+508,1B,2B,Stolen Base 2B,542340,Jonathan Villar,453562,Jake Arrieta,519346,Eric Thames,R,Willson Contreras,575929,3,0,3,True,2017-05-21,Stolen,2B,2017,2018, 86.3, 0.75
+509,2B,3B,Stolen Base 3B,519299,Eric Sogard,572750,Eddie Butler,570267,Domingo Santana,R,Willson Contreras,575929,0,0,1,True,2017-05-19,Stolen,3B,2017,2018, 86.3, 0.75
+510,1B,2B,Stolen Base 2B,502054,Tommy Pham,452657,Jon Lester,642423,Magneuris Sierra,L,Willson Contreras,575929,0,1,3,False,2017-05-13,Stolen,2B,2017,2018, 86.3, 0.75
+511,1B,2B,Stolen Base 2B,425877,Yadier Molina,452657,Jon Lester,594824,Greg Garcia,L,Willson Contreras,575929,2,1,4,False,2017-05-13,Stolen,2B,2017,2018, 86.3, 0.75
+512,1B,,Caught Stealing 2B,502054,Tommy Pham,452657,Jon Lester,642423,Magneuris Sierra,L,Willson Contreras,575929,3,1,4,False,2017-05-13,Caught,2B,2017,2018, 86.3, 0.75
+513,1B,,Caught Stealing 2B,642423,Magneuris Sierra,452657,Jon Lester,593372,Carlos Martinez,L,Willson Contreras,575929,3,1,4,False,2017-05-13,Caught,2B,2017,2018, 86.3, 0.75
+514,1B,2B,Stolen Base 2B,545341,Randal Grichuk,451584,Wade Davis,543939,Kolten Wong,R,Willson Contreras,575929,2,3,9,False,2017-05-12,Stolen,2B,2017,2018, 86.3, 0.75
+515,2B,3B,Stolen Base 3B,543305,Aaron Hicks,452657,Jon Lester,516770,Starlin Castro,L,Willson Contreras,575929,0,1,1,True,2017-05-07,Stolen,3B,2017,2018, 86.3, 0.75
+516,1B,2B,Stolen Base 2B,407812,Matt Holliday,452657,Jon Lester,516770,Starlin Castro,L,Willson Contreras,575929,0,1,1,True,2017-05-07,Stolen,2B,2017,2018, 86.3, 0.75
+517,1B,2B,Stolen Base 2B,544369,Didi Gregorius,467008,Pedro Strop,592741,Chasen Shreve,R,Willson Contreras,575929,4,5,18,True,2017-05-07,Stolen,2B,2017,2018, 86.3, 0.75
+518,1B,2B,Stolen Base 2B,543305,Aaron Hicks,570240,Félix Peña,592450,Aaron Judge,R,Willson Contreras,575929,0,5,2,True,2017-05-06,Stolen,2B,2017,2018, 86.3, 0.75
+519,1B,2B,Stolen Base 2B,543305,Aaron Hicks,444468,Héctor Rondón,596142,Gary Sánchez,R,Willson Contreras,575929,2,3,9,True,2017-05-05,Stolen,2B,2017,2018, 86.3, 0.75
+520,1B,,Caught Stealing 2B,571437,Aaron Altherr,452657,Jon Lester,596748,Maikel Franco,L,Willson Contreras,575929,1,1,3,True,2017-05-02,Caught,2B,2017,2018, 86.3, 0.75
+521,1B,,Caught Stealing 2B,434670,Hanley Ramirez,453562,Jake Arrieta,519048,Mitch Moreland,R,Willson Contreras,575929,5,2,5,False,2017-04-28,Caught,2B,2017,2018, 86.3, 0.75
+522,3B,score,Caught Stealing Home,594838,Phil Gosselin,452657,Jon Lester,474568,Jordy Mercer,L,Willson Contreras,575929,4,1,2,False,2017-04-26,Caught,Home,2017,2018, 86.3, 0.75
+523,1B,2B,Caught Stealing Home,543281,Josh Harrison,452657,Jon Lester,474568,Jordy Mercer,L,Willson Contreras,575929,4,1,2,False,2017-04-26,Caught,Home,2017,2018, 86.3, 0.75
+524,1B,,Caught Stealing 2B,465041,Francisco Cervelli,543557,Mike Montgomery,591741,José Osuna,L,Willson Contreras,575929,6,3,7,False,2017-04-26,Caught,2B,2017,2018, 86.3, 0.75
+525,1B,,Caught Stealing 2B,543281,Josh Harrison,543294,Kyle Hendricks,605137,Josh Bell,R,Willson Contreras,575929,0,1,3,False,2017-04-25,Caught,2B,2017,2018, 86.3, 0.75
+526,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543294,Kyle Hendricks,465041,Francisco Cervelli,R,Willson Contreras,575929,0,1,6,False,2017-04-25,Stolen,2B,2017,2018, 86.3, 0.75
+527,1B,2B,Stolen Base 2B,594807,Adam Duvall,444468,Héctor Rondón,553993,Eugenio Suárez,R,Willson Contreras,575929,5,5,9,False,2017-04-21,Stolen,2B,2017,2018, 86.3, 0.75
+528,1B,,Caught Stealing 2B,474568,Jordy Mercer,452657,Jon Lester,516782,Starling Marte,L,Willson Contreras,575929,0,0,1,True,2017-04-16,Caught,2B,2017,2018, 86.3, 0.75
+529,1B,,Caught Stealing 2B,543281,Josh Harrison,452657,Jon Lester,594838,Phil Gosselin,L,Willson Contreras,575929,0,0,7,True,2017-04-16,Caught,2B,2017,2018, 86.3, 0.75
+530,1B,2B,Stolen Base 2B,543281,Josh Harrison,518748,Justin Grimm,444379,John Jaso,R,Willson Contreras,575929,1,3,9,True,2017-04-16,Stolen,2B,2017,2018, 86.3, 0.75
+531,1B,2B,Stolen Base 2B,516782,Starling Marte,453562,Jake Arrieta,457705,Andrew McCutchen,R,Willson Contreras,575929,4,2,3,True,2017-04-15,Stolen,2B,2017,2018, 86.3, 0.75
+532,1B,2B,Stolen Base 2B,593700,Alen Hanson,488846,Brian Duensing,624428,Adam Frazier,L,Willson Contreras,575929,6,5,7,True,2017-04-15,Stolen,2B,2017,2018, 86.3, 0.75
+533,1B,,Caught Stealing 2B,429711,Franklin Gutierrez,452657,Jon Lester,624577,Yasiel Puig,L,Willson Contreras,575929,0,0,2,True,2017-04-10,Caught,2B,2017,2018, 86.3, 0.75
+534,1B,2B,Stolen Base 2B,542340,Jonathan Villar,543294,Kyle Hendricks,519346,Eric Thames,R,Willson Contreras,575929,4,6,5,False,2017-04-08,Stolen,2B,2017,2018, 86.3, 0.75
+535,1B,2B,Stolen Base 2B,649557,Aledmys Díaz,452657,Jon Lester,425509,Jhonny Peralta,L,Willson Contreras,575929,1,0,3,False,2017-04-02,Stolen,2B,2017,2018, 86.3, 0.75
+536,2B,3B,Stolen Base 3B,649557,Aledmys Díaz,452657,Jon Lester,425877,Yadier Molina,L,Willson Contreras,575929,1,0,3,False,2017-04-02,Stolen,3B,2017,2018, 86.3, 0.75
+537,1B,,Caught Stealing 2B,606299,José Peraza,452657,Jon Lester,571740,Billy Hamilton,L,Willson Contreras,575929,4,0,5,True,2017-09-30,Caught,2B,2017,2018, 86.3, 0.75
+538,1B,2B,Stolen Base 2B,606299,José Peraza,570240,Félix Peña,571466,Tucker Barnhart,R,Willson Contreras,575929,2,4,6,True,2017-09-29,Stolen,2B,2017,2018, 86.3, 0.75
+539,1B,2B,Stolen Base 2B,542979,Keon Broxton,500779,Jose Quintana,502624,Chase Anderson,L,Willson Contreras,575929,0,1,5,False,2017-09-24,Stolen,2B,2017,2018, 86.3, 0.75
+540,1B,2B,Stolen Base 2B,570267,Domingo Santana,500779,Jose Quintana,543768,Travis Shaw,L,Willson Contreras,575929,0,1,6,False,2017-09-24,Stolen,2B,2017,2018, 86.3, 0.75
+541,1B,2B,Stolen Base 2B,621433,Brett Phillips,543294,Kyle Hendricks,608718,Brent Suter,R,Willson Contreras,575929,1,1,2,False,2017-09-23,Stolen,2B,2017,2018, 86.3, 0.75
+542,1B,2B,Stolen Base 2B,588751,Adeiny Hechavarría,452657,Jon Lester,527049,César Puello,L,Willson Contreras,575929,1,0,2,False,2017-09-20,Stolen,2B,2017,2018, 86.3, 0.75
+543,1B,2B,Stolen Base 2B,519306,Steven Souza Jr.,452657,Jon Lester,446334,Evan Longoria,L,Willson Contreras,575929,4,0,5,False,2017-09-20,Stolen,2B,2017,2018, 86.3, 0.75
+544,2B,3B,Stolen Base 3B,519306,Steven Souza Jr.,452657,Jon Lester,446334,Evan Longoria,L,Willson Contreras,575929,4,0,5,False,2017-09-20,Stolen,3B,2017,2018, 86.3, 0.75
+545,2B,,Caught Stealing 3B,595281,Kevin Kiermaier,543557,Mike Montgomery,489149,Logan Morrison,L,Willson Contreras,575929,0,0,1,False,2017-09-19,Caught,3B,2017,2018, 86.3, 0.75
+546,1B,2B,Stolen Base 2B,642708,Amed Rosario,452657,Jon Lester,607369,Travis Taijeron,L,Willson Contreras,575929,2,1,2,True,2017-09-13,Stolen,2B,2017,2018, 86.3, 0.75
+547,1B,2B,Stolen Base 2B,457763,Buster Posey,458677,Justin Wilson,543063,Brandon Crawford,L,Willson Contreras,575929,6,3,8,False,2017-08-08,Stolen,2B,2017,2018, 86.3, 0.75
+548,1B,2B,Stolen Base 2B,543063,Brandon Crawford,458677,Justin Wilson,605509,Kelby Tomlinson,L,Willson Contreras,575929,6,3,8,False,2017-08-08,Stolen,2B,2017,2018, 86.3, 0.75
+549,1B,2B,Stolen Base 2B,571718,Brian Goodwin,452657,Jon Lester,547180,Bryce Harper,L,Willson Contreras,575929,1,1,3,True,2017-08-06,Stolen,2B,2017,2018, 86.3, 0.75
+550,1B,2B,Stolen Base 2B,435062,Howie Kendrick,543294,Kyle Hendricks,547180,Bryce Harper,R,Willson Contreras,575929,0,2,3,True,2017-08-04,Stolen,2B,2017,2018, 86.3, 0.75
+551,2B,3B,Stolen Base 3B,541650,Hernán Pérez,500779,Jose Quintana,621446,Lewis Brinson,L,Willson Contreras,575929,1,0,4,False,2017-07-28,Stolen,3B,2017,2018, 86.3, 0.75
+552,1B,2B,Stolen Base 2B,606115,Orlando Arcia,500779,Jose Quintana,608718,Brent Suter,L,Willson Contreras,575929,2,0,4,False,2017-07-28,Stolen,2B,2017,2018, 86.3, 0.75
+553,1B,2B,Stolen Base 2B,547989,José Abreu,407793,John Lackey,541645,Avisaíl García,R,Willson Contreras,575929,4,2,5,True,2017-07-25,Stolen,2B,2017,2018, 86.3, 0.75
+554,1B,,Caught Stealing 2B,425877,Yadier Molina,500779,Jose Quintana,657557,Paul DeJong,L,Willson Contreras,575929,2,3,4,True,2017-07-23,Caught,2B,2017,2018, 86.3, 0.75
+555,1B,2B,Stolen Base 2B,451594,Dexter Fowler,453562,Jake Arrieta,657557,Paul DeJong,R,Willson Contreras,575929,3,2,6,True,2017-07-21,Stolen,2B,2017,2018, 86.3, 0.75
+556,2B,3B,Stolen Base 3B,542255,Ender Inciarte,452657,Jon Lester,408252,Brandon Phillips,L,Willson Contreras,575929,1,0,3,False,2017-07-17,Stolen,3B,2017,2018, 86.3, 0.75
+557,1B,2B,Stolen Base 2B,572669,Lane Adams,451584,Wade Davis,452095,Tyler Flowers,R,Willson Contreras,575929,3,4,9,False,2017-07-17,Stolen,2B,2017,2018, 86.3, 0.75
+558,1B,2B,Stolen Base 2B,621020,Dansby Swanson,451584,Wade Davis,446481,Sean Rodríguez,R,Willson Contreras,575929,3,4,9,False,2017-07-17,Stolen,2B,2017,2018, 86.3, 0.75
+559,2B,,Caught Stealing 3B,592518,Manny Machado,453562,Jake Arrieta,448801,Chris Davis,R,Willson Contreras,575929,0,0,1,False,2017-07-15,Caught,3B,2017,2018, 86.3, 0.75
+560,1B,2B,Stolen Base 2B,605480,Mallex Smith,407793,John Lackey,446334,Evan Longoria,R,Willson Contreras,575929,0,1,1,True,2017-07-05,Stolen,2B,2017,2018, 86.3, 0.75
+561,1B,2B,Stolen Base 2B,519306,Steven Souza Jr.,452657,Jon Lester,572816,Corey Dickerson,L,Willson Contreras,575929,1,0,3,True,2017-07-04,Stolen,2B,2017,2018, 86.3, 0.75
+562,1B,2B,Stolen Base 2B,623182,Patrick Kivlehan,605218,Carl Edwards Jr.,571740,Billy Hamilton,R,Willson Contreras,575929,5,3,8,False,2017-07-01,Stolen,2B,2017,2018, 86.3, 0.75
+563,1B,2B,Stolen Base 2B,607208,Trea Turner,452657,Jon Lester,547180,Bryce Harper,L,Willson Contreras,575929,0,1,1,False,2017-06-29,Stolen,2B,2017,2018, 86.3, 0.75
+564,2B,,Caught Stealing 3B,607208,Trea Turner,452657,Jon Lester,547180,Bryce Harper,L,Willson Contreras,575929,0,1,1,False,2017-06-29,Caught,3B,2017,2018, 86.3, 0.75
+565,1B,2B,Stolen Base 2B,607208,Trea Turner,452657,Jon Lester,547180,Bryce Harper,L,Willson Contreras,575929,1,1,3,False,2017-06-29,Stolen,2B,2017,2018, 86.3, 0.75
+566,1B,,Caught Stealing 2B,572191,Michael A. Taylor,452657,Jon Lester,605452,Joe Ross,L,Willson Contreras,575929,1,1,5,False,2017-06-29,Caught,2B,2017,2018, 86.3, 0.75
+567,1B,2B,Stolen Base 2B,607208,Trea Turner,518748,Justin Grimm,571718,Brian Goodwin,R,Willson Contreras,575929,8,4,8,False,2017-06-28,Stolen,2B,2017,2018, 86.3, 0.75
+568,1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,452657,Jon Lester,519317,Giancarlo Stanton,L,Willson Contreras,575929,3,5,6,False,2017-06-24,Stolen,2B,2017,2018, 86.3, 0.75
+569,2B,,Caught Stealing 3B,543829,Dee Strange-Gordon,452657,Jon Lester,592885,Christian Yelich,L,Willson Contreras,575929,3,5,6,False,2017-06-24,Caught,3B,2017,2018, 86.3, 0.75
+570,2B,,Caught Stealing 3B,592663,J.T. Realmuto,453562,Jake Arrieta,518618,Derek Dietrich,R,Willson Contreras,575929,1,2,2,False,2017-06-22,Caught,3B,2017,2018, 86.3, 0.75
+571,1B,2B,Stolen Base 2B,517369,José Pirela,572750,Eddie Butler,614173,Franchy Cordero,R,Willson Contreras,575929,0,0,3,True,2017-06-21,Stolen,2B,2017,2018, 86.3, 0.75
+572,2B,3B,Stolen Base 3B,517369,José Pirela,518748,Justin Grimm,571976,Wil Myers,R,Willson Contreras,575929,2,1,5,True,2017-06-21,Stolen,3B,2017,2018, 86.3, 0.75
+573,1B,,Caught Stealing 2B,519333,Matt Szczur,444468,Héctor Rondón,453385,Clayton Richard,R,Willson Contreras,575929,1,2,7,True,2017-06-19,Caught,2B,2017,2018, 86.3, 0.75
+574,1B,2B,Stolen Base 2B,571976,Wil Myers,453562,Jake Arrieta,592669,Hunter Renfroe,R,Willson Contreras,575929,1,1,3,False,2017-05-31,Stolen,2B,2017,2018, 86.3, 0.75
+575,1B,2B,Stolen Base 2B,400284,Chase Utley,570240,Félix Peña,571771,Enrique Hernández,R,Willson Contreras,575929,4,0,7,False,2017-05-26,Stolen,2B,2017,2018, 86.3, 0.75
+576,1B,,Caught Stealing 2B,456488,Eduardo Núñez,452657,Jon Lester,491676,Gorkys Hernández,L,Willson Contreras,575929,4,1,5,True,2017-05-23,Caught,2B,2017,2018, 86.3, 0.75
+577,1B,2B,Stolen Base 2B,491676,Gorkys Hernández,407793,John Lackey,621389,Ty Blach,R,Willson Contreras,575929,0,1,3,True,2017-05-22,Stolen,2B,2017,2018, 86.3, 0.75
+578,1B,2B,Stolen Base 2B,456488,Eduardo Núñez,407793,John Lackey,448605,Justin Ruggiano,R,Willson Contreras,575929,0,4,4,True,2017-05-22,Stolen,2B,2017,2018, 86.3, 0.75
+579,1B,2B,Stolen Base 2B,542340,Jonathan Villar,453562,Jake Arrieta,519346,Eric Thames,R,Willson Contreras,575929,3,0,3,True,2017-05-21,Stolen,2B,2017,2018, 86.3, 0.75
+580,2B,3B,Stolen Base 3B,519299,Eric Sogard,572750,Eddie Butler,570267,Domingo Santana,R,Willson Contreras,575929,0,0,1,True,2017-05-19,Stolen,3B,2017,2018, 86.3, 0.75
+581,1B,2B,Stolen Base 2B,502054,Tommy Pham,452657,Jon Lester,642423,Magneuris Sierra,L,Willson Contreras,575929,0,1,3,False,2017-05-13,Stolen,2B,2017,2018, 86.3, 0.75
+582,1B,2B,Stolen Base 2B,425877,Yadier Molina,452657,Jon Lester,594824,Greg Garcia,L,Willson Contreras,575929,2,1,4,False,2017-05-13,Stolen,2B,2017,2018, 86.3, 0.75
+583,1B,,Caught Stealing 2B,502054,Tommy Pham,452657,Jon Lester,642423,Magneuris Sierra,L,Willson Contreras,575929,3,1,4,False,2017-05-13,Caught,2B,2017,2018, 86.3, 0.75
+584,1B,,Caught Stealing 2B,642423,Magneuris Sierra,452657,Jon Lester,593372,Carlos Martinez,L,Willson Contreras,575929,3,1,4,False,2017-05-13,Caught,2B,2017,2018, 86.3, 0.75
+585,1B,2B,Stolen Base 2B,545341,Randal Grichuk,451584,Wade Davis,543939,Kolten Wong,R,Willson Contreras,575929,2,3,9,False,2017-05-12,Stolen,2B,2017,2018, 86.3, 0.75
+586,2B,3B,Stolen Base 3B,543305,Aaron Hicks,452657,Jon Lester,516770,Starlin Castro,L,Willson Contreras,575929,0,1,1,True,2017-05-07,Stolen,3B,2017,2018, 86.3, 0.75
+587,1B,2B,Stolen Base 2B,407812,Matt Holliday,452657,Jon Lester,516770,Starlin Castro,L,Willson Contreras,575929,0,1,1,True,2017-05-07,Stolen,2B,2017,2018, 86.3, 0.75
+588,1B,2B,Stolen Base 2B,544369,Didi Gregorius,467008,Pedro Strop,592741,Chasen Shreve,R,Willson Contreras,575929,4,5,18,True,2017-05-07,Stolen,2B,2017,2018, 86.3, 0.75
+589,1B,2B,Stolen Base 2B,543305,Aaron Hicks,570240,Félix Peña,592450,Aaron Judge,R,Willson Contreras,575929,0,5,2,True,2017-05-06,Stolen,2B,2017,2018, 86.3, 0.75
+590,1B,2B,Stolen Base 2B,543305,Aaron Hicks,444468,Héctor Rondón,596142,Gary Sánchez,R,Willson Contreras,575929,2,3,9,True,2017-05-05,Stolen,2B,2017,2018, 86.3, 0.75
+591,1B,,Caught Stealing 2B,571437,Aaron Altherr,452657,Jon Lester,596748,Maikel Franco,L,Willson Contreras,575929,1,1,3,True,2017-05-02,Caught,2B,2017,2018, 86.3, 0.75
+592,1B,,Caught Stealing 2B,434670,Hanley Ramirez,453562,Jake Arrieta,519048,Mitch Moreland,R,Willson Contreras,575929,5,2,5,False,2017-04-28,Caught,2B,2017,2018, 86.3, 0.75
+593,3B,score,Caught Stealing Home,594838,Phil Gosselin,452657,Jon Lester,474568,Jordy Mercer,L,Willson Contreras,575929,4,1,2,False,2017-04-26,Caught,Home,2017,2018, 86.3, 0.75
+594,1B,2B,Caught Stealing Home,543281,Josh Harrison,452657,Jon Lester,474568,Jordy Mercer,L,Willson Contreras,575929,4,1,2,False,2017-04-26,Caught,Home,2017,2018, 86.3, 0.75
+595,1B,,Caught Stealing 2B,465041,Francisco Cervelli,543557,Mike Montgomery,591741,José Osuna,L,Willson Contreras,575929,6,3,7,False,2017-04-26,Caught,2B,2017,2018, 86.3, 0.75
+596,1B,,Caught Stealing 2B,543281,Josh Harrison,543294,Kyle Hendricks,605137,Josh Bell,R,Willson Contreras,575929,0,1,3,False,2017-04-25,Caught,2B,2017,2018, 86.3, 0.75
+597,1B,2B,Stolen Base 2B,570256,Gregory Polanco,543294,Kyle Hendricks,465041,Francisco Cervelli,R,Willson Contreras,575929,0,1,6,False,2017-04-25,Stolen,2B,2017,2018, 86.3, 0.75
+598,1B,2B,Stolen Base 2B,594807,Adam Duvall,444468,Héctor Rondón,553993,Eugenio Suárez,R,Willson Contreras,575929,5,5,9,False,2017-04-21,Stolen,2B,2017,2018, 86.3, 0.75
+599,1B,,Caught Stealing 2B,474568,Jordy Mercer,452657,Jon Lester,516782,Starling Marte,L,Willson Contreras,575929,0,0,1,True,2017-04-16,Caught,2B,2017,2018, 86.3, 0.75
+600,1B,,Caught Stealing 2B,543281,Josh Harrison,452657,Jon Lester,594838,Phil Gosselin,L,Willson Contreras,575929,0,0,7,True,2017-04-16,Caught,2B,2017,2018, 86.3, 0.75
+601,1B,2B,Stolen Base 2B,543281,Josh Harrison,518748,Justin Grimm,444379,John Jaso,R,Willson Contreras,575929,1,3,9,True,2017-04-16,Stolen,2B,2017,2018, 86.3, 0.75
+602,1B,2B,Stolen Base 2B,516782,Starling Marte,453562,Jake Arrieta,457705,Andrew McCutchen,R,Willson Contreras,575929,4,2,3,True,2017-04-15,Stolen,2B,2017,2018, 86.3, 0.75
+603,1B,2B,Stolen Base 2B,593700,Alen Hanson,488846,Brian Duensing,624428,Adam Frazier,L,Willson Contreras,575929,6,5,7,True,2017-04-15,Stolen,2B,2017,2018, 86.3, 0.75
+604,1B,,Caught Stealing 2B,429711,Franklin Gutierrez,452657,Jon Lester,624577,Yasiel Puig,L,Willson Contreras,575929,0,0,2,True,2017-04-10,Caught,2B,2017,2018, 86.3, 0.75
+605,1B,2B,Stolen Base 2B,542340,Jonathan Villar,543294,Kyle Hendricks,519346,Eric Thames,R,Willson Contreras,575929,4,6,5,False,2017-04-08,Stolen,2B,2017,2018, 86.3, 0.75
+606,1B,2B,Stolen Base 2B,649557,Aledmys Díaz,452657,Jon Lester,425509,Jhonny Peralta,L,Willson Contreras,575929,1,0,3,False,2017-04-02,Stolen,2B,2017,2018, 86.3, 0.75
+607,2B,3B,Stolen Base 3B,649557,Aledmys Díaz,452657,Jon Lester,425877,Yadier Molina,L,Willson Contreras,575929,1,0,3,False,2017-04-02,Stolen,3B,2017,2018, 86.3, 0.75

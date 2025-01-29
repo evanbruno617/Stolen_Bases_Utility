@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1033,1B,,Caught Stealing 2B,623520,David Bote,Spencer Kieboom,3,2,8,False,2018-08-10,Caught,2B,2018
+1424,1B,2B,Stolen Base 2B,623520,David Bote,Austin Hedges,0,6,4,True,2018-07-15,Stolen,2B,2018
+1517,1B,,Caught Stealing 2B,623520,David Bote,Nick Hundley,0,0,2,True,2018-07-10,Caught,2B,2018
+1690,1B,,Caught Stealing 2B,623520,David Bote,James McCann,3,3,6,False,2018-07-03,Caught,2B,2018
+1705,1B,2B,Stolen Base 2B,623520,David Bote,Mitch Garver,11,10,8,False,2018-07-01,Stolen,2B,2018
+2585,1B,2B,Stolen Base 2B,623520,David Bote,Welington Castillo,5,1,6,False,2018-05-12,Stolen,2B,2018
+2950,2B,,Caught Stealing 3B,623520,David Bote,Tony Wolters,0,2,2,True,2018-04-21,Caught,3B,2018
+39,1B,2B,Stolen Base 2B,623520,David Bote,Yadier Molina,0,3,4,True,2019-09-28,Stolen,2B,2019
+1515,1B,2B,Stolen Base 2B,623520,David Bote,Tomás Nido,1,0,2,False,2019-06-23,Stolen,2B,2019
+1518,1B,2B,Stolen Base 2B,623520,David Bote,Tomás Nido,5,3,8,False,2019-06-23,Stolen,2B,2019
+1574,1B,2B,Stolen Base 2B,623520,David Bote,Tomás Nido,1,1,2,False,2019-06-21,Stolen,2B,2019
+1816,1B,2B,Stolen Base 2B,623520,David Bote,Matt Wieters,3,0,7,False,2019-06-07,Stolen,2B,2019
+1852,1B,,Caught Stealing 2B,623520,David Bote,Tony Wolters,0,0,3,False,2019-06-05,Caught,2B,2019
+572,1B,2B,Stolen Base 2B,623520,David Bote,Tucker Barnhart,0,0,2,True,2020-08-30,Stolen,2B,2020
+574,1B,2B,Stolen Base 2B,623520,David Bote,Tucker Barnhart,1,6,9,True,2020-08-30,Stolen,2B,2020
+2613,1B,,Caught Stealing 2B,623520,David Bote,Travis d'Arnaud,2,4,6,False,2021-04-16,Caught,2B,2021
+1431,1B,2B,Stolen Base 2B,623520,David Bote,Will Smith,0,5,1,True,2022-07-10,Stolen,2B,2022

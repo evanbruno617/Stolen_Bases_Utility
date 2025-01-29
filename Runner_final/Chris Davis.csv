@@ -1,0 +1,12 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2157,1B,2B,Caught Stealing Home,448801,Chris Davis,547888,Masahiro Tanaka,592859,Stevie Wilkerson,R,Austin Romine,519222,1,1,4,False,2019-08-05,Caught,Home,2019,2020,24.0
+1,5000,1B,2B,Caught Stealing Home,448801,Chris Davis,547888,Masahiro Tanaka,592859,Stevie Wilkerson,R,Austin Romine,519222,1,1,4,False,2019-08-05,Caught,Home,2019,2020,24.0
+2,6924,1B,2B,Caught Stealing Home,448801,Chris Davis,547888,Masahiro Tanaka,592859,Stevie Wilkerson,R,Austin Romine,519222,1,1,4,False,2019-08-05,Caught,Home,2019,2020,24.0
+3,758,1B,2B,Stolen Base 2B,448801,Chris Davis,502042,Chris Archer,669720,Austin Hays,R,Jesús Sucre,491696,3,1,1,False,2017-09-24,Stolen,2B,2017,2018,25.5
+4,1743,1B,,Caught Stealing 2B,448801,Chris Davis,571510,Matthew Boyd,456078,Welington Castillo,L,James McCann,543510,0,2,2,False,2017-08-03,Caught,2B,2017,2018,25.5
+5,130,1B,2B,Stolen Base 2B,448801,Chris Davis,502042,Chris Archer,669720,Austin Hays,R,Jesús Sucre,491696,3,1,1,False,2017-09-24,Stolen,2B,2017,2018,25.5
+6,1115,1B,,Caught Stealing 2B,448801,Chris Davis,571510,Matthew Boyd,456078,Welington Castillo,L,James McCann,543510,0,2,2,False,2017-08-03,Caught,2B,2017,2018,25.5
+7,5188,1B,2B,Stolen Base 2B,448801,Chris Davis,430935,Cole Hamels,446308,Matt Wieters,L,Jonathan Lucroy,518960,3,2,6,False,2016-08-03,Stolen,2B,2016,2017,25.1
+8,1153,1B,2B,Stolen Base 2B,448801,Chris Davis,430935,Cole Hamels,446308,Matt Wieters,L,Jonathan Lucroy,518960,3,2,6,False,2016-08-03,Stolen,2B,2016,2017,25.1
+9,4560,1B,2B,Stolen Base 2B,448801,Chris Davis,430935,Cole Hamels,446308,Matt Wieters,L,Jonathan Lucroy,518960,3,2,6,False,2016-08-03,Stolen,2B,2016,2017,25.1
+10,528,1B,2B,Caught Stealing Home,448801,Chris Davis,523260,Joe Kelly,501983,Travis Snider,R,Sandy León,506702,0,4,3,True,2015-06-23,Caught,Home,2015,2016,26.5

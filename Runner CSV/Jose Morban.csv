@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1137,1B,2B,Stolen Base 2B,425660,Jose Morban,Jason Varitek,1,0,2,False,2003-08-02,Stolen,2B,2003
+1573,1B,2B,Stolen Base 2B,425660,Jose Morban,Ben Davis,1,4,9,True,2003-07-10,Stolen,2B,2003
+1589,1B,2B,Stolen Base 2B,425660,Jose Morban,Ben Davis,2,6,9,True,2003-07-09,Stolen,2B,2003
+2504,2B,3B,Stolen Base 3B,425660,Jose Morban,Todd Greene,0,0,3,True,2003-05-24,Stolen,3B,2003
+2528,1B,2B,Stolen Base 2B,425660,Jose Morban,Einar Díaz,5,3,9,True,2003-05-23,Stolen,2B,2003
+2529,2B,3B,Stolen Base 3B,425660,Jose Morban,Einar Díaz,5,3,9,True,2003-05-23,Stolen,3B,2003
+2840,2B,3B,Stolen Base 3B,425660,Jose Morban,Mike DiFelice,4,5,9,True,2003-05-09,Stolen,3B,2003
+2844,2B,3B,Stolen Base 3B,425660,Jose Morban,Mike DiFelice,4,5,9,True,2003-05-08,Stolen,3B,2003
+2901,1B,2B,Stolen Base 2B,425660,Jose Morban,Matt Walbeck,6,6,8,False,2003-05-06,Stolen,2B,2003

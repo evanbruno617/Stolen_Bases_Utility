@@ -1,0 +1,242 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,,Caught Stealing 2B,608324,Alex Bregman,682243,Bryce Miller,670541,Yordan Alvarez,R,Cal Raleigh,663728,0,0,1,True,2023-09-27,Caught,2B,2023,2024, 84.4, 0.66
+1,1B,,Caught Stealing 2B,665161,Jeremy Peña,669923,George Kirby,455117,Martín Maldonado,R,Cal Raleigh,663728,2,0,5,True,2023-09-26,Caught,2B,2023,2024, 84.4, 0.66
+2,1B,,Caught Stealing 2B,676801,Chas McCormick,622491,Luis Castillo,665161,Jeremy Peña,R,Cal Raleigh,663728,0,4,3,True,2023-09-25,Caught,2B,2023,2024, 84.4, 0.66
+3,1B,2B,Stolen Base 2B,666969,Adolis García,669302,Logan Gilbert,641680,Jonah Heim,R,Cal Raleigh,663728,2,0,4,False,2023-09-23,Stolen,2B,2023,2024, 84.4, 0.66
+4,1B,,Caught Stealing 2B,666969,Adolis García,623437,Justin Topa,641598,Mitch Garver,R,Cal Raleigh,663728,2,0,8,False,2023-09-23,Caught,2B,2023,2024, 84.4, 0.66
+5,1B,2B,Stolen Base 2B,694497,Evan Carter,682243,Bryce Miller,608369,Corey Seager,R,Cal Raleigh,663728,4,0,5,False,2023-09-22,Stolen,2B,2023,2024, 84.4, 0.66
+6,1B,2B,Stolen Base 2B,680869,Zack Gelof,669923,George Kirby,676116,Ryan Noda,R,Cal Raleigh,663728,0,0,1,False,2023-09-20,Stolen,2B,2023,2024, 84.4, 0.66
+7,1B,,Caught Stealing 2B,665923,Esteury Ruiz,622491,Luis Castillo,643393,Tony Kemp,R,Cal Raleigh,663728,0,1,3,False,2023-09-19,Caught,2B,2023,2024, 84.4, 0.66
+8,1B,,Caught Stealing 2B,643393,Tony Kemp,622491,Luis Castillo,680869,Zack Gelof,R,Cal Raleigh,663728,0,1,3,False,2023-09-19,Caught,2B,2023,2024, 84.4, 0.66
+9,1B,2B,Stolen Base 2B,642708,Amed Rosario,660825,Eduard Bazardo,543939,Kolten Wong,R,Cal Raleigh,663728,1,5,6,True,2023-09-17,Stolen,2B,2023,2024, 84.4, 0.66
+10,1B,2B,Stolen Base 2B,571771,Enrique Hernández,663462,Isaiah Campbell,605141,Mookie Betts,R,Cal Raleigh,663728,1,6,11,True,2023-09-16,Stolen,2B,2023,2024, 84.4, 0.66
+11,1B,2B,Stolen Base 2B,518692,Freddie Freeman,642100,Gabe Speier,669257,Will Smith,L,Cal Raleigh,663728,3,4,8,True,2023-09-15,Stolen,2B,2023,2024, 84.4, 0.66
+12,1B,,Caught Stealing 2B,621433,Brett Phillips,662253,Andrés Muñoz,694384,Nolan Schanuel,R,Cal Raleigh,663728,3,2,9,True,2023-09-13,Caught,2B,2023,2024, 84.4, 0.66
+13,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,660825,Eduard Bazardo,664040,Brandon Lowe,R,Cal Raleigh,663728,6,3,6,False,2023-09-10,Stolen,2B,2023,2024, 84.4, 0.66
+14,2B,3B,Stolen Base 3B,642350,Jose Siri,669923,George Kirby,650907,René Pinto,R,Cal Raleigh,663728,4,4,7,False,2023-09-08,Stolen,3B,2023,2024, 84.4, 0.66
+15,1B,2B,Stolen Base 2B,668227,Randy Arozarena,622491,Luis Castillo,666139,Josh Lowe,R,Cal Raleigh,663728,0,1,3,False,2023-09-07,Stolen,2B,2023,2024, 84.4, 0.66
+16,1B,,Caught Stealing 2B,666139,Josh Lowe,622491,Luis Castillo,670623,Isaac Paredes,R,Cal Raleigh,663728,0,1,5,False,2023-09-07,Caught,2B,2023,2024, 84.4, 0.66
+17,1B,,Caught Stealing 2B,670042,Luke Raley,662253,Andrés Muñoz,670764,Taylor Walls,R,Cal Raleigh,663728,0,1,9,False,2023-09-07,Caught,2B,2023,2024, 84.4, 0.66
+18,1B,2B,Stolen Base 2B,670764,Taylor Walls,662253,Andrés Muñoz,666018,Jonathan Aranda,R,Cal Raleigh,663728,0,1,9,False,2023-09-07,Stolen,2B,2023,2024, 84.4, 0.66
+19,2B,3B,Stolen Base 3B,666181,Will Benson,669302,Logan Gilbert,641584,Jake Fraley,R,Cal Raleigh,663728,1,2,3,False,2023-09-06,Stolen,3B,2023,2024, 84.4, 0.66
+20,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,669302,Logan Gilbert,687952,Christian Encarnacion-Strand,R,Cal Raleigh,663728,3,7,6,False,2023-09-06,Stolen,2B,2023,2024, 84.4, 0.66
+21,1B,,Caught Stealing 2B,682829,Elly De La Cruz,682243,Bryce Miller,687952,Christian Encarnacion-Strand,R,Cal Raleigh,663728,0,2,2,False,2023-09-05,Caught,2B,2023,2024, 84.4, 0.66
+22,1B,,Caught Stealing 2B,682622,Noelvi Marte,682243,Bryce Miller,571912,Luke Maile,R,Cal Raleigh,663728,0,2,3,False,2023-09-05,Caught,2B,2023,2024, 84.4, 0.66
+23,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,662253,Andrés Muñoz,687952,Christian Encarnacion-Strand,R,Cal Raleigh,663728,7,6,9,False,2023-09-05,Stolen,2B,2023,2024, 84.4, 0.66
+24,1B,2B,Stolen Base 2B,677595,Ronny Mauricio,669923,George Kirby,682626,Francisco Alvarez,R,Cal Raleigh,663728,2,0,2,False,2023-09-03,Stolen,2B,2023,2024, 84.4, 0.66
+25,1B,2B,Stolen Base 2B,677595,Ronny Mauricio,622491,Luis Castillo,607043,Brandon Nimmo,R,Cal Raleigh,663728,0,3,3,False,2023-09-02,Stolen,2B,2023,2024, 84.4, 0.66
+26,1B,2B,Stolen Base 2B,596019,Francisco Lindor,662253,Andrés Muñoz,624413,Pete Alonso,R,Cal Raleigh,663728,1,1,8,False,2023-09-01,Stolen,2B,2023,2024, 84.4, 0.66
+27,1B,2B,Stolen Base 2B,641796,Tim Locastro,662253,Andrés Muñoz,621466,DJ Stewart,R,Cal Raleigh,663728,2,1,8,False,2023-09-01,Stolen,2B,2023,2024, 84.4, 0.66
+28,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,682243,Bryce Miller,676116,Ryan Noda,R,Cal Raleigh,663728,0,3,2,True,2023-08-30,Stolen,2B,2023,2024, 84.4, 0.66
+29,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,623437,Justin Topa,676116,Ryan Noda,R,Cal Raleigh,663728,3,4,7,True,2023-08-30,Stolen,3B,2023,2024, 84.4, 0.66
+30,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,623437,Justin Topa,521692,Salvador Perez,R,Cal Raleigh,663728,3,2,8,True,2023-08-27,Stolen,2B,2023,2024, 84.4, 0.66
+31,1B,2B,Stolen Base 2B,680118,Dairon Blanco,669302,Logan Gilbert,664728,Kyle Isbel,R,Cal Raleigh,663728,0,0,3,True,2023-08-26,Stolen,2B,2023,2024, 84.4, 0.66
+32,1B,2B,Stolen Base 2B,680118,Dairon Blanco,642100,Gabe Speier,671221,Drew Waters,L,Cal Raleigh,663728,4,5,8,False,2023-08-16,Stolen,2B,2023,2024, 84.4, 0.66
+33,1B,,Caught Stealing 2B,672580,Maikel Garcia,676106,Emerson Hancock,686681,Michael Massey,R,Cal Raleigh,663728,0,0,1,False,2023-08-15,Caught,2B,2023,2024, 84.4, 0.66
+34,1B,,Caught Stealing 2B,671221,Drew Waters,669302,Logan Gilbert,672580,Maikel Garcia,R,Cal Raleigh,663728,3,0,4,False,2023-08-14,Caught,2B,2023,2024, 84.4, 0.66
+35,1B,2B,Stolen Base 2B,669392,Samad Taylor,666374,Matt Brash,521692,Salvador Perez,R,Cal Raleigh,663728,6,6,9,False,2023-08-14,Stolen,2B,2023,2024, 84.4, 0.66
+36,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,676106,Emerson Hancock,665487,Fernando Tatis Jr.,R,Cal Raleigh,663728,0,0,1,True,2023-08-09,Stolen,2B,2023,2024, 84.4, 0.66
+37,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,676106,Emerson Hancock,665742,Juan Soto,R,Cal Raleigh,663728,0,1,1,True,2023-08-09,Stolen,3B,2023,2024, 84.4, 0.66
+38,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,676106,Emerson Hancock,665487,Fernando Tatis Jr.,R,Cal Raleigh,663728,0,1,3,True,2023-08-09,Stolen,2B,2023,2024, 84.4, 0.66
+39,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,693433,Bryan Woo,543068,C.J. Cron,R,Cal Raleigh,663728,1,1,6,False,2023-08-03,Stolen,2B,2023,2024, 84.4, 0.66
+40,1B,2B,Stolen Base 2B,682998,Corbin Carroll,623149,Paul Sewald,572233,Christian Walker,R,Cal Raleigh,663728,2,5,9,False,2023-07-28,Stolen,2B,2023,2024, 84.4, 0.66
+41,1B,2B,Stolen Base 2B,650489,Willi Castro,663462,Isaiah Campbell,663616,Trevor Larnach,R,Cal Raleigh,663728,5,2,6,False,2023-07-25,Stolen,2B,2023,2024, 84.4, 0.66
+42,2B,3B,Stolen Base 3B,650489,Willi Castro,663462,Isaiah Campbell,663616,Trevor Larnach,R,Cal Raleigh,663728,5,2,6,False,2023-07-25,Stolen,3B,2023,2024, 84.4, 0.66
+43,1B,2B,Stolen Base 2B,680777,Ryan Jeffers,663462,Isaiah Campbell,621043,Carlos Correa,R,Cal Raleigh,663728,6,2,6,False,2023-07-25,Stolen,2B,2023,2024, 84.4, 0.66
+44,1B,,Caught Stealing 2B,571657,Kyle Farmer,642048,Tayler Saucedo,670242,Matt Wallner,L,Cal Raleigh,663728,6,2,7,False,2023-07-25,Caught,2B,2023,2024, 84.4, 0.66
+45,1B,2B,Stolen Base 2B,624415,Cavan Biggio,623437,Justin Topa,543807,George Springer,R,Cal Raleigh,663728,9,8,9,True,2023-07-22,Stolen,2B,2023,2024, 84.4, 0.66
+46,1B,2B,Stolen Base 2B,650489,Willi Castro,693433,Bryan Woo,608336,Joey Gallo,R,Cal Raleigh,663728,3,5,3,True,2023-07-18,Stolen,2B,2023,2024, 84.4, 0.66
+47,1B,2B,Stolen Base 2B,666397,Edouard Julien,669302,Logan Gilbert,666135,Alex Kirilloff,R,Cal Raleigh,663728,0,0,1,True,2023-07-17,Stolen,2B,2023,2024, 84.4, 0.66
+48,1B,2B,Stolen Base 2B,676801,Chas McCormick,669302,Logan Gilbert,665161,Jeremy Peña,R,Cal Raleigh,663728,0,3,5,False,2023-07-09,Stolen,2B,2023,2024, 84.4, 0.66
+49,1B,2B,Stolen Base 2B,667452,Corey Julks,669923,George Kirby,455117,Martín Maldonado,R,Cal Raleigh,663728,0,3,5,False,2023-07-06,Stolen,2B,2023,2024, 84.4, 0.66
+50,1B,2B,Stolen Base 2B,666139,Josh Lowe,669923,George Kirby,670764,Taylor Walls,R,Cal Raleigh,663728,2,0,5,True,2023-07-01,Stolen,2B,2023,2024, 84.4, 0.66
+51,1B,2B,Stolen Base 2B,670042,Luke Raley,641627,Trevor Gott,668227,Randy Arozarena,R,Cal Raleigh,663728,4,3,5,True,2023-06-30,Stolen,2B,2023,2024, 84.4, 0.66
+52,2B,3B,Stolen Base 3B,670764,Taylor Walls,642100,Gabe Speier,542194,Christian Bethancourt,L,Cal Raleigh,663728,4,9,8,True,2023-06-30,Stolen,3B,2023,2024, 84.4, 0.66
+53,2B,3B,Stolen Base 3B,677551,Wander Franco,642048,Tayler Saucedo,670042,Luke Raley,L,Cal Raleigh,663728,4,11,8,True,2023-06-30,Stolen,3B,2023,2024, 84.4, 0.66
+54,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,693433,Bryan Woo,608841,Joey Meneses,R,Cal Raleigh,663728,0,1,1,True,2023-06-27,Stolen,2B,2023,2024, 84.4, 0.66
+55,1B,2B,Stolen Base 2B,671277,Luis García Jr.,693433,Bryan Woo,608841,Joey Meneses,R,Cal Raleigh,663728,2,1,3,True,2023-06-27,Stolen,2B,2023,2024, 84.4, 0.66
+56,1B,2B,Stolen Base 2B,682928,CJ Abrams,666374,Matt Brash,656537,Derek Hill,R,Cal Raleigh,663728,3,2,7,True,2023-06-27,Stolen,2B,2023,2024, 84.4, 0.66
+57,2B,3B,Stolen Base 3B,622761,Jorge Mateo,669923,George Kirby,656775,Cedric Mullins,R,Cal Raleigh,663728,0,2,3,False,2023-06-25,Stolen,3B,2023,2024, 84.4, 0.66
+58,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,682243,Bryce Miller,602104,Ramón Urías,R,Cal Raleigh,663728,0,0,2,False,2023-06-24,Stolen,2B,2023,2024, 84.4, 0.66
+59,1B,2B,Stolen Base 2B,624428,Adam Frazier,682243,Bryce Miller,668939,Adley Rutschman,R,Cal Raleigh,663728,2,2,5,False,2023-06-24,Stolen,2B,2023,2024, 84.4, 0.66
+60,1B,2B,Stolen Base 2B,664056,Harrison Bader,669923,George Kirby,641856,Billy McKinney,R,Cal Raleigh,663728,3,0,2,False,2023-06-20,Stolen,2B,2023,2024, 84.4, 0.66
+61,1B,2B,Stolen Base 2B,641313,Tim Anderson,693433,Bryan Woo,673357,Luis Robert Jr.,R,Cal Raleigh,663728,0,0,4,True,2023-06-16,Stolen,2B,2023,2024, 84.4, 0.66
+62,1B,2B,Stolen Base 2B,542932,Jon Berti,666374,Matt Brash,641505,Jonathan Davis,R,Cal Raleigh,663728,0,2,7,True,2023-06-14,Stolen,2B,2023,2024, 84.4, 0.66
+63,1B,,Caught Stealing 2B,650859,Luis Rengifo,622491,Luis Castillo,666160,Mickey Moniak,R,Cal Raleigh,663728,3,2,4,False,2023-06-09,Caught,2B,2023,2024, 84.4, 0.66
+64,1B,2B,Stolen Base 2B,687263,Zach Neto,666374,Matt Brash,621493,Taylor Ward,R,Cal Raleigh,663728,5,3,7,False,2023-06-09,Stolen,2B,2023,2024, 84.4, 0.66
+65,1B,2B,Stolen Base 2B,572761,Matt Carpenter,669923,George Kirby,663845,Alfonso Rivas III,R,Cal Raleigh,663728,1,0,2,False,2023-06-07,Stolen,2B,2023,2024, 84.4, 0.66
+66,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,669923,George Kirby,665742,Juan Soto,R,Cal Raleigh,663728,5,0,4,False,2023-06-07,Stolen,2B,2023,2024, 84.4, 0.66
+67,1B,,Caught Stealing 2B,650402,Gleyber Torres,669923,George Kirby,641432,Willie Calhoun,R,Cal Raleigh,663728,0,0,4,True,2023-05-31,Caught,2B,2023,2024, 84.4, 0.66
+68,1B,2B,Stolen Base 2B,664056,Harrison Bader,682243,Bryce Miller,641343,Jake Bauers,R,Cal Raleigh,663728,0,1,2,True,2023-05-29,Stolen,2B,2023,2024, 84.4, 0.66
+69,1B,2B,Stolen Base 2B,678225,Ji Hwan Bae,622491,Luis Castillo,641943,Joshua Palacios,R,Cal Raleigh,663728,3,0,2,True,2023-05-27,Stolen,2B,2023,2024, 84.4, 0.66
+70,2B,3B,Stolen Base 3B,672779,Tucupita Marcano,669923,George Kirby,678225,Ji Hwan Bae,R,Cal Raleigh,663728,2,2,4,True,2023-05-26,Stolen,3B,2023,2024, 84.4, 0.66
+71,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,672730,Juan Then,656582,Connor Joe,R,Cal Raleigh,663728,4,8,6,True,2023-05-26,Stolen,2B,2023,2024, 84.4, 0.66
+72,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,682243,Bryce Miller,676116,Ryan Noda,R,Cal Raleigh,663728,0,0,3,True,2023-05-24,Stolen,2B,2023,2024, 84.4, 0.66
+73,1B,2B,Stolen Base 2B,680776,Jarren Duran,672730,Juan Then,671213,Triston Casas,R,Cal Raleigh,663728,8,4,7,False,2023-05-16,Stolen,2B,2023,2024, 84.4, 0.66
+74,1B,,Caught Stealing 2B,622569,Pablo Reyes,669923,George Kirby,665839,Enmanuel Valdez,R,Cal Raleigh,663728,0,2,5,False,2023-05-15,Caught,2B,2023,2024, 84.4, 0.66
+75,1B,2B,Stolen Base 2B,666969,Adolis García,672730,Juan Then,673962,Josh Jung,R,Cal Raleigh,663728,2,4,7,True,2023-05-10,Stolen,2B,2023,2024, 84.4, 0.66
+76,1B,,Caught Stealing 2B,665750,Leody Taveras,623167,Chris Flexen,669701,Josh Smith,R,Cal Raleigh,663728,2,4,8,True,2023-05-10,Caught,2B,2023,2024, 84.4, 0.66
+77,1B,2B,Stolen Base 2B,543760,Marcus Semien,641627,Trevor Gott,543257,Robbie Grossman,R,Cal Raleigh,663728,1,2,8,True,2023-05-08,Stolen,2B,2023,2024, 84.4, 0.66
+78,1B,,Caught Stealing 2B,663656,Kyle Tucker,682243,Bryce Miller,667452,Corey Julks,R,Cal Raleigh,663728,0,0,2,True,2023-05-07,Caught,2B,2023,2024, 84.4, 0.66
+79,1B,,Caught Stealing 2B,665161,Jeremy Peña,622491,Luis Castillo,676694,Jake Meyers,R,Cal Raleigh,663728,0,4,4,True,2023-05-05,Caught,2B,2023,2024, 84.4, 0.66
+80,3B,score,Caught Stealing 2B,663656,Kyle Tucker,622491,Luis Castillo,676694,Jake Meyers,R,Cal Raleigh,663728,0,4,4,True,2023-05-05,Caught,2B,2023,2024, 84.4, 0.66
+81,2B,3B,Stolen Base 3B,657656,Ramón Laureano,669923,George Kirby,542583,Jesús Aguilar,R,Cal Raleigh,663728,3,5,6,False,2023-05-04,Stolen,3B,2023,2024, 84.4, 0.66
+82,1B,2B,Stolen Base 2B,607054,Jace Peterson,641627,Trevor Gott,669127,Shea Langeliers,R,Cal Raleigh,663728,1,0,7,False,2023-05-02,Stolen,2B,2023,2024, 84.4, 0.66
+83,1B,2B,Stolen Base 2B,543807,George Springer,641627,Trevor Gott,666182,Bo Bichette,R,Cal Raleigh,663728,3,2,6,False,2023-04-28,Stolen,2B,2023,2024, 84.4, 0.66
+84,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,682171,Penn Murfee,681082,Bryson Stott,R,Cal Raleigh,663728,6,5,8,False,2023-04-26,Stolen,2B,2023,2024, 84.4, 0.66
+85,1B,,Caught Stealing 2B,669357,Nolan Gorman,623167,Chris Flexen,571448,Nolan Arenado,R,Cal Raleigh,663728,0,2,1,True,2023-04-23,Caught,2B,2023,2024, 84.4, 0.66
+86,3B,score,Caught Stealing 2B,502671,Paul Goldschmidt,623167,Chris Flexen,571448,Nolan Arenado,R,Cal Raleigh,663728,0,2,1,True,2023-04-23,Caught,2B,2023,2024, 84.4, 0.66
+87,2B,3B,Caught Stealing 2B,669357,Nolan Gorman,642100,Gabe Speier,666185,Dylan Carlson,L,Cal Raleigh,663728,3,6,6,True,2023-04-23,Caught,2B,2023,2024, 84.4, 0.66
+88,1B,,Caught Stealing 2B,571448,Nolan Arenado,642100,Gabe Speier,666185,Dylan Carlson,L,Cal Raleigh,663728,3,6,6,True,2023-04-23,Caught,2B,2023,2024, 84.4, 0.66
+89,1B,2B,Stolen Base 2B,669242,Tommy Edman,622491,Luis Castillo,663457,Lars Nootbaar,R,Cal Raleigh,663728,1,3,4,True,2023-04-22,Stolen,2B,2023,2024, 84.4, 0.66
+90,1B,2B,Stolen Base 2B,592885,Christian Yelich,682171,Penn Murfee,642715,Willy Adames,R,Cal Raleigh,663728,2,5,7,True,2023-04-17,Stolen,2B,2023,2024, 84.4, 0.66
+91,1B,2B,Stolen Base 2B,663538,Nico Hoerner,641627,Trevor Gott,621020,Dansby Swanson,R,Cal Raleigh,663728,9,7,3,False,2023-04-11,Stolen,2B,2023,2024, 84.4, 0.66
+92,1B,,Caught Stealing 2B,663611,Nick Madrigal,642578,José Rodríguez,641820,Trey Mancini,R,Cal Raleigh,663728,14,8,6,False,2023-04-11,Caught,2B,2023,2024, 84.4, 0.66
+93,1B,2B,Stolen Base 2B,608070,José Ramírez,669923,George Kirby,647304,Josh Naylor,R,Cal Raleigh,663728,1,2,6,False,2023-04-09,Stolen,2B,2023,2024, 84.4, 0.66
+94,1B,2B,Stolen Base 2B,680757,Steven Kwan,623437,Justin Topa,642708,Amed Rosario,R,Cal Raleigh,663728,3,3,10,False,2023-04-09,Stolen,2B,2023,2024, 84.4, 0.66
+95,1B,2B,Stolen Base 2B,665926,Andrés Giménez,669302,Logan Gilbert,664702,Myles Straw,R,Cal Raleigh,663728,3,0,4,False,2023-04-07,Stolen,2B,2023,2024, 84.4, 0.66
+96,1B,,Caught Stealing 2B,605137,Josh Bell,594835,Marco Gonzales,660757,Oscar Gonzalez,L,Cal Raleigh,663728,1,3,3,True,2023-04-02,Caught,2B,2023,2024, 84.4, 0.66
+97,1B,2B,Stolen Base 2B,664702,Myles Straw,623149,Paul Sewald,680757,Steven Kwan,R,Cal Raleigh,663728,5,5,9,True,2023-04-02,Stolen,2B,2023,2024, 84.4, 0.66
+98,1B,,Caught Stealing 2B,608324,Alex Bregman,682243,Bryce Miller,670541,Yordan Alvarez,R,Cal Raleigh,663728,0,0,1,True,2023-09-27,Caught,2B,2023,2024, 84.4, 0.66
+99,1B,,Caught Stealing 2B,665161,Jeremy Peña,669923,George Kirby,455117,Martín Maldonado,R,Cal Raleigh,663728,2,0,5,True,2023-09-26,Caught,2B,2023,2024, 84.4, 0.66
+100,1B,,Caught Stealing 2B,676801,Chas McCormick,622491,Luis Castillo,665161,Jeremy Peña,R,Cal Raleigh,663728,0,4,3,True,2023-09-25,Caught,2B,2023,2024, 84.4, 0.66
+101,1B,2B,Stolen Base 2B,666969,Adolis García,669302,Logan Gilbert,641680,Jonah Heim,R,Cal Raleigh,663728,2,0,4,False,2023-09-23,Stolen,2B,2023,2024, 84.4, 0.66
+102,1B,,Caught Stealing 2B,666969,Adolis García,623437,Justin Topa,641598,Mitch Garver,R,Cal Raleigh,663728,2,0,8,False,2023-09-23,Caught,2B,2023,2024, 84.4, 0.66
+103,1B,2B,Stolen Base 2B,694497,Evan Carter,682243,Bryce Miller,608369,Corey Seager,R,Cal Raleigh,663728,4,0,5,False,2023-09-22,Stolen,2B,2023,2024, 84.4, 0.66
+104,1B,2B,Stolen Base 2B,680869,Zack Gelof,669923,George Kirby,676116,Ryan Noda,R,Cal Raleigh,663728,0,0,1,False,2023-09-20,Stolen,2B,2023,2024, 84.4, 0.66
+105,1B,,Caught Stealing 2B,665923,Esteury Ruiz,622491,Luis Castillo,643393,Tony Kemp,R,Cal Raleigh,663728,0,1,3,False,2023-09-19,Caught,2B,2023,2024, 84.4, 0.66
+106,1B,,Caught Stealing 2B,643393,Tony Kemp,622491,Luis Castillo,680869,Zack Gelof,R,Cal Raleigh,663728,0,1,3,False,2023-09-19,Caught,2B,2023,2024, 84.4, 0.66
+107,1B,2B,Stolen Base 2B,642708,Amed Rosario,660825,Eduard Bazardo,543939,Kolten Wong,R,Cal Raleigh,663728,1,5,6,True,2023-09-17,Stolen,2B,2023,2024, 84.4, 0.66
+108,1B,2B,Stolen Base 2B,571771,Enrique Hernández,663462,Isaiah Campbell,605141,Mookie Betts,R,Cal Raleigh,663728,1,6,11,True,2023-09-16,Stolen,2B,2023,2024, 84.4, 0.66
+109,1B,2B,Stolen Base 2B,518692,Freddie Freeman,642100,Gabe Speier,669257,Will Smith,L,Cal Raleigh,663728,3,4,8,True,2023-09-15,Stolen,2B,2023,2024, 84.4, 0.66
+110,1B,,Caught Stealing 2B,621433,Brett Phillips,662253,Andrés Muñoz,694384,Nolan Schanuel,R,Cal Raleigh,663728,3,2,9,True,2023-09-13,Caught,2B,2023,2024, 84.4, 0.66
+111,1B,2B,Stolen Base 2B,542194,Christian Bethancourt,660825,Eduard Bazardo,664040,Brandon Lowe,R,Cal Raleigh,663728,6,3,6,False,2023-09-10,Stolen,2B,2023,2024, 84.4, 0.66
+112,2B,3B,Stolen Base 3B,642350,Jose Siri,669923,George Kirby,650907,René Pinto,R,Cal Raleigh,663728,4,4,7,False,2023-09-08,Stolen,3B,2023,2024, 84.4, 0.66
+113,1B,2B,Stolen Base 2B,668227,Randy Arozarena,622491,Luis Castillo,666139,Josh Lowe,R,Cal Raleigh,663728,0,1,3,False,2023-09-07,Stolen,2B,2023,2024, 84.4, 0.66
+114,1B,,Caught Stealing 2B,666139,Josh Lowe,622491,Luis Castillo,670623,Isaac Paredes,R,Cal Raleigh,663728,0,1,5,False,2023-09-07,Caught,2B,2023,2024, 84.4, 0.66
+115,1B,,Caught Stealing 2B,670042,Luke Raley,662253,Andrés Muñoz,670764,Taylor Walls,R,Cal Raleigh,663728,0,1,9,False,2023-09-07,Caught,2B,2023,2024, 84.4, 0.66
+116,1B,2B,Stolen Base 2B,670764,Taylor Walls,662253,Andrés Muñoz,666018,Jonathan Aranda,R,Cal Raleigh,663728,0,1,9,False,2023-09-07,Stolen,2B,2023,2024, 84.4, 0.66
+117,2B,3B,Stolen Base 3B,666181,Will Benson,669302,Logan Gilbert,641584,Jake Fraley,R,Cal Raleigh,663728,1,2,3,False,2023-09-06,Stolen,3B,2023,2024, 84.4, 0.66
+118,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,669302,Logan Gilbert,687952,Christian Encarnacion-Strand,R,Cal Raleigh,663728,3,7,6,False,2023-09-06,Stolen,2B,2023,2024, 84.4, 0.66
+119,1B,,Caught Stealing 2B,682829,Elly De La Cruz,682243,Bryce Miller,687952,Christian Encarnacion-Strand,R,Cal Raleigh,663728,0,2,2,False,2023-09-05,Caught,2B,2023,2024, 84.4, 0.66
+120,1B,,Caught Stealing 2B,682622,Noelvi Marte,682243,Bryce Miller,571912,Luke Maile,R,Cal Raleigh,663728,0,2,3,False,2023-09-05,Caught,2B,2023,2024, 84.4, 0.66
+121,1B,2B,Stolen Base 2B,682829,Elly De La Cruz,662253,Andrés Muñoz,687952,Christian Encarnacion-Strand,R,Cal Raleigh,663728,7,6,9,False,2023-09-05,Stolen,2B,2023,2024, 84.4, 0.66
+122,1B,2B,Stolen Base 2B,677595,Ronny Mauricio,669923,George Kirby,682626,Francisco Alvarez,R,Cal Raleigh,663728,2,0,2,False,2023-09-03,Stolen,2B,2023,2024, 84.4, 0.66
+123,1B,2B,Stolen Base 2B,677595,Ronny Mauricio,622491,Luis Castillo,607043,Brandon Nimmo,R,Cal Raleigh,663728,0,3,3,False,2023-09-02,Stolen,2B,2023,2024, 84.4, 0.66
+124,1B,2B,Stolen Base 2B,596019,Francisco Lindor,662253,Andrés Muñoz,624413,Pete Alonso,R,Cal Raleigh,663728,1,1,8,False,2023-09-01,Stolen,2B,2023,2024, 84.4, 0.66
+125,1B,2B,Stolen Base 2B,641796,Tim Locastro,662253,Andrés Muñoz,621466,DJ Stewart,R,Cal Raleigh,663728,2,1,8,False,2023-09-01,Stolen,2B,2023,2024, 84.4, 0.66
+126,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,682243,Bryce Miller,676116,Ryan Noda,R,Cal Raleigh,663728,0,3,2,True,2023-08-30,Stolen,2B,2023,2024, 84.4, 0.66
+127,2B,3B,Stolen Base 3B,665923,Esteury Ruiz,623437,Justin Topa,676116,Ryan Noda,R,Cal Raleigh,663728,3,4,7,True,2023-08-30,Stolen,3B,2023,2024, 84.4, 0.66
+128,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,623437,Justin Topa,521692,Salvador Perez,R,Cal Raleigh,663728,3,2,8,True,2023-08-27,Stolen,2B,2023,2024, 84.4, 0.66
+129,1B,2B,Stolen Base 2B,680118,Dairon Blanco,669302,Logan Gilbert,664728,Kyle Isbel,R,Cal Raleigh,663728,0,0,3,True,2023-08-26,Stolen,2B,2023,2024, 84.4, 0.66
+130,1B,2B,Stolen Base 2B,680118,Dairon Blanco,642100,Gabe Speier,671221,Drew Waters,L,Cal Raleigh,663728,4,5,8,False,2023-08-16,Stolen,2B,2023,2024, 84.4, 0.66
+131,1B,,Caught Stealing 2B,672580,Maikel Garcia,676106,Emerson Hancock,686681,Michael Massey,R,Cal Raleigh,663728,0,0,1,False,2023-08-15,Caught,2B,2023,2024, 84.4, 0.66
+132,1B,,Caught Stealing 2B,671221,Drew Waters,669302,Logan Gilbert,672580,Maikel Garcia,R,Cal Raleigh,663728,3,0,4,False,2023-08-14,Caught,2B,2023,2024, 84.4, 0.66
+133,1B,2B,Stolen Base 2B,669392,Samad Taylor,666374,Matt Brash,521692,Salvador Perez,R,Cal Raleigh,663728,6,6,9,False,2023-08-14,Stolen,2B,2023,2024, 84.4, 0.66
+134,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,676106,Emerson Hancock,665487,Fernando Tatis Jr.,R,Cal Raleigh,663728,0,0,1,True,2023-08-09,Stolen,2B,2023,2024, 84.4, 0.66
+135,2B,3B,Stolen Base 3B,673490,Ha-Seong Kim,676106,Emerson Hancock,665742,Juan Soto,R,Cal Raleigh,663728,0,1,1,True,2023-08-09,Stolen,3B,2023,2024, 84.4, 0.66
+136,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,676106,Emerson Hancock,665487,Fernando Tatis Jr.,R,Cal Raleigh,663728,0,1,3,True,2023-08-09,Stolen,2B,2023,2024, 84.4, 0.66
+137,1B,2B,Stolen Base 2B,660271,Shohei Ohtani,693433,Bryan Woo,543068,C.J. Cron,R,Cal Raleigh,663728,1,1,6,False,2023-08-03,Stolen,2B,2023,2024, 84.4, 0.66
+138,1B,2B,Stolen Base 2B,682998,Corbin Carroll,623149,Paul Sewald,572233,Christian Walker,R,Cal Raleigh,663728,2,5,9,False,2023-07-28,Stolen,2B,2023,2024, 84.4, 0.66
+139,1B,2B,Stolen Base 2B,650489,Willi Castro,663462,Isaiah Campbell,663616,Trevor Larnach,R,Cal Raleigh,663728,5,2,6,False,2023-07-25,Stolen,2B,2023,2024, 84.4, 0.66
+140,2B,3B,Stolen Base 3B,650489,Willi Castro,663462,Isaiah Campbell,663616,Trevor Larnach,R,Cal Raleigh,663728,5,2,6,False,2023-07-25,Stolen,3B,2023,2024, 84.4, 0.66
+141,1B,2B,Stolen Base 2B,680777,Ryan Jeffers,663462,Isaiah Campbell,621043,Carlos Correa,R,Cal Raleigh,663728,6,2,6,False,2023-07-25,Stolen,2B,2023,2024, 84.4, 0.66
+142,1B,,Caught Stealing 2B,571657,Kyle Farmer,642048,Tayler Saucedo,670242,Matt Wallner,L,Cal Raleigh,663728,6,2,7,False,2023-07-25,Caught,2B,2023,2024, 84.4, 0.66
+143,1B,2B,Stolen Base 2B,624415,Cavan Biggio,623437,Justin Topa,543807,George Springer,R,Cal Raleigh,663728,9,8,9,True,2023-07-22,Stolen,2B,2023,2024, 84.4, 0.66
+144,1B,2B,Stolen Base 2B,650489,Willi Castro,693433,Bryan Woo,608336,Joey Gallo,R,Cal Raleigh,663728,3,5,3,True,2023-07-18,Stolen,2B,2023,2024, 84.4, 0.66
+145,1B,2B,Stolen Base 2B,666397,Edouard Julien,669302,Logan Gilbert,666135,Alex Kirilloff,R,Cal Raleigh,663728,0,0,1,True,2023-07-17,Stolen,2B,2023,2024, 84.4, 0.66
+146,1B,2B,Stolen Base 2B,676801,Chas McCormick,669302,Logan Gilbert,665161,Jeremy Peña,R,Cal Raleigh,663728,0,3,5,False,2023-07-09,Stolen,2B,2023,2024, 84.4, 0.66
+147,1B,2B,Stolen Base 2B,667452,Corey Julks,669923,George Kirby,455117,Martín Maldonado,R,Cal Raleigh,663728,0,3,5,False,2023-07-06,Stolen,2B,2023,2024, 84.4, 0.66
+148,1B,2B,Stolen Base 2B,666139,Josh Lowe,669923,George Kirby,670764,Taylor Walls,R,Cal Raleigh,663728,2,0,5,True,2023-07-01,Stolen,2B,2023,2024, 84.4, 0.66
+149,1B,2B,Stolen Base 2B,670042,Luke Raley,641627,Trevor Gott,668227,Randy Arozarena,R,Cal Raleigh,663728,4,3,5,True,2023-06-30,Stolen,2B,2023,2024, 84.4, 0.66
+150,2B,3B,Stolen Base 3B,670764,Taylor Walls,642100,Gabe Speier,542194,Christian Bethancourt,L,Cal Raleigh,663728,4,9,8,True,2023-06-30,Stolen,3B,2023,2024, 84.4, 0.66
+151,2B,3B,Stolen Base 3B,677551,Wander Franco,642048,Tayler Saucedo,670042,Luke Raley,L,Cal Raleigh,663728,4,11,8,True,2023-06-30,Stolen,3B,2023,2024, 84.4, 0.66
+152,1B,2B,Stolen Base 2B,600869,Jeimer Candelario,693433,Bryan Woo,608841,Joey Meneses,R,Cal Raleigh,663728,0,1,1,True,2023-06-27,Stolen,2B,2023,2024, 84.4, 0.66
+153,1B,2B,Stolen Base 2B,671277,Luis García Jr.,693433,Bryan Woo,608841,Joey Meneses,R,Cal Raleigh,663728,2,1,3,True,2023-06-27,Stolen,2B,2023,2024, 84.4, 0.66
+154,1B,2B,Stolen Base 2B,682928,CJ Abrams,666374,Matt Brash,656537,Derek Hill,R,Cal Raleigh,663728,3,2,7,True,2023-06-27,Stolen,2B,2023,2024, 84.4, 0.66
+155,2B,3B,Stolen Base 3B,622761,Jorge Mateo,669923,George Kirby,656775,Cedric Mullins,R,Cal Raleigh,663728,0,2,3,False,2023-06-25,Stolen,3B,2023,2024, 84.4, 0.66
+156,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,682243,Bryce Miller,602104,Ramón Urías,R,Cal Raleigh,663728,0,0,2,False,2023-06-24,Stolen,2B,2023,2024, 84.4, 0.66
+157,1B,2B,Stolen Base 2B,624428,Adam Frazier,682243,Bryce Miller,668939,Adley Rutschman,R,Cal Raleigh,663728,2,2,5,False,2023-06-24,Stolen,2B,2023,2024, 84.4, 0.66
+158,1B,2B,Stolen Base 2B,664056,Harrison Bader,669923,George Kirby,641856,Billy McKinney,R,Cal Raleigh,663728,3,0,2,False,2023-06-20,Stolen,2B,2023,2024, 84.4, 0.66
+159,1B,2B,Stolen Base 2B,641313,Tim Anderson,693433,Bryan Woo,673357,Luis Robert Jr.,R,Cal Raleigh,663728,0,0,4,True,2023-06-16,Stolen,2B,2023,2024, 84.4, 0.66
+160,1B,2B,Stolen Base 2B,542932,Jon Berti,666374,Matt Brash,641505,Jonathan Davis,R,Cal Raleigh,663728,0,2,7,True,2023-06-14,Stolen,2B,2023,2024, 84.4, 0.66
+161,1B,,Caught Stealing 2B,650859,Luis Rengifo,622491,Luis Castillo,666160,Mickey Moniak,R,Cal Raleigh,663728,3,2,4,False,2023-06-09,Caught,2B,2023,2024, 84.4, 0.66
+162,1B,2B,Stolen Base 2B,687263,Zach Neto,666374,Matt Brash,621493,Taylor Ward,R,Cal Raleigh,663728,5,3,7,False,2023-06-09,Stolen,2B,2023,2024, 84.4, 0.66
+163,1B,2B,Stolen Base 2B,572761,Matt Carpenter,669923,George Kirby,663845,Alfonso Rivas III,R,Cal Raleigh,663728,1,0,2,False,2023-06-07,Stolen,2B,2023,2024, 84.4, 0.66
+164,1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,669923,George Kirby,665742,Juan Soto,R,Cal Raleigh,663728,5,0,4,False,2023-06-07,Stolen,2B,2023,2024, 84.4, 0.66
+165,1B,,Caught Stealing 2B,650402,Gleyber Torres,669923,George Kirby,641432,Willie Calhoun,R,Cal Raleigh,663728,0,0,4,True,2023-05-31,Caught,2B,2023,2024, 84.4, 0.66
+166,1B,2B,Stolen Base 2B,664056,Harrison Bader,682243,Bryce Miller,641343,Jake Bauers,R,Cal Raleigh,663728,0,1,2,True,2023-05-29,Stolen,2B,2023,2024, 84.4, 0.66
+167,1B,2B,Stolen Base 2B,678225,Ji Hwan Bae,622491,Luis Castillo,641943,Joshua Palacios,R,Cal Raleigh,663728,3,0,2,True,2023-05-27,Stolen,2B,2023,2024, 84.4, 0.66
+168,2B,3B,Stolen Base 3B,672779,Tucupita Marcano,669923,George Kirby,678225,Ji Hwan Bae,R,Cal Raleigh,663728,2,2,4,True,2023-05-26,Stolen,3B,2023,2024, 84.4, 0.66
+169,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,672730,Juan Then,656582,Connor Joe,R,Cal Raleigh,663728,4,8,6,True,2023-05-26,Stolen,2B,2023,2024, 84.4, 0.66
+170,1B,2B,Stolen Base 2B,665923,Esteury Ruiz,682243,Bryce Miller,676116,Ryan Noda,R,Cal Raleigh,663728,0,0,3,True,2023-05-24,Stolen,2B,2023,2024, 84.4, 0.66
+171,1B,2B,Stolen Base 2B,680776,Jarren Duran,672730,Juan Then,671213,Triston Casas,R,Cal Raleigh,663728,8,4,7,False,2023-05-16,Stolen,2B,2023,2024, 84.4, 0.66
+172,1B,,Caught Stealing 2B,622569,Pablo Reyes,669923,George Kirby,665839,Enmanuel Valdez,R,Cal Raleigh,663728,0,2,5,False,2023-05-15,Caught,2B,2023,2024, 84.4, 0.66
+173,1B,2B,Stolen Base 2B,666969,Adolis García,672730,Juan Then,673962,Josh Jung,R,Cal Raleigh,663728,2,4,7,True,2023-05-10,Stolen,2B,2023,2024, 84.4, 0.66
+174,1B,,Caught Stealing 2B,665750,Leody Taveras,623167,Chris Flexen,669701,Josh Smith,R,Cal Raleigh,663728,2,4,8,True,2023-05-10,Caught,2B,2023,2024, 84.4, 0.66
+175,1B,2B,Stolen Base 2B,543760,Marcus Semien,641627,Trevor Gott,543257,Robbie Grossman,R,Cal Raleigh,663728,1,2,8,True,2023-05-08,Stolen,2B,2023,2024, 84.4, 0.66
+176,1B,,Caught Stealing 2B,663656,Kyle Tucker,682243,Bryce Miller,667452,Corey Julks,R,Cal Raleigh,663728,0,0,2,True,2023-05-07,Caught,2B,2023,2024, 84.4, 0.66
+177,1B,,Caught Stealing 2B,665161,Jeremy Peña,622491,Luis Castillo,676694,Jake Meyers,R,Cal Raleigh,663728,0,4,4,True,2023-05-05,Caught,2B,2023,2024, 84.4, 0.66
+178,3B,score,Caught Stealing 2B,663656,Kyle Tucker,622491,Luis Castillo,676694,Jake Meyers,R,Cal Raleigh,663728,0,4,4,True,2023-05-05,Caught,2B,2023,2024, 84.4, 0.66
+179,2B,3B,Stolen Base 3B,657656,Ramón Laureano,669923,George Kirby,542583,Jesús Aguilar,R,Cal Raleigh,663728,3,5,6,False,2023-05-04,Stolen,3B,2023,2024, 84.4, 0.66
+180,1B,2B,Stolen Base 2B,607054,Jace Peterson,641627,Trevor Gott,669127,Shea Langeliers,R,Cal Raleigh,663728,1,0,7,False,2023-05-02,Stolen,2B,2023,2024, 84.4, 0.66
+181,1B,2B,Stolen Base 2B,543807,George Springer,641627,Trevor Gott,666182,Bo Bichette,R,Cal Raleigh,663728,3,2,6,False,2023-04-28,Stolen,2B,2023,2024, 84.4, 0.66
+182,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,682171,Penn Murfee,681082,Bryson Stott,R,Cal Raleigh,663728,6,5,8,False,2023-04-26,Stolen,2B,2023,2024, 84.4, 0.66
+183,1B,,Caught Stealing 2B,669357,Nolan Gorman,623167,Chris Flexen,571448,Nolan Arenado,R,Cal Raleigh,663728,0,2,1,True,2023-04-23,Caught,2B,2023,2024, 84.4, 0.66
+184,3B,score,Caught Stealing 2B,502671,Paul Goldschmidt,623167,Chris Flexen,571448,Nolan Arenado,R,Cal Raleigh,663728,0,2,1,True,2023-04-23,Caught,2B,2023,2024, 84.4, 0.66
+185,2B,3B,Caught Stealing 2B,669357,Nolan Gorman,642100,Gabe Speier,666185,Dylan Carlson,L,Cal Raleigh,663728,3,6,6,True,2023-04-23,Caught,2B,2023,2024, 84.4, 0.66
+186,1B,,Caught Stealing 2B,571448,Nolan Arenado,642100,Gabe Speier,666185,Dylan Carlson,L,Cal Raleigh,663728,3,6,6,True,2023-04-23,Caught,2B,2023,2024, 84.4, 0.66
+187,1B,2B,Stolen Base 2B,669242,Tommy Edman,622491,Luis Castillo,663457,Lars Nootbaar,R,Cal Raleigh,663728,1,3,4,True,2023-04-22,Stolen,2B,2023,2024, 84.4, 0.66
+188,1B,2B,Stolen Base 2B,592885,Christian Yelich,682171,Penn Murfee,642715,Willy Adames,R,Cal Raleigh,663728,2,5,7,True,2023-04-17,Stolen,2B,2023,2024, 84.4, 0.66
+189,1B,2B,Stolen Base 2B,663538,Nico Hoerner,641627,Trevor Gott,621020,Dansby Swanson,R,Cal Raleigh,663728,9,7,3,False,2023-04-11,Stolen,2B,2023,2024, 84.4, 0.66
+190,1B,,Caught Stealing 2B,663611,Nick Madrigal,642578,José Rodríguez,641820,Trey Mancini,R,Cal Raleigh,663728,14,8,6,False,2023-04-11,Caught,2B,2023,2024, 84.4, 0.66
+191,1B,2B,Stolen Base 2B,608070,José Ramírez,669923,George Kirby,647304,Josh Naylor,R,Cal Raleigh,663728,1,2,6,False,2023-04-09,Stolen,2B,2023,2024, 84.4, 0.66
+192,1B,2B,Stolen Base 2B,680757,Steven Kwan,623437,Justin Topa,642708,Amed Rosario,R,Cal Raleigh,663728,3,3,10,False,2023-04-09,Stolen,2B,2023,2024, 84.4, 0.66
+193,1B,2B,Stolen Base 2B,665926,Andrés Giménez,669302,Logan Gilbert,664702,Myles Straw,R,Cal Raleigh,663728,3,0,4,False,2023-04-07,Stolen,2B,2023,2024, 84.4, 0.66
+194,1B,,Caught Stealing 2B,605137,Josh Bell,594835,Marco Gonzales,660757,Oscar Gonzalez,L,Cal Raleigh,663728,1,3,3,True,2023-04-02,Caught,2B,2023,2024, 84.4, 0.66
+195,1B,2B,Stolen Base 2B,664702,Myles Straw,623149,Paul Sewald,680757,Steven Kwan,R,Cal Raleigh,663728,5,5,9,True,2023-04-02,Stolen,2B,2023,2024, 84.4, 0.66
+196,2B,3B,Stolen Base 3B,665750,Leody Taveras,592662,Robbie Ray,609274,Elier Hernandez,L,Cal Raleigh,663728,0,0,2,False,2022-07-15,Stolen,3B,2022,2023, 84.8, 0.68
+197,1B,,Caught Stealing 2B,665750,Leody Taveras,594835,Marco Gonzales,594777,Kole Calhoun,L,Cal Raleigh,663728,3,0,1,False,2022-07-14,Caught,2B,2022,2023, 84.8, 0.68
+198,2B,3B,Stolen Base 3B,621450,Skye Bolt,592662,Robbie Ray,542194,Christian Bethancourt,L,Cal Raleigh,663728,1,0,3,True,2022-07-03,Stolen,3B,2022,2023, 84.8, 0.68
+199,1B,2B,Stolen Base 2B,657656,Ramón Laureano,592662,Robbie Ray,542194,Christian Bethancourt,L,Cal Raleigh,663728,1,0,6,True,2022-07-03,Stolen,2B,2022,2023, 84.8, 0.68
+200,2B,3B,Stolen Base 3B,663624,Ryan Mountcastle,592662,Robbie Ray,663527,Tyler Nevin,L,Cal Raleigh,663728,0,0,4,True,2022-06-28,Stolen,3B,2022,2023, 84.8, 0.68
+201,1B,2B,Stolen Base 2B,668939,Adley Rutschman,592662,Robbie Ray,663527,Tyler Nevin,L,Cal Raleigh,663728,0,0,4,True,2022-06-28,Stolen,2B,2022,2023, 84.8, 0.68
+202,1B,2B,Stolen Base 2B,621006,Richie Martin,650895,Diego Castillo,622761,Jorge Mateo,R,Cal Raleigh,663728,0,0,8,True,2022-06-28,Stolen,2B,2022,2023, 84.8, 0.68
+203,1B,,Caught Stealing 2B,669397,Nick Allen,669923,George Kirby,681146,Jonah Bride,R,Cal Raleigh,663728,0,3,3,False,2022-06-22,Caught,2B,2022,2023, 84.8, 0.68
+204,1B,2B,Stolen Base 2B,669016,Brandon Marsh,621366,Ryan Borucki,623205,Andrew Velazquez,L,Cal Raleigh,663728,0,3,7,True,2022-06-19,Stolen,2B,2022,2023, 84.8, 0.68
+205,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,489265,Sergio Romo,621493,Taylor Ward,R,Cal Raleigh,663728,0,3,7,True,2022-06-18,Stolen,2B,2022,2023, 84.8, 0.68
+206,1B,2B,Stolen Base 2B,642180,Tyler Wade,670036,Matt Festa,650859,Luis Rengifo,R,Cal Raleigh,663728,1,4,9,True,2022-06-16,Stolen,2B,2022,2023, 84.8, 0.68
+207,1B,2B,Stolen Base 2B,593428,Xander Bogaerts,669923,George Kirby,657077,Alex Verdugo,R,Cal Raleigh,663728,0,2,1,True,2022-06-11,Stolen,2B,2022,2023, 84.8, 0.68
+208,1B,2B,Stolen Base 2B,543877,Christian Vázquez,669923,George Kirby,614173,Franchy Cordero,R,Cal Raleigh,663728,0,3,1,True,2022-06-11,Stolen,2B,2022,2023, 84.8, 0.68
+209,1B,2B,Stolen Base 2B,614173,Franchy Cordero,594835,Marco Gonzales,543877,Christian Vázquez,L,Cal Raleigh,663728,0,2,3,True,2022-06-10,Stolen,2B,2022,2023, 84.8, 0.68
+210,1B,2B,Stolen Base 2B,665161,Jeremy Peña,670036,Matt Festa,514888,Jose Altuve,R,Cal Raleigh,663728,2,1,7,False,2022-06-07,Stolen,2B,2022,2023, 84.8, 0.68
+211,1B,2B,Stolen Base 2B,493329,Yuli Gurriel,592662,Robbie Ray,663656,Kyle Tucker,L,Cal Raleigh,663728,4,4,3,False,2022-06-06,Stolen,2B,2022,2023, 84.8, 0.68
+212,1B,2B,Stolen Base 2B,663656,Kyle Tucker,489265,Sergio Romo,665161,Jeremy Peña,R,Cal Raleigh,663728,4,5,8,False,2022-06-06,Stolen,2B,2022,2023, 84.8, 0.68
+213,1B,2B,Stolen Base 2B,642201,Eli White,650895,Diego Castillo,677649,Ezequiel Duran,R,Cal Raleigh,663728,5,5,9,False,2022-06-05,Stolen,2B,2022,2023, 84.8, 0.68
+214,2B,3B,Stolen Base 3B,543760,Marcus Semien,594835,Marco Gonzales,641598,Mitch Garver,L,Cal Raleigh,663728,0,0,4,False,2022-06-04,Stolen,3B,2022,2023, 84.8, 0.68
+215,1B,2B,Stolen Base 2B,543760,Marcus Semien,669302,Logan Gilbert,608369,Corey Seager,R,Cal Raleigh,663728,1,2,6,False,2022-06-03,Stolen,2B,2022,2023, 84.8, 0.68
+216,1B,2B,Stolen Base 2B,642350,Jose Siri,623167,Chris Flexen,455117,Martín Maldonado,R,Cal Raleigh,663728,4,1,2,True,2022-05-27,Stolen,2B,2022,2023, 84.8, 0.68
+217,1B,2B,Stolen Base 2B,643393,Tony Kemp,669923,George Kirby,476704,Jed Lowrie,R,Cal Raleigh,663728,0,0,1,True,2022-05-24,Stolen,2B,2022,2023, 84.8, 0.68
+218,1B,2B,Stolen Base 2B,642456,Luis Barrera,608716,Drew Steckenrider,665506,Cristian Pache,R,Cal Raleigh,663728,5,5,6,True,2022-05-24,Stolen,2B,2022,2023, 84.8, 0.68
+219,1B,2B,Stolen Base 2B,646240,Rafael Devers,592662,Robbie Ray,502110,J.D. Martinez,L,Cal Raleigh,663728,4,2,5,False,2022-05-20,Stolen,2B,2022,2023, 84.8, 0.68
+220,1B,2B,Stolen Base 2B,666182,Bo Bichette,669302,Logan Gilbert,665489,Vladimir Guerrero Jr.,R,Cal Raleigh,663728,3,0,5,False,2022-05-17,Stolen,2B,2022,2023, 84.8, 0.68
+221,1B,,Caught Stealing 2B,606132,Raimel Tapia,669302,Logan Gilbert,543807,George Springer,R,Cal Raleigh,663728,3,0,7,False,2022-05-17,Caught,2B,2022,2023, 84.8, 0.68
+222,1B,,Caught Stealing 2B,592192,Mark Canha,592662,Robbie Ray,643446,Jeff McNeil,L,Cal Raleigh,663728,1,0,2,False,2022-05-15,Caught,2B,2022,2023, 84.8, 0.68
+223,1B,2B,Stolen Base 2B,516416,Jean Segura,669302,Logan Gilbert,656555,Rhys Hoskins,R,Cal Raleigh,663728,0,0,2,True,2022-05-11,Stolen,2B,2022,2023, 84.8, 0.68
+224,1B,2B,Stolen Base 2B,547180,Bryce Harper,669302,Logan Gilbert,516416,Jean Segura,R,Cal Raleigh,663728,1,0,4,True,2022-05-11,Stolen,2B,2022,2023, 84.8, 0.68
+225,1B,,Caught Stealing 2B,664761,Alec Bohm,669302,Logan Gilbert,547180,Bryce Harper,R,Cal Raleigh,663728,1,4,5,True,2022-05-11,Caught,2B,2022,2023, 84.8, 0.68
+226,2B,3B,Stolen Base 3B,547180,Bryce Harper,662253,Andrés Muñoz,592206,Nick Castellanos,R,Cal Raleigh,663728,3,2,6,True,2022-05-10,Stolen,3B,2022,2023, 84.8, 0.68
+227,1B,2B,Stolen Base 2B,547180,Bryce Harper,650895,Diego Castillo,592206,Nick Castellanos,R,Cal Raleigh,663728,0,7,7,True,2022-05-09,Stolen,2B,2022,2023, 84.8, 0.68
+228,2B,3B,Stolen Base 3B,595281,Kevin Kiermaier,594835,Marco Gonzales,677551,Wander Franco,L,Cal Raleigh,663728,0,2,5,True,2022-05-07,Stolen,3B,2022,2023, 84.8, 0.68
+229,1B,2B,Stolen Base 2B,668227,Randy Arozarena,594835,Marco Gonzales,623912,Harold Ramírez,L,Cal Raleigh,663728,1,0,1,False,2022-04-27,Stolen,2B,2022,2023, 84.8, 0.68
+230,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,670036,Matt Festa,677951,Bobby Witt Jr.,R,Cal Raleigh,663728,3,2,7,True,2022-04-24,Stolen,2B,2022,2023, 84.8, 0.68
+231,2B,3B,Stolen Base 3B,609275,Adalberto Mondesi,670990,Yohan Ramírez,656811,Ryan O'Hearn,R,Cal Raleigh,663728,4,4,12,True,2022-04-24,Stolen,3B,2022,2023, 84.8, 0.68
+232,1B,,Caught Stealing 2B,594777,Kole Calhoun,669302,Logan Gilbert,641680,Jonah Heim,R,Cal Raleigh,663728,1,0,5,True,2022-04-20,Caught,2B,2022,2023, 84.8, 0.68
+233,3B,score,Stolen Base Home,642707,Allen Córdoba,682528,Danny Chang,606157,Aristides Aquino,L,Cal Raleigh,663728,8,9,8,False,2022-04-05,Stolen,Home,2022,2023, 84.8, 0.68
+234,1B,2B,Stolen Base 2B,699114,Leo Balcazar,682528,Danny Chang,606157,Aristides Aquino,L,Cal Raleigh,663728,8,9,8,False,2022-04-05,Stolen,2B,2022,2023, 84.8, 0.68
+235,2B,3B,Stolen Base 3B,699114,Leo Balcazar,682726,Jose Aquino,702472,Austin Callahan,L,Cal Raleigh,663728,10,9,8,False,2022-04-05,Stolen,3B,2022,2023, 84.8, 0.68
+236,1B,2B,Stolen Base 2B,682830,Ilvin Fernandez,682726,Jose Aquino,702472,Austin Callahan,L,Cal Raleigh,663728,10,9,8,False,2022-04-05,Stolen,2B,2022,2023, 84.8, 0.68
+237,1B,,Caught Stealing 2B,699115,Carlos Jorge,683565,David Morillo,676549,Jamal O'Guinn,R,Cal Raleigh,663728,12,9,8,False,2022-04-05,Caught,2B,2022,2023, 84.8, 0.68
+238,1B,2B,Stolen Base 2B,593160,Whit Merrifield,669302,Logan Gilbert,677951,Bobby Witt Jr.,R,Cal Raleigh,663728,0,1,1,False,2022-04-03,Stolen,2B,2022,2023, 84.8, 0.68
+239,1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,669302,Logan Gilbert,643217,Andrew Benintendi,R,Cal Raleigh,663728,2,1,3,False,2022-04-03,Stolen,2B,2022,2023, 84.8, 0.68
+240,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,670090,Wyatt Mills,572191,Michael A. Taylor,R,Cal Raleigh,663728,3,1,3,False,2022-04-03,Stolen,2B,2022,2023, 84.8, 0.68

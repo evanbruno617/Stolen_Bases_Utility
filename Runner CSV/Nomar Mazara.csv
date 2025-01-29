@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+532,1B,,Caught Stealing 2B,608577,Nomar Mazara,Jett Bandy,0,4,2,True,2016-07-18,Caught,2B,2016
+1477,1B,,Caught Stealing 2B,608577,Nomar Mazara,Carlos Pérez,4,1,8,False,2016-05-24,Caught,2B,2016
+1985,1B,,Caught Stealing 2B,608577,Nomar Mazara,Brian McCann,1,0,4,True,2017-06-13,Caught,2B,2017
+2845,1B,2B,Stolen Base 2B,608577,Nomar Mazara,Martín Maldonado,2,4,8,False,2017-04-30,Stolen,2B,2017
+3114,1B,2B,Stolen Base 2B,608577,Nomar Mazara,Josh Phegley,0,5,5,True,2017-04-17,Stolen,2B,2017
+2337,1B,2B,Stolen Base 2B,608577,Nomar Mazara,Salvador Perez,2,2,3,False,2018-05-25,Stolen,2B,2018
+1246,1B,2B,Stolen Base 2B,608577,Nomar Mazara,Robinson Chirinos,2,3,1,False,2019-07-14,Stolen,2B,2019
+1730,1B,2B,Stolen Base 2B,608577,Nomar Mazara,Christian Vázquez,3,3,8,True,2019-06-12,Stolen,2B,2019
+1795,1B,,Caught Stealing 2B,608577,Nomar Mazara,Josh Phegley,2,1,6,False,2019-06-08,Caught,2B,2019
+1899,1B,2B,Stolen Base 2B,608577,Nomar Mazara,Cam Gallagher,3,1,8,False,2019-06-02,Stolen,2B,2019
+2103,2B,3B,Stolen Base 3B,608577,Nomar Mazara,Omar Narváez,1,0,4,False,2019-05-21,Stolen,3B,2019
+206,1B,,Caught Stealing 2B,608577,Nomar Mazara,Tucker Barnhart,1,0,3,True,2020-09-18,Caught,2B,2020

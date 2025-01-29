@@ -1,0 +1,202 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,,Caught Stealing 2B,544369,Didi Gregorius,450203,Charlie Morton,516416,Jean Segura,R,Michael Pérez,605421,1,3,4,True,2020-09-25,Caught,2B,2020,2021, 82.4, 0.79
+1,1B,,Caught Stealing 2B,669720,Austin Hays,450203,Charlie Morton,656775,Cedric Mullins,R,Michael Pérez,605421,1,1,4,False,2020-09-19,Caught,2B,2020,2021, 82.4, 0.79
+2,1B,2B,Stolen Base 2B,657077,Alex Verdugo,607192,Tyler Glasnow,593428,Xander Bogaerts,R,Michael Pérez,605421,0,0,1,True,2020-09-12,Stolen,2B,2020,2021, 82.4, 0.79
+3,1B,2B,Stolen Base 2B,593428,Xander Bogaerts,607192,Tyler Glasnow,608700,Kevin Plawecki,R,Michael Pérez,605421,1,2,4,True,2020-09-12,Stolen,2B,2020,2021, 82.4, 0.79
+4,2B,3B,Stolen Base 3B,593428,Xander Bogaerts,607192,Tyler Glasnow,608700,Kevin Plawecki,R,Michael Pérez,605421,1,2,4,True,2020-09-12,Stolen,3B,2020,2021, 82.4, 0.79
+5,1B,2B,Stolen Base 2B,598265,Jackie Bradley Jr.,607192,Tyler Glasnow,622168,Yairo Muñoz,R,Michael Pérez,605421,1,2,4,True,2020-09-12,Stolen,2B,2020,2021, 82.4, 0.79
+6,1B,2B,Stolen Base 2B,656308,Michael Chavis,607192,Tyler Glasnow,657077,Alex Verdugo,R,Michael Pérez,605421,4,2,5,True,2020-09-12,Stolen,2B,2020,2021, 82.4, 0.79
+7,1B,2B,Stolen Base 2B,598265,Jackie Bradley Jr.,607192,Tyler Glasnow,656308,Michael Chavis,R,Michael Pérez,605421,4,2,7,True,2020-09-12,Stolen,2B,2020,2021, 82.4, 0.79
+8,1B,,Caught Stealing 2B,543877,Christian Vázquez,605483,Blake Snell,598265,Jackie Bradley Jr.,L,Michael Pérez,605421,2,0,4,True,2020-09-11,Caught,2B,2020,2021, 82.4, 0.79
+9,2B,3B,Stolen Base 3B,645302,Victor Robles,642232,Ryan Yarbrough,665742,Juan Soto,L,Michael Pérez,605421,1,0,1,False,2020-09-08,Stolen,3B,2020,2021, 82.4, 0.79
+10,1B,2B,Stolen Base 2B,607208,Trea Turner,642232,Ryan Yarbrough,665742,Juan Soto,L,Michael Pérez,605421,1,0,1,False,2020-09-08,Stolen,2B,2020,2021, 82.4, 0.79
+11,1B,2B,Stolen Base 2B,640449,Clint Frazier,664126,Pete Fairbanks,570482,Gio Urshela,R,Michael Pérez,605421,3,5,8,False,2020-08-31,Stolen,2B,2020,2021, 82.4, 0.79
+12,1B,,Caught Stealing 2B,542340,Jonathan Villar,676596,Josh Fleming,605119,Brian Anderson,L,Michael Pérez,605421,0,0,1,False,2020-08-29,Caught,2B,2020,2021, 82.4, 0.79
+13,2B,,Caught Stealing 3B,542932,Jon Berti,642232,Ryan Yarbrough,605119,Brian Anderson,L,Michael Pérez,605421,0,0,1,False,2020-08-28,Caught,3B,2020,2021, 82.4, 0.79
+14,2B,3B,Stolen Base 3B,656775,Cedric Mullins,657044,Ryan Thompson,600524,Renato Núñez,R,Michael Pérez,605421,2,2,5,True,2020-08-26,Stolen,3B,2020,2021, 82.4, 0.79
+15,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,664126,Pete Fairbanks,643376,Danny Jansen,R,Michael Pérez,605421,3,2,6,True,2020-08-23,Stolen,2B,2020,2021, 82.4, 0.79
+16,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,664126,Pete Fairbanks,643376,Danny Jansen,R,Michael Pérez,605421,3,2,6,True,2020-08-23,Stolen,3B,2020,2021, 82.4, 0.79
+17,1B,2B,Stolen Base 2B,656308,Michael Chavis,605483,Blake Snell,657077,Alex Verdugo,L,Michael Pérez,605421,0,4,2,False,2020-08-12,Stolen,2B,2020,2021, 82.4, 0.79
+18,2B,3B,Stolen Base 3B,643565,Mike Tauchman,543118,Oliver Drake,570482,Gio Urshela,R,Michael Pérez,605421,4,8,7,True,2020-08-08,Stolen,3B,2020,2021, 82.4, 0.79
+19,1B,,Caught Stealing 2B,645277,Ozzie Albies,630023,Yonny Chirinos,518692,Freddie Freeman,R,Michael Pérez,605421,0,0,1,True,2020-07-28,Caught,2B,2020,2021, 82.4, 0.79
+20,1B,,Caught Stealing 2B,544369,Didi Gregorius,450203,Charlie Morton,516416,Jean Segura,R,Michael Pérez,605421,1,3,4,True,2020-09-25,Caught,2B,2020,2021, 82.4, 0.79
+21,1B,,Caught Stealing 2B,669720,Austin Hays,450203,Charlie Morton,656775,Cedric Mullins,R,Michael Pérez,605421,1,1,4,False,2020-09-19,Caught,2B,2020,2021, 82.4, 0.79
+22,1B,2B,Stolen Base 2B,657077,Alex Verdugo,607192,Tyler Glasnow,593428,Xander Bogaerts,R,Michael Pérez,605421,0,0,1,True,2020-09-12,Stolen,2B,2020,2021, 82.4, 0.79
+23,1B,2B,Stolen Base 2B,593428,Xander Bogaerts,607192,Tyler Glasnow,608700,Kevin Plawecki,R,Michael Pérez,605421,1,2,4,True,2020-09-12,Stolen,2B,2020,2021, 82.4, 0.79
+24,2B,3B,Stolen Base 3B,593428,Xander Bogaerts,607192,Tyler Glasnow,608700,Kevin Plawecki,R,Michael Pérez,605421,1,2,4,True,2020-09-12,Stolen,3B,2020,2021, 82.4, 0.79
+25,1B,2B,Stolen Base 2B,598265,Jackie Bradley Jr.,607192,Tyler Glasnow,622168,Yairo Muñoz,R,Michael Pérez,605421,1,2,4,True,2020-09-12,Stolen,2B,2020,2021, 82.4, 0.79
+26,1B,2B,Stolen Base 2B,656308,Michael Chavis,607192,Tyler Glasnow,657077,Alex Verdugo,R,Michael Pérez,605421,4,2,5,True,2020-09-12,Stolen,2B,2020,2021, 82.4, 0.79
+27,1B,2B,Stolen Base 2B,598265,Jackie Bradley Jr.,607192,Tyler Glasnow,656308,Michael Chavis,R,Michael Pérez,605421,4,2,7,True,2020-09-12,Stolen,2B,2020,2021, 82.4, 0.79
+28,1B,,Caught Stealing 2B,543877,Christian Vázquez,605483,Blake Snell,598265,Jackie Bradley Jr.,L,Michael Pérez,605421,2,0,4,True,2020-09-11,Caught,2B,2020,2021, 82.4, 0.79
+29,2B,3B,Stolen Base 3B,645302,Victor Robles,642232,Ryan Yarbrough,665742,Juan Soto,L,Michael Pérez,605421,1,0,1,False,2020-09-08,Stolen,3B,2020,2021, 82.4, 0.79
+30,1B,2B,Stolen Base 2B,607208,Trea Turner,642232,Ryan Yarbrough,665742,Juan Soto,L,Michael Pérez,605421,1,0,1,False,2020-09-08,Stolen,2B,2020,2021, 82.4, 0.79
+31,1B,2B,Stolen Base 2B,640449,Clint Frazier,664126,Pete Fairbanks,570482,Gio Urshela,R,Michael Pérez,605421,3,5,8,False,2020-08-31,Stolen,2B,2020,2021, 82.4, 0.79
+32,1B,,Caught Stealing 2B,542340,Jonathan Villar,676596,Josh Fleming,605119,Brian Anderson,L,Michael Pérez,605421,0,0,1,False,2020-08-29,Caught,2B,2020,2021, 82.4, 0.79
+33,2B,,Caught Stealing 3B,542932,Jon Berti,642232,Ryan Yarbrough,605119,Brian Anderson,L,Michael Pérez,605421,0,0,1,False,2020-08-28,Caught,3B,2020,2021, 82.4, 0.79
+34,2B,3B,Stolen Base 3B,656775,Cedric Mullins,657044,Ryan Thompson,600524,Renato Núñez,R,Michael Pérez,605421,2,2,5,True,2020-08-26,Stolen,3B,2020,2021, 82.4, 0.79
+35,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,664126,Pete Fairbanks,643376,Danny Jansen,R,Michael Pérez,605421,3,2,6,True,2020-08-23,Stolen,2B,2020,2021, 82.4, 0.79
+36,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,664126,Pete Fairbanks,643376,Danny Jansen,R,Michael Pérez,605421,3,2,6,True,2020-08-23,Stolen,3B,2020,2021, 82.4, 0.79
+37,1B,2B,Stolen Base 2B,656308,Michael Chavis,605483,Blake Snell,657077,Alex Verdugo,L,Michael Pérez,605421,0,4,2,False,2020-08-12,Stolen,2B,2020,2021, 82.4, 0.79
+38,2B,3B,Stolen Base 3B,643565,Mike Tauchman,543118,Oliver Drake,570482,Gio Urshela,R,Michael Pérez,605421,4,8,7,True,2020-08-08,Stolen,3B,2020,2021, 82.4, 0.79
+39,1B,,Caught Stealing 2B,645277,Ozzie Albies,630023,Yonny Chirinos,518692,Freddie Freeman,R,Michael Pérez,605421,0,0,1,True,2020-07-28,Caught,2B,2020,2021, 82.4, 0.79
+40,1B,,Caught Stealing 2B,544369,Didi Gregorius,450203,Charlie Morton,516416,Jean Segura,R,Michael Pérez,605421,1,3,4,True,2020-09-25,Caught,2B,2020,2021, 82.4, 0.79
+41,1B,,Caught Stealing 2B,669720,Austin Hays,450203,Charlie Morton,656775,Cedric Mullins,R,Michael Pérez,605421,1,1,4,False,2020-09-19,Caught,2B,2020,2021, 82.4, 0.79
+42,1B,2B,Stolen Base 2B,657077,Alex Verdugo,607192,Tyler Glasnow,593428,Xander Bogaerts,R,Michael Pérez,605421,0,0,1,True,2020-09-12,Stolen,2B,2020,2021, 82.4, 0.79
+43,1B,2B,Stolen Base 2B,593428,Xander Bogaerts,607192,Tyler Glasnow,608700,Kevin Plawecki,R,Michael Pérez,605421,1,2,4,True,2020-09-12,Stolen,2B,2020,2021, 82.4, 0.79
+44,2B,3B,Stolen Base 3B,593428,Xander Bogaerts,607192,Tyler Glasnow,608700,Kevin Plawecki,R,Michael Pérez,605421,1,2,4,True,2020-09-12,Stolen,3B,2020,2021, 82.4, 0.79
+45,1B,2B,Stolen Base 2B,598265,Jackie Bradley Jr.,607192,Tyler Glasnow,622168,Yairo Muñoz,R,Michael Pérez,605421,1,2,4,True,2020-09-12,Stolen,2B,2020,2021, 82.4, 0.79
+46,1B,2B,Stolen Base 2B,656308,Michael Chavis,607192,Tyler Glasnow,657077,Alex Verdugo,R,Michael Pérez,605421,4,2,5,True,2020-09-12,Stolen,2B,2020,2021, 82.4, 0.79
+47,1B,2B,Stolen Base 2B,598265,Jackie Bradley Jr.,607192,Tyler Glasnow,656308,Michael Chavis,R,Michael Pérez,605421,4,2,7,True,2020-09-12,Stolen,2B,2020,2021, 82.4, 0.79
+48,1B,,Caught Stealing 2B,543877,Christian Vázquez,605483,Blake Snell,598265,Jackie Bradley Jr.,L,Michael Pérez,605421,2,0,4,True,2020-09-11,Caught,2B,2020,2021, 82.4, 0.79
+49,2B,3B,Stolen Base 3B,645302,Victor Robles,642232,Ryan Yarbrough,665742,Juan Soto,L,Michael Pérez,605421,1,0,1,False,2020-09-08,Stolen,3B,2020,2021, 82.4, 0.79
+50,1B,2B,Stolen Base 2B,607208,Trea Turner,642232,Ryan Yarbrough,665742,Juan Soto,L,Michael Pérez,605421,1,0,1,False,2020-09-08,Stolen,2B,2020,2021, 82.4, 0.79
+51,1B,2B,Stolen Base 2B,640449,Clint Frazier,664126,Pete Fairbanks,570482,Gio Urshela,R,Michael Pérez,605421,3,5,8,False,2020-08-31,Stolen,2B,2020,2021, 82.4, 0.79
+52,1B,,Caught Stealing 2B,542340,Jonathan Villar,676596,Josh Fleming,605119,Brian Anderson,L,Michael Pérez,605421,0,0,1,False,2020-08-29,Caught,2B,2020,2021, 82.4, 0.79
+53,2B,,Caught Stealing 3B,542932,Jon Berti,642232,Ryan Yarbrough,605119,Brian Anderson,L,Michael Pérez,605421,0,0,1,False,2020-08-28,Caught,3B,2020,2021, 82.4, 0.79
+54,2B,3B,Stolen Base 3B,656775,Cedric Mullins,657044,Ryan Thompson,600524,Renato Núñez,R,Michael Pérez,605421,2,2,5,True,2020-08-26,Stolen,3B,2020,2021, 82.4, 0.79
+55,1B,2B,Stolen Base 2B,606192,Teoscar Hernández,664126,Pete Fairbanks,643376,Danny Jansen,R,Michael Pérez,605421,3,2,6,True,2020-08-23,Stolen,2B,2020,2021, 82.4, 0.79
+56,2B,3B,Stolen Base 3B,606192,Teoscar Hernández,664126,Pete Fairbanks,643376,Danny Jansen,R,Michael Pérez,605421,3,2,6,True,2020-08-23,Stolen,3B,2020,2021, 82.4, 0.79
+57,1B,2B,Stolen Base 2B,656308,Michael Chavis,605483,Blake Snell,657077,Alex Verdugo,L,Michael Pérez,605421,0,4,2,False,2020-08-12,Stolen,2B,2020,2021, 82.4, 0.79
+58,2B,3B,Stolen Base 3B,643565,Mike Tauchman,543118,Oliver Drake,570482,Gio Urshela,R,Michael Pérez,605421,4,8,7,True,2020-08-08,Stolen,3B,2020,2021, 82.4, 0.79
+59,1B,,Caught Stealing 2B,645277,Ozzie Albies,630023,Yonny Chirinos,518692,Freddie Freeman,R,Michael Pérez,605421,0,0,1,True,2020-07-28,Caught,2B,2020,2021, 82.4, 0.79
+60,1B,2B,Stolen Base 2B,546990,Anthony Alford,642232,Ryan Yarbrough,643376,Danny Jansen,L,Michael Pérez,605421,3,0,4,False,2019-09-28,Stolen,2B,2019,2020, 81.3, 0.73
+61,1B,,Caught Stealing 2B,592273,Brandon Drury,664126,Pete Fairbanks,475253,Justin Smoak,R,Michael Pérez,605421,3,0,6,False,2019-09-28,Caught,2B,2019,2020, 81.3, 0.73
+62,2B,3B,Stolen Base 3B,405395,Albert Pujols,642232,Ryan Yarbrough,594777,Kole Calhoun,L,Michael Pérez,605421,1,1,1,False,2019-09-15,Stolen,3B,2019,2020, 81.3, 0.73
+63,1B,2B,Stolen Base 2B,571718,Brian Goodwin,642232,Ryan Yarbrough,641684,Michael Hermosillo,L,Michael Pérez,605421,6,1,5,False,2019-09-15,Stolen,2B,2019,2020, 81.3, 0.73
+64,2B,3B,Stolen Base 3B,462101,Elvis Andrus,664126,Pete Fairbanks,669256,Nick Solak,R,Michael Pérez,605421,5,1,4,False,2019-09-12,Stolen,3B,2019,2020, 81.3, 0.73
+65,1B,2B,Stolen Base 2B,596059,Rougned Odor,642232,Ryan Yarbrough,592261,Delino DeShields,L,Michael Pérez,605421,3,1,7,False,2019-09-10,Stolen,2B,2019,2020, 81.3, 0.73
+66,1B,2B,Stolen Base 2B,542454,Danny Santana,621363,Colin Poche,596059,Rougned Odor,L,Michael Pérez,605421,3,3,9,False,2019-09-10,Stolen,2B,2019,2020, 81.3, 0.73
+67,2B,3B,Stolen Base 3B,542454,Danny Santana,621363,Colin Poche,643396,Isiah Kiner-Falefa,L,Michael Pérez,605421,3,3,9,False,2019-09-10,Stolen,3B,2019,2020, 81.3, 0.73
+68,1B,2B,Stolen Base 2B,596059,Rougned Odor,621363,Colin Poche,643396,Isiah Kiner-Falefa,L,Michael Pérez,605421,3,3,9,False,2019-09-10,Stolen,2B,2019,2020, 81.3, 0.73
+69,1B,2B,Stolen Base 2B,641505,Jonathan Davis,450203,Charlie Morton,605233,Derek Fisher,R,Michael Pérez,605421,2,3,6,True,2019-09-07,Stolen,2B,2019,2020, 81.3, 0.73
+70,2B,3B,Stolen Base 3B,593160,Whit Merrifield,592773,Ryne Stanek,609275,Adalberto Mondesi,R,Michael Pérez,605421,2,0,1,False,2019-05-01,Stolen,3B,2019,2020, 81.3, 0.73
+71,2B,3B,Stolen Base 3B,641531,Hunter Dozier,592773,Ryne Stanek,572008,Chris Owings,R,Michael Pérez,605421,3,0,1,False,2019-05-01,Stolen,3B,2019,2020, 81.3, 0.73
+72,2B,,Caught Stealing 3B,605253,Terrance Gore,656222,Jalen Beeks,593160,Whit Merrifield,L,Michael Pérez,605421,3,2,7,False,2019-05-01,Caught,3B,2019,2020, 81.3, 0.73
+73,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,650895,Diego Castillo,460086,Alex Gordon,R,Michael Pérez,605421,4,6,8,False,2019-04-29,Stolen,2B,2019,2020, 81.3, 0.73
+74,1B,2B,Stolen Base 2B,502110,J.D. Martinez,607192,Tyler Glasnow,593428,Xander Bogaerts,R,Michael Pérez,605421,0,0,1,True,2019-04-21,Stolen,2B,2019,2020, 81.3, 0.73
+75,1B,2B,Stolen Base 2B,646240,Rafael Devers,607192,Tyler Glasnow,656308,Michael Chavis,R,Michael Pérez,605421,0,0,2,True,2019-04-21,Stolen,2B,2019,2020, 81.3, 0.73
+76,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,650895,Diego Castillo,456665,Steve Pearce,R,Michael Pérez,605421,3,3,10,True,2019-04-21,Stolen,2B,2019,2020, 81.3, 0.73
+77,1B,2B,Stolen Base 2B,572073,Joey Rickard,621056,Hunter Wood,621006,Richie Martin,R,Michael Pérez,605421,1,0,2,True,2019-04-18,Stolen,2B,2019,2020, 81.3, 0.73
+78,1B,2B,Stolen Base 2B,596105,Dwight Smith Jr.,607192,Tyler Glasnow,600524,Renato Núñez,R,Michael Pérez,605421,0,2,3,True,2019-04-16,Stolen,2B,2019,2020, 81.3, 0.73
+79,1B,2B,Stolen Base 2B,641313,Tim Anderson,521655,Wilmer Font,456078,Welington Castillo,R,Michael Pérez,605421,2,7,6,False,2019-04-09,Stolen,2B,2019,2020, 81.3, 0.73
+80,1B,2B,Stolen Base 2B,474832,Brandon Belt,607192,Tyler Glasnow,543063,Brandon Crawford,R,Michael Pérez,605421,0,4,6,False,2019-04-05,Stolen,2B,2019,2020, 81.3, 0.73
+81,1B,2B,Stolen Base 2B,546990,Anthony Alford,642232,Ryan Yarbrough,643376,Danny Jansen,L,Michael Pérez,605421,3,0,4,False,2019-09-28,Stolen,2B,2019,2020, 81.3, 0.73
+82,1B,,Caught Stealing 2B,592273,Brandon Drury,664126,Pete Fairbanks,475253,Justin Smoak,R,Michael Pérez,605421,3,0,6,False,2019-09-28,Caught,2B,2019,2020, 81.3, 0.73
+83,2B,3B,Stolen Base 3B,405395,Albert Pujols,642232,Ryan Yarbrough,594777,Kole Calhoun,L,Michael Pérez,605421,1,1,1,False,2019-09-15,Stolen,3B,2019,2020, 81.3, 0.73
+84,1B,2B,Stolen Base 2B,571718,Brian Goodwin,642232,Ryan Yarbrough,641684,Michael Hermosillo,L,Michael Pérez,605421,6,1,5,False,2019-09-15,Stolen,2B,2019,2020, 81.3, 0.73
+85,2B,3B,Stolen Base 3B,462101,Elvis Andrus,664126,Pete Fairbanks,669256,Nick Solak,R,Michael Pérez,605421,5,1,4,False,2019-09-12,Stolen,3B,2019,2020, 81.3, 0.73
+86,1B,2B,Stolen Base 2B,596059,Rougned Odor,642232,Ryan Yarbrough,592261,Delino DeShields,L,Michael Pérez,605421,3,1,7,False,2019-09-10,Stolen,2B,2019,2020, 81.3, 0.73
+87,1B,2B,Stolen Base 2B,542454,Danny Santana,621363,Colin Poche,596059,Rougned Odor,L,Michael Pérez,605421,3,3,9,False,2019-09-10,Stolen,2B,2019,2020, 81.3, 0.73
+88,2B,3B,Stolen Base 3B,542454,Danny Santana,621363,Colin Poche,643396,Isiah Kiner-Falefa,L,Michael Pérez,605421,3,3,9,False,2019-09-10,Stolen,3B,2019,2020, 81.3, 0.73
+89,1B,2B,Stolen Base 2B,596059,Rougned Odor,621363,Colin Poche,643396,Isiah Kiner-Falefa,L,Michael Pérez,605421,3,3,9,False,2019-09-10,Stolen,2B,2019,2020, 81.3, 0.73
+90,1B,2B,Stolen Base 2B,641505,Jonathan Davis,450203,Charlie Morton,605233,Derek Fisher,R,Michael Pérez,605421,2,3,6,True,2019-09-07,Stolen,2B,2019,2020, 81.3, 0.73
+91,2B,3B,Stolen Base 3B,593160,Whit Merrifield,592773,Ryne Stanek,609275,Adalberto Mondesi,R,Michael Pérez,605421,2,0,1,False,2019-05-01,Stolen,3B,2019,2020, 81.3, 0.73
+92,2B,3B,Stolen Base 3B,641531,Hunter Dozier,592773,Ryne Stanek,572008,Chris Owings,R,Michael Pérez,605421,3,0,1,False,2019-05-01,Stolen,3B,2019,2020, 81.3, 0.73
+93,2B,,Caught Stealing 3B,605253,Terrance Gore,656222,Jalen Beeks,593160,Whit Merrifield,L,Michael Pérez,605421,3,2,7,False,2019-05-01,Caught,3B,2019,2020, 81.3, 0.73
+94,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,650895,Diego Castillo,460086,Alex Gordon,R,Michael Pérez,605421,4,6,8,False,2019-04-29,Stolen,2B,2019,2020, 81.3, 0.73
+95,1B,2B,Stolen Base 2B,502110,J.D. Martinez,607192,Tyler Glasnow,593428,Xander Bogaerts,R,Michael Pérez,605421,0,0,1,True,2019-04-21,Stolen,2B,2019,2020, 81.3, 0.73
+96,1B,2B,Stolen Base 2B,646240,Rafael Devers,607192,Tyler Glasnow,656308,Michael Chavis,R,Michael Pérez,605421,0,0,2,True,2019-04-21,Stolen,2B,2019,2020, 81.3, 0.73
+97,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,650895,Diego Castillo,456665,Steve Pearce,R,Michael Pérez,605421,3,3,10,True,2019-04-21,Stolen,2B,2019,2020, 81.3, 0.73
+98,1B,2B,Stolen Base 2B,572073,Joey Rickard,621056,Hunter Wood,621006,Richie Martin,R,Michael Pérez,605421,1,0,2,True,2019-04-18,Stolen,2B,2019,2020, 81.3, 0.73
+99,1B,2B,Stolen Base 2B,596105,Dwight Smith Jr.,607192,Tyler Glasnow,600524,Renato Núñez,R,Michael Pérez,605421,0,2,3,True,2019-04-16,Stolen,2B,2019,2020, 81.3, 0.73
+100,1B,2B,Stolen Base 2B,641313,Tim Anderson,521655,Wilmer Font,456078,Welington Castillo,R,Michael Pérez,605421,2,7,6,False,2019-04-09,Stolen,2B,2019,2020, 81.3, 0.73
+101,1B,2B,Stolen Base 2B,474832,Brandon Belt,607192,Tyler Glasnow,543063,Brandon Crawford,R,Michael Pérez,605421,0,4,6,False,2019-04-05,Stolen,2B,2019,2020, 81.3, 0.73
+102,1B,2B,Stolen Base 2B,546990,Anthony Alford,642232,Ryan Yarbrough,643376,Danny Jansen,L,Michael Pérez,605421,3,0,4,False,2019-09-28,Stolen,2B,2019,2020, 81.3, 0.73
+103,1B,,Caught Stealing 2B,592273,Brandon Drury,664126,Pete Fairbanks,475253,Justin Smoak,R,Michael Pérez,605421,3,0,6,False,2019-09-28,Caught,2B,2019,2020, 81.3, 0.73
+104,2B,3B,Stolen Base 3B,405395,Albert Pujols,642232,Ryan Yarbrough,594777,Kole Calhoun,L,Michael Pérez,605421,1,1,1,False,2019-09-15,Stolen,3B,2019,2020, 81.3, 0.73
+105,1B,2B,Stolen Base 2B,571718,Brian Goodwin,642232,Ryan Yarbrough,641684,Michael Hermosillo,L,Michael Pérez,605421,6,1,5,False,2019-09-15,Stolen,2B,2019,2020, 81.3, 0.73
+106,2B,3B,Stolen Base 3B,462101,Elvis Andrus,664126,Pete Fairbanks,669256,Nick Solak,R,Michael Pérez,605421,5,1,4,False,2019-09-12,Stolen,3B,2019,2020, 81.3, 0.73
+107,1B,2B,Stolen Base 2B,596059,Rougned Odor,642232,Ryan Yarbrough,592261,Delino DeShields,L,Michael Pérez,605421,3,1,7,False,2019-09-10,Stolen,2B,2019,2020, 81.3, 0.73
+108,1B,2B,Stolen Base 2B,542454,Danny Santana,621363,Colin Poche,596059,Rougned Odor,L,Michael Pérez,605421,3,3,9,False,2019-09-10,Stolen,2B,2019,2020, 81.3, 0.73
+109,2B,3B,Stolen Base 3B,542454,Danny Santana,621363,Colin Poche,643396,Isiah Kiner-Falefa,L,Michael Pérez,605421,3,3,9,False,2019-09-10,Stolen,3B,2019,2020, 81.3, 0.73
+110,1B,2B,Stolen Base 2B,596059,Rougned Odor,621363,Colin Poche,643396,Isiah Kiner-Falefa,L,Michael Pérez,605421,3,3,9,False,2019-09-10,Stolen,2B,2019,2020, 81.3, 0.73
+111,1B,2B,Stolen Base 2B,641505,Jonathan Davis,450203,Charlie Morton,605233,Derek Fisher,R,Michael Pérez,605421,2,3,6,True,2019-09-07,Stolen,2B,2019,2020, 81.3, 0.73
+112,2B,3B,Stolen Base 3B,593160,Whit Merrifield,592773,Ryne Stanek,609275,Adalberto Mondesi,R,Michael Pérez,605421,2,0,1,False,2019-05-01,Stolen,3B,2019,2020, 81.3, 0.73
+113,2B,3B,Stolen Base 3B,641531,Hunter Dozier,592773,Ryne Stanek,572008,Chris Owings,R,Michael Pérez,605421,3,0,1,False,2019-05-01,Stolen,3B,2019,2020, 81.3, 0.73
+114,2B,,Caught Stealing 3B,605253,Terrance Gore,656222,Jalen Beeks,593160,Whit Merrifield,L,Michael Pérez,605421,3,2,7,False,2019-05-01,Caught,3B,2019,2020, 81.3, 0.73
+115,1B,2B,Stolen Base 2B,609275,Adalberto Mondesi,650895,Diego Castillo,460086,Alex Gordon,R,Michael Pérez,605421,4,6,8,False,2019-04-29,Stolen,2B,2019,2020, 81.3, 0.73
+116,1B,2B,Stolen Base 2B,502110,J.D. Martinez,607192,Tyler Glasnow,593428,Xander Bogaerts,R,Michael Pérez,605421,0,0,1,True,2019-04-21,Stolen,2B,2019,2020, 81.3, 0.73
+117,1B,2B,Stolen Base 2B,646240,Rafael Devers,607192,Tyler Glasnow,656308,Michael Chavis,R,Michael Pérez,605421,0,0,2,True,2019-04-21,Stolen,2B,2019,2020, 81.3, 0.73
+118,1B,2B,Stolen Base 2B,643217,Andrew Benintendi,650895,Diego Castillo,456665,Steve Pearce,R,Michael Pérez,605421,3,3,10,True,2019-04-21,Stolen,2B,2019,2020, 81.3, 0.73
+119,1B,2B,Stolen Base 2B,572073,Joey Rickard,621056,Hunter Wood,621006,Richie Martin,R,Michael Pérez,605421,1,0,2,True,2019-04-18,Stolen,2B,2019,2020, 81.3, 0.73
+120,1B,2B,Stolen Base 2B,596105,Dwight Smith Jr.,607192,Tyler Glasnow,600524,Renato Núñez,R,Michael Pérez,605421,0,2,3,True,2019-04-16,Stolen,2B,2019,2020, 81.3, 0.73
+121,1B,2B,Stolen Base 2B,641313,Tim Anderson,521655,Wilmer Font,456078,Welington Castillo,R,Michael Pérez,605421,2,7,6,False,2019-04-09,Stolen,2B,2019,2020, 81.3, 0.73
+122,1B,2B,Stolen Base 2B,474832,Brandon Belt,607192,Tyler Glasnow,543063,Brandon Crawford,R,Michael Pérez,605421,0,4,6,False,2019-04-05,Stolen,2B,2019,2020, 81.3, 0.73
+123,1B,,Caught Stealing 2B,605361,Nick Martini,672710,Roansy Contreras,642727,Sergio Alcántara,R,Michael Pérez,605421,0,0,2,True,2021-09-29,Caught,2B,2021,2022, 83.5, 0.80
+124,1B,2B,Stolen Base 2B,643524,Frank Schwindel,683232,Nick Mears,575929,Willson Contreras,R,Michael Pérez,605421,2,3,7,True,2021-09-29,Stolen,2B,2021,2022, 83.5, 0.80
+125,1B,2B,Stolen Base 2B,664023,Ian Happ,683232,Nick Mears,622110,Matt Duffy,R,Michael Pérez,605421,2,3,7,True,2021-09-29,Stolen,2B,2021,2022, 83.5, 0.80
+126,1B,2B,Stolen Base 2B,592261,Delino DeShields,683232,Nick Mears,663697,Jonathan India,R,Michael Pérez,605421,2,3,7,False,2021-09-21,Stolen,2B,2021,2022, 83.5, 0.80
+127,1B,,Caught Stealing 2B,543257,Robbie Grossman,571946,Shelby Miller,570731,Jonathan Schoop,R,Michael Pérez,605421,1,2,5,True,2021-09-07,Caught,2B,2021,2022, 83.5, 0.80
+128,1B,2B,Stolen Base 2B,642727,Sergio Alcántara,643230,Steven Brault,621219,Alec Mills,L,Michael Pérez,605421,4,0,3,False,2021-09-03,Stolen,2B,2021,2022, 83.5, 0.80
+129,1B,,Caught Stealing 2B,592885,Christian Yelich,656605,Mitch Keller,553882,Omar Narváez,R,Michael Pérez,605421,0,0,1,True,2021-08-14,Caught,2B,2021,2022, 83.5, 0.80
+130,1B,2B,Stolen Base 2B,541645,Avisaíl García,668820,Max Kranick,621438,Tyrone Taylor,R,Michael Pérez,605421,3,0,3,False,2021-08-03,Stolen,2B,2021,2022, 83.5, 0.80
+131,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,664074,Cody Ponce,664761,Alec Bohm,R,Michael Pérez,605421,1,6,7,True,2021-08-01,Stolen,2B,2021,2022, 83.5, 0.80
+132,1B,2B,Stolen Base 2B,606115,Orlando Arcia,641771,Chad Kuhl,666120,Ian Anderson,R,Michael Pérez,605421,0,0,3,True,2021-07-06,Stolen,2B,2021,2022, 83.5, 0.80
+133,1B,2B,Stolen Base 2B,606132,Raimel Tapia,607572,Sam Howard,641658,Garrett Hampson,L,Michael Pérez,605421,5,2,6,False,2021-06-30,Stolen,2B,2021,2022, 83.5, 0.80
+134,1B,,Caught Stealing 2B,669242,Tommy Edman,664141,JT Brubaker,663457,Lars Nootbaar,R,Michael Pérez,605421,3,1,6,False,2021-06-26,Caught,2B,2021,2022, 83.5, 0.80
+135,1B,2B,Stolen Base 2B,657557,Paul DeJong,608717,Chris Stratton,666185,Dylan Carlson,R,Michael Pérez,605421,3,1,7,False,2021-06-26,Stolen,2B,2021,2022, 83.5, 0.80
+136,1B,,Caught Stealing 2B,542932,Jon Berti,641771,Chad Kuhl,656371,Isan Díaz,R,Michael Pérez,605421,1,3,6,True,2021-06-06,Caught,2B,2021,2022, 83.5, 0.80
+137,1B,2B,Stolen Base 2B,593160,Whit Merrifield,670280,David Bednar,467793,Carlos Santana,R,Michael Pérez,605421,10,5,8,False,2021-06-01,Stolen,2B,2021,2022, 83.5, 0.80
+138,1B,2B,Stolen Base 2B,575929,Willson Contreras,542881,Tyler Anderson,595879,Javier Báez,L,Michael Pérez,605421,0,2,3,True,2021-05-27,Stolen,2B,2021,2022, 83.5, 0.80
+139,1B,2B,Stolen Base 2B,518692,Freddie Freeman,656605,Mitch Keller,645277,Ozzie Albies,R,Michael Pérez,605421,1,0,1,False,2021-05-22,Stolen,2B,2021,2022, 83.5, 0.80
+140,1B,2B,Stolen Base 2B,542255,Ender Inciarte,665854,Luis Oviedo,467055,Pablo Sandoval,R,Michael Pérez,605421,6,1,8,False,2021-05-22,Stolen,2B,2021,2022, 83.5, 0.80
+141,1B,2B,Stolen Base 2B,664056,Harrison Bader,502239,Trevor Cahill,642211,Justin Williams,R,Michael Pérez,605421,1,0,2,False,2021-05-19,Stolen,2B,2021,2022, 83.5, 0.80
+142,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,621249,Duane Underwood Jr.,669242,Tommy Edman,R,Michael Pérez,605421,4,0,2,False,2021-05-19,Stolen,2B,2021,2022, 83.5, 0.80
+143,1B,2B,Stolen Base 2B,669242,Tommy Edman,607572,Sam Howard,502671,Paul Goldschmidt,L,Michael Pérez,605421,8,5,7,False,2021-05-19,Stolen,2B,2021,2022, 83.5, 0.80
+144,1B,2B,Stolen Base 2B,643565,Mike Tauchman,656605,Mitch Keller,457763,Buster Posey,R,Michael Pérez,605421,0,0,1,True,2021-05-16,Stolen,2B,2021,2022, 83.5, 0.80
+145,1B,2B,Stolen Base 2B,518792,Jason Heyward,605280,Clay Holmes,622110,Matt Duffy,R,Michael Pérez,605421,3,2,7,False,2021-05-08,Stolen,2B,2021,2022, 83.5, 0.80
+146,1B,2B,Stolen Base 2B,664056,Harrison Bader,607572,Sam Howard,656427,Jack Flaherty,L,Michael Pérez,605421,3,5,6,True,2021-05-01,Stolen,2B,2021,2022, 83.5, 0.80
+147,1B,2B,Stolen Base 2B,502054,Tommy Pham,621249,Duane Underwood Jr.,595777,Jurickson Profar,R,Michael Pérez,605421,2,1,6,True,2021-04-14,Stolen,2B,2021,2022, 83.5, 0.80
+148,1B,2B,Stolen Base 2B,519203,Anthony Rizzo,656605,Mitch Keller,592178,Kris Bryant,R,Michael Pérez,605421,3,0,3,False,2021-04-04,Stolen,2B,2021,2022, 83.5, 0.80
+149,1B,,Caught Stealing 2B,605361,Nick Martini,672710,Roansy Contreras,642727,Sergio Alcántara,R,Michael Pérez,605421,0,0,2,True,2021-09-29,Caught,2B,2021,2022, 83.5, 0.80
+150,1B,2B,Stolen Base 2B,643524,Frank Schwindel,683232,Nick Mears,575929,Willson Contreras,R,Michael Pérez,605421,2,3,7,True,2021-09-29,Stolen,2B,2021,2022, 83.5, 0.80
+151,1B,2B,Stolen Base 2B,664023,Ian Happ,683232,Nick Mears,622110,Matt Duffy,R,Michael Pérez,605421,2,3,7,True,2021-09-29,Stolen,2B,2021,2022, 83.5, 0.80
+152,1B,2B,Stolen Base 2B,592261,Delino DeShields,683232,Nick Mears,663697,Jonathan India,R,Michael Pérez,605421,2,3,7,False,2021-09-21,Stolen,2B,2021,2022, 83.5, 0.80
+153,1B,,Caught Stealing 2B,543257,Robbie Grossman,571946,Shelby Miller,570731,Jonathan Schoop,R,Michael Pérez,605421,1,2,5,True,2021-09-07,Caught,2B,2021,2022, 83.5, 0.80
+154,1B,2B,Stolen Base 2B,642727,Sergio Alcántara,643230,Steven Brault,621219,Alec Mills,L,Michael Pérez,605421,4,0,3,False,2021-09-03,Stolen,2B,2021,2022, 83.5, 0.80
+155,1B,,Caught Stealing 2B,592885,Christian Yelich,656605,Mitch Keller,553882,Omar Narváez,R,Michael Pérez,605421,0,0,1,True,2021-08-14,Caught,2B,2021,2022, 83.5, 0.80
+156,1B,2B,Stolen Base 2B,541645,Avisaíl García,668820,Max Kranick,621438,Tyrone Taylor,R,Michael Pérez,605421,3,0,3,False,2021-08-03,Stolen,2B,2021,2022, 83.5, 0.80
+157,1B,2B,Stolen Base 2B,592663,J.T. Realmuto,664074,Cody Ponce,664761,Alec Bohm,R,Michael Pérez,605421,1,6,7,True,2021-08-01,Stolen,2B,2021,2022, 83.5, 0.80
+158,1B,2B,Stolen Base 2B,606115,Orlando Arcia,641771,Chad Kuhl,666120,Ian Anderson,R,Michael Pérez,605421,0,0,3,True,2021-07-06,Stolen,2B,2021,2022, 83.5, 0.80
+159,1B,2B,Stolen Base 2B,606132,Raimel Tapia,607572,Sam Howard,641658,Garrett Hampson,L,Michael Pérez,605421,5,2,6,False,2021-06-30,Stolen,2B,2021,2022, 83.5, 0.80
+160,1B,,Caught Stealing 2B,669242,Tommy Edman,664141,JT Brubaker,663457,Lars Nootbaar,R,Michael Pérez,605421,3,1,6,False,2021-06-26,Caught,2B,2021,2022, 83.5, 0.80
+161,1B,2B,Stolen Base 2B,657557,Paul DeJong,608717,Chris Stratton,666185,Dylan Carlson,R,Michael Pérez,605421,3,1,7,False,2021-06-26,Stolen,2B,2021,2022, 83.5, 0.80
+162,1B,,Caught Stealing 2B,542932,Jon Berti,641771,Chad Kuhl,656371,Isan Díaz,R,Michael Pérez,605421,1,3,6,True,2021-06-06,Caught,2B,2021,2022, 83.5, 0.80
+163,1B,2B,Stolen Base 2B,593160,Whit Merrifield,670280,David Bednar,467793,Carlos Santana,R,Michael Pérez,605421,10,5,8,False,2021-06-01,Stolen,2B,2021,2022, 83.5, 0.80
+164,1B,2B,Stolen Base 2B,575929,Willson Contreras,542881,Tyler Anderson,595879,Javier Báez,L,Michael Pérez,605421,0,2,3,True,2021-05-27,Stolen,2B,2021,2022, 83.5, 0.80
+165,1B,2B,Stolen Base 2B,518692,Freddie Freeman,656605,Mitch Keller,645277,Ozzie Albies,R,Michael Pérez,605421,1,0,1,False,2021-05-22,Stolen,2B,2021,2022, 83.5, 0.80
+166,1B,2B,Stolen Base 2B,542255,Ender Inciarte,665854,Luis Oviedo,467055,Pablo Sandoval,R,Michael Pérez,605421,6,1,8,False,2021-05-22,Stolen,2B,2021,2022, 83.5, 0.80
+167,1B,2B,Stolen Base 2B,664056,Harrison Bader,502239,Trevor Cahill,642211,Justin Williams,R,Michael Pérez,605421,1,0,2,False,2021-05-19,Stolen,2B,2021,2022, 83.5, 0.80
+168,1B,2B,Stolen Base 2B,624641,Edmundo Sosa,621249,Duane Underwood Jr.,669242,Tommy Edman,R,Michael Pérez,605421,4,0,2,False,2021-05-19,Stolen,2B,2021,2022, 83.5, 0.80
+169,1B,2B,Stolen Base 2B,669242,Tommy Edman,607572,Sam Howard,502671,Paul Goldschmidt,L,Michael Pérez,605421,8,5,7,False,2021-05-19,Stolen,2B,2021,2022, 83.5, 0.80
+170,1B,2B,Stolen Base 2B,643565,Mike Tauchman,656605,Mitch Keller,457763,Buster Posey,R,Michael Pérez,605421,0,0,1,True,2021-05-16,Stolen,2B,2021,2022, 83.5, 0.80
+171,1B,2B,Stolen Base 2B,518792,Jason Heyward,605280,Clay Holmes,622110,Matt Duffy,R,Michael Pérez,605421,3,2,7,False,2021-05-08,Stolen,2B,2021,2022, 83.5, 0.80
+172,1B,2B,Stolen Base 2B,664056,Harrison Bader,607572,Sam Howard,656427,Jack Flaherty,L,Michael Pérez,605421,3,5,6,True,2021-05-01,Stolen,2B,2021,2022, 83.5, 0.80
+173,1B,2B,Stolen Base 2B,502054,Tommy Pham,621249,Duane Underwood Jr.,595777,Jurickson Profar,R,Michael Pérez,605421,2,1,6,True,2021-04-14,Stolen,2B,2021,2022, 83.5, 0.80
+174,1B,2B,Stolen Base 2B,519203,Anthony Rizzo,656605,Mitch Keller,592178,Kris Bryant,R,Michael Pérez,605421,3,0,3,False,2021-04-04,Stolen,2B,2021,2022, 83.5, 0.80
+175,1B,2B,Stolen Base 2B,542932,Jon Berti,605507,Zach Thompson,500743,Miguel Rojas,R,Michael Pérez,605421,0,0,1,False,2022-07-14,Stolen,2B,2022,2023, --, 0.63
+176,1B,,Caught Stealing 2B,663897,Luke Williams,608328,Chase De Jong,571740,Billy Hamilton,R,Michael Pérez,605421,1,0,7,False,2022-07-14,Caught,2B,2022,2023, --, 0.63
+177,1B,2B,Stolen Base 2B,543939,Kolten Wong,664141,JT Brubaker,649966,Luis Urías,R,Michael Pérez,605421,0,0,2,False,2022-07-08,Stolen,2B,2022,2023, --, 0.63
+178,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,664141,JT Brubaker,543939,Kolten Wong,R,Michael Pérez,605421,3,2,5,False,2022-07-08,Stolen,2B,2022,2023, --, 0.63
+179,1B,,Caught Stealing 2B,457705,Andrew McCutchen,660787,Yerry De Los Santos,649966,Luis Urías,R,Michael Pérez,605421,4,2,7,False,2022-07-08,Caught,2B,2022,2023, --, 0.63
+180,1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,656605,Mitch Keller,543309,Kyle Higashioka,R,Michael Pérez,605421,0,0,5,True,2022-07-06,Stolen,2B,2022,2023, --, 0.63
+181,2B,3B,Stolen Base 3B,518934,DJ LeMahieu,595881,Tyler Beede,572761,Matt Carpenter,R,Michael Pérez,605421,0,5,7,True,2022-07-06,Stolen,3B,2022,2023, --, 0.63
+182,1B,2B,Stolen Base 2B,592450,Aaron Judge,595881,Tyler Beede,572761,Matt Carpenter,R,Michael Pérez,605421,0,5,7,True,2022-07-06,Stolen,2B,2022,2023, --, 0.63
+183,1B,2B,Stolen Base 2B,641505,Jonathan Davis,672710,Roansy Contreras,592885,Christian Yelich,R,Michael Pérez,605421,0,4,2,True,2022-07-01,Stolen,2B,2022,2023, --, 0.63
+184,1B,2B,Stolen Base 2B,642715,Willy Adames,672710,Roansy Contreras,642133,Rowdy Tellez,R,Michael Pérez,605421,0,7,2,True,2022-07-01,Stolen,2B,2022,2023, --, 0.63
+185,1B,2B,Stolen Base 2B,660688,Keibert Ruiz,656605,Mitch Keller,628450,Yadiel Hernandez,R,Michael Pérez,605421,2,2,1,False,2022-06-29,Stolen,2B,2022,2023, --, 0.63
+186,1B,2B,Stolen Base 2B,668227,Randy Arozarena,607455,Anthony Banda,596847,Ji Man Choi,L,Michael Pérez,605421,2,1,7,False,2022-06-26,Stolen,2B,2022,2023, --, 0.63
+187,1B,2B,Stolen Base 2B,666139,Josh Lowe,656605,Mitch Keller,670042,Luke Raley,R,Michael Pérez,605421,1,0,2,False,2022-06-24,Stolen,2B,2022,2023, --, 0.63
+188,2B,3B,Stolen Base 3B,660644,Vidal Bruján,660787,Yerry De Los Santos,623912,Harold Ramírez,R,Michael Pérez,605421,4,3,10,False,2022-06-24,Stolen,3B,2022,2023, --, 0.63
+189,1B,,Caught Stealing 2B,664056,Harrison Bader,669060,Bryse Wilson,668800,Andrew Knizner,R,Michael Pérez,605421,7,0,3,False,2022-06-14,Caught,2B,2022,2023, --, 0.63
+190,1B,2B,Stolen Base 2B,671739,Michael Harris II,672710,Roansy Contreras,660670,Ronald Acuña Jr.,R,Michael Pérez,605421,0,0,3,False,2022-06-10,Stolen,2B,2022,2023, --, 0.63
+191,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,672710,Roansy Contreras,621020,Dansby Swanson,R,Michael Pérez,605421,2,0,3,False,2022-06-10,Caught,2B,2022,2023, --, 0.63
+192,1B,2B,Stolen Base 2B,578428,Jose Iglesias,672710,Roansy Contreras,656541,Sam Hilliard,R,Michael Pérez,605421,0,0,4,True,2022-05-24,Stolen,2B,2022,2023, --, 0.63
+193,1B,2B,Stolen Base 2B,542340,Jonathan Villar,607455,Anthony Banda,545121,Ildemaro Vargas,L,Michael Pérez,605421,6,0,6,False,2022-05-17,Stolen,2B,2022,2023, --, 0.63
+194,1B,2B,Stolen Base 2B,670770,TJ Friedl,656605,Mitch Keller,592273,Brandon Drury,R,Michael Pérez,605421,2,5,5,True,2022-05-13,Stolen,2B,2022,2023, --, 0.63
+195,1B,2B,Stolen Base 2B,571980,Tyler Naquin,592390,Heath Hembree,608703,Matt Reynolds,R,Michael Pérez,605421,0,2,7,True,2022-05-12,Stolen,2B,2022,2023, --, 0.63
+196,1B,2B,Stolen Base 2B,670770,TJ Friedl,592390,Heath Hembree,592273,Brandon Drury,R,Michael Pérez,605421,0,2,7,True,2022-05-12,Stolen,2B,2022,2023, --, 0.63
+197,1B,2B,Stolen Base 2B,607208,Trea Turner,669060,Bryse Wilson,571970,Max Muncy,R,Michael Pérez,605421,0,2,3,True,2022-05-10,Stolen,2B,2022,2023, --, 0.63
+198,1B,2B,Stolen Base 2B,546991,Albert Almora Jr.,605507,Zach Thompson,608703,Matt Reynolds,R,Michael Pérez,605421,0,2,5,False,2022-05-08,Stolen,2B,2022,2023, --, 0.63
+199,3B,,Caught Stealing Home,681082,Bryson Stott,592866,Trevor Williams,596117,Garrett Stubbs,R,Michael Pérez,605421,0,0,4,False,2022-05-06,Caught,Home,2022,2023, --, 0.63
+200,1B,,Caught Stealing 2B,672018,Dasan Brown,592169,Austin Brice,624512,Reese McGuire,R,Michael Pérez,605421,1,2,7,True,2022-04-01,Caught,2B,2022,2023, --, 0.63

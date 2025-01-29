@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1690,1B,,Caught Stealing 2B,663586,Austin Riley,J.T. Realmuto,1,4,4,False,2019-06-14,Caught,2B,2019
+2114,1B,,Caught Stealing 2B,663586,Austin Riley,Buster Posey,0,1,2,True,2019-05-20,Caught,2B,2019
+1466,1B,,Caught Stealing 2B,663586,Austin Riley,Tyler Stephenson,0,0,2,True,2021-06-27,Caught,2B,2021
+2514,1B,2B,Stolen Base 2B,663586,Austin Riley,Jorge Alfaro,2,0,4,False,2022-05-14,Stolen,2B,2022
+2945,1B,2B,Stolen Base 2B,663586,Austin Riley,Austin Barnes,0,3,5,True,2022-04-19,Stolen,2B,2022
+679,1B,,Caught Stealing 2B,663586,Austin Riley,Will Smith,0,0,1,True,2023-09-03,Caught,2B,2023
+1033,1B,2B,Stolen Base 2B,663586,Austin Riley,Patrick Bailey,0,0,1,False,2023-08-20,Stolen,2B,2023
+2212,1B,2B,Stolen Base 2B,663586,Austin Riley,Tyler Stephenson,4,6,8,True,2023-06-25,Stolen,2B,2023
+2602,1B,2B,Stolen Base 2B,663586,Austin Riley,Keibert Ruiz,0,1,1,False,2023-06-09,Stolen,2B,2023

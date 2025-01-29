@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+280,1B,2B,Stolen Base 2B,117740,Mark Lewis,Ramon Hernandez,1,1,4,False,2000-09-19,Stolen,2B,2000
+390,2B,,Caught Stealing 3B,117740,Mark Lewis,Bill Haselman,4,7,8,True,2000-09-13,Caught,3B,2000
+627,1B,2B,Stolen Base 2B,117740,Mark Lewis,A.J. Pierzynski,1,2,5,True,2000-09-04,Stolen,2B,2000
+749,2B,3B,Stolen Base 3B,117740,Mark Lewis,Brad Ausmus,0,0,3,False,2000-08-30,Stolen,3B,2000
+751,1B,,Caught Stealing 2B,117740,Mark Lewis,Brad Ausmus,1,0,5,False,2000-08-30,Caught,2B,2000
+1683,2B,3B,Stolen Base 3B,117740,Mark Lewis,Scott Hatteberg,6,3,3,False,2000-07-20,Stolen,3B,2000
+1912,1B,2B,Stolen Base 2B,117740,Mark Lewis,Jorge Posada,0,2,2,True,2000-07-06,Stolen,2B,2000
+1914,1B,2B,Stolen Base 2B,117740,Mark Lewis,Jorge Posada,8,7,3,True,2000-07-06,Stolen,2B,2000
+3195,1B,2B,Stolen Base 2B,117740,Mark Lewis,Darrin Fletcher,1,1,3,True,2000-05-10,Stolen,2B,2000

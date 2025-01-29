@@ -1,0 +1,15 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,663,2B,3B,Stolen Base 3B,670097,Zack Short,592662,Robbie Ray,543257,Robbie Grossman,L,Alejandro Kirk,672386,1,0,8,True,2021-08-20,Stolen,3B,2021,2023,28.1
+1,1861,1B,2B,Stolen Base 2B,670097,Zack Short,605288,Adrian Houser,570731,Jonathan Schoop,R,Manny Piña,444489,5,8,8,True,2021-06-01,Stolen,2B,2021,2023,28.1
+2,2587,2B,3B,Stolen Base 3B,670097,Zack Short,592662,Robbie Ray,543257,Robbie Grossman,L,Alejandro Kirk,672386,1,0,8,True,2021-08-20,Stolen,3B,2021,2023,28.1
+3,3785,1B,2B,Stolen Base 2B,670097,Zack Short,605288,Adrian Houser,570731,Jonathan Schoop,R,Manny Piña,444489,5,8,8,True,2021-06-01,Stolen,2B,2021,2023,28.1
+4,348,1B,2B,Stolen Base 2B,670097,Zack Short,608032,Carlos Estévez,668731,Akil Baddoo,R,Logan O'Hoppe,681351,1,4,9,True,2023-09-16,Stolen,2B,2023,2024,26.8
+5,429,1B,2B,Stolen Base 2B,670097,Zack Short,664747,Alexis Díaz,678009,Parker Meadows,R,Luke Maile,571912,3,4,9,False,2023-09-13,Stolen,2B,2023,2024,26.8
+6,1387,2B,3B,Stolen Base 3B,670097,Zack Short,592094,Jason Adam,668670,Jake Rogers,R,René Pinto,650907,4,2,8,False,2023-08-05,Stolen,3B,2023,2024,26.8
+7,1444,1B,2B,Stolen Base 2B,670097,Zack Short,621366,Ryan Borucki,606992,Eric Haase,L,Jason Delay,641511,1,4,4,True,2023-08-02,Stolen,2B,2023,2024,26.8
+8,2925,1B,2B,Stolen Base 2B,670097,Zack Short,669947,Jesse Scholtens,682985,Riley Greene,R,Yasmani Grandal,518735,2,0,5,False,2023-05-27,Stolen,2B,2023,2024,26.8
+9,4762,1B,2B,Stolen Base 2B,670097,Zack Short,608032,Carlos Estévez,668731,Akil Baddoo,R,Logan O'Hoppe,681351,1,4,9,True,2023-09-16,Stolen,2B,2023,2024,26.8
+10,4843,1B,2B,Stolen Base 2B,670097,Zack Short,664747,Alexis Díaz,678009,Parker Meadows,R,Luke Maile,571912,3,4,9,False,2023-09-13,Stolen,2B,2023,2024,26.8
+11,5801,2B,3B,Stolen Base 3B,670097,Zack Short,592094,Jason Adam,668670,Jake Rogers,R,René Pinto,650907,4,2,8,False,2023-08-05,Stolen,3B,2023,2024,26.8
+12,5858,1B,2B,Stolen Base 2B,670097,Zack Short,621366,Ryan Borucki,606992,Eric Haase,L,Jason Delay,641511,1,4,4,True,2023-08-02,Stolen,2B,2023,2024,26.8
+13,7339,1B,2B,Stolen Base 2B,670097,Zack Short,669947,Jesse Scholtens,682985,Riley Greene,R,Yasmani Grandal,518735,2,0,5,False,2023-05-27,Stolen,2B,2023,2024,26.8

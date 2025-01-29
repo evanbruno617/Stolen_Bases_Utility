@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2136,1B,2B,Stolen Base 2B,134342,Ryan Christenson,Brian Johnson,4,3,8,False,2000-06-25,Stolen,2B,2000
+2377,1B,,Caught Stealing 2B,134342,Ryan Christenson,Geronimo Gil,0,0,2,True,2003-05-31,Caught,2B,2003
+2939,1B,,Caught Stealing 2B,134342,Ryan Christenson,Josh Bard,0,0,2,True,2003-05-04,Caught,2B,2003
+3064,1B,2B,Stolen Base 2B,134342,Ryan Christenson,John Flaherty,10,6,8,False,2003-04-27,Stolen,2B,2003
+3148,1B,2B,Stolen Base 2B,134342,Ryan Christenson,Jason Varitek,5,1,7,False,2003-04-23,Stolen,2B,2003

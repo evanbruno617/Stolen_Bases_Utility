@@ -1,0 +1,23 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+848,1B,,Caught Stealing 2B,434659,Chris Duffy,Ramon Castro,0,0,1,True,2005-08-18,Caught,2B,2005
+1157,1B,,Caught Stealing 2B,434659,Chris Duffy,Johnny Estrada,0,0,1,True,2005-08-01,Caught,2B,2005
+1293,1B,2B,Stolen Base 2B,434659,Chris Duffy,Paul Lo Duca,3,5,6,True,2005-07-26,Stolen,2B,2005
+1295,1B,2B,Stolen Base 2B,434659,Chris Duffy,Paul Lo Duca,3,6,8,True,2005-07-26,Stolen,2B,2005
+2174,1B,,Caught Stealing 2B,434659,Chris Duffy,José Molina,3,3,10,True,2007-06-24,Caught,2B,2007
+2383,1B,2B,Stolen Base 2B,434659,Chris Duffy,Gerald Laird,0,2,6,False,2007-06-14,Stolen,2B,2007
+2433,1B,,Caught Stealing 2B,434659,Chris Duffy,Gerald Laird,1,0,1,False,2007-06-12,Caught,2B,2007
+2463,1B,2B,Stolen Base 2B,434659,Chris Duffy,Wil Nieves,3,2,2,True,2007-06-10,Stolen,2B,2007
+2496,1B,2B,Stolen Base 2B,434659,Chris Duffy,Jorge Posada,6,3,7,True,2007-06-09,Stolen,2B,2007
+2752,2B,3B,Stolen Base 3B,434659,Chris Duffy,Chad Moeller,5,11,6,True,2007-05-27,Stolen,3B,2007
+2823,1B,2B,Stolen Base 2B,434659,Chris Duffy,Gary Bennett,2,0,4,True,2007-05-23,Stolen,2B,2007
+3002,1B,2B,Stolen Base 2B,434659,Chris Duffy,Miguel Olivo,1,0,3,False,2007-05-15,Stolen,2B,2007
+3017,1B,2B,Stolen Base 2B,434659,Chris Duffy,Miguel Olivo,5,0,8,False,2007-05-14,Stolen,2B,2007
+3041,1B,2B,Stolen Base 2B,434659,Chris Duffy,Jarrod Saltalamacchia,0,0,1,False,2007-05-13,Stolen,2B,2007
+3418,1B,,Caught Stealing 2B,434659,Chris Duffy,Brad Ausmus,3,1,8,False,2007-04-25,Caught,2B,2007
+3419,1B,2B,Stolen Base 2B,434659,Chris Duffy,Brad Ausmus,3,3,16,False,2007-04-25,Stolen,2B,2007
+3439,1B,,Caught Stealing 2B,434659,Chris Duffy,Humberto Quintero,0,0,1,False,2007-04-24,Caught,2B,2007
+3461,1B,2B,Stolen Base 2B,434659,Chris Duffy,Russell Martin,0,0,1,True,2007-04-22,Stolen,2B,2007
+3462,1B,2B,Stolen Base 2B,434659,Chris Duffy,Russell Martin,0,2,3,True,2007-04-22,Stolen,2B,2007
+3588,1B,2B,Stolen Base 2B,434659,Chris Duffy,Gary Bennett,0,5,4,True,2007-04-17,Stolen,2B,2007
+3779,1B,2B,Stolen Base 2B,434659,Chris Duffy,Chad Moeller,0,0,1,True,2007-04-07,Stolen,2B,2007
+2751,1B,2B,Stolen Base 2B,434659,Chris Duffy,Corky Miller,2,1,8,False,2009-04-02,Stolen,2B,2009

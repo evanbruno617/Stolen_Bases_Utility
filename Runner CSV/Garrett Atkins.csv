@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1221,1B,,Caught Stealing 2B,425548,Garrett Atkins,Mike Lieberthal,0,1,2,False,2005-07-28,Caught,2B,2005
+2578,1B,,Caught Stealing 2B,425548,Garrett Atkins,Mike Matheny,2,1,5,False,2005-05-18,Caught,2B,2005
+1837,1B,,Caught Stealing 2B,425548,Garrett Atkins,Rod Barajas,4,2,3,False,2007-07-08,Caught,2B,2007
+2548,1B,2B,Stolen Base 2B,425548,Garrett Atkins,Brad Ausmus,2,3,4,False,2007-06-06,Stolen,2B,2007
+3234,1B,2B,Stolen Base 2B,425548,Garrett Atkins,Bengie Molina,0,0,2,True,2007-05-02,Stolen,2B,2007
+3687,1B,2B,Stolen Base 2B,425548,Garrett Atkins,Russell Martin,0,0,3,True,2007-04-11,Stolen,2B,2007
+1343,1B,2B,Stolen Base 2B,425548,Garrett Atkins,Danny Ardoin,5,3,5,False,2008-07-23,Stolen,2B,2008
+2087,1B,,Caught Stealing 2B,425548,Garrett Atkins,A.J. Pierzynski,1,1,5,True,2008-06-13,Caught,2B,2008

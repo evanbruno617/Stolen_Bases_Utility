@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,101,1B,2B,Stolen Base 2B,502261,Cole Gillespie,430935,Cole Hamels,425772,Jeff Mathis,L,Carlos Ruiz,434563,5,5,3,True,2015-07-19,Stolen,2B,2015,2016,27.9
+1,336,1B,2B,Stolen Base 2B,502261,Cole Gillespie,518748,Justin Grimm,400085,Ichiro Suzuki,R,Miguel Montero,471083,1,2,9,True,2015-07-03,Stolen,2B,2015,2016,27.9

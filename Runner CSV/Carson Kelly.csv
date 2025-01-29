@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+44,1B,2B,Stolen Base 2B,608348,Carson Kelly,Martín Maldonado,2,2,7,True,2022-09-28,Stolen,2B,2022
+740,1B,2B,Stolen Base 2B,608348,Carson Kelly,Andrew Knizner,2,0,1,False,2022-08-20,Stolen,2B,2022
+1339,1B,2B,Stolen Base 2B,608348,Carson Kelly,Christian Vázquez,0,1,6,True,2023-08-06,Stolen,2B,2023

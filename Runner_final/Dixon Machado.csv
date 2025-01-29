@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1345,1B,2B,Stolen Base 2B,553988,Dixon Machado,547973,Aroldis Chapman,592206,Nick Castellanos,L,Gary Sánchez,596142,6,3,6,False,2017-08-24,Stolen,2B,2017,2018,27.7
+1,717,1B,2B,Stolen Base 2B,553988,Dixon Machado,547973,Aroldis Chapman,592206,Nick Castellanos,L,Gary Sánchez,596142,6,3,6,False,2017-08-24,Stolen,2B,2017,2018,27.7

@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+93,1B,2B,Stolen Base 2B,681987,Nate Eaton,Cal Raleigh,13,12,8,False,2022-09-25,Stolen,2B,2022
+169,1B,2B,Stolen Base 2B,681987,Nate Eaton,Sandy León,3,2,7,False,2022-09-21,Stolen,2B,2022
+189,1B,2B,Stolen Base 2B,681987,Nate Eaton,Gary Sánchez,3,3,5,False,2022-09-20,Stolen,2B,2022
+231,1B,2B,Stolen Base 2B,681987,Nate Eaton,Reese McGuire,7,3,6,True,2022-09-18,Stolen,2B,2022
+249,1B,2B,Stolen Base 2B,681987,Nate Eaton,Connor Wong,0,1,3,True,2022-09-17,Stolen,2B,2022
+276,1B,2B,Stolen Base 2B,681987,Nate Eaton,Kevin Plawecki,0,0,3,True,2022-09-16,Stolen,2B,2022
+420,1B,2B,Stolen Base 2B,681987,Nate Eaton,Luke Maile,0,1,7,False,2022-09-07,Stolen,2B,2022
+472,1B,2B,Stolen Base 2B,681987,Nate Eaton,Luke Maile,4,4,9,False,2022-09-05,Stolen,2B,2022
+536,1B,2B,Stolen Base 2B,681987,Nate Eaton,Tucker Barnhart,1,4,4,True,2022-09-03,Stolen,2B,2022
+835,1B,2B,Stolen Base 2B,681987,Nate Eaton,Sandy León,0,2,2,True,2022-08-15,Stolen,2B,2022
+928,1B,2B,Stolen Base 2B,681987,Nate Eaton,Seby Zavala,1,0,5,False,2022-08-11,Stolen,2B,2022
+2526,2B,3B,Stolen Base 3B,681987,Nate Eaton,Curt Casali,4,5,10,False,2023-06-12,Stolen,3B,2023
+3864,1B,2B,Stolen Base 2B,681987,Nate Eaton,Jonah Heim,0,4,3,False,2023-04-17,Stolen,2B,2023
+3998,1B,2B,Stolen Base 2B,681987,Nate Eaton,Jonah Heim,3,2,7,True,2023-04-11,Stolen,2B,2023

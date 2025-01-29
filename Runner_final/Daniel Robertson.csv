@@ -1,0 +1,20 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1687,1B,,Caught Stealing 2B,621002,Daniel Robertson,592779,Brock Stewart,621563,Joey Wendle,R,Reese McGuire,624512,4,2,6,False,2019-09-05,Caught,2B,2019,2020,25.6
+1,1726,1B,2B,Stolen Base 2B,621002,Daniel Robertson,612434,Miguel Castro,502054,Tommy Pham,R,Austin Wynns,642851,2,0,8,False,2019-09-03,Stolen,2B,2019,2020,25.6
+2,3095,1B,,Caught Stealing 2B,621002,Daniel Robertson,596057,Daniel Norris,502054,Tommy Pham,L,Grayson Greiner,606988,1,3,4,True,2019-06-06,Caught,2B,2019,2020,25.6
+3,4089,1B,2B,Stolen Base 2B,621002,Daniel Robertson,607074,Carlos Rodón,541645,Avisaíl García,L,James McCann,543510,0,4,2,True,2019-04-08,Stolen,2B,2019,2020,25.6
+4,4530,1B,,Caught Stealing 2B,621002,Daniel Robertson,592779,Brock Stewart,621563,Joey Wendle,R,Reese McGuire,624512,4,2,6,False,2019-09-05,Caught,2B,2019,2020,25.6
+5,4569,1B,2B,Stolen Base 2B,621002,Daniel Robertson,612434,Miguel Castro,502054,Tommy Pham,R,Austin Wynns,642851,2,0,8,False,2019-09-03,Stolen,2B,2019,2020,25.6
+6,5938,1B,,Caught Stealing 2B,621002,Daniel Robertson,596057,Daniel Norris,502054,Tommy Pham,L,Grayson Greiner,606988,1,3,4,True,2019-06-06,Caught,2B,2019,2020,25.6
+7,6932,1B,2B,Stolen Base 2B,621002,Daniel Robertson,607074,Carlos Rodón,541645,Avisaíl García,L,James McCann,543510,0,4,2,True,2019-04-08,Stolen,2B,2019,2020,25.6
+8,6454,1B,,Caught Stealing 2B,621002,Daniel Robertson,592779,Brock Stewart,621563,Joey Wendle,R,Reese McGuire,624512,4,2,6,False,2019-09-05,Caught,2B,2019,2020,25.6
+9,6493,1B,2B,Stolen Base 2B,621002,Daniel Robertson,612434,Miguel Castro,502054,Tommy Pham,R,Austin Wynns,642851,2,0,8,False,2019-09-03,Stolen,2B,2019,2020,25.6
+10,7862,1B,,Caught Stealing 2B,621002,Daniel Robertson,596057,Daniel Norris,502054,Tommy Pham,L,Grayson Greiner,606988,1,3,4,True,2019-06-06,Caught,2B,2019,2020,25.6
+11,8856,1B,2B,Stolen Base 2B,621002,Daniel Robertson,607074,Carlos Rodón,541645,Avisaíl García,L,James McCann,543510,0,4,2,True,2019-04-08,Stolen,2B,2019,2020,25.6
+12,494,1B,2B,Stolen Base 2B,621002,Daniel Robertson,584171,Hector Velázquez,543543,Brad Miller,R,Christian Vázquez,543877,1,4,5,True,2018-04-08,Stolen,2B,2018,2019,27.0
+13,2402,1B,,Caught Stealing 2B,621002,Daniel Robertson,542960,Brad Brach,491696,Jesús Sucre,R,Caleb Joseph,543376,5,5,8,False,2017-06-25,Caught,2B,2017,2018,27.7
+14,3018,1B,,Caught Stealing 2B,543706,Daniel Robertson,570810,Lisalverto Bonilla,543401,Jason Kipnis,R,Devin Mesoraco,519023,2,2,4,False,2017-05-24,Caught,2B,2017,2018,27.7
+15,3363,1B,2B,Stolen Base 2B,621002,Daniel Robertson,572193,Ryan Tepera,595281,Kevin Kiermaier,R,Russell Martin,431145,1,1,7,False,2017-05-07,Stolen,2B,2017,2018,27.7
+16,1774,1B,,Caught Stealing 2B,621002,Daniel Robertson,542960,Brad Brach,491696,Jesús Sucre,R,Caleb Joseph,543376,5,5,8,False,2017-06-25,Caught,2B,2017,2018,27.7
+17,2390,1B,,Caught Stealing 2B,543706,Daniel Robertson,570810,Lisalverto Bonilla,543401,Jason Kipnis,R,Devin Mesoraco,519023,2,2,4,False,2017-05-24,Caught,2B,2017,2018,27.7
+18,2735,1B,2B,Stolen Base 2B,621002,Daniel Robertson,572193,Ryan Tepera,595281,Kevin Kiermaier,R,Russell Martin,431145,1,1,7,False,2017-05-07,Stolen,2B,2017,2018,27.7

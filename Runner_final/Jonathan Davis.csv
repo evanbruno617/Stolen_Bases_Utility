@@ -1,0 +1,31 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,322,1B,2B,Stolen Base 2B,641505,Jonathan Davis,544727,Jeurys Familia,624415,Cavan Biggio,R,Wilson Ramos,467092,3,2,8,False,2020-09-12,Stolen,2B,2020,2021,28.6
+1,3165,1B,2B,Stolen Base 2B,641505,Jonathan Davis,544727,Jeurys Familia,624415,Cavan Biggio,R,Wilson Ramos,467092,3,2,8,False,2020-09-12,Stolen,2B,2020,2021,28.6
+2,5089,1B,2B,Stolen Base 2B,641505,Jonathan Davis,544727,Jeurys Familia,624415,Cavan Biggio,R,Wilson Ramos,467092,3,2,8,False,2020-09-12,Stolen,2B,2020,2021,28.6
+3,1269,1B,2B,Stolen Base 2B,641505,Jonathan Davis,605483,Blake Snell,571912,Luke Maile,L,Mike Zunino,572287,2,0,2,False,2019-09-29,Stolen,2B,2019,2020,28.0
+4,1658,1B,2B,Stolen Base 2B,641505,Jonathan Davis,450203,Charlie Morton,605233,Derek Fisher,R,Michael Pérez,605421,2,3,6,True,2019-09-07,Stolen,2B,2019,2020,28.0
+5,3221,1B,,Caught Stealing 2B,641505,Jonathan Davis,605483,Blake Snell,519299,Eric Sogard,L,Travis d'Arnaud,518595,1,2,5,True,2019-05-29,Caught,2B,2019,2020,28.0
+6,3428,1B,2B,Stolen Base 2B,641505,Jonathan Davis,592229,Dylan Covey,643376,Danny Jansen,R,Welington Castillo,456078,1,1,2,True,2019-05-16,Stolen,2B,2019,2020,28.0
+7,4112,1B,2B,Stolen Base 2B,641505,Jonathan Davis,605483,Blake Snell,571912,Luke Maile,L,Mike Zunino,572287,2,0,2,False,2019-09-29,Stolen,2B,2019,2020,28.0
+8,4501,1B,2B,Stolen Base 2B,641505,Jonathan Davis,450203,Charlie Morton,605233,Derek Fisher,R,Michael Pérez,605421,2,3,6,True,2019-09-07,Stolen,2B,2019,2020,28.0
+9,6064,1B,,Caught Stealing 2B,641505,Jonathan Davis,605483,Blake Snell,519299,Eric Sogard,L,Travis d'Arnaud,518595,1,2,5,True,2019-05-29,Caught,2B,2019,2020,28.0
+10,6271,1B,2B,Stolen Base 2B,641505,Jonathan Davis,592229,Dylan Covey,643376,Danny Jansen,R,Welington Castillo,456078,1,1,2,True,2019-05-16,Stolen,2B,2019,2020,28.0
+11,6036,1B,2B,Stolen Base 2B,641505,Jonathan Davis,605483,Blake Snell,571912,Luke Maile,L,Mike Zunino,572287,2,0,2,False,2019-09-29,Stolen,2B,2019,2020,28.0
+12,6425,1B,2B,Stolen Base 2B,641505,Jonathan Davis,450203,Charlie Morton,605233,Derek Fisher,R,Michael Pérez,605421,2,3,6,True,2019-09-07,Stolen,2B,2019,2020,28.0
+13,7988,1B,,Caught Stealing 2B,641505,Jonathan Davis,605483,Blake Snell,519299,Eric Sogard,L,Travis d'Arnaud,518595,1,2,5,True,2019-05-29,Caught,2B,2019,2020,28.0
+14,8195,1B,2B,Stolen Base 2B,641505,Jonathan Davis,592229,Dylan Covey,643376,Danny Jansen,R,Welington Castillo,456078,1,1,2,True,2019-05-16,Stolen,2B,2019,2020,28.0
+15,1729,1B,2B,Stolen Base 2B,641505,Jonathan Davis,676477,Garrett Whitlock,666971,Lourdes Gurriel Jr.,R,Christian Vázquez,543877,5,5,9,True,2021-06-11,Stolen,2B,2021,2022,28.1
+16,2054,1B,2B,Stolen Base 2B,641505,Jonathan Davis,607192,Tyler Glasnow,543760,Marcus Semien,R,Francisco Mejía,642336,3,0,2,False,2021-05-21,Stolen,2B,2021,2022,28.1
+17,2210,1B,2B,Stolen Base 2B,641505,Jonathan Davis,592145,Jesse Biddle,666182,Bo Bichette,L,William Contreras,661388,3,5,9,True,2021-05-11,Stolen,2B,2021,2022,28.1
+18,2602,1B,2B,Stolen Base 2B,641505,Jonathan Davis,451584,Wade Davis,643376,Danny Jansen,R,Salvador Perez,521692,1,4,7,True,2021-04-17,Stolen,2B,2021,2022,28.1
+19,2790,2B,,Caught Stealing 3B,641505,Jonathan Davis,592314,Mike Foltynewicz,543760,Marcus Semien,R,Jose Trevino,624431,0,4,4,True,2021-04-05,Caught,3B,2021,2022,28.1
+20,3653,1B,2B,Stolen Base 2B,641505,Jonathan Davis,676477,Garrett Whitlock,666971,Lourdes Gurriel Jr.,R,Christian Vázquez,543877,5,5,9,True,2021-06-11,Stolen,2B,2021,2022,28.1
+21,3978,1B,2B,Stolen Base 2B,641505,Jonathan Davis,607192,Tyler Glasnow,543760,Marcus Semien,R,Francisco Mejía,642336,3,0,2,False,2021-05-21,Stolen,2B,2021,2022,28.1
+22,4134,1B,2B,Stolen Base 2B,641505,Jonathan Davis,592145,Jesse Biddle,666182,Bo Bichette,L,William Contreras,661388,3,5,9,True,2021-05-11,Stolen,2B,2021,2022,28.1
+23,4526,1B,2B,Stolen Base 2B,641505,Jonathan Davis,451584,Wade Davis,643376,Danny Jansen,R,Salvador Perez,521692,1,4,7,True,2021-04-17,Stolen,2B,2021,2022,28.1
+24,4714,2B,,Caught Stealing 3B,641505,Jonathan Davis,592314,Mike Foltynewicz,543760,Marcus Semien,R,Jose Trevino,624431,0,4,4,True,2021-04-05,Caught,3B,2021,2022,28.1
+25,72,1B,2B,Stolen Base 2B,641505,Jonathan Davis,680739,Josh Winder,543939,Kolten Wong,R,Gary Sánchez,596142,2,3,5,True,2022-07-12,Stolen,2B,2022,2023,28.9
+26,108,1B,2B,Stolen Base 2B,641505,Jonathan Davis,500779,Jose Quintana,457705,Andrew McCutchen,L,Jason Delay,641511,0,2,3,False,2022-07-10,Stolen,2B,2022,2023,28.9
+27,279,1B,2B,Stolen Base 2B,641505,Jonathan Davis,669060,Bryse Wilson,592885,Christian Yelich,R,Tyler Heineman,623168,0,1,2,True,2022-07-02,Stolen,2B,2022,2023,28.9
+28,302,1B,2B,Stolen Base 2B,641505,Jonathan Davis,672710,Roansy Contreras,592885,Christian Yelich,R,Michael Pérez,605421,0,4,2,True,2022-07-01,Stolen,2B,2022,2023,28.9
+29,384,1B,2B,Stolen Base 2B,641505,Jonathan Davis,621244,José Berríos,592885,Christian Yelich,R,Alejandro Kirk,672386,5,3,2,False,2022-06-26,Stolen,2B,2022,2023,28.9

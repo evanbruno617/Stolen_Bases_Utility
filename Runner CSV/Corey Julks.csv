@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1938,1B,2B,Stolen Base 2B,667452,Corey Julks,Cal Raleigh,0,3,5,False,2023-07-06,Stolen,2B,2023
+2011,1B,2B,Stolen Base 2B,667452,Corey Julks,Elias Díaz,3,0,7,False,2023-07-04,Stolen,2B,2023
+2041,1B,2B,Stolen Base 2B,667452,Corey Julks,Jonah Heim,5,10,5,True,2023-07-03,Stolen,2B,2023
+2195,1B,2B,Stolen Base 2B,667452,Corey Julks,Will Smith,1,4,7,True,2023-06-25,Stolen,2B,2023
+2317,1B,2B,Stolen Base 2B,667452,Corey Julks,Omar Narváez,4,4,3,False,2023-06-21,Stolen,2B,2023
+2557,1B,,Caught Stealing 2B,667452,Corey Julks,Cam Gallagher,2,0,4,True,2023-06-11,Caught,2B,2023
+2562,1B,2B,Stolen Base 2B,667452,Corey Julks,Mike Zunino,1,3,2,True,2023-06-10,Stolen,2B,2023
+2564,1B,2B,Stolen Base 2B,667452,Corey Julks,Mike Zunino,1,4,4,True,2023-06-10,Stolen,2B,2023
+2672,1B,2B,Stolen Base 2B,667452,Corey Julks,Alejandro Kirk,0,1,2,True,2023-06-06,Stolen,2B,2023
+2673,1B,2B,Stolen Base 2B,667452,Corey Julks,Alejandro Kirk,3,1,5,True,2023-06-06,Stolen,2B,2023
+2930,1B,2B,Stolen Base 2B,667452,Corey Julks,Carlos Pérez,0,1,2,True,2023-05-26,Stolen,2B,2023
+3260,1B,2B,Stolen Base 2B,667452,Corey Julks,Seby Zavala,1,1,4,True,2023-05-12,Stolen,2B,2023
+3261,1B,2B,Stolen Base 2B,667452,Corey Julks,Seby Zavala,1,2,6,True,2023-05-12,Stolen,2B,2023
+3315,1B,2B,Stolen Base 2B,667452,Corey Julks,Matt Thaiss,0,0,2,True,2023-05-09,Stolen,2B,2023
+3569,1B,2B,Stolen Base 2B,667452,Corey Julks,J.T. Realmuto,0,0,2,False,2023-04-29,Stolen,2B,2023
+3694,1B,2B,Stolen Base 2B,667452,Corey Julks,Francisco Mejía,0,0,4,True,2023-04-25,Stolen,2B,2023
+3783,1B,,Caught Stealing 2B,667452,Corey Julks,Sean Murphy,4,4,8,True,2023-04-21,Caught,2B,2023
+4053,1B,,Caught Stealing 2B,667452,Corey Julks,Ryan Jeffers,0,0,3,True,2023-04-09,Caught,2B,2023

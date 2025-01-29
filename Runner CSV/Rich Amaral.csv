@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2595,1B,2B,Stolen Base 2B,110214,Rich Amaral,Mike Piazza,0,0,1,True,2000-06-05,Stolen,2B,2000
+2597,1B,2B,Stolen Base 2B,110214,Rich Amaral,Mike Piazza,2,0,3,True,2000-06-05,Stolen,2B,2000
+2931,1B,,Caught Stealing 2B,110214,Rich Amaral,Ivan Rodriguez,2,1,9,True,2000-05-20,Caught,2B,2000
+3244,1B,2B,Stolen Base 2B,110214,Rich Amaral,Darrin Fletcher,6,5,9,True,2000-05-08,Stolen,2B,2000
+3314,1B,,Caught Stealing 2B,110214,Rich Amaral,Jorge Posada,8,10,9,True,2000-05-05,Caught,2B,2000
+3549,1B,2B,Stolen Base 2B,110214,Rich Amaral,Mark Johnson,5,9,7,True,2000-04-25,Stolen,2B,2000
+3827,1B,2B,Stolen Base 2B,110214,Rich Amaral,Brian Johnson,5,4,8,True,2000-04-13,Stolen,2B,2000
+3911,2B,3B,Stolen Base 3B,110214,Rich Amaral,Brad Ausmus,5,3,2,False,2000-04-09,Stolen,3B,2000

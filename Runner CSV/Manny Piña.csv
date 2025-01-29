@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+22,1B,,Caught Stealing 2B,444489,Manny Piña,Anthony Recker,3,0,2,False,2016-08-11,Caught,2B,2016
+333,1B,2B,Stolen Base 2B,444489,Manny Piña,Elias Díaz,5,1,3,False,2017-09-13,Stolen,2B,2017
+633,1B,2B,Stolen Base 2B,444489,Manny Piña,Yasmani Grandal,2,3,9,True,2017-08-27,Stolen,2B,2017
+694,1B,2B,Stolen Base 2B,444489,Manny Piña,Elias Díaz,0,0,2,False,2018-08-26,Stolen,2B,2018
+809,1B,2B,Stolen Base 2B,444489,Manny Piña,Tucker Barnhart,0,2,2,False,2018-08-20,Stolen,2B,2018

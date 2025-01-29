@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2678,1B,2B,Stolen Base 2B,434630,Eli Whiteside,Brad Ausmus,3,1,5,False,2009-04-05,Stolen,2B,2009
+2126,1B,,Caught Stealing 2B,434630,Eli Whiteside,Jason Castro,1,0,6,True,2010-06-22,Caught,2B,2010
+2382,3B,,Caught Stealing Home,434630,Eli Whiteside,Ramon Hernandez,4,6,7,True,2010-06-10,Caught,Home,2010
+3045,1B,2B,Stolen Base 2B,434630,Eli Whiteside,Yorvit Torrealba,2,3,7,False,2010-05-11,Stolen,2B,2010
+1052,1B,,Caught Stealing 2B,434630,Eli Whiteside,Brian McCann,1,5,4,True,2011-08-17,Caught,2B,2011
+1126,1B,2B,Stolen Base 2B,434630,Eli Whiteside,Brett Hayes,1,3,4,True,2011-08-14,Stolen,2B,2011
+1828,1B,2B,Stolen Base 2B,434630,Eli Whiteside,Kyle Phillips,3,3,7,True,2011-07-17,Stolen,2B,2011
+2092,1B,2B,Stolen Base 2B,434630,Eli Whiteside,J.T. Realmuto,1,3,2,True,2014-06-17,Stolen,2B,2014

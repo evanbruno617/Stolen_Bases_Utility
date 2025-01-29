@@ -1,0 +1,50 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+737,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Mike DiFelice,0,1,3,True,2000-08-31,Stolen,2B,2000
+829,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Scott Hatteberg,6,1,5,False,2000-08-27,Stolen,2B,2000
+1671,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Sandy Alomar Jr.,4,8,8,True,2000-07-20,Stolen,2B,2000
+1754,1B,,Caught Stealing 2B,123041,Mike Sweeney,Joe Girardi,5,2,2,False,2000-07-16,Caught,2B,2000
+1858,1B,2B,Caught Stealing 3B,123041,Mike Sweeney,Mitch Meluskey,2,5,9,True,2000-07-08,Caught,3B,2000
+2046,1B,,Caught Stealing 2B,123041,Mike Sweeney,Einar Díaz,3,0,3,False,2000-06-29,Caught,2B,2000
+2244,2B,,Caught Stealing 3B,123041,Mike Sweeney,Bengie Molina,6,7,9,True,2000-06-20,Caught,3B,2000
+2792,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Matt Walbeck,2,0,3,False,2000-05-28,Stolen,2B,2000
+3072,2B,3B,Stolen Base 3B,123041,Mike Sweeney,Ramon Hernandez,0,2,1,True,2000-05-15,Stolen,3B,2000
+3751,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Jim Leyritz,0,0,2,True,2000-04-16,Stolen,2B,2000
+3871,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Charles Johnson,2,4,6,False,2000-04-11,Stolen,2B,2000
+3987,2B,3B,Stolen Base 3B,123041,Mike Sweeney,Darrin Fletcher,1,2,6,True,2000-04-06,Stolen,3B,2000
+70,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Jorge Fabregas,1,1,3,True,2001-06-02,Stolen,2B,2001
+136,2B,3B,Stolen Base 3B,123041,Mike Sweeney,Ivan Rodriguez,1,3,5,True,2001-05-31,Stolen,3B,2001
+515,2B,3B,Stolen Base 3B,123041,Mike Sweeney,John Flaherty,6,2,7,False,2001-05-15,Stolen,3B,2001
+1228,2B,3B,Stolen Base 3B,123041,Mike Sweeney,A.J. Pierzynski,3,5,8,True,2001-04-16,Stolen,3B,2001
+1272,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Darrin Fletcher,2,4,8,True,2001-04-15,Stolen,2B,2001
+39,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Eddie Pérez,2,3,5,True,2002-09-28,Stolen,2B,2002
+167,2B,3B,Stolen Base 3B,123041,Mike Sweeney,Josh Bard,2,2,7,False,2002-09-21,Stolen,3B,2002
+289,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Mike Rivera,0,3,3,True,2002-09-15,Stolen,2B,2002
+699,1B,,Caught Stealing 2B,123041,Mike Sweeney,Ramon Hernandez,1,1,5,False,2002-08-26,Caught,2B,2002
+839,1B,,Caught Stealing 2B,123041,Mike Sweeney,Tom Wilson,0,0,4,True,2002-08-19,Caught,2B,2002
+859,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Toby Hall,0,0,1,True,2002-08-18,Stolen,2B,2002
+942,3B,score,Stolen Base Home,123041,Mike Sweeney,Jorge Posada,2,1,6,False,2002-08-14,Stolen,Home,2002
+1693,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Ramon Hernandez,0,0,4,True,2002-07-07,Stolen,2B,2002
+2117,1B,,Caught Stealing 2B,123041,Mike Sweeney,Brian Schneider,1,4,5,True,2002-06-18,Caught,2B,2002
+2343,2B,3B,Stolen Base 3B,123041,Mike Sweeney,Sandy Alomar Jr.,1,4,5,True,2002-06-06,Stolen,3B,2002
+2344,1B,,Caught Stealing 2B,123041,Mike Sweeney,Sandy Alomar Jr.,1,4,7,True,2002-06-06,Caught,2B,2002
+2402,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Sandy Alomar Jr.,2,0,8,True,2002-06-03,Stolen,2B,2002
+2616,2B,3B,Stolen Base 3B,123041,Mike Sweeney,Todd Greene,5,1,3,False,2002-05-26,Stolen,3B,2002
+2673,2B,3B,Stolen Base 3B,123041,Mike Sweeney,Todd Greene,5,1,3,False,2002-05-23,Stolen,3B,2002
+3563,2B,,Caught Stealing 3B,123041,Mike Sweeney,A.J. Pierzynski,1,4,6,True,2002-04-17,Caught,3B,2002
+3698,1B,,Caught Stealing 2B,123041,Mike Sweeney,Einar Díaz,2,1,5,True,2002-04-12,Caught,2B,2002
+3852,1B,,Caught Stealing 2B,123041,Mike Sweeney,Mark Johnson,5,2,6,False,2002-04-05,Caught,2B,2002
+306,2B,3B,Stolen Base 3B,123041,Mike Sweeney,Brandon Inge,0,2,1,True,2003-09-13,Stolen,3B,2003
+2518,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Adam Melhuse,1,3,9,True,2003-05-24,Stolen,2B,2003
+3572,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Josh Paul,2,2,3,False,2003-04-02,Stolen,2B,2003
+1386,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Tim Laker,0,0,1,True,2004-07-24,Stolen,2B,2004
+2343,2B,,Caught Stealing 3B,123041,Mike Sweeney,Brandon Inge,0,3,3,True,2004-06-03,Caught,3B,2004
+2776,1B,,Caught Stealing 2B,123041,Mike Sweeney,Gregg Zaun,1,0,3,False,2004-05-12,Caught,2B,2004
+2824,2B,3B,Stolen Base 3B,123041,Mike Sweeney,Jason Varitek,2,2,3,True,2004-05-09,Stolen,3B,2004
+3200,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Tim Laker,0,0,1,True,2004-04-21,Stolen,2B,2004
+3237,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Victor Martinez,0,6,2,True,2004-04-20,Stolen,2B,2004
+451,1B,2B,Stolen Base 2B,123041,Mike Sweeney,A.J. Pierzynski,2,4,9,True,2005-09-08,Stolen,2B,2005
+2560,2B,3B,Stolen Base 3B,123041,Mike Sweeney,Geronimo Gil,6,0,3,False,2005-05-19,Stolen,3B,2005
+3359,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Bengie Molina,2,6,7,True,2005-04-10,Stolen,2B,2005
+727,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Nick Hundley,1,3,7,True,2010-08-28,Stolen,2B,2010
+2088,1B,2B,Stolen Base 2B,123041,Mike Sweeney,Geovany Soto,2,2,10,False,2010-06-24,Stolen,2B,2010
+2994,2B,3B,Stolen Base 3B,123041,Mike Sweeney,John Jaso,0,2,1,True,2010-05-14,Stolen,3B,2010

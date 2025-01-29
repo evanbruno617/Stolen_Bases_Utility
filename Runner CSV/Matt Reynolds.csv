@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3496,1B,2B,Stolen Base 2B,608703,Matt Reynolds,Tony Cruz,4,5,9,False,2015-04-01,Stolen,2B,2015
+78,1B,,Caught Stealing 2B,608703,Matt Reynolds,Tuffy Gosewisch,1,1,5,False,2016-08-09,Caught,2B,2016
+384,1B,,Caught Stealing 2B,608703,Matt Reynolds,Tucker Barnhart,2,2,4,False,2017-09-10,Caught,2B,2017
+841,1B,2B,Stolen Base 2B,608703,Matt Reynolds,J.T. Realmuto,0,0,2,False,2022-08-15,Stolen,2B,2022
+1243,3B,score,Caught Stealing 2B,608703,Matt Reynolds,Andrew Knizner,6,2,4,False,2022-07-24,Caught,2B,2022
+1931,1B,2B,Stolen Base 2B,608703,Matt Reynolds,Carson Kelly,4,5,6,True,2022-06-13,Stolen,2B,2022
+2201,1B,2B,Stolen Base 2B,608703,Matt Reynolds,Kevin Plawecki,0,1,7,True,2022-05-31,Stolen,2B,2022
+2394,1B,2B,Stolen Base 2B,608703,Matt Reynolds,Danny Jansen,2,1,7,True,2022-05-20,Stolen,2B,2022
+2508,1B,2B,Stolen Base 2B,608703,Matt Reynolds,Andrew Knapp,2,0,3,True,2022-05-14,Stolen,2B,2022

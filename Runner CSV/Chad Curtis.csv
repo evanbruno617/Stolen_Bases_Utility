@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+70,1B,2B,Stolen Base 2B,112963,Chad Curtis,Joe Oliver,2,2,3,True,2000-09-27,Stolen,2B,2000
+3487,2B,,Caught Stealing 3B,112963,Chad Curtis,Greg Myers,1,3,7,True,2000-04-28,Caught,3B,2000
+3574,2B,3B,Stolen Base 3B,112963,Chad Curtis,Jason Varitek,0,0,3,False,2000-04-24,Stolen,3B,2000
+3729,1B,2B,Stolen Base 2B,112963,Chad Curtis,Jorge Posada,2,0,5,False,2000-04-17,Stolen,2B,2000
+3759,2B,,Caught Stealing 3B,112963,Chad Curtis,Einar Díaz,0,1,8,True,2000-04-16,Caught,3B,2000
+1114,1B,2B,Stolen Base 2B,112963,Chad Curtis,Ramon Hernandez,1,0,2,False,2001-04-21,Stolen,2B,2001
+1139,2B,3B,Stolen Base 3B,112963,Chad Curtis,Ramon Hernandez,5,2,5,False,2001-04-20,Stolen,3B,2001
+1149,1B,2B,Stolen Base 2B,112963,Chad Curtis,Ramon Hernandez,0,1,1,False,2001-04-19,Stolen,2B,2001
+1326,1B,2B,Stolen Base 2B,112963,Chad Curtis,Bengie Molina,5,1,4,True,2001-04-12,Stolen,2B,2001
+1340,1B,2B,Stolen Base 2B,112963,Chad Curtis,Bengie Molina,2,0,3,True,2001-04-11,Stolen,2B,2001

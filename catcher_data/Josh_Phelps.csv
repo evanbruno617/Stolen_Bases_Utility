@@ -1,0 +1,8 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,429663,Chris Burke,Josh Phelps,0,0,1,False,2007-08-26,Stolen,2B,2007
+1B,2B,Stolen Base 2B,434658,Rajai Davis,Josh Phelps,0,0,1,True,2007-08-13,Stolen,2B,2007
+2B,3B,Stolen Base 3B,434658,Rajai Davis,Josh Phelps,0,1,1,True,2007-08-13,Stolen,3B,2007
+1B,2B,Stolen Base 2B,434658,Rajai Davis,Josh Phelps,0,0,1,True,2007-04-15,Stolen,2B,2007
+2B,3B,Stolen Base 3B,434658,Rajai Davis,Josh Phelps,0,1,1,True,2007-04-15,Stolen,3B,2007
+1B,2B,Stolen Base 2B,434658,Rajai Davis,Josh Phelps,0,0,1,True,2007-04-14,Stolen,2B,2007
+2B,3B,Stolen Base 3B,434658,Rajai Davis,Josh Phelps,0,1,1,True,2007-04-14,Stolen,3B,2007

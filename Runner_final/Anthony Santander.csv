@@ -1,0 +1,31 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,928,1B,,Caught Stealing 2B,623993,Anthony Santander,488984,Tommy Hunter,600524,Renato Núñez,R,J.T. Realmuto,592663,3,5,7,True,2020-08-11,Caught,2B,2020,2021,26.2
+1,3771,1B,,Caught Stealing 2B,623993,Anthony Santander,488984,Tommy Hunter,600524,Renato Núñez,R,J.T. Realmuto,592663,3,5,7,True,2020-08-11,Caught,2B,2020,2021,26.2
+2,5695,1B,,Caught Stealing 2B,623993,Anthony Santander,488984,Tommy Hunter,600524,Renato Núñez,R,J.T. Realmuto,592663,3,5,7,True,2020-08-11,Caught,2B,2020,2021,26.2
+3,2543,1B,2B,Stolen Base 2B,623993,Anthony Santander,656713,Brendan McKay,621006,Richie Martin,L,Mike Zunino,572287,0,1,5,False,2019-07-13,Stolen,2B,2019,2020,26.7
+4,2667,1B,,Caught Stealing 2B,623993,Anthony Santander,543118,Oliver Drake,596105,Dwight Smith Jr.,R,Mike Zunino,572287,5,3,7,True,2019-07-01,Caught,2B,2019,2020,26.7
+5,3615,1B,2B,Stolen Base 2B,623993,Anthony Santander,656713,Brendan McKay,621006,Richie Martin,L,Mike Zunino,572287,0,1,5,False,2019-05-05,Stolen,2B,2019,2020,26.7
+6,5386,1B,2B,Stolen Base 2B,623993,Anthony Santander,656713,Brendan McKay,621006,Richie Martin,L,Mike Zunino,572287,0,1,5,False,2019-07-13,Stolen,2B,2019,2020,26.7
+7,5510,1B,,Caught Stealing 2B,623993,Anthony Santander,543118,Oliver Drake,596105,Dwight Smith Jr.,R,Mike Zunino,572287,5,3,7,True,2019-07-01,Caught,2B,2019,2020,26.7
+8,6458,1B,2B,Stolen Base 2B,623993,Anthony Santander,656713,Brendan McKay,621006,Richie Martin,L,Mike Zunino,572287,0,1,5,False,2019-05-05,Stolen,2B,2019,2020,26.7
+9,7310,1B,2B,Stolen Base 2B,623993,Anthony Santander,656713,Brendan McKay,621006,Richie Martin,L,Mike Zunino,572287,0,1,5,False,2019-07-13,Stolen,2B,2019,2020,26.7
+10,7434,1B,,Caught Stealing 2B,623993,Anthony Santander,543118,Oliver Drake,596105,Dwight Smith Jr.,R,Mike Zunino,572287,5,3,7,True,2019-07-01,Caught,2B,2019,2020,26.7
+11,8382,1B,2B,Stolen Base 2B,623993,Anthony Santander,656713,Brendan McKay,621006,Richie Martin,L,Mike Zunino,572287,0,1,5,False,2019-05-05,Stolen,2B,2019,2020,26.7
+12,772,1B,2B,Stolen Base 2B,623993,Anthony Santander,666159,Matt Manning,621466,DJ Stewart,R,Eric Haase,606992,1,0,1,False,2021-08-12,Stolen,2B,2021,2022,26.6
+13,1437,1B,,Caught Stealing 2B,623993,Anthony Santander,668687,Andre Scrubb,663630,Ryan McKenna,R,Martín Maldonado,455117,1,1,4,True,2021-06-29,Caught,2B,2021,2022,26.6
+14,2696,1B,2B,Stolen Base 2B,623993,Anthony Santander,666159,Matt Manning,621466,DJ Stewart,R,Eric Haase,606992,1,0,1,False,2021-08-12,Stolen,2B,2021,2022,26.6
+15,3361,1B,,Caught Stealing 2B,623993,Anthony Santander,668687,Andre Scrubb,663630,Ryan McKenna,R,Martín Maldonado,455117,1,1,4,True,2021-06-29,Caught,2B,2021,2022,26.6
+16,261,1B,2B,Stolen Base 2B,623993,Anthony Santander,664299,Cristian Javier,656775,Cedric Mullins,R,Yainer Diaz,673237,0,1,1,True,2023-09-20,Stolen,2B,2023,2024,26.0
+17,689,1B,2B,Stolen Base 2B,623993,Anthony Santander,668678,Zac Gallen,656811,Ryan O'Hearn,R,Jose Herrera,645444,0,2,1,True,2023-09-03,Stolen,2B,2023,2024,26.0
+18,1809,1B,2B,Stolen Base 2B,623993,Anthony Santander,608638,JT Chargois,543305,Aaron Hicks,R,Nick Fortes,663743,6,5,7,False,2023-07-15,Stolen,2B,2023,2024,26.0
+19,1926,1B,,Caught Stealing 2B,623993,Anthony Santander,641927,Bailey Ober,656811,Ryan O'Hearn,R,Christian Vázquez,543877,0,0,1,True,2023-07-07,Caught,2B,2023,2024,26.0
+20,2068,1B,2B,Stolen Base 2B,623993,Anthony Santander,543243,Sonny Gray,656775,Cedric Mullins,R,Ryan Jeffers,680777,0,1,6,False,2023-07-02,Stolen,2B,2023,2024,26.0
+21,3212,1B,2B,Stolen Base 2B,623993,Anthony Santander,656605,Mitch Keller,683002,Gunnar Henderson,R,Austin Hedges,595978,0,1,1,False,2023-05-14,Stolen,2B,2023,2024,26.0
+22,4675,1B,2B,Stolen Base 2B,623993,Anthony Santander,664299,Cristian Javier,656775,Cedric Mullins,R,Yainer Diaz,673237,0,1,1,True,2023-09-20,Stolen,2B,2023,2024,26.0
+23,5103,1B,2B,Stolen Base 2B,623993,Anthony Santander,668678,Zac Gallen,656811,Ryan O'Hearn,R,Jose Herrera,645444,0,2,1,True,2023-09-03,Stolen,2B,2023,2024,26.0
+24,6223,1B,2B,Stolen Base 2B,623993,Anthony Santander,608638,JT Chargois,543305,Aaron Hicks,R,Nick Fortes,663743,6,5,7,False,2023-07-15,Stolen,2B,2023,2024,26.0
+25,6340,1B,,Caught Stealing 2B,623993,Anthony Santander,641927,Bailey Ober,656811,Ryan O'Hearn,R,Christian Vázquez,543877,0,0,1,True,2023-07-07,Caught,2B,2023,2024,26.0
+26,6482,1B,2B,Stolen Base 2B,623993,Anthony Santander,543243,Sonny Gray,656775,Cedric Mullins,R,Ryan Jeffers,680777,0,1,6,False,2023-07-02,Stolen,2B,2023,2024,26.0
+27,7626,1B,2B,Stolen Base 2B,623993,Anthony Santander,656605,Mitch Keller,683002,Gunnar Henderson,R,Austin Hedges,595978,0,1,1,False,2023-05-14,Stolen,2B,2023,2024,26.0
+28,1420,1B,,Caught Stealing 2B,623993,Anthony Santander,601713,Nick Pivetta,669720,Austin Hays,R,Christian Vázquez,543877,0,0,4,False,2022-05-01,Caught,2B,2022,2023,26.7
+29,543,1B,2B,Stolen Base 2B,623993,Anthony Santander,476454,Dellin Betances,641820,Trey Mancini,R,Gary Sánchez,596142,2,5,9,True,2018-04-05,Stolen,2B,2018,2019,27.5

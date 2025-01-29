@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,6120,2B,,Caught Stealing 3B,502317,Chris Heisey,605388,Adam Morgan,457787,Danny Espinosa,L,Cameron Rupp,519237,3,0,4,False,2016-06-12,Caught,3B,2016,2017,27.6
+1,2085,2B,,Caught Stealing 3B,502317,Chris Heisey,605388,Adam Morgan,457787,Danny Espinosa,L,Cameron Rupp,519237,3,0,4,False,2016-06-12,Caught,3B,2016,2017,27.6
+2,5492,2B,,Caught Stealing 3B,502317,Chris Heisey,605388,Adam Morgan,457787,Danny Espinosa,L,Cameron Rupp,519237,3,0,4,False,2016-06-12,Caught,3B,2016,2017,27.6

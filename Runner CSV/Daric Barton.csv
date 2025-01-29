@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+424,1B,2B,Stolen Base 2B,435558,Daric Barton,Jamie Burke,0,1,1,True,2007-09-12,Stolen,2B,2007
+179,1B,2B,Stolen Base 2B,435558,Daric Barton,Kenji Johjima,8,7,8,False,2008-09-20,Stolen,2B,2008
+671,1B,2B,Stolen Base 2B,435558,Daric Barton,Mike Napoli,0,2,2,True,2008-08-27,Stolen,2B,2008
+2033,1B,,Caught Stealing 2B,435558,Daric Barton,Steve Holm,1,5,6,True,2008-06-15,Caught,2B,2008
+414,1B,2B,Stolen Base 2B,435558,Daric Barton,Jarrod Saltalamacchia,3,2,8,False,2010-09-11,Stolen,2B,2010
+626,1B,2B,Stolen Base 2B,435558,Daric Barton,Chad Moeller,4,3,9,True,2010-09-01,Stolen,2B,2010
+768,1B,,Caught Stealing 2B,435558,Daric Barton,Lou Marson,0,1,5,True,2010-08-26,Caught,2B,2010
+845,1B,2B,Stolen Base 2B,435558,Daric Barton,Kelly Shoppach,0,0,1,False,2010-08-21,Stolen,2B,2010
+1260,1B,2B,Stolen Base 2B,435558,Daric Barton,Jason Kendall,3,0,4,False,2010-08-02,Stolen,2B,2010
+1465,1B,2B,Stolen Base 2B,435558,Daric Barton,Ramon Castro,4,2,2,False,2010-07-24,Stolen,2B,2010
+1558,1B,2B,Stolen Base 2B,435558,Daric Barton,Dusty Brown,0,4,3,False,2010-07-20,Stolen,2B,2010
+1643,2B,3B,Stolen Base 3B,435558,Daric Barton,Jason Kendall,5,5,7,True,2010-07-17,Stolen,3B,2010
+2157,1B,,Caught Stealing 2B,435558,Daric Barton,Jason LaRue,0,0,1,True,2010-06-20,Caught,2B,2010
+3693,1B,,Caught Stealing 2B,435558,Daric Barton,Adam Moore,0,0,1,True,2010-04-14,Caught,2B,2010
+2664,1B,2B,Stolen Base 2B,435558,Daric Barton,A.J. Pierzynski,5,3,8,True,2011-06-10,Stolen,2B,2011
+3128,1B,2B,Stolen Base 2B,435558,Daric Barton,Buster Posey,2,3,7,True,2011-05-22,Stolen,2B,2011
+3025,1B,2B,Stolen Base 2B,435558,Daric Barton,Bobby Wilson,2,0,4,False,2012-05-21,Stolen,2B,2012

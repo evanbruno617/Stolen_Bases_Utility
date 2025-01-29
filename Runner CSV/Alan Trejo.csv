@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+279,1B,,Caught Stealing 2B,676701,Alan Trejo,Yan Gomes,1,0,3,True,2022-09-16,Caught,2B,2022
+391,1B,,Caught Stealing 2B,676701,Alan Trejo,Carson Kelly,3,1,2,False,2022-09-09,Caught,2B,2022
+787,1B,2B,Stolen Base 2B,676701,Alan Trejo,Travis d'Arnaud,0,1,3,False,2023-08-30,Stolen,2B,2023
+2747,1B,2B,Stolen Base 2B,676701,Alan Trejo,Salvador Perez,2,6,8,True,2023-06-03,Stolen,2B,2023
+2971,2B,3B,Stolen Base 3B,676701,Alan Trejo,Nick Fortes,2,2,7,False,2023-05-25,Stolen,3B,2023
+3308,1B,2B,Stolen Base 2B,676701,Alan Trejo,Austin Hedges,3,3,4,True,2023-05-10,Stolen,2B,2023
+3700,1B,2B,Stolen Base 2B,676701,Alan Trejo,Mike Zunino,0,5,6,True,2023-04-25,Stolen,2B,2023

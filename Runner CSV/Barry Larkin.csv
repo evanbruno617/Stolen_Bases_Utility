@@ -1,0 +1,46 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1341,1B,2B,Stolen Base 2B,117501,Barry Larkin,Mike Redmond,0,2,4,False,2000-08-04,Stolen,2B,2000
+1481,1B,2B,Stolen Base 2B,117501,Barry Larkin,Chris Widger,3,3,10,True,2000-07-29,Stolen,2B,2000
+1581,1B,2B,Stolen Base 2B,117501,Barry Larkin,Mitch Meluskey,4,4,8,False,2000-07-25,Stolen,2B,2000
+1632,2B,,Caught Stealing 3B,117501,Barry Larkin,Damian Miller,0,0,1,False,2000-07-22,Caught,3B,2000
+1950,1B,2B,Stolen Base 2B,117501,Barry Larkin,Keith McDonald,0,0,1,True,2000-07-04,Stolen,2B,2000
+2195,1B,,Caught Stealing 2B,117501,Barry Larkin,Carlos Hernandez,4,5,7,False,2000-06-23,Caught,2B,2000
+2233,1B,2B,Stolen Base 2B,117501,Barry Larkin,Scott Servais,0,0,3,False,2000-06-21,Stolen,2B,2000
+2286,1B,,Caught Stealing 2B,117501,Barry Larkin,Wiki Gonzalez,8,7,9,True,2000-06-18,Caught,2B,2000
+2547,1B,2B,Stolen Base 2B,117501,Barry Larkin,Brook Fordyce,3,0,3,False,2000-06-07,Stolen,2B,2000
+2680,1B,2B,Stolen Base 2B,117501,Barry Larkin,Matthew LeCroy,1,1,4,False,2000-06-02,Stolen,2B,2000
+2904,1B,2B,Stolen Base 2B,117501,Barry Larkin,Todd Hundley,2,1,6,True,2000-05-22,Stolen,2B,2000
+3065,2B,3B,Stolen Base 3B,117501,Barry Larkin,Jason Kendall,4,1,6,False,2000-05-16,Stolen,3B,2000
+3067,1B,,Caught Stealing 2B,117501,Barry Larkin,Jason Kendall,6,2,8,False,2000-05-16,Caught,2B,2000
+3647,2B,3B,Stolen Base 3B,117501,Barry Larkin,Todd Hundley,0,0,1,False,2000-04-21,Stolen,3B,2000
+3720,1B,,Caught Stealing 2B,117501,Barry Larkin,Doug Mirabelli,8,9,6,False,2000-04-18,Caught,2B,2000
+3721,1B,2B,Stolen Base 2B,117501,Barry Larkin,Doug Mirabelli,8,10,8,False,2000-04-18,Stolen,2B,2000
+3764,2B,3B,Stolen Base 3B,117501,Barry Larkin,Todd Hundley,3,5,9,True,2000-04-15,Stolen,3B,2000
+3947,1B,,Caught Stealing 2B,117501,Barry Larkin,Joe Girardi,1,2,1,False,2000-04-08,Caught,2B,2000
+3994,2B,3B,Stolen Base 3B,117501,Barry Larkin,Tyler Houston,5,7,6,False,2000-04-05,Stolen,3B,2000
+4019,2B,3B,Stolen Base 3B,117501,Barry Larkin,Henry Blanco,1,5,9,False,2000-04-04,Stolen,3B,2000
+876,1B,2B,Stolen Base 2B,117501,Barry Larkin,Chad Kreuter,3,7,8,False,2001-05-02,Stolen,2B,2001
+953,1B,2B,Stolen Base 2B,117501,Barry Larkin,Ben Petrick,4,5,6,True,2001-04-28,Stolen,2B,2001
+1420,1B,2B,Stolen Base 2B,117501,Barry Larkin,Raul Casanova,0,0,3,True,2001-04-07,Stolen,2B,2001
+1421,1B,,Caught Stealing 2B,117501,Barry Larkin,Raul Casanova,3,0,6,True,2001-04-07,Caught,2B,2001
+458,1B,2B,Stolen Base 2B,117501,Barry Larkin,Paul Bako,0,1,3,True,2002-09-08,Stolen,2B,2002
+460,1B,2B,Stolen Base 2B,117501,Barry Larkin,Paul Bako,2,5,9,True,2002-09-08,Stolen,2B,2002
+614,1B,,Caught Stealing 2B,117501,Barry Larkin,Paul Bako,4,1,5,False,2002-08-30,Caught,2B,2002
+909,1B,2B,Stolen Base 2B,117501,Barry Larkin,Gregg Zaun,0,0,2,False,2002-08-16,Stolen,2B,2002
+910,2B,3B,Stolen Base 3B,117501,Barry Larkin,Gregg Zaun,0,0,2,False,2002-08-16,Stolen,3B,2002
+913,1B,,Caught Stealing 2B,117501,Barry Larkin,Gregg Zaun,3,0,3,False,2002-08-16,Caught,2B,2002
+1218,1B,2B,Stolen Base 2B,117501,Barry Larkin,Paul Lo Duca,4,9,8,False,2002-07-31,Stolen,2B,2002
+1531,1B,2B,Stolen Base 2B,117501,Barry Larkin,Robert Machado,0,3,8,True,2002-07-16,Stolen,2B,2002
+1717,2B,3B,Stolen Base 3B,117501,Barry Larkin,Robert Machado,2,1,5,False,2002-07-06,Stolen,3B,2002
+2232,1B,2B,Stolen Base 2B,117501,Barry Larkin,Bill Haselman,0,5,5,True,2002-06-11,Stolen,2B,2002
+2326,1B,2B,Stolen Base 2B,117501,Barry Larkin,Jorge Fabregas,4,1,8,True,2002-06-07,Stolen,2B,2002
+2483,1B,2B,Stolen Base 2B,117501,Barry Larkin,Henry Blanco,0,2,5,False,2002-05-31,Stolen,2B,2002
+2634,1B,,Caught Stealing 2B,117501,Barry Larkin,Javy Lopez,2,6,6,True,2002-05-25,Caught,2B,2002
+3221,1B,,Caught Stealing 2B,117501,Barry Larkin,Paul Lo Duca,0,4,8,True,2002-05-01,Caught,2B,2002
+3249,2B,3B,Stolen Base 3B,117501,Barry Larkin,Paul Lo Duca,0,2,3,True,2002-04-30,Stolen,3B,2002
+3692,2B,3B,Stolen Base 3B,117501,Barry Larkin,Mike Lieberthal,5,7,7,True,2002-04-12,Stolen,3B,2002
+3933,1B,2B,Stolen Base 2B,117501,Barry Larkin,Todd Hundley,4,2,7,False,2002-04-01,Stolen,2B,2002
+1511,1B,2B,Stolen Base 2B,117501,Barry Larkin,Eddie Pérez,7,7,9,True,2003-07-13,Stolen,2B,2003
+2049,1B,2B,Stolen Base 2B,117501,Barry Larkin,Damian Miller,0,0,1,False,2003-06-16,Stolen,2B,2003
+2891,1B,2B,Stolen Base 2B,117501,Barry Larkin,Gary Bennett,9,6,8,False,2004-05-06,Stolen,2B,2004
+3249,2B,3B,Stolen Base 3B,117501,Barry Larkin,Michael Barrett,0,0,1,True,2004-04-18,Stolen,3B,2004

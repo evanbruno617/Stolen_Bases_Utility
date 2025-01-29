@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2081,1B,,Caught Stealing 2B,123040,Mark Sweeney,Matt Walbeck,1,0,2,True,2003-06-15,Caught,2B,2003
+2396,1B,2B,Stolen Base 2B,123040,Mark Sweeney,Ramon Hernandez,1,4,7,True,2004-05-31,Stolen,2B,2004
+1152,1B,2B,Stolen Base 2B,123040,Mark Sweeney,Humberto Cota,0,2,4,True,2005-08-02,Stolen,2B,2005
+1633,3B,score,Stolen Base Home,123040,Mark Sweeney,Brad Ausmus,5,3,7,True,2005-07-06,Stolen,Home,2005
+2886,1B,2B,Stolen Base 2B,123040,Mark Sweeney,Todd Greene,1,1,7,False,2005-05-03,Stolen,2B,2005
+1366,1B,2B,Stolen Base 2B,123040,Mark Sweeney,Russell Martin,1,3,8,True,2007-07-31,Stolen,2B,2007
+2898,1B,2B,Stolen Base 2B,123040,Mark Sweeney,Jason Kendall,3,2,7,True,2007-05-19,Stolen,2B,2007

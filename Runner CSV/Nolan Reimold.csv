@@ -1,0 +1,24 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+153,1B,2B,Stolen Base 2B,460099,Nolan Reimold,Brayan Peña,2,3,3,False,2009-07-27,Stolen,2B,2009
+177,1B,2B,Stolen Base 2B,460099,Nolan Reimold,George Kottaras,1,6,8,True,2009-07-26,Stolen,2B,2009
+217,1B,2B,Stolen Base 2B,460099,Nolan Reimold,Jason Varitek,0,1,2,True,2009-07-24,Stolen,2B,2009
+341,1B,2B,Stolen Base 2B,460099,Nolan Reimold,Ramon Castro,0,1,2,True,2009-07-19,Stolen,2B,2009
+432,1B,2B,Stolen Base 2B,460099,Nolan Reimold,Raul Chavez,2,0,4,False,2009-07-12,Stolen,2B,2009
+652,1B,2B,Stolen Base 2B,460099,Nolan Reimold,Mike Napoli,1,0,5,True,2009-07-02,Stolen,2B,2009
+3922,1B,,Caught Stealing 2B,460099,Nolan Reimold,Henry Blanco,0,0,5,False,2010-04-03,Caught,2B,2010
+3950,1B,2B,Stolen Base 2B,460099,Nolan Reimold,Mike Rivera,4,0,5,True,2010-04-02,Stolen,2B,2010
+251,1B,2B,Stolen Base 2B,460099,Nolan Reimold,Jarrod Saltalamacchia,5,4,6,True,2011-09-20,Stolen,2B,2011
+364,1B,2B,Stolen Base 2B,460099,Nolan Reimold,Jeff Mathis,1,0,3,False,2011-09-16,Stolen,2B,2011
+437,1B,2B,Stolen Base 2B,460099,Nolan Reimold,John Jaso,1,2,7,False,2011-09-13,Stolen,2B,2011
+572,1B,2B,Stolen Base 2B,460099,Nolan Reimold,Russell Martin,2,1,2,True,2011-09-07,Stolen,2B,2011
+574,1B,2B,Stolen Base 2B,460099,Nolan Reimold,Russell Martin,4,4,10,True,2011-09-07,Stolen,2B,2011
+626,1B,2B,Stolen Base 2B,460099,Nolan Reimold,Russell Martin,11,10,9,True,2011-09-05,Stolen,2B,2011
+2438,1B,2B,Stolen Base 2B,460099,Nolan Reimold,Wilson Ramos,3,6,8,True,2011-06-19,Stolen,2B,2011
+2869,1B,,Caught Stealing 2B,460099,Nolan Reimold,Miguel Olivo,0,1,2,True,2011-06-01,Caught,2B,2011
+3045,1B,,Caught Stealing 2B,460099,Nolan Reimold,Brayan Peña,5,5,6,False,2011-05-26,Caught,2B,2011
+3946,1B,2B,Stolen Base 2B,460099,Nolan Reimold,J.P. Arencibia,5,4,8,True,2012-04-13,Stolen,2B,2012
+938,1B,2B,Stolen Base 2B,460099,Nolan Reimold,Tyler Flowers,0,2,2,True,2014-08-16,Stolen,2B,2014
+975,1B,,Caught Stealing 2B,460099,Nolan Reimold,Bobby Wilson,4,3,6,True,2016-06-20,Caught,2B,2016
+1660,1B,2B,Stolen Base 2B,460099,Nolan Reimold,James McCann,3,2,2,False,2016-05-15,Stolen,2B,2016
+2156,1B,,Caught Stealing 2B,460099,Nolan Reimold,Josh Thole,3,3,9,False,2016-04-20,Caught,2B,2016
+2192,1B,,Caught Stealing 2B,460099,Nolan Reimold,Bobby Wilson,4,3,6,True,2016-04-17,Caught,2B,2016

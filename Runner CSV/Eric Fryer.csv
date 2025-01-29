@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1645,1B,2B,Stolen Base 2B,518700,Eric Fryer,Gerald Laird,1,1,3,False,2011-07-24,Stolen,2B,2011
+1837,1B,,Caught Stealing 2B,518700,Eric Fryer,Carlos Corporán,3,4,8,True,2011-07-17,Caught,2B,2011
+27,3B,,Caught Stealing Home,518700,Eric Fryer,Derek Norris,4,0,4,False,2016-08-11,Caught,Home,2016
+992,1B,,Caught Stealing 2B,518700,Eric Fryer,Robinson Chirinos,2,2,5,False,2016-06-19,Caught,2B,2016

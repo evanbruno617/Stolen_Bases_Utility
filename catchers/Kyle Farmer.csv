@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,665742,Juan Soto,545333,Trevor Bauer,452678,Asdrúbal Cabrera,R,Kyle Farmer,571657,0,0,2,False,2019-08-14,Stolen,2B,2019,2020, --, --
+1,1B,2B,Stolen Base 2B,645302,Victor Robles,545333,Trevor Bauer,544931,Stephen Strasburg,R,Kyle Farmer,571657,0,0,3,False,2019-08-14,Stolen,2B,2019,2020, --, --
+2,1B,2B,Stolen Base 2B,621028,Kevin Newman,608371,Lucas Sims,607732,Jacob Stallings,R,Kyle Farmer,571657,2,7,5,True,2019-07-30,Stolen,2B,2019,2020, --, --
+3,2B,3B,Stolen Base 3B,621028,Kevin Newman,608371,Lucas Sims,607732,Jacob Stallings,R,Kyle Farmer,571657,2,7,5,True,2019-07-30,Stolen,3B,2019,2020, --, --
+4,1B,2B,Stolen Base 2B,665742,Juan Soto,545333,Trevor Bauer,452678,Asdrúbal Cabrera,R,Kyle Farmer,571657,0,0,2,False,2019-08-14,Stolen,2B,2019,2020, --, --
+5,1B,2B,Stolen Base 2B,645302,Victor Robles,545333,Trevor Bauer,544931,Stephen Strasburg,R,Kyle Farmer,571657,0,0,3,False,2019-08-14,Stolen,2B,2019,2020, --, --
+6,1B,2B,Stolen Base 2B,621028,Kevin Newman,608371,Lucas Sims,607732,Jacob Stallings,R,Kyle Farmer,571657,2,7,5,True,2019-07-30,Stolen,2B,2019,2020, --, --
+7,2B,3B,Stolen Base 3B,621028,Kevin Newman,608371,Lucas Sims,607732,Jacob Stallings,R,Kyle Farmer,571657,2,7,5,True,2019-07-30,Stolen,3B,2019,2020, --, --
+8,1B,2B,Stolen Base 2B,665742,Juan Soto,545333,Trevor Bauer,452678,Asdrúbal Cabrera,R,Kyle Farmer,571657,0,0,2,False,2019-08-14,Stolen,2B,2019,2020, --, --
+9,1B,2B,Stolen Base 2B,645302,Victor Robles,545333,Trevor Bauer,544931,Stephen Strasburg,R,Kyle Farmer,571657,0,0,3,False,2019-08-14,Stolen,2B,2019,2020, --, --
+10,1B,2B,Stolen Base 2B,621028,Kevin Newman,608371,Lucas Sims,607732,Jacob Stallings,R,Kyle Farmer,571657,2,7,5,True,2019-07-30,Stolen,2B,2019,2020, --, --
+11,2B,3B,Stolen Base 3B,621028,Kevin Newman,608371,Lucas Sims,607732,Jacob Stallings,R,Kyle Farmer,571657,2,7,5,True,2019-07-30,Stolen,3B,2019,2020, --, --

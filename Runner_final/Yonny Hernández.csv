@@ -1,0 +1,27 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,90,1B,2B,Stolen Base 2B,660634,Yonny Hernández,621139,Brooks Kriske,665750,Leody Taveras,R,Nick Ciuffo,624419,0,0,7,True,2021-09-25,Stolen,2B,2021,2022,26.8
+1,118,1B,2B,Stolen Base 2B,660634,Yonny Hernández,642121,Cole Sulser,665750,Leody Taveras,R,Austin Wynns,642851,2,0,7,True,2021-09-23,Stolen,2B,2021,2022,26.8
+2,291,1B,2B,Stolen Base 2B,660634,Yonny Hernández,641726,Daulton Jefferies,665750,Leody Taveras,R,Yan Gomes,543228,1,4,6,True,2021-09-12,Stolen,2B,2021,2022,26.8
+3,359,1B,2B,Stolen Base 2B,660634,Yonny Hernández,596133,Luke Weaver,624431,Jose Trevino,R,Carson Kelly,608348,2,3,4,True,2021-09-08,Stolen,2B,2021,2022,26.8
+4,366,1B,2B,Stolen Base 2B,660634,Yonny Hernández,668678,Zac Gallen,663993,Nathaniel Lowe,R,Carson Kelly,608348,1,0,4,True,2021-09-07,Stolen,2B,2021,2022,26.8
+5,388,1B,2B,Stolen Base 2B,660634,Yonny Hernández,623474,Jimmy Herget,665750,Leody Taveras,R,Max Stassi,545358,0,5,4,True,2021-09-05,Stolen,2B,2021,2022,26.8
+6,389,1B,2B,Stolen Base 2B,660634,Yonny Hernández,502593,Jake Petricka,665750,Leody Taveras,R,Max Stassi,545358,1,6,6,True,2021-09-05,Stolen,2B,2021,2022,26.8
+7,499,1B,,Caught Stealing 2B,660634,Yonny Hernández,608566,Germán Márquez,643396,Isiah Kiner-Falefa,R,Elias Díaz,553869,0,0,1,False,2021-08-30,Caught,2B,2021,2022,26.8
+8,528,1B,2B,Stolen Base 2B,660634,Yonny Hernández,608665,Kendall Graveman,643396,Isiah Kiner-Falefa,R,Martín Maldonado,455117,2,5,8,False,2021-08-28,Stolen,2B,2021,2022,26.8
+9,748,1B,2B,Stolen Base 2B,660634,Yonny Hernández,621076,James Kaprielian,666969,Adolis García,R,Sean Murphy,669221,0,1,1,False,2021-08-14,Stolen,2B,2021,2022,26.8
+10,803,1B,2B,Stolen Base 2B,660634,Yonny Hernández,669302,Logan Gilbert,666969,Adolis García,R,Tom Murphy,608596,0,0,1,True,2021-08-10,Stolen,2B,2021,2022,26.8
+11,805,1B,2B,Stolen Base 2B,660634,Yonny Hernández,657024,Erik Swanson,666969,Adolis García,R,Tom Murphy,608596,3,5,10,True,2021-08-10,Stolen,2B,2021,2022,26.8
+12,2014,1B,2B,Stolen Base 2B,660634,Yonny Hernández,621139,Brooks Kriske,665750,Leody Taveras,R,Nick Ciuffo,624419,0,0,7,True,2021-09-25,Stolen,2B,2021,2022,26.8
+13,2042,1B,2B,Stolen Base 2B,660634,Yonny Hernández,642121,Cole Sulser,665750,Leody Taveras,R,Austin Wynns,642851,2,0,7,True,2021-09-23,Stolen,2B,2021,2022,26.8
+14,2215,1B,2B,Stolen Base 2B,660634,Yonny Hernández,641726,Daulton Jefferies,665750,Leody Taveras,R,Yan Gomes,543228,1,4,6,True,2021-09-12,Stolen,2B,2021,2022,26.8
+15,2283,1B,2B,Stolen Base 2B,660634,Yonny Hernández,596133,Luke Weaver,624431,Jose Trevino,R,Carson Kelly,608348,2,3,4,True,2021-09-08,Stolen,2B,2021,2022,26.8
+16,2290,1B,2B,Stolen Base 2B,660634,Yonny Hernández,668678,Zac Gallen,663993,Nathaniel Lowe,R,Carson Kelly,608348,1,0,4,True,2021-09-07,Stolen,2B,2021,2022,26.8
+17,2312,1B,2B,Stolen Base 2B,660634,Yonny Hernández,623474,Jimmy Herget,665750,Leody Taveras,R,Max Stassi,545358,0,5,4,True,2021-09-05,Stolen,2B,2021,2022,26.8
+18,2313,1B,2B,Stolen Base 2B,660634,Yonny Hernández,502593,Jake Petricka,665750,Leody Taveras,R,Max Stassi,545358,1,6,6,True,2021-09-05,Stolen,2B,2021,2022,26.8
+19,2423,1B,,Caught Stealing 2B,660634,Yonny Hernández,608566,Germán Márquez,643396,Isiah Kiner-Falefa,R,Elias Díaz,553869,0,0,1,False,2021-08-30,Caught,2B,2021,2022,26.8
+20,2452,1B,2B,Stolen Base 2B,660634,Yonny Hernández,608665,Kendall Graveman,643396,Isiah Kiner-Falefa,R,Martín Maldonado,455117,2,5,8,False,2021-08-28,Stolen,2B,2021,2022,26.8
+21,2672,1B,2B,Stolen Base 2B,660634,Yonny Hernández,621076,James Kaprielian,666969,Adolis García,R,Sean Murphy,669221,0,1,1,False,2021-08-14,Stolen,2B,2021,2022,26.8
+22,2727,1B,2B,Stolen Base 2B,660634,Yonny Hernández,669302,Logan Gilbert,666969,Adolis García,R,Tom Murphy,608596,0,0,1,True,2021-08-10,Stolen,2B,2021,2022,26.8
+23,2729,1B,2B,Stolen Base 2B,660634,Yonny Hernández,657024,Erik Swanson,666969,Adolis García,R,Tom Murphy,608596,3,5,10,True,2021-08-10,Stolen,2B,2021,2022,26.8
+24,1599,1B,2B,Stolen Base 2B,660634,Yonny Hernández,607200,Erick Fedde,662139,Daulton Varsho,R,Keibert Ruiz,660688,0,6,4,True,2022-04-20,Stolen,2B,2022,2023,25.6
+25,1695,1B,2B,Stolen Base 2B,660634,Yonny Hernández,471911,Carlos Carrasco,606466,Ketel Marte,R,James McCann,543510,0,0,5,True,2022-04-16,Stolen,2B,2022,2023,25.6

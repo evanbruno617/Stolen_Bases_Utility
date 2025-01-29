@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+564,1B,,Caught Stealing 2B,663853,Romy Gonzalez,MJ Melendez,2,1,5,False,2022-08-31,Caught,2B,2022
+2461,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,Austin Barnes,4,6,9,True,2023-06-14,Stolen,2B,2023
+2632,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,Kyle Higashioka,5,4,6,True,2023-06-08,Stolen,2B,2023
+2633,2B,3B,Stolen Base 3B,663853,Romy Gonzalez,Kyle Higashioka,5,4,6,True,2023-06-08,Stolen,3B,2023
+2751,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,Eric Haase,1,1,8,False,2023-06-03,Stolen,2B,2023
+2842,2B,3B,Stolen Base 3B,663853,Romy Gonzalez,Chad Wallach,6,3,4,False,2023-05-30,Stolen,3B,2023
+3048,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,Salvador Perez,0,2,3,False,2023-05-21,Stolen,2B,2023
+4067,1B,2B,Stolen Base 2B,663853,Romy Gonzalez,Tyler Heineman,1,0,5,True,2023-04-09,Stolen,2B,2023

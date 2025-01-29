@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1544,1B,2B,Stolen Base 2B,119987,Joe Oliver,Ramon Hernandez,1,0,2,False,2000-07-26,Stolen,2B,2000
+1980,1B,,Caught Stealing 2B,119987,Joe Oliver,Ivan Rodriguez,0,1,5,True,2000-07-02,Caught,2B,2000
+2059,1B,2B,Stolen Base 2B,119987,Joe Oliver,Bengie Molina,0,2,3,False,2000-06-28,Stolen,2B,2000

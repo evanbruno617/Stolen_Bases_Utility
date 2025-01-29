@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+27,1B,2B,Stolen Base 2B,133224,Ryan Jackson,Jason Varitek,3,3,12,True,2001-06-05,Stolen,2B,2001
+55,1B,,Caught Stealing 2B,133224,Ryan Jackson,Josh Paul,0,0,4,True,2001-06-03,Caught,2B,2001
+413,1B,2B,Stolen Base 2B,133224,Ryan Jackson,John Flaherty,5,8,8,True,2001-05-19,Stolen,2B,2001

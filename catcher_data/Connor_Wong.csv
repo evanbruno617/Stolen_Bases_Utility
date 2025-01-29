@@ -1,0 +1,95 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,,Caught Stealing 2B,665120,Jared Walsh,Connor Wong,5,2,7,False,2021-07-06,Caught,2B,2021
+1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,Connor Wong,0,0,1,True,2023-09-24,Stolen,2B,2023
+1B,2B,Stolen Base 2B,657757,Gavin Sheets,Connor Wong,1,0,5,True,2023-09-24,Stolen,2B,2023
+1B,2B,Stolen Base 2B,673357,Luis Robert Jr.,Connor Wong,1,0,6,True,2023-09-22,Stolen,2B,2023
+2B,3B,Stolen Base 3B,673357,Luis Robert Jr.,Connor Wong,1,1,6,True,2023-09-22,Stolen,3B,2023
+1B,2B,Stolen Base 2B,664314,Estevan Florial,Connor Wong,1,0,5,True,2023-09-14,Stolen,2B,2023
+1B,2B,Stolen Base 2B,664314,Estevan Florial,Connor Wong,1,0,5,True,2023-09-13,Stolen,2B,2023
+1B,2B,Stolen Base 2B,677592,Everson Pereira,Connor Wong,1,1,5,True,2023-09-12,Stolen,2B,2023
+1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,Connor Wong,1,2,8,True,2023-09-12,Stolen,2B,2023
+1B,2B,Stolen Base 2B,677592,Everson Pereira,Connor Wong,1,2,9,True,2023-09-12,Stolen,2B,2023
+1B,2B,Stolen Base 2B,670042,Luke Raley,Connor Wong,0,0,2,False,2023-09-06,Stolen,2B,2023
+1B,2B,Stolen Base 2B,672580,Maikel Garcia,Connor Wong,0,0,3,False,2023-09-03,Stolen,2B,2023
+1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,Connor Wong,1,4,6,False,2023-09-03,Stolen,2B,2023
+1B,2B,Stolen Base 2B,671221,Drew Waters,Connor Wong,3,7,9,False,2023-09-03,Stolen,2B,2023
+1B,2B,Stolen Base 2B,680118,Dairon Blanco,Connor Wong,3,7,9,False,2023-09-03,Stolen,2B,2023
+1B,,Caught Stealing 2B,677951,Bobby Witt Jr.,Connor Wong,7,0,4,False,2023-09-01,Caught,2B,2023
+1B,2B,Stolen Base 2B,663656,Kyle Tucker,Connor Wong,4,8,6,True,2023-08-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,642708,Amed Rosario,Connor Wong,2,4,7,True,2023-08-27,Stolen,2B,2023
+1B,2B,Stolen Base 2B,676801,Chas McCormick,Connor Wong,5,0,7,False,2023-08-22,Stolen,2B,2023
+1B,2B,Stolen Base 2B,669023,Jeter Downs,Connor Wong,0,1,3,False,2023-08-17,Stolen,2B,2023
+1B,2B,Stolen Base 2B,682928,CJ Abrams,Connor Wong,9,7,8,False,2023-08-17,Stolen,2B,2023
+2B,3B,Stolen Base 3B,682928,CJ Abrams,Connor Wong,9,7,8,False,2023-08-17,Stolen,3B,2023
+1B,2B,Stolen Base 2B,682928,CJ Abrams,Connor Wong,2,0,5,False,2023-08-16,Stolen,2B,2023
+1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,Connor Wong,0,0,1,True,2023-08-08,Stolen,2B,2023
+1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,Connor Wong,0,3,4,True,2023-08-08,Stolen,2B,2023
+1B,2B,Stolen Base 2B,672580,Maikel Garcia,Connor Wong,2,3,6,True,2023-08-08,Stolen,2B,2023
+1B,2B,Stolen Base 2B,658668,Edward Olivares,Connor Wong,2,6,6,True,2023-08-08,Stolen,2B,2023
+1B,2B,Stolen Base 2B,671221,Drew Waters,Connor Wong,2,7,7,True,2023-08-08,Stolen,2B,2023
+2B,3B,Stolen Base 3B,664728,Kyle Isbel,Connor Wong,2,7,7,True,2023-08-08,Stolen,3B,2023
+2B,3B,Stolen Base 3B,543807,George Springer,Connor Wong,0,2,3,True,2023-08-05,Stolen,3B,2023
+1B,2B,Stolen Base 2B,553993,Eugenio Suárez,Connor Wong,6,3,7,False,2023-08-02,Stolen,2B,2023
+3B,score,Stolen Base Home,677594,Julio Rodríguez,Connor Wong,6,3,7,False,2023-08-02,Stolen,Home,2023
+1B,,Caught Stealing 2B,657088,Forrest Wall,Connor Wong,5,3,9,True,2023-07-26,Caught,2B,2023
+1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,Connor Wong,2,1,2,True,2023-07-25,Stolen,2B,2023
+1B,2B,Stolen Base 2B,671739,Michael Harris II,Connor Wong,5,1,7,True,2023-07-25,Stolen,2B,2023
+1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,Connor Wong,5,1,7,True,2023-07-25,Stolen,2B,2023
+1B,2B,Stolen Base 2B,596019,Francisco Lindor,Connor Wong,4,5,9,True,2023-07-22,Stolen,2B,2023
+1B,2B,Stolen Base 2B,596019,Francisco Lindor,Connor Wong,4,5,9,True,2023-07-21,Stolen,2B,2023
+1B,2B,Stolen Base 2B,670156,Miles Mastrobuoni,Connor Wong,0,1,3,False,2023-07-16,Stolen,2B,2023
+1B,2B,Stolen Base 2B,666624,Christopher Morel,Connor Wong,3,8,9,False,2023-07-14,Stolen,2B,2023
+2B,3B,Stolen Base 3B,595281,Kevin Kiermaier,Connor Wong,3,2,3,False,2023-07-02,Stolen,3B,2023
+1B,2B,Stolen Base 2B,543807,George Springer,Connor Wong,3,2,3,False,2023-07-02,Stolen,2B,2023
+1B,2B,Stolen Base 2B,665489,Vladimir Guerrero Jr.,Connor Wong,4,2,6,False,2023-07-02,Stolen,2B,2023
+1B,2B,Stolen Base 2B,656305,Matt Chapman,Connor Wong,1,0,2,False,2023-07-01,Stolen,2B,2023
+2B,3B,Stolen Base 3B,662139,Daulton Varsho,Connor Wong,5,6,8,False,2023-07-01,Stolen,3B,2023
+1B,2B,Stolen Base 2B,676391,Ernie Clement,Connor Wong,5,6,8,False,2023-07-01,Stolen,2B,2023
+1B,,Caught Stealing 2B,641505,Jonathan Davis,Connor Wong,0,2,9,True,2023-06-29,Caught,2B,2023
+1B,2B,Stolen Base 2B,621563,Joey Wendle,Connor Wong,0,2,9,True,2023-06-29,Stolen,2B,2023
+1B,2B,Stolen Base 2B,621563,Joey Wendle,Connor Wong,1,1,5,True,2023-06-28,Stolen,2B,2023
+1B,,Caught Stealing 2B,650559,Bryan De La Cruz,Connor Wong,1,6,6,True,2023-06-27,Caught,2B,2023
+1B,,Caught Stealing 2B,640449,Clint Frazier,Connor Wong,2,1,5,False,2023-06-24,Caught,2B,2023
+1B,2B,Stolen Base 2B,621545,Zach Remillard,Connor Wong,5,4,9,False,2023-06-24,Stolen,2B,2023
+1B,2B,Stolen Base 2B,668904,Royce Lewis,Connor Wong,5,0,3,False,2023-06-22,Stolen,2B,2023
+1B,,Caught Stealing 2B,686668,Brenton Doyle,Connor Wong,1,0,3,True,2023-06-14,Caught,2B,2023
+1B,2B,Stolen Base 2B,686668,Brenton Doyle,Connor Wong,1,0,6,True,2023-06-14,Stolen,2B,2023
+1B,,Caught Stealing 2B,643396,Isiah Kiner-Falefa,Connor Wong,0,0,2,False,2023-06-09,Caught,2B,2023
+1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,Connor Wong,2,3,7,False,2023-06-09,Stolen,2B,2023
+1B,,Caught Stealing 2B,665926,Andrés Giménez,Connor Wong,1,1,2,False,2023-06-07,Caught,2B,2023
+1B,2B,Stolen Base 2B,666139,Josh Lowe,Connor Wong,1,3,5,True,2023-06-04,Stolen,2B,2023
+1B,2B,Stolen Base 2B,668227,Randy Arozarena,Connor Wong,0,0,2,True,2023-06-03,Stolen,2B,2023
+2B,3B,Stolen Base 3B,623912,Harold Ramírez,Connor Wong,1,1,6,True,2023-06-03,Stolen,3B,2023
+2B,3B,Stolen Base 3B,642350,Jose Siri,Connor Wong,1,2,6,True,2023-06-03,Stolen,3B,2023
+1B,2B,Stolen Base 2B,606466,Ketel Marte,Connor Wong,4,0,5,False,2023-05-28,Stolen,2B,2023
+1B,2B,Stolen Base 2B,664983,Jake McCarthy,Connor Wong,1,5,5,False,2023-05-26,Stolen,2B,2023
+1B,2B,Stolen Base 2B,665742,Juan Soto,Connor Wong,2,4,9,False,2023-05-20,Stolen,2B,2023
+1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,Connor Wong,3,1,9,True,2023-05-13,Stolen,2B,2023
+1B,2B,Stolen Base 2B,657557,Paul DeJong,Connor Wong,6,6,9,True,2023-05-12,Stolen,2B,2023
+1B,2B,Stolen Base 2B,663457,Lars Nootbaar,Connor Wong,6,8,9,True,2023-05-12,Stolen,2B,2023
+1B,2B,Stolen Base 2B,671739,Michael Harris II,Connor Wong,0,0,3,False,2023-05-10,Stolen,2B,2023
+1B,,Caught Stealing 2B,592663,J.T. Realmuto,Connor Wong,0,0,2,False,2023-05-07,Caught,2B,2023
+1B,,Caught Stealing 2B,624641,Edmundo Sosa,Connor Wong,4,1,7,False,2023-05-07,Caught,2B,2023
+1B,2B,Stolen Base 2B,595281,Kevin Kiermaier,Connor Wong,3,0,5,True,2023-05-02,Stolen,2B,2023
+1B,,Caught Stealing 2B,608070,José Ramírez,Connor Wong,3,1,4,True,2023-04-29,Caught,2B,2023
+1B,2B,Stolen Base 2B,647304,Josh Naylor,Connor Wong,3,1,4,True,2023-04-29,Stolen,2B,2023
+1B,2B,Stolen Base 2B,664702,Myles Straw,Connor Wong,6,5,9,True,2023-04-29,Stolen,2B,2023
+1B,,Caught Stealing 2B,602104,Ramón Urías,Connor Wong,0,1,2,False,2023-04-24,Caught,2B,2023
+1B,2B,Stolen Base 2B,686894,Joey Wiemer,Connor Wong,3,3,7,False,2023-04-23,Stolen,2B,2023
+1B,,Caught Stealing 2B,592273,Brandon Drury,Connor Wong,0,1,2,True,2023-04-16,Caught,2B,2023
+1B,,Caught Stealing 2B,650859,Luis Rengifo,Connor Wong,0,2,2,True,2023-04-14,Caught,2B,2023
+1B,2B,Stolen Base 2B,668227,Randy Arozarena,Connor Wong,0,0,1,False,2023-04-10,Stolen,2B,2023
+1B,2B,Stolen Base 2B,656775,Cedric Mullins,Connor Wong,8,6,4,True,2022-09-27,Stolen,2B,2022
+2B,3B,Stolen Base 3B,622761,Jorge Mateo,Connor Wong,13,9,7,True,2022-09-27,Stolen,3B,2022
+2B,3B,Stolen Base 3B,665828,Oswaldo Cabrera,Connor Wong,0,0,4,False,2022-09-25,Stolen,3B,2022
+1B,2B,Stolen Base 2B,650402,Gleyber Torres,Connor Wong,1,0,5,False,2022-09-25,Stolen,2B,2022
+1B,2B,Stolen Base 2B,681987,Nate Eaton,Connor Wong,0,1,3,True,2022-09-17,Stolen,2B,2022
+1B,2B,Stolen Base 2B,669004,MJ Melendez,Connor Wong,0,3,5,True,2022-09-17,Stolen,2B,2022
+2B,3B,Stolen Base 3B,596059,Rougned Odor,Connor Wong,0,1,7,False,2022-09-11,Stolen,3B,2022
+1B,2B,Stolen Base 2B,650490,Yandy Díaz,Connor Wong,0,0,1,False,2022-09-07,Stolen,2B,2022
+1B,2B,Stolen Base 2B,670764,Taylor Walls,Connor Wong,1,0,5,False,2022-09-07,Stolen,2B,2022
+1B,2B,Stolen Base 2B,543760,Marcus Semien,Connor Wong,0,0,1,True,2022-09-04,Stolen,2B,2022
+1B,,Caught Stealing 2B,665750,Leody Taveras,Connor Wong,5,2,6,True,2022-09-04,Caught,2B,2022
+1B,2B,Stolen Base 2B,669352,Bubba Thompson,Connor Wong,1,0,3,True,2022-09-02,Stolen,2B,2022
+1B,2B,Stolen Base 2B,666971,Lourdes Gurriel Jr.,Connor Wong,1,5,7,True,2022-04-20,Stolen,2B,2022
+1B,2B,Stolen Base 2B,606132,Raimel Tapia,Connor Wong,1,6,7,True,2022-04-20,Stolen,2B,2022

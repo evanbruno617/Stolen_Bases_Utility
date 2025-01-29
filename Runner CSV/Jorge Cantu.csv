@@ -1,0 +1,12 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1466,1B,2B,Stolen Base 2B,408305,Jorge Cantu,Gregg Zaun,2,1,4,True,2005-07-17,Stolen,2B,2005
+806,1B,2B,Stolen Base 2B,408305,Jorge Cantu,Pablo Sandoval,3,3,8,True,2008-08-21,Stolen,2B,2008
+873,1B,2B,Stolen Base 2B,408305,Jorge Cantu,Geovany Soto,2,0,6,False,2008-08-17,Stolen,2B,2008
+1368,1B,2B,Stolen Base 2B,408305,Jorge Cantu,Brian McCann,0,0,4,False,2008-07-22,Stolen,2B,2008
+1486,1B,2B,Stolen Base 2B,408305,Jorge Cantu,Russell Martin,0,1,1,True,2008-07-12,Stolen,2B,2008
+2099,1B,,Caught Stealing 2B,408305,Jorge Cantu,Dioner Navarro,0,2,1,True,2008-06-13,Caught,2B,2008
+2809,1B,,Caught Stealing 2B,408305,Jorge Cantu,Paul Bako,2,3,6,True,2008-05-12,Caught,2B,2008
+3390,1B,2B,Stolen Base 2B,408305,Jorge Cantu,Brian McCann,4,1,3,False,2008-04-16,Stolen,2B,2008
+3629,1B,2B,Stolen Base 2B,408305,Jorge Cantu,Ryan Doumit,2,5,7,False,2008-04-06,Stolen,2B,2008
+180,1B,2B,Stolen Base 2B,408305,Jorge Cantu,Russell Martin,1,1,4,True,2009-07-25,Stolen,2B,2009
+2492,1B,2B,Stolen Base 2B,408305,Jorge Cantu,Brian McCann,4,4,7,True,2009-04-15,Stolen,2B,2009

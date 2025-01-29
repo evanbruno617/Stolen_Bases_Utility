@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+646,1B,2B,Stolen Base 2B,116780,Wally Joyner,Brandon Inge,2,5,5,True,2001-05-11,Stolen,2B,2001
+789,1B,,Caught Stealing 2B,116780,Wally Joyner,Brandon Inge,4,4,6,False,2001-05-04,Caught,2B,2001

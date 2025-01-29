@@ -1,0 +1,46 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,642731,Thairo Estrada,606625,Reyes Moronta,458731,Brett Gardner,R,Erik Kratz,456124,4,8,8,True,2019-04-28,Stolen,2B,2019,2020, 81.1, 0.76
+1,2B,3B,Stolen Base 3B,572821,Brian Dozier,664157,Travis Bergen,594694,Wilmer Difo,L,Erik Kratz,456124,4,1,8,False,2019-04-18,Stolen,3B,2019,2020, 81.1, 0.76
+2,1B,,Caught Stealing 2B,571448,Nolan Arenado,519141,Drew Pomeranz,596115,Trevor Story,L,Erik Kratz,456124,0,0,1,True,2019-04-12,Caught,2B,2019,2020, 81.1, 0.76
+3,1B,2B,Stolen Base 2B,596115,Trevor Story,519141,Drew Pomeranz,435622,Ian Desmond,L,Erik Kratz,456124,0,2,4,True,2019-04-12,Stolen,2B,2019,2020, 81.1, 0.76
+4,1B,2B,Stolen Base 2B,571448,Nolan Arenado,606625,Reyes Moronta,435622,Ian Desmond,R,Erik Kratz,456124,1,2,6,True,2019-04-12,Stolen,2B,2019,2020, 81.1, 0.76
+5,1B,2B,Stolen Base 2B,650490,Yandy Díaz,519141,Drew Pomeranz,502054,Tommy Pham,L,Erik Kratz,456124,0,1,3,True,2019-04-07,Stolen,2B,2019,2020, 81.1, 0.76
+6,1B,2B,Stolen Base 2B,642731,Thairo Estrada,606625,Reyes Moronta,458731,Brett Gardner,R,Erik Kratz,456124,4,8,8,True,2019-04-28,Stolen,2B,2019,2020, 81.1, 0.76
+7,2B,3B,Stolen Base 3B,572821,Brian Dozier,664157,Travis Bergen,594694,Wilmer Difo,L,Erik Kratz,456124,4,1,8,False,2019-04-18,Stolen,3B,2019,2020, 81.1, 0.76
+8,1B,,Caught Stealing 2B,571448,Nolan Arenado,519141,Drew Pomeranz,596115,Trevor Story,L,Erik Kratz,456124,0,0,1,True,2019-04-12,Caught,2B,2019,2020, 81.1, 0.76
+9,1B,2B,Stolen Base 2B,596115,Trevor Story,519141,Drew Pomeranz,435622,Ian Desmond,L,Erik Kratz,456124,0,2,4,True,2019-04-12,Stolen,2B,2019,2020, 81.1, 0.76
+10,1B,2B,Stolen Base 2B,571448,Nolan Arenado,606625,Reyes Moronta,435622,Ian Desmond,R,Erik Kratz,456124,1,2,6,True,2019-04-12,Stolen,2B,2019,2020, 81.1, 0.76
+11,1B,2B,Stolen Base 2B,650490,Yandy Díaz,519141,Drew Pomeranz,502054,Tommy Pham,L,Erik Kratz,456124,0,1,3,True,2019-04-07,Stolen,2B,2019,2020, 81.1, 0.76
+12,1B,2B,Stolen Base 2B,642731,Thairo Estrada,606625,Reyes Moronta,458731,Brett Gardner,R,Erik Kratz,456124,4,8,8,True,2019-04-28,Stolen,2B,2019,2020, 81.1, 0.76
+13,2B,3B,Stolen Base 3B,572821,Brian Dozier,664157,Travis Bergen,594694,Wilmer Difo,L,Erik Kratz,456124,4,1,8,False,2019-04-18,Stolen,3B,2019,2020, 81.1, 0.76
+14,1B,,Caught Stealing 2B,571448,Nolan Arenado,519141,Drew Pomeranz,596115,Trevor Story,L,Erik Kratz,456124,0,0,1,True,2019-04-12,Caught,2B,2019,2020, 81.1, 0.76
+15,1B,2B,Stolen Base 2B,596115,Trevor Story,519141,Drew Pomeranz,435622,Ian Desmond,L,Erik Kratz,456124,0,2,4,True,2019-04-12,Stolen,2B,2019,2020, 81.1, 0.76
+16,1B,2B,Stolen Base 2B,571448,Nolan Arenado,606625,Reyes Moronta,435622,Ian Desmond,R,Erik Kratz,456124,1,2,6,True,2019-04-12,Stolen,2B,2019,2020, 81.1, 0.76
+17,1B,2B,Stolen Base 2B,650490,Yandy Díaz,519141,Drew Pomeranz,502054,Tommy Pham,L,Erik Kratz,456124,0,1,3,True,2019-04-07,Stolen,2B,2019,2020, 81.1, 0.76
+18,1B,,Caught Stealing 2B,457787,Danny Espinosa,641771,Chad Kuhl,453286,Max Scherzer,R,Erik Kratz,456124,0,1,6,False,2016-07-17,Caught,2B,2016,2017, --, --
+19,1B,2B,Stolen Base 2B,607208,Trea Turner,504379,Juan Nicasio,150029,Jayson Werth,R,Erik Kratz,456124,1,1,14,False,2016-07-17,Stolen,2B,2016,2017, --, --
+20,1B,,Caught Stealing 2B,572761,Matt Carpenter,477003,Jonathon Niese,407812,Matt Holliday,L,Erik Kratz,456124,0,0,1,False,2016-07-04,Caught,2B,2016,2017, --, --
+21,1B,2B,Stolen Base 2B,542993,Billy Burns,504379,Juan Nicasio,424825,Coco Crisp,R,Erik Kratz,456124,2,2,9,False,2016-07-02,Stolen,2B,2016,2017, --, --
+22,1B,2B,Stolen Base 2B,435062,Howie Kendrick,453172,Jared Hughes,475100,Scott Van Slyke,R,Erik Kratz,456124,4,4,5,True,2016-06-27,Stolen,2B,2016,2017, --, --
+23,1B,2B,Stolen Base 2B,595879,Javier Báez,477003,Jonathon Niese,608365,Addison Russell,L,Erik Kratz,456124,1,3,4,False,2016-06-18,Stolen,2B,2016,2017, --, --
+24,3B,,Caught Stealing Home,572039,Stephen Piscotty,477003,Jonathon Niese,461235,Brandon Moss,L,Erik Kratz,456124,0,4,3,True,2016-06-12,Caught,Home,2016,2017, --, --
+25,1B,2B,Stolen Base 2B,571757,Jeremy Hazelbaker,543746,Rob Scahill,425509,Jhonny Peralta,R,Erik Kratz,456124,0,5,7,True,2016-06-11,Stolen,2B,2016,2017, --, --
+26,1B,2B,Stolen Base 2B,544369,Didi Gregorius,448609,Tony Sipp,453056,Jacoby Ellsbury,L,Erik Kratz,456124,8,5,8,False,2016-04-07,Stolen,2B,2016,2017, --, --
+27,1B,,Caught Stealing 2B,457787,Danny Espinosa,641771,Chad Kuhl,453286,Max Scherzer,R,Erik Kratz,456124,0,1,6,False,2016-07-17,Caught,2B,2016,2017, --, --
+28,1B,2B,Stolen Base 2B,607208,Trea Turner,504379,Juan Nicasio,150029,Jayson Werth,R,Erik Kratz,456124,1,1,14,False,2016-07-17,Stolen,2B,2016,2017, --, --
+29,1B,,Caught Stealing 2B,572761,Matt Carpenter,477003,Jonathon Niese,407812,Matt Holliday,L,Erik Kratz,456124,0,0,1,False,2016-07-04,Caught,2B,2016,2017, --, --
+30,1B,2B,Stolen Base 2B,542993,Billy Burns,504379,Juan Nicasio,424825,Coco Crisp,R,Erik Kratz,456124,2,2,9,False,2016-07-02,Stolen,2B,2016,2017, --, --
+31,1B,2B,Stolen Base 2B,435062,Howie Kendrick,453172,Jared Hughes,475100,Scott Van Slyke,R,Erik Kratz,456124,4,4,5,True,2016-06-27,Stolen,2B,2016,2017, --, --
+32,1B,2B,Stolen Base 2B,595879,Javier Báez,477003,Jonathon Niese,608365,Addison Russell,L,Erik Kratz,456124,1,3,4,False,2016-06-18,Stolen,2B,2016,2017, --, --
+33,3B,,Caught Stealing Home,572039,Stephen Piscotty,477003,Jonathon Niese,461235,Brandon Moss,L,Erik Kratz,456124,0,4,3,True,2016-06-12,Caught,Home,2016,2017, --, --
+34,1B,2B,Stolen Base 2B,571757,Jeremy Hazelbaker,543746,Rob Scahill,425509,Jhonny Peralta,R,Erik Kratz,456124,0,5,7,True,2016-06-11,Stolen,2B,2016,2017, --, --
+35,1B,2B,Stolen Base 2B,544369,Didi Gregorius,448609,Tony Sipp,453056,Jacoby Ellsbury,L,Erik Kratz,456124,8,5,8,False,2016-04-07,Stolen,2B,2016,2017, --, --
+36,1B,,Caught Stealing 2B,457787,Danny Espinosa,641771,Chad Kuhl,453286,Max Scherzer,R,Erik Kratz,456124,0,1,6,False,2016-07-17,Caught,2B,2016,2017, --, --
+37,1B,2B,Stolen Base 2B,607208,Trea Turner,504379,Juan Nicasio,150029,Jayson Werth,R,Erik Kratz,456124,1,1,14,False,2016-07-17,Stolen,2B,2016,2017, --, --
+38,1B,,Caught Stealing 2B,572761,Matt Carpenter,477003,Jonathon Niese,407812,Matt Holliday,L,Erik Kratz,456124,0,0,1,False,2016-07-04,Caught,2B,2016,2017, --, --
+39,1B,2B,Stolen Base 2B,542993,Billy Burns,504379,Juan Nicasio,424825,Coco Crisp,R,Erik Kratz,456124,2,2,9,False,2016-07-02,Stolen,2B,2016,2017, --, --
+40,1B,2B,Stolen Base 2B,435062,Howie Kendrick,453172,Jared Hughes,475100,Scott Van Slyke,R,Erik Kratz,456124,4,4,5,True,2016-06-27,Stolen,2B,2016,2017, --, --
+41,1B,2B,Stolen Base 2B,595879,Javier Báez,477003,Jonathon Niese,608365,Addison Russell,L,Erik Kratz,456124,1,3,4,False,2016-06-18,Stolen,2B,2016,2017, --, --
+42,3B,,Caught Stealing Home,572039,Stephen Piscotty,477003,Jonathon Niese,461235,Brandon Moss,L,Erik Kratz,456124,0,4,3,True,2016-06-12,Caught,Home,2016,2017, --, --
+43,1B,2B,Stolen Base 2B,571757,Jeremy Hazelbaker,543746,Rob Scahill,425509,Jhonny Peralta,R,Erik Kratz,456124,0,5,7,True,2016-06-11,Stolen,2B,2016,2017, --, --
+44,1B,2B,Stolen Base 2B,544369,Didi Gregorius,448609,Tony Sipp,453056,Jacoby Ellsbury,L,Erik Kratz,456124,8,5,8,False,2016-04-07,Stolen,2B,2016,2017, --, --

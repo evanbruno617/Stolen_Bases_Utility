@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+380,1B,,Caught Stealing 2B,542897,Xavier Avery,Derek Norris,3,2,9,True,2012-09-14,Caught,2B,2012
+1968,1B,2B,Stolen Base 2B,542897,Xavier Avery,John Hester,3,4,4,True,2012-07-05,Stolen,2B,2012
+2161,1B,2B,Stolen Base 2B,542897,Xavier Avery,Lou Marson,0,3,3,False,2012-06-28,Stolen,2B,2012
+2898,1B,2B,Stolen Base 2B,542897,Xavier Avery,Humberto Quintero,2,2,4,False,2012-05-27,Stolen,2B,2012
+2951,1B,2B,Stolen Base 2B,542897,Xavier Avery,Brayan Peña,1,0,5,False,2012-05-25,Stolen,2B,2012
+2995,1B,2B,Stolen Base 2B,542897,Xavier Avery,Kelly Shoppach,2,1,2,False,2012-05-23,Stolen,2B,2012
+2996,2B,,Caught Stealing 3B,542897,Xavier Avery,Kelly Shoppach,2,1,2,False,2012-05-23,Caught,3B,2012
+3062,1B,2B,Stolen Base 2B,542897,Xavier Avery,Jesus Flores,0,3,2,True,2012-05-20,Stolen,2B,2012
+2494,1B,2B,Stolen Base 2B,542897,Xavier Avery,Carlos Ruiz,3,6,5,True,2016-04-01,Stolen,2B,2016

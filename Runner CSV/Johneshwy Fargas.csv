@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+879,1B,2B,Stolen Base 2B,641561,Johneshwy Fargas,Seby Zavala,4,4,8,False,2021-08-06,Stolen,2B,2021
+890,1B,,Caught Stealing 2B,641561,Johneshwy Fargas,Elias Díaz,2,3,6,True,2021-08-04,Caught,2B,2021
+963,1B,,Caught Stealing 2B,641561,Johneshwy Fargas,Tres Barrera,1,6,8,True,2021-07-31,Caught,2B,2021

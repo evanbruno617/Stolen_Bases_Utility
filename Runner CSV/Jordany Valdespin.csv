@@ -1,0 +1,22 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+118,1B,2B,Stolen Base 2B,518170,Jordany Valdespin,Rod Barajas,4,8,7,False,2012-09-25,Stolen,2B,2012
+354,2B,3B,Stolen Base 3B,518170,Jordany Valdespin,Jonathan Lucroy,1,1,4,True,2012-09-15,Stolen,3B,2012
+383,1B,,Caught Stealing 2B,518170,Jordany Valdespin,Jonathan Lucroy,2,4,3,True,2012-09-14,Caught,2B,2012
+504,2B,3B,Stolen Base 3B,518170,Jordany Valdespin,Brian McCann,2,3,10,False,2012-09-09,Stolen,3B,2012
+888,1B,2B,Stolen Base 2B,518170,Jordany Valdespin,Wilin Rosario,0,0,1,False,2012-08-23,Stolen,2B,2012
+891,1B,,Caught Stealing 2B,518170,Jordany Valdespin,Wilin Rosario,0,0,3,False,2012-08-23,Caught,2B,2012
+1122,1B,2B,Stolen Base 2B,518170,Jordany Valdespin,Brian McCann,6,1,8,False,2012-08-12,Stolen,2B,2012
+1432,1B,2B,Stolen Base 2B,518170,Jordany Valdespin,Eli Whiteside,4,2,8,True,2012-07-30,Stolen,2B,2012
+1972,1B,2B,Stolen Base 2B,518170,Jordany Valdespin,Carlos Ruiz,4,5,9,False,2012-07-05,Stolen,2B,2012
+2331,1B,,Caught Stealing 2B,518170,Jordany Valdespin,Matt Wieters,0,0,1,False,2012-06-20,Caught,2B,2012
+2484,1B,2B,Stolen Base 2B,518170,Jordany Valdespin,Jose Lobaton,4,6,4,True,2012-06-14,Stolen,2B,2012
+2524,1B,2B,Stolen Base 2B,518170,Jordany Valdespin,José Molina,0,1,1,True,2012-06-12,Stolen,2B,2012
+3441,2B,3B,Stolen Base 3B,518170,Jordany Valdespin,Miguel Montero,4,5,8,False,2012-05-04,Stolen,3B,2012
+2249,2B,,Caught Stealing 3B,518170,Jordany Valdespin,Miguel Olivo,0,0,1,False,2013-06-09,Caught,3B,2013
+2357,1B,,Caught Stealing 2B,518170,Jordany Valdespin,Kurt Suzuki,1,2,7,True,2013-06-04,Caught,2B,2013
+2988,1B,2B,Stolen Base 2B,518170,Jordany Valdespin,Evan Gattis,5,5,10,True,2013-05-03,Stolen,2B,2013
+3243,2B,3B,Stolen Base 3B,518170,Jordany Valdespin,Kurt Suzuki,0,0,1,False,2013-04-21,Stolen,3B,2013
+3450,1B,,Caught Stealing 2B,518170,Jordany Valdespin,Erik Kratz,0,0,1,True,2013-04-10,Caught,2B,2013
+3545,1B,2B,Stolen Base 2B,518170,Jordany Valdespin,Rob Brantly,0,0,1,False,2013-04-05,Stolen,2B,2013
+3574,1B,2B,Stolen Base 2B,518170,Jordany Valdespin,John Baker,0,1,7,False,2013-04-04,Stolen,2B,2013
+224,1B,2B,Stolen Base 2B,518170,Jordany Valdespin,Wilson Ramos,2,3,7,False,2014-09-19,Stolen,2B,2014

@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,681,1B,2B,Stolen Base 2B,675656,Kevin Smith,680704,Nick Sandlin,643393,Tony Kemp,R,Luke Maile,571912,0,2,7,True,2022-06-10,Stolen,2B,2022,2023,27.3
+1,981,1B,2B,Stolen Base 2B,675656,Kevin Smith,592662,Robbie Ray,665506,Cristian Pache,L,Luis Torrens,620443,0,3,6,True,2022-05-25,Stolen,2B,2022,2023,27.3
+2,1261,1B,2B,Stolen Base 2B,675656,Kevin Smith,605177,Andrew Chafin,642456,Luis Barrera,L,Eric Haase,606992,0,2,7,True,2022-05-10,Stolen,2B,2022,2023,27.3
+3,1429,1B,2B,Stolen Base 2B,675656,Kevin Smith,669456,Shane Bieber,664119,Austin Allen,R,Luke Maile,571912,0,1,4,False,2022-04-30,Stolen,2B,2022,2023,27.3
+4,1879,1B,2B,Stolen Base 2B,675656,Kevin Smith,659275,Dinelson Lamet,572039,Stephen Piscotty,R,Jorge Alfaro,595751,4,0,5,False,2022-04-03,Stolen,2B,2022,2023,27.3

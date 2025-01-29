@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1,1B,2B,Stolen Base 2B,425821,Todd Linden,Chris Snyder,2,2,2,False,2005-09-30,Stolen,2B,2005
+510,1B,2B,Stolen Base 2B,425821,Todd Linden,Dioner Navarro,1,3,9,True,2005-09-05,Stolen,2B,2005
+734,1B,2B,Stolen Base 2B,425821,Todd Linden,Mike Lieberthal,4,4,3,False,2005-08-24,Stolen,2B,2005
+166,1B,2B,Stolen Base 2B,425821,Todd Linden,Paul Lo Duca,0,0,2,False,2007-09-23,Stolen,2B,2007
+675,1B,2B,Stolen Base 2B,425821,Todd Linden,Chris Coste,8,4,5,False,2007-09-01,Stolen,2B,2007
+1213,1B,2B,Stolen Base 2B,425821,Todd Linden,Carlos Ruiz,4,3,4,True,2007-08-08,Stolen,2B,2007
+1478,1B,2B,Stolen Base 2B,425821,Todd Linden,Miguel Montero,0,2,2,True,2007-07-26,Stolen,2B,2007

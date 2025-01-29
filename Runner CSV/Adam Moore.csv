@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+537,1B,,Caught Stealing 2B,446192,Adam Moore,Chris Gimenez,1,0,5,False,2010-09-05,Caught,2B,2010
+2406,1B,2B,Stolen Base 2B,446192,Adam Moore,A.J. Pierzynski,1,1,7,True,2013-06-01,Stolen,2B,2013

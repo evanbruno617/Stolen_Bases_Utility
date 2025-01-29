@@ -1,0 +1,4 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,114260,Cliff Floyd,Mandy Romero,1,0,1,False,2003-08-17,Stolen,2B,2003
+1B,2B,Stolen Base 2B,340192,Marco Scutaro,Mandy Romero,5,0,5,False,2003-08-17,Stolen,2B,2003
+1B,2B,Caught Stealing 2B,112155,Roger Cedeno,Mandy Romero,6,3,8,False,2003-08-17,Caught,2B,2003

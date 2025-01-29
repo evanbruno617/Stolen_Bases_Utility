@@ -1,0 +1,13 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+161,1B,,Caught Stealing 2B,110862,Mike Benjamin,Raul Casanova,2,4,9,True,2000-09-23,Caught,2B,2000
+275,2B,3B,Stolen Base 3B,110862,Mike Benjamin,Gary Bennett,4,2,6,True,2000-09-19,Stolen,3B,2000
+1128,1B,2B,Stolen Base 2B,110862,Mike Benjamin,Kelly Stinnett,6,6,5,False,2000-08-13,Stolen,2B,2000
+2873,1B,,Caught Stealing 2B,110862,Mike Benjamin,Kelly Stinnett,6,5,9,True,2000-05-24,Caught,2B,2000
+3029,1B,,Caught Stealing 2B,110862,Mike Benjamin,Benito Santiago,0,0,1,True,2000-05-17,Caught,2B,2000
+3174,1B,2B,Stolen Base 2B,110862,Mike Benjamin,Mike Piazza,0,2,1,False,2000-05-11,Stolen,2B,2000
+3459,2B,3B,Stolen Base 3B,110862,Mike Benjamin,Eddie Taubensee,3,1,4,False,2000-04-29,Stolen,3B,2000
+3802,1B,2B,Stolen Base 2B,110862,Mike Benjamin,Mike Piazza,4,4,10,False,2000-04-14,Stolen,2B,2000
+760,1B,,Caught Stealing 2B,110862,Mike Benjamin,Jorge Fabregas,3,2,5,True,2002-08-23,Caught,2B,2002
+3128,1B,,Caught Stealing 2B,110862,Mike Benjamin,Damian Miller,2,3,9,True,2002-05-06,Caught,2B,2002
+3138,1B,,Caught Stealing 2B,110862,Mike Benjamin,Tom Lampkin,4,3,4,True,2002-05-05,Caught,2B,2002
+3867,2B,,Caught Stealing 3B,110862,Mike Benjamin,Todd Hundley,1,2,9,True,2002-04-05,Caught,3B,2002

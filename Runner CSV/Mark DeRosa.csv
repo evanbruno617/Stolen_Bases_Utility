@@ -1,0 +1,28 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+14,1B,2B,Stolen Base 2B,136660,Mark DeRosa,Vance Wilson,1,1,4,True,2002-09-29,Stolen,2B,2002
+258,1B,,Caught Stealing 2B,136660,Mark DeRosa,Mike Lieberthal,2,1,8,False,2002-09-17,Caught,2B,2002
+277,1B,2B,Stolen Base 2B,136660,Mark DeRosa,Mike Redmond,0,1,1,True,2002-09-16,Stolen,2B,2002
+294,1B,,Caught Stealing 2B,136660,Mark DeRosa,Charles Johnson,0,0,1,True,2002-09-15,Caught,2B,2002
+1236,1B,,Caught Stealing 2B,136660,Mark DeRosa,Robert Machado,3,1,7,False,2002-07-30,Caught,2B,2002
+1612,1B,2B,Stolen Base 2B,136660,Mark DeRosa,Jason Phillips,0,3,2,True,2003-07-09,Stolen,2B,2003
+1299,1B,,Caught Stealing 2B,136660,Mark DeRosa,Jason Kendall,0,1,6,True,2004-07-28,Caught,2B,2004
+2600,2B,,Caught Stealing 3B,136660,Mark DeRosa,Paul Lo Duca,0,0,3,False,2004-05-21,Caught,3B,2004
+3421,1B,2B,Stolen Base 2B,136660,Mark DeRosa,Paul Bako,1,1,5,False,2004-04-10,Stolen,2B,2004
+786,1B,2B,Stolen Base 2B,136660,Mark DeRosa,Toby Hall,3,2,4,True,2005-08-21,Stolen,2B,2005
+569,1B,2B,Stolen Base 2B,136660,Mark DeRosa,Mike Lieberthal,4,2,7,False,2007-09-05,Stolen,2B,2007
+1666,1B,,Caught Stealing 2B,136660,Mark DeRosa,Bengie Molina,0,0,2,False,2007-07-18,Caught,2B,2007
+3216,1B,,Caught Stealing 2B,136660,Mark DeRosa,Brian Schneider,3,4,4,False,2007-05-04,Caught,2B,2007
+654,1B,2B,Stolen Base 2B,136660,Mark DeRosa,Carlos Ruiz,0,2,5,False,2008-08-29,Stolen,2B,2008
+949,1B,2B,Stolen Base 2B,136660,Mark DeRosa,Brian McCann,0,4,3,True,2008-08-13,Stolen,2B,2008
+950,1B,2B,Stolen Base 2B,136660,Mark DeRosa,Brian McCann,0,4,3,True,2008-08-12,Stolen,2B,2008
+1159,1B,2B,Stolen Base 2B,136660,Mark DeRosa,Ryan Doumit,3,1,4,False,2008-08-02,Stolen,2B,2008
+2675,1B,2B,Stolen Base 2B,136660,Mark DeRosa,Ronny Paulino,3,2,4,False,2008-05-18,Stolen,2B,2008
+2974,1B,2B,Stolen Base 2B,136660,Mark DeRosa,Paul Bako,3,1,2,True,2008-05-05,Stolen,2B,2008
+3331,1B,2B,Stolen Base 2B,136660,Mark DeRosa,Ryan Doumit,5,0,3,False,2008-04-19,Stolen,2B,2008
+3332,2B,3B,Stolen Base 2B,136660,Mark DeRosa,Ryan Doumit,5,0,3,False,2008-04-19,Stolen,2B,2008
+828,1B,2B,Stolen Base 2B,136660,Mark DeRosa,Jason Jaramillo,2,2,8,True,2009-06-25,Stolen,2B,2009
+2259,1B,,Caught Stealing 2B,136660,Mark DeRosa,Jose Morales,4,0,6,False,2009-04-26,Caught,2B,2009
+3355,1B,,Caught Stealing 2B,136660,Mark DeRosa,Brian Schneider,0,0,4,False,2010-04-28,Caught,2B,2010
+3367,1B,,Caught Stealing 2B,136660,Mark DeRosa,Carlos Ruiz,2,1,4,False,2010-04-27,Caught,2B,2010
+810,1B,2B,Stolen Base 2B,136660,Mark DeRosa,Humberto Quintero,1,1,10,False,2011-08-27,Stolen,2B,2011
+1790,1B,2B,Stolen Base 2B,136660,Mark DeRosa,Josh Thole,2,0,8,False,2012-07-17,Stolen,2B,2012

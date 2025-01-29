@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3200,1B,,Caught Stealing 2B,425784,René Rivera,503449,Wily Peralta,501571,Juan Lagares,R,Manny Piña,444489,1,3,4,True,2017-05-14,Caught,2B,2017,2018,24.5
+1,2572,1B,,Caught Stealing 2B,425784,René Rivera,503449,Wily Peralta,501571,Juan Lagares,R,Manny Piña,444489,1,3,4,True,2017-05-14,Caught,2B,2017,2018,24.5

@@ -1,0 +1,9 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,337,2B,3B,Stolen Base 3B,408234,Miguel Cabrera,608337,Lucas Giolito,663662,Daz Cameron,R,James McCann,543510,0,3,6,True,2020-09-11,Stolen,3B,2020,2021,24.0
+1,3180,2B,3B,Stolen Base 3B,408234,Miguel Cabrera,608337,Lucas Giolito,663662,Daz Cameron,R,James McCann,543510,0,3,6,True,2020-09-11,Stolen,3B,2020,2021,24.0
+2,5104,2B,3B,Stolen Base 3B,408234,Miguel Cabrera,608337,Lucas Giolito,663662,Daz Cameron,R,James McCann,543510,0,3,6,True,2020-09-11,Stolen,3B,2020,2021,24.0
+3,61,2B,3B,Stolen Base 3B,408234,Miguel Cabrera,621016,Jose Cuas,650489,Willi Castro,R,MJ Melendez,669004,3,5,7,True,2022-07-12,Stolen,3B,2022,2023,23.1
+4,3897,1B,,Caught Stealing 2B,408234,Miguel Cabrera,598264,Matt Barnes,457708,Justin Upton,R,Sandy León,506702,4,3,7,False,2017-04-09,Caught,2B,2017,2018,24.1
+5,3269,1B,,Caught Stealing 2B,408234,Miguel Cabrera,598264,Matt Barnes,457708,Justin Upton,R,Sandy León,506702,4,3,7,False,2017-04-09,Caught,2B,2017,2018,24.1
+6,1704,2B,,Caught Stealing 3B,408234,Miguel Cabrera,430641,Blaine Boyer,502110,J.D. Martinez,R,Kurt Suzuki,435559,2,5,7,True,2015-04-27,Caught,3B,2015,2016,24.4
+7,2098,2B,3B,Stolen Base 3B,408234,Miguel Cabrera,502083,Zach McAllister,502110,J.D. Martinez,R,Yan Gomes,543228,0,3,4,True,2015-04-10,Stolen,3B,2015,2016,24.4

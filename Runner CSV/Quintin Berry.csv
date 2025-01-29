@@ -1,0 +1,31 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+44,1B,2B,Stolen Base 2B,450641,Quintin Berry,Ryan Doumit,0,2,5,True,2012-09-29,Stolen,2B,2012
+186,1B,2B,Stolen Base 2B,450641,Quintin Berry,Joe Mauer,2,0,3,False,2012-09-22,Stolen,2B,2012
+547,1B,2B,Stolen Base 2B,450641,Quintin Berry,Chris Iannetta,2,2,9,True,2012-09-07,Stolen,2B,2012
+653,1B,2B,Stolen Base 2B,450641,Quintin Berry,Lou Marson,0,1,1,False,2012-09-03,Stolen,2B,2012
+894,1B,2B,Stolen Base 2B,450641,Quintin Berry,Jeff Mathis,2,2,11,False,2012-08-23,Stolen,2B,2012
+1084,1B,2B,Stolen Base 2B,450641,Quintin Berry,Joe Mauer,0,4,6,True,2012-08-15,Stolen,2B,2012
+1608,1B,2B,Stolen Base 2B,450641,Quintin Berry,Carlos Santana,0,0,1,True,2012-07-24,Stolen,2B,2012
+1816,1B,2B,Stolen Base 2B,450641,Quintin Berry,John Hester,4,5,7,False,2012-07-16,Stolen,2B,2012
+1817,2B,3B,Stolen Base 3B,450641,Quintin Berry,John Hester,5,5,7,False,2012-07-16,Stolen,3B,2012
+2213,1B,2B,Stolen Base 2B,450641,Quintin Berry,Mike Napoli,0,5,2,True,2012-06-25,Stolen,2B,2012
+2247,1B,2B,Stolen Base 2B,450641,Quintin Berry,Michael McKenry,2,2,8,True,2012-06-24,Stolen,2B,2012
+2316,1B,2B,Stolen Base 2B,450641,Quintin Berry,Rod Barajas,0,0,1,True,2012-06-22,Stolen,2B,2012
+2402,1B,2B,Stolen Base 2B,450641,Quintin Berry,Wil Nieves,4,0,4,False,2012-06-17,Stolen,2B,2012
+2497,1B,2B,Stolen Base 2B,450641,Quintin Berry,Steve Clevenger,4,8,8,True,2012-06-13,Stolen,2B,2012
+2677,1B,2B,Stolen Base 2B,450641,Quintin Berry,Lou Marson,1,0,1,False,2012-06-05,Stolen,2B,2012
+2720,1B,2B,Stolen Base 2B,450641,Quintin Berry,Russell Martin,0,0,1,False,2012-06-02,Stolen,2B,2012
+2794,1B,2B,Stolen Base 2B,450641,Quintin Berry,Jarrod Saltalamacchia,2,2,3,True,2012-05-31,Stolen,2B,2012
+2795,1B,2B,Stolen Base 2B,450641,Quintin Berry,Jarrod Saltalamacchia,3,4,5,True,2012-05-31,Stolen,2B,2012
+2888,1B,2B,Stolen Base 2B,450641,Quintin Berry,Joe Mauer,0,2,3,True,2012-05-27,Stolen,2B,2012
+2893,1B,2B,Stolen Base 2B,450641,Quintin Berry,Joe Mauer,3,2,9,True,2012-05-27,Stolen,2B,2012
+2935,1B,2B,Stolen Base 2B,450641,Quintin Berry,Joe Mauer,5,7,7,True,2012-05-25,Stolen,2B,2012
+16,1B,2B,Stolen Base 2B,450641,Quintin Berry,Steve Clevenger,5,5,6,True,2013-09-29,Stolen,2B,2013
+27,1B,2B,Stolen Base 2B,450641,Quintin Berry,Matt Wieters,6,5,9,True,2013-09-28,Stolen,2B,2013
+508,1B,2B,Stolen Base 2B,450641,Quintin Berry,Austin Romine,8,8,9,True,2013-09-05,Stolen,2B,2013
+385,1B,2B,Stolen Base 2B,450641,Quintin Berry,John Ryan Murphy,0,0,9,False,2014-09-12,Stolen,2B,2014
+1003,1B,2B,Stolen Base 2B,450641,Quintin Berry,John Ryan Murphy,0,0,9,False,2014-08-12,Stolen,2B,2014
+186,1B,,Caught Stealing 2B,450641,Quintin Berry,Tony Cruz,3,4,9,False,2015-09-20,Caught,2B,2015
+20,1B,2B,Stolen Base 2B,450641,Quintin Berry,Carson Kelly,7,6,9,True,2017-09-30,Stolen,2B,2017
+206,1B,,Caught Stealing 2B,450641,Quintin Berry,Elias Díaz,3,2,7,True,2017-09-20,Caught,2B,2017
+232,1B,2B,Stolen Base 2B,450641,Quintin Berry,Elias Díaz,0,1,9,True,2017-09-19,Stolen,2B,2017

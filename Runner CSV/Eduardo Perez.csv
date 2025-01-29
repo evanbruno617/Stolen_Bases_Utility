@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1445,1B,2B,Stolen Base 2B,120408,Eduardo Perez,Michael Barrett,0,1,4,True,2000-07-31,Stolen,2B,2000
+43,1B,2B,Stolen Base 2B,120408,Eduardo Perez,Rod Barajas,1,3,3,True,2003-09-27,Stolen,2B,2003
+969,1B,2B,Stolen Base 2B,120408,Eduardo Perez,Javy Lopez,0,0,1,False,2003-08-10,Stolen,2B,2003
+1417,1B,2B,Stolen Base 2B,120408,Eduardo Perez,David Ross,3,5,3,True,2003-07-20,Stolen,2B,2003
+1534,2B,3B,Stolen Base 3B,120408,Eduardo Perez,Gary Bennett,6,6,5,False,2003-07-12,Stolen,3B,2003
+2268,1B,2B,Stolen Base 2B,120408,Eduardo Perez,Tom Wilson,4,0,3,False,2003-06-05,Stolen,2B,2003
+2910,2B,,Caught Stealing 3B,120408,Eduardo Perez,Jason LaRue,4,4,9,True,2003-05-05,Caught,3B,2003
+2918,1B,2B,Caught Stealing 3B,120408,Eduardo Perez,Gerald Laird,0,1,2,True,2004-05-04,Caught,3B,2004
+573,1B,,Caught Stealing 2B,120408,Eduardo Perez,Gregg Zaun,2,3,6,True,2005-09-02,Caught,2B,2005

@@ -1,0 +1,24 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+125,1B,,Caught Stealing 2B,623912,Harold Ramírez,Wilson Ramos,4,4,10,True,2019-09-24,Caught,2B,2019
+1671,1B,2B,Stolen Base 2B,623912,Harold Ramírez,Elias Díaz,0,0,2,False,2019-06-15,Stolen,2B,2019
+1790,2B,3B,Stolen Base 3B,623912,Harold Ramírez,Tyler Flowers,0,1,8,False,2019-06-08,Stolen,3B,2019
+1226,1B,,Caught Stealing 2B,623912,Harold Ramírez,J.T. Realmuto,0,1,4,True,2020-07-24,Caught,2B,2020
+781,1B,,Caught Stealing 2B,623912,Harold Ramírez,Yan Gomes,2,0,1,False,2021-08-11,Caught,2B,2021
+1090,1B,2B,Stolen Base 2B,623912,Harold Ramírez,Francisco Mejía,3,1,4,False,2021-07-22,Stolen,2B,2021
+1868,1B,2B,Stolen Base 2B,623912,Harold Ramírez,Zack Collins,3,3,3,False,2021-06-01,Stolen,2B,2021
+2004,1B,2B,Stolen Base 2B,623912,Harold Ramírez,Eric Haase,3,3,6,True,2021-05-24,Stolen,2B,2021
+823,1B,,Caught Stealing 2B,623912,Harold Ramírez,Jose Trevino,1,3,6,True,2022-08-16,Caught,2B,2022
+1422,1B,,Caught Stealing 2B,623912,Harold Ramírez,Christian Vázquez,7,5,6,False,2022-07-11,Caught,2B,2022
+1663,1B,2B,Stolen Base 2B,623912,Harold Ramírez,Victor Caratini,0,1,4,False,2022-06-29,Stolen,2B,2022
+1882,1B,,Caught Stealing 2B,623912,Harold Ramírez,Jose Trevino,0,1,5,True,2022-06-16,Caught,2B,2022
+2145,1B,2B,Stolen Base 2B,623912,Harold Ramírez,Yasmani Grandal,4,2,6,False,2022-06-03,Stolen,2B,2022
+2439,1B,,Caught Stealing 2B,623912,Harold Ramírez,Tucker Barnhart,4,0,5,False,2022-05-18,Caught,2B,2022
+2682,1B,2B,Stolen Base 2B,623912,Harold Ramírez,Luis Torrens,0,0,2,True,2022-05-05,Stolen,2B,2022
+3129,2B,,Caught Stealing 3B,623912,Harold Ramírez,Robinson Chirinos,4,0,4,False,2022-04-10,Caught,3B,2022
+862,1B,2B,Stolen Base 2B,623912,Harold Ramírez,Kyle Higashioka,6,4,6,False,2023-08-27,Stolen,2B,2023
+1498,1B,,Caught Stealing 2B,623912,Harold Ramírez,Martín Maldonado,0,6,5,True,2023-07-30,Caught,2B,2023
+1935,1B,,Caught Stealing 2B,623912,Harold Ramírez,Sean Murphy,1,2,7,False,2023-07-07,Caught,2B,2023
+2543,1B,2B,Stolen Base 2B,623912,Harold Ramírez,Jonah Heim,7,3,4,False,2023-06-11,Stolen,2B,2023
+2620,2B,3B,Stolen Base 3B,623912,Harold Ramírez,Sandy León,4,1,3,False,2023-06-09,Stolen,3B,2023
+2753,2B,3B,Stolen Base 3B,623912,Harold Ramírez,Connor Wong,1,1,6,True,2023-06-03,Stolen,3B,2023
+3514,1B,2B,Stolen Base 2B,623912,Harold Ramírez,Austin Hedges,1,0,4,False,2023-05-02,Stolen,2B,2023

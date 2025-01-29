@@ -1,0 +1,22 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1459,2B,,Caught Stealing 3B,435041,Carlos Quentin,Brian McCann,7,6,8,False,2007-07-27,Caught,3B,2007
+2161,1B,2B,Stolen Base 2B,435041,Carlos Quentin,Ramon Hernandez,6,0,5,False,2007-06-24,Stolen,2B,2007
+3256,1B,2B,Stolen Base 2B,435041,Carlos Quentin,Russell Martin,1,0,4,True,2007-05-01,Stolen,2B,2007
+722,1B,2B,Stolen Base 2B,435041,Carlos Quentin,Ramon Hernandez,0,1,4,True,2008-08-25,Stolen,2B,2008
+729,3B,,Caught Stealing Home,435041,Carlos Quentin,Ramon Hernandez,2,2,10,False,2008-08-25,Caught,Home,2008
+843,2B,3B,Stolen Base 3B,435041,Carlos Quentin,Jamie Burke,2,0,3,False,2008-08-19,Stolen,3B,2008
+1829,1B,2B,Stolen Base 2B,435041,Carlos Quentin,Danny Ardoin,0,2,7,True,2008-06-26,Stolen,2B,2008
+2734,1B,2B,Stolen Base 2B,435041,Carlos Quentin,Bengie Molina,0,2,8,True,2008-05-16,Stolen,2B,2008
+2911,2B,3B,Stolen Base 3B,435041,Carlos Quentin,Joe Mauer,3,2,6,False,2008-05-08,Stolen,3B,2008
+2954,1B,,Caught Stealing 2B,435041,Carlos Quentin,Joe Mauer,6,1,7,False,2008-05-06,Caught,2B,2008
+3123,3B,,Caught Stealing Home,435041,Carlos Quentin,Ramon Hernandez,2,2,10,False,2008-04-28,Caught,Home,2008
+3134,1B,2B,Stolen Base 2B,435041,Carlos Quentin,Ramon Hernandez,1,0,2,False,2008-04-27,Stolen,2B,2008
+3171,1B,2B,Stolen Base 2B,435041,Carlos Quentin,Ramon Hernandez,5,2,5,False,2008-04-26,Stolen,2B,2008
+1992,1B,2B,Stolen Base 2B,435041,Carlos Quentin,John Buck,1,5,4,True,2009-05-05,Stolen,2B,2009
+558,1B,,Caught Stealing 2B,435041,Carlos Quentin,Victor Martinez,2,3,7,True,2010-09-05,Caught,2B,2010
+1405,1B,,Caught Stealing 2B,435041,Carlos Quentin,Rob Johnson,3,1,6,False,2010-07-26,Caught,2B,2010
+1484,1B,2B,Stolen Base 2B,435041,Carlos Quentin,Kurt Suzuki,0,0,2,True,2010-07-23,Stolen,2B,2010
+1606,2B,3B,Stolen Base 3B,435041,Carlos Quentin,Joe Mauer,3,5,6,True,2010-07-18,Stolen,3B,2010
+2640,1B,2B,Stolen Base 2B,435041,Carlos Quentin,Kurt Suzuki,0,0,3,False,2011-06-11,Stolen,2B,2011
+3901,1B,,Caught Stealing 2B,435041,Carlos Quentin,John Jaso,0,1,1,True,2011-04-21,Caught,2B,2011
+910,2B,,Caught Stealing 3B,435041,Carlos Quentin,Michael McKenry,3,0,1,False,2012-08-22,Caught,3B,2012

@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,959,1B,2B,Stolen Base 2B,499624,Chris Colabello,553878,Felipe Vázquez,572365,Ryan Goins,L,Jose Lobaton,446653,3,7,7,True,2015-06-02,Stolen,2B,2015,2016,25.0
+1,1513,1B,2B,Stolen Base 2B,499624,Chris Colabello,282332,CC Sabathia,485567,Ezequiel Carrera,L,Brian McCann,435263,4,1,6,False,2015-05-06,Stolen,2B,2015,2016,25.0

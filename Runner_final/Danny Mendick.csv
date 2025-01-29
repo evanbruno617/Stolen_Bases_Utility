@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,838,1B,,Caught Stealing 2B,664901,Danny Mendick,641995,Roel Ramírez,641313,Tim Anderson,R,Andrew Knizner,668800,1,0,5,False,2020-08-16,Caught,2B,2020,2021,26.6
+1,3681,1B,,Caught Stealing 2B,664901,Danny Mendick,641995,Roel Ramírez,641313,Tim Anderson,R,Andrew Knizner,668800,1,0,5,False,2020-08-16,Caught,2B,2020,2021,26.6
+2,5605,1B,,Caught Stealing 2B,664901,Danny Mendick,641995,Roel Ramírez,641313,Tim Anderson,R,Andrew Knizner,668800,1,0,5,False,2020-08-16,Caught,2B,2020,2021,26.6
+3,24,1B,2B,Stolen Base 2B,664901,Danny Mendick,592836,Taijuan Walker,677595,Ronny Mauricio,R,J.T. Realmuto,592663,4,0,7,False,2023-09-30,Stolen,2B,2023,2024,26.5
+4,4438,1B,2B,Stolen Base 2B,664901,Danny Mendick,592836,Taijuan Walker,677595,Ronny Mauricio,R,J.T. Realmuto,592663,4,0,7,False,2023-09-30,Stolen,2B,2023,2024,26.5
+5,587,2B,3B,Stolen Base 3B,664901,Danny Mendick,676684,Will Vest,683734,Andrew Vaughn,R,Tucker Barnhart,571466,1,5,8,True,2022-06-14,Stolen,3B,2022,2023,25.6

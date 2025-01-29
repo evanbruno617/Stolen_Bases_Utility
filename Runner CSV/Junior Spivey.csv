@@ -1,0 +1,42 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+110,1B,,Caught Stealing 2B,150160,Junior Spivey,Mike Matheny,0,0,4,True,2002-09-24,Caught,2B,2002
+226,3B,,Caught Stealing Home,150160,Junior Spivey,Wiki Gonzalez,0,1,1,True,2002-09-18,Caught,Home,2002
+607,1B,2B,Stolen Base 2B,150160,Junior Spivey,Benito Santiago,1,3,2,False,2002-08-30,Stolen,2B,2002
+954,1B,2B,Stolen Base 2B,150160,Junior Spivey,Jason LaRue,2,2,3,True,2002-08-14,Stolen,2B,2002
+1575,1B,2B,Stolen Base 2B,150160,Junior Spivey,Paul Lo Duca,0,0,1,True,2002-07-14,Stolen,2B,2002
+1577,1B,,Caught Stealing 2B,150160,Junior Spivey,Paul Lo Duca,2,0,6,True,2002-07-14,Caught,2B,2002
+1926,1B,2B,Stolen Base 2B,150160,Junior Spivey,Brad Ausmus,3,4,9,True,2002-06-27,Stolen,2B,2002
+2317,1B,,Caught Stealing 2B,150160,Junior Spivey,Jason Varitek,1,3,7,True,2002-06-08,Caught,2B,2002
+2474,1B,2B,Stolen Base 2B,150160,Junior Spivey,Paul Lo Duca,0,6,6,True,2002-05-31,Stolen,2B,2002
+2626,1B,2B,Stolen Base 2B,150160,Junior Spivey,Paul Lo Duca,0,0,1,False,2002-05-25,Stolen,2B,2002
+3182,2B,3B,Caught Stealing 2B,150160,Junior Spivey,Michael Barrett,4,3,7,False,2002-05-03,Caught,2B,2002
+3225,1B,2B,Stolen Base 2B,150160,Junior Spivey,Vance Wilson,0,6,5,False,2002-05-01,Stolen,2B,2002
+3484,1B,2B,Stolen Base 2B,150160,Junior Spivey,Gary Bennett,0,0,1,False,2002-04-20,Stolen,2B,2002
+3514,1B,2B,Stolen Base 2B,150160,Junior Spivey,Ben Petrick,2,3,3,False,2002-04-19,Stolen,2B,2002
+3581,1B,,Caught Stealing 2B,150160,Junior Spivey,Mike Matheny,4,3,6,False,2002-04-16,Caught,2B,2002
+3659,1B,2B,Stolen Base 2B,150160,Junior Spivey,Ben Petrick,5,5,10,True,2002-04-13,Stolen,2B,2002
+3678,1B,2B,Stolen Base 2B,150160,Junior Spivey,Gary Bennett,1,7,5,True,2002-04-12,Stolen,2B,2002
+192,1B,2B,Stolen Base 2B,150160,Junior Spivey,Eddie Pérez,0,0,1,True,2003-09-19,Stolen,2B,2003
+378,1B,,Caught Stealing 2B,150160,Junior Spivey,Paul Lo Duca,0,3,3,False,2003-09-10,Caught,2B,2003
+769,1B,2B,Stolen Base 2B,150160,Junior Spivey,Kelly Stinnett,0,2,5,False,2003-08-20,Stolen,2B,2003
+1015,1B,2B,Stolen Base 2B,150160,Junior Spivey,Jason Phillips,0,0,4,False,2003-08-08,Stolen,2B,2003
+2318,1B,,Caught Stealing 2B,150160,Junior Spivey,Miguel Olivo,0,0,2,False,2003-06-03,Caught,2B,2003
+3197,1B,2B,Stolen Base 2B,150160,Junior Spivey,Mike Matheny,0,1,8,True,2003-04-20,Stolen,2B,2003
+1777,1B,2B,Stolen Base 2B,150160,Junior Spivey,Charles Johnson,1,6,4,True,2004-07-01,Stolen,2B,2004
+2040,1B,,Caught Stealing 2B,150160,Junior Spivey,Dan Wilson,2,2,5,False,2004-06-17,Caught,2B,2004
+2055,1B,2B,Stolen Base 2B,150160,Junior Spivey,Pat Borders,1,0,1,False,2004-06-16,Stolen,2B,2004
+2301,1B,2B,Stolen Base 2B,150160,Junior Spivey,Ramon Hernandez,1,3,6,True,2004-06-04,Stolen,2B,2004
+2965,1B,2B,Stolen Base 2B,150160,Junior Spivey,Jason Kendall,1,1,4,False,2004-05-02,Stolen,2B,2004
+3083,1B,2B,Stolen Base 2B,150160,Junior Spivey,Jason LaRue,6,7,6,False,2004-04-27,Stolen,2B,2004
+3230,1B,,Caught Stealing 2B,150160,Junior Spivey,Robby Hammock,0,0,1,False,2004-04-20,Caught,2B,2004
+1853,1B,2B,Stolen Base 2B,150160,Junior Spivey,Gregg Zaun,3,5,7,False,2005-06-26,Stolen,2B,2005
+2068,1B,2B,Stolen Base 2B,150160,Junior Spivey,Bengie Molina,3,5,8,True,2005-06-14,Stolen,2B,2005
+2262,1B,2B,Stolen Base 2B,150160,Junior Spivey,Jason Phillips,3,3,6,True,2005-06-02,Stolen,2B,2005
+2294,1B,2B,Stolen Base 2B,150160,Junior Spivey,Ramon Hernandez,0,0,1,True,2005-05-31,Stolen,2B,2005
+2385,1B,2B,Stolen Base 2B,150160,Junior Spivey,Raul Chavez,1,0,7,False,2005-05-27,Stolen,2B,2005
+2563,1B,2B,Stolen Base 2B,150160,Junior Spivey,Brian Schneider,0,0,1,True,2005-05-19,Stolen,2B,2005
+2777,1B,2B,Stolen Base 2B,150160,Junior Spivey,Ramon Castro,4,4,9,False,2005-05-08,Stolen,2B,2005
+2852,1B,2B,Stolen Base 2B,150160,Junior Spivey,Michael Barrett,3,1,3,False,2005-05-05,Stolen,2B,2005
+3325,1B,,Caught Stealing 2B,150160,Junior Spivey,David Ross,2,3,8,False,2005-04-12,Caught,2B,2005
+3361,1B,,Caught Stealing 2B,150160,Junior Spivey,Michael Barrett,1,3,3,True,2005-04-10,Caught,2B,2005
+3428,1B,2B,Stolen Base 2B,150160,Junior Spivey,Michael Barrett,2,1,3,True,2005-04-08,Stolen,2B,2005

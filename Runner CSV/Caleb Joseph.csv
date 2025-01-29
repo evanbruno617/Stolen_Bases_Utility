@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2354,1B,2B,Caught Stealing 3B,543376,Caleb Joseph,Robinson Chirinos,5,6,6,True,2014-06-04,Caught,3B,2014
+1085,1B,2B,Stolen Base 2B,543376,Caleb Joseph,Michael Pérez,1,0,3,True,2018-08-07,Stolen,2B,2018
+1444,1B,2B,Stolen Base 2B,543376,Caleb Joseph,Isiah Kiner-Falefa,6,4,6,False,2018-07-15,Stolen,2B,2018
+2817,2B,3B,Caught Stealing 3B,543376,Caleb Joseph,John Hicks,5,3,8,False,2018-04-29,Caught,3B,2018

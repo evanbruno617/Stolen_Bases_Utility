@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+815,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,Austin Hedges,1,4,7,True,2017-08-18,Stolen,2B,2017
+641,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,Wilson Ramos,6,6,6,True,2018-08-29,Stolen,2B,2018
+2672,1B,,Caught Stealing 2B,664057,Andrew Stevenson,Jorge Alfaro,1,0,2,False,2018-05-06,Caught,2B,2018
+42,1B,,Caught Stealing 2B,664057,Andrew Stevenson,Eric Haase,10,6,5,False,2019-09-28,Caught,2B,2019
+184,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,Chad Wallach,1,0,3,True,2020-09-19,Stolen,2B,2020
+1135,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,Danny Jansen,3,6,8,True,2020-07-30,Stolen,2B,2020
+1161,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,Webster Rivas,3,0,3,False,2021-07-18,Stolen,2B,2021
+2119,1B,,Caught Stealing 2B,664057,Andrew Stevenson,Stephen Vogt,0,3,9,True,2021-05-16,Caught,2B,2021
+338,1B,,Caught Stealing 2B,664057,Andrew Stevenson,Korey Lee,0,4,9,True,2023-09-17,Caught,2B,2023
+438,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,Christian Bethancourt,4,5,9,False,2023-09-13,Stolen,2B,2023
+564,2B,3B,Stolen Base 3B,664057,Andrew Stevenson,Francisco Alvarez,3,2,7,False,2023-09-08,Stolen,3B,2023
+766,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,Jonah Heim,1,5,9,True,2023-09-01,Stolen,2B,2023
+767,2B,3B,Stolen Base 3B,664057,Andrew Stevenson,Jonah Heim,1,5,9,True,2023-09-01,Stolen,3B,2023

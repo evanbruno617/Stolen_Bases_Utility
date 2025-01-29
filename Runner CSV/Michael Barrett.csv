@@ -1,0 +1,22 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3564,3B,,Caught Stealing Home,136664,Michael Barrett,Brent Mayne,2,0,2,False,2000-04-25,Caught,Home,2000
+371,3B,,Caught Stealing Home,136664,Michael Barrett,Mike Piazza,1,1,3,False,2001-05-21,Caught,Home,2001
+626,1B,2B,Stolen Base 2B,136664,Michael Barrett,Javy Lopez,0,0,3,False,2002-08-30,Stolen,2B,2002
+739,1B,2B,Stolen Base 2B,136664,Michael Barrett,Benito Santiago,0,0,3,True,2002-08-24,Stolen,2B,2002
+978,1B,2B,Stolen Base 2B,136664,Michael Barrett,Paul Lo Duca,2,1,2,False,2002-08-13,Stolen,2B,2002
+980,1B,,Caught Stealing 2B,136664,Michael Barrett,Paul Lo Duca,2,3,7,False,2002-08-13,Caught,2B,2002
+1035,2B,3B,Stolen Base 3B,136664,Michael Barrett,Robert Machado,3,7,5,True,2002-08-09,Stolen,3B,2002
+1496,1B,2B,Stolen Base 2B,136664,Michael Barrett,Mike Piazza,1,0,5,False,2002-07-18,Stolen,2B,2002
+2589,1B,,Caught Stealing 2B,136664,Michael Barrett,Javy Lopez,0,0,3,True,2002-05-27,Caught,2B,2002
+2760,1B,2B,Stolen Base 2B,136664,Michael Barrett,Henry Blanco,0,1,5,False,2002-05-21,Stolen,2B,2002
+798,1B,,Caught Stealing 2B,136664,Michael Barrett,Raul Chavez,0,0,2,True,2004-08-22,Caught,2B,2004
+1383,1B,,Caught Stealing 2B,136664,Michael Barrett,Todd Pratt,1,2,4,True,2004-07-24,Caught,2B,2004
+2422,2B,,Caught Stealing 3B,136664,Michael Barrett,Jason Kendall,1,5,9,True,2004-05-30,Caught,3B,2004
+2882,1B,2B,Stolen Base 2B,136664,Michael Barrett,Charles Johnson,1,0,2,False,2004-05-07,Stolen,2B,2004
+47,3B,,Caught Stealing Home,136664,Michael Barrett,Brad Ausmus,1,3,7,True,2005-09-29,Caught,Home,2005
+861,1B,,Caught Stealing 2B,136664,Michael Barrett,Brad Ausmus,2,3,5,True,2005-08-17,Caught,2B,2005
+1577,1B,,Caught Stealing 2B,136664,Michael Barrett,Paul Lo Duca,0,0,2,True,2005-07-09,Caught,2B,2005
+2512,1B,2B,Stolen Base 2B,136664,Michael Barrett,Jarrod Saltalamacchia,1,6,6,True,2007-06-08,Stolen,2B,2007
+2598,1B,2B,Stolen Base 2B,136664,Michael Barrett,Johnny Estrada,2,1,7,True,2007-06-04,Stolen,2B,2007
+2737,2B,,Caught Stealing 3B,136664,Michael Barrett,Russell Martin,0,0,2,True,2007-05-27,Caught,3B,2007
+3127,1B,,Caught Stealing 2B,136664,Michael Barrett,Ronny Paulino,3,3,11,False,2007-05-08,Caught,2B,2007

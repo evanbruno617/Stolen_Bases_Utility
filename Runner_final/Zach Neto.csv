@@ -1,0 +1,13 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,153,2B,,Caught Stealing 3B,687263,Zach Neto,657746,Joe Ryan,592273,Brandon Drury,R,Ryan Jeffers,680777,2,3,5,True,2023-09-24,Caught,3B,2023,2024,28.2
+1,2591,1B,2B,Stolen Base 2B,687263,Zach Neto,666374,Matt Brash,621493,Taylor Ward,R,Cal Raleigh,663728,5,3,7,False,2023-06-09,Stolen,2B,2023,2024,28.2
+2,2627,2B,3B,Stolen Base 3B,687263,Zach Neto,592767,Drew Smyly,660271,Shohei Ohtani,L,Yan Gomes,543228,3,1,6,False,2023-06-08,Stolen,3B,2023,2024,28.2
+3,2904,1B,2B,Stolen Base 2B,687263,Zach Neto,665795,Edward Cabrera,666160,Mickey Moniak,R,Jacob Stallings,607732,1,2,5,False,2023-05-27,Stolen,2B,2023,2024,28.2
+4,3043,1B,2B,Stolen Base 2B,687263,Zach Neto,641154,Pablo López,545361,Mike Trout,R,Ryan Jeffers,680777,1,1,5,False,2023-05-21,Stolen,2B,2023,2024,28.2
+5,3537,1B,2B,Stolen Base 2B,687263,Zach Neto,607067,Colin Rea,592669,Hunter Renfroe,R,William Contreras,661388,0,0,1,True,2023-04-30,Stolen,2B,2023,2024,28.2
+6,4567,2B,,Caught Stealing 3B,687263,Zach Neto,657746,Joe Ryan,592273,Brandon Drury,R,Ryan Jeffers,680777,2,3,5,True,2023-09-24,Caught,3B,2023,2024,28.2
+7,7005,1B,2B,Stolen Base 2B,687263,Zach Neto,666374,Matt Brash,621493,Taylor Ward,R,Cal Raleigh,663728,5,3,7,False,2023-06-09,Stolen,2B,2023,2024,28.2
+8,7041,2B,3B,Stolen Base 3B,687263,Zach Neto,592767,Drew Smyly,660271,Shohei Ohtani,L,Yan Gomes,543228,3,1,6,False,2023-06-08,Stolen,3B,2023,2024,28.2
+9,7318,1B,2B,Stolen Base 2B,687263,Zach Neto,665795,Edward Cabrera,666160,Mickey Moniak,R,Jacob Stallings,607732,1,2,5,False,2023-05-27,Stolen,2B,2023,2024,28.2
+10,7457,1B,2B,Stolen Base 2B,687263,Zach Neto,641154,Pablo López,545361,Mike Trout,R,Ryan Jeffers,680777,1,1,5,False,2023-05-21,Stolen,2B,2023,2024,28.2
+11,7951,1B,2B,Stolen Base 2B,687263,Zach Neto,607067,Colin Rea,592669,Hunter Renfroe,R,William Contreras,661388,0,0,1,True,2023-04-30,Stolen,2B,2023,2024,28.2

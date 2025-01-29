@@ -1,0 +1,19 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2397,1B,2B,Stolen Base 2B,455976,Nick Markakis,593833,Wander Suero,645277,Ozzie Albies,R,Kurt Suzuki,435559,3,4,7,False,2019-07-20,Stolen,2B,2019,2020,26.4
+1,2575,1B,2B,Stolen Base 2B,455976,Nick Markakis,670950,Trevor Richards,663586,Austin Riley,R,Jorge Alfaro,595751,0,0,2,False,2019-07-07,Stolen,2B,2019,2020,26.4
+2,5240,1B,2B,Stolen Base 2B,455976,Nick Markakis,593833,Wander Suero,645277,Ozzie Albies,R,Kurt Suzuki,435559,3,4,7,False,2019-07-20,Stolen,2B,2019,2020,26.4
+3,5418,1B,2B,Stolen Base 2B,455976,Nick Markakis,670950,Trevor Richards,663586,Austin Riley,R,Jorge Alfaro,595751,0,0,2,False,2019-07-07,Stolen,2B,2019,2020,26.4
+4,7164,1B,2B,Stolen Base 2B,455976,Nick Markakis,593833,Wander Suero,645277,Ozzie Albies,R,Kurt Suzuki,435559,3,4,7,False,2019-07-20,Stolen,2B,2019,2020,26.4
+5,7342,1B,2B,Stolen Base 2B,455976,Nick Markakis,670950,Trevor Richards,663586,Austin Riley,R,Jorge Alfaro,595751,0,0,2,False,2019-07-07,Stolen,2B,2019,2020,26.4
+6,1840,1B,,Caught Stealing 2B,455976,Nick Markakis,593576,Héctor Neris,446481,Sean Rodríguez,R,Cameron Rupp,519237,3,3,10,True,2017-07-29,Caught,2B,2017,2018,26.4
+7,3834,1B,,Caught Stealing 2B,455976,Nick Markakis,543408,Tom Koehler,408252,Brandon Phillips,R,J.T. Realmuto,592663,2,3,4,True,2017-04-12,Caught,2B,2017,2018,26.4
+8,1212,1B,,Caught Stealing 2B,455976,Nick Markakis,593576,Héctor Neris,446481,Sean Rodríguez,R,Cameron Rupp,519237,3,3,10,True,2017-07-29,Caught,2B,2017,2018,26.4
+9,3206,1B,,Caught Stealing 2B,455976,Nick Markakis,543408,Tom Koehler,408252,Brandon Phillips,R,J.T. Realmuto,592663,2,3,4,True,2017-04-12,Caught,2B,2017,2018,26.4
+10,4637,1B,,Caught Stealing 2B,455976,Nick Markakis,592527,Michael Mariot,452095,Tyler Flowers,R,A.J. Ellis,454560,4,4,8,True,2016-09-02,Caught,2B,2016,2017,25.9
+11,4856,1B,,Caught Stealing 2B,455976,Nick Markakis,543699,Tanner Roark,452095,Tyler Flowers,R,Wilson Ramos,467092,0,1,2,False,2016-08-19,Caught,2B,2016,2017,25.9
+12,602,1B,,Caught Stealing 2B,455976,Nick Markakis,592527,Michael Mariot,452095,Tyler Flowers,R,A.J. Ellis,454560,4,4,8,True,2016-09-02,Caught,2B,2016,2017,25.9
+13,821,1B,,Caught Stealing 2B,455976,Nick Markakis,543699,Tanner Roark,452095,Tyler Flowers,R,Wilson Ramos,467092,0,1,2,False,2016-08-19,Caught,2B,2016,2017,25.9
+14,4009,1B,,Caught Stealing 2B,455976,Nick Markakis,592527,Michael Mariot,452095,Tyler Flowers,R,A.J. Ellis,454560,4,4,8,True,2016-09-02,Caught,2B,2016,2017,25.9
+15,4228,1B,,Caught Stealing 2B,455976,Nick Markakis,543699,Tanner Roark,452095,Tyler Flowers,R,Wilson Ramos,467092,0,1,2,False,2016-08-19,Caught,2B,2016,2017,25.9
+16,139,1B,2B,Stolen Base 2B,455976,Nick Markakis,543294,Kyle Hendricks,430637,Kelly Johnson,R,Kyle Schwarber,656941,1,0,1,False,2015-07-17,Stolen,2B,2015,2016,25.5
+17,2147,1B,2B,Stolen Base 2B,455976,Nick Markakis,506693,Henderson Alvarez III,518692,Freddie Freeman,R,Jarrod Saltalamacchia,457454,1,2,6,True,2015-04-06,Stolen,2B,2015,2016,25.5

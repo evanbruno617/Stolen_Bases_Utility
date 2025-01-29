@@ -1,0 +1,14 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2016,1B,2B,Stolen Base 2B,446481,Sean Rodríguez,543557,Mike Montgomery,621020,Dansby Swanson,L,Victor Caratini,605170,0,2,5,False,2017-07-19,Stolen,2B,2017,2018,26.6
+1,1388,1B,2B,Stolen Base 2B,446481,Sean Rodríguez,543557,Mike Montgomery,621020,Dansby Swanson,L,Victor Caratini,605170,0,2,5,False,2017-07-19,Stolen,2B,2017,2018,26.6
+2,4383,1B,,Caught Stealing 2B,446481,Sean Rodríguez,622097,Jake Thompson,474568,Jordy Mercer,R,Cameron Rupp,519237,0,0,2,True,2016-09-14,Caught,2B,2016,2017,26.5
+3,5933,1B,2B,Stolen Base 2B,446481,Sean Rodríguez,519326,Hunter Strickland,501896,David Freese,R,Buster Posey,457763,6,7,6,False,2016-06-22,Stolen,2B,2016,2017,26.5
+4,6300,1B,2B,Stolen Base 2B,446481,Sean Rodríguez,450308,Jered Weaver,455755,Chris Stewart,R,Carlos Pérez,542208,2,4,2,False,2016-06-03,Stolen,2B,2016,2017,26.5
+5,348,1B,,Caught Stealing 2B,446481,Sean Rodríguez,622097,Jake Thompson,474568,Jordy Mercer,R,Cameron Rupp,519237,0,0,2,True,2016-09-14,Caught,2B,2016,2017,26.5
+6,1898,1B,2B,Stolen Base 2B,446481,Sean Rodríguez,519326,Hunter Strickland,501896,David Freese,R,Buster Posey,457763,6,7,6,False,2016-06-22,Stolen,2B,2016,2017,26.5
+7,2265,1B,2B,Stolen Base 2B,446481,Sean Rodríguez,450308,Jered Weaver,455755,Chris Stewart,R,Carlos Pérez,542208,2,4,2,False,2016-06-03,Stolen,2B,2016,2017,26.5
+8,3755,1B,,Caught Stealing 2B,446481,Sean Rodríguez,622097,Jake Thompson,474568,Jordy Mercer,R,Cameron Rupp,519237,0,0,2,True,2016-09-14,Caught,2B,2016,2017,26.5
+9,5305,1B,2B,Stolen Base 2B,446481,Sean Rodríguez,519326,Hunter Strickland,501896,David Freese,R,Buster Posey,457763,6,7,6,False,2016-06-22,Stolen,2B,2016,2017,26.5
+10,5672,1B,2B,Stolen Base 2B,446481,Sean Rodríguez,450308,Jered Weaver,455755,Chris Stewart,R,Carlos Pérez,542208,2,4,2,False,2016-06-03,Stolen,2B,2016,2017,26.5
+11,658,1B,2B,Stolen Base 2B,446481,Sean Rodríguez,435043,Zach Duke,430611,Corey Hart,L,Geovany Soto,434567,3,0,8,False,2015-06-16,Stolen,2B,2015,2016,27.0
+12,1941,1B,2B,Stolen Base 2B,446481,Sean Rodríguez,519076,Jimmy Nelson,474699,Vance Worley,R,Jonathan Lucroy,518960,2,1,5,False,2015-04-17,Stolen,2B,2015,2016,27.0

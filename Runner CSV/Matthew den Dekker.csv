@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+234,1B,2B,Stolen Base 2B,544925,Matthew den Dekker,Buster Posey,1,4,8,False,2013-09-18,Stolen,2B,2013
+408,1B,2B,Stolen Base 2B,544925,Matthew den Dekker,Wilson Ramos,0,2,2,False,2013-09-10,Stolen,2B,2013
+410,1B,,Caught Stealing 2B,544925,Matthew den Dekker,Wilson Ramos,3,4,6,False,2013-09-10,Caught,2B,2013
+640,1B,2B,Stolen Base 2B,544925,Matthew den Dekker,Jhonatan Solano,0,5,3,True,2013-08-31,Stolen,2B,2013
+671,1B,2B,Stolen Base 2B,544925,Matthew den Dekker,Carlos Ruiz,6,1,7,False,2013-08-29,Stolen,2B,2013
+25,1B,2B,Stolen Base 2B,544925,Matthew den Dekker,Max Stassi,2,1,3,False,2014-09-28,Stolen,2B,2014
+75,1B,2B,Stolen Base 2B,544925,Matthew den Dekker,Carlos Corporán,0,0,2,False,2014-09-26,Stolen,2B,2014
+98,1B,,Caught Stealing 2B,544925,Matthew den Dekker,Jose Lobaton,0,1,3,True,2014-09-25,Caught,2B,2014
+102,1B,,Caught Stealing 2B,544925,Matthew den Dekker,Jose Lobaton,0,1,3,True,2014-09-24,Caught,2B,2014
+596,1B,2B,Stolen Base 2B,544925,Matthew den Dekker,Jarrod Saltalamacchia,6,8,9,True,2014-09-02,Stolen,2B,2014
+697,1B,2B,Stolen Base 2B,544925,Matthew den Dekker,Carlos Ruiz,1,1,7,False,2014-08-29,Stolen,2B,2014
+908,1B,,Caught Stealing 2B,544925,Matthew den Dekker,Welington Castillo,1,0,4,False,2014-08-18,Caught,2B,2014
+923,1B,2B,Stolen Base 2B,544925,Matthew den Dekker,John Baker,0,1,5,False,2014-08-17,Stolen,2B,2014
+1057,1B,,Caught Stealing 2B,544925,Matthew den Dekker,Wil Nieves,5,6,9,True,2014-08-10,Caught,2B,2014
+2258,1B,2B,Stolen Base 2B,544925,Matthew den Dekker,Héctor Sánchez,0,0,1,True,2014-06-08,Stolen,2B,2014
+2259,2B,,Caught Stealing 3B,544925,Matthew den Dekker,Héctor Sánchez,0,0,1,True,2014-06-08,Caught,3B,2014
+2371,1B,2B,Stolen Base 2B,544925,Matthew den Dekker,John Baker,0,0,1,True,2014-06-03,Stolen,2B,2014
+3470,1B,2B,Stolen Base 2B,544925,Matthew den Dekker,John Ryan Murphy,1,4,7,True,2015-04-03,Stolen,2B,2015
+1976,1B,2B,Stolen Base 2B,544925,Matthew den Dekker,Cameron Rupp,0,0,6,False,2016-04-28,Stolen,2B,2016

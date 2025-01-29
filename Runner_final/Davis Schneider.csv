@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,807,2B,3B,Stolen Base 3B,676914,Davis Schneider,571578,Patrick Corbin,672386,Alejandro Kirk,L,Riley Adams,656180,2,0,1,False,2023-08-30,Stolen,3B,2023,2024,27.2
+1,5221,2B,3B,Stolen Base 3B,676914,Davis Schneider,571578,Patrick Corbin,672386,Alejandro Kirk,L,Riley Adams,656180,2,0,1,False,2023-08-30,Stolen,3B,2023,2024,27.2

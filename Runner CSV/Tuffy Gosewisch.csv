@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2482,1B,2B,Stolen Base 2B,488912,Tuffy Gosewisch,Jhonatan Solano,0,4,6,True,2015-05-20,Stolen,2B,2015
+2782,1B,2B,Stolen Base 2B,488912,Tuffy Gosewisch,Michael McKenry,1,5,8,True,2015-05-06,Stolen,2B,2015
+2788,1B,2B,Stolen Base 2B,488912,Tuffy Gosewisch,Michael McKenry,1,5,8,True,2015-05-05,Stolen,2B,2015
+2825,1B,,Caught Stealing 2B,488912,Tuffy Gosewisch,A.J. Ellis,0,0,5,True,2015-05-03,Caught,2B,2015

@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+134,1B,2B,Stolen Base 2B,406678,Cesar Crespo,Paul Lo Duca,3,3,8,False,2002-09-22,Stolen,2B,2002
+160,1B,,Caught Stealing 2B,406678,Cesar Crespo,Paul Lo Duca,3,5,9,False,2002-09-21,Caught,2B,2002
+284,1B,2B,Stolen Base 2B,406678,Cesar Crespo,Trey Lunsford,1,3,9,True,2002-09-15,Stolen,2B,2002
+400,1B,,Caught Stealing 2B,406678,Cesar Crespo,Damian Miller,6,1,6,True,2002-09-10,Caught,2B,2002
+3056,1B,2B,Stolen Base 2B,406678,Cesar Crespo,Charles Johnson,1,0,9,True,2002-05-09,Stolen,2B,2002
+2724,1B,2B,Stolen Base 2B,406678,Cesar Crespo,Gregg Zaun,0,3,4,True,2004-05-14,Stolen,2B,2004
+2734,1B,2B,Stolen Base 2B,406678,Cesar Crespo,Kevin Cash,2,0,5,True,2004-05-13,Stolen,2B,2004

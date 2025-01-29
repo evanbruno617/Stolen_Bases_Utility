@@ -1,0 +1,70 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,280,2B,,Caught Stealing 3B,668804,Bryan Reynolds,545333,Trevor Bauer,571974,John Ryan Murphy,R,Tucker Barnhart,571466,0,0,2,True,2020-09-14,Caught,3B,2020,2021,28.6
+1,1168,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,458676,Josh Lindblom,628338,Guillermo Heredia,R,Manny Piña,444489,0,0,2,False,2020-07-28,Stolen,2B,2020,2021,28.6
+2,3123,2B,,Caught Stealing 3B,668804,Bryan Reynolds,545333,Trevor Bauer,571974,John Ryan Murphy,R,Tucker Barnhart,571466,0,0,2,True,2020-09-14,Caught,3B,2020,2021,28.6
+3,4011,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,458676,Josh Lindblom,628338,Guillermo Heredia,R,Manny Piña,444489,0,0,2,False,2020-07-28,Stolen,2B,2020,2021,28.6
+4,5047,2B,,Caught Stealing 3B,668804,Bryan Reynolds,545333,Trevor Bauer,571974,John Ryan Murphy,R,Tucker Barnhart,571466,0,0,2,True,2020-09-14,Caught,3B,2020,2021,28.6
+5,5935,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,458676,Josh Lindblom,628338,Guillermo Heredia,R,Manny Piña,444489,0,0,2,False,2020-07-28,Stolen,2B,2020,2021,28.6
+6,1568,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,502188,Jeff Samardzija,592567,Colin Moran,R,Buster Posey,457763,0,3,5,True,2019-09-12,Stolen,2B,2019,2020,28.2
+7,1903,2B,3B,Stolen Base 3B,668804,Bryan Reynolds,543101,Anthony DeSclafani,592567,Colin Moran,R,Tucker Barnhart,571466,0,1,4,False,2019-08-23,Stolen,3B,2019,2020,28.2
+8,2427,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,453562,Jake Arrieta,516782,Starling Marte,R,J.T. Realmuto,592663,0,0,1,False,2019-07-19,Stolen,2B,2019,2020,28.2
+9,2612,1B,,Caught Stealing 2B,668804,Bryan Reynolds,605200,Zach Davies,605137,Josh Bell,R,Manny Piña,444489,0,0,3,False,2019-07-05,Caught,2B,2019,2020,28.2
+10,2929,1B,,Caught Stealing 2B,668804,Bryan Reynolds,641154,Pablo López,516782,Starling Marte,R,Jorge Alfaro,595751,0,0,1,True,2019-06-15,Caught,2B,2019,2020,28.2
+11,4411,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,502188,Jeff Samardzija,592567,Colin Moran,R,Buster Posey,457763,0,3,5,True,2019-09-12,Stolen,2B,2019,2020,28.2
+12,4746,2B,3B,Stolen Base 3B,668804,Bryan Reynolds,543101,Anthony DeSclafani,592567,Colin Moran,R,Tucker Barnhart,571466,0,1,4,False,2019-08-23,Stolen,3B,2019,2020,28.2
+13,5270,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,453562,Jake Arrieta,516782,Starling Marte,R,J.T. Realmuto,592663,0,0,1,False,2019-07-19,Stolen,2B,2019,2020,28.2
+14,5455,1B,,Caught Stealing 2B,668804,Bryan Reynolds,605200,Zach Davies,605137,Josh Bell,R,Manny Piña,444489,0,0,3,False,2019-07-05,Caught,2B,2019,2020,28.2
+15,5772,1B,,Caught Stealing 2B,668804,Bryan Reynolds,641154,Pablo López,516782,Starling Marte,R,Jorge Alfaro,595751,0,0,1,True,2019-06-15,Caught,2B,2019,2020,28.2
+16,6335,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,502188,Jeff Samardzija,592567,Colin Moran,R,Buster Posey,457763,0,3,5,True,2019-09-12,Stolen,2B,2019,2020,28.2
+17,6670,2B,3B,Stolen Base 3B,668804,Bryan Reynolds,543101,Anthony DeSclafani,592567,Colin Moran,R,Tucker Barnhart,571466,0,1,4,False,2019-08-23,Stolen,3B,2019,2020,28.2
+18,7194,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,453562,Jake Arrieta,516782,Starling Marte,R,J.T. Realmuto,592663,0,0,1,False,2019-07-19,Stolen,2B,2019,2020,28.2
+19,7379,1B,,Caught Stealing 2B,668804,Bryan Reynolds,605200,Zach Davies,605137,Josh Bell,R,Manny Piña,444489,0,0,3,False,2019-07-05,Caught,2B,2019,2020,28.2
+20,7696,1B,,Caught Stealing 2B,668804,Bryan Reynolds,641154,Pablo López,516782,Starling Marte,R,Jorge Alfaro,595751,0,0,1,True,2019-06-15,Caught,2B,2019,2020,28.2
+21,392,2B,3B,Stolen Base 3B,668804,Bryan Reynolds,571521,Rex Brothers,607732,Jacob Stallings,L,Robinson Chirinos,455139,7,6,5,True,2021-09-05,Stolen,3B,2021,2022,28.2
+22,573,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,656457,Tyler Gilbert,660294,Yoshi Tsutsugo,L,Daulton Varsho,662139,0,0,4,False,2021-08-25,Stolen,2B,2021,2022,28.2
+23,1118,2B,,Caught Stealing 3B,668804,Bryan Reynolds,518516,Madison Bumgarner,596056,John Nogowski,L,Bryan Holaday,592407,4,3,5,True,2021-07-21,Caught,3B,2021,2022,28.2
+24,1456,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,607536,Kyle Freeland,592567,Colin Moran,L,Elias Díaz,553869,0,0,1,True,2021-06-28,Stolen,2B,2021,2022,28.2
+25,1465,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,670912,Johan Oviedo,592567,Colin Moran,R,Yadier Molina,425877,0,2,1,True,2021-06-27,Stolen,2B,2021,2022,28.2
+26,1710,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,669203,Corbin Burnes,592567,Colin Moran,R,Omar Narváez,553882,1,4,3,True,2021-06-12,Stolen,2B,2021,2022,28.2
+27,2787,1B,,Caught Stealing 2B,668804,Bryan Reynolds,672335,Cionel Pérez,570256,Gregory Polanco,L,Tucker Barnhart,571466,2,2,6,True,2021-04-05,Caught,2B,2021,2022,28.2
+28,2316,2B,3B,Stolen Base 3B,668804,Bryan Reynolds,571521,Rex Brothers,607732,Jacob Stallings,L,Robinson Chirinos,455139,7,6,5,True,2021-09-05,Stolen,3B,2021,2022,28.2
+29,2497,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,656457,Tyler Gilbert,660294,Yoshi Tsutsugo,L,Daulton Varsho,662139,0,0,4,False,2021-08-25,Stolen,2B,2021,2022,28.2
+30,3042,2B,,Caught Stealing 3B,668804,Bryan Reynolds,518516,Madison Bumgarner,596056,John Nogowski,L,Bryan Holaday,592407,4,3,5,True,2021-07-21,Caught,3B,2021,2022,28.2
+31,3380,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,607536,Kyle Freeland,592567,Colin Moran,L,Elias Díaz,553869,0,0,1,True,2021-06-28,Stolen,2B,2021,2022,28.2
+32,3389,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,670912,Johan Oviedo,592567,Colin Moran,R,Yadier Molina,425877,0,2,1,True,2021-06-27,Stolen,2B,2021,2022,28.2
+33,3634,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,669203,Corbin Burnes,592567,Colin Moran,R,Omar Narváez,553882,1,4,3,True,2021-06-12,Stolen,2B,2021,2022,28.2
+34,4711,1B,,Caught Stealing 2B,668804,Bryan Reynolds,672335,Cionel Pérez,570256,Gregory Polanco,L,Tucker Barnhart,571466,2,2,6,True,2021-04-05,Caught,2B,2021,2022,28.2
+35,490,2B,3B,Stolen Base 3B,668804,Bryan Reynolds,571578,Patrick Corbin,656582,Connor Joe,L,Keibert Ruiz,660688,1,2,3,False,2023-09-11,Stolen,3B,2023,2024,28.0
+36,491,3B,,Caught Stealing Home,668804,Bryan Reynolds,571578,Patrick Corbin,609280,Miguel Andujar,L,Keibert Ruiz,660688,1,2,3,False,2023-09-11,Caught,Home,2023,2024,28.0
+37,701,2B,3B,Stolen Base 3B,668804,Bryan Reynolds,669467,Andre Pallante,656582,Connor Joe,R,Andrew Knizner,668800,6,3,8,True,2023-09-03,Stolen,3B,2023,2024,28.0
+38,883,2B,3B,Stolen Base 3B,668804,Bryan Reynolds,696136,Jordan Wicks,682848,Endy Rodríguez,L,Miguel Amaya,665804,1,0,1,False,2023-08-26,Stolen,3B,2023,2024,28.0
+39,1364,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,669203,Corbin Burnes,663845,Alfonso Rivas III,R,Victor Caratini,605170,1,2,6,True,2023-08-05,Stolen,2B,2023,2024,28.0
+40,2879,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,642048,Tayler Saucedo,669261,Jack Suwinski,L,Tom Murphy,608596,3,3,10,True,2023-05-28,Stolen,2B,2023,2024,28.0
+41,2929,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,672730,Juan Then,656582,Connor Joe,R,Cal Raleigh,663728,4,8,6,True,2023-05-26,Stolen,2B,2023,2024,28.0
+42,3214,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,608723,Austin Voth,467793,Carlos Santana,R,James McCann,543510,0,4,9,True,2023-05-14,Stolen,2B,2023,2024,28.0
+43,3585,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,641771,Chad Kuhl,669261,Jack Suwinski,R,Keibert Ruiz,660688,0,1,1,True,2023-04-29,Stolen,2B,2023,2024,28.0
+44,3594,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,641771,Chad Kuhl,669261,Jack Suwinski,R,Keibert Ruiz,660688,0,1,1,True,2023-04-28,Stolen,2B,2023,2024,28.0
+45,3633,2B,3B,Stolen Base 3B,668804,Bryan Reynolds,628711,Julio Urías,666801,Rodolfo Castro,L,Austin Barnes,605131,2,2,1,False,2023-04-27,Stolen,3B,2023,2024,28.0
+46,3920,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,571927,Steven Matz,467793,Carlos Santana,L,Andrew Knizner,668800,2,1,3,True,2023-04-15,Stolen,2B,2023,2024,28.0
+47,4087,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,605182,Mike Clevinger,467793,Carlos Santana,R,Yasmani Grandal,518735,4,6,5,False,2023-04-08,Stolen,2B,2023,2024,28.0
+48,4154,2B,3B,Stolen Base 3B,668804,Bryan Reynolds,677161,Zack Kelly,467793,Carlos Santana,R,Reese McGuire,624512,1,4,9,True,2023-04-05,Stolen,3B,2023,2024,28.0
+49,4904,2B,3B,Stolen Base 3B,668804,Bryan Reynolds,571578,Patrick Corbin,656582,Connor Joe,L,Keibert Ruiz,660688,1,2,3,False,2023-09-11,Stolen,3B,2023,2024,28.0
+50,4905,3B,,Caught Stealing Home,668804,Bryan Reynolds,571578,Patrick Corbin,609280,Miguel Andujar,L,Keibert Ruiz,660688,1,2,3,False,2023-09-11,Caught,Home,2023,2024,28.0
+51,5115,2B,3B,Stolen Base 3B,668804,Bryan Reynolds,669467,Andre Pallante,656582,Connor Joe,R,Andrew Knizner,668800,6,3,8,True,2023-09-03,Stolen,3B,2023,2024,28.0
+52,5297,2B,3B,Stolen Base 3B,668804,Bryan Reynolds,696136,Jordan Wicks,682848,Endy Rodríguez,L,Miguel Amaya,665804,1,0,1,False,2023-08-26,Stolen,3B,2023,2024,28.0
+53,5778,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,669203,Corbin Burnes,663845,Alfonso Rivas III,R,Victor Caratini,605170,1,2,6,True,2023-08-05,Stolen,2B,2023,2024,28.0
+54,7293,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,642048,Tayler Saucedo,669261,Jack Suwinski,L,Tom Murphy,608596,3,3,10,True,2023-05-28,Stolen,2B,2023,2024,28.0
+55,7343,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,672730,Juan Then,656582,Connor Joe,R,Cal Raleigh,663728,4,8,6,True,2023-05-26,Stolen,2B,2023,2024,28.0
+56,7628,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,608723,Austin Voth,467793,Carlos Santana,R,James McCann,543510,0,4,9,True,2023-05-14,Stolen,2B,2023,2024,28.0
+57,7999,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,641771,Chad Kuhl,669261,Jack Suwinski,R,Keibert Ruiz,660688,0,1,1,True,2023-04-29,Stolen,2B,2023,2024,28.0
+58,8008,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,641771,Chad Kuhl,669261,Jack Suwinski,R,Keibert Ruiz,660688,0,1,1,True,2023-04-28,Stolen,2B,2023,2024,28.0
+59,8047,2B,3B,Stolen Base 3B,668804,Bryan Reynolds,628711,Julio Urías,666801,Rodolfo Castro,L,Austin Barnes,605131,2,2,1,False,2023-04-27,Stolen,3B,2023,2024,28.0
+60,8334,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,571927,Steven Matz,467793,Carlos Santana,L,Andrew Knizner,668800,2,1,3,True,2023-04-15,Stolen,2B,2023,2024,28.0
+61,8501,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,605182,Mike Clevinger,467793,Carlos Santana,R,Yasmani Grandal,518735,4,6,5,False,2023-04-08,Stolen,2B,2023,2024,28.0
+62,8568,2B,3B,Stolen Base 3B,668804,Bryan Reynolds,677161,Zack Kelly,467793,Carlos Santana,R,Reese McGuire,624512,1,4,9,True,2023-04-05,Stolen,3B,2023,2024,28.0
+63,776,1B,,Caught Stealing 2B,668804,Bryan Reynolds,668678,Zac Gallen,656308,Michael Chavis,R,Daulton Varsho,662139,0,0,1,False,2022-06-05,Caught,2B,2022,2023,27.8
+64,838,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,669952,Mitch White,656308,Michael Chavis,R,Austin Barnes,605131,0,1,3,True,2022-06-01,Stolen,2B,2022,2023,27.8
+65,1031,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,667373,Angel Rondón,592325,Ben Gamel,R,Andrew Knizner,668800,0,7,3,False,2022-05-22,Stolen,2B,2022,2023,27.8
+66,1112,1B,,Caught Stealing 2B,668804,Bryan Reynolds,624522,Keegan Thompson,592325,Ben Gamel,R,Willson Contreras,575929,0,0,1,True,2022-05-17,Caught,2B,2022,2023,27.8
+67,1456,1B,2B,Stolen Base 2B,668804,Bryan Reynolds,506433,Yu Darvish,663647,Ke'Bryan Hayes,R,Austin Nola,543592,2,4,5,False,2022-04-29,Stolen,2B,2022,2023,27.8
+68,1922,1B,,Caught Stealing 2B,668804,Bryan Reynolds,643256,Adam Cimber,621028,Kevin Newman,R,Tyler Heineman,623168,1,2,5,False,2022-04-01,Caught,2B,2022,2023,27.8

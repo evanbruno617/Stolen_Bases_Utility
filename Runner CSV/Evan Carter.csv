@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+204,1B,2B,Stolen Base 2B,694497,Evan Carter,Cal Raleigh,4,0,5,False,2023-09-22,Stolen,2B,2023
+444,1B,2B,Stolen Base 2B,694497,Evan Carter,Alejandro Kirk,2,5,9,True,2023-09-12,Stolen,2B,2023
+571,1B,2B,Stolen Base 2B,694497,Evan Carter,Shea Langeliers,2,2,2,False,2023-09-08,Stolen,2B,2023

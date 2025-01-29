@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2340,1B,2B,Stolen Base 2B,348562,Keith Ginter,Paul Lo Duca,2,2,5,True,2003-06-01,Stolen,2B,2003
+52,1B,,Caught Stealing 2B,348562,Keith Ginter,Chris Snyder,0,1,1,True,2004-09-28,Caught,2B,2004
+124,1B,2B,Stolen Base 2B,348562,Keith Ginter,Brad Ausmus,0,0,1,False,2004-09-24,Stolen,2B,2004
+255,1B,2B,Stolen Base 2B,348562,Keith Ginter,Brad Ausmus,0,0,1,True,2004-09-18,Stolen,2B,2004
+565,1B,2B,Stolen Base 2B,348562,Keith Ginter,Jason LaRue,5,0,1,False,2004-09-03,Stolen,2B,2004
+1603,2B,3B,Stolen Base 3B,348562,Keith Ginter,Javier Valentin,4,0,6,False,2004-07-10,Stolen,3B,2004
+1671,1B,2B,Stolen Base 2B,348562,Keith Ginter,Michael Barrett,4,0,7,False,2004-07-07,Stolen,2B,2004
+2212,1B,2B,Stolen Base 2B,348562,Keith Ginter,José Molina,0,0,10,True,2004-06-08,Stolen,2B,2004
+2416,1B,2B,Stolen Base 2B,348562,Keith Ginter,Miguel Ojeda,2,5,8,False,2004-05-30,Stolen,2B,2004
+2540,1B,2B,Stolen Base 2B,348562,Keith Ginter,Paul Lo Duca,3,4,7,False,2004-05-25,Stolen,2B,2004

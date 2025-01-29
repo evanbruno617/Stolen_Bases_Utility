@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2682,1B,2B,Stolen Base 2B,460269,Chris Gimenez,502188,Jeff Samardzija,501303,Ehire Adrianza,R,Buster Posey,457763,1,1,5,True,2017-06-10,Stolen,2B,2017,2018,25.5
+1,2054,1B,2B,Stolen Base 2B,460269,Chris Gimenez,502188,Jeff Samardzija,501303,Ehire Adrianza,R,Buster Posey,457763,1,1,5,True,2017-06-10,Stolen,2B,2017,2018,25.5

@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,99,1B,,Caught Stealing 2B,425509,Jhonny Peralta,448614,Carlos Torres,448602,Mark Reynolds,R,Kevin Plawecki,608700,1,1,17,False,2015-07-19,Caught,2B,2015,2016,26.1
+1,793,1B,,Caught Stealing 2B,425509,Jhonny Peralta,548357,Christian Bergman,448602,Mark Reynolds,R,Nick Hundley,460026,0,3,7,True,2015-06-10,Caught,2B,2015,2016,26.1
+2,1609,2B,3B,Stolen Base 3B,425509,Jhonny Peralta,455374,Antonio Bastardo,543939,Kolten Wong,L,Francisco Cervelli,465041,0,1,7,False,2015-05-01,Stolen,3B,2015,2016,26.1

@@ -1,0 +1,16 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,187,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,641154,Pablo López,607208,Trea Turner,R,Chad Wallach,595453,1,0,3,True,2020-09-19,Stolen,2B,2020,2021,29.3
+1,1138,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,621097,Jacob Waguespack,594809,Adam Eaton,R,Danny Jansen,643376,3,6,8,True,2020-07-30,Stolen,2B,2020,2021,29.3
+2,3030,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,641154,Pablo López,607208,Trea Turner,R,Chad Wallach,595453,1,0,3,True,2020-09-19,Stolen,2B,2020,2021,29.3
+3,3981,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,621097,Jacob Waguespack,594809,Adam Eaton,R,Danny Jansen,643376,3,6,8,True,2020-07-30,Stolen,2B,2020,2021,29.3
+4,4954,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,641154,Pablo López,607208,Trea Turner,R,Chad Wallach,595453,1,0,3,True,2020-09-19,Stolen,2B,2020,2021,29.3
+5,5905,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,621097,Jacob Waguespack,594809,Adam Eaton,R,Danny Jansen,643376,3,6,8,True,2020-07-30,Stolen,2B,2020,2021,29.3
+6,1301,1B,,Caught Stealing 2B,664057,Andrew Stevenson,624586,James Hoyt,607208,Trea Turner,R,Eric Haase,606992,10,6,5,False,2019-09-28,Caught,2B,2019,2020,28.1
+7,4144,1B,,Caught Stealing 2B,664057,Andrew Stevenson,624586,James Hoyt,607208,Trea Turner,R,Eric Haase,606992,10,6,5,False,2019-09-28,Caught,2B,2019,2020,28.1
+8,6068,1B,,Caught Stealing 2B,664057,Andrew Stevenson,624586,James Hoyt,607208,Trea Turner,R,Eric Haase,606992,10,6,5,False,2019-09-28,Caught,2B,2019,2020,28.1
+9,1165,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,605397,Joe Musgrove,467827,Gerardo Parra,R,Webster Rivas,593590,3,0,3,False,2021-07-18,Stolen,2B,2021,2023,29.2
+10,2123,1B,,Caught Stealing 2B,664057,Andrew Stevenson,656464,Kevin Ginkel,645302,Victor Robles,R,Stephen Vogt,519390,0,3,9,True,2021-05-16,Caught,2B,2021,2023,29.2
+11,3089,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,605397,Joe Musgrove,467827,Gerardo Parra,R,Webster Rivas,593590,3,0,3,False,2021-07-18,Stolen,2B,2021,2023,29.2
+12,4047,1B,,Caught Stealing 2B,664057,Andrew Stevenson,656464,Kevin Ginkel,645302,Victor Robles,R,Stephen Vogt,519390,0,3,9,True,2021-05-16,Caught,2B,2021,2023,29.2
+13,1444,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,606131,Luis Perdomo,457477,Alejandro De Aza,R,Austin Hedges,595978,1,4,7,True,2017-08-18,Stolen,2B,2017,2018,28.9
+14,816,1B,2B,Stolen Base 2B,664057,Andrew Stevenson,606131,Luis Perdomo,457477,Alejandro De Aza,R,Austin Hedges,595978,1,4,7,True,2017-08-18,Stolen,2B,2017,2018,28.9

@@ -1,0 +1,24 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+761,1B,2B,Stolen Base 2B,621453,Steven Duggar,Kevin Plawecki,0,0,3,True,2018-08-23,Stolen,2B,2018
+949,1B,2B,Stolen Base 2B,621453,Steven Duggar,Austin Barnes,0,0,3,True,2018-08-13,Stolen,2B,2018
+951,1B,2B,Stolen Base 2B,621453,Steven Duggar,Austin Barnes,2,5,9,True,2018-08-13,Stolen,2B,2018
+1235,1B,,Caught Stealing 2B,621453,Steven Duggar,Austin Hedges,2,2,9,True,2018-07-31,Caught,2B,2018
+1236,1B,2B,Stolen Base 2B,621453,Steven Duggar,Austin Hedges,0,3,4,True,2018-07-30,Stolen,2B,2018
+1335,1B,2B,Stolen Base 2B,621453,Steven Duggar,Mike Zunino,2,3,6,True,2018-07-24,Stolen,2B,2018
+2246,2B,,Caught Stealing 3B,621453,Steven Duggar,Tucker Barnhart,4,4,6,False,2019-05-11,Caught,3B,2019
+2352,1B,,Caught Stealing 2B,621453,Steven Duggar,Curt Casali,0,0,1,True,2019-05-06,Caught,2B,2019
+2756,1B,,Caught Stealing 2B,621453,Steven Duggar,Tony Wolters,0,0,1,False,2019-04-11,Caught,2B,2019
+90,1B,2B,Stolen Base 2B,621453,Steven Duggar,Elias Díaz,1,1,4,False,2020-09-23,Stolen,2B,2020
+21,1B,2B,Stolen Base 2B,621453,Steven Duggar,Carson Kelly,0,0,7,False,2021-09-29,Stolen,2B,2021
+1473,1B,2B,Stolen Base 2B,621453,Steven Duggar,Sean Murphy,0,1,5,False,2021-06-26,Stolen,2B,2021
+1536,1B,2B,Stolen Base 2B,621453,Steven Duggar,Kurt Suzuki,2,6,13,True,2021-06-23,Stolen,2B,2021
+1618,1B,2B,Stolen Base 2B,621453,Steven Duggar,Andrew Knapp,1,1,2,False,2021-06-18,Stolen,2B,2021
+1674,1B,2B,Stolen Base 2B,621453,Steven Duggar,Carson Kelly,4,2,8,False,2021-06-14,Stolen,2B,2021
+1759,1B,2B,Stolen Base 2B,621453,Steven Duggar,Jose Trevino,0,1,2,True,2021-06-08,Stolen,2B,2021
+1816,1B,2B,Stolen Base 2B,621453,Steven Duggar,Willson Contreras,7,2,7,False,2021-06-03,Stolen,2B,2021
+1573,1B,2B,Stolen Base 2B,621453,Steven Duggar,Adley Rutschman,0,0,2,True,2022-07-04,Stolen,2B,2022
+1670,1B,,Caught Stealing 2B,621453,Steven Duggar,MJ Melendez,0,1,2,True,2022-06-28,Caught,2B,2022
+2964,1B,2B,Stolen Base 2B,621453,Steven Duggar,James McCann,4,4,8,True,2022-04-19,Stolen,2B,2022
+2997,1B,2B,Stolen Base 2B,621453,Steven Duggar,Bryan Lavastida,0,6,6,True,2022-04-17,Stolen,2B,2022
+3015,1B,2B,Stolen Base 2B,621453,Steven Duggar,Bryan Lavastida,1,0,3,True,2022-04-16,Stolen,2B,2022
+3079,1B,2B,Stolen Base 2B,621453,Steven Duggar,Austin Nola,10,1,2,False,2022-04-12,Stolen,2B,2022

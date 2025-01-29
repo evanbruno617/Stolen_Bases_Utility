@@ -1,0 +1,148 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,642423,Magneuris Sierra,Tomás Nido,2,3,5,False,2020-08-18,Stolen,2B,2020
+2B,3B,Stolen Base 3B,547180,Bryce Harper,Tomás Nido,6,0,5,False,2020-08-15,Stolen,3B,2020
+1B,2B,Stolen Base 2B,657193,Eddy Alvarez,Tomás Nido,2,0,4,True,2020-08-09,Stolen,2B,2020
+1B,2B,Stolen Base 2B,542932,Jon Berti,Tomás Nido,3,0,5,True,2020-08-09,Stolen,2B,2020
+1B,2B,Stolen Base 2B,543281,Josh Harrison,Tomás Nido,5,3,5,False,2020-08-04,Stolen,2B,2020
+1B,,Caught Stealing 2B,607208,Trea Turner,Tomás Nido,5,3,6,False,2020-08-04,Caught,2B,2020
+1B,,Caught Stealing 2B,650402,Gleyber Torres,Tomás Nido,0,1,1,True,2020-07-18,Caught,2B,2020
+1B,,Caught Stealing 2B,660821,Jesús Sánchez,Tomás Nido,0,0,1,True,2021-09-28,Caught,2B,2021
+1B,,Caught Stealing 2B,665862,Jazz Chisholm Jr.,Tomás Nido,1,0,3,True,2021-09-28,Caught,2B,2021
+1B,,Caught Stealing 2B,671277,Luis García Jr.,Tomás Nido,0,0,2,True,2021-08-12,Caught,2B,2021
+1B,,Caught Stealing 2B,546318,Odúbel Herrera,Tomás Nido,0,0,1,False,2021-08-06,Caught,2B,2021
+1B,,Caught Stealing 2B,663897,Luke Williams,Tomás Nido,4,1,8,False,2021-08-06,Caught,2B,2021
+1B,2B,Stolen Base 2B,571980,Tyler Naquin,Tomás Nido,1,4,8,True,2021-08-01,Stolen,2B,2021
+1B,2B,Stolen Base 2B,570256,Gregory Polanco,Tomás Nido,3,0,1,False,2021-07-18,Stolen,2B,2021
+1B,2B,Stolen Base 2B,666931,Jared Oliva,Tomás Nido,2,6,7,True,2021-07-10,Stolen,2B,2021
+1B,2B,Stolen Base 2B,543281,Josh Harrison,Tomás Nido,0,3,4,False,2021-06-19,Stolen,2B,2021
+1B,2B,Stolen Base 2B,665487,Fernando Tatis Jr.,Tomás Nido,0,3,6,False,2021-06-05,Stolen,2B,2021
+1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,Tomás Nido,0,0,1,True,2021-05-29,Caught,2B,2021
+1B,2B,Stolen Base 2B,641857,Ryan McMahon,Tomás Nido,0,0,1,True,2021-05-27,Stolen,2B,2021
+1B,,Caught Stealing 2B,641658,Garrett Hampson,Tomás Nido,1,3,9,True,2021-05-24,Caught,2B,2021
+1B,2B,Stolen Base 2B,621563,Joey Wendle,Tomás Nido,1,0,1,False,2021-05-15,Stolen,2B,2021
+1B,2B,Stolen Base 2B,641933,Tyler O'Neill,Tomás Nido,0,4,4,False,2021-05-05,Stolen,2B,2021
+1B,2B,Stolen Base 2B,641933,Tyler O'Neill,Tomás Nido,0,4,4,False,2021-05-04,Stolen,2B,2021
+1B,2B,Stolen Base 2B,543281,Josh Harrison,Tomás Nido,0,3,4,False,2021-04-01,Stolen,2B,2021
+1B,2B,Stolen Base 2B,665489,Vladimir Guerrero Jr.,Tomás Nido,0,0,1,True,2023-06-03,Stolen,2B,2023
+1B,2B,Stolen Base 2B,662139,Daulton Varsho,Tomás Nido,1,1,8,True,2023-06-03,Stolen,2B,2023
+1B,2B,Stolen Base 2B,543807,George Springer,Tomás Nido,1,1,9,True,2023-06-03,Stolen,2B,2023
+1B,2B,Stolen Base 2B,545341,Randal Grichuk,Tomás Nido,1,0,9,True,2023-05-05,Stolen,2B,2023
+1B,2B,Stolen Base 2B,663837,Matt Vierling,Tomás Nido,4,5,8,False,2023-05-03,Stolen,2B,2023
+1B,2B,Stolen Base 2B,663837,Matt Vierling,Tomás Nido,4,5,8,False,2023-05-02,Stolen,2B,2023
+1B,2B,Stolen Base 2B,642731,Thairo Estrada,Tomás Nido,5,1,2,False,2023-04-22,Stolen,2B,2023
+1B,,Caught Stealing 2B,681584,David Villar,Tomás Nido,7,2,7,False,2023-04-22,Caught,2B,2023
+1B,2B,Stolen Base 2B,642731,Thairo Estrada,Tomás Nido,4,9,7,False,2023-04-20,Stolen,2B,2023
+1B,2B,Stolen Base 2B,643393,Tony Kemp,Tomás Nido,3,6,4,False,2023-04-14,Stolen,2B,2023
+1B,2B,Stolen Base 2B,593428,Xander Bogaerts,Tomás Nido,5,0,9,True,2023-04-10,Stolen,2B,2023
+1B,2B,Stolen Base 2B,686894,Joey Wiemer,Tomás Nido,2,0,2,False,2023-04-04,Stolen,2B,2023
+1B,2B,Stolen Base 2B,669397,Nick Allen,Tomás Nido,8,4,7,False,2022-09-24,Stolen,2B,2022
+1B,,Caught Stealing 2B,656185,Greg Allen,Tomás Nido,4,3,9,True,2022-09-16,Caught,2B,2022
+1B,2B,Stolen Base 2B,666624,Christopher Morel,Tomás Nido,3,6,9,True,2022-09-14,Stolen,2B,2022
+1B,2B,Stolen Base 2B,668804,Bryan Reynolds,Tomás Nido,1,5,6,False,2022-09-07,Stolen,2B,2022
+1B,2B,Stolen Base 2B,668804,Bryan Reynolds,Tomás Nido,1,5,6,False,2022-09-05,Stolen,2B,2022
+1B,2B,Stolen Base 2B,607208,Trea Turner,Tomás Nido,0,0,1,True,2022-08-31,Stolen,2B,2022
+1B,2B,Stolen Base 2B,518692,Freddie Freeman,Tomás Nido,2,1,6,True,2022-08-31,Stolen,2B,2022
+2B,3B,Stolen Base 3B,650402,Gleyber Torres,Tomás Nido,2,2,6,False,2022-08-23,Stolen,3B,2022
+1B,2B,Stolen Base 2B,592450,Aaron Judge,Tomás Nido,4,2,7,False,2022-08-23,Stolen,2B,2022
+1B,2B,Stolen Base 2B,624641,Edmundo Sosa,Tomás Nido,1,0,9,True,2022-08-13,Stolen,2B,2022
+2B,3B,Stolen Base 3B,624641,Edmundo Sosa,Tomás Nido,1,0,9,True,2022-08-13,Stolen,3B,2022
+1B,2B,Stolen Base 2B,592663,J.T. Realmuto,Tomás Nido,1,0,9,True,2022-08-13,Stolen,2B,2022
+1B,2B,Stolen Base 2B,516416,Jean Segura,Tomás Nido,0,1,2,True,2022-08-12,Stolen,2B,2022
+1B,2B,Stolen Base 2B,681082,Bryson Stott,Tomás Nido,1,1,4,True,2022-08-12,Stolen,2B,2022
+1B,2B,Stolen Base 2B,592206,Nick Castellanos,Tomás Nido,1,1,8,True,2022-08-12,Stolen,2B,2022
+1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,Tomás Nido,0,6,2,True,2022-08-05,Stolen,2B,2022
+1B,2B,Stolen Base 2B,645302,Victor Robles,Tomás Nido,1,0,4,False,2022-08-02,Stolen,2B,2022
+1B,2B,Stolen Base 2B,665742,Juan Soto,Tomás Nido,3,7,8,False,2022-08-01,Stolen,2B,2022
+1B,2B,Stolen Base 2B,500743,Miguel Rojas,Tomás Nido,0,0,1,False,2022-07-30,Stolen,2B,2022
+2B,3B,Caught Stealing 2B,592450,Aaron Judge,Tomás Nido,5,3,7,True,2022-07-26,Caught,2B,2022
+1B,,Caught Stealing 2B,519203,Anthony Rizzo,Tomás Nido,5,3,7,True,2022-07-26,Caught,2B,2022
+1B,,Caught Stealing 2B,665923,Esteury Ruiz,Tomás Nido,0,0,2,True,2022-07-24,Caught,2B,2022
+1B,,Caught Stealing 2B,542364,Rafael Ortega,Tomás Nido,2,2,5,False,2022-07-16,Caught,2B,2022
+1B,2B,Stolen Base 2B,673548,Seiya Suzuki,Tomás Nido,3,4,10,False,2022-07-16,Stolen,2B,2022
+1B,,Caught Stealing 2B,542364,Rafael Ortega,Tomás Nido,2,2,5,False,2022-07-15,Caught,2B,2022
+1B,2B,Stolen Base 2B,673548,Seiya Suzuki,Tomás Nido,3,4,10,False,2022-07-15,Stolen,2B,2022
+1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,Tomás Nido,0,0,1,False,2022-07-13,Caught,2B,2022
+1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,Tomás Nido,0,4,3,False,2022-07-13,Stolen,2B,2022
+1B,2B,Stolen Base 2B,542932,Jon Berti,Tomás Nido,0,0,7,True,2022-07-10,Stolen,2B,2022
+2B,3B,Stolen Base 3B,571740,Billy Hamilton,Tomás Nido,0,1,10,True,2022-07-10,Stolen,3B,2022
+1B,2B,Stolen Base 2B,571740,Billy Hamilton,Tomás Nido,2,4,9,True,2022-07-08,Stolen,2B,2022
+1B,,Caught Stealing 2B,663697,Jonathan India,Tomás Nido,3,4,5,False,2022-07-04,Caught,2B,2022
+1B,,Caught Stealing 2B,669701,Josh Smith,Tomás Nido,3,5,5,True,2022-07-02,Caught,2B,2022
+1B,,Caught Stealing 2B,542932,Jon Berti,Tomás Nido,3,5,9,False,2022-06-24,Caught,2B,2022
+2B,3B,Stolen Base 3B,500743,Miguel Rojas,Tomás Nido,4,0,6,True,2022-06-20,Stolen,3B,2022
+1B,2B,Stolen Base 2B,650559,Bryan De La Cruz,Tomás Nido,0,0,2,True,2022-06-19,Stolen,2B,2022
+1B,,Caught Stealing 2B,665862,Jazz Chisholm Jr.,Tomás Nido,0,0,6,True,2022-06-19,Caught,2B,2022
+1B,2B,Stolen Base 2B,666464,Jerar Encarnacion,Tomás Nido,2,5,9,True,2022-06-19,Stolen,2B,2022
+1B,2B,Stolen Base 2B,542932,Jon Berti,Tomás Nido,0,0,1,True,2022-06-18,Stolen,2B,2022
+2B,3B,Stolen Base 3B,542932,Jon Berti,Tomás Nido,0,0,1,True,2022-06-18,Stolen,3B,2022
+1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,Tomás Nido,3,0,7,True,2022-06-18,Stolen,2B,2022
+1B,2B,Stolen Base 2B,542932,Jon Berti,Tomás Nido,3,1,9,True,2022-06-18,Stolen,2B,2022
+1B,2B,Stolen Base 2B,663897,Luke Williams,Tomás Nido,3,2,9,True,2022-06-18,Stolen,2B,2022
+1B,2B,Stolen Base 2B,542932,Jon Berti,Tomás Nido,3,1,6,True,2022-06-17,Stolen,2B,2022
+1B,2B,Stolen Base 2B,607208,Trea Turner,Tomás Nido,4,5,10,False,2022-06-05,Stolen,2B,2022
+1B,2B,Stolen Base 2B,605141,Mookie Betts,Tomás Nido,5,1,7,False,2022-06-03,Stolen,2B,2022
+1B,2B,Stolen Base 2B,543829,Dee Strange-Gordon,Tomás Nido,2,0,2,True,2022-05-31,Stolen,2B,2022
+1B,2B,Stolen Base 2B,664056,Harrison Bader,Tomás Nido,2,1,2,True,2022-05-19,Stolen,2B,2022
+1B,2B,Stolen Base 2B,664056,Harrison Bader,Tomás Nido,5,4,9,True,2022-05-19,Stolen,2B,2022
+1B,2B,Stolen Base 2B,664056,Harrison Bader,Tomás Nido,2,3,6,True,2022-05-17,Stolen,2B,2022
+1B,2B,Stolen Base 2B,669242,Tommy Edman,Tomás Nido,2,3,6,True,2022-05-17,Stolen,2B,2022
+1B,2B,Stolen Base 2B,680977,Brendan Donovan,Tomás Nido,3,3,9,True,2022-05-17,Stolen,2B,2022
+1B,2B,Stolen Base 2B,664056,Harrison Bader,Tomás Nido,2,3,6,True,2022-05-16,Stolen,2B,2022
+1B,2B,Stolen Base 2B,669242,Tommy Edman,Tomás Nido,2,3,6,True,2022-05-16,Stolen,2B,2022
+1B,2B,Stolen Base 2B,680977,Brendan Donovan,Tomás Nido,3,3,9,True,2022-05-16,Stolen,2B,2022
+1B,2B,Stolen Base 2B,660688,Keibert Ruiz,Tomás Nido,4,3,1,False,2022-05-11,Stolen,2B,2022
+1B,2B,Stolen Base 2B,641933,Tyler O'Neill,Tomás Nido,9,4,6,False,2022-04-27,Stolen,2B,2022
+1B,2B,Stolen Base 2B,669242,Tommy Edman,Tomás Nido,10,5,7,False,2022-04-27,Stolen,2B,2022
+1B,2B,Stolen Base 2B,662139,Daulton Varsho,Tomás Nido,4,2,6,False,2022-04-23,Stolen,2B,2022
+1B,,Caught Stealing 2B,605137,Josh Bell,Tomás Nido,1,2,7,False,2022-04-10,Caught,2B,2022
+1B,2B,Stolen Base 2B,621020,Dansby Swanson,Tomás Nido,4,4,10,True,2019-09-29,Stolen,2B,2019
+1B,,Caught Stealing 2B,571740,Billy Hamilton,Tomás Nido,4,5,11,True,2019-09-29,Caught,2B,2019
+1B,2B,Stolen Base 2B,621020,Dansby Swanson,Tomás Nido,1,2,2,True,2019-09-27,Stolen,2B,2019
+1B,2B,Stolen Base 2B,571740,Billy Hamilton,Tomás Nido,2,2,4,True,2019-09-27,Stolen,2B,2019
+1B,2B,Stolen Base 2B,571448,Nolan Arenado,Tomás Nido,0,1,1,False,2019-09-18,Stolen,2B,2019
+1B,2B,Stolen Base 2B,641658,Garrett Hampson,Tomás Nido,3,2,6,False,2019-09-18,Stolen,2B,2019
+2B,3B,Stolen Base 3B,641658,Garrett Hampson,Tomás Nido,3,2,6,False,2019-09-18,Stolen,3B,2019
+1B,2B,Stolen Base 2B,606132,Raimel Tapia,Tomás Nido,4,2,6,False,2019-09-18,Stolen,2B,2019
+1B,2B,Stolen Base 2B,596115,Trevor Story,Tomás Nido,4,2,6,False,2019-09-18,Stolen,2B,2019
+1B,2B,Stolen Base 2B,621433,Brett Phillips,Tomás Nido,2,1,6,False,2019-08-16,Stolen,2B,2019
+1B,2B,Stolen Base 2B,542932,Jon Berti,Tomás Nido,0,0,1,True,2019-08-05,Stolen,2B,2019
+1B,2B,Stolen Base 2B,516782,Starling Marte,Tomás Nido,0,3,1,False,2019-08-04,Stolen,2B,2019
+1B,2B,Stolen Base 2B,621028,Kevin Newman,Tomás Nido,0,3,2,False,2019-08-04,Stolen,2B,2019
+1B,2B,Stolen Base 2B,570560,Yolmer Sánchez,Tomás Nido,0,2,6,False,2019-07-30,Stolen,2B,2019
+1B,2B,Stolen Base 2B,544725,Leury García,Tomás Nido,0,2,6,False,2019-07-30,Stolen,2B,2019
+1B,2B,Stolen Base 2B,605412,Joe Panik,Tomás Nido,1,1,7,False,2019-07-18,Stolen,2B,2019
+2B,3B,Stolen Base 3B,516416,Jean Segura,Tomás Nido,2,3,3,True,2019-07-06,Stolen,3B,2019
+1B,2B,Stolen Base 2B,592663,J.T. Realmuto,Tomás Nido,6,5,9,True,2019-07-06,Stolen,2B,2019
+1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,Tomás Nido,0,2,3,True,2019-06-28,Stolen,2B,2019
+1B,2B,Stolen Base 2B,518692,Freddie Freeman,Tomás Nido,0,3,3,True,2019-06-28,Stolen,2B,2019
+1B,2B,Stolen Base 2B,623520,David Bote,Tomás Nido,1,0,2,False,2019-06-23,Stolen,2B,2019
+1B,,Caught Stealing 2B,595879,Javier Báez,Tomás Nido,2,3,6,False,2019-06-23,Caught,2B,2019
+2B,3B,Stolen Base 3B,518792,Jason Heyward,Tomás Nido,5,3,8,False,2019-06-23,Stolen,3B,2019
+1B,2B,Stolen Base 2B,623520,David Bote,Tomás Nido,5,3,8,False,2019-06-23,Stolen,2B,2019
+1B,2B,Stolen Base 2B,595879,Javier Báez,Tomás Nido,0,1,2,False,2019-06-21,Stolen,2B,2019
+1B,2B,Stolen Base 2B,623520,David Bote,Tomás Nido,1,1,2,False,2019-06-21,Stolen,2B,2019
+2B,3B,Stolen Base 3B,543305,Aaron Hicks,Tomás Nido,9,5,6,False,2019-06-11,Stolen,3B,2019
+2B,3B,Stolen Base 3B,543305,Aaron Hicks,Tomás Nido,9,5,6,False,2019-06-10,Stolen,3B,2019
+1B,2B,Stolen Base 2B,657077,Alex Verdugo,Tomás Nido,2,0,8,False,2019-05-30,Stolen,2B,2019
+1B,2B,Stolen Base 2B,467827,Gerardo Parra,Tomás Nido,7,4,7,False,2019-05-16,Stolen,2B,2019
+1B,2B,Stolen Base 2B,622534,Manuel Margot,Tomás Nido,3,2,7,False,2019-05-08,Stolen,2B,2019
+1B,2B,Stolen Base 2B,571437,Aaron Altherr,Tomás Nido,3,0,4,False,2018-09-19,Stolen,2B,2018
+1B,2B,Stolen Base 2B,571437,Aaron Altherr,Tomás Nido,4,0,8,False,2018-09-19,Stolen,2B,2018
+1B,2B,Stolen Base 2B,435079,Ian Kinsler,Tomás Nido,0,4,3,False,2018-09-14,Stolen,2B,2018
+2B,3B,Stolen Base 3B,435079,Ian Kinsler,Tomás Nido,0,4,3,False,2018-09-14,Stolen,3B,2018
+1B,2B,Stolen Base 2B,598265,Jackie Bradley Jr.,Tomás Nido,0,4,3,False,2018-09-14,Stolen,2B,2018
+1B,2B,Stolen Base 2B,621446,Lewis Brinson,Tomás Nido,0,0,1,True,2018-09-13,Stolen,2B,2018
+1B,2B,Stolen Base 2B,621446,Lewis Brinson,Tomás Nido,0,0,1,True,2018-09-12,Stolen,2B,2018
+1B,2B,Stolen Base 2B,621446,Lewis Brinson,Tomás Nido,0,0,1,True,2018-09-10,Stolen,2B,2018
+1B,2B,Stolen Base 2B,514917,César Hernández,Tomás Nido,0,0,2,True,2018-09-08,Stolen,2B,2018
+1B,2B,Stolen Base 2B,474832,Brandon Belt,Tomás Nido,1,2,7,False,2018-09-02,Stolen,2B,2018
+1B,2B,Stolen Base 2B,452254,Hunter Pence,Tomás Nido,1,1,10,False,2018-09-01,Stolen,2B,2018
+1B,2B,Stolen Base 2B,594809,Adam Eaton,Tomás Nido,0,1,8,True,2018-08-26,Stolen,2B,2018
+1B,2B,Stolen Base 2B,572008,Chris Owings,Tomás Nido,0,0,1,True,2018-05-20,Stolen,2B,2018
+1B,2B,Stolen Base 2B,596115,Trevor Story,Tomás Nido,0,1,4,True,2018-05-05,Stolen,2B,2018
+1B,2B,Stolen Base 2B,453568,Charlie Blackmon,Tomás Nido,0,1,6,True,2018-05-05,Stolen,2B,2018
+1B,2B,Stolen Base 2B,622534,Manuel Margot,Tomás Nido,2,4,4,False,2018-04-29,Stolen,2B,2018
+1B,2B,Stolen Base 2B,475247,Ryan Flaherty,Tomás Nido,1,0,2,False,2018-04-20,Stolen,2B,2018
+2B,3B,Stolen Base 3B,542255,Ender Inciarte,Tomás Nido,1,2,3,False,2018-04-20,Stolen,3B,2018
+1B,,Caught Stealing 2B,475247,Ryan Flaherty,Tomás Nido,3,3,7,False,2018-04-20,Caught,2B,2018
+1B,,Caught Stealing 2B,645277,Ozzie Albies,Tomás Nido,3,3,8,False,2018-04-20,Caught,2B,2018

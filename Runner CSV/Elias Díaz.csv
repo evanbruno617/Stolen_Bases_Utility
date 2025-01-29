@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2130,1B,2B,Stolen Base 2B,553869,Elias Díaz,Caleb Joseph,0,2,2,True,2017-06-07,Stolen,2B,2017
+689,3B,,Caught Stealing Home,553869,Elias Díaz,Meibrys Viloria,7,6,8,False,2022-08-23,Caught,Home,2022
+1071,1B,2B,Stolen Base 2B,553869,Elias Díaz,Carlos Pérez,9,1,5,False,2023-08-18,Stolen,2B,2023

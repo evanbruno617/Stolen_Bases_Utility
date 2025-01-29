@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4049,1B,2B,Stolen Base 2B,645444,Jose Herrera,657571,Caleb Ferguson,672695,Geraldo Perdomo,L,Austin Barnes,605131,10,3,5,False,2023-04-09,Stolen,2B,2023,2024,25.0
+1,8463,1B,2B,Stolen Base 2B,645444,Jose Herrera,657571,Caleb Ferguson,672695,Geraldo Perdomo,L,Austin Barnes,605131,10,3,5,False,2023-04-09,Stolen,2B,2023,2024,25.0

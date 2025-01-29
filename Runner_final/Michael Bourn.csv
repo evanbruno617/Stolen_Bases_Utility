@@ -1,0 +1,11 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,291,1B,2B,Stolen Base 2B,456422,Michael Bourn,543037,Gerrit Cole,547379,Roberto Pérez,R,Chris Stewart,455755,0,2,2,True,2015-07-05,Stolen,2B,2015,2016,28.1
+1,383,1B,,Caught Stealing 2B,456422,Michael Bourn,541640,Erasmo Ramírez,543401,Jason Kipnis,R,Curt Casali,592200,0,1,6,True,2015-06-30,Caught,2B,2015,2016,28.1
+2,384,1B,2B,Stolen Base 2B,456422,Michael Bourn,544993,Steve Geltz,543401,Jason Kipnis,R,Curt Casali,592200,0,4,7,True,2015-06-30,Stolen,2B,2015,2016,28.1
+3,906,1B,2B,Stolen Base 2B,456422,Michael Bourn,432934,Chris Young,547379,Roberto Pérez,R,Salvador Perez,521692,0,0,3,True,2015-06-04,Stolen,2B,2015,2016,28.1
+4,1069,1B,2B,Stolen Base 2B,456422,Michael Bourn,407890,Colby Lewis,547379,Roberto Pérez,R,Robinson Chirinos,455139,7,0,3,False,2015-05-27,Stolen,2B,2015,2016,28.1
+5,1194,1B,2B,Stolen Base 2B,456422,Michael Bourn,453222,Scott Carroll,543401,Jason Kipnis,R,Tyler Flowers,452095,0,5,8,True,2015-05-21,Stolen,2B,2015,2016,28.1
+6,1277,1B,,Caught Stealing 2B,456422,Michael Bourn,607259,Nick Martinez,547379,Roberto Pérez,R,Robinson Chirinos,455139,0,0,2,True,2015-05-17,Caught,2B,2015,2016,28.1
+7,1688,1B,2B,Stolen Base 2B,456422,Michael Bourn,425386,Jeremy Guthrie,543401,Jason Kipnis,R,Salvador Perez,521692,2,1,2,False,2015-04-28,Stolen,2B,2015,2016,28.1
+8,2050,2B,3B,Stolen Base 3B,456422,Michael Bourn,543456,Kyle Lobstein,543401,Jason Kipnis,L,James McCann,543510,0,3,1,False,2015-04-12,Stolen,3B,2015,2016,28.1
+9,2097,1B,,Caught Stealing 2B,456422,Michael Bourn,430580,Alfredo Simon,488726,Michael Brantley,R,Alex Avila,488671,0,0,1,False,2015-04-10,Caught,2B,2015,2016,28.1

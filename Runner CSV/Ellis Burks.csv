@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2071,1B,2B,Stolen Base 2B,111736,Ellis Burks,Brent Mayne,5,11,4,True,2000-06-28,Stolen,2B,2000
+2711,1B,2B,Stolen Base 2B,111736,Ellis Burks,Mike Lieberthal,7,4,8,False,2000-05-31,Stolen,2B,2000
+3536,1B,,Caught Stealing 2B,111736,Ellis Burks,Mike Redmond,4,7,9,True,2000-04-26,Caught,2B,2000
+3611,1B,2B,Stolen Base 2B,111736,Ellis Burks,Damian Miller,6,8,9,True,2000-04-22,Stolen,2B,2000
+3719,1B,2B,Stolen Base 2B,111736,Ellis Burks,Eddie Taubensee,8,8,6,True,2000-04-18,Stolen,2B,2000
+3997,1B,2B,Stolen Base 2B,111736,Ellis Burks,Mike Redmond,5,7,5,True,2000-04-05,Stolen,2B,2000
+1436,1B,2B,Stolen Base 2B,111736,Ellis Burks,Fernando Lunar,2,2,7,False,2001-04-07,Stolen,2B,2001
+1115,1B,,Caught Stealing 2B,111736,Ellis Burks,Ben Davis,8,8,8,True,2002-08-04,Caught,2B,2002
+1179,1B,2B,Stolen Base 2B,111736,Ellis Burks,Ben Davis,0,1,1,True,2002-08-01,Stolen,2B,2002
+2360,1B,2B,Caught Stealing 3B,111736,Ellis Burks,Tom Prince,2,5,7,True,2002-06-05,Caught,3B,2002
+3843,1B,2B,Stolen Base 2B,111736,Ellis Burks,Mike Rivera,2,4,6,True,2002-04-06,Stolen,2B,2002
+3912,1B,,Caught Stealing 2B,111736,Ellis Burks,Bengie Molina,1,2,3,True,2002-04-02,Caught,2B,2002
+2638,1B,2B,Stolen Base 2B,111736,Ellis Burks,Ramon Hernandez,1,0,1,False,2003-05-18,Stolen,2B,2003
+2653,2B,,Caught Stealing 3B,111736,Ellis Burks,Mark Johnson,1,0,4,False,2003-05-17,Caught,3B,2003
+3160,1B,2B,Stolen Base 2B,111736,Ellis Burks,John Flaherty,0,0,2,True,2004-04-23,Stolen,2B,2004
+3502,1B,2B,Stolen Base 2B,111736,Ellis Burks,Javy Lopez,1,4,9,True,2004-04-06,Stolen,2B,2004

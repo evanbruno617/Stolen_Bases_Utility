@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,188,3B,,Caught Stealing Home,666198,Carter Kieboom,641154,Pablo López,645302,Victor Robles,R,Chad Wallach,595453,3,2,4,True,2020-09-19,Caught,Home,2020,2021,27.3
+1,3031,3B,,Caught Stealing Home,666198,Carter Kieboom,641154,Pablo López,645302,Victor Robles,R,Chad Wallach,595453,3,2,4,True,2020-09-19,Caught,Home,2020,2021,27.3
+2,4955,3B,,Caught Stealing Home,666198,Carter Kieboom,641154,Pablo López,645302,Victor Robles,R,Chad Wallach,595453,3,2,4,True,2020-09-19,Caught,Home,2020,2021,27.3

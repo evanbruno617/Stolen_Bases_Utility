@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+104,1B,,Caught Stealing 2B,458252,Irving Falu,Alex Avila,4,4,7,True,2012-09-26,Caught,2B,2012
+182,1B,,Caught Stealing 2B,458252,Irving Falu,Carlos Santana,5,2,5,False,2012-09-22,Caught,2B,2012
+1619,1B,2B,Stolen Base 2B,458252,Irving Falu,Wilin Rosario,3,3,6,True,2014-07-09,Stolen,2B,2014

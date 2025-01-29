@@ -1,0 +1,62 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2891,1B,,Caught Stealing 2B,276054,Brady Clark,Raul Casanova,1,1,10,True,2002-05-16,Caught,2B,2002
+3932,1B,2B,Stolen Base 2B,276054,Brady Clark,Todd Hundley,4,2,6,False,2002-04-01,Stolen,2B,2002
+193,2B,3B,Stolen Base 3B,276054,Brady Clark,Robby Hammock,0,1,3,False,2003-09-19,Stolen,3B,2003
+315,1B,2B,Stolen Base 2B,276054,Brady Clark,Yorvit Torrealba,0,4,4,True,2003-09-13,Stolen,2B,2003
+587,1B,2B,Stolen Base 2B,276054,Brady Clark,Damian Miller,5,9,9,True,2003-08-30,Stolen,2B,2003
+639,1B,2B,Stolen Base 2B,276054,Brady Clark,Corky Miller,2,6,8,True,2003-08-27,Stolen,2B,2003
+670,1B,2B,Stolen Base 2B,276054,Brady Clark,Jason LaRue,4,7,8,True,2003-08-25,Stolen,2B,2003
+1083,1B,2B,Stolen Base 2B,276054,Brady Clark,Javy Lopez,2,0,5,False,2003-08-05,Stolen,2B,2003
+1355,1B,2B,Stolen Base 2B,276054,Brady Clark,Brad Ausmus,2,3,11,False,2003-07-23,Stolen,2B,2003
+1356,2B,3B,Stolen Base 3B,276054,Brady Clark,Brad Ausmus,2,3,11,False,2003-07-23,Stolen,3B,2003
+1585,1B,2B,Stolen Base 2B,276054,Brady Clark,Jason Kendall,0,1,2,False,2003-07-10,Stolen,2B,2003
+1781,1B,2B,Stolen Base 2B,276054,Brady Clark,Tom Prince,4,4,10,True,2003-06-29,Stolen,2B,2003
+2086,1B,2B,Stolen Base 2B,276054,Brady Clark,Brook Fordyce,1,5,5,True,2003-06-14,Stolen,2B,2003
+2428,1B,2B,Stolen Base 2B,276054,Brady Clark,Gary Bennett,4,5,5,True,2003-05-28,Stolen,2B,2003
+2625,1B,2B,Stolen Base 2B,276054,Brady Clark,Jason LaRue,3,3,8,False,2003-05-18,Stolen,2B,2003
+3233,1B,,Caught Stealing 2B,276054,Brady Clark,Brad Ausmus,2,2,12,False,2003-04-19,Caught,2B,2003
+128,1B,2B,Stolen Base 2B,276054,Brady Clark,Brad Ausmus,0,0,4,False,2004-09-24,Stolen,2B,2004
+459,1B,2B,Stolen Base 2B,276054,Brady Clark,Jason LaRue,2,0,4,True,2004-09-09,Stolen,2B,2004
+592,1B,2B,Stolen Base 2B,276054,Brady Clark,Humberto Cota,0,0,1,False,2004-09-02,Stolen,2B,2004
+605,1B,2B,Stolen Base 2B,276054,Brady Clark,Jason Kendall,2,5,10,False,2004-09-01,Stolen,2B,2004
+745,1B,2B,Stolen Base 2B,276054,Brady Clark,Paul Bako,0,1,4,True,2004-08-25,Stolen,2B,2004
+776,1B,2B,Stolen Base 2B,276054,Brady Clark,Michael Barrett,2,0,5,True,2004-08-23,Stolen,2B,2004
+838,1B,2B,Stolen Base 2B,276054,Brady Clark,Mike Lieberthal,0,0,1,False,2004-08-20,Stolen,2B,2004
+930,1B,,Caught Stealing 2B,276054,Brady Clark,Paul Lo Duca,1,0,2,False,2004-08-15,Caught,2B,2004
+967,1B,2B,Stolen Base 2B,276054,Brady Clark,Paul Lo Duca,2,0,3,False,2004-08-13,Stolen,2B,2004
+1060,1B,2B,Stolen Base 2B,276054,Brady Clark,Mike Redmond,0,2,4,True,2004-08-08,Stolen,2B,2004
+1332,1B,2B,Stolen Base 2B,276054,Brady Clark,Michael Barrett,0,0,4,False,2004-07-26,Stolen,2B,2004
+1475,1B,2B,Stolen Base 2B,276054,Brady Clark,Jason LaRue,2,2,6,True,2004-07-20,Stolen,2B,2004
+1560,1B,2B,Stolen Base 2B,276054,Brady Clark,Michael Barrett,0,0,2,True,2004-07-16,Stolen,2B,2004
+2056,1B,,Caught Stealing 2B,276054,Brady Clark,Pat Borders,2,0,1,False,2004-06-16,Caught,2B,2004
+2107,1B,2B,Stolen Base 2B,276054,Brady Clark,Brad Ausmus,2,5,8,False,2004-06-13,Stolen,2B,2004
+2539,1B,,Caught Stealing 2B,276054,Brady Clark,Paul Lo Duca,3,4,7,False,2004-05-25,Caught,2B,2004
+2624,1B,,Caught Stealing 2B,276054,Brady Clark,Brian Schneider,2,2,8,True,2004-05-20,Caught,2B,2004
+2865,1B,2B,Stolen Base 2B,276054,Brady Clark,Vance Wilson,3,6,8,True,2004-05-08,Stolen,2B,2004
+2902,1B,,Caught Stealing 2B,276054,Brady Clark,Javier Valentin,4,4,9,True,2004-05-05,Caught,2B,2004
+3055,1B,,Caught Stealing 2B,276054,Brady Clark,Jason LaRue,9,9,9,False,2004-04-28,Caught,2B,2004
+3344,1B,2B,Stolen Base 2B,276054,Brady Clark,A.J. Pierzynski,0,2,7,True,2004-04-14,Stolen,2B,2004
+336,1B,,Caught Stealing 2B,276054,Brady Clark,Chris Snyder,1,1,12,True,2005-09-14,Caught,2B,2005
+434,1B,,Caught Stealing 2B,276054,Brady Clark,Brad Ausmus,1,0,1,False,2005-09-09,Caught,2B,2005
+700,1B,2B,Stolen Base 2B,276054,Brady Clark,Johnny Estrada,0,0,1,False,2005-08-26,Stolen,2B,2005
+1115,1B,2B,Stolen Base 2B,276054,Brady Clark,Ramon Castro,0,0,1,True,2005-08-04,Stolen,2B,2005
+1143,1B,,Caught Stealing 2B,276054,Brady Clark,Ramon Castro,0,0,1,True,2005-08-02,Caught,2B,2005
+1681,1B,,Caught Stealing 2B,276054,Brady Clark,Paul Lo Duca,2,3,9,True,2005-07-04,Caught,2B,2005
+1954,1B,,Caught Stealing 2B,276054,Brady Clark,Michael Barrett,2,4,5,False,2005-06-20,Caught,2B,2005
+1977,1B,2B,Stolen Base 2B,276054,Brady Clark,Gregg Zaun,2,4,9,True,2005-06-19,Stolen,2B,2005
+1997,1B,2B,Stolen Base 2B,276054,Brady Clark,Gregg Zaun,0,0,1,True,2005-06-18,Stolen,2B,2005
+2192,1B,2B,Stolen Base 2B,276054,Brady Clark,Jorge Posada,3,3,4,False,2005-06-06,Stolen,2B,2005
+2200,1B,2B,Stolen Base 2B,276054,Brady Clark,Mike Rose,0,0,1,True,2005-06-05,Stolen,2B,2005
+2447,1B,2B,Stolen Base 2B,276054,Brady Clark,Todd Greene,6,1,4,False,2005-05-25,Stolen,2B,2005
+2712,1B,,Caught Stealing 2B,276054,Brady Clark,Todd Pratt,0,1,1,False,2005-05-11,Caught,2B,2005
+2894,1B,,Caught Stealing 2B,276054,Brady Clark,Henry Blanco,0,1,3,False,2005-05-03,Caught,2B,2005
+3108,1B,2B,Stolen Base 2B,276054,Brady Clark,Mike Matheny,1,6,9,True,2005-04-22,Stolen,2B,2005
+3197,1B,,Caught Stealing 2B,276054,Brady Clark,Jason Phillips,6,1,6,False,2005-04-19,Caught,2B,2005
+3259,1B,,Caught Stealing 2B,276054,Brady Clark,Yadier Molina,0,0,3,False,2005-04-15,Caught,2B,2005
+3362,1B,,Caught Stealing 2B,276054,Brady Clark,Michael Barrett,5,5,7,True,2005-04-10,Caught,2B,2005
+3481,1B,2B,Stolen Base 2B,276054,Brady Clark,Benito Santiago,1,1,3,True,2005-04-04,Stolen,2B,2005
+3482,1B,2B,Stolen Base 2B,276054,Brady Clark,Benito Santiago,2,8,6,True,2005-04-04,Stolen,2B,2005
+71,1B,,Caught Stealing 2B,276054,Brady Clark,Damian Miller,5,9,8,True,2007-09-27,Caught,2B,2007
+2472,1B,2B,Stolen Base 2B,276054,Brady Clark,Jason Phillips,0,1,8,False,2007-06-09,Stolen,2B,2007
+3554,1B,,Caught Stealing 2B,276054,Brady Clark,Yorvit Torrealba,0,1,2,True,2007-04-18,Caught,2B,2007
+3477,1B,2B,Stolen Base 2B,276054,Brady Clark,Jason Kendall,7,9,8,False,2008-04-13,Stolen,2B,2008

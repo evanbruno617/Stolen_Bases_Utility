@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3457,1B,2B,Stolen Base 2B,220194,Erubiel Durazo,Joe Girardi,4,6,10,True,2000-04-29,Stolen,2B,2000
+2293,2B,,Caught Stealing 3B,220194,Erubiel Durazo,Jason Varitek,0,2,3,True,2002-06-09,Caught,3B,2002
+124,1B,2B,Stolen Base 2B,220194,Erubiel Durazo,Todd Greene,3,3,10,False,2003-09-23,Stolen,2B,2003
+421,1B,,Caught Stealing 2B,220194,Erubiel Durazo,José Molina,1,0,6,False,2003-09-08,Caught,2B,2003
+1274,1B,2B,Stolen Base 2B,220194,Erubiel Durazo,Rod Barajas,5,5,5,True,2004-07-29,Stolen,2B,2004
+1652,1B,2B,Stolen Base 2B,220194,Erubiel Durazo,Victor Martinez,1,4,8,True,2004-07-09,Stolen,2B,2004
+2428,1B,,Caught Stealing 2B,220194,Erubiel Durazo,Victor Martinez,1,1,6,True,2004-05-30,Caught,2B,2004
+2530,1B,,Caught Stealing 2B,220194,Erubiel Durazo,Jason Varitek,1,2,4,True,2004-05-26,Caught,2B,2004
+3396,1B,2B,Stolen Base 2B,220194,Erubiel Durazo,Ben Davis,3,0,3,False,2004-04-11,Stolen,2B,2004
+2874,1B,2B,Stolen Base 2B,220194,Erubiel Durazo,Sandy Alomar Jr.,1,0,1,False,2005-05-04,Stolen,2B,2005

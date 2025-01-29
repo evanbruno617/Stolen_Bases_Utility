@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3432,1B,2B,Stolen Base 2B,501814,Brian Bocock,Robby Hammock,5,4,8,False,2008-04-14,Stolen,2B,2008
+3553,1B,2B,Stolen Base 2B,501814,Brian Bocock,Josh Bard,0,0,5,False,2008-04-09,Stolen,2B,2008
+3650,2B,3B,Stolen Base 3B,501814,Brian Bocock,Mike Rivera,1,0,3,True,2008-04-05,Stolen,3B,2008
+3653,1B,2B,Stolen Base 2B,501814,Brian Bocock,Mike Rivera,1,0,5,True,2008-04-05,Stolen,2B,2008
+3654,1B,,Caught Stealing 2B,501814,Brian Bocock,Mike Rivera,4,2,7,True,2008-04-05,Caught,2B,2008

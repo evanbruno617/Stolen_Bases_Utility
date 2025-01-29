@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,307,1B,2B,Stolen Base 2B,571553,Darrell Ceciliani,425844,Zack Greinke,608700,Kevin Plawecki,R,Yasmani Grandal,518735,1,0,4,True,2015-07-04,Stolen,2B,2015,2016,26.4
+1,498,1B,,Caught Stealing 2B,571553,Darrell Ceciliani,543380,Taylor Jungmann,608700,Kevin Plawecki,R,Jonathan Lucroy,518960,0,0,4,True,2015-06-25,Caught,2B,2015,2016,26.4
+2,522,1B,2B,Stolen Base 2B,571553,Darrell Ceciliani,519293,Will Smith,434158,Curtis Granderson,L,Jonathan Lucroy,518960,2,2,7,True,2015-06-23,Stolen,2B,2015,2016,26.4
+3,763,1B,2B,Stolen Base 2B,571553,Darrell Ceciliani,430911,David Aardsma,501571,Juan Lagares,R,A.J. Pierzynski,150229,4,3,7,False,2015-06-12,Stolen,2B,2015,2016,26.4
+4,836,1B,2B,Stolen Base 2B,571553,Darrell Ceciliani,500724,JC Ramírez,434158,Curtis Granderson,R,Jarrod Saltalamacchia,457454,3,6,9,True,2015-06-07,Stolen,2B,2015,2016,26.4
+5,968,1B,2B,Stolen Base 2B,571553,Darrell Ceciliani,488768,Andrew Cashner,501571,Juan Lagares,R,Austin Hedges,595978,0,6,5,True,2015-06-01,Stolen,2B,2015,2016,26.4

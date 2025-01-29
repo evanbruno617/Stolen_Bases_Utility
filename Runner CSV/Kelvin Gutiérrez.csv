@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2381,1B,2B,Stolen Base 2B,642721,Kelvin Gutiérrez,John Hicks,2,9,6,True,2019-05-04,Stolen,2B,2019
+1586,1B,,Caught Stealing 2B,642721,Kelvin Gutiérrez,Christian Vázquez,4,2,5,False,2021-06-20,Caught,2B,2021
+2856,1B,2B,Stolen Base 2B,642721,Kelvin Gutiérrez,Kurt Suzuki,6,3,6,True,2022-04-24,Stolen,2B,2022

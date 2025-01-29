@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1010,1B,2B,Stolen Base 2B,570717,Ramón Flores,Yasmani Grandal,2,5,3,True,2016-06-18,Stolen,2B,2016
+1401,1B,2B,Stolen Base 2B,570717,Ramón Flores,Tucker Barnhart,5,2,8,False,2016-05-29,Stolen,2B,2016
+1577,1B,2B,Stolen Base 2B,570717,Ramón Flores,Miguel Montero,5,3,8,False,2016-05-19,Stolen,2B,2016

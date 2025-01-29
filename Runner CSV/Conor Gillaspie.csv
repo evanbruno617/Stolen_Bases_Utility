@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3389,1B,,Caught Stealing 2B,543216,Conor Gillaspie,Yan Gomes,1,0,5,True,2013-04-14,Caught,2B,2013
+393,1B,,Caught Stealing 2B,543216,Conor Gillaspie,Geovany Soto,1,0,7,False,2014-09-11,Caught,2B,2014
+734,1B,,Caught Stealing 2B,543216,Conor Gillaspie,Roberto Pérez,3,2,8,False,2014-08-27,Caught,2B,2014
+1304,1B,,Caught Stealing 2B,543216,Conor Gillaspie,Bryan Holaday,2,2,4,True,2014-07-29,Caught,2B,2014
+2028,1B,,Caught Stealing 2B,543216,Conor Gillaspie,Kurt Suzuki,3,2,3,True,2014-06-20,Caught,2B,2014
+2791,1B,,Caught Stealing 2B,543216,Conor Gillaspie,Alex Avila,1,2,2,False,2015-05-05,Caught,2B,2015
+604,1B,,Caught Stealing 2B,543216,Conor Gillaspie,Derek Norris,1,1,2,True,2016-07-15,Caught,2B,2016
+1125,1B,2B,Stolen Base 2B,543216,Conor Gillaspie,A.J. Ellis,2,1,7,False,2016-06-12,Stolen,2B,2016

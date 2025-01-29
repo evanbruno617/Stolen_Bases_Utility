@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+3397,1B,,Caught Stealing 2B,452672,Ryan Hanigan,Russell Martin,2,1,6,True,2013-04-13,Caught,2B,2013
+326,1B,2B,Stolen Base 2B,452672,Ryan Hanigan,Dioner Navarro,5,6,10,True,2014-09-14,Stolen,2B,2014

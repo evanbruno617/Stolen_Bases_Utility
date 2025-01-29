@@ -1,0 +1,47 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,499,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,657376,Clarke Schmidt,621466,DJ Stewart,R,Erik Kratz,456124,6,3,6,False,2020-09-04,Stolen,2B,2020,2021,29.4
+1,562,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,543699,Tanner Roark,578428,Jose Iglesias,R,Reese McGuire,624512,1,1,5,True,2020-08-30,Stolen,2B,2020,2021,29.4
+2,733,1B,,Caught Stealing 2B,623205,Andrew Velazquez,518489,Ryan Brasier,600474,Pedro Severino,R,Christian Vázquez,543877,3,3,8,False,2020-08-22,Caught,2B,2020,2021,29.4
+3,848,2B,3B,Stolen Base 3B,623205,Andrew Velazquez,663432,Tanner Rainey,596105,Dwight Smith Jr.,R,Kurt Suzuki,435559,5,6,8,False,2020-08-16,Stolen,3B,2020,2021,29.4
+4,856,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,640448,Kyle Finnegan,593643,Hanser Alberto,R,Yan Gomes,543228,6,3,6,False,2020-08-15,Stolen,2B,2020,2021,29.4
+5,929,3B,,Caught Stealing Home,623205,Andrew Velazquez,501625,Jose Alvarez,448801,Chris Davis,L,J.T. Realmuto,592663,3,5,8,True,2020-08-11,Caught,Home,2020,2021,29.4
+6,1010,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,657376,Clarke Schmidt,621466,DJ Stewart,R,Erik Kratz,456124,6,3,6,False,2020-08-05,Stolen,2B,2020,2021,29.4
+7,3342,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,657376,Clarke Schmidt,621466,DJ Stewart,R,Erik Kratz,456124,6,3,6,False,2020-09-04,Stolen,2B,2020,2021,29.4
+8,3405,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,543699,Tanner Roark,578428,Jose Iglesias,R,Reese McGuire,624512,1,1,5,True,2020-08-30,Stolen,2B,2020,2021,29.4
+9,3576,1B,,Caught Stealing 2B,623205,Andrew Velazquez,518489,Ryan Brasier,600474,Pedro Severino,R,Christian Vázquez,543877,3,3,8,False,2020-08-22,Caught,2B,2020,2021,29.4
+10,3691,2B,3B,Stolen Base 3B,623205,Andrew Velazquez,663432,Tanner Rainey,596105,Dwight Smith Jr.,R,Kurt Suzuki,435559,5,6,8,False,2020-08-16,Stolen,3B,2020,2021,29.4
+11,3699,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,640448,Kyle Finnegan,593643,Hanser Alberto,R,Yan Gomes,543228,6,3,6,False,2020-08-15,Stolen,2B,2020,2021,29.4
+12,3772,3B,,Caught Stealing Home,623205,Andrew Velazquez,501625,Jose Alvarez,448801,Chris Davis,L,J.T. Realmuto,592663,3,5,8,True,2020-08-11,Caught,Home,2020,2021,29.4
+13,3853,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,657376,Clarke Schmidt,621466,DJ Stewart,R,Erik Kratz,456124,6,3,6,False,2020-08-05,Stolen,2B,2020,2021,29.4
+14,5266,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,657376,Clarke Schmidt,621466,DJ Stewart,R,Erik Kratz,456124,6,3,6,False,2020-09-04,Stolen,2B,2020,2021,29.4
+15,5329,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,543699,Tanner Roark,578428,Jose Iglesias,R,Reese McGuire,624512,1,1,5,True,2020-08-30,Stolen,2B,2020,2021,29.4
+16,5500,1B,,Caught Stealing 2B,623205,Andrew Velazquez,518489,Ryan Brasier,600474,Pedro Severino,R,Christian Vázquez,543877,3,3,8,False,2020-08-22,Caught,2B,2020,2021,29.4
+17,5615,2B,3B,Stolen Base 3B,623205,Andrew Velazquez,663432,Tanner Rainey,596105,Dwight Smith Jr.,R,Kurt Suzuki,435559,5,6,8,False,2020-08-16,Stolen,3B,2020,2021,29.4
+18,5623,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,640448,Kyle Finnegan,593643,Hanser Alberto,R,Yan Gomes,543228,6,3,6,False,2020-08-15,Stolen,2B,2020,2021,29.4
+19,5696,3B,,Caught Stealing Home,623205,Andrew Velazquez,501625,Jose Alvarez,448801,Chris Davis,L,J.T. Realmuto,592663,3,5,8,True,2020-08-11,Caught,Home,2020,2021,29.4
+20,5777,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,657376,Clarke Schmidt,621466,DJ Stewart,R,Erik Kratz,456124,6,3,6,False,2020-08-05,Stolen,2B,2020,2021,29.4
+21,1430,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,592767,Drew Smyly,596019,Francisco Lindor,L,Andrew Knapp,595284,3,0,2,False,2019-09-20,Stolen,2B,2019,2020,28.3
+22,4273,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,592767,Drew Smyly,596019,Francisco Lindor,L,Andrew Knapp,595284,3,0,2,False,2019-09-20,Stolen,2B,2019,2020,28.3
+23,6197,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,592767,Drew Smyly,596019,Francisco Lindor,L,Andrew Knapp,595284,3,0,2,False,2019-09-20,Stolen,2B,2019,2020,28.3
+24,369,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,571927,Steven Matz,518934,DJ LeMahieu,L,Reese McGuire,624512,0,1,3,False,2021-09-07,Stolen,2B,2021,2022,29.1
+25,597,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,450203,Charlie Morton,458731,Brett Gardner,R,Travis d'Arnaud,518595,2,2,5,True,2021-08-24,Stolen,2B,2021,2022,29.1
+26,669,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,543056,Danny Coulombe,543309,Kyle Higashioka,L,Ryan Jeffers,680777,6,0,4,False,2021-08-19,Stolen,2B,2021,2022,29.1
+27,691,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,601713,Nick Pivetta,518934,DJ LeMahieu,R,Christian Vázquez,543877,2,1,2,False,2021-08-18,Stolen,2B,2021,2022,29.1
+28,797,1B,,Caught Stealing 2B,623205,Andrew Velazquez,663992,Richard Lovelady,642180,Tyler Wade,L,Cam Gallagher,595956,1,5,5,True,2021-08-11,Caught,2B,2021,2022,29.1
+29,2293,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,571927,Steven Matz,518934,DJ LeMahieu,L,Reese McGuire,624512,0,1,3,False,2021-09-07,Stolen,2B,2021,2022,29.1
+30,2521,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,450203,Charlie Morton,458731,Brett Gardner,R,Travis d'Arnaud,518595,2,2,5,True,2021-08-24,Stolen,2B,2021,2022,29.1
+31,2593,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,543056,Danny Coulombe,543309,Kyle Higashioka,L,Ryan Jeffers,680777,6,0,4,False,2021-08-19,Stolen,2B,2021,2022,29.1
+32,2615,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,601713,Nick Pivetta,518934,DJ LeMahieu,R,Christian Vázquez,543877,2,1,2,False,2021-08-18,Stolen,2B,2021,2022,29.1
+33,2721,1B,,Caught Stealing 2B,623205,Andrew Velazquez,663992,Richard Lovelady,642180,Tyler Wade,L,Cam Gallagher,595956,1,5,5,True,2021-08-11,Caught,2B,2021,2022,29.1
+34,13,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,606160,Rafael Montero,660271,Shohei Ohtani,R,Korey Lee,686676,2,2,8,False,2022-07-14,Stolen,2B,2022,2023,28.4
+35,130,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,605347,Jorge López,435559,Kurt Suzuki,R,Adley Rutschman,668939,1,0,9,True,2022-07-09,Stolen,2B,2022,2023,28.4
+36,476,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,663460,Kris Bubic,621493,Taylor Ward,L,Salvador Perez,521692,2,2,5,False,2022-06-20,Stolen,2B,2022,2023,28.4
+37,523,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,489265,Sergio Romo,621493,Taylor Ward,R,Cal Raleigh,663728,0,3,7,True,2022-06-18,Stolen,2B,2022,2023,28.4
+38,874,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,612434,Miguel Castro,621493,Taylor Ward,R,Jose Trevino,624431,7,1,8,True,2022-05-31,Stolen,2B,2022,2023,28.4
+39,947,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,666201,Alek Manoah,501571,Juan Lagares,R,Alejandro Kirk,672386,1,1,2,False,2022-05-27,Stolen,2B,2022,2023,28.4
+40,1182,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,621112,Paul Blackburn,664334,Aaron Whitefield,R,Christian Bethancourt,542194,0,1,4,True,2022-05-14,Stolen,2B,2022,2023,28.4
+41,1241,2B,3B,Stolen Base 3B,623205,Andrew Velazquez,446372,Corey Kluber,669016,Brandon Marsh,R,Mike Zunino,572287,4,0,2,False,2022-05-10,Stolen,3B,2022,2023,28.4
+42,1310,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,680686,Josiah Gray,621493,Taylor Ward,R,Keibert Ruiz,660688,3,6,5,False,2022-05-07,Stolen,2B,2022,2023,28.4
+43,1446,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,621114,Ryan Burr,664058,David Fletcher,R,Yasmani Grandal,518735,1,4,9,True,2022-04-29,Stolen,2B,2022,2023,28.4
+44,1623,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,650556,Bryan Abreu,621493,Taylor Ward,R,Martín Maldonado,455117,1,7,6,True,2022-04-19,Stolen,2B,2022,2023,28.4
+45,1658,1B,2B,Stolen Base 2B,623205,Andrew Velazquez,656271,Brock Burke,642180,Tyler Wade,L,Mitch Garver,641598,3,6,6,True,2022-04-17,Stolen,2B,2022,2023,28.4

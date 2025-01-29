@@ -1,0 +1,19 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+411,1B,2B,Stolen Base 2B,114909,Chris Gomez,Randy Knorr,2,6,5,True,2001-05-19,Stolen,2B,2001
+631,1B,,Caught Stealing 2B,114909,Chris Gomez,José Molina,4,0,3,True,2002-08-29,Caught,2B,2002
+797,1B,2B,Stolen Base 2B,114909,Chris Gomez,Geronimo Gil,1,1,5,True,2002-08-21,Stolen,2B,2002
+2497,1B,,Caught Stealing 2B,114909,Chris Gomez,Ramon Hernandez,0,0,2,False,2002-05-30,Caught,2B,2002
+1468,1B,2B,Stolen Base 2B,114909,Chris Gomez,Ramon Hernandez,1,0,3,False,2003-07-18,Stolen,2B,2003
+2448,1B,2B,Stolen Base 2B,114909,Chris Gomez,Ramon Hernandez,6,4,5,False,2003-05-28,Stolen,2B,2003
+3279,1B,,Caught Stealing 2B,114909,Chris Gomez,Brandon Inge,4,0,4,False,2003-04-17,Caught,2B,2003
+250,2B,,Caught Stealing 3B,114909,Chris Gomez,Toby Hall,9,5,4,False,2004-09-19,Caught,3B,2004
+961,1B,,Caught Stealing 2B,114909,Chris Gomez,Javy Lopez,3,1,4,False,2004-08-14,Caught,2B,2004
+1142,1B,2B,Stolen Base 2B,114909,Chris Gomez,Tim Laker,3,2,5,False,2004-08-05,Stolen,2B,2004
+1811,1B,2B,Stolen Base 2B,114909,Chris Gomez,Toby Hall,0,2,1,True,2004-06-29,Stolen,2B,2004
+2456,1B,2B,Stolen Base 2B,114909,Chris Gomez,Ken Huckaby,2,0,4,False,2004-05-29,Stolen,2B,2004
+2292,1B,2B,Stolen Base 2B,114909,Chris Gomez,Jason Varitek,0,6,6,True,2005-06-01,Stolen,2B,2005
+3399,1B,2B,Stolen Base 2B,114909,Chris Gomez,Jorge Posada,3,5,6,True,2005-04-09,Stolen,2B,2005
+3400,3B,,Caught Stealing Home,114909,Chris Gomez,Jorge Posada,3,5,6,True,2005-04-09,Caught,Home,2005
+1532,2B,,Caught Stealing 3B,114909,Chris Gomez,Dioner Navarro,3,0,8,False,2007-07-24,Caught,3B,2007
+2236,1B,2B,Stolen Base 2B,114909,Chris Gomez,Michael Barrett,0,0,3,True,2007-06-21,Stolen,2B,2007
+2770,1B,,Caught Stealing 2B,114909,Chris Gomez,Jason Kendall,4,1,4,False,2007-05-26,Caught,2B,2007

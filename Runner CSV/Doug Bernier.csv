@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1171,1B,2B,Stolen Base 2B,448674,Doug Bernier,Jason Castro,2,0,3,False,2013-08-04,Stolen,2B,2013
+1334,1B,,Caught Stealing 2B,448674,Doug Bernier,Henry Blanco,0,4,8,True,2013-07-27,Caught,2B,2013
+1395,1B,2B,Stolen Base 2B,448674,Doug Bernier,Chris Iannetta,0,0,1,True,2013-07-24,Stolen,2B,2013

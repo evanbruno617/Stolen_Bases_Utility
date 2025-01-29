@@ -1,0 +1,5 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,448242,Tony Gwynn Jr.,Robert Lara,0,0,1,True,2010-04-02,Stolen,2B,2010
+1B,2B,Stolen Base 2B,461416,Will Venable,Robert Lara,0,4,1,True,2010-04-02,Stolen,2B,2010
+1B,2B,Stolen Base 2B,465784,Everth Cabrera,Robert Lara,0,4,2,True,2010-04-02,Stolen,2B,2010
+2B,,Caught Stealing 3B,465784,Everth Cabrera,Robert Lara,0,4,2,True,2010-04-02,Caught,3B,2010

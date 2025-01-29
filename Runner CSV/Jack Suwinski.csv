@@ -1,0 +1,24 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+146,1B,2B,Stolen Base 2B,669261,Jack Suwinski,P.J. Higgins,4,2,3,False,2022-09-23,Stolen,2B,2022
+336,2B,3B,Stolen Base 3B,669261,Jack Suwinski,Chuckie Robinson,3,6,9,True,2022-09-12,Stolen,3B,2022
+1379,1B,,Caught Stealing 2B,669261,Jack Suwinski,Nick Fortes,0,1,5,True,2022-07-13,Caught,2B,2022
+1502,1B,,Caught Stealing 2B,669261,Jack Suwinski,Michael Papierski,0,1,4,True,2022-07-07,Caught,2B,2022
+2108,2B,3B,Stolen Base 3B,669261,Jack Suwinski,Daulton Varsho,2,0,6,False,2022-06-05,Stolen,3B,2022
+2318,1B,2B,Stolen Base 2B,669261,Jack Suwinski,Brian Serven,10,5,8,False,2022-05-25,Stolen,2B,2022
+229,2B,3B,Stolen Base 3B,669261,Jack Suwinski,Yan Gomes,0,3,5,True,2023-09-21,Stolen,3B,2023
+451,1B,2B,Stolen Base 2B,669261,Jack Suwinski,Keibert Ruiz,2,0,3,False,2023-09-12,Stolen,2B,2023
+528,1B,2B,Stolen Base 2B,669261,Jack Suwinski,Sean Murphy,3,6,5,True,2023-09-09,Stolen,2B,2023
+530,1B,2B,Stolen Base 2B,669261,Jack Suwinski,Sean Murphy,4,8,9,True,2023-09-09,Stolen,2B,2023
+869,1B,2B,Stolen Base 2B,669261,Jack Suwinski,Yan Gomes,1,1,2,False,2023-08-27,Stolen,2B,2023
+1314,1B,2B,Stolen Base 2B,669261,Jack Suwinski,Sean Murphy,7,5,7,False,2023-08-07,Stolen,2B,2023
+1315,2B,,Caught Stealing 3B,669261,Jack Suwinski,Sean Murphy,7,5,7,False,2023-08-07,Caught,3B,2023
+2152,1B,2B,Stolen Base 2B,669261,Jack Suwinski,Gary Sánchez,2,0,2,False,2023-06-28,Stolen,2B,2023
+2877,1B,2B,Stolen Base 2B,669261,Jack Suwinski,Tom Murphy,3,3,8,True,2023-05-28,Stolen,2B,2023
+3034,1B,2B,Caught Stealing Home,669261,Jack Suwinski,Jonah Heim,0,0,1,False,2023-05-22,Caught,Home,2023
+3586,2B,,Caught Stealing 3B,669261,Jack Suwinski,Keibert Ruiz,0,4,3,True,2023-04-29,Caught,3B,2023
+3590,1B,2B,Stolen Base 2B,669261,Jack Suwinski,Riley Adams,3,6,9,True,2023-04-29,Stolen,2B,2023
+3595,2B,,Caught Stealing 3B,669261,Jack Suwinski,Keibert Ruiz,0,4,3,True,2023-04-28,Caught,3B,2023
+3634,1B,2B,Stolen Base 2B,669261,Jack Suwinski,Austin Barnes,3,2,1,False,2023-04-27,Stolen,2B,2023
+3656,1B,2B,Stolen Base 2B,669261,Jack Suwinski,Austin Wynns,0,0,4,False,2023-04-26,Stolen,2B,2023
+3743,1B,2B,Stolen Base 2B,669261,Jack Suwinski,Curt Casali,1,0,4,False,2023-04-23,Stolen,2B,2023
+3745,2B,3B,Stolen Base 3B,669261,Jack Suwinski,Curt Casali,2,0,8,False,2023-04-23,Stolen,3B,2023

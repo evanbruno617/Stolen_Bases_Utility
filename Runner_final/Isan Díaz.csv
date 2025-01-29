@@ -1,0 +1,17 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1690,3B,,Caught Stealing Home,656371,Isan Díaz,593140,Michael Feliz,642423,Magneuris Sierra,R,Elias Díaz,553869,5,6,5,True,2019-09-05,Caught,Home,2019,2020,25.8
+1,1795,1B,,Caught Stealing 2B,656371,Isan Díaz,608371,Lucas Sims,621573,Austin Dean,R,Tucker Barnhart,571466,3,2,7,False,2019-08-29,Caught,2B,2019,2020,25.8
+2,2159,1B,,Caught Stealing 2B,656371,Isan Díaz,621141,Walker Lockett,605119,Brian Anderson,R,Wilson Ramos,467092,0,0,1,True,2019-08-05,Caught,2B,2019,2020,25.8
+3,3489,1B,,Caught Stealing 2B,656371,Isan Díaz,621141,Walker Lockett,605119,Brian Anderson,R,Wilson Ramos,467092,0,0,1,True,2019-05-12,Caught,2B,2019,2020,25.8
+4,4533,3B,,Caught Stealing Home,656371,Isan Díaz,593140,Michael Feliz,642423,Magneuris Sierra,R,Elias Díaz,553869,5,6,5,True,2019-09-05,Caught,Home,2019,2020,25.8
+5,4638,1B,,Caught Stealing 2B,656371,Isan Díaz,608371,Lucas Sims,621573,Austin Dean,R,Tucker Barnhart,571466,3,2,7,False,2019-08-29,Caught,2B,2019,2020,25.8
+6,5002,1B,,Caught Stealing 2B,656371,Isan Díaz,621141,Walker Lockett,605119,Brian Anderson,R,Wilson Ramos,467092,0,0,1,True,2019-08-05,Caught,2B,2019,2020,25.8
+7,6332,1B,,Caught Stealing 2B,656371,Isan Díaz,621141,Walker Lockett,605119,Brian Anderson,R,Wilson Ramos,467092,0,0,1,True,2019-05-12,Caught,2B,2019,2020,25.8
+8,6457,3B,,Caught Stealing Home,656371,Isan Díaz,593140,Michael Feliz,642423,Magneuris Sierra,R,Elias Díaz,553869,5,6,5,True,2019-09-05,Caught,Home,2019,2020,25.8
+9,6562,1B,,Caught Stealing 2B,656371,Isan Díaz,608371,Lucas Sims,621573,Austin Dean,R,Tucker Barnhart,571466,3,2,7,False,2019-08-29,Caught,2B,2019,2020,25.8
+10,6926,1B,,Caught Stealing 2B,656371,Isan Díaz,621141,Walker Lockett,605119,Brian Anderson,R,Wilson Ramos,467092,0,0,1,True,2019-08-05,Caught,2B,2019,2020,25.8
+11,8256,1B,,Caught Stealing 2B,656371,Isan Díaz,621141,Walker Lockett,605119,Brian Anderson,R,Wilson Ramos,467092,0,0,1,True,2019-05-12,Caught,2B,2019,2020,25.8
+12,704,1B,,Caught Stealing 2B,656371,Isan Díaz,660623,Huascar Ynoa,621446,Lewis Brinson,R,Stephen Vogt,519390,0,0,4,False,2021-08-17,Caught,2B,2021,2023,22.0
+13,764,1B,2B,Stolen Base 2B,656371,Isan Díaz,595465,Dan Winkler,542583,Jesús Aguilar,R,Robinson Chirinos,455139,5,4,2,False,2021-08-13,Stolen,2B,2021,2023,22.0
+14,2628,1B,,Caught Stealing 2B,656371,Isan Díaz,660623,Huascar Ynoa,621446,Lewis Brinson,R,Stephen Vogt,519390,0,0,4,False,2021-08-17,Caught,2B,2021,2023,22.0
+15,2688,1B,2B,Stolen Base 2B,656371,Isan Díaz,595465,Dan Winkler,542583,Jesús Aguilar,R,Robinson Chirinos,455139,5,4,2,False,2021-08-13,Stolen,2B,2021,2023,22.0

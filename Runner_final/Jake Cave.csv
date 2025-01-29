@@ -1,0 +1,19 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,41,1B,,Caught Stealing 2B,595909,Jake Cave,596112,Robert Stephenson,593871,Jorge Polanco,R,Curt Casali,592200,7,3,8,False,2020-09-26,Caught,2B,2020,2021,27.9
+1,198,1B,,Caught Stealing 2B,595909,Jake Cave,543294,Kyle Hendricks,503556,Marwin Gonzalez,R,Willson Contreras,575929,1,0,2,True,2020-09-18,Caught,2B,2020,2021,27.9
+2,2884,1B,,Caught Stealing 2B,595909,Jake Cave,596112,Robert Stephenson,593871,Jorge Polanco,R,Curt Casali,592200,7,3,8,False,2020-09-26,Caught,2B,2020,2021,27.9
+3,3041,1B,,Caught Stealing 2B,595909,Jake Cave,543294,Kyle Hendricks,503556,Marwin Gonzalez,R,Willson Contreras,575929,1,0,2,True,2020-09-18,Caught,2B,2020,2021,27.9
+4,4808,1B,,Caught Stealing 2B,595909,Jake Cave,596112,Robert Stephenson,593871,Jorge Polanco,R,Curt Casali,592200,7,3,8,False,2020-09-26,Caught,2B,2020,2021,27.9
+5,4965,1B,,Caught Stealing 2B,595909,Jake Cave,543294,Kyle Hendricks,503556,Marwin Gonzalez,R,Willson Contreras,575929,1,0,2,True,2020-09-18,Caught,2B,2020,2021,27.9
+6,600,1B,,Caught Stealing 2B,595909,Jake Cave,493603,Adam Ottavino,596146,Max Kepler,R,Christian Vázquez,543877,9,8,8,True,2021-08-24,Caught,2B,2021,2022,28.0
+7,2640,1B,2B,Stolen Base 2B,595909,Jake Cave,598264,Matt Barnes,593934,Miguel Sanó,R,Kevin Plawecki,608700,2,3,7,False,2021-04-14,Stolen,2B,2021,2022,28.0
+8,2524,1B,,Caught Stealing 2B,595909,Jake Cave,493603,Adam Ottavino,596146,Max Kepler,R,Christian Vázquez,543877,9,8,8,True,2021-08-24,Caught,2B,2021,2022,28.0
+9,4564,1B,2B,Stolen Base 2B,595909,Jake Cave,598264,Matt Barnes,593934,Miguel Sanó,R,Kevin Plawecki,608700,2,3,7,False,2021-04-14,Stolen,2B,2021,2022,28.0
+10,3847,1B,2B,Stolen Base 2B,595909,Jake Cave,518617,Jake Diekman,543281,Josh Harrison,L,Yasmani Grandal,518735,4,7,9,True,2023-04-18,Stolen,2B,2023,2024,27.7
+11,4118,1B,2B,Stolen Base 2B,595909,Jake Cave,668881,Hunter Greene,665019,Kody Clemens,R,Tyler Stephenson,663886,0,0,2,False,2023-04-07,Stolen,2B,2023,2024,27.7
+12,4128,1B,2B,Stolen Base 2B,595909,Jake Cave,668881,Hunter Greene,665019,Kody Clemens,R,Tyler Stephenson,663886,0,0,2,False,2023-04-06,Stolen,2B,2023,2024,27.7
+13,4246,1B,2B,Stolen Base 2B,595909,Jake Cave,543135,Nathan Eovaldi,669016,Brandon Marsh,R,Mitch Garver,641598,2,0,3,True,2023-04-01,Stolen,2B,2023,2024,27.7
+14,8261,1B,2B,Stolen Base 2B,595909,Jake Cave,518617,Jake Diekman,543281,Josh Harrison,L,Yasmani Grandal,518735,4,7,9,True,2023-04-18,Stolen,2B,2023,2024,27.7
+15,8532,1B,2B,Stolen Base 2B,595909,Jake Cave,668881,Hunter Greene,665019,Kody Clemens,R,Tyler Stephenson,663886,0,0,2,False,2023-04-07,Stolen,2B,2023,2024,27.7
+16,8542,1B,2B,Stolen Base 2B,595909,Jake Cave,668881,Hunter Greene,665019,Kody Clemens,R,Tyler Stephenson,663886,0,0,2,False,2023-04-06,Stolen,2B,2023,2024,27.7
+17,8660,1B,2B,Stolen Base 2B,595909,Jake Cave,543135,Nathan Eovaldi,669016,Brandon Marsh,R,Mitch Garver,641598,2,0,3,True,2023-04-01,Stolen,2B,2023,2024,27.7

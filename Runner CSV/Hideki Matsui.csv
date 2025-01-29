@@ -1,0 +1,20 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+234,1B,,Caught Stealing 2B,425686,Hideki Matsui,Brook Fordyce,1,0,2,True,2003-09-17,Caught,2B,2003
+496,1B,2B,Stolen Base 2B,425686,Hideki Matsui,Greg Myers,0,0,2,True,2003-09-04,Stolen,2B,2003
+874,1B,2B,Stolen Base 2B,425686,Hideki Matsui,Brook Fordyce,0,2,3,True,2003-08-15,Stolen,2B,2003
+763,1B,2B,Stolen Base 2B,425686,Hideki Matsui,Victor Martinez,4,5,9,True,2004-08-24,Stolen,2B,2004
+1243,1B,2B,Stolen Base 2B,425686,Hideki Matsui,Javy Lopez,1,1,4,False,2004-07-31,Stolen,2B,2004
+1320,1B,2B,Stolen Base 2B,425686,Hideki Matsui,Gregg Zaun,2,5,8,True,2004-07-27,Stolen,2B,2004
+491,1B,,Caught Stealing 2B,425686,Hideki Matsui,Toby Hall,1,0,1,False,2005-09-06,Caught,2B,2005
+1487,2B,,Caught Stealing 3B,425686,Hideki Matsui,Jason Varitek,4,7,7,True,2005-07-16,Caught,3B,2005
+2431,1B,2B,Stolen Base 2B,425686,Hideki Matsui,Ivan Rodriguez,4,2,8,False,2005-05-25,Stolen,2B,2005
+2549,1B,2B,Stolen Base 2B,425686,Hideki Matsui,Mike Piazza,1,1,6,True,2005-05-20,Stolen,2B,2005
+433,1B,2B,Stolen Base 2B,425686,Hideki Matsui,Gregg Zaun,0,2,4,True,2007-09-12,Stolen,2B,2007
+606,1B,,Caught Stealing 2B,425686,Hideki Matsui,Kenji Johjima,1,0,4,False,2007-09-04,Caught,2B,2007
+1692,1B,2B,Stolen Base 2B,425686,Hideki Matsui,Gregg Zaun,1,1,1,False,2007-07-17,Stolen,2B,2007
+1886,1B,2B,Stolen Base 2B,425686,Hideki Matsui,José Molina,1,1,12,False,2007-07-07,Stolen,2B,2007
+2405,1B,,Caught Stealing 2B,425686,Hideki Matsui,Miguel Montero,1,1,2,False,2007-06-13,Caught,2B,2007
+3354,1B,2B,Stolen Base 2B,425686,Hideki Matsui,Doug Mirabelli,0,0,2,False,2007-04-28,Stolen,2B,2007
+1082,1B,,Caught Stealing 2B,425686,Hideki Matsui,Brayan Peña,1,0,4,False,2010-08-11,Caught,2B,2010
+1943,1B,,Caught Stealing 2B,425686,Hideki Matsui,Yorvit Torrealba,5,6,7,True,2011-07-09,Caught,2B,2011
+2149,1B,2B,Stolen Base 2B,425686,Hideki Matsui,Miguel Montero,1,1,4,False,2011-07-01,Stolen,2B,2011

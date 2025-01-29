@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+12,1B,,Caught Stealing 2B,134360,Bobby Smith,Scott Hatteberg,0,0,5,False,2000-09-30,Caught,2B,2000
+109,1B,,Caught Stealing 2B,134360,Bobby Smith,Jorge Posada,1,0,8,False,2000-09-26,Caught,2B,2000
+1015,1B,2B,Stolen Base 2B,134360,Bobby Smith,Charles Johnson,1,0,2,True,2000-08-19,Stolen,2B,2000
+2297,1B,2B,Stolen Base 2B,134360,Bobby Smith,Ivan Rodriguez,1,1,5,False,2000-06-18,Stolen,2B,2000

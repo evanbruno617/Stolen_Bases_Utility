@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+148,1B,2B,Stolen Base 2B,543105,Alex Dickerson,Cameron Rupp,0,0,2,False,2016-08-05,Stolen,2B,2016
+370,1B,2B,Stolen Base 2B,543105,Alex Dickerson,Russell Martin,4,4,8,True,2016-07-26,Stolen,2B,2016
+740,1B,2B,Stolen Base 2B,543105,Alex Dickerson,Brian McCann,1,2,7,False,2016-07-03,Stolen,2B,2016
+1475,3B,,Caught Stealing Home,543105,Alex Dickerson,Tony Wolters,2,0,1,False,2019-06-26,Caught,Home,2019
+1497,1B,2B,Stolen Base 2B,543105,Alex Dickerson,Tony Wolters,0,0,1,False,2019-06-24,Stolen,2B,2019
+1924,1B,2B,Stolen Base 2B,543105,Alex Dickerson,Will Smith,2,2,6,True,2021-05-28,Stolen,2B,2021

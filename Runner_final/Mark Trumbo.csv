@@ -1,0 +1,9 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3913,1B,2B,Stolen Base 2B,444432,Mark Trumbo,476454,Dellin Betances,547957,Hyun Soo Kim,R,Gary Sánchez,596142,5,4,7,False,2017-04-08,Stolen,2B,2017,2018,26.2
+1,3285,1B,2B,Stolen Base 2B,444432,Mark Trumbo,476454,Dellin Betances,547957,Hyun Soo Kim,R,Gary Sánchez,596142,5,4,7,False,2017-04-08,Stolen,2B,2017,2018,26.2
+2,4762,1B,2B,Stolen Base 2B,444432,Mark Trumbo,453286,Max Scherzer,429666,J.J. Hardy,R,Jose Lobaton,446653,1,0,8,True,2016-08-25,Stolen,2B,2016,2017,26.5
+3,7444,1B,2B,Stolen Base 2B,444432,Mark Trumbo,429722,Ervin Santana,446308,Matt Wieters,R,Kurt Suzuki,435559,0,0,1,False,2016-04-04,Stolen,2B,2016,2017,26.5
+4,727,1B,2B,Stolen Base 2B,444432,Mark Trumbo,453286,Max Scherzer,429666,J.J. Hardy,R,Jose Lobaton,446653,1,0,8,True,2016-08-25,Stolen,2B,2016,2017,26.5
+5,3409,1B,2B,Stolen Base 2B,444432,Mark Trumbo,429722,Ervin Santana,446308,Matt Wieters,R,Kurt Suzuki,435559,0,0,1,False,2016-04-04,Stolen,2B,2016,2017,26.5
+6,4134,1B,2B,Stolen Base 2B,444432,Mark Trumbo,453286,Max Scherzer,429666,J.J. Hardy,R,Jose Lobaton,446653,1,0,8,True,2016-08-25,Stolen,2B,2016,2017,26.5
+7,6816,1B,2B,Stolen Base 2B,444432,Mark Trumbo,429722,Ervin Santana,446308,Matt Wieters,R,Kurt Suzuki,435559,0,0,1,False,2016-04-04,Stolen,2B,2016,2017,26.5

@@ -1,0 +1,14 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1751,1B,,Caught Stealing 2B,666211,Taylor Trammell,663554,Casey Mize,643418,Shed Long Jr.,R,Jake Rogers,668670,3,3,6,True,2021-06-09,Caught,2B,2021,2022,26.8
+1,2348,1B,2B,Stolen Base 2B,666211,Taylor Trammell,594577,Mike Mayers,664238,Dylan Moore,R,Max Stassi,545358,2,0,8,False,2021-05-02,Stolen,2B,2021,2022,26.8
+2,2627,1B,,Caught Stealing 2B,666211,Taylor Trammell,664042,Travis Lakins Sr.,664238,Dylan Moore,R,Chance Sisco,642082,1,2,6,True,2021-04-15,Caught,2B,2021,2022,26.8
+3,2628,1B,2B,Stolen Base 2B,666211,Taylor Trammell,518774,Matt Harvey,664238,Dylan Moore,R,Pedro Severino,600474,2,0,2,True,2021-04-15,Stolen,2B,2021,2022,26.8
+4,2634,1B,,Caught Stealing 2B,666211,Taylor Trammell,664042,Travis Lakins Sr.,664238,Dylan Moore,R,Chance Sisco,642082,1,2,6,True,2021-04-14,Caught,2B,2021,2022,26.8
+5,3675,1B,,Caught Stealing 2B,666211,Taylor Trammell,663554,Casey Mize,643418,Shed Long Jr.,R,Jake Rogers,668670,3,3,6,True,2021-06-09,Caught,2B,2021,2022,26.8
+6,4272,1B,2B,Stolen Base 2B,666211,Taylor Trammell,594577,Mike Mayers,664238,Dylan Moore,R,Max Stassi,545358,2,0,8,False,2021-05-02,Stolen,2B,2021,2022,26.8
+7,4551,1B,,Caught Stealing 2B,666211,Taylor Trammell,664042,Travis Lakins Sr.,664238,Dylan Moore,R,Chance Sisco,642082,1,2,6,True,2021-04-15,Caught,2B,2021,2022,26.8
+8,4552,1B,2B,Stolen Base 2B,666211,Taylor Trammell,518774,Matt Harvey,664238,Dylan Moore,R,Pedro Severino,600474,2,0,2,True,2021-04-15,Stolen,2B,2021,2022,26.8
+9,4558,1B,,Caught Stealing 2B,666211,Taylor Trammell,664042,Travis Lakins Sr.,664238,Dylan Moore,R,Chance Sisco,642082,1,2,6,True,2021-04-14,Caught,2B,2021,2022,26.8
+10,417,1B,2B,Stolen Base 2B,666211,Taylor Trammell,605151,Archie Bradley,663728,Cal Raleigh,R,Max Stassi,545358,1,4,6,True,2022-06-24,Stolen,2B,2022,2023,27.1
+11,615,1B,2B,Stolen Base 2B,666211,Taylor Trammell,676710,Kutter Crawford,620443,Luis Torrens,R,Kevin Plawecki,608700,0,0,3,False,2022-06-12,Stolen,2B,2022,2023,27.1
+12,826,1B,,Caught Stealing 2B,666211,Taylor Trammell,543475,Jordan Lyles,620443,Luis Torrens,R,Adley Rutschman,668939,3,2,4,True,2022-06-02,Caught,2B,2022,2023,27.1

@@ -1,0 +1,6 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1921,1B,2B,Stolen Base 2B,425772,Jeff Mathis,600887,Miguel Del Pozo,425783,Shin-Soo Choo,L,Max Stassi,545358,4,2,4,False,2019-08-21,Stolen,2B,2019,2020,25.4
+1,4764,1B,2B,Stolen Base 2B,425772,Jeff Mathis,600887,Miguel Del Pozo,425783,Shin-Soo Choo,L,Max Stassi,545358,4,2,4,False,2019-08-21,Stolen,2B,2019,2020,25.4
+2,6688,1B,2B,Stolen Base 2B,425772,Jeff Mathis,600887,Miguel Del Pozo,425783,Shin-Soo Choo,L,Max Stassi,545358,4,2,4,False,2019-08-21,Stolen,2B,2019,2020,25.4
+3,2383,1B,2B,Stolen Base 2B,425772,Jeff Mathis,605388,Adam Morgan,425844,Zack Greinke,L,Andrew Knapp,595284,6,1,5,False,2017-06-26,Stolen,2B,2017,2018,25.7
+4,1755,1B,2B,Stolen Base 2B,425772,Jeff Mathis,605388,Adam Morgan,425844,Zack Greinke,L,Andrew Knapp,595284,6,1,5,False,2017-06-26,Stolen,2B,2017,2018,25.7

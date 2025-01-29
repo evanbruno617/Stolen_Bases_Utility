@@ -1,0 +1,13 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,512,1B,,Caught Stealing 2B,605170,Victor Caratini,664141,JT Brubaker,543401,Jason Kipnis,R,John Ryan Murphy,571974,0,1,2,True,2020-09-03,Caught,2B,2020,2021,24.9
+1,3355,1B,,Caught Stealing 2B,605170,Victor Caratini,664141,JT Brubaker,543401,Jason Kipnis,R,John Ryan Murphy,571974,0,1,2,True,2020-09-03,Caught,2B,2020,2021,24.9
+2,5279,1B,,Caught Stealing 2B,605170,Victor Caratini,664141,JT Brubaker,543401,Jason Kipnis,R,John Ryan Murphy,571974,0,1,2,True,2020-09-03,Caught,2B,2020,2021,24.9
+3,1917,1B,2B,Stolen Base 2B,605170,Victor Caratini,656322,Sam Coonrod,506433,Yu Darvish,R,Stephen Vogt,519390,7,4,5,False,2019-08-21,Stolen,2B,2019,2020,24.6
+4,4760,1B,2B,Stolen Base 2B,605170,Victor Caratini,656322,Sam Coonrod,506433,Yu Darvish,R,Stephen Vogt,519390,7,4,5,False,2019-08-21,Stolen,2B,2019,2020,24.6
+5,6684,1B,2B,Stolen Base 2B,605170,Victor Caratini,656322,Sam Coonrod,506433,Yu Darvish,R,Stephen Vogt,519390,7,4,5,False,2019-08-21,Stolen,2B,2019,2020,24.6
+6,1985,3B,score,Stolen Base Home,605170,Victor Caratini,669203,Corbin Burnes,595777,Jurickson Profar,R,Omar Narváez,553882,0,2,3,True,2021-05-25,Stolen,Home,2021,2022,24.9
+7,2464,1B,2B,Stolen Base 2B,605170,Victor Caratini,519076,Jimmy Nelson,665487,Fernando Tatis Jr.,R,Austin Barnes,605131,7,7,10,True,2021-04-25,Stolen,2B,2021,2022,24.9
+8,3909,3B,score,Stolen Base Home,605170,Victor Caratini,669203,Corbin Burnes,595777,Jurickson Profar,R,Omar Narváez,553882,0,2,3,True,2021-05-25,Stolen,Home,2021,2022,24.9
+9,4388,1B,2B,Stolen Base 2B,605170,Victor Caratini,519076,Jimmy Nelson,665487,Fernando Tatis Jr.,R,Austin Barnes,605131,7,7,10,True,2021-04-25,Stolen,2B,2021,2022,24.9
+10,2571,1B,2B,Stolen Base 2B,605170,Victor Caratini,643493,Austin Pruitt,655316,Andruw Monasterio,R,Shea Langeliers,669127,0,1,7,False,2023-06-10,Stolen,2B,2023,2024,24.4
+11,6985,1B,2B,Stolen Base 2B,605170,Victor Caratini,643493,Austin Pruitt,655316,Andruw Monasterio,R,Shea Langeliers,669127,0,1,7,False,2023-06-10,Stolen,2B,2023,2024,24.4

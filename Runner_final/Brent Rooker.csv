@@ -1,0 +1,10 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,81,1B,2B,Stolen Base 2B,667670,Brent Rooker,573204,Caleb Thielbar,668709,JJ Bleday,L,Christian Vázquez,543877,2,4,5,True,2023-09-27,Stolen,2B,2023,2024,27.6
+1,481,1B,2B,Stolen Base 2B,667670,Brent Rooker,664285,Framber Valdez,672478,Jordan Diaz,L,Martín Maldonado,455117,0,1,4,True,2023-09-11,Stolen,2B,2023,2024,27.6
+2,1884,1B,2B,Stolen Base 2B,667670,Brent Rooker,669684,Chris Murphy,642137,Cody Thomas,L,Jorge Alfaro,595751,1,2,3,True,2023-07-09,Stolen,2B,2023,2024,27.6
+3,3371,1B,2B,Stolen Base 2B,667670,Brent Rooker,642232,Ryan Yarbrough,657656,Ramón Laureano,L,Salvador Perez,521692,1,1,4,True,2023-05-07,Stolen,2B,2023,2024,27.6
+4,4495,1B,2B,Stolen Base 2B,667670,Brent Rooker,573204,Caleb Thielbar,668709,JJ Bleday,L,Christian Vázquez,543877,2,4,5,True,2023-09-27,Stolen,2B,2023,2024,27.6
+5,4895,1B,2B,Stolen Base 2B,667670,Brent Rooker,664285,Framber Valdez,672478,Jordan Diaz,L,Martín Maldonado,455117,0,1,4,True,2023-09-11,Stolen,2B,2023,2024,27.6
+6,6298,1B,2B,Stolen Base 2B,667670,Brent Rooker,669684,Chris Murphy,642137,Cody Thomas,L,Jorge Alfaro,595751,1,2,3,True,2023-07-09,Stolen,2B,2023,2024,27.6
+7,7785,1B,2B,Stolen Base 2B,667670,Brent Rooker,642232,Ryan Yarbrough,657656,Ramón Laureano,L,Salvador Perez,521692,1,1,4,True,2023-05-07,Stolen,2B,2023,2024,27.6
+8,1845,1B,2B,Stolen Base 2B,667670,Brent Rooker,608379,Michael Wacha,702208,Dillon Tatum,R,Kevin Plawecki,608700,1,6,5,True,2022-04-05,Stolen,2B,2022,2023,27.1

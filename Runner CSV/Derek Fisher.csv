@@ -1,0 +1,16 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+746,1B,,Caught Stealing 2B,605233,Derek Fisher,Matt Wieters,2,0,2,False,2017-08-22,Caught,2B,2017
+855,1B,2B,Stolen Base 2B,605233,Derek Fisher,Chris Iannetta,3,1,4,False,2017-08-16,Stolen,2B,2017
+1128,1B,2B,Stolen Base 2B,605233,Derek Fisher,Wilson Ramos,0,3,6,False,2017-08-02,Stolen,2B,2017
+1279,1B,,Caught Stealing 2B,605233,Derek Fisher,Cameron Rupp,0,5,6,True,2017-07-25,Caught,2B,2017
+1886,1B,,Caught Stealing 2B,605233,Derek Fisher,Christian Vázquez,5,6,9,False,2017-06-18,Caught,2B,2017
+1934,1B,2B,Stolen Base 2B,605233,Derek Fisher,Christian Vázquez,1,1,7,False,2017-06-16,Stolen,2B,2017
+3206,1B,2B,Stolen Base 2B,605233,Derek Fisher,A.J. Ellis,0,0,10,False,2018-04-07,Stolen,2B,2018
+3274,1B,2B,Stolen Base 2B,605233,Derek Fisher,Caleb Joseph,3,2,7,False,2018-04-04,Stolen,2B,2018
+629,1B,2B,Stolen Base 2B,605233,Derek Fisher,Omar Narváez,0,1,1,True,2019-08-23,Stolen,2B,2019
+1777,1B,2B,Stolen Base 2B,605233,Derek Fisher,Pedro Severino,2,0,6,False,2019-06-09,Stolen,2B,2019
+1805,1B,2B,Stolen Base 2B,605233,Derek Fisher,Chance Sisco,3,3,10,False,2019-06-07,Stolen,2B,2019
+1868,1B,2B,Stolen Base 2B,605233,Derek Fisher,Omar Narváez,5,6,7,True,2019-06-04,Stolen,2B,2019
+1896,1B,,Caught Stealing 2B,605233,Derek Fisher,Josh Phegley,2,4,7,True,2019-06-02,Caught,2B,2019
+1982,1B,2B,Stolen Base 2B,605233,Derek Fisher,Willson Contreras,6,3,4,False,2019-05-28,Stolen,2B,2019
+547,1B,,Caught Stealing 2B,605233,Derek Fisher,Chance Sisco,2,2,9,False,2020-08-31,Caught,2B,2020

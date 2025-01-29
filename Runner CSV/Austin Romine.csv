@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2365,1B,2B,Stolen Base 2B,519222,Austin Romine,Yan Gomes,6,4,6,False,2013-06-03,Stolen,2B,2013
+244,1B,2B,Stolen Base 2B,519222,Austin Romine,Travis d'Arnaud,5,5,9,True,2016-08-01,Stolen,2B,2016
+1027,1B,2B,Stolen Base 2B,519222,Austin Romine,Isiah Kiner-Falefa,0,0,3,False,2018-08-10,Stolen,2B,2018
+808,1B,,Caught Stealing 2B,519222,Austin Romine,Reese McGuire,0,1,8,True,2019-08-11,Caught,2B,2019
+1150,1B,2B,Stolen Base 2B,519222,Austin Romine,Tony Wolters,3,0,2,False,2019-07-20,Stolen,2B,2019

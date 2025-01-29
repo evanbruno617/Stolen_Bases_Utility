@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+262,1B,,Caught Stealing 2B,150058,Glen Barker,Mike Matheny,4,3,7,True,2000-09-19,Caught,2B,2000
+548,1B,2B,Stolen Base 2B,150058,Glen Barker,Ramon Castro,3,3,8,False,2000-09-07,Stolen,2B,2000
+680,1B,2B,Stolen Base 2B,150058,Glen Barker,Javy Lopez,6,7,8,False,2000-09-02,Stolen,2B,2000
+798,1B,2B,Stolen Base 2B,150058,Glen Barker,Todd Pratt,3,2,8,True,2000-08-28,Stolen,2B,2000
+1165,1B,,Caught Stealing 2B,150058,Glen Barker,Tom Prince,3,2,9,True,2000-08-12,Caught,2B,2000
+1283,1B,,Caught Stealing 2B,150058,Glen Barker,Lenny Webster,6,1,7,False,2000-08-06,Caught,2B,2000
+1296,1B,2B,Stolen Base 2B,150058,Glen Barker,Chris Widger,6,7,6,False,2000-08-05,Stolen,2B,2000
+1444,1B,2B,Stolen Base 2B,150058,Glen Barker,Ramon Castro,2,3,9,True,2000-07-31,Stolen,2B,2000
+1593,1B,2B,Stolen Base 2B,150058,Glen Barker,Eddie Taubensee,5,7,10,True,2000-07-24,Stolen,2B,2000
+1906,1B,2B,Stolen Base 2B,150058,Glen Barker,Damian Miller,1,2,9,False,2000-07-06,Stolen,2B,2000
+1985,1B,,Caught Stealing 2B,150058,Glen Barker,Mike Matheny,2,6,8,True,2000-07-02,Caught,2B,2000
+2015,1B,2B,Stolen Base 2B,150058,Glen Barker,Mike Matheny,10,8,8,True,2000-07-01,Stolen,2B,2000
+2115,1B,2B,Stolen Base 2B,150058,Glen Barker,Damian Miller,4,1,8,True,2000-06-26,Stolen,2B,2000
+3884,1B,,Caught Stealing 2B,150058,Glen Barker,Mike Matheny,7,8,9,False,2000-04-10,Caught,2B,2000
+3905,1B,,Caught Stealing 2B,150058,Glen Barker,Mike Lieberthal,2,2,7,False,2000-04-09,Caught,2B,2000
+490,1B,,Caught Stealing 2B,150058,Glen Barker,Joe Girardi,2,6,9,True,2001-05-16,Caught,2B,2001
+518,1B,2B,Stolen Base 2B,150058,Glen Barker,Todd Hundley,7,7,9,True,2001-05-15,Stolen,2B,2001
+811,1B,2B,Stolen Base 2B,150058,Glen Barker,Michael Barrett,3,8,9,True,2001-05-04,Stolen,2B,2001
+957,2B,3B,Stolen Base 3B,150058,Glen Barker,Charles Johnson,6,2,7,False,2001-04-28,Stolen,3B,2001
+1246,1B,2B,Stolen Base 2B,150058,Glen Barker,Eli Marrero,6,5,8,True,2001-04-15,Stolen,2B,2001

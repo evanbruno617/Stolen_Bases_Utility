@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+101,2B,,Caught Stealing 3B,119975,Troy O'Leary,Josh Paul,2,4,9,True,2000-09-26,Caught,3B,2000
+3901,1B,,Caught Stealing 2B,119975,Troy O'Leary,Matt Walbeck,0,3,6,True,2000-04-09,Caught,2B,2000
+850,1B,,Caught Stealing 2B,119975,Troy O'Leary,Tom Lampkin,0,0,2,True,2001-05-02,Caught,2B,2001
+843,1B,,Caught Stealing 2B,119975,Troy O'Leary,Tom Lampkin,4,0,3,False,2002-08-19,Caught,2B,2002
+2210,1B,,Caught Stealing 2B,119975,Troy O'Leary,Brandon Inge,1,1,7,True,2002-06-12,Caught,2B,2002
+2526,1B,2B,Stolen Base 2B,119975,Troy O'Leary,Henry Blanco,1,1,4,True,2002-05-29,Stolen,2B,2002
+18,1B,2B,Stolen Base 2B,119975,Troy O'Leary,Jason Kendall,2,2,6,False,2003-09-28,Stolen,2B,2003
+449,1B,2B,Stolen Base 2B,119975,Troy O'Leary,Eddie Pérez,3,5,8,True,2003-09-06,Stolen,2B,2003
+3332,1B,2B,Stolen Base 2B,119975,Troy O'Leary,Kelly Stinnett,1,0,4,False,2003-04-15,Stolen,2B,2003

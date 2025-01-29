@@ -1,0 +1,16 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4147,1B,,Caught Stealing 2B,542436,Cristhian Adames,520980,Pedro Báez,572863,Dustin Garneau,R,Carlos Ruiz,434563,1,2,7,True,2016-09-25,Caught,2B,2016,2019,26.1
+1,4943,1B,,Caught Stealing 2B,542436,Cristhian Adames,605894,Severino González,543022,Tyler Chatwood,R,Cameron Rupp,519237,2,2,4,True,2016-08-14,Caught,2B,2016,2019,26.1
+2,5073,1B,2B,Stolen Base 2B,542436,Cristhian Adames,430935,Cole Hamels,542881,Tyler Anderson,L,Jonathan Lucroy,518960,0,0,3,False,2016-08-08,Stolen,2B,2016,2019,26.1
+3,5415,1B,2B,Stolen Base 2B,542436,Cristhian Adames,462382,Jim Johnson,448602,Mark Reynolds,R,Anthony Recker,489232,8,4,8,False,2016-07-23,Stolen,2B,2016,2019,26.1
+4,7177,1B,,Caught Stealing 2B,542436,Cristhian Adames,573185,Dan Straily,547172,Tony Wolters,R,Tucker Barnhart,571466,0,1,5,True,2016-04-18,Caught,2B,2016,2019,26.1
+5,112,1B,,Caught Stealing 2B,542436,Cristhian Adames,520980,Pedro Báez,572863,Dustin Garneau,R,Carlos Ruiz,434563,1,2,7,True,2016-09-25,Caught,2B,2016,2019,26.1
+6,908,1B,,Caught Stealing 2B,542436,Cristhian Adames,605894,Severino González,543022,Tyler Chatwood,R,Cameron Rupp,519237,2,2,4,True,2016-08-14,Caught,2B,2016,2019,26.1
+7,1038,1B,2B,Stolen Base 2B,542436,Cristhian Adames,430935,Cole Hamels,542881,Tyler Anderson,L,Jonathan Lucroy,518960,0,0,3,False,2016-08-08,Stolen,2B,2016,2019,26.1
+8,1380,1B,2B,Stolen Base 2B,542436,Cristhian Adames,462382,Jim Johnson,448602,Mark Reynolds,R,Anthony Recker,489232,8,4,8,False,2016-07-23,Stolen,2B,2016,2019,26.1
+9,3142,1B,,Caught Stealing 2B,542436,Cristhian Adames,573185,Dan Straily,547172,Tony Wolters,R,Tucker Barnhart,571466,0,1,5,True,2016-04-18,Caught,2B,2016,2019,26.1
+10,3519,1B,,Caught Stealing 2B,542436,Cristhian Adames,520980,Pedro Báez,572863,Dustin Garneau,R,Carlos Ruiz,434563,1,2,7,True,2016-09-25,Caught,2B,2016,2019,26.1
+11,4315,1B,,Caught Stealing 2B,542436,Cristhian Adames,605894,Severino González,543022,Tyler Chatwood,R,Cameron Rupp,519237,2,2,4,True,2016-08-14,Caught,2B,2016,2019,26.1
+12,4445,1B,2B,Stolen Base 2B,542436,Cristhian Adames,430935,Cole Hamels,542881,Tyler Anderson,L,Jonathan Lucroy,518960,0,0,3,False,2016-08-08,Stolen,2B,2016,2019,26.1
+13,4787,1B,2B,Stolen Base 2B,542436,Cristhian Adames,462382,Jim Johnson,448602,Mark Reynolds,R,Anthony Recker,489232,8,4,8,False,2016-07-23,Stolen,2B,2016,2019,26.1
+14,6549,1B,,Caught Stealing 2B,542436,Cristhian Adames,573185,Dan Straily,547172,Tony Wolters,R,Tucker Barnhart,571466,0,1,5,True,2016-04-18,Caught,2B,2016,2019,26.1

@@ -1,0 +1,13 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,453923,Grégor Blanco,Gustavo Molina,4,3,7,True,2008-04-26,Stolen,2B,2008
+1B,2B,Stolen Base 2B,110029,Bobby Abreu,Gustavo Molina,1,4,4,True,2007-09-30,Stolen,2B,2007
+1B,2B,Stolen Base 2B,136722,Carlos Guillén,Gustavo Molina,5,4,6,False,2007-04-21,Stolen,2B,2007
+1B,2B,Stolen Base 2B,425452,Mike Rouse,Gustavo Molina,2,1,6,False,2007-04-15,Stolen,2B,2007
+1B,2B,Stolen Base 2B,466988,Emilio Bonifácio,Gustavo Molina,1,2,3,False,2012-04-02,Stolen,2B,2012
+1B,2B,Stolen Base 2B,279913,Corey Patterson,Gustavo Molina,0,0,3,True,2010-07-04,Stolen,2B,2010
+1B,2B,Stolen Base 2B,450314,Ben Zobrist,Gustavo Molina,0,0,1,True,2010-06-30,Stolen,2B,2010
+1B,2B,Stolen Base 2B,446481,Sean Rodríguez,Gustavo Molina,0,0,2,True,2010-06-30,Stolen,2B,2010
+1B,,Caught Stealing 2B,459964,Matt Joyce,Gustavo Molina,0,3,5,True,2010-06-30,Caught,2B,2010
+1B,,Caught Stealing 2B,493351,Alexei Ramirez,Gustavo Molina,0,0,1,True,2011-04-26,Caught,2B,2011
+1B,2B,Stolen Base 2B,425567,Alex Rios,Gustavo Molina,1,1,5,True,2011-04-26,Stolen,2B,2011
+1B,,Caught Stealing 2B,334393,Juan Pierre,Gustavo Molina,2,3,9,True,2011-04-26,Caught,2B,2011

@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,664,1B,,Caught Stealing 2B,519025,Will Middlebrooks,519267,Evan Scribner,425549,Clint Barmes,R,Josh Phegley,572033,5,5,8,False,2015-06-16,Caught,2B,2015,2016,27.4
+1,1849,1B,2B,Stolen Base 2B,519025,Will Middlebrooks,554431,Tyler Matzek,576397,Jedd Gyorko,L,Nick Hundley,460026,0,2,4,True,2015-04-21,Stolen,2B,2015,2016,27.4
+2,2027,1B,2B,Stolen Base 2B,519025,Will Middlebrooks,408241,Jake Peavy,506560,Alexi Amarista,R,Buster Posey,457763,0,1,2,False,2015-04-12,Stolen,2B,2015,2016,27.4

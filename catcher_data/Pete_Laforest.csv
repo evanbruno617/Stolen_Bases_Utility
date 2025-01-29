@@ -1,0 +1,10 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,400134,Eric Hinske,Pete Laforest,0,1,3,True,2003-09-11,Stolen,2B,2003
+1B,2B,Stolen Base 2B,429663,Chris Burke,Pete Laforest,2,3,7,True,2007-08-18,Stolen,2B,2007
+1B,2B,Stolen Base 2B,430565,Kazuo Matsui,Pete Laforest,0,1,1,True,2007-08-16,Stolen,2B,2007
+1B,2B,Stolen Base 2B,453064,Troy Tulowitzki,Pete Laforest,2,3,5,True,2007-08-16,Stolen,2B,2007
+1B,2B,Stolen Base 2B,407812,Matt Holliday,Pete Laforest,2,3,5,True,2007-08-16,Stolen,2B,2007
+2B,3B,Stolen Base 3B,407812,Matt Holliday,Pete Laforest,11,9,6,True,2007-08-16,Stolen,3B,2007
+1B,2B,Stolen Base 2B,119182,Doug Mirabelli,Pete Laforest,7,5,7,False,2005-08-31,Stolen,2B,2005
+1B,2B,Stolen Base 2B,429713,Grady Sizemore,Pete Laforest,0,2,1,False,2005-08-13,Stolen,2B,2005
+1B,,Caught Stealing 2B,408210,Chone Figgins,Pete Laforest,1,0,3,False,2005-08-07,Caught,2B,2005

@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+101,1B,2B,Stolen Base 2B,669364,Xavier Edwards,Omar Narváez,2,2,7,True,2023-09-27,Stolen,2B,2023
+102,1B,2B,Stolen Base 2B,669364,Xavier Edwards,Omar Narváez,2,2,9,True,2023-09-27,Stolen,2B,2023
+105,1B,2B,Stolen Base 2B,669364,Xavier Edwards,Omar Narváez,2,2,7,True,2023-09-26,Stolen,2B,2023
+106,1B,2B,Stolen Base 2B,669364,Xavier Edwards,Omar Narváez,2,2,9,True,2023-09-26,Stolen,2B,2023
+154,1B,2B,Stolen Base 2B,669364,Xavier Edwards,William Contreras,1,0,2,False,2023-09-24,Stolen,2B,2023
+156,1B,2B,Stolen Base 2B,669364,Xavier Edwards,William Contreras,6,1,8,False,2023-09-24,Stolen,2B,2023
+3129,1B,2B,Stolen Base 2B,669364,Xavier Edwards,Keibert Ruiz,3,1,4,False,2023-05-18,Stolen,2B,2023

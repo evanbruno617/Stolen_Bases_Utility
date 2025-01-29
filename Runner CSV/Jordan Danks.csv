@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1336,1B,2B,Stolen Base 2B,458668,Jordan Danks,Bobby Wilson,8,6,10,False,2012-08-03,Stolen,2B,2012
+2594,1B,2B,Stolen Base 2B,458668,Jordan Danks,Chris Snyder,5,0,6,False,2012-06-09,Stolen,2B,2012
+347,1B,2B,Stolen Base 2B,458668,Jordan Danks,Carlos Santana,1,3,7,False,2013-09-13,Stolen,2B,2013
+475,1B,,Caught Stealing 2B,458668,Jordan Danks,Matt Wieters,2,2,8,True,2013-09-07,Caught,2B,2013
+714,1B,2B,Stolen Base 2B,458668,Jordan Danks,Jason Castro,4,3,8,False,2013-08-27,Stolen,2B,2013
+902,1B,2B,Stolen Base 2B,458668,Jordan Danks,Chris Herrmann,5,8,9,True,2013-08-17,Stolen,2B,2013
+945,1B,2B,Stolen Base 2B,458668,Jordan Danks,Joe Mauer,3,3,9,True,2013-08-15,Stolen,2B,2013
+1102,1B,2B,Stolen Base 2B,458668,Jordan Danks,Austin Romine,4,4,9,False,2013-08-07,Stolen,2B,2013
+1243,1B,,Caught Stealing 2B,458668,Jordan Danks,Yan Gomes,1,0,3,True,2013-08-01,Caught,2B,2013
+1968,1B,2B,Stolen Base 2B,458668,Jordan Danks,George Kottaras,4,4,7,True,2013-06-23,Stolen,2B,2013
+2133,1B,2B,Stolen Base 2B,458668,Jordan Danks,Jason Castro,4,3,9,True,2013-06-15,Stolen,2B,2013
+181,1B,2B,Stolen Base 2B,458668,Jordan Danks,Curt Casali,0,4,4,True,2014-09-21,Stolen,2B,2014
+505,1B,2B,Stolen Base 2B,458668,Jordan Danks,Yan Gomes,0,0,3,True,2014-09-06,Stolen,2B,2014
+901,1B,,Caught Stealing 2B,458668,Jordan Danks,Caleb Joseph,0,1,3,False,2014-08-18,Caught,2B,2014
+1072,1B,2B,Stolen Base 2B,458668,Jordan Danks,Mike Zunino,1,1,10,True,2014-08-09,Stolen,2B,2014
+3375,1B,2B,Stolen Base 2B,458668,Jordan Danks,A.J. Pierzynski,3,4,11,False,2014-04-16,Stolen,2B,2014
+3450,1B,2B,Stolen Base 2B,458668,Jordan Danks,Yan Gomes,2,3,9,False,2014-04-13,Stolen,2B,2014

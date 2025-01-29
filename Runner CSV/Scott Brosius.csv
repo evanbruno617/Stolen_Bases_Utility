@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+142,1B,,Caught Stealing 2B,111515,Scott Brosius,Brad Ausmus,4,3,7,False,2000-09-24,Caught,2B,2000
+2404,1B,,Caught Stealing 2B,111515,Scott Brosius,Jason Varitek,3,3,4,False,2000-06-13,Caught,2B,2000
+2722,1B,,Caught Stealing 2B,111515,Scott Brosius,Ramon Hernandez,6,7,6,False,2000-05-31,Caught,2B,2000
+823,1B,2B,Stolen Base 2B,111515,Scott Brosius,Brook Fordyce,1,3,5,True,2001-05-03,Stolen,2B,2001

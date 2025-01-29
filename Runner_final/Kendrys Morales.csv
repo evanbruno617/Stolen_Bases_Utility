@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,52,1B,2B,Stolen Base 2B,434778,Kendrys Morales,595928,John Curtiss,571912,Luke Maile,R,Mitch Garver,641598,4,4,10,True,2018-05-01,Stolen,2B,2018,2019,23.5
+1,1030,3B,score,Caught Stealing 2B,434778,Kendrys Morales,518445,Chad Bell,572365,Ryan Goins,L,James McCann,543510,2,2,4,False,2017-09-09,Caught,2B,2017,2018,23.5
+2,402,3B,score,Caught Stealing 2B,434778,Kendrys Morales,518445,Chad Bell,572365,Ryan Goins,L,James McCann,543510,2,2,4,False,2017-09-09,Caught,2B,2017,2018,23.5

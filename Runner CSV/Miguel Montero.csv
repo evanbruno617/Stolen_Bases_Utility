@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+551,1B,,Caught Stealing 2B,471083,Miguel Montero,Eliezer Alfonzo,0,1,2,False,2009-07-07,Caught,2B,2009
+962,1B,2B,Stolen Base 2B,471083,Miguel Montero,Brayan Peña,0,5,3,True,2009-06-18,Stolen,2B,2009
+1776,1B,,Caught Stealing 2B,471083,Miguel Montero,Geovany Soto,0,0,2,False,2010-07-07,Caught,2B,2010
+967,1B,,Caught Stealing 2B,471083,Miguel Montero,Brian McCann,1,0,7,True,2011-08-21,Caught,2B,2011
+2298,1B,2B,Stolen Base 2B,471083,Miguel Montero,Victor Martinez,1,2,8,True,2011-06-26,Stolen,2B,2011
+688,1B,,Caught Stealing 2B,471083,Miguel Montero,Michael McKenry,0,0,2,False,2014-08-29,Caught,2B,2014
+1617,1B,,Caught Stealing 2B,471083,Miguel Montero,Jeff Mathis,0,1,7,False,2014-07-09,Caught,2B,2014
+2234,1B,,Caught Stealing 2B,471083,Miguel Montero,Jason Castro,1,0,4,False,2014-06-10,Caught,2B,2014
+2628,1B,,Caught Stealing 2B,471083,Miguel Montero,Yadier Molina,0,0,2,True,2014-05-21,Caught,2B,2014
+49,1B,,Caught Stealing 2B,471083,Miguel Montero,Francisco Cervelli,2,0,6,False,2015-09-27,Caught,2B,2015
+268,1B,2B,Stolen Base 2B,471083,Miguel Montero,Francisco Cervelli,1,2,8,True,2015-09-16,Stolen,2B,2015
+1620,1B,2B,Stolen Base 2B,471083,Miguel Montero,Jonathan Lucroy,1,0,6,True,2016-05-17,Stolen,2B,2016
+3258,1B,2B,Stolen Base 2B,471083,Miguel Montero,Jett Bandy,0,4,1,True,2017-04-09,Stolen,2B,2017

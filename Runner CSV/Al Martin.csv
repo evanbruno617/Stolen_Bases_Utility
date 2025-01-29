@@ -1,0 +1,26 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+237,1B,2B,Stolen Base 2B,118329,Al Martin,John Flaherty,0,4,3,True,2000-09-20,Stolen,2B,2000
+270,1B,2B,Stolen Base 2B,118329,Al Martin,John Flaherty,2,5,8,True,2000-09-19,Stolen,2B,2000
+506,1B,2B,Stolen Base 2B,118329,Al Martin,A.J. Pierzynski,1,0,3,False,2000-09-08,Stolen,2B,2000
+1005,2B,,Caught Stealing 3B,118329,Al Martin,Sandy Alomar Jr.,1,0,2,True,2000-08-20,Caught,3B,2000
+1114,1B,2B,Stolen Base 2B,118329,Al Martin,Sandy Alomar Jr.,4,6,5,False,2000-08-13,Stolen,2B,2000
+2285,1B,2B,Stolen Base 2B,118329,Al Martin,Eddie Taubensee,3,0,2,False,2000-06-18,Stolen,2B,2000
+2806,1B,,Caught Stealing 2B,118329,Al Martin,Brian Schneider,1,1,4,False,2000-05-27,Caught,2B,2000
+2991,1B,2B,Stolen Base 2B,118329,Al Martin,Mike Redmond,0,0,1,True,2000-05-18,Stolen,2B,2000
+3246,1B,2B,Stolen Base 2B,118329,Al Martin,Damian Miller,0,0,1,True,2000-05-07,Stolen,2B,2000
+3247,2B,,Caught Stealing 3B,118329,Al Martin,Damian Miller,0,0,1,True,2000-05-07,Caught,3B,2000
+3401,1B,,Caught Stealing 2B,118329,Al Martin,Paul Bako,0,2,1,False,2000-05-01,Caught,2B,2000
+3439,1B,2B,Stolen Base 2B,118329,Al Martin,Javy Lopez,4,4,8,False,2000-04-29,Stolen,2B,2000
+3472,1B,,Caught Stealing 2B,118329,Al Martin,Eddie Pérez,1,1,3,False,2000-04-28,Caught,2B,2000
+3497,1B,2B,Stolen Base 2B,118329,Al Martin,Keith Osik,0,5,4,True,2000-04-27,Stolen,2B,2000
+3498,1B,,Caught Stealing 2B,118329,Al Martin,Keith Osik,4,6,6,True,2000-04-27,Caught,2B,2000
+3618,1B,,Caught Stealing 2B,118329,Al Martin,Mitch Meluskey,2,2,2,True,2000-04-22,Caught,2B,2000
+3734,1B,2B,Stolen Base 2B,118329,Al Martin,Mitch Meluskey,0,0,1,False,2000-04-16,Stolen,2B,2000
+252,1B,2B,Stolen Base 2B,118329,Al Martin,Héctor Ortiz,1,6,7,True,2001-05-26,Stolen,2B,2001
+982,1B,2B,Stolen Base 2B,118329,Al Martin,Josh Paul,3,6,5,True,2001-04-27,Stolen,2B,2001
+1192,1B,2B,Stolen Base 2B,118329,Al Martin,Ivan Rodriguez,2,0,2,False,2001-04-17,Stolen,2B,2001
+1502,1B,2B,Stolen Base 2B,118329,Al Martin,Ramon Hernandez,0,4,4,False,2001-04-02,Stolen,2B,2001
+2846,1B,2B,Stolen Base 2B,118329,Al Martin,A.J. Pierzynski,0,3,2,False,2003-05-08,Stolen,2B,2003
+3076,1B,2B,Stolen Base 2B,118329,Al Martin,Geronimo Gil,1,6,4,False,2003-04-27,Stolen,2B,2003
+3364,1B,,Caught Stealing 2B,118329,Al Martin,Jorge Posada,0,0,1,True,2003-04-13,Caught,2B,2003
+3497,1B,,Caught Stealing 2B,118329,Al Martin,Jorge Posada,2,1,3,False,2003-04-05,Caught,2B,2003

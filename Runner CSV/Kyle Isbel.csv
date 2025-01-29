@@ -1,0 +1,25 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+26,1B,2B,Stolen Base 2B,664728,Kyle Isbel,Austin Hedges,5,4,4,False,2021-09-29,Stolen,2B,2021
+2798,1B,2B,Stolen Base 2B,664728,Kyle Isbel,Jonah Heim,0,0,2,False,2021-04-04,Stolen,2B,2021
+55,1B,,Caught Stealing 2B,664728,Kyle Isbel,Eric Haase,2,1,2,True,2022-09-28,Caught,2B,2022
+56,1B,,Caught Stealing 2B,664728,Kyle Isbel,Eric Haase,2,1,8,True,2022-09-28,Caught,2B,2022
+611,1B,2B,Stolen Base 2B,664728,Kyle Isbel,Luis Campusano,9,4,6,False,2022-08-28,Stolen,2B,2022
+612,2B,3B,Stolen Base 2B,664728,Kyle Isbel,Luis Campusano,9,4,6,False,2022-08-28,Stolen,2B,2022
+676,1B,2B,Stolen Base 2B,664728,Kyle Isbel,Carson Kelly,0,1,7,False,2022-08-24,Stolen,2B,2022
+863,1B,2B,Stolen Base 2B,664728,Kyle Isbel,Tony Wolters,3,0,6,False,2022-08-14,Stolen,2B,2022
+945,1B,2B,Stolen Base 2B,664728,Kyle Isbel,Yasmani Grandal,6,3,8,False,2022-08-10,Stolen,2B,2022
+1224,1B,2B,Stolen Base 2B,664728,Kyle Isbel,Max Stassi,2,0,7,False,2022-07-25,Stolen,2B,2022
+1258,1B,,Caught Stealing 2B,664728,Kyle Isbel,Francisco Mejía,0,0,2,False,2022-07-23,Caught,2B,2022
+1443,1B,2B,Stolen Base 2B,664728,Kyle Isbel,Austin Hedges,5,0,6,False,2022-07-10,Stolen,2B,2022
+1600,1B,2B,Stolen Base 2B,664728,Kyle Isbel,Tucker Barnhart,4,7,9,True,2022-07-03,Stolen,2B,2022
+2348,1B,2B,Stolen Base 2B,664728,Kyle Isbel,Gary Sánchez,6,0,6,False,2022-05-22,Stolen,2B,2022
+2408,1B,2B,Stolen Base 2B,664728,Kyle Isbel,Reese McGuire,2,0,2,False,2022-05-19,Stolen,2B,2022
+2423,1B,,Caught Stealing 2B,664728,Kyle Isbel,Yasmani Grandal,2,1,4,False,2022-05-18,Caught,2B,2022
+574,1B,2B,Stolen Base 2B,664728,Kyle Isbel,Alejandro Kirk,1,2,7,True,2023-09-08,Stolen,2B,2023
+1218,1B,2B,Stolen Base 2B,664728,Kyle Isbel,Willson Contreras,12,6,8,False,2023-08-11,Stolen,2B,2023
+1294,2B,3B,Stolen Base 3B,664728,Kyle Isbel,Connor Wong,2,7,7,True,2023-08-08,Stolen,3B,2023
+1531,2B,3B,Stolen Base 3B,664728,Kyle Isbel,Ryan Jeffers,4,5,10,False,2023-07-28,Stolen,3B,2023
+1789,1B,2B,Stolen Base 2B,664728,Kyle Isbel,Francisco Mejía,8,4,8,False,2023-07-16,Stolen,2B,2023
+3675,2B,,Caught Stealing 3B,664728,Kyle Isbel,Gabriel Moreno,0,1,2,True,2023-04-25,Caught,3B,2023
+3834,1B,2B,Stolen Base 2B,664728,Kyle Isbel,Sandy León,2,3,4,False,2023-04-18,Stolen,2B,2023
+4107,1B,2B,Stolen Base 2B,664728,Kyle Isbel,Roberto Pérez,1,2,6,True,2023-04-07,Stolen,2B,2023

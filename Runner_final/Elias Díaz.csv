@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1072,1B,2B,Stolen Base 2B,553869,Elias Díaz,641703,Brent Honeywell,595777,Jurickson Profar,R,Carlos Pérez,656024,9,1,5,False,2023-08-18,Stolen,2B,2023,2024,24.4
+1,5486,1B,2B,Stolen Base 2B,553869,Elias Díaz,641703,Brent Honeywell,595777,Jurickson Profar,R,Carlos Pérez,656024,9,1,5,False,2023-08-18,Stolen,2B,2023,2024,24.4
+2,2759,1B,2B,Stolen Base 2B,553869,Elias Díaz,489119,Wade Miley,621559,Max Moroff,L,Caleb Joseph,543376,0,2,2,True,2017-06-07,Stolen,2B,2017,2018,26.6
+3,2131,1B,2B,Stolen Base 2B,553869,Elias Díaz,489119,Wade Miley,621559,Max Moroff,L,Caleb Joseph,543376,0,2,2,True,2017-06-07,Stolen,2B,2017,2018,26.6

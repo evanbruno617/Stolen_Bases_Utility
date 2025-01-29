@@ -1,0 +1,7 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,430585,Jason Kubel,Donny Lucy,1,1,6,False,2007-09-23,Stolen,2B,2007
+1B,2B,Stolen Base 2B,346859,Jason Michaels,Donny Lucy,3,6,7,True,2007-09-11,Stolen,2B,2007
+1B,2B,Stolen Base 2B,429713,Grady Sizemore,Donny Lucy,3,7,7,True,2007-09-11,Stolen,2B,2007
+1B,2B,Stolen Base 2B,291565,Eric Byrnes,Donny Lucy,1,0,2,True,2010-04-23,Stolen,2B,2010
+1B,2B,Stolen Base 2B,150484,Vernon Wells,Donny Lucy,3,0,3,False,2010-04-15,Stolen,2B,2010
+1B,2B,Stolen Base 2B,430598,Jeremy Reed,Donny Lucy,7,3,7,False,2010-04-15,Stolen,2B,2010

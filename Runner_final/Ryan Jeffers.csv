@@ -1,0 +1,13 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,134,1B,,Caught Stealing 2B,680777,Ryan Jeffers,676051,Codi Heuer,592743,Andrelton Simmons,R,Austin Romine,519222,2,5,9,True,2021-09-22,Caught,2B,2021,2022,26.1
+1,2058,1B,,Caught Stealing 2B,680777,Ryan Jeffers,676051,Codi Heuer,592743,Andrelton Simmons,R,Austin Romine,519222,2,5,9,True,2021-09-22,Caught,2B,2021,2022,26.1
+2,640,1B,,Caught Stealing 2B,680777,Ryan Jeffers,625643,Reynaldo López,666397,Edouard Julien,R,Cam Gallagher,595956,2,1,7,True,2023-09-06,Caught,2B,2023,2024,26.3
+3,1528,1B,2B,Stolen Base 2B,680777,Ryan Jeffers,663903,Brady Singer,608336,Joey Gallo,R,Salvador Perez,521692,1,2,4,True,2023-07-28,Stolen,2B,2023,2024,26.3
+4,1586,1B,2B,Stolen Base 2B,680777,Ryan Jeffers,663462,Isaiah Campbell,621043,Carlos Correa,R,Cal Raleigh,663728,6,2,6,False,2023-07-25,Stolen,2B,2023,2024,26.3
+5,1805,1B,2B,Stolen Base 2B,680777,Ryan Jeffers,663687,Hogan Harris,572191,Michael A. Taylor,L,Tyler Soderstrom,691016,4,7,5,True,2023-07-15,Stolen,2B,2023,2024,26.3
+6,3244,1B,,Caught Stealing 2B,680777,Ryan Jeffers,669713,Hayden Wesneski,608336,Joey Gallo,R,Tucker Barnhart,571466,5,0,4,False,2023-05-13,Caught,2B,2023,2024,26.3
+7,5054,1B,,Caught Stealing 2B,680777,Ryan Jeffers,625643,Reynaldo López,666397,Edouard Julien,R,Cam Gallagher,595956,2,1,7,True,2023-09-06,Caught,2B,2023,2024,26.3
+8,5942,1B,2B,Stolen Base 2B,680777,Ryan Jeffers,663903,Brady Singer,608336,Joey Gallo,R,Salvador Perez,521692,1,2,4,True,2023-07-28,Stolen,2B,2023,2024,26.3
+9,6000,1B,2B,Stolen Base 2B,680777,Ryan Jeffers,663462,Isaiah Campbell,621043,Carlos Correa,R,Cal Raleigh,663728,6,2,6,False,2023-07-25,Stolen,2B,2023,2024,26.3
+10,6219,1B,2B,Stolen Base 2B,680777,Ryan Jeffers,663687,Hogan Harris,572191,Michael A. Taylor,L,Tyler Soderstrom,691016,4,7,5,True,2023-07-15,Stolen,2B,2023,2024,26.3
+11,7658,1B,,Caught Stealing 2B,680777,Ryan Jeffers,669713,Hayden Wesneski,608336,Joey Gallo,R,Tucker Barnhart,571466,5,0,4,False,2023-05-13,Caught,2B,2023,2024,26.3

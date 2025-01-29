@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2240,1B,,Caught Stealing 2B,474443,Iván De Jesús Jr.,Bobby Wilson,5,3,8,True,2012-06-24,Caught,2B,2012
+2536,1B,2B,Stolen Base 2B,474443,Iván De Jesús Jr.,John Hester,2,2,8,False,2012-06-11,Stolen,2B,2012
+1689,1B,,Caught Stealing 2B,474443,Iván De Jesús Jr.,Kevin Plawecki,1,1,13,True,2015-06-28,Caught,2B,2015
+1703,1B,,Caught Stealing 2B,474443,Iván De Jesús Jr.,Kevin Plawecki,1,1,13,True,2015-06-27,Caught,2B,2015
+1768,1B,,Caught Stealing 2B,474443,Iván De Jesús Jr.,Chris Stewart,1,4,5,True,2015-06-24,Caught,2B,2015
+1055,1B,2B,Stolen Base 2B,474443,Iván De Jesús Jr.,A.J. Pierzynski,3,2,4,True,2016-06-16,Stolen,2B,2016
+2001,1B,2B,Caught Stealing 2B,474443,Iván De Jesús Jr.,Kevin Plawecki,0,1,1,True,2016-04-27,Caught,2B,2016
+2038,1B,2B,Stolen Base 2B,474443,Iván De Jesús Jr.,Kevin Plawecki,3,1,6,True,2016-04-25,Stolen,2B,2016
+2410,1B,2B,Stolen Base 2B,474443,Iván De Jesús Jr.,Carlos Ruiz,4,2,4,False,2016-04-07,Stolen,2B,2016

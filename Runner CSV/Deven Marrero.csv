@@ -1,0 +1,14 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+128,1B,2B,Stolen Base 2B,571918,Deven Marrero,J.P. Arencibia,0,1,7,False,2015-09-23,Stolen,2B,2015
+171,2B,3B,Stolen Base 3B,571918,Deven Marrero,J.P. Arencibia,8,6,8,False,2015-09-21,Stolen,3B,2015
+1268,2B,3B,Stolen Base 3B,571918,Deven Marrero,Mike Zunino,4,5,13,True,2017-07-25,Stolen,3B,2017
+1445,1B,2B,Stolen Base 2B,571918,Deven Marrero,Austin Romine,0,0,2,False,2017-07-16,Stolen,2B,2017
+1650,2B,3B,Stolen Base 3B,571918,Deven Marrero,Russell Martin,0,4,2,True,2017-07-01,Stolen,3B,2017
+1701,2B,3B,Stolen Base 3B,571918,Deven Marrero,Jason Castro,0,2,3,False,2017-06-28,Stolen,3B,2017
+2380,1B,2B,Stolen Base 2B,571918,Deven Marrero,Robinson Chirinos,1,0,3,False,2017-05-24,Stolen,2B,2017
+2960,1B,2B,Stolen Base 2B,571918,Deven Marrero,Austin Romine,0,0,2,False,2017-04-25,Stolen,2B,2017
+2688,1B,2B,Stolen Base 2B,571918,Deven Marrero,Max Stassi,3,3,9,False,2018-05-05,Stolen,2B,2018
+2930,1B,2B,Stolen Base 2B,571918,Deven Marrero,Austin Hedges,3,0,4,False,2018-04-22,Stolen,2B,2018
+3128,1B,2B,Stolen Base 2B,571918,Deven Marrero,Nick Hundley,3,5,7,True,2018-04-11,Stolen,2B,2018
+1046,1B,2B,Stolen Base 2B,571918,Deven Marrero,Victor Caratini,2,2,5,False,2021-07-25,Stolen,2B,2021
+781,1B,2B,Stolen Base 2B,571918,Deven Marrero,Travis d'Arnaud,3,2,9,True,2022-08-18,Stolen,2B,2022

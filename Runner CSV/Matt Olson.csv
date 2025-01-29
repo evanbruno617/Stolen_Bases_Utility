@@ -1,0 +1,10 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2663,2B,,Caught Stealing 3B,621566,Matt Olson,Caleb Joseph,2,1,4,False,2018-05-06,Caught,3B,2018
+2897,1B,2B,Stolen Base 2B,621566,Matt Olson,Robinson Chirinos,0,0,2,True,2018-04-24,Stolen,2B,2018
+3286,1B,2B,Stolen Base 2B,621566,Matt Olson,Robinson Chirinos,0,2,2,False,2018-04-03,Stolen,2B,2018
+190,1B,2B,Stolen Base 2B,621566,Matt Olson,Joey Bart,1,0,4,False,2020-09-19,Stolen,2B,2020
+603,1B,2B,Stolen Base 2B,621566,Matt Olson,Cal Raleigh,1,0,1,False,2021-08-23,Stolen,2B,2021
+1459,1B,2B,Stolen Base 2B,621566,Matt Olson,Buster Posey,0,2,1,True,2021-06-27,Stolen,2B,2021
+1525,1B,2B,Stolen Base 2B,621566,Matt Olson,Jose Trevino,1,5,7,True,2021-06-24,Stolen,2B,2021
+1614,1B,2B,Stolen Base 2B,621566,Matt Olson,Gary Sánchez,2,4,7,True,2021-06-19,Stolen,2B,2021
+2961,1B,2B,Stolen Base 2B,621566,Matt Olson,J.T. Realmuto,3,3,3,False,2023-05-25,Stolen,2B,2023

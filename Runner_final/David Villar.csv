@@ -1,0 +1,5 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3763,1B,,Caught Stealing 2B,681584,David Villar,670955,Edwin Uceta,543063,Brandon Crawford,R,Tomás Nido,621512,7,2,7,False,2023-04-22,Caught,2B,2023,2024,26.2
+1,4020,1B,2B,Stolen Base 2B,681584,David Villar,628711,Julio Urías,543063,Brandon Crawford,L,Will Smith,669257,0,1,2,False,2023-04-10,Stolen,2B,2023,2024,26.2
+2,8177,1B,,Caught Stealing 2B,681584,David Villar,670955,Edwin Uceta,543063,Brandon Crawford,R,Tomás Nido,621512,7,2,7,False,2023-04-22,Caught,2B,2023,2024,26.2
+3,8434,1B,2B,Stolen Base 2B,681584,David Villar,628711,Julio Urías,543063,Brandon Crawford,L,Will Smith,669257,0,1,2,False,2023-04-10,Stolen,2B,2023,2024,26.2

@@ -1,0 +1,15 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,5391,1B,,Caught Stealing 2B,518653,Jake Elmore,452657,Jon Lester,448855,Junior Guerra,L,David Ross,424325,2,0,4,False,2016-07-24,Caught,2B,2016,2019,26.4
+1,5451,1B,2B,Stolen Base 2B,518653,Jake Elmore,444468,Héctor Rondón,541650,Hernán Pérez,R,Miguel Montero,471083,2,5,9,False,2016-07-22,Stolen,2B,2016,2019,26.4
+2,5482,1B,2B,Stolen Base 2B,518653,Jake Elmore,491708,Arquimedes Caminero,542340,Jonathan Villar,R,Francisco Cervelli,465041,5,8,7,True,2016-07-20,Stolen,2B,2016,2019,26.4
+3,5642,1B,,Caught Stealing 2B,518653,Jake Elmore,593372,Carlos Martinez,542340,Jonathan Villar,R,Yadier Molina,425877,1,2,4,False,2016-07-09,Caught,2B,2016,2019,26.4
+4,1356,1B,,Caught Stealing 2B,518653,Jake Elmore,452657,Jon Lester,448855,Junior Guerra,L,David Ross,424325,2,0,4,False,2016-07-24,Caught,2B,2016,2019,26.4
+5,1416,1B,2B,Stolen Base 2B,518653,Jake Elmore,444468,Héctor Rondón,541650,Hernán Pérez,R,Miguel Montero,471083,2,5,9,False,2016-07-22,Stolen,2B,2016,2019,26.4
+6,1447,1B,2B,Stolen Base 2B,518653,Jake Elmore,491708,Arquimedes Caminero,542340,Jonathan Villar,R,Francisco Cervelli,465041,5,8,7,True,2016-07-20,Stolen,2B,2016,2019,26.4
+7,1607,1B,,Caught Stealing 2B,518653,Jake Elmore,593372,Carlos Martinez,542340,Jonathan Villar,R,Yadier Molina,425877,1,2,4,False,2016-07-09,Caught,2B,2016,2019,26.4
+8,4763,1B,,Caught Stealing 2B,518653,Jake Elmore,452657,Jon Lester,448855,Junior Guerra,L,David Ross,424325,2,0,4,False,2016-07-24,Caught,2B,2016,2019,26.4
+9,4823,1B,2B,Stolen Base 2B,518653,Jake Elmore,444468,Héctor Rondón,541650,Hernán Pérez,R,Miguel Montero,471083,2,5,9,False,2016-07-22,Stolen,2B,2016,2019,26.4
+10,4854,1B,2B,Stolen Base 2B,518653,Jake Elmore,491708,Arquimedes Caminero,542340,Jonathan Villar,R,Francisco Cervelli,465041,5,8,7,True,2016-07-20,Stolen,2B,2016,2019,26.4
+11,5014,1B,,Caught Stealing 2B,518653,Jake Elmore,593372,Carlos Martinez,542340,Jonathan Villar,R,Yadier Molina,425877,1,2,4,False,2016-07-09,Caught,2B,2016,2019,26.4
+12,724,1B,2B,Stolen Base 2B,518653,Jake Elmore,519242,Chris Sale,446386,Brandon Guyer,L,Tyler Flowers,452095,2,1,7,False,2015-06-14,Stolen,2B,2015,2016,27.0
+13,904,1B,,Caught Stealing 2B,518653,Jake Elmore,606273,Roenis Elías,452678,Asdrúbal Cabrera,L,Mike Zunino,572287,0,2,4,True,2015-06-04,Caught,2B,2015,2016,27.0

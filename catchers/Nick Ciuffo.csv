@@ -1,0 +1,7 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,2B,Stolen Base 2B,457727,Cameron Maybin,607192,Tyler Glasnow,458731,Brett Gardner,R,Nick Ciuffo,624419,0,2,2,True,2019-05-10,Stolen,2B,2019,2021, --, 0.67
+1,1B,,Caught Stealing 2B,457727,Cameron Maybin,594987,Casey Sadler,518934,DJ LeMahieu,R,Nick Ciuffo,624419,3,4,9,True,2019-05-10,Caught,2B,2019,2021, --, 0.67
+2,1B,2B,Stolen Base 2B,457727,Cameron Maybin,607192,Tyler Glasnow,458731,Brett Gardner,R,Nick Ciuffo,624419,0,2,2,True,2019-05-10,Stolen,2B,2019,2021, --, 0.67
+3,1B,,Caught Stealing 2B,457727,Cameron Maybin,594987,Casey Sadler,518934,DJ LeMahieu,R,Nick Ciuffo,624419,3,4,9,True,2019-05-10,Caught,2B,2019,2021, --, 0.67
+4,1B,2B,Stolen Base 2B,457727,Cameron Maybin,607192,Tyler Glasnow,458731,Brett Gardner,R,Nick Ciuffo,624419,0,2,2,True,2019-05-10,Stolen,2B,2019,2021, --, 0.67
+5,1B,,Caught Stealing 2B,457727,Cameron Maybin,594987,Casey Sadler,518934,DJ LeMahieu,R,Nick Ciuffo,624419,3,4,9,True,2019-05-10,Caught,2B,2019,2021, --, 0.67

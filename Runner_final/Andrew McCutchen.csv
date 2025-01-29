@@ -1,0 +1,151 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,220,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,592662,Robbie Ray,664761,Alec Bohm,L,Alejandro Kirk,672386,0,1,3,True,2020-09-18,Stolen,2B,2020,2021,28.7
+1,682,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,607200,Erick Fedde,656555,Rhys Hoskins,R,Kurt Suzuki,435559,0,0,1,True,2020-08-25,Stolen,2B,2020,2021,28.7
+2,685,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,593833,Wander Suero,656555,Rhys Hoskins,R,Kurt Suzuki,435559,2,5,7,True,2020-08-25,Stolen,2B,2020,2021,28.7
+3,803,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,592390,Heath Hembree,656555,Rhys Hoskins,R,Kevin Plawecki,608700,4,5,6,True,2020-08-18,Stolen,2B,2020,2021,28.7
+4,1062,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,592662,Robbie Ray,664761,Alec Bohm,L,Alejandro Kirk,672386,0,1,3,True,2020-08-02,Stolen,2B,2020,2021,28.7
+5,3063,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,592662,Robbie Ray,664761,Alec Bohm,L,Alejandro Kirk,672386,0,1,3,True,2020-09-18,Stolen,2B,2020,2021,28.7
+6,3525,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,607200,Erick Fedde,656555,Rhys Hoskins,R,Kurt Suzuki,435559,0,0,1,True,2020-08-25,Stolen,2B,2020,2021,28.7
+7,3528,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,593833,Wander Suero,656555,Rhys Hoskins,R,Kurt Suzuki,435559,2,5,7,True,2020-08-25,Stolen,2B,2020,2021,28.7
+8,3646,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,592390,Heath Hembree,656555,Rhys Hoskins,R,Kevin Plawecki,608700,4,5,6,True,2020-08-18,Stolen,2B,2020,2021,28.7
+9,3905,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,592662,Robbie Ray,664761,Alec Bohm,L,Alejandro Kirk,672386,0,1,3,True,2020-08-02,Stolen,2B,2020,2021,28.7
+10,4987,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,592662,Robbie Ray,664761,Alec Bohm,L,Alejandro Kirk,672386,0,1,3,True,2020-09-18,Stolen,2B,2020,2021,28.7
+11,5449,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,607200,Erick Fedde,656555,Rhys Hoskins,R,Kurt Suzuki,435559,0,0,1,True,2020-08-25,Stolen,2B,2020,2021,28.7
+12,5452,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,593833,Wander Suero,656555,Rhys Hoskins,R,Kurt Suzuki,435559,2,5,7,True,2020-08-25,Stolen,2B,2020,2021,28.7
+13,5570,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,592390,Heath Hembree,656555,Rhys Hoskins,R,Kevin Plawecki,608700,4,5,6,True,2020-08-18,Stolen,2B,2020,2021,28.7
+14,5829,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,592662,Robbie Ray,664761,Alec Bohm,L,Alejandro Kirk,672386,0,1,3,True,2020-08-02,Stolen,2B,2020,2021,28.7
+15,3377,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,543557,Mike Montgomery,516416,Jean Segura,L,Victor Caratini,605170,1,3,7,True,2019-05-20,Stolen,2B,2019,2020,27.5
+16,3424,1B,,Caught Stealing 2B,457705,Andrew McCutchen,592351,Jon Gray,516416,Jean Segura,R,Tony Wolters,547172,0,0,1,False,2019-05-17,Caught,2B,2019,2020,27.5
+17,3702,2B,3B,Stolen Base 3B,457705,Andrew McCutchen,605513,Spencer Turnbull,592663,J.T. Realmuto,R,Grayson Greiner,606988,1,3,3,False,2019-04-30,Stolen,3B,2019,2020,27.5
+18,6220,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,543557,Mike Montgomery,516416,Jean Segura,L,Victor Caratini,605170,1,3,7,True,2019-05-20,Stolen,2B,2019,2020,27.5
+19,6267,1B,,Caught Stealing 2B,457705,Andrew McCutchen,592351,Jon Gray,516416,Jean Segura,R,Tony Wolters,547172,0,0,1,False,2019-05-17,Caught,2B,2019,2020,27.5
+20,6545,2B,3B,Stolen Base 3B,457705,Andrew McCutchen,605513,Spencer Turnbull,592663,J.T. Realmuto,R,Grayson Greiner,606988,1,3,3,False,2019-04-30,Stolen,3B,2019,2020,27.5
+21,8144,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,543557,Mike Montgomery,516416,Jean Segura,L,Victor Caratini,605170,1,3,7,True,2019-05-20,Stolen,2B,2019,2020,27.5
+22,8191,1B,,Caught Stealing 2B,457705,Andrew McCutchen,592351,Jon Gray,516416,Jean Segura,R,Tony Wolters,547172,0,0,1,False,2019-05-17,Caught,2B,2019,2020,27.5
+23,8469,2B,3B,Stolen Base 3B,457705,Andrew McCutchen,605513,Spencer Turnbull,592663,J.T. Realmuto,R,Grayson Greiner,606988,1,3,3,False,2019-04-30,Stolen,3B,2019,2020,27.5
+24,1171,1B,2B,Caught Stealing Home,457705,Andrew McCutchen,669622,Anthony Bender,656555,Rhys Hoskins,R,Sandy León,506702,6,4,6,False,2021-07-18,Caught,Home,2021,2022,28.9
+25,1367,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,506433,Yu Darvish,656555,Rhys Hoskins,R,Victor Caratini,605170,4,2,6,False,2021-07-03,Stolen,2B,2021,2022,28.9
+26,1471,1B,,Caught Stealing 2B,457705,Andrew McCutchen,621261,Corey Oswalt,656555,Rhys Hoskins,R,James McCann,543510,0,4,7,True,2021-06-27,Caught,2B,2021,2022,28.9
+27,1486,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,594798,Jacob deGrom,663897,Luke Williams,R,James McCann,543510,0,0,2,True,2021-06-26,Stolen,2B,2021,2022,28.9
+28,1489,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,621242,Edwin Díaz,663897,Luke Williams,R,James McCann,543510,2,2,9,True,2021-06-26,Stolen,2B,2021,2022,28.9
+29,2180,3B,score,Stolen Base Home,457705,Andrew McCutchen,571578,Patrick Corbin,664761,Alec Bohm,L,Yan Gomes,543228,0,1,1,True,2021-05-13,Stolen,Home,2021,2022,28.9
+30,2545,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,543101,Anthony DeSclafani,656555,Rhys Hoskins,R,Buster Posey,457763,3,0,2,False,2021-04-21,Stolen,2B,2021,2022,28.9
+31,2745,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,476454,Dellin Betances,547180,Bryce Harper,R,James McCann,543510,8,1,6,False,2021-04-07,Stolen,2B,2021,2022,28.9
+32,3095,1B,2B,Caught Stealing Home,457705,Andrew McCutchen,669622,Anthony Bender,656555,Rhys Hoskins,R,Sandy León,506702,6,4,6,False,2021-07-18,Caught,Home,2021,2022,28.9
+33,3291,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,506433,Yu Darvish,656555,Rhys Hoskins,R,Victor Caratini,605170,4,2,6,False,2021-07-03,Stolen,2B,2021,2022,28.9
+34,3395,1B,,Caught Stealing 2B,457705,Andrew McCutchen,621261,Corey Oswalt,656555,Rhys Hoskins,R,James McCann,543510,0,4,7,True,2021-06-27,Caught,2B,2021,2022,28.9
+35,3410,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,594798,Jacob deGrom,663897,Luke Williams,R,James McCann,543510,0,0,2,True,2021-06-26,Stolen,2B,2021,2022,28.9
+36,3413,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,621242,Edwin Díaz,663897,Luke Williams,R,James McCann,543510,2,2,9,True,2021-06-26,Stolen,2B,2021,2022,28.9
+37,4104,3B,score,Stolen Base Home,457705,Andrew McCutchen,571578,Patrick Corbin,664761,Alec Bohm,L,Yan Gomes,543228,0,1,1,True,2021-05-13,Stolen,Home,2021,2022,28.9
+38,4469,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,543101,Anthony DeSclafani,656555,Rhys Hoskins,R,Buster Posey,457763,3,0,2,False,2021-04-21,Stolen,2B,2021,2022,28.9
+39,4669,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,476454,Dellin Betances,547180,Bryce Harper,R,James McCann,543510,8,1,6,False,2021-04-07,Stolen,2B,2021,2022,28.9
+40,702,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,669467,Andre Pallante,656582,Connor Joe,R,Andrew Knizner,668800,6,3,8,True,2023-09-03,Stolen,2B,2023,2024,26.8
+41,1605,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,506433,Yu Darvish,467793,Carlos Santana,R,Luis Campusano,669134,1,3,3,True,2023-07-24,Stolen,2B,2023,2024,26.8
+42,2268,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,640462,A.J. Puk,656582,Connor Joe,L,Nick Fortes,663743,1,1,9,True,2023-06-23,Stolen,2B,2023,2024,26.8
+43,2269,2B,3B,Stolen Base 3B,457705,Andrew McCutchen,640462,A.J. Puk,467793,Carlos Santana,L,Nick Fortes,663743,1,2,9,True,2023-06-23,Stolen,3B,2023,2024,26.8
+44,2776,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,606149,Giovanny Gallegos,669261,Jack Suwinski,R,Willson Contreras,575929,1,5,7,False,2023-06-02,Stolen,2B,2023,2024,26.8
+45,2819,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,622072,Alex Wood,668804,Bryan Reynolds,L,Patrick Bailey,672275,2,6,4,True,2023-05-31,Stolen,2B,2023,2024,26.8
+46,3034,3B,,Caught Stealing Home,457705,Andrew McCutchen,641540,Dane Dunning,663647,Ke'Bryan Hayes,R,Jonah Heim,641680,0,0,1,False,2023-05-22,Caught,Home,2023,2024,26.8
+47,3038,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,642546,Jonathan Hernández,668804,Bryan Reynolds,R,Jonah Heim,641680,6,2,8,False,2023-05-22,Stolen,2B,2023,2024,26.8
+48,3634,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,628711,Julio Urías,666801,Rodolfo Castro,L,Austin Barnes,605131,2,2,1,False,2023-04-27,Stolen,2B,2023,2024,26.8
+49,3992,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,664353,José Urquidy,467793,Carlos Santana,R,Yainer Diaz,673237,0,0,1,False,2023-04-12,Stolen,2B,2023,2024,26.8
+50,4086,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,605182,Mike Clevinger,467793,Carlos Santana,R,Yasmani Grandal,518735,2,5,3,False,2023-04-08,Stolen,2B,2023,2024,26.8
+51,4155,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,677161,Zack Kelly,467793,Carlos Santana,R,Reese McGuire,624512,1,4,9,True,2023-04-05,Stolen,2B,2023,2024,26.8
+52,5116,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,669467,Andre Pallante,656582,Connor Joe,R,Andrew Knizner,668800,6,3,8,True,2023-09-03,Stolen,2B,2023,2024,26.8
+53,6019,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,506433,Yu Darvish,467793,Carlos Santana,R,Luis Campusano,669134,1,3,3,True,2023-07-24,Stolen,2B,2023,2024,26.8
+54,6682,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,640462,A.J. Puk,656582,Connor Joe,L,Nick Fortes,663743,1,1,9,True,2023-06-23,Stolen,2B,2023,2024,26.8
+55,6683,2B,3B,Stolen Base 3B,457705,Andrew McCutchen,640462,A.J. Puk,467793,Carlos Santana,L,Nick Fortes,663743,1,2,9,True,2023-06-23,Stolen,3B,2023,2024,26.8
+56,7190,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,606149,Giovanny Gallegos,669261,Jack Suwinski,R,Willson Contreras,575929,1,5,7,False,2023-06-02,Stolen,2B,2023,2024,26.8
+57,7233,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,622072,Alex Wood,668804,Bryan Reynolds,L,Patrick Bailey,672275,2,6,4,True,2023-05-31,Stolen,2B,2023,2024,26.8
+58,7448,3B,,Caught Stealing Home,457705,Andrew McCutchen,641540,Dane Dunning,663647,Ke'Bryan Hayes,R,Jonah Heim,641680,0,0,1,False,2023-05-22,Caught,Home,2023,2024,26.8
+59,7452,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,642546,Jonathan Hernández,668804,Bryan Reynolds,R,Jonah Heim,641680,6,2,8,False,2023-05-22,Stolen,2B,2023,2024,26.8
+60,8048,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,628711,Julio Urías,666801,Rodolfo Castro,L,Austin Barnes,605131,2,2,1,False,2023-04-27,Stolen,2B,2023,2024,26.8
+61,8406,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,664353,José Urquidy,467793,Carlos Santana,R,Yainer Diaz,673237,0,0,1,False,2023-04-12,Stolen,2B,2023,2024,26.8
+62,8500,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,605182,Mike Clevinger,467793,Carlos Santana,R,Yasmani Grandal,518735,2,5,3,False,2023-04-08,Stolen,2B,2023,2024,26.8
+63,8569,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,677161,Zack Kelly,467793,Carlos Santana,R,Reese McGuire,624512,1,4,9,True,2023-04-05,Stolen,2B,2023,2024,26.8
+64,141,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,664141,JT Brubaker,543939,Kolten Wong,R,Michael Pérez,605421,3,2,5,False,2022-07-08,Stolen,2B,2022,2023,28.4
+65,142,1B,,Caught Stealing 2B,457705,Andrew McCutchen,660787,Yerry De Los Santos,649966,Luis Urías,R,Michael Pérez,605421,4,2,7,False,2022-07-08,Caught,2B,2022,2023,28.4
+66,419,1B,,Caught Stealing 2B,457705,Andrew McCutchen,676886,Jeremy Beasley,553882,Omar Narváez,R,Alejandro Kirk,672386,2,8,8,False,2022-06-24,Caught,2B,2022,2023,28.4
+67,539,1B,,Caught Stealing 2B,457705,Andrew McCutchen,656546,Jeff Hoffman,592669,Hunter Renfroe,R,Aramis Garcia,605244,2,4,6,True,2022-06-17,Caught,2B,2022,2023,28.4
+68,683,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,607200,Erick Fedde,607054,Jace Peterson,R,Keibert Ruiz,660688,3,3,4,True,2022-06-10,Stolen,2B,2022,2023,28.4
+69,684,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,600921,Andrés Machado,607054,Jace Peterson,R,Keibert Ruiz,660688,10,5,8,True,2022-06-10,Stolen,2B,2022,2023,28.4
+70,1511,1B,,Caught Stealing 2B,457705,Andrew McCutchen,656605,Mitch Keller,642133,Rowdy Tellez,R,Roberto Pérez,547379,1,2,4,True,2022-04-26,Caught,2B,2022,2023,28.4
+71,1513,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,676641,Beau Sulser,642133,Rowdy Tellez,R,Roberto Pérez,547379,7,10,9,True,2022-04-26,Stolen,2B,2022,2023,28.4
+72,1661,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,663855,Jordan Hicks,642133,Rowdy Tellez,R,Yadier Molina,425877,4,3,5,False,2022-04-17,Stolen,2B,2022,2023,28.4
+73,1675,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,664854,Ryan Helsley,592669,Hunter Renfroe,R,Andrew Knizner,668800,0,1,6,False,2022-04-16,Stolen,2B,2022,2023,28.4
+74,1757,1B,,Caught Stealing 2B,457705,Andrew McCutchen,672335,Cionel Pérez,642133,Rowdy Tellez,L,Robinson Chirinos,455139,4,5,7,True,2022-04-12,Caught,2B,2022,2023,28.4
+75,1846,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,608566,Germán Márquez,642133,Rowdy Tellez,R,Elias Díaz,553869,0,2,1,True,2022-04-04,Stolen,2B,2022,2023,28.4
+76,1847,2B,3B,Stolen Base 3B,457705,Andrew McCutchen,468504,Jhoulys Chacín,592669,Hunter Renfroe,R,Elias Díaz,553869,5,2,6,True,2022-04-04,Stolen,3B,2022,2023,28.4
+77,238,1B,,Caught Stealing 2B,457705,Andrew McCutchen,572070,Garrett Richards,467055,Pablo Sandoval,R,René Rivera,425784,1,2,3,True,2018-04-21,Caught,2B,2018,2019,28.8
+78,299,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,502202,Brad Boxberger,474832,Brandon Belt,R,Alex Avila,488671,2,4,10,True,2018-04-18,Stolen,2B,2018,2019,28.8
+79,435,2B,3B,Stolen Base 3B,457705,Andrew McCutchen,605177,Andrew Chafin,446334,Evan Longoria,L,Alex Avila,488671,4,3,8,False,2018-04-10,Stolen,3B,2018,2019,28.8
+80,506,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,445276,Kenley Jansen,446334,Evan Longoria,R,Austin Barnes,605131,4,4,12,False,2018-04-07,Stolen,2B,2018,2019,28.8
+81,916,1B,,Caught Stealing 2B,457705,Andrew McCutchen,607219,Sal Romano,501896,David Freese,R,Tucker Barnhart,571466,0,0,4,True,2017-09-16,Caught,2B,2017,2018,28.7
+82,1106,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,543294,Kyle Hendricks,501896,David Freese,R,René Rivera,425784,2,3,4,False,2017-09-05,Stolen,2B,2017,2018,28.7
+83,1657,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,519455,Jordan Zimmermann,605137,Josh Bell,R,James McCann,543510,0,0,1,False,2017-08-07,Stolen,2B,2017,2018,28.7
+84,1990,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,519076,Jimmy Nelson,605137,Josh Bell,R,Manny Piña,444489,4,2,5,False,2017-07-20,Stolen,2B,2017,2018,28.7
+85,2006,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,453172,Jared Hughes,621559,Max Moroff,R,Jett Bandy,542908,3,2,10,False,2017-07-19,Stolen,2B,2017,2018,28.7
+86,2051,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,453172,Jared Hughes,501896,David Freese,R,Stephen Vogt,519390,3,2,7,False,2017-07-17,Stolen,2B,2017,2018,28.7
+87,2309,2B,,Caught Stealing 3B,457705,Andrew McCutchen,592473,Adam Kolarek,444379,John Jaso,L,Jesús Sucre,491696,4,0,7,False,2017-06-29,Caught,3B,2017,2018,28.7
+88,2758,2B,3B,Stolen Base 3B,457705,Andrew McCutchen,489119,Wade Miley,621559,Max Moroff,L,Caleb Joseph,543376,0,2,2,True,2017-06-07,Stolen,3B,2017,2018,28.7
+89,3145,2B,3B,Stolen Base 3B,457705,Andrew McCutchen,545363,Jacob Turner,605137,Josh Bell,R,Jose Lobaton,446653,3,0,6,False,2017-05-17,Stolen,3B,2017,2018,28.7
+90,3146,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,458006,Matt Albers,501896,David Freese,R,Jose Lobaton,446653,5,1,7,False,2017-05-17,Stolen,2B,2017,2018,28.7
+91,3183,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,407822,Jorge De La Rosa,605137,Josh Bell,L,Chris Herrmann,543302,3,4,7,True,2017-05-14,Stolen,2B,2017,2018,28.7
+92,3489,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,607457,Kyle Barraclough,570256,Gregory Polanco,R,A.J. Ellis,454560,4,3,7,True,2017-04-30,Stolen,2B,2017,2018,28.7
+93,3662,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,461325,Tyler Clippard,570256,Gregory Polanco,R,Austin Romine,519222,5,5,7,False,2017-04-22,Stolen,2B,2017,2018,28.7
+94,288,1B,,Caught Stealing 2B,457705,Andrew McCutchen,607219,Sal Romano,501896,David Freese,R,Tucker Barnhart,571466,0,0,4,True,2017-09-16,Caught,2B,2017,2018,28.7
+95,478,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,543294,Kyle Hendricks,501896,David Freese,R,René Rivera,425784,2,3,4,False,2017-09-05,Stolen,2B,2017,2018,28.7
+96,1029,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,519455,Jordan Zimmermann,605137,Josh Bell,R,James McCann,543510,0,0,1,False,2017-08-07,Stolen,2B,2017,2018,28.7
+97,1362,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,519076,Jimmy Nelson,605137,Josh Bell,R,Manny Piña,444489,4,2,5,False,2017-07-20,Stolen,2B,2017,2018,28.7
+98,1378,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,453172,Jared Hughes,621559,Max Moroff,R,Jett Bandy,542908,3,2,10,False,2017-07-19,Stolen,2B,2017,2018,28.7
+99,1423,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,453172,Jared Hughes,501896,David Freese,R,Stephen Vogt,519390,3,2,7,False,2017-07-17,Stolen,2B,2017,2018,28.7
+100,1681,2B,,Caught Stealing 3B,457705,Andrew McCutchen,592473,Adam Kolarek,444379,John Jaso,L,Jesús Sucre,491696,4,0,7,False,2017-06-29,Caught,3B,2017,2018,28.7
+101,2130,2B,3B,Stolen Base 3B,457705,Andrew McCutchen,489119,Wade Miley,621559,Max Moroff,L,Caleb Joseph,543376,0,2,2,True,2017-06-07,Stolen,3B,2017,2018,28.7
+102,2517,2B,3B,Stolen Base 3B,457705,Andrew McCutchen,545363,Jacob Turner,605137,Josh Bell,R,Jose Lobaton,446653,3,0,6,False,2017-05-17,Stolen,3B,2017,2018,28.7
+103,2518,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,458006,Matt Albers,501896,David Freese,R,Jose Lobaton,446653,5,1,7,False,2017-05-17,Stolen,2B,2017,2018,28.7
+104,2555,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,407822,Jorge De La Rosa,605137,Josh Bell,L,Chris Herrmann,543302,3,4,7,True,2017-05-14,Stolen,2B,2017,2018,28.7
+105,2861,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,607457,Kyle Barraclough,570256,Gregory Polanco,R,A.J. Ellis,454560,4,3,7,True,2017-04-30,Stolen,2B,2017,2018,28.7
+106,3034,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,461325,Tyler Clippard,570256,Gregory Polanco,R,Austin Romine,519222,5,5,7,False,2017-04-22,Stolen,2B,2017,2018,28.7
+107,4694,1B,,Caught Stealing 2B,457705,Andrew McCutchen,607359,Spencer Patton,570256,Gregory Polanco,R,Willson Contreras,575929,3,6,8,True,2016-08-29,Caught,2B,2016,2017,28.8
+108,4895,1B,,Caught Stealing 2B,457705,Andrew McCutchen,571882,Derek Law,628356,Jung Ho Kang,R,Buster Posey,457763,3,4,8,True,2016-08-16,Caught,2B,2016,2017,28.8
+109,4932,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,592779,Brock Stewart,501896,David Freese,R,Yasmani Grandal,518735,1,6,4,True,2016-08-14,Stolen,2B,2016,2017,28.8
+110,4979,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,548389,Ross Stripling,570256,Gregory Polanco,R,Yasmani Grandal,518735,0,1,1,True,2016-08-12,Stolen,2B,2016,2017,28.8
+111,5156,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,543101,Anthony DeSclafani,459964,Matt Joyce,R,Tucker Barnhart,571466,2,1,6,False,2016-08-05,Stolen,2B,2016,2017,28.8
+112,5605,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,544931,Stephen Strasburg,516782,Starling Marte,R,Wilson Ramos,467092,1,1,7,True,2016-07-15,Stolen,2B,2016,2017,28.8
+113,5857,1B,,Caught Stealing 2B,457705,Andrew McCutchen,430599,Joe Blanton,628356,Jung Ho Kang,R,A.J. Ellis,454560,4,5,7,False,2016-06-27,Caught,2B,2016,2017,28.8
+114,6004,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,452657,Jon Lester,628356,Jung Ho Kang,L,David Ross,424325,0,1,1,True,2016-06-18,Stolen,2B,2016,2017,28.8
+115,6005,2B,,Caught Stealing 3B,457705,Andrew McCutchen,452657,Jon Lester,501896,David Freese,L,David Ross,424325,0,1,1,True,2016-06-18,Caught,3B,2016,2017,28.8
+116,7153,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,607067,Colin Rea,501896,David Freese,R,Derek Norris,519083,0,1,1,True,2016-04-19,Stolen,2B,2016,2017,28.8
+117,7192,1B,,Caught Stealing 2B,457705,Andrew McCutchen,605200,Zach Davies,501896,David Freese,R,Jonathan Lucroy,518960,0,0,1,False,2016-04-17,Caught,2B,2016,2017,28.8
+118,7303,1B,,Caught Stealing 2B,457705,Andrew McCutchen,434671,Aníbal Sánchez,501896,David Freese,R,Jarrod Saltalamacchia,457454,0,0,1,True,2016-04-12,Caught,2B,2016,2017,28.8
+119,659,1B,,Caught Stealing 2B,457705,Andrew McCutchen,607359,Spencer Patton,570256,Gregory Polanco,R,Willson Contreras,575929,3,6,8,True,2016-08-29,Caught,2B,2016,2017,28.8
+120,860,1B,,Caught Stealing 2B,457705,Andrew McCutchen,571882,Derek Law,628356,Jung Ho Kang,R,Buster Posey,457763,3,4,8,True,2016-08-16,Caught,2B,2016,2017,28.8
+121,897,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,592779,Brock Stewart,501896,David Freese,R,Yasmani Grandal,518735,1,6,4,True,2016-08-14,Stolen,2B,2016,2017,28.8
+122,944,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,548389,Ross Stripling,570256,Gregory Polanco,R,Yasmani Grandal,518735,0,1,1,True,2016-08-12,Stolen,2B,2016,2017,28.8
+123,1121,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,543101,Anthony DeSclafani,459964,Matt Joyce,R,Tucker Barnhart,571466,2,1,6,False,2016-08-05,Stolen,2B,2016,2017,28.8
+124,1570,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,544931,Stephen Strasburg,516782,Starling Marte,R,Wilson Ramos,467092,1,1,7,True,2016-07-15,Stolen,2B,2016,2017,28.8
+125,1822,1B,,Caught Stealing 2B,457705,Andrew McCutchen,430599,Joe Blanton,628356,Jung Ho Kang,R,A.J. Ellis,454560,4,5,7,False,2016-06-27,Caught,2B,2016,2017,28.8
+126,1969,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,452657,Jon Lester,628356,Jung Ho Kang,L,David Ross,424325,0,1,1,True,2016-06-18,Stolen,2B,2016,2017,28.8
+127,1970,2B,,Caught Stealing 3B,457705,Andrew McCutchen,452657,Jon Lester,501896,David Freese,L,David Ross,424325,0,1,1,True,2016-06-18,Caught,3B,2016,2017,28.8
+128,3118,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,607067,Colin Rea,501896,David Freese,R,Derek Norris,519083,0,1,1,True,2016-04-19,Stolen,2B,2016,2017,28.8
+129,3157,1B,,Caught Stealing 2B,457705,Andrew McCutchen,605200,Zach Davies,501896,David Freese,R,Jonathan Lucroy,518960,0,0,1,False,2016-04-17,Caught,2B,2016,2017,28.8
+130,3268,1B,,Caught Stealing 2B,457705,Andrew McCutchen,434671,Aníbal Sánchez,501896,David Freese,R,Jarrod Saltalamacchia,457454,0,0,1,True,2016-04-12,Caught,2B,2016,2017,28.8
+131,4066,1B,,Caught Stealing 2B,457705,Andrew McCutchen,607359,Spencer Patton,570256,Gregory Polanco,R,Willson Contreras,575929,3,6,8,True,2016-08-29,Caught,2B,2016,2017,28.8
+132,4267,1B,,Caught Stealing 2B,457705,Andrew McCutchen,571882,Derek Law,628356,Jung Ho Kang,R,Buster Posey,457763,3,4,8,True,2016-08-16,Caught,2B,2016,2017,28.8
+133,4304,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,592779,Brock Stewart,501896,David Freese,R,Yasmani Grandal,518735,1,6,4,True,2016-08-14,Stolen,2B,2016,2017,28.8
+134,4351,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,548389,Ross Stripling,570256,Gregory Polanco,R,Yasmani Grandal,518735,0,1,1,True,2016-08-12,Stolen,2B,2016,2017,28.8
+135,4528,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,543101,Anthony DeSclafani,459964,Matt Joyce,R,Tucker Barnhart,571466,2,1,6,False,2016-08-05,Stolen,2B,2016,2017,28.8
+136,4977,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,544931,Stephen Strasburg,516782,Starling Marte,R,Wilson Ramos,467092,1,1,7,True,2016-07-15,Stolen,2B,2016,2017,28.8
+137,5229,1B,,Caught Stealing 2B,457705,Andrew McCutchen,430599,Joe Blanton,628356,Jung Ho Kang,R,A.J. Ellis,454560,4,5,7,False,2016-06-27,Caught,2B,2016,2017,28.8
+138,5376,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,452657,Jon Lester,628356,Jung Ho Kang,L,David Ross,424325,0,1,1,True,2016-06-18,Stolen,2B,2016,2017,28.8
+139,5377,2B,,Caught Stealing 3B,457705,Andrew McCutchen,452657,Jon Lester,501896,David Freese,L,David Ross,424325,0,1,1,True,2016-06-18,Caught,3B,2016,2017,28.8
+140,6525,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,607067,Colin Rea,501896,David Freese,R,Derek Norris,519083,0,1,1,True,2016-04-19,Stolen,2B,2016,2017,28.8
+141,6564,1B,,Caught Stealing 2B,457705,Andrew McCutchen,605200,Zach Davies,501896,David Freese,R,Jonathan Lucroy,518960,0,0,1,False,2016-04-17,Caught,2B,2016,2017,28.8
+142,6675,1B,,Caught Stealing 2B,457705,Andrew McCutchen,434671,Aníbal Sánchez,501896,David Freese,R,Jarrod Saltalamacchia,457454,0,0,1,True,2016-04-12,Caught,2B,2016,2017,28.8
+143,385,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,456379,Al Alburquerque,628356,Jung Ho Kang,R,James McCann,543510,1,3,7,True,2015-06-30,Stolen,2B,2015,2016,29.1
+144,481,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,434665,Nick Masset,516782,Starling Marte,R,Ryan Lavarnway,543432,2,2,7,False,2015-06-26,Stolen,2B,2015,2016,29.1
+145,976,1B,,Caught Stealing 2B,457705,Andrew McCutchen,628333,Odrisamer Despaigne,516782,Starling Marte,R,Derek Norris,519083,0,0,1,True,2015-05-31,Caught,2B,2015,2016,29.1
+146,1064,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,543272,Brad Hand,628356,Jung Ho Kang,L,J.T. Realmuto,592663,0,1,4,False,2015-05-27,Stolen,2B,2015,2016,29.1
+147,1365,1B,2B,Stolen Base 2B,457705,Andrew McCutchen,430935,Cole Hamels,516782,Starling Marte,L,Carlos Ruiz,434563,0,2,5,True,2015-05-13,Stolen,2B,2015,2016,29.1
+148,1490,2B,3B,Stolen Base 3B,457705,Andrew McCutchen,543101,Anthony DeSclafani,543281,Josh Harrison,R,Brayan Peña,430910,1,0,1,False,2015-05-07,Stolen,3B,2015,2016,29.1
+149,1971,1B,,Caught Stealing 2B,457705,Andrew McCutchen,430580,Alfredo Simon,435522,Neil Walker,R,James McCann,543510,0,0,1,False,2015-04-15,Caught,2B,2015,2016,29.1

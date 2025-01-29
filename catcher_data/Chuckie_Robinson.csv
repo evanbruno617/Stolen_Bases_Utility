@@ -1,0 +1,27 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,592885,Christian Yelich,Chuckie Robinson,2,2,4,True,2022-09-23,Stolen,2B,2022
+1B,2B,Stolen Base 2B,669003,Garrett Mitchell,Chuckie Robinson,2,3,6,True,2022-09-23,Stolen,2B,2022
+1B,2B,Stolen Base 2B,642715,Willy Adames,Chuckie Robinson,2,5,8,True,2022-09-23,Stolen,2B,2022
+1B,2B,Stolen Base 2B,543939,Kolten Wong,Chuckie Robinson,3,5,9,True,2022-09-23,Stolen,2B,2022
+1B,,Caught Stealing 2B,593428,Xander Bogaerts,Chuckie Robinson,1,1,4,True,2022-09-21,Caught,2B,2022
+1B,2B,Stolen Base 2B,669242,Tommy Edman,Chuckie Robinson,5,1,8,False,2022-09-17,Stolen,2B,2022
+1B,2B,Stolen Base 2B,641933,Tyler O'Neill,Chuckie Robinson,1,1,3,False,2022-09-16,Stolen,2B,2022
+1B,2B,Stolen Base 2B,641933,Tyler O'Neill,Chuckie Robinson,4,4,6,False,2022-09-16,Stolen,2B,2022
+1B,2B,Stolen Base 2B,621028,Kevin Newman,Chuckie Robinson,0,1,7,True,2022-09-13,Stolen,2B,2022
+1B,2B,Stolen Base 2B,663647,Ke'Bryan Hayes,Chuckie Robinson,2,4,5,True,2022-09-12,Stolen,2B,2022
+2B,3B,Stolen Base 3B,663647,Ke'Bryan Hayes,Chuckie Robinson,2,6,5,True,2022-09-12,Stolen,3B,2022
+2B,3B,Stolen Base 3B,669261,Jack Suwinski,Chuckie Robinson,3,6,9,True,2022-09-12,Stolen,3B,2022
+1B,2B,Stolen Base 2B,668751,Cal Mitchell,Chuckie Robinson,3,6,9,True,2022-09-12,Stolen,2B,2022
+1B,2B,Stolen Base 2B,663845,Alfonso Rivas III,Chuckie Robinson,2,1,7,False,2022-09-08,Stolen,2B,2022
+1B,,Caught Stealing 2B,669911,Michael Toglia,Chuckie Robinson,0,0,2,True,2022-09-04,Caught,2B,2022
+1B,2B,Stolen Base 2B,641658,Garrett Hampson,Chuckie Robinson,0,0,3,True,2022-09-04,Stolen,2B,2022
+2B,3B,Stolen Base 3B,641658,Garrett Hampson,Chuckie Robinson,0,0,3,True,2022-09-04,Stolen,3B,2022
+2B,3B,Stolen Base 3B,641658,Garrett Hampson,Chuckie Robinson,0,0,3,True,2022-09-04,Stolen,3B,2022
+1B,,Caught Stealing 2B,669911,Michael Toglia,Chuckie Robinson,0,0,2,True,2022-09-03,Caught,2B,2022
+1B,2B,Stolen Base 2B,641658,Garrett Hampson,Chuckie Robinson,0,0,3,True,2022-09-03,Stolen,2B,2022
+2B,3B,Stolen Base 3B,641658,Garrett Hampson,Chuckie Robinson,0,0,3,True,2022-09-03,Stolen,3B,2022
+1B,2B,Stolen Base 2B,641933,Tyler O'Neill,Chuckie Robinson,2,2,4,True,2022-08-31,Stolen,2B,2022
+1B,2B,Stolen Base 2B,663457,Lars Nootbaar,Chuckie Robinson,2,2,9,True,2022-08-31,Stolen,2B,2022
+1B,,Caught Stealing 2B,545121,Ildemaro Vargas,Chuckie Robinson,1,1,2,False,2022-08-27,Caught,2B,2022
+1B,2B,Stolen Base 2B,671277,Luis García Jr.,Chuckie Robinson,1,4,3,False,2022-08-26,Stolen,2B,2022
+1B,2B,Stolen Base 2B,669242,Tommy Edman,Chuckie Robinson,5,1,8,False,2022-07-17,Stolen,2B,2022

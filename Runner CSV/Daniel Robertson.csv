@@ -1,0 +1,21 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+115,1B,2B,Stolen Base 2B,543706,Daniel Robertson,Jason Castro,1,0,6,False,2014-09-24,Stolen,2B,2014
+139,1B,2B,Stolen Base 2B,543706,Daniel Robertson,Carlos Corporán,2,0,4,False,2014-09-23,Stolen,2B,2014
+692,1B,2B,Stolen Base 2B,543706,Daniel Robertson,Jason Castro,1,2,3,True,2014-08-29,Stolen,2B,2014
+763,1B,,Caught Stealing 2B,543706,Daniel Robertson,Mike Zunino,0,0,3,True,2014-08-25,Caught,2B,2014
+1414,1B,2B,Stolen Base 2B,543706,Daniel Robertson,Francisco Cervelli,0,0,3,True,2014-07-22,Stolen,2B,2014
+1525,1B,2B,Stolen Base 2B,543706,Daniel Robertson,Chris Iannetta,0,0,1,False,2014-07-13,Stolen,2B,2014
+2086,1B,2B,Stolen Base 2B,543706,Daniel Robertson,John Jaso,0,0,1,True,2014-06-17,Stolen,2B,2014
+2642,1B,,Caught Stealing 2B,543706,Daniel Robertson,John Buck,4,3,6,False,2014-05-21,Caught,2B,2014
+3494,1B,,Caught Stealing 2B,543706,Daniel Robertson,Josh Phegley,1,1,4,True,2015-04-01,Caught,2B,2015
+1773,1B,,Caught Stealing 2B,621002,Daniel Robertson,Caleb Joseph,5,5,8,False,2017-06-25,Caught,2B,2017
+2389,1B,,Caught Stealing 2B,543706,Daniel Robertson,Devin Mesoraco,2,2,4,False,2017-05-24,Caught,2B,2017
+2734,1B,2B,Stolen Base 2B,621002,Daniel Robertson,Russell Martin,1,1,7,False,2017-05-07,Stolen,2B,2017
+1431,1B,2B,Stolen Base 2B,621002,Daniel Robertson,Mitch Garver,7,6,9,True,2018-07-15,Stolen,2B,2018
+1610,1B,,Caught Stealing 2B,621002,Daniel Robertson,Devin Mesoraco,1,1,5,True,2018-07-06,Caught,2B,2018
+1677,1B,,Caught Stealing 2B,621002,Daniel Robertson,Bryan Holaday,4,4,10,True,2018-07-03,Caught,2B,2018
+3199,1B,2B,Stolen Base 2B,621002,Daniel Robertson,Christian Vázquez,1,4,5,True,2018-04-08,Stolen,2B,2018
+428,1B,,Caught Stealing 2B,621002,Daniel Robertson,Reese McGuire,4,2,6,False,2019-09-05,Caught,2B,2019
+467,1B,2B,Stolen Base 2B,621002,Daniel Robertson,Austin Wynns,2,0,8,False,2019-09-03,Stolen,2B,2019
+1836,1B,,Caught Stealing 2B,621002,Daniel Robertson,Grayson Greiner,1,3,4,True,2019-06-06,Caught,2B,2019
+2830,1B,2B,Stolen Base 2B,621002,Daniel Robertson,James McCann,0,4,2,True,2019-04-08,Stolen,2B,2019

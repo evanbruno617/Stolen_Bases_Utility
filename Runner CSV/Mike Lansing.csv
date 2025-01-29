@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1868,1B,2B,Stolen Base 2B,117491,Mike Lansing,Matt Walbeck,5,1,6,True,2000-07-08,Stolen,2B,2000
+1999,1B,,Caught Stealing 2B,117491,Mike Lansing,Carlos Hernandez,0,0,1,True,2000-07-01,Caught,2B,2000
+2521,1B,2B,Stolen Base 2B,117491,Mike Lansing,Tom Lampkin,0,1,1,True,2000-06-07,Stolen,2B,2000
+2621,1B,2B,Stolen Base 2B,117491,Mike Lansing,Tyler Houston,1,6,9,True,2000-06-04,Stolen,2B,2000
+2836,1B,,Caught Stealing 2B,117491,Mike Lansing,Jason Kendall,1,1,6,False,2000-05-26,Caught,2B,2000
+2935,1B,2B,Stolen Base 2B,117491,Mike Lansing,Tom Prince,3,4,9,True,2000-05-20,Stolen,2B,2000
+2982,1B,2B,Stolen Base 2B,117491,Mike Lansing,Mike Lieberthal,0,4,4,True,2000-05-19,Stolen,2B,2000
+3022,1B,2B,Stolen Base 2B,117491,Mike Lansing,Mike Piazza,0,1,3,True,2000-05-17,Stolen,2B,2000
+3282,1B,2B,Stolen Base 2B,117491,Mike Lansing,Doug Mirabelli,0,0,3,True,2000-05-06,Stolen,2B,2000
+3868,1B,2B,Stolen Base 2B,117491,Mike Lansing,Eddie Taubensee,2,5,3,False,2000-04-11,Stolen,2B,2000

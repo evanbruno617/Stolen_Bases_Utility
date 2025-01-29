@@ -1,0 +1,17 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+613,1B,,Caught Stealing 2B,119482,Bill Mueller,Gary Bennett,2,0,5,False,2000-09-04,Caught,2B,2000
+702,1B,,Caught Stealing 2B,119482,Bill Mueller,Jeff Reed,7,2,6,False,2000-09-01,Caught,2B,2000
+1234,1B,2B,Stolen Base 2B,119482,Bill Mueller,Henry Blanco,0,0,1,False,2000-08-08,Stolen,2B,2000
+1959,1B,2B,Stolen Base 2B,119482,Bill Mueller,Brent Mayne,1,0,6,False,2000-07-04,Stolen,2B,2000
+2208,1B,2B,Stolen Base 2B,119482,Bill Mueller,Mike Matheny,6,9,7,True,2000-06-22,Stolen,2B,2000
+3363,1B,2B,Stolen Base 2B,119482,Bill Mueller,Todd Pratt,2,3,6,False,2000-05-03,Stolen,2B,2000
+1288,1B,2B,Stolen Base 2B,119482,Bill Mueller,Jason Kendall,3,2,5,False,2001-04-14,Stolen,2B,2001
+1201,1B,,Caught Stealing 2B,119482,Bill Mueller,Todd Greene,0,0,1,True,2003-07-30,Caught,2B,2003
+2703,1B,,Caught Stealing 2B,119482,Bill Mueller,Todd Greene,0,0,3,False,2003-05-15,Caught,2B,2003
+2726,1B,,Caught Stealing 2B,119482,Bill Mueller,Einar Díaz,2,0,4,False,2003-05-14,Caught,2B,2003
+3138,1B,,Caught Stealing 2B,119482,Bill Mueller,Einar Díaz,10,5,5,True,2003-04-24,Caught,2B,2003
+3238,1B,2B,Stolen Base 2B,119482,Bill Mueller,Greg Myers,5,0,3,False,2003-04-19,Stolen,2B,2003
+578,2B,,Caught Stealing 3B,119482,Bill Mueller,Gerald Laird,2,0,7,False,2004-09-03,Caught,3B,2004
+673,1B,2B,Stolen Base 2B,119482,Bill Mueller,Brandon Inge,0,1,5,False,2004-08-28,Stolen,2B,2004
+917,1B,2B,Stolen Base 2B,119482,Bill Mueller,Gregg Zaun,5,1,6,False,2004-08-16,Stolen,2B,2004
+3306,1B,,Caught Stealing 2B,119482,Bill Mueller,Jorge Posada,5,2,5,False,2004-04-16,Caught,2B,2004

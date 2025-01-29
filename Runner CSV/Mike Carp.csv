@@ -1,0 +1,5 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1317,1B,,Caught Stealing 2B,455077,Mike Carp,Bobby Wilson,0,0,2,True,2011-08-05,Caught,2B,2011
+2912,1B,2B,Stolen Base 2B,455077,Mike Carp,John Hester,3,5,7,False,2012-05-26,Stolen,2B,2012
+913,2B,3B,Stolen Base 3B,455077,Mike Carp,Chris Stewart,1,0,4,False,2013-08-17,Stolen,3B,2013
+3481,1B,,Caught Stealing 2B,455077,Mike Carp,Brian McCann,6,4,7,True,2014-04-12,Caught,2B,2014

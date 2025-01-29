@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+761,1B,,Caught Stealing 2B,434778,Kendrys Morales,Kenji Johjima,5,5,6,True,2007-08-28,Caught,2B,2007
+282,1B,,Caught Stealing 2B,434778,Kendrys Morales,Kenji Johjima,2,1,3,False,2008-09-14,Caught,2B,2008
+376,1B,,Caught Stealing 2B,434778,Kendrys Morales,Landon Powell,0,1,2,True,2009-07-18,Caught,2B,2009
+547,1B,2B,Stolen Base 2B,434778,Kendrys Morales,Jarrod Saltalamacchia,0,0,2,False,2009-07-07,Stolen,2B,2009
+1866,1B,,Caught Stealing 2B,434778,Kendrys Morales,Miguel Olivo,1,3,7,False,2009-05-10,Caught,2B,2009
+2639,1B,,Caught Stealing 2B,434778,Kendrys Morales,Kurt Suzuki,3,3,5,False,2009-04-07,Caught,2B,2009
+3068,2B,,Caught Stealing 3B,434778,Kendrys Morales,John Jaso,2,0,3,False,2010-05-10,Caught,3B,2010
+204,1B,,Caught Stealing 2B,434778,Kendrys Morales,A.J. Pierzynski,6,1,7,False,2012-09-21,Caught,2B,2012
+401,3B,score,Caught Stealing 2B,434778,Kendrys Morales,James McCann,2,2,4,False,2017-09-09,Caught,2B,2017
+539,1B,,Caught Stealing 2B,434778,Kendrys Morales,Jesús Sucre,0,0,1,False,2018-09-04,Caught,2B,2018
+1411,1B,,Caught Stealing 2B,434778,Kendrys Morales,Caleb Joseph,5,2,6,False,2018-07-20,Caught,2B,2018
+2259,1B,,Caught Stealing 2B,434778,Kendrys Morales,Christian Vázquez,1,0,5,True,2018-05-30,Caught,2B,2018
+2454,1B,2B,Stolen Base 2B,434778,Kendrys Morales,Josh Phegley,0,0,2,False,2018-05-19,Stolen,2B,2018
+2757,1B,2B,Stolen Base 2B,434778,Kendrys Morales,Mitch Garver,4,4,10,True,2018-05-01,Stolen,2B,2018

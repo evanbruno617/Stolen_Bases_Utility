@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+74,1B,2B,Stolen Base 2B,134002,Ramon Martinez,Chad Kreuter,0,4,9,True,2000-09-27,Stolen,2B,2000
+646,1B,2B,Stolen Base 2B,134002,Ramon Martinez,Jeff Reed,2,2,4,False,2000-09-03,Stolen,2B,2000
+1139,1B,2B,Stolen Base 2B,134002,Ramon Martinez,Mike Piazza,0,0,1,True,2000-08-13,Stolen,2B,2000
+2248,1B,,Caught Stealing 2B,134002,Ramon Martinez,Mike Matheny,0,0,1,True,2000-06-20,Caught,2B,2000
+2710,1B,,Caught Stealing 2B,134002,Ramon Martinez,Mike Lieberthal,4,1,4,False,2000-05-31,Caught,2B,2000
+421,1B,2B,Stolen Base 2B,134002,Ramon Martinez,Paul Lo Duca,3,2,4,False,2002-09-09,Stolen,2B,2002
+807,1B,2B,Stolen Base 2B,134002,Ramon Martinez,Mike Piazza,1,0,6,False,2002-08-20,Stolen,2B,2002
+989,1B,2B,Stolen Base 2B,134002,Ramon Martinez,Brent Mayne,1,1,3,False,2004-08-13,Stolen,2B,2004
+2738,2B,3B,Stolen Base 3B,134002,Ramon Martinez,Michael Barrett,1,1,11,False,2007-05-27,Stolen,3B,2007
+1548,1B,2B,Stolen Base 2B,134002,Ramon Martinez,Jason Varitek,2,1,5,True,2009-05-23,Stolen,2B,2009

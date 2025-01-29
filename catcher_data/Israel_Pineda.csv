@@ -1,0 +1,4 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,668709,JJ Bleday,Israel Pineda,0,0,2,True,2022-09-18,Stolen,2B,2022
+1B,2B,Stolen Base 2B,656775,Cedric Mullins,Israel Pineda,1,1,2,True,2022-09-13,Stolen,2B,2022
+1B,,Caught Stealing 2B,683002,Gunnar Henderson,Israel Pineda,3,4,9,True,2022-09-13,Caught,2B,2022

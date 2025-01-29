@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,430,1B,,Caught Stealing 2B,474443,Iván De Jesús Jr.,458730,Bobby Parnell,553993,Eugenio Suárez,R,Kevin Plawecki,608700,1,1,13,True,2015-06-28,Caught,2B,2015,2016,25.9
+1,444,1B,,Caught Stealing 2B,474443,Iván De Jesús Jr.,458730,Bobby Parnell,553993,Eugenio Suárez,R,Kevin Plawecki,608700,1,1,13,True,2015-06-27,Caught,2B,2015,2016,25.9
+2,509,1B,,Caught Stealing 2B,474443,Iván De Jesús Jr.,543037,Gerrit Cole,458015,Joey Votto,R,Chris Stewart,455755,1,4,5,True,2015-06-24,Caught,2B,2015,2016,25.9

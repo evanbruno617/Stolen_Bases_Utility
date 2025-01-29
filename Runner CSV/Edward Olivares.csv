@@ -1,0 +1,27 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+424,1B,,Caught Stealing 2B,658668,Edward Olivares,Roberto Pérez,0,0,2,True,2020-09-07,Caught,2B,2020
+88,1B,,Caught Stealing 2B,658668,Edward Olivares,Dustin Garneau,0,1,6,True,2021-09-25,Caught,2B,2021
+348,1B,,Caught Stealing 2B,658668,Edward Olivares,Pedro Severino,0,1,3,True,2021-09-08,Caught,2B,2021
+912,1B,2B,Stolen Base 2B,658668,Edward Olivares,Seby Zavala,1,0,3,True,2021-08-03,Stolen,2B,2021
+1872,1B,2B,Stolen Base 2B,658668,Edward Olivares,Jacob Stallings,5,2,5,False,2021-05-31,Stolen,2B,2021
+1348,1B,,Caught Stealing 2B,658668,Edward Olivares,Danny Jansen,0,0,3,True,2022-07-14,Caught,2B,2022
+1429,1B,,Caught Stealing 2B,658668,Edward Olivares,Eric Haase,3,1,8,False,2022-07-11,Caught,2B,2022
+2746,1B,,Caught Stealing 2B,658668,Edward Olivares,Jose Trevino,4,3,6,False,2022-05-01,Caught,2B,2022
+2755,1B,2B,Stolen Base 2B,658668,Edward Olivares,Jose Trevino,0,3,7,False,2022-04-30,Stolen,2B,2022
+2981,1B,,Caught Stealing 2B,658668,Edward Olivares,Eric Haase,3,1,8,False,2022-04-17,Caught,2B,2022
+3138,1B,2B,Stolen Base 2B,658668,Edward Olivares,Austin Hedges,0,0,7,False,2022-04-09,Stolen,2B,2022
+203,1B,2B,Stolen Base 2B,658668,Edward Olivares,Yainer Diaz,2,4,6,True,2023-09-22,Stolen,2B,2023
+256,1B,2B,Stolen Base 2B,658668,Edward Olivares,David Fry,3,0,3,False,2023-09-20,Stolen,2B,2023
+292,1B,,Caught Stealing 2B,658668,Edward Olivares,Bo Naylor,2,0,1,False,2023-09-19,Caught,2B,2023
+677,1B,,Caught Stealing 2B,658668,Edward Olivares,Korey Lee,3,0,3,False,2023-09-04,Caught,2B,2023
+1292,1B,2B,Stolen Base 2B,658668,Edward Olivares,Connor Wong,2,6,6,True,2023-08-08,Stolen,2B,2023
+2076,1B,,Caught Stealing 2B,658668,Edward Olivares,Will Smith,6,4,8,False,2023-07-01,Caught,2B,2023
+2215,1B,2B,Stolen Base 2B,658668,Edward Olivares,Christian Bethancourt,0,0,2,True,2023-06-25,Stolen,2B,2023
+2322,1B,2B,Stolen Base 2B,658668,Edward Olivares,Eric Haase,4,2,4,True,2023-06-21,Stolen,2B,2023
+2525,1B,2B,Stolen Base 2B,658668,Edward Olivares,Curt Casali,3,3,8,False,2023-06-12,Stolen,2B,2023
+2554,1B,,Caught Stealing 2B,658668,Edward Olivares,James McCann,6,3,4,True,2023-06-11,Caught,2B,2023
+3165,1B,2B,Stolen Base 2B,658668,Edward Olivares,Austin Nola,0,0,2,True,2023-05-16,Stolen,2B,2023
+3183,1B,2B,Stolen Base 2B,658668,Edward Olivares,Austin Nola,3,0,5,True,2023-05-15,Stolen,2B,2023
+3541,1B,2B,Stolen Base 2B,658668,Edward Olivares,Christian Vázquez,0,0,2,True,2023-04-30,Stolen,2B,2023
+3583,1B,2B,Stolen Base 2B,658668,Edward Olivares,Ryan Jeffers,2,2,9,True,2023-04-29,Stolen,2B,2023
+3832,1B,2B,Stolen Base 2B,658668,Edward Olivares,Sandy León,1,0,2,False,2023-04-18,Stolen,2B,2023

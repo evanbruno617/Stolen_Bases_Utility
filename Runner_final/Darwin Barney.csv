@@ -1,0 +1,13 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,5738,1B,,Caught Stealing 2B,446381,Darwin Barney,501955,Joba Chamberlain,485567,Ezequiel Carrera,R,Yan Gomes,543228,5,0,5,False,2016-07-03,Caught,2B,2016,2017,27.4
+1,6359,1B,,Caught Stealing 2B,446381,Darwin Barney,467100,Iván Nova,607680,Kevin Pillar,R,Brian McCann,435263,3,0,4,False,2016-05-30,Caught,2B,2016,2017,27.4
+2,7361,1B,2B,Stolen Base 2B,446381,Darwin Barney,519144,Rick Porcello,489365,Josh Thole,R,Blake Swihart,596119,2,0,2,False,2016-04-09,Stolen,2B,2016,2017,27.4
+3,7382,1B,2B,Stolen Base 2B,446381,Darwin Barney,598287,Noé Ramirez,518626,Josh Donaldson,R,Ryan Hanigan,452672,7,2,5,False,2016-04-08,Stolen,2B,2016,2017,27.4
+4,1703,1B,,Caught Stealing 2B,446381,Darwin Barney,501955,Joba Chamberlain,485567,Ezequiel Carrera,R,Yan Gomes,543228,5,0,5,False,2016-07-03,Caught,2B,2016,2017,27.4
+5,2324,1B,,Caught Stealing 2B,446381,Darwin Barney,467100,Iván Nova,607680,Kevin Pillar,R,Brian McCann,435263,3,0,4,False,2016-05-30,Caught,2B,2016,2017,27.4
+6,3326,1B,2B,Stolen Base 2B,446381,Darwin Barney,519144,Rick Porcello,489365,Josh Thole,R,Blake Swihart,596119,2,0,2,False,2016-04-09,Stolen,2B,2016,2017,27.4
+7,3347,1B,2B,Stolen Base 2B,446381,Darwin Barney,598287,Noé Ramirez,518626,Josh Donaldson,R,Ryan Hanigan,452672,7,2,5,False,2016-04-08,Stolen,2B,2016,2017,27.4
+8,5110,1B,,Caught Stealing 2B,446381,Darwin Barney,501955,Joba Chamberlain,485567,Ezequiel Carrera,R,Yan Gomes,543228,5,0,5,False,2016-07-03,Caught,2B,2016,2017,27.4
+9,5731,1B,,Caught Stealing 2B,446381,Darwin Barney,467100,Iván Nova,607680,Kevin Pillar,R,Brian McCann,435263,3,0,4,False,2016-05-30,Caught,2B,2016,2017,27.4
+10,6733,1B,2B,Stolen Base 2B,446381,Darwin Barney,519144,Rick Porcello,489365,Josh Thole,R,Blake Swihart,596119,2,0,2,False,2016-04-09,Stolen,2B,2016,2017,27.4
+11,6754,1B,2B,Stolen Base 2B,446381,Darwin Barney,598287,Noé Ramirez,518626,Josh Donaldson,R,Ryan Hanigan,452672,7,2,5,False,2016-04-08,Stolen,2B,2016,2017,27.4

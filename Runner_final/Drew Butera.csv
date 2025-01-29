@@ -1,0 +1,2 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1892,1B,,Caught Stealing 2B,460077,Drew Butera,444857,Scott Feldman,543213,Johnny Giavotella,R,Jason Castro,488771,0,0,3,True,2015-04-19,Caught,2B,2015,2016,25.6

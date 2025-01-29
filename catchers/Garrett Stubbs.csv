@@ -1,0 +1,98 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,2B,3B,Stolen Base 3B,592743,Andrelton Simmons,664285,Framber Valdez,664058,David Fletcher,L,Garrett Stubbs,596117,2,1,3,True,2020-08-24,Stolen,3B,2020,2021, --, 0.71
+1,1B,2B,Stolen Base 2B,596103,Austin Slater,656232,Brandon Bielak,644433,Chadwick Tromp,R,Garrett Stubbs,596117,0,1,2,True,2020-08-11,Stolen,2B,2020,2021, --, 0.71
+2,2B,3B,Stolen Base 3B,592743,Andrelton Simmons,664285,Framber Valdez,664058,David Fletcher,L,Garrett Stubbs,596117,2,1,3,True,2020-08-24,Stolen,3B,2020,2021, --, 0.71
+3,1B,2B,Stolen Base 2B,596103,Austin Slater,656232,Brandon Bielak,644433,Chadwick Tromp,R,Garrett Stubbs,596117,0,1,2,True,2020-08-11,Stolen,2B,2020,2021, --, 0.71
+4,2B,3B,Stolen Base 3B,592743,Andrelton Simmons,664285,Framber Valdez,664058,David Fletcher,L,Garrett Stubbs,596117,2,1,3,True,2020-08-24,Stolen,3B,2020,2021, --, 0.71
+5,1B,2B,Stolen Base 2B,596103,Austin Slater,656232,Brandon Bielak,644433,Chadwick Tromp,R,Garrett Stubbs,596117,0,1,2,True,2020-08-11,Stolen,2B,2020,2021, --, 0.71
+6,1B,,Caught Stealing 2B,630105,Jake Cronenworth,548384,Brooks Raley,543333,Eric Hosmer,L,Garrett Stubbs,596117,3,1,6,False,2021-09-05,Caught,2B,2021,2022, 83.5, 0.70
+7,1B,2B,Stolen Base 2B,672284,Jarred Kelenic,554340,Yimi García,608596,Tom Murphy,R,Garrett Stubbs,596117,1,0,7,False,2021-09-01,Stolen,2B,2021,2022, 83.5, 0.70
+8,1B,2B,Stolen Base 2B,665750,Leody Taveras,425844,Zack Greinke,660634,Yonny Hernández,R,Garrett Stubbs,596117,3,0,2,False,2021-08-29,Stolen,2B,2021,2022, 83.5, 0.70
+9,1B,,Caught Stealing 2B,605548,Bradley Zimmer,543606,Jake Odorizzi,676391,Ernie Clement,R,Garrett Stubbs,596117,1,3,4,False,2021-07-03,Caught,2B,2021,2022, 83.5, 0.70
+10,3B,,Caught Stealing Home,646240,Rafael Devers,543606,Jake Odorizzi,624414,Christian Arroyo,R,Garrett Stubbs,596117,0,3,3,True,2021-06-03,Caught,Home,2021,2022, 83.5, 0.70
+11,1B,,Caught Stealing 2B,630105,Jake Cronenworth,548384,Brooks Raley,543333,Eric Hosmer,L,Garrett Stubbs,596117,3,1,6,False,2021-09-05,Caught,2B,2021,2022, 83.5, 0.70
+12,1B,2B,Stolen Base 2B,672284,Jarred Kelenic,554340,Yimi García,608596,Tom Murphy,R,Garrett Stubbs,596117,1,0,7,False,2021-09-01,Stolen,2B,2021,2022, 83.5, 0.70
+13,1B,2B,Stolen Base 2B,665750,Leody Taveras,425844,Zack Greinke,660634,Yonny Hernández,R,Garrett Stubbs,596117,3,0,2,False,2021-08-29,Stolen,2B,2021,2022, 83.5, 0.70
+14,1B,,Caught Stealing 2B,605548,Bradley Zimmer,543606,Jake Odorizzi,676391,Ernie Clement,R,Garrett Stubbs,596117,1,3,4,False,2021-07-03,Caught,2B,2021,2022, 83.5, 0.70
+15,3B,,Caught Stealing Home,646240,Rafael Devers,543606,Jake Odorizzi,624414,Christian Arroyo,R,Garrett Stubbs,596117,0,3,3,True,2021-06-03,Caught,Home,2021,2022, 83.5, 0.70
+16,1B,2B,Stolen Base 2B,669707,Jared Triolo,622554,Seranthony Domínguez,668804,Bryan Reynolds,R,Garrett Stubbs,596117,6,6,6,True,2023-09-27,Stolen,2B,2023,2024, 85.4, 0.64
+17,1B,2B,Stolen Base 2B,670032,Nicky Lopez,605400,Aaron Nola,660670,Ronald Acuña Jr.,R,Garrett Stubbs,596117,2,4,5,False,2023-09-20,Stolen,2B,2023,2024, 85.4, 0.64
+18,1B,2B,Stolen Base 2B,663897,Luke Williams,518886,Craig Kimbrel,671739,Michael Harris II,R,Garrett Stubbs,596117,4,4,9,False,2023-09-20,Stolen,2B,2023,2024, 85.4, 0.64
+19,2B,3B,Stolen Base 3B,663897,Luke Williams,518886,Craig Kimbrel,606115,Orlando Arcia,R,Garrett Stubbs,596117,4,4,9,False,2023-09-20,Stolen,3B,2023,2024, 85.4, 0.64
+20,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,650911,Cristopher Sánchez,645277,Ozzie Albies,L,Garrett Stubbs,596117,1,4,7,True,2023-09-13,Stolen,2B,2023,2024, 85.4, 0.64
+21,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,592836,Taijuan Walker,645277,Ozzie Albies,R,Garrett Stubbs,596117,0,0,1,True,2023-09-11,Caught,2B,2023,2024, 85.4, 0.64
+22,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,592836,Taijuan Walker,645277,Ozzie Albies,R,Garrett Stubbs,596117,0,2,3,True,2023-09-11,Stolen,2B,2023,2024, 85.4, 0.64
+23,1B,2B,Stolen Base 2B,657041,Lane Thomas,624133,Ranger Suárez,608841,Joey Meneses,L,Garrett Stubbs,596117,1,0,3,True,2023-08-08,Stolen,2B,2023,2024, 85.4, 0.64
+24,1B,2B,Stolen Base 2B,657041,Lane Thomas,624133,Ranger Suárez,608841,Joey Meneses,L,Garrett Stubbs,596117,1,0,3,True,2023-08-07,Stolen,2B,2023,2024, 85.4, 0.64
+25,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,592836,Taijuan Walker,665742,Juan Soto,R,Garrett Stubbs,596117,0,0,1,True,2023-07-15,Stolen,2B,2023,2024, 85.4, 0.64
+26,1B,,Caught Stealing 2B,665742,Juan Soto,592836,Taijuan Walker,665487,Fernando Tatis Jr.,R,Garrett Stubbs,596117,0,1,3,True,2023-07-15,Caught,2B,2023,2024, 85.4, 0.64
+27,1B,2B,Stolen Base 2B,677551,Wander Franco,650911,Cristopher Sánchez,623912,Harold Ramírez,L,Garrett Stubbs,596117,0,0,4,False,2023-07-06,Stolen,2B,2023,2024, 85.4, 0.64
+28,1B,2B,Stolen Base 2B,670764,Taylor Walls,621237,José Alvarado,650490,Yandy Díaz,L,Garrett Stubbs,596117,1,1,8,False,2023-07-06,Stolen,2B,2023,2024, 85.4, 0.64
+29,2B,3B,Stolen Base 3B,670764,Taylor Walls,621237,José Alvarado,677551,Wander Franco,L,Garrett Stubbs,596117,1,1,8,False,2023-07-06,Stolen,3B,2023,2024, 85.4, 0.64
+30,1B,2B,Stolen Base 2B,663611,Nick Madrigal,624133,Ranger Suárez,663538,Nico Hoerner,L,Garrett Stubbs,596117,0,2,3,False,2023-06-27,Stolen,2B,2023,2024, 85.4, 0.64
+31,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,592836,Taijuan Walker,645277,Ozzie Albies,R,Garrett Stubbs,596117,0,0,1,True,2023-06-21,Caught,2B,2023,2024, 85.4, 0.64
+32,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,592836,Taijuan Walker,645277,Ozzie Albies,R,Garrett Stubbs,596117,0,2,3,True,2023-06-21,Stolen,2B,2023,2024, 85.4, 0.64
+33,1B,2B,Stolen Base 2B,664983,Jake McCarthy,605400,Aaron Nola,672695,Geraldo Perdomo,R,Garrett Stubbs,596117,4,5,7,False,2023-06-15,Stolen,2B,2023,2024, 85.4, 0.64
+34,1B,2B,Stolen Base 2B,605141,Mookie Betts,592836,Taijuan Walker,669257,Will Smith,R,Garrett Stubbs,596117,1,0,3,True,2023-06-11,Stolen,2B,2023,2024, 85.4, 0.64
+35,1B,2B,Stolen Base 2B,621035,Chris Taylor,605400,Aaron Nola,681546,James Outman,R,Garrett Stubbs,596117,0,3,7,True,2023-06-10,Stolen,2B,2023,2024, 85.4, 0.64
+36,1B,2B,Stolen Base 2B,516782,Starling Marte,592836,Taijuan Walker,596129,Daniel Vogelbach,R,Garrett Stubbs,596117,1,2,4,False,2023-06-01,Stolen,2B,2023,2024, 85.4, 0.64
+37,1B,2B,Stolen Base 2B,682998,Corbin Carroll,641401,Connor Brogdon,656896,Emmanuel Rivera,R,Garrett Stubbs,596117,3,5,7,True,2023-05-24,Stolen,2B,2023,2024, 85.4, 0.64
+38,1B,,Caught Stealing 2B,666150,Dominic Fletcher,641401,Connor Brogdon,645444,Jose Herrera,R,Garrett Stubbs,596117,3,5,8,True,2023-05-24,Caught,2B,2023,2024, 85.4, 0.64
+39,1B,2B,Stolen Base 2B,641857,Ryan McMahon,641401,Connor Brogdon,686668,Brenton Doyle,R,Garrett Stubbs,596117,3,4,6,False,2023-05-13,Stolen,2B,2023,2024, 85.4, 0.64
+40,1B,,Caught Stealing 2B,641857,Ryan McMahon,592836,Taijuan Walker,605612,Harold Castro,R,Garrett Stubbs,596117,0,0,2,False,2023-05-12,Caught,2B,2023,2024, 85.4, 0.64
+41,1B,2B,Stolen Base 2B,444482,David Peralta,605400,Aaron Nola,605141,Mookie Betts,R,Garrett Stubbs,596117,3,5,4,False,2023-05-03,Stolen,2B,2023,2024, 85.4, 0.64
+42,1B,2B,Stolen Base 2B,678246,Miguel Vargas,621237,José Alvarado,605131,Austin Barnes,L,Garrett Stubbs,596117,6,5,8,False,2023-05-03,Stolen,2B,2023,2024, 85.4, 0.64
+43,1B,,Caught Stealing 2B,605131,Austin Barnes,621237,José Alvarado,621035,Chris Taylor,L,Garrett Stubbs,596117,6,5,8,False,2023-05-03,Caught,2B,2023,2024, 85.4, 0.64
+44,1B,2B,Stolen Base 2B,621035,Chris Taylor,518886,Craig Kimbrel,605141,Mookie Betts,R,Garrett Stubbs,596117,6,6,9,False,2023-05-03,Stolen,2B,2023,2024, 85.4, 0.64
+45,1B,2B,Stolen Base 2B,669222,Nick Senzel,621381,Matt Strahm,676480,Jose Barrero,L,Garrett Stubbs,596117,1,0,2,False,2023-04-15,Stolen,2B,2023,2024, 85.4, 0.64
+46,1B,2B,Stolen Base 2B,676480,Jose Barrero,571479,Andrew Bellatti,592200,Curt Casali,R,Garrett Stubbs,596117,4,0,4,False,2023-04-15,Stolen,2B,2023,2024, 85.4, 0.64
+47,1B,2B,Stolen Base 2B,669707,Jared Triolo,622554,Seranthony Domínguez,668804,Bryan Reynolds,R,Garrett Stubbs,596117,6,6,6,True,2023-09-27,Stolen,2B,2023,2024, 85.4, 0.64
+48,1B,2B,Stolen Base 2B,670032,Nicky Lopez,605400,Aaron Nola,660670,Ronald Acuña Jr.,R,Garrett Stubbs,596117,2,4,5,False,2023-09-20,Stolen,2B,2023,2024, 85.4, 0.64
+49,1B,2B,Stolen Base 2B,663897,Luke Williams,518886,Craig Kimbrel,671739,Michael Harris II,R,Garrett Stubbs,596117,4,4,9,False,2023-09-20,Stolen,2B,2023,2024, 85.4, 0.64
+50,2B,3B,Stolen Base 3B,663897,Luke Williams,518886,Craig Kimbrel,606115,Orlando Arcia,R,Garrett Stubbs,596117,4,4,9,False,2023-09-20,Stolen,3B,2023,2024, 85.4, 0.64
+51,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,650911,Cristopher Sánchez,645277,Ozzie Albies,L,Garrett Stubbs,596117,1,4,7,True,2023-09-13,Stolen,2B,2023,2024, 85.4, 0.64
+52,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,592836,Taijuan Walker,645277,Ozzie Albies,R,Garrett Stubbs,596117,0,0,1,True,2023-09-11,Caught,2B,2023,2024, 85.4, 0.64
+53,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,592836,Taijuan Walker,645277,Ozzie Albies,R,Garrett Stubbs,596117,0,2,3,True,2023-09-11,Stolen,2B,2023,2024, 85.4, 0.64
+54,1B,2B,Stolen Base 2B,657041,Lane Thomas,624133,Ranger Suárez,608841,Joey Meneses,L,Garrett Stubbs,596117,1,0,3,True,2023-08-08,Stolen,2B,2023,2024, 85.4, 0.64
+55,1B,2B,Stolen Base 2B,657041,Lane Thomas,624133,Ranger Suárez,608841,Joey Meneses,L,Garrett Stubbs,596117,1,0,3,True,2023-08-07,Stolen,2B,2023,2024, 85.4, 0.64
+56,1B,2B,Stolen Base 2B,673490,Ha-Seong Kim,592836,Taijuan Walker,665742,Juan Soto,R,Garrett Stubbs,596117,0,0,1,True,2023-07-15,Stolen,2B,2023,2024, 85.4, 0.64
+57,1B,,Caught Stealing 2B,665742,Juan Soto,592836,Taijuan Walker,665487,Fernando Tatis Jr.,R,Garrett Stubbs,596117,0,1,3,True,2023-07-15,Caught,2B,2023,2024, 85.4, 0.64
+58,1B,2B,Stolen Base 2B,677551,Wander Franco,650911,Cristopher Sánchez,623912,Harold Ramírez,L,Garrett Stubbs,596117,0,0,4,False,2023-07-06,Stolen,2B,2023,2024, 85.4, 0.64
+59,1B,2B,Stolen Base 2B,670764,Taylor Walls,621237,José Alvarado,650490,Yandy Díaz,L,Garrett Stubbs,596117,1,1,8,False,2023-07-06,Stolen,2B,2023,2024, 85.4, 0.64
+60,2B,3B,Stolen Base 3B,670764,Taylor Walls,621237,José Alvarado,677551,Wander Franco,L,Garrett Stubbs,596117,1,1,8,False,2023-07-06,Stolen,3B,2023,2024, 85.4, 0.64
+61,1B,2B,Stolen Base 2B,663611,Nick Madrigal,624133,Ranger Suárez,663538,Nico Hoerner,L,Garrett Stubbs,596117,0,2,3,False,2023-06-27,Stolen,2B,2023,2024, 85.4, 0.64
+62,1B,,Caught Stealing 2B,660670,Ronald Acuña Jr.,592836,Taijuan Walker,645277,Ozzie Albies,R,Garrett Stubbs,596117,0,0,1,True,2023-06-21,Caught,2B,2023,2024, 85.4, 0.64
+63,1B,2B,Stolen Base 2B,660670,Ronald Acuña Jr.,592836,Taijuan Walker,645277,Ozzie Albies,R,Garrett Stubbs,596117,0,2,3,True,2023-06-21,Stolen,2B,2023,2024, 85.4, 0.64
+64,1B,2B,Stolen Base 2B,664983,Jake McCarthy,605400,Aaron Nola,672695,Geraldo Perdomo,R,Garrett Stubbs,596117,4,5,7,False,2023-06-15,Stolen,2B,2023,2024, 85.4, 0.64
+65,1B,2B,Stolen Base 2B,605141,Mookie Betts,592836,Taijuan Walker,669257,Will Smith,R,Garrett Stubbs,596117,1,0,3,True,2023-06-11,Stolen,2B,2023,2024, 85.4, 0.64
+66,1B,2B,Stolen Base 2B,621035,Chris Taylor,605400,Aaron Nola,681546,James Outman,R,Garrett Stubbs,596117,0,3,7,True,2023-06-10,Stolen,2B,2023,2024, 85.4, 0.64
+67,1B,2B,Stolen Base 2B,516782,Starling Marte,592836,Taijuan Walker,596129,Daniel Vogelbach,R,Garrett Stubbs,596117,1,2,4,False,2023-06-01,Stolen,2B,2023,2024, 85.4, 0.64
+68,1B,2B,Stolen Base 2B,682998,Corbin Carroll,641401,Connor Brogdon,656896,Emmanuel Rivera,R,Garrett Stubbs,596117,3,5,7,True,2023-05-24,Stolen,2B,2023,2024, 85.4, 0.64
+69,1B,,Caught Stealing 2B,666150,Dominic Fletcher,641401,Connor Brogdon,645444,Jose Herrera,R,Garrett Stubbs,596117,3,5,8,True,2023-05-24,Caught,2B,2023,2024, 85.4, 0.64
+70,1B,2B,Stolen Base 2B,641857,Ryan McMahon,641401,Connor Brogdon,686668,Brenton Doyle,R,Garrett Stubbs,596117,3,4,6,False,2023-05-13,Stolen,2B,2023,2024, 85.4, 0.64
+71,1B,,Caught Stealing 2B,641857,Ryan McMahon,592836,Taijuan Walker,605612,Harold Castro,R,Garrett Stubbs,596117,0,0,2,False,2023-05-12,Caught,2B,2023,2024, 85.4, 0.64
+72,1B,2B,Stolen Base 2B,444482,David Peralta,605400,Aaron Nola,605141,Mookie Betts,R,Garrett Stubbs,596117,3,5,4,False,2023-05-03,Stolen,2B,2023,2024, 85.4, 0.64
+73,1B,2B,Stolen Base 2B,678246,Miguel Vargas,621237,José Alvarado,605131,Austin Barnes,L,Garrett Stubbs,596117,6,5,8,False,2023-05-03,Stolen,2B,2023,2024, 85.4, 0.64
+74,1B,,Caught Stealing 2B,605131,Austin Barnes,621237,José Alvarado,621035,Chris Taylor,L,Garrett Stubbs,596117,6,5,8,False,2023-05-03,Caught,2B,2023,2024, 85.4, 0.64
+75,1B,2B,Stolen Base 2B,621035,Chris Taylor,518886,Craig Kimbrel,605141,Mookie Betts,R,Garrett Stubbs,596117,6,6,9,False,2023-05-03,Stolen,2B,2023,2024, 85.4, 0.64
+76,1B,2B,Stolen Base 2B,669222,Nick Senzel,621381,Matt Strahm,676480,Jose Barrero,L,Garrett Stubbs,596117,1,0,2,False,2023-04-15,Stolen,2B,2023,2024, 85.4, 0.64
+77,1B,2B,Stolen Base 2B,676480,Jose Barrero,571479,Andrew Bellatti,592200,Curt Casali,R,Garrett Stubbs,596117,4,0,4,False,2023-04-15,Stolen,2B,2023,2024, 85.4, 0.64
+78,1B,2B,Stolen Base 2B,606132,Raimel Tapia,554430,Zack Wheeler,666182,Bo Bichette,R,Garrett Stubbs,596117,1,0,3,False,2022-07-13,Stolen,2B,2022,2023, 85.8, 0.61
+79,1B,2B,Stolen Base 2B,666182,Bo Bichette,554430,Zack Wheeler,672386,Alejandro Kirk,R,Garrett Stubbs,596117,6,0,5,False,2022-07-13,Stolen,2B,2022,2023, 85.8, 0.61
+80,1B,2B,Stolen Base 2B,543807,George Springer,571479,Andrew Bellatti,666182,Bo Bichette,R,Garrett Stubbs,596117,0,0,1,False,2022-07-12,Stolen,2B,2022,2023, 85.8, 0.61
+81,1B,,Caught Stealing 2B,666182,Bo Bichette,571446,Mark Appel,665489,Vladimir Guerrero Jr.,R,Garrett Stubbs,596117,2,1,3,False,2022-07-12,Caught,2B,2022,2023, 85.8, 0.61
+82,1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,608349,Corey Knebel,571448,Nolan Arenado,R,Garrett Stubbs,596117,0,1,9,False,2022-07-09,Stolen,2B,2022,2023, 85.8, 0.61
+83,1B,2B,Stolen Base 2B,645302,Victor Robles,650911,Cristopher Sánchez,514917,César Hernández,L,Garrett Stubbs,596117,1,0,3,True,2022-07-05,Stolen,2B,2022,2023, 85.8, 0.61
+84,1B,2B,Stolen Base 2B,542932,Jon Berti,502043,Kyle Gibson,542583,Jesús Aguilar,R,Garrett Stubbs,596117,0,0,1,True,2022-06-15,Stolen,2B,2022,2023, 85.8, 0.61
+85,1B,2B,Stolen Base 2B,542932,Jon Berti,641401,Connor Brogdon,542583,Jesús Aguilar,R,Garrett Stubbs,596117,0,1,9,True,2022-06-15,Stolen,2B,2022,2023, 85.8, 0.61
+86,1B,2B,Stolen Base 2B,662139,Daulton Varsho,608349,Corey Knebel,668942,Josh Rojas,R,Garrett Stubbs,596117,7,5,9,True,2022-06-10,Stolen,2B,2022,2023, 85.8, 0.61
+87,1B,,Caught Stealing 2B,670768,Luis González,608349,Corey Knebel,622268,Donovan Walton,R,Garrett Stubbs,596117,2,3,9,True,2022-05-30,Caught,2B,2022,2023, 85.8, 0.61
+88,1B,2B,Stolen Base 2B,596019,Francisco Lindor,663559,Bailey Falter,500871,Eduardo Escobar,L,Garrett Stubbs,596117,2,0,1,False,2022-05-27,Stolen,2B,2022,2023, 85.8, 0.61
+89,1B,2B,Stolen Base 2B,516782,Starling Marte,656793,Nick Nelson,596019,Francisco Lindor,R,Garrett Stubbs,596117,6,0,4,False,2022-05-27,Stolen,2B,2022,2023, 85.8, 0.61
+90,1B,2B,Stolen Base 2B,641355,Cody Bellinger,621107,Zach Eflin,666158,Gavin Lux,R,Garrett Stubbs,596117,1,2,7,True,2022-05-22,Stolen,2B,2022,2023, 85.8, 0.61
+91,1B,2B,Stolen Base 2B,607208,Trea Turner,605400,Aaron Nola,669257,Will Smith,R,Garrett Stubbs,596117,1,4,4,False,2022-05-15,Stolen,2B,2022,2023, 85.8, 0.61
+92,1B,2B,Stolen Base 2B,621035,Chris Taylor,605400,Aaron Nola,605141,Mookie Betts,R,Garrett Stubbs,596117,2,4,5,False,2022-05-15,Stolen,2B,2022,2023, 85.8, 0.61
+93,1B,,Caught Stealing 2B,621035,Chris Taylor,605400,Aaron Nola,666158,Gavin Lux,R,Garrett Stubbs,596117,2,4,7,False,2022-05-15,Caught,2B,2022,2023, 85.8, 0.61
+94,1B,2B,Stolen Base 2B,664238,Dylan Moore,621237,José Alvarado,647351,Abraham Toro,L,Garrett Stubbs,596117,1,4,7,False,2022-05-11,Stolen,2B,2022,2023, 85.8, 0.61
+95,1B,2B,Stolen Base 2B,621563,Joey Wendle,656793,Nick Nelson,607732,Jacob Stallings,R,Garrett Stubbs,596117,6,0,5,False,2022-04-15,Stolen,2B,2022,2023, 85.8, 0.61
+96,1B,2B,Stolen Base 2B,668667,Daniel Cabrera,596027,Dillon Maples,681453,Daneurys De La Cruz,R,Garrett Stubbs,596117,8,5,8,True,2022-04-03,Stolen,2B,2022,2023, 85.8, 0.61

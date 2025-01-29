@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+112,1B,2B,Stolen Base 2B,641856,Billy McKinney,Max Stassi,2,0,1,False,2018-09-26,Stolen,2B,2018
+2193,1B,,Caught Stealing 2B,641856,Billy McKinney,Aramis Garcia,1,1,2,True,2019-05-15,Caught,2B,2019
+1775,1B,2B,Stolen Base 2B,641856,Billy McKinney,Webster Rivas,0,2,6,True,2021-06-06,Stolen,2B,2021
+2257,1B,2B,Stolen Base 2B,641856,Billy McKinney,Sandy León,1,0,2,True,2021-05-07,Stolen,2B,2021
+1678,1B,2B,Stolen Base 2B,641856,Billy McKinney,Salvador Perez,3,2,8,False,2023-07-22,Stolen,2B,2023

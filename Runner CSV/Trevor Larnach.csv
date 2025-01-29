@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1320,1B,2B,Stolen Base 2B,663616,Trevor Larnach,Zack Collins,3,0,3,False,2021-07-05,Stolen,2B,2021
+2582,1B,2B,Stolen Base 2B,663616,Trevor Larnach,Alejandro Kirk,3,9,9,True,2023-06-10,Stolen,2B,2023
+3503,1B,,Caught Stealing 2B,663616,Trevor Larnach,Seby Zavala,0,0,4,True,2023-05-02,Caught,2B,2023

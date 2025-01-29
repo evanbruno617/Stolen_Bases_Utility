@@ -1,0 +1,27 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+378,1B,2B,Stolen Base 2B,621550,Patrick Wisdom,Jacob Stallings,3,4,9,False,2018-09-12,Stolen,2B,2018
+562,1B,2B,Stolen Base 2B,621550,Patrick Wisdom,Matt Wieters,1,3,8,True,2018-09-03,Stolen,2B,2018
+573,1B,,Caught Stealing 2B,621550,Patrick Wisdom,Curt Casali,0,2,2,False,2018-09-02,Caught,2B,2018
+152,1B,2B,Stolen Base 2B,621550,Patrick Wisdom,Mitch Garver,3,2,3,False,2021-09-21,Stolen,2B,2021
+1125,1B,2B,Stolen Base 2B,621550,Patrick Wisdom,Yadier Molina,0,1,2,True,2021-07-20,Stolen,2B,2021
+1382,1B,2B,Stolen Base 2B,621550,Patrick Wisdom,Tucker Barnhart,0,1,6,True,2021-07-02,Stolen,2B,2021
+1427,1B,,Caught Stealing 2B,621550,Patrick Wisdom,Manny Piña,1,0,2,True,2021-06-29,Caught,2B,2021
+1880,1B,2B,Stolen Base 2B,621550,Patrick Wisdom,Victor Caratini,0,1,2,False,2021-05-31,Stolen,2B,2021
+99,2B,3B,Stolen Base 3B,621550,Patrick Wisdom,Jason Delay,1,4,7,True,2022-09-25,Stolen,3B,2022
+919,1B,2B,Stolen Base 2B,621550,Patrick Wisdom,Austin Romine,0,3,3,True,2022-08-11,Stolen,2B,2022
+984,2B,,Caught Stealing 3B,621550,Patrick Wisdom,Keibert Ruiz,4,1,6,False,2022-08-08,Caught,3B,2022
+1449,2B,3B,Stolen Base 3B,621550,Patrick Wisdom,Austin Barnes,1,2,7,True,2022-07-09,Stolen,3B,2022
+1521,1B,2B,Stolen Base 2B,621550,Patrick Wisdom,Omar Narváez,1,1,9,True,2022-07-06,Stolen,2B,2022
+1604,1B,2B,Stolen Base 2B,621550,Patrick Wisdom,Kevin Plawecki,3,1,8,False,2022-07-02,Stolen,2B,2022
+1640,1B,2B,Stolen Base 2B,621550,Patrick Wisdom,Michael Papierski,1,0,1,False,2022-06-30,Stolen,2B,2022
+2017,1B,,Caught Stealing 2B,621550,Patrick Wisdom,Kyle Higashioka,1,1,6,True,2022-06-10,Caught,2B,2022
+2193,1B,2B,Stolen Base 2B,621550,Patrick Wisdom,Victor Caratini,1,3,3,False,2022-05-31,Stolen,2B,2022
+2248,3B,,Caught Stealing Home,621550,Patrick Wisdom,Yasmani Grandal,1,5,7,True,2022-05-28,Caught,Home,2022
+2332,1B,2B,Stolen Base 2B,621550,Patrick Wisdom,Tyler Stephenson,2,6,5,True,2022-05-24,Stolen,2B,2022
+3201,2B,,Caught Stealing 3B,621550,Patrick Wisdom,Mike Rivera,0,2,3,True,2022-04-03,Caught,3B,2022
+1329,1B,,Caught Stealing 2B,621550,Patrick Wisdom,Travis d'Arnaud,6,4,8,False,2023-08-06,Caught,2B,2023
+1628,1B,2B,Stolen Base 2B,621550,Patrick Wisdom,Iván Herrera,2,0,3,False,2023-07-23,Stolen,2B,2023
+1881,1B,2B,Stolen Base 2B,621550,Patrick Wisdom,Kyle Higashioka,1,1,6,True,2023-07-09,Stolen,2B,2023
+2831,1B,,Caught Stealing 2B,621550,Patrick Wisdom,Christian Bethancourt,2,0,2,False,2023-05-31,Caught,2B,2023
+3366,1B,2B,Stolen Base 2B,621550,Patrick Wisdom,Nick Fortes,2,2,9,False,2023-05-07,Stolen,2B,2023
+3479,1B,2B,Stolen Base 2B,621550,Patrick Wisdom,Keibert Ruiz,1,1,5,True,2023-05-03,Stolen,2B,2023

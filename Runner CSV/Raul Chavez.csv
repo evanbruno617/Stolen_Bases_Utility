@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1847,1B,,Caught Stealing 2B,112223,Raul Chavez,Rod Barajas,0,0,3,True,2004-06-27,Caught,2B,2004
+173,1B,2B,Stolen Base 2B,112223,Raul Chavez,Michael Barrett,3,0,2,True,2005-09-23,Stolen,2B,2005
+105,1B,,Caught Stealing 2B,112223,Raul Chavez,Rob Johnson,1,0,3,True,2009-07-28,Caught,2B,2009

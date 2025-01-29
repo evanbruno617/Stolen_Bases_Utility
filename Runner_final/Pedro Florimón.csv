@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,4159,1B,,Caught Stealing 2B,465753,Pedro Florimón,502009,Mat Latos,518700,Eric Fryer,R,Jose Lobaton,446653,4,4,4,False,2016-09-25,Caught,2B,2016,2017,28.3
+1,124,1B,,Caught Stealing 2B,465753,Pedro Florimón,502009,Mat Latos,518700,Eric Fryer,R,Jose Lobaton,446653,4,4,4,False,2016-09-25,Caught,2B,2016,2017,28.3
+2,3531,1B,,Caught Stealing 2B,465753,Pedro Florimón,502009,Mat Latos,518700,Eric Fryer,R,Jose Lobaton,446653,4,4,4,False,2016-09-25,Caught,2B,2016,2017,28.3

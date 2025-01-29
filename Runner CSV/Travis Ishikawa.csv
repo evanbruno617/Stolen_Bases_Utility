@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+862,1B,2B,Stolen Base 2B,448170,Travis Ishikawa,Brian McCann,0,2,1,True,2008-08-18,Stolen,2B,2008
+29,1B,,Caught Stealing 2B,448170,Travis Ishikawa,Paul Bako,0,0,5,False,2009-08-01,Caught,2B,2009
+569,1B,2B,Stolen Base 2B,448170,Travis Ishikawa,John Baker,5,2,7,False,2009-07-06,Stolen,2B,2009
+668,1B,,Caught Stealing 2B,448170,Travis Ishikawa,Yadier Molina,1,0,5,True,2009-07-01,Caught,2B,2009
+1487,1B,2B,Stolen Base 2B,448170,Travis Ishikawa,Brian McCann,0,0,5,False,2009-05-25,Stolen,2B,2009

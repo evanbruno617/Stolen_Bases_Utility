@@ -1,0 +1,8 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+286,1B,2B,Stolen Base 2B,430931,Daniel Ortmeier,Chris Snyder,0,1,2,True,2007-09-17,Stolen,2B,2007
+373,1B,2B,Stolen Base 2B,430931,Daniel Ortmeier,Josh Bard,0,2,4,True,2007-09-14,Stolen,2B,2007
+529,1B,,Caught Stealing 2B,430931,Daniel Ortmeier,Russell Martin,1,1,4,False,2007-09-07,Caught,2B,2007
+3554,1B,,Caught Stealing 2B,430931,Daniel Ortmeier,Josh Bard,0,0,7,False,2008-04-09,Caught,2B,2008
+3651,1B,2B,Stolen Base 2B,430931,Daniel Ortmeier,Mike Rivera,1,0,5,True,2008-04-05,Stolen,2B,2008
+3652,2B,3B,Stolen Base 3B,430931,Daniel Ortmeier,Mike Rivera,1,0,5,True,2008-04-05,Stolen,3B,2008
+2694,2B,3B,Stolen Base 3B,430931,Daniel Ortmeier,Kenji Johjima,5,5,8,False,2009-04-04,Stolen,3B,2009

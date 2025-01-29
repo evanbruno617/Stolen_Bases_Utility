@@ -1,0 +1,24 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,20,1B,2B,Caught Stealing 2B,669004,MJ Melendez,593423,Frankie Montas,676369,Nelson Velázquez,R,Kyle Higashioka,543309,2,2,5,False,2023-09-30,Caught,2B,2023,2024,27.8
+1,1086,2B,,Caught Stealing 3B,669004,MJ Melendez,592791,Jameson Taillon,666023,Freddy Fermin,R,Yan Gomes,543228,0,0,2,True,2023-08-18,Caught,3B,2023,2024,27.8
+2,1455,1B,2B,Stolen Base 2B,669004,MJ Melendez,493603,Adam Ottavino,521692,Salvador Perez,R,Francisco Alvarez,682626,3,4,8,False,2023-08-01,Stolen,2B,2023,2024,27.8
+3,1822,1B,2B,Stolen Base 2B,669004,MJ Melendez,607192,Tyler Glasnow,668472,Nick Pratto,R,Francisco Mejía,642336,0,1,4,False,2023-07-15,Stolen,2B,2023,2024,27.8
+4,1833,1B,2B,Stolen Base 2B,669004,MJ Melendez,607192,Tyler Glasnow,668472,Nick Pratto,R,Francisco Mejía,642336,0,1,4,False,2023-07-14,Stolen,2B,2023,2024,27.8
+5,2282,1B,2B,Stolen Base 2B,669004,MJ Melendez,663556,Shane McClanahan,658668,Edward Olivares,L,Francisco Mejía,642336,0,0,1,True,2023-06-22,Stolen,2B,2023,2024,27.8
+6,2287,1B,2B,Stolen Base 2B,669004,MJ Melendez,664126,Pete Fairbanks,658668,Edward Olivares,R,Francisco Mejía,642336,5,6,9,True,2023-06-22,Stolen,2B,2023,2024,27.8
+7,2660,1B,,Caught Stealing 2B,669004,MJ Melendez,665795,Edward Cabrera,677951,Bobby Witt Jr.,R,Jacob Stallings,607732,3,1,4,True,2023-06-07,Caught,2B,2023,2024,27.8
+8,2694,1B,2B,Stolen Base 2B,669004,MJ Melendez,666129,Braxton Garrett,521692,Salvador Perez,L,Nick Fortes,663743,0,4,3,True,2023-06-05,Stolen,2B,2023,2024,27.8
+9,2937,1B,2B,Stolen Base 2B,669004,MJ Melendez,571578,Patrick Corbin,658668,Edward Olivares,L,Keibert Ruiz,660688,1,1,4,False,2023-05-26,Stolen,2B,2023,2024,27.8
+10,2938,2B,3B,Stolen Base 2B,669004,MJ Melendez,571578,Patrick Corbin,658668,Edward Olivares,L,Keibert Ruiz,660688,1,1,4,False,2023-05-26,Stolen,2B,2023,2024,27.8
+11,4434,1B,2B,Caught Stealing 2B,669004,MJ Melendez,593423,Frankie Montas,676369,Nelson Velázquez,R,Kyle Higashioka,543309,2,2,5,False,2023-09-30,Caught,2B,2023,2024,27.8
+12,5500,2B,,Caught Stealing 3B,669004,MJ Melendez,592791,Jameson Taillon,666023,Freddy Fermin,R,Yan Gomes,543228,0,0,2,True,2023-08-18,Caught,3B,2023,2024,27.8
+13,5869,1B,2B,Stolen Base 2B,669004,MJ Melendez,493603,Adam Ottavino,521692,Salvador Perez,R,Francisco Alvarez,682626,3,4,8,False,2023-08-01,Stolen,2B,2023,2024,27.8
+14,6236,1B,2B,Stolen Base 2B,669004,MJ Melendez,607192,Tyler Glasnow,668472,Nick Pratto,R,Francisco Mejía,642336,0,1,4,False,2023-07-15,Stolen,2B,2023,2024,27.8
+15,6247,1B,2B,Stolen Base 2B,669004,MJ Melendez,607192,Tyler Glasnow,668472,Nick Pratto,R,Francisco Mejía,642336,0,1,4,False,2023-07-14,Stolen,2B,2023,2024,27.8
+16,6696,1B,2B,Stolen Base 2B,669004,MJ Melendez,663556,Shane McClanahan,658668,Edward Olivares,L,Francisco Mejía,642336,0,0,1,True,2023-06-22,Stolen,2B,2023,2024,27.8
+17,6701,1B,2B,Stolen Base 2B,669004,MJ Melendez,664126,Pete Fairbanks,658668,Edward Olivares,R,Francisco Mejía,642336,5,6,9,True,2023-06-22,Stolen,2B,2023,2024,27.8
+18,7074,1B,,Caught Stealing 2B,669004,MJ Melendez,665795,Edward Cabrera,677951,Bobby Witt Jr.,R,Jacob Stallings,607732,3,1,4,True,2023-06-07,Caught,2B,2023,2024,27.8
+19,7108,1B,2B,Stolen Base 2B,669004,MJ Melendez,666129,Braxton Garrett,521692,Salvador Perez,L,Nick Fortes,663743,0,4,3,True,2023-06-05,Stolen,2B,2023,2024,27.8
+20,7351,1B,2B,Stolen Base 2B,669004,MJ Melendez,571578,Patrick Corbin,658668,Edward Olivares,L,Keibert Ruiz,660688,1,1,4,False,2023-05-26,Stolen,2B,2023,2024,27.8
+21,7352,2B,3B,Stolen Base 2B,669004,MJ Melendez,571578,Patrick Corbin,658668,Edward Olivares,L,Keibert Ruiz,660688,1,1,4,False,2023-05-26,Stolen,2B,2023,2024,27.8
+22,720,1B,,Caught Stealing 2B,669004,MJ Melendez,670950,Trevor Richards,467793,Carlos Santana,R,Zack Collins,641470,5,3,4,False,2022-06-08,Caught,2B,2022,2023,27.6

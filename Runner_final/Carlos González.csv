@@ -1,0 +1,21 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,321,1B,,Caught Stealing 2B,471865,Carlos González,592866,Trevor Williams,435622,Ian Desmond,R,Francisco Cervelli,465041,0,1,4,True,2018-04-17,Caught,2B,2018,2019,27.0
+1,400,1B,2B,Stolen Base 2B,471865,Carlos González,641627,Trevor Gott,455104,Chris Iannetta,R,Pedro Severino,600474,1,2,9,True,2018-04-13,Stolen,2B,2018,2019,27.0
+2,1528,1B,2B,Stolen Base 2B,471865,Carlos González,527054,Julio Teheran,518960,Jonathan Lucroy,R,Kurt Suzuki,435559,0,0,7,False,2017-08-14,Stolen,2B,2017,2018,27.4
+3,1841,1B,2B,Stolen Base 2B,471865,Carlos González,543699,Tanner Roark,596115,Trevor Story,R,Matt Wieters,446308,0,2,4,True,2017-07-29,Stolen,2B,2017,2018,27.4
+4,2866,1B,2B,Stolen Base 2B,471865,Carlos González,596271,Casey Lawrence,448602,Mark Reynolds,R,Carlos Ruiz,434563,2,5,5,True,2017-06-01,Stolen,2B,2017,2018,27.4
+5,900,1B,2B,Stolen Base 2B,471865,Carlos González,527054,Julio Teheran,518960,Jonathan Lucroy,R,Kurt Suzuki,435559,0,0,7,False,2017-08-14,Stolen,2B,2017,2018,27.4
+6,1213,1B,2B,Stolen Base 2B,471865,Carlos González,543699,Tanner Roark,596115,Trevor Story,R,Matt Wieters,446308,0,2,4,True,2017-07-29,Stolen,2B,2017,2018,27.4
+7,2238,1B,2B,Stolen Base 2B,471865,Carlos González,596271,Casey Lawrence,448602,Mark Reynolds,R,Carlos Ruiz,434563,2,5,5,True,2017-06-01,Stolen,2B,2017,2018,27.4
+8,5961,1B,2B,Stolen Base 2B,471865,Carlos González,489446,Kirby Yates,596115,Trevor Story,R,Brian McCann,435263,4,8,8,True,2016-06-21,Stolen,2B,2016,2017,26.9
+9,6070,1B,2B,Stolen Base 2B,471865,Carlos González,476454,Dellin Betances,596115,Trevor Story,R,Austin Romine,519222,5,3,7,False,2016-06-15,Stolen,2B,2016,2017,26.9
+10,7216,1B,,Caught Stealing 2B,471865,Carlos González,453562,Jake Arrieta,467827,Gerardo Parra,R,David Ross,424325,0,0,4,True,2016-04-16,Caught,2B,2016,2017,26.9
+11,1926,1B,2B,Stolen Base 2B,471865,Carlos González,489446,Kirby Yates,596115,Trevor Story,R,Brian McCann,435263,4,8,8,True,2016-06-21,Stolen,2B,2016,2017,26.9
+12,2035,1B,2B,Stolen Base 2B,471865,Carlos González,476454,Dellin Betances,596115,Trevor Story,R,Austin Romine,519222,5,3,7,False,2016-06-15,Stolen,2B,2016,2017,26.9
+13,3181,1B,,Caught Stealing 2B,471865,Carlos González,453562,Jake Arrieta,467827,Gerardo Parra,R,David Ross,424325,0,0,4,True,2016-04-16,Caught,2B,2016,2017,26.9
+14,5333,1B,2B,Stolen Base 2B,471865,Carlos González,489446,Kirby Yates,596115,Trevor Story,R,Brian McCann,435263,4,8,8,True,2016-06-21,Stolen,2B,2016,2017,26.9
+15,5442,1B,2B,Stolen Base 2B,471865,Carlos González,476454,Dellin Betances,596115,Trevor Story,R,Austin Romine,519222,5,3,7,False,2016-06-15,Stolen,2B,2016,2017,26.9
+16,6588,1B,,Caught Stealing 2B,471865,Carlos González,453562,Jake Arrieta,467827,Gerardo Parra,R,David Ross,424325,0,0,4,True,2016-04-16,Caught,2B,2016,2017,26.9
+17,926,1B,2B,Stolen Base 2B,471865,Carlos González,502211,Mike Bolsinger,571448,Nolan Arenado,R,Yasmani Grandal,518735,1,1,3,False,2015-06-03,Stolen,2B,2015,2016,27.0
+18,1067,1B,2B,Caught Stealing 3B,471865,Carlos González,502190,Mike Leake,453064,Troy Tulowitzki,R,Tucker Barnhart,571466,0,0,1,True,2015-05-27,Caught,3B,2015,2016,27.0
+19,1314,1B,2B,Stolen Base 2B,471865,Carlos González,445276,Kenley Jansen,460026,Nick Hundley,R,Yasmani Grandal,518735,6,4,8,True,2015-05-15,Stolen,2B,2015,2016,27.0

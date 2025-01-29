@@ -1,0 +1,23 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+35,1B,2B,Stolen Base 2B,663611,Nick Madrigal,Willson Contreras,7,5,6,False,2020-09-26,Stolen,2B,2020
+170,1B,,Caught Stealing 2B,663611,Nick Madrigal,Tucker Barnhart,0,0,3,True,2020-09-20,Caught,2B,2020
+567,1B,2B,Stolen Base 2B,663611,Nick Madrigal,Cam Gallagher,2,2,9,False,2020-08-30,Stolen,2B,2020
+1979,1B,,Caught Stealing 2B,663611,Nick Madrigal,Yadier Molina,7,2,5,False,2021-05-25,Caught,2B,2021
+2753,1B,2B,Stolen Base 2B,663611,Nick Madrigal,Luis Torrens,3,6,8,True,2021-04-06,Stolen,2B,2021
+2827,1B,,Caught Stealing 2B,663611,Nick Madrigal,Max Stassi,2,3,7,True,2021-04-01,Caught,2B,2021
+461,1B,2B,Stolen Base 2B,663611,Nick Madrigal,Austin Romine,5,3,6,False,2022-09-06,Stolen,2B,2022
+721,1B,,Caught Stealing 2B,663611,Nick Madrigal,Victor Caratini,2,0,5,False,2022-08-21,Caught,2B,2022
+920,1B,2B,Stolen Base 2B,663611,Nick Madrigal,Austin Romine,2,4,9,True,2022-08-11,Stolen,2B,2022
+2697,1B,2B,Stolen Base 2B,663611,Nick Madrigal,Yasmani Grandal,3,4,8,False,2022-05-04,Stolen,2B,2022
+499,1B,2B,Stolen Base 2B,663611,Nick Madrigal,Seby Zavala,4,0,4,False,2023-09-10,Stolen,2B,2023
+1007,1B,2B,Stolen Base 2B,663611,Nick Madrigal,Jake Rogers,8,6,9,True,2023-08-22,Stolen,2B,2023
+1474,1B,2B,Stolen Base 2B,663611,Nick Madrigal,Luke Maile,4,6,7,False,2023-07-31,Stolen,2B,2023
+2177,1B,2B,Stolen Base 2B,663611,Nick Madrigal,Garrett Stubbs,0,2,3,False,2023-06-27,Stolen,2B,2023
+2324,1B,2B,Stolen Base 2B,663611,Nick Madrigal,Jason Delay,3,8,8,True,2023-06-21,Stolen,2B,2023
+2345,1B,2B,Stolen Base 2B,663611,Nick Madrigal,Jason Delay,0,4,7,True,2023-06-19,Stolen,2B,2023
+2379,1B,2B,Stolen Base 2B,663611,Nick Madrigal,Adley Rutschman,3,5,7,False,2023-06-18,Stolen,2B,2023
+2447,1B,2B,Stolen Base 2B,663611,Nick Madrigal,Jason Delay,1,2,4,False,2023-06-15,Stolen,2B,2023
+3810,1B,,Caught Stealing 2B,663611,Nick Madrigal,Shea Langeliers,1,2,5,True,2023-04-19,Caught,2B,2023
+3897,1B,2B,Stolen Base 2B,663611,Nick Madrigal,Austin Barnes,0,1,9,True,2023-04-15,Stolen,2B,2023
+4001,1B,,Caught Stealing 2B,663611,Nick Madrigal,Cal Raleigh,14,8,6,False,2023-04-11,Caught,2B,2023
+4031,2B,3B,Stolen Base 3B,663611,Nick Madrigal,Tom Murphy,2,2,10,False,2023-04-10,Stolen,3B,2023

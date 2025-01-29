@@ -1,0 +1,18 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1535,1B,,Caught Stealing 2B,111072,Henry Blanco,Jason Kendall,3,3,7,True,2000-07-27,Caught,2B,2000
+2274,1B,,Caught Stealing 2B,111072,Henry Blanco,Paul Bako,0,2,5,True,2000-06-19,Caught,2B,2000
+2960,1B,,Caught Stealing 2B,111072,Henry Blanco,Bobby Estalella,1,5,5,False,2000-05-19,Caught,2B,2000
+9,1B,2B,Stolen Base 2B,111072,Henry Blanco,Jason LaRue,3,3,12,False,2001-06-05,Stolen,2B,2001
+1311,1B,2B,Stolen Base 2B,111072,Henry Blanco,Benito Santiago,3,2,2,False,2001-04-13,Stolen,2B,2001
+157,1B,2B,Caught Stealing Home,111072,Henry Blanco,Ramon Castro,4,1,6,False,2002-09-22,Caught,Home,2002
+1397,2B,,Caught Stealing 3B,111072,Henry Blanco,Charles Johnson,2,1,7,True,2002-07-22,Caught,3B,2002
+1701,1B,,Caught Stealing 2B,111072,Henry Blanco,Joe Girardi,2,0,7,False,2002-07-07,Caught,2B,2002
+3345,1B,3B,Caught Stealing Home,111072,Henry Blanco,Brad Ausmus,4,0,3,False,2002-04-26,Caught,Home,2002
+1177,1B,2B,Caught Stealing 3B,111072,Henry Blanco,José Molina,5,0,6,False,2004-08-03,Caught,3B,2004
+1396,1B,,Caught Stealing 2B,111072,Henry Blanco,Javy Lopez,1,4,4,True,2004-07-23,Caught,2B,2004
+3112,1B,,Caught Stealing 2B,111072,Henry Blanco,Kelly Stinnett,0,4,4,True,2004-04-25,Caught,2B,2004
+3343,1B,2B,Caught Stealing 2B,111072,Henry Blanco,Victor Martinez,1,4,5,True,2004-04-14,Caught,2B,2004
+3145,1B,2B,Stolen Base 3B,111072,Henry Blanco,Wil Nieves,2,0,5,True,2008-04-27,Stolen,3B,2008
+3458,1B,2B,Stolen Base 2B,111072,Henry Blanco,David Ross,0,0,5,False,2010-04-24,Stolen,2B,2010
+2962,1B,,Caught Stealing 2B,111072,Henry Blanco,J.R. Towles,2,1,7,True,2011-05-29,Caught,2B,2011
+3790,1B,2B,Stolen Base 2B,111072,Henry Blanco,Brian McCann,1,2,3,False,2012-04-19,Stolen,2B,2012

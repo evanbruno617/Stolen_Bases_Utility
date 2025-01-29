@@ -1,0 +1,10 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1969,2B,3B,Stolen Base 3B,608596,Tom Murphy,521655,Wilmer Font,542979,Keon Broxton,R,Danny Jansen,643376,0,1,2,True,2019-08-18,Stolen,3B,2019,2021,26.9
+1,3171,1B,2B,Stolen Base 2B,608596,Tom Murphy,571760,Andrew Heaney,664238,Dylan Moore,L,Jonathan Lucroy,518960,1,3,5,False,2019-06-01,Stolen,2B,2019,2021,26.9
+2,4812,2B,3B,Stolen Base 3B,608596,Tom Murphy,521655,Wilmer Font,542979,Keon Broxton,R,Danny Jansen,643376,0,1,2,True,2019-08-18,Stolen,3B,2019,2021,26.9
+3,6014,1B,2B,Stolen Base 2B,608596,Tom Murphy,571760,Andrew Heaney,664238,Dylan Moore,L,Jonathan Lucroy,518960,1,3,5,False,2019-06-01,Stolen,2B,2019,2021,26.9
+4,6736,2B,3B,Stolen Base 3B,608596,Tom Murphy,521655,Wilmer Font,542979,Keon Broxton,R,Danny Jansen,643376,0,1,2,True,2019-08-18,Stolen,3B,2019,2021,26.9
+5,7938,1B,2B,Stolen Base 2B,608596,Tom Murphy,571760,Andrew Heaney,664238,Dylan Moore,L,Jonathan Lucroy,518960,1,3,5,False,2019-06-01,Stolen,2B,2019,2021,26.9
+6,4198,1B,2B,Stolen Base 2B,608596,Tom Murphy,451661,Josh Fields,542436,Cristhian Adames,R,Yasmani Grandal,518735,4,2,6,True,2016-09-23,Stolen,2B,2016,2017,26.2
+7,163,1B,2B,Stolen Base 2B,608596,Tom Murphy,451661,Josh Fields,542436,Cristhian Adames,R,Yasmani Grandal,518735,4,2,6,True,2016-09-23,Stolen,2B,2016,2017,26.2
+8,3570,1B,2B,Stolen Base 2B,608596,Tom Murphy,451661,Josh Fields,542436,Cristhian Adames,R,Yasmani Grandal,518735,4,2,6,True,2016-09-23,Stolen,2B,2016,2017,26.2

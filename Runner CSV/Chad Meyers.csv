@@ -1,0 +1,3 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+2357,1B,2B,Stolen Base 2B,150039,Chad Meyers,Chris Widger,9,8,8,False,2000-06-16,Stolen,2B,2000
+279,1B,2B,Stolen Base 2B,150039,Chad Meyers,Tom Gregorio,1,2,9,False,2003-09-14,Stolen,2B,2003

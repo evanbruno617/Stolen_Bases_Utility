@@ -1,0 +1,31 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Arm_Strength,Exchange
+0,1B,,Caught Stealing 2B,621035,Chris Taylor,592332,Kevin Gausman,605141,Mookie Betts,R,Rob Brantly,542963,4,1,5,False,2020-07-24,Caught,2B,2020,2021, 76.4, 0.71
+1,1B,2B,Stolen Base 2B,592626,Joc Pederson,656322,Sam Coonrod,669257,Will Smith,R,Rob Brantly,542963,6,1,7,False,2020-07-24,Stolen,2B,2020,2021, 76.4, 0.71
+2,2B,3B,Stolen Base 2B,592626,Joc Pederson,656322,Sam Coonrod,669257,Will Smith,R,Rob Brantly,542963,6,1,7,False,2020-07-24,Stolen,2B,2020,2021, 76.4, 0.71
+3,1B,,Caught Stealing 2B,543760,Marcus Semien,605498,Andrew Suárez,657656,Ramón Laureano,L,Rob Brantly,542963,3,2,5,True,2020-07-21,Caught,2B,2020,2021, 76.4, 0.71
+4,1B,,Caught Stealing 2B,621035,Chris Taylor,592332,Kevin Gausman,605141,Mookie Betts,R,Rob Brantly,542963,4,1,5,False,2020-07-24,Caught,2B,2020,2021, 76.4, 0.71
+5,1B,2B,Stolen Base 2B,592626,Joc Pederson,656322,Sam Coonrod,669257,Will Smith,R,Rob Brantly,542963,6,1,7,False,2020-07-24,Stolen,2B,2020,2021, 76.4, 0.71
+6,2B,3B,Stolen Base 2B,592626,Joc Pederson,656322,Sam Coonrod,669257,Will Smith,R,Rob Brantly,542963,6,1,7,False,2020-07-24,Stolen,2B,2020,2021, 76.4, 0.71
+7,1B,,Caught Stealing 2B,543760,Marcus Semien,605498,Andrew Suárez,657656,Ramón Laureano,L,Rob Brantly,542963,3,2,5,True,2020-07-21,Caught,2B,2020,2021, 76.4, 0.71
+8,1B,,Caught Stealing 2B,621035,Chris Taylor,592332,Kevin Gausman,605141,Mookie Betts,R,Rob Brantly,542963,4,1,5,False,2020-07-24,Caught,2B,2020,2021, 76.4, 0.71
+9,1B,2B,Stolen Base 2B,592626,Joc Pederson,656322,Sam Coonrod,669257,Will Smith,R,Rob Brantly,542963,6,1,7,False,2020-07-24,Stolen,2B,2020,2021, 76.4, 0.71
+10,2B,3B,Stolen Base 2B,592626,Joc Pederson,656322,Sam Coonrod,669257,Will Smith,R,Rob Brantly,542963,6,1,7,False,2020-07-24,Stolen,2B,2020,2021, 76.4, 0.71
+11,1B,,Caught Stealing 2B,543760,Marcus Semien,605498,Andrew Suárez,657656,Ramón Laureano,L,Rob Brantly,542963,3,2,5,True,2020-07-21,Caught,2B,2020,2021, 76.4, 0.71
+12,1B,2B,Stolen Base 2B,593160,Whit Merrifield,476595,Lucas Luetge,670032,Nicky Lopez,L,Rob Brantly,542963,0,3,1,False,2021-08-11,Stolen,2B,2021,2022, --, --
+13,1B,2B,Stolen Base 2B,641531,Hunter Dozier,476595,Lucas Luetge,656896,Emmanuel Rivera,L,Rob Brantly,542963,1,3,2,False,2021-08-11,Stolen,2B,2021,2022, --, --
+14,1B,,Caught Stealing 2B,593160,Whit Merrifield,643338,Chad Green,670032,Nicky Lopez,R,Rob Brantly,542963,2,5,7,False,2021-08-11,Caught,2B,2021,2022, --, --
+15,1B,2B,Stolen Base 2B,572122,Kyle Seager,571760,Andrew Heaney,608596,Tom Murphy,L,Rob Brantly,542963,1,4,5,True,2021-08-07,Stolen,2B,2021,2022, --, --
+16,1B,,Caught Stealing 2B,614173,Franchy Cordero,592791,Jameson Taillon,656308,Michael Chavis,R,Rob Brantly,542963,3,0,7,False,2021-07-24,Caught,2B,2021,2022, --, --
+17,1B,2B,Stolen Base 2B,593160,Whit Merrifield,476595,Lucas Luetge,670032,Nicky Lopez,L,Rob Brantly,542963,0,3,1,False,2021-08-11,Stolen,2B,2021,2022, --, --
+18,1B,2B,Stolen Base 2B,641531,Hunter Dozier,476595,Lucas Luetge,656896,Emmanuel Rivera,L,Rob Brantly,542963,1,3,2,False,2021-08-11,Stolen,2B,2021,2022, --, --
+19,1B,,Caught Stealing 2B,593160,Whit Merrifield,643338,Chad Green,670032,Nicky Lopez,R,Rob Brantly,542963,2,5,7,False,2021-08-11,Caught,2B,2021,2022, --, --
+20,1B,2B,Stolen Base 2B,572122,Kyle Seager,571760,Andrew Heaney,608596,Tom Murphy,L,Rob Brantly,542963,1,4,5,True,2021-08-07,Stolen,2B,2021,2022, --, --
+21,1B,,Caught Stealing 2B,614173,Franchy Cordero,592791,Jameson Taillon,656308,Michael Chavis,R,Rob Brantly,542963,3,0,7,False,2021-07-24,Caught,2B,2021,2022, --, --
+22,1B,2B,Stolen Base 2B,592230,Kaleb Cowart,592229,Dylan Covey,458913,Eric Young Jr.,R,Rob Brantly,542963,0,1,5,True,2017-09-28,Stolen,2B,2017,2019, --, --
+23,1B,2B,Stolen Base 2B,435079,Ian Kinsler,592229,Dylan Covey,600869,Jeimer Candelario,R,Rob Brantly,542963,1,0,1,False,2017-09-17,Stolen,2B,2017,2019, --, --
+24,1B,,Caught Stealing 2B,592206,Nick Castellanos,592229,Dylan Covey,543308,John Hicks,R,Rob Brantly,542963,1,0,1,False,2017-09-17,Caught,2B,2017,2019, --, --
+25,1B,2B,Stolen Base 2B,596019,Francisco Lindor,460059,Mike Pelfrey,457706,Austin Jackson,R,Rob Brantly,542963,4,6,6,True,2017-09-05,Stolen,2B,2017,2019, --, --
+26,1B,2B,Stolen Base 2B,592230,Kaleb Cowart,592229,Dylan Covey,458913,Eric Young Jr.,R,Rob Brantly,542963,0,1,5,True,2017-09-28,Stolen,2B,2017,2019, --, --
+27,1B,2B,Stolen Base 2B,435079,Ian Kinsler,592229,Dylan Covey,600869,Jeimer Candelario,R,Rob Brantly,542963,1,0,1,False,2017-09-17,Stolen,2B,2017,2019, --, --
+28,1B,,Caught Stealing 2B,592206,Nick Castellanos,592229,Dylan Covey,543308,John Hicks,R,Rob Brantly,542963,1,0,1,False,2017-09-17,Caught,2B,2017,2019, --, --
+29,1B,2B,Stolen Base 2B,596019,Francisco Lindor,460059,Mike Pelfrey,457706,Austin Jackson,R,Rob Brantly,542963,4,6,6,True,2017-09-05,Stolen,2B,2017,2019, --, --

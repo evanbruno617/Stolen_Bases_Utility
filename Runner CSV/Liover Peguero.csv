@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+54,1B,2B,Stolen Base 2B,678894,Liover Peguero,Nick Fortes,2,0,4,False,2023-09-29,Stolen,2B,2023
+342,1B,2B,Stolen Base 2B,678894,Liover Peguero,Austin Wells,3,2,7,False,2023-09-17,Stolen,2B,2023
+404,1B,,Caught Stealing 2B,678894,Liover Peguero,Ben Rortvedt,2,1,4,False,2023-09-15,Caught,2B,2023
+698,1B,,Caught Stealing 2B,678894,Liover Peguero,Andrew Knizner,0,1,2,True,2023-09-03,Caught,2B,2023
+975,1B,2B,Stolen Base 2B,678894,Liover Peguero,Andrew Knizner,2,5,6,False,2023-08-23,Stolen,2B,2023
+1020,1B,2B,Stolen Base 2B,678894,Liover Peguero,Andrew Knizner,4,0,3,False,2023-08-21,Stolen,2B,2023
+1244,1B,2B,Stolen Base 2B,678894,Liover Peguero,Travis d'Arnaud,5,4,6,False,2023-08-10,Stolen,2B,2023
+1362,1B,2B,Stolen Base 2B,678894,Liover Peguero,Victor Caratini,0,0,5,True,2023-08-05,Stolen,2B,2023

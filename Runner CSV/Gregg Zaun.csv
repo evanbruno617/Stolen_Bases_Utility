@@ -1,0 +1,22 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+580,1B,,Caught Stealing 2B,124748,Gregg Zaun,Chris Turner,1,0,2,False,2000-09-05,Caught,2B,2000
+722,1B,2B,Stolen Base 2B,124748,Gregg Zaun,John Flaherty,5,8,8,True,2000-09-01,Stolen,2B,2000
+1041,1B,2B,Stolen Base 2B,124748,Gregg Zaun,Brook Fordyce,1,4,9,True,2000-08-18,Stolen,2B,2000
+1053,1B,,Caught Stealing 2B,124748,Gregg Zaun,Danny Ardoin,0,0,2,True,2000-08-17,Caught,2B,2000
+2178,1B,2B,Stolen Base 2B,124748,Gregg Zaun,Ramon Hernandez,1,2,5,True,2000-06-24,Stolen,2B,2000
+2181,1B,2B,Stolen Base 2B,124748,Gregg Zaun,Ramon Hernandez,3,7,8,True,2000-06-24,Stolen,2B,2000
+2444,1B,2B,Stolen Base 2B,124748,Gregg Zaun,Keith Osik,6,10,10,False,2000-06-11,Stolen,2B,2000
+2725,2B,3B,Stolen Base 3B,124748,Gregg Zaun,Scott Hatteberg,0,3,2,True,2000-05-31,Stolen,3B,2000
+4037,1B,2B,Stolen Base 2B,124748,Gregg Zaun,Darrin Fletcher,4,4,9,True,2000-04-03,Stolen,2B,2000
+2494,1B,2B,Stolen Base 2B,124748,Gregg Zaun,Todd Hundley,1,4,9,True,2002-05-31,Stolen,2B,2002
+103,1B,,Caught Stealing 2B,124748,Gregg Zaun,Robby Hammock,2,3,4,False,2003-09-24,Caught,2B,2003
+2154,1B,2B,Stolen Base 2B,124748,Gregg Zaun,Jorge Posada,1,2,2,True,2003-06-12,Stolen,2B,2003
+1214,1B,,Caught Stealing 2B,124748,Gregg Zaun,Toby Hall,0,0,2,True,2004-08-01,Caught,2B,2004
+2475,1B,,Caught Stealing 2B,124748,Gregg Zaun,Rod Barajas,5,1,5,False,2004-05-28,Caught,2B,2004
+227,1B,,Caught Stealing 2B,124748,Gregg Zaun,Yorvit Torrealba,2,3,2,False,2005-09-20,Caught,2B,2005
+389,1B,2B,Stolen Base 2B,124748,Gregg Zaun,Jason Varitek,0,1,5,False,2005-09-12,Stolen,2B,2005
+474,1B,,Caught Stealing 2B,124748,Gregg Zaun,Javy Lopez,4,7,8,True,2005-09-07,Caught,2B,2005
+2133,1B,2B,Stolen Base 2B,124748,Gregg Zaun,Brad Ausmus,1,1,2,True,2005-06-10,Stolen,2B,2005
+3414,2B,,Caught Stealing 3B,124748,Gregg Zaun,Ramon Hernandez,0,1,3,True,2008-04-15,Caught,3B,2008
+3515,3B,score,Stolen Base Home,124748,Gregg Zaun,Gerald Laird,2,5,6,True,2008-04-11,Stolen,Home,2008
+3568,1B,2B,Stolen Base 2B,124748,Gregg Zaun,Kurt Suzuki,3,2,7,False,2008-04-09,Stolen,2B,2008

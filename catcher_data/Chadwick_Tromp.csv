@@ -1,0 +1,15 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,663656,Kyle Tucker,Chadwick Tromp,1,0,2,False,2020-08-10,Stolen,2B,2020
+1B,2B,Stolen Base 2B,571976,Wil Myers,Chadwick Tromp,2,3,4,True,2020-07-29,Stolen,2B,2020
+1B,2B,Stolen Base 2B,571448,Nolan Arenado,Chadwick Tromp,3,5,7,True,2021-07-06,Stolen,2B,2021
+1B,2B,Stolen Base 2B,518586,Charlie Culberson,Chadwick Tromp,0,0,3,False,2021-06-09,Stolen,2B,2021
+1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,Chadwick Tromp,1,2,9,False,2021-06-09,Stolen,2B,2021
+1B,,Caught Stealing 2B,641829,Jason Martin,Chadwick Tromp,3,3,10,False,2021-06-09,Caught,2B,2021
+2B,3B,Stolen Base 3B,595879,Javier Báez,Chadwick Tromp,4,3,9,True,2021-06-05,Stolen,3B,2021
+1B,2B,Stolen Base 2B,519203,Anthony Rizzo,Chadwick Tromp,4,3,9,True,2021-06-05,Stolen,2B,2021
+1B,2B,Stolen Base 2B,596019,Francisco Lindor,Chadwick Tromp,2,0,5,False,2023-05-01,Stolen,2B,2023
+1B,2B,Stolen Base 2B,596019,Francisco Lindor,Chadwick Tromp,2,0,5,False,2023-04-30,Stolen,2B,2023
+1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,Chadwick Tromp,0,0,1,True,2023-04-27,Stolen,2B,2023
+1B,2B,Stolen Base 2B,665862,Jazz Chisholm Jr.,Chadwick Tromp,4,5,9,True,2023-04-27,Stolen,2B,2023
+2B,3B,Stolen Base 3B,663656,Kyle Tucker,Chadwick Tromp,0,0,2,True,2023-04-23,Stolen,3B,2023
+1B,2B,Stolen Base 2B,641779,Charles Leblanc,Chadwick Tromp,2,4,5,False,2022-08-13,Stolen,2B,2022

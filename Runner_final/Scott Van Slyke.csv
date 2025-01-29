@@ -1,0 +1,14 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,5133,1B,,Caught Stealing 2B,475100,Scott Van Slyke,598264,Matt Barnes,454560,A.J. Ellis,R,Sandy León,506702,3,0,6,False,2016-08-06,Caught,2B,2016,2017,27.0
+1,5261,1B,,Caught Stealing 2B,475100,Scott Van Slyke,429400,Adam Loewen,400284,Chase Utley,L,Welington Castillo,456078,1,4,7,False,2016-07-30,Caught,2B,2016,2017,27.0
+2,5485,1B,2B,Stolen Base 2B,475100,Scott Van Slyke,461829,Gio González,624577,Yasiel Puig,L,Wilson Ramos,467092,2,0,2,True,2016-07-20,Stolen,2B,2016,2017,27.0
+3,7470,1B,2B,Stolen Base 2B,475100,Scott Van Slyke,434718,Huston Street,571771,Enrique Hernández,R,Geovany Soto,434567,1,5,8,False,2016-04-01,Stolen,2B,2016,2017,27.0
+4,1098,1B,,Caught Stealing 2B,475100,Scott Van Slyke,598264,Matt Barnes,454560,A.J. Ellis,R,Sandy León,506702,3,0,6,False,2016-08-06,Caught,2B,2016,2017,27.0
+5,1226,1B,,Caught Stealing 2B,475100,Scott Van Slyke,429400,Adam Loewen,400284,Chase Utley,L,Welington Castillo,456078,1,4,7,False,2016-07-30,Caught,2B,2016,2017,27.0
+6,1450,1B,2B,Stolen Base 2B,475100,Scott Van Slyke,461829,Gio González,624577,Yasiel Puig,L,Wilson Ramos,467092,2,0,2,True,2016-07-20,Stolen,2B,2016,2017,27.0
+7,3435,1B,2B,Stolen Base 2B,475100,Scott Van Slyke,434718,Huston Street,571771,Enrique Hernández,R,Geovany Soto,434567,1,5,8,False,2016-04-01,Stolen,2B,2016,2017,27.0
+8,4505,1B,,Caught Stealing 2B,475100,Scott Van Slyke,598264,Matt Barnes,454560,A.J. Ellis,R,Sandy León,506702,3,0,6,False,2016-08-06,Caught,2B,2016,2017,27.0
+9,4633,1B,,Caught Stealing 2B,475100,Scott Van Slyke,429400,Adam Loewen,400284,Chase Utley,L,Welington Castillo,456078,1,4,7,False,2016-07-30,Caught,2B,2016,2017,27.0
+10,4857,1B,2B,Stolen Base 2B,475100,Scott Van Slyke,461829,Gio González,624577,Yasiel Puig,L,Wilson Ramos,467092,2,0,2,True,2016-07-20,Stolen,2B,2016,2017,27.0
+11,6842,1B,2B,Stolen Base 2B,475100,Scott Van Slyke,434718,Huston Street,571771,Enrique Hernández,R,Geovany Soto,434567,1,5,8,False,2016-04-01,Stolen,2B,2016,2017,27.0
+12,280,1B,2B,Stolen Base 2B,475100,Scott Van Slyke,571927,Steven Matz,592626,Joc Pederson,L,Johnny Monell,476192,0,1,2,False,2015-07-05,Stolen,2B,2015,2016,27.2

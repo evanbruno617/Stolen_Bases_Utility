@@ -1,0 +1,10 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,3430,1B,,Caught Stealing 2B,547170,Nicky Delmonico,573186,Marcus Stroman,605508,Charles Tilson,R,Danny Jansen,643376,2,2,6,False,2019-05-16,Caught,2B,2019,2020,26.6
+1,6273,1B,,Caught Stealing 2B,547170,Nicky Delmonico,573186,Marcus Stroman,605508,Charles Tilson,R,Danny Jansen,643376,2,2,6,False,2019-05-16,Caught,2B,2019,2020,26.6
+2,8197,1B,,Caught Stealing 2B,547170,Nicky Delmonico,573186,Marcus Stroman,605508,Charles Tilson,R,Danny Jansen,643376,2,2,6,False,2019-05-16,Caught,2B,2019,2020,26.6
+3,11,1B,,Caught Stealing 2B,547170,Nicky Delmonico,519151,Ryan Pressly,571602,Matt Davidson,R,Jason Castro,488771,5,5,8,False,2018-05-03,Caught,2B,2018,2019,27.0
+4,303,1B,2B,Stolen Base 2B,547170,Nicky Delmonico,592811,Andrew Triggs,571602,Matt Davidson,R,Bruce Maxwell,622194,0,1,1,True,2018-04-18,Stolen,2B,2018,2019,27.0
+5,1396,1B,2B,Stolen Base 2B,547170,Nicky Delmonico,543867,Nik Turley,541645,Avisaíl García,L,Mitch Garver,641598,6,1,5,False,2017-08-21,Stolen,2B,2017,2018,27.2
+6,1480,1B,2B,Stolen Base 2B,547170,Nicky Delmonico,506433,Yu Darvish,660162,Yoán Moncada,R,Austin Barnes,605131,2,3,6,True,2017-08-16,Stolen,2B,2017,2018,27.2
+7,768,1B,2B,Stolen Base 2B,547170,Nicky Delmonico,543867,Nik Turley,541645,Avisaíl García,L,Mitch Garver,641598,6,1,5,False,2017-08-21,Stolen,2B,2017,2018,27.2
+8,852,1B,2B,Stolen Base 2B,547170,Nicky Delmonico,506433,Yu Darvish,660162,Yoán Moncada,R,Austin Barnes,605131,2,3,6,True,2017-08-16,Stolen,2B,2017,2018,27.2

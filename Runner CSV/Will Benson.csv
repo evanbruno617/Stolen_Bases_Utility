@@ -1,0 +1,22 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+36,1B,2B,Stolen Base 2B,666181,Will Benson,Andrew Knizner,2,8,4,True,2023-09-29,Stolen,2B,2023
+128,1B,2B,Stolen Base 2B,666181,Will Benson,Bo Naylor,6,5,4,True,2023-09-26,Stolen,2B,2023
+131,1B,2B,Stolen Base 2B,666181,Will Benson,Bo Naylor,7,9,7,True,2023-09-26,Stolen,2B,2023
+629,2B,3B,Stolen Base 3B,666181,Will Benson,Cal Raleigh,1,2,3,False,2023-09-06,Stolen,3B,2023
+952,1B,2B,Stolen Base 2B,666181,Will Benson,Matt Thaiss,1,3,4,True,2023-08-23,Stolen,2B,2023
+983,1B,2B,Stolen Base 2B,666181,Will Benson,Logan O'Hoppe,0,1,2,True,2023-08-22,Stolen,2B,2023
+1009,1B,2B,Stolen Base 2B,666181,Will Benson,Matt Thaiss,1,3,4,True,2023-08-21,Stolen,2B,2023
+1184,1B,2B,Stolen Base 2B,666181,Will Benson,Jason Delay,0,1,5,True,2023-08-13,Stolen,2B,2023
+1316,1B,2B,Stolen Base 2B,666181,Will Benson,Nick Fortes,0,1,3,False,2023-08-07,Stolen,2B,2023
+1608,1B,2B,Stolen Base 2B,666181,Will Benson,William Contreras,1,2,5,True,2023-07-24,Stolen,2B,2023
+1693,2B,,Caught Stealing 3B,666181,Will Benson,Gabriel Moreno,9,6,7,False,2023-07-21,Caught,3B,2023
+1707,2B,3B,Stolen Base 3B,666181,Will Benson,Patrick Bailey,5,0,6,False,2023-07-20,Stolen,3B,2023
+1798,1B,2B,Stolen Base 2B,666181,Will Benson,William Contreras,0,1,3,False,2023-07-15,Stolen,2B,2023
+1975,1B,2B,Stolen Base 2B,666181,Will Benson,Keibert Ruiz,1,4,4,True,2023-07-05,Stolen,2B,2023
+2120,1B,2B,Stolen Base 2B,666181,Will Benson,Gary Sánchez,0,0,3,False,2023-06-30,Stolen,2B,2023
+2157,1B,2B,Stolen Base 2B,666181,Will Benson,Adley Rutschman,4,6,8,True,2023-06-28,Stolen,2B,2023
+2364,1B,2B,Stolen Base 2B,666181,Will Benson,Yainer Diaz,3,1,3,True,2023-06-18,Stolen,2B,2023
+2593,1B,,Caught Stealing 2B,666181,Will Benson,Willson Contreras,5,2,7,True,2023-06-09,Caught,2B,2023
+2733,1B,2B,Stolen Base 2B,666181,Will Benson,William Contreras,3,10,4,False,2023-06-03,Stolen,2B,2023
+2778,1B,2B,Stolen Base 2B,666181,Will Benson,Victor Caratini,3,3,4,False,2023-06-02,Stolen,2B,2023
+2782,1B,2B,Stolen Base 2B,666181,Will Benson,Victor Caratini,3,3,9,False,2023-06-02,Stolen,2B,2023

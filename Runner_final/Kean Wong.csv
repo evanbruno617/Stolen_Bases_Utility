@@ -1,0 +1,4 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1603,1B,,Caught Stealing 2B,642221,Kean Wong,458681,Lance Lynn,605421,Michael Pérez,R,Jeff Mathis,425772,3,1,7,True,2019-09-10,Caught,2B,2019,2021,27.8
+1,4446,1B,,Caught Stealing 2B,642221,Kean Wong,458681,Lance Lynn,605421,Michael Pérez,R,Jeff Mathis,425772,3,1,7,True,2019-09-10,Caught,2B,2019,2021,27.8
+2,6370,1B,,Caught Stealing 2B,642221,Kean Wong,458681,Lance Lynn,605421,Michael Pérez,R,Jeff Mathis,425772,3,1,7,True,2019-09-10,Caught,2B,2019,2021,27.8

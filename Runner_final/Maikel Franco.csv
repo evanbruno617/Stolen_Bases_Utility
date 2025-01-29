@@ -1,0 +1,11 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,717,1B,2B,Stolen Base 2B,596748,Maikel Franco,489265,Sergio Romo,460086,Alex Gordon,R,Ryan Jeffers,680777,3,4,7,False,2020-08-23,Stolen,2B,2020,2021,25.0
+1,3560,1B,2B,Stolen Base 2B,596748,Maikel Franco,489265,Sergio Romo,460086,Alex Gordon,R,Ryan Jeffers,680777,3,4,7,False,2020-08-23,Stolen,2B,2020,2021,25.0
+2,5484,1B,2B,Stolen Base 2B,596748,Maikel Franco,489265,Sergio Romo,460086,Alex Gordon,R,Ryan Jeffers,680777,3,4,7,False,2020-08-23,Stolen,2B,2020,2021,25.0
+3,4945,1B,2B,Stolen Base 2B,596748,Maikel Franco,608032,Carlos Estévez,519237,Cameron Rupp,R,Nick Hundley,460026,7,4,8,False,2016-08-14,Stolen,2B,2016,2017,26.0
+4,6240,1B,,Caught Stealing 2B,596748,Maikel Franco,452657,Jon Lester,519237,Cameron Rupp,L,David Ross,424325,0,1,2,False,2016-06-06,Caught,2B,2016,2017,26.0
+5,910,1B,2B,Stolen Base 2B,596748,Maikel Franco,608032,Carlos Estévez,519237,Cameron Rupp,R,Nick Hundley,460026,7,4,8,False,2016-08-14,Stolen,2B,2016,2017,26.0
+6,2205,1B,,Caught Stealing 2B,596748,Maikel Franco,452657,Jon Lester,519237,Cameron Rupp,L,David Ross,424325,0,1,2,False,2016-06-06,Caught,2B,2016,2017,26.0
+7,4317,1B,2B,Stolen Base 2B,596748,Maikel Franco,608032,Carlos Estévez,519237,Cameron Rupp,R,Nick Hundley,460026,7,4,8,False,2016-08-14,Stolen,2B,2016,2017,26.0
+8,5612,1B,,Caught Stealing 2B,596748,Maikel Franco,452657,Jon Lester,519237,Cameron Rupp,L,David Ross,424325,0,1,2,False,2016-06-06,Caught,2B,2016,2017,26.0
+9,1202,1B,2B,Stolen Base 2B,596748,Maikel Franco,407822,Jorge De La Rosa,546318,Odúbel Herrera,L,Michael McKenry,502374,0,0,2,True,2015-05-21,Stolen,2B,2015,2016,26.0

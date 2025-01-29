@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1571,1B,2B,Stolen Base 2B,666135,Alex Kirilloff,605521,Art Warren,680777,Ryan Jeffers,R,Tyler Stephenson,663886,3,3,8,False,2021-06-21,Stolen,2B,2021,2022,27.6
+1,2023,1B,,Caught Stealing 2B,666135,Alex Kirilloff,663986,Trevor Stephan,641598,Mitch Garver,R,Austin Hedges,595978,5,8,10,True,2021-05-23,Caught,2B,2021,2022,27.6
+2,3495,1B,2B,Stolen Base 2B,666135,Alex Kirilloff,605521,Art Warren,680777,Ryan Jeffers,R,Tyler Stephenson,663886,3,3,8,False,2021-06-21,Stolen,2B,2021,2022,27.6
+3,3947,1B,,Caught Stealing 2B,666135,Alex Kirilloff,663986,Trevor Stephan,641598,Mitch Garver,R,Austin Hedges,595978,5,8,10,True,2021-05-23,Caught,2B,2021,2022,27.6
+4,504,1B,2B,Stolen Base 2B,666135,Alex Kirilloff,656731,Tylor Megill,668904,Royce Lewis,R,Omar Narváez,553882,0,0,3,False,2023-09-10,Stolen,2B,2023,2024,26.8
+5,4918,1B,2B,Stolen Base 2B,666135,Alex Kirilloff,656731,Tylor Megill,668904,Royce Lewis,R,Omar Narváez,553882,0,0,3,False,2023-09-10,Stolen,2B,2023,2024,26.8

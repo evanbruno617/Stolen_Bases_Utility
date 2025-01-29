@@ -1,0 +1,6 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+26,1B,2B,Stolen Base 2B,470516,Luis Durango,Koyie Hill,3,0,5,False,2010-09-29,Stolen,2B,2010
+474,1B,2B,Stolen Base 2B,470516,Luis Durango,Rod Barajas,0,0,3,False,2010-09-08,Stolen,2B,2010
+828,1B,2B,Stolen Base 2B,470516,Luis Durango,Jonathan Lucroy,0,2,5,True,2010-08-22,Stolen,2B,2010
+1599,1B,2B,Stolen Base 2B,470516,Luis Durango,Miguel Montero,6,3,8,False,2010-07-18,Stolen,2B,2010
+1665,1B,2B,Stolen Base 2B,470516,Luis Durango,Miguel Montero,6,1,6,False,2010-07-16,Stolen,2B,2010

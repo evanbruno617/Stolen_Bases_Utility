@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+596,1B,2B,Stolen Base 2B,677347,Kyren Paris,David Fry,0,0,3,False,2023-09-07,Stolen,2B,2023
+597,1B,2B,Stolen Base 2B,677347,Kyren Paris,David Fry,0,0,5,False,2023-09-07,Stolen,2B,2023
+749,1B,2B,Stolen Base 2B,677347,Kyren Paris,Shea Langeliers,2,1,5,True,2023-09-02,Stolen,2B,2023

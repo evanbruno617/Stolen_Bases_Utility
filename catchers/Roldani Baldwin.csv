@@ -1,0 +1,3 @@
+Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base
+1B,,Caught Stealing 2B,670208,Matt Fraizer,688984,Robert Kwiatkowski,657739,Jamie Ritchie,R,Roldani Baldwin,650380,0,5,6,True,2022-04-02,Caught,2B
+1B,2B,Stolen Base 2B,687431,Hudson Head,598264,Matt Barnes,670208,Matt Fraizer,R,Roldani Baldwin,650380,2,7,8,True,2022-04-02,Stolen,2B

@@ -1,0 +1,11 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+188,1B,,Caught Stealing 2B,120194,Dean Palmer,Jorge Posada,0,0,4,True,2000-09-22,Caught,2B,2000
+606,1B,2B,Stolen Base 2B,120194,Dean Palmer,Matt Walbeck,4,1,3,False,2000-09-05,Stolen,2B,2000
+736,1B,2B,Stolen Base 2B,120194,Dean Palmer,Brook Fordyce,1,2,9,True,2000-08-31,Stolen,2B,2000
+1046,1B,2B,Stolen Base 2B,120194,Dean Palmer,Ramon Hernandez,5,0,3,False,2000-08-18,Stolen,2B,2000
+1448,1B,2B,Stolen Base 2B,120194,Dean Palmer,Bill Haselman,5,8,9,True,2000-07-30,Stolen,2B,2000
+2035,1B,2B,Caught Stealing Home,120194,Dean Palmer,Gregg Zaun,0,3,6,True,2000-06-30,Caught,Home,2000
+3798,1B,,Caught Stealing 2B,120194,Dean Palmer,John Flaherty,8,1,5,False,2000-04-14,Caught,2B,2000
+23,1B,2B,Stolen Base 2B,120194,Dean Palmer,Jason Varitek,0,0,2,True,2001-06-05,Stolen,2B,2001
+74,1B,2B,Stolen Base 2B,120194,Dean Palmer,Sandy Alomar Jr.,2,0,5,True,2001-06-02,Stolen,2B,2001
+740,1B,2B,Stolen Base 2B,120194,Dean Palmer,Shawn Wooten,0,1,1,True,2001-05-06,Stolen,2B,2001

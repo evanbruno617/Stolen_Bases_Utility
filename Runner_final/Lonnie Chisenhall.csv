@@ -1,0 +1,26 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,2475,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,643354,Donnie Hart,467793,Carlos Santana,L,Caleb Joseph,543376,0,3,8,True,2017-06-21,Stolen,2B,2017,2018,26.5
+1,2529,1B,,Caught Stealing 2B,502082,Lonnie Chisenhall,502043,Kyle Gibson,467793,Carlos Santana,R,Jason Castro,488771,0,1,4,True,2017-06-18,Caught,2B,2017,2018,26.5
+2,3651,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,460059,Mike Pelfrey,543228,Yan Gomes,R,Geovany Soto,434567,0,2,2,True,2017-04-22,Stolen,2B,2017,2018,26.5
+3,1847,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,643354,Donnie Hart,467793,Carlos Santana,L,Caleb Joseph,543376,0,3,8,True,2017-06-21,Stolen,2B,2017,2018,26.5
+4,1901,1B,,Caught Stealing 2B,502082,Lonnie Chisenhall,502043,Kyle Gibson,467793,Carlos Santana,R,Jason Castro,488771,0,1,4,True,2017-06-18,Caught,2B,2017,2018,26.5
+5,3023,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,460059,Mike Pelfrey,543228,Yan Gomes,R,Geovany Soto,434567,0,2,2,True,2017-04-22,Stolen,2B,2017,2018,26.5
+6,4961,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,533167,Matt Shoemaker,571980,Tyler Naquin,R,Jett Bandy,542908,3,0,1,False,2016-08-13,Stolen,2B,2016,2017,26.5
+7,5553,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,502043,Kyle Gibson,571980,Tyler Naquin,R,Kurt Suzuki,435559,0,1,4,True,2016-07-17,Stolen,2B,2016,2017,26.5
+8,5831,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,605538,Matt Wisler,571980,Tyler Naquin,R,A.J. Pierzynski,150229,0,2,3,True,2016-06-28,Stolen,2B,2016,2017,26.5
+9,6407,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,434622,Ubaldo Jiménez,434658,Rajai Davis,R,Caleb Joseph,543376,4,0,1,False,2016-05-28,Stolen,2B,2016,2017,26.5
+10,6546,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,598264,Matt Barnes,434658,Rajai Davis,R,Christian Vázquez,543877,2,4,8,True,2016-05-20,Stolen,2B,2016,2017,26.5
+11,6928,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,595191,Jerad Eickhoff,543401,Jason Kipnis,R,Cameron Rupp,519237,3,3,5,True,2016-04-30,Stolen,2B,2016,2017,26.5
+12,926,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,533167,Matt Shoemaker,571980,Tyler Naquin,R,Jett Bandy,542908,3,0,1,False,2016-08-13,Stolen,2B,2016,2017,26.5
+13,1518,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,502043,Kyle Gibson,571980,Tyler Naquin,R,Kurt Suzuki,435559,0,1,4,True,2016-07-17,Stolen,2B,2016,2017,26.5
+14,1796,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,605538,Matt Wisler,571980,Tyler Naquin,R,A.J. Pierzynski,150229,0,2,3,True,2016-06-28,Stolen,2B,2016,2017,26.5
+15,2372,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,434622,Ubaldo Jiménez,434658,Rajai Davis,R,Caleb Joseph,543376,4,0,1,False,2016-05-28,Stolen,2B,2016,2017,26.5
+16,2511,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,598264,Matt Barnes,434658,Rajai Davis,R,Christian Vázquez,543877,2,4,8,True,2016-05-20,Stolen,2B,2016,2017,26.5
+17,2893,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,595191,Jerad Eickhoff,543401,Jason Kipnis,R,Cameron Rupp,519237,3,3,5,True,2016-04-30,Stolen,2B,2016,2017,26.5
+18,4333,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,533167,Matt Shoemaker,571980,Tyler Naquin,R,Jett Bandy,542908,3,0,1,False,2016-08-13,Stolen,2B,2016,2017,26.5
+19,4925,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,502043,Kyle Gibson,571980,Tyler Naquin,R,Kurt Suzuki,435559,0,1,4,True,2016-07-17,Stolen,2B,2016,2017,26.5
+20,5203,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,605538,Matt Wisler,571980,Tyler Naquin,R,A.J. Pierzynski,150229,0,2,3,True,2016-06-28,Stolen,2B,2016,2017,26.5
+21,5779,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,434622,Ubaldo Jiménez,434658,Rajai Davis,R,Caleb Joseph,543376,4,0,1,False,2016-05-28,Stolen,2B,2016,2017,26.5
+22,5918,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,598264,Matt Barnes,434658,Rajai Davis,R,Christian Vázquez,543877,2,4,8,True,2016-05-20,Stolen,2B,2016,2017,26.5
+23,6300,1B,2B,Stolen Base 2B,502082,Lonnie Chisenhall,595191,Jerad Eickhoff,543401,Jason Kipnis,R,Cameron Rupp,519237,3,3,5,True,2016-04-30,Stolen,2B,2016,2017,26.5
+24,1353,3B,,Caught Stealing Home,502082,Lonnie Chisenhall,543779,Kevin Siegrist,547379,Roberto Pérez,L,Yadier Molina,425877,1,0,6,False,2015-05-14,Caught,Home,2015,2016,26.9

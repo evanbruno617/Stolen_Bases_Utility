@@ -1,0 +1,9 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+155,1B,2B,Stolen Base 2B,663845,Alfonso Rivas III,Jason Delay,1,2,7,True,2022-09-22,Stolen,2B,2022
+314,1B,2B,Stolen Base 2B,663845,Alfonso Rivas III,James McCann,0,4,9,True,2022-09-13,Stolen,2B,2022
+414,1B,2B,Stolen Base 2B,663845,Alfonso Rivas III,Chuckie Robinson,2,1,7,False,2022-09-08,Stolen,2B,2022
+571,1B,,Caught Stealing 2B,663845,Alfonso Rivas III,Alejandro Kirk,0,2,2,True,2022-08-31,Caught,2B,2022
+1672,1B,2B,Stolen Base 2B,663845,Alfonso Rivas III,Aramis Garcia,0,0,5,False,2022-06-28,Stolen,2B,2022
+1770,1B,2B,Stolen Base 2B,663845,Alfonso Rivas III,Tyler Heineman,6,7,8,True,2022-06-23,Stolen,2B,2022
+2307,1B,2B,Stolen Base 2B,663845,Alfonso Rivas III,Aramis Garcia,0,2,2,True,2022-05-25,Stolen,2B,2022
+573,1B,2B,Stolen Base 2B,663845,Alfonso Rivas III,Travis d'Arnaud,0,0,3,True,2023-09-08,Stolen,2B,2023

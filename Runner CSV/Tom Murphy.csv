@@ -1,0 +1,4 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1879,1B,,Caught Stealing 2B,608596,Tom Murphy,Devin Mesoraco,10,8,7,False,2018-06-20,Caught,2B,2018
+710,2B,3B,Stolen Base 3B,608596,Tom Murphy,Danny Jansen,0,1,2,True,2019-08-18,Stolen,3B,2019
+1912,1B,2B,Stolen Base 2B,608596,Tom Murphy,Jonathan Lucroy,1,3,5,False,2019-06-01,Stolen,2B,2019

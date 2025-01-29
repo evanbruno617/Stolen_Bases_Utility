@@ -1,0 +1,11 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,2B,Stolen Base 2B,501647,Wilin Rosario,Josh Donaldson,8,5,5,False,2012-06-13,Stolen,2B,2012
+1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,Josh Donaldson,3,0,3,False,2012-06-10,Stolen,2B,2012
+1B,2B,Stolen Base 2B,543333,Eric Hosmer,Josh Donaldson,1,0,4,False,2012-06-03,Stolen,2B,2012
+1B,2B,Stolen Base 2B,502481,Jarrod Dyson,Josh Donaldson,2,0,5,False,2012-06-03,Stolen,2B,2012
+1B,2B,Stolen Base 2B,474865,Julio Borbon,Josh Donaldson,1,0,3,False,2010-05-13,Stolen,2B,2010
+1B,,Caught Stealing 2B,435079,Ian Kinsler,Josh Donaldson,1,1,4,False,2010-05-13,Caught,2B,2010
+1B,,Caught Stealing 2B,462101,Elvis Andrus,Josh Donaldson,1,1,12,False,2010-05-13,Caught,2B,2010
+1B,2B,Stolen Base 2B,446334,Evan Longoria,Josh Donaldson,0,3,8,True,2010-05-07,Stolen,2B,2010
+2B,3B,Stolen Base 3B,450314,Ben Zobrist,Josh Donaldson,1,4,9,True,2010-05-07,Stolen,3B,2010
+1B,2B,Stolen Base 2B,430930,Fred Lewis,Josh Donaldson,1,0,1,False,2010-05-02,Stolen,2B,2010

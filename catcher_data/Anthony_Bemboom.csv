@@ -1,0 +1,34 @@
+Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+1B,,Caught Stealing 2B,518618,Derek Dietrich,Anthony Bemboom,0,3,2,True,2020-09-20,Caught,2B,2020
+1B,,Caught Stealing 2B,662139,Daulton Varsho,Anthony Bemboom,0,0,1,True,2020-09-17,Caught,2B,2020
+1B,2B,Stolen Base 2B,606132,Raimel Tapia,Anthony Bemboom,0,2,1,False,2020-09-11,Stolen,2B,2020
+1B,2B,Stolen Base 2B,607680,Kevin Pillar,Anthony Bemboom,3,2,6,False,2020-09-11,Stolen,2B,2020
+1B,2B,Stolen Base 2B,643396,Isiah Kiner-Falefa,Anthony Bemboom,7,2,6,False,2020-09-09,Stolen,2B,2020
+3B,score,Stolen Base Home,665750,Leody Taveras,Anthony Bemboom,7,2,6,False,2020-09-09,Stolen,Home,2020
+1B,,Caught Stealing 2B,647351,Abraham Toro,Anthony Bemboom,6,6,6,True,2020-09-05,Caught,2B,2020
+1B,2B,Stolen Base 2B,656185,Greg Allen,Anthony Bemboom,3,3,7,True,2020-09-02,Stolen,2B,2020
+1B,2B,Stolen Base 2B,630105,Jake Cronenworth,Anthony Bemboom,3,3,8,True,2020-09-02,Stolen,2B,2020
+1B,,Caught Stealing 2B,592530,José Marmolejos,Anthony Bemboom,0,0,2,True,2020-08-31,Caught,2B,2020
+1B,,Caught Stealing 2B,641584,Jake Fraley,Anthony Bemboom,1,2,9,True,2020-08-31,Caught,2B,2020
+1B,,Caught Stealing 2B,543829,Dee Strange-Gordon,Anthony Bemboom,1,1,8,True,2020-08-30,Caught,2B,2020
+1B,2B,Stolen Base 2B,641584,Jake Fraley,Anthony Bemboom,1,1,2,True,2020-08-29,Stolen,2B,2020
+1B,,Caught Stealing 2B,641487,J.P. Crawford,Anthony Bemboom,3,1,5,True,2020-08-29,Caught,2B,2020
+1B,2B,Stolen Base 2B,592192,Mark Canha,Anthony Bemboom,3,0,3,False,2020-08-21,Stolen,2B,2020
+1B,2B,Stolen Base 2B,642201,Eli White,Anthony Bemboom,5,1,4,False,2021-04-27,Stolen,2B,2021
+1B,2B,Stolen Base 2B,643217,Andrew Benintendi,Anthony Bemboom,0,0,1,False,2021-04-14,Stolen,2B,2021
+1B,2B,Stolen Base 2B,572191,Michael A. Taylor,Anthony Bemboom,1,0,4,False,2021-04-14,Stolen,2B,2021
+1B,2B,Stolen Base 2B,502481,Jarrod Dyson,Anthony Bemboom,5,1,7,False,2021-04-14,Stolen,2B,2021
+1B,2B,Stolen Base 2B,621439,Byron Buxton,Anthony Bemboom,0,3,3,True,2023-06-30,Stolen,2B,2023
+1B,2B,Stolen Base 2B,664238,Dylan Moore,Anthony Bemboom,3,2,9,True,2023-06-25,Stolen,2B,2023
+1B,2B,Stolen Base 2B,502671,Paul Goldschmidt,Anthony Bemboom,2,3,8,False,2022-05-12,Stolen,2B,2022
+1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,Anthony Bemboom,0,1,1,True,2022-05-09,Stolen,2B,2022
+1B,2B,Stolen Base 2B,677951,Bobby Witt Jr.,Anthony Bemboom,0,1,1,True,2022-05-07,Stolen,2B,2022
+1B,,Caught Stealing 2B,641796,Tim Locastro,Anthony Bemboom,5,2,6,False,2022-04-28,Caught,2B,2022
+1B,2B,Stolen Base 2B,641796,Tim Locastro,Anthony Bemboom,6,2,8,False,2022-04-28,Stolen,2B,2022
+1B,2B,Stolen Base 2B,660271,Shohei Ohtani,Anthony Bemboom,4,5,7,False,2022-04-23,Stolen,2B,2022
+2B,,Caught Stealing 3B,543305,Aaron Hicks,Anthony Bemboom,0,0,1,True,2022-04-16,Caught,3B,2022
+1B,2B,Caught Stealing 3B,592450,Aaron Judge,Anthony Bemboom,0,0,1,True,2022-04-16,Caught,3B,2022
+1B,2B,Stolen Base 2B,640457,Austin Meadows,Anthony Bemboom,0,0,6,True,2019-09-14,Stolen,2B,2019
+1B,,Caught Stealing 2B,647351,Abraham Toro,Anthony Bemboom,4,3,6,False,2019-08-23,Caught,2B,2019
+1B,,Caught Stealing 2B,545350,Jake Marisnick,Anthony Bemboom,4,3,6,False,2019-08-23,Caught,2B,2019
+1B,2B,Stolen Base 2B,516782,Starling Marte,Anthony Bemboom,4,2,6,True,2019-08-14,Stolen,2B,2019

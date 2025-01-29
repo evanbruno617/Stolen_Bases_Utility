@@ -1,0 +1,27 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,127,3B,,Caught Stealing Home,683002,Gunnar Henderson,676395,Robert Garcia,656811,Ryan O'Hearn,L,Keibert Ruiz,660688,1,0,8,False,2023-09-26,Caught,Home,2023,2024,28.9
+1,188,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,615698,Cal Quantrill,668939,Adley Rutschman,R,David Fry,681807,0,1,4,True,2023-09-23,Stolen,2B,2023,2024,28.9
+2,850,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,656629,Michael Kopech,663624,Ryan Mountcastle,R,Korey Lee,686676,0,0,1,False,2023-08-28,Stolen,2B,2023,2024,28.9
+3,852,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,656629,Michael Kopech,623993,Anthony Santander,R,Korey Lee,686676,3,0,4,False,2023-08-28,Stolen,2B,2023,2024,28.9
+4,1001,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,579328,Yusei Kikuchi,669720,Austin Hays,L,Danny Jansen,643376,1,0,1,False,2023-08-22,Stolen,2B,2023,2024,28.9
+5,1478,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,663878,Nate Pearson,623993,Anthony Santander,R,Alejandro Kirk,672386,1,4,7,True,2023-07-31,Stolen,2B,2023,2024,28.9
+6,2249,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,682243,Bryce Miller,602104,Ramón Urías,R,Cal Raleigh,663728,0,0,2,False,2023-06-24,Stolen,2B,2023,2024,28.9
+7,2615,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,663738,Daniel Lynch IV,622761,Jorge Mateo,L,Salvador Perez,521692,2,0,2,False,2023-06-09,Stolen,2B,2023,2024,28.9
+8,2619,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,663738,Daniel Lynch IV,663630,Ryan McKenna,L,Salvador Perez,521692,2,1,4,False,2023-06-09,Stolen,2B,2023,2024,28.9
+9,2965,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,598286,Nick Ramirez,656811,Ryan O'Hearn,L,Kyle Higashioka,543309,0,1,6,True,2023-05-25,Stolen,2B,2023,2024,28.9
+10,3592,1B,,Caught Stealing 2B,683002,Gunnar Henderson,671345,Jason Foley,663630,Ryan McKenna,R,Eric Haase,606992,4,6,8,True,2023-04-29,Caught,2B,2023,2024,28.9
+11,3597,1B,,Caught Stealing 2B,683002,Gunnar Henderson,671345,Jason Foley,663630,Ryan McKenna,R,Eric Haase,606992,4,6,8,True,2023-04-28,Caught,2B,2023,2024,28.9
+12,4081,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,666745,Jhony Brito,624428,Adam Frazier,R,Kyle Higashioka,543309,1,1,4,False,2023-04-08,Stolen,2B,2023,2024,28.9
+13,4541,3B,,Caught Stealing Home,683002,Gunnar Henderson,676395,Robert Garcia,656811,Ryan O'Hearn,L,Keibert Ruiz,660688,1,0,8,False,2023-09-26,Caught,Home,2023,2024,28.9
+14,4602,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,615698,Cal Quantrill,668939,Adley Rutschman,R,David Fry,681807,0,1,4,True,2023-09-23,Stolen,2B,2023,2024,28.9
+15,5264,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,656629,Michael Kopech,663624,Ryan Mountcastle,R,Korey Lee,686676,0,0,1,False,2023-08-28,Stolen,2B,2023,2024,28.9
+16,5266,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,656629,Michael Kopech,623993,Anthony Santander,R,Korey Lee,686676,3,0,4,False,2023-08-28,Stolen,2B,2023,2024,28.9
+17,5415,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,579328,Yusei Kikuchi,669720,Austin Hays,L,Danny Jansen,643376,1,0,1,False,2023-08-22,Stolen,2B,2023,2024,28.9
+18,5892,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,663878,Nate Pearson,623993,Anthony Santander,R,Alejandro Kirk,672386,1,4,7,True,2023-07-31,Stolen,2B,2023,2024,28.9
+19,6663,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,682243,Bryce Miller,602104,Ramón Urías,R,Cal Raleigh,663728,0,0,2,False,2023-06-24,Stolen,2B,2023,2024,28.9
+20,7029,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,663738,Daniel Lynch IV,622761,Jorge Mateo,L,Salvador Perez,521692,2,0,2,False,2023-06-09,Stolen,2B,2023,2024,28.9
+21,7033,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,663738,Daniel Lynch IV,663630,Ryan McKenna,L,Salvador Perez,521692,2,1,4,False,2023-06-09,Stolen,2B,2023,2024,28.9
+22,7379,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,598286,Nick Ramirez,656811,Ryan O'Hearn,L,Kyle Higashioka,543309,0,1,6,True,2023-05-25,Stolen,2B,2023,2024,28.9
+23,8006,1B,,Caught Stealing 2B,683002,Gunnar Henderson,671345,Jason Foley,663630,Ryan McKenna,R,Eric Haase,606992,4,6,8,True,2023-04-29,Caught,2B,2023,2024,28.9
+24,8011,1B,,Caught Stealing 2B,683002,Gunnar Henderson,671345,Jason Foley,663630,Ryan McKenna,R,Eric Haase,606992,4,6,8,True,2023-04-28,Caught,2B,2023,2024,28.9
+25,8495,1B,2B,Stolen Base 2B,683002,Gunnar Henderson,666745,Jhony Brito,624428,Adam Frazier,R,Kyle Higashioka,543309,1,1,4,False,2023-04-08,Stolen,2B,2023,2024,28.9

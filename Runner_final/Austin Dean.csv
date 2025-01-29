@@ -1,0 +1,7 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1325,1B,,Caught Stealing 2B,621573,Austin Dean,504379,Juan Nicasio,592407,Bryan Holaday,R,Andrew Knapp,595284,4,4,12,True,2019-09-27,Caught,2B,2019,2021,27.5
+1,1516,1B,,Caught Stealing 2B,621573,Austin Dean,518516,Madison Bumgarner,667498,Robert Dugger,L,Buster Posey,457763,0,0,3,True,2019-09-14,Caught,2B,2019,2021,27.5
+2,4168,1B,,Caught Stealing 2B,621573,Austin Dean,504379,Juan Nicasio,592407,Bryan Holaday,R,Andrew Knapp,595284,4,4,12,True,2019-09-27,Caught,2B,2019,2021,27.5
+3,4359,1B,,Caught Stealing 2B,621573,Austin Dean,518516,Madison Bumgarner,667498,Robert Dugger,L,Buster Posey,457763,0,0,3,True,2019-09-14,Caught,2B,2019,2021,27.5
+4,6092,1B,,Caught Stealing 2B,621573,Austin Dean,504379,Juan Nicasio,592407,Bryan Holaday,R,Andrew Knapp,595284,4,4,12,True,2019-09-27,Caught,2B,2019,2021,27.5
+5,6283,1B,,Caught Stealing 2B,621573,Austin Dean,518516,Madison Bumgarner,667498,Robert Dugger,L,Buster Posey,457763,0,0,3,True,2019-09-14,Caught,2B,2019,2021,27.5

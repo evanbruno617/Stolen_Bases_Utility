@@ -1,0 +1,15 @@
+,Start_Base,End_Base,Event,runner_id,runner_name,credit,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year
+896,1B,,Caught Stealing 2B,430574,Mitch Maier,Ivan Rodriguez,2,2,9,True,2008-08-16,Caught,2B,2008
+621,1B,2B,Stolen Base 2B,430574,Mitch Maier,Ramon Castro,0,3,3,False,2009-07-04,Stolen,2B,2009
+723,1B,2B,Stolen Base 2B,430574,Mitch Maier,Joe Mauer,4,0,7,False,2009-06-29,Stolen,2B,2009
+1599,1B,,Caught Stealing 2B,430574,Mitch Maier,Kelly Shoppach,3,2,4,False,2009-05-21,Caught,2B,2009
+2186,1B,2B,Stolen Base 2B,430574,Mitch Maier,Rod Barajas,1,5,7,False,2009-04-28,Stolen,2B,2009
+2323,1B,2B,Stolen Base 2B,430574,Mitch Maier,Kelly Shoppach,1,0,3,True,2009-04-23,Stolen,2B,2009
+2701,1B,2B,Stolen Base 2B,430574,Mitch Maier,Manny Piña,2,2,3,True,2009-04-04,Stolen,2B,2009
+246,1B,2B,Stolen Base 2B,430574,Mitch Maier,Chris Gimenez,4,3,2,False,2010-09-19,Stolen,2B,2010
+943,2B,3B,Stolen Base 3B,430574,Mitch Maier,Chris Gimenez,0,1,2,False,2010-08-17,Stolen,3B,2010
+2471,1B,,Caught Stealing 2B,430574,Mitch Maier,Alex Avila,5,1,4,False,2010-06-06,Caught,2B,2010
+2605,1B,2B,Stolen Base 2B,430574,Mitch Maier,Hank Conger,0,5,6,True,2011-06-12,Stolen,2B,2011
+2563,1B,2B,Stolen Base 2B,430574,Mitch Maier,Rod Barajas,3,0,5,True,2012-06-10,Stolen,2B,2012
+3869,2B,3B,Stolen Base 3B,430574,Mitch Maier,Alex Avila,1,3,5,False,2012-04-16,Stolen,3B,2012
+4108,1B,,Caught Stealing 2B,430574,Mitch Maier,John Baker,3,3,5,True,2012-04-04,Caught,2B,2012

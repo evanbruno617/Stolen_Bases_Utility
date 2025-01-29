@@ -1,0 +1,3 @@
+,Unnamed: 0,Start_Base,End_Base,Event,runner_id,runner_name,pitcher_id,pitcher_name,batter_id,batter_name,pitch_hand,credit,credit_id,homeScore,awayScore,inning,isTopInning,Date,Action,Base,Year,Current_Year,Sprint
+0,1376,1B,2B,Stolen Base 2B,681297,Colton Cowser,641360,Phil Bickford,602104,Ramón Urías,R,Francisco Alvarez,682626,6,3,8,False,2023-08-05,Stolen,2B,2023,2024,28.2
+1,5790,1B,2B,Stolen Base 2B,681297,Colton Cowser,641360,Phil Bickford,602104,Ramón Urías,R,Francisco Alvarez,682626,6,3,8,False,2023-08-05,Stolen,2B,2023,2024,28.2
