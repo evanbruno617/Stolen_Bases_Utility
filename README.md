@@ -34,4 +34,24 @@ For the neural network model the out of sample accuracy came in at 88% with a su
 
 These models will be used for predicting if the runner will steal or not in the upcoming analysis. 
 
+The atbat data for these exeriments focused on all of the 30 previous atbats of that batter with the pitcher with the same hand and what their outcomes were. For this data it is focused on situations when the runner is on second. Then when calculating the probability of batter hitting rbi depends from two situations, when the runner is at second and when the runner is at third. Rbi occurence when the runner is at second consists of hits such as single, double, home run and triple. The 3rd base rbi outcome actually excludes these outcomes and only includes one that can only happen at third. This is done because the goal is to see potential rbis gained and if they go to third and they get those hits they would've got the rbi without risking the out anyway. 
+
+Next thing introduced is this table of probability of scoring given the conditions of the game. This table was extracted [online](https://library.fangraphs.com/misc/re24/) and will be used in calculating utility. 
+
+![image](https://github.com/evanbruno617/Stolen_Bases_Utility/blob/main/Photos/chart.png)
+
+#### Utility
+
+For calculating the utility there are 3 different parts being considered, utility of stealing, utility of being caught, and the utility of staying. 
+
+- The utility of stealing is calculated by the (past success of stealing) * (past success of batter hitting rbi at third) * (chart with current base at next base)
+- The utility of being caught is calculated by the (1 - past success of stealing) * (chart with simulated out - chart with current outs at current base) (this shows loss in probability or utlity if caught stealing)
+- The utility of staying is calculated by the (prob of staying) * (chart with the current outs at current base)
+
+#### Weights
+
+The equation that will calculate the total expected utlity is utility steal - utility caught - utility stay however need to add weights to them in order to empahsize certain situations to steal. 
+
+With weights the new utility is - Utility = utility steal * 
+
 
