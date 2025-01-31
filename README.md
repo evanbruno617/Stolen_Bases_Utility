@@ -52,6 +52,25 @@ For calculating the utility there are 3 different parts being considered, utilit
 
 The equation that will calculate the total expected utlity is utility steal - utility caught - utility stay however need to add weights to them in order to empahsize certain situations to steal. 
 
-With weights the new utility is - Utility = utility steal * 
+With weights the new utility is - Utility = utility steal * diff in score (distribution so that the closer the score has a higher weight) * number of outs left in inning (neg exponential so that higher values have less weight) - utility caught * inning * current outs (positive exponential so that higher number has higher weight) - utility stay * current outs (neg exponential).
+
+## Models
+---
+### Lookback
+This model takes a look at the accuracy of a runner stealing a base by looking at their past 10 stolen base attempts and how they went. The following is the utility graph and the results.
+
+![image](https://github.com/evanbruno617/Stolen_Bases_Utility/blob/main/Photos/lookback_graph.png)
+
+![image](https://github.com/evanbruno617/Stolen_Bases_Utility/blob/main/Photos/lookback_desc.png)
+
+In this case an arbritrary amount of -1 utility was the threshold to compare. The expected return of RBIs is calculated by total rbi outcomes at 3rd base times the probability of success. However the expected gain of rbi is the expected return minus the rbi occured if they stayed at the base. This represents how many more rbis they would have gotten if they attempted to steal rather than staying on base. 
+
+### RF Model
+
+![image](https://github.com/evanbruno617/Stolen_Bases_Utility/blob/main/Photos/rf_graph.png)
+
+![image](https://github.com/evanbruno617/Stolen_Bases_Utility/blob/main/Photos/rf_desc.png)
+
+
 
 
