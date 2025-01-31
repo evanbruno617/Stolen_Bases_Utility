@@ -67,9 +67,35 @@ In this case an arbritrary amount of -1 utility was the threshold to compare. Th
 
 ### RF Model
 
+For the accuracy in the utility equation I replaced that value with the validation accuracy for this model which was 92%.
+
 ![image](https://github.com/evanbruno617/Stolen_Bases_Utility/blob/main/Photos/rf_graph.png)
 
 ![image](https://github.com/evanbruno617/Stolen_Bases_Utility/blob/main/Photos/rf_desc.png)
+
+Filtering when the utility was above -1 had a gain of over 300 rbis while under -1 had a gain of only 75 rbis. In order to find the best posssible threshold a test was run by iterating through the values in steps of 0.1. 
+
+![image](https://github.com/evanbruno617/Stolen_Bases_Utility/blob/main/Photos/threshold_rf.png)
+
+Now having the threshold be above -0.3 seem to maximize the expected gain of rbis. When that number increase from there on out it seems that number decreases unitl you get a negative return. The second to last of the right columns represents the return of rbis given the expected rbis / total number of observations. The last column represents the total rbis from staying / total number of observations. As you can see the percentage of stay rbis were slowly decreasing as well until it jumps past that threshold where the expected gain of rbis turned negative. 
+
+### Deep Model
+
+For the accuracy in the utility equation I replaced that value with the validation accuracy for this model which was 88%.
+
+![image](https://github.com/evanbruno617/Stolen_Bases_Utility/blob/main/Photos/deep_graph.png)
+
+![image](https://github.com/evanbruno617/Stolen_Bases_Utility/blob/main/Photos/deep_desc.png)
+
+Filtering when the utility was above -1 had a gain of 273 rbis while under -1 had a gain of only 72 rbis. In order to find the best posssible threshold a test was run by iterating through the values in steps of 0.1. 
+
+![image](https://github.com/evanbruno617/Stolen_Bases_Utility/blob/main/Photos/threshold_deep.png)
+
+Now having the threshold be above -0.1 seem to maximize the expected gain of rbis. When that number increase from there on out it seems that number decreases unitl you get a negative return. As you can see the percentage of stay rbis were slowly decreasing again until it jumps past that threshold where the expected gain of rbis turned negative. 
+
+# Conclusion
+---
+The undeniable success of this project was the ability to predict the chance a runner would be able to steal a base. This can be valuable information for managers to use when a runner is on base and they're thinking about sending them to 3rd base. By using this model they can predict the chance of them being successful with a model accuracy of 92% assuring that the predictions are accurate. For the expected utility there is much work to be done in terms of constructing the expected utility and determining the optimal threshold limit. There are many different factors that could go into constructing what the utility is and will continue on researching and finding new variables to add and tweak to input into the model. For regarding the threshold next I will test within an interval rather than being greater than or less than a certain value. By capturing and testing intervals I believe this may better capture the best gains in expected rbis gained. 
 
 
 
